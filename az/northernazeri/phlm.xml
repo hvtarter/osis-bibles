@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace'>
+  <osisText osisIDWork='NorthernAzeri' osisRefWork='Bible' xml:lang='az'>
+    <header>
+      <revisionDesc>
+        <date>2012-01-07</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='NorthernAzeri'>
+        <title>Northern Azeri Translation</title>
+        <contributor/>
+        <creator>Mod2Zef (6)</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject/>
+        <date>2012-01-07</date>
+        <description>Northern Azeri Translation</description>
+        <publisher/>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>NorthernAzeri</identifier>
+        <source>no entry TextSource in sword.conf found</source>
+        <language type='IETF'>az</language>
+        <relation/>
+        <coverage>provide the bible to the nations of the world</coverage>
+        <rights>Copyrighted Kutsul Kitab; Permission to distribute granted to CrossWire</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='Phlm'>
+      <chapter osisID='Phlm.1'>
+        <verse osisID='Phlm.1.1'>Məsih İsa uğrunda həbs olunan mən Pauldan və Timotey qardaşdan sevimli əməkdaşımız Filimona,</verse>
+        <verse osisID='Phlm.1.2'>bacımız Apfiyaya, birlikdə mübarizə apardığımız Arxipə və Filimonun evində toplaşan imanlılar cəmiyyətinə salam!</verse>
+        <verse osisID='Phlm.1.3'>Atamız Allahdan və Rəbb İsa Məsihdən sizə lütf və sülh olsun! </verse>
+        <verse osisID='Phlm.1.4'>Dualarımda səni yada salıram və Allaha daima şükür edirəm.</verse>
+        <verse osisID='Phlm.1.5'>Çünki Rəbb İsaya olan imanını və bütün müqəddəslərə bəslədiyin məhəbbəti eşidirəm.</verse>
+        <verse osisID='Phlm.1.6'>Sən Məsihdə malik olduğumuz hər xeyirli şeyi dərk etdikcə imanını başqaları ilə paylaşmaqda fəal olmağın üçün dua edirəm.</verse>
+        <verse osisID='Phlm.1.7'>Qardaşım, sənin məhəbbətin mənim üçün böyük sevinc və təsəlli qaynağı oldu. Çünki müqəddəslərin ürəyi sənin sayəndə təravətləndi. </verse>
+        <verse osisID='Phlm.1.8'>Buna görə münasib olanı sənə buyurmağa Məsihdə böyük cəsarətim olsa da,</verse>
+        <verse osisID='Phlm.1.9'>indi Məsih İsa uğrunda həbsdə olan mən – yaşlı Paul sənə məhəbbətlə yalvarıram.</verse>
+        <verse osisID='Phlm.1.10'>Həbsdə ikən ruhani atası olduğum oğlum Onisimlə bağlı səndən bir xahişim var.</verse>
+        <verse osisID='Phlm.1.11'>O bir vaxtlar sənə yararsız idi, amma indi həm sənə, həm də mənə yararlıdır.</verse>
+        <verse osisID='Phlm.1.12'>Onun özünü, yəni can-ciyərimi sənin yanına göndərirəm.</verse>
+        <verse osisID='Phlm.1.13'>Müjdə uğrunda həbsdə olduğum müddətdə sənin əvəzinə mənə xidmət etməsi üçün onu yanımda saxlamaq istəyirdim.</verse>
+        <verse osisID='Phlm.1.14'>Amma sənin razılığın olmadan heç bir iş görmək istəmədim. İstədim ki, etdiyin yaxşılıq məcburi deyil, könüllü olsun. </verse>
+        <verse osisID='Phlm.1.15'>Onisimin bir müddət səndən ayrılması bəlkə də bundan ötrü oldu ki, sən onu həmişəlik,</verse>
+        <verse osisID='Phlm.1.16'>artıq qul kimi deyil, quldan üstün, sevimli bir qardaş kimi qəbul edəsən. O, xüsusilə, mənim üçün çox sevimlidir. Lakin həm cismən, həm də Rəbdə olaraq sənin üçün daha artıq sevimli qardaşdır. </verse>
+        <verse osisID='Phlm.1.17'>İndi məni özünə şərik sayırsansa, onu da məni qəbul edəcəyin kimi qəbul et.</verse>
+        <verse osisID='Phlm.1.18'>Əgər sənə hər hansı bir haqsızlıq etmişsə yaxud borcludursa, bunu mənim hesabıma yaz.</verse>
+        <verse osisID='Phlm.1.19'>Mən Paul bunu öz əlimlə yazıram ki, əvəzini mən ödəyəcəyəm. Sənin öz həyatın üçün mənə borclu olduğunu demək istəmirəm.</verse>
+        <verse osisID='Phlm.1.20'>Bəli, qardaş, Rəbdə mənə bir yardımın olsun. Ürəyimi Məsihdə təravətləndir. </verse>
+        <verse osisID='Phlm.1.21'>İtaətkar olduğuna əmin olaraq bunu sənə yazıram. Bilirəm ki, istədiklərimi artıqlaması ilə yerinə yetirəcəksən.</verse>
+        <verse osisID='Phlm.1.22'>Bununla yanaşı, mənə bir qonaq otağı hazırla. Ümidvaram ki, dualarınız vasitəsilə sizə bəxş olunacağam. </verse>
+        <verse osisID='Phlm.1.23'>Məsih İsada olub mənimlə birgə həbs olunan Epafra,</verse>
+        <verse osisID='Phlm.1.24'>əməkdaşlarım Mark, Aristarx, Dima, Luka da sənə salam göndərir. </verse>
+        <verse osisID='Phlm.1.25'>Rəbb İsa Məsihin lütfü sizin ruhunuza yar olsun!  </verse>
+      </chapter>
+    </div></osisText>
+</osis>

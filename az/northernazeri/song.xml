@@ -1,0 +1,230 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace'>
+  <osisText osisIDWork='NorthernAzeri' osisRefWork='Bible' xml:lang='az'>
+    <header>
+      <revisionDesc>
+        <date>2012-01-07</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='NorthernAzeri'>
+        <title>Northern Azeri Translation</title>
+        <contributor/>
+        <creator>Mod2Zef (6)</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject/>
+        <date>2012-01-07</date>
+        <description>Northern Azeri Translation</description>
+        <publisher/>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>NorthernAzeri</identifier>
+        <source>no entry TextSource in sword.conf found</source>
+        <language type='IETF'>az</language>
+        <relation/>
+        <coverage>provide the bible to the nations of the world</coverage>
+        <rights>Copyrighted Kutsul Kitab; Permission to distribute granted to CrossWire</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='Song'>
+      <chapter osisID='Song.1'>
+        <verse osisID='Song.1.1'>Bu nəğmələr nəğməsi Süleymanındır.  Qız:</verse>
+        <verse osisID='Song.1.2'>Qoy dodaqların məni öpdükcə öpsün,Çünki eşqin şərabdan da yaxşıdır.</verse>
+        <verse osisID='Song.1.3'>Vurduğun ətrin qoxusu nə gözəldir,Adın belə, ətirqabıdan tökülən ətri xatırladır,Ona görə qızların sevimlisi olmusan.</verse>
+        <verse osisID='Song.1.4'>Bağrına bas məni, səninlə qaçaq,Qoy padşah məni otağına aparsın.  Qızın rəfiqələri:  Səninlə sevinib biz şadlanarıq,Şərabdan da artıq eşqinizi anarıq.  Qız:  Sənə heyran olanlar haqlıdır.</verse>
+        <verse osisID='Song.1.5'>Ey Yerusəlimdəki qızlar,Qedar çadırları tək,Süleymanın pərdələri təkQaralsam da mən,Yenə gözələm.</verse>
+        <verse osisID='Song.1.6'>Baxmayın ki, mən qarayanızam,Günəşdən qaralmışam,Qardaşlarımın mənə qəzəbi tutarkənMəni üzümlüklərinə qarovulçu qoydular.Mən də öz üzümlüyümə baxa bilmədim.</verse>
+        <verse osisID='Song.1.7'>Ey könlümün sevgilisi, söylə mənə:Sürünü harada otarırsan?Günorta sürünü harada yatırırsan?Niyə sənin dostlarının sürülərinin yanında gedən,Üz-gözünü bürüyən bir qadına bənzəyim?  Qızın rəfiqələri:</verse>
+        <verse osisID='Song.1.8'>Ey gözəllər gözəli, əgər yerini tapa bilməsən,Sürülərin izi ilə get,Oğlaqlarını çoban çadırlarının yanında otar.  Oğlan:</verse>
+        <verse osisID='Song.1.9'>Ey yarım, sənFironun arabalarını çəkənGözəl madyana bənzəyirsən.</verse>
+        <verse osisID='Song.1.10'>Yanağına düşən bəzəklərlə,Boynundakı daş-qaşdan olan boyunbağı iləBax nə qədər gözəlsən.</verse>
+        <verse osisID='Song.1.11'>Sənə düymələri gümüşdənQızıl silsilə düzəldəcəyik.  Qız:</verse>
+        <verse osisID='Song.1.12'>Padşah süfrəsində oturarkənHər yanı nard çiçəyimin ətri bürüyür.</verse>
+        <verse osisID='Song.1.13'>Mənim üçün sevgilimDöşlərimin arasında yatan mirra kisəsidir.</verse>
+        <verse osisID='Song.1.14'>Mənim üçün sevgilimEn-Gedinin üzüm bağlarındakı bir dəstə xınagülüdür.  Oğlan:</verse>
+        <verse osisID='Song.1.15'>Ey yarım, nə gözəlsən, nə gözəlsən!Göyərçin gözlüsən!  Qız:</verse>
+        <verse osisID='Song.1.16'>Ey sevgilim, nə gözəlsən,Sən nə qədər şirinsən!Yaşıldır yatağımız.  Oğlan:</verse>
+        <verse osisID='Song.1.17'>Evlərimizin dirəkləri sidr ağacındandır,Tavanımızın oymaları şam ağacındandır.</verse>
+      </chapter>
+      <chapter osisID='Song.2'>
+        <verse osisID='Song.2.1'>Mən Şaron nərgiziyəm,Dərələrdə bitən zanbağam.  Oğlan:</verse>
+        <verse osisID='Song.2.2'>Mənim yarım qızlar arasındadır,Elə bil bir zanbaq tikanlar arasındadır.  Qız:</verse>
+        <verse osisID='Song.2.3'>Mənim sevgilim oğlanlar arasındadır,Meşədəki ağaclar arasında alma ağacına oxşayır.Kölgəsində oturmaqdan zövq alıram,Meyvəsinin dadı damağımdan getmir.</verse>
+        <verse osisID='Song.2.4'>O məni ziyafət evinə apardı,Sevgisi bayraq kimi üzərimdə dalğalanır.</verse>
+        <verse osisID='Song.2.5'>Mən eşq xəstəsiyəm,Kişmiş verin, qüvvətlənim,Alma verin, cana gəlim.</verse>
+        <verse osisID='Song.2.6'>Sevgilim sol əlini başımın altına salır,Sağ əli ilə məni qucağına alır.</verse>
+        <verse osisID='Song.2.7'>Ey Yerusəlimdəki qızlar, sizi and verirəmDişi ceyranlara, çöldəki marallara!Bizi bu sevgidən oyatmayın, ayıltmayın,Qoy könül istəyənəcən qalsın.</verse>
+        <verse osisID='Song.2.8'>Bu, sevgilimin hənirtisidir!O, dağlardan aşaraq, təpələrdən sıçrayaraq gəlir.</verse>
+        <verse osisID='Song.2.9'>Sevgilim ahuya, maral balasına oxşayır,Budur, hasarımızın o tayında dayanır,Pəncərələrdən boylanır, barmaqlıqlardan baxır.</verse>
+        <verse osisID='Song.2.10'>Mənə belə dedi sevgilim:«Dur gəl, yarım, gözəlim.</verse>
+        <verse osisID='Song.2.11'>Budur, artıq qış keçib,Yağıntılar kəsilib.</verse>
+        <verse osisID='Song.2.12'>Hər yanda güllər bitib,Nəğmə oxumağın zamanı yetib,Qumrunun səsi torpağı bürüyüb.</verse>
+        <verse osisID='Song.2.13'>Əncir yaşıl bar gətirib,Üzüm çiçəklənib ətrini saçır.Dur gəl, yarım, gözəlim!»  Oğlan:</verse>
+        <verse osisID='Song.2.14'>Ey gözəl göyərçinim,Sanki sal qayalarda, sıldırımlarda gizlənmisən.Qoy üzünü görüm, səsini eşidim,Çünki şirin səsli, gözəl surətlisən.</verse>
+        <verse osisID='Song.2.15'>Tülküləri, kiçik tülküləri tutun,Üzümlükləri korlamağa qoymayın,Çünki bağlarımız çiçəklənib.  Qız:</verse>
+        <verse osisID='Song.2.16'>Sevgilim mənimdir, mən də onunam,O, sürüsünü zanbaqlıq içərisində otarır.</verse>
+        <verse osisID='Song.2.17'>Gün sərinləşənəcən, kölgələr düşənəcən,Ey sevgilim, geri qayıt,Şişuclu dağların qoynunda olanAhuya, maral balasına bənzərsən.</verse>
+      </chapter>
+      <chapter osisID='Song.3'>
+        <verse osisID='Song.3.1'>Yatağımda bütün gecəKönlümün sevgilisini axtardım,Axtardım, amma tapa bilmədim.</verse>
+        <verse osisID='Song.3.2'>Dedim: «Qoy könlümün sevgilisini axtarım,Durub şəhəri dolaşım,Küçələrdə, meydanlarda axtarım».Axtardım, amma tapa bilmədim.</verse>
+        <verse osisID='Song.3.3'>Şəhər asayişini qoruyanlar məni tapdı,Onlardan soruşdum: «Könlümün sevgilisini görməmisiniz ki?»</verse>
+        <verse osisID='Song.3.4'>Onlardan ayrılanda könlümün sevgilisini tapdım,Tutub onu buraxmadım.Onu anamın evinə –Məni doğan qadının otağına apardım.</verse>
+        <verse osisID='Song.3.5'>Ey Yerusəlimdəki qızlar, sizi and verirəmDişi ceyranlara, çöldəki marallara!Bizi bu sevgidən oyatmayın, ayıltmayın,Qoy könül istəyənəcən qalsın.</verse>
+        <verse osisID='Song.3.6'>Səhradan keçən,Tüstü sütunları kimi gələn,Tacirlərin ətirli bitkiləri içərisindəMirra və kündür ətri verən kimdir?</verse>
+        <verse osisID='Song.3.7'>Budur Süleymanın taxt-rəvanı!Ətrafını İsrail igidlərindən altmışı bürüyüb.</verse>
+        <verse osisID='Song.3.8'>Onların hamısı qılınc daşıyır,Mahir döyüşçüdür,Hər biri qılıncını belinə bağlayıb,Təhlükəli gecələr üçün hazırlanıb.</verse>
+        <verse osisID='Song.3.9'>Taxt-rəvanını padşah SüleymanLivanın ağaclarından düzəltdirib.</verse>
+        <verse osisID='Song.3.10'>Sütunları gümüşdən, söykənəcəyi qızıldan,Oturacağı tünd qırmızı qumaşdan düzəltdirib,Yerusəlim qızları bu qumaşa zövqlə naxış vurub.</verse>
+        <verse osisID='Song.3.11'>Ey Sion qızları, çıxın,Padşah Süleymana baxın!O, toy günündə, ürəkdən sevindiyi gündəBaşına anasının verdiyi tacı qoyub!</verse>
+      </chapter>
+      <chapter osisID='Song.4'>
+        <verse osisID='Song.4.1'>Ey yarım, nə gözəlsən, nə gözəlsən,Yaşmaq altda gözlərin göyərçinə oxşayır,Saçların Gilead dağının yamaclarındanTökülən keçi sürüsü tək qapqaradır.</verse>
+        <verse osisID='Song.4.2'>Dişlərin qırxılmış, yenicə yuyunub çıxan qoyun sürüsü tək düzülüb,Bu qoyunların hamısının əkiz balası var,Aralarında balasız olanı yoxdur.</verse>
+        <verse osisID='Song.4.3'>Dodaqların qırmızı qaytan kimi aldır,Dilin nə qədər şirindir,Kəsilmiş nar kimi yaşmaqladığın yanaqlarından qan damır.</verse>
+        <verse osisID='Song.4.4'>Boynun sursat üçün tikilmiş Davud qülləsi kimi vüqarlıdır,Sanki buradan pəhləvan qalxanı olan min sipər asılmışdır.</verse>
+        <verse osisID='Song.4.5'>Döşlərin cüt ceyran balası kimi qoşadır,Zanbaqlıqda otlayan əkiz maral balasına oxşayır.</verse>
+        <verse osisID='Song.4.6'>Gün sərinləşənəcən, kölgələr düşənəcən,Mirra dağına, kündür təpəsinə gedəcəyəm.</verse>
+        <verse osisID='Song.4.7'>Təpədən dırnağa qədər gözəlsən,Yarım, tamamilə eyibsizsən.</verse>
+        <verse osisID='Song.4.8'>Ay gəlin, Livan bölgəsindən mənimlə gəl,Gəl, Livandan mənimlə gəl.Amana təpəsindən, Senir, Xermon təpələrindən, dağlardan,Aslanlar yurdundan, dağlardan, bəbirlər məskənindən en.</verse>
+        <verse osisID='Song.4.9'>Ay həmdəmim, ay gəlin!Bir baxışınla qəlbimi aldın.Ləl-cəvahiratı boynuna saldın,Gözəlliyinlə qəlbimi aldın.</verse>
+        <verse osisID='Song.4.10'>Ay həmdəmim, ay gəlin!Sevgin necə gözəldir,Eşqin şərabdan da ləzzətlidir,Sənin ətrin ətirlərin ən gözəlidir.</verse>
+        <verse osisID='Song.4.11'>Ay gəlin, dodaqlarından şanı balı axır,Bal və süd sənin dilinin altındadır.Paltarlarından Livanın ətri gəlir.</verse>
+        <verse osisID='Song.4.12'>Ay həmdəmim, ay gəlin!Bir qapısı bağlı bağçasan,Örtülü bir bulaq, möhürlənmiş bulaqsan.</verse>
+        <verse osisID='Song.4.13'>Sənin fidanların nar bağçasına oxşayır,Elə bil cənnətdir, orada seçmə meyvələr,Xına və nard çiçəkləri var.</verse>
+        <verse osisID='Song.4.14'>Nard çiçəyi və zəfəran,Ətirli qamışla darçınlar,Hər cür buxur ağacı,Mirralar və əzvaylar,Hər cür seçmə ətriyyat var.</verse>
+        <verse osisID='Song.4.15'>Sən bağçaların bulağısan,Canlı su qaynağısan,Livanın axar suyusan.  Qız:</verse>
+        <verse osisID='Song.4.16'>Oyan, ey şimal küləyi,Dur gəl, ey cənub küləyi,Gəlin mənim bağçamda əsin,Qoy o, ətrini hər yana versin.Sevgilim öz bağçasına gəlsin,Seçmə meyvələrdən yesin.</verse>
+      </chapter>
+      <chapter osisID='Song.5'>
+        <verse osisID='Song.5.1'>Ay həmdəmim, ay gəlin! Öz bağçama girmişəm,Ətriyyatlarımla mirramı yığmışam.Şanı balını – öz balımı yemişəm,Şərabımı və südümü içmişəm.  Qızın rəfiqələri:  Ay dostlar, yeyin,Ay sevgililər, için, doyunca için!  Qız:</verse>
+        <verse osisID='Song.5.2'>Yatsam da, qəlbim oyaq idi.Qapını döyən sevgilimin səsi gəldi:«Qapını aç, ay həmdəmim, ay yarım!Ay göyərçinim, ay eyibsizim!İslandı başım şehdən,Saçım gecənin nəmindən».</verse>
+        <verse osisID='Song.5.3'>Soyunmuşam paltarımı,Geyinimmi təzədən?Yumuşam ayaqlarımı,Bulaşdırımmı yenidən?</verse>
+        <verse osisID='Song.5.4'>Sevgilim əlini qapının deşiyindən uzatdı,Onun üçün mənim köksüm oynadı.</verse>
+        <verse osisID='Song.5.5'>Mən sevgilim üçün qapı açmağa qalxdım,Əllərimə mirra damdı,Barmaqlarımdan süzüldü,Cəftə üstə töküldü.</verse>
+        <verse osisID='Song.5.6'>Mən sevgilimə qapı açandaSevgilim çıxıb getmişdi.O məni çağıranda huşumu itirmişdim.Mən onu axtardım, tapa bilmədim,Mən onu çağırdım, lakin cavab gəlmədi.</verse>
+        <verse osisID='Song.5.7'>Şəhər asayişini qoruyanlar məni tapdılar,Döyüb bədənimi yaraladılar,Hasar keşikçiləri örpəyimi açdılar.</verse>
+        <verse osisID='Song.5.8'>Ey Yerusəlimdəki qızlar, mən sizə and verirəm,Tapsanız sevgilimi, deyin ona: «Mən eşq xəstəsiyəm».  Qızın rəfiqələri:</verse>
+        <verse osisID='Song.5.9'>Ey gözəllər gözəli,Sevgilinin digərlərindən fərqi nədir?Onu fərqləndirən nədir?Axı niyə bizə belə and verirsən?  Qız:</verse>
+        <verse osisID='Song.5.10'>Sevgilim nur saçır, əlvan rənglidir,O, on minlərin arasından seçilir.</verse>
+        <verse osisID='Song.5.11'>Başı sanki saf qızıldır,Qıvrım saçı qara qarğa tək qaradır.</verse>
+        <verse osisID='Song.5.12'>Gözləri axar sular kənarındakı göyərçinlərə oxşayır,Süd içində yuyunmuşlar,Öz yuvasında cəvahir tək görünərlər.</verse>
+        <verse osisID='Song.5.13'>Yanaqları ətirli gülüstana oxşayır,Hər yana ətir saçır,Dodaqları zanbaqlara bənzəyir,Ondan mirra tökülür.</verse>
+        <verse osisID='Song.5.14'>Əlləri sanki sarı yaqutla bəzənən qızıl budaqdır,Qaməti sanki yaqutlarla naxışlanan fil dişidir.</verse>
+        <verse osisID='Song.5.15'>Qıçları saf qızıl ayaqlıqlar üstündə dayananMərmər sütunlara oxşar.Görkəmi Livanın dağları kimidir,Nadir sidr ağacları kimidir.</verse>
+        <verse osisID='Song.5.16'>Şirindillidir,Təpədən dırnağadək gözəldir.Ey Yerusəlimdəki qızlar, mənim sevgilim budur,Mənim yarım budur.</verse>
+      </chapter>
+      <chapter osisID='Song.6'>
+        <verse osisID='Song.6.1'>Ey gözəllər gözəli, sevgilin hara gedib?O hansı yana dönüb?Səninlə birgə onu axtarmağa gedək.  Qız:</verse>
+        <verse osisID='Song.6.2'>Sevgilim öz bağçasına –Ətirli gülüstana gedib,Bağçalarda sürüsünü otarmağa,Zanbaq gülü toplamağa gedib.</verse>
+        <verse osisID='Song.6.3'>Mən sevgilimin, sevgilim də mənimdir,O, sürüsünü zanbaqlıq içərisində otarır.  Oğlan:</verse>
+        <verse osisID='Song.6.4'>Ey yarım, sənTirsa şəhəri qədər gözəlsən,Yerusəlim kimi sevimlisən,Müzəffər ordu kimi möhtəşəmsən.</verse>
+        <verse osisID='Song.6.5'>Gözlərini məndən ayır,Onlar məni mat qoyur.Saçların Gilead dağının yamaclarındanTökülən keçi sürüsü tək qapqaradır.</verse>
+        <verse osisID='Song.6.6'>Dişlərin yenicə yuyunub çıxan qoyun sürüsü tək düzülüb,Bu qoyunların hamısının əkiz balası var,Aralarında balasız olanı yoxdur. </verse>
+        <verse osisID='Song.6.7'>Kəsilmiş nar kimi yaşmaqladığın yanaqlarından qan damır.</verse>
+        <verse osisID='Song.6.8'>Altmış mələkə var,Cariyələr səksənə çatır,Kənizlər isə saysızdır.</verse>
+        <verse osisID='Song.6.9'>Göyərçinimin, eyibsizimin tayı yoxdur,Anasının yeganə qızıdır,Onu doğanın canı-gözüdür.Qızlar onu görərkənSöyləyirlər: «Bəxtəvərsən!»Mələkələr və cariyələr də onu mədh edir.  Qızın rəfiqələri:</verse>
+        <verse osisID='Song.6.10'>Şəfəq saçan,Ay tək gözəl, gün tək parlayan,Müzəffər ordu kimi möhtəşəm olan kimdir?  Qız:</verse>
+        <verse osisID='Song.6.11'>Mən qoz bağına endim,Yaşıllaşan vadini görmək istədim.Üzüm tumurcuqlanıbmı, narlar çiçəklənibmi?Bunu seyr edim.</verse>
+        <verse osisID='Song.6.12'>Heç özüm də bilmədən ruhum məni apardı,Şanlı xalqımın döyüş arabalarının üstünə qaldırdı.  Qızın rəfiqələri:</verse>
+        <verse osisID='Song.6.13'>Qayıt, ey Şulam qızı, qayıt,Qayıt, səni görək, qayıt.  Oğlan:  Maxanayim oyununa tamaşa etdiyiniz kimiNiyə Şulam qızına baxmaq istəyirsiniz? </verse>
+      </chapter>
+      <chapter osisID='Song.7'>
+        <verse osisID='Song.7.1'>Ey əsilzadə qızı, başmaqlı ayaqların gözəldir,Budlarını sanki heykəltəraş yonub, cəvahirə bənzəyir.</verse>
+        <verse osisID='Song.7.2'>Göbəyin cürbəcür şərabların tükənmədiyiDəyirmi piyaləyə bənzəyir.Belin zanbaqlara bürünənBir dəstə sünbülə bənzəyir,</verse>
+        <verse osisID='Song.7.3'>Döşlərin cüt ceyran balası kimi,Əkiz maral balası kimi qoşadır.</verse>
+        <verse osisID='Song.7.4'>Boynun fil dişi qülləsi kimi gözəldir.Gözlərin Bat-Rabbim darvazası yanındakıXeşbon hovuzuna bənzəyir.Burnun Dəməşqə baxan Livan qülləsi kimi gözəldir.</verse>
+        <verse osisID='Song.7.5'>Başın Karmel dağı kimi dik durur,Başındakı tellər tünd qırmızı rəngə çalır,Padşah zülfünün əsiri olur.</verse>
+        <verse osisID='Song.7.6'>Nə qəşəngsən, nə şirinsən,Ey məlahətli sevgilim.</verse>
+        <verse osisID='Song.7.7'>Qamətin xurma ağacına,Döşlərin salxımlara bənzəyir.</verse>
+        <verse osisID='Song.7.8'>Dedim: «Qoy xurma ağacına çıxım,Meyvəli budaqlarından yapışım».Döşlərindən üzüm salxımları kimi dadım,Nəfəsindən alma ətrini duyum.</verse>
+        <verse osisID='Song.7.9'>Dodaqların gözəl şərab dadı verir.  Qız:  Bu şərab birbaşa sevgilim üçün tökülsün,Biz yatanların dodaqlarına süzülsün.</verse>
+        <verse osisID='Song.7.10'>Mən sevgiliminkiyəm,Onun meyl etdiyi mənəm.</verse>
+        <verse osisID='Song.7.11'>Sevgilim, gəl çölə gedək,Kəndlərdə gecələyək.</verse>
+        <verse osisID='Song.7.12'>Səhər tezdən üzüm bağlarına gedək,Üzüm tumurcuqlanıbmı, pöhrə veribmi?Narlar çiçəklənibmi? Bunu seyr edək.Qoy orada sevgimi sənə verim.</verse>
+        <verse osisID='Song.7.13'>Ey sevgilim, məhəbbət otları ətir saçır,Qapımızın yanında köhnə, təzə – cürbəcür meyvələr var,Sənin üçün saxlanılıb.</verse>
+      </chapter>
+      <chapter osisID='Song.8'>
+        <verse osisID='Song.8.1'>Kaş ki mənə ananın döşlərindən süd əmənBir qardaş kimi olaydın,Küçədə səninlə rastlaşarkən səni öpərdim,Heç kim məni qınamazdı.</verse>
+        <verse osisID='Song.8.2'>Qarşına düşəydim, mənə öyüd verənAnamın evinə aparaydım.Şirin şərabdan, narımın şirəsindənSənə içirəydim.</verse>
+        <verse osisID='Song.8.3'>Sevgilim sol əlini başımın altına salır,Sağ əli ilə məni qucağına alır.</verse>
+        <verse osisID='Song.8.4'>Ey Yerusəlimdəki qızlar, sizi and verirəmDişi ceyranlara, çöldəki marallara!Bizi bu sevgidən oyatmayın, ayıltmayın,Qoy könül istəyənəcən qalsın.  Qızın rəfiqələri:</verse>
+        <verse osisID='Song.8.5'>Sevgilisinə söykənib çöldən gələnBu gözəl kimdir?  Qız:  Alma ağacı altda səni oyatdım.Sən orada ananın bətninə düşmüsən,Orada anan ağrı çəkib, səni doğub.</verse>
+        <verse osisID='Song.8.6'>Məni qəlbinin başında, qolunun üstündəBir möhür kimi saxla.Çünki sevgi ölüm qədər qüvvətlidir,Qısqanclıq ölülər diyarı kimi möhkəmdir,Onun odu alovlanır,O, atəşdir, tamamilə yandırıb-yaxır.</verse>
+        <verse osisID='Song.8.7'>Sevgini ümman sular söndürə bilməz,Onu çağlayan çaylar batıra bilməz.Bir insan sevgisi uğrunda var-yoxunu versə belə,Hamı ona xor baxar.  Qızın rəfiqələri:</verse>
+        <verse osisID='Song.8.8'>Bir kiçik bacımız var,Hələ döşləri çıxmayıb.Bacımıza elçi gələn günOnun üçün nə edək?</verse>
+        <verse osisID='Song.8.9'>Əgər o, bir hasar olsaydı,Biz üstünə gümüşdən bürc vurardıq.Əgər o, bir qapı olsaydı,Onu sidrdən xonça bağlayıb dövrəyə alardıq.  Qız:</verse>
+        <verse osisID='Song.8.10'>Mən bir hasaram,Döşlərim qüllələrə oxşar,Ona görə yarımın gözləri məndən razı qalar.</verse>
+        <verse osisID='Song.8.11'>Süleymanın Baal-Hamonda bir üzüm bağı var idi,O bu bağı kirayəyə verirdi.Məhsula görə hər kirayə alanOna min parça gümüş gətirməli idi.</verse>
+        <verse osisID='Song.8.12'>Mənim də bağım var, onun sahibiyəm,Ey Süleyman, min parça gümüş sənin olsun,İki yüz gümüş kirayə alanlara qalsın.  Oğlan:</verse>
+        <verse osisID='Song.8.13'>Sən, ey bağçalarda məskən salan gözəl,Dostlar səni dinləyir,Mənə də səsini eşitdir.  Qız:</verse>
+        <verse osisID='Song.8.14'>Ey sevgilim, qaç,Ətir saçan dağların üstündə,Bir ahu, bir maral balası kimi ol.</verse>
+      </chapter>
+    </div></osisText>
+</osis>

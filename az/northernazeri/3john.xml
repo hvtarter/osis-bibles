@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace'>
+  <osisText osisIDWork='NorthernAzeri' osisRefWork='Bible' xml:lang='az'>
+    <header>
+      <revisionDesc>
+        <date>2012-01-07</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='NorthernAzeri'>
+        <title>Northern Azeri Translation</title>
+        <contributor/>
+        <creator>Mod2Zef (6)</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject/>
+        <date>2012-01-07</date>
+        <description>Northern Azeri Translation</description>
+        <publisher/>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>NorthernAzeri</identifier>
+        <source>no entry TextSource in sword.conf found</source>
+        <language type='IETF'>az</language>
+        <relation/>
+        <coverage>provide the bible to the nations of the world</coverage>
+        <rights>Copyrighted Kutsul Kitab; Permission to distribute granted to CrossWire</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='3John'>
+      <chapter osisID='3John.1'>
+        <verse osisID='3John.1.1'>Mən ağsaqqaldan həqiqətə görə sevdiyim əziz Qaya salam! </verse>
+        <verse osisID='3John.1.2'>Ey sevimli, dua edirəm ki, canın uğurlu olduğu kimi özün də hər cəhətdən uğurlu və sağlam olasan.</verse>
+        <verse osisID='3John.1.3'>Bəzi qardaşlar gəlib sənin həqiqətə bağlılığına, yəni həqiqətə görə həyat sürdüyünə şəhadət edəndə mən çox sevindim.</verse>
+        <verse osisID='3John.1.4'>Mənim üçün öz övladlarımın həqiqətə görə həyat sürdüyünü eşitməkdən böyük sevinc ola bilməz. </verse>
+        <verse osisID='3John.1.5'>Ey sevimli, sənə hətta yad olduqları halda qardaşlara xidmət etməkdə sədaqət göstərirsən.</verse>
+        <verse osisID='3John.1.6'>Onlar cəmiyyətin qarşısında sənin məhəbbətin barədə şəhadət ediblər. Sən onları Allaha layiq bir tərzdə yola salarkən yaxşı iş görəcəksən.</verse>
+        <verse osisID='3John.1.7'>Çünki onlar imansız olanlardan heç nə götürmədən Onun naminə yola çıxdılar.</verse>
+        <verse osisID='3John.1.8'>Beləcə biz həqiqət işində həmkar olmaq üçün bu cür adamlara dayaq olmalıyıq. </verse>
+        <verse osisID='3John.1.9'>Cəmiyyətə bir şey yazdım, amma onların arasında başçılıq etməyi sevən Diotref bizim səlahiyyətimizi tanımır.</verse>
+        <verse osisID='3John.1.10'>Buna görə də mən gələndə onun etdiyi əməllərlə bağlı məsələ qaldıracağam: o bizim barəmizdə pis sözlərlə qeybət edir, hətta bununla kifayətlənməyərək qardaşları özü qəbul etmir, qəbul etmək istəyənlərə də mane olur və onları cəmiyyətdən qovur. </verse>
+        <verse osisID='3John.1.11'>Ey sevimli, pislikdən yox, yaxşılıqdan nümunə götür. Yaxşılıq edən Allahdandır, pislik edənsə Allahı görməyib.</verse>
+        <verse osisID='3John.1.12'>Hamı Dimitrinin yaxşı adam olduğuna şəhadət edir, həqiqətin özü də bunu təsdiq edir. Biz də buna şəhadət edirik və sən də bilirsən ki, bizim şəhadətimiz etibarlıdır. </verse>
+        <verse osisID='3John.1.13'>Sənə yazılası çox sözüm var, amma bunları sənə qələm və mürəkkəblə yazmaq istəmirəm.</verse>
+        <verse osisID='3John.1.14'>Amma ümid edirəm ki, tezliklə səni görəcəyəm və səninlə üz-üzə söhbət edəcəyəm. </verse>
+      </chapter>
+    </div></osisText>
+</osis>

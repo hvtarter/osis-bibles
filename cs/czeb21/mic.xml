@@ -1,0 +1,215 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace'>
+  <osisText osisRefWork='Bible' osisIDWork='CzeB21' xml:lang='cs'>
+    <header>
+      <revisionDesc>
+        <date>2010-02-26</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='CzeB21'>
+        <title>Czech Bible, Překlad 21. století</title>
+        <contributor/>
+        <creator>Mod2Zef (4)</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject/>
+        <date>2009-07-31</date>
+        <description>Bible, Překlad 21. století  vedoucí projektu Alexandr Flek  odborná spolupráce Jiří Hedánek, Pavel Hoffman, Zdeněk Sýkora  Přeloženo z hebrejštiny, aramejštiny, řečtiny  Vydání první  (c) 2009 Biblion, o. s.  www.bible21.org  www.bible21.cz   Překlad 21. století přináší nadčasové poselství Bible v současné, čtivé češtině. Usiluje o maximální věrnost původním hebrejským, aramejským a řeckým textům, zároveň však chce oslovit dnešní čtenáře, ať už jsou zvyklí čerpat z této knihy inspiraci pro každý den, anebo ji otevírají poprvé.</description>
+        <publisher/>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>CzeB21</identifier>
+        <source>no entry TextSource in sword.conf found</source>
+        <language type='IETF'>cs</language>
+        <relation/>
+        <coverage>provide the bible to the nations of the world</coverage>
+        <rights>Copyrighted; Permission to distribute granted to CrossWire</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='Mic'>
+      <chapter osisID='Mic.1'>
+        <verse osisID='Mic.1.1'>Slovo Hospodinovo, které dostal Micheáš Morešetský za vlády judských králů Jotama, Achaze a Ezechiáše - to, co přijal ve vidění o Samaří a Jeruzalémě.</verse>
+        <verse osisID='Mic.1.2'>Slyšte, všechny národy, naslouchej, země i všichni v ní! Panovník Hospodin teď proti vám svědčí, Panovník z chrámu své svatosti.</verse>
+        <verse osisID='Mic.1.3'>Hle - Hospodin opouští svůj příbytek, už sestupuje, šlape po výšinách země!</verse>
+        <verse osisID='Mic.1.4'>Hory se pod ním rozpouštějí, rozvírají se rokliny, podobají se vosku v ohni, vodě stékající horským úbočím.</verse>
+        <verse osisID='Mic.1.5'>A to vše kvůli Jákobově vzpouře, kvůli hříchům domu Izraele. Co je Jákobova vzpoura? Kdo jiný než Samaří? Co jsou obětní výšiny Judy? Jeruzalém - kdo jiný?</verse>
+        <verse osisID='Mic.1.6'>"Proto Samaří obrátím v kupu sutin, místo vhodné tak pro vinici. Její kameny svalím do údolí, obnažím její základy.</verse>
+        <verse osisID='Mic.1.7'>Všechny její modly budou rozbity, všechny její výdělky ohněm spáleny, všechny její sochy zpustoším. Co si vydělala na nevěstčích poplatcích, tím se znovu bude platit za nevěstky."</verse>
+        <verse osisID='Mic.1.8'>Proto naříkám a běduji, vysvlečen chodím, bosý. Jako šakali musím výt a kvílím jako pštrosi.</verse>
+        <verse osisID='Mic.1.9'>Nezhojitelná rána Samaří totiž postihla i Judu. Až k samé bráně zasáhla můj lid, až k Jeruzalému!</verse>
+        <verse osisID='Mic.1.10'>Nemluvte o tom v Gatu, už ani neplakejte. V Bet-ofře (v tom Domě prachu) se v prachu svíjejte.</verse>
+        <verse osisID='Mic.1.11'>Rozšafní obyvatelé Šafíru, táhněte v hanbě a nahotě! Obyvatelé Ceananu nevyjdou více, útulný Bet-ecel pláče; oporu v něm už nemáte.</verse>
+        <verse osisID='Mic.1.12'>Obyvatelé Marotu jen trnou, čekají, kdy přijde úleva; Hospodin ale seslal pohromu k bráně Jeruzaléma.</verse>
+        <verse osisID='Mic.1.13'>Do vozů zapřahejte rychle, obyvatelé Lachiše! Zde začal hřích Dcery sionské, zde je zdroj vzpoury Izraele.</verse>
+        <verse osisID='Mic.1.14'>S Morešet-gatem rozluč se, jako když otec dává věno nevěstě. V domech Achzibu, ach, zebe zklamání králů Izraele!</verse>
+        <verse osisID='Mic.1.15'>Přivedu na vás dobyvatele, obyvatelé Mareše! Urození z Izraele půjdou maršem do adulamské jeskyně.</verse>
+        <verse osisID='Mic.1.16'>Ohol si hlavu ve smutku nad svými hýčkanými syny. Pořiď si lysinu jako sup - odejdou ti do vyhnanství!</verse>
+      </chapter>
+      <chapter osisID='Mic.2'>
+        <verse osisID='Mic.2.1'>Běda těm, kdo chystají špatnosti, kdo osnují zlo i v posteli! Už od svítání je páchají - vždyť si to mohou dovolit.</verse>
+        <verse osisID='Mic.2.2'>Zatouží po poli a už je zabírají, po domě a už ho mají. Odírají muže i jejich rodiny, připravují je o dědictví.</verse>
+        <verse osisID='Mic.2.3'>A proto tak praví Hospodin: "Hle, já na tu tlupu chystám pohromu - teď už se nevykroutíte! Přestanete chodit s hlavou nahoru - ty časy budou zlé.</verse>
+        <verse osisID='Mic.2.4'>V ten den o vás složí popěvek, zazpívají vám posměšný žalozpěv: ‚To je náš konec - můj lid přišel o svůj majetek! Ach, on mi bere, co je mé, naše pole dělí mezi proradné!'"</verse>
+        <verse osisID='Mic.2.5'>A tak vám už nikdo nevyměří podíl v Hospodinově shromáždění.</verse>
+        <verse osisID='Mic.2.6'>"Neprorokovat!" říkají proroci. "Takhle se přece neprorokuje; taková hanba na nás nepřijde!"</verse>
+        <verse osisID='Mic.2.7'>To se má říkat, dome Jákobův: "Copak Hospodin ztratil trpělivost? Copak je tohle jeho dílo?" Nepřinesou snad má slova užitek těm, kteří žijí poctivě?</verse>
+        <verse osisID='Mic.2.8'>Vy ale jako nepřítel proti mému lidu stojíte. Strháváte pláště těm, kdo žijí pokojně, kdo bezelstně jdou kolem a nejednají bojovně.</verse>
+        <verse osisID='Mic.2.9'>Ženy v mém lidu vyháníte z útulných domovů a jejich děti navždy okrádáte o moji nádheru.</verse>
+        <verse osisID='Mic.2.10'>Seberte se a jděte - zde odpočinek nenajdete! Co se poskvrnilo, propadne zkáze, zničeno to bude strašlivě.</verse>
+        <verse osisID='Mic.2.11'>Kdyby nějaký prolhaný podvodník přišel se slovy: "Víno a pivo, tak zní mé proroctví" - to by byl prorok pro tento lid!</verse>
+        <verse osisID='Mic.2.12'>"Jistěže vás všechny posbírám, Jákobe, jistěže shromáždím zbytky Izraele. Umístím je pohromadě jak ovce v ohradě, budou jako stádo na své pastvině - veliká lidská změť.</verse>
+        <verse osisID='Mic.2.13'>Ten, který jim razí cestu, vyjde před nimi, a tak projdou branou a ven vyrazí. Jejich Král půjde před nimi - v jejich čele bude Hospodin!"</verse>
+      </chapter>
+      <chapter osisID='Mic.3'>
+        <verse osisID='Mic.3.1'>Řekl jsem: "Slyšte, vy přední v Jákobovi, vůdcové domu Izraele: Nemáte snad znát právo,</verse>
+        <verse osisID='Mic.3.2'>vy, kdo nenávidíte dobro a milujete zlo; vy, kdo stahujete lidi z kůže a maso z kostí trháte;</verse>
+        <verse osisID='Mic.3.3'>vy, kdo maso mého lidu hryžete, odíráte je z kůže a jejich kosti lámete; vy, kdo je porcujete jako do hrnce a jako maso do kotle?"</verse>
+        <verse osisID='Mic.3.4'>K Hospodinu pak budou volat, ale nevyslyší je. V ten čas před nimi skryje tvář, protože jednali tak zle.</verse>
+        <verse osisID='Mic.3.5'>Toto praví Hospodin o prorocích, kteří svádějí můj lid: "Když dostanou dobře najíst, hlásají: ‚Blahobyt!' Kdo je však nenakrmí, proti tomu jdou do války.</verse>
+        <verse osisID='Mic.3.6'>A proto na vás přijde noc - už žádná vidění; temno a žádné věštění. Slunce zapadne nad těmi proroky, den se nad nimi zatemní.</verse>
+        <verse osisID='Mic.3.7'>Vidoucí budou zahanbeni, věštci se zastydí, všichni si studem tváře zakryjí, protože jim Bůh neodpoví."</verse>
+        <verse osisID='Mic.3.8'>Já jsem však naplněn mocí, Duchem Hospodinovým, spravedlností a smělostí, abych Jákobovi jeho vzpouru oznámil a Izraeli jeho hřích.</verse>
+        <verse osisID='Mic.3.9'>Slyšte to, vy přední v domě Jákobově, vůdcové domu Izraele, vy, kdo pohrdáte právem a všechno rovné křivíte;</verse>
+        <verse osisID='Mic.3.10'>vy, kdo budujete Sion krví a Jeruzalém příkořím:</verse>
+        <verse osisID='Mic.3.11'>Jeho vládci soudí za úplatky, jeho kněží učí za odměny, za peníze věští jeho proroci. Přitom spoléhají na Hospodina se slovy: "Copak vprostřed nás není Hospodin? Nepřijde na nás žádné neštěstí!"</verse>
+        <verse osisID='Mic.3.12'>Nuže, právě kvůli vám bude Sion jak pole rozorán! Z Jeruzaléma bude trosek hromada a z chrámové hory zarostlá vyvýšenina!</verse>
+      </chapter>
+      <chapter osisID='Mic.4'>
+        <verse osisID='Mic.4.1'>V posledních dnech se přihodí, že hora Hospodinova domu bude čnít nad horské vrcholy, vysoko nad všechny výšiny. Pohrnou se k ní lidské zástupy,</verse>
+        <verse osisID='Mic.4.2'>mnohé národy půjdou se slovy: "Pojďme, vystupme na horu Hospodinovu, k Bohu Jákobovu - do jeho domu! Bude nás vyučovat cestám svým a my budeme chodit jeho stezkami." Ze Sionu bude znít Hospodinovo učení, z Jeruzaléma se jeho slovo rozšíří.</verse>
+        <verse osisID='Mic.4.3'>On bude soudit lidské zástupy, napraví i daleké mocné národy. Tehdy ze svých mečů ukují pluhy a ze svých kopí srpy. Národ proti národu nepozvedne meč, už nikdy se nebudou chystat do boje.</verse>
+        <verse osisID='Mic.4.4'>Každý usedne ve stínu svého révoví, každý pod svůj fíkovník a nikdo už je nezděsí - tak promluvila ústa Hospodina zástupů.</verse>
+        <verse osisID='Mic.4.5'>Všechny národy následují každý jméno svých bohů; my však následujeme jméno Hospodina, našeho Boha na věky věků!</verse>
+        <verse osisID='Mic.4.6'>V onen den, praví Hospodin, posbírám kulhavé a zahnané shromáždím - ty, jež jsem předtím ranil neštěstím.</verse>
+        <verse osisID='Mic.4.7'>Kulhavou obdařím potomky, ze zahnané učiním mocný lid a Hospodin bude kralovat nad nimi na hoře Sion od toho dne až navěky.</verse>
+        <verse osisID='Mic.4.8'>Migdal-edere, ty Věži stáda, pahorku Dcery sionské, k tobě se navrátí dávná vláda, království Dcery jeruzalémské.</verse>
+        <verse osisID='Mic.4.9'>Proč tedy teď tak běduješ? Což s tebou není Král? Copak zahynul tvůj Rádce, že máš bolesti jako rodička?</verse>
+        <verse osisID='Mic.4.10'>Svíjej se, Dcero sionská, v bolestech jako rodička, protože musíš odejít z města a budeš venku nocovat. Až do Babylonu musíš jít a tam dojdeš záchrany; tam tě Hospodin vykoupí z nepřátelského sevření.</verse>
+        <verse osisID='Mic.4.11'>Teď se proti tobě sbírají mnohé národy se slovy: "Jen ať je Sion znesvěcen! Kochejme se tím pohledem!"</verse>
+        <verse osisID='Mic.4.12'>Oni však netuší, jak smýšlí Hospodin; nechápou jeho plán, že je sbírá jak snopy na svůj mlat.</verse>
+        <verse osisID='Mic.4.13'>Vstaň a mlať, Dcero sionská, vždyť ti dám roh ze železa a z bronzu kopyta! Rozdrtíš mnohé národy, zasvětíš Hospodinu jejich zisk a Pánu vší země jejich bohatství. Teď se šikuj, Dcero šiků, vždyť jsme v obležení. Soudce Izraele budou bít holí do tváří!</verse>
+      </chapter>
+      <chapter osisID='Mic.5'>
+        <verse osisID='Mic.5.1'>"Ty však, Betléme efratský, maličký mezi judskými knížaty, právě z tebe mi má vzejít ten, jenž bude Vládcem v Izraeli, jehož původ je pradávný, ode dnů věčnosti."</verse>
+        <verse osisID='Mic.5.2'>(Hospodin je tedy nechá napospas, jen dokud neporodí rodička. Zbytek jeho bratří se pak vrátí zpět a připojí se k synům Izraele.)</verse>
+        <verse osisID='Mic.5.3'>On vstane a bude pást v síle Hospodinově, ve jménu Hospodina, svého Boha, které je vznešené. Tehdy budou žít v bezpečí, neboť on bude veliký až po nejzazší zemské končiny.</verse>
+        <verse osisID='Mic.5.4'>On bude naším pokojem. Až k nám do země vtrhnou Asyřané, až budou šlapat po našich palácích, sedm pastýřů proti nim postavíme, osm vojevůdců rozených,</verse>
+        <verse osisID='Mic.5.5'>aby Asýrii pásli mečem, Nimrodovu zemi mečem taseným! On nás vysvobodí, až k nám do země vtrhnou Asyřané, až budou šlapat po našich hranicích.</verse>
+        <verse osisID='Mic.5.6'>Ti, kdo pozůstanou z Jákoba uprostřed mnohých národů, budou jak rosa od Hospodina, jak déšť padající na trávu, jenž ve smrtelníka nedoufá a nezávisí na člověku.</verse>
+        <verse osisID='Mic.5.7'>Ti, kdo pozůstanou z Jákoba mezi pohany, uprostřed mnohých národů, budou jak lev mezi lesní zvěří, jak mladý lev mezi stády ovcí; drtí a trhá je, kudy jde, a nikdo mu je nevyrve.</verse>
+        <verse osisID='Mic.5.8'>Tvá ruka se zvedne nad tvými nepřáteli, všichni tví protivníci budou vymýceni!</verse>
+        <verse osisID='Mic.5.9'>"Toho dne, praví Hospodin, vaše koně mezi vámi vymýtím a vaše vozy zničím.</verse>
+        <verse osisID='Mic.5.10'>Vymýtím města ve vaší zemi a zbořím všechny vaše pevnosti.</verse>
+        <verse osisID='Mic.5.11'>Vymýtím kouzla z vaší ruky a nezbudou vám už žádní věštci.</verse>
+        <verse osisID='Mic.5.12'>Vymýtím mezi vámi ty modly a sloupy, abyste se vlastnímu dílu klanět přestali.</verse>
+        <verse osisID='Mic.5.13'>Vyvrátím mezi vámi ty posvátné kůly a vaše města vyhladím.</verse>
+        <verse osisID='Mic.5.14'>Vykonám pomstu s hněvem a zuřením nad neposlušnými národy!"</verse>
+      </chapter>
+      <chapter osisID='Mic.6'>
+        <verse osisID='Mic.6.1'>Slyšte, co praví Hospodin: "Vstaň a veď žalobu před horami, ať pahorky slyší, co prohlásíš!</verse>
+        <verse osisID='Mic.6.2'>Slyšte, hory, Hospodinovu při, slyšte, odvěké zemské základy! Hospodin má žalobu na svůj lid, vznáší obvinění proti Izraeli:</verse>
+        <verse osisID='Mic.6.3'>Lide můj, co jsem ti udělal? Čím jsem tě vyčerpal? Odpověz mi!</verse>
+        <verse osisID='Mic.6.4'>Vyvedl jsem tě z Egypta, vykoupil tě z domu otroctví a postavil jsem ti do čela Mojžíše, Árona a Miriam.</verse>
+        <verse osisID='Mic.6.5'>Vzpomeň si, lide můj, co chystal moábský král Balák a co mu odpověděl Balaám, syn Beorův. Vzpomeň si, co se stalo od Šitimu po Gilgal, abys znal Hospodinovy spravedlivé skutky."</verse>
+        <verse osisID='Mic.6.6'>Jak mám před Hospodina předstoupit, jak se poklonit před Bohem nejvyšším? Mám před něj přijít se zápaly, s jednoletými telaty?</verse>
+        <verse osisID='Mic.6.7'>Má Hospodin zalíbení v tisíci beranech, v nesčíslných řekách oleje? Mám dát svého prvorozeného za svůj přestupek, vlastního potomka za hřích duše své?</verse>
+        <verse osisID='Mic.6.8'>Oznámil ti, člověče, co je dobré a co od tebe žádá Hospodin: Abys jednal spravedlivě, miloval milosrdenství a kráčel se svým Bohem v pokoře.</verse>
+        <verse osisID='Mic.6.9'>Hlas Hospodinův volá na město (a tvé jméno ctít je moudré): "Ať to slyší ten váš kmen, vy, shromáždění ve městě!</verse>
+        <verse osisID='Mic.6.10'>To mám trpět mrzké poklady v domě ničemy a míry ošizené a mizerné?</verse>
+        <verse osisID='Mic.6.11'>To mám uznávat nepoctivé váhy a falešná závaží v mošně?</verse>
+        <verse osisID='Mic.6.12'>Vaši boháči jsou násilníci a vaši občané mluví lež; hovoří zrádným jazykem!</verse>
+        <verse osisID='Mic.6.13'>Právě proto jsem tě ranil trápením, abych tě zničil za tvůj hřích.</verse>
+        <verse osisID='Mic.6.14'>Budeš jíst, ale nenasytíš se, bude ti kručet v břiše. Budeš tlačit, ale neporodíš, a co porodíš, to vydám meči.</verse>
+        <verse osisID='Mic.6.15'>Zaseješ, ale nedočkáš se sklizně; vylisuješ olivy, ale nepomažeš se olejem; vytlačíš mošt, ale vína se nenapiješ.</verse>
+        <verse osisID='Mic.6.16'>Řídíte se Omriho pravidly a všemi Achabovými způsoby; následujete jejich rady, a proto vás vydám zpustošení. Výsměch čeká vaše občany - budete tupeni, že jste můj lid!"</verse>
+      </chapter>
+      <chapter osisID='Mic.7'>
+        <verse osisID='Mic.7.1'>Běda mi! Jsem jako sběrač po vinobraní, jak ten, kdo paběrkuje po sklizni - nezůstal ani hrozen k ochutnání, ani jeden vytoužený zralý fík!</verse>
+        <verse osisID='Mic.7.2'>Zbožní ze země vyhynuli, jediný člověk není poctivý. Všichni číhají, jak by vraždili, každý svého bratra lapá do sítí.</verse>
+        <verse osisID='Mic.7.3'>Obě ruce mají ke zlu šikovné; úředník i soudce berou úplatek, mocný poroučí, co si zamane, a všichni kují pikle.</verse>
+        <verse osisID='Mic.7.4'>Nejlepší z nich je jako trní, poctivec horší než plot z bodláčí. Už přichází ten vyhlížený den - den, kdy se s tebou zúčtuje! Teď přijde zmatek nad zmatek!</verse>
+        <verse osisID='Mic.7.5'>Nespoléhejte na bližní, nevěřte ani příteli, chraň se svá ústa otevřít i před ženou, co máš v náručí!</verse>
+        <verse osisID='Mic.7.6'>Syn pohrdá svým otcem, dcera se staví proti matce, snacha své tchyni vzdoruje - člověk má nepřátele ve vlastní rodině.</verse>
+        <verse osisID='Mic.7.7'>Já ale Hospodina vyhlížím, čekám na Boha - on mě zachrání, můj Bůh mě vyslyší!</verse>
+        <verse osisID='Mic.7.8'>Nejásej, nepříteli, nade mnou - i když jsem padl, povstanu! I když teď sedím vprostřed tmy, mým světlem je Hospodin.</verse>
+        <verse osisID='Mic.7.9'>Proti Hospodinu hřešil jsem, a proto nesu jeho hněv, dokud se mého sporu neujme a neobhájí mě. Vyvede mě znovu na světlo a spatřím jeho spravedlnost.</verse>
+        <verse osisID='Mic.7.10'>Až to uvidí můj nepřítel, hanba ho přikryje - toho, který mi říkával: "Kdepak je Hospodin, ten tvůj Bůh?" Na vlastní oči se podívám, až ho jak bláto na ulicích rozdupou!</verse>
+        <verse osisID='Mic.7.11'>Bude to den obnovy tvých zdí, den, kdy se tvé meze rozšíří;</verse>
+        <verse osisID='Mic.7.12'>den, kdy připutují až k vám z Asýrie i z měst Egypta, ze zemí od Egypta až po Eufrat, od moře k moři a od hor k horám.</verse>
+        <verse osisID='Mic.7.13'>Země se však stane pustinou kvůli svým obyvatelům; to bude ovoce jejich skutků.</verse>
+        <verse osisID='Mic.7.14'>Svou holí pas svůj lid, stádo, jež je tvým dědictvím. Ať žijí sami v zarostlé krajině, uprostřed země podobné zahradě. Ať se pasou v Bášanu i Gileádu jako za dávných dnů!</verse>
+        <verse osisID='Mic.7.15'>"Jako tehdy, když jste opustili Egypt, ukážu vám své zázraky."</verse>
+        <verse osisID='Mic.7.16'>Ať se národy zastydí, až to uvidí, ať jsou zbaveni vší odvahy! Ať si ústa rukou přikryjí, ať jim ohluchnou uši!</verse>
+        <verse osisID='Mic.7.17'>Ať lížou prach jako had, jako nějaký zeměplaz! Ať lezou s chvěním ze svých děr k Hospodinu, našemu Bohu, s děsem, ať z tebe mají bázeň!</verse>
+        <verse osisID='Mic.7.18'>Kdo je Bůh jako ty? Kdo odpouští viny a hřích promíjí pozůstatku svého dědictví? Nezůstáváš rozhněvaný navždycky, neboť sis milosrdenství oblíbil.</verse>
+        <verse osisID='Mic.7.19'>Znovu se nad námi slituješ, naše provinění pošlapeš, všechny naše hříchy smeteš hluboko do moře!</verse>
+        <verse osisID='Mic.7.20'>Projevíš svou věrnost Jákobovi, své milosrdenství Abrahamovi, jak jsi přísahal našim otcům tehdy za starodávných dnů.</verse>
+      </chapter>
+    </div></osisText>
+</osis>

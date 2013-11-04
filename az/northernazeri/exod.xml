@@ -1,0 +1,1422 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace'>
+  <osisText osisIDWork='NorthernAzeri' osisRefWork='Bible' xml:lang='az'>
+    <header>
+      <revisionDesc>
+        <date>2012-01-07</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='NorthernAzeri'>
+        <title>Northern Azeri Translation</title>
+        <contributor/>
+        <creator>Mod2Zef (6)</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject/>
+        <date>2012-01-07</date>
+        <description>Northern Azeri Translation</description>
+        <publisher/>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>NorthernAzeri</identifier>
+        <source>no entry TextSource in sword.conf found</source>
+        <language type='IETF'>az</language>
+        <relation/>
+        <coverage>provide the bible to the nations of the world</coverage>
+        <rights>Copyrighted Kutsul Kitab; Permission to distribute granted to CrossWire</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='Exod'>
+      <chapter osisID='Exod.1'>
+        <verse osisID='Exod.1.1'>
+            Yaqubla birlikdə ailələri ilə Misirə gələn İsrail övladlarının adları bunlar idi:</verse>
+        <verse osisID='Exod.1.2'>Ruven, Şimeon, Levi, Yəhuda,</verse>
+        <verse osisID='Exod.1.3'>İssakar, Zevulun, Binyamin,</verse>
+        <verse osisID='Exod.1.4'>Dan, Naftali, Qad, Aşer,</verse>
+        <verse osisID='Exod.1.5'>Yaqubun nəslindən törənən yetmiş nəfər idi. Yaqubun oğlu Yusif artıq Misirdə idi.</verse>
+        <verse osisID='Exod.1.6'>Vaxt yetişdi, Yusif, qardaşları və o nəslin hamısı öldü.</verse>
+        <verse osisID='Exod.1.7'>Amma İsrail övladları çoxalıb böyüdülər, sayları artdı və onlar qüvvətləndi; ölkə onlarla doldu. </verse>
+        <verse osisID='Exod.1.8'>Misirdə Yusifi tanımayan yeni bir padşah taxta çıxdı.</verse>
+        <verse osisID='Exod.1.9'>O, xalqına dedi: «Baxın İsrail övladları sayca bizdən çox və daha qüvvətlidir.</verse>
+        <verse osisID='Exod.1.10'>Gəlin onlarla ağılla rəftar edək, yoxsa çoxalar və müharibə vaxtı düşmənlərimizlə birləşib bizə qarşı vuruşar, sonra isə ölkəni tərk edərlər». </verse>
+        <verse osisID='Exod.1.11'>Misirlilər İsrail övladlarına əziyyət vermək üçün onların üzərinə zülmkar iş nəzarətçiləri qoydular. İsrail övladları firon üçün Pitom və Ramses adlanan şəhərlər tikdilər. Orada anbarlar yerləşdirdilər.</verse>
+        <verse osisID='Exod.1.12'>Ancaq İsrail övladlarına əziyyət vermələrinə baxmayaraq, onlar çoxalıb artırdı. Onda Misirlilər İsrail övladlarından qorxub,</verse>
+        <verse osisID='Exod.1.13'>onları sıxıntılı əsarətdə saxladılar.</verse>
+        <verse osisID='Exod.1.14'>Misirlilər İsrail övladlarını ağır işlərlə – palçıq tapdalamaqla, kərpic kəsməklə və hər cür tarla işləri ilə amansızcasına işlədib onların həyatını acı etdilər. </verse>
+        <verse osisID='Exod.1.15'>Misir padşahı birinin adı Şifra, o birinin adı Pua olan İbrani mamaçalarına dedi:</verse>
+        <verse osisID='Exod.1.16'>«İbrani qadınlarını doğuzduranda baxın: əgər uşaq oğlan olarsa, onu öldürün, yox, əgər qız olsa, qoy yaşasın».</verse>
+        <verse osisID='Exod.1.17'>Ancaq mamaçalar Allahdan qorxurdular və buna görə Misir padşahının onlara əmr etdiyi kimi etmədilər və oğlan uşaqlarını sağ buraxdılar.</verse>
+        <verse osisID='Exod.1.18'>Misir padşahı mamaçaları çağırtdırıb onlara dedi: «Niyə belə etdiniz? Niyə oğlan uşaqlarını sağ buraxdınız?»</verse>
+        <verse osisID='Exod.1.19'>Mamaçalar firona dedilər: «Çünki İbrani qadınları Misirli qadınlar kimi deyil, onlar daha sağlamdırlar və mamaçalar onların yanına gəlməzdən əvvəl doğurlar».</verse>
+        <verse osisID='Exod.1.20'>Buna görə Allahın xalqı çoxalıb artdı. Allah mamaçalara da xeyirxahlıq göstərdi.</verse>
+        <verse osisID='Exod.1.21'>Ondan qorxduqlarına görə bu qadınlara da ailə nəsib etdi. </verse>
+        <verse osisID='Exod.1.22'>Firon bütün xalqına əmr edib dedi: «İbranilərdən hər doğulan oğlan uşağını Nil çayına atın! Hər qız uşağını isə sağ qoyun».  </verse>
+      </chapter>
+      <chapter osisID='Exod.2'>
+        <verse osisID='Exod.2.1'>
+          O zaman Levi qəbiləsindən bir kişi öz nəslindən bir arvad aldı.</verse>
+        <verse osisID='Exod.2.2'>O hamilə olub oğul doğdu və uşağın gözəl olduğunu görüb üç ay gizlətdi.</verse>
+        <verse osisID='Exod.2.3'>Bundan artıq onu gizlədə bilməyərək qamışdan bir səbət götürüb ona qır və qatran sürtdü, körpəni səbətin içinə salıb Nil çayının kənarındakı qamışlığın arasına qoydu.</verse>
+        <verse osisID='Exod.2.4'>Körpənin bacısı isə onun başına nə gələcəyini bilmək üçün uzaqda durub baxırdı. </verse>
+        <verse osisID='Exod.2.5'>Fironun qızı çimmək üçün çaya girdi. Onun qarabaşları isə çayın kənarında gəzişirdilər. Fironun qızı qarğıların arasında səbəti görüb onu gətirmək üçün kənizini göndərdi.</verse>
+        <verse osisID='Exod.2.6'>Sonra səbəti açıb bir oğlan gördü. Körpə ağlayırdı. Fironun qızı ona rəhmi gəldiyindən dedi: «Bu, İbrani oğlanlarındandır».</verse>
+        <verse osisID='Exod.2.7'>Körpənin bacısı fironun qızına dedi: «Bəlkə gedib sənin üçün İbrani qadınlarından bir dayə çağırım ki, körpəni əmizdirsin?»</verse>
+        <verse osisID='Exod.2.8'>Fironun qızı ona «get» dedi. Qız gedib körpənin anasını çağırdı.</verse>
+        <verse osisID='Exod.2.9'>Fironun qızı ona dedi: «Bu körpəni götürüb mənim üçün əmizdir, sənə bunun haqqını verərəm». Qadın körpəni götürüb əmizdirdi.</verse>
+        <verse osisID='Exod.2.10'>Uşaq böyüdü və qadın onu firon qızının yanına apardı. Fironun qızı uşağı oğulluğa götürdü. O, uşağın adını Musa qoyub dedi: «Oğlanı sudan çıxartdığım üçün ona bu adı qoydum». </verse>
+        <verse osisID='Exod.2.11'>Çox illər keçdi, Musa böyüdü. Bir dəfə o öz xalqının yanına getdi və onların ağır zəhmətini gördü. Bir Misirlinin onun xalqından olan İbranini döydüyünü gördü.</verse>
+        <verse osisID='Exod.2.12'>Musa ətrafına baxıb heç kəsin olmadığını görəndə Misirlini öldürüb qumda gizlətdi.</verse>
+        <verse osisID='Exod.2.13'>Ertəsi gün o yenə gedəndə gördü ki, iki İbrani bir-biri ilə dalaşır. Musa haqsız olana dedi: «Yoldaşını niyə vurursan?»</verse>
+        <verse osisID='Exod.2.14'>O adam dedi: «Səni bizim üstümüzə kim başçı və hakim qoyub? Yoxsa Misirlini öldürdüyün kimi məni də öldürmək fikrindəsən?» Musa qorxaraq ürəyində dedi: «Deyəsən, bu iş barədə bilirlər».</verse>
+        <verse osisID='Exod.2.15'>Firon bu işdən xəbərdar olanda Musanı öldürtdürmək istədi. Ancaq Musa fironun əlindən qaçıb Midyan torpağına çataraq bir quyunun yanında oturdu. </verse>
+        <verse osisID='Exod.2.16'>Midyan kahininin yeddi qızı var idi. Onlar gəlib quyudan su çəkərək atalarının qoyun-keçilərinə su vermək üçün təknələri doldurdular.</verse>
+        <verse osisID='Exod.2.17'>O vaxt çobanlar gəlib onları qovdular; onda Musa qalxıb qızlara kömək etdi və qoyun-keçilərinə su verdi.</verse>
+        <verse osisID='Exod.2.18'>Qızlar ataları Reuelin yanına gələndə o dedi: «Necə oldu ki, bu gün tez gəldiniz?»</verse>
+        <verse osisID='Exod.2.19'>Onlar dedilər: «Bir Misirli bizi çobanların əlindən qurtardı və bizim üçün quyudan su çəkib qoyun-keçiyə su verdi».</verse>
+        <verse osisID='Exod.2.20'>O, qızlarına dedi: «O adam haradadır? Onu niyə buraxdınız? Çağırın, gəlib çörək yesin». </verse>
+        <verse osisID='Exod.2.21'>Musa o adamın evində qalmağa razı oldu. O da qızı Sipporanı Musaya arvad olaraq verdi.</verse>
+        <verse osisID='Exod.2.22'>Sippora bir oğlan doğdu. Musa onun adını Gerşom qoyub dedi: «Mən yad bir ölkədə qərib oldum». </verse>
+        <verse osisID='Exod.2.23'>Xeyli vaxt keçəndən sonra Misir padşahı öldü. İsrail övladları ağır zəhmət çəkdikləri üçün fəryad edib inlədilər. Ağır zəhmətlərinə görə etdikləri nalələri Allaha çatdı.</verse>
+        <verse osisID='Exod.2.24'>Allah onların iniltisini eşitdi; İbrahimlə, İshaqla və Yaqubla olan əhdini xatırladı.</verse>
+        <verse osisID='Exod.2.25'>Allah İsrail övladlarının qul olduqlarını gördü və onlara nəzər saldı.  </verse>
+      </chapter>
+      <chapter osisID='Exod.3'>
+        <verse osisID='Exod.3.1'>
+            Musa qayınatası Midyan kahini Yetronun sürüsünü otarırdı. Bir dəfə o, sürünü səhranın o biri tərəfinə aparıb Allahın dağı Xorevə gəldi.</verse>
+        <verse osisID='Exod.3.2'>Birdən Rəbbin mələyi ona bir kol arasından od-alov içərisində göründü; od içində kolun sönmədən yanmasını görüb</verse>
+        <verse osisID='Exod.3.3'>Musa öz-özünə dedi: «Gedim, bu qəribə mənzərəyə baxım, görüm nə üçün bu kol yanıb qurtarmır».</verse>
+        <verse osisID='Exod.3.4'>Rəbb Musanın baxmağa gəldiyini görəndə Allah kolun ortasından onu çağırıb dedi: «Musa, Musa!» O da «mən buradayam» dedi.</verse>
+        <verse osisID='Exod.3.5'>Allah dedi: «Buraya yaxınlaşma. Ayaqlarından çarıqlarını çıxart, çünki durduğun yer müqəddəs torpaqdır».</verse>
+        <verse osisID='Exod.3.6'>Sonra dedi: «Mən atanın Allahı, İbrahimin Allahı, İshaqın Allahı və Yaqubun Allahıyam». Musa üzünü örtdü, çünki Allaha baxmağa qorxurdu. </verse>
+        <verse osisID='Exod.3.7'>Rəbb dedi: «Həqiqətən, Mən Misirdə olan xalqımın əziyyətini gördüm, nəzarətçilərin əlindən etdikləri fəryadlarını eşitdim və dərdlərinə nəzər saldım.</verse>
+        <verse osisID='Exod.3.8'>Mən ona görə gəldim ki, onları Misirlilərin əlindən qurtarıb bu ölkədən çıxarım və geniş, nemətli bir diyara, süd və bal axan torpağa – Kənanlıların, Xetlilərin, Emorluların, Perizlilərin, Xivlilərin və Yevusluların ölkəsinə aparım.</verse>
+        <verse osisID='Exod.3.9'>İndi isə İsrail övladlarının fəryadı Mənə çatdı, Misirlilərin onlara etdikləri zülmü görürəm.</verse>
+        <verse osisID='Exod.3.10'>Buna görə də get. Səni fironun yanına göndərirəm ki, xalqım İsrail övladlarını Misirdən çıxarasan». </verse>
+        <verse osisID='Exod.3.11'>Musa Allaha dedi: «Axı mən kiməm ki, fironun yanına gedib İsrail övladlarını Misirdən çıxarım?»</verse>
+        <verse osisID='Exod.3.12'>Allah dedi: «Mən səninləyəm. Mənim səni göndərdiyimə əlamət bu olacaq: sən xalqı Misirdən çıxaranda bu dağda Mənə ibadət edəcəksiniz».</verse>
+        <verse osisID='Exod.3.13'>Musa Allaha dedi: «İsrail övladlarının yanına gedib “məni sizin yanınıza atalarınızın Allahı göndərib” deyəndə onlar məndən soruşa bilərlər: “Bəs Onun adı nədir?” Onda mən nə deyim?»</verse>
+        <verse osisID='Exod.3.14'>Allah Musaya dedi: «Var Olan Mənəm». Sonra dedi: «İsrail övladlarına belə söylə: “‹Mənəm› deyən sizin yanınıza məni göndərdi”».</verse>
+        <verse osisID='Exod.3.15'>O, Musaya belə dedi: «İsrail övladlarına söylə: “Atalarınızın Allahı, İbrahimin Allahı, İshaqın Allahı və Yaqubun Allahı Rəbb məni sizin yanınıza göndərdi”. Adım əbədi olaraq budur. Qoy Məni nəsildən-nəslə belə xatırlasınlar. </verse>
+        <verse osisID='Exod.3.16'>Get, İsrail ağsaqqallarını topla və onlara belə söylə: “Atalarınızın Allahı, İbrahimin, İshaqın və Yaqubun Allahı Rəbb mənə görünərək bunları dedi: ‹Siz və Misirdə başınıza gətirilənlərin hamısı nəzərimdədir.</verse>
+        <verse osisID='Exod.3.17'>Söz verdim ki, sizi Misirdəki əziyyətdən qurtarıb Kənanlıların, Xetlilərin, Emorluların, Perizlilərin, Xivlilərin və Yevusluların ölkəsinə – süd və bal axan torpağa aparacağam›”. </verse>
+        <verse osisID='Exod.3.18'>İsrail ağsaqqalları sənin sözünə qulaq asacaqlar. Sən onlarla birgə Misir padşahının yanına gedib de: “İbranilərin Allahı Rəbb bizə göründü. İndi bizə izin ver ki, çöldə birlikdə üç günlük yol gedək və orada Allahımız Rəbbə qurban gətirək”.</verse>
+        <verse osisID='Exod.3.19'>Amma bilirəm ki, Misir padşahı qüdrətli əl vasitəsilə məcbur olmasa, sizin getməyinizə izin verməyəcək.</verse>
+        <verse osisID='Exod.3.20'>Mən də əlimi uzadıb orada hər cür möcüzələr edərək Misiri vuracağam; bundan sonra Misir padşahı sizi buraxacaq.</verse>
+        <verse osisID='Exod.3.21'>Bu xalqa qarşı Misirlilərin gözündə lütf qazandıracağam ki, yola düşdüyünüz zaman əliboş getməyəsiniz.</verse>
+        <verse osisID='Exod.3.22'>Hər qadın öz qonşusundan, yaxınlıqda qalan qadından qızıl-gümüş əşya və paltar istəsin. Bunlarla oğul və qızlarınızı bəzəyəcəksiniz, beləcə Misirliləri soyacaqsınız».  </verse>
+      </chapter>
+      <chapter osisID='Exod.4'>
+        <verse osisID='Exod.4.1'/>
+        <verse osisID='Exod.4.2'>Rəbb Musaya dedi: «Sənin əlindəki nədir?» O dedi: «Əsa».</verse>
+        <verse osisID='Exod.4.3'>Rəbb dedi: «Onu yerə at». Musa onu yerə atdı və əsa ilan oldu. Musa onun qabağından qaçdı.</verse>
+        <verse osisID='Exod.4.4'>Rəbb Musaya dedi: «Əlini uzadıb onun quyruğundan tut». Musa əlini uzadıb tutanda o yenə əlində əsa oldu.</verse>
+        <verse osisID='Exod.4.5'>Sonra Rəbb dedi: «Bu əlamət ona görədir ki, İsraillilər atalarının Allahı, İbrahimin Allahı, İshaqın Allahı və Yaqubun Allahı Rəbbin sənə göründüyünə inansınlar». </verse>
+        <verse osisID='Exod.4.6'>Rəbb yenə dedi: «İndi əlini qoynuna qoy». Musa əlini qoynuna qoydu. Onu qoynundan çıxaranda, əli cüzama tutulub qar kimi ağappaq oldu.</verse>
+        <verse osisID='Exod.4.7'>Sonra Rəbb dedi: «Əlini yenə qoynuna qoy». Musa yenə əlini qoynuna qoydu. Əlini qoynundan götürəndə əli yenə də bədəni kimi oldu.</verse>
+        <verse osisID='Exod.4.8'>Rəbb davam etdi: «Əgər sənə inanmasalar və əvvəlki əlaməti qəbul etməsələr, sonrakı əlaməti qəbul edəcəklər.</verse>
+        <verse osisID='Exod.4.9'>Bu iki əlamətə də inanmayıb sözünə qulaq asmasalar, Nil çayının suyundan götürüb quruya tök. Çaydan götürdüyün su quruda qana çevriləcək». </verse>
+        <verse osisID='Exod.4.10'>Musa Rəbbə dedi: «Ya Xudavənd, mən nə keçmişdə, nə də qulunla danışdığın vaxt natiq olmamışam, çünki dili ağır, səlis danışmayan bir adamam».</verse>
+        <verse osisID='Exod.4.11'>Rəbb ona dedi: «Ağzı insana kim verib? İnsanı lal, kar, kor yaxud gözlü edən kimdir? Bunu edən Mən Rəbb deyiləmmi?</verse>
+        <verse osisID='Exod.4.12'>İndi get, Mən ağzınla danışacağam və deyəcəyin sözü sənə öyrədəcəyəm». </verse>
+        <verse osisID='Exod.4.13'>Musa dedi: «Ya Xudavənd, yalvarıram, başqa adamı göndər».</verse>
+        <verse osisID='Exod.4.14'>Rəbb Musaya qəzəblənib dedi: «Qardaşın Levili Harun yoxdurmu? Bilirəm ki, onun yaxşı nitqi var. İndi o səni qarşılamağa gəlir. Səni görəndə ürəkdən sevinəcək.</verse>
+        <verse osisID='Exod.4.15'>Qardaşınla danış, nə demək lazımdırsa, ona başa sal. Mən isə sənin və onun ağzı ilə danışacağam. Sizə nə etməyi öyrədəcəyəm.</verse>
+        <verse osisID='Exod.4.16'>Sənin əvəzinə xalqla Harun danışacaq. O sənin üçün ağız kimi, sən isə onun üçün Allah kimi olacaqsan.</verse>
+        <verse osisID='Exod.4.17'>Bu əsanı əlinə götür; onunla əlamətlər göstərəcəksən». </verse>
+        <verse osisID='Exod.4.18'>Musa oradan getdi və qayınatası Yetronun yanına qayıdıb dedi: «İzin ver qayıdıb Misirdəki xalqımın yanına gedim, görüm onlar sağ-salamatdırlar ya yox?» Yetro Musaya dedi: «Salamat get».</verse>
+        <verse osisID='Exod.4.19'>Midyan torpağında Rəbb Musaya dedi: «Misirə qayıt, çünki sənin canını almaq istəyən adamların hamısı ölüb».</verse>
+        <verse osisID='Exod.4.20'>Musa arvadını və oğullarını götürüb eşşəyə mindirdi və Allahın buyurduğu əsanı əlinə götürüb Misirə yollandı. </verse>
+        <verse osisID='Exod.4.21'>Rəbb Musaya dedi: «Misirə qayıdanda sənə buyurduğum bütün möcüzələrə fikir ver və fironun hüzurunda onları göstər; ancaq Mən onun ürəyini inadkarlaşdıracağam və o, xalqı buraxmayacaq.</verse>
+        <verse osisID='Exod.4.22'>Firona söyləyəcəksən: “Rəbb belə deyir: İsrail Mənim oğlum, Mənim ilkimdir.</verse>
+        <verse osisID='Exod.4.23'>Sənə dedim ki, Mənə ibadət etmək üçün oğlumu burax! Sən isə onu buraxmaqdan boyun qaçırdın. Onda Mən sənin ilk oğlunu öldürəcəyəm”». </verse>
+        <verse osisID='Exod.4.24'>Yolda gecələyərkən Rəbb Musaya rast gəldi və onu öldürmək istədi.</verse>
+        <verse osisID='Exod.4.25'>O zaman Sippora çaxmaq daşı götürüb oğlunu sünnət etdi və sünnət ətini Musanın ayaqlarına toxundurub dedi: «Sən mənim qan adaxlımsan».</verse>
+        <verse osisID='Exod.4.26'>Beləliklə, Rəbb ondan əl çəkdi. </verse>
+        <verse osisID='Exod.4.27'>Rəbb Haruna dedi: «Musanı qarşılamaq üçün səhraya get». Harun gedib Allahın dağında qardaşına rast gəldi və onunla öpüşdü.</verse>
+        <verse osisID='Exod.4.28'>Musa Haruna Rəbb onu necə göndərdiyini bildirdi. Rəbbin bütün sözlərini və ona göstərmək üçün əmr etdiyi bütün əlamətləri barədə Haruna danışdı.</verse>
+        <verse osisID='Exod.4.29'>Musa və Harun gedib İsrail övladlarının bütün ağsaqqallarını topladılar.</verse>
+        <verse osisID='Exod.4.30'>Harun Rəbbin Musaya söylədiyi sözlərin hamısını onlara dedi və xalqın qarşısında əlamətlər göstərdi.</verse>
+        <verse osisID='Exod.4.31'>Xalq bunlara inandı. Onlar Rəbbin İsrail övladlarının əziyyətini görüb nəzər saldığını eşidəndə əyilib Ona səcdə etdilər.  </verse>
+      </chapter>
+      <chapter osisID='Exod.5'>
+        <verse osisID='Exod.5.1'>
+          Musa və Harun gəlib firona dedilər: «İsrailin Allahı Rəbb belə deyir: “Xalqımı burax ki, səhrada Mənim üçün bayram keçirsinlər!”»</verse>
+        <verse osisID='Exod.5.2'>Firon dedi: «Rəbb kimdir ki, Onun səsinə qulaq asıb İsrail övladlarını buraxım? Rəbbi tanımıram, İsrail övladlarını da buraxmıram».</verse>
+        <verse osisID='Exod.5.3'>Onlar dedilər: «İbranilərin Allahı bizə göründü. Qoy səhrada üç gün yol gedək və Allahımız Rəbbə qurban gətirək ki, bizə vəba göndərməsin yaxud da qılıncla məhv etməsin».</verse>
+        <verse osisID='Exod.5.4'>Misir padşahı onlara dedi: «Ey Musa və Harun, nə üçün xalqı işindən ayırırsınız? Gedin, işinizi görün».</verse>
+        <verse osisID='Exod.5.5'>Sonra firon dedi: «Artıq ölkədə xalq çoxdur, siz isə onları işindən ayırıb istirahət verirsiniz». </verse>
+        <verse osisID='Exod.5.6'>Həmin gün firon xalqın nəzarətçilərinə və gözətçilərinə əmr edib dedi:</verse>
+        <verse osisID='Exod.5.7'>«İndiyə kimi etdiyinizdən fərqli olaraq, bir daha xalqa kərpic düzəltmək üçün saman verməyin. Qoy özləri gedib saman yığsınlar.</verse>
+        <verse osisID='Exod.5.8'>Ancaq indiyə qədər onların üzərlərinə qoyduğunuz gündəlik kərpic sayını azaltmayın. Çünki onlar tənbəldirlər və buna görə də “gedək Allahımıza qurban gətirək” deyib fəryad edirlər.</verse>
+        <verse osisID='Exod.5.9'>Bu adamlara daha ağır iş verilsin ki, çox çalışsınlar və yalanlara fikir verməsinlər». </verse>
+        <verse osisID='Exod.5.10'>Xalqın nəzarətçi və gözətçiləri adamların yanına gəlib onlara dedilər: «Firon belə deyir: “Mən sizə saman verməyəcəyəm.</verse>
+        <verse osisID='Exod.5.11'>Gedin, özünüz haradan istəyirsiniz, saman götürün, ancaq işiniz azalmayacaq”».</verse>
+        <verse osisID='Exod.5.12'>Xalq bütün Misir torpağına səpələnib saman əvəzinə küləş yığmağa başladı.</verse>
+        <verse osisID='Exod.5.13'>Nəzarətçilər onları məcbur edərək deyirdilər: «Sizə saman verilən vaxt gördüyünüz gündəlik işi yerinə yetirin».</verse>
+        <verse osisID='Exod.5.14'>Firon nəzarətçiləri İsrail övladlarının üzərinə qoyduqları İsrailli gözətçiləri döyüb dedilər: «Niyə dünən və bu gün indiyə qədər olan gündəlik kərpic sayını yerinə yetirməmisiniz?» </verse>
+        <verse osisID='Exod.5.15'>İsrail övladlarından olan gözətçilər fironun yanına gəlib ona fəryad edərək dedilər: «Qullarınla niyə belə rəftar edirsən?</verse>
+        <verse osisID='Exod.5.16'>Qullarına saman vermirlər, ancaq bizə “kərpiclər düzəldin” deyirlər. Budur, qulların döyülür. Bu sənin xalqının günahıdır».</verse>
+        <verse osisID='Exod.5.17'>O isə dedi: «Tənbəlsiniz, tənbəl, buna görə də “gedək, Rəbbə qurban gətirək” deyirsiniz.</verse>
+        <verse osisID='Exod.5.18'>İndi gedin işləyin. Sizə saman verilməyəcək, ancaq gündəlik kərpic sayını düzəltməlisiniz».</verse>
+        <verse osisID='Exod.5.19'>İsrailli gözətçilər «sizin üçün müəyyən olunmuş gündəlik kərpic sayı azalmayacaq» sözlərini eşidəndə pis vəziyyətə düşdüklərini anladılar.</verse>
+        <verse osisID='Exod.5.20'>İsrailli gözətçilər fironun yanından çıxanda yolda durub onları gözləyən Musa və Harunla rastlaşıb</verse>
+        <verse osisID='Exod.5.21'>dedilər: «Qoy Rəbb sizin nə etdiyinizi görsün və sizi məhkum etsin! Siz bizi fironla əyanlarının gözündə iyrənc etdiniz və bizi öldürmək üçün əllərinə qılınc verdiniz». </verse>
+        <verse osisID='Exod.5.22'>Musa Rəbbə müraciət edib dedi: «Ey Xudavənd, nə üçün xalqı belə bəlaya saldın? Məni niyə göndərdin?</verse>
+        <verse osisID='Exod.5.23'>Sənin adınla fironla danışmaq üçün gələndən bəri o bu xalqı bəlaya salır, Sən isə onları heç azad etmirsən».  </verse>
+      </chapter>
+      <chapter osisID='Exod.6'>
+        <verse osisID='Exod.6.1'>Rəbb Musaya dedi: «İndi Mənim firona nə edəcəyimi görəcəksən: qüdrətli əllə məcbur olanda İsrail xalqını buraxacaq, qüdrətli əllə məcbur olub onları ölkəsindən qovacaq». </verse>
+        <verse osisID='Exod.6.2'>Sonra Allah Musaya dedi: «Mən Rəbbəm.</verse>
+        <verse osisID='Exod.6.3'>Mən İbrahimə, İshaqa və Yaquba Külli-İxtiyar Allah adı ilə göründüm, ancaq Rəbb adı ilə Özümü onlara tanıtdırmadım.</verse>
+        <verse osisID='Exod.6.4'>Onlarla da Mən əhd bağladım ki, qərib yaşadıqları ölkəni – Kənan torpağını onlara verim.</verse>
+        <verse osisID='Exod.6.5'>İndi də Misirlilərin əsarətdə saxladığı İsrail övladlarının iniltisini eşidib Öz əhdimi xatırladım.</verse>
+        <verse osisID='Exod.6.6'>Buna görə də İsrail övladlarına söylə: “Mən Rəbbəm. Sizi Misirlilərin zülmündən qurtaracağam, onların əsarətindən çıxaracağam və qolumu uzadıb böyük cəzalar bahasına sizi satın alacağam.</verse>
+        <verse osisID='Exod.6.7'>Sizi Özümə xalq edəcəyəm və sizin Allahınız olacağam. Onda biləcəksiniz ki, sizi Misirlilərin zülmündən qurtaran Allahınız Rəbb Mənəm.</verse>
+        <verse osisID='Exod.6.8'>Mən İbrahimə, İshaqa və Yaquba and içərək verəcəyimi vəd etdiyim torpağa sizi aparıb, oranı sizə mülk olaraq verəcəyəm. Mən Rəbbəm”».</verse>
+        <verse osisID='Exod.6.9'>Musa İsrail övladlarına elə söylədi. Ancaq onlar ruhdan düşdüklərinə və ağır əsarət çəkdiklərinə görə Musaya qulaq asmadılar. </verse>
+        <verse osisID='Exod.6.10'>Rəbb Musaya dedi:</verse>
+        <verse osisID='Exod.6.11'>«Misir padşahı fironun yanına gedib söylə ki, İsrail övladlarını ölkəsindən buraxsın!»</verse>
+        <verse osisID='Exod.6.12'>Musa Rəbbin önündə dedi: «İsrail övladları mənə qulaq asmadı, firon mənə necə qulaq asacaq? Mən yaxşı danışa bilmirəm».</verse>
+        <verse osisID='Exod.6.13'>Rəbb Musa və Harunla danışıb onlara İsrail övladları və Misir padşahı firon üçün əmrlər verdi ki, İsrail övladlarını Misir torpağından çıxartsınlar. </verse>
+        <verse osisID='Exod.6.14'>İsrail övladlarının nəsil başçıları bunlardır: İsrailin ilk oğlu Ruvenin oğulları: Xanok, Pallu, Xesron və Karmi; Ruvenin nəsli bunlardan ibarətdir.</verse>
+        <verse osisID='Exod.6.15'>Şimeonun oğulları: Yemuel, Yamin, Ohad, Yakin, Sohar və Kənanlı bir qadının oğlu Şaul; Şimeonun nəsli bunlardan ibarətdir.</verse>
+        <verse osisID='Exod.6.16'>Nəsillərinə görə Levinin oğulları bunlardır: Gerşon, Qohat və Merari. Levi yüz otuz yeddi il ömür sürdü.</verse>
+        <verse osisID='Exod.6.17'>Nəsillərinə görə Gerşonun oğulları: Livni və Şimey.</verse>
+        <verse osisID='Exod.6.18'>Qohatın oğulları: Amram, İshar, Xevron və Uzziel; Qohat yüz otuz üç il ömür sürdü.</verse>
+        <verse osisID='Exod.6.19'>Merarinin oğulları: Maxli və Muşi; nəsillərinə görə Levinin ailəsi bunlardan ibarətdir.</verse>
+        <verse osisID='Exod.6.20'>Amram bibisi Yokevedi arvad olaraq aldı; arvadı ona Harunu və Musanı doğdu. Amram yüz otuz yeddi il ömür sürdü.</verse>
+        <verse osisID='Exod.6.21'>İsharın oğulları: Qorah, Nefeq və Zikri.</verse>
+        <verse osisID='Exod.6.22'>Uzzielin oğulları: Mişael, Elsafan və Sitri.</verse>
+        <verse osisID='Exod.6.23'>Harun Naxşonun bacısı Amminadavın qızı Elişevanı arvad aldı; arvadı ona Nadavı, Avihunu, Eleazarı və İtamarı doğdu.</verse>
+        <verse osisID='Exod.6.24'>Qorahın oğulları: Assir, Elqana və Aviasaf; Qorahın ailəsi bunlardan ibarətdir.</verse>
+        <verse osisID='Exod.6.25'>Harunun oğlu Eleazar Putielin qızlarından birini arvad aldı; arvadı ona Pinxası doğdu. Ailələrinə görə Levililərin nəsil başçıları bunlardır. </verse>
+        <verse osisID='Exod.6.26'>Adları çəkilən Harun və Musa o adamlardır ki, Rəbb onlara «İsrail övladlarını dəstələrlə Misir torpağından çıxarın» demişdi.</verse>
+        <verse osisID='Exod.6.27'>Onlar həmin Musa və Harun idi ki, İsrail övladlarını Misir torpağından çıxarmaq üçün Misir padşahı fironla danışmışdılar. </verse>
+        <verse osisID='Exod.6.28'>Misir torpağında Rəbbin Musa ilə danışdığı gün</verse>
+        <verse osisID='Exod.6.29'>Rəbb Musaya dedi: «Mən Rəbbəm! Sənə dediyim bütün sözləri Misir padşahı firona söylə».</verse>
+        <verse osisID='Exod.6.30'>Musa Rəbbin önündə dedi: «Mən yaxşı danışa bilmirəm, firon mənə necə qulaq asacaq?»  </verse>
+      </chapter>
+      <chapter osisID='Exod.7'>
+        <verse osisID='Exod.7.1'>Rəbb Musaya dedi: «Səni firon üçün Allah kimi qoydum, qardaşın Harun isə sənin peyğəmbərin olacaq.</verse>
+        <verse osisID='Exod.7.2'>Mənim sənə verdiyim əmri qardaşın Haruna söylə. Qoy o da firona söyləsin ki, İsrail övladlarını ölkəsindən buraxsın!</verse>
+        <verse osisID='Exod.7.3'>Lakin Mən fironun ürəyini inadkar edəcəyəm ki, Misir torpağında göstərəcəyim çoxlu əlamətlər və möcüzələrə baxmayaraq,</verse>
+        <verse osisID='Exod.7.4'>firon sizə qulaq asmasın. Onda Mən əlimi Misir torpağına uzadıb böyük cəzalar göndərərək ordularımı – xalqım İsrail övladlarını onların arasından dəstələrlə çıxaracağam.</verse>
+        <verse osisID='Exod.7.5'>Əlimi Misir torpağına uzadaraq İsrail övladlarını onların arasından çıxardığım vaxt Misirlilər biləcəklər ki, Rəbb Mənəm!» </verse>
+        <verse osisID='Exod.7.6'>Rəbb Musa və Haruna necə əmr etmişdisə, onlar da elə etdilər.</verse>
+        <verse osisID='Exod.7.7'>Fironla danışdıqları vaxt Musanın səksən, Harunun isə səksən üç yaşı var idi. </verse>
+        <verse osisID='Exod.7.8'>Rəbb Musaya və Haruna dedi:</verse>
+        <verse osisID='Exod.7.9'>«Firon sizə “məni inandırmaq üçün bir möcüzə göstərin” deyəndə Musa Haruna desin: “Öz əsanı götürüb fironun önündə yerə at ki, ilana dönsün”». </verse>
+        <verse osisID='Exod.7.10'>Musa və Harun fironun yanına gəlib Rəbb necə əmr etmişdisə, elə də etdilər. Harun öz əsasını fironun və onun əyanlarının qarşısında yerə atdı və əsa ilana döndü.</verse>
+        <verse osisID='Exod.7.11'>Firon isə müdrik adamları və cadugərləri çağırdı. Misir sehrbazları da öz sehrləri ilə belə etdilər.</verse>
+        <verse osisID='Exod.7.12'>Hər biri öz əsasını yerə atıb ilana döndərdi, ancaq Harunun əsası onların əsalarını uddu.</verse>
+        <verse osisID='Exod.7.13'>Lakin Rəbbin söylədiyi kimi fironun ürəyi inadkar oldu və onlara qulaq asmadı. </verse>
+        <verse osisID='Exod.7.14'>Rəbb Musaya dedi: «Fironun inadkar ürəyi var, xalqı buraxmaqdan boyun qaçırır.</verse>
+        <verse osisID='Exod.7.15'>Sən sabah səhər firon suya tərəf gedəndə qarşısına çıx. İlana dönən əsanı əlinə götürüb, onu Nil çayının sahilində gözlə.</verse>
+        <verse osisID='Exod.7.16'>Sonra firona de: “İbranilərin Allahı Rəbb məni yanına göndərdi ki, sənə deyim: ‹Xalqımı burax ki, səhrada Mənə ibadət etsin!› Ancaq sən indiyə qədər qulaq asmadın,</verse>
+        <verse osisID='Exod.7.17'>buna görə də Rəbb belə deyir: ‹Bundan biləcəksən ki, Rəbb Mənəm. Bax mən əlimdəki əsanı Nil çayının suyuna vuracağam, onda su qana dönəcək.</verse>
+        <verse osisID='Exod.7.18'>Çayda olan balıqlar öləcək və çay iylənəcək, Misirlilər çaydan su içməyə iyrənəcəklər›”». </verse>
+        <verse osisID='Exod.7.19'>Rəbb Musaya dedi: «Haruna belə söylə: “Əsanı götür və əlini bütün Misir çayları, arxları, gölləri, hovuzları üzərinə uzat”. Onlar qana dönsün, bundan başqa bütün Misir torpağında həm taxta, həm də daş qablarda qan olacaq». </verse>
+        <verse osisID='Exod.7.20'>Rəbb Musa və Haruna necə əmr etmişdisə, onlar da elə etdilər: fironun və onun əyanlarının qarşısında Harun əsasını qaldırdı və çaydakı suya vurdu. Nil çayındakı bütün su qana döndü;</verse>
+        <verse osisID='Exod.7.21'>çaydakı balıqlar öldü və çay iyləndi. Misirlilər buradan su içə bilmədilər. Misir torpağı qan içində idi.</verse>
+        <verse osisID='Exod.7.22'>Amma Misir sehrbazları da öz sehrləri ilə belə etdilər. Rəbbin söylədiyi kimi fironun ürəyi inadkar oldu və onlara qulaq asmadı.</verse>
+        <verse osisID='Exod.7.23'>Firon qayıdıb öz sarayına gəldi; bu işi də ürəyinə salmadı.</verse>
+        <verse osisID='Exod.7.24'>Bütün Misirlilər Nil çayı sahilində yer qazmağa başladılar ki, içməli su tapsınlar. Çünki çayın suyundan içə bilmirdilər.</verse>
+        <verse osisID='Exod.7.25'>Rəbb çaya bəla göndərəndən sonra yeddi gün keçdi.  </verse>
+      </chapter>
+      <chapter osisID='Exod.8'>
+        <verse osisID='Exod.8.1'>
+          Rəbb Musaya dedi: «Fironun yanına gedib ona söylə: “Rəbb belə deyir: xalqımı burax ki, Mənə ibadət etsin!</verse>
+        <verse osisID='Exod.8.2'>Əgər sən xalqımı buraxmaq istəməsən, mən sənin bütün torpağını qurbağalarla doldurub bəlaya salacağam.</verse>
+        <verse osisID='Exod.8.3'>Çay qurbağalarla qaynaşacaq və oradan çıxıb sənin sarayında, yataq otağında, yatağının üstündə gəzəcəklər, əyanlarının, xalqının evlərinə, təndirlərinə və xəmir tabaqlarına girəcəklər.</verse>
+        <verse osisID='Exod.8.4'>Sənin, xalqının və bütün əyanlarının üstünə qurbağalar çıxacaq”». </verse>
+        <verse osisID='Exod.8.5'>Rəbb Musaya dedi: «Haruna belə söylə: əsanı götür və əlini çayların, arxların və göllərin üzərinə uzat. Qoy Misir torpağı qurbağalarla dolsun».</verse>
+        <verse osisID='Exod.8.6'>Harun əlini Misir suları üzərinə uzatdı və oradan qurbağalar çıxıb Misir torpağını bürüdü.</verse>
+        <verse osisID='Exod.8.7'>Sehrbazlar da öz sehrləri ilə belə etdilər və Misir torpağına qurbağalar yetirdilər. </verse>
+        <verse osisID='Exod.8.8'>Firon Musanı və Harunu çağırıb dedi: «Rəbbə yalvarın ki, məndən və xalqımdan qurbağaları rədd etsin, onda Rəbbə qurban gətirmək üçün xalqı buraxaram».</verse>
+        <verse osisID='Exod.8.9'>Musa firona dedi: «Söylə, nə vaxt sənin, əyanların və xalqın üçün dua edim ki, qurbağalar səndən və evlərindən yox olsun və yalnız çayda qalsınlar?»</verse>
+        <verse osisID='Exod.8.10'>Firon dedi: «Sabah». Musa dedi: «Sən dediyin kimi olacaq. Bundan biləcəksən ki, Allahımız Rəbbə bənzəri yoxdur!</verse>
+        <verse osisID='Exod.8.11'>Qurbağalar səndən, evlərindən, əyanlarından və xalqından rədd olacaq, yalnız çayda qalacaqlar».</verse>
+        <verse osisID='Exod.8.12'>Musa və Harun fironun yanından çıxdılar.  Musa Rəbbin fironun üzərinə göndərdiyi qurbağalara görə Ona yalvardı.</verse>
+        <verse osisID='Exod.8.13'>Rəbb də Musanın sözünə əməl etdi. Evlərdə, həyətlərdə, tarlalarda olan qurbağalar öldü.</verse>
+        <verse osisID='Exod.8.14'>Onları qalaq-qalaq yığdılar və torpaq iylənməyə başladı.</verse>
+        <verse osisID='Exod.8.15'>Ancaq firon vəziyyətin yüngülləşdiyini görəndə Rəbbin söylədiyi kimi ürəyində inad etdi və onlara qulaq asmadı. </verse>
+        <verse osisID='Exod.8.16'>Rəbb Musaya dedi: «Haruna belə söylə: “Əsanı uzadıb yerin tozuna vur ki, o bütün Misir ölkəsində mığmığalara dönsün”».</verse>
+        <verse osisID='Exod.8.17'>Onlar belə də etdilər. Harun əlindəki əsanı uzadıb yerin tozuna vurdu və insanların da, heyvanların da üstünə mığmığalar qondu. Bütün Misir torpağında yerin tozu mığmığaya döndü.</verse>
+        <verse osisID='Exod.8.18'>Sehrbazlar da öz sehrləri ilə mığmığalar gətirmək istədilər, ancaq bunu bacarmadılar. İnsanların da, heyvanların da üstünə mığmığalar qondu.</verse>
+        <verse osisID='Exod.8.19'>Sehrbazlar firona dedilər: «Bunda Allahın əli var». Ancaq Rəbbin söylədiyi kimi fironun ürəyi inadkar oldu və o qulaq asmadı. </verse>
+        <verse osisID='Exod.8.20'>Rəbb Musaya dedi: «Səhər tezdən qalx. Firon suya tərəf gedəndə onun qarşısına gedib belə söylə: “Rəbb belə deyir: xalqımı burax ki, Mənə ibadət etsin!</verse>
+        <verse osisID='Exod.8.21'>Əgər sən onları azad etmək istəməsən, əyanların, xalqının üzərinə və evlərinin içinə mozalan yığınları göndərəcəyəm. Misirlilərin evləri, yaşadıqları torpaq mozalanlarla dolacaq.</verse>
+        <verse osisID='Exod.8.22'>Ancaq o gün xalqımın yaşadığı Qoşen torpağını ayıracağam ki, orada mozalanlar olmasın. Bundan biləcəksən ki, bu ölkədə Rəbb Mənəm.</verse>
+        <verse osisID='Exod.8.23'>Sənin xalqınla Öz xalqım arasında fərq qoyacağam. Bu əlamət sabah olacaq”».</verse>
+        <verse osisID='Exod.8.24'>Rəbb belə də etdi. Fironun sarayını, əyanlarının evlərini, bütün Misir torpağını ağır mozalan yığını basdı. Mozalanların əlindən ölkə viran oldu. </verse>
+        <verse osisID='Exod.8.25'>Firon Musanı və Harunu çağırıb dedi: «Gedin, bu ölkədə öz Allahınıza qurban gətirin».</verse>
+        <verse osisID='Exod.8.26'>Ancaq Musa dedi: «Belə etmək olmaz, çünki bizim Allahımız Rəbbə qurban kəsməyimiz Misirlilərdə ikrah hissi oyadacaq. Misirlilərin qabağında ikrah oyadan qurbanlar kəssək, onlar bizi daşqalaq etməzlərmi?</verse>
+        <verse osisID='Exod.8.27'>Biz istəyirik ki, səhrada üç gün yol gedək və Allahımız Rəbbin bizə əmr etdiyi kimi qurban gətirək».</verse>
+        <verse osisID='Exod.8.28'>Firon dedi: «Mən sizi buraxıram ki, səhrada Allahınız Rəbbə qurban gətirəsiniz, ancaq çox uzağa getməyin. Mənim üçün də yalvarın».</verse>
+        <verse osisID='Exod.8.29'>Musa dedi: «Mən sənin yanından gedirəm. Rəbbə dua edəcəyəm ki, sabah fironu, əyanlarını və xalqını mozalanlardan qurtarsın. Ancaq qoy firon xalqı Rəbbə qurban gətirməyə buraxmamaqla yenə də bizi aldatmasın».</verse>
+        <verse osisID='Exod.8.30'>Musa fironun yanından gedib Rəbbə yalvardı.</verse>
+        <verse osisID='Exod.8.31'>Rəbb Musanın sözünə əməl etdi. Fironu, əyanlarını və xalqını mozalanlardan qurtardı. Daha mozalan qalmadı.</verse>
+        <verse osisID='Exod.8.32'>Ancaq bu dəfə də firon ürəyində inadkarlıq etdi və xalqı buraxmadı.  </verse>
+      </chapter>
+      <chapter osisID='Exod.9'>
+        <verse osisID='Exod.9.1'>
+          Rəbb Musaya dedi: «Fironun yanına gedib ona söylə: “İbranilərin Allahı Rəbb belə deyir: xalqımı burax ki, Mənə ibadət etsin!</verse>
+        <verse osisID='Exod.9.2'>Əgər sən onları buraxmaqdan boyun qaçırıb saxlamağı davam etsən,</verse>
+        <verse osisID='Exod.9.3'>budur, Rəbb tarlanda olan heyvanların – at, eşşək, dəvə, mal-qara və qoyun-keçinin üzərinə əlini qaldıracaq; çox ağır qırğın olacaq.</verse>
+        <verse osisID='Exod.9.4'>Ancaq Rəbb İsrail övladlarının heyvanları ilə Misirlilərin heyvanları arasında fərq qoyacaq. İsrail övladlarına məxsus olan heyvanlardan heç biri ölməyəcək”». </verse>
+        <verse osisID='Exod.9.5'>Rəbb vaxt təyin edib dedi: «Rəbb bunu ölkədə sabah edəcək». </verse>
+        <verse osisID='Exod.9.6'>Məhz bunu da Rəbb səhəri gün etdi. Misirlilərin bütün heyvanları öldü. Ancaq İsrail övladlarının heyvanlarından heç biri ölmədi.</verse>
+        <verse osisID='Exod.9.7'>Firon vəziyyəti soruşdu və İsrail övladlarının heyvanlarından heç birinin ölmədiyi barədə xəbər aldı. Ancaq fironun ürəyi inadkar oldu və o, xalqı buraxmadı. </verse>
+        <verse osisID='Exod.9.8'>Rəbb Musaya və Haruna dedi: «Kürədən əlinizə ovuc-ovuc qurum götürün. Qoy Musa onu fironun gözü önündə göyə səpsin.</verse>
+        <verse osisID='Exod.9.9'>Bütün Misir torpağında toz qalxacaq, insanların və heyvanların bədənində irinli çibanlar əmələ gətirəcək». </verse>
+        <verse osisID='Exod.9.10'>Onlar kürə qurumunu götürüb fironun hüzurunda dayandılar. Musa onu göyə qədər səpdi, insanların və heyvanların bədəninə irinli çibanlar çıxdı.</verse>
+        <verse osisID='Exod.9.11'>Sehrbazlar da bu cəzaya görə Musanın qabağında dayana bilmədilər, çünki sehrbazların və bütün Misirlilərin bədənlərinə çibanlar çıxmışdı.</verse>
+        <verse osisID='Exod.9.12'>Rəbbin Musaya söylədiyi kimi oldu: Rəbb fironun ürəyini inadkar etdi və firon onlara qulaq asmadı. </verse>
+        <verse osisID='Exod.9.13'>Rəbb Musaya dedi: «Sabah səhər tezdən qalx və fironun qarşısına gedib ona belə söylə: “İbranilərin Allahı Rəbb belə deyir: xalqımı burax ki, Mənə ibadət etsin!</verse>
+        <verse osisID='Exod.9.14'>Çünki Mən bu dəfə sənin ürəyinə, əyanlarının və xalqının da üzərinə bütün bəlalarımı göndərəcəyəm. Bundan biləcəksən ki, bütün dünyada Mənə bənzər yoxdur.</verse>
+        <verse osisID='Exod.9.15'>Əgər indi əlimi uzadıb səni və xalqını qırğınla cəzalandırmış olsaydım, yer üzündən silinib atılardın.</verse>
+        <verse osisID='Exod.9.16'>Amma ona görə səni qoruyub saxladım ki, Öz gücümü sənə göstərim və adım bütün dünyaya elan edilsin.</verse>
+        <verse osisID='Exod.9.17'>Sən hələ də Mənim xalqıma qarşı durmusan və onu buraxmırsan.</verse>
+        <verse osisID='Exod.9.18'>Budur, Mən sabah bu vaxt çox güclü bir dolu göndərəcəyəm: elə bir dolu ki Misir qurulandan indiyə qədər orada olmayıb.</verse>
+        <verse osisID='Exod.9.19'>İndi heyvanlarını və çöldə olan hər şeyini apar, çünki tarlada qalan bütün insanlar və heyvanlar evə gətirilməsə, onların üzərinə dolu yağacaq və öləcəklər”». </verse>
+        <verse osisID='Exod.9.20'>Fironun əyanlarından bəzisi Rəbbin sözündən qorxub öz qul və heyvanlarını tələsik evlərinə gətirdi.</verse>
+        <verse osisID='Exod.9.21'>Rəbbin sözünə etinasızlıq edənlər isə öz qul və heyvanlarını tarlada qoydular. </verse>
+        <verse osisID='Exod.9.22'>Rəbb Musaya dedi: «Əlini göyə uzat. Qoy bütün Misir torpağına və orada olan insanların, heyvanların və bütün tarla bitkilərinin üzərinə dolu yağsın».</verse>
+        <verse osisID='Exod.9.23'>Musa əsasını göyə qaldırdı. Rəbb ildırımla dolu göndərdi və yerə od düşdü; Rəbb Misir torpağı üzərinə dolu yağdırdı.</verse>
+        <verse osisID='Exod.9.24'>Beləliklə, çox güclü bir dolu yağdı. Dolu içində od alışırdı; Misir milləti mövcud olduğu vaxtdan bəri burada belə dolu olmamışdı.</verse>
+        <verse osisID='Exod.9.25'>Dolu bütün Misir torpağında insandan tutmuş heyvana və tarla bitkilərinə qədər hər şeyi məhv etdi. Çöldə bitən bütün otlar və ağaclar tələf oldu.</verse>
+        <verse osisID='Exod.9.26'>Ancaq İsrail övladlarının yaşadığı Qoşen torpağına dolu yağmadı. </verse>
+        <verse osisID='Exod.9.27'>Firon Musanı və Harunu çağırtdırıb onlara dedi: «Bu dəfə günah etdim. Rəbb ədalətlidir, mən və xalqım isə haqsızıq.</verse>
+        <verse osisID='Exod.9.28'>Kifayətdir! Rəbbə yalvarın ki, bu dəhşətli ildırım və dolu dayansın. Sizi azad edərəm, daha burada qalmayın».</verse>
+        <verse osisID='Exod.9.29'>Musa ona dedi: «Şəhərdən çıxanda əlimi Rəbbə tərəf qaldıracağam, ildırım dayanacaq və daha dolu yağmayacaq. Bundan biləcəksən ki, dünya Rəbbə məxsusdur.</verse>
+        <verse osisID='Exod.9.30'>Ancaq mən bilirəm ki, sən və əyanların yenə də Rəbb Allahdan qorxmursunuz». </verse>
+        <verse osisID='Exod.9.31'>Bu vaxt kətan və arpa məhsulu məhv oldu, çünki arpa dən gətirmiş, kətan isə qozalanmışdı.</verse>
+        <verse osisID='Exod.9.32'>Ancaq buğda və pərinc məhsulu məhv olmadı, çünki onlar gec yetişir. </verse>
+        <verse osisID='Exod.9.33'>Musa fironun yanından ayrılıb şəhərdən çıxdı və əlini Rəbbə tərəf qaldırdı; ildırım və dolu dayandı və yerə yağış yağmadı.</verse>
+        <verse osisID='Exod.9.34'>Firon yağışın, dolunun və ildırımın dayandığını görüb yenə də günah etməyə başladı, özü və əyanları ürəklərini inadkar etdilər.</verse>
+        <verse osisID='Exod.9.35'>Rəbbin Musa vasitəsilə söylədiyi kimi fironun ürəyi inadkarlaşdı və o, İsrail övladlarını buraxmadı.  </verse>
+      </chapter>
+      <chapter osisID='Exod.10'>
+        <verse osisID='Exod.10.1'>
+          Rəbb Musaya dedi: «Fironun yanına get. Mən fironun və əyanlarının ürəyini ona görə inadkar etmişəm ki, onların arasında Öz əlamətlərimi göstərim.</verse>
+        <verse osisID='Exod.10.2'>Sən isə Misirdə nə cür işlər etdiyimi və onlara göstərdiyim əlamətləri oğluna və nəvənə nəql edərsən. Onda biləcəksiniz ki, Rəbb Mənəm». </verse>
+        <verse osisID='Exod.10.3'>Musa və Harun yenə fironun yanına gəlib ona söylədilər: «İbranilərin Allahı Rəbb belə deyir: “Nə vaxta qədər qarşımda özünü aşağı tutmaqdan imtina edəcəksən? Xalqımı burax ki, Mənə ibadət etsin!</verse>
+        <verse osisID='Exod.10.4'>Əgər sən Mənim xalqımı azad etməsən, Mən sabah ölkənə çəyirtkələr göndərəcəyəm.</verse>
+        <verse osisID='Exod.10.5'>Çəyirtkələr yer üzünü elə örtəcək ki, torpağı görmək olmayacaq. Dolu yağandan sonra sizə qalan şeyləri də onlar yeyəcəklər; tarladakı ağaclarınızın verdiyi zoğları da yeyəcəklər.</verse>
+        <verse osisID='Exod.10.6'>Onlar sənin, əyanlarının və bütün Misirlilərin evlərini dolduracaqlar. Belə şeyi nə ataların, nə də babaların bu torpaqda məskən saldıqları gündən indiyə qədər görməmişdilər”». Musa dönüb fironun yanından çıxdı. </verse>
+        <verse osisID='Exod.10.7'>Fironun əyanları ona dedilər: «Nə vaxta qədər bu adam bizə tələ quracaq? Bu adamları burax, qoy onlar özlərinin Allahı Rəbbə ibadət etsinlər. Məgər sən hələ bilmirsən ki, Misir məhv olur?» </verse>
+        <verse osisID='Exod.10.8'>Musanı və Harunu yenə fironun yanına çağırdılar. Firon onlara dedi: «Gedin, Allahınız Rəbbə ibadət edin. Ancaq deyin görək kimlər gedəcək?»</verse>
+        <verse osisID='Exod.10.9'>Musa dedi: «Uşaq, qoca, oğul, qızlarımız, qoyun-keçi və mal-qaramızla birgə gedəcəyik, çünki Rəbbə bayram etməliyik».</verse>
+        <verse osisID='Exod.10.10'>Firon onlara dedi: «Əgər mən sizi arvad-uşağınızla birgə buraxsam, qoy Rəbb sizə kömək olsun! Yəqin sizin pis niyyətiniz var.</verse>
+        <verse osisID='Exod.10.11'>Belə olmaz! Siz kişilər gedin və Rəbbə ibadət edin. Məgər bunu istəmirsiniz?» Sonra firon onları öz hüzurundan qovdu. </verse>
+        <verse osisID='Exod.10.12'>Onda Rəbb Musaya dedi: «Əlini Misir torpağının üzərinə uzat. Qoy Misir torpağına çəyirtkələr hücum etsin və bütün ölkənin bitkilərini, dolu yağandan sonra qalan hər şeyi yesinlər».</verse>
+        <verse osisID='Exod.10.13'>Musa əsasını Misir torpağının üzərinə uzatdı. Rəbb ölkəyə bütün o günü və gecəni davam edən şərq küləyi göndərdi. Səhər açılanda şərq küləyi özü ilə çəyirtkələr gətirdi.</verse>
+        <verse osisID='Exod.10.14'>Çəyirtkələr Misir ölkəsinə hücum edərək bütün Misir torpağına yayıldılar. Onlar o qədər çox idi ki, bu qədəri heç vaxt olmayıb və bundan sonra da olmayacaq.</verse>
+        <verse osisID='Exod.10.15'>Çəyirtkələr bütün yer üzünü elə bürüdü ki, torpaq görünmürdü. Onlar ölkənin bütün bitkilərini və dolu yağandan sonra qalan bütün meyvələrini yedilər; bütün Misir torpağında nə ağaclarda, nə də çöllüklərdə heç bir yaşıllıq qalmadı.</verse>
+        <verse osisID='Exod.10.16'>Firon tələsik Musanı və Harunu çağırıb onlara dedi: «Allahınız Rəbbə və sizə qarşı günah etdim,</verse>
+        <verse osisID='Exod.10.17'>indi yenə də günahımı bağışlayın və Allahınız Rəbbə yalvarın ki, bu ölümcül bəla məni tərk etsin».</verse>
+        <verse osisID='Exod.10.18'>Musa fironun yanından çıxıb Rəbbə yalvardı.</verse>
+        <verse osisID='Exod.10.19'>Rəbb küləyi döndərib çox güclü qərb küləyi göndərdi və külək çəyirtkələri aparıb Qırmızı dənizə atdı və bütün Misir ölkəsində bir çəyirtkə belə, qalmadı.</verse>
+        <verse osisID='Exod.10.20'>Ancaq Rəbb fironun ürəyini inadkarlaşdırdı və o, İsrail övladlarını buraxmadı. </verse>
+        <verse osisID='Exod.10.21'>Sonra Rəbb Musaya dedi: «Əlini göyə tərəf uzat ki, Misir torpağında zülmət, qatı qaranlıq olsun».</verse>
+        <verse osisID='Exod.10.22'>Musa əlini göyə tərəf uzatdı və Misir torpağında üç gün qatı zülmət oldu.</verse>
+        <verse osisID='Exod.10.23'>Üç gün heç kəs bir-birini görmədi və heç kəs yerindən tərpənə bilmədi. Bütün İsrail övladlarının yaşadıqları yerlər isə işıqlıq idi. </verse>
+        <verse osisID='Exod.10.24'>Firon Musanı çağırıb dedi: «Gedin, Rəbbə ibadət edin. Qoy uşaqlarınız da sizinlə getsin, ancaq qoyun-keçiniz və mal-qaranız burada qalsın».</verse>
+        <verse osisID='Exod.10.25'>Musa isə dedi: «Sən bizə ünsiyyət qurbanları və yandırma qurbanları da verməlisən ki, Allahımız Rəbbə qurban gətirək.</verse>
+        <verse osisID='Exod.10.26'>Heyvanlarımız da bizimlə getməlidir: bir dırnaqlı da qalmamalıdır, çünki Allahımız Rəbbə qurban gətirmək üçün onları götürməliyik. Ancaq biz oraya gedib çatmamış Rəbbə nəyi qurban gətirəcəyimizi bilmirik».</verse>
+        <verse osisID='Exod.10.27'>Rəbb fironun ürəyini inadkar etdi və o, İsrail övladlarını buraxmaq istəmədi. </verse>
+        <verse osisID='Exod.10.28'>Sonra firon Musaya dedi: «Rədd ol, özünü gözlə və bir də mənim gözümə görünmə. Yenə də gözümə görünsən, öləcəksən».</verse>
+        <verse osisID='Exod.10.29'>Musa dedi: «Düz deyirsən, bir daha gözünə görünmərəm».  </verse>
+      </chapter>
+      <chapter osisID='Exod.11'>
+        <verse osisID='Exod.11.1'>Sonra Rəbb Musaya dedi: «Fironun və Misirlilərin üzərinə daha bir cəza göndərəcəyəm. Bundan sonra o sizi buradan buraxacaq. Hətta nəinki buraxacaq, buradan tamam qovacaq.</verse>
+        <verse osisID='Exod.11.2'>Xalqa çatdır ki, hər kişi öz qonşusundan və hər qadın öz rəfiqəsindən qızıl-gümüş əşyalar istəsin».</verse>
+        <verse osisID='Exod.11.3'>Rəbb Öz xalqına Misirlilərin gözündə lütf qazandırdı. Musa özü də Misir ölkəsində fironun əyanlarının və xalqın gözündə çox böyük adam idi. </verse>
+        <verse osisID='Exod.11.4'>Musa dedi: «Rəbb belə deyir: “Gecə yarısı Mən Misirin ortasından keçəcəyəm;</verse>
+        <verse osisID='Exod.11.5'>Misir torpağında taxtda oturan fironun oğlundan tutmuş dəyirman arxasında olan kəniz oğluna qədər hamının ilk oğlu öləcək. Hətta bütün heyvanların da ilk balaları öləcək.</verse>
+        <verse osisID='Exod.11.6'>Bütün Misir torpağında elə böyük fəryad qopacaq ki, indiyədək beləsi olmamışdır və bundan sonra da olmayacaq.</verse>
+        <verse osisID='Exod.11.7'>Lakin bütün İsraillilərin arasında nə insanların, nə də heyvanların üstünə heç it də hürməyəcək. Bundan biləcəksiniz ki, Rəbb İsrail övladları ilə Misirlilər arasında fərq qoymuşdur”.</verse>
+        <verse osisID='Exod.11.8'>Sonra bütün bu qulların yanıma gələcək və mənə təzim edib deyəcəklər: “Sən və ardınca gələn bütün xalq buradan çıxın!” Bundan sonra mən çıxacağam». Sonra Musa qızğın qəzəblə fironun yanından çıxdı. </verse>
+        <verse osisID='Exod.11.9'>Rəbb Musaya demişdi: «Misir torpağında möcüzələrim çoxalsın deyə firon sizə qulaq asmayacaq».</verse>
+        <verse osisID='Exod.11.10'>Musa və Harun bütün bu möcüzələri fironun hüzurunda göstərdilər. Ancaq Rəbb fironun ürəyini inadkarlaşdırdı və o, İsrail övladlarını öz torpağından buraxmırdı.  </verse>
+      </chapter>
+      <chapter osisID='Exod.12'>
+        <verse osisID='Exod.12.1'>
+            Misir torpağında Rəbb Musaya və Haruna dedi:</verse>
+        <verse osisID='Exod.12.2'>«Bu ay sizin üçün ilin ilk ayı olacaq.</verse>
+        <verse osisID='Exod.12.3'>Bütün İsrail icmasına söyləyin: qoy bu ayın onuncu günündə hər kəs öz ailəsi üçün bir quzu, hər ev üçün bir quzu götürsün.</verse>
+        <verse osisID='Exod.12.4'>Əgər bir adamın ailəsi bir quzu üçün sayca azdırsa, qoy o adam evinə yaxın qonşusu ilə birgə bir quzu götürüb insanların sayına, hər kəsin yeyəcəyinə görə bölsün.</verse>
+        <verse osisID='Exod.12.5'>Özünüzə birillik qüsursuz erkək heyvan götürün: ya qoyunlardan bir toğlu yaxud keçilərdən bir çəpiş olsun.</verse>
+        <verse osisID='Exod.12.6'>Onu ayın on dördüncü gününə qədər saxlayın. Qoy axşamçağı bütün İsrail icmasının camaatı onu kəssin.</verse>
+        <verse osisID='Exod.12.7'>Qurbanın qanından götürüb onu yeyəcəkləri evin qapısının hər iki yan taxtasına və üst dirəyinə sürtsünlər.</verse>
+        <verse osisID='Exod.12.8'>Qoy həmin gecə onun ətini yesinlər; əti odda bişirib mayasız çörək və acı göyərti ilə yesinlər.</verse>
+        <verse osisID='Exod.12.9'>Onu çiy yaxud suda qaynadılmış halda yox, başı, ayaqları və içalatı ilə birgə odda bişirilmiş halda yeyin.</verse>
+        <verse osisID='Exod.12.10'>Ondan səhərə qədər bir şey saxlamayın və səhər qalanını yandırın.</verse>
+        <verse osisID='Exod.12.11'>Onu belə yeyin: beliniz qurşanmış, çarıqlarınız ayağınızda və dəyənəyiniz əlinizdə olsun, onu tələsik yeyin. Bu, Rəbbin Pasxasıdır. </verse>
+        <verse osisID='Exod.12.12'>Mən isə o gecə Misir torpağından keçəcəyəm. Misir torpağında olan həm insanların bütün ilk oğullarını, həm də heyvanların bütün ilk balalarını öldürəcəyəm. Bütün Misir allahlarına da cəza verəcəyəm. Rəbb Mənəm.</verse>
+        <verse osisID='Exod.12.13'>Sizin olduğunuz evlər üzərindəki qan sizin üçün əlamət olacaq. Qanı görəndə yan keçəcəyəm və Misir ölkəsini cəzalandırdığım zaman sizə məhvedici bəla gəlməyəcək.</verse>
+        <verse osisID='Exod.12.14'>Bu gün sizin üçün xatirə günü olacaq və onu Rəbb üçün bayram edəcəksiniz. Nəsildən-nəslə əbədi qayda olaraq onu bayram edin. </verse>
+        <verse osisID='Exod.12.15'>Yeddi gün mayasız çörək yeyin. Hətta birinci gün evlərinizdən mayanı yığışdırın. Çünki birinci gündən yeddinci günə qədər mayalı çörək yeyən hər kəsin ayağı İsrail övladlarının arasından kəsilməlidir.</verse>
+        <verse osisID='Exod.12.16'>Sizin üçün birinci və yeddinci günlərdə müqəddəs toplantı olsun. Bu günlər hər kəs özünə yemək hazırlamaqdan başqa heç bir iş görməsin.</verse>
+        <verse osisID='Exod.12.17'>Bu Mayasız Çörək bayramına ona görə riayət edin ki, məhz həmin gün sizi dəstələrlə Misir torpağından çıxartdım. Qoy nəsildən-nəslə bu sizin üçün əbədi qayda olsun və bu günə riayət edin.</verse>
+        <verse osisID='Exod.12.18'>Birinci ayın on dördüncü gününün axşamından ayın iyirmi birinci gününün axşamına qədər mayasız çörək yeyin.</verse>
+        <verse osisID='Exod.12.19'>Yeddi gün evinizdə maya olmasın, çünki mayalı bir şey yeyən hər kəs istər ölkədə qərib, istərsə də yerli olsun, ayağı İsrail icmasının arasından kəsilməlidir.</verse>
+        <verse osisID='Exod.12.20'>Heç bir mayalı şey yeməyin, yaşadığınız hər bir yerdə mayasız çörək yeyin». </verse>
+        <verse osisID='Exod.12.21'>Musa İsrailin bütün ağsaqqallarını çağırıb dedi: «Ailələrinizə görə özünüz üçün toğlu ya çəpiş seçib götürün və Pasxa qurbanını kəsin. </verse>
+        <verse osisID='Exod.12.22'>Bir çəngə züfa otu götürüb ləyəndə olan qana batırın və oradakı qandan qapının üst dirəyinə və yan taxtalarına sürtün. Səhərə qədər heç kəs evinin qapısından çıxmasın.</verse>
+        <verse osisID='Exod.12.23'>Rəbb Misirliləri bəlaya salmaq üçün gələndə qapının üst dirəyinin və hər iki yan taxtasının üzərində qan görüb o qapıdan yan keçəcək. Məhvedicini evinizə girməyə qoymayacaq.</verse>
+        <verse osisID='Exod.12.24'>Buna özünüz və övladlarınız üçün əbədi qayda kimi həmişə riayət edin.</verse>
+        <verse osisID='Exod.12.25'>Rəbbin söylədiyi kimi sizə verdiyi torpağa çatanda bu ibadətə riayət edərsiniz.</verse>
+        <verse osisID='Exod.12.26'>Övladlarınız sizdən “Bu ibadətin mənası sizin üçün nədir?” deyə soruşduqları zaman</verse>
+        <verse osisID='Exod.12.27'>onlara söyləyin: “Bu, Misirliləri bəlaya saldığı zaman Misirdə İsrail övladlarının evləri yanından keçib xilas edən Rəbb üçün Pasxa qurbanıdır”». Xalq əyilib səcdə etdi.</verse>
+        <verse osisID='Exod.12.28'>Rəbb Musaya və Haruna necə əmr etmişdisə, İsrail övladları gedib elə də etdilər. </verse>
+        <verse osisID='Exod.12.29'>Gecəyarısı Rəbb Misir torpağında olan bütün ilk oğulları öldürdü; taxtda oturan fironun ilk oğlundan tutmuş zindanda olan əsirin ilk oğluna qədər hər ilk oğul, heyvanların hər ilk balası da öldü.</verse>
+        <verse osisID='Exod.12.30'>O gecə firon, onun əyanları və bütün Misirlilər qalxdılar. Misirdən böyük bir fəryad qopdu, çünki elə bir ev yox idi ki, orada ölən olmasın.</verse>
+        <verse osisID='Exod.12.31'>Firon gecə Musanı və Harunu çağırıb dedi: «Çıxın gedin! Həm özünüz, həm də bütün İsraillilər xalqımın arasından çıxın gedin, istədiyiniz kimi Rəbbə ibadət edin.</verse>
+        <verse osisID='Exod.12.32'>Necə ki deyirdiniz, qoyun-keçinizi və mal-qaranızı da götürüb gedin, mənə də xeyir-dua verin». </verse>
+        <verse osisID='Exod.12.33'>Misirlilər xalqı ölkədən tələsik qovdular. Onlar deyirdilər: «Yoxsa hamımız öləcəyik».</verse>
+        <verse osisID='Exod.12.34'>Xalq maya qata bilmədiyi xəmiri götürdü, paltarlarına bürünmüş xəmir tabaqlarını çiyinlərində apardı.</verse>
+        <verse osisID='Exod.12.35'>İsrail övladları Musanın sözünə əməl etdilər. Misirlilərdən qızıl-gümüş əşyalar və paltar istədilər.</verse>
+        <verse osisID='Exod.12.36'>Rəbb xalqa Misirlilərin gözündə lütf qazandırdı və onlara istədiklərini verdilər. Beləcə onlar Misirliləri soydular. </verse>
+        <verse osisID='Exod.12.37'>İsrail övladları Ramsesdən Sukkota yola düşdülər. Arvad-uşaqdan əlavə, altı yüz minə qədər piyada gedən kişi var idi.</verse>
+        <verse osisID='Exod.12.38'>Qarışıq bir izdiham, çoxlu qoyun-keçi, mal-qara sürüləri də onlarla birgə yollandı.</verse>
+        <verse osisID='Exod.12.39'>Misirdən çıxardıqları maya qatılmayan xəmirdən mayasız kökələr bişirdilər. Çünki Misirdən qovulmuşdular və orada qalıb özlərinə yol üçün azuqə hazırlaya bilməmişdilər. </verse>
+        <verse osisID='Exod.12.40'>İsrail övladlarının Misirdə yaşadığı müddət dörd yüz otuz il olmuşdu.</verse>
+        <verse osisID='Exod.12.41'>Məhz bu dörd yüz otuz il tamam olan gün Rəbbin bütün dəstələri Misir torpağından çıxdı.</verse>
+        <verse osisID='Exod.12.42'>Rəbb o gecə onları Misirdən qurtarmaq üçün ayıq saxladı. İsrail xalqı bütün nəsillər boyu o gecə Misirlilərin əlindən qurtarmağın xatirəsi kimi Rəbb üçün ayıq qalmalı idilər. </verse>
+        <verse osisID='Exod.12.43'>Rəbb Musaya və Haruna dedi: «Pasxa bayramının qaydaları belədir: heç bir qərib ondan yeməsin;</verse>
+        <verse osisID='Exod.12.44'>ancaq hər kəsin pulla satın alınmış qulu sünnət olunduqdan sonra onu yeyə bilər.</verse>
+        <verse osisID='Exod.12.45'>Qonaq və muzdlu işçi ondan yeməməlidir.</verse>
+        <verse osisID='Exod.12.46'>Qoy bu yemək bir evdə yeyilsin, əti evdən bayıra çıxarılmasın və onun bir sümüyü də qırılmasın.</verse>
+        <verse osisID='Exod.12.47'>Bütün İsrail icması bu yeməyi yesin.</verse>
+        <verse osisID='Exod.12.48'>Sənin yanında qonaq olan qərib Rəbbin Pasxa bayramını keçirmək istəsə, ailəsində olan bütün kişilərlə birgə sünnət olunsun. Yalnız bu zaman onu keçirə bilər və o da sizin həmtayfanız kimi sayılar. Sünnət olunmayan heç bir kişi ondan yeməsin.</verse>
+        <verse osisID='Exod.12.49'>Yerli üçün də, yanınızda yaşayan yadelli üçün də qanun eynidir». </verse>
+        <verse osisID='Exod.12.50'>İsrail övladları Rəbbin Musaya və Haruna əmr etdiyi kimi də etdilər.</verse>
+        <verse osisID='Exod.12.51'>Rəbb o gün İsrail övladlarını Misir torpağından dəstələrlə çıxartdı.  </verse>
+      </chapter>
+      <chapter osisID='Exod.13'>
+        <verse osisID='Exod.13.1'>
+            Rəbb Musaya dedi:</verse>
+        <verse osisID='Exod.13.2'>«İsrail övladları arasında hər bətndən ilk doğulan bütün oğlanları və bütün heyvanların balalarını Mənim üçün təqdis et; onlar Mənimdir». </verse>
+        <verse osisID='Exod.13.3'>Musa xalqa dedi: «Misirdən, köləlik diyarından çıxdığınız bu günü xatırlayın. Çünki Rəbb sizi qüdrətli əli ilə oradan çıxartdı və buna görə də mayalı çörək yeməyin.</verse>
+        <verse osisID='Exod.13.4'>Çıxdığınız bu gün Aviv ayındadır.</verse>
+        <verse osisID='Exod.13.5'>Rəbb atalarınıza and etmişdi ki, Kənanlıların, Xetlilərin, Emorluların, Xivlilərin, Yevusluların ölkəsini sizə verəcək. Sizi süd və bal axan torpağa gətirəcəyi vaxt bu ibadəti həmin ayda icra edin.</verse>
+        <verse osisID='Exod.13.6'>Yeddi gün mayasız çörək yeyin, yeddinci gün Rəbbə bayram olsun.</verse>
+        <verse osisID='Exod.13.7'>O yeddi gün ərzində yalnız mayasız çörək yeyilməlidir. Aranızda bütün ölkədə nə mayalı çörək, nə də maya görünməsin.</verse>
+        <verse osisID='Exod.13.8'>O günü övladlarınıza bildirib deyin: “Misirdən çıxdığım vaxt Rəbb mənim üçün nələr etdiyinə görə belə edirəm”.</verse>
+        <verse osisID='Exod.13.9'>Qoy bu əlinizdə nişanə və gözlərinizin önündə xatirə olsun ki, Rəbbin qanunu dilinizdən düşməsin. Çünki Rəbb sizi qüdrətli əli ilə Misirdən çıxartdı.</verse>
+        <verse osisID='Exod.13.10'>İldən-ilə təyin olunan vaxt bu qanuna riayət edin. </verse>
+        <verse osisID='Exod.13.11'>Rəbb sizə və atalarınıza and içdiyi kimi Kənanlıların ölkəsinə gətirib, oranı sizə verən vaxtdan bəri</verse>
+        <verse osisID='Exod.13.12'>ana bətnindən hər ilk doğulan oğlanlarınızı Rəbbə təqdim etməlisiniz: ilk doğulan bütün heyvan balaları da Rəbbin olsun.</verse>
+        <verse osisID='Exod.13.13'>Hər ilk doğulan eşşək balası əvəzinə bir qoyun-keçi balası verin. Əgər əvəzini verməsəniz, boynunu sındırın. Övladlarınızın arasında hər ilk oğulun əvəzini ödəyin.</verse>
+        <verse osisID='Exod.13.14'>Gələcəkdə övladlarınız sizdən “Bu nədir?” soruşanda deyin: “Rəbb bizi Misirdən, köləlik diyarından qüdrətli əli ilə çıxartdı.</verse>
+        <verse osisID='Exod.13.15'>Firon bizi buraxmamağa inadkarlıq edəndə Rəbb Misir torpağında olan həm insanların bütün ilk oğlanlarını, həm də heyvanların bütün ilk balalarını öldürdü. Buna görə mən bütün ilk doğulan heyvan balalarını Rəbbə qurban verirəm, bütün ilk oğullarımın isə əvəzini ödəyirəm”.</verse>
+        <verse osisID='Exod.13.16'>Qoy bu əlinizdə nişanə və gözünüz önündə xatirə olsun, çünki Rəbb bizi qüdrətli əli ilə Misirdən çıxartdı». </verse>
+        <verse osisID='Exod.13.17'>Firon xalqı buraxdığı zaman Allah onları Filiştlilərin ölkəsindən yol qısa olduğuna baxmayaraq, o yolla gətirmədi. Çünki O dedi: «Yoxsa xalq müharibə görəndə bəlkə peşman olub Misirə qayıdar».</verse>
+        <verse osisID='Exod.13.18'>Allah xalqı Qırmızı dənizə tərəf səhra yolu ilə dolayı apardı.  İsrail övladları Misir torpağından silahlanıb çıxdılar.</verse>
+        <verse osisID='Exod.13.19'>Musa Yusifin sümüklərini özü ilə apardı, çünki Yusif İsrail övladlarına «Allah mütləq sizə nəzər salacaq. Gedən zaman özünüzlə sümüklərimi də buradan çıxarın» deyərək and içdirmişdi. </verse>
+        <verse osisID='Exod.13.20'>İsrail övladları Sukkotdan yola düşüb səhranın kənarında olan Etamda düşərgə saldılar.</verse>
+        <verse osisID='Exod.13.21'>Rəbb onların qabağı ilə gündüz onlara yol göstərmək üçün bulud dirəyində, gecə isə onlara işıq vermək üçün od dirəyində gedirdi ki, gündüz də, gecə də gedə bilsinlər.</verse>
+        <verse osisID='Exod.13.22'>Gündüzlər bulud dirəyi, gecələr isə od dirəyi xalqın önündən ayrılmadı.  </verse>
+      </chapter>
+      <chapter osisID='Exod.14'>
+        <verse osisID='Exod.14.1'>Rəbb Musaya dedi:</verse>
+        <verse osisID='Exod.14.2'>«İsrail övladlarına belə söylə: “Dönüb Pi-Haxirot qabağında düşərgə salın. Miqdol ilə dənizin arasında, Baal-Sefon qarşısında dənizin sahilində düşərgəniz olsun”.</verse>
+        <verse osisID='Exod.14.3'>Firon düşünəcək ki, İsrail övladları torpaqda dolaşır, səhra onların yolunu kəsmişdir.</verse>
+        <verse osisID='Exod.14.4'>Mən isə fironu inadkar edəcəyəm ki, o sizi təqib etsin. Sonra firon və onun ordusunu məğlub edib izzətimi göstərəcəyəm. Bütün Misirlilər biləcəklər ki, Rəbb Mənəm». İsraillilər belə də elədilər. </verse>
+        <verse osisID='Exod.14.5'>Misir padşahına İsrail xalqının qaçdığını xəbər verəndə firon və məmurlarının fikri dəyişdi. Onlar dedilər: «Biz nə üçün belə etdik? İsrail övladları bizim qullarımız idi. Axı niyə onları buraxdıq?»</verse>
+        <verse osisID='Exod.14.6'>Firon döyüş arabalarını hazırlayıb adamlarını özü ilə götürdü.</verse>
+        <verse osisID='Exod.14.7'>O, altı yüz seçmə döyüş arabasını və Misirin bütün arabalarını götürdü. Hər arabanın öz zabiti var idi.</verse>
+        <verse osisID='Exod.14.8'>Rəbb Misir padşahı fironun ürəyini yenə də inadkar etdi və o, İsrail övladlarını təqib etdi. İsrail övladları isə cürətlə gedirdilər.</verse>
+        <verse osisID='Exod.14.9'>Misirlilər, fironun bütün araba atları, süvariləri və ordusu onları təqib edib Pi-Haxirot yanında, Baal-Sefon qarşısında dənizin sahilində qurduqları düşərgəyə çatdılar. </verse>
+        <verse osisID='Exod.14.10'>Firon yaxınlaşanda İsrail övladları baxıb gördülər ki, Misirlilər onlara doğru gəlirlər. Buna görə də İsrail övladları çox qorxdu və Rəbbə fəryad etdilər.</verse>
+        <verse osisID='Exod.14.11'>Onlar Musaya dedilər: «Məgər Misirdə qəbiristanlıq yoxdur ki, sən bizi səhrada ölməyə apardın? Bizi Misirdən çıxarıb başımıza nə gətirdin?</verse>
+        <verse osisID='Exod.14.12'>Misirdə sənə “Bizdən əl çək, Misirlilərə qulluq edək!” demirdikmi? Səhrada ölməkdən Misirlilərə qulluq etmək bizim üçün yaxşıdır». </verse>
+        <verse osisID='Exod.14.13'>Musa isə xalqa belə dedi: «Qorxmayın! Durun, Rəbbin bu gün sizi necə xilas edəcəyinə baxın. İndi gördüyünüz Misirliləri daha heç vaxt görməyəcəksiniz.</verse>
+        <verse osisID='Exod.14.14'>Sakit olun, Rəbb sizin üçün döyüşəcək!» </verse>
+        <verse osisID='Exod.14.15'>Rəbb Musaya dedi: «Nə üçün Mənə fəryad edirsən? İsrail övladlarına de ki, yola düşsünlər.</verse>
+        <verse osisID='Exod.14.16'>Sən isə əsanı qaldırıb, əlini dənizin üzərinə uzat, sularını yar ki, İsrail övladları dənizin ortasında quru yerdən keçsinlər. </verse>
+        <verse osisID='Exod.14.17'>Mən Misirlilərin ürəklərini inadkar edəcəyəm ki, sizi təqib etsinlər. Sonra fironu, onun bütün ordusunu, döyüş arabalarını və süvarilərini məğlub edib izzətimi göstərəcəyəm.</verse>
+        <verse osisID='Exod.14.18'>Fironu, döyüş arabalarını və süvarilərini məğlub edib izzətimi göstərdiyim zaman Misirlilər biləcəklər ki, Rəbb Mənəm». </verse>
+        <verse osisID='Exod.14.19'>İsrail düşərgəsinin önündə gedən Allahın mələyi onların arxasına keçdi. Bulud dirəyi önlərindən arxalarına keçib,</verse>
+        <verse osisID='Exod.14.20'>Misir ordusunun və İsrail düşərgəsinin arasında durdu. Bulud bir tərəfə zülmət verdi, o birisinə isə gecə işığı verdi. Bütün gecə bu xalqlar bir-birinə yaxınlaşmadılar. </verse>
+        <verse osisID='Exod.14.21'>Musa əlini dəniz üzərinə uzatdı. Rəbb bütün gecə əsən qüvvətli şərq küləyi ilə dənizin suyunu qovub yerini quruya çevirdi. Sular yarıldı və</verse>
+        <verse osisID='Exod.14.22'>İsrail övladları dənizin ortasında quru yerdən keçdilər. Sular onlar üçün sağ və sol tərəfdən divar oldu.</verse>
+        <verse osisID='Exod.14.23'>Misirlilər onları təqib etdilər; fironun atları, döyüş arabaları və süvariləri İsrail övladlarının ardınca dənizin ortasına girdilər.</verse>
+        <verse osisID='Exod.14.24'>Dan yeri söküləndə Rəbb od və bulud dirəyindən Misir ordusuna baxıb onların arasına qarışıqlıq saldı.</verse>
+        <verse osisID='Exod.14.25'>O, arabaların çarxlarını elə ləngitdi ki, arabalar güclə hərəkət etdi. Misirlilər dedilər: «Gəlin İsrail övladlarından qaçaq, çünki Rəbb onların tərəfində bizə qarşı döyüşür». </verse>
+        <verse osisID='Exod.14.26'>Rəbb Musaya belə dedi: «Əlini dənizin üzərinə uzat ki, sular Misirlilərin, döyüş arabalarının və süvarilərin üzərinə qayıtsın».</verse>
+        <verse osisID='Exod.14.27'>Musa əlini dənizin üzərinə uzatdı. Səhərə yaxın dəniz adi hala qayıtdı. Misirlilər sulardan qaçmaq istəyəndə Rəbb onları itələyib dənizin ortasına atdı.</verse>
+        <verse osisID='Exod.14.28'>Yerinə qayıdan sular döyüş arabalarını, süvariləri, İsrail övladlarının ardınca dənizə gedən fironun bütün ordusunu örtüb uddu. Onlardan bir nəfər də olsun sağ qalmadı. </verse>
+        <verse osisID='Exod.14.29'>İsrail övladları isə dənizin ortasında quru yerdən keçib getmişdilər. Sular onlar üçün sağ və sol tərəfdə divar olmuşdu. </verse>
+        <verse osisID='Exod.14.30'>Məhz o gün Rəbb İsraili Misirlilərin əlindən xilas etdi. İsrail xalqı Misirliləri dənizin sahilində ölü gördü.</verse>
+        <verse osisID='Exod.14.31'>İsrail xalqı Rəbbin Misirlilərə böyük qüvvətlə nə etdiyini görəndə Rəbdən qorxdu, Ona və qulu Musaya güvəndi.  </verse>
+      </chapter>
+      <chapter osisID='Exod.15'>
+        <verse osisID='Exod.15.1'>
+            O vaxt Musa ilə İsrail övladları Rəbbə bu ilahini oxudular:  «Rəbbə ilahi oxuyacağam,Çox böyük zəfər çaldı.Atı və süvarini dənizə tulladı.</verse>
+        <verse osisID='Exod.15.2'>Rəbb qüvvətim, məzmurumdur, O məni xilas etdi.Rəbb mənim Allahımdır, Ona həmd edəcəyəm.Atamın Allahıdır, Rəbbi yüksəldəcəyəm.</verse>
+        <verse osisID='Exod.15.3'>Rəbb döyüşçüdür, Rəbdir Onun adı.</verse>
+        <verse osisID='Exod.15.4'>Fironun döyüş arabalarını,Ordusunu da dənizə atdı.Döyüş arabalarının başçılarıQırmızı dənizdə boğuldu.</verse>
+        <verse osisID='Exod.15.5'>Əngin sulara bürünübDaş tək dərinliklərəNecə də qərq oldular.</verse>
+        <verse osisID='Exod.15.6'>Ya Rəbb! Sənin sağ əlin qüdrətdən izzətləndi.Ya Rəbb! Sənin sağ əlin düşməni əzəndir.</verse>
+        <verse osisID='Exod.15.7'>Sənə qarşı çıxanları möhtəşəm əzəmətin yıxar,Sənin göndərdiyin qəzəb onları saman çöpü tək yandırar.</verse>
+        <verse osisID='Exod.15.8'>Burnunun nəfəsi ilə sular toplanar,Yığılar bir yerə, axınlar dayanar,Dəniz qoynunda coşan sular qatılaşar.</verse>
+        <verse osisID='Exod.15.9'>Düşmən dedi:“İzləyim, çatıb qənimət paylayım:Bundan canım doyacaq,Qılıncımla onları məhv edəcəyəm”.</verse>
+        <verse osisID='Exod.15.10'>Nəfəsinlə üfürdün, dənizlə onları bürüdün.Qurğuşun tək onlar nəhəng sularda batdılar.</verse>
+        <verse osisID='Exod.15.11'>Ya Rəbb, allahlar arasında Sənin kimisi varmı?Müqəddəslikdə əzəmətli, zəhmli və alqışlara layiq,Möcüzələr yaradan Sənin kimisi varmı?</verse>
+        <verse osisID='Exod.15.12'>Sağ əlini uzadanda torpaq onları uddu.</verse>
+        <verse osisID='Exod.15.13'>Məhəbbətinlə qurtardığın xalqa Sən yol göstərdin.Müqəddəs məskəninə Öz gücünlə apardın.</verse>
+        <verse osisID='Exod.15.14'>Xalqlar eşidib əsdi,Filişt sakinlərini qorxu kəsdi.</verse>
+        <verse osisID='Exod.15.15'>Edom başçılarını o an dəhşət bürüdü.Moav igidlərini vahimələrə saldı.Kənan sakinləri isə üzülüb qaldı.</verse>
+        <verse osisID='Exod.15.16'>Onların üzərini qorxu, vəlvələ aldı.Güclü qoluna görə daş tək lal-kar oldular,O vaxtadək ki xalqın keçəcək,Ya Rəbb, qurtardığın xalq keçəcək!</verse>
+        <verse osisID='Exod.15.17'>Ya Rəbb, xalqını gətirib salacaqsan mülkün olan dağına,Yaşamaq üçün Özünə yaratdığın yerə,Ey Xudavənd! Əlinlə qurduğun Müqəddəs məkanına.</verse>
+        <verse osisID='Exod.15.18'>Rəbb əbədi, daima padşahlıq edəcəkdir». </verse>
+        <verse osisID='Exod.15.19'>Fironun atları, döyüş arabaları və süvariləri ilə birgə dənizə girəndə Rəbb dənizin sularını onların üzərinə geri qaytarmışdı. İsrail övladları isə dənizin ortasında quru yerdən keçmişdilər. </verse>
+        <verse osisID='Exod.15.20'>Harunun bacısı peyğəmbər Məryəm əlinə dəf aldı; bütün qadınlar əllərinə dəf alıb oynayaraq onun ardınca çıxdılar.</verse>
+        <verse osisID='Exod.15.21'>Məryəm onların qarşısında bu ilahini oxudu:  Rəbbə ilahi oxuyun,Çox böyük zəfər çaldı.Atı və süvariləri dənizə tulladı! </verse>
+        <verse osisID='Exod.15.22'>Musa İsrail xalqını Qırmızı dənizin sahilindən gedən yola gətirdi. Onlar Şur səhrasına çıxıb orada üç gün yol getdilər, amma su tapmadılar.</verse>
+        <verse osisID='Exod.15.23'>Maraya çatdılar, lakin oranın suyunu içə bilmədilər, çünki çox acı idi. Buna görə də o yer Mara adlanır.</verse>
+        <verse osisID='Exod.15.24'>Xalq «Nə içək?» deyə Musadan giley-güzar etdi.</verse>
+        <verse osisID='Exod.15.25'>Musa Rəbbə fəryad etdi və Rəbb ona bir ağac göstərdi. Musa onu suya atdı və su şirin oldu. Orada İsrail övladlarını sınağa çəkdiyi yerdə Rəbb onlar üçün qayda-qanun qoyaraq dedi:</verse>
+        <verse osisID='Exod.15.26'>«Əgər siz Allahınız Rəbbin səsinə qulaq asıb Onun gözündə doğru olsanız, Onun əmrlərini dinləyib bütün qanunlarına riayət etsəniz, Misirlilərə verdiyim xəstəliklərin heç birini sizə verməyəcəyəm. Çünki sizə şəfa verən Rəbb Mənəm». </verse>
+        <verse osisID='Exod.15.27'>Sonra İsrail övladları Elimə gəldilər. Orada on iki su qaynağı və yetmiş xurma ağacı var idi. İsrail xalqı orada sular ətrafında düşərgə qurdu.  </verse>
+      </chapter>
+      <chapter osisID='Exod.16'>
+        <verse osisID='Exod.16.1'>
+          Bütün İsrail övladlarının icması Elimdən yola düşdü. Onlar Misir ölkəsindən çıxdıqdan sonra ikinci ayın on beşinci günü Elim və Sina dağı arasındakı Sin səhrasına çatdılar.</verse>
+        <verse osisID='Exod.16.2'>Səhrada bütün İsrail övladlarının icması Musa ilə Harunun əlindən giley-güzar etdi.</verse>
+        <verse osisID='Exod.16.3'>İsraillilər onlara dedilər: «Kaş ki Misir ölkəsində ət qazanlarının yanında oturanda doyunca çörək yediyimiz vaxt Rəbbin əlində öləydik! Siz bizi bu səhraya ona görə gətirdiniz ki, bütün bu camaatı aclıqdan öldürəsiniz». </verse>
+        <verse osisID='Exod.16.4'>Rəbb Musaya dedi: «Budur, Mən sizin üçün göydən çörək yağdıracağam. Qoy xalq hər gün çıxıb lazımi miqdarda o çörəyi yığsın. Mənsə onları sınayacağam ki, qanunuma görə yaşayırlar ya yox.</verse>
+        <verse osisID='Exod.16.5'>Altıncı gün yığdıqları digər günlər yığdıqlarından ikiqat artıq olsun, o gün də onu hazırlasınlar». </verse>
+        <verse osisID='Exod.16.6'>Musa və Harun bütün İsrail övladlarına dedilər: «Axşam biləcəksiniz ki, sizi Misir ölkəsindən çıxaran Rəbdir.</verse>
+        <verse osisID='Exod.16.7'>Səhər isə Rəbbin izzətini görəcəksiniz. Çünki Rəbb Onun əlindən giley-güzarınızı eşitdi. Axı biz kimik ki, siz əlimizdən giley-güzar edirsiniz?»</verse>
+        <verse osisID='Exod.16.8'>Musa dedi: «Sizə axşam yeməyə ət, səhər isə doyunca çörək verən Rəbdir; çünki sizin Ona qarşı olan deyinməyinizi eşidən Odur. Axı biz kimik ki? Deyinməyiniz bizə qarşı deyil, Rəbbə qarşıdır».</verse>
+        <verse osisID='Exod.16.9'>Musa Haruna dedi: «Bütün İsrail icmasına belə söylə: “Rəbbin hüzuruna yaxınlaşın, çünki O sizin deyinməyinizi eşitmişdir”». </verse>
+        <verse osisID='Exod.16.10'>Harun bütün İsrail övladlarının icması ilə danışdığı vaxt onlar səhraya baxıb Rəbbin əzəmətinin buludda göründüyünü gördülər.</verse>
+        <verse osisID='Exod.16.11'>Rəbb Musaya dedi:</verse>
+        <verse osisID='Exod.16.12'>«Mən İsrail övladlarının deyinməklərini eşitdim. Onlara de: axşamçağı ət yeyəcək, səhər isə çörəklə doyacaqsınız. Onda biləcəksiniz ki, Allahınız Rəbb Mənəm». </verse>
+        <verse osisID='Exod.16.13'>Axşam bildirçinlər uçub bütün düşərgəni bürüdülər. Səhər düşərgənin ətrafına şeh düşdü.</verse>
+        <verse osisID='Exod.16.14'>Şeh buxarlananda səhrada, torpaq üzərində qırova bənzər nazik lopalar göründü.</verse>
+        <verse osisID='Exod.16.15'>İsraillilər bunu gördükdə bir-birinə «Bu nədir?» dedilər, çünki onun nə olduğunu bilmirdilər. Musa onlara dedi: «Bu Rəbbin sizə yeməyə verdiyi çörəkdir.</verse>
+        <verse osisID='Exod.16.16'>Rəbbin əmri budur: hər adam yemək üçün özünə lazımi miqdarda ondan yığsın. Öz çadırında olan adamların sayına görə adambaşı bir omer götürsün». </verse>
+        <verse osisID='Exod.16.17'>İsrail övladları belə də etdilər. Kimi çox, kimi də az yığdı.</verse>
+        <verse osisID='Exod.16.18'>Onlar omer ilə ölçdükləri zaman çox yığanın artığı, az yığanın əskiyi olmadı. Hər kəs özünə lazımi miqdarda yemək yığdı. </verse>
+        <verse osisID='Exod.16.19'>Musa İsrail övladlarına dedi: «Qoy səhərə qədər heç kimdə bu yeməkdən qalmasın».</verse>
+        <verse osisID='Exod.16.20'>Lakin bəziləri Musanın sözünə baxmayıb bundan səhərə qədər saxladılar. Saxladıqları yemək qurdlanıb iyləndi. Musa onlara qəzəbləndi.</verse>
+        <verse osisID='Exod.16.21'>İsrail övladlarından hər kəs özünə lazımi miqdarda hər səhər ondan yığırdı. Günəş qızanda isə o əriyirdi. </verse>
+        <verse osisID='Exod.16.22'>İsrail övladları altıncı gün bu yeməkdən ikiqat artıq, adambaşı iki omer yığdılar. İcma başçıları gəlib bunu Musaya bildirdilər.</verse>
+        <verse osisID='Exod.16.23'>Musa onlara dedi: «Rəbb belə deyir: “Sabah istirahət günü – Rəbb üçün təqdis olunan Şənbə günüdür. Bu gün bişirdiyiniz hər şeyi bişirin, qaynatdığınız hər şeyi qaynadın, artığı da özünüz üçün səhərə qoyub saxlayın”».</verse>
+        <verse osisID='Exod.16.24'>İsrail övladları Musa onlara əmr etdiyi kimi yeməyi səhərə saxladılar. Onun içində nə qurd oldu, nə də iyləndi.</verse>
+        <verse osisID='Exod.16.25'>Musa dedi: «Bu gün o yeməyi yeyin, çünki Rəbb üçün Şənbə günüdür. Bu gün çöldə yemək tapmayacaqsınız.</verse>
+        <verse osisID='Exod.16.26'>Siz onu altı gün ərzində yığın; yeddinci gün – Şənbə günü o yemək yox olacaq». </verse>
+        <verse osisID='Exod.16.27'>Xalqın bəziləri yeddinci gün yemək yığmağa çıxdılar, amma tapmadılar.</verse>
+        <verse osisID='Exod.16.28'>Rəbb Musaya dedi: «Nə vaxta qədər əmrlərimə və qanunlarıma itaət etməkdən boyun qaçıracaqsınız?</verse>
+        <verse osisID='Exod.16.29'>Baxın Rəbb sizə Şənbə günü verdi. Buna görə də O sizə hər altıncı gün iki günlük yemək verir. Qoy hər kəs öz evində qalsın və yeddinci gün heç yerə çıxmasın».</verse>
+        <verse osisID='Exod.16.30'>Beləcə xalq yeddinci gün istirahət etdi. </verse>
+        <verse osisID='Exod.16.31'>İsrail xalqı bu yeməyin adını «manna» qoydu. O, görünüşcə keşniş toxumu kimi idi, rəngi ağ, dadı isə ballı yuxaya bənzəyirdi.</verse>
+        <verse osisID='Exod.16.32'>Musa dedi: «Rəbbin əmri budur: “Mannadan bir omer doldurun; Misir ölkəsindən sizi çıxardığım zaman səhrada sizə yedirtdiyim yeməyi görmək üçün qoy bu nəsildən-nəslə qorunsun”».</verse>
+        <verse osisID='Exod.16.33'>Musa Haruna dedi: «Bir qab götür, ona omer dolu manna qoy. Bu Rəbbin hüzurunda nəsildən-nəslə qorunub saxlanmalıdır».</verse>
+        <verse osisID='Exod.16.34'>Rəbbin Musaya əmr etdiyi kimi Harun onu Şəhadət sandığının önündə qoruyub saxladı.</verse>
+        <verse osisID='Exod.16.35'>İsrail övladları qırx il ərzində əhalisi olduqları Kənan ölkəsinin sərhədinə gələnə qədər manna yedilər.</verse>
+        <verse osisID='Exod.16.36'>Bir omer efanın onda bir hissəsidir.  </verse>
+      </chapter>
+      <chapter osisID='Exod.17'>
+        <verse osisID='Exod.17.1'>
+            Bütün İsrail övladlarının icması Sin səhrasından yola düşüb Rəbbin buyurduğuna görə dayana-dayana köç edirdilər. Onlar Refidimdə düşərgə saldılar. Orada xalqın içməyə suyu yox idi.</verse>
+        <verse osisID='Exod.17.2'>Ona görə də xalq Musa ilə münaqişə edib belə dedi: «Bizə içməyə su verin». Musa onlara dedi: «Niyə mənimlə münaqişə edirsiniz? Nə üçün Rəbbi sınayırsınız?»</verse>
+        <verse osisID='Exod.17.3'>Xalq orada olanda susamışdı. Ona görə də Musanın əlindən deyinib dedi: «Axı niyə bizi Misirdən çıxartdın? Bu bizi, oğullarımızı və heyvanlarımızı susuzluqdan öldürmək üçündürmü?» </verse>
+        <verse osisID='Exod.17.4'>Musa Rəbbə fəryad edib dedi: «Axı mən bu xalq ilə nə edim? Bir az da keçsə, məni daşqalaq edəcəklər».</verse>
+        <verse osisID='Exod.17.5'>Rəbb Musaya dedi: «Xalqın qarşısına çıx. Özünlə bərabər bir neçə İsrail ağsaqqalı götür. Nil çayına vurduğun əsanı əlinə alıb irəli get.</verse>
+        <verse osisID='Exod.17.6'>Orada – Xorevdəki qayanın üstündə Mən sənin önündə dayanacağam. Zərbə ilə qayaya vur və oradan xalq üçün içməli su çıxacaq». Musa da İsrail ağsaqqallarının gözü qarşısında bunu etdi.</verse>
+        <verse osisID='Exod.17.7'>Musa o yeri Massa və Meriva adlandırdı, çünki orada İsrail övladları münaqişə etmişdilər və «görəsən Rəbb aramızdadır ya yox» deyə Rəbbi sınamışdılar. </verse>
+        <verse osisID='Exod.17.8'>Bundan sonra Amaleqlilər gəlib Refidimdə İsrail övladları ilə döyüşdülər.</verse>
+        <verse osisID='Exod.17.9'>Musa Yeşuaya dedi: «Bizim üçün bir neçə adam seç, get Amaleqlilərlə döyüş. Sabah mən əlimdə Allahın əsası ilə təpənin başında dayanacağam».</verse>
+        <verse osisID='Exod.17.10'>Yeşua da Musa deyən kimi etdi və gedib Amaleqlilərlə döyüşdü. Musa, Harun və Xur isə təpənin başına çıxdılar.</verse>
+        <verse osisID='Exod.17.11'>Musa əlini qaldıranda İsrail övladları üstün gəlirdi, əlini endirəndə isə Amaleqlilər üstün gəlirdi.</verse>
+        <verse osisID='Exod.17.12'>Lakin Musanın əlləri yorulurdu. Ona görə də bir daş götürüb onun altına qoydular. Musa daşın üstündə oturdu. Əlinin birindən Harun, o birisindən isə Xur yapışdı. Beləcə Musanın gün batanacan əlləri möhkəm qaldı.</verse>
+        <verse osisID='Exod.17.13'>Yeşua Amaleq xalqını qılıncdan keçirib qırdı. </verse>
+        <verse osisID='Exod.17.14'>Rəbb Musaya dedi: «Bunu xatirə olaraq kitaba yaz, Yeşuanın qulağına çatdır ki, Mən Amaleqin adını büsbütün yer üzərindən siləcəyəm». </verse>
+        <verse osisID='Exod.17.15'>Musa bir qurbangah düzəldərək adını Yahve-Nissi qoyub</verse>
+        <verse osisID='Exod.17.16'>dedi: «Rəbbin taxtına doğru əl uzadılırdı. O, nəsildən-nəslə Amaleqlilərə qarşı döyüşəcək».  </verse>
+      </chapter>
+      <chapter osisID='Exod.18'>
+        <verse osisID='Exod.18.1'>
+          Midyanlıların kahini olan Musanın qayınatası Yetro Allahın Musa və xalqı İsrail üçün gördüyü bütün işləri, Rəbbin İsraili Misirdən çıxartdığını eşitdi.</verse>
+        <verse osisID='Exod.18.2'>Musanın qayınatası Yetro Musanın arvadı Sipporanı iki oğlu ilə birgə geri gətirdi. Musa əvvəlcədən arvadını onun yanına göndərmişdi.</verse>
+        <verse osisID='Exod.18.3'>Musa «mən yad bir ölkədə qərib oldum» deyib oğlanlarının birinin adı Gerşom qoymuşdu.</verse>
+        <verse osisID='Exod.18.4'>«Atamın Allahı köməyim oldu və məni fironun qılıncından qurtardı» deyib o birisinin adını Eliezer qoymuşdu. </verse>
+        <verse osisID='Exod.18.5'>Musanın qayınatası Yetro, oğulları və arvadı Musanın düşərgə saldığı Allahın dağı yerləşən səhraya gəlib,</verse>
+        <verse osisID='Exod.18.6'>bu xəbəri Musaya göndərdi: «Mən – sənin qayınatan Yetro, arvadın və iki oğlunla yanına gəlirəm».</verse>
+        <verse osisID='Exod.18.7'>Musa qayınatasının qarşısına çıxdı, təzim edib onunla öpüşdü; onlar bir-birlərindən hal-əhval tutub çadıra girdilər.</verse>
+        <verse osisID='Exod.18.8'>Musa qayınatasına Rəbbin İsrail övladlarının xatirinə firona və Misirlilərə etdiyi bütün şeylər, yolda çəkdikləri bütün əziyyəti və Rəbbin onları necə qurtardığını nəql etdi.</verse>
+        <verse osisID='Exod.18.9'>Yetro Rəbbin İsrail övladlarına etdiyi bütün yaxşılıqlara və Misirlilərin əlindən onları qurtardığına görə sevindi. </verse>
+        <verse osisID='Exod.18.10'>Yetro dedi: «Sizi Misirlilərin və fironun əlindən qurtaran Rəbbə alqış olsun! Xalqı Misirlilərin əlinin altından qurtaran Odur.</verse>
+        <verse osisID='Exod.18.11'>İndi bildim ki, Rəbb bütün allahlardan böyükdür, çünki onların öyündüklərindən də üstün oldu».</verse>
+        <verse osisID='Exod.18.12'>Sonra Musanın qayınatası Yetro Allaha yandırma və ünsiyyət qurbanları gətirdi. Harun ilə İsrail övladlarının bütün ağsaqqalları Musanın qayınatası ilə Allahın hüzurunda yemək yeməyə gəldilər. </verse>
+        <verse osisID='Exod.18.13'>Ertəsi gün Musa oturub xalqa hakimlik edirdi. Xalq da səhərdən axşamadək Musanın ətrafında dayanmışdı.</verse>
+        <verse osisID='Exod.18.14'>Qayınatası Musanın xalq üçün nə etdiyinə baxıb dedi: «Nə üçün bu xalqa belə edirsən? Niyə sən tək oturursan və bütün xalq səhərdən axşamadək ətrafında dayanıb gözləyir?»</verse>
+        <verse osisID='Exod.18.15'>Musa qayınatasına dedi: «Ona görə ki xalq Allahdan soruşmaq üçün mənim yanıma gəlir.</verse>
+        <verse osisID='Exod.18.16'>Həll olunmalı məsələləri olan adamlar yanıma gələndə aralarında qərar çıxarıram. Allahın qayda-qanunlarını da onlara bildirirəm». </verse>
+        <verse osisID='Exod.18.17'>Musanın qayınatası ona dedi: «Gördüyün iş yaxşı deyil.</verse>
+        <verse osisID='Exod.18.18'>Əlbəttə, həm sən, həm də səninlə olan xalq üzülərsiniz. Axı bu iş sənin üçün ağırdır, onu təkbaşına edə bilməzsən.</verse>
+        <verse osisID='Exod.18.19'>İndi sözümə qulaq as, sənə bir məsləhət verim. Qoy Allah sənə yar olsun! Sən bu xalqa görə Allahın hüzurunda dayan və işlərini də Ona çatdır.</verse>
+        <verse osisID='Exod.18.20'>Onları qayda-qanunlar barəsində xəbərdar et, gedəcəkləri yolu və görəcəkləri işi göstər.</verse>
+        <verse osisID='Exod.18.21'>Bütün xalq arasından bacarıqlı, Allahdan qorxan, etibarlı, haram qazanca nifrət edən adamları seç. Onları minbaşı, yüzbaşı, əllibaşı, onbaşı təyin et ki,</verse>
+        <verse osisID='Exod.18.22'>xalqı hər zaman mühakimə etsinlər. Qoy hər böyük işi sənin yanına gətirsinlər, hər kiçik işə isə özləri hakimlik etsinlər. Beləcə öz yükünü yüngülləşdir. Qoy o adamlar bu yükü səninlə daşısınlar.</verse>
+        <verse osisID='Exod.18.23'>Əgər belə etsən, Allah da sənə belə əmr etsə, dözə bilərsən. Bütün xalq da razı olub öz yerinə gedər». </verse>
+        <verse osisID='Exod.18.24'>Musa qayınatası deyən sözlərə qulaq asıb əməl etdi.</verse>
+        <verse osisID='Exod.18.25'>Bundan sonra Musa İsrail övladları arasından bacarıqlı adamlar seçdi və onlardan xalqa başçı – minbaşılar, yüzbaşılar, əllibaşılar, onbaşılar təyin etdi.</verse>
+        <verse osisID='Exod.18.26'>Onlar hər vaxt xalqı mühakimə edirdilər. Çətin işləri isə Musanın yanına gətirir, hər kiçik işi isə özləri mühakimə edirdilər.</verse>
+        <verse osisID='Exod.18.27'>Sonra Musa qayınatasını yola saldı, o da öz ölkəsinə getdi.  </verse>
+      </chapter>
+      <chapter osisID='Exod.19'>
+        <verse osisID='Exod.19.1'>
+          İsrail övladları Misir torpağından çıxdıqdan sonra üçüncü ayda – yeni ay günü Sina səhrasına gəldilər.</verse>
+        <verse osisID='Exod.19.2'>Onlar Refidimdən köçüb Sina səhrasına gəldilər. O səhrada İsrail övladları dağın qarşısında düşərgə saldılar. </verse>
+        <verse osisID='Exod.19.3'>Musa isə dağa – Allahın hüzuruna çıxdı. Rəbb onu dağdan çağırıb dedi: «Yaqub nəslinə, İsrail övladlarına belə söylə:</verse>
+        <verse osisID='Exod.19.4'>“Misirlilərə nələr etdiyimi, sizi qartal qanadlarında daşıdığım kimi yanıma gətirdiyimi siz özünüz gördünüz.</verse>
+        <verse osisID='Exod.19.5'>İndi isə əgər sözümə diqqətlə qulaq asıb əhdimə riayət etsəniz, siz bütün xalqlar arasından Mənə məxsus xalq olacaqsınız. Bütün yer üzü Mənimdir;</verse>
+        <verse osisID='Exod.19.6'>siz isə Mənə xidmət edən kahinlər padşahlığı, müqəddəs millət olacaqsınız”. Bu sözləri İsrail övladlarına söylə». </verse>
+        <verse osisID='Exod.19.7'>Musa gəlib xalqın ağsaqqallarını çağırdı və Rəbbin ona əmr etdiyi hər kəlməni onların qarşısına qoydu.</verse>
+        <verse osisID='Exod.19.8'>Bütün xalq bir nəfər kimi belə cavab verdi: «Rəbbin bütün söylədiklərinə əməl edəcəyik». Musa xalqın cavabını Rəbbə çatdırdı. </verse>
+        <verse osisID='Exod.19.9'>Rəbb Musaya dedi: «Budur, Mən sənin yanına qatı buludda gəlirəm, qoy xalq səninlə danışdığımı eşidib sənə daim inansın». Musa xalqın sözlərini Rəbbə çatdırdı.</verse>
+        <verse osisID='Exod.19.10'>Rəbb Musaya dedi: «Xalqın yanına get. Bu gün və sabah onları təqdis et. Qoy paltarlarını da yusunlar.</verse>
+        <verse osisID='Exod.19.11'>Üçüncü günə hazır olsunlar, çünki üçüncü gün bütün xalqın gözü qarşısında Rəbb Sina dağı üzərinə enəcək.</verse>
+        <verse osisID='Exod.19.12'>Xalqın ətrafına sərhəd çəkib de: “Özünüzü dağa çıxmaqdan, onun ətəyinə toxunmaqdan gözləyin. Dağa toxunan hər kəs öldürülməlidir.</verse>
+        <verse osisID='Exod.19.13'>Eləsinə əl vurulmasın, ancaq daşqalaq edilsin ya da oxla vurulsun. İstər heyvan, istərsə də insan, bunların yaşamaq üçün izni yoxdur. Qoç buynuzundan olan şeypur uzun-uzadı çalınanda onlar dağa çıxa bilərlər”».</verse>
+        <verse osisID='Exod.19.14'>Musa dağdan xalqın yanına endi. O, xalqı təqdis etdi. Onlar paltarlarını yudular.</verse>
+        <verse osisID='Exod.19.15'>Sonra Musa xalqa dedi: «Üçüncü günə hazır olun, qadınlarla yaxınlıq etməyin». </verse>
+        <verse osisID='Exod.19.16'>Üçüncü günün səhəri açılanda göy gurultusu, şimşəklər, dağ üzərində qatı bir bulud və çox uca şeypur səsi oldu. Düşərgədə olan bütün xalq titrədi.</verse>
+        <verse osisID='Exod.19.17'>Allahı qarşılamaq üçün Musa xalqı ordugahdan apardı və onlar dağın ətəyində durdular. </verse>
+        <verse osisID='Exod.19.18'>Bütün Sina dağı tüstü içində idi, çünki Rəbb onun üzərinə alov içərisində enmişdi. Bütün dağ kürənin verdiyi tüstü kimi tüstülənirdi, bərk titrəyirdi.</verse>
+        <verse osisID='Exod.19.19'>Şeypur səsi get-gedə ucalırdı. Musa danışırdı və Allah ona səslə cavab verirdi.</verse>
+        <verse osisID='Exod.19.20'>Rəbb Sina dağı üzərinə, dağın başına endi və Musanı dağın başına çağırdı. Musa oraya qalxdı.</verse>
+        <verse osisID='Exod.19.21'>Rəbb Musaya dedi: «Düş, xalqa tapşır ki, məbada Rəbbi görmək üçün Onun tərəfində olan sərhədi keçsin, yoxsa çoxları məhv olar.</verse>
+        <verse osisID='Exod.19.22'>Rəbbə yaxınlaşan kahinlər də özlərini təqdis etsin ki, Rəbb onlara qarşı çıxmasın».</verse>
+        <verse osisID='Exod.19.23'>Musa Rəbbə dedi: «Xalq Sina dağına çıxmaz, çünki Sən “dağa sərhəd çək və oranı təqdis et” deyə bizə tapşırıq verdin».</verse>
+        <verse osisID='Exod.19.24'>Rəbb ona dedi: «Düş get. Sən və səninlə bərabər Harun bura çıxın. Qoy kahinlərlə xalq Rəbbin yanına çıxmaq üçün sərhədi keçməsinlər, yoxsa Rəbb xalqa qarşı çıxar».</verse>
+        <verse osisID='Exod.19.25'>Musa xalqın yanına enib bunu onlara söylədi.  </verse>
+      </chapter>
+      <chapter osisID='Exod.20'>
+        <verse osisID='Exod.20.1'>
+          Allah bütün bu sözləri belə söylədi:</verse>
+        <verse osisID='Exod.20.2'>«Səni Misir torpağından, köləlik diyarından çıxaran Allahın Rəbb Mənəm. </verse>
+        <verse osisID='Exod.20.3'>Məndən başqa allahların olmasın. </verse>
+        <verse osisID='Exod.20.4'>Özün üçün heç bir oyma büt, nə yuxarıda – səmada və ya aşağıda – yerdə, nə də yerdən aşağıya yığılan sulardakı şeylərin heç birinin surətini düzəltmə.</verse>
+        <verse osisID='Exod.20.5'>Belə şeylərə səcdə qılaraq ibadət etmə. Çünki Mən, sənin Allahın Rəbb, qısqanc Allaham. Mənə nifrət edən ataların cəzasını üç-dörd nəslə qədər övladlarına çəkdirərəm.</verse>
+        <verse osisID='Exod.20.6'>Məni sevib əmrlərimə əməl edənlərin isə minlərlə nəslinə məhəbbət göstərərəm. </verse>
+        <verse osisID='Exod.20.7'>Allahın Rəbbin adını boş yerə dilinə gətirmə, çünki Rəbb Öz adını boş yerə dilinə gətirəni cəzasız qoymaz. </verse>
+        <verse osisID='Exod.20.8'>Şənbə gününü yadda saxlayıb təqdis et.</verse>
+        <verse osisID='Exod.20.9'>Altı gün çalışıb bütün işlərini gör.</verse>
+        <verse osisID='Exod.20.10'>Lakin yeddinci gün Allahın Rəbbin Şənbə günüdür. Bu gün sən, oğlun, qızın, qulun, qarabaşın, heyvanların, yanında qalan yadelli də heç bir iş görməsin.</verse>
+        <verse osisID='Exod.20.11'>Çünki altı gün ərzində Rəbb göyləri və yeri, dənizi və kainatdakı hər şeyi yaratdı, yeddinci gün isə istirahət etdi. Bunun üçün Rəbb Şənbə gününə bərəkət verib onu müqəddəs saydı. </verse>
+        <verse osisID='Exod.20.12'>Ata-anana hörmət et ki, Allahın Rəbbin sənə verdiyi torpaqda ömrün uzun olsun. </verse>
+        <verse osisID='Exod.20.13'>Qətl etmə. </verse>
+        <verse osisID='Exod.20.14'>Zina etmə. </verse>
+        <verse osisID='Exod.20.15'>Oğurluq etmə. </verse>
+        <verse osisID='Exod.20.16'>Heç kimə qarşı yalandan şahidlik etmə. </verse>
+        <verse osisID='Exod.20.17'>Heç kimin evinə tamah salma. Heç kimin arvadına, quluna, qarabaşına, öküzünə, eşşəyinə – heç bir şeyinə tamah salma». </verse>
+        <verse osisID='Exod.20.18'>Bütün xalq göy gurultusunu, şimşəkləri, şeypur səsini, dağın tüstülənməsini eşidib görəndə qorxub sarsıldı və uzaqda durdu.</verse>
+        <verse osisID='Exod.20.19'>Musaya dedilər: «Sən bizimlə danış, biz də eşidək. Qoy Allah bizimlə danışmasın, yoxsa ölərik».</verse>
+        <verse osisID='Exod.20.20'>Musa xalqa dedi: «Qorxmayın, Allah ona görə gəlib ki, sizi sınağa çəksin və siz günah etməmək üçün Onun qorxusu qarşınızda olsun».</verse>
+        <verse osisID='Exod.20.21'>Xalq uzaqda duranda Musa orada Allahın olduğu qatı qaranlığa yaxınlaşdı. </verse>
+        <verse osisID='Exod.20.22'>Rəbb Musaya dedi: «İsrail övladlarına belə de: “Siz gördünüz ki, Mən sizinlə göylərdən danışdım.</verse>
+        <verse osisID='Exod.20.23'>Özünüz üçün nə qızıldan, nə də gümüşdən Mənə şərik olan allahlar düzəltməyin.</verse>
+        <verse osisID='Exod.20.24'>Mənim üçün torpaqdan qurbangah düzəldib yandırma və ünsiyyət qurbanları olaraq öz qoyun-keçi və mal-qaranı onun üstündə qurban gətir. Adım çəkilən hər yerdə yanına gəlib sənə bərəkət verəcəyəm.</verse>
+        <verse osisID='Exod.20.25'>Əgər mənim üçün daşdan qurbangah düzəltsən, yonma daşdan tikmə, çünki onun üzərində alətlə işləsən, onu murdar edərsən.</verse>
+        <verse osisID='Exod.20.26'>Ayıbın açılmamaq üçün Mənim qurbangahıma pilləkənlə çıxma”.  </verse>
+      </chapter>
+      <chapter osisID='Exod.21'>
+        <verse osisID='Exod.21.1'>Sən onların qarşısına bu hökmləri qoymalısan: </verse>
+        <verse osisID='Exod.21.2'>Sizdən biri İbrani qul alarsa, o qul altı il qulluq edib yeddinci il pulu ödəmədən azad olunsun.</verse>
+        <verse osisID='Exod.21.3'>Əgər qulun tək gəlib, qoy tək də getsin; yox, əgər arvadı vardısa, qoy arvadı ilə getsin.</verse>
+        <verse osisID='Exod.21.4'>Əgər qul sahibi quluna arvad veribsə və qulun arvadı oğlan yaxud qız doğubsa, arvadla uşaqları ağası üçün qalsın. Qul isə tək getsin.</verse>
+        <verse osisID='Exod.21.5'>Lakin qul təkidlə: “Ağamı, arvadımla uşaqlarımı sevirəm və azad olmaq istəmirəm” desə,</verse>
+        <verse osisID='Exod.21.6'>onda qoy qulun ağası onu məbədə – Allahın hüzuruna gətirsin. Qulunu qapıya yaxud qapının yan taxtasına söykəyib qulağını bizlə deşsin. Bu qul ağasına ömürlük qulluq etsin. </verse>
+        <verse osisID='Exod.21.7'>Bir adam qızını qarabaş olaraq satarsa, qız kişi qullar kimi azad olmasın.</verse>
+        <verse osisID='Exod.21.8'>Əgər o qız onu özü üçün təyin edən ağasının gözündə pis görünərsə, ağası qızın ödənmə pulunu qəbul edib onu azad etsin; o ağanın qızı yadellilərə satmağa ixtiyarı yoxdur, çünki o qızla xaincəsinə rəftar etdi.</verse>
+        <verse osisID='Exod.21.9'>Əgər ağa onu oğlu üçün təyin edibsə, onunla adətə görə öz qızı kimi rəftar etməlidir.</verse>
+        <verse osisID='Exod.21.10'>Əgər o adam ikinci arvad alırsa, birinci arvadını yemək və paltar təminatından və arvadlıq hüququndan məhrum etməsin.</verse>
+        <verse osisID='Exod.21.11'>Əgər əri bu üç haqqı qadına vermirsə, qoy bu qadın heç nə ödəmədən azad edilsin. </verse>
+        <verse osisID='Exod.21.12'>Adam vurub öldürən şəxs öldürülməlidir.</verse>
+        <verse osisID='Exod.21.13'>Lakin o şəxs öldürmək qəsdində olmasa və ölüm Mənim iznimlə olsa, o zaman onun üçün bir yer təyin edərəm ki, oraya pənah gətirsin.</verse>
+        <verse osisID='Exod.21.14'>Bir adam başqa adamı qəsdən hiylə ilə öldürsə, o adamı hətta Mənim qurbangahımdan götür ki, öldürülsün. </verse>
+        <verse osisID='Exod.21.15'>Atasını yaxud anasını döyən adam öldürülməlidir. </verse>
+        <verse osisID='Exod.21.16'>İnsan oğurlayıb satan yaxud saxlayan adam öldürülməlidir. </verse>
+        <verse osisID='Exod.21.17'>Atasını yaxud anasını söyən adam öldürülməlidir. </verse>
+        <verse osisID='Exod.21.18'>Adamlar münaqişə edəndə başqa adamın daşla yaxud yumruqla vurduğu bir adam ölməyib yatağa düşərsə və</verse>
+        <verse osisID='Exod.21.19'>sonra yataqdan qalxıb əl ağacı ilə bayırda gəzərsə, onu vuran adam cəzasız qalsın və yatdığı müddətin əvəzini ödəsin, sağalana qədər ona qayğı göstərsin. </verse>
+        <verse osisID='Exod.21.20'>Bir adamın dəyənəklə vurduğu qulu yaxud qarabaşı zərbədən ölərsə, o adam cəzalandırılmalıdır.</verse>
+        <verse osisID='Exod.21.21'>Əgər qul yaxud qarabaş bir-iki gün ərzində ölməsə, ağa cəzalandırılmasın; çünki qul yaxud qarabaş ağanın əmlakıdır. </verse>
+        <verse osisID='Exod.21.22'>Adamlar dalaşanda bir hamilə qadın ona dəyən zərbədən uşaq salarsa və başqa ziyan ona dəyməsə, o qadının ərinin tələbi ilə təqsirkar adam hakimlərin təyin etdiyi məbləğdə cərimə ödəməlidir.</verse>
+        <verse osisID='Exod.21.23'>Əgər qadına ziyan dəyibsə, təqsirkar adam can əvəzinə can,</verse>
+        <verse osisID='Exod.21.24'>göz əvəzinə göz, diş əvəzinə diş, əl əvəzinə əl, ayaq əvəzinə ayaq,</verse>
+        <verse osisID='Exod.21.25'>yanıq əvəzinə yanıq, yara əvəzinə yara, zədə əvəzinə zədə ödəsin. </verse>
+        <verse osisID='Exod.21.26'>Ağa qulunun yaxud kənizinin gözünə vurub onu kor edərsə, gözün əvəzinə onu azad etsin.</verse>
+        <verse osisID='Exod.21.27'>Əgər ağa qulunun yaxud kənizinin dişini sındırsa, dişin əvəzinə qulunu azad etsin. </verse>
+        <verse osisID='Exod.21.28'>Mal-qaradan olan heyvan kişini yaxud qadını buynuzla vurub öldürərsə, heyvan daşqalaq edilsin; onun əti yeyilməsin, heyvan sahibi isə günahsız sayılsın.</verse>
+        <verse osisID='Exod.21.29'>Lakin əgər heyvan o vaxta qədər vurağan olub, sahibi isə bundan xəbərdar edilsə də, onun qarşısını almasa və nəticədə heyvan kişini yaxud qadını öldürərsə, heyvan daşqalaq edilsin, sahibi isə öldürülsün.</verse>
+        <verse osisID='Exod.21.30'>Əgər heyvanın sahibindən ödənmə pulu istənilirsə, o istənilən pulun məbləğini ödəyib canının əvəzini ödəyə bilər.</verse>
+        <verse osisID='Exod.21.31'>Oğlanı ya qızı buynuzlayan heyvana qarşı eyni hökm işlənsin.</verse>
+        <verse osisID='Exod.21.32'>Əgər heyvan qulu ya kənizi buynuzu ilə vursa, ağasına otuz şekel gümüş verilsin, heyvan isə daşqalaq olsun. </verse>
+        <verse osisID='Exod.21.33'>Bir adam quyunu açıb ya da qazdığı quyunun üstünü örtməsə və ora mal-qara yaxud eşşək düşsə,</verse>
+        <verse osisID='Exod.21.34'>quyunun sahibi zərəri ödəsin; heyvanın dəyərini sahibinə versin, ölən heyvan isə o adama qalsın. </verse>
+        <verse osisID='Exod.21.35'>Bir adamın mal-qarası başqasının mal-qarasını vurub öldürsə, sahiblər həm sağ qalan heyvanı satıb dəyərini yarı bölməli, həm də ölü heyvanı yarı bölməlidirlər.</verse>
+        <verse osisID='Exod.21.36'>Amma heyvanın o vaxta qədər vurağan olduğu məlum olanda onun qarşısını almayan sahibi heyvanın əvəzinə heyvan verib zərəri ödəsin; ölən heyvan isə ona qalmalıdır.  </verse>
+      </chapter>
+      <chapter osisID='Exod.22'>
+        <verse osisID='Exod.22.1'>
+          Bir adam mal-qara yaxud qoyun-keçidən oğurlayıb kəsər yaxud satarsa, qoy o adam mal-qara əvəzinə beş heyvan, qoyun-keçi əvəzinə dörd heyvan verib zərəri ödəsin.</verse>
+        <verse osisID='Exod.22.2'>Əgər gecə oğru birinin evinə girərkən yaxalanıb öldürülsə, qoy qanı batsın.</verse>
+        <verse osisID='Exod.22.3'>Əgər hadisə gün doğandan sonra baş versə, qan tökən müqəssir sayılsın. Oğru zərəri ev yiyəsinə ödəməlidir. Əgər oğrunun zərəri ödəməyə gücü çatmırsa, qoy oğurluğuna görə özü satılsın.</verse>
+        <verse osisID='Exod.22.4'>Əgər oğurlanan mal-qara, eşşəklər ya qoyun-keçi oğrunun əlində diri tapılsa, qoy oğru zərəri ikiqat ödəsin. </verse>
+        <verse osisID='Exod.22.5'>Bir adam öz tarlasında yaxud üzüm bağında otardığı heyvanları başqa adamın tarlasına otlamağa buraxarsa, o adam öz tarlasının yaxud üzüm bağının ən yaxşı barından zərəri ödəsin. </verse>
+        <verse osisID='Exod.22.6'>Alışan od kollara düşüb dərz, əkin yaxud tarlanı məhv edərsə, yanğını yandıran adam zərəri ödəməlidir. </verse>
+        <verse osisID='Exod.22.7'>Bir adama saxlamağa verilən gümüş yaxud əşya onun evindən oğurlanarsa və oğru tapılarsa, zərəri ikiqat ödəsin.</verse>
+        <verse osisID='Exod.22.8'>Əgər oğru tapılmasa, evin sahibi Allahın hüzuruna yaxınlaşıb and içsin ki, başqa adamın əmanətinə xəyanət etməyib. </verse>
+        <verse osisID='Exod.22.9'>Hər hansı itmiş bir əşya – mal-qara, eşşək, qoyun-keçi, paltar barədə “bu mənimdir” deyən iki tərəfin mübahisəli işi Allahın hüzuruna gətirilməlidir; Allahın haqsız çıxardığı adam o birisinə zərəri ikiqat ödəməlidir. </verse>
+        <verse osisID='Exod.22.10'>Bir adama saxlamağa verilən başqa adamın eşşəyi, mal-qarası, qoyun-keçisi yaxud başqa bir heyvanı heç kəs görmədən ölər, yaralanar yaxud aparılarsa</verse>
+        <verse osisID='Exod.22.11'>bu adamlar arasında Rəbbin adına içilən and olsun ki, biri o birisinin əmanətinə xəyanət etməyib. Qoy heyvanın sahibi bunu qəbul etsin, ona zərəri ödəməsin.</verse>
+        <verse osisID='Exod.22.12'>Əgər heyvan həmin adamdan oğurlanıbsa, onu saxlayan adam zərəri sahibinə ödəsin.</verse>
+        <verse osisID='Exod.22.13'>Əgər heyvanı vəhşi heyvan parçalayıbsa, onu saxlayan adam parçalanan heyvanı sübut kimi sahibinə gətirsin, zərərini isə ödəməsin. </verse>
+        <verse osisID='Exod.22.14'>Bir adamın borc aldığı heyvan sahibinin yanında olmayanda yaralanar yaxud ölərsə, o adam zərəri ödəməlidir.</verse>
+        <verse osisID='Exod.22.15'>Əgər heyvanın sahibi yanındadırsa, zərər ödənməməlidir. Əgər heyvan muzdla tutulubsa, zərər muzd haqqına daxil edilir. </verse>
+        <verse osisID='Exod.22.16'>Bir adam nişanlı olmayan bakirə qızı tovlayıb onunla yaxınlıq edərsə, qıza görə başlıq verib onu özünə arvad etməlidir.</verse>
+        <verse osisID='Exod.22.17'>Əgər qızın atası onu o adama ərə verməyə qəti razı deyilsə, o adam bakirə qızların başlığına müvafiq məbləğdə pul ödəsin. </verse>
+        <verse osisID='Exod.22.18'>Cadugər qadın sağ qalmasın. </verse>
+        <verse osisID='Exod.22.19'>Heyvanlarla cinsi əlaqəyə girən hər kəs öldürülməlidir. </verse>
+        <verse osisID='Exod.22.20'>Rəbdən başqa digər allahlara qurban gətirən adam tamamilə məhv olunsun. </verse>
+        <verse osisID='Exod.22.21'>Qərib adama nə haqsızlıq, nə də zülm edin, çünki siz özünüz də Misir ölkəsində qərib idiniz.</verse>
+        <verse osisID='Exod.22.22'>Heç bir dul qadına və yetimə əziyyət verməyin.</verse>
+        <verse osisID='Exod.22.23'>Əgər bunlardan birinə əziyyət versəniz və o Mənə fəryad etsə, Mən hökmən fəryadını eşidəcəyəm.</verse>
+        <verse osisID='Exod.22.24'>Qəzəblənib sizi qılıncdan keçirəcəyəm. Arvadlarınız dul, uşaqlarınız isə yetim qalacaq. </verse>
+        <verse osisID='Exod.22.25'>Xalqıma, yanında yaşayan kasıba pul borc versəniz, onunla sələmçi kimi rəftar etməyin, üstünə sələm qoymayın.</verse>
+        <verse osisID='Exod.22.26'>Əgər başqasının paltarını girov alırsınızsa, gün batandan əvvəl ona girovu qaytarın.</verse>
+        <verse osisID='Exod.22.27'>Çünki bu paltar onun yeganə örtüyü və əyninin geyimidir. Bəs o adam yatanda nə ilə üstünü örtsün? O Mənə fəryad edəndə səsini eşidəcəyəm, çünki Mən lütfkaram. </verse>
+        <verse osisID='Exod.22.28'>Allaha küfr etmə və xalqın başçısına lənət etmə. </verse>
+        <verse osisID='Exod.22.29'>Öz məhsulunu və şirə təqdimlərini Mənə gətirməyini gecikdirmə. İlk oğullarını Mənə həsr et.</verse>
+        <verse osisID='Exod.22.30'>Mal-qaranın və qoyun-keçinin ilk balaları ilə də belə et: yeddi gün onları anaları ilə qoyub, səkkizinci gün Mənə həsr et. </verse>
+        <verse osisID='Exod.22.31'>Mənim üçün müqəddəs xalq olun. Məhz buna görə də vəhşi heyvanın çöldə parçaladığı heyvanın ətini yeməyin, onu itlərə atın.  </verse>
+      </chapter>
+      <chapter osisID='Exod.23'>
+        <verse osisID='Exod.23.1'>
+            Boş xəbər gəzdirməyin. Yalançı şahid olmaq üçün haqsız adamla əlbir olmayın.</verse>
+        <verse osisID='Exod.23.2'>Şər iş görən izdihama qoşulmayın. Məhkəmədə çoxları ilə birləşərək ədaləti təhrif edib yalançı şahid olmayın.</verse>
+        <verse osisID='Exod.23.3'>Kasıba da məhkəmədə meylini salma. </verse>
+        <verse osisID='Exod.23.4'>Sən düşməninin azmış buğasına, inəyinə yaxud eşşəyinə rast gəlsən, sahibinə qaytarmalısan.</verse>
+        <verse osisID='Exod.23.5'>Sənə nifrət edən adamın eşşəyini yükü altında yıxılmış halda görəndə onu tərk etmə; ona kömək et ki, bu yükdən azad olsun. </verse>
+        <verse osisID='Exod.23.6'>Möhtac olan adamın məhkəmə işində ona qarşı ədaləti təhrif etmə.</verse>
+        <verse osisID='Exod.23.7'>Yalan işdən uzaq ol. Günahsıza və salehə ölüm hökmü vermə. Çünki Mən haqsıza bəraət qazandırmayacağam.</verse>
+        <verse osisID='Exod.23.8'>Rüşvət alma, çünki rüşvət gözüaçıqları kor edər, salehlərin sözlərini isə təhrif edər. </verse>
+        <verse osisID='Exod.23.9'>Qəribə zülm etmə. Siz də qəribliyi hiss etmisiniz, çünki özünüz də Misir ölkəsində qərib idiniz. </verse>
+        <verse osisID='Exod.23.10'>Altı il torpağınızı əkin və məhsulunu yığın.</verse>
+        <verse osisID='Exod.23.11'>Yeddinci il ona əl dəyməyin ki, xalqınızdan olan möhtaclar oradan yesin. Onlardan artıq qalanı isə çöl heyvanları yesin. Üzüm və zeytun bağlarınızda da belə hərəkət edin. </verse>
+        <verse osisID='Exod.23.12'>Altı gün işlərinizi görün, yeddinci gün isə istirahət edin ki, mal-qaranız və eşşəyiniz rahatlansın, evinizdə doğulan qullar və qəriblər də dincəlsin.</verse>
+        <verse osisID='Exod.23.13'>Mənim sizə söylədiyim hər şeyə riayət edin. Başqa allahların adını çəkməyin, qoy o adlar sizin ağzınızdan heç vaxt çıxmasın. </verse>
+        <verse osisID='Exod.23.14'>Mənə ildə üç dəfə bayram edin:</verse>
+        <verse osisID='Exod.23.15'>Mayasız Çörək bayramını qeyd edin. Mən sizə əmr etdiyim kimi Aviv ayında təyin olunmuş vaxt yeddi gün mayasız çörək yeyin. Çünki Misirdən o ayda çıxdınız. Heç kəs önümə əliboş gəlməsin.</verse>
+        <verse osisID='Exod.23.16'>Tarladakı əkinin nübarı ilə Biçin bayramını qeyd edin. İlin sonunda işinin bütün məhsulunu tarladan yığıb Yığım bayramını qeyd edin.</verse>
+        <verse osisID='Exod.23.17'>İldə üç dəfə sizin bütün kişiləriniz Sahibləri Rəbbin hüzuruna gəlsinlər. </verse>
+        <verse osisID='Exod.23.18'>Mənə gətirilən qurbanın qanını mayalı çörəklə təqdim etməyin. Bayram qurbanımın piyi səhərə qədər qalmasın. </verse>
+        <verse osisID='Exod.23.19'>Torpağın nübarının ilk hissəsini Allahınız Rəbbin məbədinə gətirin. Oğlağı anasının südündə bişirməyin. </verse>
+        <verse osisID='Exod.23.20'>Budur, Mən yolda sizi qorumaq və hazırladığım yerə gətirmək üçün qarşınızda bir Mələk göndərirəm.</verse>
+        <verse osisID='Exod.23.21'>Onun hüzurunda ehtiyatlı olun və səsinə qulaq asın. Ona qarşı üsyan qaldırmayın, O, itaətsizliyinizi bağışlamaz, çünki Mənim adım onun üzərindədir. </verse>
+        <verse osisID='Exod.23.22'>Əgər Onun səsinə qulaq asıb dediyimə əməl etsəniz, onda Mən sizin düşmənlərinizə düşmən, yağılarınıza isə yağı olacağam. </verse>
+        <verse osisID='Exod.23.23'>Mələyim qarşınızda gedəcək və sizi Emorluların, Xetlilərin, Perizlilərin, Kənanlıların, Xivlilərin və Yevusluların yanına gətirəcək; Mən onları silib atacağam.</verse>
+        <verse osisID='Exod.23.24'>Onların allahlarına səcdə etməyin, onlara ibadət etməyin və qaydalarına əməl etməyin. O allahları dağıdıb yox edin, onların daş sütunlarını parça-parça etməlisiniz.</verse>
+        <verse osisID='Exod.23.25'>Siz isə Allahınız Rəbbə xidmət edin, O da çörəyinizə və suyunuza bərəkət verəcək; sizin daxilinizdən xəstəliyi yox edəcəyəm.</verse>
+        <verse osisID='Exod.23.26'>Ölkənizdə nə uşaq salan, nə də sonsuz qadın olmayacaq. Ömrünüzü də uzun edəcəyəm. </verse>
+        <verse osisID='Exod.23.27'>Öz dəhşətimi qarşınızca göndərirəm. Sizin aralarına getdiyiniz bütün xalqlara qarışıqlıq salacağam və bütün düşmənlərinizin dönüb sizdən qaçmasına bais olacağam.</verse>
+        <verse osisID='Exod.23.28'>Eşşəkarısını da qarşınızca göndərəcəyəm, o da Xivliləri, Kənanlıları və Xetliləri önünüzdən qovacaq.</verse>
+        <verse osisID='Exod.23.29'>Lakin bir il ərzində onları önünüzdən qovmayacağam ki, ölkə viranə qalmasın və çöl heyvanları çoxalıb sizin üstünüzə daraşmasın.</verse>
+        <verse osisID='Exod.23.30'>Yavaş-yavaş onları önünüzdən o vaxtacan qovacağam ki, siz törəyib çoxalaraq ölkənin sahibi olacaqsınız.</verse>
+        <verse osisID='Exod.23.31'>Qırmızı dənizdən Filişt dənizinə qədər, səhradan Fərat çayına qədər sərhədlərinizi çəkəcəyəm. Ölkənin sakinlərini sizə təslim edəcəyəm, siz isə onları yanınızdan qovarsınız.</verse>
+        <verse osisID='Exod.23.32'>Nə onlarla, nə də allahları ilə əhd kəsin.</verse>
+        <verse osisID='Exod.23.33'>Qoymayın ki, onlar ölkənizdə yaşasınlar və sizin Mənə qarşı günah edərək onların allahlarına ibadət etməyinizə bais olsunlar. Bu sizə tələ olacaq».  </verse>
+      </chapter>
+      <chapter osisID='Exod.24'>
+        <verse osisID='Exod.24.1'>
+          Rəbb Musaya dedi: «Sən, Harun, Nadav, Avihu və İsrail ağsaqqallarından yetmiş nəfər Rəbbin yanına çıxın. Uzaqdan səcdə edin.</verse>
+        <verse osisID='Exod.24.2'>Sonra yalnız sən, ey Musa, Rəbbin hüzuruna yaxınlaş, o biriləri yaxınlaşmasınlar. Xalq isə səninlə buraya çıxmasın». </verse>
+        <verse osisID='Exod.24.3'>Musa gəlib Rəbbin bütün sözlərini və hökmlərini xalqa nəql etdi. Bütün xalq bir səslə cavab verib dedi: «Rəbbin söylədiyi sözlərin hamısına əməl edəcəyik».</verse>
+        <verse osisID='Exod.24.4'>Musa Rəbbin bütün sözlərini yazdı. O, səhər erkən durub dağın ətəyində qurbangah və İsrailin on iki qəbiləsinə görə on iki sütun qurdu.</verse>
+        <verse osisID='Exod.24.5'>Sonra Musa İsrailin cavanlarına Rəbbin önündə yandırma qurbanları və ünsiyyət qurbanları olaraq buğalar kəsdirdi.</verse>
+        <verse osisID='Exod.24.6'>Musa heyvanların qanının yarısını götürüb ləyənlərə tökdü. Qanın o biri yarısını isə qurbangahın üstünə səpdi.</verse>
+        <verse osisID='Exod.24.7'>O, əhd kitabını əlinə alıb xalqa ucadan oxudu və onlar dedilər: «Rəbbin söylədiyi bütün sözlərə əməl edib qulaq asacağıq!»</verse>
+        <verse osisID='Exod.24.8'>Sonra Musa qanı götürüb xalqın üstünə səpərək dedi: «Budur bütün bu sözlərə görə Rəbbin sizinlə kəsdiyi əhdin qanı». </verse>
+        <verse osisID='Exod.24.9'>Bunu edib Musa Harun, Nadav, Avihu və İsrail ağsaqqallarından yetmiş nəfərlə birgə çıxıb,</verse>
+        <verse osisID='Exod.24.10'>İsrailin Allahını gördülər. Onun ayaqları altında göy yaqutdan döşəməyə bənzər, səmanın özü kimi aydın bir şey var idi.</verse>
+        <verse osisID='Exod.24.11'>Allah İsrailin başçılarına əl qaldırmadı; onlar Allahı gördülər və yeyib-içdilər. </verse>
+        <verse osisID='Exod.24.12'>Rəbb Musaya dedi: «Mənim yanıma dağa çıx və orada dur; xalqı öyrətmək üçün qanunu və əmrləri yazdığım daş lövhələri sənə verim».</verse>
+        <verse osisID='Exod.24.13'>Musa köməkçisi Yeşua ilə Allahın dağına çıxmaq üçün qalxdı.</verse>
+        <verse osisID='Exod.24.14'>Ağsaqqallara isə dedi: «Biz geri qayıdanadək burada gözləyin. Budur, Harun və Xur yanınızdadır; kimin nə çətin işi varsa, onların yanına gedə bilər». </verse>
+        <verse osisID='Exod.24.15'>Musa bunu deyəndən sonra dağa çıxdı. Bulud dağı bürüdü.</verse>
+        <verse osisID='Exod.24.16'>Rəbbin izzəti Sina dağının üstündə məskən saldı. Bulud onu altı gün bürüdü. Yeddinci gün Rəbb Musanı buludun içindən çağırdı.</verse>
+        <verse osisID='Exod.24.17'>Rəbbin izzəti İsrail övladlarının gözündə dağın başında yandırıb-yaxan alov kimi görünürdü.</verse>
+        <verse osisID='Exod.24.18'>Musa buludun içinə girib dağa çıxdı və qırx gün-qırx gecə dağda qaldı.  </verse>
+      </chapter>
+      <chapter osisID='Exod.25'>
+        <verse osisID='Exod.25.1'>
+          Rəbb Musaya dedi:</verse>
+        <verse osisID='Exod.25.2'>«Mənə ianələr gətirmək barədə İsrail övladlarına belə söylə: könlü istəyən hər bir adamdan ianəni qəbul edin.</verse>
+        <verse osisID='Exod.25.3'>Onlardan qəbul edəcəyiniz ianələr budur: qızıl, gümüş, tunc,</verse>
+        <verse osisID='Exod.25.4'>bənövşəyi, tünd qırmızı və al rəngli iplik, incə kətan, keçi yunu,</verse>
+        <verse osisID='Exod.25.5'>qırmızı boyanmış qoç dəriləri, suiti dəriləri, əbrişim ağacı,</verse>
+        <verse osisID='Exod.25.6'>çıraq üçün zeytun yağı, məsh yağı və ətirli buxur üçün ətriyyatlar,</verse>
+        <verse osisID='Exod.25.7'>efodla döşlüyün üstünə taxılan damarlı əqiq və sağanaq daşları. </verse>
+        <verse osisID='Exod.25.8'>Mənim üçün Müqəddəs məkan düzəltsinlər ki, aralarında məskunlaşım.</verse>
+        <verse osisID='Exod.25.9'>Mənim məskənimi və onun bütün avadanlığını göstərdiyim nümunələrə görə düzəldin. </verse>
+        <verse osisID='Exod.25.10'>Qoy əbrişim ağacından sandıq düzəltsinlər: uzunluğu iki qulac yarım, eni qulac yarım, hündürlüyü qulac yarım olsun.</verse>
+        <verse osisID='Exod.25.11'>Onu içəridən və bayırdan xalis qızılla ört, ətrafına qızıl zolaq qoy.</verse>
+        <verse osisID='Exod.25.12'>Sandıq üçün dörd tökmə qızıl halqa düzəlt və onları onun dörd ayağına, iki halqanı bir yanına, iki halqanı isə o biri yanına bərkit.</verse>
+        <verse osisID='Exod.25.13'>Əbrişim ağacından şüvüllər düzəlt və üzərini qızılla ört.</verse>
+        <verse osisID='Exod.25.14'>Sandığı daşımaq üçün şüvülləri sandığın yanlarındakı halqalara keçir.</verse>
+        <verse osisID='Exod.25.15'>Şüvüllər sandığın halqalarında qalıb oradan ayrılmasın.</verse>
+        <verse osisID='Exod.25.16'>Sənə verəcəyim şəhadət lövhələrini sandığın içinə qoy. </verse>
+        <verse osisID='Exod.25.17'>Xalis qızıldan kəffarə qapağını düzəlt. Qoy uzunluğu iki qulac yarım, eni isə qulac yarım olsun.</verse>
+        <verse osisID='Exod.25.18'>Kəffarə qapağının hər iki ucu üçün yastılanmış qızıldan iki keruv düzəlt.</verse>
+        <verse osisID='Exod.25.19'>Bir keruv qapağın bir ucunda, o birisi isə o biri ucunda olaraq qapağın iki ucunda olan keruvlar düzəlt ki, onunla bir hissədən olsun.</verse>
+        <verse osisID='Exod.25.20'>Keruvlar yuxarıya açılmış qanadları ilə kəffarə qapağını örtsünlər. Keruvların üzləri bir-birinə qarşı qapağa doğru olsun.</verse>
+        <verse osisID='Exod.25.21'>Kəffarə qapağını sandığın üstünə qoy; sənə verəcəyim şəhadət lövhələrini isə sandığın içinə qoy.</verse>
+        <verse osisID='Exod.25.22'>Orada kəffarə qapağının üzərində, Şəhadət sandığının üstündəki iki keruv arasında səninlə görüşəcəyəm və İsrail övladları üçün sənə əmr edəcəyim hər şeyi söyləyəcəyəm. </verse>
+        <verse osisID='Exod.25.23'>Əbrişim ağacından bir masa düzəlt: uzunluğu iki qulac, eni bir qulac, hündürlüyü isə qulac yarım olsun.</verse>
+        <verse osisID='Exod.25.24'>Onu xalis qızılla ört. Ətrafına qızıl zolaq qoy.</verse>
+        <verse osisID='Exod.25.25'>Ətrafında eni bir ovuc olan yan lövhələri düzəlt. Yan lövhələrin ətrafına da qızıl zolaq qoy.</verse>
+        <verse osisID='Exod.25.26'>Masa üçün dörd qızıl halqa düzəlt, halqaları onun dörd küncünə, dörd ayağına bərkit.</verse>
+        <verse osisID='Exod.25.27'>Halqalar yan lövhələrə yaxın olaraq masanı aparan şüvüllərin keçdiyi yerlər olsun.</verse>
+        <verse osisID='Exod.25.28'>Şüvülləri əbrişim ağacından düzəlt və onları qızılla ört; masa onların vasitəsi ilə aparılsın.</verse>
+        <verse osisID='Exod.25.29'>Masa üçün xalis qızıldan sinilər və nimçələr, içmə təqdimlərini tökmək üçün dolçalar və piyalələr düzəlt.</verse>
+        <verse osisID='Exod.25.30'>Daima Mənim hüzurumda masanın üstünə təqdis çörəkləri qoy. </verse>
+        <verse osisID='Exod.25.31'>Xalis qızıldan bir çıraqdan düzəlt. Bu çıraqdan yastılanmış qızıldan olmalıdır. Altlığı, gövdəsi, kasacıqları, qönçələri və gülləri onunla bir hissədən olsun.</verse>
+        <verse osisID='Exod.25.32'>Çıraqdanın yanlarından altı budaq – onun bir yanından üç budaq, o biri yanından da üç budaq çıxsın.</verse>
+        <verse osisID='Exod.25.33'>Hər bir budağında badam çiçəyinə bənzər üç kasacıq, qönçə və gül olsun.</verse>
+        <verse osisID='Exod.25.34'>Çıraqdanın gövdəsində isə badam çiçəyinə bənzər dörd kasacıq, qönçə və gül olsun.</verse>
+        <verse osisID='Exod.25.35'>Çıraqdanın gövdəsindən çıxan altı budağın bir cütünün altında bir qönçə, o biri cütünün altında bir qönçə, o birinin də altında bir qönçə olsun.</verse>
+        <verse osisID='Exod.25.36'>Qönçələr və budaqlar onunla bir hissədən ibarət olsun; hamısı eyni hissədən, yastılanmış xalis qızıldan olsun.</verse>
+        <verse osisID='Exod.25.37'>Onun üçün yeddi çıraq düzəlt və çıraqları onun üstünə qoy ki, qabaq tərəfinə işıq salsın.</verse>
+        <verse osisID='Exod.25.38'>Maşaları və xəkəndazları da xalis qızıldan olsun.</verse>
+        <verse osisID='Exod.25.39'>Çıraqdan və onun bütün avadanlığı bir talant xalis qızıldan düzəldilsin.</verse>
+        <verse osisID='Exod.25.40'>Dağda sənə göstərilən nümunəyə görə bunların hamısını ehtiyatla düzəlt.  </verse>
+      </chapter>
+      <chapter osisID='Exod.26'>
+        <verse osisID='Exod.26.1'>
+          Müqəddəs məskəni on pərdədən düzəlt. Pərdələri nəfis toxunmuş incə kətandan, bənövşəyi, tünd qırmızı və al rəngli iplikdən, üstünü isə keruvlar şəklində naxışla düzəlt.</verse>
+        <verse osisID='Exod.26.2'>Hər pərdənin uzunluğu iyirmi səkkiz qulac, eni isə dörd qulac olsun. Qoy bütün pərdələr bir ölçüdə olsun.</verse>
+        <verse osisID='Exod.26.3'>Pərdələrdən beşi bir-birinə birləşdirilsin, digər beşi də bir-birinə birləşdirilsin.</verse>
+        <verse osisID='Exod.26.4'>Bir birləşmənin ucunda olan pərdənin kənarında bənövşəyi ilgəklər düzəlt, o biri birləşmənin ucunda olan pərdənin kənarında da eyni şəkildə ilgəklər düzəlt.</verse>
+        <verse osisID='Exod.26.5'>Bir pərdəyə əlli ilgək, o biri birləşmədəki pərdənin kənarında onlara uyğun gələn əlli ilgək düzəlt.</verse>
+        <verse osisID='Exod.26.6'>Qızıldan əlli bənd düzəlt. Bəndlərlə pərdələri bərkit və çadırı birləşdir ki, məskən bütöv olsun. </verse>
+        <verse osisID='Exod.26.7'>Məskəni örtən çadır üçün keçi yunundan on bir ədəd pərdə düzəlt.</verse>
+        <verse osisID='Exod.26.8'>Hər pərdənin uzunluğu otuz qulac, eni isə dörd qulac olsun. On bir pərdə bir ölçüdə olsun.</verse>
+        <verse osisID='Exod.26.9'>Beş pərdəni ayrıca və altı pərdəni ayrıca birləşdir. Altıncı pərdəni isə çadırın qabaq tərəfindən qatla.</verse>
+        <verse osisID='Exod.26.10'>Bir birləşmənin qıraq pərdəsinin kənarında əlli ilgək, o biri birləşmənin qıraq pərdəsinin kənarında da əlli ilgək düzəlt. </verse>
+        <verse osisID='Exod.26.11'>Tuncdan əlli bənd düzəlt; bəndləri ilgəklərə tax və çadırı birləşdir ki, o bütöv olsun.</verse>
+        <verse osisID='Exod.26.12'>Çadırın pərdələrindən artıq qalan pərdənin yarısını məskənin arxa tərəfindən salla.</verse>
+        <verse osisID='Exod.26.13'>Çadırın pərdələrinin uzunluğunun hər iki ucunda artıq qalan bir qulac parça məskəni örtmək üçün onun hər iki tərəfindən sallansın.</verse>
+        <verse osisID='Exod.26.14'>Çadır üçün qırmızı boyanmış qoç dərilərindən bir pərdə və onun üstündə suiti dərilərindən bir pərdə düzəlt. </verse>
+        <verse osisID='Exod.26.15'>Müqəddəs məskən üçün əbrişim ağacından dik duran çərçivələr düzəlt.</verse>
+        <verse osisID='Exod.26.16'>Hər çərçivənin uzunluğu on qulac, eni isə qulac yarım olsun.</verse>
+        <verse osisID='Exod.26.17'>Hər çərçivənin üstündə iki bir-birinə bağlanan zivana olsun; məskənin bütün çərçivələrini belə düzəlt.</verse>
+        <verse osisID='Exod.26.18'>Məskənin cənub tərəfi üçün iyirmi çərçivə</verse>
+        <verse osisID='Exod.26.19'>və onların altına qoyulacaq qırx gümüş altlıq düzəlt; hər çərçivənin altında iki zivanası üçün iki altlıq olsun.</verse>
+        <verse osisID='Exod.26.20'>Məskənin şimal tərəfi üçün də iyirmi çərçivə</verse>
+        <verse osisID='Exod.26.21'>və qırx gümüş altlıq, hər çərçivənin altında iki altlıq olsun.</verse>
+        <verse osisID='Exod.26.22'>Məskənin qərbə doğru arxası üçün altı çərçivə düzəlt.</verse>
+        <verse osisID='Exod.26.23'>Məskənin arxa küncləri üçün isə iki çərçivə düzəlt ki,</verse>
+        <verse osisID='Exod.26.24'>bunlar aşağıda birləşib yuxarıda bir halqaya taxılsın; hər iki künc üçün elə iki çərçivə olsun.</verse>
+        <verse osisID='Exod.26.25'>Bu səkkiz çərçivə üçün on altı gümüş altlıq, hər çərçivənin altında iki altlıq olsun. </verse>
+        <verse osisID='Exod.26.26'>Əbrişim ağacından şüvüllər düzəlt: məskənin hər iki tərəfindəki çərçivələri üçün beş şüvül,</verse>
+        <verse osisID='Exod.26.27'>məskənin qərbə doğru arxa tərəfdəki çərçivələri üçün də beş şüvül olsun.</verse>
+        <verse osisID='Exod.26.28'>Orta şüvül çərçivələrin ortasından bir ucdan o biri uca qədər uzansın.</verse>
+        <verse osisID='Exod.26.29'>Çərçivələri qızılla ört; şüvüllərin keçdiyi halqaları qızıldan düzəlt; şüvülləri də qızılla ört.</verse>
+        <verse osisID='Exod.26.30'>Dağda sənə göstərilən layihəyə görə müqəddəs məskəni qur. </verse>
+        <verse osisID='Exod.26.31'>Pərdəni bənövşəyi, tünd qırmızı, al rəngli iplikdən və nəfis toxunmuş incə kətandan, üstünü isə keruvlar şəklində naxışla düzəlt.</verse>
+        <verse osisID='Exod.26.32'>Onu dörd dirək üstündə as; hər dirək qızılla örtülmüş əbrişim ağacından olsun. Üstündə qızıl qarmaqları olsun və dörd gümüş altlıq üstündə dursun.</verse>
+        <verse osisID='Exod.26.33'>Pərdəni bəndlərdən as və Şəhadət sandığını oraya, pərdənin arxasına gətir. Bu pərdə Müqəddəs yerlə Ən Müqəddəs yeri ayırsın.</verse>
+        <verse osisID='Exod.26.34'>Ən Müqəddəs yerdə Şəhadət sandığının üstünə kəffarə qapağını tax.</verse>
+        <verse osisID='Exod.26.35'>Masanı pərdənin bayır tərəfinə, çıraqdanı masanın qarşısına – məskənin cənub tərəfinə, masanı isə şimal tərəfinə qoy. </verse>
+        <verse osisID='Exod.26.36'>Hüzur çadırının girişi üçün arakəsməni bənövşəyi, tünd qırmızı, al rəngli iplikdən və nəfis toxunmuş incə kətandan, naxış tikməsi ilə düzəlt.</verse>
+        <verse osisID='Exod.26.37'>Bu arakəsmə üçün də əbrişim ağacından beş dirək düzəlt və üstünü qızılla ört; üstündə qızıl qarmaqlar olsun və onlar üçün tuncdan beş altlıq tök.  </verse>
+      </chapter>
+      <chapter osisID='Exod.27'>
+        <verse osisID='Exod.27.1'>
+          Qurbangahı əbrişim ağacından düzəlt. Qoy dördbucaq şəklində olub uzunluğu beş qulac, eni də beş qulac, hündürlüyü isə üç qulac olsun.</verse>
+        <verse osisID='Exod.27.2'>Qurbangahın dörd küncündən onunla bir hissədən olan dörd buynuz düzəlt. Qurbangahın üstünü tuncla ört.</verse>
+        <verse osisID='Exod.27.3'>Oranın kül qablarını, kürəklərini, ləyənlərini, çəngəllərini, xəkəndazlarını – bütün avadanlığını tuncdan düzəlt.</verse>
+        <verse osisID='Exod.27.4'>Qurbangah üçün tuncdan torlu şəbəkə düzəlt. Torun dörd bucağında tuncdan dörd halqa düzəlt.</verse>
+        <verse osisID='Exod.27.5'>Onu qurbangahın kənarından aşağıya qoy ki, şəbəkə onun yarısına qədər yetişsin.</verse>
+        <verse osisID='Exod.27.6'>Qurbangah üçün əbrişim ağacından şüvüllər düzəlt və üstünü tuncla ört.</verse>
+        <verse osisID='Exod.27.7'>Şüvülləri halqalara tax ki, onlar qurbangahı aparan zaman onun hər iki yanında olsun.</verse>
+        <verse osisID='Exod.27.8'>Qurbangahın içi boş və taxtadan olsun. Dağda sənə göstərdiyim kimi onu düzəlt. </verse>
+        <verse osisID='Exod.27.9'>Müqəddəs məskənin həyətini düzəlt. Həyətin cənub tərəfində bir tərəf üçün uzunluğu yüz qulac olan pərdələr nəfis toxunmuş incə kətandan olsun.</verse>
+        <verse osisID='Exod.27.10'>Onların iyirmi dirəyi və iyirmi altlığı tuncdan, dirəklərin qarmaqları və bəndləri isə gümüşdən olsun.</verse>
+        <verse osisID='Exod.27.11'>Şimal tərəfi üçün də uzunluğu yüz qulac pərdə olsun; onların iyirmi dirəyi və iyirmi altlığı tuncdan, dirəklərin qarmaqları və bəndləri isə gümüşdən olsun.</verse>
+        <verse osisID='Exod.27.12'>Qərb tərəfində uzunluğu həyətin eni qədər əlli qulac pərdələr olsun. Onlar üçün on dirək və on altlıq düzəlt.</verse>
+        <verse osisID='Exod.27.13'>Şərq tərəfində də həyətin eni əlli qulac olsun.</verse>
+        <verse osisID='Exod.27.14'>Darvazanın bir tərəfi üçün üç dirəyi və üç altlığı olan uzunluğu on beş qulac pərdələr olsun.</verse>
+        <verse osisID='Exod.27.15'>O biri tərəf üçün də üç dirəyi və üç altlığı olan uzunluğu on beş qulac pərdələr olsun.</verse>
+        <verse osisID='Exod.27.16'>Həyətin darvazası üçün uzunluğu iyirmi qulac olan bənövşəyi, tünd qırmızı, al rəngli iplikdən və nəfis toxunmuş incə kətandan naxış tikməli arakəsmə, onun dörd dirəyi və dörd altlığı olsun. </verse>
+        <verse osisID='Exod.27.17'>Həyətin bütün ətraf dirəkləri gümüşlə bəndlənsin; onların gümüş qarmaqları və tunc altlıqları olsun.</verse>
+        <verse osisID='Exod.27.18'>Həyətin uzunluğu yüz qulac və eni hər yerdə əlli qulac olsun; nəfis toxunmuş incə kətandan olan pərdənin hündürlüyü isə beş qulac, altlıqları da tuncdan olsun.</verse>
+        <verse osisID='Exod.27.19'>Müqəddəs məskənin ibadəti üçün işlənən bütün avadanlığı, onun bütün payaları kimi həyətin bütün payaları da tuncdan olsun. </verse>
+        <verse osisID='Exod.27.20'>Sən İsrail övladlarına əmr et ki, işıq yandırmaq üçün sənə zeytundan çəkilmiş xalis yağ gətirsinlər. Bu yağdan çıraqlar daima</verse>
+        <verse osisID='Exod.27.21'>Hüzur çadırında, Şəhadət sandığının qarşısındakı pərdənin bayır tərəfində yansın. Harunla oğulları onu hər axşam Rəbbin hüzurunda yandırıb səhərə qədər nəzarət etsinlər. Qoy bu, nəsildən-nəslə İsrail övladları üçün əbədi qayda olsun.  </verse>
+      </chapter>
+      <chapter osisID='Exod.28'>
+        <verse osisID='Exod.28.1'>
+          Sən isə qardaşın Harunu və onun oğulları Nadavı, Avihunu, Eleazarı və İtamarı İsrail övladlarının arasından yanına gətir ki, onlar Mənə kahinlik etsin.</verse>
+        <verse osisID='Exod.28.2'>Qardaşın Haruna izzət və gözəllik üçün müqəddəs geyimlər hazırla.</verse>
+        <verse osisID='Exod.28.3'>Sən də hikmət ruhu ilə doldurduğum bütün məharətli ustalara Harunun təqdis olunması üçün ona geyimlərin hazırlamasını tapşır ki, o Mənə kahinlik etsin.</verse>
+        <verse osisID='Exod.28.4'>Onların hazırlayacağı geyimlər bunlardır: döşlük, efod, üst cübbə, dama-dama xirqə, çalma və qurşaq. Bu müqəddəs geyimləri qardaşın Haruna və oğullarına hazırlasınlar ki, Mənə kahinlik etsinlər.</verse>
+        <verse osisID='Exod.28.5'>Qoy geyimləri hazırlayanlar qızıl, bənövşəyi, tünd qırmızı, al rəngli iplik və incə kətan götürsünlər. </verse>
+        <verse osisID='Exod.28.6'>Efodu qızıldan, bənövşəyi, tünd qırmızı, al rəngli iplikdən və nəfis toxunmuş incə kətandan naxışla düzəltsinlər.</verse>
+        <verse osisID='Exod.28.7'>Hər iki ucunu bir-birinə bağlayan iki çiyinlik olsun ki, o bərkidilsin.</verse>
+        <verse osisID='Exod.28.8'>Efodun üstündəki kəmər eyni hissədən olsun. O da qızıldan, bənövşəyi, tünd qırmızı və al rəngli iplik və nəfis toxunmuş incə kətandan olsun.</verse>
+        <verse osisID='Exod.28.9'>İki ədəd damarlı əqiq daşı götür və üstündə İsrailin oğullarının adlarını həkk et.</verse>
+        <verse osisID='Exod.28.10'>Onların doğulma sırası ilə bir daşın üstündə altı ad, o birisinin üstündə qalan altı adı,</verse>
+        <verse osisID='Exod.28.11'>həkkakın işi olan möhür oyması kimi iki daş üstündə İsrailin oğullarının adlarını həkk et. Bunları hörmə qızıl sağanaqlara salıb,</verse>
+        <verse osisID='Exod.28.12'>bu iki daşı efodun çiyinliklərinə tax. Bunlar İsrailin oğullarının xatirə daşlarıdır; Harun onların adlarını Rəbbin önündə iki çiynində xatirə kimi gəzdirəcək.</verse>
+        <verse osisID='Exod.28.13'>Hörmə qızıldan sağanaqlar düzəlt,</verse>
+        <verse osisID='Exod.28.14'>xalis qızıldan iki ipə bənzər burma zəncir düzəlt; burma zəncirləri sağanaqlara tax. </verse>
+        <verse osisID='Exod.28.15'>Hökm döşlüyünü efod kimi naxışlı düzəlt. Onu qızıldan, bənövşəyi, tünd qırmızı, al rəngli iplikdən və nəfis toxunmuş incə kətandan düzəlt.</verse>
+        <verse osisID='Exod.28.16'>Döşlük ikiqat, dördbucaq şəklində olub uzunluğu bir qarış, eni də bir qarış olsun.</verse>
+        <verse osisID='Exod.28.17'>Üstündəki bir çərçivəyə dörd sıra daş tax. Birinci sıra yaqut, topaz, zümrüd</verse>
+        <verse osisID='Exod.28.18'>ikinci sıra firuzə, göy yaqut və almaz,</verse>
+        <verse osisID='Exod.28.19'>üçüncü sıra sirkon, əqiq və ametist,</verse>
+        <verse osisID='Exod.28.20'>dördüncü sıra sarı yaqut, damarlı əqiq və yəşəm daşı olsun. Bu daşlar hörmə qızıl sağanaqlara taxılsın.</verse>
+        <verse osisID='Exod.28.21'>Daşlar İsrailin oğullarının adlarına görə on iki dənə olsun; hər daş on iki qəbilədən birinin adının oyma möhürü olsun.</verse>
+        <verse osisID='Exod.28.22'>Döşlük üçün xalis qızıldan ipəbənzər burma zəncirlər qayır.</verse>
+        <verse osisID='Exod.28.23'>Döşlük üçün iki qızıl halqa düzəlt və onları döşlüyün iki ucuna tax.</verse>
+        <verse osisID='Exod.28.24'>İki qızıl ipi döşlüyün uclarındakı iki halqaya tax.</verse>
+        <verse osisID='Exod.28.25'>İplərin o biri uclarını iki hörmə sağanağa taxıb efodun çiyinliklərinin qabaq tərəfinə bağla.</verse>
+        <verse osisID='Exod.28.26'>Yenə də iki qızıl halqa düzəlt və onları döşlüyün iki ucuna, efodla yanaşı iç qatına tax.</verse>
+        <verse osisID='Exod.28.27'>Digər iki qızıl halqa düzəlt və onu efodun çiyinliklərinin qabaq tərəfinə, aşağıya, efodun kəməri ilə birləşmə üzərinə bərkit.</verse>
+        <verse osisID='Exod.28.28'>Döşlük halqaları ilə efodun halqalarına bənövşəyi qaytanla bağlanıb efodun kəmərinin üzərinə bərkidilsin ki, döşlük efoddan sallanmasın. </verse>
+        <verse osisID='Exod.28.29'>Harun Müqəddəs yerə daxil olduğu zaman Rəbbin önündə daima xatirə olaraq İsrailin oğullarının adlarını hökm döşlüyündə, ürəyinin üstündə daşıyacaq.</verse>
+        <verse osisID='Exod.28.30'>Urim və Tummimi də hökm döşlüyünə qoy ki, Rəbbin hüzuruna daxil olduğu zaman onlar da ürəyinin üstündə olsun. Beləcə Harun İsrail övladlarının hökmünü Rəbbin hüzurunda daima ürəyinin üstündə daşıyacaq. </verse>
+        <verse osisID='Exod.28.31'>Efodun cübbəsini büsbütün bənövşəyi iplikdən tik.</verse>
+        <verse osisID='Exod.28.32'>Ortasında baş keçirmək üçün yer olsun. Onun kənarında cırılmamaq üçün yaxa toxunsun.</verse>
+        <verse osisID='Exod.28.33'>Cübbənin ətəyinin ətrafına bənövşəyi, tünd qırmızı və al rəngli iplikdən narlar və zınqırovlar düz:</verse>
+        <verse osisID='Exod.28.34'>cübbənin ətəyi boyunca ətrafında qızıl zınqırov və nar sıra ilə düzülsün.</verse>
+        <verse osisID='Exod.28.35'>Qoy cübbə Harun xidmət etdiyi zaman əynində olsun. Verdiyi səs də onun Müqəddəs yerə – Rəbbin hüzuruna girib-çıxdığı zaman eşidilsin ki, o ölməsin. </verse>
+        <verse osisID='Exod.28.36'>Xalis qızıldan bir lövhəcik düzəlt və onun üzərində möhür oyması olaraq “Rəbbə həsr edilmiş” yazısını həkk et.</verse>
+        <verse osisID='Exod.28.37'>Onu bənövşəyi qaytanla çalmanın üstünə – qabaq tərəfinə tik.</verse>
+        <verse osisID='Exod.28.38'>Beləcə lövhəcik Harunun alnının üstündə olsun. İsrail övladlarının təqdis etdikləri bütün müqəddəs hədiyyələrin Rəbbin qarşısında məqbul olub-olmamasının məsuliyyətini Harun daşıyacaq. Buna görə də qoy lövhəcik həmişə Harunun alnında olsun. </verse>
+        <verse osisID='Exod.28.39'>Xirqəni incə kətandan dama-dama hör. Çalmanı da incə kətandan düzəlt. Qurşağın üzərinə naxış tikib düzəlt. </verse>
+        <verse osisID='Exod.28.40'>Harunun oğullarına izzət və gözəllik üçün xirqələr, qurşaqlar və papaqlar düzəlt.</verse>
+        <verse osisID='Exod.28.41'>Bunları qardaşın Harunla oğullarına geyindirib onları məsh et, vəzifəyə qoy və Mənə kahinlik etmək üçün təqdis et.</verse>
+        <verse osisID='Exod.28.42'>Beldən buda qədər lüt bədənlərini örtən kətan alt paltarları tik.</verse>
+        <verse osisID='Exod.28.43'>Bunları Harunla oğulları Müqəddəs yerdə xidmət etmək üçün Hüzur çadırına daxil olanda yaxud qurbangaha yaxınlaşanda cəza çəkib ölməmək üçün geyəcəklər. Bu, Harunla övladlarına əbədi qayda olsun.  </verse>
+      </chapter>
+      <chapter osisID='Exod.29'>
+        <verse osisID='Exod.29.1'>
+          Mənə kahinlik etmək üçün onları bu qaydada təqdis et. Qüsursuz bir buğa və iki qoç götür.</verse>
+        <verse osisID='Exod.29.2'>Mayasız çörəkləri, zeytun yağı ilə yoğrulmuş mayasız kökələri və üstünə zeytun yağı sürtülmüş mayasız qoğalları narın buğda unundan hazırla.</verse>
+        <verse osisID='Exod.29.3'>Onları bir səbətin içinə qoy, buğa və iki qoçla birgə təqdim et.</verse>
+        <verse osisID='Exod.29.4'>Sonra Harunla oğullarını Hüzur çadırının girişinə gətir və onları su ilə yuyundur.</verse>
+        <verse osisID='Exod.29.5'>Geyimlərini götürüb Harunun əyninə xirqəni, efod cübbəsini, efodu və döşlüyü geyindir və efodun kəmərini belinə bağla.</verse>
+        <verse osisID='Exod.29.6'>Onun başına çalmanı, çalmaya da müqəddəslik tacını qoy.</verse>
+        <verse osisID='Exod.29.7'>Məsh yağını götürüb Harunun başına tök və onu məsh et.</verse>
+        <verse osisID='Exod.29.8'>Sonra oğullarını gətir və onlara xirqələr geyindir.</verse>
+        <verse osisID='Exod.29.9'>Haruna və onun oğullarının belinə qurşaq bağla və başlarına papaq qoy. Əbədi qaydaya görə kahinlik onların olsun. Beləcə Harunla oğullarını vəzifəyə qoy. </verse>
+        <verse osisID='Exod.29.10'>Sonra Hüzur çadırının önünə buğanı gətir. Qoy Harunla oğulları əllərini buğanın başına qoysunlar.</verse>
+        <verse osisID='Exod.29.11'>Buğanı Rəbbin önündə, Hüzur çadırının girişində kəs.</verse>
+        <verse osisID='Exod.29.12'>Buğanın qanından götür və barmağınla qurbangahın buynuzlarına çək. Qanın qalan hissəsini isə qurbangahın altlığına tök.</verse>
+        <verse osisID='Exod.29.13'>Heyvanın içalatını örtən bütün piyi, qaraciyərin quyruğa bənzər hissəsini, hər iki böyrəyini və üstündəki piyi qurbangahda tüstülədib yandır.</verse>
+        <verse osisID='Exod.29.14'>Buğanın ətini, dərisini və bağırsağını düşərgənin kənarında yandır. Bu, günah qurbanıdır. </verse>
+        <verse osisID='Exod.29.15'>Bir qoç da götür; qoy Harunla oğulları əllərini qoçun başına qoysunlar.</verse>
+        <verse osisID='Exod.29.16'>Sonra qoçu kəs, qanını götür və onu qurbangahın hər tərəfinə səp.</verse>
+        <verse osisID='Exod.29.17'>Qoçu parça-parça doğra, içalatını və budlarını yuyub, başının və tikələrinin üstünə qoy.</verse>
+        <verse osisID='Exod.29.18'>Bütün qoçu qurbangahda tüstülədib yandır. Bu, Rəbb üçün yandırma qurbanı, Onun xoşuna gələn ətir – yandırma təqdimidir. </verse>
+        <verse osisID='Exod.29.19'>Sən o biri qoçu da götür, Harunla oğulları əllərini onun başına qoysunlar.</verse>
+        <verse osisID='Exod.29.20'>Sonra qoçu kəs; qanından bir az götürüb Harunun sağ qulağının mərcəyinə, oğullarının sağ qulaq mərcəklərinə, onların sağ əllərinin və sağ ayaqlarının baş barmaqlarına çək. Qoçun qanını qurbangahın hər tərəfinə səp.</verse>
+        <verse osisID='Exod.29.21'>Qurbangahdakı qandan və məsh yağından götürüb Haruna və onun geyimlərinə, oğullarına və onların geyimlərinə çilə. Beləcə Harun və onun geyimləri, oğulları və onların geyimləri təqdis olunsun. </verse>
+        <verse osisID='Exod.29.22'>Sonra qoçun piyini, quyruğunu, içalatını örtən piyi, qaraciyərinin quyruğa bənzər hissəsini, hər iki böyrəyini, üstündəki piyi və sağ budunu götür. Çünki bu təqdis qoçudur.</verse>
+        <verse osisID='Exod.29.23'>Rəbbin önündə olan mayasız çörəklər səbətindən bir yastı çörək kökəsi, bir zeytun yağı ilə yoğrulmuş çörək kökəsi və bir qoğal götür.</verse>
+        <verse osisID='Exod.29.24'>Bunların hamısını Rəbbin hüzurunda yellədərək təqdim etmək üçün Harunun və onun oğullarının əllərinə qoy.</verse>
+        <verse osisID='Exod.29.25'>Sonra bu şeyləri əllərindən alıb qurbangahda yandırma qurbanı ilə tüstülədib yandır. Bu, Rəbbin hüzurunda Onun xoşuna gələn ətir – yandırma təqdimidir.</verse>
+        <verse osisID='Exod.29.26'>Harunun təqdis qurbanı olan qoçdan döş ətini götürüb Rəbbin hüzurunda yellədərək təqdim et. Bu sənin payındır.</verse>
+        <verse osisID='Exod.29.27'>Harunla oğullarının təqdis qurbanı olan qoçdan yellədilən döş ətini və qaldırılan budu təqdis et.</verse>
+        <verse osisID='Exod.29.28'>Bu qaldırılan pay Harunla övladlarının İsraillilərdən gələn əbədi pay olsun. Bu da İsrail övladlarının ünsiyyət qurbanlarından Rəbbə qaldırılan pay olsun. </verse>
+        <verse osisID='Exod.29.29'>Harunun müqəddəs geyimləri özündən sonra oğullarına qalsın ki, onları geyərək məsh olunub vəzifəyə qoyulsunlar.</verse>
+        <verse osisID='Exod.29.30'>Onun yerinə kahin olub Müqəddəs yerdə xidmət etmək üçün Hüzur çadırına daxil olan oğlu yeddi gün o geyimləri geysin. </verse>
+        <verse osisID='Exod.29.31'>Təqdis qurbanı olan qoçun ətini götür və müqəddəs bir yerdə qaynat.</verse>
+        <verse osisID='Exod.29.32'>Harunla oğulları o qoçun ətini və səbətdə olan çörəyi Hüzur çadırının girişində yesinlər.</verse>
+        <verse osisID='Exod.29.33'>Özlərini vəzifəyə qoyub təqdis edəndə günahlarının kəffarə olması üçün istifadə edilən bu şeyləri onlar yesin; amma yad adamlar bunları yeməsin, çünki bu şeylər müqəddəsdir.</verse>
+        <verse osisID='Exod.29.34'>Əgər təqdis qurbanının ətindən və çörəkdən səhərə qədər qalarsa, qalığını yandır; bu şeylər yeyilməz, çünki müqəddəsdir.</verse>
+        <verse osisID='Exod.29.35'>Mən sənə necə əmr etmişəmsə, o cür də Harunla oğulları üçün et.  Onların vəzifəyə keçmə vaxtını yeddi gün davam etdir.</verse>
+        <verse osisID='Exod.29.36'>Hər gün kəffarə üçün günah qurbanı olaraq bir buğa gətir. Qurbangah üçün kəffarə edərək onu pak et və təqdis etmək üçün məsh et. </verse>
+        <verse osisID='Exod.29.37'>Yeddi gün ərzində qurbangah üçün kəffarə edərək onu təqdis et. Sonra qurbangah ən müqəddəs sayılacaq və ona toxunan hər şey müqəddəs olacaq. </verse>
+        <verse osisID='Exod.29.38'>Daimi olaraq hər gün qurbangah üzərində birillik iki toğlu gətir.</verse>
+        <verse osisID='Exod.29.39'>Toğlunun birini səhər, digərini isə axşam təqdim et.</verse>
+        <verse osisID='Exod.29.40'>Birinci toğlu ilə birlikdə dörddə bir hin zeytun yağı ilə yoğrulmuş onda bir efa narın un və içmə təqdimi olaraq dörddə bir hin şərab gətir.</verse>
+        <verse osisID='Exod.29.41'>Axşamçağı təqdim etdiyin o biri toğlu ilə səhərki kimi taxıl təqdimi və içmə təqdimi gətir. Bu, Rəbbin xoşuna gələn ətirli təqdimdir.</verse>
+        <verse osisID='Exod.29.42'>Bu sizin üçün nəsildən-nəslə Hüzur çadırının girişində, Rəbbin önündə daimi yandırma qurbanı olacaq. Mən orada sizinlə görüşüb, səninlə danışacağam.</verse>
+        <verse osisID='Exod.29.43'>Orada Mən İsrail övladları ilə görüşəcəyəm; Hüzur çadırı Mənim izzətimlə təqdis olunacaq.</verse>
+        <verse osisID='Exod.29.44'>Mən Hüzur çadırını və qurbangahı təqdis edəcəyəm; Harunla oğullarını da təqdis edəcəyəm ki, Mənə kahinlik etsinlər.</verse>
+        <verse osisID='Exod.29.45'>İsrail övladları arasında məskunlaşacağam və onların Allahı olacağam.</verse>
+        <verse osisID='Exod.29.46'>Onlar da biləcəklər ki, aralarında məskunlaşmaq üçün onları Misir torpağından çıxaran Allahı Rəbb Mənəm, onların Allahı Rəbb Mənəm.  </verse>
+      </chapter>
+      <chapter osisID='Exod.30'>
+        <verse osisID='Exod.30.1'>
+          Əbrişim ağacından buxur yandırmaq üçün qurbangah düzəlt.</verse>
+        <verse osisID='Exod.30.2'>Qoy uzunluğu bir qulac eni də bir qulac, hündürlüyü isə iki qulac olsun, buynuzları onunla bir hissədən olsun.</verse>
+        <verse osisID='Exod.30.3'>Onun üzərini, hər yanını və buynuzlarını xalis qızılla ört və ətrafına qızıl zolaq qoy.</verse>
+        <verse osisID='Exod.30.4'>Onun üçün iki qızıl halqa düzəlt; qarşı-qarşıya olan iki yanda, zolağın altında düzəlt. Bu onu aparan şüvüllərin keçdiyi yerlər olsun.</verse>
+        <verse osisID='Exod.30.5'>Şüvülləri əbrişim ağacından düzəlt və qızılla ört.</verse>
+        <verse osisID='Exod.30.6'>Bu qurbangahı Şəhadət sandığının qarşısında olan pərdənin önünə – Mənim səninlə görüşəcəyim yerə, kəffarə qapağının önünə qoy. </verse>
+        <verse osisID='Exod.30.7'>Harun qurbangahda ətirli buxur yandırsın. Həm səhər çıraqları hazırladığı zaman,</verse>
+        <verse osisID='Exod.30.8'>həm də axşamçağı çıraqları yandırdığı zaman onu yandırsın. Bu sizin üçün nəsildən-nəslə Rəbbin önündə daimi buxur təqdimidir.</verse>
+        <verse osisID='Exod.30.9'>Onun üstündə nə yad buxur, nə yandırma qurbanı, nə də taxıl təqdimi gətirin; içmə təqdimi də tökməyin.</verse>
+        <verse osisID='Exod.30.10'>İldə bir dəfə Harun günah üçün kəffarə qurbanının qanını qurbangahın buynuzlarına çəkərək qurbangah üçün kəffarə etsin. Nəsildən-nəslə, ildən-ilə bir dəfə belə etsin. Qurbangah Rəbb üçün ən müqəddəsdir». </verse>
+        <verse osisID='Exod.30.11'>Rəbb Musaya belə dedi:</verse>
+        <verse osisID='Exod.30.12'>«İsrail övladlarını siyahıya aldığın zaman sayılan hər bir adam öz həyatının əvəzini Rəbbə versin ki, sayıldıqlarına görə aralarında bəla olmasın.</verse>
+        <verse osisID='Exod.30.13'>Sayılmış adamlara daxil olan hər kəs yarım şekel gümüş versin. Bu, iyirmi geradan ibarət olan Müqəddəs yerdəki şekelə görə sayılsın. Bu yarım şekel Rəbbin payıdır.</verse>
+        <verse osisID='Exod.30.14'>İyirmi və ondan yuxarı yaşda sayılmış adamlar arasından hər bir kişi bu payı Rəbbə versin.</verse>
+        <verse osisID='Exod.30.15'>Həyatlarınızı kəffarə etmək üçün Rəbbin payını verəndə varlı yarım şekeldən çox, kasıb yarım şekeldən əskik verməsin.</verse>
+        <verse osisID='Exod.30.16'>Bu kəffarə pulunu İsrail övladlarından götürüb Hüzur çadırının ibadəti üçün təyin et. Bu, həyatlarınızı kəffarə etmək üçün Rəbbin önündə İsrail övladlarının xatirəsi olacaq». </verse>
+        <verse osisID='Exod.30.17'>Rəbb Musaya belə dedi:</verse>
+        <verse osisID='Exod.30.18'>«Yuyunmaq üçün bir tunc ləyən düzəlt. Qoy altlığı da tuncdan olsun. Onu Hüzur çadırı ilə qurbangahın arasına qoy, içini də su ilə doldur ki,</verse>
+        <verse osisID='Exod.30.19'>Harunla oğulları əl-ayaqlarını o su ilə yusunlar.</verse>
+        <verse osisID='Exod.30.20'>Onlar Hüzur çadırına daxil olduğu zaman su ilə yuyunsunlar, yoxsa öləcəklər. Xidmət etmək və Rəbb üçün yandırma təqdimi tüstülədib yandırmaq üçün qurbangaha yaxınlaşanda da</verse>
+        <verse osisID='Exod.30.21'>əl-ayaqlarını yusunlar, yoxsa öləcəklər. Bu, Harunla övladları üçün nəsildən-nəslə əbədi qayda olsun». </verse>
+        <verse osisID='Exod.30.22'>Rəbb Musaya dedi:</verse>
+        <verse osisID='Exod.30.23'>«Bu gözəl ətriyyatlardan götür: beş yüz şekel duru mirra, onun yarısı qədər iki yüz əlli şekel ətirli darçın, iki yüz əlli şekel ətirli qamış</verse>
+        <verse osisID='Exod.30.24'>və beş yüz şekel Çin darçını, hər şey Müqəddəs yerdəki şekelə görə sayılsın; həm də bir hin zeytun yağı.</verse>
+        <verse osisID='Exod.30.25'>Bunların hamısından müqəddəs məsh yağı hazırla; bu ətriyyatçının tərtib etdiyi ətriyyat, müqəddəs məsh yağı olacaq.</verse>
+        <verse osisID='Exod.30.26'>Həmin yağla bunları məsh et: Hüzur çadırını, Şəhadət sandığını,</verse>
+        <verse osisID='Exod.30.27'>masanı və onun bütün ləvazimatını, çıraqdanı və onun əşyalarını, buxur qurbangahını,</verse>
+        <verse osisID='Exod.30.28'>yandırma qurbanları üçün qurulan qurbangahı və onun bütün avadanlığını, tunc ləyəni və onun altlığını.</verse>
+        <verse osisID='Exod.30.29'>Beləcə bu şeyləri təqdis et ki, ən müqəddəs olsunlar; onlara toxunan hər şey müqəddəs olacaq.</verse>
+        <verse osisID='Exod.30.30'>Harunla oğullarını da məsh edərək təqdis et ki, Mənə kahinlik etsinlər. </verse>
+        <verse osisID='Exod.30.31'>İsrail övladlarına belə de: “Bu sizin üçün nəsildən-nəslə Mənə müqəddəs məsh yağı olacaq.</verse>
+        <verse osisID='Exod.30.32'>Bu yağ insan bədənlərinə tökülməsin. Tərkibinə görə ona bənzər heç nə hazırlamayın. Bu yağ müqəddəsdir, onu müqəddəs sayın.</verse>
+        <verse osisID='Exod.30.33'>Ona bənzərini düzəldən yaxud onu kənar şəxsin üzərinə tökən hər kəs xalqı arasından qovulsun”». </verse>
+        <verse osisID='Exod.30.34'>Sonra Rəbb Musaya dedi: «Bu ətirli maddələrdən götür: balzam, onika, ilan kölgəsi, xalis kündür; hər şey eyni miqdarda olsun.</verse>
+        <verse osisID='Exod.30.35'>Bunların hamısından buxur hazırla; ətriyyatçının düzəltdiyi bu qatışıq duzlanmış, təmiz və müqəddəs olsun.</verse>
+        <verse osisID='Exod.30.36'>Ondan bir qədərini narın döy və Mənim səninlə görüşəcəyim yer olan Hüzur çadırında Şəhadət sandığının önünə qoy. Bu sizin üçün ən müqəddəs olsun.</verse>
+        <verse osisID='Exod.30.37'>Hazırladığın buxurun tərkibinə görə özünüz üçün buxur hazırlamayın; bunu Rəbb üçün müqəddəs sayın.</verse>
+        <verse osisID='Exod.30.38'>Ona bənzər olan ətir vurmaq üçün hazırlayan hər kəs xalqın arasından qovulsun».  </verse>
+      </chapter>
+      <chapter osisID='Exod.31'>
+        <verse osisID='Exod.31.1'>
+          Rəbb Musaya dedi:</verse>
+        <verse osisID='Exod.31.2'>«Bax Yəhuda qəbiləsindən Xur oğlu Uri oğlu Besaleli adı ilə çağırıb,</verse>
+        <verse osisID='Exod.31.3'>onu Allahın Ruhu ilə hikmət, dərrakə, bilik və hər cür məharətlə doldurmuşam ki,</verse>
+        <verse osisID='Exod.31.4'>qızıl, gümüş və tuncla işləməyi bacarsın,</verse>
+        <verse osisID='Exod.31.5'>daş-qaş yonsun, ağac oysun, hər cür məharət göstərə bilsin.</verse>
+        <verse osisID='Exod.31.6'>Mən də Dan qəbiləsində olan Axisamak oğlu Oholiavı ona köməkçi təyin etmişəm. Hər müdrik adamın ürəyinə hikmət qoymuşam ki, Mən sənə necə əmr etmişəm, belə də etsinlər:</verse>
+        <verse osisID='Exod.31.7'>Hüzur çadırını, Şəhadət sandığını və üstündəki kəffarə qapağını, çadırın bütün avadanlığını,</verse>
+        <verse osisID='Exod.31.8'>masanı və onun ləvazimatını, xalis qızıldan çıraqdanı və onun bütün əşyalarını, buxur qurbangahını,</verse>
+        <verse osisID='Exod.31.9'>yandırma qurbanları üçün qurulan qurbangahı və onun bütün avadanlığını, ləyəni və onun altlığını,</verse>
+        <verse osisID='Exod.31.10'>toxunmuş geyimləri – kahin Harunun müqəddəs geyimlərini və oğullarının kahinlik etmək üçün geyimlərini,</verse>
+        <verse osisID='Exod.31.11'>məsh yağını, Müqəddəs yer üçün ətirli buxuru Mən sənə necə əmr etmişəmsə, qoy o cür də düzəltsinlər». </verse>
+        <verse osisID='Exod.31.12'>Rəbb Musaya dedi:</verse>
+        <verse osisID='Exod.31.13'>«Sən İsrail övladlarına belə söylə: “Mənim Şənbə günlərimə riayət edin. Çünki bu Mənimlə sizin aranızda nəsildən-nəslə onu bilmək üçün bir əlamətdir ki, sizi təqdis edən Rəbb Mənəm.</verse>
+        <verse osisID='Exod.31.14'>Beləliklə, Şənbə gününə riayət edin, çünki o sizin üçün müqəddəsdir. Onu ləkələyən öldürülməlidir. O gün iş görən hər kəs xalqı arasından qovulsun.</verse>
+        <verse osisID='Exod.31.15'>Altı gün iş görülsün, yeddinci gün isə Rəbb üçün təqdis olunan Şənbə istirahət günü olsun. O gün iş görən hər kəs öldürülməlidir.</verse>
+        <verse osisID='Exod.31.16'>İsrail övladları nəsildən-nəslə əbədi əhd kimi Şənbə gününə riayət və əməl etsinlər.</verse>
+        <verse osisID='Exod.31.17'>Mənimlə İsrail övladları arasında əbədi bir əlamətdir ki, altı gün ərzində Rəbb göyləri və yeri yaratdı, yeddinci gün isə istirahət etdi və dincəldi”». </verse>
+        <verse osisID='Exod.31.18'>Sina dağında Allahın Musa ilə söhbəti qurtarandan sonra Allah Öz barmağı ilə yazılmış iki şəhadət daş lövhəsini Musaya verdi.  </verse>
+      </chapter>
+      <chapter osisID='Exod.32'>
+        <verse osisID='Exod.32.1'>
+            Xalq Musanın dağdan enmədiyini, gecikdiyini görəndə Harunun ətrafına toplaşıb ona dedi: «Qalx və bizim üçün allahlar düzəlt ki, qabağımızca getsinlər. Çünki bizi Misir torpağından çıxaran adamın – bu Musanın başına nə iş gəldiyini bilmirik!»</verse>
+        <verse osisID='Exod.32.2'>Harun onlara cavab verdi: «Arvadlarınızın, oğullarınızın, qızlarınızın qulaqlarından qızıl sırğaları çıxarıb mənim yanıma gətirin».</verse>
+        <verse osisID='Exod.32.3'>Bütün xalq qulaqlarında olan qızıl sırğaları çıxarıb Haruna gətirdi.</verse>
+        <verse osisID='Exod.32.4'>Harun onlardan qızıl götürdü, oyma aləti ilə surət verib dana şəklində tökmə büt düzəltdi. Xalq «Ey İsrail övladları, budur sizi Misir torpağından çıxaran allahlarınız!» dedi.</verse>
+        <verse osisID='Exod.32.5'>Harun bunu gördükdə dananın qabağında bir qurbangah düzəltdi və elan etdi: «Sabah Rəbb naminə bayram olacaq».</verse>
+        <verse osisID='Exod.32.6'>Ertəsi gün xalq səhər tezdən qalxıb yandırma qurbanları ilə ünsiyyət qurbanları kəsdi. Xalq oturub yeyib-içdi, sonra isə qalxıb oynaşdı. </verse>
+        <verse osisID='Exod.32.7'>Rəbb Musaya dedi: «Tez ol, düş aşağı, çünki Misirdən gətirdiyin xalqın öz əxlaqını pozdu və</verse>
+        <verse osisID='Exod.32.8'>Mən onlara əmr etdiyim yoldan yaman tez döndü. Özləri üçün tökmə dana düzəldib ona səcdə qıldılar, qurban kəsdilər və dedilər: “Ey İsrail övladları, budur sizi Misir torpağından çıxaran allahlarınız!”»</verse>
+        <verse osisID='Exod.32.9'>Rəbb Musaya sözünü davam etdi: «Görürəm ki, bu xalq dikbaş xalqdır.</verse>
+        <verse osisID='Exod.32.10'>Qoy Mən xalqa qarşı qəzəblənib onu yox edim, səndən isə böyük millət əmələ gətirim». </verse>
+        <verse osisID='Exod.32.11'>Musa Allahı Rəbbə yalvarıb dedi: «Ya Rəbb, nə üçün Öz xalqına qarşı qəzəbin alovlansın? Sən onları Misirdən böyük qüvvətinlə və qüdrətli əlinlə qurtarmadınmı?</verse>
+        <verse osisID='Exod.32.12'>Axı nə üçün Misirlilər “Onları pis niyyətlə, dağlarda öldürüb yer üzündən yox etmək üçün çıxartdı” desinlər? Yalvarıram, qəzəbini yatır və Öz xalqına bəla gətirmək niyyətindən dön.</verse>
+        <verse osisID='Exod.32.13'>Qulların İbrahimi, İshaqı, və İsraili xatırla və Özün naminə onlara and edərək “nəslinizi göydəki ulduzlar qədər çoxaldacağam, vəd etdiyim bu ölkənin hamısını nəslinizə verəcəyəm və onlar əbədilik oraya sahib olacaqlar” dedin».</verse>
+        <verse osisID='Exod.32.14'>Beləliklə, Rəbb Öz xalqına bəla gətirmək niyyətindən döndü. </verse>
+        <verse osisID='Exod.32.15'>Musa əlində iki şəhadət lövhəsi ilə dönüb dağdan endi. Lövhələrin iki tərəfi – bu üzü də, o üzü də yazılı idi.</verse>
+        <verse osisID='Exod.32.16'>Onlar Allahın işi idi; üzərindəki oyma yazılar Onun yazısı idi.</verse>
+        <verse osisID='Exod.32.17'>Yeşua xalqın səs-küyünü eşidərək Musaya dedi: «Düşərgədən müharibə səsi gəlir».</verse>
+        <verse osisID='Exod.32.18'>Musa cavab verdi:  «Bu qələbə çalanların nidası deyil,Məğlubiyyətə uğrayanların da səsi deyil.Mən nəğmə səsi eşidirəm». </verse>
+        <verse osisID='Exod.32.19'>Musa düşərgəyə yaxınlaşıb dananı və onun ətrafındakı rəqsləri gördü. O qəzəbləndi və lövhələri əlindən atıb dağın ətəyində parça-parça etdi.</verse>
+        <verse osisID='Exod.32.20'>Xalqın düzəltdiyi dananı götürüb yandırdı, toza dönənə qədər əzdi və suyun üzünə səpələyib İsrail övladlarına içirtdi. </verse>
+        <verse osisID='Exod.32.21'>Musa Harundan soruşdu: «Bu xalq sənə nə etdi ki, onları belə böyük günaha batırdın?»</verse>
+        <verse osisID='Exod.32.22'>Harun cavab verdi: «Qoy ağam qəzəblənməsin. Sən bu xalqı tanıyırsan. Onun niyyəti pisdir.</verse>
+        <verse osisID='Exod.32.23'>Onlar mənə dedilər: “Bizim üçün allahlar düzəlt ki, qabağımızda getsinlər. Çünki bizi Misir torpağından çıxaran adamın – bu Musanın başına nə iş gəldiyini bilmirik!”</verse>
+        <verse osisID='Exod.32.24'>Mən isə onlara dedim: “Kimdə qızıl varsa, onu çıxarın”. Xalq da qızılı mənə verdi. Mən onu oda atdım və bu dana alındı». </verse>
+        <verse osisID='Exod.32.25'>Musa bildi ki, xalq nəzarətdən çıxıb. Harun nəzarəti o qədər zəiflətmişdi ki, düşmənlər onları lağa qoyurdular.</verse>
+        <verse osisID='Exod.32.26'>Musa düşərgənin girişində durub çağırdı: «Rəbbin tərəfində olanlar, mənim yanıma gəlin!» Bütün Levi övladları onun yanına toplaşdı.</verse>
+        <verse osisID='Exod.32.27'>Musa onlara dedi: «İsrailin Allahı Rəbb belə deyir: “Qoy hər biriniz qılıncını belinə qurşasın. Hər kəs düşərgədə qapı-qapı gəzərək öz qardaşını, dostunu və qonşusunu öldürsün”».</verse>
+        <verse osisID='Exod.32.28'>Levililər də Musa onlara etdiyi əmrə əməl etdilər. O gün üç minə yaxın adam həlak oldu.</verse>
+        <verse osisID='Exod.32.29'>Musa Levililərə dedi: «Bu gün sizin hər biriniz oğlunun və qardaşının canı bahasına xeyir-dua alıb Rəbb üçün vəzifəyə təyin olundunuz». </verse>
+        <verse osisID='Exod.32.30'>Ertəsi gün Musa xalqa dedi: «Siz böyük günaha batdınız. İndi isə Mən Rəbbin hüzuruna qalxacağam ki, bəlkə günahınızı kəffarə edə bilim».</verse>
+        <verse osisID='Exod.32.31'>Musa Rəbbin hüzuruna qayıdıb dedi: «Ah, bu xalq böyük günaha batıb, özünə qızıldan allahlar düzəltdi;</verse>
+        <verse osisID='Exod.32.32'>İndi yalvarıram, onların günahlarını bağışla. Əgər belə etməsən, adımı yazdığın kitabdan sil».</verse>
+        <verse osisID='Exod.32.33'>Rəbb Musaya dedi: «Mənə qarşı kim günah işlədibsə, onun adını kitabımdan siləcəyəm.</verse>
+        <verse osisID='Exod.32.34'>Lakin indi get, xalqı sənə dediyim yerə apar. Budur, Mələyim sənin qarşında gedəcək. Ancaq cəza günü gələndə onlara günahlarına görə cəza verəcəyəm». </verse>
+        <verse osisID='Exod.32.35'>Rəbb Harunun düzəltdiyi danaya və gördükləri işə görə İsrail xalqını bəlaya saldı.  </verse>
+      </chapter>
+      <chapter osisID='Exod.33'>
+        <verse osisID='Exod.33.1'>
+            Rəbb Musaya dedi: «Sən və Misir torpağından çıxardığın xalq bu yeri tərk edin; İbrahimə, İshaqa və Yaquba and edərək “Sənin nəslinə onu verəcəyəm” dediyim torpağa,</verse>
+        <verse osisID='Exod.33.2'>qarşında bir mələk göndərib Kənanlıları, Emorluları, Xetliləri, Perizliləri, Xivliləri və Yevusluları oradan qovacağım</verse>
+        <verse osisID='Exod.33.3'>süd və bal axan torpağa gedin. Siz dikbaş xalqsınız, buna görə Mən aranızda getməyəcəyəm, yoxsa yolda sizi məhv edərəm».</verse>
+        <verse osisID='Exod.33.4'>Xalq bu bəd xəbəri eşidəndə yas tutdu. Heç kəs bəzək taxmadı. </verse>
+        <verse osisID='Exod.33.5'>Rəbb Musaya demişdi: «İsrail övladlarına belə söylə: “Siz dikbaş xalqsınız, Mən aranızdan bir anlıq getsəydim, sizi məhv edərdim. İndi isə bəzəklərinizi çıxarın, Mən də bilim ki, sizinlə nə edəcəyəm”».</verse>
+        <verse osisID='Exod.33.6'>Beləcə Xorev dağının ətəyində İsrail övladları bəzəklərini soyundular. </verse>
+        <verse osisID='Exod.33.7'>Musa çadırı götürüb onu düşərgədən kənarda – uzaqda qurardı. Onu Hüzur çadırı adlandırdı. Rəblə məsləhətləşən hər kəs düşərgədən kənardakı Hüzur çadırına gedərdi.</verse>
+        <verse osisID='Exod.33.8'>Musa çadıra tərəf çıxdığı vaxt bütün xalq durardı. Hər kəs çadırının girişində gözləyib, Musa çadıra girənə qədər ardınca baxardı.</verse>
+        <verse osisID='Exod.33.9'>Musa Hüzur çadırına girəndə bulud dirəyi düşüb çadırın girişində durardı; Rəbb Musa ilə danışardı.</verse>
+        <verse osisID='Exod.33.10'>Bütün xalq Hüzur çadırının girişində duran bulud dirəyini görər, hamı qalxıb öz çadırının girişində səcdə qılardı.</verse>
+        <verse osisID='Exod.33.11'>Rəbb Musa ilə üz-üzə, dostu ilə söhbət etdiyi kimi danışardı. Sonra Musa düşərgəyə qayıdardı. Lakin onun gənc köməkçisi Nun oğlu Yeşua çadırı tərk etməzdi. </verse>
+        <verse osisID='Exod.33.12'>Musa Rəbbə dedi: «Bax Sən mənə “bu xalqı çıxart” deyirsən, amma mənimlə birgə kimi göndərəcəyini mənə bildirmirsən. Halbuki Sən dedin: “Səni adınla tanıyıram və gözümdə lütf tapmısan”.</verse>
+        <verse osisID='Exod.33.13'>Əgər mən, doğrudan da, Sənin gözündə lütf tapmışamsa, yalvarıram, öz yolunu mənə agah elə ki, Səni tanıyım və gözündə lütf tapım. Bax bu camaat sənin xalqındır».</verse>
+        <verse osisID='Exod.33.14'>O isə Musaya cavab verdi: «Mənim hüzurum səninlə gedəcək. Özüm sənə rahatlıq verəcəyəm».</verse>
+        <verse osisID='Exod.33.15'>Musa Rəbbə cavab verdi: «Əgər Sənin hüzurun bizimlə getməsə, bizi buradan göndərmə.</verse>
+        <verse osisID='Exod.33.16'>Xalqımın mənimlə birlikdə Sənin gözündə lütf tapması indi nə ilə bilinəcək? Sənin bizimlə getməyindən deyilmi? Biz yer üzündə olan digər xalqlardan nə ilə fərqlənək?» </verse>
+        <verse osisID='Exod.33.17'>Rəbb Musaya cavab verdi: «Sən Məndən dilədiyin bu şeyi edəcəyəm. Çünki gözümdə lütf tapdın və səni adınla tanıyıram».</verse>
+        <verse osisID='Exod.33.18'>Musa dedi: «İzzətini mənə göstər».</verse>
+        <verse osisID='Exod.33.19'>Rəbb dedi: «Mən bütün xeyirxahlığımı Sənin qarşından keçirəcəyəm və Rəbb olan adımı qarşında bəyan edəcəyəm. Kimə istəsəm, lütf göstərərəm, kimə istəsəm, rəhm edərəm».</verse>
+        <verse osisID='Exod.33.20'>Sonra O davam etdi: «Üzümü isə görə bilməzsən, çünki Məni görən adam sağ qalmaz».</verse>
+        <verse osisID='Exod.33.21'>Sonra Rəbb dedi: «Budur, Mənim yanımda yer var, elə burada, bu qayanın üstündə dur.</verse>
+        <verse osisID='Exod.33.22'>İzzətim keçəndə səni qayadakı bir yarığa qoyacağam; Mən keçənə qədər səni əlimlə örtəcəyəm.</verse>
+        <verse osisID='Exod.33.23'>Sonra əlimi səndən çəkəcəyəm və sən Məni arxadan görəcəksən, amma üzümü görməyəcəksən».  </verse>
+      </chapter>
+      <chapter osisID='Exod.34'>
+        <verse osisID='Exod.34.1'>
+          Rəbb Musaya dedi: «Əvvəlki kimi özün üçün iki daş lövhə yon; qırdığın əvvəlki lövhələrdə yazılan sözləri yeni lövhələrin üstündə yazacağam.</verse>
+        <verse osisID='Exod.34.2'>Səhərə hazır ol və Sina dağına çıx. Dağın zirvəsi üstündə önümdə dur.</verse>
+        <verse osisID='Exod.34.3'>Qoy heç kəs səninlə çıxmasın və dağda heç bir adam görünməsin. Dağın ətəyində nə qoyun-keçi, nə də mal-qara otlasın». </verse>
+        <verse osisID='Exod.34.4'>Rəbb ona buyurduğu kimi Musa əvvəlkilərə bənzər iki daş lövhə yondu və səhər erkən durub, əlində iki daş lövhə tutaraq Sina dağına çıxdı.</verse>
+        <verse osisID='Exod.34.5'>Rəbb buludun içindən enib orada Musa ilə durdu və Rəbb olan Öz adını bəyan edib</verse>
+        <verse osisID='Exod.34.6'>Musanın qarşısından keçərək dedi: «Rəbb Mənəm, rəhmli və lütfkar Rəbb Allaham. Mən hədsiz səbirli, bol məhəbbətli və sədaqətliyəm,</verse>
+        <verse osisID='Exod.34.7'>minlərlə nəslinə məhəbbətimi göstərərəm, cəzanı, qanunsuzluğu və günahı bağışlayaram; lakin cəzasız qoymaram, ataların cəzasını üçüncü-dördüncü nəslə qədər nəvə-nəticələrinə verərəm». </verse>
+        <verse osisID='Exod.34.8'>Musa dərhal yerə sərilib Rəbbə səcdə qıldı.</verse>
+        <verse osisID='Exod.34.9'>Sonra Musa dedi: «Ey Xudavənd, əgər gözündə lütf tapmışamsa, yalvarıram, Sən, ey Xudavənd, aramızda ol. Biz dikbaş bir xalq olsaq da, təqsirimizlə günahımızı bağışla və bizə sahib ol». </verse>
+        <verse osisID='Exod.34.10'>Rəbb Musaya dedi: «Budur, Mən sənin bütün xalqınla əhd kəsirəm. Hamının qarşısında elə möcüzələr edəcəyəm ki, beləsi dünyada heç yerdə, heç bir millət arasında yaranmamışdı. Sizin ətrafınızdakı bütün xalqlar görəcəklər ki, Rəbbin işi, Mənim sənin üçün etdiyim şeylər qorxuncdur.</verse>
+        <verse osisID='Exod.34.11'>Mənim sizə bu gün verdiyim əmrə riayət edin. Budur, Mən önünüzdən Emorluları, Kənanlıları, Xetliləri, Perizliləri, Xivliləri və Yevusluları qovuram.</verse>
+        <verse osisID='Exod.34.12'>Özünüzü girdiyiniz torpağın sakinləri ilə əhd kəsməkdən gözləyin ki, o sizə bir tələ olmasın.</verse>
+        <verse osisID='Exod.34.13'>Onların qurbangahlarını dağıdın, daş sütunlarını sındırın, ilahə Aşera bütlərini kəsin.</verse>
+        <verse osisID='Exod.34.14'>Başqa allahlara səcdə etməyin, çünki Rəbbin adı qısqancdır, O, həqiqətən, qısqanc Allahdır.</verse>
+        <verse osisID='Exod.34.15'>Ona görə də nə o torpağın sakinləri ilə əhd kəsin, nə də öz allahları ilə xəyanət edib, onlara qurban kəsən vaxt sizi də dəvət edəndə qurbanlarından dadın.</verse>
+        <verse osisID='Exod.34.16'>Onların qızlarını öz oğullarınıza arvad olaraq almayın ki, onlar öz allahları ilə xəyanət edib sizin oğullarınıza da o allahlara xəyanət etdirməsinlər. </verse>
+        <verse osisID='Exod.34.17'>Özünüz üçün tökmə allahlar düzəltməyin. </verse>
+        <verse osisID='Exod.34.18'>Mayasız Çörək bayramını qeyd edin. Mən sizə əmr etdiyim kimi Aviv ayında təyin olunan vaxtı yeddi gün mayasız çörək yeyin, çünki Aviv ayında Misirdən çıxdınız. </verse>
+        <verse osisID='Exod.34.19'>Bütün ilk doğulan oğlanlar və bütün heyvanlarınızın, istər mal-qaranızın, istərsə də qoyun-keçinizin ilk doğulan balaları Mənimdir.</verse>
+        <verse osisID='Exod.34.20'>İlk doğulan eşşək balası əvəzinə bir qoyun-keçi balası verin. Əgər əvəzini verməsəniz, boynunu sındırın. Aranızda hər adamın ilk oğlunun əvəzini ödəyin. Heç kəs önümdə əliboş görünməsin. </verse>
+        <verse osisID='Exod.34.21'>Altı gün işlərinizi görün, yeddinci gün isə istirahət edin. Şum və biçin vaxtı da belə istirahət edin. </verse>
+        <verse osisID='Exod.34.22'>Buğda biçinin nübarı ilə Həftələr bayramını qeyd edin. İlin sonunda isə Yığım bayramını qeyd edin. </verse>
+        <verse osisID='Exod.34.23'>İldə üç dəfə sizin bütün kişiləriniz Sahibləri İsrailin Allahı Rəbbin hüzuruna gəlsinlər.</verse>
+        <verse osisID='Exod.34.24'>Çünki Mən sizin qarşınızdan millətləri qovub sərhədlərinizi elə genişləndirəcəyəm ki, siz ildə üç dəfə öz Allahınız Rəbbin hüzurunda görünmək üçün gələndə heç kəs sizin torpağınıza tamah salmasın. </verse>
+        <verse osisID='Exod.34.25'>Mənə gətirilən qurbanın qanını mayalı çörəklə təqdim etməyin. Pasxa bayramının qurban əti səhərə qədər qalmasın. </verse>
+        <verse osisID='Exod.34.26'>Torpağın nübarının ilk hissəsini Allahınız Rəbbin məbədinə gətirin. Oğlağı anasının südündə bişirməyin». </verse>
+        <verse osisID='Exod.34.27'>Rəbb Musaya dedi: «Bu sözləri yaz, çünki bu sözlərə görə Mən səninlə və bütün İsraillə əhd kəsirəm».</verse>
+        <verse osisID='Exod.34.28'>Beləliklə, Musa Rəblə qırx gün-qırx gecə qaldı. Bu müddət ərzində Musa heç nə yemədi, heç nə içmədi. O, lövhələrin üstündə əhdin sözlərini, On əmri yazdı. </verse>
+        <verse osisID='Exod.34.29'>Musa əlində iki şəhadət lövhəsi tutub Sina dağından enəndə bilmirdi ki, Rəblə danışdığına görə üzü nur saçır.</verse>
+        <verse osisID='Exod.34.30'>Harun və bütün İsrail övladları Musanın üzünü nur saçan gördülər və ona yaxınlaşmaqdan qorxdular.</verse>
+        <verse osisID='Exod.34.31'>Musa onları çağıranda Harunla bütün icma başçıları ona yaxınlaşdı və Musa onlarla söhbət etdi.</verse>
+        <verse osisID='Exod.34.32'>Sonra bütün İsrail övladları ona yaxınlaşdı. Musa Rəbbin Sina dağında ona nəql etdiyi bütün işləri onlara əmr etdi.</verse>
+        <verse osisID='Exod.34.33'>Musa söhbəti bitirəndə üzünə bir niqab çəkdi.</verse>
+        <verse osisID='Exod.34.34'>Musa Rəbbin hüzuruna Onunla danışmaq üçün gedəndə niqabı çıxarar və çıxanadək niqabsız olardı. Çıxanda ona nə əmr olunduğunu İsrail övladlarına nəql edirdi.</verse>
+        <verse osisID='Exod.34.35'>İsrail övladları isə Musanın üzünün nur saçdığını görərdilər. Sonra Musa içəri girib Rəblə danışana qədər yenə də niqabı üzünə çəkərdi.  </verse>
+      </chapter>
+      <chapter osisID='Exod.35'>
+        <verse osisID='Exod.35.1'>
+          Musa İsrail övladlarının bütün icmasını toplayıb onlara dedi: «Rəbb sizə bu şeylərə əməl etməyi əmr etdi.</verse>
+        <verse osisID='Exod.35.2'>Altı gün işlərinizi görün, yeddinci gün isə sizin Rəbb üçün müqəddəs Şənbəniz, istirahət gününüzdür. O gün iş görən hər kəs öldürülsün.</verse>
+        <verse osisID='Exod.35.3'>Şənbə günü yaşadığınız heç bir yerdə od yandırmayın». </verse>
+        <verse osisID='Exod.35.4'>Musa bütün İsrail övladlarının icmasına dedi: «Rəbbin əmr etdiyi iş budur:</verse>
+        <verse osisID='Exod.35.5'>öz aranızdan Rəbbə bir ianə toplayın. Qoy könlü istəyən hər kəs Rəbbə belə ianə gətirsin: qızıl, gümüş, tunc,</verse>
+        <verse osisID='Exod.35.6'>bənövşəyi, tünd qırmızı və al rəngli iplik, incə kətan, keçi yunu,</verse>
+        <verse osisID='Exod.35.7'>qırmızı boyanmış qoç dəriləri, suiti dəriləri, əbrişim ağacı,</verse>
+        <verse osisID='Exod.35.8'>çıraq üçün zeytun yağı, məsh yağı və ətirli buxur üçün ətriyyatlar,</verse>
+        <verse osisID='Exod.35.9'>efodla döşlüyün üstünə taxılan damarlı əqiq və sağanaq daşları. </verse>
+        <verse osisID='Exod.35.10'>Aranızdakı ürəyi hikmətlə dolu hər adam gəlib Rəbbin əmr etdiyi hər şeyi düzəltsin:</verse>
+        <verse osisID='Exod.35.11'>müqəddəs məskəni, onun çadırını, örtüyünü, bəndlərini, çərçivələrini, şüvüllərini, dirəklərini və altlıqlarını;</verse>
+        <verse osisID='Exod.35.12'>sandığı və onun şüvüllərini; kəffarə qapağını, arakəsmə pərdəsini;</verse>
+        <verse osisID='Exod.35.13'>masanı, onun şüvüllərini və bütün ləvazimatını; təqdis çörəklərini;</verse>
+        <verse osisID='Exod.35.14'>işıq verən çıraqdanı, onun ləvazimatını, çıraqlarını və işıq yağını;</verse>
+        <verse osisID='Exod.35.15'>buxur qurbangahını və şüvüllərini; məsh yağını, ətirli buxuru; məskənin girişi üçün arakəsməni;</verse>
+        <verse osisID='Exod.35.16'>yandırma qurbanları üçün qurulan qurbangahı, onun üçün tunc şəbəkəni, şüvüllərini və bütün avadanlığını; ləyəni və onun altlığını;</verse>
+        <verse osisID='Exod.35.17'>həyətin pərdələrini, dirəklərini və altlıqlarını; həyətin darvazası üçün arakəsməni;</verse>
+        <verse osisID='Exod.35.18'>məskənin payalarını; həyətin payalarını; onların iplərini;</verse>
+        <verse osisID='Exod.35.19'>müqəddəs yerdə xidmət üçün toxunmuş geyimləri: kahin Harunun müqəddəs geyimlərini və oğullarının kahinlik etmək üçün geyimlərini». </verse>
+        <verse osisID='Exod.35.20'>İsrail övladlarının bütün icması Musanın yanından çıxdı.</verse>
+        <verse osisID='Exod.35.21'>Ürəyinə toxunan və könlü istəyən hər adam gəlib Hüzur çadırı, onun inşası və müqəddəs geyimlər üçün Rəbbə ianə gətirdi.</verse>
+        <verse osisID='Exod.35.22'>Kişilər və qadınlar – könlü istəyənlərin hamısı bəzəkli sancaqlar, sırğalar, üzüklər, bilərziklər kimi bütün qızıl əşyalarını gətirdilər. Hər kəs qızılı yellətmə təqdimi kimi Rəbbə təqdim etdi.</verse>
+        <verse osisID='Exod.35.23'>Kimdə bənövşəyi, tünd qırmızı və al rəngli iplik, incə kətan, keçi yunu, qırmızı boyanmış qoç dəriləri və suiti dəriləri var idisə, bunları təqdim etdi.</verse>
+        <verse osisID='Exod.35.24'>Gümüş və tunc gətirən hər kəs də onu Rəbbə ianə olaraq təqdim etdi. Kimdə əbrişim ağacı var idisə, onu bütün inşa işi üçün təqdim etdi.</verse>
+        <verse osisID='Exod.35.25'>Ürəyi hikmətlə dolu bütün qadınlar öz əlləri ilə əyirdiyi bənövşəyi, tünd qırmızı və al rəngli iplik və incə kətan ipliyi təqdim etdilər;</verse>
+        <verse osisID='Exod.35.26'>bu işi ürəkdən görmək istəyən bacarıqlı qadınlar keçi yunu əyirdilər.</verse>
+        <verse osisID='Exod.35.27'>Xalqın başçıları bunları təqdim etdilər: efodla döşlüyün üstünə taxılan damarlı əqiq və sağanaq daşlarını,</verse>
+        <verse osisID='Exod.35.28'>çıraq, məsh yağı, ətirli buxur üçün ətriyyatı və zeytun yağını.</verse>
+        <verse osisID='Exod.35.29'>İsrail övladlarından hər qadın, hər kişi Rəbbin Musa vasitəsilə yerinə yetirmək üçün verdiyi əmrə əsasən Rəbbə könüllü təqdimlər gətirdilər. </verse>
+        <verse osisID='Exod.35.30'>Musa İsrail övladlarına dedi: «Baxın Rəbb Yəhuda qəbiləsindən Xur oğlu Uri oğlu Besaleli adı ilə çağırıb</verse>
+        <verse osisID='Exod.35.31'>Allahın Ruhu ilə hikmət, dərrakə, bilik və hər cür məharətlə doldurmuşdur ki,</verse>
+        <verse osisID='Exod.35.32'>o, qızılla, gümüşlə, tuncla işləməyi bacarsın,</verse>
+        <verse osisID='Exod.35.33'>daş-qaş yonsun, ağac oysun, hər cür məharətlə bacarıq göstərə bilsin.</verse>
+        <verse osisID='Exod.35.34'>Rəbb onun və Dan qəbiləsindən olan Axisamak oğlu Oholiavın ürəklərinə başqalarını öyrətmək bacarığını qoymuş,</verse>
+        <verse osisID='Exod.35.35'>ürəklərini hikmətlə doldurmuşdur ki, oymaçılıq, naxışçılıq, bənövşəyi, tünd qırmızı və al rəngli iplikdə və incə kətanda naxış tikməsi, toxuculuq – hər cür sənəti bacara bilsinlər.  </verse>
+      </chapter>
+      <chapter osisID='Exod.36'>
+        <verse osisID='Exod.36.1'>Besalel, Oholiav və bütün ürəkləri hikmətlə dolu, Rəbbin onlara bu işi bacarmaq üçün hikmət və dərrakə verdiyi adamlar Rəbbin etdiyi hər şeyə görə müqəddəs yerin inşa işini görsünlər». </verse>
+        <verse osisID='Exod.36.2'>Musa Besaleli, Oholiavı və bütün ürəkləri hikmətlə dolu – Rəbbin onların ürəklərinə hikmət qoyduğu adamları, bu işi ürəkdən görmək istəyənlərin hamısını çağırdı.</verse>
+        <verse osisID='Exod.36.3'>Onlar müqəddəs yerin inşa işini görmək üçün İsrail övladlarının gətirdiyi bütün ianələri Musanın yanından götürdülər. İsrail övladları hər səhər könüllü təqdimlər gətirməyə davam edirdilər.</verse>
+        <verse osisID='Exod.36.4'>Onda müqəddəs yerin inşası ilə məşğul olan hikmətli sənətkarlar hər işlərindən ayrılaraq</verse>
+        <verse osisID='Exod.36.5'>Musanın yanına gəlib dedilər: «Xalq Rəbbin əmr etdiyi inşa işi üçün lazım olandan çox şey gətirir».</verse>
+        <verse osisID='Exod.36.6'>Musa əmr verdi və düşərgədə elan etdirdi ki, nə kişi, nə də qadın müqəddəs yer üçün daha ianə gətirməsin. Beləcə xalq bir daha ianə gətirmədi.</verse>
+        <verse osisID='Exod.36.7'>Çünki bütün işi görmək üçün xammal lazımi miqdardan artıq idi. </verse>
+        <verse osisID='Exod.36.8'>İşi görmək üçün ürəkləri hikmətlə dolu bütün adamlar müqəddəs məskəni on pərdədən düzəltdilər. Pərdələri nəfis toxunmuş incə kətandan bənövşəyi, tünd qırmızı və al rəngli iplikdən, üstünü isə keruvlar şəklində naxışla düzəltdilər.</verse>
+        <verse osisID='Exod.36.9'>Hər pərdənin uzunluğu iyirmi səkkiz qulac, eni isə dörd qulac idi. Bütün pərdələr eyni ölçüdə idi.</verse>
+        <verse osisID='Exod.36.10'>Pərdənin beşini də bir-birinə birləşdirdilər. Digər beşini də bir-birinə birləşdirdilər.</verse>
+        <verse osisID='Exod.36.11'>Bir birləşmənin qıraq pərdəsinin kənarında bənövşəyi ilgəklər düzəltdilər; o biri birləşmənin qıraq pərdəsinin kənarında da eyni şəkildə ilgəklər düzəltdilər.</verse>
+        <verse osisID='Exod.36.12'>Bir pərdəyə əlli ilgək, o biri birləşmədəki pərdənin kənarında da onlara uyğun gələn əlli ilgək düzəltdilər.</verse>
+        <verse osisID='Exod.36.13'>Qızıldan əlli bənd düzəltdilər. Bəndlərlə pərdələri bərkitdilər və çadırı birləşdirdilər. Beləliklə, müqəddəs məskən bütöv oldu. </verse>
+        <verse osisID='Exod.36.14'>Məskəni örtən çadır üçün keçi yunundan on bir ədəd pərdə düzəltdilər.</verse>
+        <verse osisID='Exod.36.15'>Hər pərdənin uzunluğu otuz qulac, eni isə dörd qulac idi. On bir pərdə bir ölçüdə idi.</verse>
+        <verse osisID='Exod.36.16'>Beş pərdəni ayrıca, altı pərdəni də ayrıca bitişdirdilər.</verse>
+        <verse osisID='Exod.36.17'>Bir birləşmənin qıraq pərdəsinin kənarındakı kimi o biri birləşmənin qıraq pərdəsinin kənarında da əlli ilgək düzəltdilər.</verse>
+        <verse osisID='Exod.36.18'>Çadırı birləşdirib bütöv etmək üçün tuncdan əlli bənd düzəltdilər.</verse>
+        <verse osisID='Exod.36.19'>Çadır üçün qırmızı boyanmış qoç dərilərindən bir pərdə və onun üstündə suiti dərilərindən bir pərdə düzəltdilər. </verse>
+        <verse osisID='Exod.36.20'>Müqəddəs məskən üçün əbrişim ağacından dik duran çərçivələr düzəltdilər.</verse>
+        <verse osisID='Exod.36.21'>Hər çərçivənin uzunluğu on qulac, eni isə qulac yarım idi.</verse>
+        <verse osisID='Exod.36.22'>Hər çərçivənin üstündə iki bir-birinə bağlanan zivana var idi; məskənin bütün çərçivələrini belə düzəltdilər.</verse>
+        <verse osisID='Exod.36.23'>Məskənin cənub tərəfi üçün iyirmi çərçivə düzəltdilər.</verse>
+        <verse osisID='Exod.36.24'>Onların altına qoyulmaq üçün hər çərçivənin altındakı iki zivana üçün iki altlıq düzəltdilər; beləcə qırx gümüş altlıq düzəldildi.</verse>
+        <verse osisID='Exod.36.25'>Məskənin şimal tərəfi üçün də iyirmi çərçivə düzəltdilər.</verse>
+        <verse osisID='Exod.36.26'>Hər çərçivənin altında iki altlıq olmaqla qırx gümüş altlıq düzəltdilər.</verse>
+        <verse osisID='Exod.36.27'>Məskənin qərbə doğru arxası üçün altı çərçivə düzəltdilər.</verse>
+        <verse osisID='Exod.36.28'>Məskənin arxa küncləri üçün isə iki çərçivə düzəltdilər;</verse>
+        <verse osisID='Exod.36.29'>bunlar aşağıda birləşib yuxarıda bir halqaya taxıldı; hər iki künc üçün o cür iki çərçivə düzəltdilər.</verse>
+        <verse osisID='Exod.36.30'>Bu səkkiz çərçivə üçün on altı gümüş altlıq, hər çərçivənin altında iki altlıq düzəldildi. </verse>
+        <verse osisID='Exod.36.31'>Əbrişim ağacından şüvüllər düzəltdilər: məskənin hər iki tərəfdəki çərçivələri üçün beş şüvül,</verse>
+        <verse osisID='Exod.36.32'>məskənin qərbə doğru arxa çərçivələri üçün də beş şüvül düzəldildi.</verse>
+        <verse osisID='Exod.36.33'>Çərçivələrin ortasında bir ucdan o biri uca qədər uzanan orta şüvül düzəltdilər.</verse>
+        <verse osisID='Exod.36.34'>Çərçivələri qızılla örtdülər; şüvüllərin keçdiyi halqaları qızıldan düzəltdilər; şüvülləri də qızılla örtdülər. </verse>
+        <verse osisID='Exod.36.35'>Pərdəni bənövşəyi, tünd qırmızı, al rəngli iplikdən və nəfis toxunmuş incə kətandan, üstünü isə keruvlar şəklində naxışla düzəltdilər.</verse>
+        <verse osisID='Exod.36.36'>Onun üçün əbrişim ağacından dörd dirək düzəltdilər və onları qızılla örtdülər, üstündə qızıl qarmaqları qoydular; onlar üçün dörd gümüş altlıq tökdülər.</verse>
+        <verse osisID='Exod.36.37'>Çadırın girişi üçün arakəsməni bənövşəyi, tünd qırmızı və al rəngli iplikdən və nəfis toxunmuş incə kətandan naxış tikməsi ilə düzəltdilər.</verse>
+        <verse osisID='Exod.36.38'>Onun beş dirək və qarmaqlarını da düzəltdilər. Yuxarılarını və bəndlərini qızılla örtdülər; beş altlığı isə tuncdan düzəltdilər.  </verse>
+      </chapter>
+      <chapter osisID='Exod.37'>
+        <verse osisID='Exod.37.1'>
+          Besalel əbrişim ağacından sandıq düzəltdi. Sandığın uzunluğu iki qulac yarım, eni qulac yarım və hündürlüyü qulac yarım idi.</verse>
+        <verse osisID='Exod.37.2'>Onu içəridən və bayırdan xalis qızılla örtdü, ətrafına isə qızıl zolaq qoydu.</verse>
+        <verse osisID='Exod.37.3'>Onun dörd ayağı üçün dörd tökmə qızıl halqa, iki halqanı bir yanı qalan iki halqanı isə o biri yanı üçün düzəltdi.</verse>
+        <verse osisID='Exod.37.4'>Əbrişim ağacından şüvüllər düzəldib üzərini qızılla örtdü.</verse>
+        <verse osisID='Exod.37.5'>Sandığı daşımaq üçün şüvülləri sandığın yanlarındakı halqalara keçirtdi. </verse>
+        <verse osisID='Exod.37.6'>Xalis qızıldan kəffarə qapağını düzəltdi. Uzunluğu iki qulac yarım, eni isə qulac yarım idi.</verse>
+        <verse osisID='Exod.37.7'>Kəffarə qapağının hər iki ucu üçün yastılanmış qızıldan iki keruv düzəltdi.</verse>
+        <verse osisID='Exod.37.8'>Bir keruv qapağın bir ucunda, o birisi isə o biri ucunda olaraq qapağın iki ucunda olan keruvlar onunla bir hissədən idi.</verse>
+        <verse osisID='Exod.37.9'>Keruvlar yuxarıya açılmış qanadları ilə kəffarə qapağını örtdülər. Keruvların üzləri bir-birinə qarşı qapağa doğru idi. </verse>
+        <verse osisID='Exod.37.10'>Əbrişim ağacından masa düzəltdi; uzunluğu iki qulac, eni bir qulac, hündürlüyü isə qulac yarım idi.</verse>
+        <verse osisID='Exod.37.11'>Onu xalis qızılla örtdü. Ətrafına qızıl zolaq qoydu.</verse>
+        <verse osisID='Exod.37.12'>Ətrafında eni bir ovuc olan yan lövhələr düzəltdi. Yan lövhələrin ətrafına da qızıl zolaq qoydu.</verse>
+        <verse osisID='Exod.37.13'>Masa üçün dörd qızıl halqa tökdü, halqaları onun dörd küncünə, dörd ayağına bərkitdi.</verse>
+        <verse osisID='Exod.37.14'>Halqalar yan lövhələrə yaxın olaraq masanı aparan şüvüllərin keçdiyi yerlər idi.</verse>
+        <verse osisID='Exod.37.15'>Masanı aparmaq üçün şüvülləri əbrişim ağacından düzəltdi və onları qızılla örtdü.</verse>
+        <verse osisID='Exod.37.16'>Masanın ləvazimatını – xalis qızıldan siniləri və nimçələri, içmə təqdimlərini tökmək üçün dolçaları və piyalələri düzəltdi. </verse>
+        <verse osisID='Exod.37.17'>Xalis qızıldan çıraqdan düzəltdi. Bu çıraqdan yastılanmış qızıldan idi; altlığı, gövdəsi, kasacıqları, qönçələri və gülləri onunla bir hissədən ibarət idi.</verse>
+        <verse osisID='Exod.37.18'>Çıraqdanın yanlarından altı budaq – bir yanından üç budaq, o biri yanından da üç budaq çıxdı.</verse>
+        <verse osisID='Exod.37.19'>Hər bir budağında badam çiçəyinə bənzər üç kasacıq, qönçə və gül var idi.</verse>
+        <verse osisID='Exod.37.20'>Çıraqdanın gövdəsində isə badam çiçəyinə bənzər dörd kasacıq, qönçə və gül var idi.</verse>
+        <verse osisID='Exod.37.21'>Çıraqdanın gövdəsindən çıxan altı budağın bir cütünün altında bir qönçə, o biri cütünün altında bir qönçə, o birinin də altında bir qönçə var idi.</verse>
+        <verse osisID='Exod.37.22'>Qönçələr və budaqlar onunla bir hissədən idi; hamısı eyni hissədən, yastılanmış xalis qızıldan idi.</verse>
+        <verse osisID='Exod.37.23'>Onun üçün yeddi çıraq düzəltdi. Maşaları və xəkəndazları da xalis qızıldan idi.</verse>
+        <verse osisID='Exod.37.24'>Çıraqdanı və onun bütün avadanlığını bir talant xalis qızıldan düzəltdi. </verse>
+        <verse osisID='Exod.37.25'>Əbrişim ağacından buxur yandırmaq üçün qurbangah düzəltdi; uzunluğu bir qulac, eni də bir qulac, hündürlüyü isə iki qulac idi. Buynuzları onunla bir hissədən idi.</verse>
+        <verse osisID='Exod.37.26'>Onun üzərini, hər yanını və buynuzlarını xalis qızılla örtdü, ətrafına qızıl zolaq qoydu.</verse>
+        <verse osisID='Exod.37.27'>Onun üçün iki qızıl halqa düzəltdi; qarşı-qarşıya olan iki yanda, zolağın altında düzəltdi. Bu onu aparan şüvüllərin keçdiyi yerlər idi.</verse>
+        <verse osisID='Exod.37.28'>Şüvülləri əbrişim ağacından düzəltdi və onları qızılla örtdü. </verse>
+        <verse osisID='Exod.37.29'>Ətriyyatçının işi olan Müqəddəs məsh yağını və təmiz ətirli buxuru da hazırladı.  </verse>
+      </chapter>
+      <chapter osisID='Exod.38'>
+        <verse osisID='Exod.38.1'>
+          Yandırma qurbanı üçün qurulan qurbangahı əbrişim ağacından düzəltdi. Dördbucaq şəklində olub uzunluğu beş qulac, eni də beş qulac, hündürlüyü isə üç qulac idi.</verse>
+        <verse osisID='Exod.38.2'>Qurbangahın dörd küncündə onunla bir hissədən olan dörd buynuz düzəltdi. Qurbangahın üstünü tuncla örtdü.</verse>
+        <verse osisID='Exod.38.3'>Qurbangahın bütün avadanlığını – kül qablarını, kürəkləri, ləyənləri, çəngəlləri və xəkəndazları – hər şeyi tuncdan düzəltdi.</verse>
+        <verse osisID='Exod.38.4'>Qurbangah üçün kənarından aşağıya onun yarısına qədər yetişəcək torlu şəbəkəni tuncdan düzəltdi.</verse>
+        <verse osisID='Exod.38.5'>Tunc şəbəkənin dörd bucağında şüvüllərin keçdiyi dörd halqanı tökdü.</verse>
+        <verse osisID='Exod.38.6'>Əbrişim ağacından şüvüllər düzəldib üstünü tuncla örtdü.</verse>
+        <verse osisID='Exod.38.7'>Qurbangahı aparmaq üçün şüvülləri onun hər iki yanındakı halqalara taxdı. Qurbangahın içi boş və taxtadan idi. </verse>
+        <verse osisID='Exod.38.8'>Tunc ləyəni və onun tunc altlığını Hüzur çadırının girişində xidmət edən qadınların güzgülərindən düzəltdi. </verse>
+        <verse osisID='Exod.38.9'>Müqəddəs məskənin həyətini düzəltdi. Həyətin cənub tərəfində uzunluğu yüz qulac olan pərdələr nəfis toxunmuş incə kətandan idi.</verse>
+        <verse osisID='Exod.38.10'>Onların iyirmi dirəyi və iyirmi altlığı tuncdan, dirəklərin qarmaqları və bəndləri isə gümüşdən idi.</verse>
+        <verse osisID='Exod.38.11'>Şimal tərəfində də uzunluğu yüz qulac pərdə idi; onların iyirmi dirəyi və iyirmi altlığı tuncdan, dirəklərin qarmaqları və bəndləri isə gümüşdən idi.</verse>
+        <verse osisID='Exod.38.12'>Qərb tərəfində uzunluğu əlli qulac pərdələr idi. Onların on dirəyi və on altlığı var idi. Dirəklərin qarmaqları və bəndləri isə gümüşdən idi.</verse>
+        <verse osisID='Exod.38.13'>Şərq tərəfində də həyətin eni əlli qulac idi.</verse>
+        <verse osisID='Exod.38.14'>Darvazanın bir tərəfində üç dirəyi və üç altlığı olan uzunluğu on beş qulac pərdələr var idi.</verse>
+        <verse osisID='Exod.38.15'>Həyətin darvazasının o biri tərəfində də üç dirəyi və üç altlığı olan uzunluğu on beş qulac pərdələr var idi.</verse>
+        <verse osisID='Exod.38.16'>Həyətin bütün ətraf pərdələri nəfis toxunmuş incə kətandan,</verse>
+        <verse osisID='Exod.38.17'>dirəklərin altlıqları tuncdan, dirəklərin qarmaqları və bəndləri gümüşdən, başlıqların örtüyü də gümüşdən idi; həyətin bütün dirəkləri gümüşlə bəndləndi.</verse>
+        <verse osisID='Exod.38.18'>Həyətin darvazasının naxış tikməli arakəsməsi bənövşəyi, tünd qırmızı, al rəngli iplikdən və nəfis toxunmuş incə kətandan idi; uzunluğu iyirmi qulac, hündürlüyü isə həyətin pərdələri kimi beş qulac idi.</verse>
+        <verse osisID='Exod.38.19'>Onun dörd dirəyi, dörd tunc altlığı, gümüş qarmaqları, başlıqlarının gümüş örtüyü və bəndləri var idi.</verse>
+        <verse osisID='Exod.38.20'>Məskənin və həyətin bütün ətraf payaları tuncdan idi. </verse>
+        <verse osisID='Exod.38.21'>Musanın əmri ilə kahin Harunun oğlu İtamarın başçılığı ilə Levililərin xidmət göstərib apardığı məkanın – Şəhadət məskəninin hesabatı budur.</verse>
+        <verse osisID='Exod.38.22'>Yəhuda qəbiləsindən Xur oğlu Uri oğlu Besalel Rəbbin Musaya əmr etdiyi hər şeyi düzəltdi.</verse>
+        <verse osisID='Exod.38.23'>Onunla çalışan Dan qəbiləsindən olan Axisamak oğlu Oholiav oymaçılıq, naxışçılıq, bənövşəyi, tünd qırmızı və al rəngli iplikdə və incə kətanda naxış tikməsi işini bacarırdı. </verse>
+        <verse osisID='Exod.38.24'>Müqəddəs yerin bütün inşası üçün işlənən qızılın, ianə verilən qızılın ümumi çəkisi Müqəddəs yerdəki şekelə görə iyirmi doqquz talant yeddi yüz otuz şekel idi.</verse>
+        <verse osisID='Exod.38.25'>Siyahıya alınan icmanın verdiyi gümüşün çəkisi Müqəddəs yerdəki şekelə görə yüz talant və min yeddi yüz yetmiş beş şekel idi.</verse>
+        <verse osisID='Exod.38.26'>Bu, sayılmış adamlara daxil olan hər kəs, iyirmi yaşında və ondan yuxarı olan altı yüz üç min beş yüz əlli kişi üçün adambaşı bir beqa, yəni Müqəddəs yerdəki şekelə görə yarım şekel idi.</verse>
+        <verse osisID='Exod.38.27'>Müqəddəs yerin altlıqlarını və pərdələrin altlıqlarını tökmək işinə yüz talant gümüş yüz altlıq üçün yüz talant, yəni hər altlıq üçün bir talant gümüş işləndi.</verse>
+        <verse osisID='Exod.38.28'>Min yeddi yüz yetmiş beş şekel gümüş isə dirəklər üçün qarmaqlar düzəltmək, başlıqlarını örtmək və onları bəndləmək üçün işləndi.</verse>
+        <verse osisID='Exod.38.29'>İanə verilən tuncun çəkisi yetmiş talant və iki min dörd yüz şekel idi.</verse>
+        <verse osisID='Exod.38.30'>Ondan Hüzur çadırı girişinin altlıqları, tunc qurbangah, oradakı tunc şəbəkəni, qurbangahın bütün avadanlığı,</verse>
+        <verse osisID='Exod.38.31'>həyətin ətraf altlıqları, həyətin darvazasının altlıqları, məskənin bütün payaları və həyətin bütün ətraf payaları düzəldildi.  </verse>
+      </chapter>
+      <chapter osisID='Exod.39'>
+        <verse osisID='Exod.39.1'/>
+        <verse osisID='Exod.39.2'>Efodu qızıldan, bənövşəyi, tünd qırmızı, al rəngli iplikdən və nəfis toxunmuş incə kətandan hazırladılar.</verse>
+        <verse osisID='Exod.39.3'>Qızıl lövhələri döyüb onlardan saplar kəsdilər və onlarla bənövşəyi, tünd qırmızı və al rəngli iplik və nəfis toxunmuş kətanın arasına naxışlar tikdilər.</verse>
+        <verse osisID='Exod.39.4'>Hər iki ucunu bir-birinə bağlayan çiyinlik düzəltdilər ki, o bərkidilsin.</verse>
+        <verse osisID='Exod.39.5'>Efodun üstündəki kəmər eyni hissədən idi. O da qızıldan, bənövşəyi, tünd qırmızı və al rəngli iplik və nəfis toxunmuş incə kətandan idi. Rəbbin Musaya əmr etdiyi kimi oldu. </verse>
+        <verse osisID='Exod.39.6'>Hörmə qızıl sağanaqlara salınıb üstündə möhür oyması kimi İsrailin oğullarının adları həkk olunmuş damarlı əqiq daşlarını</verse>
+        <verse osisID='Exod.39.7'>efodun çiyinliklərinə taxdılar. Bunlar İsrailin oğullarının xatirə daşlarıdır. Rəbbin Musaya əmr etdiyi kimi oldu. </verse>
+        <verse osisID='Exod.39.8'>Döşlüyü də efod kimi naxışlı qızıldan, bənövşəyi, tünd qırmızı, al rəngli iplikdən və nəfis toxunmuş incə kətandan düzəltdilər.</verse>
+        <verse osisID='Exod.39.9'>Döşlük ikiqat, dördbucaq şəklində olub uzunluğu bir qarış, eni də bir qarış düzəldildi.</verse>
+        <verse osisID='Exod.39.10'>Üstünə dörd sıra daş taxdılar. Birinci sıra yaqut, topaz, zümrüd;</verse>
+        <verse osisID='Exod.39.11'>ikinci sıra firuzə, göy yaqut və almaz;</verse>
+        <verse osisID='Exod.39.12'>üçüncü sıra sirkon, əqiq və ametist;</verse>
+        <verse osisID='Exod.39.13'>dördüncü sıra sarı yaqut, damarlı əqiq və yəşəm daşı idi. Bu daşlar hörmə qızıl sağanaqlara salındı.</verse>
+        <verse osisID='Exod.39.14'>Daşlar İsrailin oğullarının adlarına görə on iki dənə idi; hər daş on iki qəbilədən birinin adının oyma möhürü idi. </verse>
+        <verse osisID='Exod.39.15'>Döşlük üçün xalis qızıldan ipəbənzər burma zəncirlər qayırdılar.</verse>
+        <verse osisID='Exod.39.16'>İki hörmə qızıl sağanaq və iki qızıl halqa düzəltdilər. Halqaları döşlüyün iki ucuna taxdılar.</verse>
+        <verse osisID='Exod.39.17'>İki qızıl ipi döşlüyün uclarındakı iki halqaya taxdılar.</verse>
+        <verse osisID='Exod.39.18'>İplərin o biri uclarını iki hörmə sağanağa taxıb efodun çiyinliklərinin qabaq tərəfinə bağladılar.</verse>
+        <verse osisID='Exod.39.19'>Yenə də iki qızıl halqa düzəldib onları döşlüyün iki ucuna, onun efodla yanaşı iç qatına taxdılar.</verse>
+        <verse osisID='Exod.39.20'>Digər iki qızıl halqa düzəltdilər və onu efodun çiyinliklərinin qabaq tərəfinə, aşağıya, efodun kəməri ilə birləşmələrin üzərinə bərkitdilər.</verse>
+        <verse osisID='Exod.39.21'>Döşlüyü halqaları ilə efodun halqalarına bənövşəyi qaytanla bağlayıb efodun kəmərinin üzərinə bərkitdilər ki, döşlük efoddan sallanmasın. Rəbbin Musaya əmr etdiyi kimi oldu. </verse>
+        <verse osisID='Exod.39.22'>Efodun cübbəsini büsbütün toxunma bənövşəyi iplikdən tikdilər.</verse>
+        <verse osisID='Exod.39.23'>Onun ortasında baş keçirmək üçün yer tikdilər. Onun kənarında cırılmamaq üçün yaxa toxudular. </verse>
+        <verse osisID='Exod.39.24'>Cübbənin ətəyinin ətrafına nəfis toxunmuş bənövşəyi, tünd qırmızı və al rəngli iplikdən narlar düzdülər.</verse>
+        <verse osisID='Exod.39.25'>Xalis qızıl zınqırovlar düzəldib, cübbənin ətəyi boyunca narların arasına tikdilər.</verse>
+        <verse osisID='Exod.39.26'>Beləcə xidmət cübbəsinin ətəyi boyunca ətrafında zınqırov və nar sıra ilə düzüldü. Rəbbin Musaya əmr etdiyi kimi oldu. </verse>
+        <verse osisID='Exod.39.27'>Harun və oğulları üçün toxunma incə kətan xirqələri,</verse>
+        <verse osisID='Exod.39.28'>nəfis toxunmuş incə kətandan çalma, incə kətan papaqları, əyirmə incə kətan alt paltarı,</verse>
+        <verse osisID='Exod.39.29'>nəfis toxunmuş incə kətan və bənövşəyi, tünd qırmızı və al rəngli iplikdən naxış tikməli qurşağı tikdilər. Rəbbin Musaya əmr etdiyi kimi oldu. </verse>
+        <verse osisID='Exod.39.30'>Xalis qızıldan müqəddəslik tacı olan lövhəciyi düzəltdilər və onun üzərinə möhür oyması olaraq «Rəbbə həsr edilmiş» yazısını yazdılar.</verse>
+        <verse osisID='Exod.39.31'>Onu çalmanın üstünə qoymaq üçün bənövşəyi qaytan tikdilər. Rəbbin Musaya əmr etdiyi kimi oldu. </verse>
+        <verse osisID='Exod.39.32'>Beləliklə, müqəddəs məskən, yəni Hüzur çadırı üçün bütün işlər tamamlandı. Rəbb Musaya necə əmr etmişdisə, İsrail övladları da bu işi eləcə tamamladılar.</verse>
+        <verse osisID='Exod.39.33'>Müqəddəs məskəni Musanın qarşısına gətirdilər. Çadırını və onun avadanlığını, bəndlərini, çərçivələrini, şüvüllərini, dirəklərini, altlıqlarını,</verse>
+        <verse osisID='Exod.39.34'>qırmızı boyanmış qoç dərilərindən örtüyü, suiti dərilərdən düzəldilmiş örtüyü, arakəsmə pərdəsini,</verse>
+        <verse osisID='Exod.39.35'>Şəhadət sandığını və onun şüvüllərini, kəffarə qapağını,</verse>
+        <verse osisID='Exod.39.36'>masanı və onun ləvazimatını; təqdis çörəklərini,</verse>
+        <verse osisID='Exod.39.37'>xalis qızıldan çıraqdanı, onun düzülmüş çıraqlarını və işıq yağını,</verse>
+        <verse osisID='Exod.39.38'>qızıl qurbangahını, məsh yağını, ətirli buxuru, çadırın giriş arakəsməsini,</verse>
+        <verse osisID='Exod.39.39'>tunc qurbangahını, onun üçün tunc şəbəkəni, onun şüvüllərini və bütün avadanlığını, ləyəni və onun altlığını,</verse>
+        <verse osisID='Exod.39.40'>həyətin pərdələrini, dirəklərini və altlıqlarını, həyətin darvazası üçün arakəsməni, onun iplərini və payalarını – Hüzur çadırı və məskənin ibadəti üçün bütün əşyaları,</verse>
+        <verse osisID='Exod.39.41'>müqəddəs yerdə xidmət üçün toxunmuş geyimləri – kahin Harunun müqəddəs geyimlərini və oğullarının kahinlik etmək üçün geyimlərini – hər şeyi ona gətirdilər.</verse>
+        <verse osisID='Exod.39.42'>Rəbb Musaya necə əmr etmişdisə, İsrail övladları da bu işi eləcə tamamladılar.</verse>
+        <verse osisID='Exod.39.43'>Musa bütün işləri nəzərdən keçirib gördü ki, onlar bu işə Rəbbin əmr etdiyi kimi əməl ediblər. Musa onlara xeyir-dua verdi.  </verse>
+      </chapter>
+      <chapter osisID='Exod.40'>
+        <verse osisID='Exod.40.1'>
+          Rəbb Musaya dedi:</verse>
+        <verse osisID='Exod.40.2'>«Birinci ayın birinci günü müqəddəs məskəni, yəni Hüzur çadırını qur.</verse>
+        <verse osisID='Exod.40.3'>Şəhadət sandığını oraya qoy və pərdə ilə qabağını kəs.</verse>
+        <verse osisID='Exod.40.4'>Sonra masanı gətir, üstünə əşyaları düz. Çıraqdanı gətir, çıraqları da quraşdır.</verse>
+        <verse osisID='Exod.40.5'>Buxur üçün qızıl qurbangahı Şəhadət sandığının qabağına qoy. Məskənin giriş arakəsməsini də qur. </verse>
+        <verse osisID='Exod.40.6'>Yandırma qurbanları üçün qurulan qurbangahı məskənin – Hüzur çadırının girişinin qarşısında yerləşdir.</verse>
+        <verse osisID='Exod.40.7'>Ləyəni Hüzur çadırı ilə qurbangahın arasına qoy, içinə su tök.</verse>
+        <verse osisID='Exod.40.8'>Ətrafında həyət qur və həyətin darvazasının arakəsməsini as. </verse>
+        <verse osisID='Exod.40.9'>Sonra məsh yağını götürüb məskəni və içindəki hər şeyi məsh et. Beləliklə, onu və bütün avadanlığını təqdis et ki, müqəddəs olsun.</verse>
+        <verse osisID='Exod.40.10'>Yandırma qurbanlar üçün qurulan qurbangahı, onun avadanlığını məsh edib qurbangahı təqdis et ki, o ən müqəddəs olsun.</verse>
+        <verse osisID='Exod.40.11'>Ləyənlə altlığını məsh edib təqdis et. </verse>
+        <verse osisID='Exod.40.12'>Harunla oğullarını Hüzur çadırının girişinə gətirib onları su ilə yuyundur.</verse>
+        <verse osisID='Exod.40.13'>Haruna müqəddəs geyimlər geyindir. Onu məsh edib təqdis et ki, Mənə kahinlik etsin.</verse>
+        <verse osisID='Exod.40.14'>Sonra Harunun oğullarını təqdim et və onlara xirqələr geyindir.</verse>
+        <verse osisID='Exod.40.15'>Atalarını məsh etdiyin kimi onları da məsh et ki, Mənə kahinlik etsinlər. Onlar nəsildən-nəslə əbədi kahinlik üçün məsh olunacaqlar».</verse>
+        <verse osisID='Exod.40.16'>Rəbb Musaya necə əmr etmişdisə, o da bu cür etdi. </verse>
+        <verse osisID='Exod.40.17'>İsrail övladlarının Misirdən çıxdığı vaxtın ikinci ilində, birinci ayın birinci günündə məskən quruldu.</verse>
+        <verse osisID='Exod.40.18'>Musa çadırı qurdu: altlıqlarını qoydu, taxtalarını bərkitdi, şüvüllərini qurdu və dirəklərini dikəltdi.</verse>
+        <verse osisID='Exod.40.19'>Məskənin üzərinə çadır saldı, onun üstünə də çadırın örtüyünü qoydu. Rəbbin Musaya əmr etdiyi kimi oldu.</verse>
+        <verse osisID='Exod.40.20'>Bundan sonra o, şəhadət lövhələrini götürüb sandığın içinə qoydu. Şüvülləri sandığa taxdı, kəffarə qapağını da sandığın üstünə qoydu.</verse>
+        <verse osisID='Exod.40.21'>Sandığı məskənin içinə gətirdi və arakəsmə pərdəsini qurub Şəhadət sandığının qabağını kəsdi. Rəbbin Musaya əmr etdiyi kimi oldu. </verse>
+        <verse osisID='Exod.40.22'>Masanı Hüzur çadırının içində, şimal tərəfində, pərdənin bayır tərəfindən yerləşdirdi.</verse>
+        <verse osisID='Exod.40.23'>Onun üstünə Rəbbin hüzurunda çörək düzdü. Rəbbin Musaya əmr etdiyi kimi oldu. </verse>
+        <verse osisID='Exod.40.24'>Çıraqdanı isə Hüzur çadırının içində, masanın qarşısında, məskənin cənub tərəfində yerləşdirdi.</verse>
+        <verse osisID='Exod.40.25'>Çıraqlarını da Rəbbin hüzurunda quraşdırdı. Rəbbin Musaya əmr etdiyi kimi oldu. </verse>
+        <verse osisID='Exod.40.26'>Qızıl qurbangahı da Hüzur çadırının içində, pərdənin önündə yerləşdirdi;</verse>
+        <verse osisID='Exod.40.27'>onun üstündə ətirli buxur yandırdı. Rəbbin Musaya əmr etdiyi kimi oldu. </verse>
+        <verse osisID='Exod.40.28'>Məskənin girişində arakəsməni qurdu.</verse>
+        <verse osisID='Exod.40.29'>Yandırma qurbanları üçün qurulan qurbangahı məskənin, Hüzur çadırının girişində yerləşdirdi; onun üstündə yandırma qurbanını və taxıl təqdimini gətirdi. Rəbbin Musaya əmr etdiyi kimi oldu. </verse>
+        <verse osisID='Exod.40.30'>Ləyəni Hüzur çadırı ilə qurbangah arasında yerləşdirib içinə yuyunmaq üçün su tökdü.</verse>
+        <verse osisID='Exod.40.31'>Musa, Harun və oğulları orada əl-ayaqlarını yuyardılar.</verse>
+        <verse osisID='Exod.40.32'>Onlar Hüzur çadırına girdikləri və qurbangaha yaxınlaşdıqları zaman yuyunardılar. Rəbbin Musaya əmr etdiyi kimi oldu. </verse>
+        <verse osisID='Exod.40.33'>Məskənlə qurbangahın ətrafında həyəti qurdu və həyət darvazasının arakəsməsini asdı. Beləliklə, Musa işləri bitirdi. </verse>
+        <verse osisID='Exod.40.34'>O vaxt bulud Hüzur çadırını bürüdü və Rəbbin izzəti məskəni doldurdu.</verse>
+        <verse osisID='Exod.40.35'>Musa Hüzur çadırına girə bilmədi, çünki bulud onun üstündə yerləşmişdi və Rəbbin izzəti məskəni doldurmuşdu. </verse>
+        <verse osisID='Exod.40.36'>İsrail övladlarının bütün səfəri boyu bulud məskənin üstündən qalxanda yola düşərdilər;</verse>
+        <verse osisID='Exod.40.37'>bulud qalxmayanda isə, qalxdığı günə qədər yola düşməzdilər.</verse>
+        <verse osisID='Exod.40.38'>Səfərləri boyu bütün İsrail xalqının gözləri önündə gündüz Rəbbin buludu məskənin üzərində, gecələr isə od buludun içində idi.  </verse>
+      </chapter>
+    </div></osisText>
+</osis>

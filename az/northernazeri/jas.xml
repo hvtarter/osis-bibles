@@ -1,0 +1,218 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace'>
+  <osisText osisIDWork='NorthernAzeri' osisRefWork='Bible' xml:lang='az'>
+    <header>
+      <revisionDesc>
+        <date>2012-01-07</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='NorthernAzeri'>
+        <title>Northern Azeri Translation</title>
+        <contributor/>
+        <creator>Mod2Zef (6)</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject/>
+        <date>2012-01-07</date>
+        <description>Northern Azeri Translation</description>
+        <publisher/>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>NorthernAzeri</identifier>
+        <source>no entry TextSource in sword.conf found</source>
+        <language type='IETF'>az</language>
+        <relation/>
+        <coverage>provide the bible to the nations of the world</coverage>
+        <rights>Copyrighted Kutsul Kitab; Permission to distribute granted to CrossWire</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='Jas'>
+      <chapter osisID='Jas.1'>
+        <verse osisID='Jas.1.1'>Allahın və Rəbb İsa Məsihin qulu mən Yaqubdan millətlər arasına səpələnmiş on iki qəbiləyə salam! </verse>
+        <verse osisID='Jas.1.2'>Ey qardaşlarım, müxtəlif sınaqlarla üzləşəndə bunu böyük bir sevinc hesab edin.</verse>
+        <verse osisID='Jas.1.3'>Çünki bilirsiniz ki, imanınızın sınaqdan keçməsi dözüm yaradır.</verse>
+        <verse osisID='Jas.1.4'>Dözüm də öz əməlini kamil etsin ki, siz yetkin və kamil adamlar olasınız, heç bir çatışmazlığınız olmasın. </verse>
+        <verse osisID='Jas.1.5'>Əgər sizlərdən birinin müdrikliyi çatışmırsa, hər kəsə səxavətlə və məzəmmət etmədən verən Allahdan diləsin və ona veriləcək.</verse>
+        <verse osisID='Jas.1.6'>Amma qoy heç şübhə etmədən, imanla diləsin. Çünki şübhə edən adam küləyin qaldırdığı və hərəkətə gətirdiyi dəniz dalğasına bənzəyir.</verse>
+        <verse osisID='Jas.1.7'>Qoy belə adam düşünməsin ki, Rəbdən bir şey alacaq.</verse>
+        <verse osisID='Jas.1.8'>O qərarsızdır, heç bir yolunda sabit deyil. </verse>
+        <verse osisID='Jas.1.9'>Qoy həqir qardaş öz ucalığı ilə fəxr etsin,</verse>
+        <verse osisID='Jas.1.10'>varlı qardaşsa öz həqirliyi ilə fəxr etsin, çünki varlı insan otun çiçəyi kimi solub gedəcək.</verse>
+        <verse osisID='Jas.1.11'>Günəş çıxır, bərk isti olur və otu qurudur. Otun çiçəyi tökülür və onun zahiri gözəlliyi itir. Varlı adam da beləcə, işləyə-işləyə solacaq. </verse>
+        <verse osisID='Jas.1.12'>Sınağa dözən adam nə bəxtiyardır! Çünki sınaqdan keçəndən sonra Rəbbin Onu sevənlərə vəd etdiyi həyat tacını alacaq.</verse>
+        <verse osisID='Jas.1.13'>Sınağa düşəndə qoy heç kim «Allah məni sınağa çəkir» deməsin. Çünki Allah pisliklə sınağa çəkilmir və Özü də heç kimi sınağa çəkmir.</verse>
+        <verse osisID='Jas.1.14'>Lakin hər kəs öz ehtirası ilə aparılıb yoldan çıxarılaraq sınağa çəkilir.</verse>
+        <verse osisID='Jas.1.15'>Sonra ehtiras boylu qalıb günah doğurur. Günah da yetişəndə ölüm törədir. </verse>
+        <verse osisID='Jas.1.16'>Ey sevimli qardaşlarım, aldanmayın:</verse>
+        <verse osisID='Jas.1.17'>hər yaxşı bəxşiş və hər kamil hədiyyə yuxarıdan, Özündə heç bir dəyişiklik ya dönüklük kölgəsi olmayan nurlar Atasından gəlir.</verse>
+        <verse osisID='Jas.1.18'>O Öz iradəsinə görə həqiqət kəlamı ilə doğulmağımıza səbəb oldu ki, biz Onun yaratdıqlarının bir növ nübarı olaq. </verse>
+        <verse osisID='Jas.1.19'>Beləliklə, ey sevimli qardaşlarım, qoy hər bir adam eşitməkdə cəld, söz söyləməkdə təmkinli və qəzəblənməkdə də təmkinli olsun.</verse>
+        <verse osisID='Jas.1.20'>Çünki insanın qəzəbi Allahın salehliyini hasil etmir.</verse>
+        <verse osisID='Jas.1.21'>Buna görə də hər cür murdarlığı və dolub-daşan pisliyi kənara ataraq ürəyinizə əkilən, canlarınızı xilas etməyə qadir olan kəlamı həlimliklə qəbul edin. </verse>
+        <verse osisID='Jas.1.22'>Bu kəlamın icraçısı olun, yalnız eşidənlər olub özünüzü aldatmayın.</verse>
+        <verse osisID='Jas.1.23'>Çünki kəlamı eşidən, amma icraçısı olmayan şəxs güzgüdə öz üzünün cizgilərinə baxan adama bənzəyir:</verse>
+        <verse osisID='Jas.1.24'>O öz-özünə baxır, kənara çəkilir və dərhal necə olduğunu unudur.</verse>
+        <verse osisID='Jas.1.25'>Lakin kamil qanuna, azadlıq qanununa diqqətlə baxıb ona bağlı qalan şəxs unutqan eşidən deyil, əməldə icraçıdır; belə adam öz işində nə bəxtiyardır! </verse>
+        <verse osisID='Jas.1.26'>Əgər sizdən biri özünün mömin olduğunu düşünür, amma ürəyini aldadıb öz dilini yüyənləmirsə, onun möminliyi puçdur.</verse>
+        <verse osisID='Jas.1.27'>Ata Allahın hüzurunda pak və nöqsansız möminlik budur: yetimlərə və dullara onların əziyyətlərində qayğı göstərmək və özünü dünyadan qoruyub ləkəsiz olmaq.  </verse>
+      </chapter>
+      <chapter osisID='Jas.2'>
+        <verse osisID='Jas.2.1'>Qardaşlarım, izzətli Rəbbimiz İsa Məsihə iman edənlər olaraq insanlar arasında tərəfkeşlik etməyin.</verse>
+        <verse osisID='Jas.2.2'>Məsələn, toplandığınız yerə qızıl üzüklü, gözəl geyinmiş bir adamla eyni vaxtda kasıb, nimdaş paltarlı adam da gələrsə,</verse>
+        <verse osisID='Jas.2.3'>gözəl geyinmiş adama diqqət yetirib «buyurun, burada əyləşin», kasıba da «sən orada dur» və yaxud «yerdə otur» deyərsinizsə,</verse>
+        <verse osisID='Jas.2.4'>öz aranızda ayrı-seçkilik edib pis fikirli hakimlər kimi davranmırsınızmı?</verse>
+        <verse osisID='Jas.2.5'>Ey sevimli qardaşlarım, dinləyin: Allah bu dünyada kasıbları imanda zənginləşmək və Onu sevənlərə vəd etdiyi Padşahlığın varisi olmaq üçün seçmədimi?</verse>
+        <verse osisID='Jas.2.6'>Sizsə kasıbı hörmətdən saldınız. Məgər sizi sıxışdıran varlılar deyilmi? Sizi məhkəmələrə çəkən onlar deyilmi?</verse>
+        <verse osisID='Jas.2.7'>Sizin məxsus olduğunuz Şəxsin şərəfli adına küfr edən onlar deyilmi? </verse>
+        <verse osisID='Jas.2.8'>Əgər siz «qonşunu özün kimi sev» deyən Müqəddəs Yazıya görə Padşahınız Allahın qanununa həqiqətən əməl edirsinizsə, yaxşı edirsiniz.</verse>
+        <verse osisID='Jas.2.9'>Amma əgər insanlar arasında tərəfkeşlik edirsinizsə, günah etmiş olursunuz və Qanuna əsasən onu pozanlar kimi məhkum olunursunuz.</verse>
+        <verse osisID='Jas.2.10'>Çünki kim Qanunun hamısına riayət edərək birində büdrəyirsə, o bütün Qanuna qarşı təqsirkar olur.</verse>
+        <verse osisID='Jas.2.11'>Çünki «zina etmə» deyən, «qətl etmə» də demişdir. Əgər zina etməyib qətl edirsənsə, sən Qanunu pozmuş olursan.</verse>
+        <verse osisID='Jas.2.12'>Azadlıq qanunu ilə mühakimə olunacaq adamlar kimi danışın və bu cür davranın.</verse>
+        <verse osisID='Jas.2.13'>Çünki mərhəmət göstərməyən mərhəmətsiz mühakimə olunur. Mərhəmət mühakiməyə qalib gəlir. </verse>
+        <verse osisID='Jas.2.14'>Qardaşlarım, əgər bir kimsə yaxşı əməlləri olmadığı halda imanının olduğunu bildirirsə, bunun xeyri nədir? Belə iman onu xilas edə bilərmi?</verse>
+        <verse osisID='Jas.2.15'>Əgər qardaş-bacılardan birinin paltarı və gündəlik yeməyi yoxdursa</verse>
+        <verse osisID='Jas.2.16'>və sizdən biri ona «arxayın get, isin və qarnını doydur» deyib onların yaşayışı üçün lazım olanları vermirsə, nə faydası var?</verse>
+        <verse osisID='Jas.2.17'>İman da elədir, əgər yaxşı əməlləri yoxdursa, özü-özlüyündə ölüdür. </verse>
+        <verse osisID='Jas.2.18'>Lakin kimsə belə deyə bilər: «Sənin imanın var, mənim də əməllərim». Sən imanını mənə əməlsiz göstər, mən də sənə imanımı əməllərimlə göstərəcəyəm.</verse>
+        <verse osisID='Jas.2.19'>Sən Allahın bir olduğuna inanırsansa, yaxşı edirsən. Cinlər də buna inanır və əsirlər!</verse>
+        <verse osisID='Jas.2.20'>Ey ağılsız adam, əməlsiz imanın puç olduğuna sübut istəyirsənmi?</verse>
+        <verse osisID='Jas.2.21'>Atamız İbrahim öz oğlu İshaqı qurbangahda Allaha təqdim edəndə əməllərlə saleh sayılmadımı?</verse>
+        <verse osisID='Jas.2.22'>Görürsən, iman onun əməlləri ilə birgə fəaliyyətdə idi və iman əməllərlə tamamlanmışdır.</verse>
+        <verse osisID='Jas.2.23'>Beləliklə, «İbrahim Allaha iman etdi və bu ona salehlik sayıldı» deyən Müqəddəs Yazı belə yerinə yetdi və İbrahim Allahın dostu adlandırıldı.</verse>
+        <verse osisID='Jas.2.24'>Görürsünüz ki, insan yalnız imanla deyil, əməlləri ilə də saleh sayılır.</verse>
+        <verse osisID='Jas.2.25'>Eyni tərzdə məgər fahişə Raxav belə, qasidləri qəbul edib başqa yolla geri göndərərək öz əməlləri ilə saleh sayılmadımı?</verse>
+        <verse osisID='Jas.2.26'>Çünki ruhsuz bədən ölü olduğu kimi əməlsiz iman da ölüdür.  </verse>
+      </chapter>
+      <chapter osisID='Jas.3'>
+        <verse osisID='Jas.3.1'>
+          Qardaşlarım, bildiyiniz kimi biz müəllimlər daha ciddi bir mühakimədən keçəcəyik. Bu səbəbə görə də çoxunuz müəllim olmayın.</verse>
+        <verse osisID='Jas.3.2'>Çünki hamımız çox büdrəyirik. Sözləri ilə büdrəməyən bir kimsə bütün bədəni də yüyənləyə bilən kamil bir insandır.</verse>
+        <verse osisID='Jas.3.3'>Bizə itaət etsinlər deyə atların ağzına yüyən taxırıq, beləcə bütün bədənlərini döndəririk.</verse>
+        <verse osisID='Jas.3.4'>Bax gəmilər də böyük olduqları və güclü küləklər tərəfindən aparıldıqları halda sükançının könlü haraya istəyirsə, kiçicik bir sükanla oraya dönür.</verse>
+        <verse osisID='Jas.3.5'>Dil də elədir, bədənin kiçik üzvüdür, amma çox öyünür.  Baxın, balaca bir qığılcım böyük bir meşəni yandırır!</verse>
+        <verse osisID='Jas.3.6'>Dil də oddur. Dil bədən üzvlərimizin arasında haqsızlıq dünyasıdır. O bütün bədənimizi ləkələyir və özü cəhənnəmdən odlandırıldığı kimi həyatımızın gedişatını da odlandırır.</verse>
+        <verse osisID='Jas.3.7'>Çünki istər heyvanların, istərsə də quşların, istər sürünənlərin, istərsə də dəniz məxluqlarının hər cinsi insan nəsli tərəfindən əhliləşdirilir və əhliləşdirilmişdir.</verse>
+        <verse osisID='Jas.3.8'>Amma dili heç bir insan əhliləşdirə bilmir. Dil qarşısıalınmaz bəladır və öldürücü zəhərlə doludur.</verse>
+        <verse osisID='Jas.3.9'>Dilimizlə Rəbb Ataya alqış edirik. Dilimizlə də Allahın surətində yaradılmış insanları lənətləyirik.</verse>
+        <verse osisID='Jas.3.10'>Alqış və lənət eyni ağızdan çıxır. Qardaşlarım, bu belə olmamalıdır.</verse>
+        <verse osisID='Jas.3.11'>Bir bulağın eyni gözündən şirin və acı su çıxarmı?</verse>
+        <verse osisID='Jas.3.12'>Qardaşlarım, əncir ağacı zeytun və üzüm tənəyi də əncir yetişdirə bilərmi? Eləcə də şor bulaqdan şirin su gələ bilməz. </verse>
+        <verse osisID='Jas.3.13'>Aranızda müdrik və dərrakəli olan varmı? Qoy o öz yaxşı həyat tərzi ilə, müdriklikdən yaranan həlimliklə yaxşı əməllərini göstərsin.</verse>
+        <verse osisID='Jas.3.14'>Amma ürəyinizdə acı qısqanclıq, xudbin ehtiras varsa, öyünməyin və həqiqəti inkar etməyin.</verse>
+        <verse osisID='Jas.3.15'>Belə müdriklik yuxarıdan nazil olan müdriklik deyil, ancaq dünyəvi, ruhani olmayan və şeytani müdriklikdir.</verse>
+        <verse osisID='Jas.3.16'>Çünki harada qısqanclıq və xudbin ehtiras varsa, orada qarışıqlıq və hər cür pis əməl vardır.</verse>
+        <verse osisID='Jas.3.17'>Amma yuxarıdan nazil olan müdriklik əvvəla safdır, sonra da sülhpərvərdir, mülayimdir, itaətlidir, mərhəmət və xeyirli bəhrələrlə doludur, qərəzsizdir, riyasızdır.</verse>
+        <verse osisID='Jas.3.18'>Sülh yaradanların əkdiyi sülh toxumlarından salehlik bəhrəsi yetişir.  </verse>
+      </chapter>
+      <chapter osisID='Jas.4'>
+        <verse osisID='Jas.4.1'>
+          Aranızda dava və çəkişmələrin kökü haradandır? Bədənlərinizin üzvlərində mübarizə edən ehtiraslarınızdan deyilmi?</verse>
+        <verse osisID='Jas.4.2'>Nə isə arzu edib əldə etməyincə adam öldürürsünüz. Həsəd aparırsınız, amma istədiyinizə nail olmayınca çəkişib dava edirsiniz. Əldə edə bilmirsiniz, çünki diləmirsiniz.</verse>
+        <verse osisID='Jas.4.3'>Diləyirsiniz, amma almırsınız, çünki öz kefinizə sərf etmək üçün pis niyyətlə diləyirsiniz.</verse>
+        <verse osisID='Jas.4.4'>Ey vəfasızlar, dünya ilə dostluğun Allaha qarşı düşmənçilik olduğunu bilmirsinizmi? Buna görə də dünya ilə dost olmaq istəyən özünü Allaha düşmən edər.</verse>
+        <verse osisID='Jas.4.5'>Bəlkə güman edirsiniz ki, Müqəddəs Yazı əbəs yerə  «Allahın daxilimizə verdiyi ruh qısqanclıqla həsrət çəkər» deyir?</verse>
+        <verse osisID='Jas.4.6'>Lakin Allah daha çox lütf verir. Bunun üçün belə deyilir:  «Allah məğrurlara qarşıdır,İtaətkarlara isə lütf göstərər».</verse>
+        <verse osisID='Jas.4.7'>Buna görə də Allaha tabe olun. İblisə qarşı durun və o sizdən qaçacaq.</verse>
+        <verse osisID='Jas.4.8'>Allaha yaxınlaşın, O da sizə yaxınlaşacaq. Ey günahkarlar, əllərinizi paklayın! Ey qərarsız insanlar, ürəklərinizi saflaşdırın!</verse>
+        <verse osisID='Jas.4.9'>Kədərlənin, yas tutun, ağlayın! Qoy gülüşünüz yasa, sevinciniz də qəmə dönsün!</verse>
+        <verse osisID='Jas.4.10'>Rəbbin önündə özünüzü aşağı tutun, O da sizi ucaldacaq. </verse>
+        <verse osisID='Jas.4.11'>Qardaşlar, bir-birinizi pisləməyin. Qardaşını pisləyən yaxud qardaşını mühakimə edən kəs Qanunu pisləyir və Qanunu mühakimə edir. Amma sən Qanunu mühakimə edirsənsə, Qanunun icraçısı deyil, onun hakimisən.</verse>
+        <verse osisID='Jas.4.12'>Qanunverən və Hakim birdir, xilas etməyə və həlak etməyə qadir olan Odur. Bəs sən kimsən ki, qonşunu mühakimə edirsən? </verse>
+        <verse osisID='Jas.4.13'>İndi siz belə deyirsiniz: «Bu gün yaxud sabah biz filan şəhərə gedib orada bir il qalacağıq və ticarətlə məşğul olub pul qazanacağıq».</verse>
+        <verse osisID='Jas.4.14'>Əslində isə sabah nə baş verəcəyini bilmirsiniz. Axı həyatınız nədir ki? Qısa bir müddətə görünüb sonra da yox olan buxardır.</verse>
+        <verse osisID='Jas.4.15'>Bunun əvəzinə «əgər Rəbb istəyərsə, sağ qalarıq, bu və ya digər işi görərik» deməlisiniz.</verse>
+        <verse osisID='Jas.4.16'>İndi isə siz öz təkəbbürlü olmağınızla öyünürsünüz. Bu cür öyünmələrin hamısı pisdir.</verse>
+        <verse osisID='Jas.4.17'>Deməli, kimsə bir yaxşı işi görməli olduğunu bilib onu etmirsə, günah edir.  </verse>
+      </chapter>
+      <chapter osisID='Jas.5'>
+        <verse osisID='Jas.5.1'>
+          İndi isə, ey varlılar, başınıza gələcək kədərli hadisələrə görə fəryad edib ağlayın!</verse>
+        <verse osisID='Jas.5.2'>Var-dövlətiniz çürüyüb, paltarlarınızı da güvə yeyib.</verse>
+        <verse osisID='Jas.5.3'>Qızıl-gümüşünüz paslanıb. Onların pası sizə qarşı şahidlik edəcək və ətinizi od kimi yandırıb-yaxacaq. Bu axır zamanda var-dövlət yığmısınız.</verse>
+        <verse osisID='Jas.5.4'>Bax zəmilərinizi biçən işçilərdən hiyləgərcəsinə gizlətdiyiniz əmək haqqı sizə qarşı haray çəkir. Biçinçilərin fəryadı Ordular Rəbbinin qulaqlarına çatıb!</verse>
+        <verse osisID='Jas.5.5'>Siz yer üzündə firavan yaşayıb kef çəkmisiniz. Boğazlanma günündə də özünüzü kökəldirsiniz!</verse>
+        <verse osisID='Jas.5.6'>Sizə müqavimət göstərməyən salehi məhkum edib öldürdünüz. </verse>
+        <verse osisID='Jas.5.7'>Beləliklə, ey qardaşlar, Rəbbin zühuruna qədər səbirli olun. Görün əkinçi birinci və axırıncı yağış yağanacan səbir edərək torpağın qiymətli məhsulunu gözləyir.</verse>
+        <verse osisID='Jas.5.8'>Siz də səbirli və ürəkli olun, çünki Rəbbin zühuru yaxındır.</verse>
+        <verse osisID='Jas.5.9'>Qardaşlar, mühakimə olunmamaq üçün bir-birinizdən gileylənməyin. Budur, Hakim qapı arxasında durur!</verse>
+        <verse osisID='Jas.5.10'>Qardaşlar, Rəbbin adı ilə danışmış peyğəmbərləri əzablara tab gətirmək və səbir nümunəsi kimi götürün.</verse>
+        <verse osisID='Jas.5.11'>Budur, biz dözümlü olanları bəxtiyar hesab edirik. Əyyubun dözümü barəsində eşitmisiniz və Rəbbin axırda nə etdiyini də gördünüz, çünki Rəbb çox rəhmli və mərhəmətlidir. </verse>
+        <verse osisID='Jas.5.12'>Lakin hər şeydən əvvəl, qardaşlarım, nə göyə, nə yerə, nə də başqa bir şeyə and için. Qoy sizdə «bəli»niz bəli, «xeyr»iniz xeyr olsun ki, mühakiməyə düşməyəsiniz. </verse>
+        <verse osisID='Jas.5.13'>Aranızda əzab çəkən varmı? Qoy dua etsin. Şadlanan varmı? Qoy ilahi oxusun.</verse>
+        <verse osisID='Jas.5.14'>Aranızda xəstə olan varmı? Qoy imanlılar cəmiyyətinin ağsaqqallarını çağırtdırsın. Onlar da Rəbbin adına onu yağla məsh edərək dua etsinlər.</verse>
+        <verse osisID='Jas.5.15'>İmanla edilən dua xəstəni sağaldacaq və Rəbb onu ayağa qaldıracaq. Əgər o adam günah edibsə, bağışlanacaq.</verse>
+        <verse osisID='Jas.5.16'>Beləliklə, günahlarınızı bir-birinizə etiraf edin və bir-biriniz üçün dua edin ki, sağalasınız. Saleh adamın duası çox güclü və təsirlidir.</verse>
+        <verse osisID='Jas.5.17'>İlyas təbiətcə bizim kimi bir adam idi və o səylə dua etdi ki, yağış olmasın. Üç il altı ay torpağa yağış yağmadı.</verse>
+        <verse osisID='Jas.5.18'>O yenə də dua etdi və göy yağış yağdırdı, torpaq da barını verdi. </verse>
+        <verse osisID='Jas.5.19'>Qardaşlarım, əgər aranızdan biri haqq yolundan azar və kimsə onu doğru yola qaytararsa,</verse>
+        <verse osisID='Jas.5.20'>qoy bilsin ki, günahkarı azdığı yolundan qaytaran onun canını ölümdən xilas edər və bir çox günahın üstünü örtər.  </verse>
+      </chapter>
+    </div></osisText>
+</osis>

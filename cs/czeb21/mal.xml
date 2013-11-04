@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace'>
+  <osisText osisRefWork='Bible' osisIDWork='CzeB21' xml:lang='cs'>
+    <header>
+      <revisionDesc>
+        <date>2010-02-26</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='CzeB21'>
+        <title>Czech Bible, Překlad 21. století</title>
+        <contributor/>
+        <creator>Mod2Zef (4)</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject/>
+        <date>2009-07-31</date>
+        <description>Bible, Překlad 21. století  vedoucí projektu Alexandr Flek  odborná spolupráce Jiří Hedánek, Pavel Hoffman, Zdeněk Sýkora  Přeloženo z hebrejštiny, aramejštiny, řečtiny  Vydání první  (c) 2009 Biblion, o. s.  www.bible21.org  www.bible21.cz   Překlad 21. století přináší nadčasové poselství Bible v současné, čtivé češtině. Usiluje o maximální věrnost původním hebrejským, aramejským a řeckým textům, zároveň však chce oslovit dnešní čtenáře, ať už jsou zvyklí čerpat z této knihy inspiraci pro každý den, anebo ji otevírají poprvé.</description>
+        <publisher/>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>CzeB21</identifier>
+        <source>no entry TextSource in sword.conf found</source>
+        <language type='IETF'>cs</language>
+        <relation/>
+        <coverage>provide the bible to the nations of the world</coverage>
+        <rights>Copyrighted; Permission to distribute granted to CrossWire</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='Mal'>
+      <chapter osisID='Mal.1'>
+        <verse osisID='Mal.1.1'>Ortel slova Hospodinova nad Izraelem skrze Malachiáše.</verse>
+        <verse osisID='Mal.1.2'>Miluji vás, praví Hospodin. "Jak nás miluješ?" ptáte se. Neměl snad Jákob bratra Ezaua? praví Hospodin. Jákoba jsem si zamiloval,</verse>
+        <verse osisID='Mal.1.3'>ale Ezaua jsem zavrhl. Hory jsem mu obrátil v pustinu a jeho dědictví jsem nechal pouštním šakalům.</verse>
+        <verse osisID='Mal.1.4'>Edom si může říci: "Byli jsme poraženi, ale znovu vystavíme trosky." Hospodin zástupů však praví: Jen ať si stavějí, já budu bořit! Bude se jim říkat "Země zkaženosti" a "Lid, na nějž se Hospodin hněvá navěky".</verse>
+        <verse osisID='Mal.1.5'>Uvidíte to na vlastní oči a tehdy řeknete: "Hospodin je veliký i mimo izraelské území!"</verse>
+        <verse osisID='Mal.1.6'>Syn má v úctě svého otce a služebník svého pána. Jsem-li tedy otec, kde je úcta ke mně? Jsem-li Pán, kde je bázeň přede mnou? praví Hospodin zástupů vám, kněží, kteří pohrdáte mým jménem. "Jak pohrdáme tvým jménem?" ptáte se.</verse>
+        <verse osisID='Mal.1.7'>Tak, že na můj oltář přinášíte poskvrněný chléb. "Jak tě poskvrňujeme?" ptáte se. Tak, že říkáte: "Na Hospodinově stole nezáleží."</verse>
+        <verse osisID='Mal.1.8'>Když k oběti přinášíte slepé zvíře, copak to není špatně? Když přinášíte chromé a churavé, copak to není špatně? Jen to zkus nabídnout svému vladaři, jestli se mu tím zalíbíš a zahrne tě přízní, praví Hospodin zástupů.</verse>
+        <verse osisID='Mal.1.9'>Jen si nakloňujte Boha, aby se nad vámi slitoval - jenže s tímhle v rukách? Projeví svou přízeň komukoli z vás? praví Hospodin zástupů.</verse>
+        <verse osisID='Mal.1.10'>Kdyby tak někdo z vás zavřel vrata, aby se můj oltář darmo nezapaloval! Nelíbíte se mi, praví Hospodin zástupů; o oběti z vašich rukou nestojím!</verse>
+        <verse osisID='Mal.1.11'>Vždyť mé jméno je veliké mezi národy od východu slunce až na západ - tam všude budou mému jménu přinášet kadidlo a čisté oběti. Ano, mé jméno je veliké mezi národy, praví Hospodin zástupů.</verse>
+        <verse osisID='Mal.1.12'>Vy ho však znesvěcujete, když říkáte: "Stůl Páně je možné poskvrnit; na pokrmu na něm obětovaném nezáleží."</verse>
+        <verse osisID='Mal.1.13'>Říkáte také: "Proč se dřít!" a frkáte své posměšky, praví Hospodin zástupů. Přinášíte ukradené, chromé a churavé kusy a nabízíte mi je za oběť - copak to mohu z vašich rukou přijmout? praví Hospodin.</verse>
+        <verse osisID='Mal.1.14'>Prokletý je pokrytec, který má ve stádu samce, slíbí ho Pánu, ale pak obětuje nějaký pochroumaný kus. Vždyť já jsem veliký Král, praví Hospodin zástupů, a mé jméno je obávané mezi národy!</verse>
+      </chapter>
+      <chapter osisID='Mal.2'>
+        <verse osisID='Mal.2.1'>Teď tedy, kněží, varování pro vás:</verse>
+        <verse osisID='Mal.2.2'>Jestliže neposlechnete a nerozhodnete se vzdávat čest mému jménu, praví Hospodin zástupů, sešlu na vás prokletí a prokleji i vaše žehnání. A už jsem je také proklel, protože jste si to nevzali k srdci.</verse>
+        <verse osisID='Mal.2.3'>Hle, potrestám vaše potomky a vám vmetu lejna do tváří, lejna vašich svátečních obětí, aby vás s nimi vynesli!</verse>
+        <verse osisID='Mal.2.4'>Tehdy poznáte, že jsem vám poslal toto varování, aby byla zachována má smlouva s Levim, praví Hospodin zástupů.</verse>
+        <verse osisID='Mal.2.5'>Má smlouva s ním byla smlouvou života a pokoje. Jemu jsem uložil, aby žil v bázni, a on mě ctil a před mým jménem se chvěl strachy.</verse>
+        <verse osisID='Mal.2.6'>V jeho ústech byl zákon pravdy, na rtech se mu neobjevilo žádné bezpráví. Žil se mnou v pokoji a v poctivosti a mnohé odvrátil od jejich vin.</verse>
+        <verse osisID='Mal.2.7'>Ano, rty kněze mají střežit poznání a z jeho úst se má čerpat poučení, neboť je poslem Hospodina zástupů.</verse>
+        <verse osisID='Mal.2.8'>Vy jste však z té cesty sešli a svým učením jste mnohé srazili! Porušili jste Leviho smlouvu, praví Hospodin zástupů.</verse>
+        <verse osisID='Mal.2.9'>Proto vás také vydám pohrdání a přede všemi lidmi vás ponížím, protože nedbáte na mé cesty a při výkladu zákona nejste nestranní.</verse>
+        <verse osisID='Mal.2.10'>Nemáme všichni jednoho Otce? Nestvořil nás jeden Bůh? Proč tedy znesvěcujeme smlouvu svých otců, když jsme jedni druhým nevěrní?</verse>
+        <verse osisID='Mal.2.11'>Juda je nevěrný, v Izraeli a v Jeruzalémě se děje ohavnost: Juda poskvrňuje svatyni, kterou Hospodin miluje, a žení se s dcerou cizího boha.</verse>
+        <verse osisID='Mal.2.12'>Ať Hospodin vyhladí z Jákobových stanů každého, kdo to provádí, ať je to kdokoli - i kdyby Hospodinu zástupů přinášel oběti!</verse>
+        <verse osisID='Mal.2.13'>A provádíte ještě něco: Zaléváte Hospodinův oltář slzami, pláčete a naříkáte, že už si nevšímá vašich obětí, že už ho z vašich rukou netěší.</verse>
+        <verse osisID='Mal.2.14'>Ptáte se: "Proč?" Protože Hospodin je svědkem mezi tebou a manželkou tvého mládí, které jsi nevěrný. Vždyť je to tvá společnice, tvá manželka podle smlouvy!</verse>
+        <verse osisID='Mal.2.15'>Neučinil dva jedním? Měl přece ducha nazbyt. Proč tedy jedním? Šlo mu o símě Boží. Chraňte se tedy, abyste nebyli nevěrní manželce svého mládí.</verse>
+        <verse osisID='Mal.2.16'>Nenávidím rozvod! praví Hospodin, Bůh Izraele. Nenávidím ho jako plášť potřísněný násilím, praví Hospodin zástupů. Chraňte se tedy a nebuďte nevěrní.</verse>
+        <verse osisID='Mal.2.17'>Unavujete Hospodina svými řečmi. "Jak ho unavujeme?" ptáte se. Tak, že říkáte: "Hospodinu se líbí kdejaký zločinec; takové má zřejmě v oblibě!" Také se ptáte: "Kde je ten Bůh soudu?"</verse>
+      </chapter>
+      <chapter osisID='Mal.3'>
+        <verse osisID='Mal.3.1'>Hle, už posílám svého posla, aby připravil cestu přede mnou. Pak náhle přijde do svého chrámu Panovník, po němž se ptáte, a anděl smlouvy, po němž toužíte. Hle, už přichází, praví Hospodin zástupů.</verse>
+        <verse osisID='Mal.3.2'>Kdo ale snese den jeho příchodu? Kdo obstojí, až se ukáže? Vždyť bude jako ohnivá výheň, jako louh běliče!</verse>
+        <verse osisID='Mal.3.3'>Usedne a jako tavič pročišťuje stříbro, tak pročistí syny Leviho. Přetaví je jako zlato a stříbro, takže budou Hospodinu přinášet oběti ve spravedlnosti.</verse>
+        <verse osisID='Mal.3.4'>Oběti Judy a Jeruzaléma se pak zalíbí Hospodinu tak jako za dávných dnů.</verse>
+        <verse osisID='Mal.3.5'>Přijdu k vám tedy, abych soudil, a rychle usvědčím čaroděje, cizoložníky, křivopřísežníky, utlačovatele nádeníků, vdov a sirotků i ty, kdo činí ústrky přistěhovalcům a nemají bázeň přede mnou, praví Hospodin zástupů.</verse>
+        <verse osisID='Mal.3.6'>Já Hospodin se neměním - proto jste, synové Jákobovi, nebyli zničeni.</verse>
+        <verse osisID='Mal.3.7'>Už od dob svých otců jste se odvraceli od mých pravidel a nedodržovali jste je. Vraťte se ke mně a já se vrátím k vám, praví Hospodin zástupů. "Jak se máme vrátit?" ptáte se.</verse>
+        <verse osisID='Mal.3.8'>Smí snad člověk okrádat Boha? Vždyť vy mě okrádáte! "Jak tě okrádáme?" ptáte se. Na desátcích a obětech!</verse>
+        <verse osisID='Mal.3.9'>Jste naprosto prokletí, že mě okrádáte, vy, celý národe!</verse>
+        <verse osisID='Mal.3.10'>Sneste všechny desátky do obilnice, ať je v mém chrámě co jíst. Jen mě v tom vyzkoušejte, praví Hospodin zástupů, zda vám nezotvírám nebeské průduchy a nevyliji na vás požehnání, že ho ani nepoberete.</verse>
+        <verse osisID='Mal.3.11'>Zastavím kvůli vám škůdce, aby vám neničil úrodu země, a také réva na vinici vám nezajde, praví Hospodin zástupů.</verse>
+        <verse osisID='Mal.3.12'>Všechny národy řeknou: "Blaze vám!" a vaše země bude nádherná, praví Hospodin zástupů.</verse>
+        <verse osisID='Mal.3.13'>Hrozně mě urážíte, praví Hospodin. "Jak tě urážíme?" ptáte se.</verse>
+        <verse osisID='Mal.3.14'>Říkáte: "Sloužit Bohu je k ničemu! Co z toho máme, plnit jeho úkoly a chodit před Hospodinem zástupů jako truchlící?</verse>
+        <verse osisID='Mal.3.15'>Proto říkáme: Blaze nadutcům! Nejlépe se vede zločincům - pokoušejí Boha, ale trestu uniknou."</verse>
+        <verse osisID='Mal.3.16'>Tehdy spolu rozmlouvali ctitelé Hospodina a Hospodin naslouchal a slyšel je. Byla před ním sepsána pamětní kniha o těch, kdo ctili Hospodina a jeho jméno měli na mysli.</verse>
+        <verse osisID='Mal.3.17'>Ti budou v den, který připravuji, mým zvláštním pokladem, praví Hospodin zástupů, a já k nim budu laskavý, jako je laskavý otec k synovi, který mu slouží.</verse>
+        <verse osisID='Mal.3.18'>Tehdy znovu uvidíte rozdíl mezi spravedlivým a ničemným; mezi tím, kdo slouží Bohu, a tím, kdo mu neslouží. Hle, už přichází ten den planoucí jako pec! Všichni nadutci a všichni zločinci budou jako strniště a den, který přichází, je sežehne, praví Hospodin zástupů. Nezůstane z nich kořen ani ratolest! Vám, ctitelům mého jména, však vyjde slunce spravedlnosti a v jeho paprscích bude uzdravení. Vyrazíte a budete dovádět jako telátka vypuštěná z maštale. Tehdy podupete ničemné - budou pod vašima nohama jako popel v den, který připravuji, praví Hospodin zástupů. Pamatujte na Zákon mého služebníka Mojžíše, na pravidla a ustanovení, jež jsem mu svěřil na Orébu pro celý Izrael. Hle, ještě než přijde ten veliký a hrozný Hospodinův den, pošlu k vám proroka Eliáše, aby obrátil srdce otců k synům a srdce synů k otcům, abych až přijdu, neranil zemi prokletím.</verse>
+      </chapter>
+    </div></osisText>
+</osis>

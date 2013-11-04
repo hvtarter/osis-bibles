@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace'>
+  <osisText osisIDWork='NorthernAzeri' osisRefWork='Bible' xml:lang='az'>
+    <header>
+      <revisionDesc>
+        <date>2012-01-07</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='NorthernAzeri'>
+        <title>Northern Azeri Translation</title>
+        <contributor/>
+        <creator>Mod2Zef (6)</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject/>
+        <date>2012-01-07</date>
+        <description>Northern Azeri Translation</description>
+        <publisher/>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>NorthernAzeri</identifier>
+        <source>no entry TextSource in sword.conf found</source>
+        <language type='IETF'>az</language>
+        <relation/>
+        <coverage>provide the bible to the nations of the world</coverage>
+        <rights>Copyrighted Kutsul Kitab; Permission to distribute granted to CrossWire</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='Titus'>
+      <chapter osisID='Titus.1'>
+        <verse osisID='Titus.1.1'>Allahın qulu və İsa Məsihin həvarisi, mən Pauldan salam! Allahın seçdiyi insanların iman edib möminliyə uyğun olan həqiqəti dərk etmələri üçün təyin olundum.</verse>
+        <verse osisID='Titus.1.2'>Allah yolu əbədi həyat ümidinə əsaslanır. Bu ümidi yalan danışmayan Allah zaman başlamazdan əvvəl vəd etmişdi.</verse>
+        <verse osisID='Titus.1.3'>Xilaskarımız Allah Öz əmrinə görə mənə əmanət edilmiş vəzlə kəlamını vaxtında aşkar etdi.</verse>
+        <verse osisID='Titus.1.4'>Ümumi imana görə mənə əsl oğul olan Titə Ata Allahdan və Xilaskarımız Məsih İsadan lütf və sülh olsun! </verse>
+        <verse osisID='Titus.1.5'>Tamamlanmamış işləri sahmana salasan və sənə tapşırdığım kimi hər şəhərdə cəmiyyət ağsaqqalları təyin edəsən deyə səni Kritdə saxladım.</verse>
+        <verse osisID='Titus.1.6'>Ağsaqqal seçilən şəxs nöqsansız və tək arvadlı olaraq ona sadiq olsun. Övladları imanlı olmalı, mənəviyyatsızlıqda ittiham olunan yaxud itaətsiz olmamalıdır.</verse>
+        <verse osisID='Titus.1.7'>Çünki cəmiyyət nəzarətçisi Allahın iş idarəçisi olduğuna görə nöqsansız olmalıdır. Dikbaş, hirsli, şərab düşkünü, zorakı, haqsız qazanca həris olmamalı,</verse>
+        <verse osisID='Titus.1.8'>əksinə qonaqpərvər, yaxşılığı sevən, ağıllı-kamallı, saleh, müqəddəs, nəfsinə hakim olmalıdır.</verse>
+        <verse osisID='Titus.1.9'>Həm başqalarına sağlam təlimlə nəsihət verməyə, həm də ona qarşı çıxanları təkzib etməyə qadir olsun deyə aldığı təlimə uyğun olan etibarlı kəlamı bərk tutmalıdır. </verse>
+        <verse osisID='Titus.1.10'>Çünki, xüsusilə, sünnət tərəfdarları arasında bir çox itaətsiz, boşboğaz və saxtakar insanlar var.</verse>
+        <verse osisID='Titus.1.11'>Onları sakitləşdirmək lazımdır. Çünki onlar haqsız qazanc əldə etmək üçün lazımsız şeyləri öyrədərək bəzi ailələri tamamilə alt-üst edirlər.</verse>
+        <verse osisID='Titus.1.12'>Onlardan biri – öz peyğəmbərlərindən biri belə demişdir: «Kritlilər daima yalançı, azğın heyvan, tənbəl qarınquludur».</verse>
+        <verse osisID='Titus.1.13'>Bu şəhadət etibarlıdır. Ona görə də onları sərt bir şəkildə məzəmmət et ki, imanları sağlam olsun,</verse>
+        <verse osisID='Titus.1.14'>Yəhudi əfsanələrinə və həqiqətdən dönən insanların əmrlərinə qulaq asmasınlar.</verse>
+        <verse osisID='Titus.1.15'>Paklar üçün hər şey pakdır, ləkəli imansızlar üçünsə pak heç bir şey yoxdur. Amma onların həm düşüncəsi, həm də vicdanı ləkələnmişdir.</verse>
+        <verse osisID='Titus.1.16'>Onlar Allahı tanıdıqlarını iqrar edirlər, amma əməlləri ilə bunu inkar edirlər. İyrənc və itaətsizdirlər, heç bir yaxşı iş görməyə yaramazlar.  </verse>
+      </chapter>
+      <chapter osisID='Titus.2'>
+        <verse osisID='Titus.2.1'>
+          Sənsə sağlam təlimə uyğun olanı öyrət.</verse>
+        <verse osisID='Titus.2.2'>Yaşlı kişilər ayıq, ləyaqətli, ağıllı-kamallı, imanda, məhəbbətdə və dözümdə sağlam olsunlar.</verse>
+        <verse osisID='Titus.2.3'>Yaşlı qadınlar da eyni şəkildə müqəddəslərə yaraşan tərzdə davransınlar. Böhtançı, şərab düşkünü olmasınlar və xeyirli şeyləri öyrədərək</verse>
+        <verse osisID='Titus.2.4'>tərbiyə etsinlər ki, gənc qadınlar ərlərini və uşaqlarını sevsinlər,</verse>
+        <verse osisID='Titus.2.5'>ağıllı-kamallı, ismətli, evdar, xeyirxah, öz ərlərinə tabe olsunlar. O zaman Allahın kəlamına küfr olunmaz.</verse>
+        <verse osisID='Titus.2.6'>Gənc oğlanlara da ağıllı-kamallı olmaq üçün nəsihət ver.</verse>
+        <verse osisID='Titus.2.7'>Yaxşı işlər görərək hər şeydə özünü nümunə göstər. Təlimdə dürüst və ləyaqətli olaraq</verse>
+        <verse osisID='Titus.2.8'>tənqid olunmaz sağlam sözlər danış ki, sənə qarşı çıxanlar bizim haqqımızda pis bir söz deyə bilməyib utansın. </verse>
+        <verse osisID='Titus.2.9'>Qulları başa sal ki, hər şeydə öz ağalarına tabe olsunlar, onları razı salsınlar. Qoy cavab qaytarmasınlar,</verse>
+        <verse osisID='Titus.2.10'>oğurluq etməsinlər, amma hər baxımdan etibarlı olduqlarını göstərsinlər. Beləliklə, Xilaskarımız Allahın təlimini hər cəhətdən cazibəli etsinlər. </verse>
+        <verse osisID='Titus.2.11'>Çünki Allahın bütün insanlara xilas gətirən lütfü zühur etdi.</verse>
+        <verse osisID='Titus.2.12'>Bu lütf bizə allahsızlığı və dünyəvi ehtirasları rədd edib, bu dövrdə ağıllı-kamallı, saleh və möminliyə uyğun bir ömür sürməyi öyrədir.</verse>
+        <verse osisID='Titus.2.13'>Bu ərəfədə bəxtiyarlıq gətirən ümidimizin gerçəkləşməsini, ulu Allah və Xilaskarımız İsa Məsihin izzətinin zühurunu gözləyək.</verse>
+        <verse osisID='Titus.2.14'>O Özünü bizim üçün fəda etdi ki, bizi hər cür qanunsuzluqdan satın alsın, təmizləyib Özünə məxsus və yaxşı işlərə səy göstərən bir xalq yaratsın.</verse>
+        <verse osisID='Titus.2.15'>Bunları tam bir səlahiyyətlə bildir, nəsihət ver və məzəmmət et. Qoy heç kim sənə hörmətsizlik etməsin.  </verse>
+      </chapter>
+      <chapter osisID='Titus.3'>
+        <verse osisID='Titus.3.1'>
+          İmanlılara xatırlat ki, başçılar və hakimlərə tabe olub itaət etsinlər. Hər cür xeyirli iş görməyə hazır olsunlar.</verse>
+        <verse osisID='Titus.3.2'>Heç kimə şər atmasınlar, davakar deyil, mülayim olsunlar və bütün insanlarla həlim davransınlar.</verse>
+        <verse osisID='Titus.3.3'>Çünki bir zamanlar biz də ağılsız, itaətsiz, yolunu azmış, müxtəlif ehtiraslar və zövqlərə qul olan, kin, paxıllıq içində yaşayan mənfur və bir-birimizə nifrət edən adamlar idik.</verse>
+        <verse osisID='Titus.3.4'>Amma Xilaskarımız Allah xeyirxahlığını və insana olan sevgisini açıq göstərdiyi zaman</verse>
+        <verse osisID='Titus.3.5'>bizim salehliklə etdiyimiz əməllərlə deyil, Öz mərhəmətinə görə bizi xilas etdi. Bunu bizi yumaqla, yəni Müqəddəs Ruhun bizi yenidən doğuzdurub təzələməsi ilə etdi.</verse>
+        <verse osisID='Titus.3.6'>Allah Xilaskarımız İsa Məsih vasitəsilə üzərimizə bol-bol Müqəddəs Ruhu tökdü ki,</verse>
+        <verse osisID='Titus.3.7'>Onun lütfü ilə saleh sayılıb ümidimiz olan əbədi həyatın varisi olaq.</verse>
+        <verse osisID='Titus.3.8'>Bu söz etibarlıdır.  Mən bunların üzərində dayanmağını istəyirəm ki, Allaha iman etmişlər xeyirxah işlərlə məşğul olmağa diqqət yetirsinlər. Bu, insanlar üçün xeyirli və faydalıdır.</verse>
+        <verse osisID='Titus.3.9'>Lakin axmaq mübahisələrdən, nəsil şəcərələrindən, münaqişələrdən, Qanunla bağlı dava-dalaşlardan uzaq dur. Çünki bunlar faydasız və boş şeylərdir.</verse>
+        <verse osisID='Titus.3.10'>Təfriqəçi adamdan birinci və ikinci xəbərdarlıqdan sonra əlaqəni kəs.</verse>
+        <verse osisID='Titus.3.11'>Belə adamın yolunu azmış və günahkar olduğuna əmin ola bilərsən. O öz-özünü məhkum etmişdir. </verse>
+        <verse osisID='Titus.3.12'>Mən Artema və ya Tixiki yanına göndərən kimi çalış ki, yanıma, Nikopolisə gələsən. Çünki qışı orada keçirməyi qərara almışam.</verse>
+        <verse osisID='Titus.3.13'>Qanunşünas Zena ilə Apollonu səylə yola sal, qoy onların heç bir şeyə ehtiyacı olmasın.</verse>
+        <verse osisID='Titus.3.14'>Qoy bizimkilər də təcili ehtiyacları ödəmək üçün xeyirli işlərlə məşğul olmağı öyrənsinlər ki, bəhrəsiz qalmasınlar. </verse>
+        <verse osisID='Titus.3.15'>Yanımdakıların hamısı səni salamlayır. Bizi sevən imanlılara salam söylə. </verse>
+      </chapter>
+    </div></osisText>
+</osis>

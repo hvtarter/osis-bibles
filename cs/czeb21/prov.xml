@@ -1,0 +1,1074 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace'>
+  <osisText osisRefWork='Bible' osisIDWork='CzeB21' xml:lang='cs'>
+    <header>
+      <revisionDesc>
+        <date>2010-02-26</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='CzeB21'>
+        <title>Czech Bible, Překlad 21. století</title>
+        <contributor/>
+        <creator>Mod2Zef (4)</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject/>
+        <date>2009-07-31</date>
+        <description>Bible, Překlad 21. století  vedoucí projektu Alexandr Flek  odborná spolupráce Jiří Hedánek, Pavel Hoffman, Zdeněk Sýkora  Přeloženo z hebrejštiny, aramejštiny, řečtiny  Vydání první  (c) 2009 Biblion, o. s.  www.bible21.org  www.bible21.cz   Překlad 21. století přináší nadčasové poselství Bible v současné, čtivé češtině. Usiluje o maximální věrnost původním hebrejským, aramejským a řeckým textům, zároveň však chce oslovit dnešní čtenáře, ať už jsou zvyklí čerpat z této knihy inspiraci pro každý den, anebo ji otevírají poprvé.</description>
+        <publisher/>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>CzeB21</identifier>
+        <source>no entry TextSource in sword.conf found</source>
+        <language type='IETF'>cs</language>
+        <relation/>
+        <coverage>provide the bible to the nations of the world</coverage>
+        <rights>Copyrighted; Permission to distribute granted to CrossWire</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='Prov'>
+      <chapter osisID='Prov.1'>
+        <verse osisID='Prov.1.1'>Přísloví Šalomouna, syna Davidova, krále nad Izraelem,</verse>
+        <verse osisID='Prov.1.2'>k nabytí moudrosti a k poučení, jak rozumět hlubokým výrokům,</verse>
+        <verse osisID='Prov.1.3'>jak si osvojit, co učí rozum, spravedlnost, právo a poctivost,</verse>
+        <verse osisID='Prov.1.4'>jak předat prostoduchým chytrost, mládeži prozíravost a vědění.</verse>
+        <verse osisID='Prov.1.5'>Moudrý ať poslouchá a rozmnoží svou znalost, rozumný ať dá si poradit,</verse>
+        <verse osisID='Prov.1.6'>jak porozumět úslovím a jinotajům, rčením mudrců a jejich hádankám.</verse>
+        <verse osisID='Prov.1.7'>Klíčem k poznání je úcta k Hospodinu; moudrostí a poučením jen hlupák pohrdá.</verse>
+        <verse osisID='Prov.1.8'>Poslouchej, synu můj, otcovo poučení, od matčiných pokynů se nevzdaluj.</verse>
+        <verse osisID='Prov.1.9'>Půvabným věncem na tvé hlavě budou, náhrdelníkem budou na hrdle tvém.</verse>
+        <verse osisID='Prov.1.10'>Nenech se zlákat, synu, když hříšníci tě mámí:</verse>
+        <verse osisID='Prov.1.11'>"Pojď s námi, budem ze zálohy vraždit, někoho nevinného jen tak přepadnem,</verse>
+        <verse osisID='Prov.1.12'>jako hrob zaživa je spolknem, vcelku, jako když padnou do jámy.</verse>
+        <verse osisID='Prov.1.13'>Všemožné cennosti si snadno pořídíme, domy si naplníme kořistí.</verse>
+        <verse osisID='Prov.1.14'>Na naši kartu vsaď svůj osud, společný měšec budem všichni mít!"</verse>
+        <verse osisID='Prov.1.15'>Na cestu s nimi nepouštěj se, synu, nevydávej se v jejich šlépějích -</verse>
+        <verse osisID='Prov.1.16'>jejich nohy běží k neštěstí, k prolití krve spěchají!</verse>
+        <verse osisID='Prov.1.17'>Líčit síť před očima ptáků je jistě zcela zbytečné.</verse>
+        <verse osisID='Prov.1.18'>Tihle však na sebe smrtelnou léčku strojí, na vlastní duši číhají.</verse>
+        <verse osisID='Prov.1.19'>Tak skončí každý, kdo hledá mrzký zisk - o vlastní duši ho to připraví.</verse>
+        <verse osisID='Prov.1.20'>Moudrost venku na ulicích volá, na náměstích svůj hlas pozvedá,</verse>
+        <verse osisID='Prov.1.21'>na rušných nárožích hlasitě vykřikuje, v průchodu městské brány proslov má:</verse>
+        <verse osisID='Prov.1.22'>"Kdy omezenců láska k malosti už skončí, kdy drzounů záliba v drzosti, kdy tupců nenávist ke všemu vědění?</verse>
+        <verse osisID='Prov.1.23'>Obraťte se, když vás napomínám, hle, svého ducha na vás vylít chci, právě vám chci svá slova oznámit!</verse>
+        <verse osisID='Prov.1.24'>Dosud jsem volala, však nechtěli jste slyšet, ruku jsem nabízela, nikdo však nevnímal,</verse>
+        <verse osisID='Prov.1.25'>všechny mé rady zavrhli jste, mými domluvami se nikdo neřídil.</verse>
+        <verse osisID='Prov.1.26'>Vašemu neštěstí já nyní zasměji se i hrůze, jež vás přepadne. Bavit se budu,</verse>
+        <verse osisID='Prov.1.27'>až jako bouře zachvátí vás hrůza, až jako vichr udeří vaše neštěstí, až soužením a tísní budete sevřeni.</verse>
+        <verse osisID='Prov.1.28'>Až mě pak volat budou, neozvu se, budou mě shánět, avšak nenajdou.</verse>
+        <verse osisID='Prov.1.29'>Protože nenáviděli poznání, úctu k Hospodinu si zvolit nechtěli,</verse>
+        <verse osisID='Prov.1.30'>mými radami se nikdy neřídili, mojí domluvou vždy jen pohrdli,</verse>
+        <verse osisID='Prov.1.31'>proto ať snědí, co si navařili, vlastními plány ať se nasytí!</verse>
+        <verse osisID='Prov.1.32'>Omezenci zajdou na vlastní umíněnost, spokojenost tupců je jejich záhuba.</verse>
+        <verse osisID='Prov.1.33'>Kdo mě však poslouchá, ten pohodlně žije v bezpečí před hrozbou všeho zla."</verse>
+      </chapter>
+      <chapter osisID='Prov.2'>
+        <verse osisID='Prov.2.1'>Přijmi prosím má slova, synu, moje příkazy jak poklad opatruj,</verse>
+        <verse osisID='Prov.2.2'>své ucho k moudrosti nakloň, srdce otevři pro rozumnost!</verse>
+        <verse osisID='Prov.2.3'>Ano, po rozumnosti volej, přivolej k sobě rozvahu.</verse>
+        <verse osisID='Prov.2.4'>Když ji jak stříbro vyhledávat budeš, pátrat po ní jak po pokladech,</verse>
+        <verse osisID='Prov.2.5'>úctě k Hospodinu tehdy porozumíš, k poznání Boha dospěješ.</verse>
+        <verse osisID='Prov.2.6'>Jen Hospodin přece dává moudrost, poznání a rozumnost pramení z jeho úst.</verse>
+        <verse osisID='Prov.2.7'>Zdravý úsudek on pro upřímné chová, štítem je pro ty, kdo žijí poctivě.</verse>
+        <verse osisID='Prov.2.8'>Drží stráž nad stezkami práva, ochraňuje cestu spravedlivých svých.</verse>
+        <verse osisID='Prov.2.9'>Spravedlnosti a právu tenkrát porozumíš, i poctivosti - všem stezkám ke štěstí.</verse>
+        <verse osisID='Prov.2.10'>Moudrost když do srdce ti vejde, vědění když tvou duši potěší,</verse>
+        <verse osisID='Prov.2.11'>prozíravost tě bude chránit, rozumnost nad tebou bude bdít.</verse>
+        <verse osisID='Prov.2.12'>Před špatnou cestou tě moudrost ochrání, před každým, kdo mluví zvráceně,</verse>
+        <verse osisID='Prov.2.13'>před těmi, kdo se přímým stezkám vyhnou, kdo kráčejí po cestách temnoty.</verse>
+        <verse osisID='Prov.2.14'>Před těmi, kdo s radostí zla se dopouštějí, kdo si v krutých zvrácenostech libují,</verse>
+        <verse osisID='Prov.2.15'>jejichž stezky jsou různě pokroucené a jejichž kroky z cesty scházejí.</verse>
+        <verse osisID='Prov.2.16'>Před cizí ženou moudrost zachrání tě, před vábivými slovy svůdkyně,</verse>
+        <verse osisID='Prov.2.17'>jež druha svého mládí opustila, na smlouvu se svým Bohem nedbajíc.</verse>
+        <verse osisID='Prov.2.18'>Její dům se chýlí k jisté smrti, její krok míří do podsvětí.</verse>
+        <verse osisID='Prov.2.19'>Kdo vejde k ní, už nevyjde více, na stezky života se nikdy nevrátí.</verse>
+        <verse osisID='Prov.2.20'>Kéž by ses vydal cestou ušlechtilých, na stezkách spravedlivých kéž bys vytrval!</verse>
+        <verse osisID='Prov.2.21'>Poctiví přece budou obývat zemi a bezúhonní v ní zůstanou.</verse>
+        <verse osisID='Prov.2.22'>Ničemové však budou ze země vymýceni, proradní z ní budou vyrváni!</verse>
+      </chapter>
+      <chapter osisID='Prov.3'>
+        <verse osisID='Prov.3.1'>Nezapomeň, co jsem tě učil, synu, v srdci opatruj, co jsem ti přikázal;</verse>
+        <verse osisID='Prov.3.2'>dlouhé dny, léta života ti to přidá, zajistí ti to klid a mír.</verse>
+        <verse osisID='Prov.3.3'>Láska a věrnost ať tě neopouští, připoutej si je k hrdlu, vyryj do srdce!</verse>
+        <verse osisID='Prov.3.4'>Přízně a uznání tehdy dojdeš před zrakem lidí i před Bohem.</verse>
+        <verse osisID='Prov.3.5'>Celým svým srdcem důvěřuj Hospodinu, nespoléhej se na vlastní rozumnost.</verse>
+        <verse osisID='Prov.3.6'>Na každém kroku snaž se jej poznávat, on sám tvé stezky urovná.</verse>
+        <verse osisID='Prov.3.7'>Sám sebe neměj za moudrého, cti Hospodina a vyvaruj se zla!</verse>
+        <verse osisID='Prov.3.8'>To přinese tvému tělu zdraví, celé tvé nitro to občerství.</verse>
+        <verse osisID='Prov.3.9'>Uctívej Hospodina vším, co ti patří, tím nejlepším ze vší své úrody.</verse>
+        <verse osisID='Prov.3.10'>Tvé stodoly pak budou plné zrní, tvé sudy budou vínem přetékat.</verse>
+        <verse osisID='Prov.3.11'>Hospodinovo poučení, synu, neodmítej, když tě napravuje, nezoufej;</verse>
+        <verse osisID='Prov.3.12'>Hospodin kárá, koho miluje, jak otec syna, jehož má v oblibě.</verse>
+        <verse osisID='Prov.3.13'>Blaze člověku, jenž nalezl moudrost, blaze člověku, jenž získal rozvahu!</verse>
+        <verse osisID='Prov.3.14'>Přináší lepší zisk než stříbro, její výnosy jsou nad zlato.</verse>
+        <verse osisID='Prov.3.15'>Její cena je nad perly vyšší, nic, v čem si libuješ, se jí nerovná.</verse>
+        <verse osisID='Prov.3.16'>Dlouhověkost ve své pravici třímá, bohatství a slávu drží v levici.</verse>
+        <verse osisID='Prov.3.17'>Její cesty jsou plné potěšení, její kroky vždy vedou k pokoji.</verse>
+        <verse osisID='Prov.3.18'>Stromem života je těm, kdo se jí drží, blaze je těm, kteří ji uchopí!</verse>
+        <verse osisID='Prov.3.19'>Moudrostí založil Hospodin zemi, prozřetelností nebe upevnil.</verse>
+        <verse osisID='Prov.3.20'>Jeho věděním tryskají z hlubin proudy, oblaka rosu skýtají.</verse>
+        <verse osisID='Prov.3.21'>Soudnost a prozíravost ať nesejdou ti z očí, jak vzácný poklad je, synu, opatruj.</verse>
+        <verse osisID='Prov.3.22'>To ony darují tvé duši život, právě ony tvé hrdlo okrášlí.</verse>
+        <verse osisID='Prov.3.23'>Bezpečně pak půjdeš svojí cestou, tvé nohy nebudou klopýtat.</verse>
+        <verse osisID='Prov.3.24'>Až půjdeš spát, nic nebude tě strašit, až usneš, tvůj sen bude příjemný.</verse>
+        <verse osisID='Prov.3.25'>Nebudeš se bát náhlého děsu ani zkázy, jež čeká ničemy.</verse>
+        <verse osisID='Prov.3.26'>Hospodin bude stát po tvém boku, on sám tvé nohy před pastí ochrání!</verse>
+        <verse osisID='Prov.3.27'>Neodpírej dobrodiní těm, kdo je potřebují, když je v tvé moci něco učinit.</verse>
+        <verse osisID='Prov.3.28'>Neříkej bližnímu: "Přijď jindy," když právě teď mu můžeš pomoci.</verse>
+        <verse osisID='Prov.3.29'>Nechystej proti bližnímu nic zlého, když k tobě chová důvěru.</verse>
+        <verse osisID='Prov.3.30'>Nežaluj nikoho pro nic za nic, když ti neprovedl žádné zlo.</verse>
+        <verse osisID='Prov.3.31'>Nezáviď člověku, jenž páchá násilí, nesdílej žádnou z jeho cest.</verse>
+        <verse osisID='Prov.3.32'>Hospodinu se hnusí každý zvrhlík, s upřímnými však sdílí svá tajemství.</verse>
+        <verse osisID='Prov.3.33'>Hospodinovo prokletí stíhá dům darebáka, obydlí spravedlivých ale požehná.</verse>
+        <verse osisID='Prov.3.34'>Pro posměvače má Hospodin posměch, pokorným ale přízeň věnuje.</verse>
+        <verse osisID='Prov.3.35'>Moudrým připadne za dědictví sláva, tupce však čeká potupa.</verse>
+      </chapter>
+      <chapter osisID='Prov.4'>
+        <verse osisID='Prov.4.1'>Slyšte, synové, otcovské poučení, dávejte pozor a rozum získáte.</verse>
+        <verse osisID='Prov.4.2'>Skvělé poznání vám totiž nabízím; neopouštějte mé učení.</verse>
+        <verse osisID='Prov.4.3'>Sám jsem byl synem u svého otce, maličkým jedináčkem u matky své.</verse>
+        <verse osisID='Prov.4.4'>Když učíval mne otec, říkal: "Moje slova si vezmi k srdci, dbej na mé příkazy a budeš žít.</verse>
+        <verse osisID='Prov.4.5'>Získej moudrost, rozumnost získej, má slova nezapomeň, nezkomol.</verse>
+        <verse osisID='Prov.4.6'>Neopouštěj moudrost - bude tě chránit, miluj ji - bude o tebe pečovat.</verse>
+        <verse osisID='Prov.4.7'>Moudrost především! Získávej moudrost, za všechno své jmění získej rozumnost.</verse>
+        <verse osisID='Prov.4.8'>Važ si jí a ona vyvýší tě, poctí tě, když ji k sobě přivineš.</verse>
+        <verse osisID='Prov.4.9'>Svým půvabem ověnčí tvoji hlavu, korunuje tě krásou svou!"</verse>
+        <verse osisID='Prov.4.10'>Slyš, synu můj, mé výroky přijmi, léta života se ti prodlouží.</verse>
+        <verse osisID='Prov.4.11'>Cestě moudrosti chci tě učit, po přímých stezkách tě chci vést.</verse>
+        <verse osisID='Prov.4.12'>Půjdeš-li, tvůj krok nic nezastaví, jestliže poběžíš, nic tě nesrazí.</verse>
+        <verse osisID='Prov.4.13'>Poučení se chop a nepovoluj, opatruj je, vždyť je tvým životem!</verse>
+        <verse osisID='Prov.4.14'>Stezku darebáků se neodvažuj zkoušet, cestou zlosynů nikdy nekráčej.</verse>
+        <verse osisID='Prov.4.15'>Varuj se jí a nechoď po ní, odvrať se od ní a jdi pryč!</verse>
+        <verse osisID='Prov.4.16'>Neusnou, dokud někomu neublíží, nemohou spát, než někoho podrazí.</verse>
+        <verse osisID='Prov.4.17'>Takoví se chlebem darebáctví živí, opájejí se vínem násilí!</verse>
+        <verse osisID='Prov.4.18'>Stezka spravedlivých jak paprsek světla víc a víc září, až se rozední.</verse>
+        <verse osisID='Prov.4.19'>Cesta darebáků však tone ve tmách, o co klopýtnou, nikdy netuší.</verse>
+        <verse osisID='Prov.4.20'>Na má slova dej pozor, synu, k mým výrokům své ucho nakláněj,</verse>
+        <verse osisID='Prov.4.21'>nikdy z nich nespouštěj své oči, hluboko v srdci si je uchovej.</verse>
+        <verse osisID='Prov.4.22'>Životem jsou těm, kdo je nacházejí, celému jejich tělu zdraví dávají:</verse>
+        <verse osisID='Prov.4.23'>Především dobře chraň své srdce - právě z něj všechen život vychází.</verse>
+        <verse osisID='Prov.4.24'>Zbav se vší převrácené řeči, ústa, jež mluví zle, zapuď od sebe.</verse>
+        <verse osisID='Prov.4.25'>Tvé oči ať vždycky hledí přímě, svým pohledem miř rovnou před sebe.</verse>
+        <verse osisID='Prov.4.26'>Zvaž, kudy povedou tvé kroky, všechny tvé cesty pak budou bezpečné.</verse>
+        <verse osisID='Prov.4.27'>Neuchyluj se vpravo ani vlevo, své kroky vzdal od všeho zla!</verse>
+      </chapter>
+      <chapter osisID='Prov.5'>
+        <verse osisID='Prov.5.1'>Mé moudrosti dopřej pozornost, synu, nakloň své ucho k mým úsudkům;</verse>
+        <verse osisID='Prov.5.2'>tak, abys prozíravost opatroval, tvé rty aby byly strážci vědění:</verse>
+        <verse osisID='Prov.5.3'>Rty svůdkyně sice oplývají medem, její ústa jsou jemná nad olej,</verse>
+        <verse osisID='Prov.5.4'>pak ale zhořkne jako pelyněk, jak dvojsečný meč se zabodne.</verse>
+        <verse osisID='Prov.5.5'>Její nohy míří k hlubinám smrti, její kroky vedou do pekel.</verse>
+        <verse osisID='Prov.5.6'>O stezku života se nijak nezajímá, vrtkavým krokem jde, aniž tuší kam.</verse>
+        <verse osisID='Prov.5.7'>Proto mne poslyšte, synové moji, neuhýbejte od mých výroků!</verse>
+        <verse osisID='Prov.5.8'>Daleko od ní ať vede tvá cesta, k jejímu vchodu chraň se přiblížit!</verse>
+        <verse osisID='Prov.5.9'>Svou důstojnost jinak necháš druhým, svá léta ukrutníku odevzdáš.</verse>
+        <verse osisID='Prov.5.10'>Z tvého úsilí budou žít jiní, tvá dřina skončí v domě cizího.</verse>
+        <verse osisID='Prov.5.11'>Nakonec bolestí řvát budeš, tvůj život, tvé tělo až bude zmařeno:</verse>
+        <verse osisID='Prov.5.12'>"Proč jen jsem nenáviděl poučení, proč domlouváním pohrdlo srdce mé!</verse>
+        <verse osisID='Prov.5.13'>Proč jsem neposlouchal svoje učitele, proč jsem vychovatelům sluchu nedopřál!</verse>
+        <verse osisID='Prov.5.14'>Jak rychle jsem se octl v nejhorší bídě na očích všem, uprostřed obce své!"</verse>
+        <verse osisID='Prov.5.15'>Pij vodu z vlastní nádrže, vodu prýštící ze tvé studnice.</verse>
+        <verse osisID='Prov.5.16'>Mají tvé prameny téci na ulice? Mají se náměstím řinout řeky tvé?</verse>
+        <verse osisID='Prov.5.17'>Tobě ať patří, jen tobě jedinému, nikomu cizímu je neponech.</verse>
+        <verse osisID='Prov.5.18'>Požehnané ať je tvé zřídlo, v manželce svého mládí potěšení měj!</verse>
+        <verse osisID='Prov.5.19'>Ta milostná laň, ta přelíbezná srna! Jejími ňadry se stále opájej, v jejím milování se věčně utápěj!</verse>
+        <verse osisID='Prov.5.20'>Proč by ses, synu, utápěl v cizí ženě, proč bys měl spočívat v náručí svůdkyně?</verse>
+        <verse osisID='Prov.5.21'>Hospodin vidí všechny lidské cesty, každý jejich krok pozorně sleduje.</verse>
+        <verse osisID='Prov.5.22'>Darebáka lapí jeho nepravosti, v provazech vlastního hříchu uvázne.</verse>
+        <verse osisID='Prov.5.23'>Nedal se poučit, a tak zemře, v množství své bláhovosti ztratí se!</verse>
+      </chapter>
+      <chapter osisID='Prov.6'>
+        <verse osisID='Prov.6.1'>Synu, pokud za někoho ručíš, cizímu člověku jsi svou ruku dal,</verse>
+        <verse osisID='Prov.6.2'>vlastními slovy jsi nyní svázán, lapen jsi tím, co jsi prohlásil!</verse>
+        <verse osisID='Prov.6.3'>Nyní se musíš vyprostit, můj synu - ten někdo tě totiž v hrsti má - jdi za ním, poniž se a dotírej!</verse>
+        <verse osisID='Prov.6.4'>Nedopřej svým očím žádný spánek, tvá víčka ať ani neokusí sen.</verse>
+        <verse osisID='Prov.6.5'>Unikni mu jako srnec lovci, vyvázni jako ptáče ze sítě!</verse>
+        <verse osisID='Prov.6.6'>Jdi za mravencem, pecivále, pozoruj ho a zmoudříš hned!</verse>
+        <verse osisID='Prov.6.7'>Žádného vůdce mravenec nemá, dozorce ani vládce jemu netřeba;</verse>
+        <verse osisID='Prov.6.8'>v létě si ale potraviny chystá, o žních zásoby pilně ukládá.</verse>
+        <verse osisID='Prov.6.9'>Jak dlouho, lenochu, budeš polehávat, kdy už se konečně ze snu probudíš?</verse>
+        <verse osisID='Prov.6.10'>Chvilku si pospíš, chvilku zdřímneš, na chvilku složíš ruce a spočineš?</verse>
+        <verse osisID='Prov.6.11'>Vtom jako tulák bída navštíví tě, jako loupežník tě nouze přepadne!</verse>
+        <verse osisID='Prov.6.12'>Ničemný člověk, hanebník jinak než křivě nemluví.</verse>
+        <verse osisID='Prov.6.13'>Očima pomrkává, mele nohama, prsty ukazuje sem a tam.</verse>
+        <verse osisID='Prov.6.14'>Ve falešném srdci zlé věci chystá, neustále sváry rozsévá.</verse>
+        <verse osisID='Prov.6.15'>Proto, až neštěstí jej náhle potká, v mžiku jej rozdrtí, nebude pomoci.</verse>
+        <verse osisID='Prov.6.16'>Těchto šest věcí Hospodin nenávidí a sedmou má za ryzí ohavnost:</verse>
+        <verse osisID='Prov.6.17'>povýšené oči, prolhaný jazyk, ruce mordující nevinné,</verse>
+        <verse osisID='Prov.6.18'>srdce, jež chystá hanebné plány, nohy pospíchající páchat zlo,</verse>
+        <verse osisID='Prov.6.19'>křivopřísežníka, který klam šíří, a rozsévače svárů mezi bratřími.</verse>
+        <verse osisID='Prov.6.20'>Opatruj, synu, otcova přikázání, od matčiných pokynů se nevzdaluj.</verse>
+        <verse osisID='Prov.6.21'>Navěky připoutej si je k srdci, okolo hrdla si je přivěšuj.</verse>
+        <verse osisID='Prov.6.22'>Kamkoli půjdeš, moudrost tě doprovodí, kdykoli ulehneš, bude nad tebou bdít, jakmile procitneš, s tebou promluví.</verse>
+        <verse osisID='Prov.6.23'>Přikázání je svíce a učení světlo, poučné domluvy jsou cesta k životu.</verse>
+        <verse osisID='Prov.6.24'>Před špatnou ženou tě budou chránit, před lichotným jazykem svůdkyně.</verse>
+        <verse osisID='Prov.6.25'>Neprahni v srdci po její kráse, jejími řasami se nenech polapit.</verse>
+        <verse osisID='Prov.6.26'>Za nevěstku se platí i bochníkem chleba, cizoložnice však vzácnou duši uloví!</verse>
+        <verse osisID='Prov.6.27'>Může muž ukrýt oheň v klíně, aniž by propálil si šat?</verse>
+        <verse osisID='Prov.6.28'>Může snad chodit po žhavém uhlí, aniž si spálí chodidla?</verse>
+        <verse osisID='Prov.6.29'>Stejně tak ten, kdo s ženou bližního spí - kdo se jí dotkne, trestu neujde!</verse>
+        <verse osisID='Prov.6.30'>Zloděj nebývá haněn, když krade, aby nasytil svůj neodbytný hlad.</verse>
+        <verse osisID='Prov.6.31'>Sedmkrát více vrací, pokud je chycen, všechno své jmění musí odevzdat.</verse>
+        <verse osisID='Prov.6.32'>Jenom šílenec ale cizoloží, kdo činí to, je sebevrah!</verse>
+        <verse osisID='Prov.6.33'>Bití a ostuda na něj čeká, pohanu svou už nikdy nesmaže.</verse>
+        <verse osisID='Prov.6.34'>Žárlivost rozzuří manžela té ženy, nelítostný bude v den pomsty své;</verse>
+        <verse osisID='Prov.6.35'>nevezme ohled na žádné odškodnění, sebevětší úplatek jím nepohne!</verse>
+      </chapter>
+      <chapter osisID='Prov.7'>
+        <verse osisID='Prov.7.1'>Dbej na mé výroky, můj synu, příkazy mé jak poklad opatruj.</verse>
+        <verse osisID='Prov.7.2'>Dbej na mé příkazy a najdeš život, učení mé jak oko v hlavě chraň.</verse>
+        <verse osisID='Prov.7.3'>Připoutej si je k prstům, vyryj do srdce.</verse>
+        <verse osisID='Prov.7.4'>Moudrosti řekni: "Buď mi sestrou!" rozumnost nazvi svou příbuznou.</verse>
+        <verse osisID='Prov.7.5'>Bude tě chránit před cizí ženou, před svůdnicí a její řečí vábivou.</verse>
+        <verse osisID='Prov.7.6'>Jednou jsem z okna svého domu skrze mřížoví ven vyhlížel.</verse>
+        <verse osisID='Prov.7.7'>Mezi prosťáčky, mládeží nezkušenou, spatřil jsem mladíka, co zřejmě zešílel.</verse>
+        <verse osisID='Prov.7.8'>Když prošel ulicí kolem jejího rohu, k jejímu domu náhle vykročil.</verse>
+        <verse osisID='Prov.7.9'>Bylo to večer, po setmění, když přišla noc a padla tma.</verse>
+        <verse osisID='Prov.7.10'>Vtom náhle žena v ústrety mu míří v nevěstčím hávu, v srdci protřelost.</verse>
+        <verse osisID='Prov.7.11'>Jak jen je bujná a jak rozpustilá, její nohy doma stání nemají.</verse>
+        <verse osisID='Prov.7.12'>Hned je na ulici, hned zas na náměstí, za každým rohem číhá na oběť.</verse>
+        <verse osisID='Prov.7.13'>Už se ho zmocnila a už ho líbá, bez uzardění už mu povídá:</verse>
+        <verse osisID='Prov.7.14'>"Pořádám hostinu z čerstvého masa, dnes jsem obětovala, co jsem slíbila.</verse>
+        <verse osisID='Prov.7.15'>To proto jsem ti naproti vyšla, sháněla jsem tě, a už tě mám.</verse>
+        <verse osisID='Prov.7.16'>Pokrývkami jsem lože obložila, pestrými přehozy z vláken egyptských.</verse>
+        <verse osisID='Prov.7.17'>Svoji ložnici jsem myrhou provoněla, aloe je tam, skořice nechybí.</verse>
+        <verse osisID='Prov.7.18'>Pojď, opijeme se milováním, do rána kochejme se laskáním!</verse>
+        <verse osisID='Prov.7.19'>Mužský dnes totiž není doma, na cestu odjel někam daleko;</verse>
+        <verse osisID='Prov.7.20'>měšec s penězi odvezl s sebou, do konce měsíce se nevrátí!"</verse>
+        <verse osisID='Prov.7.21'>Proudem těch slov jej nakonec svedla, úlisnými rty jej zlákala.</verse>
+        <verse osisID='Prov.7.22'>Jako vůl na porážku šel hned za ní, jak jelen, když se vrhá do pasti,</verse>
+        <verse osisID='Prov.7.23'>než padne skolen střelou do slabin. Jak ptáče do osidla vletěl, netušil, že mu jde o život!</verse>
+        <verse osisID='Prov.7.24'>Proto, synové, poslyšte mne, dávejte pozor na mé výroky.</verse>
+        <verse osisID='Prov.7.25'>Na její cesty ať nevkročí tvé srdce; po jejích stezkách se nikdy netoulej.</verse>
+        <verse osisID='Prov.7.26'>Tak mnozí podlehli jejím ranám, všech jejích obětí je bezpočet!</verse>
+        <verse osisID='Prov.7.27'>Cesta do pekel vede jejím domem, do síní smrti se prudce svažuje!</verse>
+      </chapter>
+      <chapter osisID='Prov.8'>
+        <verse osisID='Prov.8.1'>Což moudrost nevolá, nezvedá rozumnost svůj hlas?</verse>
+        <verse osisID='Prov.8.2'>Na vrcholech kopců, u cesty, u křižovatek postává.</verse>
+        <verse osisID='Prov.8.3'>Přímo před branami, u vstupu do města, v průchodu stojí a křičí tam:</verse>
+        <verse osisID='Prov.8.4'>"Na vás, ó lidé, volám, svůj hlas ke všemu lidstvu obracím.</verse>
+        <verse osisID='Prov.8.5'>Pochopte, prosťáčci, prozíravost, dospějte, tupci, k rozumu!</verse>
+        <verse osisID='Prov.8.6'>Slyšte, řeknu vám něco zásadního, co vyjde z mých rtů, slova ryzí jsou.</verse>
+        <verse osisID='Prov.8.7'>Má ústa mluví pouze pravdu, mým rtům se darebáctví oškliví.</verse>
+        <verse osisID='Prov.8.8'>Všechny mé výroky jsou spravedlivé, křivého, zvráceného v nich není nic.</verse>
+        <verse osisID='Prov.8.9'>Chápavému jsou všechny zřejmé, jasné jsou těm, kdo došli poznání.</verse>
+        <verse osisID='Prov.8.10'>Mé poučení berte raději než stříbro, mého vědění si važte nad zlato.</verse>
+        <verse osisID='Prov.8.11'>Daleko nad perly je moudrost nádherná, nic žádoucího se jí vůbec nerovná!</verse>
+        <verse osisID='Prov.8.12'>Já, Moudrost, spolu s rozvážností bydlím, s prozíravostí já se dobře znám.</verse>
+        <verse osisID='Prov.8.13'>Úcta k Hospodinu je nenávist ke zlu. Pýchu a povýšenost, zlé způsoby a pokrytecká ústa nesnáším.</verse>
+        <verse osisID='Prov.8.14'>U mne je rozvaha a jistý úspěch, já jsem rozumnost a sílu mám!</verse>
+        <verse osisID='Prov.8.15'>S mojí pomocí vládnou vladaři a panovníci právo určují.</verse>
+        <verse osisID='Prov.8.16'>S mojí pomocí vedou vůdci, velmoži a všichni, kdo rozhodují na zemi.</verse>
+        <verse osisID='Prov.8.17'>Já miluji ty, kdo milují mne, ti, kdo mě hledají, mě jistě naleznou.</verse>
+        <verse osisID='Prov.8.18'>Bohatství a sláva se nachází u mě, trvalé jmění a pravý blahobyt.</verse>
+        <verse osisID='Prov.8.19'>Mé plody jsou nad zlato nejryzejší, výnosy mé nad stříbro nejčistší.</verse>
+        <verse osisID='Prov.8.20'>Stezkou spravedlnosti kráčím, pěšinami práva se ubírám,</verse>
+        <verse osisID='Prov.8.21'>abych své milovníky obdařila jměním, jejich pokladnice abych plnila!</verse>
+        <verse osisID='Prov.8.22'>Na počátku své cesty mne Hospodin zplodil, před všemi svými činy, před časem.</verse>
+        <verse osisID='Prov.8.23'>Od věků jsem byla ustavena, od počátku, dříve než začal svět.</verse>
+        <verse osisID='Prov.8.24'>Než vznikly propasti, zrodila jsem se, než vodou naplněny byly prameny.</verse>
+        <verse osisID='Prov.8.25'>Předtím než byly hory zapuštěny, dříve než pahorky jsem se zrodila,</verse>
+        <verse osisID='Prov.8.26'>ještě než učinil zemi a vše kolem, dříve než světa první prach.</verse>
+        <verse osisID='Prov.8.27'>Byla jsem při tom, když nebesa chystal, když nad propastí obzor vyměřil,</verse>
+        <verse osisID='Prov.8.28'>oblaka když ve výšinách věšel, propastné prameny když vytryskly.</verse>
+        <verse osisID='Prov.8.29'>Byla jsem tam, když oceán spoutal, na jeho rozkaz vody poslechly! Základy země když vyměřoval,</verse>
+        <verse osisID='Prov.8.30'>po jeho boku věrně stála jsem. Zůstávám jeho rozkoší den za dnem, svým hrám se před ním stále oddávám.</verse>
+        <verse osisID='Prov.8.31'>Na jeho zemi, na světě si hraji, lidští synové jsou mou rozkoší!</verse>
+        <verse osisID='Prov.8.32'>Proto, synové, poslyšte mne: Blaze těm, kdo drží se mých cest!</verse>
+        <verse osisID='Prov.8.33'>Slyšte poučení a naberte moudrost, nebuďte ke mně lhostejní.</verse>
+        <verse osisID='Prov.8.34'>Blaze tomu, kdo naslouchá mi, tomu, kdo v mých branách denně bdí, tomu, kdo čeká u mých veřejí!</verse>
+        <verse osisID='Prov.8.35'>Kdo mě nalezl, nalezl život, Hospodinovou přízní se nechal zahrnout.</verse>
+        <verse osisID='Prov.8.36'>Kdo však mě míjí, škodí své vlastní duši, kdo mě nenávidí, je smrti milencem."</verse>
+      </chapter>
+      <chapter osisID='Prov.9'>
+        <verse osisID='Prov.9.1'>Moudrost si vystavěla dům, sedm tesaných sloupů vztyčila.</verse>
+        <verse osisID='Prov.9.2'>Dobytče porazila, víno nalila, už také prostřela svůj stůl.</verse>
+        <verse osisID='Prov.9.3'>Děvečky vyslala a volá na městských výšinách:</verse>
+        <verse osisID='Prov.9.4'>"Kdo je zmatený, ať přijde ke mně!" Ty, kterým chybí rozum, vyzývá:</verse>
+        <verse osisID='Prov.9.5'>"Pojďte a jezte na mých hodech, popijte víno, jež jsem nalila.</verse>
+        <verse osisID='Prov.9.6'>Opusťte hloupost a konečně žijte, cestou rozumnosti se vydejte!"</verse>
+        <verse osisID='Prov.9.7'>Kdo poučuje drzouna, říká si o urážku, kdo kárá darebáka, přijde k úrazu.</verse>
+        <verse osisID='Prov.9.8'>Nekárej drzouna - jen by tě nenáviděl; pokárej moudrého - bude tě milovat.</verse>
+        <verse osisID='Prov.9.9'>Poděl se s moudrým a ještě zmoudří, pouč spravedlivého a bude znalejší.</verse>
+        <verse osisID='Prov.9.10'>Klíčem k moudrosti je úcta k Hospodinu, v poznání Svatého je rozumnost.</verse>
+        <verse osisID='Prov.9.11'>Takto se tvé dny rozmnoží, léta života ti přibudou.</verse>
+        <verse osisID='Prov.9.12'>Jsi-li moudrý, moudrost vyplatí se ti, jsi-li drzoun, sám na to doplatíš.</verse>
+        <verse osisID='Prov.9.13'>Paní Tupost dělá veliký povyk, je hloupost sama, neví vůbec nic.</verse>
+        <verse osisID='Prov.9.14'>U dveří svého domu vysedává, na křesle na městských výšinách.</verse>
+        <verse osisID='Prov.9.15'>Pokřikuje na ty, kdo po cestě jdou, kdo po svých stezkách přímě kráčejí:</verse>
+        <verse osisID='Prov.9.16'>"Kdo je zmatený, ať přijde ke mně!" Všechny nerozumné vyzývá:</verse>
+        <verse osisID='Prov.9.17'>"Kradená voda je tak sladká, zakázaný pokrm tolik příjemný!"</verse>
+        <verse osisID='Prov.9.18'>Netuší hňup, že podsvětí jej čeká: v pekelné jámě jsou ti, jež pozvala!</verse>
+      </chapter>
+      <chapter osisID='Prov.10'>
+        <verse osisID='Prov.10.1'>Zde jsou přísloví Šalomounova: Moudrý syn dělá otci radost, tupec přivádí matku k zoufalství.</verse>
+        <verse osisID='Prov.10.2'>Nekalé poklady člověku neprospějí, poctivost zachraňuje před smrtí.</verse>
+        <verse osisID='Prov.10.3'>Hospodin nenechá poctivého lačnět, rozmary darebáků ale zavrhne.</verse>
+        <verse osisID='Prov.10.4'>Líné dlaně přivedou na mizinu, pilné ruce přinášejí bohatství.</verse>
+        <verse osisID='Prov.10.5'>Kdo v létě sklízí, je syn zdárný, kdo prospí žně, je syn k ostudě.</verse>
+        <verse osisID='Prov.10.6'>Na poctivého se snáší požehnání, v ústech darebáků se skrývá násilí.</verse>
+        <verse osisID='Prov.10.7'>Na poctivého se vzpomíná s požehnáním, jméno darebáků ale zavání.</verse>
+        <verse osisID='Prov.10.8'>Moudré srdce přijímá přikázání, žvanivý hlupák špatně dopadne.</verse>
+        <verse osisID='Prov.10.9'>Kdo žije poctivě, v bezpečí žít bude, kdo pokřivil svou cestu, bude odhalen.</verse>
+        <verse osisID='Prov.10.10'>Kdo mhouří oko, způsobí potíž, kdo otevřeně kárá, pokoj přinese.</verse>
+        <verse osisID='Prov.10.11'>Pramenem života jsou ústa spravedlivých, v ústech darebáků se skrývá násilí.</verse>
+        <verse osisID='Prov.10.12'>Nenávist vyvolává neshody, láska všechny viny zahalí.</verse>
+        <verse osisID='Prov.10.13'>Ve rtech rozvážného nalezneš moudrost, na záda nerozumného patří hůl.</verse>
+        <verse osisID='Prov.10.14'>Moudří své vědění dobře střeží, ústa hlupáka přitahují záhubu.</verse>
+        <verse osisID='Prov.10.15'>Majetek bohatého je jeho pevnou tvrzí, nouze chudých je jejich záhubou.</verse>
+        <verse osisID='Prov.10.16'>Výdělek poctivého prospívá životu, darebákův zisk vede ke hříchu.</verse>
+        <verse osisID='Prov.10.17'>Kdo se drží poučení, míří k životu, zabloudí ale, kdo nedbá na domluvu.</verse>
+        <verse osisID='Prov.10.18'>Kdo skrývá nenávist, je lhář, kdo šíří pomluvy, je hňup.</verse>
+        <verse osisID='Prov.10.19'>Záplava slov se bez hříchu neobejde, rozumný drží svůj jazyk na uzdě.</verse>
+        <verse osisID='Prov.10.20'>Jazyk spravedlivého je ryzí stříbro, srdce ničemů za nic nestojí.</verse>
+        <verse osisID='Prov.10.21'>Rty spravedlivého nasytí mnohé, hňupové zemřou na vlastní ztřeštěnost.</verse>
+        <verse osisID='Prov.10.22'>Hospodinovo požehnání obohacuje bez veškerého trápení.</verse>
+        <verse osisID='Prov.10.23'>Tupec má potěšení ve zvrhlosti, rozumný zase v moudrosti.</verse>
+        <verse osisID='Prov.10.24'>Obavy darebáků se uskuteční, touhy spravedlivých se naplní.</verse>
+        <verse osisID='Prov.10.25'>Když přejde vichr, je s darebákem konec, spravedliví však mají věčné základy.</verse>
+        <verse osisID='Prov.10.26'>Jak ocet v zubech, jako oči plné kouře, takový je lajdák pro nadřízené své.</verse>
+        <verse osisID='Prov.10.27'>Úcta k Hospodinu prodlužuje život, roky darebáků však budou zkráceny.</verse>
+        <verse osisID='Prov.10.28'>Doufání spravedlivých končí radostí, naděje darebáků se vniveč obrátí.</verse>
+        <verse osisID='Prov.10.29'>Hospodinova cesta je oporou poctivého, pro bídáky je ale záhubou.</verse>
+        <verse osisID='Prov.10.30'>Spravedlivý nebude navěky sražen, ničemové však na zemi věčně nebudou.</verse>
+        <verse osisID='Prov.10.31'>Ústa spravedlivého plodí moudrost, proradný jazyk bude vyříznut.</verse>
+        <verse osisID='Prov.10.32'>Rty spravedlivého znají, co se sluší, ústa darebáků však jen zvrácenost.</verse>
+      </chapter>
+      <chapter osisID='Prov.11'>
+        <verse osisID='Prov.11.1'>Falešné váhy se Hospodinu hnusí, poctivé závaží jej potěší.</verse>
+        <verse osisID='Prov.11.2'>Pýchu následuje ostuda, moudrost je tam, kde pokora.</verse>
+        <verse osisID='Prov.11.3'>Poctivé vodí jejich upřímnost, proradné zničí jejich falešnost.</verse>
+        <verse osisID='Prov.11.4'>V soudný den majetek nijak neprospěje, poctivost ale zachraňuje před smrtí.</verse>
+        <verse osisID='Prov.11.5'>Spravedlnost srovná cestu nevinnému, vlastní ničemnost srazí ničemu.</verse>
+        <verse osisID='Prov.11.6'>Spravedlnost zachrání poctivé, vlastní lačnost lapí proradné.</verse>
+        <verse osisID='Prov.11.7'>Když zemře ničema, hynou naděje v něj složené, spoléhání na jeho sílu se rozplyne.</verse>
+        <verse osisID='Prov.11.8'>Spravedlivý bude z trápení vysvobozen, na jeho místě se octne darebák.</verse>
+        <verse osisID='Prov.11.9'>Ústa bezbožných ubližují bližním, spravedlivé zachrání jejich vědění.</verse>
+        <verse osisID='Prov.11.10'>Když se spravedlivým daří, ve městě je radost, když hynou darebáci, koná se oslava.</verse>
+        <verse osisID='Prov.11.11'>Požehnáním poctivých se pozvedá město, ústy darebáků bývá bořeno.</verse>
+        <verse osisID='Prov.11.12'>Kdo nemá rozum, bližním opovrhuje, rozumný člověk raději pomlčí.</verse>
+        <verse osisID='Prov.11.13'>Mluvka roznáší tajemství, kudy chodí, zodpovědný člověk je umí zachovat.</verse>
+        <verse osisID='Prov.11.14'>Kde schází jasný směr, lid upadá, ve množství rádců je však záchrana.</verse>
+        <verse osisID='Prov.11.15'>Se zlou se potáže, kdo za cizího ručí, slibům se vyhýbat je vždycky jistější.</verse>
+        <verse osisID='Prov.11.16'>Půvabná žena dosáhne pocty, hrubiáni dosáhnou bohatství.</verse>
+        <verse osisID='Prov.11.17'>Laskavý člověk odmění i sám sebe, surovec ani sám sebe nešetří.</verse>
+        <verse osisID='Prov.11.18'>Pro klamný výdělek darebák dře se, kdo seje spravedlnost, má mzdu trvalou.</verse>
+        <verse osisID='Prov.11.19'>Spravedlnost jistě k životu vede, honba za špatností ale ke smrti.</verse>
+        <verse osisID='Prov.11.20'>Zvrhlé povahy se Hospodinu hnusí, kdo žijí bezúhonně, ti jej potěší.</verse>
+        <verse osisID='Prov.11.21'>Zlý zcela jistě neunikne trestu, símě spravedlivých však vyvázne.</verse>
+        <verse osisID='Prov.11.22'>Zlatá ozdoba na sviňském rypáku je krásná žena bez špetky rozumu.</verse>
+        <verse osisID='Prov.11.23'>Touhy spravedlivých vedou jen k dobru, z nadějí darebáků zbude vztek.</verse>
+        <verse osisID='Prov.11.24'>Někdo rozdává - a ještě bohatne, jiný škudlí až běda - k vlastní chudobě!</verse>
+        <verse osisID='Prov.11.25'>Štědrý člověk bude jen vzkvétat, kdo jiné svlažuje, sám bude zavlažen.</verse>
+        <verse osisID='Prov.11.26'>Kdo zadržuje obilí, toho lid zatracuje, požehnání se snáší na toho, kdo je prodává.</verse>
+        <verse osisID='Prov.11.27'>Kdo hledá dobro, nalezne přízeň, kdo čeká neštěstí, také dočká se.</verse>
+        <verse osisID='Prov.11.28'>Kdo doufá v bohatství, takový padne, spravedliví ale jak poupě pokvetou.</verse>
+        <verse osisID='Prov.11.29'>Kdo boří vlastní domov, ten zdědí vítr, hlupák bude sloužit moudrému.</verse>
+        <verse osisID='Prov.11.30'>Z ovoce spravedlivého je strom života, a kdo je moudrý, ten duše získává.</verse>
+        <verse osisID='Prov.11.31'>Dojdou-li spravedliví na zemi odplaty, čím spíše ničemové a hříšníci!</verse>
+      </chapter>
+      <chapter osisID='Prov.12'>
+        <verse osisID='Prov.12.1'>Milovník poznání miluje poučení, jen tupý mezek si nedá domluvit.</verse>
+        <verse osisID='Prov.12.2'>Dobrotivého zahrne Hospodin přízní, lstivého člověka však odsoudí.</verse>
+        <verse osisID='Prov.12.3'>Darebáctví nikomu jistotu neposkytne, kořen spravedlivých však nikdo nevyrve.</verse>
+        <verse osisID='Prov.12.4'>Znamenitá žena je korunou svého muže, hanebná je ale jako kostižer.</verse>
+        <verse osisID='Prov.12.5'>Úmysly poctivých jsou spravedlivé, rady darebáků však zákeřné.</verse>
+        <verse osisID='Prov.12.6'>Slova darebáků jsou smrtelná léčka, poctivé vysvobodí jejich řeč.</verse>
+        <verse osisID='Prov.12.7'>Když darebáci padnou, je s nimi konec, dům spravedlivých ale obstojí.</verse>
+        <verse osisID='Prov.12.8'>Čím je kdo rozumnější, tím více bývá ceněn, muž křivé povahy však bude pohrdnut.</verse>
+        <verse osisID='Prov.12.9'>Lépe být přehlížen, ale mít služebníka, než tvářit se důležitě a nemít na chleba.</verse>
+        <verse osisID='Prov.12.10'>Spravedlivý cítí i s dobytčetem, srdce darebáků je ale bezcitné.</verse>
+        <verse osisID='Prov.12.11'>Kdo obdělává pole, nasytí se chlebem, kdo ztratil rozum, honí vidiny.</verse>
+        <verse osisID='Prov.12.12'>Darebák závidí kořist zlosynovi, kořeny spravedlivých však plody přináší.</verse>
+        <verse osisID='Prov.12.13'>Hříšné rty jsou zlosynovi pastí, spravedlivý však ujde trápení.</verse>
+        <verse osisID='Prov.12.14'>Ovoce svých úst každý hojně sklidí, vlastní skutek se k člověku navrátí.</verse>
+        <verse osisID='Prov.12.15'>Hlupák je přesvědčen, že jde správně, kdo je však moudrý, dá si poradit.</verse>
+        <verse osisID='Prov.12.16'>Hlupákův hněv se projeví ihned, rozvážný člověk snese urážky.</verse>
+        <verse osisID='Prov.12.17'>Pravdomluvný člověk svědčí o pravdě, křivopřísežník podvádí.</verse>
+        <verse osisID='Prov.12.18'>Unáhlené řeči bodají jako meče, jazyk moudrých je ale jako lék.</verse>
+        <verse osisID='Prov.12.19'>Pravdomluvné rty obstojí navždy, prolhaný jazyk jen krátký okamžik.</verse>
+        <verse osisID='Prov.12.20'>Zlomyslní mají v srdci jen faleš, mírumilovní žijí v radosti.</verse>
+        <verse osisID='Prov.12.21'>Spravedlivým nic neublíží, darebáky stíhá samé neštěstí.</verse>
+        <verse osisID='Prov.12.22'>Prolhané rty se Hospodinu hnusí, kdo žijí v pravdě, ti jej potěší.</verse>
+        <verse osisID='Prov.12.23'>Rozvážný člověk umí své vědění tajit, hňup ale z plna hrdla křičí nesmysly.</verse>
+        <verse osisID='Prov.12.24'>Pracovitým rukám bude svěřena vláda, zahálčivost však vede k porobě.</verse>
+        <verse osisID='Prov.12.25'>Starosti člověka tíží v srdci, laskavé slovo ale radost navrátí.</verse>
+        <verse osisID='Prov.12.26'>Spravedlivý najde i pro bližního cestu, cesta darebáků ale končí blouděním.</verse>
+        <verse osisID='Prov.12.27'>Lenoch si žádný úlovek neupeče, píle je pro člověka cenný majetek.</verse>
+        <verse osisID='Prov.12.28'>Život je na stezce spravedlnosti, vyšlapaná cesta vede ke smrti.</verse>
+      </chapter>
+      <chapter osisID='Prov.13'>
+        <verse osisID='Prov.13.1'>Moudrý syn přijímá otcovo poučení, drzoun však neslyší ani na hrozby.</verse>
+        <verse osisID='Prov.13.2'>Ovocem svých úst se každý hojně nají a duši proradných nasytí násilí.</verse>
+        <verse osisID='Prov.13.3'>Kdo hlídá svoje ústa, svou duši opatruje, na povídavé rty přijde záhuba.</verse>
+        <verse osisID='Prov.13.4'>Dychtí, ale nic nemá duše pecivála, pracovitý člověk však jenom pokvete.</verse>
+        <verse osisID='Prov.13.5'>Spravedlivý nesnese prolhané řeči, darebák nestydatě šíří puch.</verse>
+        <verse osisID='Prov.13.6'>Spravedlnost chrání poctivého, hříšníka ničí ničemnost.</verse>
+        <verse osisID='Prov.13.7'>Někdo nemá nic, a chová se bohatě, jiný má spoustu peněz, a dělá chuďase.</verse>
+        <verse osisID='Prov.13.8'>Boháč za sebe může dát výkupné, chudák výhrůžky sotva zaslechne.</verse>
+        <verse osisID='Prov.13.9'>Světlo spravedlivých svítí vesele, svíce darebáků uhasne.</verse>
+        <verse osisID='Prov.13.10'>Pýcha vede jen ke sporům, moudří však dají na radu.</verse>
+        <verse osisID='Prov.13.11'>Rychle nabyté jmění se rychle rozuteče, kdo shromažďuje po hrstkách, zbohatne.</verse>
+        <verse osisID='Prov.13.12'>Dlouhé čekání unavuje srdce, naplněná touha je stromem života.</verse>
+        <verse osisID='Prov.13.13'>Kdo pohrdá Slovem, sám sobě škodí, kdo přikázání ctí, bude odměněn.</verse>
+        <verse osisID='Prov.13.14'>Rady moudrého jsou pramen života, z osidel smrti pomohou uniknout.</verse>
+        <verse osisID='Prov.13.15'>Zdravý rozum si získá přízeň, cesta proradných vede k záhubě.</verse>
+        <verse osisID='Prov.13.16'>Rozvážně chová se každý, kdo má rozum, hňup ale roztrušuje samé nesmysly.</verse>
+        <verse osisID='Prov.13.17'>Ničemný vyslanec upadne do neštěstí, spolehlivý posel je jako lék.</verse>
+        <verse osisID='Prov.13.18'>Bída a hanba tomu, kdo odmítá poučení, kdo však na domluvy dá, bude vážený.</verse>
+        <verse osisID='Prov.13.19'>Splněná touha je v duši sladká; tupcům je odporné varovat se zla.</verse>
+        <verse osisID='Prov.13.20'>Kdo chodí s moudrými, bude moudrý, kdo kamarádí s tupci, ztroskotá.</verse>
+        <verse osisID='Prov.13.21'>Hříšníky stíhá neštěstí, spravedlivým je štěstí odměnou.</verse>
+        <verse osisID='Prov.13.22'>Dobrý člověk zanechá dědictví vnukům, hříšníkovo jmění čeká na poctivé.</verse>
+        <verse osisID='Prov.13.23'>Políčko chudých může vydat hojnost potravy, bezpráví je ale může o všechno připravit.</verse>
+        <verse osisID='Prov.13.24'>Kdo šetří metlu, nenávidí své dítě, zavčas je trestá, kdo je miluje.</verse>
+        <verse osisID='Prov.13.25'>Spravedlivý se nají do sytosti, břicho ničemů zůstane o hladu.</verse>
+      </chapter>
+      <chapter osisID='Prov.14'>
+        <verse osisID='Prov.14.1'>Moudrá žena buduje svůj domov, hloupá jej boří svýma rukama.</verse>
+        <verse osisID='Prov.14.2'>Hospodina ctí, kdo žije v poctivosti, kdo jedná křivě, ten jím pohrdá.</verse>
+        <verse osisID='Prov.14.3'>Hlupákovi pýcha z pusy vyráží, moudré ochrání jejich rty.</verse>
+        <verse osisID='Prov.14.4'>Bez dobytka je prázdno ve žlabu, silný býk zajistí hojnou úrodu.</verse>
+        <verse osisID='Prov.14.5'>Čestný svědek nepromluví lživě, křivopřísežník ale šíří klam.</verse>
+        <verse osisID='Prov.14.6'>Drzoun se po moudrosti nadarmo pídí, rozumnému je poznání snadno přístupné.</verse>
+        <verse osisID='Prov.14.7'>Tupci se raději obloukem vyhni, z jeho rtů se přece nic nedozvíš.</verse>
+        <verse osisID='Prov.14.8'>Moudrost rozvážného je vědět kudy kam, tupost hlupáků je pěstovat sebeklam.</verse>
+        <verse osisID='Prov.14.9'>Hlupáci mají legraci z provinění, poctiví ale hledají smíření.</verse>
+        <verse osisID='Prov.14.10'>Jen srdce člověka zná vlastní hořkost, podobně jeho radost druhý necítí.</verse>
+        <verse osisID='Prov.14.11'>Dům darebáků je určen ke zboření, stan poctivých ale k rozkvětu.</verse>
+        <verse osisID='Prov.14.12'>Cesta se člověku může zdát správná, nakonec však bývá cestou ke smrti.</verse>
+        <verse osisID='Prov.14.13'>Někdy i při smíchu bolí srdce; když skončí radost, smutek zůstane.</verse>
+        <verse osisID='Prov.14.14'>Zvrácený dojde odplaty za své skutky a dobrý člověk za ty své.</verse>
+        <verse osisID='Prov.14.15'>Prosťáček důvěřuje kdečemu, rozvážný člověk své kroky zvažuje.</verse>
+        <verse osisID='Prov.14.16'>Moudrý je opatrný a varuje se zla, tupec jde bezstarostně dál.</verse>
+        <verse osisID='Prov.14.17'>Unáhlený člověk dělá hlouposti, lstivý člověk bývá v nenávisti.</verse>
+        <verse osisID='Prov.14.18'>Omezenci jsou obdařeni tupostí, korunou rozvážných je vědění.</verse>
+        <verse osisID='Prov.14.19'>Zlí lidé se pokloní dobrým, darebáci u bran spravedlivého.</verse>
+        <verse osisID='Prov.14.20'>Chuďas je na obtíž i svému příteli, boháče ale všichni milují.</verse>
+        <verse osisID='Prov.14.21'>Kdo pohrdá svým bližním, hřeší, blaze tomu, kdo chudým pomáhá.</verse>
+        <verse osisID='Prov.14.22'>Jistěže bloudí ten, kdo je zlomyslný; láska a věrnost patří dobrosrdečným.</verse>
+        <verse osisID='Prov.14.23'>Tvrdá práce vždy vede k zisku, řečnění však jenom k chudobě.</verse>
+        <verse osisID='Prov.14.24'>Korunou moudrých je jejich bohatství, tupost hlupáků zůstane tupostí.</verse>
+        <verse osisID='Prov.14.25'>Pravdomluvný svědek může zachránit život, podvodník ale šíří lež.</verse>
+        <verse osisID='Prov.14.26'>V úctě k Hospodinu je jistota pevná, jeho děti v něm najdou bezpečí.</verse>
+        <verse osisID='Prov.14.27'>Pramen života je úcta k Hospodinu, z osidel smrti pomáhá uniknout.</verse>
+        <verse osisID='Prov.14.28'>Mohutné vojsko je ozdobou krále, úbytek lidu je vládci záhubou.</verse>
+        <verse osisID='Prov.14.29'>Trpělivý člověk oplývá rozumností, ten, kdo je ukvapený, dělá hlouposti.</verse>
+        <verse osisID='Prov.14.30'>Krotké srdce dodává tělu na životě, závist je ale jako kostižer.</verse>
+        <verse osisID='Prov.14.31'>Kdo utiskuje chudáka, uráží jeho Tvůrce; ctí jej však ten, kdo nuzným pomáhá.</verse>
+        <verse osisID='Prov.14.32'>Darebáka jednou srazí jeho vlastní zlo, jistotou spravedlivého je jeho poctivost.</verse>
+        <verse osisID='Prov.14.33'>V srdci rozumného spočívá moudrost; co skrývá nitro tupců, též vyjde najevo.</verse>
+        <verse osisID='Prov.14.34'>Spravedlnost povznáší národ, hřích je národům k ostudě.</verse>
+        <verse osisID='Prov.14.35'>Rozumného služebníka zahrne král přízní, prchlivostí však toho, jenž dělá ostudu.</verse>
+      </chapter>
+      <chapter osisID='Prov.15'>
+        <verse osisID='Prov.15.1'>Vlídná odpověď odvrací zlobu, příkrá řeč ale budí hněv.</verse>
+        <verse osisID='Prov.15.2'>Jazyk moudrých zpříjemňuje poznání, tupci z úst chrlí samé nesmysly.</verse>
+        <verse osisID='Prov.15.3'>Hospodinovy oči vidí všude, vše zlé i dobré pozorně sledují.</verse>
+        <verse osisID='Prov.15.4'>Krotký jazyk je stromem života, je-li však pokřivený, ducha podlomí.</verse>
+        <verse osisID='Prov.15.5'>Hlupák pohrdá poučením otce, chytrý je ten, kdo dá na domluvy.</verse>
+        <verse osisID='Prov.15.6'>Dům spravedlivého je velkou pokladnicí, zisky darebáka nesou jen trápení.</verse>
+        <verse osisID='Prov.15.7'>Rty moudrých vědění rozsévají, srdce tupců však nikoli.</verse>
+        <verse osisID='Prov.15.8'>Oběť darebáků se Hospodinu hnusí, zalíbení má v modlitbě poctivých.</verse>
+        <verse osisID='Prov.15.9'>Cesta darebáka se Hospodinu hnusí, stoupence spravedlnosti miluje.</verse>
+        <verse osisID='Prov.15.10'>Tvrdý trest tomu, kdo opouští stezku; kdo nesnese domluvy, ten umírá.</verse>
+        <verse osisID='Prov.15.11'>Hospodin vidí do hrobu i říše záhuby - do srdce člověka tím spíš!</verse>
+        <verse osisID='Prov.15.12'>Drzoun nemiluje toho, kdo jej kárá, a proto za moudrými nechodí.</verse>
+        <verse osisID='Prov.15.13'>Radostné srdce dodává tváři krásu, ztrápené srdce ducha ubíjí.</verse>
+        <verse osisID='Prov.15.14'>Srdce rozumného touží po vědění, ústa tupců se krmí tupostí.</verse>
+        <verse osisID='Prov.15.15'>Každý den chudáka bývá těžký, dobrotivé srdce však stále hoduje.</verse>
+        <verse osisID='Prov.15.16'>Lepší je málo s úctou k Hospodinu než velké poklady s neklidem.</verse>
+        <verse osisID='Prov.15.17'>Lepší je talíř zeleniny s láskou než vykrmený býk a s ním nenávist.</verse>
+        <verse osisID='Prov.15.18'>Vznětlivý člověk vzbuzuje sváry, trpělivý dovede spory uklidnit.</verse>
+        <verse osisID='Prov.15.19'>Cesta lenocha trním zarůstá, stezka poctivých je ale dlážděná.</verse>
+        <verse osisID='Prov.15.20'>Moudrý syn dělá otci radost, tupec i vlastní matkou pohrdá.</verse>
+        <verse osisID='Prov.15.21'>Nerozumného těší každá hloupost, rozvážný člověk drží přímý směr.</verse>
+        <verse osisID='Prov.15.22'>Bez porady se plány hroutí, při množství rádců se však naplní.</verse>
+        <verse osisID='Prov.15.23'>Výstižná odpověď udělá člověku radost; jak dobré je slovo v pravý čas!</verse>
+        <verse osisID='Prov.15.24'>Rozumné vede vzhůru cesta života, aby unikli peklu v hlubinách.</verse>
+        <verse osisID='Prov.15.25'>Hospodin strhne dům pyšných, mezníky vdovy ale upevní.</verse>
+        <verse osisID='Prov.15.26'>Zlé úmysly se Hospodinu hnusí, za čistá považuje slova laskavá.</verse>
+        <verse osisID='Prov.15.27'>Kdo se chce obohatit, ten vlastní domov boří, kdo nenávidí úplatky, ten bude žít.</verse>
+        <verse osisID='Prov.15.28'>Srdce spravedlivého promýšlí odpovědi, ústa darebáků chrlí hanebnost.</verse>
+        <verse osisID='Prov.15.29'>Darebákům je Hospodin velmi vzdálen, modlitbu spravedlivých ale vyslyší.</verse>
+        <verse osisID='Prov.15.30'>Zářivý pohled rozveselí srdce, dobrá novina až do morku osvěží.</verse>
+        <verse osisID='Prov.15.31'>Kdo zdravým domluvám otvírá uši, ten bude bydlet mezi moudrými.</verse>
+        <verse osisID='Prov.15.32'>Kdo odmítá poučení, pohrdá vlastní duší, kdo na domluvy dá, ten rozum nabere.</verse>
+        <verse osisID='Prov.15.33'>Školou moudrosti je úcta k Hospodinu; slávu předchází pokora.</verse>
+      </chapter>
+      <chapter osisID='Prov.16'>
+        <verse osisID='Prov.16.1'>Člověk si může lámat hlavu, vhodnou odpověď však dává Hospodin.</verse>
+        <verse osisID='Prov.16.2'>Člověk má všechny své cesty za čisté, jeho pohnutky však zkoumá Hospodin.</verse>
+        <verse osisID='Prov.16.3'>Hospodinu svěř všechny své činy, tvoje úmysly se potom naplní.</verse>
+        <verse osisID='Prov.16.4'>Hospodin učinil vše pro svůj záměr, také i darebáka pro zlý den.</verse>
+        <verse osisID='Prov.16.5'>Hospodinu je každý nadutec ohavností, trestu neujde, buď si jist.</verse>
+        <verse osisID='Prov.16.6'>Láskou a věrností se usmiřuje vina, úctou k Hospodinu se vyhneš zlu.</verse>
+        <verse osisID='Prov.16.7'>Když se Hospodinu něčí cesty líbí, i jeho nepřátele s ním nakonec udobří.</verse>
+        <verse osisID='Prov.16.8'>Lepší je málo se spravedlností než ohromné zisky s bezprávím.</verse>
+        <verse osisID='Prov.16.9'>Člověk přemítá v srdci o své cestě, jeho kroky však řídí Hospodin.</verse>
+        <verse osisID='Prov.16.10'>Prorocký výrok patří na rty krále, při soudu nesmí jeho ústa pochybit.</verse>
+        <verse osisID='Prov.16.11'>Hospodin má poctivé míry i váhy, všechna závaží ve váčku pečlivě odměřil.</verse>
+        <verse osisID='Prov.16.12'>Páchat zlo je pro krále ohavností - vždyť je to spravedlnost, co drží trůn!</verse>
+        <verse osisID='Prov.16.13'>Spravedlivé rty se králům líbí, milují ty, kdo mluví upřímně.</verse>
+        <verse osisID='Prov.16.14'>Králova zloba je posel smrti, moudrý člověk ji ale utiší.</verse>
+        <verse osisID='Prov.16.15'>Úsměv na tváři krále znamená život, jeho přízeň - dešťový oblak na jaře!</verse>
+        <verse osisID='Prov.16.16'>Získat moudrost je nad ryzí zlato, nad stříbro nejčistší je získat rozumnost.</verse>
+        <verse osisID='Prov.16.17'>Cesta upřímných vede pryč od zla; kdo hlídá svou cestu, svou duši uchrání.</verse>
+        <verse osisID='Prov.16.18'>Pýcha předchází pád a namyšlenost zkázu.</verse>
+        <verse osisID='Prov.16.19'>Lepší je sdílet porobu s pokornými nežli se s pyšnými dělit o kořist.</verse>
+        <verse osisID='Prov.16.20'>Kdo hloubá ve Slově, nachází štěstí, kdo doufá v Hospodina, je blažený!</verse>
+        <verse osisID='Prov.16.21'>Kdo má moudré srdce, je znám svou rozumností, výřečné rty přesvědčivosti dodají.</verse>
+        <verse osisID='Prov.16.22'>Pramen života má ten, kdo má rozum, vlastní hloupost je trestem hlupáků.</verse>
+        <verse osisID='Prov.16.23'>Srdce moudrého dohlíží na jeho ústa, jeho rtům dodá přesvědčivosti.</verse>
+        <verse osisID='Prov.16.24'>Laskavá slova jsou jako plástev medu, jak balzám na duši, celému tělu lék.</verse>
+        <verse osisID='Prov.16.25'>Cesta se člověku může zdát správná, nakonec však bývá cestou ke smrti.</verse>
+        <verse osisID='Prov.16.26'>Člověk nádeničí, protože musí, jeho vlastní hlad ho pohání.</verse>
+        <verse osisID='Prov.16.27'>Ve špíně se hrabe ničema, na jeho rtech jako by oheň plál.</verse>
+        <verse osisID='Prov.16.28'>Zvrácený člověk rozsívá sváry, pomlouvač rozeštve i dobré přátele.</verse>
+        <verse osisID='Prov.16.29'>Násilníci i svoje druhy klamou, aby je zlákali na cestu nedobrou.</verse>
+        <verse osisID='Prov.16.30'>Kdo mhouří oči, vymýšlí zvrácenosti, kdo svírá rty, osnuje špinavost.</verse>
+        <verse osisID='Prov.16.31'>Korunou krásy jsou šediny - kdo žijí spravedlivě, ti ji obdrží.</verse>
+        <verse osisID='Prov.16.32'>Je lepší být trpělivý než velký silák, je lepší se ovládat než města dobývat.</verse>
+        <verse osisID='Prov.16.33'>Člověk si může házet losem do klína, všechno rozhodování je však od Hospodina.</verse>
+      </chapter>
+      <chapter osisID='Prov.17'>
+        <verse osisID='Prov.17.1'>Lepší je suchý kus chleba v klidu než dům plný masa a sváru.</verse>
+        <verse osisID='Prov.17.2'>Chytrý sluha bude pánem nezdárného syna, s jeho bratry se o dědictví podělí.</verse>
+        <verse osisID='Prov.17.3'>Na stříbro je tyglík a na zlato pec, lidské srdce však zkoumá Hospodin.</verse>
+        <verse osisID='Prov.17.4'>Zlý člověk dá na ničemné řeči, lhář poslouchá zlé jazyky.</verse>
+        <verse osisID='Prov.17.5'>Kdo zesměšňuje chudáka, uráží jeho Tvůrce; škodolibý člověk trestu neujde.</verse>
+        <verse osisID='Prov.17.6'>Korunou starců jsou jejich vnuci, ozdobou synů otcové.</verse>
+        <verse osisID='Prov.17.7'>Hlupáku nesluší vznešená slova, tím méně urozeným lživá řeč.</verse>
+        <verse osisID='Prov.17.8'>Úplatek působí jako zaříkadlo: úplatkáři se daří, kam se obrátí.</verse>
+        <verse osisID='Prov.17.9'>Kdo stojí o lásku, přikrývá všechny viny, ten, kdo je připomíná, rozeštve přátele.</verse>
+        <verse osisID='Prov.17.10'>Na rozumného více zapůsobí výtka, než kdyby tupci stokrát nařezal.</verse>
+        <verse osisID='Prov.17.11'>Na nic než na vzpouru zlosyn nemyslí, bude však navštíven poslem ukrutným.</verse>
+        <verse osisID='Prov.17.12'>Raději narazit na zuřivou medvědici nežli na hlupáka s jeho tupostí.</verse>
+        <verse osisID='Prov.17.13'>Kdo odplacuje zlem za dobro, jeho dům už nikdy neopustí zlo.</verse>
+        <verse osisID='Prov.17.14'>Začátek hádky je protržení hráze - raději přestaň, než spor propukne!</verse>
+        <verse osisID='Prov.17.15'>Omlouvat ničemu i odsoudit poctivého - obojí se Hospodinu hnusí nastejno.</verse>
+        <verse osisID='Prov.17.16'>K čemu jsou peníze v rukou tupce? Když nemá rozum, moudrost nekoupí!</verse>
+        <verse osisID='Prov.17.17'>Přítel miluje za všech okolností, bratr se rodí pro chvíle trápení.</verse>
+        <verse osisID='Prov.17.18'>Přišel o rozum, kdo rukou upíše se, kdo za bližního složí záruku.</verse>
+        <verse osisID='Prov.17.19'>Kdo se rád hádá, ten rád hřeší, kdo si otvírá ústa, říká si o potíž.</verse>
+        <verse osisID='Prov.17.20'>Kdo má falešné srdce, nenajde štěstí, kdo má křivý jazyk, špatně dopadne.</verse>
+        <verse osisID='Prov.17.21'>Kdo zplodil tupce, má důvod k žalu, hlupákův otec radost nepozná.</verse>
+        <verse osisID='Prov.17.22'>Radostné srdce - nejlepší lék, ztrápený duch je kostižer.</verse>
+        <verse osisID='Prov.17.23'>Darebák přijímá tajné dary, aby cesty práva podvrátil.</verse>
+        <verse osisID='Prov.17.24'>Rozumný má moudrost přímo před sebou, oči hlupáka ji v celém světě nenajdou.</verse>
+        <verse osisID='Prov.17.25'>K mrzutosti je otci tupý syn, svou matku naplňuje hořkostí.</verse>
+        <verse osisID='Prov.17.26'>Pokutovat nevinného jistě není dobré, natož bít urozené, když jednají poctivě.</verse>
+        <verse osisID='Prov.17.27'>Kdo získal poznání, ten šetří slova, rozumný člověk se umí ovládat.</verse>
+        <verse osisID='Prov.17.28'>I hlupák, mlčí-li, za moudrého je brán, rozumně vypadají ústa zavřená.</verse>
+      </chapter>
+      <chapter osisID='Prov.18'>
+        <verse osisID='Prov.18.1'>Samotáři jde jen o vlastní choutky, každou rozumnou radou pohrdne.</verse>
+        <verse osisID='Prov.18.2'>Tupec nijak nestojí o rozumnost - chce jen vyklopit, co má na srdci.</verse>
+        <verse osisID='Prov.18.3'>Kam přijde darebák, přijde i pohrdání, za ním pak hanba a potupa.</verse>
+        <verse osisID='Prov.18.4'>Hluboká voda jsou slova úst některých, zurčící potok, pramen moudrosti.</verse>
+        <verse osisID='Prov.18.5'>Stranit darebákovi jistě není dobré, natožpak nevinného o právo připravit.</verse>
+        <verse osisID='Prov.18.6'>Tupcova ústa spěchají k hádkám, jeho rty po výprasku volají.</verse>
+        <verse osisID='Prov.18.7'>Tupci jsou jeho ústa záhubou, rty jsou mu pastí smrtelnou.</verse>
+        <verse osisID='Prov.18.8'>Pomluvy se tváří jako pamlsky, hluboko do nitra ale padají.</verse>
+        <verse osisID='Prov.18.9'>Kdo při své práci lenoší, od kazisvěta se příliš neliší.</verse>
+        <verse osisID='Prov.18.10'>Hospodinovo jméno je pevnou věží; spravedlivý se uchýlí do jeho bezpečí.</verse>
+        <verse osisID='Prov.18.11'>Majetek bohatého je jeho pevnou tvrzí, nepřekonatelnou zdí je v jeho představách.</verse>
+        <verse osisID='Prov.18.12'>Pýcha předchází pád, slávu předchází pokora.</verse>
+        <verse osisID='Prov.18.13'>Kdo odpovídá dřív, než vyslechne, hloupost projevuje k vlastní ostudě.</verse>
+        <verse osisID='Prov.18.14'>Lidský duch dovede unést nemoc, ztrápený duch se však nedá vydržet.</verse>
+        <verse osisID='Prov.18.15'>Rozumné srdce nabývá poznání, moudré uši prahnou po vědění.</verse>
+        <verse osisID='Prov.18.16'>Dar otvírá člověku dveře, i před velikány jej přivede.</verse>
+        <verse osisID='Prov.18.17'>První, kdo líčí spor, se zdá být v právu, příchod druhého jej ale prověří.</verse>
+        <verse osisID='Prov.18.18'>Los dokáže ukončit sváry, i mocné dovede rozsoudit.</verse>
+        <verse osisID='Prov.18.19'>Ukřivděný bratr se uzavře jak město, rozepře působí jako hradní závory.</verse>
+        <verse osisID='Prov.18.20'>Ovocem svých úst si každý naplní břicho, úrodou vlastních rtů se každý nasytí.</verse>
+        <verse osisID='Prov.18.21'>Jazyk má moc nad smrtí i životem, kdo rádi mluví, jedí jeho ovoce.</verse>
+        <verse osisID='Prov.18.22'>Kdo našel manželku, ten našel štěstí, Hospodin jej svou přízní obdařil.</verse>
+        <verse osisID='Prov.18.23'>Chudák poníženě prosí, boháč odpovídá hrubostí.</verse>
+        <verse osisID='Prov.18.24'>Jsou tací přátelé, co jsou jen ke škodě; bližší než bratr je ale ten, který miluje.</verse>
+      </chapter>
+      <chapter osisID='Prov.19'>
+        <verse osisID='Prov.19.1'>Lepší chudý poctivec než prolhaný pitomec.</verse>
+        <verse osisID='Prov.19.2'>Nadšení bez poznání nestačí, zbrklý se dopouští mnoha chyb.</verse>
+        <verse osisID='Prov.19.3'>Člověk padá pro vlastní hloupost, v srdci má ale na Hospodina zlost.</verse>
+        <verse osisID='Prov.19.4'>Boháč má přátel habaděj, chuďas je opuštěn bez přátel.</verse>
+        <verse osisID='Prov.19.5'>Křivopřísežník trestu neujde, neunikne, kdo šíří lež.</verse>
+        <verse osisID='Prov.19.6'>Štědrého člověka si mnozí předcházejí, s tím, kdo rozdává, se každý přátelí.</verse>
+        <verse osisID='Prov.19.7'>Chuďase nesnáší ani jeho bratři - tím spíše se mu vyhnou přátelé! Snaží se najít slova, ale zbytečně.</verse>
+        <verse osisID='Prov.19.8'>Kdo se má rád, snaží se získat rozum, kdo rozvahy se drží, štěstí dosáhne.</verse>
+        <verse osisID='Prov.19.9'>Křivopřísežník neujde trestu, kdo šíří klam, ten zahyne.</verse>
+        <verse osisID='Prov.19.10'>Tupci nesluší žádný přepych, tím méně otroku vláda nad pány.</verse>
+        <verse osisID='Prov.19.11'>Prozíravost brání člověku se hněvat, promíjet vinu je jeho ozdoba.</verse>
+        <verse osisID='Prov.19.12'>Králova zlost - to je lví řev, jeho přízeň - rosa na trávě.</verse>
+        <verse osisID='Prov.19.13'>Tupý syn je neštěstím svého otce, hašteřivá žena pak crčení bez konce!</verse>
+        <verse osisID='Prov.19.14'>Dům a majetek bývá po rodičích, rozumnou ženu však dává Hospodin.</verse>
+        <verse osisID='Prov.19.15'>Lenost ukolébá člověka k spánku; kdo je váhavý, zůstane o hladu.</verse>
+        <verse osisID='Prov.19.16'>Kdo dbá na přikázání, dbá na vlastní duši; komu je lhostejné, jak žije, zahyne.</verse>
+        <verse osisID='Prov.19.17'>Kdo pomáhá chudým, půjčuje Hospodinu; on sám mu jeho dobrodiní odplatí.</verse>
+        <verse osisID='Prov.19.18'>Napravuj syna, dokud máš naději, jeho smrt nechtěj dopustit.</verse>
+        <verse osisID='Prov.19.19'>Vztekloun zasluhuje potrestání; ušetříš-li ho, zkazíš ho ještě víc.</verse>
+        <verse osisID='Prov.19.20'>Poslechni radu, přijmi poučení, abys byl příště moudřejší.</verse>
+        <verse osisID='Prov.19.21'>Člověk má v srdci mnohé plány, stane se ale, co chce Hospodin.</verse>
+        <verse osisID='Prov.19.22'>Po člověku se žádá, aby byl laskavý; lépe je být chudák nežli podvodník.</verse>
+        <verse osisID='Prov.19.23'>Úcta k Hospodinu přináší život; v sytosti a klidu pak člověk může spát.</verse>
+        <verse osisID='Prov.19.24'>Lenoch k talíři natáhne ruku, k ústům ji už ale nezvedne.</verse>
+        <verse osisID='Prov.19.25'>Nabij drzounovi, a prosťáček zmoudří, pokárej rozumného, a dojde poznání.</verse>
+        <verse osisID='Prov.19.26'>Napadá otce, vyhání matku syn hanebný a nestoudný.</verse>
+        <verse osisID='Prov.19.27'>Přestaň, synu, naslouchat poučení, a zabloudíš od slov poznání.</verse>
+        <verse osisID='Prov.19.28'>Ničemný svědek se vysmívá právu, ústa darebáků hltají hanebnost.</verse>
+        <verse osisID='Prov.19.29'>Na drzouny čekají soudy, na hřbety tupců rány.</verse>
+      </chapter>
+      <chapter osisID='Prov.20'>
+        <verse osisID='Prov.20.1'>Víno je drzoun a pivo křikloun; kdo za ním vrávorá, nezmoudří.</verse>
+        <verse osisID='Prov.20.2'>Jako když lev řve, král hrůzu nahání; svůj život ohrožuje, kdo jej popudí.</verse>
+        <verse osisID='Prov.20.3'>Upustit od sporu je člověku ke cti, rozčilovat se umí každý hňup.</verse>
+        <verse osisID='Prov.20.4'>Na podzim lenoch orat nechce, o žních bude žebrat zbytečně.</verse>
+        <verse osisID='Prov.20.5'>Rada v srdci člověka je voda hluboká, kdo je rozumný, ji umí načerpat.</verse>
+        <verse osisID='Prov.20.6'>Svou vlastní oddaností se kdekdo holedbá, věrného muže však aby pohledal.</verse>
+        <verse osisID='Prov.20.7'>Spravedlivý je, kdo žije v poctivosti; šťastní budou jeho potomci!</verse>
+        <verse osisID='Prov.20.8'>Král sedí na trůnu, aby soudil, všechno zlo svým zrakem rozhání.</verse>
+        <verse osisID='Prov.20.9'>Kdo může říci: Mám čisté srdce, od hříchu jsem se oprostil?</verse>
+        <verse osisID='Prov.20.10'>Dvojí metr a dvojí závaží - Hospodinu se hnusí obojí.</verse>
+        <verse osisID='Prov.20.11'>I na dětech se podle chování pozná, jak čistá a upřímná je jejich povaha.</verse>
+        <verse osisID='Prov.20.12'>Slyšící ucho, vidoucí oko - obojí učinil Hospodin.</verse>
+        <verse osisID='Prov.20.13'>Nemiluj spánek, ať nezchudneš; otevři oči, ať se nasytíš.</verse>
+        <verse osisID='Prov.20.14'>"Špatné, moc špatné," říká, kdo kupuje, a jen co popojde, už si pochvaluje.</verse>
+        <verse osisID='Prov.20.15'>Někdo má zlato a perel hromady, nejdražším klenotem jsou moudré rty.</verse>
+        <verse osisID='Prov.20.16'>Vezmi plášť tomu, kdo ručí za cizího, když ručí za cizinku, vezmi si zástavu.</verse>
+        <verse osisID='Prov.20.17'>Ten, komu pokrm ze lži lahodí, skončí s ústy plnými kamení.</verse>
+        <verse osisID='Prov.20.18'>Podpoř své úmysly dobrou radou, nech se poučit, než začneš boj.</verse>
+        <verse osisID='Prov.20.19'>Mluvka roznáší tajemství, kudy chodí; s tlučhubou neměj co do činění.</verse>
+        <verse osisID='Prov.20.20'>Kdo zlořečí otci nebo matce, toho svíce zhasne v temnotě.</verse>
+        <verse osisID='Prov.20.21'>Rychlé zbohatnutí na začátku, žádné požehnání na konci.</verse>
+        <verse osisID='Prov.20.22'>Nikdy neříkej: "Tu křivdu pomstím," čekej na Hospodina - ten ti pomůže.</verse>
+        <verse osisID='Prov.20.23'>Dvojí závaží se Hospodinu hnusí; falešné váhy se mu nelíbí.</verse>
+        <verse osisID='Prov.20.24'>Hospodin řídí lidské kroky; který člověk své cestě rozumí?</verse>
+        <verse osisID='Prov.20.25'>Je v pasti, kdo něco chvatně prohlásil za svaté a teprve potom přemýšlel.</verse>
+        <verse osisID='Prov.20.26'>Moudrý král se vypořádá s darebáky: nechá je drtit pod koly.</verse>
+        <verse osisID='Prov.20.27'>Hospodinovou svící je duch člověka - vše, co je skryté, prozkoumá.</verse>
+        <verse osisID='Prov.20.28'>Láska a věrnost ať opatrují krále, jeho trůn ať podpírá laskavost.</verse>
+        <verse osisID='Prov.20.29'>Chloubou mládenců je jejich síla, ozdobou starců šediny.</verse>
+        <verse osisID='Prov.20.30'>Modřiny a boule vydrhnou špatnost, rány zasáhnou hluboko do nitra.</verse>
+      </chapter>
+      <chapter osisID='Prov.21'>
+        <verse osisID='Prov.21.1'>Královo srdce je v Hospodinově ruce - jak vodní strouhu je směruje, kam chce.</verse>
+        <verse osisID='Prov.21.2'>Člověk má všechny své cesty za správné, srdce však zpytuje Hospodin.</verse>
+        <verse osisID='Prov.21.3'>Když se děje spravedlnost a právo, Hospodin to má raději než oběti.</verse>
+        <verse osisID='Prov.21.4'>Povýšené oči, naduté srdce, úsilí ničemů - to vše je hřích.</verse>
+        <verse osisID='Prov.21.5'>Plány pracovitých vedou k zisku, zbrklost přináší jenom chudobu.</verse>
+        <verse osisID='Prov.21.6'>Poklady získané lživými řečmi jsou pomíjivá marnost, smrtelná past.</verse>
+        <verse osisID='Prov.21.7'>Darebáci budou smeteni vlastní krutostí; konat spravedlnost totiž odmítli.</verse>
+        <verse osisID='Prov.21.8'>Cesta podvodníka je klikatá, povaha čistých je upřímná.</verse>
+        <verse osisID='Prov.21.9'>Lepší je stěhovat se do kouta na střechu než s hašteřivou ženou sdílet dům.</verse>
+        <verse osisID='Prov.21.10'>Darebák tíhne ke zlu celou svou duší, nebude laskavý ani k příteli.</verse>
+        <verse osisID='Prov.21.11'>Když trestají drzouna, prosťáček zmoudří, když vzdělávají moudrého, dojde poznání.</verse>
+        <verse osisID='Prov.21.12'>Spravedlivý se učí na domě darebáka: darebáci jsou sráženi pro svou zkaženost.</verse>
+        <verse osisID='Prov.21.13'>Kdo dělá, že neslyší volání ubožáka, nebude vyslyšen, až bude volat sám.</verse>
+        <verse osisID='Prov.21.14'>Tajný dárek dokáže utišit hněv, postranní úplatek i velkou zuřivost.</verse>
+        <verse osisID='Prov.21.15'>Poctivému je radostí prosazení práva, pro bídáky je to však záhuba.</verse>
+        <verse osisID='Prov.21.16'>Z cesty rozumu kdo ztratil se, ve shromáždění mrtvých spočine.</verse>
+        <verse osisID='Prov.21.17'>Milovník radovánek je vlastně chudák; milovník přepychu a vína nebude bohatý.</verse>
+        <verse osisID='Prov.21.18'>Darebák bude výkupným za spravedlivého, na místě poctivých se ocitne podvodník.</verse>
+        <verse osisID='Prov.21.19'>Lepší je bydlet někde v pustině než s hašteřivou ženou hádat se.</verse>
+        <verse osisID='Prov.21.20'>Moudrý má doma olej a vzácné poklady, tupec však všechno rozhází.</verse>
+        <verse osisID='Prov.21.21'>Komu jde o spravedlnost a soucit, nalezne život, spravedlnost a slávu.</verse>
+        <verse osisID='Prov.21.22'>Do města siláků vnikl moudrý a zbořil pevnost, na niž se spolehli!</verse>
+        <verse osisID='Prov.21.23'>Ten, kdo si hlídá ústa a jazyk, chrání svou duši před trápením.</verse>
+        <verse osisID='Prov.21.24'>Nadutý domýšlivec se drzoun jmenuje, jeho zpupnost nezná žádnou mez.</verse>
+        <verse osisID='Prov.21.25'>Lenocha umoří jeho vlastní touhy, jeho rukám práce nevoní.</verse>
+        <verse osisID='Prov.21.26'>Celý den jenom toužebně touží, spravedlivý však rozdává a neskrblí.</verse>
+        <verse osisID='Prov.21.27'>Sama ohavnost je oběť ničemů, zvlášť když se obětuje ze zlých úmyslů!</verse>
+        <verse osisID='Prov.21.28'>Falešný svědek bídně zhyne; poslední slovo má, kdo umí naslouchat.</verse>
+        <verse osisID='Prov.21.29'>Darebák jde a na nic nedbá, poctivý však svou cestu zvažuje.</verse>
+        <verse osisID='Prov.21.30'>Žádná moudrost, žádná šikovnost, žádná rada na Hospodina nestačí.</verse>
+        <verse osisID='Prov.21.31'>Kůň bývá chystán pro den boje, Hospodinovo je však vítězství.</verse>
+      </chapter>
+      <chapter osisID='Prov.22'>
+        <verse osisID='Prov.22.1'>Jméno je cennější než spousta peněz, nad stříbro a zlato je být oblíben.</verse>
+        <verse osisID='Prov.22.2'>Boháč a chudák mají společné jedno: Stvořitelem obou je Hospodin.</verse>
+        <verse osisID='Prov.22.3'>Rozvážný vidí hrozbu a vyhne se jí, prosťáčci však jdou dál, až na to doplatí.</verse>
+        <verse osisID='Prov.22.4'>Výsledkem pokory a úcty k Hospodinu je bohatství, sláva a život.</verse>
+        <verse osisID='Prov.22.5'>Trnitá a zrádná je cesta zvráceného, komu je život drahý, drží se daleko.</verse>
+        <verse osisID='Prov.22.6'>Zasvěcuj dítě do jeho cesty - nesejde z ní, ani když zestárne.</verse>
+        <verse osisID='Prov.22.7'>Boháč panuje nad chudáky, dlužník je věřitelovým otrokem.</verse>
+        <verse osisID='Prov.22.8'>Kdo seje bezpráví, sklidí neštěstí; jeho hrůzovláda pomine.</verse>
+        <verse osisID='Prov.22.9'>Požehaný je ten, kdo je štědrý; i o chleba se dělí s chudákem.</verse>
+        <verse osisID='Prov.22.10'>Vyžeň drzouna a zmizí rozepře - konec hádek i urážek!</verse>
+        <verse osisID='Prov.22.11'>Kdo z čistého srdce miluje, kdo má ušlechtilost na svých rtech, bude mít krále za přítele.</verse>
+        <verse osisID='Prov.22.12'>Hospodin střeží vědění, úmysly podvodníků ale překazí.</verse>
+        <verse osisID='Prov.22.13'>"Venku je lev!" říká lenoch. "Na ulici přijdu o život!"</verse>
+        <verse osisID='Prov.22.14'>Ústa svůdkyně jsou bezedná jáma, kdo hněvá Hospodina, do ní se propadne.</verse>
+        <verse osisID='Prov.22.15'>Nerozumnost vězí v srdci dítěte, trestající metla ji však vyžene.</verse>
+        <verse osisID='Prov.22.16'>Kdo drtí chudé, aby se obohatil, a dává bohatým, skončí v chudobě.</verse>
+        <verse osisID='Prov.22.17'>Nakloň své ucho a slova mudrců slyš, své srdce věnuj mému vědění.</verse>
+        <verse osisID='Prov.22.18'>Příhodné bude, když zachováš je v nitru, budou-li pohotově vždy na tvých rtech.</verse>
+        <verse osisID='Prov.22.19'>Dnes právě tebe mám v úmyslu učit, abys na Hospodina pevně spoléhal.</verse>
+        <verse osisID='Prov.22.20'>Třicatero rad jsem pro tebe sepsal - je v nich poučení a vědění,</verse>
+        <verse osisID='Prov.22.21'>abys poznal výroky spolehlivé pravdy a předával ji těm, kdo na ni čekají:</verse>
+        <verse osisID='Prov.22.22'>Neodírej chudáka - je přece chudák; u soudu neutlačuj ubohé.</verse>
+        <verse osisID='Prov.22.23'>Sám Hospodin se jejich pře ujme a vydře duši těm, kdo vydírají je!</verse>
+        <verse osisID='Prov.22.24'>Neměj za přítele vznětlivého muže, se vzteklým člověkem se nespolčuj,</verse>
+        <verse osisID='Prov.22.25'>jinak se přiučíš jeho zvykům, do pasti uvrhneš duši svou.</verse>
+        <verse osisID='Prov.22.26'>Nepatři k těm, kdo se upisují, nezaručuj se za půjčky.</verse>
+        <verse osisID='Prov.22.27'>Proč bys měl přijít i o vlastní lůžko, až nebudeš mít čím zaplatit?</verse>
+        <verse osisID='Prov.22.28'>Neposunuj dávné mezníky, které tví otcové vztyčili.</verse>
+        <verse osisID='Prov.22.29'>Hleď - kdo je mistrem svého díla, v královských službách octne se; nepatrným lidem sloužit nebude.</verse>
+      </chapter>
+      <chapter osisID='Prov.23'>
+        <verse osisID='Prov.23.1'>Když s mocným člověkem k jídlu sedáš si, dobře si uvědom, co se ti nabízí.</verse>
+        <verse osisID='Prov.23.2'>Neukrotíš-li svoji chuť, sám si do krku vrazíš nůž.</verse>
+        <verse osisID='Prov.23.3'>Po jeho lahůdkách nedychti - ten pokrm je totiž ošidný!</verse>
+        <verse osisID='Prov.23.4'>Nenič se honbou za bohatstvím, měj rozum a rychle přestaň s tím.</verse>
+        <verse osisID='Prov.23.5'>Jen je zahlédneš, bohatství už tu není, roztáhne křídla jako orel, k nebi uletí!</verse>
+        <verse osisID='Prov.23.6'>Raději nejez pokrm lakomce, po jeho lahůdkách nedychti.</verse>
+        <verse osisID='Prov.23.7'>V duchu jen počítá - je už takový, když říká, "Jez a pij," není upřímný.</verse>
+        <verse osisID='Prov.23.8'>Sousta, jež snědl jsi, vyzvracíš, tvoje lichotky budou zmařeny!</verse>
+        <verse osisID='Prov.23.9'>Cokoli říkat tupci je zbytečné, moudrostí tvých slov jen pohrdne.</verse>
+        <verse osisID='Prov.23.10'>Neposunuj dávné mezníky, od pole sirotků dej ruce pryč!</verse>
+        <verse osisID='Prov.23.11'>Jejich Zastánce je totiž mocný - sám proti tobě povede jejich při.</verse>
+        <verse osisID='Prov.23.12'>Veď svoji mysl ke vzdělání, své uši k řečem poučným.</verse>
+        <verse osisID='Prov.23.13'>Své dítě učit kázni neváhej, dáš-li mu metlou, neumře!</verse>
+        <verse osisID='Prov.23.14'>Když mu sám metlou nabiješ, jeho duši z pekla vytrhneš.</verse>
+        <verse osisID='Prov.23.15'>Bude-li, synu, tvé srdce moudré, mé srdce zajásá, to mi věř.</verse>
+        <verse osisID='Prov.23.16'>Celé mé nitro se zaraduje, budou-li tvé rty mluvit poctivě.</verse>
+        <verse osisID='Prov.23.17'>Závist k hříšníkům v srdci nechovej, v úctě k Hospodinu žij každý den.</verse>
+        <verse osisID='Prov.23.18'>Budoucnost totiž patří tobě - tvá naděje tě nezklame!</verse>
+        <verse osisID='Prov.23.19'>Poslouchej, synu, a buď moudrý, na cestu zaveď srdce své:</verse>
+        <verse osisID='Prov.23.20'>Nepatři k těm, kdo se opíjejí vínem, k hltounům masa neřaď se.</verse>
+        <verse osisID='Prov.23.21'>Pijáka i žrouta přece čeká bída, ospalost člověka do hadrů obléká!</verse>
+        <verse osisID='Prov.23.22'>Poslouchej otce, který tě zplodil, nepohrdej svou matkou, až zestárne.</verse>
+        <verse osisID='Prov.23.23'>Pravdu získej, za nic ji neprodávej, rovněž tak moudrost, kázeň, rozumnost.</verse>
+        <verse osisID='Prov.23.24'>Otec spravedlivého je naplněn štěstím, rodič moudrého má důvod k radosti.</verse>
+        <verse osisID='Prov.23.25'>Tvůj otec i matka ať tedy mají radost, tvoji rodičku ať štěstí naplní!</verse>
+        <verse osisID='Prov.23.26'>Věnuj mi, synu můj, své srdce, nespouštěj oči z cesty mé:</verse>
+        <verse osisID='Prov.23.27'>Nevěstka je jak bezedná jáma, těsnou studnou se stane svůdkyně.</verse>
+        <verse osisID='Prov.23.28'>Jak lupič ve skrytu na kořist číhá, řady nevěrníků spěchá rozmnožit!</verse>
+        <verse osisID='Prov.23.29'>Čí to "au" a čí to "oj"? Čí ten křik a čí ten boj? Čí boulí bezpočet? Čí oči zarudlé?</verse>
+        <verse osisID='Prov.23.30'>Těch, kdo u vína vysedávají, těch, kdo vyhledávají nápoje!</verse>
+        <verse osisID='Prov.23.31'>Do vína nezahleď se - jak rudé je, jak v poháru jen jiskří, jak hladce klouže do hrdla!</verse>
+        <verse osisID='Prov.23.32'>Nakonec ale jako zmije uštkne, dokáže otrávit jako had.</verse>
+        <verse osisID='Prov.23.33'>Tvé oči uvidí prapodivně, tvé srdce bude mluvit spleteně.</verse>
+        <verse osisID='Prov.23.34'>Bude ti, jako bys usnul na moři, jako bys ulehl stožáru na špici.</verse>
+        <verse osisID='Prov.23.35'>Prý: Dostal jsem ránu? Nebolí! Že zbili mě? Už nevím kdy! Až se proberu, dám si víc!</verse>
+      </chapter>
+      <chapter osisID='Prov.24'>
+        <verse osisID='Prov.24.1'>K zlým lidem nechovej žádnou závist, po jejich společnosti nedychti.</verse>
+        <verse osisID='Prov.24.2'>V srdcích přemýšlejí o násilí, svými rty mluví, aby trápili.</verse>
+        <verse osisID='Prov.24.3'>Moudrost dovede postavit dům, šikovnost jej umí upevnit.</verse>
+        <verse osisID='Prov.24.4'>Poznání pak jeho pokoje plní majetkem vzácným a překrásným.</verse>
+        <verse osisID='Prov.24.5'>Moudrý zmůže víc než velký silák, ten, kdo má znalosti, sílu přemáhá.</verse>
+        <verse osisID='Prov.24.6'>Svůj boj vyhraješ dík dobrým radám, ve množství rádců je záchrana.</verse>
+        <verse osisID='Prov.24.7'>Hlupák na moudrost nedosáhne, ve shromáždění obce musí pomlčet.</verse>
+        <verse osisID='Prov.24.8'>Kdo stále vymýšlí, jak by škodil, toho pojmenují Úskočný.</verse>
+        <verse osisID='Prov.24.9'>Výmysly hlupáků jsou vlastně hřích, drzoun je každému odporný.</verse>
+        <verse osisID='Prov.24.10'>Pokud se budeš v těžký den hroutit, tvá síla za moc nestojí.</verse>
+        <verse osisID='Prov.24.11'>Zachraňuj ty, kdo jsou vlečeni k smrti, ujmi se těch, jež vedou k popravě!</verse>
+        <verse osisID='Prov.24.12'>Copak chceš říci: "My jsme to nevěděli"? Tomu, jenž zkoumá srdce, vše jasné je! Strážce tvé duše o všem ví, každému jeho skutky odplatí!</verse>
+        <verse osisID='Prov.24.13'>Jez med, můj synu, vždyť je tak dobrý, plástev je sladká na patře.</verse>
+        <verse osisID='Prov.24.14'>Právě tak zachutná tvé duši moudrost - najdeš-li ji, budoucnost patří tobě, tvá naděje tě nezklame!</verse>
+        <verse osisID='Prov.24.15'>Nečíhej, ničemo, u bytu spravedlivého, neodvažuj se škodit jeho příbytku!</verse>
+        <verse osisID='Prov.24.16'>Spravedlivý vstane, i kdyby sedmkrát padl, jediné sklouznutí ale zničí ničemu.</verse>
+        <verse osisID='Prov.24.17'>Neraduj se, když tvůj nepřítel padne, nejásej v srdci nad jeho klesnutím.</verse>
+        <verse osisID='Prov.24.18'>Hospodinu by se nelíbil ten pohled, mohl by od něj odvrátit svůj hněv.</verse>
+        <verse osisID='Prov.24.19'>Kvůli zlosynům se nemusíš zlobit, darebákům nemáš co závidět.</verse>
+        <verse osisID='Prov.24.20'>Budoucnost nečeká lidi zlé, svíce darebáků uhasne!</verse>
+        <verse osisID='Prov.24.21'>Cti Hospodina, synu, a také krále, nezačínej si s buřiči.</verse>
+        <verse osisID='Prov.24.22'>Vždyť jejich zkáza přijde nenadále; jak budou oba trestat, kdo to ví?</verse>
+        <verse osisID='Prov.24.23'>Zde jsou další slova mudrců: Stranit někomu u soudu není vůbec dobré.</verse>
+        <verse osisID='Prov.24.24'>Kdo omilostní darebáka, bude proklínán lidmi, takovému budou spílat národy.</verse>
+        <verse osisID='Prov.24.25'>Žalobci však bývají oblíbeni, takoví se jen chvály dočkají.</verse>
+        <verse osisID='Prov.24.26'>Upřímná odpověď - na rty polibek.</verse>
+        <verse osisID='Prov.24.27'>Zvládni svou práci venku, o své pozemky se postarej, potom si můžeš stavět dům.</verse>
+        <verse osisID='Prov.24.28'>Nesvědč proti bližnímu pro nic za nic; chceš snad oklamávat svými rty?</verse>
+        <verse osisID='Prov.24.29'>Neříkej: "Zachovám se k němu jak on ke mně, každému jeho skutky oplatím!"</verse>
+        <verse osisID='Prov.24.30'>Jednou jsem šel kolem lenochova pole, kolem vinice někoho, kdo přišel o rozum -</verse>
+        <verse osisID='Prov.24.31'>všechno bylo zarostlé trním, všechno pokrývaly kopřivy, kamenná zídka celá zbořená!</verse>
+        <verse osisID='Prov.24.32'>To, co jsem viděl, jsem si vzal k srdci, z onoho pohledu jsem se poučil:</verse>
+        <verse osisID='Prov.24.33'>Chvilku si pospíš, chvilku zdřímneš, na chvilku složíš ruce a poležíš;</verse>
+        <verse osisID='Prov.24.34'>najednou tě jak tulák navštíví nouze, bída tě přepadne jako loupežník!</verse>
+      </chapter>
+      <chapter osisID='Prov.25'>
+        <verse osisID='Prov.25.1'>Zde jsou další Šalomounova přísloví, shromážděná na dvoře judského krále Ezechiáše:</verse>
+        <verse osisID='Prov.25.2'>Slávou Boží je věc tajit, slávou králů je věc prozkoumat.</verse>
+        <verse osisID='Prov.25.3'>Jak výšku nebe a hlubiny země, tak srdce králů nelze vystihnout.</verse>
+        <verse osisID='Prov.25.4'>Když se od stříbra odloučí struska, zlatníkovi se ukáže ryzí kov.</verse>
+        <verse osisID='Prov.25.5'>Když od krále odloučí darebáka, spravedlností se zpevní jeho trůn.</verse>
+        <verse osisID='Prov.25.6'>Před králem se nedělej důležitým, mezi významné lidi nestav se.</verse>
+        <verse osisID='Prov.25.7'>Je lepší být vyzván: "Pojď výše," než být před urozenými ponížen. I když něco spatříš na vlastní oči,</verse>
+        <verse osisID='Prov.25.8'>nepouštěj se pro to rychle do sporu. Co by sis mohl nakonec počít, kdyby tě tvůj bližní k hanbě přivedl?</verse>
+        <verse osisID='Prov.25.9'>Spor se svým bližním když vyřizuješ, neodhaluj cizí tajemství.</verse>
+        <verse osisID='Prov.25.10'>Ten, kdo to uslyší, potom potupí tě, tvá špatná pověst tě už nepustí!</verse>
+        <verse osisID='Prov.25.11'>Zlatá jablka na stříbrných mísách jsou slova řečená v pravý čas.</verse>
+        <verse osisID='Prov.25.12'>Zlatá náušnice, klenot z ryzího kovu je moudrá výtka pro vnímavý sluch.</verse>
+        <verse osisID='Prov.25.13'>Chladivým sněhem uprostřed léta je věrný posel těm, kdo jej vyslali; duši svých pánů jistě občerství!</verse>
+        <verse osisID='Prov.25.14'>Oblaka, vítr - a žádný déšť! Chvástavé sliby - samé chyby!</verse>
+        <verse osisID='Prov.25.15'>Trpělivostí si i vůdce nakloníš; jemný jazyk i kosti rozdrtí.</verse>
+        <verse osisID='Prov.25.16'>Najdeš-li med, jez ho s mírou; jinak se přesytíš a zvrátíš jej.</verse>
+        <verse osisID='Prov.25.17'>Navštěvuj svého přítele jen vzácně, jinak se přesytí a znenávidí tě.</verse>
+        <verse osisID='Prov.25.18'>Kdo proti bližnímu křivě svědčí, je jako kyj, jak meč, jak ostrý šíp.</verse>
+        <verse osisID='Prov.25.19'>Jak vyražený zub, jak vykloubená noha je důvěra ve zrádce v těžký den.</verse>
+        <verse osisID='Prov.25.20'>Obírat o šaty v chladný den, nalévat ocet do rány - totéž je truchlivému zpívat písničky.</verse>
+        <verse osisID='Prov.25.21'>Hladoví-li tvůj nepřítel, dej mu jíst, a pokud žízní, dej mu pít.</verse>
+        <verse osisID='Prov.25.22'>Na hlavu shrneš mu tím žhavé uhlí, sám Hospodin ti odplatí.</verse>
+        <verse osisID='Prov.25.23'>Severní vítr s sebou nese liják, tajné řeči pak zlobné pohledy.</verse>
+        <verse osisID='Prov.25.24'>Lepší je stěhovat se do kouta na střechu než s hašteřivou ženou sdílet dům.</verse>
+        <verse osisID='Prov.25.25'>Chladivá voda pro hrdlo vyprahlé je dobrá novina ze země daleké.</verse>
+        <verse osisID='Prov.25.26'>Zakalený je pramen, studna zkažená, když spravedlivý před ničemou kolísá.</verse>
+        <verse osisID='Prov.25.27'>Jíst mnoho medu nemusí být dobré, usilovat o slávu může být neslavné.</verse>
+        <verse osisID='Prov.25.28'>Bezbranné město, zborcená hradba je ten, kdo sám sebe nezvládá.</verse>
+      </chapter>
+      <chapter osisID='Prov.26'>
+        <verse osisID='Prov.26.1'>Jako sníh létu, jako sklizni déšť, asi tak sluší tupci čest.</verse>
+        <verse osisID='Prov.26.2'>Vrabec přeletí, vlaštovka se mihne, bezdůvodná kletba k cíli nedojde.</verse>
+        <verse osisID='Prov.26.3'>Na koně je bič, na osla uzda, na hřbety tupců ale hůl.</verse>
+        <verse osisID='Prov.26.4'>Neodpovídej tupci na jeho tupost, aby ses mu sám nezačal podobat.</verse>
+        <verse osisID='Prov.26.5'>Odpověz tupci na jeho tupost, aby si přestal moudrý připadat.</verse>
+        <verse osisID='Prov.26.6'>Uřezává si nohy, pije utrejch, kdo se zprávou tupce posílá.</verse>
+        <verse osisID='Prov.26.7'>Chabé jak zmrzačené nohy je přísloví v ústech tupcových.</verse>
+        <verse osisID='Prov.26.8'>Jako do praku nabíjet kámen je tupci prokazovat čest.</verse>
+        <verse osisID='Prov.26.9'>Jako trn v ruce opilce je přísloví v ústech pitomce.</verse>
+        <verse osisID='Prov.26.10'>Jako lučištník, jenž střílí naslepo, je ten, kdo najímá tupce jdoucího okolo.</verse>
+        <verse osisID='Prov.26.11'>Jako se pes vrací k vlastním zvratkům, tak tupec opakuje vlastní pitomost.</verse>
+        <verse osisID='Prov.26.12'>Viděl jsi člověka, co si moudrý připadá? Více se dá čekat od hlupáka!</verse>
+        <verse osisID='Prov.26.13'>Lenoch říká: "Šelma je na cestě! Po ulicích běhá lev!"</verse>
+        <verse osisID='Prov.26.14'>Dveře se otáčejí v pantech, lenoch v peřině.</verse>
+        <verse osisID='Prov.26.15'>Lenoch k talíři ruku natáhne, zvednout ji k ústům už ale nezvládne.</verse>
+        <verse osisID='Prov.26.16'>Lenoch sám sobě připadá moudrý nad sedm rádců zkušených.</verse>
+        <verse osisID='Prov.26.17'>Tahá za uši rozběhnutého psa, kdo plete se do sporu, jenž se ho netýká.</verse>
+        <verse osisID='Prov.26.18'>Jako šílenec, jenž rozsévá smrt zápalnými šípy, které vypouští,</verse>
+        <verse osisID='Prov.26.19'>takový je, kdo svému bližnímu lže a potom říká: "Vždyť to byl žert!"</verse>
+        <verse osisID='Prov.26.20'>Chybí-li dřevo, hasne žár; chybí-li pomlouvač, tichne svár.</verse>
+        <verse osisID='Prov.26.21'>Uhlí je pro výheň, dřevo pro oheň, svárlivý člověk pro vzplanutí rozepře.</verse>
+        <verse osisID='Prov.26.22'>Pomluvy se pamlsky být zdají, hluboko do nitra ale padají.</verse>
+        <verse osisID='Prov.26.23'>Stříbrná glazura na střepu hliněném jsou vřelé rty na srdci zlém.</verse>
+        <verse osisID='Prov.26.24'>Ten, kdo nenávidí, se v řeči přetvařuje, hluboko v nitru ale chová lest.</verse>
+        <verse osisID='Prov.26.25'>Jeho příjemným řečem vůbec nevěř - v srdci má sedmerou ohavnost!</verse>
+        <verse osisID='Prov.26.26'>I když se nenávist za přetvářku skrývá, přece pak veřejně bývá odhalena.</verse>
+        <verse osisID='Prov.26.27'>Kdo jámu kopá, sám do ní padá; kdo valí balvan, toho zavalí.</verse>
+        <verse osisID='Prov.26.28'>Prolhaný jazyk svou oběť nenávidí, úlisná ústa zkázu chystají.</verse>
+      </chapter>
+      <chapter osisID='Prov.27'>
+        <verse osisID='Prov.27.1'>Nechlub se tím, co bude zítra - netušíš ani, co bude dnes!</verse>
+        <verse osisID='Prov.27.2'>Ať tě chválí druzí, a ne tvá vlastní ústa, ať jsou to cizí, a ne tvé vlastní rty.</verse>
+        <verse osisID='Prov.27.3'>Kámen tlačí a písek tíží, vydržet s tupcem je těžší než obojí.</verse>
+        <verse osisID='Prov.27.4'>Zloba je krutá a hněv prudký, kdo však obstojí před závistí?</verse>
+        <verse osisID='Prov.27.5'>Lepší otevřené pokárání nežli tajené milování.</verse>
+        <verse osisID='Prov.27.6'>Bezpečnější jsou rány od přítele než hojné polibky od soka.</verse>
+        <verse osisID='Prov.27.7'>Sytý i pláství medu pohrdá, hladovému se každá hořkost sladká zdá.</verse>
+        <verse osisID='Prov.27.8'>Jako pták vyplašený ze svého hnízda je člověk prchající z domova.</verse>
+        <verse osisID='Prov.27.9'>Olej a kadidlo oblažují srdce, přítel je vítanější než vlastní úsudek.</verse>
+        <verse osisID='Prov.27.10'>Svého ani otcova přítele neopouštěj. Do domu svého bratra nechoď v nesnázích - lepší je blízký soused než bratr vzdálený!</verse>
+        <verse osisID='Prov.27.11'>Potěš mé srdce, synu, a buď moudrý, ať mám co odpovědět na cizí urážky.</verse>
+        <verse osisID='Prov.27.12'>Rozvážný vidí hrozbu a vyhne se jí, prosťáčci však jdou dál, až na to doplatí.</verse>
+        <verse osisID='Prov.27.13'>Vezmi plášť tomu, kdo ručí za cizího, když ručí za cizinku, vezmi si zástavu.</verse>
+        <verse osisID='Prov.27.14'>Kdo svému příteli halasně žehná už brzy od rána, za kletbu se mu to počítá.</verse>
+        <verse osisID='Prov.27.15'>Věčnému crčení v období dešťů se hašteřivá žena podobá.</verse>
+        <verse osisID='Prov.27.16'>Kdo ji chce zkrotit, chce zkrotit vítr, do pravé ruky chce olej pochytat.</verse>
+        <verse osisID='Prov.27.17'>Železo se brousí železem, tak přítel brousí svého přítele.</verse>
+        <verse osisID='Prov.27.18'>Kdo pěstuje fíkovník, bude jíst fíky, kdo pečuje o pána, vyslouží si díky.</verse>
+        <verse osisID='Prov.27.19'>Hladina zrcadlí lidskou tvář, člověk zrcadlí srdce člověka.</verse>
+        <verse osisID='Prov.27.20'>Hrob a záhuba se nikdy nenasytí, právě tak nenasytné jsou lidské oči.</verse>
+        <verse osisID='Prov.27.21'>Na stříbro je tyglík, na zlato pec, podle své pověsti člověk pozná se.</verse>
+        <verse osisID='Prov.27.22'>I kdybys hňupa v hmoždíři napadrť rozdrtil palicí, nezbavil bys ho hlouposti!</verse>
+        <verse osisID='Prov.27.23'>Své ovce znej na první pohled, své srdce věnuj svému stádu.</verse>
+        <verse osisID='Prov.27.24'>Bohatství přece netrvá věčně, netrvá ani koruna králů.</verse>
+        <verse osisID='Prov.27.25'>Tráva však vyroste na posekané louce, seno se znovu sveze z hor.</verse>
+        <verse osisID='Prov.27.26'>Beránci kdykoli oděv ti poskytnou, za kozlíky si koupíš pozemek.</verse>
+        <verse osisID='Prov.27.27'>Kozího mléka bude dostatek, pokrm pro tebe i pro tvou rodinu, dostatek živobytí i pro tvou čeládku!</verse>
+      </chapter>
+      <chapter osisID='Prov.28'>
+        <verse osisID='Prov.28.1'>Darebáci prchají, i když je nikdo nehoní, spravedliví jsou smělí jako lvi.</verse>
+        <verse osisID='Prov.28.2'>Když je v zemi bezpráví, mnozí v ní panují; vládce znalý a rozumný se dlouho udrží.</verse>
+        <verse osisID='Prov.28.3'>Když nuzný člověk utiskuje chudáky, je jako průtrž, co zničí obilí!</verse>
+        <verse osisID='Prov.28.4'>Ti, kdo opouštějí Zákon, velebí darebáka, kdo Zákon dodržují, se staví proti nim.</verse>
+        <verse osisID='Prov.28.5'>Spravedlnost je nad chápání zlých lidí, hledači Hospodina ji plně pochopí.</verse>
+        <verse osisID='Prov.28.6'>Lepší poctivý chudák nežli zkažený boháč.</verse>
+        <verse osisID='Prov.28.7'>Rozumný syn pečlivě plní Zákon, přítel hodovníků je otci k ostudě.</verse>
+        <verse osisID='Prov.28.8'>Kdo bohatne lichvou a ceny nadsazuje, hromadí pro toho, kdo myslí na chudé.</verse>
+        <verse osisID='Prov.28.9'>Když někdo odvrací ucho, aby neslyšel Zákon, i jeho modlitba bude ohavná!</verse>
+        <verse osisID='Prov.28.10'>Do vlastní jámy padne svůdce poctivých, na bezúhonné čeká skvělé dědictví.</verse>
+        <verse osisID='Prov.28.11'>Boháč sám sobě připadá moudrý, rozumný chudák ho však odhalí.</verse>
+        <verse osisID='Prov.28.12'>Když jásají spravedliví, je to veliká sláva, když mají darebáci navrch, každý se schovává.</verse>
+        <verse osisID='Prov.28.13'>Kdo přikrývá své viny, úspěchu nedosáhne, kdo vyznává a opouští je, dojde milosti.</verse>
+        <verse osisID='Prov.28.14'>Blaze tomu, kdo je vždy opatrný, kdo zatvrzuje srdce, špatně dopadne.</verse>
+        <verse osisID='Prov.28.15'>Jako lev řvoucí, jak medvěd zuřivý je ničemný panovník nad lidem ubohým.</verse>
+        <verse osisID='Prov.28.16'>Vůdce, jenž nemyslí, tím více utlačuje; ten, komu nejde o zisk, tu dlouho zůstane.</verse>
+        <verse osisID='Prov.28.17'>Člověk obtížený vraždou se řítí do jámy, od takového ruce pryč!</verse>
+        <verse osisID='Prov.28.18'>Kdo žije poctivě, ten zachován bude, kdo jde křivolakou cestou, náhle upadne.</verse>
+        <verse osisID='Prov.28.19'>Kdo obdělává pole, nasytí se chlebem, bídy se nasytí, kdo honí vidiny.</verse>
+        <verse osisID='Prov.28.20'>Věrného člověka požehnání zahrne, kdo spěchá zbohatnout, trestu neujde.</verse>
+        <verse osisID='Prov.28.21'>Stranit někomu jistě dobré není; i pro kus chleba se mnohý proviní.</verse>
+        <verse osisID='Prov.28.22'>Lakomec štve se za majetkem, neví, že skončí v chudobě.</verse>
+        <verse osisID='Prov.28.23'>Kdo kárá, nakonec dojde ocenění spíše než jazyk, který jen lichotí.</verse>
+        <verse osisID='Prov.28.24'>Odírat rodiče prý žádný hřích není - to může říkat jen vrahův společník!</verse>
+        <verse osisID='Prov.28.25'>Chamtivý člověk podněcuje sváry, kdo doufá v Hospodina, bude úspěšný.</verse>
+        <verse osisID='Prov.28.26'>Na vlastní rozum spoléhá jen tupec, kdo ale žije moudře, bude zachráněn.</verse>
+        <verse osisID='Prov.28.27'>Kdo dává chudému, nebude trpět nouzi, kdo zakrývá si oči, potká ho prokletí.</verse>
+        <verse osisID='Prov.28.28'>Když mají darebáci navrch, každý se ukrývá, když na ně přijde záhuba, spravedlivých přibývá.</verse>
+      </chapter>
+      <chapter osisID='Prov.29'>
+        <verse osisID='Prov.29.1'>Z často káraného se stane zatvrzelý, když náhle zhroutí se, nebude pomoci.</verse>
+        <verse osisID='Prov.29.2'>Z rozmachu spravedlivých lid se raduje, když vládnou darebáci, národ běduje.</verse>
+        <verse osisID='Prov.29.3'>Kdo miluje moudrost, působí otci radost, přítel nevěstek však mrhá majetek.</verse>
+        <verse osisID='Prov.29.4'>Spravedlností král posiluje zemi, kdo ale zvyšuje daně, ten ji pustoší.</verse>
+        <verse osisID='Prov.29.5'>Kdo svému bližnímu lichotí, prostírá před jeho nohy síť.</verse>
+        <verse osisID='Prov.29.6'>Zlý člověk vězí v pasti hříchu, spravedlivý je plný radostného smíchu.</verse>
+        <verse osisID='Prov.29.7'>Spravedlivý má zájem o právo ubohých, darebák o tom nechce vědět nic.</verse>
+        <verse osisID='Prov.29.8'>Drzouni dovedou vzbouřit město, mudrci dovedou odvrátit hněv.</verse>
+        <verse osisID='Prov.29.9'>S hlupákem když se moudrý dohaduje, pohrůžky, posměch, nic nikam nevede!</verse>
+        <verse osisID='Prov.29.10'>Krvelační poctivce nenávidí, upřímnému se sápou po krku.</verse>
+        <verse osisID='Prov.29.11'>Tupec dá průchod všem svým citům, moudrý se ale drží zpět.</verse>
+        <verse osisID='Prov.29.12'>Panovník, jenž dá na lživé řeči, bude mít za služebníky samé ničemy.</verse>
+        <verse osisID='Prov.29.13'>Chudák a vyděrač mají jedno společné: oběma dal Hospodin vidět světlo dne.</verse>
+        <verse osisID='Prov.29.14'>Soudí-li král i chudé poctivě, jeho trůn bude navěky upevněn.</verse>
+        <verse osisID='Prov.29.15'>Moudrosti dodává metla a domluva, rozpustilé dítě je pro matku ostuda.</verse>
+        <verse osisID='Prov.29.16'>Když přibývá darebáků, hříchu přibývá, spravedliví však spatří jejich pád.</verse>
+        <verse osisID='Prov.29.17'>Vychovávej syna, a dá ti odpočinutí, potěšením tvou duši nasytí.</verse>
+        <verse osisID='Prov.29.18'>Kde chybí zjevení, lid ztrácí zábrany, kdo ale plní Zákon, ten je blažený.</verse>
+        <verse osisID='Prov.29.19'>Netrestej otroka pouhými slovy; rozumí sice, ale neodpoví!</verse>
+        <verse osisID='Prov.29.20'>Viděl jsi člověka, co v řeči pospíchá? Více se dá čekat od hlupáka!</verse>
+        <verse osisID='Prov.29.21'>Když někdo otroka odmalička hýčká, bude mít z něho nevděčníka.</verse>
+        <verse osisID='Prov.29.22'>Hněvivý člověk vzbuzuje různice, kdo je vznětlivý, hřeší velice.</verse>
+        <verse osisID='Prov.29.23'>Vlastní povýšenost člověka poníží, kdo je poníženého ducha, dojde uznání.</verse>
+        <verse osisID='Prov.29.24'>Zlodějův společník sám sobě škodí, když ani pod přísahou nic nepoví.</verse>
+        <verse osisID='Prov.29.25'>Strach z lidí člověka nakonec ochromí, kdo doufá v Hospodina, však žije v bezpečí.</verse>
+        <verse osisID='Prov.29.26'>Kdekdo si touží mocné naklonit, soudcem všech lidí je však Hospodin.</verse>
+        <verse osisID='Prov.29.27'>Spravedlivým se hnusí, kdo křivdy páchají, darebákům se hnusí poctiví.</verse>
+      </chapter>
+      <chapter osisID='Prov.30'>
+        <verse osisID='Prov.30.1'>Slova Agura, syna Jákeho z Massy. Výrok onoho muže k Itielovi, k Itielovi a Uchalovi:</verse>
+        <verse osisID='Prov.30.2'>Nesporně jsem ten nejtupější z lidí a běžná rozumnost mi zcela uniká.</verse>
+        <verse osisID='Prov.30.3'>Moudrosti jsem se nenaučil, poznání Svatého jsem nedosáh.</verse>
+        <verse osisID='Prov.30.4'>Kdo vystoupil do nebe, aby se vrátil? Kdo pobral vítr do dlaní? Kdo shrnul moře do pláště? Kdo založil všechny zemské končiny? Víš, jak se jmenuje? A jak jeho syn?</verse>
+        <verse osisID='Prov.30.5'>Veškerá Boží řeč je ryzí, on je štít těch, kdo v něho doufají.</verse>
+        <verse osisID='Prov.30.6'>K jeho slovům nic nepřidávej, jinak tě pokárá a ze lži usvědčí.</verse>
+        <verse osisID='Prov.30.7'>Jen o dvě věci jsem tě žádal, neodpírej mi je, dokud nezemřu:</verse>
+        <verse osisID='Prov.30.8'>Klam a lživá slova ode mne vzdal, nedávej mi bohatství ani chudobu. Syť mě pokrmem tak, jak potřebuji,</verse>
+        <verse osisID='Prov.30.9'>abych tě přesycen nezradil a nikdy neřekl: "Kdo je Hospodin?" Též abych nekradl, jsa v nouzi, a Boží jméno netupil.</verse>
+        <verse osisID='Prov.30.10'>Neosočuj otroka před jeho pánem, aby ti nezlořečil a abys nepykal!</verse>
+        <verse osisID='Prov.30.11'>Je pokolení, jež zlořečí otci a svojí matce nežehná.</verse>
+        <verse osisID='Prov.30.12'>Je pokolení, jež se sobě zdá čisté, od svojí špíny však není omyté.</verse>
+        <verse osisID='Prov.30.13'>Je pokolení - ó jak povýšeně hledí, jak vysoko zvedá svoje obočí!</verse>
+        <verse osisID='Prov.30.14'>Je pokolení s meči místo zubů a s dýkami namísto řezáků, aby spolykali ubožáky země a všechny chudáky na světě.</verse>
+        <verse osisID='Prov.30.15'>Pijavice má dvě dcery: Dej, Dej! Tři věci se nikdy nenasytí, čtyři nikdy neříkají Dost:</verse>
+        <verse osisID='Prov.30.16'>hrob, neplodné lůno, nezavlažená země a nezkrotitelný oheň.</verse>
+        <verse osisID='Prov.30.17'>Tomu, kdo vysmívá se otci a poslušností k matce pohrdá, havrani od potoka vyklovou oči, spolykají mu je orlí mláďata.</verse>
+        <verse osisID='Prov.30.18'>Tři věci ve mně budí úžas, čtyři jsou nad mé chápání:</verse>
+        <verse osisID='Prov.30.19'>cesta orla nebem, cesta hada skálou, cesta lodi mořem a cesta muže s pannou.</verse>
+        <verse osisID='Prov.30.20'>Taková je cesta cizoložné ženy - pojí, otře si ústa a řekne: "Neprovedla jsem nic špatného."</verse>
+        <verse osisID='Prov.30.21'>Před třemi věcmi se chvěje země a čtyři nedokáže snést:</verse>
+        <verse osisID='Prov.30.22'>když služebník začne kralovat, když se hlupák může jídlem cpát,</verse>
+        <verse osisID='Prov.30.23'>když se nepříjemná žena vdá a když služka svou paní vystřídá.</verse>
+        <verse osisID='Prov.30.24'>Tito čtyři jsou na zemi nepatrní, nad mudrce jsou ale moudřejší:</verse>
+        <verse osisID='Prov.30.25'>mravenci, národ nepříliš silný, v létě si ale chystají zásoby;</verse>
+        <verse osisID='Prov.30.26'>králíci, národ nepříliš mocný, ve skále si však staví obydlí;</verse>
+        <verse osisID='Prov.30.27'>kobylky sice krále nemají, všechny však v jednom šiku vyráží;</verse>
+        <verse osisID='Prov.30.28'>pavouka sice chytíš do ruky, bydlí však v královských palácích.</verse>
+        <verse osisID='Prov.30.29'>Tito tři mají vznešenou chůzi a čtyři kráčí nádherně:</verse>
+        <verse osisID='Prov.30.30'>lev, nejudatnější zvíře, jež nikoho se neleká,</verse>
+        <verse osisID='Prov.30.31'>osedlaný kůň, kozel a nepřemožitelný král.</verse>
+        <verse osisID='Prov.30.32'>Pokud ses bláhově chvástal, pokud sis vymýšlel - ruku na ústa!</verse>
+        <verse osisID='Prov.30.33'>Pod tlakem vzniká z mléka máslo, pod tlakem vytéká z nosu krev, pod tlakem hněvu vzniká svár.</verse>
+      </chapter>
+      <chapter osisID='Prov.31'>
+        <verse osisID='Prov.31.1'>Slova Lemuele, krále z Massy, výroky, jimž ho matka učila:</verse>
+        <verse osisID='Prov.31.2'>Co říci, synu můj? Co, synu mého lůna? Co říci, synu zaslíbený?</verse>
+        <verse osisID='Prov.31.3'>Nemarni s ženami svoji sílu, nepokaz cestu, jež králům náleží.</verse>
+        <verse osisID='Prov.31.4'>Nenáleží, ó Lemueli, králům, nenáleží králům víno pít, vladařům pivo nesluší.</verse>
+        <verse osisID='Prov.31.5'>Kdyby pil, mohl by zapomenout na povinnosti, mohl by překroutit právo všech soužených.</verse>
+        <verse osisID='Prov.31.6'>Umírajícím dejte pít pivo a víno těm, kdo hořkost zakouší.</verse>
+        <verse osisID='Prov.31.7'>Když se napijí, na bídu zapomenou, přestanou myslet na své trápení.</verse>
+        <verse osisID='Prov.31.8'>Otevři ústa za ty, jimž hlas chybí, a za práva všech bezmocných.</verse>
+        <verse osisID='Prov.31.9'>Otevři ústa, suď spravedlivě, zastaň se chudých a ubohých!</verse>
+        <verse osisID='Prov.31.10'>Znamenitá žena - ta je k pohledání, mnohem vzácnější je nad perly!</verse>
+        <verse osisID='Prov.31.11'>Manžel jí důvěřuje ze srdce, žádný užitek tu chybět nebude.</verse>
+        <verse osisID='Prov.31.12'>Je na něj hodná, a ne zlá po všechny dny svého života.</verse>
+        <verse osisID='Prov.31.13'>Vlnu a len si sama nakoupí, pracovat rukama je pro ni radostí.</verse>
+        <verse osisID='Prov.31.14'>Kupecké lodi se podobá: přináší pokrmy zdaleka.</verse>
+        <verse osisID='Prov.31.15'>Ráno vstává, než se rozední, celé své rodině jídlo připraví, také svým služebným rozdělí úkoly.</verse>
+        <verse osisID='Prov.31.16'>Posoudí pozemek a sama jej pořídí, z vlastního výdělku sází vinici.</verse>
+        <verse osisID='Prov.31.17'>Odhodlaně se pouští do díla, sílu svých paží umí dokázat.</verse>
+        <verse osisID='Prov.31.18'>Užitek vlastní píle zakouší, její svíce září dlouho do noci.</verse>
+        <verse osisID='Prov.31.19'>Přeslici bere do rukou, prsty přidržuje vřeteno.</verse>
+        <verse osisID='Prov.31.20'>Štědře otvírá svou dlaň ubohým, pomocnou ruku chudým nabízí.</verse>
+        <verse osisID='Prov.31.21'>Nemá strach o rodinu, ani když padá sníh, celá její domácnost má po dvou oblecích.</verse>
+        <verse osisID='Prov.31.22'>Kmentové přikrývky sama ušije a obléká se šarlatem.</verse>
+        <verse osisID='Prov.31.23'>Její manžel je v branách uznáván, kde s představenými země zasedá.</verse>
+        <verse osisID='Prov.31.24'>Prodává košile, které ušila, zdobené pásy kupcům dodává.</verse>
+        <verse osisID='Prov.31.25'>Síla a krása jsou jejím oděvem, s úsměvem vyhlíží další den.</verse>
+        <verse osisID='Prov.31.26'>Její ústa mluví s moudrostí, její jazyk učí vlídnosti.</verse>
+        <verse osisID='Prov.31.27'>Na chod svého domu dohlíží, nesytí se chlebem zahálky.</verse>
+        <verse osisID='Prov.31.28'>Její synové jí vstoje dobrořečí, její manžel ji takto velebí:</verse>
+        <verse osisID='Prov.31.29'>"Je mnoho znamenitých žen, ty ale všechny převyšuješ je!"</verse>
+        <verse osisID='Prov.31.30'>Klamný je půvab a krása pomíjí; žena, jež Hospodina ctí, si chválu zaslouží.</verse>
+        <verse osisID='Prov.31.31'>Dejte jí odměnu za její úsilí, její činy ať ji v branách velebí!</verse>
+      </chapter>
+    </div></osisText>
+</osis>

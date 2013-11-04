@@ -1,0 +1,522 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace'>
+  <osisText osisRefWork='Bible' osisIDWork='CzeB21' xml:lang='cs'>
+    <header>
+      <revisionDesc>
+        <date>2010-02-26</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='CzeB21'>
+        <title>Czech Bible, Překlad 21. století</title>
+        <contributor/>
+        <creator>Mod2Zef (4)</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject/>
+        <date>2009-07-31</date>
+        <description>Bible, Překlad 21. století  vedoucí projektu Alexandr Flek  odborná spolupráce Jiří Hedánek, Pavel Hoffman, Zdeněk Sýkora  Přeloženo z hebrejštiny, aramejštiny, řečtiny  Vydání první  (c) 2009 Biblion, o. s.  www.bible21.org  www.bible21.cz   Překlad 21. století přináší nadčasové poselství Bible v současné, čtivé češtině. Usiluje o maximální věrnost původním hebrejským, aramejským a řeckým textům, zároveň však chce oslovit dnešní čtenáře, ať už jsou zvyklí čerpat z této knihy inspiraci pro každý den, anebo ji otevírají poprvé.</description>
+        <publisher/>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>CzeB21</identifier>
+        <source>no entry TextSource in sword.conf found</source>
+        <language type='IETF'>cs</language>
+        <relation/>
+        <coverage>provide the bible to the nations of the world</coverage>
+        <rights>Copyrighted; Permission to distribute granted to CrossWire</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='Neh'>
+      <chapter osisID='Neh.1'>
+        <verse osisID='Neh.1.1'>Slova Nehemiáše, syna Chakaliášova. V měsíci kislev dvacátého roku jsem byl v královském paláci v Súsách.</verse>
+        <verse osisID='Neh.1.2'>Tehdy přišel Chanani, jeden z mých bratří, s dalšími muži z Judska, a tak jsem se zeptal na pozůstatek Židů, kteří unikli vystěhování, a na Jeruzalém.</verse>
+        <verse osisID='Neh.1.3'>Odpověděli mi: "Pozůstalí, kteří unikli vystěhování, jsou v tom kraji ve veliké bídě a potupě. Hradby Jeruzaléma jsou pobořeny a brány spáleny."</verse>
+        <verse osisID='Neh.1.4'>Jakmile jsem ta slova uslyšel, usedl jsem a celé dny plakal a naříkal. Postil jsem se a modlil se k Bohu nebes</verse>
+        <verse osisID='Neh.1.5'>těmito slovy: "Ach, Bože nebes, Bože veliký a hrozný, jenž zachováváš smlouvu a milosrdenství těm, kdo tě milují a dodržují tvá přikázání,</verse>
+        <verse osisID='Neh.1.6'>nakloň mi prosím své ucho! Upři své oči k modlitbě svého služebníka, kterou se před tebou modlím dnem i nocí za tvé služebníky, syny Izraele! Vyznávám hříchy synů Izraele, jimiž jsme proti tobě zhřešili; i já a můj otcovský dům jsme zhřešili!</verse>
+        <verse osisID='Neh.1.7'>Zachovali jsme se k tobě hrozně - nedodrželi jsme přikázání, pravidla a zákony, jež jsi vydal svému služebníku Mojžíšovi.</verse>
+        <verse osisID='Neh.1.8'>Vzpomeň si prosím na slovo, jež jsi dal svému služebníku Mojžíšovi: ‚Budete-li mi nevěrní, rozptýlím vás mezi národy.</verse>
+        <verse osisID='Neh.1.9'>Pokud se ale ke mně navrátíte a budete zachovávat a plnit má přikázání, pak i kdybyste byli zahnáni na sám konec světa, i odtamtud vás shromáždím a přivedu na místo, jež jsem si vyvolil za příbytek pro své jméno.'</verse>
+        <verse osisID='Neh.1.10'>Vždyť to jsou tví služebníci, tvůj lid, který jsi vykoupil svou velikou mocí a silnou paží!</verse>
+        <verse osisID='Neh.1.11'>Ach, Pane, nakloň prosím své ucho k modlitbě svého služebníka i k modlitbě svých služebníků, kteří s potěšením ctí tvé jméno. Dej, ať tvůj služebník dnes uspěje a dojde slitování u toho člověka." Byl jsem totiž královským číšníkem.</verse>
+      </chapter>
+      <chapter osisID='Neh.2'>
+        <verse osisID='Neh.2.1'>V měsíci nísanu dvacátého roku Artaxerxova jsem obsluhoval krále. Když jsem králi nosil víno, nikdy jsem před ním nebýval zasmušilý.</verse>
+        <verse osisID='Neh.2.2'>Proto se mě král zeptal: "Proč se tváříš ztrápeně? Nejsi přece nemocný. Asi tě něco tíží." Ve velikém úleku</verse>
+        <verse osisID='Neh.2.3'>jsem králi odpověděl: "Král nechť žije navěky! Jak nemám mít ztrápenou tvář, když město, v němž jsou hroby mých předků, je rozbořeno a jeho brány zničil oheň."</verse>
+        <verse osisID='Neh.2.4'>"Co tedy žádáš?" zeptal se král. Modlil jsem se tedy k Bohu nebes</verse>
+        <verse osisID='Neh.2.5'>a odpověděl jsem králi takto: "Kdyby král ráčil a prokázal svému služebníku laskavost, pošli mě do Judska, do města, v němž jsou hroby mých předků, abych ho znovu vystavěl."</verse>
+        <verse osisID='Neh.2.6'>Král, po boku s chotí, se mě zeptal: "Jak dlouho tvá cesta potrvá? Kdy se vrátíš?" Když jsem mu udal dobu, král se rozhodl, že mě vyšle.</verse>
+        <verse osisID='Neh.2.7'>"Kdyby král ráčil," řekl jsem ještě králi, "mohl bych dostat doporučující listy pro místodržící za Eufratem, aby mi zajistili bezpečný průchod do Judska?</verse>
+        <verse osisID='Neh.2.8'>Mohl bych dostat také dopis pro Asafa, královského lesmistra, aby mi poskytl trámové dříví na brány chrámové pevnosti, na městské hradby a na dům, kde bych bydlel?" A král svolil, neboť můj Bůh nade mnou držel svou laskavou ruku.</verse>
+        <verse osisID='Neh.2.9'>Když jsem přišel k zaeufratským místodržícím, předal jsem jim královské listy. Král se mnou poslal vojenské velitele a jízdu.</verse>
+        <verse osisID='Neh.2.10'>Jakmile se to doslechl Sanbalat Choronský a úředník Tobiáš Amonský, popadla je strašná zlost, že přišli lidé, kteří se snaží o dobro synů Izraele.</verse>
+        <verse osisID='Neh.2.11'>Tak jsem dorazil do Jeruzaléma. Když jsem tam pobyl tři dny,</verse>
+        <verse osisID='Neh.2.12'>vstal jsem v noci a vzal s sebou jen několik mužů. Nikomu jsem neřekl, co mi můj Bůh položil na srdce, abych vykonal pro Jeruzalém. Ani zvířata jsem nevzal kromě toho, na němž jsem jel sám.</verse>
+        <verse osisID='Neh.2.13'>Tu noc jsem se vydal Údolní branou kolem Dračího pramene a k Hnojné bráně. Přitom jsem prohlížel pobořené jeruzalémské hradby a brány poničené ohněm.</verse>
+        <verse osisID='Neh.2.14'>Došel jsem ke Studniční bráně a až ke Královskému rybníku, tam už ale zvíře pode mnou nemělo kudy projít.</verse>
+        <verse osisID='Neh.2.15'>Pokračoval jsem tedy vzhůru do noci podél potoka a prohlížel hradby. Pak jsem se obrátil zpět, prošel Údolní bránou a vrátil se.</verse>
+        <verse osisID='Neh.2.16'>Hodnostáři netušili, kde jsem byl a co jsem dělal, neboť jsem do té doby Židům nic neprozradil, a to ani kněžím, knížatům, hodnostářům ani jiným úředníkům.</verse>
+        <verse osisID='Neh.2.17'>Teď jsem jim ale řekl: "Sami vidíte, jak bídně na tom jsme. Jeruzalém je zpustošený a jeho brány spálené. Pojďme znovu vystavět jeruzalémské hradby, ať skončí naše potupa!"</verse>
+        <verse osisID='Neh.2.18'>Potom jsem jim vyprávěl, jak nade mnou můj Bůh držel svou laskavou ruku a jaká slova ke mně pronesl král. "Pojďme stavět!" řekli na to a sebrali odvahu k tomu dobrému dílu.</verse>
+        <verse osisID='Neh.2.19'>Když se to doslechli Sanbalat Choronský, úředník Tobiáš Amonský a Gešem Arabský, začali se nám posmívat. Uráželi nás: "Co to tam provádíte za věci? Chcete se protivit králi?"</verse>
+        <verse osisID='Neh.2.20'>"Bůh nebes nám pomůže," odpověděl jsem jim na to. "My jsme jeho služebníci a začali jsme stavět. Vy ale v Jeruzalémě nemáte žádný podíl, právo ani nárok!"</verse>
+      </chapter>
+      <chapter osisID='Neh.3'>
+        <verse osisID='Neh.3.1'>Velekněz Eliašib se svými bratry kněžími se dal do práce a postavili Ovčí bránu. Upevnili trámy a osadili vrata. Pokračovali dál k věži Mea, a když ji zasvětili, postupovali až k věži Chananel.</verse>
+        <verse osisID='Neh.3.2'>Vedle nich stavěli muži z Jericha a vedle nich Zakur, syn Imriho.</verse>
+        <verse osisID='Neh.3.3'>Rybnou bránu stavěli synové Senaovi. Upevnili trámy a osadili vrata, zámky a závory.</verse>
+        <verse osisID='Neh.3.4'>Vedle nich opravoval Meremot, syn Uriáše, syna Kocova. Vedle nich opravoval Mešulam, syn Berechiáše, syna Mešezabelova. Vedle nich opravoval Sádok, syn Baanův.</verse>
+        <verse osisID='Neh.3.5'>Vedle nich opravovali muži z Tekoje, urození mezi nimi ale nesklonili šíji k práci pro svého Pána.</verse>
+        <verse osisID='Neh.3.6'>Ješanskou bránu opravovali Jojada, syn Paseachův, a Mešulam, syn Besodiášův. Upevnili trámy a osadili vrata, zámky a závory.</verse>
+        <verse osisID='Neh.3.7'>Vedle nich opravoval Melatiáš Gibeonský a Jadon Meronotský, muži z Gibeonu a z Micpy, kde bylo sídlo zaeufratského místodržitele.</verse>
+        <verse osisID='Neh.3.8'>Vedle něj opravoval zlatník Uziel, syn Charhajášův, a vedle něj mastičkář Chananiáš. Opevňovali Jeruzalém až k Široké hradbě.</verse>
+        <verse osisID='Neh.3.9'>Vedle nich opravoval Refajáš, syn Churův, správce poloviny jeruzalémského okresu.</verse>
+        <verse osisID='Neh.3.10'>Vedle nich opravoval Jedajáš, syn Charumafův, naproti svému domu. Vedle něj opravoval Chatuš, syn Chašabnejášův.</verse>
+        <verse osisID='Neh.3.11'>Další část včetně Pecné věže opravoval Malkiáš, syn Charimův, a Chašub, syn Pachat-moábův.</verse>
+        <verse osisID='Neh.3.12'>Vedle nich opravoval se svými dcerami Šalum, syn Lochešův, správce poloviny jeruzalémského okresu.</verse>
+        <verse osisID='Neh.3.13'>Údolní bránu opravoval Chanun a obyvatelé Zanoachu. Když ji vystavěli, osadili vrata, zámky a závory; opravili také na tisíc loktů hradby až k Hnojné bráně.</verse>
+        <verse osisID='Neh.3.14'>Hnojnou bránu opravil Malkiáš, syn Rechabův, správce okresu Bet-kerem. Když ji vystavěl, osadil vrata, zámky a závory.</verse>
+        <verse osisID='Neh.3.15'>Studniční bránu opravoval Šalun, syn Kol-chozeho, správce okresu Micpa. Když ji postavil a zastřešil, osadil vrata, zámky a závory. Opravil také hradbu u rybníka Šelach poblíž Královské zahrady až ke schodům dolů z Města Davidova.</verse>
+        <verse osisID='Neh.3.16'>Za ním opravoval Nehemiáš, syn Azbukův, správce poloviny okresu Bet-cur; skončil naproti Davidovu hřbitovu až u vodní nádrže a Domu hrdinů.</verse>
+        <verse osisID='Neh.3.17'>Za ním opravovali levité: Rechum, syn Baniho; vedle něj opravoval za svůj okres Chašabiáš, správce poloviny okresu Keíla;</verse>
+        <verse osisID='Neh.3.18'>za nimi opravovali jejich bratři vedení Binuim, synem Chenadadovým, správcem poloviny okresu Keíla.</verse>
+        <verse osisID='Neh.3.19'>Vedle něj Ezer, syn Ješuúv, správce Micpy, opravoval další část od stupňů ke zbrojnici až do rohu hradby.</verse>
+        <verse osisID='Neh.3.20'>Za ním Baruch, syn Zabajův, horlivě opravoval další část od rohu hradby ke vchodu do domu nejvyššího kněze Eliašiba.</verse>
+        <verse osisID='Neh.3.21'>Za ním Meremot, syn Uriáše, syna Kocova, opravoval další část od vchodu do Eliašibova domu až po místo, kde dům končil.</verse>
+        <verse osisID='Neh.3.22'>Za ním opravovali kněží z blízkého okolí.</verse>
+        <verse osisID='Neh.3.23'>Za nimi opravovali naproti svým domům Benjamín a Chašub. Za nimi opravoval u svého domu Azariáš, syn Maasejáše, syna Ananiášova.</verse>
+        <verse osisID='Neh.3.24'>Za ním opravoval další část Binui, syn Chenadadův, od Azariášova domu až k baště v rohu hradby.</verse>
+        <verse osisID='Neh.3.25'>Palal, syn Uzajův, opravoval naproti rohové baště a horní věži vysunuté před královským palácem u strážního nádvoří. Za ním opravoval Pedajáš, syn Parošův.</verse>
+        <verse osisID='Neh.3.26'>Chrámoví sluhové bydlící na Ofelu opravovali na východě naproti Vodní bráně a předsunuté věži.</verse>
+        <verse osisID='Neh.3.27'>Další část za ním opravovali Tekojští naproti velké předsunuté věži až ke zdi Ofelu.</verse>
+        <verse osisID='Neh.3.28'>Od Koňské brány vzhůru opravovali zeď kněží, každý naproti svému domu.</verse>
+        <verse osisID='Neh.3.29'>Za nimi opravoval naproti svému domu Sádok, syn Imerův. Za ním opravoval Šemajáš, syn Šekaniášův, strážce východní brány.</verse>
+        <verse osisID='Neh.3.30'>Další část za ním opravoval Chananiáš, syn Šelemiášův, a Chanun, šestý syn Calafův. Za ním opravoval Mešulam, syn Berechiášův.</verse>
+        <verse osisID='Neh.3.31'>Za ním opravoval naproti své komoře zlatník Malkiáš až k budově chrámových sluhů a kupců naproti Strážné bráně a až k rohové terase.</verse>
+        <verse osisID='Neh.3.32'>Od rohové terasy k Ovčí bráně opravovali zlatníci a kupci. Jakmile se Sanbalat doslechl, že stavíme hradby, rozhněval se, přímo zuřil, a začal Židy urážet. "Co to ti bídní Židé provádějí?" vykřikoval před svými soukmenovci a před samařským vojskem. "Chtějí opevňovat?! Chtějí obětovat? Chtějí to dnes dodělat? Chtějí křísit z prachu ty ohořelé sutiny?" Tobiáš Amonský, který mu stál po boku, řekl: "Jen ať klidně stavějí. Ta jejich kamenná zeď spadne, jen co po ní liška přeběhne!" Slyš, Bože náš, jak námi pohrdají, a obrať tu pohanu na jejich hlavu! Ať se sami stanou kořistí v zemi vyhnanství. Nepřikrývej jejich hanebnosti, jejich hříchy ať nejsou před tebou smazány, neboť brojili proti stavitelům. A tak jsme stavěli hradby. Už byly z poloviny zaceleny a lid pracoval celým srdcem.</verse>
+      </chapter>
+      <chapter osisID='Neh.4'>
+        <verse osisID='Neh.4.1'>Když se Sanbalat a Tobiáš spolu s Araby, Amonci a Ašdoďany doslechli, že obnovené hradby Jeruzaléma rostou do výšky a že to, co bylo pobořeno, se začíná zacelovat, nesmírně je to rozhněvalo.</verse>
+        <verse osisID='Neh.4.2'>Ti všichni se společně spikli, že vytáhnou do boje proti Jeruzalému a vyvolají nepokoj.</verse>
+        <verse osisID='Neh.4.3'>Modlili jsme se tedy ke svému Bohu a na obranu proti nim jsme ve dne i v noci stavěli stráž.</verse>
+        <verse osisID='Neh.4.4'>Tehdy se v Judsku začalo říkat: "Ubývá síla nosit, sutin je příliš; ty hradby nezvládneme postavit."</verse>
+        <verse osisID='Neh.4.5'>Naši nepřátelé si říkali: "Než si něčeho všimnou, než se rozhlédnou, vpadneme mezi ně. Pobijeme je a dílo se zastaví."</verse>
+        <verse osisID='Neh.4.6'>Kdykoli přicházeli Židé bydlící v jejich sousedství, desetkrát nám vykládali: "Kam se obrátíte, odevšad jdou na vás."</verse>
+        <verse osisID='Neh.4.7'>Proto jsem dole za hradbami a na otevřená místa rozestavil lid podle jejich rodů s meči, kopími a luky.</verse>
+        <verse osisID='Neh.4.8'>Po obhlídce jsem knížatům, hodnostářům a ostatním z lidu řekl: "Nebojte se jich! Pamatujte na Pána velikého a hrozného. Bojujte za své bratry, syny a dcery, za své ženy a své domy!"</verse>
+        <verse osisID='Neh.4.9'>Když se naši nepřátelé dozvěděli, že o jejich plánech víme a že je Bůh zmařil, mohli jsme se všichni vrátit ke hradbám, každý ke svému dílu.</verse>
+        <verse osisID='Neh.4.10'>Od toho dne polovina mých mužů pracovala na díle a druhá polovina byla ve zbroji. Velitelé s kopími, štíty, luky a pancíři střežili celý rod Judův,</verse>
+        <verse osisID='Neh.4.11'>který stavěl hradby. Nosiči jednou rukou přenášeli stavební náklad a druhou svírali zbraň.</verse>
+        <verse osisID='Neh.4.12'>Všichni, kdo pracovali na stavbě, byli po boku opásáni mečem a vedle mě stál trubač na beraní roh.</verse>
+        <verse osisID='Neh.4.13'>Řekl jsem totiž knížatům, hodnostářům a ostatním z lidu: "Dílo je veliké a rozsáhlé a my jsme na hradbách od sebe daleko.</verse>
+        <verse osisID='Neh.4.14'>Kdekoli uslyšíte troubení rohu, tam se seběhněte. Bůh bude bojovat za nás!"</verse>
+        <verse osisID='Neh.4.15'>Pracovali jsme tedy na díle a polovina třímala kopí od svítání, až dokud nevyšly hvězdy.</verse>
+        <verse osisID='Neh.4.16'>Tehdy jsem řekl lidu: "Všichni ať přespávají se svými mládenci v Jeruzalémě, aby mohli v noci hlídat a ve dne pracovat."</verse>
+        <verse osisID='Neh.4.17'>Já ani mí bratři a mládenci a strážní, kteří mě provázeli, jsme se nesvlékali a neodkládali zbraň ani u vody.</verse>
+      </chapter>
+      <chapter osisID='Neh.5'>
+        <verse osisID='Neh.5.1'>Prostí lidé a zvláště ženy tehdy velmi naříkali na své židovské bratry.</verse>
+        <verse osisID='Neh.5.2'>Jedni říkali: "Máme tolik synů a dcer, že za ně pořizujeme obilí, abychom měli co jíst a přežili."</verse>
+        <verse osisID='Neh.5.3'>Jiní říkali: "Musíme svá pole, vinice i domy dávat do zástavy, abychom v tom hladu pořídili obilí."</verse>
+        <verse osisID='Neh.5.4'>Další říkali: "Musíme si půjčovat peníze na královskou daň z našich polí a vinic.</verse>
+        <verse osisID='Neh.5.5'>Nejsme snad stejní jako naši bratři? Nejsou naše děti jako jejich děti?! Vždyť budeme muset prodat své syny a dcery do otroctví! Některé z našich dcer už jsou v porobě a my jsme bezmocní; vždyť naše pole a vinice už nám nepatří."</verse>
+        <verse osisID='Neh.5.6'>Když jsem uslyšel jejich křik a jejich slova, velmi mě to rozhněvalo.</verse>
+        <verse osisID='Neh.5.7'>Rozhodl jsem se, že to knížatům a hodnostářům vytknu. "Vy všichni odíráte své bratry!" řekl jsem jim a svolal kvůli nim veřejné shromáždění.</verse>
+        <verse osisID='Neh.5.8'>Tam jsem jim řekl: "Kdykoli jsme mohli, vykoupili jsme své židovské bratry, kteří se museli prodat pohanům. A vy jim teď své bratry prodáváte, aby je zase prodali nám?!" Nato zmlkli a neměli co říci.</verse>
+        <verse osisID='Neh.5.9'>"Co děláte, není správné," pokračoval jsem. "Nemáte raději žít v bázni před naším Bohem, aby nás nepřátelské národy neměly proč hanět?</verse>
+        <verse osisID='Neh.5.10'>I já se svými bratry a mládenci jsem jim půjčil peníze a obilí. Nechme už toho odírání!</verse>
+        <verse osisID='Neh.5.11'>Vraťte jim ještě dnes jejich pole, vinice, olivy a domy a také úrok z peněz, z obilí, vína i oleje, za který jim půjčujete!"</verse>
+        <verse osisID='Neh.5.12'>"Všechno vrátíme," odpověděli na to. "Už od nich nebudeme nic požadovat. Uděláme, jak říkáš." Svolal jsem tedy kněze a zavázal knížata i hodnostáře přísahou, že se tak zachovají.</verse>
+        <verse osisID='Neh.5.13'>Pak jsem vytřásl kapsu svého pláště a prohlásil: "Každého, kdo nedodrží své slovo, ať Bůh takto vytřese z jeho domu i z jeho vlastnictví. Takto ať zůstane vytřesen a prázdný." Celé shromáždění na to odpovědělo: "Amen," a chválili Hospodina. Lid se pak zachoval podle tohoto slova.</verse>
+        <verse osisID='Neh.5.14'>Celých těch dvanáct let ode dne, kdy jsem byl jmenován místodržícím v Judsku, od dvacátého do dvaatřicátého roku krále Artaxerxe, jsem se svými bratry nepobíral místodržitelské dávky.</verse>
+        <verse osisID='Neh.5.15'>Všichni místodržící přede mnou přitom od lidu vymáhali denní dávku 40 šekelů stříbra na jídlo a víno. Také jejich mládenci lid utiskovali. Já jsem ale z úcty k Bohu nic takového nedělal.</verse>
+        <verse osisID='Neh.5.16'>Osobně jsem pomáhal s opravou hradeb. Neskupovali jsme pozemky, naopak, všichni mí muži se zapojili do díla.</verse>
+        <verse osisID='Neh.5.17'>U mého stolu sedávalo 150 židovských hodnostářů a k tomu všichni návštěvníci z okolních národů.</verse>
+        <verse osisID='Neh.5.18'>Každý den se na můj účet podával jeden býk, šest vybraných ovcí a množství drůbeže. Každých deset dní se podávala hojnost veškerého vína. Přesto jsem ale nepožadoval místodržitelské dávky, protože lid tížily jiné povinnosti.</verse>
+        <verse osisID='Neh.5.19'>Pamatuj na mě, Bože můj, v dobrém. Pamatuj na vše, co jsem pro tento lid vykonal.</verse>
+      </chapter>
+      <chapter osisID='Neh.6'>
+        <verse osisID='Neh.6.1'>Když se Sanbalat, Tobiáš, Arab Gešem a ostatní naši nepřátelé dozvěděli, že jsme dostavěli hradby a že v nich nezůstala jediná trhlina (ačkoli tou dobou jsem ještě brány neosadil vraty),</verse>
+        <verse osisID='Neh.6.2'>tehdy mi Sanbalat s Gešemem poslali vzkaz: "Pojď, setkáme se v některé vesnici na pláni Ono." Zamýšleli mi totiž provést něco zlého.</verse>
+        <verse osisID='Neh.6.3'>Vyslal jsem k nim posly s odpovědí: "Pracuji na velikém díle. Nemohu se uvolnit. Proč bych měl to dílo zpozdit, když bych ho opustil a sešel k vám?"</verse>
+        <verse osisID='Neh.6.4'>Podobné vzkazy mi posílali čtyřikrát a já jsem jim podobně odpovídal.</verse>
+        <verse osisID='Neh.6.5'>Když mi Sanbalat posílal takový vzkaz popáté, jeho služebník měl s sebou otevřený dopis.</verse>
+        <verse osisID='Neh.6.6'>V něm stálo: "Mezi národy se proslýchá a Gešem to potvrzuje, že s Židy plánuješ vzpouru. Proto stavíš ty hradby. Podle těch zpráv prý chceš být jejich králem.</verse>
+        <verse osisID='Neh.6.7'>Dokonce jsi ustanovil proroky, aby o tobě v Jeruzalémě hlásali: ‚Judsko má krále!' Král se o tom všem určitě dozví, proto přijď a poradíme se spolu."</verse>
+        <verse osisID='Neh.6.8'>Vzkázal jsem mu toto: "Nic z toho, o čem mluvíš, se neděje. Jen sis to vymyslel."</verse>
+        <verse osisID='Neh.6.9'>Ti všichni se nás snažili zastrašit. Mysleli si, že ochabneme a necháme dílo nedokončené, ale já jsem se modlil: "Dej mi sílu!"</verse>
+        <verse osisID='Neh.6.10'>Když jsem vešel do domu Šemajáše, syna Delajáše, syna Mehetabelova, byl zaražený a řekl mi: "Pojďme se sejít v Božím domě, uvnitř v chrámě. Chrámové dveře musíme zavřít. Chtějí tě totiž zavraždit. V noci tě přijdou zavraždit!"</verse>
+        <verse osisID='Neh.6.11'>"Člověk jako já by měl utíkat?" řekl jsem na to. "A copak někdo jako já může jít do svatyně a přežít? Nepůjdu tam."</verse>
+        <verse osisID='Neh.6.12'>Poznal jsem totiž, že ho neposlal Bůh. Takhle mi prorokoval, protože mu zaplatil Tobiáš a Sanbalat.</verse>
+        <verse osisID='Neh.6.13'>Zaplatili mu, abych se polekal, poslechl ho a zhřešil. Tak bych jim dal příležitost k pomluvám, aby očernili mé jméno.</verse>
+        <verse osisID='Neh.6.14'>Pamatuj, Bože můj, na Tobiáše a Sanbalata i na jejich činy. Pamatuj také na prorokyni Noadiu a na další proroky, kteří mě chtěli zastrašit.</verse>
+        <verse osisID='Neh.6.15'>Hradby byly dokončeny během dvaapadesáti dnů, pětadvacátého dne měsíce elul.</verse>
+        <verse osisID='Neh.6.16'>Když se to doslechli všichni naši nepřátelé ve všech okolních národech, byli zděšeni a zdrceni. Poznali, že to dílo pochází od našeho Boha.</verse>
+        <verse osisID='Neh.6.17'>Mezi judskou šlechtou a Tobiášem celou tu dobu odcházelo a přicházelo množství dopisů.</verse>
+        <verse osisID='Neh.6.18'>Mnozí v Judsku s ním byli spojeni přísahou, protože byl zetěm Šekaniáše, syna Arachova, a jeho syn Jochanan si vzal dceru Mešulama, syna Berechiášova.</verse>
+        <verse osisID='Neh.6.19'>Vychvalovali ho přede mnou a donášeli mu na mě. Tobiáš pak psal dopisy, aby mě zastrašil.</verse>
+      </chapter>
+      <chapter osisID='Neh.7'>
+        <verse osisID='Neh.7.1'>Když byly hradby dostavěny a osadil jsem vrata, byli ustanoveni strážní, zpěváci a levité.</verse>
+        <verse osisID='Neh.7.2'>Velení nad Jeruzalémem jsem svěřil svému bratru Chananimu a veliteli pevnosti Chananiášovi, což byl důvěryhodný muž, jenž měl více Boží bázně než kdo jiný.</verse>
+        <verse osisID='Neh.7.3'>Řekl jsem jim: "Ať jeruzalémské brány nezůstávají během poledního odpočinku otevřené. Ti, kdo konají službu, ať vrata zavřou a zajistí. Obyvatelé Jeruzaléma pak ať drží hlídky; každý ať hlídá naproti svému domu."</verse>
+        <verse osisID='Neh.7.4'>Město bylo prostorné a veliké, ale obyvatel v něm bylo málo a chyběly obnovené domy.</verse>
+        <verse osisID='Neh.7.5'>Můj Bůh mi proto položil na srdce, abych shromáždil urozené, hodnostáře i prostý lid k rodovému soupisu. Nalezl jsem rodopis prvních navrátilců a v něm bylo zapsáno následující:</verse>
+        <verse osisID='Neh.7.6'>Toto jsou krajané, kteří se vrátili ze zajetí, kam byli jako vyhnanci zavlečeni babylonským králem Nabukadnezarem. Vrátili se domů do Jeruzaléma a do ostatních měst v Judsku</verse>
+        <verse osisID='Neh.7.7'>pod vedením Zerubábela, Jošuy, Nehemiáše, Azariáše, Raamiáše, Nachmaniho, Mordechaje, Bilšana, Mispereta, Bigvaje, Nechuma a Baany. Toto je soupis izraelského lidu:</verse>
+        <verse osisID='Neh.7.8'>synové Parošovi 2 172</verse>
+        <verse osisID='Neh.7.9'>synové Šefatiášovi 372</verse>
+        <verse osisID='Neh.7.10'>synové Arachovi 652</verse>
+        <verse osisID='Neh.7.11'>synové Pachat-moábovi, totiž Ješuovi a Joábovi, 2 818</verse>
+        <verse osisID='Neh.7.12'>synové Elamovi 1 254</verse>
+        <verse osisID='Neh.7.13'>synové Zatuovi 845</verse>
+        <verse osisID='Neh.7.14'>synové Zakajovi 760</verse>
+        <verse osisID='Neh.7.15'>synové Binuiho 648</verse>
+        <verse osisID='Neh.7.16'>synové Bebajovi 628</verse>
+        <verse osisID='Neh.7.17'>synové Azgadovi 2 322</verse>
+        <verse osisID='Neh.7.18'>synové Adonikamovi 667</verse>
+        <verse osisID='Neh.7.19'>synové Bigvajovi 2 067</verse>
+        <verse osisID='Neh.7.20'>synové Adinovi 655</verse>
+        <verse osisID='Neh.7.21'>synové Aterovi, totiž Chizkiášovi, 98</verse>
+        <verse osisID='Neh.7.22'>synové Chašumovi 328</verse>
+        <verse osisID='Neh.7.23'>synové Becajovi 324</verse>
+        <verse osisID='Neh.7.24'>synové Charifovi 112</verse>
+        <verse osisID='Neh.7.25'>obyvatelé Gibeonu 95</verse>
+        <verse osisID='Neh.7.26'>muži z Betléma a Netofu 188</verse>
+        <verse osisID='Neh.7.27'>muži z Anatotu 128</verse>
+        <verse osisID='Neh.7.28'>muži z Bet-azmavetu 42</verse>
+        <verse osisID='Neh.7.29'>muži z Kiriat-jearimu, Kefiry a Beerotu 743</verse>
+        <verse osisID='Neh.7.30'>muži z Rámy a Geby 621</verse>
+        <verse osisID='Neh.7.31'>muži z Michmasu 122</verse>
+        <verse osisID='Neh.7.32'>muži z Bet-elu a Aje 123</verse>
+        <verse osisID='Neh.7.33'>muži z Nebó 52</verse>
+        <verse osisID='Neh.7.34'>obyvatelé jiného Elamu 1 254</verse>
+        <verse osisID='Neh.7.35'>obyvatelé Charimu 320</verse>
+        <verse osisID='Neh.7.36'>obyvatelé Jericha 345</verse>
+        <verse osisID='Neh.7.37'>obyvatelé Lodu, Chadidu a Onu 721</verse>
+        <verse osisID='Neh.7.38'>obyvatelé Senay 3 930.</verse>
+        <verse osisID='Neh.7.39'>Kněží: synové Jedajášovi z domu Ješuova 973</verse>
+        <verse osisID='Neh.7.40'>synové Imerovi 1 052</verse>
+        <verse osisID='Neh.7.41'>synové Pašchurovi 1 247</verse>
+        <verse osisID='Neh.7.42'>synové Charimovi 1 017.</verse>
+        <verse osisID='Neh.7.43'>Levité: synové Ješuovi, totiž Kadmielovi, ze synů Hodevjášových 74</verse>
+        <verse osisID='Neh.7.44'>zpěváci, synové Asafovi 148</verse>
+        <verse osisID='Neh.7.45'>strážní, synové Šalumovi, Aterovi, Talmonovi, Akubovi, Chatitovi a Šobajovi 138.</verse>
+        <verse osisID='Neh.7.46'>Chrámoví sluhové: synové Cichovi, synové Chasufovi, synové Tabaotovi,</verse>
+        <verse osisID='Neh.7.47'>synové Kerosovi, synové Siaovi, synové Fadonovi,</verse>
+        <verse osisID='Neh.7.48'>synové Lebanovi, synové Chagabovi, synové Šalmajovi,</verse>
+        <verse osisID='Neh.7.49'>synové Chananovi, synové Gidelovi, synové Gacharovi,</verse>
+        <verse osisID='Neh.7.50'>synové Reajovi, synové Recinovi, synové Nekodovi,</verse>
+        <verse osisID='Neh.7.51'>synové Gazamovi, synové Uzovi, synové Paseachovi,</verse>
+        <verse osisID='Neh.7.52'>synové Besajovi, synové Meunitů, synové Nefušsitů,</verse>
+        <verse osisID='Neh.7.53'>synové Bakbukovi, synové Chakufovi, synové Charchurovi,</verse>
+        <verse osisID='Neh.7.54'>synové Baclitovi, synové Mechidovi, synové Charšovi,</verse>
+        <verse osisID='Neh.7.55'>synové Barkosovi, synové Siserovi, synové Tamachovi,</verse>
+        <verse osisID='Neh.7.56'>synové Neciachovi, synové Chatifovi.</verse>
+        <verse osisID='Neh.7.57'>Synové Šalomounových služebníků: synové Sotajovi, synové Soferetovi, synové Peridovi,</verse>
+        <verse osisID='Neh.7.58'>synové Jaelovi, synové Darkonovi, synové Gidelovi,</verse>
+        <verse osisID='Neh.7.59'>synové Šefatiášovi, synové Chatilovi, synové Pochereta Cebajimského, synové Amona;</verse>
+        <verse osisID='Neh.7.60'>Chrámových sluhů a potomků Šalomounových služebníků bylo celkem 392.</verse>
+        <verse osisID='Neh.7.61'>Další přišli z Tel-melachu, z Tel-charši, z Kerubu, Adonu a Imeru, ale nemohli prokázat, že jsou rodem a původem z Izraele:</verse>
+        <verse osisID='Neh.7.62'>Synové Delajášovi, Tobiášovi a Nekodovi: 642.</verse>
+        <verse osisID='Neh.7.63'>Z kněží pak: synové Chobajáše, Koce a Barzilaje (který se oženil s jednou z dcer Barzilaje Gileádského a přijal jejich jméno).</verse>
+        <verse osisID='Neh.7.64'>Snažili se najít svůj rodokmen, ale marně, a tak byli z kněžství odsvěceni.</verse>
+        <verse osisID='Neh.7.65'>Guvernér jim proto zakázal jíst ze svatosvatých věcí, dokud se kněz nepostaví k urim a tumim.</verse>
+        <verse osisID='Neh.7.66'>Celé shromáždění dohromady čítalo 42 360 osob.</verse>
+        <verse osisID='Neh.7.67'>Bylo s nimi také 7 337 otroků a otrokyň a 245 zpěváků a zpěvaček.</verse>
+        <verse osisID='Neh.7.68'>Měli 736 koní, 245 mezků,</verse>
+        <verse osisID='Neh.7.69'>435 velbloudů a 6 720 oslů.</verse>
+        <verse osisID='Neh.7.70'>Někteří vůdcové otcovských rodů přispěli na dílo. Guvernér daroval do pokladnice 1 000 drachem zlata, 50 mis a 530 kněžských suknic.</verse>
+        <verse osisID='Neh.7.71'>Ostatní vůdcové otcovských rodů darovali do pokladnice díla 20 000 drachem zlata a 2 200 hřiven stříbra.</verse>
+        <verse osisID='Neh.7.72'>Zbytek lidu daroval 20 000 drachem zlata, 2 000 hřiven stříbra a 67 kněžských suknic.</verse>
+        <verse osisID='Neh.7.73'>Kněží, levité, strážní, zpěváci, někteří z lidu, chrámoví sluhové a všechen Izrael se usadili ve svých městech. S příchodem sedmého měsíce už synové Izraele bydleli ve svých městech.</verse>
+      </chapter>
+      <chapter osisID='Neh.8'>
+        <verse osisID='Neh.8.1'>Tehdy se všechen lid jako jeden muž shromáždil na prostranství před Vodní bránou a žádali učeného Ezdráše, aby přinesl Knihu Mojžíšova zákona, který Hospodin přikázal Izraeli.</verse>
+        <verse osisID='Neh.8.2'>Tohoto prvního dne sedmého měsíce tedy kněz Ezdráš přinesl Zákon před shromážděné muže, ženy a vůbec každého, kdo mohl slyšenému rozumět.</verse>
+        <verse osisID='Neh.8.3'>Četl z něj na prostranství u Vodní brány od svítání až do poledne všem mužům i ženám, každému, kdo mohl rozumět. Všechen lid pozorně naslouchal Knize Zákona.</verse>
+        <verse osisID='Neh.8.4'>Učenec Ezdráš stál na dřevěném podiu zvlášť k tomu zhotoveném. Vpravo od něj stál Matitiáš, Šema, Anajáš, Uriáš, Chilkiáš, Maasejáš, vlevo Pedajáš, Mišael, Malkiáš, Chašum, Chašbadana, Zachariáš a Mešulam.</verse>
+        <verse osisID='Neh.8.5'>Ezdráš otevřel knihu před očima všech (stál totiž výše než všechen lid), a jakmile ji otevřel, všechen lid povstal.</verse>
+        <verse osisID='Neh.8.6'>Ezdráš pak dobrořečil Hospodinu, velikému Bohu, a všechen lid zvedal ruce a odpovídal: "Amen, amen!" Padli před Hospodinem na kolena a klaněli se mu tváří k zemi.</verse>
+        <verse osisID='Neh.8.7'>Když se lid znovu postavil, levité Ješua, Bani, Šerebiáš, Jamin, Akub, Šabetaj, Hodiáš, Maasejáš, Kelita, Azariáš, Jozabad, Chanan a Pelajáš vysvětlovali lidu Zákon.</verse>
+        <verse osisID='Neh.8.8'>Četli v Knize Božího zákona, vykládali a objasňovali smysl, aby tomu, co se čte, bylo rozumět.</verse>
+        <verse osisID='Neh.8.9'>Když lid uslyšel slova Zákona, všichni plakali. Guvernér Nehemiáš jim proto s učeným knězem Ezdrášem a s levity, kteří vyučovali lid, říkal: "Netruchlete a neplačte, vždyť dnes je svátek Hospodina, vašeho Boha!</verse>
+        <verse osisID='Neh.8.10'>Jděte," řekl jim, "jezte a pijte lahodné věci a dělte se s těmi, kdo nemají nic připraveno. Dnes je svátek našeho Pána. Netrapte se, vždyť Hospodinova radost je vaše síla!"</verse>
+        <verse osisID='Neh.8.11'>Podobně lid těšili také levité: "Přestaňte. Dnes je svátek, netrapte se."</verse>
+        <verse osisID='Neh.8.12'>A tak šli všichni jíst a pít a dělit se s ostatními. Nesmírně se radovali, protože porozuměli slovům, která slyšeli číst.</verse>
+        <verse osisID='Neh.8.13'>Druhého dne se všichni rodoví vůdcové lidu s kněžími a levity shromáždili k učenému Ezdrášovi, aby lépe porozuměli slovům Zákona.</verse>
+        <verse osisID='Neh.8.14'>V Zákoně, který Hospodin přikázal skrze Mojžíše, našli zapsáno, že synové Izraele mají sedmého měsíce slavit Svátek stánků a bydlet v přístřešcích.</verse>
+        <verse osisID='Neh.8.15'>Proto po všech svých městech i v Jeruzalémě rozhlásili tuto zprávu: "Vyjděte do hor a přineste ratolesti z ušlechtilých i planých oliv, z myrt, palem a listnatých stromů a postavte si přístřešky, jak je předepsáno."</verse>
+        <verse osisID='Neh.8.16'>Lidé tedy šli, přinesli větve a všichni si postavili přístřešky - na střechách, na dvorcích, na nádvořích Božího chrámu i na prostranstvích u Vodné a Efraimské brány.</verse>
+        <verse osisID='Neh.8.17'>Celé shromáždění navrátilců ze zajetí si postavilo stánky a bydlelo v nich. Do toho dne synové Izraele nic takového nedělali už od dob Jozuy, syna Nunova. Byla to obrovská radost.</verse>
+        <verse osisID='Neh.8.18'>Každý den od začátku slavnosti až do konce se četlo z Knihy Božího zákona. Sedm dní slavili svátek a osmý den měli sváteční shromáždění, jak je předepsáno.</verse>
+      </chapter>
+      <chapter osisID='Neh.9'>
+        <verse osisID='Neh.9.1'>Čtyřiadvacátého dne téhož měsíce se synové Izraele shromáždili k postu, zahaleni pytlovinou a posypáni hlínou.</verse>
+        <verse osisID='Neh.9.2'>Ti, kdo byli izraelského původu, se tehdy oddělili ode všech cizozemců. Stáli a vyznávali své hříchy i nepravosti svých předků.</verse>
+        <verse osisID='Neh.9.3'>Čtvrt dne četli vestoje z Knihy zákona Hospodina, svého Boha, a dalšího čtvrt dne vyznávali a klaněli se Hospodinu, svému Bohu.</verse>
+        <verse osisID='Neh.9.4'>Na levitských stupních stál Ješua, Binui, Kadmiel, Šebaniáš, Buni, Šerebiáš, Bani a Kenani a hlasitě volali k Hospodinu, svému Bohu.</verse>
+        <verse osisID='Neh.9.5'>Levité Ješua, Kadmiel, Bani, Chašabnejáš, Šerebiáš, Hodiáš, Šebaniáš a Petachiáš pak zvolali: "Vstaňte a dobrořečte Hospodinu, svému Bohu: Požehnaný jsi, Hospodine, Bože náš, od věků až na věky! Tvé slavné jméno ať je požehnané, nad všechno požehnání i chválu vyvýšené.</verse>
+        <verse osisID='Neh.9.6'>Ty sám jsi Hospodin, ty jsi nebe učinil, nebesa nebes i všechny jejich zástupy, zemi i se vším, co je na ní, všechna moře i se vším, co je v nich. Ty sám všemu dáváš život, tobě se klaní zástup nebeský!</verse>
+        <verse osisID='Neh.9.7'>Ty jsi Hospodin, Bůh, který vybral Abrama, z chaldejského Uru jej vyvedl a dal mu jméno Abraham.</verse>
+        <verse osisID='Neh.9.8'>Když jsi poznal, že je ti v srdci věrný, uzavřel jsi s ním smlouvu o zemi Kananejců, Chetejců, Emorejců, Perizejců, Jebusejců a Girgašejců a sice, že tu zemi dáš jeho semeni. A své slovo jsi splnil, neboť jsi spravedlivý.</verse>
+        <verse osisID='Neh.9.9'>Viděl jsi trápení našich otců v Egyptě, u Rudého moře jsi slyšel jejich křik.</verse>
+        <verse osisID='Neh.9.10'>Seslal jsi divy a zázraky na faraona, na jeho dvořany i na všechen jeho lid, neboť jsi věděl, jak je krutě trápili. Získal sis jméno, jaké dodnes máš.</verse>
+        <verse osisID='Neh.9.11'>Moře jsi před nimi rozdělil, prostředkem moře prošli po souši. Jejich pronásledovatele jsi však smetl do hlubin; jako kámen v těch mocných vodách zmizeli!</verse>
+        <verse osisID='Neh.9.12'>Ve dne jsi je vodil sloupem oblakovým, v noci pak sloupem ohnivým svítils jim na cestu, po které měli jít.</verse>
+        <verse osisID='Neh.9.13'>Na horu Sinaj jsi sestoupil, z nebe jsi s nimi promlouval. Dal jsi jim poctivá pravidla a spravedlivé zákony, dobrá nařízení a příkazy.</verse>
+        <verse osisID='Neh.9.14'>Dal jsi jim poznat svou svatou sobotu, skrze svého služebníka Mojžíše jsi jim vydal příkazy, nařízení a zákony.</verse>
+        <verse osisID='Neh.9.15'>Chléb z nebe jsi jim dal, když hladověli, a když žíznili, vyvedl jsi vodu ze skály. Řekl jsi jim, ať jdou obsadit zemi, o níž jsi přísahal, že jim ji dáš.</verse>
+        <verse osisID='Neh.9.16'>Oni však se svými otci pyšně zatvrdili šíji a odmítli poslouchat tvé příkazy.</verse>
+        <verse osisID='Neh.9.17'>Odmítli poslouchat, nepomysleli na divy, které jsi pro ně vykonal. Zatvrdili šíji, zvolili si vůdce, aby se ve vzpouře vrátili do poroby! Ty jsi ale Bůh odpuštění, milostivý a soucitný, nesmírně trpělivý a velmi laskavý. Neopustil jsi je,</verse>
+        <verse osisID='Neh.9.18'>když si odlili tele a řekli: ‚To je tvůj Bůh, který tě vyvedl z Egypta.' Jak velice se rouhali!</verse>
+        <verse osisID='Neh.9.19'>Ty jsi je ale ve svém nesmírném slitování nenechal samotné tehdy na poušti. Oblakový sloup je nikdy neopouštěl, ve dne je vodil po cestě; ohnivý sloup byl s nimi v noci, svítil jim na cestu, po které měli jít.</verse>
+        <verse osisID='Neh.9.20'>Svého laskavého Ducha jsi jim udělil, aby je učil. Jejich ústům jsi neodepřel svou manu, dal jsi jim vodu, když žíznili.</verse>
+        <verse osisID='Neh.9.21'>Čtyřicet let ses o ně na poušti staral; nic jim nechybělo, oděv nechátral, nohy neotekly.</verse>
+        <verse osisID='Neh.9.22'>Vydal jsi jim království a národy, každý kout jsi jim přidělil. Získali zemi Sichona, krále Chešbonu, i zemi Oga, krále Bášanu.</verse>
+        <verse osisID='Neh.9.23'>Rozmnožil jsi jejich syny jako hvězdy na nebi a uvedl jsi je do země, o níž jsi řekl jejich otcům, ať ji obsadí.</verse>
+        <verse osisID='Neh.9.24'>Synové pak do té země vešli a obsadili ji; Kananejce, kteří tam bydleli, jsi před nimi porazil. Do rukou jsi jim vydal krále i národy země, takže s nimi naložili podle libosti.</verse>
+        <verse osisID='Neh.9.25'>Dobyli hrazená města i úrodnou zemi, obsadili domy plné cenností, už vykopané studny, vinice, olivy i ovocné sady. Jedli až do sytosti, tukem se obalili, s rozkoší užívali tvé velké dobroty.</verse>
+        <verse osisID='Neh.9.26'>Tehdy se vzbouřili, tobě se postavili, tvůj Zákon zahodili za hlavu! Tvé proroky vraždili, když je vyzývali, aby se k tobě vrátili. Jak velice se rouhali!</verse>
+        <verse osisID='Neh.9.27'>Vydával jsi je proto krutým nepřátelům, a tehdy k tobě volali v dobách soužení. Tys je pak vyslýchal z nebe v nesmírném slitování, dával jsi jim zachránce z rukou nepřátel.</verse>
+        <verse osisID='Neh.9.28'>Když si však vydechli, znovu tě popouzeli, a proto jsi je nechával v područí nepřátel. Když potom k tobě volali znovu, tys je vyslýchal z nebe v nesmírném slitování a vždy znovu jsi je zachránil.</verse>
+        <verse osisID='Neh.9.29'>Varoval jsi je, ať se vrátí k tvému Zákonu, oni však zpychli a nechtěli poslouchat tvé příkazy. Provinili se proti tvým řádům, z nichž ten, kdo je plní, bude žít. Zády se obraceli, zatvrzovali šíji, slyšet nechtěli.</verse>
+        <verse osisID='Neh.9.30'>Tolik let ses s nimi trpělivě vláčel! Svým Duchem jsi je varoval skrze proroky, když ale přesto odmítali slyšet, vydal jsi je národům světa do rukou.</verse>
+        <verse osisID='Neh.9.31'>V nesmírném slitování jsi ale s nimi neskoncoval, neopustil jsi je, neboť jsi Bůh milostivý a soucitný.</verse>
+        <verse osisID='Neh.9.32'>A tak, Bože náš, Bože veliký, mocný a hrozný, zachovávající smlouvu a milosrdenství, nepovažuj za nicotné všechny ty útrapy, které nás potkaly - naše krále i hodnostáře, naše kněze i proroky, naše otce i všechen lid. Od doby asyrských králů až dodnes</verse>
+        <verse osisID='Neh.9.33'>jsi byl spravedlivý ve všem, co nás postihlo. Ty jednáš věrně, to my jsme se provinili</verse>
+        <verse osisID='Neh.9.34'>i naši králové, hodnostáři, kněží a otcové. Tvůj Zákon neplnili, nedbali na tvé příkazy ani na výstrahy, jimiž jsi je varoval.</verse>
+        <verse osisID='Neh.9.35'>Když ještě měli své království a hojnost tvé dobroty, kterou jsi jim prokazoval, když ještě měli tu širou, úrodnou zemi, kterou jsi jim dal, nesloužili ti a od svých zlých skutků se nechtěli odvrátit.</verse>
+        <verse osisID='Neh.9.36'>A hle, dnes jsme otroci v zemi, kterou jsi daroval našim otcům, aby jedli její plody a užívali její dobroty - v té zemi jsme dnes otroci!</verse>
+        <verse osisID='Neh.9.37'>Její hojná úroda připadá králům, jimž jsi nás pro naše hříchy podmanil. S námi i s naším dobytkem dělají, co se jim zlíbí - ocitli jsme se ve velkém soužení!"</verse>
+      </chapter>
+      <chapter osisID='Neh.10'>
+        <verse osisID='Neh.10.1'>"Kvůli tomu všemu teď sepisujeme závaznou smlouvu stvrzenou pečetěmi našich hodnostářů, levitů a kněží."</verse>
+        <verse osisID='Neh.10.2'>Svou pečeť připojili: Guvernér Nehemiáš, syn Chakaliášův. Cidkiáš,</verse>
+        <verse osisID='Neh.10.3'>Serajáš, Azariáš, Jeremiáš,</verse>
+        <verse osisID='Neh.10.4'>Pašchur, Amariáš, Malkiáš,</verse>
+        <verse osisID='Neh.10.5'>Chatuš, Šebaniáš, Maluk,</verse>
+        <verse osisID='Neh.10.6'>Charim, Meremot, Obadiáš,</verse>
+        <verse osisID='Neh.10.7'>Daniel, Gineton, Baruch,</verse>
+        <verse osisID='Neh.10.8'>Mešulam, Abiáš, Mijamin,</verse>
+        <verse osisID='Neh.10.9'>Maaziáš, Bilgaj a Šemajáš. To byli kněží.</verse>
+        <verse osisID='Neh.10.10'>Levité: Ješua, syn Azaniášův, Binui ze synů Chenadadových, Kadmiel</verse>
+        <verse osisID='Neh.10.11'>a jejich bratři: Šebaniáš, Hodiáš, Kelíta, Pelajáš, Chanan,</verse>
+        <verse osisID='Neh.10.12'>Míka, Rechob, Chašabiáš,</verse>
+        <verse osisID='Neh.10.13'>Zakur, Šerebiáš, Šebaniáš,</verse>
+        <verse osisID='Neh.10.14'>Hodiáš, Bani a Beninu.</verse>
+        <verse osisID='Neh.10.15'>Vůdcové lidu: Paroš, Pachat-moáb, Elam, Zatu, Bani,</verse>
+        <verse osisID='Neh.10.16'>Buni, Azgad, Bebaj,</verse>
+        <verse osisID='Neh.10.17'>Adoniáš, Bigvaj, Adin,</verse>
+        <verse osisID='Neh.10.18'>Ater, Chizkiáš, Azur,</verse>
+        <verse osisID='Neh.10.19'>Hodiáš, Chašum, Becaj,</verse>
+        <verse osisID='Neh.10.20'>Charif, Anatot, Nebaj,</verse>
+        <verse osisID='Neh.10.21'>Magpiaš, Mešulam, Chezir,</verse>
+        <verse osisID='Neh.10.22'>Mešezabel, Sádok, Jadua,</verse>
+        <verse osisID='Neh.10.23'>Pelatiáš, Chanan, Anajáš,</verse>
+        <verse osisID='Neh.10.24'>Hošea, Chananiáš, Chašub,</verse>
+        <verse osisID='Neh.10.25'>Halocheš, Pilcha, Šobek,</verse>
+        <verse osisID='Neh.10.26'>Rechum, Chašabna, Maasejáš,</verse>
+        <verse osisID='Neh.10.27'>Achiáš, Chanan, Anan,</verse>
+        <verse osisID='Neh.10.28'>Maluk, Charim a Baana.</verse>
+        <verse osisID='Neh.10.29'>Také ostatní z lidu, kněží, levité, strážní, zpěváci, chrámoví sluhové a každý, kdo se oddělil od okolních národů pro Boží zákon, jejich ženy, synové a dcery, každý, kdo byl schopen rozumět,</verse>
+        <verse osisID='Neh.10.30'>ti všichni se připojovali ke svým urozeným bratřím a skládali přísežný slib, že budou žít podle Božího zákona, vydaného skrze Božího služebníka Mojžíše. Slibovali, že budou dodržovat a plnit všechna přikázání Hospodina, našeho Pána, i jeho zákony a pravidla:</verse>
+        <verse osisID='Neh.10.31'>"Nebudeme vdávat své dcery do cizích národů a s jejich dcerami nebudeme ženit své syny.</verse>
+        <verse osisID='Neh.10.32'>Když k nám z okolních národů přivezou zboží nebo obilí, aby je prodávali v den odpočinku, nebudeme je kupovat v sobotu ani ve svátek. Sedmého roku ustaneme a zrušíme každý dluh.</verse>
+        <verse osisID='Neh.10.33'>Zavazujeme se odevzdávat třetinu šekelu ročně na dílo Božího domu:</verse>
+        <verse osisID='Neh.10.34'>na chleby předložení, na pravidelné oběti moučné i zápalné o sobotách, novoluních a slavnostech, na svaté dary, na smírčí oběti za hřích Izraele a na veškeré dílo při domě našeho Boha.</verse>
+        <verse osisID='Neh.10.35'>Dávky dřeva pro chrám našeho Boha si rozdělujeme losem. Kněží, levité i lid je budou přinášet každoročně podle svých otcovských rodů v určený čas, aby na oltáři Hospodina, našeho Boha, plál oheň, jak je psáno v Zákoně.</verse>
+        <verse osisID='Neh.10.36'>Zavazujeme se každoročně přinášet do Hospodinova domu své prvotiny z půdy a z veškerého ovoce všech stromů.</verse>
+        <verse osisID='Neh.10.37'>Jak je psáno v Zákoně, budeme přinášet prvorozené ze svých synů i ze svého dobytka, ze svého skotu i bravu do domu našeho Boha ke kněžím sloužícím v jeho domě.</verse>
+        <verse osisID='Neh.10.38'>Prvotiny ze svého těsta a ze svých obětních příspěvků, z ovoce všech stromů, z vína i oleje budeme přinášet kněžím do komor v domě našeho Boha. Levitům budeme přinášet desátek ze svých pozemků a oni budou vybírat desátky ve všech městech, kde pracujeme.</verse>
+        <verse osisID='Neh.10.39'>Při vybírání desátků s nimi bude kněz, syn Áronův, a levité pak přinesou desátek z desátků do domu našeho Boha, do komor ve skladu. Synové Izraele včetně synů Leviho budou přinášet tyto obětní příspěvky z obilí, vína a oleje do komor, kde je uloženo náčiní svatyně a kde jsou i sloužící kněží, strážní a zpěváci. Dům svého Boha nebudeme zanedbávat."</verse>
+      </chapter>
+      <chapter osisID='Neh.11'>
+        <verse osisID='Neh.11.1'>Vůdcové lidu se usadili v Jeruzalémě. Ostatní lid losoval: každého desátého vybrali, aby bydlel ve svatém městě Jeruzalémě, a zbylých devět zůstalo v ostatních městech.</verse>
+        <verse osisID='Neh.11.2'>Lidé žehnali všem, kdo se sami nabídli, že budou bydlet v Jeruzalémě.</verse>
+        <verse osisID='Neh.11.3'>Toto jsou přední obyvatelé provincie, kteří se usadili v Jeruzalémě. V judských městech přebýval každý na svém majetku, ve vlastních městečkách, Izrael, kněží, levité, chrámoví sluhové i synové služebníků Šalomounových.</verse>
+        <verse osisID='Neh.11.4'>Někteří ze synů Judy a Benjamína se ale usadili v Jeruzalémě. Ze synů Judy: Atajáš, syn Uziáše, syna Zachariáše, syna Amariáše, syna Šefatiáše, syna Mahlalelova ze synů Perecových,</verse>
+        <verse osisID='Neh.11.5'>a Maasejáš, syn Baruka, syna Kol-chozeho, syna Chazajáše, syna Adajáše, syna Jojariba, syna Zachariáše, syna Šílonského.</verse>
+        <verse osisID='Neh.11.6'>Ze synů Perecových bydlelo v Jeruzalémě celkem 468 udatných mužů.</verse>
+        <verse osisID='Neh.11.7'>Ze synů Benjamínových: Salu, syn Mešulama, syna Joedova, syna Pedajášova, syna Kolajášova, syna Maasejášova, syna Itielova, syna Ješajášova.</verse>
+        <verse osisID='Neh.11.8'>Po něm Gabaj a Salaj, tedy 928 mužů.</verse>
+        <verse osisID='Neh.11.9'>Jejich velitelem byl Joel, syn Zikriho. Druhým velitelem města byl Juda, syn Senuy.</verse>
+        <verse osisID='Neh.11.10'>Z kněží: Jedajáš, syn Jojaribův, Jakin,</verse>
+        <verse osisID='Neh.11.11'>Sarajáš, syn Chilkiáše, syna Mešulamova, syna Sádokova, syna Merajotova, syna Achitubova, správce Božího chrámu.</verse>
+        <verse osisID='Neh.11.12'>Dále 822 jejich bratří, konajících službu v chrámu. Dále Adajáš, syn Jerochamův, syna Pelaliášova, syna Amciho, syna Zachariášova, syna Pašchurova, syna Malkiášova,</verse>
+        <verse osisID='Neh.11.13'>a 242 jeho bratří, vůdců otcovských rodů. Dále Amašsaj, syn Azarela, syna Achzajova, syna Mešilemotova, syna Imerova.</verse>
+        <verse osisID='Neh.11.14'>S ním bylo 128 jeho bratrů, udatných hrdinů. Jejich velitelem byl Zabdiel, syn Gedolimův.</verse>
+        <verse osisID='Neh.11.15'>Z levitů: Šemajáš, syn Chašuba, syna Azrikamova, syna Chašabiášova, syna Buniho.</verse>
+        <verse osisID='Neh.11.16'>Dva z předních levitů Šabetaj a Jozabad, zodpovědní za vnější záležitosti Božího chrámu.</verse>
+        <verse osisID='Neh.11.17'>Vedoucí levita Mataniáš, syn Míky, syna Zabdiho, syna Asafova, který zahajoval chvály modlitbou. Dále Bakbukiáš, druhý po něm, a Abda, syn Šamuy, syna Galalova, syna Jedutunova.</verse>
+        <verse osisID='Neh.11.18'>Celkem bylo ve svatém městě 284 levitů.</verse>
+        <verse osisID='Neh.11.19'>Strážní: Akub, Talmon a 172 jejich bratrů, strážců bran.</verse>
+        <verse osisID='Neh.11.20'>Ostatní Izraelci, kněží a levité bydleli každý na svém vlastnictví ve všech judských městech.</verse>
+        <verse osisID='Neh.11.21'>Chrámoví sluhové pod vedením Cichy a Gišpy bydleli na Ofelu.</verse>
+        <verse osisID='Neh.11.22'>Levité v Jeruzalémě byli pod vedením Uziho, syna Baniho, syna Chašabiášova, syna Mataniášova, syna Míkova ze synů Asafových, což byli zpěváci zodpovědní za službu Božího chrámu.</verse>
+        <verse osisID='Neh.11.23'>Platil pro ně královský výnos určující den po dni, co mají zpěváci dělat.</verse>
+        <verse osisID='Neh.11.24'>Petachiáš, syn Mešezabelův ze synů Zeracha, syna Judova, byl k ruce králi ve všech záležitostech lidu.</verse>
+        <verse osisID='Neh.11.25'>Pokud jde o venkovské usedlosti, synové Judovi bydleli v Kirjat-arbě a jejích vesnicích, v Dibonu a jeho vesnicích, v Jekabceelu a jeho usedlostech,</verse>
+        <verse osisID='Neh.11.26'>v Ješuovi, Moladě, Bet-peletu,</verse>
+        <verse osisID='Neh.11.27'>Chacar-šualu, v Beer-šebě a jejích vesnicích,</verse>
+        <verse osisID='Neh.11.28'>v Ciklagu, v Mekoně a jejích vesnicích,</verse>
+        <verse osisID='Neh.11.29'>v En-rimonu, Coreji, Jarmutu,</verse>
+        <verse osisID='Neh.11.30'>Zanoachu, v Adulamu a jeho usedlostech, v Lachiši a jeho polnostech, v Azece a jejích vesnicích. Sídlili od Beer-šeby až k údolí Hinom.</verse>
+        <verse osisID='Neh.11.31'>Synové Benjamínovi byli v Gebě, Michmasu, Aji, v Bet-elu a jeho vesnicích,</verse>
+        <verse osisID='Neh.11.32'>v Anatotu, Nobu, Ananji,</verse>
+        <verse osisID='Neh.11.33'>v Chacoru, Rámě, Gitajimu,</verse>
+        <verse osisID='Neh.11.34'>v Chadidu, Ceboimu, Nebalatu,</verse>
+        <verse osisID='Neh.11.35'>v Lodu, Onu a v údolí řemeslníků.</verse>
+        <verse osisID='Neh.11.36'>K Benjamínovi byly přičleněny také některé levitské oddíly z Judy.</verse>
+      </chapter>
+      <chapter osisID='Neh.12'>
+        <verse osisID='Neh.12.1'>Toto jsou kněží a levité, kteří se navrátili se Zerubábelem, synem Šealtielovým a s Jošuou: Serajáš, Jeremiáš, Ezdráš,</verse>
+        <verse osisID='Neh.12.2'>Amariáš, Maluk, Chatuš,</verse>
+        <verse osisID='Neh.12.3'>Šekaniáš, Rechum, Meremot,</verse>
+        <verse osisID='Neh.12.4'>Ido, Gineton, Abiáš,</verse>
+        <verse osisID='Neh.12.5'>Mijamin, Mahadiáš, Bilga,</verse>
+        <verse osisID='Neh.12.6'>Šemajáš a Jojarib, Jedajáš,</verse>
+        <verse osisID='Neh.12.7'>Salu, Amok, Chilkiáš, Jedajáš - to jsou přední kněží a jejich bratři za dnů Jošuových.</verse>
+        <verse osisID='Neh.12.8'>Dále levité: Ješua, Binui, Kadmiel, Šerebiáš, Juda, Mataniáš. Ten se svými bratry odpovídal za písně díkuvzdání.</verse>
+        <verse osisID='Neh.12.9'>Jejich bratři Bakbukiáš a Uni během služeb stáli naproti nim.</verse>
+        <verse osisID='Neh.12.10'>Jošua zplodil Joakima, Joakim zplodil Eliašiba, Eliašib zplodil Jojadu,</verse>
+        <verse osisID='Neh.12.11'>Jojada zplodil Jonatana, Jonatan zplodil Jaduu.</verse>
+        <verse osisID='Neh.12.12'>Toto byli vůdcové kněžských otcovských rodů za dnů Joakimových: v Serajášově rodu Merajáš, v Jeremiášově rodu Chananiáš,</verse>
+        <verse osisID='Neh.12.13'>v Ezdrášově rodu Mešulam, v Amariášově rodu Jochanan,</verse>
+        <verse osisID='Neh.12.14'>v Melukiho rodu Jonatan, v Šekaniášově rodu Josef,</verse>
+        <verse osisID='Neh.12.15'>v Charimově rodu Adna, v Meremotově rodu Chelkaj,</verse>
+        <verse osisID='Neh.12.16'>v Idově rodu Zachariáš, v Ginetonově rodu Mešulam,</verse>
+        <verse osisID='Neh.12.17'>v Abiášově rodu Zikri, v Minjaminově rodu, v Moadiášově rodu Piltaj,</verse>
+        <verse osisID='Neh.12.18'>v Bilgově rodu Šamua, v Šemajášově rodu Jonatan,</verse>
+        <verse osisID='Neh.12.19'>v Jojaribově rodu Matenaj, v Jedahiášově rodu Uzi,</verse>
+        <verse osisID='Neh.12.20'>v Salajově rodu Kalaj, v Amokově rodu Eber,</verse>
+        <verse osisID='Neh.12.21'>v Chilkiášově rodu Chašabiáš, v Jedahiášově rodu Netanel.</verse>
+        <verse osisID='Neh.12.22'>Levité za dnů Eliašiba, Jojady, Jochanana a Jaduy v čele otcovských rodů jakož i kněží byli zapsáni během kralování Dareia Perského.</verse>
+        <verse osisID='Neh.12.23'>Vůdcové levitských otcovských rodů jsou zapsáni v Knize letopisů až do doby Jochanana, syna Eliašibova.</verse>
+        <verse osisID='Neh.12.24'>Přední levité: Chašabiáš, Šerebiáš, Ješua, syn Kadmielův, a jejich bratři, kteří podle příkazu Davida, muže Božího, měli chválit a vzdávat díky naproti nim střídavě sbor po sboru.</verse>
+        <verse osisID='Neh.12.25'>Mataniáš i Bakbukiáš, Obadiáš, Mešulam, Talmon i Akub drželi stráž při branách a hlídky při skladech v branách.</verse>
+        <verse osisID='Neh.12.26'>Ti působili za dnů Joakima, syna Jošuova, syna Jocadakova, a za dnů místodržitele Nehemiáše a učeného kněze Ezdráše.</verse>
+        <verse osisID='Neh.12.27'>Když se posvěcovaly hradby Jeruzaléma, byli vyhledáni levité ze všech míst, kde bydleli, a byli přivedeni do Jeruzaléma, aby radostně oslavovali zasvěcení hradeb zpěvy díků a hraním na činely, lyry a citery.</verse>
+        <verse osisID='Neh.12.28'>Zpěváci byli shromážděni ze širokého okolí Jeruzaléma - z netofských usedlostí,</verse>
+        <verse osisID='Neh.12.29'>z Bet-gilgalu a z okolí Geby a Azmavetu. Zpěváci si totiž vystavěli usedlosti v okolí Jeruzaléma.</verse>
+        <verse osisID='Neh.12.30'>Kněží a levité se očistili a očistili také lid, brány a hradby.</verse>
+        <verse osisID='Neh.12.31'>Judské hodnostáře jsem vyvedl na hradby a postavil dva veliké děkovné průvody. Průvod na jih mířil po hradbách ke Hnojné bráně.</verse>
+        <verse osisID='Neh.12.32'>Šel s nimi Hošajáš a polovina judských hodnostářů,</verse>
+        <verse osisID='Neh.12.33'>Azariáš, Ezdráš a Mešulam,</verse>
+        <verse osisID='Neh.12.34'>Juda, Benjamín, Šemajáš a Jeremiáš.</verse>
+        <verse osisID='Neh.12.35'>Z kněžských synů s trubkami tu byl Zachariáš, syn Jonatana, syna Šemajášova, syna Mataniášova, syna Mikajášova, syna Zakurova, syna Asafova;</verse>
+        <verse osisID='Neh.12.36'>a rovněž jeho bratři Šemajáš, Azarel, Milalaj, Gilalaj, Mahaj, Netanel, Juda a Chanani s hudebními nástroji Davida, muže Božího. V čele průvodu šel učenec Ezdráš.</verse>
+        <verse osisID='Neh.12.37'>Prošli Studniční bránou naproti nim, stoupali po schodech Města Davidova vzhůru ke hradbám, podél Davidova paláce a na východ k Vodní bráně.</verse>
+        <verse osisID='Neh.12.38'>Druhý děkovný průvod šel opačným směrem. Šel jsem s ním i já s polovinou lidu: po hradbě směrem k Pecné věži a až k Široké hradbě,</verse>
+        <verse osisID='Neh.12.39'>podél Efraimovy brány přes Ješanskou bránu, přes Rybnou bránu, věž Chananel, věž Mea až k Ovčí bráně. Zastavili jsme u Strážní brány.</verse>
+        <verse osisID='Neh.12.40'>Oba děkovné průvody stanuly na nádvoří Božího chrámu, také já a se mnou polovina hodnostářů</verse>
+        <verse osisID='Neh.12.41'>a rovněž kněží: Eliakim, Maasejáš, Minjamin, Míka, Eljoenaj, Zachariáš a Chananiáš s trubkami,</verse>
+        <verse osisID='Neh.12.42'>dále Maasejáš, Šemajáš, Eleazar, Uzi, Jochanan, Malkiáš, Elam a Ezer. Zpěváci pozvedli hlas, vedeni Jizrachiášem.</verse>
+        <verse osisID='Neh.12.43'>Toho dne se obětovaly veliké oběti a všichni se radovali, neboť je Bůh rozveselil velikou radostí. Radovaly se i ženy a děti a jeruzalémské veselí se rozléhalo široko daleko.</verse>
+        <verse osisID='Neh.12.44'>Toho dne byli ustanoveni muži zodpovědní za komory, pokladnice, obětiny, prvotiny a desátky, aby shromažďovali zákonné příděly obecních polností pro kněze a levity. Všechen Juda se radoval z toho, že kněží a levité byli postaveni do služby.</verse>
+        <verse osisID='Neh.12.45'>Ti konali službu svému Bohu a dbali na očišťování podle příkazů Davida a jeho syna Šalomouna stejně jako zpěváci a strážní.</verse>
+        <verse osisID='Neh.12.46'>(Již dávno, za dnů Davidových a Asafových, totiž byli ustanoveni vedoucí zpěváků, chval a díkůvzdání Bohu.)</verse>
+        <verse osisID='Neh.12.47'>Všechen Izrael tedy za dnů Zerubábela a Nehemiáše odevzdával příspěvky na zpěváky a strážné, jak bylo stanoveno den po dni. Také levitům zasvěcovali odvody a levité zasvěcovali odvody synům Áronovým.</verse>
+      </chapter>
+      <chapter osisID='Neh.13'>
+        <verse osisID='Neh.13.1'>Onoho dne se veřejně předčítalo z Knihy Mojžíšovy. Našlo se tam zapsáno: "Do Božího shromáždění nesmí vejít nikdo z Amonců ani z Moábců,</verse>
+        <verse osisID='Neh.13.2'>protože synům Izraele nevyšli naproti s chlebem a vodou. Namísto toho si najali Balaáma, aby je proklel. Náš Bůh ale obrátil kletbu v požehnání."</verse>
+        <verse osisID='Neh.13.3'>Jakmile ten zákon uslyšeli, vyloučili z Izraele všechny, kdo se mezi ně přimísili.</verse>
+        <verse osisID='Neh.13.4'>Ještě předtím se ale kněz Eliašib, přidělený ke komorám chrámu našeho Boha, spříznil s Tobiášem</verse>
+        <verse osisID='Neh.13.5'>a poskytl mu velikou komoru, kde předtím ukládali obětiny, kadidlo, nádoby a desátky z obilí, vína i oleje, předepsaného pro levity, zpěváky a strážné, jakož i obětiny pro kněze.</verse>
+        <verse osisID='Neh.13.6'>V té době jsem nebyl v Jeruzalémě, protože jsem ve dvaatřicátém roce babylonského krále Artaxerxe musel odcestovat ke králi. Potom jsem krále znovu požádal o svolení</verse>
+        <verse osisID='Neh.13.7'>a vrátil se do Jeruzaléma. Tehdy jsem se dozvěděl, jakou špatnost Eliašib provedl, když Tobiášovi poskytl komoru na nádvoří Božího chrámu.</verse>
+        <verse osisID='Neh.13.8'>Nesmírně rozhněván jsem všechny Tobiášovy rodinné věci vyházel ven z komory.</verse>
+        <verse osisID='Neh.13.9'>Pak jsem nařídil komory očistit a nechal tam nanosit věci Božího domu, obětiny a kadidlo.</verse>
+        <verse osisID='Neh.13.10'>Také jsem zjistil, že se neodváděly příděly pro levity, takže se všichni levité i zpěváci konající bohoslužbu uchýlili ke svým polím.</verse>
+        <verse osisID='Neh.13.11'>Vytkl jsem to hodnostářům. "Jak to že je zanedbáván Boží dům?!" ptal jsem se. Povolal jsem je tedy zpět a poslal je na jejich místa.</verse>
+        <verse osisID='Neh.13.12'>Všechen judský lid pak přinášel do pokladnic desátky z obilí, vína i oleje.</verse>
+        <verse osisID='Neh.13.13'>Pokladnice jsem svěřil knězi Šelemiášovi, písaři Sádokovi a levitovi Pedajášovi a k ruce jsem jim dal Chanana, syna Zakurova, syna Mataniášova. Byli spolehliví lidé, a tak dostali za úkol rozdělovat příděly svým bratřím.</verse>
+        <verse osisID='Neh.13.14'>Pamatuj za to na mě, Bože můj, a nevymaž mou oddanost, kterou jsem prokazoval domu svého Boha a jeho službám!</verse>
+        <verse osisID='Neh.13.15'>V těch dnech jsem v Judsku viděl, jak v sobotu šlapou vinný lis, jak snášejí obilí na hromady, nakládají na osly a převážejí do Jeruzaléma víno, hrozny, fíky a všemožné náklady. Ještě téhož sobotního dne, kdy ty potraviny prodávali, jsem je varoval.</verse>
+        <verse osisID='Neh.13.16'>Zdržovali se tam také Tyřané a přiváželi ryby a všemožné zboží, které v sobotu prodávali Židům přímo v Jeruzalémě.</verse>
+        <verse osisID='Neh.13.17'>Vytýkal jsem to judské šlechtě. "Co to děláte za špatnost?!" ptal jsem se jich. "Vždyť znesvěcujete sobotu!</verse>
+        <verse osisID='Neh.13.18'>Právě tohle dělali vaši otcové, a náš Bůh pak na nás a na toto město dopustil všechno to zlo! Když poskvrňujete sobotu, znovu rozněcujete jeho hněv proti Izraeli!"</verse>
+        <verse osisID='Neh.13.19'>Když se tedy v jeruzalémských branách začínalo šeřit před sobotou, přikázal jsem, ať zavřou vrata. Zakázal jsem je otevírat, dokud neskončí sobota. Do bran jsem postavil některé ze svých mužů, aby se v sobotu nemohl přivážet náklad.</verse>
+        <verse osisID='Neh.13.20'>Jednou nebo dvakrát museli obchodníci a prodavači veškerého zboží přenocovat venku před Jeruzalémem.</verse>
+        <verse osisID='Neh.13.21'>Já jsem je ale varoval. "Co tady nocujete před hradbami?" říkal jsem jim. "Ještě jednou, a vztáhnu na vás ruku!" Od té doby už v sobotu nechodili.</verse>
+        <verse osisID='Neh.13.22'>Levitům jsem nařídil, aby se očistili a přišli hlídat brány, aby sobotní den zůstal svatý. I za to na mě pamatuj, Bože můj, a ve své veliké lásce se slituj nade mnou.</verse>
+        <verse osisID='Neh.13.23'>V té době jsem také viděl, jak si Židé berou ženy z Ašdodu a také Amonky a Moábky.</verse>
+        <verse osisID='Neh.13.24'>Jejich děti místo židovsky mluvily napůl ašdodsky anebo jazyky ostatních národů.</verse>
+        <verse osisID='Neh.13.25'>Vytýkal jsem jim to, zlořečil jim, některé muže jsem i bil a rval jim vlasy. Zapřísahal jsem je při Bohu: "Nedávejte své dcery jejich synům a nežeňte své syny ani sebe s jejich dcerami!</verse>
+        <verse osisID='Neh.13.26'>Copak právě kvůli nim nezhřešil izraelský král Šalomoun?! Mezi tolika národy nebylo krále jako on - Boží miláček, jehož Bůh učinil králem celého Izraele. I jeho zavedly cizí ženy do hříchu.</verse>
+        <verse osisID='Neh.13.27'>Co teprve vás? Je neslýchané, abyste prováděli takovou hanebnost, zrazovali našeho Boha a ženili se s cizinkami!"</verse>
+        <verse osisID='Neh.13.28'>Jeden ze synů Jojady, syna velekněze Eliašiba, byl zetěm Sanbalata Choronského. Proto jsem ho vykázal ze své blízkosti.</verse>
+        <verse osisID='Neh.13.29'>Pamatuj na ně, Bože můj, že poskvrnili kněžství a smlouvu kněžskou i levitskou.</verse>
+        <verse osisID='Neh.13.30'>Tak jsem je očistil ode všeho cizího. Stanovil jsem kněžské i levitské služby, každému jeho úkol.</verse>
+        <verse osisID='Neh.13.31'>Určil jsem také pravidelné dávky dřeva a prvotin. Pamatuj na mě, Bože můj, v dobrém.</verse>
+      </chapter>
+    </div></osisText>
+</osis>

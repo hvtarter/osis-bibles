@@ -1,0 +1,561 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace'>
+  <osisText osisRefWork='Bible' osisIDWork='CzeB21' xml:lang='cs'>
+    <header>
+      <revisionDesc>
+        <date>2010-02-26</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='CzeB21'>
+        <title>Czech Bible, Překlad 21. století</title>
+        <contributor/>
+        <creator>Mod2Zef (4)</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject/>
+        <date>2009-07-31</date>
+        <description>Bible, Překlad 21. století  vedoucí projektu Alexandr Flek  odborná spolupráce Jiří Hedánek, Pavel Hoffman, Zdeněk Sýkora  Přeloženo z hebrejštiny, aramejštiny, řečtiny  Vydání první  (c) 2009 Biblion, o. s.  www.bible21.org  www.bible21.cz   Překlad 21. století přináší nadčasové poselství Bible v současné, čtivé češtině. Usiluje o maximální věrnost původním hebrejským, aramejským a řeckým textům, zároveň však chce oslovit dnešní čtenáře, ať už jsou zvyklí čerpat z této knihy inspiraci pro každý den, anebo ji otevírají poprvé.</description>
+        <publisher/>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>CzeB21</identifier>
+        <source>no entry TextSource in sword.conf found</source>
+        <language type='IETF'>cs</language>
+        <relation/>
+        <coverage>provide the bible to the nations of the world</coverage>
+        <rights>Copyrighted; Permission to distribute granted to CrossWire</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='Rom'>
+      <chapter osisID='Rom.1'>
+        <verse osisID='Rom.1.1'>Pavel služebník Krista Ježíše, povolaný apoštol, oddělený pro Boží evangelium,</verse>
+        <verse osisID='Rom.1.2'>které Bůh skrze své proroky již dávno zaslíbil ve svatých Písmech.</verse>
+        <verse osisID='Rom.1.3'>Toto evangelium je o jeho Synu - který tělem pocházel z Davidova semene,</verse>
+        <verse osisID='Rom.1.4'>Duchem svatým však byl Boží Syn, jak se mocně ukázalo jeho vzkříšením z mrtvých - o našem Pánu Ježíši Kristu.</verse>
+        <verse osisID='Rom.1.5'>Skrze něj a pro jeho jméno se nám dostalo této milosti, totiž apoštolství, aby lidé ze všech národů došli k poslušnosti víry;</verse>
+        <verse osisID='Rom.1.6'>k nim patříte i vy, povolaní Ježíšem Kristem.</verse>
+        <verse osisID='Rom.1.7'>Všem Bohem milovaným povolaným svatým v Římě: Milost vám a pokoj od Boha, našeho Otce, a od Pána Ježíše Krista.</verse>
+        <verse osisID='Rom.1.8'>Především za vás všechny děkuji svému Bohu skrze Ježíše Krista - vždyť o vaší víře mluví celý svět!</verse>
+        <verse osisID='Rom.1.9'>Bůh, jemuž sloužím svým duchem v evangeliu jeho Syna, je mi svědkem, že se o vás neustále zmiňuji</verse>
+        <verse osisID='Rom.1.10'>ve svých modlitbách. Stále prosím za to, aby se mi konečně už někdy podařilo přijít z Boží vůle k vám.</verse>
+        <verse osisID='Rom.1.11'>Toužím se s vámi setkat, abych se s vámi podělil o nějaký duchovní dar k vašemu posílení,</verse>
+        <verse osisID='Rom.1.12'>to jest, abychom se navzájem povzbudili: vy mojí vírou a já vaší.</verse>
+        <verse osisID='Rom.1.13'>Nechci, bratři, abyste nevěděli, že jsem vás už mnohokrát chtěl navštívit (ale dosud mi v tom vždy bylo zabráněno), abych přinesl užitek i mezi vámi tak jako mezi ostatními národy.</verse>
+        <verse osisID='Rom.1.14'>Jsem dlužníkem Řeků i barbarů, vzdělaných i prostých,</verse>
+        <verse osisID='Rom.1.15'>takže pokud jde o mě, jsem odhodlán kázat evangelium i u vás v Římě.</verse>
+        <verse osisID='Rom.1.16'>Nestydím se za evangelium - vždyť je to Boží moc ke spasení každého, kdo věří, předně Žida, ale i Řeka.</verse>
+        <verse osisID='Rom.1.17'>V něm se totiž zjevuje Boží spravedlnost z víry k víře, jak je psáno: "Spravedlivý pak bude žít z víry."</verse>
+        <verse osisID='Rom.1.18'>Z nebe se zjevuje Boží hněv proti každé bezbožnosti a nepravosti lidí, kteří svévolně potlačují pravdu.</verse>
+        <verse osisID='Rom.1.19'>Co se dá o Bohu poznat, je jim zřetelné, neboť jim to Bůh odhalil.</verse>
+        <verse osisID='Rom.1.20'>Jeho neviditelné znaky - jeho věčnou moc a božství - lze už od stvoření světa rozumem postřehnout v jeho díle. Nemají tedy výmluvu.</verse>
+        <verse osisID='Rom.1.21'>Ačkoli Boha poznali, nectili ho jako Boha. Místo aby byli vděční, propadli ve svých myšlenkách marnosti a jejich nerozumné srdce se ocitlo ve tmě.</verse>
+        <verse osisID='Rom.1.22'>Prohlašují se za moudré, ale jsou blázni.</verse>
+        <verse osisID='Rom.1.23'>Slávu nesmrtelného Boha vyměnili za pouhé obrazy smrtelného člověka, ptáků, zvěře i plazů.</verse>
+        <verse osisID='Rom.1.24'>Bůh je proto vydal nečistotě, po níž v srdci toužili, aby si navzájem prznili těla,</verse>
+        <verse osisID='Rom.1.25'>když vyměnili Boží pravdu za lež a ctili stvoření a sloužili mu raději nežli Stvořiteli, který je požehnaný navěky. Amen.</verse>
+        <verse osisID='Rom.1.26'>Bůh je proto vydal hanebným vášním. Jejich ženy vyměnily přirozené obcování za to, které je proti přírodě.</verse>
+        <verse osisID='Rom.1.27'>Stejně tak muži opustili přirozené obcování se ženou a vzpláli touhou k sobě navzájem; muži páchají nestydatost s muži a za svou zvrácenost na sebe přivádějí nevyhnutelnou odplatu.</verse>
+        <verse osisID='Rom.1.28'>Když jim známost Boha nebyla dost dobrá, Bůh je vydal jejich zvrácené mysli, aby dělali, co není správné.</verse>
+        <verse osisID='Rom.1.29'>Jsou prolezlí nepravostí, podlostí, chamtivostí a záští; jsou plní závisti, vraždychtivosti, svárlivosti, lsti a zlomyslnosti;</verse>
+        <verse osisID='Rom.1.30'>štváči a pomlouvači, odpůrci Boha, zpupní, arogantní, vychloubační, vynalézaví ve zlu, vzpurní k rodičům;</verse>
+        <verse osisID='Rom.1.31'>nerozumní, nespolehliví, bezcitní a nemilosrdní.</verse>
+        <verse osisID='Rom.1.32'>Přestože znají Boží rozsudek smrti nad pachateli těchto věcí, nejenže je sami dělají, ale ještě to ostatním schvalují.</verse>
+      </chapter>
+      <chapter osisID='Rom.2'>
+        <verse osisID='Rom.2.1'>Chceš-li však někoho soudit, člověče, věz, že sám nemáš výmluvu, ať jsi kdokoli. Tím, že soudíš druhého, odsuzuješ sám sebe - vždyť sám děláš to, co soudíš!</verse>
+        <verse osisID='Rom.2.2'>Víme, že Boží soud nad pachateli těch věcí se zakládá na pravdě.</verse>
+        <verse osisID='Rom.2.3'>Myslíš si snad, člověče, že unikneš Božímu soudu, když soudíš druhé, ale sám děláš totéž?</verse>
+        <verse osisID='Rom.2.4'>Anebo snad podceňuješ bohatství jeho laskavosti, shovívavosti a trpělivosti? Nechápeš, že tě Boží dobrota vede k pokání?</verse>
+        <verse osisID='Rom.2.5'>Ty si ale svou tvrdostí a nekajícím srdcem proti sobě hromadíš hněv, který se zjeví v den hněvu a Božího spravedlivého soudu.</verse>
+        <verse osisID='Rom.2.6'>On "odplatí každému podle jeho skutků" -</verse>
+        <verse osisID='Rom.2.7'>těm, kdo vytrvale konají dobro a hledají slávu, čest a nesmrtelnost, věčným životem;</verse>
+        <verse osisID='Rom.2.8'>těm, kdo ve svém sobectví odmítají pravdu a řídí se nepravostí, však odplatí zuřivým hněvem.</verse>
+        <verse osisID='Rom.2.9'>Soužení a úzkost čeká duši každého člověka, který koná zlo, předně Žida, ale i Řeka.</verse>
+        <verse osisID='Rom.2.10'>Každého, kdo koná dobro, předně Žida, ale i Řeka, pak čeká sláva, čest a pokoj.</verse>
+        <verse osisID='Rom.2.11'>Bůh totiž nestraní nikomu.</verse>
+        <verse osisID='Rom.2.12'>Všichni, kdo hřešili bez Zákona, bez Zákona také zahynou; všichni, kdo hřešili pod Zákonem, budou souzeni Zákonem.</verse>
+        <verse osisID='Rom.2.13'>Před Bohem totiž nejsou spravedliví ti, kdo Zákon slyší, ale ti, kdo Zákon plní.</verse>
+        <verse osisID='Rom.2.14'>Pohané nemají Zákon, ale když sami přirozeně dělají, co Zákon žádá, pak jsou Zákonem sami sobě. Nemají sice Zákon,</verse>
+        <verse osisID='Rom.2.15'>ale prokazují působení Zákona zapsaného v jejich srdcích. Dosvědčuje to i jejich svědomí: jejich vlastní myšlenky je někdy obviňují a jindy obhajují.</verse>
+        <verse osisID='Rom.2.16'>Takto bude podle mého evangelia v onen den Bůh soudit lidská tajemství skrze Krista Ježíše.</verse>
+        <verse osisID='Rom.2.17'>Ty si ovšem říkáš Žid, spoléháš na Zákon a chlubíš se Bohem.</verse>
+        <verse osisID='Rom.2.18'>Znáš jeho vůli a víš, co je správné, neboť se učíš ze Zákona.</verse>
+        <verse osisID='Rom.2.19'>Pokládáš se za vůdce slepých a světlo zatemněných,</verse>
+        <verse osisID='Rom.2.20'>vychovatele nevědomých a učitele nedospělých, neboť máš Zákon za ztělesnění poznání a pravdy.</verse>
+        <verse osisID='Rom.2.21'>Když poučuješ druhého, proč se nepoučíš sám? Kážeš: "Nekraď," a přitom sám kradeš?</verse>
+        <verse osisID='Rom.2.22'>Říkáš: "Necizolož," a sám cizoložíš? Štítíš se model, a přitom pácháš svatokrádež?</verse>
+        <verse osisID='Rom.2.23'>Chlubíš se Zákonem, a přitom zneuctíváš Boha porušováním Zákona?</verse>
+        <verse osisID='Rom.2.24'>Jak je psáno, "Pohané pohrdají Božím jménem kvůli vám".</verse>
+        <verse osisID='Rom.2.25'>Obřízka má totiž cenu, jen pokud dodržuješ Zákon. Pokud Zákon porušuješ, z tvé obřízky nic nezbylo.</verse>
+        <verse osisID='Rom.2.26'>Kdyby neobřezaný člověk dodržoval ustanovení Zákona, nebude se mu to počítat za obřízku?</verse>
+        <verse osisID='Rom.2.27'>Není tělesně obřezán, ale plní Zákon, a tak odsoudí tebe, který i s literou a obřízkou Zákon porušuješ.</verse>
+        <verse osisID='Rom.2.28'>Pravý Žid totiž není ten, kdo je jím zjevně, a pravá obřízka není ta zjevná na těle.</verse>
+        <verse osisID='Rom.2.29'>Skutečným Židem je ten, kdo je jím v nitru a má srdce obřezané Duchem, ne literou. Takový dojde chvály, nikoli od lidí, ale od Boha.</verse>
+      </chapter>
+      <chapter osisID='Rom.3'>
+        <verse osisID='Rom.3.1'>Má tedy Žid nějakou výhodu? Má obřízka nějakou cenu?</verse>
+        <verse osisID='Rom.3.2'>Každopádně, velikou! Především jim byla svěřena Boží slova.</verse>
+        <verse osisID='Rom.3.3'>Jistě, někteří z nich byli nevěrní, ale copak jejich nevěrnost může zrušit Boží věrnost?</verse>
+        <verse osisID='Rom.3.4'>V žádném případě! Ať si je každý člověk lhář, Bůh bude pravdomluvný. Jak je psáno: "Ve svých výrocích budeš ospravedlněn, ve svém soudu budeš vítězem."</verse>
+        <verse osisID='Rom.3.5'>Když ale naše nepravost dokazuje Boží spravedlnost, co na to řekneme? Není Bůh (lidsky řečeno) nespravedlivý, když nás trestá svým hněvem?</verse>
+        <verse osisID='Rom.3.6'>V žádném případě! Vždyť jak by potom Bůh soudil svět?</verse>
+        <verse osisID='Rom.3.7'>Někdo namítne: "Proč ale mám být souzen jako hříšník, když se mou lží jen potvrzuje Boží pravdomluvnost k jeho slávě?"</verse>
+        <verse osisID='Rom.3.8'>To už by se mohlo rovnou říci: "Páchejme zlo, ať přijde dobro." Někteří pomlouvači o nás tvrdí, že právě takto mluvíme, ale čeká je spravedlivý trest.</verse>
+        <verse osisID='Rom.3.9'>Nuže, jsme na tom lépe než pohané? Ani v nejmenším! Právě jsme přece usvědčili Židy i Řeky, že jsou všichni poddaní hříchu.</verse>
+        <verse osisID='Rom.3.10'>Jak je psáno: "Nikdo není spravedlivý, není ani jediný;</verse>
+        <verse osisID='Rom.3.11'>nikdo nechce porozumět, Bůh nikomu nechybí.</verse>
+        <verse osisID='Rom.3.12'>Všichni zabloudili z cesty, dočista se zkazili; není, kdo by konal dobro, není vůbec žádný."</verse>
+        <verse osisID='Rom.3.13'>"Zející hrob je hrdlo jejich, nástroje klamu jejich jazyky. Hadí jed skrývají pod svými rty,</verse>
+        <verse osisID='Rom.3.14'>hořké kletby z úst jim tryskají."</verse>
+        <verse osisID='Rom.3.15'>"Prolévat krev spěchají jejich nohy,</verse>
+        <verse osisID='Rom.3.16'>zkáza a bída jsou jejich průvodci,</verse>
+        <verse osisID='Rom.3.17'>cestu pokoje ale neznají;</verse>
+        <verse osisID='Rom.3.18'>na Boží bázeň vůbec nehledí."</verse>
+        <verse osisID='Rom.3.19'>Víme, že cokoli Zákon říká, říká těm, kdo jsou pod Zákonem, aby tak byla zacpána každá ústa a aby byl celý svět vystaven Božímu soudu.</verse>
+        <verse osisID='Rom.3.20'>Na základě skutků Zákona před ním nebude ospravedlněn nikdo; Zákon totiž přináší jen poznání hříchu.</verse>
+        <verse osisID='Rom.3.21'>Nyní je však mimo Zákon zjevena Boží spravedlnost, kterou Zákon i Proroci dosvědčují -</verse>
+        <verse osisID='Rom.3.22'>Boží spravedlnost, jež skrze víru v Ježíše Krista přichází ke všem, kdo věří. Není totiž rozdílu:</verse>
+        <verse osisID='Rom.3.23'>všichni zhřešili a chybí jim Boží sláva.</verse>
+        <verse osisID='Rom.3.24'>Jsou však zdarma ospravedlňováni jeho milostí, skrze vykoupení v Kristu Ježíši.</verse>
+        <verse osisID='Rom.3.25'>Jeho určil Bůh za oběť smíření pro ty, kdo věří v jeho krev, aby tak prokázal svou vlastní spravedlnost. Bůh totiž ve své shovívavosti prominul předešlé hříchy,</verse>
+        <verse osisID='Rom.3.26'>aby nyní prokázal svou spravedlnost, aby se ukázalo, že je spravedlivý a ospravedlňuje toho, kdo věří v Ježíše.</verse>
+        <verse osisID='Rom.3.27'>Kde je tedy chlouba? Byla vyloučena. Jakým zákonem? Snad skutků? Nikoli, ale zákonem víry.</verse>
+        <verse osisID='Rom.3.28'>Máme tedy za to, že člověk je ospravedlňován vírou bez skutků Zákona.</verse>
+        <verse osisID='Rom.3.29'>Je snad Bůh jen Bohem Židů? Není i Bohem pohanů? Jistěže i pohanů!</verse>
+        <verse osisID='Rom.3.30'>Je přece jediný Bůh; ten ospravedlní obřezané díky víře a neobřezané skrze víru.</verse>
+        <verse osisID='Rom.3.31'>Rušíme tedy vírou Zákon? V žádném případě! Naopak, Zákon potvrzujeme.</verse>
+      </chapter>
+      <chapter osisID='Rom.4'>
+        <verse osisID='Rom.4.1'>Co na to řekneme? Co získal náš tělesný praotec Abraham?</verse>
+        <verse osisID='Rom.4.2'>Kdyby byl Abraham uznán za spravedlivého na základě skutků, měl by se čím chlubit, ale ne před Bohem!</verse>
+        <verse osisID='Rom.4.3'>Co však říká Písmo? "Abraham uvěřil Bohu a to mu bylo počítáno za spravedlnost."</verse>
+        <verse osisID='Rom.4.4'>Ten, kdo koná skutky, nedostává odplatu z milosti, ale z povinnosti.</verse>
+        <verse osisID='Rom.4.5'>Kdo ale místo skutků věří v Toho, který ospravedlňuje bezbožného, tomu se za spravedlnost počítá jeho víra.</verse>
+        <verse osisID='Rom.4.6'>Vždyť i David blahoslaví člověka, kterému Bůh přičítá spravedlnost bez skutků:</verse>
+        <verse osisID='Rom.4.7'>"Blaze těm, jimž byly odpuštěny viny a jejichž hříchy byly přikryty.</verse>
+        <verse osisID='Rom.4.8'>Blaze tomu, jemuž Hospodin nepočítá jeho hřích!"</verse>
+        <verse osisID='Rom.4.9'>Platí toto blahoslavení jen pro obřezané, nebo i pro neobřezané? Říkáme, že Abrahamovi byla jeho víra "počítána za spravedlnost".</verse>
+        <verse osisID='Rom.4.10'>Nuže, kdy mu byla počítána? Poté, co byl obřezán, anebo předtím? Nebylo to po obřízce, ale před ní!</verse>
+        <verse osisID='Rom.4.11'>Znamení obřízky pak přijal jako pečeť spravedlnosti, kterou měl díky víře už před obřezáním. Je tedy otcem všech neobřezaných věřících, kterým je spravedlnost přičtena,</verse>
+        <verse osisID='Rom.4.12'>a otcem těch obřezaných, kteří nemají jen obřízku, ale také kráčí ve šlépějích víry, kterou měl náš otec Abraham ještě před obřízkou.</verse>
+        <verse osisID='Rom.4.13'>Když se Abrahamovi a jeho semeni dostalo zaslíbení, že mu bude patřit svět, nebylo to na základě Zákona, ale na základě spravedlnosti z víry.</verse>
+        <verse osisID='Rom.4.14'>Kdyby jeho dědici měli být lidé Zákona, byla by ta víra zmařena a zaslíbení zrušeno.</verse>
+        <verse osisID='Rom.4.15'>Zákon přináší hněv; vždyť kde není Zákon, není přestupek.</verse>
+        <verse osisID='Rom.4.16'>Zaslíbení tedy vychází z víry, aby se řídilo milostí, aby bylo zaručeno všemu semeni - nejen přívržencům Zákona, ale také následovníkům Abrahamovy víry. Ten je otcem nás všech</verse>
+        <verse osisID='Rom.4.17'>(jak je psáno: "Učinil jsem tě otcem mnohých národů") před Bohem, kterému uvěřil, který oživuje mrtvé a volá věci, které nejsou, aby byly.</verse>
+        <verse osisID='Rom.4.18'>V naději proti vší naději Abraham uvěřil, že bude otcem mnohých národů; bylo mu totiž řečeno: "Tak početné bude tvé símě."</verse>
+        <verse osisID='Rom.4.19'>I když mu bylo skoro sto let, neochaboval ve víře při pohledu na své už nemohoucí tělo a na neplodnost Sářina lůna.</verse>
+        <verse osisID='Rom.4.20'>Nepochyboval nevěřícně o Božím zaslíbení, ale posílil se ve víře, a tak vzdal slávu Bohu.</verse>
+        <verse osisID='Rom.4.21'>Byl totiž přesvědčen, že co Bůh zaslíbil, dokáže i splnit,</verse>
+        <verse osisID='Rom.4.22'>a právě to "mu bylo počítáno za spravedlnost."</verse>
+        <verse osisID='Rom.4.23'>Že mu to "bylo počítáno" však není napsáno jen kvůli němu,</verse>
+        <verse osisID='Rom.4.24'>ale také kvůli nám, jimž má být počítáno, že věříme v Toho, který vzkřísil z mrtvých našeho Pána Ježíše.</verse>
+        <verse osisID='Rom.4.25'>On byl vydán pro naše provinění a vzkříšen pro naše ospravedlnění.</verse>
+      </chapter>
+      <chapter osisID='Rom.5'>
+        <verse osisID='Rom.5.1'>Nyní, když jsme ospravedlněni z víry, máme pokoj s Bohem skrze našeho Pána, Ježíše Krista.</verse>
+        <verse osisID='Rom.5.2'>Skrze něj jsme také vírou získali přístup k této milosti, v níž stojíme a chlubíme se nadějí Boží slávy.</verse>
+        <verse osisID='Rom.5.3'>A nejen to; chlubíme se i souženími, neboť víme, že soužení působí vytrvalost,</verse>
+        <verse osisID='Rom.5.4'>vytrvalost spolehlivost a spolehlivost naději.</verse>
+        <verse osisID='Rom.5.5'>Tato naděje není klamná; vždyť Bůh do našich srdcí vylil svou lásku skrze Ducha svatého, jehož nám daroval.</verse>
+        <verse osisID='Rom.5.6'>Kristus zemřel za bezbožné ještě v době, kdy jsme byli bezmocní.</verse>
+        <verse osisID='Rom.5.7'>Sotva kdo zemře za spravedlivého, i když za dobrého člověka by se snad někdo zemřít odhodlal.</verse>
+        <verse osisID='Rom.5.8'>Bůh ale dokazuje svou lásku k nám: Kristus zemřel za nás, když jsme ještě byli hříšníci.</verse>
+        <verse osisID='Rom.5.9'>Jsme-li teď jeho krví ospravedlněni, čím spíše jím budeme zachráněni před Božím hněvem!</verse>
+        <verse osisID='Rom.5.10'>Jestliže jsme ještě jako nepřátelé byli s Bohem smířeni smrtí jeho Syna, čím spíše nás, již smířené, zachrání jeho život!</verse>
+        <verse osisID='Rom.5.11'>A nejen to; chlubíme se samotným Bohem díky našemu Pánu, Ježíši Kristu, který nás s ním usmířil.</verse>
+        <verse osisID='Rom.5.12'>Hřích přišel na svět skrze jediného člověka a s hříchem přišla smrt. Smrt se pak rozšířila na všechny lidi, poněvadž všichni zhřešili.</verse>
+        <verse osisID='Rom.5.13'>Hřích byl ovšem na světě už před Zákonem, ale když není Zákon, hřích se nepočítá.</verse>
+        <verse osisID='Rom.5.14'>Od Adama až po Mojžíše tedy vládla smrt, a to i nad těmi, kdo nezhřešili stejným proviněním jako Adam. Adam byl předobrazem Toho, který měl teprve přijít.</verse>
+        <verse osisID='Rom.5.15'>Mezi milostí a proviněním je ovšem rozdíl. Ano, proviněním jednoho mnozí propadli smrti. Boží milost je však mnohem větší! Mnohem spíše tedy byli mnozí obdarováni milostí toho jednoho člověka, Ježíše Krista!</verse>
+        <verse osisID='Rom.5.16'>Mezi Božím darem a následkem lidského hříchu je také rozdíl. Jediné provinění vedlo k soudu a odsouzení, ale Boží dar vede k ospravedlnění z mnoha provinění!</verse>
+        <verse osisID='Rom.5.17'>Kvůli provinění jediného člověka vládla skrze toho jednoho smrt. Čím spíše tedy ti, kdo přijímají hojnou milost a dar spravedlnosti, budou vládnout v životě skrze toho jediného, Ježíše Krista!</verse>
+        <verse osisID='Rom.5.18'>Ano, skrze jediné provinění přišlo na všechny lidi odsouzení. Stejně tak ovšem skrze jediný spravedlivý čin přišlo na všechny lidi ospravedlnění a život.</verse>
+        <verse osisID='Rom.5.19'>Jako se neposlušností jednoho člověka mnozí stali hříšnými, tak se také poslušností jednoho mnozí stanou spravedlivými.</verse>
+        <verse osisID='Rom.5.20'>Když přišel Zákon, provinění se rozmnožilo, ale kde se rozmnožil hřích, tam se ještě více rozmnožila milost!</verse>
+        <verse osisID='Rom.5.21'>Proto tak jako hřích vládl ve smrti, milost teď skrze spravedlnost vládne k věčnému životu skrze našeho Pána, Ježíše Krista.</verse>
+      </chapter>
+      <chapter osisID='Rom.6'>
+        <verse osisID='Rom.6.1'>Co na to řekneme? Budeme pokračovat v hříchu, aby se rozmnožila milost?</verse>
+        <verse osisID='Rom.6.2'>V žádném případě! Jak bychom mohli nadále žít v hříchu my, kdo jsme mu zemřeli?</verse>
+        <verse osisID='Rom.6.3'>Nevíte snad, že když jsme byli pokřtěni do Krista Ježíše, byli jsme všichni pokřtěni do jeho smrti?</verse>
+        <verse osisID='Rom.6.4'>Křtem jsme s ním pohřbeni do smrti, abychom - tak jako byl Kristus vzkříšen z mrtvých Otcovou slávou - i my vkročili do nového života.</verse>
+        <verse osisID='Rom.6.5'>Jsme-li s ním ztotožněni ve smrti, jistě s ním budeme ztotožněni i v jeho vzkříšení.</verse>
+        <verse osisID='Rom.6.6'>Víme přece, že naše staré já bylo ukřižováno s ním, aby hříšné tělo pozbylo moci, abychom již dále nesloužili hříchu.</verse>
+        <verse osisID='Rom.6.7'>(Kdo zemřel, je přece zbaven hříchu.)</verse>
+        <verse osisID='Rom.6.8'>Když jsme s Kristem zemřeli, věříme, že s ním také budeme žít.</verse>
+        <verse osisID='Rom.6.9'>Víme, že Kristus vstal z mrtvých a už nikdy nezemře - smrt nad ním už nemá moc.</verse>
+        <verse osisID='Rom.6.10'>Svou smrtí jednou provždy zemřel hříchu, ale teď žije a jeho život patří Bohu.</verse>
+        <verse osisID='Rom.6.11'>Stejně tak se i vy považujte za mrtvé hříchu a živé Bohu v Kristu Ježíši.</verse>
+        <verse osisID='Rom.6.12'>Nenechte proto ve svých smrtelných tělech vládnout hřích, nepodléhejte jeho žádostem.</verse>
+        <verse osisID='Rom.6.13'>Své údy už nevydávejte hříchu za nástroje nepravosti, ale jako zmrtvýchvstalí vydejte sami sebe i své údy Bohu za nástroje spravedlnosti!</verse>
+        <verse osisID='Rom.6.14'>Hřích už nebude vaším pánem, protože nejste pod Zákonem, ale pod milostí.</verse>
+        <verse osisID='Rom.6.15'>Nuže, budeme hřešit, když nejsme pod Zákonem, ale pod milostí? V žádném případě!</verse>
+        <verse osisID='Rom.6.16'>Nevíte, že když někomu sloužíte, musíte ho poslouchat? Stáváte se služebníky toho, koho posloucháte, ať už hříchu ke smrti anebo poslušnosti ke spravedlnosti.</verse>
+        <verse osisID='Rom.6.17'>Ano, byli jste služebníci hříchu, ale díky Bohu, že jste celým srdcem uposlechli to učení, do něhož jste byli uvedeni.</verse>
+        <verse osisID='Rom.6.18'>Tak jste byli osvobozeni od hříchu a stali se služebníky spravedlnosti.</verse>
+        <verse osisID='Rom.6.19'>S ohledem na vaši lidskou slabost to řeknu ještě názorněji: Jako jste své údy vydávali do služby nečistoty a nepravosti k páchání nepravosti, tak teď vydávejte své údy do služby spravedlnosti k posvěcení.</verse>
+        <verse osisID='Rom.6.20'>Jako služebníci hříchu jste byli svobodní od spravedlnosti.</verse>
+        <verse osisID='Rom.6.21'>Co jste měli z toho všeho, za co se teď stydíte? Vedlo to jen ke smrti.</verse>
+        <verse osisID='Rom.6.22'>A co teď máte z toho, že jste svobodní od hříchu a sloužíte Bohu? Výsledkem vašeho posvěcení je věčný život!</verse>
+        <verse osisID='Rom.6.23'>Odměnou hříchu je totiž smrt, ale Božím darem je věčný život v Kristu Ježíši, našem Pánu.</verse>
+      </chapter>
+      <chapter osisID='Rom.7'>
+        <verse osisID='Rom.7.1'>Nevíte snad, bratři (mluvím přece k těm, kdo znají Zákon), že Zákon panuje nad člověkem jen po dobu jeho života?</verse>
+        <verse osisID='Rom.7.2'>Vždyť i manželka je zákonem vázána ke svému muži, jen dokud dotyčný žije. Jakmile manžel zemře, je manželského zákona zproštěna.</verse>
+        <verse osisID='Rom.7.3'>Oddá-li se jinému muži, dokud její manžel žije, bude označena za cizoložnici. Pokud však její muž zemře, je od toho zákona svobodná a může se oddat jinému muži, aniž by cizoložila.</verse>
+        <verse osisID='Rom.7.4'>Právě tak je tomu s vámi, bratři moji. Skrze Kristovo tělo jste pro Zákon mrtví a můžete se oddat jinému, totiž Tomu, který byl vzkříšen z mrtvých. Konečně tedy můžeme nést ovoce Bohu.</verse>
+        <verse osisID='Rom.7.5'>Dokud jsme žili tělesně, Zákon v nás probouzel hříšné vášně, které působily v našich údech tak, že jsme nesli ovoce smrti.</verse>
+        <verse osisID='Rom.7.6'>Teď však, když jsme zemřeli tomu, co nás drželo, jsme Zákona zproštěni, abychom sloužili Bohu novou cestou Ducha namísto staré cesty litery.</verse>
+        <verse osisID='Rom.7.7'>Co na to řekneme? Že Zákon je hřích? V žádném případě! Avšak nebýt Zákona, nebyl bych hřích poznal. Například o dychtivosti bych nevěděl, kdyby Zákon neříkal: "Nedychti!"</verse>
+        <verse osisID='Rom.7.8'>Hřích se chopil příležitosti, kterou mu to přikázání skýtalo, a vzbudil ve mně všemožnou dychtivost. Bez Zákona je ovšem hřích mrtvý.</verse>
+        <verse osisID='Rom.7.9'>Sám jsem kdysi žil bez Zákona, ale jakmile přišlo přikázání, hřích ožil</verse>
+        <verse osisID='Rom.7.10'>a já jsem zemřel. Přikázání, které mělo být k životu, je mi tedy nakonec ke smrti.</verse>
+        <verse osisID='Rom.7.11'>Hřích se totiž chopil příležitosti, kterou mu to přikázání skýtalo, oklamal mě a jeho pomocí mě zabil.</verse>
+        <verse osisID='Rom.7.12'>Zákon je ovšem svatý, přikázání je svaté, spravedlivé a dobré.</verse>
+        <verse osisID='Rom.7.13'>Přineslo mi tedy to dobré smrt? V žádném případě! Hřích se však projevil jako hřích: tím, co bylo dobré, mi způsobil smrt. Díky přikázání se tedy ukázalo, jak je hřích nevýslovně hrozný.</verse>
+        <verse osisID='Rom.7.14'>Víme, že Zákon je duchovní, ale já jsem tělesný, zaprodaný hříchu.</verse>
+        <verse osisID='Rom.7.15'>Sám nerozumím tomu, co dělám; vždyť nedělám to, co chci, ale to, co nenávidím.</verse>
+        <verse osisID='Rom.7.16'>Jelikož dělám to, co nechci, souhlasím s tím, že Zákon je dobrý.</verse>
+        <verse osisID='Rom.7.17'>Nedělám to tedy už já, ale spíše hřích, který je ve mně.</verse>
+        <verse osisID='Rom.7.18'>Vím totiž, že ve mně (to jest v mé tělesnosti) není nic dobrého. Chtít dobro, to umím, ale konat je už ne.</verse>
+        <verse osisID='Rom.7.19'>Nekonám totiž dobro, které chci, ale zlo, které nechci.</verse>
+        <verse osisID='Rom.7.20'>Jelikož tedy dělám to, co nechci, nedělám to už já, ale hřích, který je ve mně.</verse>
+        <verse osisID='Rom.7.21'>Objevuji tedy zákon, že když chci konat dobro, je mi nablízku zlo.</verse>
+        <verse osisID='Rom.7.22'>Ve svém nitru radostně souhlasím s Božím Zákonem,</verse>
+        <verse osisID='Rom.7.23'>ale ve svých údech vidím jiný zákon, který bojuje proti zákonu mé mysli a činí mě zajatcem zákona hříchu, který je v mých údech.</verse>
+        <verse osisID='Rom.7.24'>Jak ubohý jsem člověk! Kdo mě vysvobodí z tohoto smrtelného těla?</verse>
+        <verse osisID='Rom.7.25'>Díky Bohu - on to udělá skrze Ježíše Krista, našeho Pána! Sám o sobě tedy svou myslí sloužím Zákonu Božímu, ale tělem zákonu hříchu.</verse>
+      </chapter>
+      <chapter osisID='Rom.8'>
+        <verse osisID='Rom.8.1'>A proto již není žádné odsouzení pro ty, kdo jsou v Kristu Ježíši.</verse>
+        <verse osisID='Rom.8.2'>Zákon Ducha života v Kristu Ježíši tě totiž osvobodil od zákona hříchu a smrti.</verse>
+        <verse osisID='Rom.8.3'>Co bylo pro Zákon kvůli slabosti těla nemožné, to vykonal Bůh: Poslal svého vlastního Syna, aby se vypořádal s hříchem v těle, jaké má hříšný člověk. Na tomto těle odsoudil hřích,</verse>
+        <verse osisID='Rom.8.4'>aby spravedlivý požadavek Zákona byl naplněn na nás, kdo nežijeme podle těla, ale podle Ducha.</verse>
+        <verse osisID='Rom.8.5'>Lidé těla myslí na věci těla, ale lidé Ducha na věci Ducha.</verse>
+        <verse osisID='Rom.8.6'>Tělesné smýšlení vede ke smrti, ale smýšlení Ducha k životu a pokoji.</verse>
+        <verse osisID='Rom.8.7'>Tělesné smýšlení je Bohu nepřátelské, neboť není a ani nemůže být poddáno Božímu zákonu.</verse>
+        <verse osisID='Rom.8.8'>Ti, kdo žijí v těle, se tedy Bohu líbit nemohou.</verse>
+        <verse osisID='Rom.8.9'>Přebývá-li však ve vás Boží Duch, pak nežijete v těle, ale v Duchu. Kdo nemá Kristova Ducha, ten není jeho.</verse>
+        <verse osisID='Rom.8.10'>Je-li Kristus ve vás, pak je sice tělo kvůli hříchu mrtvé, ale duch žije díky spravedlnosti.</verse>
+        <verse osisID='Rom.8.11'>Přebývá-li ve vás Duch Toho, který vzkřísil Ježíše z mrtvých, pak Ten, který vzkřísil z mrtvých Krista, obživí i vaše smrtelná těla svým Duchem, který ve vás přebývá.</verse>
+        <verse osisID='Rom.8.12'>Nuže, bratři, nejsme nikterak povinni žít podle těla.</verse>
+        <verse osisID='Rom.8.13'>Žijete-li podle těla, zemřete; umrtvujete-li skutky těla Duchem, budete žít.</verse>
+        <verse osisID='Rom.8.14'>Všichni, kdo se dají vést Božím Duchem, jsou totiž Božími syny.</verse>
+        <verse osisID='Rom.8.15'>Nepřijali jste přece ducha otroctví, abyste se znovu báli. Naopak, přijali jste Ducha synovství, v němž voláme Abba, Otče!</verse>
+        <verse osisID='Rom.8.16'>Sám Duch dosvědčuje našemu duchu, že jsme Boží děti.</verse>
+        <verse osisID='Rom.8.17'>A jsme-li jeho děti, pak jsme i dědicové, totiž dědicové Boží a spoludědicové Kristovi. Máme-li tedy podíl na jeho utrpení, budeme mít podíl i na jeho slávě.</verse>
+        <verse osisID='Rom.8.18'>Mám totiž za to, že naše nynější utrpení nejsou srovnatelná se slávou, která se na nás má zjevit.</verse>
+        <verse osisID='Rom.8.19'>Všechno stvoření s toužebným očekáváním vyhlíží zjevení Božích synů.</verse>
+        <verse osisID='Rom.8.20'>Stvoření je totiž podrobeno marnosti, ne dobrovolně, ale kvůli tomu, který je marnosti podrobil. Chová však naději,</verse>
+        <verse osisID='Rom.8.21'>že jednou bude vysvobozeno z otroctví zkázy do slavné svobody Božích dětí.</verse>
+        <verse osisID='Rom.8.22'>Víme přece, že všechno stvoření až dosud společně sténá a pracuje k porodu.</verse>
+        <verse osisID='Rom.8.23'>A nejen ono, ale i my, kteří okoušíme první ovoce Ducha, i my ve svém nitru sténáme, zatímco očekáváme přijetí za syny, to jest vykoupení svého těla.</verse>
+        <verse osisID='Rom.8.24'>Byli jsme totiž spaseni nadějí. Naděje, kterou je vidět, ovšem není žádná naděje. Když někdo něco vidí, proč by v to ještě doufal?</verse>
+        <verse osisID='Rom.8.25'>Když ale doufáme v to, co nevidíme, pak to trpělivě očekáváme.</verse>
+        <verse osisID='Rom.8.26'>Právě tak nám také Duch pomáhá v naší slabosti. Když ani nevíme, za co a jak se správně modlit, sám Duch prosí s nevýslovným úpěním za nás.</verse>
+        <verse osisID='Rom.8.27'>Ten, který zkoumá srdce, ovšem rozumí smyslu Ducha, že podle Boží vůle prosí za svaté.</verse>
+        <verse osisID='Rom.8.28'>Víme, že těm, kdo milují Boha, všechno napomáhá k dobrému - totiž těm, které povolal podle svého záměru.</verse>
+        <verse osisID='Rom.8.29'>Ty, které předem znal, totiž předurčil, aby přijali podobu jeho Syna, aby se tak stal prvorozeným mezi mnoha sourozenci.</verse>
+        <verse osisID='Rom.8.30'>A které předurčil, ty také povolal, a které povolal, ty také ospravedlnil, a které ospravedlnil, ty také oslavil.</verse>
+        <verse osisID='Rom.8.31'>Co na to řekneme? Když je Bůh s námi, kdo proti nám!?</verse>
+        <verse osisID='Rom.8.32'>Neušetřil svého vlastního Syna, ale vydal ho za nás za všechny; jak by nám s ním tedy nedaroval i všechno ostatní?</verse>
+        <verse osisID='Rom.8.33'>Kdo obviní Boží vyvolené? Vždyť Bůh ospravedlňuje!</verse>
+        <verse osisID='Rom.8.34'>Kdo nás odsoudí? Vždyť Kristus Ježíš zemřel, ale hlavně byl vzkříšen z mrtvých, je po Boží pravici a prosí za nás!</verse>
+        <verse osisID='Rom.8.35'>Co nás oddělí od Kristovy lásky? Snad soužení, úzkost nebo pronásledování, hlad, nahota, nebezpečí nebo meč?</verse>
+        <verse osisID='Rom.8.36'>Jak je psáno: "Pro tebe nás zabíjejí v kteroukoli chvíli, za ovce na porážku mají nás."</verse>
+        <verse osisID='Rom.8.37'>V tom všem ale skvěle vítězíme skrze Toho, který nás miluje!</verse>
+        <verse osisID='Rom.8.38'>Jsem si jist, že smrt ani život, andělé ani démoni, věci přítomné ani budoucí, žádná moc,</verse>
+        <verse osisID='Rom.8.39'>výšina ani hlubina ani nic jiného v celém stvoření nás nemůže oddělit od Boží lásky v Kristu Ježíši, našem Pánu!</verse>
+      </chapter>
+      <chapter osisID='Rom.9'>
+        <verse osisID='Rom.9.1'>Říkám pravdu v Kristu, nelžu; i mé svědomí v Duchu svatém potvrzuje,</verse>
+        <verse osisID='Rom.9.2'>že v srdci nosím hluboký zármutek a neustálou bolest.</verse>
+        <verse osisID='Rom.9.3'>Přál bych si sám být zavržen od Krista ve prospěch svých bratrů, svých tělesných příbuzných,</verse>
+        <verse osisID='Rom.9.4'>Izraelitů! Jim totiž patří synovství, sláva i smlouvy, jim byl dán Zákon, bohoslužba i zaslíbení,</verse>
+        <verse osisID='Rom.9.5'>jejich jsou otcové a z nich tělesně pochází Kristus, který je nade vším, Bůh požehnaný navěky! Amen.</verse>
+        <verse osisID='Rom.9.6'>Ale ne že by Boží slovo selhalo. Ne všichni z Izraele jsou totiž opravdu Izrael.</verse>
+        <verse osisID='Rom.9.7'>Ne všichni jsou jeho dětmi jen proto, že jsou símě Abrahamovo. Říká přece: "Tvé símě bude povoláno v Izákovi."</verse>
+        <verse osisID='Rom.9.8'>To znamená, že Božími dětmi nejsou děti těla, ale za símě se počítají děti zaslíbení.</verse>
+        <verse osisID='Rom.9.9'>Šlo totiž právě o slovo zaslíbení: "V tento čas přijdu a Sára bude mít syna."</verse>
+        <verse osisID='Rom.9.10'>A to není vše. Z téhož muže, našeho otce Izáka, počala Rebeka dva syny.</verse>
+        <verse osisID='Rom.9.11'>Ještě se nenarodili a neudělali nic dobrého ani zlého - aby se však Boží rozhodnutí opíralo o vyvolení</verse>
+        <verse osisID='Rom.9.12'>(nešlo totiž o skutky, ale o Toho, který povolává), bylo jí řečeno: "Starší bude sloužit mladšímu."</verse>
+        <verse osisID='Rom.9.13'>Jak je psáno: "Jákoba jsem si zamiloval, Ezaua jsem však zavrhl."</verse>
+        <verse osisID='Rom.9.14'>Co na to řekneme? Není Bůh nespravedlivý? V žádném případě!</verse>
+        <verse osisID='Rom.9.15'>Už Mojžíšovi přece řekl: "Smiluji se, nad kým se smiluji, a slituji se, nad kým se slituji."</verse>
+        <verse osisID='Rom.9.16'>Nezáleží tedy na tom, kdo chce, nebo na tom, kdo se snaží, ale na Bohu, který se smilovává.</verse>
+        <verse osisID='Rom.9.17'>Faraonovi přece Písmo říká: "Proto jsem tě pozdvihl, abych na tobě ukázal svou moc a aby mé jméno bylo rozhlášeno po celé zemi."</verse>
+        <verse osisID='Rom.9.18'>Smilovává se tedy, nad kým chce, a koho chce, zatvrzuje.</verse>
+        <verse osisID='Rom.9.19'>Možná mi řekneš: "Co mu tedy ještě vadí? Copak se někdo vzepřel jeho vůli?"</verse>
+        <verse osisID='Rom.9.20'>Ale člověče, kdo vůbec jsi, že odmlouváš Bohu? Řekne snad výtvor svému tvůrci: "Proč jsi mě udělal takhle?"</verse>
+        <verse osisID='Rom.9.21'>Nemá snad hrnčíř hlínu ve své moci? Ze stejné hroudy může udělat jednu nádobu na ozdobu a druhou na smetí.</verse>
+        <verse osisID='Rom.9.22'>A co když Bůh, ačkoli chtěl projevit svůj hněv a ukázat svou moc, snášel s velikou trpělivostí nádoby hněvu, určené ke zničení?</verse>
+        <verse osisID='Rom.9.23'>Co když chtěl ukázat bohatství své slávy na nádobách milosrdenství, které připravil ke slávě,</verse>
+        <verse osisID='Rom.9.24'>totiž na nás, které povolal nejen z Židů, ale i z pohanů?</verse>
+        <verse osisID='Rom.9.25'>Jak stojí u Ozeáše: "Ne svůj lid nazvu lidem svým, nemilovanou budu milovat."</verse>
+        <verse osisID='Rom.9.26'>"Na místě, kde slýchali: ‚Nejste můj lid,' syny živého Boha se budou jmenovat."</verse>
+        <verse osisID='Rom.9.27'>Izaiáš pak volá ohledně Izraele: "I kdyby synů Izraele bylo jak písku v moři, jen hrstka z nich se zachrání.</verse>
+        <verse osisID='Rom.9.28'>Hospodin učiní rázný konec, vykoná svůj soud nad zemí."</verse>
+        <verse osisID='Rom.9.29'>A ještě předtím Izaiáš řekl: "Kdyby nám Hospodin zástupů nenechal aspoň símě naživu, už bychom byli jako Sodoma, dopadli bychom jako Gomora!"</verse>
+        <verse osisID='Rom.9.30'>Co na to řekneme? Že pohané, kteří o spravedlnost neusilovali, dosáhli spravedlnosti, a to spravedlnosti z víry.</verse>
+        <verse osisID='Rom.9.31'>Izrael usiloval plnit Zákon, jenž měl vést ke spravedlnosti, ale tohoto cíle nikdy nedosáhl.</verse>
+        <verse osisID='Rom.9.32'>Proč? Protože ji nehledali na základě víry, ale na základě skutků. Narazili na kámen úrazu,</verse>
+        <verse osisID='Rom.9.33'>jak je psáno: "Hle, pokládám na Sionu kámen úrazu a skálu pohoršení; kdokoli však v něj věří, se jistě nezklame."</verse>
+      </chapter>
+      <chapter osisID='Rom.10'>
+        <verse osisID='Rom.10.1'>Bratři, toužím celým srdcem a modlím se k Bohu za spásu Izraele.</verse>
+        <verse osisID='Rom.10.2'>Mohu dosvědčit, jak horlí pro Boha, jenže v nevědomosti.</verse>
+        <verse osisID='Rom.10.3'>Jelikož neznají Boží spravedlnost, snaží se udržet svou vlastní spravedlnost, místo aby se poddali té Boží.</verse>
+        <verse osisID='Rom.10.4'>Kristus je totiž završením Zákona, aby byl ospravedlněn každý, kdo věří.</verse>
+        <verse osisID='Rom.10.5'>O spravedlnosti ze Zákona píše Mojžíš takto: "Člověk, který ty věci plní, z nich bude žít."</verse>
+        <verse osisID='Rom.10.6'>Spravedlnost z víry však mluví takto: "Neříkej si v srdci: Kdo vystoupí do nebe?" (totiž přivést Krista dolů)</verse>
+        <verse osisID='Rom.10.7'>ani: "Kdo sestoupí do propasti?" (totiž vyvést Krista z mrtvých).</verse>
+        <verse osisID='Rom.10.8'>Co tedy říká? "Slovo je ti velmi blízko; je ve tvých ústech a ve tvém srdci" (totiž to slovo víry, které kážeme).</verse>
+        <verse osisID='Rom.10.9'>Vyznáš-li svými ústy, že Ježíš je Pán, a uvěříš-li v srdci, že ho Bůh vzkřísil z mrtvých, budeš spasen.</verse>
+        <verse osisID='Rom.10.10'>Víra v srdci vede ke spravedlnosti, vyznání ústy pak vede ke spáse.</verse>
+        <verse osisID='Rom.10.11'>Vždyť Písmo říká: "Kdokoli v něj věří, se jistě nezklame."</verse>
+        <verse osisID='Rom.10.12'>Mezi Židem a Řekem tedy není rozdíl: všichni mají téhož Pána, štědrého ke všem, kdo ho vzývají.</verse>
+        <verse osisID='Rom.10.13'>Vždyť "Každý, kdo vzývá Hospodinovo jméno, bude zachráněn."</verse>
+        <verse osisID='Rom.10.14'>Jak ale mohou vzývat Toho, v něhož neuvěřili? A jak mohou uvěřit v Toho, o němž neslyšeli? A jak uslyší bez kazatele?</verse>
+        <verse osisID='Rom.10.15'>A jak jim může někdo kázat, aniž by byl poslán? Jak je psáno: "Jaká nádherná podívaná je příchod poslů dobrých zpráv!"</verse>
+        <verse osisID='Rom.10.16'>Ne všichni ale přijali evangelium. Vždyť už Izaiáš říká: "Kdo, Hospodine, uvěřil naší zprávě?"</verse>
+        <verse osisID='Rom.10.17'>Víra je tedy ze slyšení zprávy a tou zprávou je slovo Kristovo.</verse>
+        <verse osisID='Rom.10.18'>Ptám se ale: Copak neslyšeli? Právě naopak: "Po celé zemi se jejich hlas šíří, v nejzazších končinách jejich slova zní."</verse>
+        <verse osisID='Rom.10.19'>Ptám se tedy: Copak Izrael nerozuměl? Už Mojžíš kdysi řekl: "Kvůli těm, kdo nejsou národ, vzbudím ve vás žárlivost, kvůli nevědomému národu vás popudím k hněvu."</verse>
+        <verse osisID='Rom.10.20'>Izaiáš to říká ještě odvážněji: "Dal jsem se najít těm, kdo mě nehledali, ukázal jsem se těm, kdo o mě nestáli."</verse>
+        <verse osisID='Rom.10.21'>O Izraeli však říká: "Po celý den jsem vztahoval ruce k lidu nevěřícímu a vzpurnému."</verse>
+      </chapter>
+      <chapter osisID='Rom.11'>
+        <verse osisID='Rom.11.1'>Ptám se tedy: Zavrhl Bůh svůj lid? V žádném případě! Vždyť i já jsem Izraelita, ze semene Abrahamova, z pokolení Benjamínova.</verse>
+        <verse osisID='Rom.11.2'>Bůh nezavrhl svůj lid, který odedávna znal. Znáte přece vyprávění Písma o tom, jak si Eliáš Bohu stěžoval na Izrael:</verse>
+        <verse osisID='Rom.11.3'>"Pane, tvé proroky pobili a tvé oltáře rozbořili; zůstal jsem jen já, a i mně usilují o život!"</verse>
+        <verse osisID='Rom.11.4'>Jak mu tehdy Bůh odpověděl? "Ponechal jsem si sedm tisíc mužů, kteří neklekali před Baalem."</verse>
+        <verse osisID='Rom.11.5'>Stejně tak i nyní zůstala hrstka vyvolených milostí.</verse>
+        <verse osisID='Rom.11.6'>Je to díky milosti, ne díky skutkům - jinak by milost už nebyla milost.</verse>
+        <verse osisID='Rom.11.7'>Co dodat? Izrael stále nenašel to, co hledá. Vyvolení toho dosáhli, ale ostatní byli zatvrzeni.</verse>
+        <verse osisID='Rom.11.8'>Jak je psáno: "Bůh otupil jejich ducha: jejich oči dodnes nevidí, jejich uši neslyší."</verse>
+        <verse osisID='Rom.11.9'>A David říká: "Jejich stůl ať se jim stane léčkou a pastí, kamenem úrazu a odplatou.</verse>
+        <verse osisID='Rom.11.10'>Ať se jim v očích zatmí, tak aby neviděli, a jejich záda sehni navždycky."</verse>
+        <verse osisID='Rom.11.11'>Ptám se tedy: Klopýtli snad Židé tak, aby nevstali? V žádném případě! Vždyť jejich selháním dospěla spása k pohanům, aby to v nich vzbudilo žárlivost.</verse>
+        <verse osisID='Rom.11.12'>Když tedy jejich selhání obohatilo svět a jejich umenšení obohatilo pohany, co teprve jejich naplnění!</verse>
+        <verse osisID='Rom.11.13'>Teď mluvím k vám pohanům. Sám jsem přece apoštol pohanů a jsem na svou službu náležitě hrdý.</verse>
+        <verse osisID='Rom.11.14'>Kéž bych ale skrze ni mohl vzbudit žárlivost svých příbuzných a některé z nich přivést ke spáse!</verse>
+        <verse osisID='Rom.11.15'>Když totiž jejich odmítnutí znamená smíření světa, co jiného může znamenat jejich přijetí nežli život z mrtvých?</verse>
+        <verse osisID='Rom.11.16'>Jsou-li svaté prvotiny, je svaté i těsto. Je-li svatý kořen, jsou svaté i větve.</verse>
+        <verse osisID='Rom.11.17'>Ano, některé větve byly vylomeny a ty, planá oliva, jsi byl naroubován mezi ně. Čerpáš z vydatného kořene téže olivy,</verse>
+        <verse osisID='Rom.11.18'>a tak se nad ty větve nepovyšuj. Chceš-li se povyšovat, věz, že ty neneseš kořen, ale kořen tebe.</verse>
+        <verse osisID='Rom.11.19'>Možná řekneš: "Ty větve byly vylomeny, abych já byl naroubován."</verse>
+        <verse osisID='Rom.11.20'>Dobře. Byly vylomeny kvůli nevěře, ty však stojíš díky víře. Nebuď domýšlivý, ale boj se.</verse>
+        <verse osisID='Rom.11.21'>Když Bůh neušetřil původní větve, tím spíše neušetří tebe!</verse>
+        <verse osisID='Rom.11.22'>Uvědom si tedy laskavost i přísnost Boží: k těm, kdo padli, přísnost, ale k tobě Boží laskavost, pokud ovšem v této laskavosti zůstaneš. Jinak budeš vyťat i ty,</verse>
+        <verse osisID='Rom.11.23'>zatímco oni budou naroubováni, nezůstanou-li v nevěře. Ano, Bůh je může naroubovat zpět!</verse>
+        <verse osisID='Rom.11.24'>Když jsi ty mohl být vyťat z původní plané olivy a proti přírodě byl naroubován do ušlechtilé olivy, čím spíše budou oni jakožto původní větve naroubováni do své vlastní olivy?</verse>
+        <verse osisID='Rom.11.25'>Nechci, bratři, abyste nevěděli o tomto tajemství (abyste nespoléhali na vlastní moudrost): Část Izraele se zatvrdila, ale jen dokud se nenaplní počet pohanů.</verse>
+        <verse osisID='Rom.11.26'>Nakonec však bude spasen celý Izrael, jak je psáno: "Vysvoboditel přijde ze Sionu, aby od Jákoba odňal bezbožnost.</verse>
+        <verse osisID='Rom.11.27'>Toto pak bude má smlouva s nimi, jakmile odstraním jejich hřích."</verse>
+        <verse osisID='Rom.11.28'>Co do evangelia se tedy kvůli vám stali nepřáteli, ale co do vyvolení jsou to kvůli otcům milovaní Boží.</verse>
+        <verse osisID='Rom.11.29'>Bůh nelituje svých darů a povolání!</verse>
+        <verse osisID='Rom.11.30'>Vy jste kdysi Boha neposlouchali, ale pro jejich neposlušnost teď přišlo milosrdenství na vás.</verse>
+        <verse osisID='Rom.11.31'>Právě tak jej teď neposlechli oni, aby pro milosrdenství prokázané vám přišlo milosrdenství i na ně.</verse>
+        <verse osisID='Rom.11.32'>Bůh zahrnul všechny lidi pod neposlušnost, aby se nade všemi smiloval.</verse>
+        <verse osisID='Rom.11.33'>Ta hloubka Božího bohatství, jeho moudrosti a vědění! Jak nevyzpytatelné jsou jeho soudy, jak nepopsatelné jeho cesty! Vždyť:</verse>
+        <verse osisID='Rom.11.34'>"Kdo poznal Hospodinovu mysl? Kdo mu kdy v něčem poradil?"</verse>
+        <verse osisID='Rom.11.35'>"Kdo mu co dal jako první, aby mu Bůh za to zaplatil?"</verse>
+        <verse osisID='Rom.11.36'>Všechno je z něj, skrze něj a pro něj! Jemu buď sláva navěky! Amen.</verse>
+      </chapter>
+      <chapter osisID='Rom.12'>
+        <verse osisID='Rom.12.1'>Pro Boží milosrdenství vás vyzývám, bratři, abyste vydávali své životy Bohu jako živou, svatou a příjemnou oběť; to bude vaše pravá bohoslužba.</verse>
+        <verse osisID='Rom.12.2'>Nenechte se formovat tímto světem - raději se nechte proměňovat obnovou své mysli, abyste dokázali poznat, co je Boží vůle - co je dobré, náležité a dokonalé.</verse>
+        <verse osisID='Rom.12.3'>Pro milost, jíž se mi dostalo, říkám každému z vás, ať si o sobě nemyslí více, než by měl. Každý ať smýšlí střízlivě, v souladu s mírou víry, kterou mu Bůh udělil.</verse>
+        <verse osisID='Rom.12.4'>Jako máme v jednom těle mnoho údů, ale všechny údy nemají stejný úkol,</verse>
+        <verse osisID='Rom.12.5'>tak i nás je mnoho, ale v Kristu jsme jedno tělo a jako jednotlivé údy patříme k sobě navzájem.</verse>
+        <verse osisID='Rom.12.6'>Podle milosti, jíž se nám dostalo, máme rozdílné dary: kdo má proroctví, ať je užívá v souladu s vírou;</verse>
+        <verse osisID='Rom.12.7'>kdo má službu, ať slouží; kdo je učitel, ať učí;</verse>
+        <verse osisID='Rom.12.8'>kdo umí povzbuzovat, ať povzbuzuje; kdo rozdává, ať je štědrý; kdo pečuje, ať je pilný; kdo pomáhá potřebným, ať to dělá s radostí.</verse>
+        <verse osisID='Rom.12.9'>Láska ať je bez přetvářky. Mějte odpor ke zlu, tíhněte k dobru.</verse>
+        <verse osisID='Rom.12.10'>Milujte se navzájem bratrskou láskou, projevujte si navzájem uctivost.</verse>
+        <verse osisID='Rom.12.11'>V pilnosti buďte vytrvalí, ve službě Pánu horliví,</verse>
+        <verse osisID='Rom.12.12'>v naději radostní, v soužení trpěliví, v modlitbě vytrvalí,</verse>
+        <verse osisID='Rom.12.13'>přispívejte svatým v nouzi, věnujte se pohostinnosti.</verse>
+        <verse osisID='Rom.12.14'>Dobrořečte těm, kdo vás pronásledují - nezlořečte, ale dobrořečte.</verse>
+        <verse osisID='Rom.12.15'>Radujte se s radujícími, plačte s plačícími.</verse>
+        <verse osisID='Rom.12.16'>Berte na sebe navzájem ohled, nebuďte domýšliví, ale mějte sounáležitost s obyčejnými. Nespoléhejte na vlastní moudrost.</verse>
+        <verse osisID='Rom.12.17'>Nikomu neodplácejte zlo zlem. Ať všichni vidí, že vám jde o dobro.</verse>
+        <verse osisID='Rom.12.18'>Pokud záleží na vás, mějte se všemi lidmi pokoj.</verse>
+        <verse osisID='Rom.12.19'>Nemstěte se sami, milovaní, ale dejte místo hněvu - je přece psáno: "Má je pomsta, já zjednám odplatu, praví Hospodin."</verse>
+        <verse osisID='Rom.12.20'>Právě naopak: "Hladoví-li tvůj nepřítel, dej mu jíst, a pokud žízní, dej mu pít. Tím, že to učiníš, shrneš mu na hlavu žhavé uhlí."</verse>
+        <verse osisID='Rom.12.21'>Nenech se přemáhat zlem, ale přemáhej zlo dobrem.</verse>
+      </chapter>
+      <chapter osisID='Rom.13'>
+        <verse osisID='Rom.13.1'>Každý ať se podřizuje vládnoucí moci. Veškerá moc je totiž od Boha, takže současné vlády jsou zřízeny od Boha.</verse>
+        <verse osisID='Rom.13.2'>Kdo odmítá vládu, bouří se tedy proti Božímu zřízení; a vzbouřence čeká jistý trest.</verse>
+        <verse osisID='Rom.13.3'>Vládcové přece nejsou postrachem pro ty, kdo konají dobro, ale zlo. Chceš se nebát vlády? Konej dobro, a vláda tě pochválí;</verse>
+        <verse osisID='Rom.13.4'>je přece Božím služebníkem pro tvé dobro. Pácháš-li však zlo, boj se! Vláda netřímá meč nadarmo; je přece Božím služebníkem, jenž po zásluze trestá pachatele zla.</verse>
+        <verse osisID='Rom.13.5'>Proto se musíme podřizovat - nejen kvůli hrozbě trestu, ale i kvůli svědomí.</verse>
+        <verse osisID='Rom.13.6'>Proto také platíte daně - vždyť jsou to Boží služebníci a pilně se věnují své práci.</verse>
+        <verse osisID='Rom.13.7'>Každému dávejte, co jste povinni: komu daň, tomu daň, komu clo, tomu clo, komu vážnost, tomu vážnost, komu čest, tomu čest.</verse>
+        <verse osisID='Rom.13.8'>Nikomu nedlužte nic než vzájemnou lásku; kdo miluje druhého, totiž naplnil Zákon.</verse>
+        <verse osisID='Rom.13.9'>Vždyť přikázání "Necizolož, nezabíjej, nekraď, nezáviď" a všechna ostatní jsou shrnuta ve větě: "Miluj svého bližního jako sám sebe."</verse>
+        <verse osisID='Rom.13.10'>Láska bližnímu nikdy neublíží - proto je naplněním Zákona láska.</verse>
+        <verse osisID='Rom.13.11'>A ještě něco. Rozumějte, jaká je doba, protože přišel čas probudit se ze spánku. Spása je nám teď blíže, nežli když jsme uvěřili.</verse>
+        <verse osisID='Rom.13.12'>Noc pokročila a den je blízko. Odložme proto skutky tmy a oblečme zbroj světla!</verse>
+        <verse osisID='Rom.13.13'>Žijme poctivě jako ve dne: ne v obžerství a opilství, ne zhýrale a nestydatě, ne ve svárech a závisti.</verse>
+        <verse osisID='Rom.13.14'>Místo starostí o tělesné touhy se oblečte do Pána Ježíše Krista.</verse>
+      </chapter>
+      <chapter osisID='Rom.14'>
+        <verse osisID='Rom.14.1'>Přijímejte ty, kdo jsou choulostiví ve víře, a to bez hádek o názorech.</verse>
+        <verse osisID='Rom.14.2'>Někdo věří, že smí jíst všechno, ale choulostivý jí jen zeleninu.</verse>
+        <verse osisID='Rom.14.3'>Kdo jí všechno, ať nepohrdá tím, kdo nejí, a kdo nejí, ať nesoudí toho, kdo jí - vždyť Bůh jej přijal!</verse>
+        <verse osisID='Rom.14.4'>Kdo vůbec jsi, že soudíš cizího služebníka? Před svým vlastním pánem obstojí, či selže. A on obstojí - Pán jej dokáže podepřít!</verse>
+        <verse osisID='Rom.14.5'>Někdo si cení jednoho dne nad jiné, pro někoho je den jako den. Každý ať je přesvědčen o vlastním názoru.</verse>
+        <verse osisID='Rom.14.6'>Kdo drží svátek, drží ho Pánu. Kdo jí, jí Pánu, neboť děkuje Bohu, a kdo nejí, nejí Pánu a děkuje Bohu.</verse>
+        <verse osisID='Rom.14.7'>Nikdo z nás totiž nežije sám sobě a nikdo sám sobě neumírá.</verse>
+        <verse osisID='Rom.14.8'>Žijeme-li, žijeme Pánu; umíráme-li, umíráme Pánu. Ať už tedy žijeme či umíráme, patříme Pánu.</verse>
+        <verse osisID='Rom.14.9'>Vždyť proto Kristus zemřel a znovu ožil - aby byl Pánem živých i mrtvých.</verse>
+        <verse osisID='Rom.14.10'>Proč tedy soudíš svého bratra? Anebo ty, proč pohrdáš svým bratrem? Všichni přece staneme na soudu před Božím trůnem.</verse>
+        <verse osisID='Rom.14.11'>Jak je psáno: "Jakože jsem živ, praví Hospodin, každé koleno přede mnou poklekne a každý jazyk se vyzná Bohu."</verse>
+        <verse osisID='Rom.14.12'>Každý z nás tedy složí Bohu účet sám za sebe.</verse>
+        <verse osisID='Rom.14.13'>Přestaňme proto soudit jedni druhé. Raději posuďte, jak bratra ničím neurazit a nepohoršit.</verse>
+        <verse osisID='Rom.14.14'>Vím a v Pánu Ježíši mám naprostou jistotu, že nic není nečisté samo o sobě; pokud to však někdo má za nečisté, je to pro něj nečisté.</verse>
+        <verse osisID='Rom.14.15'>Trápí-li se tvůj bratr kvůli tomu, co jíš, pak už se neřídíš láskou. Přestaň svým jídlem hubit člověka, za kterého zemřel Kristus!</verse>
+        <verse osisID='Rom.14.16'>Ať se o tom, co je pro vás dobré, nemluví zle.</verse>
+        <verse osisID='Rom.14.17'>V Božím království přece nejde o jídlo a pití, ale o spravedlnost, pokoj a radost v Duchu svatém.</verse>
+        <verse osisID='Rom.14.18'>Kdo takto slouží Kristu, je milý Bohu a uznávaný lidmi.</verse>
+        <verse osisID='Rom.14.19'>Usilujme tedy o to, co vede k pokoji a vzájemnému budování.</verse>
+        <verse osisID='Rom.14.20'>Nenič Boží dílo kvůli jídlu! Jistě, "všechno je čisté," ale je špatné pohoršovat člověka jídlem.</verse>
+        <verse osisID='Rom.14.21'>Je lepší nejíst maso, nepít víno a vyvarovat se všeho, co tvého bratra uráží.</verse>
+        <verse osisID='Rom.14.22'>Víru, kterou máš, si tedy nech před Bohem pro sebe. Blaze tomu, kdo se sám neodsuzuje za to, co schvaluje.</verse>
+        <verse osisID='Rom.14.23'>Kdo má ale při jídle pochybnosti, je odsouzen, protože se nechová podle své víry. A cokoli není z víry, je hřích.</verse>
+      </chapter>
+      <chapter osisID='Rom.15'>
+        <verse osisID='Rom.15.1'>My silní musíme nést slabosti těch, kdo silní nejsou. Nemějme ohled jen sami na sebe,</verse>
+        <verse osisID='Rom.15.2'>ale každý se snažme vyhovět bližnímu. Usilujme o prospěch a posílení druhých.</verse>
+        <verse osisID='Rom.15.3'>Vždyť ani Kristus nebral ohled sám na sebe; naopak, je psáno: "Urážky těch, kdo uráží tebe, na mě dopadly."</verse>
+        <verse osisID='Rom.15.4'>Všechno, co bylo v minulosti zapsáno, bylo zapsáno pro naše poučení, abychom díky vytrvalosti a povzbuzení, které je v Písmu, měli naději.</verse>
+        <verse osisID='Rom.15.5'>Kéž vám Bůh trpělivosti a útěchy daruje vzájemnou svornost ve shodě s Kristem Ježíšem,</verse>
+        <verse osisID='Rom.15.6'>tak abyste svorně a jednomyslně oslavovali Boha a Otce našeho Pána Ježíše Krista.</verse>
+        <verse osisID='Rom.15.7'>Přijímejte se tedy navzájem, jako Kristus přijal vás do Boží slávy.</verse>
+        <verse osisID='Rom.15.8'>Říkám vám, že Kristus se pro Boží věrnost stal služebníkem Židů, aby potvrdil zaslíbení daná otcům</verse>
+        <verse osisID='Rom.15.9'>a aby i pohané slavili Boha za jeho milosrdenství. Jak je psáno: "Budu tě vyznávat mezi národy, tvé jméno písní oslavím."</verse>
+        <verse osisID='Rom.15.10'>A jinde Písmo říká: "Jásejte, národy, tak jako jeho lid!"</verse>
+        <verse osisID='Rom.15.11'>A ještě jinde: "Chvalte Hospodina, všechny národy, ať ho všichni lidé velebí!"</verse>
+        <verse osisID='Rom.15.12'>A jinde Izaiáš říká: "Vypučí výhonek Jišajův, vztyčí se, aby vládl národům. Národy se na něj s nadějí spolehnou."</verse>
+        <verse osisID='Rom.15.13'>Kéž vás tedy Bůh naděje naplní veškerou radostí a pokojem ve víře, tak aby vaše naděje rostla mocí Ducha svatého stále víc a víc.</verse>
+        <verse osisID='Rom.15.14'>Mám o vás jistotu, bratři moji, že jste plni dobroty, máte hojnost veškerého poznání a sami se dokážete napomínat navzájem.</verse>
+        <verse osisID='Rom.15.15'>Přesto jsem se vám osmělil v dopise připomenout některé věci jako ten, komu Bůh udělil milost</verse>
+        <verse osisID='Rom.15.16'>být služebníkem Krista Ježíše mezi pohany. Smyslem mé kněžské služby při Božím evangeliu je, aby Bůh přijal pohany jako libou oběť, posvěcenou Duchem svatým.</verse>
+        <verse osisID='Rom.15.17'>Pokud jde o službu Bohu, mám se v Kristu Ježíši čím chlubit.</verse>
+        <verse osisID='Rom.15.18'>Neodvážil bych se něco říkat, kdyby to skrze mě Kristus také nekonal k přivedení pohanů k poslušnosti slovem i skutkem,</verse>
+        <verse osisID='Rom.15.19'>v moci divů a zázraků, v moci Božího Ducha, takže jsem od Jeruzaléma až po Illyrii vše kolem dokola naplnil Kristovým evangeliem.</verse>
+        <verse osisID='Rom.15.20'>Šlo mi o to, kázat evangelium tam, kde o Kristu ještě neslyšeli, abych nestavěl na cizím základě.</verse>
+        <verse osisID='Rom.15.21'>Jak je psáno: "Ti, kterým nebyl ohlášen, jej spatří, ti, kdo nikdy neslyšeli, pochopí."</verse>
+        <verse osisID='Rom.15.22'>To vše mi dlouho bránilo přijít k vám.</verse>
+        <verse osisID='Rom.15.23'>Teď už ale v těchto krajích nemám místo, a protože vás už mnoho let toužím navštívit,</verse>
+        <verse osisID='Rom.15.24'>rád bych to udělal cestou do Španěl. Pevně doufám, že se s vámi setkám a že mě vypravíte na další cestu; především se ale těším na chvíle s vámi.</verse>
+        <verse osisID='Rom.15.25'>Teď ovšem cestuji do Jeruzaléma, abych posloužil svatým.</verse>
+        <verse osisID='Rom.15.26'>Církve v Makedonii a Řecku se totiž rozhodly uspořádat sbírku pro chudé, kteří jsou mezi svatými v Jeruzalémě.</verse>
+        <verse osisID='Rom.15.27'>Rozhodli se sami, zároveň však i proto, že jsou jejich dlužníky. Když jako pohané získali podíl na jejich duchovních věcech, musí jim zase pomoci hmotně.</verse>
+        <verse osisID='Rom.15.28'>Jakmile ten úkol splním a předám jim výtěžek sbírky, vypravím se přes vás do Španěl.</verse>
+        <verse osisID='Rom.15.29'>A vím, že až k vám přijdu, přijdu s Kristovým plným požehnáním.</verse>
+        <verse osisID='Rom.15.30'>Bratři, pro Pána Ježíše Krista a pro lásku Ducha vás prosím, abyste mi pomohli v mém boji. Modlete se za mě k Bohu,</verse>
+        <verse osisID='Rom.15.31'>abych byl vysvobozen od nevěřících v Judsku a aby svatí tuto mou službu Jeruzalému přijali.</verse>
+        <verse osisID='Rom.15.32'>Dá-li Bůh, s radostí pak přijdu k vám a odpočinu si mezi vámi.</verse>
+        <verse osisID='Rom.15.33'>Bůh pokoje kéž je s vámi všemi. Amen.</verse>
+      </chapter>
+      <chapter osisID='Rom.16'>
+        <verse osisID='Rom.16.1'>Doporučuji vám naši sestru Fébé, služebnici církve v Kenchrejích.</verse>
+        <verse osisID='Rom.16.2'>Přivítejte ji v Pánu, jak se na svaté sluší, a buďte jí nápomocni, v jakékoli záležitosti by vás potřebovala, neboť je to zastánkyně má i mnoha dalších.</verse>
+        <verse osisID='Rom.16.3'>Pozdravujte Priscillu s Akvilou, mé spolupracovníky v Kristu Ježíši,</verse>
+        <verse osisID='Rom.16.4'>kteří pro mě nasadili vlastní krk, takže jsem jim zavázán nejen já, ale i všechny církve z pohanů.</verse>
+        <verse osisID='Rom.16.5'>Pozdravujte i církev u nich doma. Pozdravujte mého milovaného Epeneta, který je prvním Kristovým ovocem v Asii.</verse>
+        <verse osisID='Rom.16.6'>Pozdravujte Marii, která se pro vás tolik napracovala.</verse>
+        <verse osisID='Rom.16.7'>Pozdravujte Andronika s Junií, mé krajany a spoluvězně, významné apoštoly, kteří patřili Kristu dříve než já.</verse>
+        <verse osisID='Rom.16.8'>Pozdravujte Ampliata, kterého miluji v Pánu.</verse>
+        <verse osisID='Rom.16.9'>Pozdravujte našeho spolupracovníka v Kristu, Urbana, a mého milovaného Stachyna.</verse>
+        <verse osisID='Rom.16.10'>Pozdravujte Apella, osvědčeného v Kristu. Pozdravujte všechny doma u Aristobula.</verse>
+        <verse osisID='Rom.16.11'>Pozdravujte mého krajana Herodiona. Pozdravujte všechny, kdo patří Pánu v Narkisově domě.</verse>
+        <verse osisID='Rom.16.12'>Pozdravujte Tryfénu a Tryfósu, které pracují pro Pána. Pozdravujte milovanou Persidu, která se pro Pána tolik napracovala.</verse>
+        <verse osisID='Rom.16.13'>Pozdravujte Rufa, vyvoleného v Pánu, a jeho i moji matku.</verse>
+        <verse osisID='Rom.16.14'>Pozdravujte Asynkrita, Flegonta, Herma, Patroba, Hermu a všechny sourozence tam od nich.</verse>
+        <verse osisID='Rom.16.15'>Pozdravujte Filologa a Julii, také Nerea a jeho sestru, Olympa i všechny svaté tam od nich.</verse>
+        <verse osisID='Rom.16.16'>Pozdravte se navzájem svatým polibkem. Pozdravují vás všechny církve Kristovy.</verse>
+        <verse osisID='Rom.16.17'>Prosím vás, bratři, dávejte si pozor na ty, kdo působí roztržky a kladou překážky učení, které jste poznali. Vyhýbejte se jim!</verse>
+        <verse osisID='Rom.16.18'>Takoví lidé neslouží Kristu, našemu Pánu, ale svému břichu. Jde jim jen o to, aby svými lahodnými řečmi a pochlebováním oklamali srdce bezelstných.</verse>
+        <verse osisID='Rom.16.19'>O vaší oddanosti se ale ví všude! Mám z vás proto radost, ale přeji si, abyste byli moudří, pokud jde o dobro, a nevinní, pokud jde o zlo.</verse>
+        <verse osisID='Rom.16.20'>Bůh pokoje už brzy rozdrtí satana pod vašima nohama. Milost našeho Pána Ježíše s vámi.</verse>
+        <verse osisID='Rom.16.21'>Pozdravuje vás můj spolupracovník Timoteus a moji krajané Lukios, Jáson a Sozipater.</verse>
+        <verse osisID='Rom.16.22'>Pozdravuji vás v Pánu já, Tercius, který jsem tento dopis psal.</verse>
+        <verse osisID='Rom.16.23'>[24] Pozdravuje vás Gaius, hostitel můj i celé církve. Pozdravuje vás městský pokladník Erastus a bratr Kvartus.</verse>
+        <verse osisID='Rom.16.25'>Tomu, který má moc vás posílit podle mého evangelia a kázání Ježíše Krista, podle zjevení tajemství, které bylo po věčné časy skryto,</verse>
+        <verse osisID='Rom.16.26'>ale nyní je zjeveno, a podle nařízení věčného Boha je skrze prorocká Písma oznámeno všem národům k poslušnosti víry -</verse>
+        <verse osisID='Rom.16.27'>jedinému moudrému Bohu buď sláva skrze Ježíše Krista navěky! Amen.</verse>
+      </chapter>
+    </div></osisText>
+</osis>

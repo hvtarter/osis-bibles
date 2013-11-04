@@ -1,0 +1,435 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace'>
+  <osisText osisIDWork='NorthernAzeri' osisRefWork='Bible' xml:lang='az'>
+    <header>
+      <revisionDesc>
+        <date>2012-01-07</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='NorthernAzeri'>
+        <title>Northern Azeri Translation</title>
+        <contributor/>
+        <creator>Mod2Zef (6)</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject/>
+        <date>2012-01-07</date>
+        <description>Northern Azeri Translation</description>
+        <publisher/>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>NorthernAzeri</identifier>
+        <source>no entry TextSource in sword.conf found</source>
+        <language type='IETF'>az</language>
+        <relation/>
+        <coverage>provide the bible to the nations of the world</coverage>
+        <rights>Copyrighted Kutsul Kitab; Permission to distribute granted to CrossWire</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='Heb'>
+      <chapter osisID='Heb.1'>
+        <verse osisID='Heb.1.1'>
+          Allah qədim zamanlarda dəfələrlə və müxtəlif yollarla əcdadlarımıza peyğəmbərlər vasitəsilə müraciət etmişdi.</verse>
+        <verse osisID='Heb.1.2'>Amma bu axır zamanda O bizə Oğul vasitəsilə müraciət etdi; Onu hər şeyin varisi təyin etmişdi və Onun vasitəsilə kainatı yaratmışdı.</verse>
+        <verse osisID='Heb.1.3'>Oğul Allahın izzətinin əksi və mahiyyətinin tam surətidir. O hər şeyi qüdrətli kəlamı ilə saxlayır. O, günahlardan təmizlənməni təmin edəndən sonra ucalarda möhtəşəm Allahın sağında oturdu.</verse>
+        <verse osisID='Heb.1.4'>Mələklərdən nə qədər üstün adı irs olaraq aldısa, o qədər onlardan üstün oldu. </verse>
+        <verse osisID='Heb.1.5'>Axı Allah mələklərin hansına nə vaxtsa  «Sən Mənim Oğlumsan,Mən bu gün Sənə Ata oldum»  yaxud  «Mən Ona Ata, O isə Mənə Oğul olacaq»  demişdir?</verse>
+        <verse osisID='Heb.1.6'>Yenə də Allah İlk Doğulanı dünyaya gətirəndə deyir:  «Allahın bütün mələkləri qoy Onun qarşısında səcdə etsin».</verse>
+        <verse osisID='Heb.1.7'>Mələklər barəsində isə deyir:  «Öz mələklərini küləklərə,Öz xidmətçilərini yanar oda döndərir!»</verse>
+        <verse osisID='Heb.1.8'>Amma Oğul haqqında bunu deyir:  «Ey Allah, taxtın əbədilik, sonsuzadək qalır,Sənin şahlıq əsan insaf əsasıdır.</verse>
+        <verse osisID='Heb.1.9'>Salehliyi sevib qanunsuzluğa nifrət etmisən.Ona görə Allah, Sənin AllahınSevinc yağı iləYoldaşlarından çox Səni məsh edib».</verse>
+        <verse osisID='Heb.1.10'>Yenə deyir:  «Ya Rəbb, Sən yerin təməlini əzəldən qurmusan,Göylər Sənin əllərinin işidir!</verse>
+        <verse osisID='Heb.1.11'>Onlar yox olacaq, amma Sən qalacaqsan,Hamısı paltar kimi köhnələcək,</verse>
+        <verse osisID='Heb.1.12'>Onları geyim kimi bükəcəksən,Onları paltar kimi dəyişdirəcəksən.Amma Sən dəyişməzsən,İllərin tükənməzdir».</verse>
+        <verse osisID='Heb.1.13'>Lakin Allah mələklərin hansına nə vaxtsa  «Mən düşmənlərini ayaqlarının altına kətil kimi salanadəkSağımda otur»  demişdir?</verse>
+        <verse osisID='Heb.1.14'>Bütün mələklər xilası irs olaraq alacaq şəxslərə xidmət etmək üçün göndərilən xidmətçi ruhlar deyilmi?  </verse>
+      </chapter>
+      <chapter osisID='Heb.2'>
+        <verse osisID='Heb.2.1'>
+          Buna görə də biz eşitdiklərimizə daha da diqqətli olmalıyıq ki, axın bizi aparmasın.</verse>
+        <verse osisID='Heb.2.2'>Çünki mələklər vasitəsilə bəyan edilən söz qüvvəyə mindi, hər cür təqsir və itaətsizliyə haqlı cəza verildisə,</verse>
+        <verse osisID='Heb.2.3'>bu cür böyük xilasa məhəl qoymasaq, biz necə qurtula bilərik? Bu xilas əvvəlcə Rəbb tərəfindən bildirildi və Onu eşidənlər tərəfindən bizə təsdiq olundu.</verse>
+        <verse osisID='Heb.2.4'>Allah da əlamət, xariqələr, müxtəlif möcüzələr və Öz iradəsinə uyğun olaraq payladığı Müqəddəs Ruhun ənamları ilə şəhadət etdi. </verse>
+        <verse osisID='Heb.2.5'>Barəsində danışdığımız gələcək dünyanı Allah mələklərə tabe etmədi.</verse>
+        <verse osisID='Heb.2.6'>Lakin kimsə bir yerdə belə şəhadət etdi:  «İnsan kimdir ki, onun haqqında düşünürsən?Bəşər oğlu kimdir ki, onun qayğısını çəkirsən?</verse>
+        <verse osisID='Heb.2.7'>Onu mələklərdən az müddət ərzində aşağı tutdun,İzzət və əzəmət tacını onun başına qoydun.</verse>
+        <verse osisID='Heb.2.8'>Hər şeyi onun ayağının altına qoyub tabe etdin».  Allah hər şeyi insana tabe etdiyinə görə ona tabe olmamış heç nə qoymadı. Lakin indi biz hər şeyin ona tabe olduğunu hələ görmürük.</verse>
+        <verse osisID='Heb.2.9'>Amma Allahın lütfü ilə hər kəsin uğrunda ölmək üçün mələklərdən az müddət ərzində aşağı tutulmuş Şəxsi, yəni İsanı görürük. Çəkdiyi ölüm əzabına görə Onun başına izzət və əzəmət tacı qoyuldu. </verse>
+        <verse osisID='Heb.2.10'>Hər şey Allah üçün və Allah vasitəsilə mövcuddur. Bir çox övladı izzətə çatdırmaq üçün onların xilasının Banisini əzablar vasitəsilə kamil etməsi Allaha münasib idi.</verse>
+        <verse osisID='Heb.2.11'>Çünki təqdis edən Şəxsin və təqdis olunanların hamısının Atası eynidir. Bu səbəbdən İsa onları qardaş çağırmaqdan utanmayıb deyir:</verse>
+        <verse osisID='Heb.2.12'>«İsmini qardaşlarıma elan edəcəyəm,Toplantı arasında Sənə həmd söyləyəcəyəm».</verse>
+        <verse osisID='Heb.2.13'>Yenə də deyir:  «Mən Ona güvənəcəyəm»  və yenə  «Budur, Mən və Allahın Mənə verdiyi övladlar». </verse>
+        <verse osisID='Heb.2.14'>Bu səbəbdən bu övladlar tərkibcə qan və ətdən yarandıqlarına görə İsa Özü də onların insan təbiətinə şərik oldu ki, ölüm üzərində hakimiyyət sahibi olanı, yəni iblisi Öz ölümü vasitəsilə təsirsiz hala gətirsin</verse>
+        <verse osisID='Heb.2.15'>və ölüm qorxusuna görə ömürləri boyu əsarətdə olanların hamısını azad etsin.</verse>
+        <verse osisID='Heb.2.16'>Şübhəsiz, O, mələklərə deyil, İbrahim nəslinə yardım edər.</verse>
+        <verse osisID='Heb.2.17'>Buna görə də O hər cəhətdən qardaşlarına bənzər olmalı idi; belə ki Allaha xidmətində mərhəmətli və sadiq Baş Kahin olub xalqının günahları üçün kəffarə edə bilsin.</verse>
+        <verse osisID='Heb.2.18'>Çünki Özü sınağa çəkilib əzab çəkdiyi üçün sınağa çəkilənlərə kömək edə bilər.  </verse>
+      </chapter>
+      <chapter osisID='Heb.3'>
+        <verse osisID='Heb.3.1'>
+          Bu səbəbə görə, ey səmavi çağırışa ortaq olan müqəddəs qardaşlar, əqidəmizin Elçisi və Baş Kahini İsa haqqında düşünün.</verse>
+        <verse osisID='Heb.3.2'>İsa Onu təyin edən Kəsə sadiq qaldı; necə ki Musa da Allahın bütün evində Ona sadiq qaldı.</verse>
+        <verse osisID='Heb.3.3'>Evin bənnası evdən daha çox hörmət qazandığı kimi İsa da Musadan daha böyük izzətə layiq görüldü.</verse>
+        <verse osisID='Heb.3.4'>Çünki hər evin bir bənnası var, hər şeyin bənnası isə Allahdır.</verse>
+        <verse osisID='Heb.3.5'>Musa gələcəkdə deyiləcək sözlərə şəhadət etmək üçün Allahın bütün evində bir xidmətçi kimi sadiq qaldı.</verse>
+        <verse osisID='Heb.3.6'>Amma Məsih Onun evi üzərində Oğul olaraq sadiqdir. Əgər biz cəsarətimizi və fəxr etdiyimiz ümidi qoruyub saxlasaq, Onun evi bizik. </verse>
+        <verse osisID='Heb.3.7'>Buna görə Müqəddəs Ruhun dediyi kimi:  «Bu gün əgər Onun səsini eşitsəniz,</verse>
+        <verse osisID='Heb.3.8'>Qoy ürəkləriniz üsyan vaxtı olduğu kimi,Səhradakı sınaq günündə olduğu kimi inadkar olmasın.</verse>
+        <verse osisID='Heb.3.9'>Orada atalarınız Məni sınadılar,Qırx il əməllərimi görərək Məni yoxladılar.</verse>
+        <verse osisID='Heb.3.10'>Buna görə o nəsildən zəhləm getdi.Dedim: “Onlar həmişə ürəklərində azır,Yollarımı tanımırlar”.</verse>
+        <verse osisID='Heb.3.11'>Buna görə qəzəblənib and içmişəm:“Onlar Mənim rahatlıq diyarıma girməyəcəklər”». </verse>
+        <verse osisID='Heb.3.12'>Ey qardaşlar, diqqətli olun ki, sizlərdən heç birinizdə var olan Allahdan uzaqlaşan şər və imansız ürək olmasın.</verse>
+        <verse osisID='Heb.3.13'>Amma «bu gün» adlanan hər gün bir-birinizi ürəkləndirin ki, heç biriniz günahın aldadıcılığı ilə inadkar olmasın.</verse>
+        <verse osisID='Heb.3.14'>Çünki əvvəldən bizdə olan etimadı sonadək möhkəm saxlasaq, Məsihlə ortaq olarıq.</verse>
+        <verse osisID='Heb.3.15'>Necə ki deyilmişdir:  «Bu gün əgər Onun səsini eşitsəniz,Qoy ürəkləriniz üsyan vaxtı olduğu kimi inadkar olmasın». </verse>
+        <verse osisID='Heb.3.16'>Bəs eşidib üsyan edənlər kimdir? Musanın başçılığı ilə Misirdən çıxanların hamısı deyilmi?</verse>
+        <verse osisID='Heb.3.17'>Allah qırx il kimə qəzəblənirdi? Günaha batmış, meyitləri çöldə sərilənlərə deyilmi?</verse>
+        <verse osisID='Heb.3.18'>Bəs O kimlərə and içdi ki, Onun rahatlıq diyarına girməyəcəklər? Məgər itaət etməyənlərə deyil?</verse>
+        <verse osisID='Heb.3.19'>Beləliklə, görürük ki, onlar imansızlıqlarına görə oraya girə bilmədilər.  </verse>
+      </chapter>
+      <chapter osisID='Heb.4'>
+        <verse osisID='Heb.4.1'>
+          Beləliklə, Allahın rahatlıq diyarına girmək vədi hələ də qüvvədə olarkən hər birinizin bundan məhrum olmasından qorxaq.</verse>
+        <verse osisID='Heb.4.2'>Çünki Misirdən çıxanlar kimi biz də Müjdə aldıq. Amma onların eşitdiyi kəlam onlara xeyir gətirmədi, çünki bu kəlama qulaq asanların imanına şərik olmadılar.</verse>
+        <verse osisID='Heb.4.3'>Biz iman etmişlərsə rahatlıq diyarına girməkdəyik, necə ki Allah demişdir:  «Buna görə qəzəblənib and içmişəm:“Onlar Mənim rahatlıq diyarıma girməyəcəklər”».  Halbuki Onun işləri dünya yaranandan bəri tamamlanmışdır.</verse>
+        <verse osisID='Heb.4.4'>Çünki bir yerdə yeddinci gün barəsində belə deyib: «Allah bütün gördüyü işlərdən ayrılıb yeddinci gün istirahət etdi».</verse>
+        <verse osisID='Heb.4.5'>Bu barədə yenə deyib: «Onlar Mənim rahatlıq diyarıma girməyəcəklər». </verse>
+        <verse osisID='Heb.4.6'>Beləliklə, bəzilərinə o rahatlıq diyarına girmək üçün, şübhəsiz ki, imkan qalır. Lakin Müjdəni əvvəlcədən eşidənlər itaətsizliyə görə ora girə bilmədilər.</verse>
+        <verse osisID='Heb.4.7'>Bu səbəbə görə Allah xeyli vaxt keçəndən sonra Davud vasitəsilə «bu gün» deyərək təkrar müəyyən bir gün təyin edir, necə ki əvvəlcə deyilmişdir:  «Bu gün əgər Onun səsini eşitsəniz,Qoy ürəkləriniz inadkar olmasın».</verse>
+        <verse osisID='Heb.4.8'>Çünki Yeşua onlara rahatlıq diyarı versəydi, Allah bundan sonra başqa bir gün barəsində danışmazdı.</verse>
+        <verse osisID='Heb.4.9'>Beləcə Allahın xalqı üçün hələ də bir istirahət qalır.</verse>
+        <verse osisID='Heb.4.10'>Allah Öz işlərini qurtarıb Şənbə günü istirahət etdiyi kimi Onun rahatlıq diyarına girən də öz işlərini qurtarıb istirahət etdi.</verse>
+        <verse osisID='Heb.4.11'>Buna görə də bu rahatlıq diyarına girməyə çalışaq ki, heç kəs eyni itaətsizlik nümunəsinə əməl edib yıxılmasın. </verse>
+        <verse osisID='Heb.4.12'>Allahın kəlamı canlı və təsirlidir, hər ikiağızlı qılıncdan da itidir, canla ruhu, oynaqlarla iliyi bir-birindən ayıraraq keçir, ürəyin fikir və niyyətlərini ayırd edir.</verse>
+        <verse osisID='Heb.4.13'>Allahdan gizli heç nə yoxdur. Lakin Onun gözləri qarşısında hər şey çılpaq və açıq-aşkardır. Biz Ona hesabat verəcəyik. </verse>
+        <verse osisID='Heb.4.14'>Beləliklə, Allahın Oğlu İsa göylərdən keçən böyük Baş Kahinimiz olduğuna görə əqidəmizi möhkəm tutaq.</verse>
+        <verse osisID='Heb.4.15'>Çünki bizim Baş Kahinimiz belə deyil ki, zəifliklərimizdə bizim halımıza acıya bilməsin. Əksinə, hər cəhətdən bizim kimi sınağa çəkilmiş, lakin günah etməmişdir.</verse>
+        <verse osisID='Heb.4.16'>Buna görə də lütfkar Allahın taxtına cəsarətlə yaxınlaşaq ki, vaxtında köməyə nail olmaq üçün mərhəmət alıb lütf tapaq.  </verse>
+      </chapter>
+      <chapter osisID='Heb.5'>
+        <verse osisID='Heb.5.1'>İnsanlar arasından seçilən hər baş kahin günahlardan ötrü təqdim və qurbanlar vermək, Allahla bağlı olan işlərdə insanları təmsil etmək üçün təyin edilir.</verse>
+        <verse osisID='Heb.5.2'>Cahillərlə və yolunu azmışlarla həlim davrana bilir, çünki özü də zəifliyə məruzdur.</verse>
+        <verse osisID='Heb.5.3'>Buna görə o, xalqın günahları üçün olduğu kimi öz günahları üçün də qurbanlar təqdim etməlidir.</verse>
+        <verse osisID='Heb.5.4'>Heç kəs bu şərəfə öz-özünə nail olmur, ancaq Harun kimi Allah tərəfindən çağırılanda nail olur. </verse>
+        <verse osisID='Heb.5.5'>Eləcə də Məsih də Baş Kahin olmaq üçün Öz-Özünü izzətləndirmədi, Ona  «Sən Mənim Oğlumsan,Mən bu gün Sənə Ata oldum»  deyən Allah Onu izzətləndirdi.</verse>
+        <verse osisID='Heb.5.6'>Digər yerdə isə O belə deyir:  «Sən Melkisedeq vəzifəli əbədi bir Kahinsən». </verse>
+        <verse osisID='Heb.5.7'>Məsih yer üzündə cisimdə olduğu günlərdə Onu ölümdən qurtarmağa qadir olan Allaha böyük fəryad və göz yaşları ilə dua edib yalvardı və möminliyinə görə eşidildi.</verse>
+        <verse osisID='Heb.5.8'>O, Oğul olduğu halda çəkdiyi əzablarla itaətli olmağı öyrəndi.</verse>
+        <verse osisID='Heb.5.9'>Kamilliyə çatandan sonra Ona itaət edənlərin hamısı üçün əbədi xilas qaynağı oldu</verse>
+        <verse osisID='Heb.5.10'>və Allah tərəfindən Melkisedeq vəzifəli Baş Kahin təyin edildi. </verse>
+        <verse osisID='Heb.5.11'>Bu mövzuda deyiləsi sözümüz çoxdur, amma bunları izah etmək çətindir. Çünki sizin qulağınız ağır eşidir.</verse>
+        <verse osisID='Heb.5.12'>Siz artıq müəllim olmalı idiniz; amma kimsənin sizə təkrarən Allahın kəlamının ibtidai təlimlərini öyrətməsinə hələ də möhtacsınız. Siz bərk yeməyə yox, südə möhtac olmusunuz.</verse>
+        <verse osisID='Heb.5.13'>Südlə bəslənən hər kəs körpə olduğu üçün salehlik barəsində olan kəlamda təcrübəsizdir.</verse>
+        <verse osisID='Heb.5.14'>Bərk yemək isə yetkinlər, yəni duyğularını xeyirlə şəri ayırd etməkdən ötrü həssas edənlər üçündür.  </verse>
+      </chapter>
+      <chapter osisID='Heb.6'>
+        <verse osisID='Heb.6.1'>Bunun üçün Məsih barəsindəki ibtidai təlimi geridə buraxıb kamilliyə doğru irəliləyək. Ölüm gətirən əməllərdən tövbə edib Allaha iman etmənin təməlini,</verse>
+        <verse osisID='Heb.6.2'>vəftizlər, əl qoyub təqdis etmə, ölülərin dirilməsi və əbədi məhkəmə haqqındakı təlimin əsasını yenidən qurmayaq.</verse>
+        <verse osisID='Heb.6.3'>Allah izin verərsə, bunlara da əməl edəcəyik. </verse>
+        <verse osisID='Heb.6.4'>Bir dəfə nurlanmış, səmavi ənamdan dadmış və Müqəddəs Ruha şərik olmuş,</verse>
+        <verse osisID='Heb.6.5'>Allahın xoş kəlamını və gələcək dövrün qüvvələrini dadmış olduqları halda</verse>
+        <verse osisID='Heb.6.6'>imandan dönənləri yenidən tövbə edəcək vəziyyətinə gətirmək mümkün deyil. Çünki özləri Allahın Oğlunu yenidən çarmıxa çəkib rüsvay edirlər.</verse>
+        <verse osisID='Heb.6.7'>Dəfələrlə üstünə yağan yağışı içən və kimlər üçün işlənirsə, onlara faydalı bitkilər yetişdirən torpaq Allahdan xeyir-bərəkət alır.</verse>
+        <verse osisID='Heb.6.8'>Tikan və qanqal yetişdirən torpaq isə yararsız və lənətə yaxındır, onun sonu yanmaqdır. </verse>
+        <verse osisID='Heb.6.9'>Lakin, ey sevimlilər, biz bu cür danışsaq belə, əminik ki, vəziyyətiniz daha yaxşıdır və xilasa malik olursunuz.</verse>
+        <verse osisID='Heb.6.10'>Axı Allah ədalətsiz deyil ki, əməlinizi və Onun adı ilə müqəddəslərə əvvəldən və indi də xidmət etməklə göstərdiyiniz məhəbbəti unutsun.</verse>
+        <verse osisID='Heb.6.11'>Ümidin verdiyi tam etimada nail olmaq üçün axıra qədər hər birinizin eyni səyi göstərməyinizi arzulayırıq ki,</verse>
+        <verse osisID='Heb.6.12'>siz tənbəl olmayasınız, amma vəd olunan şeyləri iman və səbirlə irs alanlardan nümunə götürəsiniz. </verse>
+        <verse osisID='Heb.6.13'>Allah İbrahimə vəd verdiyi vaxt adına and içmək üçün Özündən üstün birinin olmadığına görə Öz varlığına and içərək dedi: </verse>
+        <verse osisID='Heb.6.14'>«Sənə mütləq xeyir-dua verəcəyəm və nəslini çoxaldacağam».</verse>
+        <verse osisID='Heb.6.15'>Beləliklə, İbrahim səbirlə gözləyərək vədə nail oldu.</verse>
+        <verse osisID='Heb.6.16'>İnsanlar özlərindən daha üstün olanın adına and içirlər və sözlərini təsdiq edən and hər iddiaya son qoyur.</verse>
+        <verse osisID='Heb.6.17'>Eləcə də Allah vədin varislərinə iradəsinin dəyişməzliyini daha açıq-aşkar etmək istəyərək Öz vədini andla təsdiqlədi.</verse>
+        <verse osisID='Heb.6.18'>Belə ki qarşımıza qoyulan ümidə bağlanmaq üçün Allaha sığınan bizlər Allahın bunlarda yalan danışması qeyri-mümkün olduğuna görə iki dəyişilməz şeydə – Onun vəd və andında böyük təsəlliyə malik olaq.</verse>
+        <verse osisID='Heb.6.19'>Can lövbərimiz kimi möhkəm və sarsılmaz olan bu ümid məbədin pərdəsinin arxasındakı iç otağa daxil olur.</verse>
+        <verse osisID='Heb.6.20'>İsa ilk olaraq bizim uğrumuzda oraya daxil oldu; O, Melkisedeq vəzifəli əbədi Baş Kahin olmuşdu.  </verse>
+      </chapter>
+      <chapter osisID='Heb.7'>
+        <verse osisID='Heb.7.1'>
+           Bu Melkisedeq Salem padşahı və Allah-Taalanın kahini idi. Padşahları məğlub edib geri qayıdan İbrahimin pişvazına çıxdı və ona xeyir-dua verdi.</verse>
+        <verse osisID='Heb.7.2'>İbrahim də ona hər şeyin onda bir hissəsini verdi. Melkisedeq ən əvvəl öz adının mənasına görə salehlik padşahıdır, sonra isə Salem padşahı, yəni sülh padşahıdır.</verse>
+        <verse osisID='Heb.7.3'>O, atasız, anasız olub nəsil şəcərəsi yoxdur. Nə günlərinin başlanğıcı, nə də həyatının sonu var. Lakin Allahın Oğluna bənzədilmiş əbədi kahin olaraq qalır. </verse>
+        <verse osisID='Heb.7.4'>Baxın bu adam necə böyükdür ki, ulu babamız İbrahim belə, qənimətlərinin onda bir hissəsini ona verdi.</verse>
+        <verse osisID='Heb.7.5'>Levi oğullarından kahinlik vəzifəsini alanlar, Qanuna görə xalqdan, yəni İbrahim nəslindən olduqları halda, öz qardaşlarından onda bir hissəni almaq əmrinə malikdirlər.</verse>
+        <verse osisID='Heb.7.6'>Amma onların nəslindən olmayan Melkisedeq İbrahimdən onda bir hissəni aldı və vədlərə malik olana xeyir-dua verdi.</verse>
+        <verse osisID='Heb.7.7'>Şübhəsiz ki, böyük özündən kiçiyə xeyir-dua verər.</verse>
+        <verse osisID='Heb.7.8'>Burada onda bir hissəni ölümlü insanlar alır, orada isə yaşadığına dair şəhadətə malik olan bir nəfər alır.</verse>
+        <verse osisID='Heb.7.9'>Demək olar ki, onda bir hissəni alan Levi də İbrahim vasitəsilə onda bir hissəni vermişdi.</verse>
+        <verse osisID='Heb.7.10'>Çünki Melkisedeq İbrahimin pişvazına çıxanda Levi hələ əcdadının belində idi. </verse>
+        <verse osisID='Heb.7.11'>Beləliklə, əgər kamillik Levililərin kahinliyi vasitəsilə əldə edilsəydi – çünki xalq bu kahinliyə əsasən Qanunu alıb – Harun vəzifəli deyil, Melkisedeq vəzifəli başqa bir kahinin təyin edilməsi barədə danışmağa daha nə ehtiyac vardı?</verse>
+        <verse osisID='Heb.7.12'>Çünki kahinlik dəyişiləndə Qanunun da dəyişilməsinə ehtiyac var.</verse>
+        <verse osisID='Heb.7.13'>Haqqında bu sözlər deyilən Adam başqa bir qəbiləyə mənsubdur və bu qəbilədən heç kəs qurbangahda xidmət etməmişdir.</verse>
+        <verse osisID='Heb.7.14'>Axı Rəbbimizin Yəhuda qəbiləsindən törəməsi məlumdur. Musa bu qəbilə barəsində kahinlərə aid bir söz deməmişdi.</verse>
+        <verse osisID='Heb.7.15'>Melkisedeqə bənzər başqa bir Kahinin təyin edilməsi bunu daha da aydın göstərir.</verse>
+        <verse osisID='Heb.7.16'>O, Qanunun cismani kahinlik əmrinə görə deyil, tükənməz həyat qüdrətinə görə Kahin oldu.</verse>
+        <verse osisID='Heb.7.17'>Çünki  «Sən Melkisedeq vəzifəli əbədi bir Kahinsən»  deyə şəhadət olunur.</verse>
+        <verse osisID='Heb.7.18'>Bundan əvvəlki əmr zəif və yararsız olduğuna görə ləğv olunur.</verse>
+        <verse osisID='Heb.7.19'>Çünki Qanun heç bir şeyi kamilləşdirməyib. Bunun yerinə bizi Allaha yaxınlaşdıran daha gözəl ümid verilir. </verse>
+        <verse osisID='Heb.7.20'>Bu kahinlik isə andsız olmadı. O biri kahinlər andsız kahin oldu.</verse>
+        <verse osisID='Heb.7.21'>Lakin İsa Ona  «Rəbb and içdi, qərarını dəyişməz:“Sən əbədi bir Kahinsən”»  deyən Allah vasitəsilə andla kahin oldu.</verse>
+        <verse osisID='Heb.7.22'>Buna görə İsa daha yaxşı Əhdin zəmanətçisi oldu. </verse>
+        <verse osisID='Heb.7.23'>Bununla belə, həmin kahinlərin sayı çox idi, çünki ölüm onların vəzifədə qalmasına mane olurdu.</verse>
+        <verse osisID='Heb.7.24'>Lakin İsa əbədi yaşadığı üçün daimi kahinliyə malikdir.</verse>
+        <verse osisID='Heb.7.25'>Buna görə O Özü vasitəsilə Allaha yaxınlaşanları tam xilas etməyə qadirdir. Çünki O onlar üçün vəsatətçilik etməkdən ötrü həmişə yaşayır. </verse>
+        <verse osisID='Heb.7.26'>Həqiqətən, bizə belə bir Baş Kahinin olması münasibdir ki, O, müqəddəs, günahsız, ləkəsiz, günahkarlardan ayrılmış, göylərdən daha ucalara qaldırılmış olsun.</verse>
+        <verse osisID='Heb.7.27'>O başqa baş kahinlər kimi əvvəlcə öz günahları, sonra da xalqın günahları üçün hər gün qurban təqdim etmək məcburiyyətində deyil. Çünki Özünü qurban verməklə bunu birdəfəlik etdi.</verse>
+        <verse osisID='Heb.7.28'>Qanun zəiflikləri olan insanları baş kahin təyin edir. Lakin Qanundan sonra verilmiş and sözü əbədi olaraq kamilləşdirilmiş Oğulu təyin etdi.  </verse>
+      </chapter>
+      <chapter osisID='Heb.8'>
+        <verse osisID='Heb.8.1'>Deyilənlərin əsası isə budur: bizim elə bir Baş Kahinimiz var ki, göylərdəki möhtəşəm Allahın taxtının sağında oturub.</verse>
+        <verse osisID='Heb.8.2'>O, Müqəddəs məkanda və insanın deyil, Rəbbin qurduğu həqiqi çadırda xidmət edir.</verse>
+        <verse osisID='Heb.8.3'>Hər baş kahin təqdim və qurban gətirmək üçün təyin olunur. Buna görə bizim də Baş Kahinimizin təqdim etmək üçün nəyisə olmalıdır.</verse>
+        <verse osisID='Heb.8.4'>Əgər Özü yer üzündə olsaydı, əsla Kahin olmazdı. Çünki Qanuna əsasən təqdim gətirənlər var.</verse>
+        <verse osisID='Heb.8.5'>Onlar göylərdəkilərin təsviri və kölgəsi olan yerdə ibadət edir, necə ki Musa İbadət çadırını qurmaq üzrə olanda Allah onu xəbərdar etmişdi:  «Dağda sənə göstərilən nümunəyə görə bunların hamısını ehtiyatla düzəlt».</verse>
+        <verse osisID='Heb.8.6'>Amma indi İsa daha yaxşı vədlər üzərində qurulmuş daha yaxşı bir Əhdin Vasitəçisi olduğu qədər üstün bir xidmətə nail oldu. </verse>
+        <verse osisID='Heb.8.7'>Əgər ilk Əhd qüsursuz olsaydı, ikinci Əhdə səbəb axtarılmazdı.</verse>
+        <verse osisID='Heb.8.8'>Çünki Allah Öz xalqını təqsirkar çıxararaq deyir:  «Rəbb bəyan edir:“İsrail xalqı və Yəhuda xalqı iləYeni bir Əhd bağlayacağım günlər yaxınlaşır.</verse>
+        <verse osisID='Heb.8.9'>Bu ƏhdAtalarını Misir torpağından çıxartmaq üçünƏllərindən tutduğum günOnlarla bağladığım əhdə bənzəməyəcək.Çünki onlar əhdimə sadiq qalmadılar,Mən də onlardan üz döndərdim”Rəbb belə bəyan edir.</verse>
+        <verse osisID='Heb.8.10'>“O günlərdən sonraİsrail xalqı iləBağlayacağım Əhd belədir”Rəbb bəyan edir,“Qanunlarımı onların zehinlərinə qoyubÜrəklərinə yazacağam.Mən onların Allahı,Onlar da Mənim xalqım olacaq.</verse>
+        <verse osisID='Heb.8.11'>Bir kəs öz həmvətənini yaxud qardaşını‹Rəbbi tanı› deyib öyrətməyəcək.Çünki böyükdən kiçiyə qədər hamı Məni tanıyacaq.</verse>
+        <verse osisID='Heb.8.12'>Çünki təqsirlərinə qarşı mərhəmətli olacağam,Günahlarını daha yada salmayacağam”». </verse>
+        <verse osisID='Heb.8.13'>Allah «Yeni Əhd» deməklə birincisinin köhnə olduğunu göstərir. Köhnələn və yaşa dolansa çox keçmədən yox olur.  </verse>
+      </chapter>
+      <chapter osisID='Heb.9'>
+        <verse osisID='Heb.9.1'>
+          Birinci Əhdin də ibadət barəsindəki qaydaları və dünyəvi Müqəddəs məkanı var idi.</verse>
+        <verse osisID='Heb.9.2'>Bir çadır qurulmuşdu. Müqəddəs yer adlanan ilk bölmədə çıraqdan, masa və təqdis çörəkləri var idi.</verse>
+        <verse osisID='Heb.9.3'>İkinci pərdə arxasında isə Ən Müqəddəs yer adlanan bir bölmə var idi.</verse>
+        <verse osisID='Heb.9.4'>Burada qızıl buxur qurbangahı ilə hər tərəfdən qızılla örtülmüş Əhd sandığı var idi. Sandığın içində manna ilə dolu qızıl qab, Harunun tumurcuqlamış əsası və Əhd lövhələri var idi.</verse>
+        <verse osisID='Heb.9.5'>Sandığın üzərində isə kəffarə qapağına kölgə salan izzətli keruvlar var idi. Lakin bunlar barəsində indi ətraflı danışa bilmirik. </verse>
+        <verse osisID='Heb.9.6'>Bu şeylər belə qurulduqdan sonra kahinlər həmişə çadırın ilk bölməsinə daxil olub ibadət aparırlar.</verse>
+        <verse osisID='Heb.9.7'>İkinci bölməsinə isə yalnız baş kahin daxil ola bilər. O da özü üçün və xalqın bilmədən işlətdiyi günahlar üçün orada təqdim etdiyi qurban qanı olmadan o yerə daxil ola bilməz.</verse>
+        <verse osisID='Heb.9.8'>Müqəddəs Ruh bununla göstərir ki, çadırın ilk bölməsi durduqca Ən Müqəddəs yerə gedən yol hələ aşkar olmamışdır.</verse>
+        <verse osisID='Heb.9.9'>Bu çadır indiki vaxt üçün bir misaldır. Bu səbəbdən ibadət edənin vicdanını kamilləşdirə bilməyən təqdimlər və qurbanlar verilir.</verse>
+        <verse osisID='Heb.9.10'>Bunlar ancaq yemək, içmək və cürbəcür yuyunma tərzləri ilə, yəni hər şeyin nizama salınacağı vaxtadək qüvvədə olub cismani işlərə məxsus olan qaydalarla əlaqədardır. </verse>
+        <verse osisID='Heb.9.11'>Lakin Məsih indi gələn nemətlərin Baş Kahini olaraq gəldi. İnsan əli ilə qurulmayan, yəni bu yaradılışdan olmayan daha böyük və daha mükəmməl çadırdan keçib</verse>
+        <verse osisID='Heb.9.12'>təkələrlə danaların qanı ilə yox, Öz qanı ilə Ən Müqəddəs yerə birdəfəlik daxil oldu; əbədi satınalınmanı təmin etdi.</verse>
+        <verse osisID='Heb.9.13'>Çünki əgər təkələrlə buğaların qanı və düyənin külünün murdar olanların üstünə səpilməsi onları təqdis edib cismən təmizləyirsə,</verse>
+        <verse osisID='Heb.9.14'>deməli, əbədi Ruh vasitəsilə Özünü qüsursuz olaraq Allaha təqdim etmiş Məsihin qanı var olan Allaha ibadət edə bilməmiz üçün vicdanımızı ölüm gətirən əməllərdən nə qədər çox təmizləyəcək! </verse>
+        <verse osisID='Heb.9.15'>Buna görə də çağırılmışların vəd edilən əbədi irsi alması üçün Məsih Yeni Əhdin Vasitəçisidir. Çünki O, Birinci Əhd zamanı etdikləri təqsirlərdən onları satın almaq üçün ölmüşdü.</verse>
+        <verse osisID='Heb.9.16'>Bir vəsiyyətnamə varsa, vəsiyyət edənin ölümünü sübut etmək lazımdır.</verse>
+        <verse osisID='Heb.9.17'>Çünki vəsiyyətnamə yalnız ölümdən sonra qüvvəyə minir. Vəsiyyət edən sağ olanda vəsiyyətnamənin heç bir qüvvəsi yoxdur.</verse>
+        <verse osisID='Heb.9.18'>Bu səbəbə görə Birinci Əhd də qan axıdılmadan qüvvəyə minmədi.</verse>
+        <verse osisID='Heb.9.19'>Musa Qanunun hər əmrini bütün xalqın önündə bəyan edəndən sonra su, al rəngli yun və züfa otu ilə dana və təkələrin qanını götürüb həm kitabın özünə, həm də bütün xalqın üzərinə səpərək dedi: </verse>
+        <verse osisID='Heb.9.20'>«Budur Allahın sizə əmr etdiyi Əhdin qanı».</verse>
+        <verse osisID='Heb.9.21'>Eyni tərzdə çadır və bütün xidmət əşyalarının üzərinə qan səpdi.</verse>
+        <verse osisID='Heb.9.22'>Demək olar ki, Qanuna görə hər bir şey qanla təmizlənir və qan axıdılmadan bağışlanma olmur. </verse>
+        <verse osisID='Heb.9.23'>Beləliklə, göylərdəkilərin təsvirlərini bu qurbanlarla, göylərdəkiləri isə bunlardan daha yaxşı qurbanlarla təmizləmək lazım idi.</verse>
+        <verse osisID='Heb.9.24'>Məsih əsl Müqəddəs məkanın nümunəsi olub insan əli ilə qurulan Müqəddəs məkana deyil, göyün özünə daxil oldu ki, indi bizim üçün Allahın hüzurunda zahir olsun.</verse>
+        <verse osisID='Heb.9.25'>Baş kahin hər il özünün olmayan qanla Ən Müqəddəs yerə girər. Amma Məsih Özünü dəfələrlə təqdim etmək üçün göyə girmədi.</verse>
+        <verse osisID='Heb.9.26'>Elə olsaydı, O, dünya yaranandan bəri dəfələrlə əzab çəkməli olardı. İndi isə dövrlərin sonunda, O Özünü qurban verməklə günahı aradan qaldırmaq üçün bir dəfə zühur etdi.</verse>
+        <verse osisID='Heb.9.27'>Necə müəyyən edilmişdir ki, insanlar bir dəfə ölüb ondan sonra mühakimə olunsunlar,</verse>
+        <verse osisID='Heb.9.28'>eləcə də Məsih bir çoxlarının günahını Öz üzərinə götürmək üçün bir dəfə təqdim edilmişdir və ikinci dəfə günahın öhdəsindən gəlmək üçün deyil, xilas gətirmək üçün Onu gözləyənlərə zühur edəcək.  </verse>
+      </chapter>
+      <chapter osisID='Heb.10'>
+        <verse osisID='Heb.10.1'>Qanunda gələcək nemətlərin əsli deyil, kölgəsi var. Buna görə də Qanun ildən-ilə daimi bir surətdə təqdim olunan eyni qurbanlar vasitəsilə Allaha yaxınlaşanları əsla kamil edə bilməz.</verse>
+        <verse osisID='Heb.10.2'>Əks təqdirdə, bu qurbanların təqdim olunmasına son qoyulardı. Çünki ibadət edənlər birdəfəlik təmizlənəndən sonra artıq günahlarına görə vicdan əzabı çəkməzdilər.</verse>
+        <verse osisID='Heb.10.3'>Amma bu qurbanlar vasitəsilə insanlar ildən-ilə günahlarını yadlarına salır.</verse>
+        <verse osisID='Heb.10.4'>Çünki buğaların və təkələrin qanı ilə günahları aradan qaldırmaq qeyri-mümkündür. </verse>
+        <verse osisID='Heb.10.5'>Buna görə Məsih dünyaya gələndə deyir:  «Qurban və təqdim istəmədin,Amma Mənə bir bədən hazırladın.</verse>
+        <verse osisID='Heb.10.6'>Yandırma qurbanı, günah qurbanından xoşun gəlmədi.</verse>
+        <verse osisID='Heb.10.7'>O zaman dedim: “Budur, gəlmişəm,Kitab tumarında Mənim haqqımda yazılıb.Ay Allah, Sənin iradəni yerinə yetirim”».</verse>
+        <verse osisID='Heb.10.8'>Məsih əvvəl dedi:  «Qurban, təqdim, yandırma qurbanı və günah qurbanı istəmədin,Bunlardan xoşun gəlmədi».  Bunlar hamısı Qanuna görə təqdim olunur.</verse>
+        <verse osisID='Heb.10.9'>Sonra dedi: «Budur, gəlmişəm, Sənin iradəni yerinə yetirim». Yəni, Məsih ikinci Əhdi qüvvəyə mindirmək üçün birincisini ləğv edir.</verse>
+        <verse osisID='Heb.10.10'>Bu iradəyə əsasən biz İsa Məsihin bədəninin birdəfəlik təqdim olunmasına görə təqdis olunduq. </verse>
+        <verse osisID='Heb.10.11'>Hər bir kahin hər gün xidmətini icra edərək əsla günahları aradan qaldıra bilməyən eyni qurbanları dəfələrlə təqdim edir.</verse>
+        <verse osisID='Heb.10.12'>Amma Məsih günahlar üçün yalnız bir qurban təqdim edəndən sonra əbədi olaraq Allahın sağında oturdu.</verse>
+        <verse osisID='Heb.10.13'>O vaxtdan bəri O, düşmənlərinin Onun ayaqları altına kətil kimi salınmasını gözləyir.</verse>
+        <verse osisID='Heb.10.14'>Çünki O yalnız bir təqdim vasitəsilə təqdis olunmaqda olanları həmişəlik kamilləşdirdi. </verse>
+        <verse osisID='Heb.10.15'>Müqəddəs Ruh da bu haqda bizə şəhadət edir. Çünki əvvəl deyir:</verse>
+        <verse osisID='Heb.10.16'>«“O günlərdən sonraOnlarla bağlayacağım Əhd belədir”Rəbb bəyan edir,“Qanunlarımı onların ürəyinə qoyubZehinlərinə yazacağam”».</verse>
+        <verse osisID='Heb.10.17'>Sonra deyir:  «Günahlarını və qanunsuzluqlarını yada salmayacağam».</verse>
+        <verse osisID='Heb.10.18'>Günahların bağışlanması olanda isə artıq günah üçün təqdim etmə yoxdur. </verse>
+        <verse osisID='Heb.10.19'>Beləliklə, ey qardaşlar, İsanın qanı sayəsində Ən Müqəddəs yerə daxil olmağa cəsarətimiz çatır.</verse>
+        <verse osisID='Heb.10.20'>O bizə pərdədən, yəni Öz cismindən keçən yeni və canlı bir yol açmışdır.</verse>
+        <verse osisID='Heb.10.21'>Həm də O, Allahın evi üçün cavabdeh olan böyük bir Kahinimizdir.</verse>
+        <verse osisID='Heb.10.22'>Ona görə ürəklərimiz pis vicdandan paklanmış, bədənlərimiz də təmiz su ilə yuyulmuş halda imanın tam etimadı ilə, səmimi qəlblə Allaha yaxınlaşaq.</verse>
+        <verse osisID='Heb.10.23'>Ümid verən əqidədən möhkəm tutaq, çünki vəd verən Allah sadiqdir.</verse>
+        <verse osisID='Heb.10.24'>Bir-birimizi məhəbbətə və xeyirxah əməllər etmək üçün necə həvəsləndirmək haqqında fikirləşək.</verse>
+        <verse osisID='Heb.10.25'>Bəzi adamların vərdiş etdiyi kimi birgə yığışmağımızı tərk etməyək. Lakin qiyamət gününün yaxınlaşdığını gördükcə bir-birimizi daha çox ruhlandıraq. </verse>
+        <verse osisID='Heb.10.26'>Həqiqəti dərk edib qəbul edəndən sonra qəsdən günah etməkdə davam etsək, artıq günah üçün qurban qalmır.</verse>
+        <verse osisID='Heb.10.27'>Lakin mühakimənin və Allahın düşmənlərini yandırıb-yaxan şiddətli alovun dəhşətlə gözlənməsi qalır.</verse>
+        <verse osisID='Heb.10.28'>Musanın Qanununu heç sayan adam iki yaxud üç şahidin sözü ilə rəhm edilmədən öldürülür.</verse>
+        <verse osisID='Heb.10.29'>Əgər bir nəfər Allahın Oğlunu tapdalayaraq təqdis edildiyi Əhdin qanını adi bir şey sayıb Allahın lütfkar Ruhunu təhqir edərsə, sizcə bundan nə qədər ağır cəzaya layiq sayılacaq?</verse>
+        <verse osisID='Heb.10.30'>Çünki  «Qisas Mənimdir, əvəzini Mən verəcəyəm»  və yenə də  «Rəbb Öz xalqını mühakimə edəcək»  deyəni tanıyırıq.</verse>
+        <verse osisID='Heb.10.31'>Var olan Allahın əlinə düşmək dəhşətdir! </verse>
+        <verse osisID='Heb.10.32'>Siz əvvəlki günləri xatırlayın. O vaxt Allahın nuru üzərinizə saçandan sonra əzablı, böyük mübarizəyə tab gətirdiniz.</verse>
+        <verse osisID='Heb.10.33'>Bəzən təhqir və əziyyətlərə uğrayıb tamaşaya qoyuldunuz, bəzənsə eyni rəftara məruz qalanların dərdinə şərik oldunuz.</verse>
+        <verse osisID='Heb.10.34'>Həm də siz məhbusların çəkdiyi əzablara şərik oldunuz, özünüzün daha yaxşı və daimi malınız olduğunu bilərək əmlakınızın talan edilməsini sevinclə qəbul etdiniz.</verse>
+        <verse osisID='Heb.10.35'>Buna görə cəsarətinizi itirməyin, bu cəsarətə görə mükafatınız böyükdür.</verse>
+        <verse osisID='Heb.10.36'>Çünki Allahın iradəsini yerinə yetirib vəd olunan şeyi almaq üçün sizin tab gətirməyə ehtiyacınız var.</verse>
+        <verse osisID='Heb.10.37'>Çünki  «Bir az müddətdən sonraGələn gələcək, gecikməyəcək.</verse>
+        <verse osisID='Heb.10.38'>Amma saleh adamım imanla yaşayacaq.Əgər geri çəkilsə, ondan razı qalmayacağam».</verse>
+        <verse osisID='Heb.10.39'>Bizsə geri çəkilib həlak olanlardan deyilik; iman edib canlarının xilasına nail olanlardanıq.  </verse>
+      </chapter>
+      <chapter osisID='Heb.11'>
+        <verse osisID='Heb.11.1'>
+          İman ümid edilənlərə etibar etmək, görünməyən şeylərə əmin olmaqdır.</verse>
+        <verse osisID='Heb.11.2'>Əcdadlarımız imanları üçün müsbət şəhadət aldılar. </verse>
+        <verse osisID='Heb.11.3'>İman vasitəsilə dərk edirik ki, kainat Allahın kəlamı ilə yarandı, beləcə də görünən şeylər görünməyənlərdən törədi. </verse>
+        <verse osisID='Heb.11.4'>İman vasitəsilə Habil Allaha Qabildən daha yaxşı bir qurban təqdim etdi. Bunun vasitəsilə saleh olduğu təsdiq edildi, çünki Allah onun təqdimləri barədə şəhadət etdi. Habil ölmüş olduğu halda iman vasitəsilə hələ də danışır. </verse>
+        <verse osisID='Heb.11.5'>Xanok ölümü görməsin deyə iman vasitəsilə dünyadan götürüldü. Onu tapa bilmədilər, çünki Allah onu dünyadan götürmüşdü. Götürülməzdən əvvəl o, şəhadət almışdı ki, Allahı razı salıb.</verse>
+        <verse osisID='Heb.11.6'>İman olmadan Allahı razı salmaq qeyri-mümkündür. Çünki Allaha yaxınlaşan şəxs inanmalıdır ki, O var və Onu axtaranlara mükafat verir. </verse>
+        <verse osisID='Heb.11.7'>Nuh hələ gözə görünməyən şeylər barəsində edilən xəbərdarlığa iman vasitəsilə ciddi yanaşaraq öz ev əhlinin xilası üçün gəmi düzəltdi. O, iman vasitəsilə dünyanı məhkum etdi və imana görə olan salehliyi irs olaraq aldı. </verse>
+        <verse osisID='Heb.11.8'>İbrahim çağırılanda iman vasitəsilə itaətli olub irs alacağı torpağa getdi. O hara getdiyini bilməyərək yola çıxdı.</verse>
+        <verse osisID='Heb.11.9'>İman vasitəsilə vəd edilmiş ölkədə bir qərib kimi məskunlaşdı. O eyni vədin həmvarisləri olan İshaq və Yaqubla birlikdə çadırlarda yaşadı.</verse>
+        <verse osisID='Heb.11.10'>Çünki İbrahim memarı və banisi Allah olan bünövrəli şəhəri gözləyirdi.</verse>
+        <verse osisID='Heb.11.11'>Sara özü sonsuz və yaşı ötmüş olduğu halda iman vasitəsilə nəsil yaratmaq üçün güc aldı, çünki vəd Edəni sadiq saydı.</verse>
+        <verse osisID='Heb.11.12'>Buna görə də bir kişidən, artıq ölüdən fərqlənməyən birindən sayca göydəki ulduzlar qədər, dəniz kənarındakı qum kimi saysız-hesabsız nəsil törədi. </verse>
+        <verse osisID='Heb.11.13'>Bunların hamısı imanlı olaraq öldü. Vəd edilən şeylərə nail olmadılar, amma bunları uzaqdan görüb salamladılar və özlərinin yer üzündə yad və qərib olduqlarını iqrar etdilər.</verse>
+        <verse osisID='Heb.11.14'>Axı belə sözləri deyənlər bir vətən axtardıqlarını göstərirlər.</verse>
+        <verse osisID='Heb.11.15'>Əgər onlar çıxdıqları ölkə barəsində düşünsəydilər, qayıtmağa imkanları olardı.</verse>
+        <verse osisID='Heb.11.16'>Amma əslində onlar daha yaxşı bir ölkəni, yəni səmavi vətəni arzu edirdilər. Buna görə Allah Özünü onların Allahı adlandırmaqdan utanmır, çünki O onlar üçün şəhər hazırlamışdır. </verse>
+        <verse osisID='Heb.11.17'>İbrahim sınağa çəkildiyi vaxt iman vasitəsilə İshaqı qurban olaraq təqdim etdi. Vədlərə nail olmuş İbrahim bircə oğlunu qurban vermək niyyətində idi.</verse>
+        <verse osisID='Heb.11.18'>Halbuki ona «İshaqdan törəyənlər sənin nəslin adlanacaq» deyilmişdi.</verse>
+        <verse osisID='Heb.11.19'>O, Allahı onu ölülər arasından diriltməyə qadir saydı. Buna görə də məcazi mənada İshaqı ölümdən geri aldı. </verse>
+        <verse osisID='Heb.11.20'>İman vasitəsilə İshaq gələcək hadisələrlə əlaqədar Yaquba və Esava xeyir-dua verdi. </verse>
+        <verse osisID='Heb.11.21'>Yaqub ölərkən Yusifin hər iki oğluna iman vasitəsilə xeyir-dua verdi və öz dəyənəyinin başına söykənib Allaha səcdə etdi. </verse>
+        <verse osisID='Heb.11.22'>Yusif də ölərkən İsrail övladlarının Misirdən çıxacaqları haqqında iman vasitəsilə söz söyləyərək öz sümükləri barəsində əmr verdi. </verse>
+        <verse osisID='Heb.11.23'>Musa doğulanda anası və atası iman vasitəsilə onu üç ay gizlətdilər. Çünki onlar uşağın gözəl olduğunu görüb padşahın fərmanından qorxmadılar. </verse>
+        <verse osisID='Heb.11.24'>Musa böyüyəndən sonra firon qızının oğlu adlanmaqdan iman vasitəsilə imtina etdi.</verse>
+        <verse osisID='Heb.11.25'>Günahdan müvəqqəti zövq almaqdansa Allahın xalqı ilə birlikdə əzab çəkməyi üstün tutdu.</verse>
+        <verse osisID='Heb.11.26'>Məsih naminə çəkdiyi təhqiri Misir xəzinələrindən daha böyük var-dövlət saydı, çünki gözünü alacağı mükafata dikmişdi.</verse>
+        <verse osisID='Heb.11.27'>İman vasitəsilə padşahın qəzəbindən qorxmayıb Misirdən çıxdı, çünki o, gözə Görünməyəni sanki görmüş kimi möhkəm dayandı.</verse>
+        <verse osisID='Heb.11.28'>İman vasitəsilə Musa Pasxa qurbanının kəsilməsini və onun qanının çilənməsini həyata keçirtdi ki, ilk doğulanları öldürən məhvedici mələk İsraillilərə toxunmasın. </verse>
+        <verse osisID='Heb.11.29'>İman vasitəsilə İsraillilər Qırmızı dənizi qurudan keçən kimi keçdilər. Misirlilər də bunu etməyə cəhd etdilər, amma boğuldular.</verse>
+        <verse osisID='Heb.11.30'>İman vasitəsilə İsraillilər yeddi gün Yerixonun ətrafında gəzdikdən sonra onun divarları yıxıldı.</verse>
+        <verse osisID='Heb.11.31'>İman vasitəsilə fahişə Raxav casusları dostcasına qarşıladığı üçün itaətli olmayanlarla birgə həlak olmadı. </verse>
+        <verse osisID='Heb.11.32'>Daha nə deyə bilərəm? Gideon, Baraq, Şimşon, İftah, Davud, Şamuel və başqa peyğəmbərlər barəsində danışsam, vaxtım çatmaz.</verse>
+        <verse osisID='Heb.11.33'>İman vasitəsilə onlar padşahlıqları məğlub etdilər, ədaləti icra etdilər, vədlərə nail oldular, aslanların ağızlarını bağladılar,</verse>
+        <verse osisID='Heb.11.34'>şiddətli alovu söndürdülər, qılıncın ağzından qaçdılar, zəiflikdən qüvvətləndilər, döyüşdə güclü oldular, yadellilərin ordularını qovdular.</verse>
+        <verse osisID='Heb.11.35'>Qadınlar öz ölülərini dirilmiş geri aldılar. Bəziləri işgəncə çəkəndə qurtulmaqdan imtina etdilər ki, dirilib daha yaxşı həyata nail olsunlar;</verse>
+        <verse osisID='Heb.11.36'>digərləri də təhqir olunub döyüldülər, habelə zəncirlərə və həbslərə məruz qaldılar;</verse>
+        <verse osisID='Heb.11.37'>onlar daşqalaq edildilər, mişarlanıb bölündülər, qılıncdan keçirilib öldürüldülər. Bəziləri isə qoyun dərisinə və keçi gönünə bürünərək gəzib-dolaşdılar, yoxsulluğa, əzab-əziyyətə məruz qaldılar.</verse>
+        <verse osisID='Heb.11.38'>Dünya onlara layiq deyildi. Onlar səhralarda, dağlarda, mağaralarda və yeraltı oyuqlarda dolaşıb gəzdilər. </verse>
+        <verse osisID='Heb.11.39'>Onların hamısı iman vasitəsilə müsbət şəhadət aldı, amma vəd edilənə nail olmadı.</verse>
+        <verse osisID='Heb.11.40'>Çünki Allah bizim üçün daha yaxşı şey hazırlamışdır ki, onlar bizsiz kamilliyə çatmasın.  </verse>
+      </chapter>
+      <chapter osisID='Heb.12'>
+        <verse osisID='Heb.12.1'>
+          Buna görə bu qədər böyük şahidlər buludu ilə əhatə olunduğumuz üçün biz hər bir yükü və bizi asanlıqla çaşdıran günahı tərk edib qarşımızdakı yarışda dözümlə qaçaq.</verse>
+        <verse osisID='Heb.12.2'>Gözümüzü imanımızın Banisi və Kamilləşdiricisi olan İsaya dikək. O, qarşısına qoyulan sevincə görə rüsvayçılığı heç sayıb çarmıxa çəkilməyə tab gətirdi və Allahın taxtının sağında oturdu.</verse>
+        <verse osisID='Heb.12.3'>Günahkarlardan Ona qarşı olan bu qədər düşmənçiliyə dözən Şəxs barəsində düşünün ki, yorulub ruhdan düşməyəsiniz. </verse>
+        <verse osisID='Heb.12.4'>Günaha qarşı etdiyiniz mübarizədə hələ qan töküləcək qədər möhkəm durmamısınız.</verse>
+        <verse osisID='Heb.12.5'>Sizə oğul deyib verilən bu nəsihəti unutdunuz:  «Oğlum, Rəbbin verdiyi tərbiyəyə xor baxma,Onun məzəmmətindən ruhdan düşmə.</verse>
+        <verse osisID='Heb.12.6'>Çünki Rəbb sevdiyini tərbiyələndirər,Qəbul etdiyi hər oğulu döyər». </verse>
+        <verse osisID='Heb.12.7'>Tərbiyəyə tab gətirin. Allah sizinlə övladları kimi rəftar edir. Elə bir oğul varmı atası onu tərbiyələndirməsin?</verse>
+        <verse osisID='Heb.12.8'>Hər kəs üçün ümumi olan tərbiyədən məhrum olsanız, deməli, siz oğul yox, qeyri-qanuni övladsınız.</verse>
+        <verse osisID='Heb.12.9'>Həm də əgər bizi tərbiyələndirən cismani atalarımıza hörmət ediriksə, ruhani Ataya daha çox tabe olaraq yaşamalı deyilikmi?</verse>
+        <verse osisID='Heb.12.10'>Atalarımız bizi qısa bir müddətə öz dərk etdikləri kimi tərbiyələndirdilər. Amma Allah Onun müqəddəsliyinə ortaq olaq deyə bizi xeyrimiz üçün tərbiyələndirir.</verse>
+        <verse osisID='Heb.12.11'>Hər tərbiyə isə indiki vaxt sevinc deyil, kədər verən bir şey kimi görünür, amma sonradan bu yolda yetişdirilənlərə salehliyin dinclik səmərəsini hasil edir. </verse>
+        <verse osisID='Heb.12.12'>Buna görə yorğun əllərinizi qaldırın və zəiflənmiş dizlərinizi gücləndirin.</verse>
+        <verse osisID='Heb.12.13'>Ayaqlarınız üçün düz yollar seçin ki, axsaq bədən üzvləriniz yerindən çıxmasın, əksinə sağalsın. </verse>
+        <verse osisID='Heb.12.14'>Hamı ilə birlikdə sülh içində yaşamağa və müqəddəs olmağa can atın, çünki müqəddəsliyə nail olmadan heç kim Rəbbi görməyəcək.</verse>
+        <verse osisID='Heb.12.15'>Diqqət edin ki, heç kim Allahın lütfündən məhrum olmasın, aranızda bir acı kök böyüyüb əziyyət verməsin və bununla bir çoxlarını murdar etməsin.</verse>
+        <verse osisID='Heb.12.16'>Qoy heç kim əxlaqsız və yaxud Esav kimi allahsız olmasın. O, bir qab xörəyə görə öz ilk oğulluq haqqını satdı.</verse>
+        <verse osisID='Heb.12.17'>Bilirsiniz ki, bundan sonra da o, xeyir-duanı irs olaraq almaq istəyirdi, lakin rədd olundu. Xeyir-duanı göz yaşları ilə axtardısa da, atasının fikrini dəyişməyə qadir olmadı. </verse>
+        <verse osisID='Heb.12.18'>Siz toxunula bilən, odla yanan bir şeyə, qaranlığa, zülmətə, qasırğaya,</verse>
+        <verse osisID='Heb.12.19'>şeypur gurultusuna və kəlam söyləyən səsə yaxınlaşmadınız; o səsi eşidənlər onlara daha bir söz deyilməsin deyə yalvardılar.</verse>
+        <verse osisID='Heb.12.20'>Çünki «əgər dağa bir heyvan belə, toxunsa, o, daşqalaq edilsin» əmrinə tab gətirə bilməzdilər.</verse>
+        <verse osisID='Heb.12.21'>Bu mənzərə o qədər qorxunc idi ki, Musa «mən qorxu və lərzə içindəyəm» dedi.</verse>
+        <verse osisID='Heb.12.22'>Lakin siz Sion dağına, var olan Allahın şəhərinə – səmavi Yerusəlimə, saysız-hesabsız mələklərə,</verse>
+        <verse osisID='Heb.12.23'>göylərdə adları qeyd edilmiş ilk doğulanların ümumi məclisinə və cəmiyyətinə, hamının Hakimi olan Allaha, kamala çatmış salehlərin ruhlarına,</verse>
+        <verse osisID='Heb.12.24'>Yeni Əhdin Vasitəçisi olan İsaya və Habilin qanından daha üstün söz deyən səpilmiş qana yaxınlaşdınız. </verse>
+        <verse osisID='Heb.12.25'>Bunu Deyəni rədd etməyəsiniz deyə diqqətli olun. Çünki əgər yer üzündə xəbərdarlıq edəni rədd edənlər cəzadan qaça bilmədilərsə, biz göylərdən xəbərdarlıq Edəndən üz döndərsək, cəzadan qaça bilməyəcəyimiz daha çox yəqindir.</verse>
+        <verse osisID='Heb.12.26'>O vaxt Onun səsi yeri sarsıtdı. Amma indi  «Mən bir dəfə də yalnız yeri yox, göyü də lərzəyə gətirəcəyəm» deyə vəd etmişdir.</verse>
+        <verse osisID='Heb.12.27'>«Bir dəfə də» sözü bunu göstərir: sarsıla bilən, yəni yaradılmış şeylər aradan qaldırılacaq ki, sarsıla bilməyənlər daim var olsunlar.</verse>
+        <verse osisID='Heb.12.28'>Buna görə sarsılmaz Padşahlığa nail olduğumuz üçün minnətdar olaq; belə ki möminlik və ehtiramla Allaha məqbul tərzdə Ona ibadət edək.</verse>
+        <verse osisID='Heb.12.29'>Çünki Allahımız yandırıb-yaxan alovdur.  </verse>
+      </chapter>
+      <chapter osisID='Heb.13'>
+        <verse osisID='Heb.13.1'>
+          Aranızda daimi qardaşlıq sevgisi olsun.</verse>
+        <verse osisID='Heb.13.2'>Qonaqpərvər olmağı da unutmayın, çünki belə davranan bəziləri bilmədən mələklərə qonaqpərvərlik göstərmişlər.</verse>
+        <verse osisID='Heb.13.3'>Özünüzü həbsdə olanların yerinə qoyaraq onları yada salın. Əzab-əziyyət içində olanları da elə xatırlayın ki, sanki özünüz onlarla birgə əzab-əziyyət çəkirsiniz.</verse>
+        <verse osisID='Heb.13.4'>Qoy hər kəs nikaha hörmətlə yanaşsın. Qoy ər-arvad yatağı murdarlanmasın. Çünki Allah əxlaqsızları və zinakarları mühakimə edəcək.</verse>
+        <verse osisID='Heb.13.5'>Həyatınız pulpərəstlikdən azad olsun, nəyiniz varsa, ona qane olun. Çünki Allah Özü demişdir: «Səni heç vaxt atmaram, səni heç vaxt tərk etmərəm».</verse>
+        <verse osisID='Heb.13.6'>Buna görə biz arxayınlıqla deyirik:  «Rəbb mənə yardım edəndir, heç qorxmaram.İnsan mənə nə edə bilər?» </verse>
+        <verse osisID='Heb.13.7'>Allahın kəlamını sizə danışan rəhbərlərinizi yada salın. Onların həyat tərzinin nəticəsinə baxıb imanlarını nümunə olaraq götürün.</verse>
+        <verse osisID='Heb.13.8'>İsa Məsih dünən, bu gün və əbədi olaraq eynidir.</verse>
+        <verse osisID='Heb.13.9'>Müxtəlif və yad təlimlərlə yoldan azmayın, çünki ürək yeməklərlə deyil, Allahın lütfü ilə qüvvətlənsə, yaxşıdır. Bu cür yemək qaydalarına riayət edənlər bir xeyir görmədilər.</verse>
+        <verse osisID='Heb.13.10'>Bizim bir qurbangahımız var ki, ibadət çadırında xidmət edənlərin ondan yeməyə icazəsi yoxdur.</verse>
+        <verse osisID='Heb.13.11'>Çünki baş kahin günah qurbanı olan heyvanların qanını Müqəddəs yerə gətirir, cəsədləri isə düşərgənin kənarında yandırılır.</verse>
+        <verse osisID='Heb.13.12'>Bunun kimi İsa da Öz qanı ilə xalqı təqdis etmək üçün şəhər darvazasının kənarında əzab çəkdi.</verse>
+        <verse osisID='Heb.13.13'>Buna görə Onun gördüyü təhqiri daşıyaraq düşərgənin kənarına çıxıb Onun yanına gedək.</verse>
+        <verse osisID='Heb.13.14'>Çünki burada daimi şəhərimiz yoxdur, amma biz gələcək şəhəri axtarırıq.</verse>
+        <verse osisID='Heb.13.15'>Onda İsa vasitəsilə həmişə Allaha həmd qurbanını, yəni Onun adını iqrar edənlərin dilinin bəhrəsi olan sözləri təqdim edək.</verse>
+        <verse osisID='Heb.13.16'>Xeyirxahlıq etməyi və varınızı başqaları ilə bölüşməyi unutmayın, çünki Allah bu cür qurbanlardan razı qalır. </verse>
+        <verse osisID='Heb.13.17'>Öz rəhbərlərinizə itaətli olun və onlara tabe olun. Axı onlar hər vaxt həyatınız üçün qayğı çəkir, çünki hesabat verəcəklər. Qoy onlar bunu sevinclə etsinlər, ah-zarla etməsinlər, çünki bu sizə fayda verməz. </verse>
+        <verse osisID='Heb.13.18'>Bizim üçün dua edin. Biz əminik ki, vicdanımız təmizdir və hər cəhətcə yaxşı həyat tərzi sürməyə can atırıq.</verse>
+        <verse osisID='Heb.13.19'>Yanınıza tez qayıtmağım üçün dua etmənizi xüsusilə xahiş edirəm. </verse>
+        <verse osisID='Heb.13.20'>Sülh qaynağı olan Allah – qoyunların böyük Çobanı olan Rəbbimiz İsanı əbədi Əhdin qanı ilə ölülər arasından dirildən Allah</verse>
+        <verse osisID='Heb.13.21'>sizi hər cür yaxşı şeylə təmin etsin ki, İsa Məsih vasitəsilə Özünə xoş olanı bizdə icra etsin və siz Onun iradəsini həyata keçirəsiniz. İsa Məsihə əbədi izzət olsun! Amin. </verse>
+        <verse osisID='Heb.13.22'>Qardaşlar, sizdən xahiş edirəm, bu öyüd-nəsihət sözünü dözümlə qəbul edin, çünki sizə qısaca yazdım.</verse>
+        <verse osisID='Heb.13.23'>Xəbəriniz olsun ki, qardaşımız Timotey azadlığa buraxılmışdır. Əgər tezliklə yanıma gələrsə, onunla birlikdə sizi görəcəyəm. </verse>
+        <verse osisID='Heb.13.24'>Bütün rəhbərlərinizi və müqəddəslərin hamısını salamlayın. İtaliyadan olanlar sizə salam göndərirlər. </verse>
+        <verse osisID='Heb.13.25'>Hamınıza lütf olsun!  </verse>
+      </chapter>
+    </div></osisText>
+</osis>

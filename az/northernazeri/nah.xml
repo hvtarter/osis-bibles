@@ -1,0 +1,150 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace'>
+  <osisText osisIDWork='NorthernAzeri' osisRefWork='Bible' xml:lang='az'>
+    <header>
+      <revisionDesc>
+        <date>2012-01-07</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='NorthernAzeri'>
+        <title>Northern Azeri Translation</title>
+        <contributor/>
+        <creator>Mod2Zef (6)</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject/>
+        <date>2012-01-07</date>
+        <description>Northern Azeri Translation</description>
+        <publisher/>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>NorthernAzeri</identifier>
+        <source>no entry TextSource in sword.conf found</source>
+        <language type='IETF'>az</language>
+        <relation/>
+        <coverage>provide the bible to the nations of the world</coverage>
+        <rights>Copyrighted Kutsul Kitab; Permission to distribute granted to CrossWire</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='Nah'>
+      <chapter osisID='Nah.1'>
+        <verse osisID='Nah.1.1'>Bu, Nineva haqqındakı xəbərdarlıq, Elqoşlu Nahumun görüntülərindən ibarət kitabdır. </verse>
+        <verse osisID='Nah.1.2'>Rəbb qısqancdır, qisas alan Allahdır,İntiqam alır, qəzəblə doludur,Düşmənlərindən qisas alır,Yağılarına qarşı qəzəblidir.</verse>
+        <verse osisID='Nah.1.3'>Rəbb hədsiz səbirlidir, qüdrətlidir,Təqsirkarı əsla cəzasız qoymaz,Onun yolu qasırğadadır, fırtınadadır,Buludlar ayaqlarının tozudur,</verse>
+        <verse osisID='Nah.1.4'>Dənizə əmr edib onu qurudar,Bütün çayların sularını da qurudar,Başan və Karmel meşələri saralır,Livanın gül-çiçəyi solur.</verse>
+        <verse osisID='Nah.1.5'>Rəbbin hüzurundan dağlar titrəyir,Təpələr əriyir,Yer üzü Rəbbin önündə sarsılır,Dünya və onun sakinləri lərzəyə gəlir.</verse>
+        <verse osisID='Nah.1.6'>Onun qəzəbinə qarşı kim dura bilər?Qızğın hiddətinə kim tab gətirər?Rəbbin qeyzi od kimi tökülər,Qarşısında qayalar dağılar.</verse>
+        <verse osisID='Nah.1.7'>Rəbb xeyirxahdır, dar gündə sığınacaqdır,Ona güvənənləri tanıyır.</verse>
+        <verse osisID='Nah.1.8'>Lakin O, Ninevanın olduğu yeriAzğın sellərlə məhv edəcək.Düşmənlərini zülmətə salacaq.</verse>
+        <verse osisID='Nah.1.9'>Rəbbə qarşı nə qəsd etsələr,O hər şeyə son qoyacaq,Onlardan bir daha bəla çıxmaz.</verse>
+        <verse osisID='Nah.1.10'>Tikanlar kimi bir-birinə dolaşmışlar,Əyyaşlar kimi sərxoş olmuşlar,Quru küləş tək tamamilə yanacaqlar.</verse>
+        <verse osisID='Nah.1.11'>Ey Nineva, Rəbbə qarşı pislik düşünənŞər məsləhətçini sən yetirdin!</verse>
+        <verse osisID='Nah.1.12'>Rəbb belə deyir:«Aşşurlular çox və güclü olsa da,Yenə məhv olub gedəcək.Ey xalqım İsrail, sənə çox əzab vermişəm,Səni bir daha incitmərəm.</verse>
+        <verse osisID='Nah.1.13'>İndi boyunduruğunu parçalayıb,Qandallarını qıracağam».</verse>
+        <verse osisID='Nah.1.14'>Ey Nineva, Rəbb sənin haqqındaBelə əmr verib:«Artıq övladların olmayacaq, adını daşımayacaq,Allahlarının məbədindənOyma bütləri, tökmə bütləri məhv edəcəyəm.Qəbir qazacağam sənə, çünki alçaqsan!</verse>
+        <verse osisID='Nah.1.15'>Budur, müjdə gətirənin  Ayaqları dağlar aşır, gəlir,Sülh xəbəri gətirir.Ey Yəhuda, bayramlarını keçir,Əhdlərini yerinə yetir!O pis millətin ayağı ölkəndən artıq keçməyəcək,Çünki tamamilə məhv oldu».</verse>
+      </chapter>
+      <chapter osisID='Nah.2'>
+        <verse osisID='Nah.2.1'>Ey Nineva, həlak edən qüvvə qarşına çıxdı,İstehkamını qoru, yolunu qoru,Belini möhkəm qurşa,Bütün gücünü topla!</verse>
+        <verse osisID='Nah.2.2'>Rəbb Yaqub nəsliniİsrailin əvvəlki əzəmətinə qaytaracaq.Hərçənd quldurlar onu viran etdi,Tənəklərini dağıtdı.</verse>
+        <verse osisID='Nah.2.3'>İgidlərin qalxanları qıpqırmızıdır,Cəngavərlərin libasları al rəngdədir.Onlar hazır olan günDöyüş arabalarının dəmirləri necə də parıldayır,Şam ağacından nizələr havada oynayır!</verse>
+        <verse osisID='Nah.2.4'>Döyüş arabaları küçələrdən dəlicəsinə qaçır,Meydanlarda ora-bura yüyürür,Məşəllər kimi parıldayır,Şimşək kimi cəld qaçır.</verse>
+        <verse osisID='Nah.2.5'>Nineva padşahı seçmə əsgərlərini toplayır,Amma onlar yolda büdrəyir.Düşmən orduları şəhər divarına tərəf qaçır,Qalxanlarını qaldırıb sipər qurur.</verse>
+        <verse osisID='Nah.2.6'>Çayların suyunu saxlayan bəndlər açıldı,Sarayı dəhşət bürüdü.</verse>
+        <verse osisID='Nah.2.7'>Mələkəni lüt-üryan aparırlar,Kənizləri qumru kimi inləyibSinələrinə vurur.</verse>
+        <verse osisID='Nah.2.8'>Qədimdən bəri NinevaSulu hovuz kimi idi,İndi isə sular axıb gedir,Onlara «Dayanın, dayanın!» deyirlər,Amma geri dönən yoxdur.</verse>
+        <verse osisID='Nah.2.9'>Gümüşü talan edin, qızılı oğurlayın,Sərvətlərin sonu yoxdur,Bol miqdarda qiymətli əşyalar var.</verse>
+        <verse osisID='Nah.2.10'>Nineva viran oldu, dağıldı, xaraba qaldı!  Sakinlərinin ürəyi əsir, dizləri taqətdən düşür.Hamının bədənləri titrəyir, üzləri solur!</verse>
+        <verse osisID='Nah.2.11'>Nə oldu aslanlar yuvasına?Gənc aslanların bəsləndiyi,Şirlə dişisinin və balalarının qorxusuz gəzdiyi yerə nə oldu?</verse>
+        <verse osisID='Nah.2.12'>Aslan öz balalarına kifayət qədər şikar ovladı,Dişisi üçün ovunu boğazladı,Mağarasını ovladığı heyvanlarla,Yuvasını şikarla doldurdu.</verse>
+        <verse osisID='Nah.2.13'>Ordular Rəbbi bəyan edir:«Mən sizin əleyhinizəyəm,Döyüş arabalarınızı tüstüdə yandıracağam,Gənc aslanlarını qılınc yeyəcək,Yer üzündən şikarını kəsəcəyəm,Qasidlərinin səsi daha eşidilməyəcək».</verse>
+      </chapter>
+      <chapter osisID='Nah.3'>
+        <verse osisID='Nah.3.1'>Qanlı şəhərin vay halına!O yalan və soyğunçuluqla doludur,Orada quldurluğun ardı kəsilmir!</verse>
+        <verse osisID='Nah.3.2'>Qamçı səsi, təkərlər gurultusu,Çapan atların, yırğalanan döyüş arabalarının sədası!</verse>
+        <verse osisID='Nah.3.3'>Süvarilər hücum edir, qılınclar parıldayır,Nizələr bərq vurur, ölənlər yığın-yığın,Cəsədlərin sayı yox,İnsanların ayağı meyitlərə dolaşır!</verse>
+        <verse osisID='Nah.3.4'>Millətləri fahişəliyi ilə,Xalqları cadugərliyi ilə satan, cazibəli,Cadugərlikdə mahir fahişə – NinevanınHədsiz əxlaqsızlığına görəBunlar baş verdi.</verse>
+        <verse osisID='Nah.3.5'>Ordular Rəbbi bəyan edir:«Ey Nineva, Mən sənin əleyhinəyəm!Paltarının ətəyini üzünə qaldıracağam,Çılpaqlığını millətlərə göstərəcəyəm,Ayıbını ölkələrə açacağam.</verse>
+        <verse osisID='Nah.3.6'>Üstünə iyrənc şeyləri atacağam,Səni rüsvay edəcəyəm,Tamaşaya qoyacağam!</verse>
+        <verse osisID='Nah.3.7'>Səni görənlərin hamısı səndən qaçıbBelə deyəcək:“Nineva viran qaldı!Onun üçün kim ağlayacaq?”Haradan sənə təsəlli verənləri tapım?»</verse>
+        <verse osisID='Nah.3.8'>Axı sənin No-Ammondan   nəyin artıqdır?  O şəhər çaylar arasında yerləşibSularla əhatə olunmuşdu,Sipəri dəniz,Qala divarı isə Nil çayı idi.</verse>
+        <verse osisID='Nah.3.9'>Kuş və Misir onun sonsuz qüvvəti idi,Put və Liviya da köməkçiləri idi.</verse>
+        <verse osisID='Nah.3.10'>Lakin əsir aparıldı, sürgün oldu,Övladları parça-parça doğrandı,Hər küçə başına atıldı,Adlı-sanlı adamları üçün püşk atdılar,Əyanlarını qandallara saldılar.</verse>
+        <verse osisID='Nah.3.11'>Sən də, ey Nineva, sərxoş olacaqsan,Mat-məəttəl qalacaqsan,Düşmənlərin əlindən pənahgah axtaracaqsan.</verse>
+        <verse osisID='Nah.3.12'>Bütün istehkamlarınƏncir ağacının ilk yetişən meyvələri kimidir,Silkələnəndə yeyənin ağzına düşür.</verse>
+        <verse osisID='Nah.3.13'>Budur, əsgərlərin qadın kimidir,Ölkənin darvazaları düşmənlərin üzünə taybatay açılıb.Qapı rəzələrini od yeyib.</verse>
+        <verse osisID='Nah.3.14'>Mühasirə vaxtı üçün özünə su çək,Qalalarını möhkəmləndir,Çamıra gir, palçığı tapda,Kərpic kəsmək üçün qəlib götür!</verse>
+        <verse osisID='Nah.3.15'>Orada od səni yeyib-qurtaracaq,Qılınc səni kəsib-qıracaq,Çəyirtkələrin yedikləri əkin kimi yox olacaqsan.Sayını çəyirtkə kimi artır,Özünü qaynaşan çəyirtkə kimi çoxalt!</verse>
+        <verse osisID='Nah.3.16'>Tacirlərinin sayıGöylərdəki ulduzlardan çoxdur,Amma düşmənlərinÇəyirtkə kimi ölkəni talan edib uçacaq.</verse>
+        <verse osisID='Nah.3.17'>Gözətçilərin çəyirtkə kimi,Məmurların çəyirtkə sürüsü kimidir –Soyuq gündə çəpərlərə yerləşir,Gün doğanda uçub gedir,Getdikləri yer bilinmir.</verse>
+        <verse osisID='Nah.3.18'>Ey Aşşur padşahı,Əyanların ölüm yuxusuna gedib,Adlı-sanlı adamların yatıb.Xalqın dağlara səpələnib,Onları bir yerə yığan yoxdur.</verse>
+        <verse osisID='Nah.3.19'>Dərdinə dərman yoxdur, yaraların sağalmaz.Barəndə xəbər eşidənlər sevinib əl çalır.Axı sənin bu sonsuz pisliyin kimə dəyməyib?</verse>
+      </chapter>
+    </div></osisText>
+</osis>

@@ -1,0 +1,190 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace'>
+  <osisText osisIDWork='NorthernAzeri' osisRefWork='Bible' xml:lang='az'>
+    <header>
+      <revisionDesc>
+        <date>2012-01-07</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='NorthernAzeri'>
+        <title>Northern Azeri Translation</title>
+        <contributor/>
+        <creator>Mod2Zef (6)</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject/>
+        <date>2012-01-07</date>
+        <description>Northern Azeri Translation</description>
+        <publisher/>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>NorthernAzeri</identifier>
+        <source>no entry TextSource in sword.conf found</source>
+        <language type='IETF'>az</language>
+        <relation/>
+        <coverage>provide the bible to the nations of the world</coverage>
+        <rights>Copyrighted Kutsul Kitab; Permission to distribute granted to CrossWire</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='2Tim'>
+      <chapter osisID='2Tim.1'>
+        <verse osisID='2Tim.1.1'>Məsih İsada olan həyat vədinə görə Allahın iradəsi ilə Məsih İsanın həvarisi mən Pauldan</verse>
+        <verse osisID='2Tim.1.2'>mənə sevimli oğul olan Timoteyə salam! Ata Allahdan və Rəbbimiz Məsih İsadan sənə lütf, mərhəmət və sülh olsun! </verse>
+        <verse osisID='2Tim.1.3'>Durmadan, gecə-gündüz dualarımda səni yada saldığım zaman ata-babalarım kimi təmiz vicdanla ibadət etdiyim Allaha şükür edirəm.</verse>
+        <verse osisID='2Tim.1.4'>Sənin göz yaşlarını xatırlayaraq səni görməyə həsrət çəkirəm ki, sevinclə dolum.</verse>
+        <verse osisID='2Tim.1.5'>Səndəki riyasız imanı yadıma salıram. Əvvəlcə nənən Lois və anan Evnikinin saxladığı bu imanı, əminəm ki, sən də saxlayırsan.</verse>
+        <verse osisID='2Tim.1.6'>Bu səbəbdən sənin üzərinə əl qoymağımla Allahın sənə verdiyi ənamı alovlandırmağını xatırladıram.</verse>
+        <verse osisID='2Tim.1.7'>Çünki Allah bizə qorxaqlıq ruhu deyil, güc, məhəbbət və ağıllı-kamallı olmaq ruhu vermişdir.</verse>
+        <verse osisID='2Tim.1.8'>Buna görə Rəbbimiz barədə şəhadət etməkdən və Onun uğrunda məhbus olan məndən utanma. Allahın gücü ilə Müjdə uğrunda mənimlə birlikdə əzaba qatlaş.</verse>
+        <verse osisID='2Tim.1.9'>Allah bizi əməllərimizə görə deyil, öz məqsədinə və lütfünə görə xilas edib müqəddəs olmağa çağırdı. Zaman başlamazdan əvvəl o lütf bizə Məsih İsada verilmişdi,</verse>
+        <verse osisID='2Tim.1.10'>indi isə Xilaskarımız Məsih İsanın zühuru ilə üzə çıxdı. O, ölümü yox etdi, Müjdə vasitəsilə həyatı və ölməzliyi aşkar etdi.</verse>
+        <verse osisID='2Tim.1.11'>Mən bu Müjdə üçün vaiz, həvari və müəllim təyin olundum.</verse>
+        <verse osisID='2Tim.1.12'>Bu əzabları çəkməyimin səbəbi də budur. Amma bundan utanmıram, çünki Kimə iman etdiyimi bilirəm və əminəm ki, mənə verdiyi əmanəti qiyamət gününə qədər saxlamağa qadirdir.</verse>
+        <verse osisID='2Tim.1.13'>Məsih İsada olan iman və məhəbbətlə məndən eşitdiyin sağlam sözlərdən nümunə götür.</verse>
+        <verse osisID='2Tim.1.14'>Sənə verilən yaxşı əmanəti bizdə yaşayan Müqəddəs Ruh vasitəsilə saxla. </verse>
+        <verse osisID='2Tim.1.15'>Bilirsən ki, Asiya vilayətində olanların hamısı məndən üz döndərdi. Həmçinin Figel və Hermogen də bunların sırasındadır.</verse>
+        <verse osisID='2Tim.1.16'>Rəbb Onisiforun ev əhlinə mərhəmət etsin. Çünki dəfələrlə məni ruhlandırdı, mənim zəncirlənməyimdən utanmadı.</verse>
+        <verse osisID='2Tim.1.17'>Əksinə, Romada olarkən məni səylə axtarıb tapdı.</verse>
+        <verse osisID='2Tim.1.18'>Qoy Rəbb qiyamət günü ona mərhəmət tapmağa imkan versin. Efesdə onun mənə nə qədər xidmət etdiyini sən çox yaxşı bilirsən.  </verse>
+      </chapter>
+      <chapter osisID='2Tim.2'>
+        <verse osisID='2Tim.2.1'>
+          Sənsə, ey oğlum, Məsih İsada olan lütflə güclən.</verse>
+        <verse osisID='2Tim.2.2'>Bir çox şahidlərin önündə məndən eşitdiyin sözləri başqalarına da öyrətməyə qadir olan sadiq adamlara həvalə et.</verse>
+        <verse osisID='2Tim.2.3'>Məsih İsanın yaxşı əsgəri kimi mənimlə birgə əzaba qatlaş.</verse>
+        <verse osisID='2Tim.2.4'>Əsgərlik edən insan gündəlik həyatla bağlı işlərə sürüklənməz, ona əmr edən zabiti razı salmağa çalışar.</verse>
+        <verse osisID='2Tim.2.5'>Həmçinin yarışlara qoşulan insan da qaydaya görə yarışmazsa, başına zəfər çələngi qoyulmaz.</verse>
+        <verse osisID='2Tim.2.6'>Zəhmətkeş əkinçinin payına məhsulunun ilk bəhrəsi düşməlidir.</verse>
+        <verse osisID='2Tim.2.7'>Dediklərimə fikir ver. Rəbb söylədiyim hər şeydə sənə anlayış verəcək. </verse>
+        <verse osisID='2Tim.2.8'>Yaydığım Müjdədə açıqlandığı kimi, Davudun nəslindən olub ölülər arasından dirilən İsa Məsihi yadında saxla.</verse>
+        <verse osisID='2Tim.2.9'>Bu Müjdə naminə zəncirə vurulmuş bir cinayətkar kimi əzaba qatlaşıram. Amma Allahın kəlamı zəncirlənməmişdir.</verse>
+        <verse osisID='2Tim.2.10'>Bu səbəbdən seçilmişlərə görə, onlar da Məsih İsada olan xilasa əbədi izzətlə bərabər nail olsunlar deyə hər şeyə dözürəm.</verse>
+        <verse osisID='2Tim.2.11'>Bu söz etibarlıdır ki,  «Əgər Onunla öldüksə,Onunla da yaşayacağıq;</verse>
+        <verse osisID='2Tim.2.12'>Əgər dözəriksə,Onunla da birlikdə padşahlıq edəcəyik.Əgər Onu inkar etsək,O da bizi inkar edəcək.</verse>
+        <verse osisID='2Tim.2.13'>Biz sadiq qalmasaq da,O sadiq qalacaq.Çünki Öz təbiətinə zidd davrana bilməz». </verse>
+        <verse osisID='2Tim.2.14'>Bunları imanlıların yadına sal. Sözlərin mənası barədə dava etməməyi Allahın önündə onların öhdəsinə qoy; çünki bu fayda verməz, dinləyənlərə isə ziyan vurar.</verse>
+        <verse osisID='2Tim.2.15'>Özünü Allaha sınaqdan keçmiş, həqiqət kəlamını doğruluqla işlədən alnıaçıq bir işçi kimi təqdim etməyə çalış.</verse>
+        <verse osisID='2Tim.2.16'>Allahsız boşboğazlıqdan uzaq dur. Çünki belə boşboğazlıqlar insanı daha da allahsızlığa aparır.</verse>
+        <verse osisID='2Tim.2.17'>Onların sözü irinli yara kimi yayılacaq. Himeney və Filit onların sırasındadır.</verse>
+        <verse osisID='2Tim.2.18'>Onlar dirilmənin artıq baş verdiyini deyərək həqiqətdən azıb bəzilərinin imanını alt-üst edirlər.</verse>
+        <verse osisID='2Tim.2.19'>Lakin Allahın atdığı möhkəm təməl bu sözlərlə möhürlənib durur: «Rəbb Özününküləri tanıyır» və «Rəbbin adını ağzına alan hər kəs haqsızlıqdan uzaqlaşsın». </verse>
+        <verse osisID='2Tim.2.20'>Böyük bir evdə yalnız qızıl və gümüş qablar deyil, həmçinin taxta və gil qablar da var. Onlardan bəzisi şərəfli, bəzisi də şərəfsiz iş üçün istifadə olunur.</verse>
+        <verse osisID='2Tim.2.21'>Beləliklə, kim özünü şərəfsiz işlərdən təmizləsə, şərəfli işlərə uyğun, təqdis olunmuş, Sahibinə faydalı, hər yaxşı iş üçün hazırlanmış qab olacaq. </verse>
+        <verse osisID='2Tim.2.22'>Gənclik ehtiraslarından qaç. Təmiz ürəklə Rəbbi çağıranlarla birlikdə salehliyin, imanın, məhəbbətin və sülhün ardınca get.</verse>
+        <verse osisID='2Tim.2.23'>Axmaq və cahil mübahisələrdən uzaq ol. Çünki bunların dava-dalaşa səbəb olmasını bilirsən.</verse>
+        <verse osisID='2Tim.2.24'>Rəbbin qulu davakar olmamalıdır. Əksinə, hamı ilə mülayim rəftar etməli, öyrətməyə qabil, səbirli olmalıdır.</verse>
+        <verse osisID='2Tim.2.25'>Ona qarşı olanları həlimliklə tərbiyə etməlidir. Bəlkə Allah onlara tövbəyə imkan verəcək. Beləliklə, onlar həqiqəti anlayar,</verse>
+        <verse osisID='2Tim.2.26'>ayıq ola bilərlər və istəyini yerinə yetirmək üçün onları əsir edən iblisin torundan çıxarlar.  </verse>
+      </chapter>
+      <chapter osisID='2Tim.3'>
+        <verse osisID='2Tim.3.1'>
+          Bunu bil ki, bu axır zamanda çətin dövrlər olacaq.</verse>
+        <verse osisID='2Tim.3.2'>Çünki insanlar xudbin, pulpərəst, təkəbbürlü, məğrur, təhqir edən, valideynlərinə itaət etməyən, nankor, müqəddəslikdən məhrum,</verse>
+        <verse osisID='2Tim.3.3'>şəfqətsiz, barışmaz, böhtançı, nəfsini saxlamayan, rəhmsiz, yaxşılığın düşməni,</verse>
+        <verse osisID='2Tim.3.4'>xain, ehtiyatsız, qürurlu olacaq, Allahdan çox kef çəkməyi sevəcəklər.</verse>
+        <verse osisID='2Tim.3.5'>Mömin kimi görünüb bu yolun gücünü inkar edəcəklər. Bu cür adamlardan uzaq dur.</verse>
+        <verse osisID='2Tim.3.6'>Bunların arasında evlərə soxulub zəif iradəli qadınları əsir edən adamlar var. Belə qadınlar günahla yüklənmiş müxtəlif ehtiraslarla sövq edilir,</verse>
+        <verse osisID='2Tim.3.7'>daima öyrənir, amma həqiqəti heç zaman anlaya bilmirlər.</verse>
+        <verse osisID='2Tim.3.8'>Yannis və Yambris Musaya necə zidd getdilərsə, bu adamlar da eləcə həqiqətə zidd gedirlər. Onlar düşüncələri pozğun, imanları sınaqdan keçməmiş insanlardır.</verse>
+        <verse osisID='2Tim.3.9'>Amma daha irəli gedə bilməyəcəklər. Çünki Yannislə Yambrisin axmaqlığı kimi bunların da axmaqlığını hamı açıqca görəcək. </verse>
+        <verse osisID='2Tim.3.10'>Sənsə mənim təlimimi, davranışımı, məqsədimi, imanımı, səbrimi, məhəbbətimi, dözümümü,</verse>
+        <verse osisID='2Tim.3.11'>Antakyada, Konyada, Listrada başıma gələn təqibləri, çəkdiyim əzabları diqqətlə izlədin. Nə cür təqiblərə qatlandım! Amma Rəbb məni bunların hamısından xilas etdi.</verse>
+        <verse osisID='2Tim.3.12'>Məsih İsada möminliyə yaraşan bir həyat sürmək istəyənlərin hamısı təqibə məruz qalacaq.</verse>
+        <verse osisID='2Tim.3.13'>Amma pis adamlar və saxtakarlar aldadıb-aldanaraq getdikcə daha betər olacaqlar.</verse>
+        <verse osisID='2Tim.3.14'>Sənsə öyrəndiyin və güvəndiyin şeylərə sadiq qal. Çünki bunları kimlərdən öyrəndiyini bilirsən,</verse>
+        <verse osisID='2Tim.3.15'>Müqəddəs Yazıları uşaqlıqdan bilirsən. Onlar Məsih İsaya olan iman vasitəsilə sənə xilas gətirən hikmət verməyə qadirdir.</verse>
+        <verse osisID='2Tim.3.16'>Bütün Müqəddəs Yazılar Allahdan ilham almış və təlim, məzəmmət, islah, salehlik tərbiyəsi üçün faydalıdır;</verse>
+        <verse osisID='2Tim.3.17'>beləcə Allah adamı bacarıqlı olub hər yaxşı iş üçün təchiz edilsin.  </verse>
+      </chapter>
+      <chapter osisID='2Tim.4'>
+        <verse osisID='2Tim.4.1'>Allahın və dirilərlə ölüləri mühakimə edəcək Məsih İsanın önündə Onun zühuru və Padşahlığının haqqı üçün sənə buyururam ki,</verse>
+        <verse osisID='2Tim.4.2'>Allahın kəlamını vəz edəsən, hansı vaxt olursa-olsun hazır olasan, insanlara tam səbirlə təlim öyrədərək məzəmmət, xəbərdarlıq və nəsihət verəsən.</verse>
+        <verse osisID='2Tim.4.3'>Çünki elə bir zaman gələcək ki, sağlam təlimə dözməyəcəklər. Qulaq oxşayan sözlər eşitmək üçün ətraflarına öz ehtiraslarına uyğun müəllimlər toplayacaqlar.</verse>
+        <verse osisID='2Tim.4.4'>Qulaqlarını həqiqətdən döndərəcək, əfsanələrə meyl göstərəcəklər.</verse>
+        <verse osisID='2Tim.4.5'>Amma sən hər vəziyyətdə ayıq ol. Əzaba qatlaş, müjdəçilik işini yerinə yetir, öz xidmətinə tam əməl et. </verse>
+        <verse osisID='2Tim.4.6'>Çünki qanım artıq içmə təqdimi kimi tökülmək üzrədir. Artıq ayrılma zamanım gəldi.</verse>
+        <verse osisID='2Tim.4.7'>Mən yaxşı mübarizə aparmışam, yolumu sona çatdırdım, imanı saxladım.</verse>
+        <verse osisID='2Tim.4.8'>İndi salehlik tacı mənim üçün hazır durur. Ədalətli Hakim olan Rəbb qiyamət günü onu mənə – yalnız mənə deyil, Onun zühuruna can atanların hamısına verəcək. </verse>
+        <verse osisID='2Tim.4.9'>Yanıma tez gəlməyə çalış.</verse>
+        <verse osisID='2Tim.4.10'>Çünki Dima indiki dövrü sevdiyi üçün məni tərk edib Salonikə getdi. Kreskent Qalatiyaya, Tit isə Dalmatiyaya getdi.</verse>
+        <verse osisID='2Tim.4.11'>Yalnız Luka yanımdadır. Markı da götür özünlə gətir, çünki o etdiyim xidmətdə mənə yardım edir.</verse>
+        <verse osisID='2Tim.4.12'>Tixiki isə Efesə göndərdim.</verse>
+        <verse osisID='2Tim.4.13'>Troasda Karpın yanında qoyduğum yapıncını, kitabları, xüsusən, yazılı dəriləri də gələndə gətir. </verse>
+        <verse osisID='2Tim.4.14'>Misgər İsgəndər mənə çox pislik etdi. Rəbb ona əməllərinin əvəzini verəcək.</verse>
+        <verse osisID='2Tim.4.15'>Sən də ondan özünü gözlə. Çünki söylədiklərimizə ciddi-cəhdlə zidd getdi. </verse>
+        <verse osisID='2Tim.4.16'>Mən ilk dəfə müdafiə olunanda heç kim mənə tərəfdar çıxmadı, hamı məni tərk etdi. Qoy onlara günah sayılmasın.</verse>
+        <verse osisID='2Tim.4.17'>Lakin Rəbb köməyimə gəlib mənə güc verdi ki, vəz mənim vasitəmlə tam elan edilsin və onu bütün millətlər eşitsin. Mən aslanın ağzından xilas oldum.</verse>
+        <verse osisID='2Tim.4.18'>Rəbb məni hər cür pis əməldən qurtaracaq və Öz Səmavi Padşahlığı üçün xilas edəcək. Ona əbədi olaraq izzət olsun! Amin. </verse>
+        <verse osisID='2Tim.4.19'>Priskila ilə Akilaya və Onisiforun ev əhlinə salam söylə. </verse>
+        <verse osisID='2Tim.4.20'>Erast Korinfdə qaldı. Trofimi isə xəstə halda Miletdə qoydum.</verse>
+        <verse osisID='2Tim.4.21'>Çalış ki, qışdan əvvəl gələsən. Evvul, Pudent, Lin, Klavdiya və bütün bacı-qardaşlar sənə salam göndərir. </verse>
+        <verse osisID='2Tim.4.22'>Rəbb sənin ruhuna yar olsun! Sizə lütf olsun!  </verse>
+      </chapter>
+    </div></osisText>
+</osis>

@@ -1,0 +1,1036 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace'>
+  <osisText osisIDWork='NorthernAzeri' osisRefWork='Bible' xml:lang='az'>
+    <header>
+      <revisionDesc>
+        <date>2012-01-07</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='NorthernAzeri'>
+        <title>Northern Azeri Translation</title>
+        <contributor/>
+        <creator>Mod2Zef (6)</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject/>
+        <date>2012-01-07</date>
+        <description>Northern Azeri Translation</description>
+        <publisher/>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>NorthernAzeri</identifier>
+        <source>no entry TextSource in sword.conf found</source>
+        <language type='IETF'>az</language>
+        <relation/>
+        <coverage>provide the bible to the nations of the world</coverage>
+        <rights>Copyrighted Kutsul Kitab; Permission to distribute granted to CrossWire</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='John'>
+      <chapter osisID='John.1'>
+        <verse osisID='John.1.1'>
+          Başlanğıcda Kəlam var idi. Kəlam Allahla birlikdə idi. Kəlam Allah idi.</verse>
+        <verse osisID='John.1.2'>O, başlanğıcda Allahla birlikdə idi.</verse>
+        <verse osisID='John.1.3'>Hər şey Onun vasitəsilə yarandı və yaranan şeylərdən heç biri Onsuz yaranmadı.</verse>
+        <verse osisID='John.1.4'>Həyat Onda idi və bu həyat insanların nuru idi.</verse>
+        <verse osisID='John.1.5'>Nur qaranlıqda parlayır, qaranlıq isə onu bürüyə bilmədi. </verse>
+        <verse osisID='John.1.6'>Allahın göndərdiyi bir adam ortaya çıxdı, onun adı Yəhya idi.</verse>
+        <verse osisID='John.1.7'>O, şəhadət üçün gəldi ki, Nur barədə şəhadət etsin və hamı onun vasitəsilə iman etsin.</verse>
+        <verse osisID='John.1.8'>O özü Nur deyildi, amma Nur barədə şəhadət etmək üçün gəldi.</verse>
+        <verse osisID='John.1.9'>Bu, həqiqi Nur idi və dünyaya gələrək hər bir insanı işıqlandırırdı.</verse>
+        <verse osisID='John.1.10'>O, dünyada idi, dünya Onun vasitəsilə yarandı, amma dünya Onu tanımadı.</verse>
+        <verse osisID='John.1.11'>Öz diyarına gəldi, amma soydaşları Onu qəbul etmədi.</verse>
+        <verse osisID='John.1.12'>Lakin Onu qəbul edənlərin hamısına, adına iman edənlərə Allahın övladları olmaq ixtiyarını verdi.</verse>
+        <verse osisID='John.1.13'>Onlar nə qandan, nə bəşər arzusundan, nə də kişi istəyindən deyil, yalnız Allahdan doğuldu. </verse>
+        <verse osisID='John.1.14'>Kəlam bəşər olub, lütf və həqiqətlə dolu olaraq aramızda məskən saldı; biz də Onun ehtişamını – Atadan gələn vahid Oğulun ehtişamını gördük.</verse>
+        <verse osisID='John.1.15'>Yəhya Onun barəsində şəhadət etdi və nida edib dedi: «“Məndən sonra Gələn məndən üstündür, çünki məndən əvvəl var idi” deyib haqqında danışdığım Şəxs budur».</verse>
+        <verse osisID='John.1.16'>Hamımız Onun bütövlüyündən lütf üstünə lütf aldıq.</verse>
+        <verse osisID='John.1.17'>Qanun Musa vasitəsilə verildi, lütf və həqiqət isə İsa Məsih vasitəsilə gəldi.</verse>
+        <verse osisID='John.1.18'>Allahı heç kəs heç vaxt görməyib, amma Atanın qucağında olan və Allah olan vahid Oğul Onu tanıtdı. </verse>
+        <verse osisID='John.1.19'>Yəhudi başçıları Yəhyadan «Sən kimsən?» deyə soruşmaq üçün Yerusəlimdən kahinlərlə Levililəri onun yanına göndərdilər. O zaman Yəhya belə şəhadət etdi:</verse>
+        <verse osisID='John.1.20'>o, düzünü deyib inkar etmədi və «mən Məsih deyiləm» deyə bəyan etdi.</verse>
+        <verse osisID='John.1.21'>Onlar Yəhyadan soruşdular: «Bəs sən kimsən? Bəlkə İlyassan?» Yəhya «xeyr, o deyiləm» dedi. Soruşdular: «Bəlkə gəlməli olan peyğəmbərsən?» Yəhya «xeyr» söylədi.</verse>
+        <verse osisID='John.1.22'>Sonra ona dedilər: «Bəs sən kimsən? Bizi göndərənlərə nə cavab verək? Özün barədə nə deyirsən?»</verse>
+        <verse osisID='John.1.23'>Yəhya dedi: «Mən Yeşaya peyğəmbərin söylədiyi kimi  “Rəbbin yolunu düz edin”  deyə səhrada nida edənin səsiyəm». </verse>
+        <verse osisID='John.1.24'>Göndərilən bəzi fariseylər</verse>
+        <verse osisID='John.1.25'>Yəhyadan soruşdular: «Bəs sən Məsih, İlyas yaxud gəlməli olan peyğəmbər deyilsənsə, nə üçün vəftiz edirsən?»</verse>
+        <verse osisID='John.1.26'>Yəhya onlara cavab verdi: «Mən su ilə vəftiz edirəm, amma aranızda məndən sonra gələn tanımadığınız bir Nəfər dayanıb. Mən Onun heç çarığının bağını açmağa da layiq deyiləm».</verse>
+        <verse osisID='John.1.27'>Yəhya onlara cavab verdi: «Mən su ilə vəftiz edirəm, amma aranızda məndən sonra gələn tanımadığınız bir Nəfər dayanıb. Mən Onun heç çarığının bağını açmağa da layiq deyiləm».</verse>
+        <verse osisID='John.1.28'>Bu hadisələr İordan çayının o tayında olan Bet-Anyada, Yəhyanın vəftiz etdiyi yerdə baş verdi. </verse>
+        <verse osisID='John.1.29'>Ertəsi gün Yəhya İsanın ona tərəf gəldiyini görüb dedi: «Dünyanın günahını aradan götürən Allah Quzusu budur!</verse>
+        <verse osisID='John.1.30'>“Məndən sonra bir Şəxs gəlir ki, məndən üstündür, çünki məndən əvvəl var idi” deyib haqqında danışdığım Kəs budur.</verse>
+        <verse osisID='John.1.31'>Özüm Onu tanımırdım, amma Onun İsrailə zahir olması üçün mən su ilə vəftiz edərək gəldim».</verse>
+        <verse osisID='John.1.32'>Yəhya şəhadət edib dedi: «Gördüm ki, Ruh göydən göyərçin kimi endi və Onun üzərində qaldı.</verse>
+        <verse osisID='John.1.33'>Özüm Onu tanımırdım, lakin su ilə vəftiz etmək üçün məni göndərənin Özü mənə dedi: “Ruhun kimin üzərinə enib qaldığını görsən, bil ki, Müqəddəs Ruhla vəftiz edən Odur”.</verse>
+        <verse osisID='John.1.34'>Mən də görüb “Allahın Oğlu budur” deyə şəhadət etmişəm». </verse>
+        <verse osisID='John.1.35'>Ertəsi gün yenə Yəhya orada idi. Şagirdlərinin ikisi onun yanında idi.</verse>
+        <verse osisID='John.1.36'>İsa yoldan keçərkən Yəhya Ona baxıb dedi: «Allah Quzusu budur!»</verse>
+        <verse osisID='John.1.37'>Həmin iki şagird onun sözlərini eşidib İsanın ardınca getdi.</verse>
+        <verse osisID='John.1.38'>İsa dönüb ardınca gəldiklərini görərək onlara «Sizə nə lazımdır?» dedi. Onlar İsaya dedi: «Rabbi, Sən harada qalırsan?» «Rabbi» «Müəllim» deməkdir.</verse>
+        <verse osisID='John.1.39'>İsa onlara dedi: «Mənimlə gəlin, görərsiniz». Onlar gedib İsanın harada qaldığını gördülər və həmin gün Onunla qaldılar. Onuncu saat radələri idi.</verse>
+        <verse osisID='John.1.40'>Yəhyadan eşidib İsanın ardınca gedən iki nəfərdən biri Şimon Peterin qardaşı Andrey idi.</verse>
+        <verse osisID='John.1.41'>Sonra o, ilk öncə qardaşı Şimonu tapıb ona «biz Məsihi tapdıq» dedi. «Məsih» «Məsh olunmuş» deməkdir.</verse>
+        <verse osisID='John.1.42'>Onu İsanın yanına apardı. İsa Şimona baxıb dedi: «Sən Yəhya oğlu Şimonsan, amma Kefa adlanacaqsan». Kefa isə Peter deməkdir. </verse>
+        <verse osisID='John.1.43'>Ertəsi gün İsa Qalileyaya getmək istədi. O, Filipi tapıb ona «ardımca gəl» dedi.</verse>
+        <verse osisID='John.1.44'>Filip də Andrey və Peter kimi Bet-Sayda şəhərindən idi.</verse>
+        <verse osisID='John.1.45'>Filip Natanaeli tapıb ona dedi: «Musanın Qanunda yazdığı, peyğəmbərlərin də bəhs etdiyi Şəxsi – Yusif Oğlu Nazaretli İsanı tapdıq».</verse>
+        <verse osisID='John.1.46'>Natanael ona dedi: «Nazaretdən yaxşı bir şey çıxarmı?» Filip isə ona «gəl özün bax» dedi.</verse>
+        <verse osisID='John.1.47'>İsa Natanaelin Ona tərəf gəldiyini görüb haqqında belə dedi: «Bu, həqiqətən, ürəyində hiylə olmayan bir İsraillidir».</verse>
+        <verse osisID='John.1.48'>Natanael «Sən məni haradan tanıyırsan?» deyə Ondan soruşdu. İsa ona cavab verdi: «Filip səni çağırmazdan əvvəl səni əncir ağacının altında gördüm».</verse>
+        <verse osisID='John.1.49'>Natanael Ona dedi: «Rabbi, Sən Allahın Oğlusan, İsrailin Padşahısan!»</verse>
+        <verse osisID='John.1.50'>İsa ona cavab verib dedi: «Səni əncir ağacının altında gördüyümü söylədiyim üçünmü Mənə iman edirsən? Sən bunlardan daha böyük şeylər görəcəksən».</verse>
+        <verse osisID='John.1.51'>Yenə ona dedi: «Doğrusunu, doğrusunu sizə deyirəm: göyün yarıldığını və Allahın mələklərinin Bəşər Oğlu üzərinə enib-qalxdığını görəcəksiniz».  </verse>
+      </chapter>
+      <chapter osisID='John.2'>
+        <verse osisID='John.2.1'>
+          Bunun üçüncü günü Qalileyanın Qana kəndində toy oldu. İsanın anası orada idi.</verse>
+        <verse osisID='John.2.2'>İsa ilə şagirdləri də toya çağırılmışdı.</verse>
+        <verse osisID='John.2.3'>Şərab qurtaranda anası İsaya dedi: «Şərabları qalmadı».</verse>
+        <verse osisID='John.2.4'>İsa dedi: «Ana, məndən nə istəyirsən? Mənim vaxtım hələ çatmayıb».</verse>
+        <verse osisID='John.2.5'>Anası xidmətçilərə dedi: «Sizə nə desə, edin». </verse>
+        <verse osisID='John.2.6'>Yəhudilərin paklanma mərasimi üçün orada hər biri iki-üç ölçü su tuta bilən altı daş küp var idi.</verse>
+        <verse osisID='John.2.7'>İsa xidmətçilərə dedi: «Küpləri su ilə doldurun». Onları ağzına qədər doldurdular.</verse>
+        <verse osisID='John.2.8'>O, xidmətçilərə dedi: «İndi bir az götürüb toyağasına aparın». Onlar da apardı.</verse>
+        <verse osisID='John.2.9'>Toyağası şəraba çevrilmiş suyun dadına baxdı. O bunun haradan gətirildiyini bilmirdi, bunu yalnız suyu götürən xidmətçilər bilirdi. Toyağası bəyi çağırıb ona dedi:</verse>
+        <verse osisID='John.2.10'>«Hər kəs əvvəlcə əla şərabı, çox içiləndən sonra isə adi şərabı təqdim edir. Amma sən əla şərabı indiyə saxlamısan». </verse>
+        <verse osisID='John.2.11'>İsa Qalileyanın Qana kəndində bu ilk əlamətini göstərdi və izzətini üzə çıxardı. Şagirdləri də Ona iman etdi.</verse>
+        <verse osisID='John.2.12'>Bundan sonra anası, qardaşları və şagirdləri ilə birgə Kefernahuma gedib orada bir neçə gün qaldı. </verse>
+        <verse osisID='John.2.13'>Yəhudilərin Pasxa bayramı yaxınlaşırdı. İsa Yerusəlimə getdi.</verse>
+        <verse osisID='John.2.14'>Məbəddə öküz, qoyun, göyərçin satanların və sərrafların oturduğunu gördü.</verse>
+        <verse osisID='John.2.15'>İplərdən bir qamçı düzəldib hamını qoyun və öküzlərlə birgə məbəddən qovdu, sərrafların masalarını çevirib pullarını yerə tökdü,</verse>
+        <verse osisID='John.2.16'>göyərçin satanlara da dedi: «Bunları buradan götürün. Atamın evini bazara döndərməyin».</verse>
+        <verse osisID='John.2.17'>Şagirdləri də «evinin qeyrəti Məni yandırıb-yaxacaq» deyə yazıldığını xatırladılar. </verse>
+        <verse osisID='John.2.18'>Sonra Yəhudi başçıları Ondan soruşdular: «Bunları etməyə ixtiyarın olduğunu bizə hansı əlamətlə göstərə bilərsən?»</verse>
+        <verse osisID='John.2.19'>İsa onlara cavab verdi: «Bu məbədi dağıdın, üç günə Mən onu təzədən quraram».</verse>
+        <verse osisID='John.2.20'>Onda Yəhudi başçıları dedilər: «Bu məbəd qırx altı ilə tikilib, Sən onu üç günəmi quracaqsan?»</verse>
+        <verse osisID='John.2.21'>Lakin İsa məbəd deyəndə Öz bədənini nəzərdə tuturdu.</verse>
+        <verse osisID='John.2.22'>İsa ölülər arasından dirildiyi zaman şagirdləri Onun bu sözləri söylədiyini xatırladılar, Müqəddəs Yazıya və İsanın söylədiyi sözə inandılar. </verse>
+        <verse osisID='John.2.23'>İsa Pasxa bayramı zamanı Yerusəlimdə olanda göstərdiyi əlamətləri görən bir çox adam Onun adına iman etdi.</verse>
+        <verse osisID='John.2.24'>Amma İsa bütün adamların daxilini bildiyi üçün onlara güvənməzdi.</verse>
+        <verse osisID='John.2.25'>Bir adam haqqında kiminsə Ona şəhadət etməsinə ehtiyacı yox idi, çünki insanın ürəyindən keçənləri bilirdi.  </verse>
+      </chapter>
+      <chapter osisID='John.3'>
+        <verse osisID='John.3.1'>
+          Fariseylər arasında Nikodim adlı bir Yəhudi rəhbəri var idi.</verse>
+        <verse osisID='John.3.2'>O, gecə ikən İsanın yanına gəlib dedi: «Rabbi, bilirik ki, Sən Allahın yanından gələn bir müəllimsən. Çünki Allah ona yar olmasa, heç kəs Sənin göstərdiyin əlamətləri edə bilməz».</verse>
+        <verse osisID='John.3.3'>İsa ona cavab verdi: «Doğrusunu, doğrusunu sənə deyirəm: bir kəs yenidən doğulmasa, Allahın Padşahlığını görə bilməz».</verse>
+        <verse osisID='John.3.4'>Nikodim Ondan soruşdu: «Yaşa dolmuş bir adam necə yenidən doğula bilər? O, ikinci dəfə anasının bətninə girib doğula bilərmi?»</verse>
+        <verse osisID='John.3.5'>İsa cavab verdi: «Doğrusunu, doğrusunu sənə deyirəm: bir kəs sudan və Ruhdan doğulmasa, Allahın Padşahlığına daxil ola bilməz.</verse>
+        <verse osisID='John.3.6'>Bəşərdən doğulan bəşərdir, Ruhdan doğulan ruhdur.</verse>
+        <verse osisID='John.3.7'>Sənə “yenidən doğulmalısınız” dediyimə heyrət etmə.</verse>
+        <verse osisID='John.3.8'>Yel istədiyi yerdə əsir, onun səsini eşidirsən, amma haradan gəlib haraya getdiyini bilmirsən. Ruhdan doğulmuş adam da belədir».</verse>
+        <verse osisID='John.3.9'>Nikodim «Bu şeylər necə ola bilər?» deyə soruşdu.</verse>
+        <verse osisID='John.3.10'>İsa ona cavab verdi: «Sən İsrailin müəllimisən. Bunları bilmirsənmi?</verse>
+        <verse osisID='John.3.11'>Doğrusunu, doğrusunu sənə deyirəm: biz bildiyimizi söyləyirik, gördüyümüzə şəhadət edirik, amma siz bizim şəhadətimizi qəbul etmirsiniz.</verse>
+        <verse osisID='John.3.12'>Əgər Mən sizə yerdəki işlərdən danışanda inanmırsınızsa, göydəki işlərdən danışsam, necə inanacaqsınız?</verse>
+        <verse osisID='John.3.13'>Heç kəs göyə çıxmayıb, yalnız göydən enmiş Bəşər Oğlu orada olub.</verse>
+        <verse osisID='John.3.14'>Musa çöldə ilanı yuxarı qaldırdığı kimi Bəşər Oğlu da yuxarı qaldırılmalıdır ki,</verse>
+        <verse osisID='John.3.15'>Ona iman edən hər kəs əbədi həyata malik olsun». </verse>
+        <verse osisID='John.3.16'>Çünki Allah dünyanı elə sevdi ki, vahid Oğlunu verdi; bunu ona görə etdi ki, Ona iman edən hər kəs həlak olmasın, amma əbədi həyata malik olsun.</verse>
+        <verse osisID='John.3.17'>Allah dünyanı mühakimə etmək üçün deyil, Oğlunun vasitəsilə xilas etmək üçün Onu dünyaya göndərdi.</verse>
+        <verse osisID='John.3.18'>Ona iman edən mühakimə olunmur, iman etməyənsə artıq mühakimə olunub, çünki Allahın vahid Oğlunun adına iman etməyib.</verse>
+        <verse osisID='John.3.19'>Mühakimə bundan ibarətdir ki, dünyaya nur gəldi, amma insanlar qaranlığı nurdan daha çox sevdilər, çünki əməlləri şər idi.</verse>
+        <verse osisID='John.3.20'>Pislik edən hər kəs nura nifrət edər, əməllərinin üzə çıxmaması üçün nura tərəf gəlməz.</verse>
+        <verse osisID='John.3.21'>Həqiqətə əməl edənsə nura tərəf gələr ki, əməllərini Allah naminə etdiyi bəlli olsun. </verse>
+        <verse osisID='John.3.22'>Bundan sonra İsa və Onun şagirdləri Yəhudeya diyarına gəldilər. İsa bir müddət onlarla orada qalıb vəftiz edirdi.</verse>
+        <verse osisID='John.3.23'>Yəhya da Şalim yaxınlığındakı Aynonda vəftiz edirdi, çünki orada çoxlu su var idi. Adamlar da gəlib vəftiz olunurdu.</verse>
+        <verse osisID='John.3.24'>Yəhya hələ zindana salınmamışdı. </verse>
+        <verse osisID='John.3.25'>Bu zaman Yəhyanın şagirdləri ilə bir Yəhudi arasında paklanma barədə mübahisə düşdü.</verse>
+        <verse osisID='John.3.26'>Şagirdləri Yəhyanın yanına gəlib dedilər: «Rabbi, İordanın o tayında sənin yanında olan və barəsində şəhadət etdiyin Şəxs indi Özü vəftiz edir və hamı Onun yanına gəlir».</verse>
+        <verse osisID='John.3.27'>Yəhya cavabında dedi: «İnsana göydən verilməsə, o heç nə ala bilməz.</verse>
+        <verse osisID='John.3.28'>“Mən Məsih deyiləm, ancaq Ondan əvvəl göndərilmişəm” sözümə özünüz şahidsiniz.</verse>
+        <verse osisID='John.3.29'>Gəlin kimindirsə, bəy odur. Amma bəyi gözləyərək ona qulaq asan sağdışı bəyin səsini eşidib çox sevinir. Mənim sevincim beləcə tam oldu.</verse>
+        <verse osisID='John.3.30'>İndi Ona böyümək, mənə kiçilmək gərəkdir». </verse>
+        <verse osisID='John.3.31'>Yuxarıdan Gələn hamıdan üstündür. Yer üzündən olan yerə məxsusdur və yer barədə danışar, göydən Gələnsə hamıdan üstündür.</verse>
+        <verse osisID='John.3.32'>Nə görüb-eşidibsə, ona şəhadət edər, amma şəhadətini heç kəs qəbul etməz.</verse>
+        <verse osisID='John.3.33'>Onun şəhadətini qəbul edən kəs Allahın haqq olduğuna möhür basıb.</verse>
+        <verse osisID='John.3.34'>Ona görə ki Allahın göndərdiyi Şəxs Allahın sözlərini söyləyər. Çünki Allah Ruhu hədsiz verir.</verse>
+        <verse osisID='John.3.35'>Ata Oğulu sevir və hər şeyi Onun ixtiyarına verib.</verse>
+        <verse osisID='John.3.36'>Oğula iman edən şəxs əbədi həyata malikdir, Oğula itaət etməyənsə həyat görməyəcək, lakin Allahın qəzəbi onun üzərində qalır.  </verse>
+      </chapter>
+      <chapter osisID='John.4'>
+        <verse osisID='John.4.1'>
+          Fariseylər İsanın Özünə Yəhyadan daha çox şagird toplayıb vəftiz etdiyi barədə eşitdilər;</verse>
+        <verse osisID='John.4.2'>əslində İsanın Özü deyil, şagirdləri vəftiz edirdi.</verse>
+        <verse osisID='John.4.3'>İsa bundan xəbər tutan kimi Yəhudeyanı tərk edib Qalileyaya qayıtdı.</verse>
+        <verse osisID='John.4.4'>Onun yolu Samariyadan keçirdi.</verse>
+        <verse osisID='John.4.5'>O, Yaqubun öz oğlu Yusifə verdiyi torpağa yaxın olan Samariyanın Sixar adlanan şəhərinə gəldi.</verse>
+        <verse osisID='John.4.6'>Yaqubun quyusu orada idi. Yol İsanı yorduğu üçün quyunun yanında oturdu. Altıncı saat radələri idi. </verse>
+        <verse osisID='John.4.7'>Samariyalı bir qadın quyudan su çəkməyə gəldi. İsa ona «Mənə su ver, içim» dedi.</verse>
+        <verse osisID='John.4.8'>Çünki şagirdləri yemək almaq üçün şəhərə getmişdi.</verse>
+        <verse osisID='John.4.9'>Samariyalı qadın Ona dedi: «Sən bir Yəhudisən, mənsə Samariyalı bir qadın. Sən necə məndən su istəyə bilərsən?» Çünki Yəhudilər Samariyalılarla ünsiyyət etmir.</verse>
+        <verse osisID='John.4.10'>İsa ona cavab verdi: «Əgər sən Allahın bəxşişini və “Mənə su ver, içim” deyənin Kim olduğunu bilsəydin, özün Ondan su istəyərdin, O da sənə həyat suyu verərdi».</verse>
+        <verse osisID='John.4.11'>Qadın Ona dedi: «Ağa, su çəkmək üçün bir qabın yox, quyu da dərindir. Bəs o həyat suyunu haradan götürəcəksən?</verse>
+        <verse osisID='John.4.12'>Məgər Sən bu quyunu bizə verən, oğulları və mal-qarası ilə buradan su içən atamız Yaqubdan da üstünsən?»</verse>
+        <verse osisID='John.4.13'>İsa ona cavab verdi: «Bu sudan içən hər kəs yenə susayar,</verse>
+        <verse osisID='John.4.14'>amma Mənim ona verəcəyim sudan kim içsə, heç vaxt susamaz. Lakin ona verəcəyim su onun daxilində əbədi həyat verən bir su qaynağına çevriləcək».</verse>
+        <verse osisID='John.4.15'>Qadın Ona dedi: «Ağa, bu suyu mənə ver ki, mən heç vaxt susamayım və su çəkmək üçün buraya gəlməyim». </verse>
+        <verse osisID='John.4.16'>İsa qadına «get ərini çağır və buraya gəl» dedi.</verse>
+        <verse osisID='John.4.17'>Qadın da Ona «ərim yoxdur» söylədi. İsa ona dedi: «“Ərim yoxdur” deməklə düz söylədin,</verse>
+        <verse osisID='John.4.18'>çünki beş kişin olub, indi səninlə yaşayan da ərin deyil, sən bunu düz söylədin».</verse>
+        <verse osisID='John.4.19'>Qadın Ona dedi: «Ağa, görürəm ki, Sən peyğəmbərsən.</verse>
+        <verse osisID='John.4.20'>Bizim ata-babalarımız bu dağda ibadət edirdi, amma siz deyirsiniz ki, ibadət etmək üçün lazımi yer Yerusəlimdədir».</verse>
+        <verse osisID='John.4.21'>İsa ona dedi: «Ey qadın, Mənə inan, artıq o zaman yetişir ki, Ataya nə bu dağda, nə də Yerusəlimdə ibadət edəcəksiniz.</verse>
+        <verse osisID='John.4.22'>Siz bilmədiyinizə ibadət edirsiniz, bizsə bildiyimizə ibadət edirik, çünki xilas Yəhudilərdəndir.</verse>
+        <verse osisID='John.4.23'>Amma o zaman gəlir və artıq gəlib ki, həqiqi ibadət edənlər Ataya ruhda və həqiqətdə ibadət etsin. Ata da Özünə belə ibadət edənlər axtarır.</verse>
+        <verse osisID='John.4.24'>Allah ruhdur və Ona ibadət edənlər ruhda və həqiqətdə ibadət etməlidir».</verse>
+        <verse osisID='John.4.25'>Qadın Ona dedi: «Bilirəm ki, “Məsih” deyilən məsh olunmuş Şəxs gələcək və gələndə bizə hər şeyi bildirəcək».</verse>
+        <verse osisID='John.4.26'>İsa ona dedi: «Səninlə danışan Odur, O Mənəm». </verse>
+        <verse osisID='John.4.27'>Bu arada İsanın şagirdləri gəldilər və Onun bir qadınla söhbət etməsinə heyrətləndilər, ancaq heç biri «Nə istəyirsən?» yaxud «Niyə o qadınla danışırsan?» demədi.</verse>
+        <verse osisID='John.4.28'>Bu zaman qadın səhəngini yerə qoydu və şəhərə gedib adamlara dedi:</verse>
+        <verse osisID='John.4.29'>«Gəlin, etdiyim bütün əməlləri mənə söyləyən Adamı görün. Bəlkə elə Məsih Odur?»</verse>
+        <verse osisID='John.4.30'>Adamlar da şəhərdən çıxıb İsanın yanına gəldilər. </verse>
+        <verse osisID='John.4.31'>Bu arada şagirdlər «Rabbi, yemək ye» deyə Ondan xahiş etdilər.</verse>
+        <verse osisID='John.4.32'>Lakin İsa onlara dedi: «Məndə elə yemək var ki, siz ondan xəbərsizsiniz».</verse>
+        <verse osisID='John.4.33'>Onda şagirdlər «Görəsən kimsə Ona yemək gətirdimi?» deyə bir-birindən soruşdular.</verse>
+        <verse osisID='John.4.34'>İsa onlara dedi: «Mənim yeməyim Məni Göndərənin iradəsini yerinə yetirmək, Onun işini tamamlamaqdır.</verse>
+        <verse osisID='John.4.35'>Siz “biçinə dörd ay qalıb” demirsinizmi? Budur, Mən sizə deyirəm: başınızı qaldırıb tarlalara baxın; məhsul bar verib, biçilməyə hazırdır.</verse>
+        <verse osisID='John.4.36'>Əkən də, biçən də birlikdə sevinsin deyə indi biçinçi zəhmət haqqı alır və əbədi həyat üçün məhsul toplayır.</verse>
+        <verse osisID='John.4.37'>Bu işlə bağlı “biri əkər, biri biçər” ifadəsi doğru deyilib.</verse>
+        <verse osisID='John.4.38'>Mən sizi zəhmətini çəkmədiyiniz bir məhsulu biçməyə göndərdim. Başqaları zəhmət çəkdi, sizsə onların zəhmətindən bəhrələndiniz». </verse>
+        <verse osisID='John.4.39'>«Etdiyim bütün əməlləri mənə söylədi» deyə şəhadət edən qadının sözünə görə o şəhərdən olan Samariyalıların bir çoxu İsaya iman etdi.</verse>
+        <verse osisID='John.4.40'>Sonra Samariyalılar İsanın yanına gəlib Ondan xahiş etdilər ki, onların yanında qalsın. İsa da iki gün orada qaldı.</verse>
+        <verse osisID='John.4.41'>Daha çox adam da İsanın sözünə görə iman etdi.</verse>
+        <verse osisID='John.4.42'>Onlar qadına deyirdilər: «Biz artıq sənin sözlərinə görə iman etmirik, elə özümüz də eşidib bildik ki, həqiqətən, dünyanın Xilaskarı Budur». </verse>
+        <verse osisID='John.4.43'>İsa iki gündən sonra oranı tərk edib Qalileyaya tərəf yola düşdü.</verse>
+        <verse osisID='John.4.44'>Çünki peyğəmbərin öz yurdunda hörməti olmadığı barədə İsa Özü bir vaxt şəhadət etmişdi.</verse>
+        <verse osisID='John.4.45'>İndi Qalileyaya gələndə Qalileyalılar Onu qəbul etdi, çünki onlar da bayram zamanı Yerusəlimə gəlib Onun orada etdiyi hər şeyi görmüşdülər. </verse>
+        <verse osisID='John.4.46'>Beləcə İsa suyu şəraba çevirdiyi Qalileyanın Qana kəndinə yenə gəldi. Kefernahumda hökmdarın bir məmuru var idi. Onun oğlu xəstələnmişdi.</verse>
+        <verse osisID='John.4.47'>O, İsanın Yəhudeyadan Qalileyaya gəldiyini eşidib yanına getdi və Ondan xahiş etdi ki, gəlib oğlunu sağaltsın, çünki oğlu ölüm ayağında idi.</verse>
+        <verse osisID='John.4.48'>Onda İsa ona dedi: «Siz əlamətlər və xariqələr görməyincə iman etməyəcəksiniz».</verse>
+        <verse osisID='John.4.49'>Hökmdarın məmuru Ona dedi: «Ağa, uşağım ölməzdən qabaq gəl!»</verse>
+        <verse osisID='John.4.50'>İsa ona «get, oğlun sağ-salamatdır» dedi. O adam da İsanın sözünə inanıb getdi.</verse>
+        <verse osisID='John.4.51'>Evə gələrkən qulları onu qarşılayaraq oğlunun sağ-salamat olduğunu söylədilər.</verse>
+        <verse osisID='John.4.52'>Oğlunun nə vaxt yaxşılaşdığını qullarından soruşdu, onlar da dedilər: «Dünən yeddinci saatda qızdırması düşdü».</verse>
+        <verse osisID='John.4.53'>O zaman ata başa düşdü ki, İsa elə həmin vaxt ona «oğlun sağ-salamatdır» demişdi. Onda özü də, bütün ev əhli də İsaya iman etdi.</verse>
+        <verse osisID='John.4.54'>Bu, İsanın göstərdiyi ikinci əlamət idi. Onu Yəhudeyadan Qalileyaya gələndə etmişdi.  </verse>
+      </chapter>
+      <chapter osisID='John.5'>
+        <verse osisID='John.5.1'>
+          Bu hadisələrdən sonra Yəhudilərin bir bayramı oldu və İsa Yerusəlimə getdi.</verse>
+        <verse osisID='John.5.2'>Yerusəlimdəki Qoyun darvazasının yanında, ibranicə Bet-Xasda adlanan beş eyvanlı bir hovuz var.</verse>
+        <verse osisID='John.5.3'>Bu eyvanlarda çoxlu xəstə, kor, topal və iflic adam yatardı.</verse>
+        <verse osisID='John.5.5'>Otuz səkkiz il xəstə olan bir adam da orada idi.</verse>
+        <verse osisID='John.5.6'>İsa onun yatdığını görəndə çoxdan xəstə olduğunu bilərək ondan soruşdu: «Sağalmaq istəyirsənmi?»</verse>
+        <verse osisID='John.5.7'>Xəstə Ona cavab verdi: «Ağa, yanımda bir adam yoxdur ki, su çalxalanan zaman məni hovuza salsın. Mən çatınca başqası məndən əvvəl oraya enir».</verse>
+        <verse osisID='John.5.8'>İsa ona dedi: «Qalx, döşəyini götür və yeri!»</verse>
+        <verse osisID='John.5.9'>O adam həmin anda sağaldı və döşəyini götürüb yeridi.  O gün Şənbə günü idi.</verse>
+        <verse osisID='John.5.10'>Buna görə də Yəhudi başçıları şəfa tapan adama dedilər: «Bu gün Şənbə günüdür, döşəyini daşımaq sənə qadağandır».</verse>
+        <verse osisID='John.5.11'>O adam onlara cavab verdi: «Məni sağaldan Şəxs mənə “döşəyini götür və yeri” dedi».</verse>
+        <verse osisID='John.5.12'>Ondan soruşdular: «Sənə “götür və yeri” deyən Adam kimdir?»</verse>
+        <verse osisID='John.5.13'>Lakin sağalan adam Onun kim olduğunu bilmirdi, çünki İsa o yerdə olan izdihama qarışmışdı.</verse>
+        <verse osisID='John.5.14'>Bir az sonra İsa məbəddə həmin adamı tapıb dedi: «Bax sən sağaldın, bir də günah etmə ki, başına daha pis iş gəlməsin».</verse>
+        <verse osisID='John.5.15'>O adam gedib onu sağaldan Şəxsin İsa olduğunu Yəhudi başçılarına bildirdi.</verse>
+        <verse osisID='John.5.16'>Buna görə Yəhudi başçıları İsanı təqib etməyə başladılar, çünki bunları Şənbə günü edirdi.</verse>
+        <verse osisID='John.5.17'>Lakin İsa onlara dedi: «Mənim Atam indiyə qədər iş görür, Mən də iş görürəm».</verse>
+        <verse osisID='John.5.18'>Bundan sonra Yəhudi başçıları daha da səylə Onu öldürməyə çalışırdılar, çünki İsa yalnız Şənbə gününü pozmadı, həm də Allahın Öz Atası olduğunu söyləyərək Özünü Allaha bərabər saydı. </verse>
+        <verse osisID='John.5.19'>Beləcə İsa onlara dedi: «Doğrusunu, doğrusunu sizə deyirəm: Oğul Atanın nə etdiyini görməsə, Özündən bir şey etməz. Çünki Ata nə edərsə, Oğul da onu edər.</verse>
+        <verse osisID='John.5.20'>Ona görə ki Ata Oğulu sevir və Özünün etdiyi hər şeyi Ona göstərir. Ona bunlardan da böyük işlər göstərəcək ki, siz heyrətlənəsiniz.</verse>
+        <verse osisID='John.5.21'>Ata ölüləri dirildib onlara həyat verdiyi kimi Oğul da istədiyi şəxslərə həyat verir.</verse>
+        <verse osisID='John.5.22'>Ata heç kəsi mühakimə etmir, lakin hökm çıxarmağı Oğulun ixtiyarına verib ki,</verse>
+        <verse osisID='John.5.23'>hər kəs Ataya hörmət etdiyi kimi Oğula da hörmət etsin. Oğula hörmət etməyən Onu göndərən Ataya da hörmət etmir. </verse>
+        <verse osisID='John.5.24'>Doğrusunu, doğrusunu sizə deyirəm: Mənim sözümə qulaq asıb Məni Göndərənə inanan şəxs əbədi həyata malikdir və ona hökm çıxarılmayacaq, əksinə, ölümdən həyata keçib.</verse>
+        <verse osisID='John.5.25'>Doğrusunu, doğrusunu sizə deyirəm: Allah Oğlunun səsini ölülərin eşitdiyi zaman gəlir və artıq gəlib; bunu eşidənlər yaşayacaq.</verse>
+        <verse osisID='John.5.26'>Çünki Atanın Özündə həyat olduğu kimi Oğula da Özündə həyat olmağı bəxş etdi.</verse>
+        <verse osisID='John.5.27'>Hökm çıxarmaq səlahiyyətini də Ona verdi, çünki O, Bəşər Oğludur.</verse>
+        <verse osisID='John.5.28'>Buna heyrət etməyin, çünki elə bir zaman gəlir ki, qəbirdə yatanların hamısı Onun səsini eşidib</verse>
+        <verse osisID='John.5.29'>qəbirlərindən çıxacaq, yaxşılıq edənlər həyat üçün diriləcək, pislik edənlərsə hökm üçün diriləcək. </verse>
+        <verse osisID='John.5.30'>Mən Özümdən heç nə edə bilmərəm, eşitdiyim kimi mühakimə edərəm və Mənim verdiyim hökm ədalətlidir. Çünki məqsədim Öz iradəmi deyil, Məni Göndərənin iradəsini yerinə yetirməkdir. </verse>
+        <verse osisID='John.5.31'>Əgər Mən Özüm barədə şəhadət etsəydim, şəhadətim etibarlı olmazdı.</verse>
+        <verse osisID='John.5.32'>Lakin Mənim barəmdə şəhadət edən başqasıdır və Mənim barəmdə etdiyi şəhadətin etibarlı olduğunu bilirəm.</verse>
+        <verse osisID='John.5.33'>Siz Yəhyanın yanına adamlar göndərdiniz və o, həqiqətə şəhadət etdi.</verse>
+        <verse osisID='John.5.34'>Lakin insandan şəhadət qəbul etdiyim üçün deyil, yalnız sizin xilas olmağınız üçün bunları söyləyirəm.</verse>
+        <verse osisID='John.5.35'>Yəhya yanan və nur saçan bir çıraq idi, siz bir müddət onun işığında sevinmək istədiniz.</verse>
+        <verse osisID='John.5.36'>Amma Mənim barəmdə olan şəhadət Yəhyanın şəhadətindən üstündür. Çünki Atanın Mənə tam yerinə yetirmək üçün tapşırdığı işlər – indi etdiyim bu işlər Mənim barəmdə şəhadət edir ki, Ata Məni göndərib.</verse>
+        <verse osisID='John.5.37'>Məni göndərən Atanın Özü də Mənim barəmdə şəhadət etdi. Siz heç vaxt nə Onun səsini eşitmisiniz, nə də surətini görmüsünüz.</verse>
+        <verse osisID='John.5.38'>Onun kəlamının da sizdə qalmasına imkan vermirsiniz, çünki Onun göndərdiyi Şəxsə inanmırsınız.</verse>
+        <verse osisID='John.5.39'>Siz Müqəddəs Yazıları araşdırırsınız. Çünki düşünürsünüz ki, onların vasitəsilə əbədi həyata malik olacaqsınız. Lakin onlar da Mənim barəmdə şəhadət edir,</verse>
+        <verse osisID='John.5.40'>sizsə həyata malik olmaq üçün Mənə tərəf gəlmək istəmirsiniz. </verse>
+        <verse osisID='John.5.41'>İnsanlardan izzət qəbul etmirəm.</verse>
+        <verse osisID='John.5.42'>Ancaq sizi tanıyıb bilirəm ki, ürəyinizdə Allah məhəbbəti yoxdur.</verse>
+        <verse osisID='John.5.43'>Mən Atamın adı ilə gəlmişəm, amma siz Məni qəbul etmirsiniz. Əgər bir başqası öz adı ilə gəlsə, onu qəbul edərsiniz.</verse>
+        <verse osisID='John.5.44'>Siz bir-birinizdən izzət qəbul edirsiniz, bir olan Allahdan gələn izzəti isə axtarmırsınız. Bəs onda necə iman edə bilərsiniz?</verse>
+        <verse osisID='John.5.45'>Güman etməyin ki, Mən sizi Atanın önündə ittiham edəcəyəm. Sizi ittiham edən ümid bağladığınız Musadır.</verse>
+        <verse osisID='John.5.46'>Əgər siz Musaya inansaydınız, Mənə də inanardınız, çünki o Mənim barəmdə yazıb.</verse>
+        <verse osisID='John.5.47'>Lakin onun yazdıqlarına inanmırsınızsa, Mənim sözlərimə necə inanacaqsınız?»  </verse>
+      </chapter>
+      <chapter osisID='John.6'>
+        <verse osisID='John.6.1'>
+          Bu hadisələrdən sonra İsa Qalileya – Tiberiya gölünün o biri sahilinə keçdi.</verse>
+        <verse osisID='John.6.2'>Böyük bir izdiham Onun ardınca gedirdi, çünki Onun xəstələrlə göstərdiyi əlamətləri görürdü.</verse>
+        <verse osisID='John.6.3'>İsa dağa çıxıb şagirdləri ilə oturdu.</verse>
+        <verse osisID='John.6.4'>Yəhudilərin Pasxa bayramı yaxınlaşırdı. </verse>
+        <verse osisID='John.6.5'>İsa başını qaldıraraq böyük bir izdihamın yanına gəldiyini görüb Filipə dedi: «Haradan çörək alıb bu adamları yedirək?»</verse>
+        <verse osisID='John.6.6'>Bu sözləri onu sınamaq məqsədi ilə söylədi, çünki Özü nə edəcəyini bilirdi.</verse>
+        <verse osisID='John.6.7'>Filip Ona cavab verdi: «Bunlara iki yüz dinarlıq çörək də çatmaz ki, hərəsi bir tikə yemək yesin».</verse>
+        <verse osisID='John.6.8'>Şagirdlərindən biri olan Şimon Peterin qardaşı Andrey Ona dedi:</verse>
+        <verse osisID='John.6.9'>«Burada beş kiçik arpa çörəyi ilə iki balığı olan bir oğlan var, amma bu qədər adam üçün bunlar nədir ki?»</verse>
+        <verse osisID='John.6.10'>İsa «xalqı yerə oturdun» dedi. Ora otla örtülmüşdü. Xalq da oturdu. Kişilərin sayı beş minə yaxın idi.</verse>
+        <verse osisID='John.6.11'>O zaman İsa çörəkləri götürüb şükür edərək balıqlarla birgə, oturanlara – hər kəsə istədiyi qədər payladı.</verse>
+        <verse osisID='John.6.12'>Onlar yeyib-doyandan sonra İsa şagirdlərinə dedi: «Artıq qalan hissələri toplayın ki, heç bir şey zay olmasın».</verse>
+        <verse osisID='John.6.13'>Bunları topladılar və beş arpa çörəyini yeyənlərin qabağından qalan hissələrdən on iki zənbil doldurdular.</verse>
+        <verse osisID='John.6.14'>O zaman İsanın göstərdiyi əlaməti görən adamlar «Həqiqətən, dünyaya gəlməli olan peyğəmbər Budur!» deyirdi.</verse>
+        <verse osisID='John.6.15'>İsa bildi ki, adamlar gəlib Onu padşah etmək üçün zorla aparmağa hazırlaşır, buna görə də təkbaşına dağa çəkildi. </verse>
+        <verse osisID='John.6.16'>Axşam çatanda İsanın şagirdləri gölə enib</verse>
+        <verse osisID='John.6.17'>bir qayığa mindilər. Onlar gölün o biri sahilində olan Kefernahuma gedirdilər. Qaranlıq düşmüşdü, amma İsa hələ onların yanına gəlməmişdi.</verse>
+        <verse osisID='John.6.18'>Güclü külək əsdiyindən göl dalğalanırdı.</verse>
+        <verse osisID='John.6.19'>Onlar beləcə avar çəkib iyirmi beş ya otuz stadi gedəndən sonra gördülər ki, İsa gölün üstü ilə yeriyir və qayığa yaxınlaşır. Qorxdular,</verse>
+        <verse osisID='John.6.20'>amma İsa onlara «Mənəm, qorxmayın» dedi.</verse>
+        <verse osisID='John.6.21'>Onda şagirdlər Onu məmnunluqla qayığa götürdülər. Sonra qayıq o andaca getdikləri sahilə çatdı. </verse>
+        <verse osisID='John.6.22'>Ertəsi gün gölün o biri sahilində qalan xalq başa düşdü ki, orada yalnız bir qayıqolub, İsa Öz şagirdləri ilə həmin qayığa minməyib, şagirdləri Onsuz gedib.</verse>
+        <verse osisID='John.6.23'>O arada Tiberiyadan digər qayıqlar Rəbb şükür edəndən sonra yemək yedikləri yerin yaxınlığına gəldilər.</verse>
+        <verse osisID='John.6.24'>Beləcə xalq İsanın da, şagirdlərinin də orada olmadığını görüb qayıqlara minərək İsanı axtara-axtara Kefernahuma gəldi. </verse>
+        <verse osisID='John.6.25'>İsanı gölün o biri sahilində görəndə «Rabbi, buraya nə vaxt gəldin?» deyə soruşdular.</verse>
+        <verse osisID='John.6.26'>İsa onlara cavab olaraq dedi: «Doğrusunu, doğrusunu sizə deyirəm: əlamətlər gördüyünüz üçün deyil, çörək yeyib doyduğunuz üçün Məni axtarırsınız.</verse>
+        <verse osisID='John.6.27'>Keçib-gedən yemək üçün deyil, əbədi həyat verən, daim qalan yemək üçün işlər görün, onu sizə Bəşər Oğlu verəcək. Çünki Ata Allah Ona Öz möhürünü vurub».</verse>
+        <verse osisID='John.6.28'>Onlar İsadan soruşdular: «Allahın istədiyi işləri görmək üçün biz nə edək?»</verse>
+        <verse osisID='John.6.29'>İsa onlara cavab verdi: «Allahın istədiyi iş budur: Onun göndərdiyi Şəxsə iman edin». </verse>
+        <verse osisID='John.6.30'>Onlar İsaya dedilər: «Sən nə əlamət göstərərsən ki, görüb Sənə inanaq? Nə iş görəcəksən?</verse>
+        <verse osisID='John.6.31'>Ata-babalarımız çöldə manna yedi; bu barədə yazılıb: “Onlara yemək üçün göydən çörək verdi”».</verse>
+        <verse osisID='John.6.32'>Onda İsa onlara dedi: «Doğrusunu, doğrusunu sizə deyirəm: sizə göydən çörək verən Musa deyildi, göydən həqiqi çörəyi sizə verən Atamdır.</verse>
+        <verse osisID='John.6.33'>Çünki Allahın çörəyi budur ki, göydən enir və dünyaya həyat verir».</verse>
+        <verse osisID='John.6.34'>Ona dedilər: «Ağa, Sən daim bizə bu çörəyi ver». </verse>
+        <verse osisID='John.6.35'>İsa onlara dedi: «Həyat çörəyi Mənəm. Mənim yanıma gələn heç vaxt acmaz, Mənə iman edən heç vaxt susamaz.</verse>
+        <verse osisID='John.6.36'>Lakin sizə dedim ki, Məni görürsünüz, amma iman etmirsiniz.</verse>
+        <verse osisID='John.6.37'>Atanın Mənə verdiyi şəxslərin hamısı yanıma gələcək və yanıma gələni heç vaxt kənara atmaram.</verse>
+        <verse osisID='John.6.38'>Çünki Öz iradəmi deyil, Məni Göndərənin iradəsini yerinə yetirmək üçün göydən enmişəm.</verse>
+        <verse osisID='John.6.39'>Məni Göndərənin iradəsi budur ki, Mənə verdiyi şəxslərin heç birini həlak olmağa qoymayım, lakin son gündə onları dirildim.</verse>
+        <verse osisID='John.6.40'>Çünki Atamın iradəsi budur ki, Oğulu görüb Ona iman edən hər şəxs əbədi həyata malik olsun və Mən onu son gündə dirildim». </verse>
+        <verse osisID='John.6.41'>Bunun cavabında Yəhudilər İsanın «göydən enmiş çörək Mənəm» sözünə görə deyinib</verse>
+        <verse osisID='John.6.42'>dedilər: «Bu, ata-anasını tanıdığımız, Yusifin Oğlu olan İsa deyilmi? İndi necə olur ki, “göydən enmişəm” deyir?»</verse>
+        <verse osisID='John.6.43'>İsa onlara cavab verdi: «Öz-özünüzə deyinməyin.</verse>
+        <verse osisID='John.6.44'>Əgər Məni göndərən Ata bir kəsi cəzb etməsə, o Mənim yanıma gələ bilməz. Yanıma gələni isə Mən son gündə dirildəcəyəm.</verse>
+        <verse osisID='John.6.45'>Peyğəmbərlərin kitablarında yazılıb: “Onların hamısını Allah öyrədəcək”. Atadan eşidib öyrənən hər kəs Mənim yanıma gəlir.</verse>
+        <verse osisID='John.6.46'>Əlbəttə, Allahdan gələn Şəxsdən savayı Atanı heç kəs görməyib, yalnız O, Atanı görüb.</verse>
+        <verse osisID='John.6.47'>Doğrusunu, doğrusunu sizə deyirəm: iman edən əbədi həyata malikdir.</verse>
+        <verse osisID='John.6.48'>Həyat çörəyi Mənəm.</verse>
+        <verse osisID='John.6.49'>Ata-babalarınız çöldə manna yedilər və öldülər.</verse>
+        <verse osisID='John.6.50'>Bu isə göydən enən elə bir çörəkdir ki, ondan yeyən şəxs heç vaxt ölməz.</verse>
+        <verse osisID='John.6.51'>Göydən enmiş canlı çörək Mənəm. Əgər kimsə bu çörəkdən yesə, əbədi yaşayar. Dünyanın həyatı üçün verəcəyim çörək Öz ətimdir». </verse>
+        <verse osisID='John.6.52'>Bunun cavabında Yəhudilər «Bu Adam yemək üçün Öz ətini bizə necə verə bilər?» deyib bir-birləri ilə mübahisə etdilər.</verse>
+        <verse osisID='John.6.53'>Onda İsa onlara dedi: «Doğrusunu, doğrusunu sizə deyirəm: Bəşər Oğlunun ətindən yeyib qanından içməsəniz, daxilinizdə həyat olmayacaq.</verse>
+        <verse osisID='John.6.54'>Mənim ətimdən yeyib qanımdan içən əbədi həyata malikdir və Mən onu son gündə dirildəcəyəm.</verse>
+        <verse osisID='John.6.55'>Çünki Mənim ətim həqiqi yemək, qanım da həqiqi içkidir.</verse>
+        <verse osisID='John.6.56'>Mənim ətimdən yeyib qanımdan içən Məndə qalır, Mən də onda qalıram.</verse>
+        <verse osisID='John.6.57'>Var olan Ata Məni göndərdiyi kimi, Mən də Atanın sayəsində yaşadığım kimi Məndən yeyən də Mənim sayəmdə yaşayacaq.</verse>
+        <verse osisID='John.6.58'>Göydən enmiş çörək budur, ata-babalarınızın yediyi kimi deyil. Onlar öldülər, amma bu çörəyi yeyən əbədi yaşayacaq».</verse>
+        <verse osisID='John.6.59'>İsa bu sözləri Kefernahumda, sinaqoqda təlim öyrədərkən söylədi. </verse>
+        <verse osisID='John.6.60'>Şagirdlərindən bir çoxu bu sözləri eşidəndə dedi: «Bu söz qəlizdir. Bunu kim anlaya bilər?»</verse>
+        <verse osisID='John.6.61'>Lakin İsa şagirdlərinin buna görə deyindiklərini duyaraq onlara dedi: «Bu söz sizi büdrədirmi?</verse>
+        <verse osisID='John.6.62'>Yaxşı, bəs Bəşər Oğlunun əvvəllər olduğu yerə qalxdığını görsəniz, necə?</verse>
+        <verse osisID='John.6.63'>Həyat verən Ruhdur, cismani təbiətinsə heç faydası yoxdur. Sizə söylədiyim sözlər Ruh və həyat gətirir.</verse>
+        <verse osisID='John.6.64'>Lakin sizin aranızda iman etməyənlər də var». Çünki İsa iman etməyənlərin və Ona xəyanət edəcək adamın kim olduğunu əvvəlcədən bilirdi.</verse>
+        <verse osisID='John.6.65'>O dedi: «Buna görə də sizə söylədim ki, əgər Ata bir kəsə imkan verməsə, o Mənim yanıma gələ bilməz». </verse>
+        <verse osisID='John.6.66'>Bunlardan sonra şagirdlərinin çoxu İsadan ayrılıb daha Onunla gəzmirdi.</verse>
+        <verse osisID='John.6.67'>Onda İsa On İki şagirdə dedi: «Yoxsa siz də Məni tərk etmək istəyirsiniz?»</verse>
+        <verse osisID='John.6.68'>Şimon Peter Ona cavab verdi: «Ya Rəbb, biz kimin yanına gedək? Əbədi həyatın sözlərini söyləyən Sənsən.</verse>
+        <verse osisID='John.6.69'>Biz də iman etmişik və bilirik ki, Allahın Müqəddəsi Sənsən».</verse>
+        <verse osisID='John.6.70'>İsa onlara dedi: «Siz On İki şagirdi Mən seçmədimmi? Amma sizdən biri iblisdir».</verse>
+        <verse osisID='John.6.71'>O bu sözləri Şimon İskaryot oğlu Yəhuda barədə söylədi, çünki On İki şagirddən biri olduğu halda İsaya xəyanət edəcəkdi.  </verse>
+      </chapter>
+      <chapter osisID='John.7'>
+        <verse osisID='John.7.1'>
+          Bu hadisələrdən sonra İsa yalnız Qalileyada gəzirdi. Yəhudi başçılarının Onu öldürməyə çalışdıqlarına görə daha Yəhudeyada gəzmək istəmirdi.</verse>
+        <verse osisID='John.7.2'>Yəhudilərin Çardaqlar bayramı yaxınlaşırdı.</verse>
+        <verse osisID='John.7.3'>Qardaşları İsaya dedi: «Buradan çıxıb Yəhudeyaya get ki, şagirdlərin də etdiyin işləri görsün.</verse>
+        <verse osisID='John.7.4'>Çünki Özünü məşhur etməyə çalışan adam heç nəyi gizlicə etməz. Sən bunları edirsənsə, Özünü dünyaya tanıtdır».</verse>
+        <verse osisID='John.7.5'>Çünki qardaşları da Ona iman etmirdi.</verse>
+        <verse osisID='John.7.6'>Onda İsa onlara dedi: «Mənim vaxtım hələ gəlməyib, sizin üçünsə hər vaxt münasibdir.</verse>
+        <verse osisID='John.7.7'>Dünya sizə nifrət edə bilməz, amma Mənə nifrət edir, çünki Mən onun əməllərinin şər olduğuna şəhadət edirəm.</verse>
+        <verse osisID='John.7.8'>Siz bayrama gedin, Mənsə hələ vaxtım tamam olmadığı üçün bu bayrama getməyəcəyəm».</verse>
+        <verse osisID='John.7.9'>İsa bu sözləri söylədikdən sonra Qalileyada qaldı. </verse>
+        <verse osisID='John.7.10'>Ancaq Onun qardaşları bayrama gedəndən sonra O da açıq yox, gizlicə bayrama getdi.</verse>
+        <verse osisID='John.7.11'>Yəhudi başçıları bayramda İsanı axtararaq «O haradadır?» deyirdilər.</verse>
+        <verse osisID='John.7.12'>Camaat arasında Onun barəsində çoxlu dedi-qodu gəzirdi. Bəzisi «yaxşı adamdır», başqaları isə «xeyr, xalqı aldadır» deyirdi.</verse>
+        <verse osisID='John.7.13'>Lakin Yəhudi başçılarının qorxusundan heç kəs Onun barəsində açıq danışmırdı. </verse>
+        <verse osisID='John.7.14'>Artıq bayramın yarısı keçəndə İsa məbədə gedib təlim öyrətməyə başladı.</verse>
+        <verse osisID='John.7.15'>Yəhudi başçıları buna heyrətlənib dedilər: «Bu Adam yaxşı təhsil almadığı halda necə olub ki savadlıdır?»</verse>
+        <verse osisID='John.7.16'>İsa da onlara cavab verdi: «Öyrətdiyim təlim Mənim deyil, Məni Göndərənindir.</verse>
+        <verse osisID='John.7.17'>Kim Onun iradəsini yerinə yetirmək istəyirsə, təlimimin Allahdan olduğunu, yoxsa Özümdən söylədiyimi biləcək.</verse>
+        <verse osisID='John.7.18'>Özündən söyləyən öz izzətini axtarır, lakin Onu Göndərənə izzət axtaran Şəxs haqdır, Onda yalan olmaz.</verse>
+        <verse osisID='John.7.19'>Qanunu sizə Musa vermədimi? Amma heç biriniz Qanuna əməl etmirsiniz. Niyə Məni öldürməyə çalışırsınız?»</verse>
+        <verse osisID='John.7.20'>Xalq cavab verdi: «Səndə cin var. Kim Səni öldürməyə çalışır?»</verse>
+        <verse osisID='John.7.21'>İsa onlara dedi: «Mən bir iş gördüm və hamınız buna heyrətlənirsiniz.</verse>
+        <verse osisID='John.7.22'>Musa sizə sünnət etməyi buyurdu, amma Musa yox, ata-babalarınız bunun əsasını qoydu. Siz Şənbə günü də adamı sünnət edirsiniz.</verse>
+        <verse osisID='John.7.23'>Musanın Qanunu pozulmasın deyə Şənbə günü adam sünnət edilir; bəs Şənbə günü bir adamı tamam sağaltdığıma görə Mənə niyə qəzəblənirsiniz?</verse>
+        <verse osisID='John.7.24'>Zahirə görə mühakimə etməyin, ədalətlə mühakimə edin». </verse>
+        <verse osisID='John.7.25'>Onda Yerusəlimlilərin bəzisi dedi: «Öldürməyə çalışdıqları Bu deyilmi?</verse>
+        <verse osisID='John.7.26'>Budur, O açıq danışır, amma Ona bir söz demirlər. Bəlkə rəhbərlər, doğrudan da, Onun Məsih olduğunu öyrəndilər?</verse>
+        <verse osisID='John.7.27'>Ancaq bu adamın haradan olduğunu bilirik, halbuki Məsih gələndə Onun haradan olduğunu heç kəs bilməyəcək».</verse>
+        <verse osisID='John.7.28'>İsa məbəddə təlim öyrədərkən nida edib dedi: «Doğrudan da, Məni tanıyırsınızmı, haradan gəldiyimi bilirsinizmi? Mən Özümdən gəlmədim, lakin Məni Göndərən haqdır. Siz Onu tanımırsınız,</verse>
+        <verse osisID='John.7.29'>Mənsə Onu tanıyıram, çünki Ondan gəlmişəm və O Məni göndərdi».</verse>
+        <verse osisID='John.7.30'>Bu sözlərə görə İsanı tutmağa çalışdılar, lakin heç kəs Ona toxunmadı, çünki vaxtı hələ çatmamışdı.</verse>
+        <verse osisID='John.7.31'>Ancaq xalq arasından çoxu Ona iman edib dedi: «Məsih gələndə bu Adamın etdiklərindən çox əlamət göstərəcəkmi?» </verse>
+        <verse osisID='John.7.32'>Fariseylər xalqın İsa haqqında belə dedi-qodu etdiyini eşitdilər. Başçı kahinlər və fariseylər Onu tutmaq üçün mühafizəçilər göndərdi.</verse>
+        <verse osisID='John.7.33'>İsa dedi: «Bir az müddət də Mən sizinlə olacağam, sonra isə Məni Göndərənin yanına gedəcəyəm.</verse>
+        <verse osisID='John.7.34'>Siz Məni axtarıb tapmayacaqsınız və Mənim olacağım yerə gələ bilməzsiniz».</verse>
+        <verse osisID='John.7.35'>Bunun cavabında Yəhudilər öz aralarında dedilər: «Bu Adam hara gedəcək ki, Onu tapa bilməyəcəyik? Yunanlar arasına səpələnmiş Yəhudilərin yanına gedib Yunanlaramı təlim öyrədəcək?</verse>
+        <verse osisID='John.7.36'>“Siz Məni axtarıb tapmayacaqsınız və Mənim olacağım yerə siz gələ bilməzsiniz” sözü ilə nə demək istəyir?» </verse>
+        <verse osisID='John.7.37'>Bayramın sonuncu, təntənəli günündə İsa qalxıb nida edərək dedi: «Kim susayıbsa, yanıma gəlib içsin.</verse>
+        <verse osisID='John.7.38'>Müqəddəs Yazılarda deyildiyi kimi, Mənə iman edənin daxilindən həyat suyu axan çaylar çıxacaq».</verse>
+        <verse osisID='John.7.39'>Bunu Ona iman edənlərin alacaqları Ruh barədə söylədi. Ruh isə hələ yox idi, çünki İsa hələ izzətlənməmişdi. </verse>
+        <verse osisID='John.7.40'>Xalqın bir qismi bu sözləri eşidəndə «Bu, doğrudan da, gəlməli olan peyğəmbərdir» dedilər.</verse>
+        <verse osisID='John.7.41'>Başqaları isə «Bu, Məsihdir» söylədi, ancaq bəziləri dedi: «Nə? Məsih Qalileyadanmı gəlir?</verse>
+        <verse osisID='John.7.42'>Məgər Müqəddəs Yazılarda deyilmir ki, Məsih Davudun nəslindən, Davudun yaşadığı Bet-Lexem kəndindən gəlir?»</verse>
+        <verse osisID='John.7.43'>Beləcə İsa barədə xalq arasında fikir ayrılığı oldu.</verse>
+        <verse osisID='John.7.44'>Bəziləri Onu tutmaq istədi, amma heç kəs Ona toxunmadı. </verse>
+        <verse osisID='John.7.45'>Buna görə də mühafizəçilər başçı kahinlərin və fariseylərin yanına qayıtdılar. Onlar mühafizəçilərdən «Niyə Onu gətirmədiniz?» deyə soruşdu.</verse>
+        <verse osisID='John.7.46'>Mühafizəçilər cavab verdilər: «Hələ indiyəcən heç bir insan belə danışmayıb».</verse>
+        <verse osisID='John.7.47'>Fariseylər onlara dedilər: «Yoxsa sizi də aldadıb?</verse>
+        <verse osisID='John.7.48'>Gör bir rəhbər yaxud bir farisey Ona iman etdimi?</verse>
+        <verse osisID='John.7.49'>Bu Qanunu bilməyən xalqa gəlincə, onlar lənətə gəlib!»</verse>
+        <verse osisID='John.7.50'>Aralarından biri – bundan qabaq İsanın yanına gələn Nikodim onlara dedi:</verse>
+        <verse osisID='John.7.51'>«Qanunumuza görə, bir adama qulaq asmadan və nə etdiyini bilmədən onu mühakimə etmək doğrudurmu?»</verse>
+        <verse osisID='John.7.52'>Onlar Nikodimə dedi: «Bəlkə sən də Qalileyadansan? Araşdırsan, görərsən ki, Qalileyadan peyğəmbər çıxmaz». </verse>
+        <verse osisID='John.7.53'>Bundan sonra hər kəs öz evinə getdi.  </verse>
+      </chapter>
+      <chapter osisID='John.8'>
+        <verse osisID='John.8.1'>Lakin İsa Zeytun dağına getdi.</verse>
+        <verse osisID='John.8.2'>Səhər tezdən yenə məbədə gəldi. Bütün xalq Onun yanına toplaşdı, O da oturub onlara təlim öyrətməyə başladı.</verse>
+        <verse osisID='John.8.3'>İlahiyyatçılar və fariseylər zina üstündə tutulmuş bir qadını oraya gətirdilər. Onu ortaya çıxarıb</verse>
+        <verse osisID='John.8.4'>İsaya dedilər: «Müəllim, bu qadın zina edərkən əməlində yaxalandı.</verse>
+        <verse osisID='John.8.5'>Qanunda Musa bizə əmr edib ki, belələrini daşqalaq edək. Bəs Sən nə deyirsən?»</verse>
+        <verse osisID='John.8.6'>Bunu İsanı sınamaq üçün deyirdilər, Onu ittiham etmək üçün bəhanə axtarırdılar. Amma İsa əyilib barmağı ilə yerə yazı yazmağa başladı.</verse>
+        <verse osisID='John.8.7'>Ondan təkrar soruşduqları zaman dikəlib onlara dedi: «Sizdən kim günahsızdırsa, qadına birinci daş atsın».</verse>
+        <verse osisID='John.8.8'>Sonra yenə əyilib yerə yazı yazdı.</verse>
+        <verse osisID='John.8.9'>Bu sözləri eşidənlər başda ağsaqqallar olmaqla bir-bir oradan uzaqlaşdılar. İsanı tək qoydular, qadın da ortada idi.</verse>
+        <verse osisID='John.8.10'>İsa dikəlib ona dedi: «Qadın, onlar hara getdilər? Bəs heç kim səni məhkum etmədi?»</verse>
+        <verse osisID='John.8.11'>Qadın «heç kim, Ağa» dedi. Onda İsa dedi: «Mən də səni məhkum etmirəm, get, daha günah etmə».   </verse>
+        <verse osisID='John.8.12'>Sonra İsa yenə xalqa dedi: «Dünyanın nuru Mənəm. Mənim ardımca gələn heç vaxt qaranlıqda gəzməyəcək, həyat nuruna malik olacaq».</verse>
+        <verse osisID='John.8.13'>Fariseylər Ona dedilər: «Sən Öz barəndə şəhadət edirsən, Sənin şəhadətin etibarlı deyil».</verse>
+        <verse osisID='John.8.14'>İsa onlara cavab verdi: «Mən Öz barəmdə şəhadət etsəm də, şəhadətim etibarlıdır, çünki haradan gəlib hara gedəcəyimi bilirəm. Sizsə Mənim haradan gəlib hara gedəcəyimi bilmirsiniz.</verse>
+        <verse osisID='John.8.15'>Siz bəşər qaydalarına görə mühakimə edirsiniz, Mənsə heç kəsi mühakimə etmirəm.</verse>
+        <verse osisID='John.8.16'>Mən mühakimə etsəm də, verdiyim hökm doğrudur, çünki tək deyiləm, Məni göndərən Ata da Mənimlədir.</verse>
+        <verse osisID='John.8.17'>Sizin Qanununuzda da yazılıb ki, iki nəfərin şəhadəti etibarlıdır.</verse>
+        <verse osisID='John.8.18'>Mən Öz barəmdə şəhadət edirəm, Məni göndərən Ata da Mənim barəmdə şəhadət edir».</verse>
+        <verse osisID='John.8.19'>Onda İsadan soruşdular: «Atan haradadır?» İsa cavab verdi: «Siz nə Məni, nə də Atamı tanıyırsınız. Əgər Məni tanısaydınız, Atamı da tanıyardınız».</verse>
+        <verse osisID='John.8.20'>İsa bu sözləri məbəddə, nəzir qutuları olan yerdə təlim öyrədərkən söylədi. Heç kəs də Onu tutmadı, çünki vaxtı hələ gəlməmişdi. </verse>
+        <verse osisID='John.8.21'>Sonra İsa yenə onlara dedi: «Mən çıxıb gedirəm, siz Məni axtaracaqsınız və öz günahınız içində öləcəksiniz. Siz Mənim gedəcəyim yerə gələ bilməzsiniz».</verse>
+        <verse osisID='John.8.22'>Onda Yəhudilər dedilər: «Məgər O Özünü öldürəcək ki, “siz Mənim gedəcəyim yerə gələ bilməzsiniz” deyir?»</verse>
+        <verse osisID='John.8.23'>İsa onlara dedi: «Siz aşağıdansınız, Mən yuxarıdanam, siz bu dünyadansınız, Mənsə bu dünyadan deyiləm.</verse>
+        <verse osisID='John.8.24'>Buna görə də sizə “günahlarınız içində öləcəksiniz” dedim. Əgər inanmasanız ki, O Mənəm, günahlarınız içində öləcəksiniz».</verse>
+        <verse osisID='John.8.25'>Onda «Sən Kimsən?» deyə İsadan soruşdular. İsa onlara dedi: «Əvvəlcədən sizə nə söyləyirəmsə, Oyam.</verse>
+        <verse osisID='John.8.26'>Sizin barənizdə söyləyəcəyim və mühakimə edəcəyim çox şeylər var. Lakin Məni göndərən haqdır və Mən Ondan eşitdiklərimi dünyaya söyləyirəm».</verse>
+        <verse osisID='John.8.27'>İsanın onlara Ata barədə danışdığını anlamadılar.</verse>
+        <verse osisID='John.8.28'>Onda İsa dedi: «Bəşər Oğlunu yuxarı qaldırdığınız vaxt biləcəksiniz ki, O Mənəm və Özümdən bir şey etmirəm, ancaq Ata Mənə necə öyrədibsə, o cür danışıram.</verse>
+        <verse osisID='John.8.29'>Məni Göndərən Mənimlədir. O Məni tək qoymadı, çünki Mən daim Onun xoşuna gələnləri edirəm».</verse>
+        <verse osisID='John.8.30'>İsa bu sözləri söylədiyi zaman bir çox adam Ona iman etdi. </verse>
+        <verse osisID='John.8.31'>O zaman İsa Ona inanmış Yəhudilərə dedi: «Əgər siz Mənim sözümə sadiq qalsanız, həqiqətən, Mənim şagirdlərimsiniz.</verse>
+        <verse osisID='John.8.32'>Onda siz həqiqəti biləcəksiniz və həqiqət sizi azad edəcək».</verse>
+        <verse osisID='John.8.33'>Yəhudilər İsaya cavab verdilər: «Biz İbrahimin nəslindənik, heç kəsə heç vaxt kölə olmamışıq. Bəs Sən niyə “azad olacaqsınız” deyirsən?»</verse>
+        <verse osisID='John.8.34'>İsa onlara dedi: «Doğrusunu, doğrusunu sizə deyirəm: günah edən hər kəs günahın köləsidir.</verse>
+        <verse osisID='John.8.35'>Kölə evdə daim qalmaz, oğulsa daim qalar.</verse>
+        <verse osisID='John.8.36'>Buna görə də əgər Oğul sizi azad etsə, həqiqətən də, azad olacaqsınız.</verse>
+        <verse osisID='John.8.37'>İbrahimin nəslindən olduğunuzu bilirəm, ancaq bununla belə, Məni öldürməyə çalışırsınız. Çünki Mənim sözüm sizin ürəyinizdə yer tapmır.</verse>
+        <verse osisID='John.8.38'>Mən Atanın yanında gördüklərimi söyləyirəm, sizsə öz atanızdan eşitdiklərinizi yerinə yetirirsiniz». </verse>
+        <verse osisID='John.8.39'>Onlar İsanın cavabında «bizim atamız İbrahimdir» dedilər. İsa onlara dedi: «İbrahimin övladları olsaydınız, İbrahimin etdiyi əməlləri edərdiniz.</verse>
+        <verse osisID='John.8.40'>Sizsə indi Məni – Allahdan eşitdiyi həqiqəti sizə söyləyən Adamı öldürməyə çalışırsınız. İbrahim belə etmədi.</verse>
+        <verse osisID='John.8.41'>Siz öz atanızın əməllərini edirsiniz». Ona dedilər: «Biz zinadan doğulmamışıq, bizim bir Atamız var, O da Allahdır».</verse>
+        <verse osisID='John.8.42'>İsa onlara dedi: «Əgər Allah sizin Atanız olsaydı, Məni sevərdiniz, çünki Mən Allahdan çıxıb gəlmişəm və indi buradayam. Mən Özümdən gəlmədim, lakin O Məni göndərdi.</verse>
+        <verse osisID='John.8.43'>Söylədiyimi niyə anlamırsınız? Çünki Mənim sözümü dinləyə bilmirsiniz.</verse>
+        <verse osisID='John.8.44'>Siz atanız iblisdənsiniz və atanızın arzularını yerinə yetirmək istəyirsiniz. O, başlanğıcdan qatil idi və həqiqətə sadiq qalmadı, çünki onda həqiqət yoxdur. Yalan söyləyəndə öz xasiyyətinə görə söyləyir, çünki yalançıdır və yalanın atasıdır.</verse>
+        <verse osisID='John.8.45'>Mənsə həqiqəti söylədiyim üçün siz Mənə inanmırsınız.</verse>
+        <verse osisID='John.8.46'>Sizdən kim sübut edər ki, Mən bir günah etmişəm? Mən həqiqəti söyləyirəmsə, niyə Mənə inanmırsınız?</verse>
+        <verse osisID='John.8.47'>Allahdan olan şəxs Allahın sözlərini dinləyər. Sizsə dinləmirsiniz, çünki Allahdan deyilsiniz». </verse>
+        <verse osisID='John.8.48'>Yəhudilər cavabında Ona dedilər: «Sən Samariyalısan və Səndə cin var. Məgər doğru demirikmi?»</verse>
+        <verse osisID='John.8.49'>İsa cavab verdi: «Məndə cin yoxdur, amma Atama hörmət edirəm, sizsə Məni hörmətdən salırsınız.</verse>
+        <verse osisID='John.8.50'>Mən Özümə izzət axtarmıram, Mənə izzət axtaran və bu işi mühakimə edən Biri var.</verse>
+        <verse osisID='John.8.51'>Doğrusunu, doğrusunu sizə deyirəm: kim Mənim sözümə riayət edərsə, heç vaxt ölüm görməyəcək».</verse>
+        <verse osisID='John.8.52'>Yəhudilər Ona dedilər: «İndi bildik ki, Səndə cin var. İbrahim də öldü, peyğəmbərlər də. Amma Sən “kim Mənim sözümə riayət edərsə, heç vaxt ölməyəcək” deyirsən.</verse>
+        <verse osisID='John.8.53'>Yoxsa Sən atamız İbrahimdən də üstünsən? O da öldü, peyğəmbərlər də. Axı Sən Özünü kim sayırsan?»</verse>
+        <verse osisID='John.8.54'>İsa cavab verdi: «Əgər Mən Özümü izzətləndirirəmsə, Mənim izzətim heçdir, amma Məni izzətləndirən Atamdır. Siz Onun barəsində “Allahımızdır” deyirsiniz,</verse>
+        <verse osisID='John.8.55'>lakin Onu tanımırsınız. Mənsə Onu tanıyıram. Əgər “Onu tanımıram” desəydim, sizin kimi yalançı olardım. Lakin Mən Onu tanıyıram və sözünə riayət edirəm.</verse>
+        <verse osisID='John.8.56'>Atanız İbrahim Mənim günümü görəcəyi üçün şad oldu, görüb sevindi».</verse>
+        <verse osisID='John.8.57'>Buna görə Yəhudilər Ona dedilər: «Sənin heç əlli yaşın yoxdur, İbrahimi necə görmüsən?»</verse>
+        <verse osisID='John.8.58'>İsa onlara dedi: «Doğrusunu, doğrusunu sizə deyirəm: İbrahim olmazdan qabaq Var Olan Mənəm».</verse>
+        <verse osisID='John.8.59'>O zaman İsanı daşqalaq etmək üçün yerdən daş götürdülər, ancaq İsa gizləndi və məbəddən çıxdı.  </verse>
+      </chapter>
+      <chapter osisID='John.9'>
+        <verse osisID='John.9.1'>
+          İsa yolla gedərkən anadangəlmə kor bir adam gördü.</verse>
+        <verse osisID='John.9.2'>Şagirdləri Ondan soruşdu: «Rabbi, kim günah etdi ki, bu adam kor doğuldu: özü, yoxsa ata-anası?»</verse>
+        <verse osisID='John.9.3'>İsa cavab verdi: «Nə özü günah etdi, nə də ata-anası. Amma Allahın işləri onun həyatında görünsün deyə belə oldu.</verse>
+        <verse osisID='John.9.4'>Nə qədər ki gündüzdür, Məni Göndərənin işlərini görməliyik. Tezliklə gecə gəlir, o zaman heç kim işləyə bilməz.</verse>
+        <verse osisID='John.9.5'>Dünyada olduğum müddətdə dünyanın nuru Mənəm».</verse>
+        <verse osisID='John.9.6'>Bu sözləri deyəndən sonra yerə tüpürdü, tüpürcəklə palçıq düzəltdi və palçığı kor adamın gözlərinə sürtdü.</verse>
+        <verse osisID='John.9.7'>Sonra ona dedi: «Get, Şiloah hovuzunda yuyun». «Şiloah» «göndərilmiş» deməkdir. O da gedib yuyundu və gözləri açılmış halda qayıtdı.</verse>
+        <verse osisID='John.9.8'>Qonşuları və əvvəllər onu bir dilənçi kimi tanıyanlar deyirdilər: «Əvvəllər oturub dilənən adam bu deyilmi?»</verse>
+        <verse osisID='John.9.9'>Bəzisi «odur» dedi, bəzisi «xeyr, amma ona oxşayır» dedi. Özü isə «mənəm» dedi.</verse>
+        <verse osisID='John.9.10'>Ondan «Elə isə gözlərin necə açıldı?» deyə soruşdular.</verse>
+        <verse osisID='John.9.11'>O cavab verdi: «İsa deyilən Adam palçıq düzəldib gözlərimə sürtdü və mənə “Şiloah hovuzuna get, yuyun” dedi, mən də gedib yuyundum və gözlərim açıldı».</verse>
+        <verse osisID='John.9.12'>Ondan «Bəs İsa haradadır?» deyə soruşdular. O isə «bilmirəm» dedi. </verse>
+        <verse osisID='John.9.13'>Əvvəllər kor olan adamı fariseylərin yanına apardılar.</verse>
+        <verse osisID='John.9.14'>İsanın palçıq düzəldib onun gözlərini açdığı gün Şənbə günü idi.</verse>
+        <verse osisID='John.9.15'>Fariseylər o adamdan gözlərinin necə açıldığını soruşdular. O adam da onlara dedi: «O mənim gözlərimə palçıq qoydu, mən də yuyundum və indi görürəm».</verse>
+        <verse osisID='John.9.16'>Onda fariseylərdən bəzisi dedi: «Bu Adam Allahdan gəlməyib, çünki Şənbə gününə riayət etmir». Başqaları isə dedi: «Günahkar adam belə əlamətləri necə göstərə bilər?» Onların arasında fikir ayrılığı düşdü.</verse>
+        <verse osisID='John.9.17'>Onda yenə kor adamdan soruşdular: «Bəs sən bu Adam barədə nə deyirsən? Axı O sənin gözlərini açdı». Kor adam «O, peyğəmbərdir» dedi. </verse>
+        <verse osisID='John.9.18'>Yəhudi başçıları gözləri açılmış adamın ata-anasını çağırmayınca onun kor olub gözləri açıldığına inanmadılar.</verse>
+        <verse osisID='John.9.19'>Ata-anasından soruşdular: «Kor doğulduğunu söylədiyiniz oğlunuz budurmu? Elə isə necə olur ki, indi görür?»</verse>
+        <verse osisID='John.9.20'>Ata-anası dedi: «Bilirik ki, bu bizim oğlumuzdur və kor doğulub.</verse>
+        <verse osisID='John.9.21'>Ancaq bilmirik ki, indi necə görür ya gözlərini kim açıb. Özündən soruşun. Həddi-büluğa çatıb, qoy özü barədə özü danışsın».</verse>
+        <verse osisID='John.9.22'>Ata-anası Yəhudi başçılarından qorxduqları üçün bu sözləri söylədilər, çünki Yəhudi başçıları artıq qərara almışdılar ki, İsanın Məsih olduğunu iqrar edən hər kəs sinaqoqdan qovulsun.</verse>
+        <verse osisID='John.9.23'>Buna görə də o adamın ata-anası «həddi-büluğa çatıb, özündən soruşun» dedi. </verse>
+        <verse osisID='John.9.24'>Yəhudi başçıları əvvəllər kor olan adamı ikinci dəfə çağırıb ona dedilər: «Allahın izzəti naminə doğru söylə. Biz bu Adamın günahkar olduğunu bilirik».</verse>
+        <verse osisID='John.9.25'>O da cavab verdi: «O Adamın günahkar olub-olmadığını bilmirəm. Bir şeyi bilirəm ki, əvvəl kor idim, amma indi görürəm».</verse>
+        <verse osisID='John.9.26'>Ondan soruşdular: «O sənə nə etdi? Gözlərini necə açdı?»</verse>
+        <verse osisID='John.9.27'>Onlara cavab verdi: «İndicə sizə söylədim, amma qulaq asmadınız. Niyə bunu yenə eşitmək istəyirsiniz? Bəlkə siz də Onun şagirdi olmaq istəyirsiniz?»</verse>
+        <verse osisID='John.9.28'>Onu söyüb dedilər: «Onun şagirdi sənsən, bizsə Musanın şagirdləriyik.</verse>
+        <verse osisID='John.9.29'>Biz Allahın Musa ilə danışdığını bilirik, bu Adamınsa haradan gəldiyini bilmirik».</verse>
+        <verse osisID='John.9.30'>O adam onlara dedi: «Qəribədir ki, siz Onun haradan gəldiyini bilmirsiniz, amma O mənim gözlərimi açdı.</verse>
+        <verse osisID='John.9.31'>Allahın günahkarlara qulaq asmadığını bilirik, lakin mömin olub Allahın iradəsinə əməl edən adama Allah qulaq asır.</verse>
+        <verse osisID='John.9.32'>Əzəldən bəri eşidilməyib ki, kimsə anadangəlmə kor bir adamın gözlərini açsın.</verse>
+        <verse osisID='John.9.33'>Əgər bu Adam Allahdan gəlməsəydi, heç nə edə bilməzdi».</verse>
+        <verse osisID='John.9.34'>Onlar o adama cavab verdilər: «Başdan-ayağa günah içində doğuldun. İndi sənmi bizə dərs verirsən?» Onda onu bayıra atdılar. </verse>
+        <verse osisID='John.9.35'>O adamı bayıra atdıqlarını İsa eşitdi və onu tapıb dedi: «Sən Bəşər Oğluna iman edirsənmi?»</verse>
+        <verse osisID='John.9.36'>O soruşdu: «Ağa, O kimdir ki, Ona iman edim?»</verse>
+        <verse osisID='John.9.37'>İsa ona dedi: «İndi gördüyün və səninlə danışan Adam Odur».</verse>
+        <verse osisID='John.9.38'>O da «ya Rəbb, iman edirəm» dedi və İsaya səcdə etdi.</verse>
+        <verse osisID='John.9.39'>İsa dedi: «Mühakimə etmək üçün bu dünyaya gəldim ki, qoy görməyənlər görsün, görənlərsə kor olsun». </verse>
+        <verse osisID='John.9.40'>Onun yanında olan bəzi fariseylər bu sözləri eşidib «Yoxsa biz də koruq?» deyə Ondan soruşdular.</verse>
+        <verse osisID='John.9.41'>İsa onlara dedi: «Əgər kor olsaydınız, günahınız olmazdı. Amma indi “görürük” dediyiniz üçün günahınız üstünüzdə qalır.  </verse>
+      </chapter>
+      <chapter osisID='John.10'>
+        <verse osisID='John.10.1'>
+          Doğrusunu, doğrusunu sizə deyirəm: qoyun ağılına qapıdan girməyib başqa yerdən aşan oğru və quldurdur.</verse>
+        <verse osisID='John.10.2'>Amma qapıdan girən qoyunların çobanıdır.</verse>
+        <verse osisID='John.10.3'>Keşikçi qapını onun üzünə açar və qoyunlar onun səsinə qulaq asar. O da öz qoyunlarını adları ilə çağırar və onları çölə çıxarar.</verse>
+        <verse osisID='John.10.4'>Öz qoyunlarının hamısını çölə çıxarandan sonra onların önündə gedər və qoyunlar da ardınca gedər, çünki onun səsini tanıyırlar.</verse>
+        <verse osisID='John.10.5'>Amma yad adamın ardınca getməzlər, ondan qaçarlar, çünki yad adamların səsini tanımazlar».</verse>
+        <verse osisID='John.10.6'>İsa bu məsəli onlara söylədi, amma onlar İsanın sözlərinin mənasını anlamadılar. </verse>
+        <verse osisID='John.10.7'>İsa yenə onlara dedi: «Doğrusunu, doğrusunu sizə deyirəm: qoyunların qapısı Mənəm.</verse>
+        <verse osisID='John.10.8'>Məndən əvvəl gələnlərin hamısı oğru və quldur idi, amma qoyunlar onlara qulaq asmadı.</verse>
+        <verse osisID='John.10.9'>Qapı Mənəm, kim Məndən girərsə, xilas olar, girib-çıxar və özünə otlaq tapar.</verse>
+        <verse osisID='John.10.10'>Oğru yalnız qarət etmək, öldürmək və tələf etmək üçün gəlir. Mənsə gəldim ki, onlar həyata, bol həyata malik olsun.</verse>
+        <verse osisID='John.10.11'>Yaxşı çoban Mənəm, yaxşı çoban qoyunlar uğrunda canını qurban verər.</verse>
+        <verse osisID='John.10.12'>Qoyunların çobanı olmayan muzdur isə canavarın gəldiyini görəndə onları atıb qaçar, çünki qoyunların sahibi deyil. Canavar da onları qapıb pərən-pərən salar.</verse>
+        <verse osisID='John.10.13'>Muzdur qaçar, çünki muzdurdur, qoyunlar üçün qayğı çəkməz.</verse>
+        <verse osisID='John.10.14'>Yaxşı çoban Mənəm. Necə ki Ata Məni tanıyır və Mən Atanı tanıyıram, eləcə də özümünküləri tanıyıram, özümünkülər də Məni tanıyır. Mən quzular uğrunda canımı qurban verirəm.</verse>
+        <verse osisID='John.10.15'>Yaxşı çoban Mənəm. Necə ki Ata Məni tanıyır və Mən Atanı tanıyıram, eləcə də özümünküləri tanıyıram, özümünkülər də Məni tanıyır. Mən quzular uğrunda canımı qurban verirəm.</verse>
+        <verse osisID='John.10.16'>Bu ağıldan olmayan başqa quzularım var ki, onları da gətirməliyəm. Onlar da səsimi eşidəcək, beləcə tək sürü, tək Çoban olacaq. </verse>
+        <verse osisID='John.10.17'>Buna görə də Ata Məni sevir, çünki Mən canımı qurban verirəm ki, sonra onu geri alım.</verse>
+        <verse osisID='John.10.18'>Canımı Məndən heç kəs ala bilməz, amma onu Özüm verirəm. Onu verməyə də, sonra geri almağa da ixtiyarım var. Bu əmri Atamdan almışam». </verse>
+        <verse osisID='John.10.19'>Bu sözlər üstündə Yəhudilər arasında yenə fikir ayrılığı düşdü.</verse>
+        <verse osisID='John.10.20'>Onların çoxu dedi: «Onda cin var, dəlidir. Niyə Ona qulaq asırsınız?»</verse>
+        <verse osisID='John.10.21'>Başqaları isə dedilər: «Bunlar cinə tutulmuş adamın sözləri deyil. Cin heç kor adamın gözlərini aça bilərmi?» </verse>
+        <verse osisID='John.10.22'>O vaxt Yerusəlimdə Təqdis bayramı keçirilirdi. Qış idi.</verse>
+        <verse osisID='John.10.23'>İsa məbədin həyətində olan Süleymanın eyvanında gəzirdi.</verse>
+        <verse osisID='John.10.24'>Yəhudilər İsanın ətrafına yığılıb Ona dedilər: «Nə vaxta qədər ürəyimizi intizarda saxlayacaqsan? Əgər Sən Məsihsənsə, bizə açıq söylə».</verse>
+        <verse osisID='John.10.25'>İsa onlara cavab verdi: «Sizə söylədim, ancaq buna inanmırsınız. Atamın adı ilə gördüyüm işlər Mənim barəmdə şəhadət edir.</verse>
+        <verse osisID='John.10.26'>Amma siz inanmırsınız, çünki Mənim quzularımdan deyilsiniz.</verse>
+        <verse osisID='John.10.27'>Quzularım səsimi eşidir, Mən də onları tanıyıram və Mənim ardımca gəlirlər.</verse>
+        <verse osisID='John.10.28'>Mən onlara əbədi həyat verirəm. Onlar heç vaxt həlak olmayacaq və heç kim onları əlimdən qapmayacaq.</verse>
+        <verse osisID='John.10.29'>Onları Mənə verən Atam hamıdan böyükdür. Onları heç kim Atanın əlindən qapa bilməz.</verse>
+        <verse osisID='John.10.30'>Mən və Ata birik». </verse>
+        <verse osisID='John.10.31'>Yəhudilər yenə yerdən daş götürdülər ki, Onu daşqalaq etsinlər.</verse>
+        <verse osisID='John.10.32'>İsa onlara dedi: «Sizə Atadan gələn çoxlu yaxşı iş göstərdim. Siz bunların hansına görə Məni daşqalaq etmək istəyirsiniz?»</verse>
+        <verse osisID='John.10.33'>Yəhudilər Ona cavab verdilər: «Səni yaxşı işinə görə deyil, insan olduğun halda Özünü Allah sayaraq küfr etdiyinə görə daşqalaq edirik».</verse>
+        <verse osisID='John.10.34'>İsa onlara dedi: «Məgər sizin öz Qanununuzda yazılmayıb ki, “demişəm: ‹Siz allahlarsınız›”?</verse>
+        <verse osisID='John.10.35'>Allah Öz kəlamını göndərdiyi adamlara “allahlarsınız” deyir. Müqəddəs Yazı ki pozula bilməz.</verse>
+        <verse osisID='John.10.36'>Bəs siz niyə “Allahın Oğluyam” dediyim üçün Mənə – Atanın təqdis edib dünyaya göndərdiyi Şəxsə “küfr edirsən” deyirsiniz?</verse>
+        <verse osisID='John.10.37'>Əgər Atamın işlərini görmürəmsə, Mənə inanmayın.</verse>
+        <verse osisID='John.10.38'>Amma bu işləri görürəmsə, Mənə inanmasanız da, bunlara inanın. Onda Atanın Məndə, Mənim də Atada olduğumu anlayıb bilərsiniz».</verse>
+        <verse osisID='John.10.39'>Onlar yenə İsanı tutmağa çalışdı, amma O, əllərindən sıyrılıb çıxdı. </verse>
+        <verse osisID='John.10.40'>İsa yenə İordanın o biri sahilinə, Yəhyanın əvvəllər vəftiz etdiyi yerə getdi və orada qaldı.</verse>
+        <verse osisID='John.10.41'>Çoxlu adam Onun yanına gəlib dedi: «Yəhya heç bir əlamət göstərməsə də, onun bu Adam barədə dediyi bütün sözlər doğru çıxdı».</verse>
+        <verse osisID='John.10.42'>Bir çox adam da orada İsaya iman etdi.  </verse>
+      </chapter>
+      <chapter osisID='John.11'>
+        <verse osisID='John.11.1'>
+           Lazar adlı bir adam xəstələnmişdi. O, Məryəmlə bacısı Martanın yaşadığı Bet-Anya kəndindən idi.</verse>
+        <verse osisID='John.11.2'>Rəbbin üzərinə ətirli yağ çəkib ayaqlarını saçları ilə silən həmin Məryəm idi. Xəstələnən Lazar onun qardaşı idi.</verse>
+        <verse osisID='John.11.3'>Bu səbəbdən iki bacı «ya Rəbb, sevdiyin adam xəstədir» deyə İsaya xəbər göndərdi.</verse>
+        <verse osisID='John.11.4'>İsa bunu eşidib dedi: «Bu xəstəliyin nəticəsi ölüm yox, Allahın izzəti və Allah Oğlunun bununla izzət qazanması olacaq». </verse>
+        <verse osisID='John.11.5'>İsa Martanı, onun bacısını və Lazarı sevirdi.</verse>
+        <verse osisID='John.11.6'>Buna görə də Lazarın xəstələndiyini eşidəndə olduğu yerdə daha iki gün qaldı.</verse>
+        <verse osisID='John.11.7'>Sonra isə şagirdlərə «yenə Yəhudeyaya gedək» dedi.</verse>
+        <verse osisID='John.11.8'>Şagirdlər Ona dedilər: «Rabbi, oradakı Yəhudilər bir az əvvəl Səni daşqalaq etməyə çalışırdı. Sən yenə də oraya qayıdırsan?»</verse>
+        <verse osisID='John.11.9'>İsa cavab verdi: «Gündə on iki saat yoxdurmu? Kim gündüz vaxtı gəzərsə, büdrəməz, çünki bu dünyanın nurunu görür.</verse>
+        <verse osisID='John.11.10'>Lakin kim gecə vaxtı gəzərsə, büdrəyər, çünki daxilində nur yoxdur».</verse>
+        <verse osisID='John.11.11'>İsa bu sözləri söylədikdən sonra onlara dedi: «Dostumuz Lazar uyuyub. Mən onu oyatmaq üçün gedirəm».</verse>
+        <verse osisID='John.11.12'>Onda şagirdlər Ona dedilər: «Əgər uyuyubsa, sağalacaq».</verse>
+        <verse osisID='John.11.13'>İsa onun ölümü barədə danışmışdı, amma onlar elə bildilər ki, yuxuya getdiyini söyləyib.</verse>
+        <verse osisID='John.11.14'>Onda İsa onlara açıqca dedi: «Lazar ölüb.</verse>
+        <verse osisID='John.11.15'>Mən də sizin uğrunuzda, iman etməyiniz üçün orada olmadığıma sevinirəm. Amma gəlin onun yanına gedək».</verse>
+        <verse osisID='John.11.16'>«Əkiz» adlanan Tomas o biri şagirdlərə dedi: «Biz də gedək ki, Onunla ölək». </verse>
+        <verse osisID='John.11.17'>İsa gəlib Lazarın artıq dörd gündən bəri qəbirdə olduğunu bildi.</verse>
+        <verse osisID='John.11.18'>Bet-Anya ilə Yerusəlim arasında on beş stadi məsafə var idi.</verse>
+        <verse osisID='John.11.19'>Bir çox Yəhudi Marta və Məryəmə qardaşlarının ölümünə görə təsəlli verməyə gəlmişdi.</verse>
+        <verse osisID='John.11.20'>Marta İsanın gəldiyini eşidəndə Onu qarşılamağa çıxdı, ancaq Məryəm evdə oturmuşdu.</verse>
+        <verse osisID='John.11.21'>Marta İsaya dedi: «Ya Rəbb, əgər Sən burada olsaydın, qardaşım ölməzdi.</verse>
+        <verse osisID='John.11.22'>Ancaq bilirəm ki, Sən indi də Allahdan nə diləsən, O Sənə verəcək».</verse>
+        <verse osisID='John.11.23'>İsa ona «qardaşın diriləcək» dedi.</verse>
+        <verse osisID='John.11.24'>Marta Ona dedi: «Bilirəm ki, dirilmə zamanı, son gündə o da diriləcək».</verse>
+        <verse osisID='John.11.25'>İsa ona dedi: «Dirilmə və həyat Mənəm. Mənə iman edən ölsə də, yaşayar,</verse>
+        <verse osisID='John.11.26'>yaşayıb Mənə iman edən də heç vaxt ölməz. Buna inanırsanmı?»</verse>
+        <verse osisID='John.11.27'>Marta Ona cavab verdi: «Bəli, ya Rəbb, inanıram ki, dünyaya gəlməli olan Allahın Oğlu Məsih Sənsən». </verse>
+        <verse osisID='John.11.28'>Marta bunu söylədikdən sonra gedib bacısı Məryəmi gizlicə çağırdı və dedi: «Müəllim buradadır, səni çağırır».</verse>
+        <verse osisID='John.11.29'>Məryəm bunu eşidən kimi tez qalxıb İsanın yanına getdi.</verse>
+        <verse osisID='John.11.30'>İsa hələ kəndə girməyib Martanın Onu qarşıladığı yerdə qalmışdı.</verse>
+        <verse osisID='John.11.31'>Məryəmlə birgə evdə olan və ona təsəlli verən Yəhudilər qadının tez qalxıb bayıra çıxdığını görəndə elə bildilər ki, ağlamaq üçün qəbirin yanına gedir. Buna görə də onun ardınca getdilər.</verse>
+        <verse osisID='John.11.32'>Məryəm İsanın olduğu yerə gəlib Onu gördü və ayaqlarına düşüb dedi: «Ya Rəbb, əgər Sən burada olsaydın, qardaşım ölməzdi».</verse>
+        <verse osisID='John.11.33'>İsa onun və yanında gələn Yəhudilərin ağladığını görəndə əhvalı pozuldu və təlaşa düşdü.</verse>
+        <verse osisID='John.11.34'>İsa onlardan «Mərhumu haraya qoymusunuz?» deyə soruşdu. Ona «Ağa, gəl bax» dedilər.</verse>
+        <verse osisID='John.11.35'>İsa ağladı.</verse>
+        <verse osisID='John.11.36'>Onda Yəhudilər «Bax onu necə də sevirmiş!» söylədilər.</verse>
+        <verse osisID='John.11.37'>Lakin onlardan bəzisi dedi: «Korun gözlərini açan bu Şəxs bir şey edə bilməzdi ki, bu adam ölməsin?» </verse>
+        <verse osisID='John.11.38'>O zaman İsa yenə əhvalı pozulmuş halda qəbirin yanına gəldi. Qəbir bir mağara idi və ağzına daş qoyulmuşdu.</verse>
+        <verse osisID='John.11.39'>İsa «daşı götürün» dedi. Mərhumun bacısı Marta Ona dedi: «Ya Rəbb, artıq iylənib, çünki öldüyü dörd gündür».</verse>
+        <verse osisID='John.11.40'>İsa dedi: «Axı Mən sənə söyləmədimmi, iman etsən, Allahın izzətini görəcəksən?»</verse>
+        <verse osisID='John.11.41'>Beləcə daşı götürdülər. İsa da başını yuxarı qaldırıb dedi: «Ey Ata, Məni eşitdiyin üçün Sənə şükür edirəm.</verse>
+        <verse osisID='John.11.42'>Bilirəm ki, Məni həmişə eşidirsən. Lakin bunu ətrafımda duran xalq üçün söylədim ki, Məni Sən göndərdiyinə inansınlar».</verse>
+        <verse osisID='John.11.43'>Bu sözləri söylədikdən sonra «Lazar, bayıra çıx!» deyə bərkdən qışqırdı.</verse>
+        <verse osisID='John.11.44'>Ölü də bayıra çıxdı. Onun əl-ayağı sarğılarla və üzü dəsmalla bağlanmışdı. İsa onlara «onu açın və buraxın getsin» dedi. </verse>
+        <verse osisID='John.11.45'>Onda Məryəmin yanına gələn və İsanın nə etdiyini görən Yəhudilərin bir çoxu Ona iman etdi.</verse>
+        <verse osisID='John.11.46'>Lakin onlardan bəzisi fariseylərin yanına gedib İsanın nə etdiyini onlara danışdı. </verse>
+        <verse osisID='John.11.47'>Onda başçı kahinlər və fariseylər Ali Şuranı toplayıb dedilər: «Nə edək? Bu Adam çoxlu əlamət göstərir.</verse>
+        <verse osisID='John.11.48'>Əgər Ona mane olmasaq, hamı Ona iman edəcək. Romalılar da gəlib məbədimizi və millətimizi məhv edəcək».</verse>
+        <verse osisID='John.11.49'>Orada olanlardan biri, həmin il baş kahin olan Qayafa onlara dedi: «Siz heç nə bilmirsiniz.</verse>
+        <verse osisID='John.11.50'>Başa düşmürsünüz ki, bütün bu millətin məhv olmağındansa bir Adamın xalq uğrunda ölməsi sizin üçün daha yaxşıdır?»</verse>
+        <verse osisID='John.11.51'>O bu sözləri özündən söyləmədi, lakin o il baş kahin olduğu üçün peyğəmbərlik edib xəbər verdi ki, İsa bu millətin uğrunda –</verse>
+        <verse osisID='John.11.52'>təkcə millətin uğrunda deyil, Allahın hər tərəfə səpələnmiş övladlarını bir yerə toplamaq üçün öləcək.</verse>
+        <verse osisID='John.11.53'>Beləcə o gündən etibarən İsanı öldürməyi qərara aldılar. </verse>
+        <verse osisID='John.11.54'>Buna görə də İsa daha Yəhudilərin arasında açıq gəzmirdi. Oradan çöllüyə yaxın diyara, Efrayim adlanan şəhərə getdi və şagirdlərlə orada qaldı. </verse>
+        <verse osisID='John.11.55'>Yəhudilərin Pasxa bayramı yaxınlaşırdı. Çoxlu adam paklanmaq üçün Pasxadan qabaq kəndlərdən Yerusəlimə getdi.</verse>
+        <verse osisID='John.11.56'>Onlar İsanı axtarırdılar və məbəddə dayanıb bir-birlərinə deyirdilər: «Necə fikirləşirsiniz? O, bayrama heç gəlməyəcəkmi?»</verse>
+        <verse osisID='John.11.57'>Başçı kahinlər və fariseylər Onu tutmaq məqsədi ilə «harada olduğunu kim bilirsə, göstərsin» deyə əmr vermişdilər.  </verse>
+      </chapter>
+      <chapter osisID='John.12'>
+        <verse osisID='John.12.1'>
+          Pasxadan altı gün əvvəl İsa Bet-Anyaya gəldi. İsanın ölülər arasından diriltdiyi Lazar da orada idi.</verse>
+        <verse osisID='John.12.2'>Orada İsanın şərəfinə ziyafət verdilər. Marta xidmət edirdi. Lazar da İsa ilə birgə süfrə arxasında oturanların arasında idi.</verse>
+        <verse osisID='John.12.3'>Məryəm isə bir litra çox qiymətli xalis nard yağını götürərək İsanın ayaqlarına çəkib onları saçları ilə sildi. Yağın ətri evi bürüdü.</verse>
+        <verse osisID='John.12.4'>Lakin İsanın şagirdlərindən biri, Ona xəyanət edəcək Yəhuda İskaryot dedi:</verse>
+        <verse osisID='John.12.5'>«Nə üçün bu ətir üç yüz dinara satılıb yoxsullara verilmədi?»</verse>
+        <verse osisID='John.12.6'>Bu sözü yoxsulların qayğısına qaldığı üçün deyil, oğru olduğuna görə söylədi, çünki özündə olan pul qutusuna qoyulanların bir hissəsini oğurlayırdı.</verse>
+        <verse osisID='John.12.7'>Onda İsa dedi: «Qadını rahat burax, qoy bunu Mənim dəfn günüm üçün saxlasın.</verse>
+        <verse osisID='John.12.8'>Çünki yoxsullar həmişə sizin yanınızdadır, Mənsə həmişə yanınızda olmayacağam». </verse>
+        <verse osisID='John.12.9'>Yəhudilərdən böyük bir kütlə İsanın orada olduğunu öyrənəndə həm İsaya görə, həm də Onun ölülər arasından diriltdiyi Lazarı görmək üçün oraya gəldi.</verse>
+        <verse osisID='John.12.10'>Onda başçı kahinlər öz aralarında Lazarı da öldürməyi qərara aldılar.</verse>
+        <verse osisID='John.12.11'>Çünki Lazara görə çoxlu Yəhudi gedib İsaya iman edirdi. </verse>
+        <verse osisID='John.12.12'>Ertəsi gün bayrama gələn böyük kütlə İsanın Yerusəlimə gələcəyini eşidəndə</verse>
+        <verse osisID='John.12.13'>xurma budaqları götürərək Onu qarşılamağa çıxdı. Onlar  «Hosanna!Rəbbin ismi ilə gələn İsrailin Padşahına alqış olsun!»  deyə qışqırırdı.</verse>
+        <verse osisID='John.12.14'>İsa bir sıpa tapıb belinə mindi. Necə ki yazılıb:</verse>
+        <verse osisID='John.12.15'>«Ey Sion qızı, qorxma.Bax Padşahın bir sıpaya minib gəlir».</verse>
+        <verse osisID='John.12.16'>Şagirdləri o zaman bu şeyləri anlamadılar. Lakin İsa izzətlənəndən sonra barəsində bunun yazıldığını və xalqın Ona nə etdiyini yada saldılar.</verse>
+        <verse osisID='John.12.17'>İsanın Lazarı qəbirdən çağırıb ölülər arasından diriltdiyi zaman Onun yanında olan camaat buna şahid idi.</verse>
+        <verse osisID='John.12.18'>Xalq İsanın bu əlaməti göstərdiyini eşitmişdi, buna görə də Onu qarşılamağa çıxdı.</verse>
+        <verse osisID='John.12.19'>Bu səbəbdən fariseylər bir-birlərinə dedilər: «Baxın əlinizdən bir iş gəlmir. Artıq aləm Onun ardınca getdi». </verse>
+        <verse osisID='John.12.20'>Bayramda Yerusəlimə ibadətə gələnlər arasında bəzi Yunanlar da var idi.</verse>
+        <verse osisID='John.12.21'>Onlar Qalileyanın Bet-Sayda şəhərindən olan Filipin yanına gəlib «ağa, biz İsanı görmək istəyirik» deyə ondan xahiş etdilər.</verse>
+        <verse osisID='John.12.22'>Filip gəlib Andreyə söylədi, Andrey və Filip də birgə gəlib İsaya xəbər verdilər.</verse>
+        <verse osisID='John.12.23'>İsa cavabında dedi: «Bəşər Oğlunun izzətlənmək vaxtı gəldi.</verse>
+        <verse osisID='John.12.24'>Doğrusunu, doğrusunu sizə deyirəm: əgər bir buğda dənəsi torpağa düşüb ölmürsə, tək qalır, amma ölürsə, çoxlu məhsul verir.</verse>
+        <verse osisID='John.12.25'>Öz canını sevən kəs onu itirər, bu dünyada canı üçün qayğı çəkməyənsə onu əbədi həyat üçün qoruyar.</verse>
+        <verse osisID='John.12.26'>Kim Mənə xidmət etmək istəsə, ardımca gəlsin. Mən harada olacağamsa, Mənim xidmətçim də orada olacaq. Kim Mənə xidmət etsə, Ata ona hörmət edəcək. </verse>
+        <verse osisID='John.12.27'>İndi ürəyim təlaş keçirir. Nə deyim? “Ey Ata, Məni bu andan xilas et” deyimmi? Lakin Mən elə bu an üçün gəldim.</verse>
+        <verse osisID='John.12.28'>Ey Ata, Öz adını izzətləndir!» Bunun cavabında göydən «Öz adımı izzətləndirdim, yenə də izzətləndirəcəyəm» deyə bir səs gəldi.</verse>
+        <verse osisID='John.12.29'>Orada duran xalqın bir qismi «göy guruldadı» dedi, başqaları isə «Onunla bir mələk danışdı» söylədi.</verse>
+        <verse osisID='John.12.30'>İsa cavab verdi: «Bu səs Mənim üçün deyil, sizin üçün gəldi.</verse>
+        <verse osisID='John.12.31'>İndi isə bu dünyaya hökm veriləcək və bu dünyanın hökmdarı bayıra atılacaq.</verse>
+        <verse osisID='John.12.32'>Mən yerdən yuxarı qaldırılsam, bütün insanları Özümə cəzb edəcəyəm».</verse>
+        <verse osisID='John.12.33'>İsa bu sözü söyləməklə necə bir ölümlə öləcəyinə işarə etdi.</verse>
+        <verse osisID='John.12.34'>Xalq Onun cavabında dedi: «Qanundan eşitdiyimizə görə Məsih əbədi qalacaq. Bəs Sən niyə “Bəşər Oğlu yuxarı qaldırılmalıdır” deyirsən? Bu Bəşər Oğlu kimdir?»</verse>
+        <verse osisID='John.12.35'>Onda İsa onlara dedi: «Qısa bir müddət də nur sizin aranızda olacaq. Nurunuz olarkən gəzin ki, sizi qaranlıq tutmasın. Çünki qaranlıqda gəzən hara getdiyini bilməz.</verse>
+        <verse osisID='John.12.36'>Nurunuz var ikən nura iman edin ki, nur övladları olasınız».  İsa bu sözləri söyləyəndən sonra gedib onlardan gizləndi.</verse>
+        <verse osisID='John.12.37'>Onların qabağında bu qədər əlamət göstərdiyi halda yenə Ona iman etmirdilər.</verse>
+        <verse osisID='John.12.38'>Bunlar ona görə baş verdi ki, Yeşaya peyğəmbərin bu sözləri yerinə yetsin:  «Ya Rəbb, xəbərimizə kim inandı,Rəbbin gücü kimə zühur oldu?»</verse>
+        <verse osisID='John.12.39'>Onlar iman edə bilmirdilər, ona görə ki Yeşaya başqa yerdə deyib:</verse>
+        <verse osisID='John.12.40'>«Allah onların gözlərini kor etdiVə ürəklərini kütləşdirdi ki,Gözləri ilə görməsinlər,Ürəkləri ilə anlamasınlarVə Mənə sarı dönməsinlər ki,Mən onlara şəfa verim».</verse>
+        <verse osisID='John.12.41'>Yeşaya İsanın ehtişamını gördüyü üçün bu sözləri deyərək Onun barəsində danışıb.</verse>
+        <verse osisID='John.12.42'>Bununla bərabər, rəhbərlərdən bir çoxu İsaya iman etdi, lakin sinaqoqdan qovulmasınlar deyə fariseylərə görə bunu açıq bildirmədilər.</verse>
+        <verse osisID='John.12.43'>Çünki insanlardan izzət qazanmağı Allahdan izzət almaqdan artıq sevdilər. </verse>
+        <verse osisID='John.12.44'>İsa nida edib dedi: «Mənə iman edən Mənə deyil, Məni Göndərənə iman edir.</verse>
+        <verse osisID='John.12.45'>Məni görən də Məni Göndərəni görür.</verse>
+        <verse osisID='John.12.46'>Mən dünyaya nur olub gəldim ki, Mənə iman edən hər kəs qaranlıqda qalmasın.</verse>
+        <verse osisID='John.12.47'>Kim sözlərimi eşidib onlara riayət etməzsə, Mən onu mühakimə etmərəm, çünki dünyanı mühakimə etmək üçün deyil, onu xilas etmək üçün gəldim.</verse>
+        <verse osisID='John.12.48'>Məni rədd edib sözlərimi qəbul etməyəni mühakimə edən bir şey var: bu da Mənim söylədiyim sözdür ki, son gündə onu mühakimə edəcək.</verse>
+        <verse osisID='John.12.49'>Çünki Mən Özümdən söyləmədim, Məni göndərən Ata nə deyəcəyim və nə söyləyəcəyim haqqında Mənə əmr verdi.</verse>
+        <verse osisID='John.12.50'>Mən bilirəm ki, Onun əmri əbədi həyatdır. Beləcə Mənim söylədiklərimi Ata Mənə necə dedisə, eləcə də söyləyirəm».  </verse>
+      </chapter>
+      <chapter osisID='John.13'>
+        <verse osisID='John.13.1'>
+          Pasxa bayramı ərəfəsi idi. İsa artıq bu dünyadan ayrılıb Atanın yanına gedəcəyi məqamın gəldiyini bilirdi. O, dünyada Özünə məxsus olanları həmişə sevmişdi və axıra qədər də sevdi.</verse>
+        <verse osisID='John.13.2'>Axşam yeməyi zamanı iblis artıq Ona xəyanət etmək fikrini Şimon İskaryot oğlu Yəhudanın ürəyinə qoymuşdu.</verse>
+        <verse osisID='John.13.3'>İsa Atanın hər şeyi Onun ixtiyarına verdiyini, Allahdan gəldiyini və Allahın yanına qayıdacağını bilirdi.</verse>
+        <verse osisID='John.13.4'>O, süfrədən qalxıb üst paltarını bir yana qoydu və bir dəsmal götürüb belinə bağladı.</verse>
+        <verse osisID='John.13.5'>Sonra ləyənə su töküb şagirdlərin ayaqlarını yumağa və belinə bağladığı dəsmalla silməyə başladı.</verse>
+        <verse osisID='John.13.6'>İsa Şimon Peterə yaxınlaşanda o, İsaya «Ya Rəbb, Sənmi mənim ayaqlarımı yuyacaqsan?» dedi.</verse>
+        <verse osisID='John.13.7'>İsa cavabında ona dedi: «Mənim nə etdiyimi sən indi bilməzsən, amma sonra anlayacaqsan».</verse>
+        <verse osisID='John.13.8'>Peter Ona dedi: «Mənim ayaqlarımı heç vaxt yumayacaqsan!» İsa ona cavab verdi: «Əgər səni yumasam, Mənim yanımda yerin olmaz».</verse>
+        <verse osisID='John.13.9'>Şimon Peter Ona dedi: «Ya Rəbb, təkcə ayaqlarımı deyil, əllərimi və başımı da yu».</verse>
+        <verse osisID='John.13.10'>İsa ona dedi: «Çimmiş adam üçün təkcə ayaqlarını yumaq kifayətdir, çünki başdan-başa təmizdir. Siz də təmizsiniz, amma hamınız yox».</verse>
+        <verse osisID='John.13.11'>Çünki Ona kimin xəyanət edəcəyini bilirdi, buna görə də «hamınız təmiz deyilsiniz» söylədi. </verse>
+        <verse osisID='John.13.12'>İsa onların ayaqlarını yuduqdan sonra paltarını geyindi və yenə süfrəyə oturaraq onlara dedi: «Mənim sizə nə etdiyimi bilirsinizmi?</verse>
+        <verse osisID='John.13.13'>Siz Məni “Müəllim” və “Rəbb” deyə çağırırsınız və doğru deyirsiniz, çünki Mən elə Oyam.</verse>
+        <verse osisID='John.13.14'>İndi ki Mən Rəbb və Müəllim olduğum halda sizin ayaqlarınızı yudum, siz də bir-birinizin ayaqlarını yumalısınız.</verse>
+        <verse osisID='John.13.15'>Çünki sizə nümunə göstərdim ki, Mənim sizə etdiyimi siz də bir-birinizə edəsiniz.</verse>
+        <verse osisID='John.13.16'>Doğrusunu, doğrusunu sizə deyirəm: qul ağasından, elçi də onu göndərəndən üstün deyil.</verse>
+        <verse osisID='John.13.17'>Əgər bu şeyləri bilib onlara əməl edirsinizsə, bəxtiyarsınız. </verse>
+        <verse osisID='John.13.18'>Hamınız barədə söyləmirəm. Mən Öz seçdiklərimi tanıyıram. Amma qoy “çörəyimi yeyən Mənə xəyanət etdi” deyən Müqəddəs Yazı yerinə yetsin.</verse>
+        <verse osisID='John.13.19'>İndi bu şeylər baş verməzdən əvvəl sizə bunları söyləyirəm ki, baş verəndə inanasınız: O Mənəm.</verse>
+        <verse osisID='John.13.20'>Doğrusunu, doğrusunu sizə deyirəm: Mənim göndərdiyim bir nəfəri qəbul edən şəxs Məni qəbul edər, Məni qəbul edən də Məni Göndərəni qəbul edər». </verse>
+        <verse osisID='John.13.21'>İsa bu sözləri söylədikdən sonra ürəyi təlaşa düşdü və şəhadət edib dedi: «Doğrusunu, doğrusunu sizə deyirəm: sizlərdən biri Mənə xəyanət edəcək».</verse>
+        <verse osisID='John.13.22'>Şagirdlər Onun kimin barəsində danışdığını bilməyib çaşqınlıq içində qalaraq bir-birlərinə baxırdılar.</verse>
+        <verse osisID='John.13.23'>Şagirdlərindən biri – İsanın sevimli şagirdi Onun köksünə sığınmışdı.</verse>
+        <verse osisID='John.13.24'>Şimon Peter həmin şagirdə işarə etdi ki, kimin barəsində danışdığını Ondan soruşsun.</verse>
+        <verse osisID='John.13.25'>Həmin şagird İsanın sinəsinə əyilərək Ondan soruşdu: «Ya Rəbb, o kimdir?»</verse>
+        <verse osisID='John.13.26'>İsa cavab verdi: «Bu çörək tikəsini batırıb kimə versəm, odur». Tikəni batırıb Şimon İskaryot oğlu Yəhudaya verdi.</verse>
+        <verse osisID='John.13.27'>Yəhuda tikəni alan kimi Şeytan onun içinə girdi. İsa ona «Nə edəcəksənsə, tez et!» dedi.</verse>
+        <verse osisID='John.13.28'>İsanın bunu niyə ona söylədiyini süfrədə oturanların heç biri başa düşmədi.</verse>
+        <verse osisID='John.13.29'>Pul qutusu Yəhudada olduğu üçün bəziləri güman etdi ki, İsa ona «bayrama bizə lazım olan şeyləri al» yaxud «yoxsullara bir şey ver» deyir.</verse>
+        <verse osisID='John.13.30'>Yəhuda tikəni alan kimi dərhal bayıra çıxdı. Artıq gecə idi. </verse>
+        <verse osisID='John.13.31'>O çıxandan sonra İsa dedi: «İndi Bəşər Oğlu izzətləndi və Allah da Onda izzətləndi.</verse>
+        <verse osisID='John.13.32'>İndi ki Allah Onda izzətləndi, Allah da Onu Özündə izzətləndirəcək, tezliklə izzətləndirəcək.</verse>
+        <verse osisID='John.13.33'>Ey övladlarım! Az bir müddət də sizinlə olacağam. Siz Məni axtaracaqsınız. Yəhudilərə “Mənim getdiyim yerə siz gələ bilməzsiniz” dediyim kimi indi sizə də bunu söyləyirəm.</verse>
+        <verse osisID='John.13.34'>Sizə yeni bir əmr verirəm: bir-birinizi sevin, Mən sizi sevdiyim kimi siz də bir-birinizi sevin.</verse>
+        <verse osisID='John.13.35'>Əgər bir-birinizə məhəbbətiniz olsa, bütün insanlar biləcək ki, siz Mənim şagirdlərimsiniz». </verse>
+        <verse osisID='John.13.36'>Şimon Peter İsadan soruşdu: «Ya Rəbb, hara gedirsən?» İsa cavab verdi: «Getdiyim yerə indi ardımca gələ bilməzsən, amma sonra ardımca gələcəksən».</verse>
+        <verse osisID='John.13.37'>Peter Ona dedi: «Ya Rəbb, niyə indi ardınca gələ bilmərəm? Sənin üçün canımı qurban verərəm».</verse>
+        <verse osisID='John.13.38'>İsa ona dedi: «Mənim üçün canını qurban verərsənmi? Doğrusunu, doğrusunu sənə deyirəm: xoruz banlamazdan əvvəl sən Məni üç dəfə inkar edəcəksən.  </verse>
+      </chapter>
+      <chapter osisID='John.14'>
+        <verse osisID='John.14.1'>
+          Qoy ürəyiniz təlaşa düşməsin. Allaha iman edin, Mənə də iman edin.</verse>
+        <verse osisID='John.14.2'>Atamın evində çoxlu məskən var. Əgər olmasaydı, sizə deyərdim ki, sizin üçün yer hazırlamağa gedirəm?</verse>
+        <verse osisID='John.14.3'>Gedib sizin üçün yer hazırlayandan sonra yenə gəlib sizi Öz yanıma götürəcəyəm ki, Mənim olduğum yerdə siz də olasınız.</verse>
+        <verse osisID='John.14.4'>Gedəcəyim yerə aparan yolu tanıyırsınız». </verse>
+        <verse osisID='John.14.5'>Tomas İsaya dedi: «Ya Rəbb, hara gedəcəyini bilmirik, yolu necə tanıya bilərik?»</verse>
+        <verse osisID='John.14.6'>İsa ona dedi: «Yol, həqiqət və həyat Mənəm. Mənim vasitəm olmadan heç kim Atanın yanına gələ bilməz.</verse>
+        <verse osisID='John.14.7'>Əgər Məni tanısaydınız, Atamı da tanıyardınız. İndidən siz Onu tanıyırsınız, Onu görmüsünüz».</verse>
+        <verse osisID='John.14.8'>Filip Ona dedi: «Ya Rəbb, Atanı bizə göstər, bu bizim üçün kifayətdir».</verse>
+        <verse osisID='John.14.9'>İsa ona dedi: «Xeyli müddətdir ki, Mən sizinləyəm, Məni tanımadınmı, Filip? Məni görən, Atanı görmüş olur. Bəs sən niyə “Atanı bizə göstər” deyirsən?</verse>
+        <verse osisID='John.14.10'>Mənim Atada, Atanın da Məndə olduğuna inanmırsanmı? Sizə söylədiyim sözləri Özümdən söyləmirəm, Məndə olan Ata Öz işlərini görür.</verse>
+        <verse osisID='John.14.11'>Mən Atadayam, Ata da Məndədir, bu sözümə inanın. Heç olmasa o işlərə görə inanın.</verse>
+        <verse osisID='John.14.12'>Doğrusunu, doğrusunu sizə deyirəm: Mənə iman edən şəxs Mənim etdiyim işləri özü də edəcək, hətta bunlardan da artığını edəcək. Çünki Mən Atanın yanına gedirəm</verse>
+        <verse osisID='John.14.13'>və Mənim adımla hər nə diləsəniz, onu edəcəyəm ki, Ata Oğulda izzətlənsin.</verse>
+        <verse osisID='John.14.14'>Əgər Mənim adımla Məndən bir şey diləsəniz, onu edəcəyəm. </verse>
+        <verse osisID='John.14.15'>Əgər Məni sevirsinizsə, əmrlərimə riayət edəcəksiniz.</verse>
+        <verse osisID='John.14.16'>Mən də Atadan xahiş edəcəyəm və O sizə başqa bir Vəsatətçi göndərəcək ki, daim sizinlə olsun.</verse>
+        <verse osisID='John.14.17'>O, həqiqət Ruhudur. Onu dünya qəbul edə bilməz, çünki Onu nə görür, nə də tanıyır. Sizsə Onu tanıyırsınız, çünki sizinlə qalır və daxilinizdə olacaq.</verse>
+        <verse osisID='John.14.18'>Sizi yetim qoymaram, yanınıza gələcəyəm.</verse>
+        <verse osisID='John.14.19'>Az bir müddətdən sonra dünya daha Məni görməyəcək, amma siz Məni görəcəksiniz. Mən yaşadığım üçün siz də yaşayacaqsınız.</verse>
+        <verse osisID='John.14.20'>O gün biləcəksiniz ki, Mən Atamdayam, siz Məndəsiniz və Mən sizdəyəm.</verse>
+        <verse osisID='John.14.21'>Kim əmrlərimə bağlı qalıb onlara riayət edirsə, Məni sevən odur. Məni sevəni Atam sevəcək. Mən də onu sevib Özümü ona zahir edəcəyəm». </verse>
+        <verse osisID='John.14.22'>İskaryot deyil, o biri Yəhuda Ona dedi: «Ya Rəbb, necə olacaq ki, Özünü dünyaya deyil, bizə zahir edəcəksən?»</verse>
+        <verse osisID='John.14.23'>İsa ona cavab verdi: «Kim Məni sevsə, sözümə riayət edər, Atam da onu sevər və Biz onun yanına gəlib onunla məskən salarıq.</verse>
+        <verse osisID='John.14.24'>Məni sevməyənsə sözlərimə riayət etməz. Eşitdiyiniz söz Mənim deyil, Məni göndərən Atanın sözüdür. </verse>
+        <verse osisID='John.14.25'>Hələ yanınızda qalarkən sizə bu sözləri söylədim.</verse>
+        <verse osisID='John.14.26'>Lakin Vəsatətçi – Atanın Mənim adımla göndərəcəyi Müqəddəs Ruh hər şeyi sizə öyrədəcək və söylədiyim bütün sözləri yadınıza salacaq.</verse>
+        <verse osisID='John.14.27'>Aranızda sülh qoyub gedirəm, Öz sülhümü sizə verirəm. Mən onu sizə dünyanın verdiyi kimi vermirəm. Qoy ürəyiniz təlaşa düşməsin və qorxmayın.</verse>
+        <verse osisID='John.14.28'>Sizə “indi gedirəm, sonra yenə yanınıza gələcəyəm” söylədiyimi eşitdiniz. Əgər Məni sevsəydiniz, Atanın yanına gedəcəyimə sevinərdiniz, çünki Ata Məndən üstündür.</verse>
+        <verse osisID='John.14.29'>Bunu indi öncədən sizə söylədim ki, baş verəndə buna inanasınız.</verse>
+        <verse osisID='John.14.30'>Daha sizinlə çox danışmayacağam, çünki bu dünyanın hökmdarı gəlir. Onun Mənim üzərimdə heç bir səlahiyyəti yoxdur.</verse>
+        <verse osisID='John.14.31'>Ancaq dünya bilməlidir ki, Mən Atanı sevirəm və Ata Mənə nə əmr etdisə, ona əməl edirəm. İndi isə qalxın buradan gedək.  </verse>
+      </chapter>
+      <chapter osisID='John.15'>
+        <verse osisID='John.15.1'>
+          Mən həqiqi Meynəyəm, Atam da Bağbandır.</verse>
+        <verse osisID='John.15.2'>Məndə olub bəhrə verməyən hər budağı Atam qoparır. Bəhrə verən hər budağı isə budayıb təmizləyir ki, daha çox bəhrə versin.</verse>
+        <verse osisID='John.15.3'>Sizə söylədiyim söz sayəsində siz artıq təmizsiniz.</verse>
+        <verse osisID='John.15.4'>Məndə qalın, Mən də sizdə qalım. Budaq meynədə qalmasa, özündən bəhrə vermədiyi kimi siz də Məndə qalmasanız, bəhrə verə bilməzsiniz.</verse>
+        <verse osisID='John.15.5'>Meynə Mənəm, sizsə budaqlarsınız. Kim Məndə qalsa, Mən də onda qalsam, çoxlu bəhrə verər, çünki Mənsiz heç nə edə bilməzsiniz.</verse>
+        <verse osisID='John.15.6'>Kim Məndə qalmasa, budaq kimi kənara atılıb quruyar. Belə budaqlar yığılıb oda atılaraq yanar.</verse>
+        <verse osisID='John.15.7'>Əgər Məndə qalsanız və sözlərim sizdə qalsa, nə istəyirsinizsə, diləyin, sizə veriləcək.</verse>
+        <verse osisID='John.15.8'>Sizin çoxlu bəhrə verərək Mənim şagirdlərim olmağınızla Atam izzətlənir.</verse>
+        <verse osisID='John.15.9'>Ata Məni sevdiyi kimi Mən də sizi sevdim. Mənim məhəbbətimdə qalın.</verse>
+        <verse osisID='John.15.10'>Əgər əmrlərimə riayət etsəniz, Mənim məhəbbətimdə qalacaqsınız, necə ki Mən Atamın əmrlərinə riayət edərək Onun məhəbbətində qalıram. </verse>
+        <verse osisID='John.15.11'>Bu sözləri sizə söylədim ki, sevincim sizdə olsun və sevinciniz kamil olsun.</verse>
+        <verse osisID='John.15.12'>Mənim əmrim belədir: Mən sizi sevdiyim kimi siz də bir-birinizi sevin.</verse>
+        <verse osisID='John.15.13'>Heç kəsin məhəbbəti dostları uğrunda canını qurban verən adamın məhəbbətindən üstün ola bilməz.</verse>
+        <verse osisID='John.15.14'>Əgər sizə əmr etdiyim şeylərə əməl etsəniz, siz Mənim dostlarımsınız.</verse>
+        <verse osisID='John.15.15'>Artıq sizə qul demirəm, çünki qul ağasının nə etdiyini bilmir. Mən sizə dost deyirəm, çünki Atamdan eşitdiyim bütün sözləri sizə bildirdim.</verse>
+        <verse osisID='John.15.16'>Siz Məni seçmədiniz, Mən sizi seçib təyin etdim ki, gedib bəhrə verəsiniz və bəhrəniz çox qalsın. Beləcə Mənim adımla Atadan nə diləyirsinizsə, O sizə verəcək.</verse>
+        <verse osisID='John.15.17'>Beləliklə, sizə əmr edirəm: bir-birinizi sevin. </verse>
+        <verse osisID='John.15.18'>Əgər dünya sizə nifrət edərsə, onda yada salın ki, sizdən əvvəl Mənə nifrət edib.</verse>
+        <verse osisID='John.15.19'>Əgər dünyadan olsaydınız, dünya özündən olan sizləri sevərdi. Amma siz dünyadan deyilsiniz, Mən sizi dünyadan seçdim, buna görə dünya sizə nifrət edir.</verse>
+        <verse osisID='John.15.20'>Mənim sizə söylədiyim sözü yadınıza salın: “Qul ağasından üstün deyil”. Əgər Məni təqib etdilərsə, sizi də təqib edəcəklər, Mənim sözümə riayət etdilərsə, sizin də sözünüzə riayət edəcəklər.</verse>
+        <verse osisID='John.15.21'>Lakin bunların hamısını sizə Mənim adıma görə edəcəklər, çünki Məni Göndərəni tanımırlar.</verse>
+        <verse osisID='John.15.22'>Əgər gəlib onlara söyləməsəydim, günahları olmazdı, amma indi günahları üçün bəhanələri yoxdur.</verse>
+        <verse osisID='John.15.23'>Mənə nifrət edən Atama da nifrət edir.</verse>
+        <verse osisID='John.15.24'>Əgər Məndən başqa heç kəsin etmədiyi işləri onların arasında etməsəydim, günahları olmazdı. Amma indi Mənim nə etdiyimi gördülər, həm Mənə, həm də Atama nifrət etdilər.</verse>
+        <verse osisID='John.15.25'>Lakin bu ona görə baş verdi ki, öz Qanunlarında yazılan “Mənə nahaqdan nifrət etdilər” sözü yerinə yetsin. </verse>
+        <verse osisID='John.15.26'>Atadan sizə göndərəcəyim Vəsatətçi – Atanın yanından çıxan həqiqət Ruhu gəldiyi zaman Mənim barəmdə şəhadət edəcək.</verse>
+        <verse osisID='John.15.27'>Siz də şəhadət edəcəksiniz, çünki başlanğıcdan Mənimlə birlikdəsiniz.  </verse>
+      </chapter>
+      <chapter osisID='John.16'>
+        <verse osisID='John.16.1'>Büdrəməyəsiniz deyə bunları sizə söylədim.</verse>
+        <verse osisID='John.16.2'>Sizi sinaqoqlardan qovacaqlar. Hətta o zaman gəlir ki, sizi öldürən hər kəs Allaha xidmət etdiyini zənn edəcək.</verse>
+        <verse osisID='John.16.3'>Onlar bunları edəcəklər, çünki nə Atanı, nə də Məni tanıdılar.</verse>
+        <verse osisID='John.16.4'>İndi bu şeyləri sizə bildirdim ki, vaxtı gələndə sizə söylədiyimi yada salasınız.  Əvvəldən bunları sizə söyləmədim, çünki sizinlə birlikdə idim.</verse>
+        <verse osisID='John.16.5'>İndi isə Məni Göndərənin yanına gedirəm və heç biriniz Məndən “Hara gedirsən?” deyə soruşmur.</verse>
+        <verse osisID='John.16.6'>Amma sizə bu şeyləri söylədiyim üçün ürəyiniz kədərlə doldu.</verse>
+        <verse osisID='John.16.7'>Bununla belə, Mən sizə həqiqəti söyləyirəm: Mənim getməyim sizin xeyrinizədir. Çünki getməsəm, Vəsatətçi yanınıza gəlməz, amma getsəm, Onu sizə göndərəcəyəm.</verse>
+        <verse osisID='John.16.8'>O gələndə günah, salehlik və mühakimə barədə dünyanı ifşa edəcək:</verse>
+        <verse osisID='John.16.9'>günah barədə, çünki Mənə iman etmirlər;</verse>
+        <verse osisID='John.16.10'>salehlik barədə, çünki Atanın yanına gedirəm və daha Məni görməyəcəksiniz;</verse>
+        <verse osisID='John.16.11'>mühakimə barədə, çünki bu dünyanın hökmdarı mühakimə olunub. </verse>
+        <verse osisID='John.16.12'>Hələ sizə söylənəcək çoxlu sözüm var, amma indi bunlar ağlınıza sığmaz.</verse>
+        <verse osisID='John.16.13'>Lakin O – həqiqət Ruhu gələndə sizə hər həqiqətə yol göstərəcək. Çünki heç nəyi Özündən söyləməyəcək, nə eşidirsə, onu söyləyəcək və gələcəyi sizə bildirəcək.</verse>
+        <verse osisID='John.16.14'>O Məni izzətləndirəcək, çünki Mənim olandan götürüb sizə bildirəcək.</verse>
+        <verse osisID='John.16.15'>Atanın hər nəyi varsa, Mənimdir. Buna görə də “Mənim olandan götürüb sizə bildirəcək” söylədim.</verse>
+        <verse osisID='John.16.16'>Az bir müddətdən sonra Məni artıq görməyəcəksiniz, az bir müddətdən də sonra Məni yenə görəcəksiniz». </verse>
+        <verse osisID='John.16.17'>O vaxt İsanın bəzi şagirdləri bir-birinə dedilər: «“Az bir müddətdən sonra Məni görməyəcəksiniz, az bir müddətdən də sonra yenə görəcəksiniz” və “çünki Atanın yanına gedirəm” sözlərinin mənası nədir?»</verse>
+        <verse osisID='John.16.18'>Öz aralarında soruşurdular: «Söylədiyi “az bir müddət” nə deməkdir? Nə dediyini anlamırıq».</verse>
+        <verse osisID='John.16.19'>İsa Ondan soruşmaq istədiklərini bilib onlara dedi: «“Az bir müddətdən sonra Məni görməyəcəksiniz, az bir müddətdən də sonra yenə görəcəksiniz” sözüm barədəmi bir-birinizdən soruşursunuz?</verse>
+        <verse osisID='John.16.20'>Doğrusunu, doğrusunu sizə deyirəm: siz ağlayıb nalə çəkəcəksiniz, dünya isə sevinəcək; siz kədərlənəcəksiniz, amma kədəriniz sevincə dönəcək.</verse>
+        <verse osisID='John.16.21'>Qadın doğuş zamanı kədərlənər, çünki vaxtı çatıb. Amma uşağı doğandan sonra dünyaya bir insan gətirməyinin sevincinə görə çəkdiyi ağrını yaddan çıxarar.</verse>
+        <verse osisID='John.16.22'>Beləcə siz də indi kədərlisiniz. Lakin Mən sizi yenə görəcəyəm, onda ürəyiniz sevinəcək və heç kəs sevincinizi sizdən ala bilməyəcək.</verse>
+        <verse osisID='John.16.23'>O gün Məndən heç nə soruşmayacaqsınız. Doğrusunu, doğrusunu sizə deyirəm: Mənim adımla Atadan nə diləyirsinizsə, O sizə verəcək.</verse>
+        <verse osisID='John.16.24'>İndiyə qədər Mənim adımla heç nə diləmədiniz. Diləyin, alacaqsınız, ta ki sevinciniz kamil olsun. </verse>
+        <verse osisID='John.16.25'>Sizə bu şeyləri məsəllərlə söylədim. İndi elə bir zaman gəlir ki, daha məsəllərlə sizinlə danışmayacağam, amma Ata barədə sizə açıq danışacağam.</verse>
+        <verse osisID='John.16.26'>O gün siz Mənim adımla diləyəcəksiniz. Mən sizin barənizdə Atadan bir şey xahiş edəcəyimi söyləmirəm.</verse>
+        <verse osisID='John.16.27'>Axı Ata Özü sizi sevir, çünki siz Məni sevdiniz və Mənim Allahın yanından gəldiyimə inandınız.</verse>
+        <verse osisID='John.16.28'>Atanın yanından dünyaya gəldim, yenə dünyanı tərk edib Atanın yanına gedirəm». </verse>
+        <verse osisID='John.16.29'>Şagirdləri dedi: «Budur, indi açıq danışırsan, heç bir məsəl söyləmirsən.</verse>
+        <verse osisID='John.16.30'>İndi anlayırıq ki, Sən hər şeyi bilirsən və heç kəsin Səndən soruşmasına ehtiyacın yoxdur. Buna görə də Allahdan gəldiyinə inanırıq».</verse>
+        <verse osisID='John.16.31'>İsa onlara dedi: «İndi inanırsınızmı?</verse>
+        <verse osisID='John.16.32'>Budur, hər birinizin dağılıb öz evinə gedəcəyiniz və Məni tək qoyacağınız vaxt gəlir və artıq gəlib. Amma Mən tək deyiləm, çünki Ata Mənimlədir.</verse>
+        <verse osisID='John.16.33'>Məndə sülhünüz olsun deyə bunları sizə söylədim. Dünyada əziyyətiniz var, amma cəsarətli olun! Mən dünyaya qalib gəldim».  </verse>
+      </chapter>
+      <chapter osisID='John.17'>
+        <verse osisID='John.17.1'>
+          İsa bunları söylədikdən sonra başını göyə qaldırıb dedi: «Ey Ata, vaxt gəldi; Öz Oğlunu izzətləndir ki, Oğul da Səni izzətləndirsin.</verse>
+        <verse osisID='John.17.2'>Sən Ona bütün bəşər üzərində səlahiyyət verdin ki, Ona verdiyin şəxslərin hamısına əbədi həyat versin.</verse>
+        <verse osisID='John.17.3'>Əbədi həyat da budur ki, Səni – yeganə həqiqi Allahı və göndərdiyin İsa Məsihi tanısınlar.</verse>
+        <verse osisID='John.17.4'>Mən yerinə yetirməyi tapşırdığın işi tamamlamaqla Səni yer üzündə izzətləndirdim.</verse>
+        <verse osisID='John.17.5'>Ey Ata, dünya yaranmazdan əvvəl Mən Sənin yanında olarkən malik olduğum izzəti indi Mənə Öz yanında ver. </verse>
+        <verse osisID='John.17.6'>Dünyadan Mənə verdiyin adamlara Sənin adını aşkar etdim. Onlar Səninki idi. Sən onları Mənə verdin və onlar Sənin sözünə riayət etdilər.</verse>
+        <verse osisID='John.17.7'>İndi də bilirlər ki, Mənə verdiyin bütün şeylər Səndəndir.</verse>
+        <verse osisID='John.17.8'>Çünki Mənə bildirdiyin sözləri onlara bildirdim, onlar da qəbul etdilər. Sənin yanından çıxıb gəldiyimi əminliklə bildilər və Məni Sən göndərdiyinə inandılar.</verse>
+        <verse osisID='John.17.9'>Mənim onlar üçün xahişim var. Dünya üçün deyil, Mənə verdiyin kəslər üçün xahişim var, çünki onlar Səninkidir.</verse>
+        <verse osisID='John.17.10'>Mənim olan hər şey Sənindir, Sənin olanlar da Mənimdir və Mən onlarda izzətlənmişəm.</verse>
+        <verse osisID='John.17.11'>Mən artıq dünyada deyiləm, onlarsa dünyadadır və Mən Sənin yanına gəlirəm. Ey Müqəddəs Ata, onları Mənə verdiyin adınla qoru ki, Bizim kimi bir olsunlar.</verse>
+        <verse osisID='John.17.12'>Onlarla birlikdə olduğum zaman onları Mənə verdiyin adınla qoruyurdum. Onları saxladım və Müqəddəs Yazı yerinə yetsin deyə həlaka gedən adamdan başqa, onlardan heç biri həlak olmadı.</verse>
+        <verse osisID='John.17.13'>İndi isə Sənin yanına gəlirəm. Dünyada ikən bu sözləri söyləyirəm ki, Mənim sevincim onlarda kamil olsun.</verse>
+        <verse osisID='John.17.14'>Mən onlara Sənin sözünü verdim. Dünya isə onlara nifrət etdi, çünki Mən dünyadan olmadığım kimi onlar da dünyadan deyil.</verse>
+        <verse osisID='John.17.15'>Onları dünyadan götürməyi deyil, şər olandan qorumağı Səndən xahiş edirəm.</verse>
+        <verse osisID='John.17.16'>Mən dünyadan olmadığım kimi onlar da dünyadan deyil.</verse>
+        <verse osisID='John.17.17'>Onları həqiqətlə təqdis et. Sənin sözün həqiqətdir.</verse>
+        <verse osisID='John.17.18'>Sən Məni dünyaya göndərdiyin kimi Mən də onları dünyaya göndərdim.</verse>
+        <verse osisID='John.17.19'>Mən Özümü onların uğrunda təqdis edirəm ki, onlar da həqiqətlə təqdis olunsun. </verse>
+        <verse osisID='John.17.20'>Yalnız onlar üçün deyil, onların sözü ilə Mənə iman edənlər üçün də xahiş edirəm ki,</verse>
+        <verse osisID='John.17.21'>hamısı bir olsun. Ey Ata, Sən Məndə, Mən də Səndə olduğum kimi onlar da Bizdə olsun ki, dünya Sənin Məni göndərdiyinə inansın.</verse>
+        <verse osisID='John.17.22'>Mənə verdiyin izzəti Mən də onlara verdim ki, Biz bir olduğumuz kimi onlar da bir olsun.</verse>
+        <verse osisID='John.17.23'>Mən onlarda, Sən də Məndə olmaqla bütünlüklə bir olsunlar ki, dünya Sənin Məni göndərdiyini, Məni sevdiyin kimi onları da sevdiyini bilsin.</verse>
+        <verse osisID='John.17.24'>Ey Ata, istəyirəm ki, Mənə verdiyin şəxslər də Mənim olduğum yerdə Mənimlə birlikdə olub Mənim izzətimi görsünlər. Bu izzəti dünya yaranmazdan əvvəl Məni sevdiyin üçün Mənə verdin.</verse>
+        <verse osisID='John.17.25'>Ey ədalətli Ata, dünya Səni tanımadı, Mənsə Səni tanıdım, bunlar da Sənin Məni göndərdiyini bildilər.</verse>
+        <verse osisID='John.17.26'>Sənin adını onlara bildirdim və yenə bildirəcəyəm ki, Sənin Mənə bəslədiyin məhəbbət onlarda olsun, Mən də onlarda olum».  </verse>
+      </chapter>
+      <chapter osisID='John.18'>
+        <verse osisID='John.18.1'>
+          İsa bunları söylədikdən sonra şagirdləri ilə birgə çıxıb Qidron vadisinin o biri tayına keçdi. Orada bir bağça var idi. İsa və şagirdləri oraya girdilər.</verse>
+        <verse osisID='John.18.2'>Ona xəyanət edən Yəhuda da bu yeri tanıyırdı, çünki İsa tez-tez şagirdləri ilə orada yığışırdı.</verse>
+        <verse osisID='John.18.3'>Beləcə Yəhuda bir alay əsgərlə başçı kahinlərin və fariseylərin göndərdiyi bəzi mühafizəçiləri götürüb çıraqlar, məşəllər və silahlarla oraya gəldi.</verse>
+        <verse osisID='John.18.4'>İsa başına gələcək hər şeyi bildiyi üçün qabağa çıxdı və «Kimi axtarırsınız?» deyə onlardan soruşdu.</verse>
+        <verse osisID='John.18.5'>Ona cavab verdilər: «Nazaretli İsanı». İsa onlara «Mənəm» dedi. Ona xəyanət edən Yəhuda da onlarla yanaşı idi.</verse>
+        <verse osisID='John.18.6'>İsa onlara «Mənəm» deyəndə geri çəkilib yerə qapandılar.</verse>
+        <verse osisID='John.18.7'>Onda yenə «Kimi axtarırsınız?» deyə onlardan soruşdu. Onlar da «Nazaretli İsanı» dedilər.</verse>
+        <verse osisID='John.18.8'>İsa cavab verdi: «Sizə dedim ki, Mənəm. Əgər Məni axtarırsınızsa, yanımdakıları buraxın getsinlər».</verse>
+        <verse osisID='John.18.9'>Bunu etdi ki, əvvəlcə dediyi «Mənə verdiyin şəxslərin heç birini həlak olmağa qoymadım» sözü yerinə yetsin.</verse>
+        <verse osisID='John.18.10'>Şimon Peterin yanında qılınc var idi. Onu çəkib baş kahinin qulunu vuraraq sağ qulağını kəsdi. O qulun adı Məlik idi.</verse>
+        <verse osisID='John.18.11'>Onda İsa Peterə dedi: «Qılıncı qınına qoy! Atanın Mənə verdiyi kasanı içməyimmi?» </verse>
+        <verse osisID='John.18.12'>Beləcə minbaşı ilə alay və Yəhudi başçılarının mühafizəçiləri İsanı tutub əl-qolunu bağladılar.</verse>
+        <verse osisID='John.18.13'>Onu əvvəlcə Xananın yanına apardılar, çünki Xanan o il baş kahin olan Qayafanın qayınatası idi.</verse>
+        <verse osisID='John.18.14'>Bu həmin Qayafa idi ki, «bir Adamın xalq uğrunda ölməsi yaxşıdır» deyə Yəhudi başçılarına məsləhət vermişdi. </verse>
+        <verse osisID='John.18.15'>Şimon Peter və başqa bir şagird İsanın ardınca gedirdilər. Baş kahin həmin şagirdi tanıdığı üçün o, İsa ilə birlikdə baş kahinin həyətinə girdi.</verse>
+        <verse osisID='John.18.16'>Peter isə bayırda qapının yanında durmuşdu. O vaxt baş kahinin tanıdığı bu şagird bayıra çıxıb qapıçı qızla danışdı və Peteri içəri gətirdi.</verse>
+        <verse osisID='John.18.17'>Bu arada qapıçı qız Peterdən soruşdu: «Yoxsa sən də bu Adamın şagirdlərindənsən?» O isə «xeyr, deyiləm» dedi.</verse>
+        <verse osisID='John.18.18'>Soyuq olduğu üçün qullar və mühafizəçilər orada ocaq qalamışdılar və ətrafında dayanıb isinirdilər. Peter də onlarla yanaşı dayanıb isinirdi. </verse>
+        <verse osisID='John.18.19'>O vaxt baş kahin İsadan şagirdləri və təlimi barədə soruşdu.</verse>
+        <verse osisID='John.18.20'>İsa ona cavab verdi: «Mən dünyaya açıq söyləmişəm, Yəhudilərin hamısının toplaşdıqları sinaqoqlarda və məbəddə həmişə təlim öyrədirdim, Mən heç nəyi gizli söyləməmişəm.</verse>
+        <verse osisID='John.18.21'>Niyə Məndən soruşursan? Nə dediyimi eşidən adamlardan soruş. Axı onlar Mənim söylədiyim şeyləri bilirlər».</verse>
+        <verse osisID='John.18.22'>İsa bu sözləri söyləyəndən sonra orada duran mühafizəçilərdən biri «Baş kahinə beləmi cavab verirsən?» deyib Ona bir şillə vurdu.</verse>
+        <verse osisID='John.18.23'>İsa ona cavab verdi: «Əgər haqsız danışdımsa, haqsız olduğunu sübut et. Əgər doğru dedimsə, onda Məni nə üçün vurursan?»</verse>
+        <verse osisID='John.18.24'>Xanan Onu əl-qolu bağlı halda baş kahin Qayafanın yanına göndərdi. </verse>
+        <verse osisID='John.18.25'>Şimon Peter bayırda durub isinirdi. Ondan soruşdular: «Yoxsa sən də Onun şagirdlərindənsən?» O inkar edib «xeyr, deyiləm» söylədi.</verse>
+        <verse osisID='John.18.26'>Baş kahinin qullarından biri Peterin vurub qulağını kəsdiyi adamın qohumu idi. Həmin qul «Səni bağçada Onunla birlikdə görmədimmi?» deyə Peterdən soruşdu.</verse>
+        <verse osisID='John.18.27'>Peter yenə inkar etdi. Həmin anda xoruz banladı. </verse>
+        <verse osisID='John.18.28'>Sonra Yəhudi başçıları İsanı Qayafanın yanından vali sarayına apardılar. Səhər açılırdı. Amma özləri vali sarayına girmədilər ki, murdar olmasınlar və Pasxa yeməyini yeyə bilsinlər.</verse>
+        <verse osisID='John.18.29'>Ona görə də Pilat bayıra, onların yanına çıxıb dedi: «Bu Adamı nədə ittiham edirsiniz?»</verse>
+        <verse osisID='John.18.30'>Onlar Pilata cavab verdilər: «Əgər bu Adam cinayətkar olmasaydı, Onu sənə təslim etməzdik».</verse>
+        <verse osisID='John.18.31'>Pilat onlara dedi: «Onu siz götürüb öz Qanununuza görə mühakimə edin». Yəhudi başçıları Pilata dedi: «Bizim heç kəsi edam etməyə icazəmiz yoxdur».</verse>
+        <verse osisID='John.18.32'>Onlar belə dedilər ki, İsanın necə bir ölümlə öləcəyinə işarə edərək söylədiyi söz yerinə yetsin. </verse>
+        <verse osisID='John.18.33'>Pilat yenə vali sarayına girdi, İsanı çağırıb Ona dedi: «Yəhudilərin Padşahı Sənsənmi?»</verse>
+        <verse osisID='John.18.34'>İsa cavab verdi: «Sən bunu özündənmi söyləyirsən, yoxsa başqaları sənə Mənim barəmdə danışdılar?»</verse>
+        <verse osisID='John.18.35'>Pilat dedi: «Məgər mən Yəhudiyəm? Səni Öz millətin və başçı kahinlər mənə təslim etdi. Söylə, nə etmisən?»</verse>
+        <verse osisID='John.18.36'>İsa cavab verdi: «Mənim Padşahlığım bu dünyadan deyil. Əgər Mənim Padşahlığım bu dünyadan olsaydı, xidmətçilərim Yəhudi başçılarına təslim edilməməyim üçün döyüşərdi, amma indi Mənim Padşahlığım buradan deyil».</verse>
+        <verse osisID='John.18.37'>Pilat ona dedi: «Demək, Sən Padşahsan?» İsa cavab verdi: «Sənin dediyin kimi Mən Padşaham. Mən həqiqət barədə şəhadət etmək üçün doğulub dünyaya gəldim. Həqiqətdən olan hər kəs Mənim səsimə qulaq asar».</verse>
+        <verse osisID='John.18.38'>Pilat Ona «Həqiqət nədir?» dedi.  Bunu deyəndən sonra yenə bayıra, Yəhudilərin yanına çıxıb onlara dedi: «Mən Onda heç bir təqsir görmürəm.</verse>
+        <verse osisID='John.18.39'>Axı sizdə bir adətdir ki, Pasxa zamanı mən sizin üçün bir nəfəri azad edirəm. İndi istəyirsinizsə, sizin üçün Yəhudilərin Padşahını azad edim?»</verse>
+        <verse osisID='John.18.40'>Bunun cavabında onlar yenə bağırıb dedi: «Bu adamı yox, Barabbanı azad et!» Barabba isə bir quldur idi.  </verse>
+      </chapter>
+      <chapter osisID='John.19'>
+        <verse osisID='John.19.1'>
+          Onda Pilat İsanı aparıb qamçılatdı.</verse>
+        <verse osisID='John.19.2'>Əsgərlər də tikandan bir tac hörüb Onun başına qoydular və Ona tünd qırmızı paltar geyindirdilər.</verse>
+        <verse osisID='John.19.3'>Onlar İsanın yanına gəlib «Yəhudilərin Padşahı sağ olsun!» deyirdilər və Ona şillə vururdular.</verse>
+        <verse osisID='John.19.4'>Pilat yenə bayıra çıxıb Yəhudilərə dedi: «Budur, Onu bayıra, sizin yanınıza gətirirəm ki, Onda bir təqsir görmədiyimi biləsiniz».</verse>
+        <verse osisID='John.19.5'>O zaman İsa başında tikandan tac, əynində tünd qırmızı paltar bayıra çıxdı. Pilat onlara dedi: «O Adam budur!»</verse>
+        <verse osisID='John.19.6'>Başçı kahinlər və mühafizəçilər Onu gördükdə «Çarmıxa çək, çarmıxa çək!» deyə bağırdılar. Pilat onlara dedi: «Onu özünüz götürüb çarmıxa çəkin, çünki mən Onda bir təqsir görmürəm».</verse>
+        <verse osisID='John.19.7'>Yəhudilər ona cavab verdilər: «Bizim bir qanunumuz var, bu qanuna görə O ölməlidir, çünki Özünü Allahın Oğlu adlandırır». </verse>
+        <verse osisID='John.19.8'>Pilat bu sözü eşidəndə daha da qorxdu.</verse>
+        <verse osisID='John.19.9'>Yenə vali sarayına girib İsadan soruşdu: «Sən haradansan?» Amma İsa ona cavab vermədi.</verse>
+        <verse osisID='John.19.10'>Pilat Ona dedi: «Mənəmi cavab vermirsən? Bilmirsən ki, Səni azad etməyə yaxud çarmıxa çəkməyə səlahiyyətim var?»</verse>
+        <verse osisID='John.19.11'>İsa ona cavab verdi: «Əgər sənə yuxarıdan verilməsəydi, Mənim üzərimdə heç bir səlahiyyətin olmazdı. Buna görə də Məni sənə təslim edənin günahı daha böyükdür».</verse>
+        <verse osisID='John.19.12'>Bundan sonra Pilat Onu azad etməyə çalışdı, ancaq Yəhudilər bağırıb dedilər: «Əgər bu Adamı azad etsən, qeysərin dostu deyilsən. Kim özünü padşah elan edirsə, qeysərə qarşı çıxmış olur». </verse>
+        <verse osisID='John.19.13'>Pilat bu sözü eşitdikdə İsanı bayıra apardı və ibranicə Qabbata, yəni Daş döşəmə deyilən yerdə hökm kürsüsünə oturdu.</verse>
+        <verse osisID='John.19.14'>Pasxaya hazırlıq günü idi. Altıncı saat radələri idi. Pilat Yəhudilərə «Padşahınız budur!» dedi.</verse>
+        <verse osisID='John.19.15'>Amma onlar «Yox, rədd olsun, rədd olsun! Onu çarmıxa çək!» deyə bağırdı. Pilat onlardan soruşdu: «Padşahınızımı çarmıxa çəkim?» Başçı kahinlər cavab verdilər: «Qeysərdən başqa padşahımız yoxdur!»</verse>
+        <verse osisID='John.19.16'>Onda Pilat İsanı çarmıxa çəkilmək üçün onlara təslim etdi.  Əsgərlər İsanı götürüb apardılar.</verse>
+        <verse osisID='John.19.17'>İsa çarmıxını Özü daşıyaraq ibranicə Qolqota, yəni «Kəllə yeri» adlanan yerə çıxdı.</verse>
+        <verse osisID='John.19.18'>Orada Onu və başqa iki nəfəri çarmıxa çəkdilər: biri İsanın sağında, o biri isə solunda idi, İsa da ortada idi.</verse>
+        <verse osisID='John.19.19'>Pilat bir lövhə yazıb onu çarmıxın üstündə asdırdı. Orada belə yazılmışdı: «Yəhudilərin Padşahı Nazaretli İsa».</verse>
+        <verse osisID='John.19.20'>Yəhudilərin bir çoxu bu lövhəni oxudu, çünki İsanın çarmıxa çəkildiyi yer şəhərə yaxın idi və lövhədə ibranicə, latınca və yunanca yazılmışdı.</verse>
+        <verse osisID='John.19.21'>Bunu görüb Yəhudi başçı kahinləri Pilata dedilər: «“Yəhudilərin Padşahı” yox, “Özünü Yəhudilərin Padşahı adlandıran” yaz».</verse>
+        <verse osisID='John.19.22'>Pilat cavab verdi: «Nə yazdımsa, yazdım». </verse>
+        <verse osisID='John.19.23'>Əsgərlər İsanı çarmıxa çəkdikləri zaman Onun paltarlarını götürüb hər əsgər üçün bir pay olmaqla dörd hissəyə böldülər. Tikişsiz və başdan-ayağa toxunma olan köynəyini götürdülər.</verse>
+        <verse osisID='John.19.24'>Onlar bir-birinə dedilər: «Bunu cırmayaq, püşk ataq, görək kimin olur». Müqəddəs Yazıdakı  «Aralarında paltarlarımı bölüşdürdülər,Geyimim üçün püşk atdılar»  sözü yerinə yetsin deyə əsgərlər bunu etdilər. </verse>
+        <verse osisID='John.19.25'>İsanın çarmıxı yanında anası, anasının bacısı, Klopanın arvadı Məryəm və Məcdəlli Məryəm dayanmışdı.</verse>
+        <verse osisID='John.19.26'>İsa anasını və onun yanında Öz sevimli şagirdinin dayandığını gördükdə anasına dedi: «Ana, bu sənin oğlundur!»</verse>
+        <verse osisID='John.19.27'>Sonra isə şagirdə dedi: «Bu da sənin anandır!» Həmin andan sonra şagird onu öz evinə apardı. </verse>
+        <verse osisID='John.19.28'>Daha sonra İsa hər şeyin artıq tamam olduğunu bilərək Müqəddəs Yazı tam yerinə yetsin deyə «Susadım!» dedi.</verse>
+        <verse osisID='John.19.29'>Orada şərab sirkəsi ilə dolu bir qab qoyulmuşdu. Bir süngəri şərab sirkəsinə batıraraq züfaya taxıb İsanın ağzına yaxınlaşdırdılar.</verse>
+        <verse osisID='John.19.30'>İsa şərab sirkəsini daddı. Sonra «tamam oldu» dedi və başını əyib ruhunu tapşırdı. </verse>
+        <verse osisID='John.19.31'>Hazırlıq günü olduğuna görə Yəhudi başçıları Pilatdan çarmıxa çəkilənlərin baldırlarının qırılmasını və cəsədlərin götürülməsini xahiş etdilər. Onlar cəsədlərin Şənbə günü çarmıxda qalmasını istəmirdilər, çünki o Şənbə günü böyük bir bayram idi.</verse>
+        <verse osisID='John.19.32'>Onda əsgərlər gəlib əvvəl İsa ilə çarmıxa çəkilən bir adamın, sonra isə o biri adamın baldırlarını qırdılar.</verse>
+        <verse osisID='John.19.33'>İsanın yanına gələndə isə Onun artıq öldüyünü görüb baldırlarını qırmadılar.</verse>
+        <verse osisID='John.19.34'>Amma əsgərlərdən biri Onun böyrünü nizə ilə deşdi, o anda oradan qan və su axdı.</verse>
+        <verse osisID='John.19.35'>Bunu görən adam özü şəhadət edir və onun şəhadəti doğrudur, sizin də iman etməyiniz üçün həqiqəti söylədiyini bilir.</verse>
+        <verse osisID='John.19.36'>Bunlar ona görə oldu ki, Müqəddəs Yazıdakı «Onun bir sümüyü də qırılmayacaq» sözü yerinə yetsin.</verse>
+        <verse osisID='John.19.37'>Yenə başqa bir Yazıda «bədənini deşdikləri Şəxsə baxacaqlar» deyilir. </verse>
+        <verse osisID='John.19.38'>Bundan sonra Arimateyalı Yusif Pilatdan İsanın cəsədini götürməyi xahiş etdi. Yusif İsanın şagirdi idi, amma Yəhudi başçılarından qorxduğu üçün bunu gizli saxlayırdı. Pilat ona izin verdi və Yusif gəlib İsanın cəsədini götürdü.</verse>
+        <verse osisID='John.19.39'>Vaxtı ilə gecə ikən İsanın yanına gələn Nikodim də gəlib yüz litraya qədər qarışıq mirra və əzvay gətirdi.</verse>
+        <verse osisID='John.19.40'>İsanın cəsədini götürüb Yəhudilərin dəfn adətinə uyğun olaraq ətirlərlə birgə kətan bezlərə sarıdılar.</verse>
+        <verse osisID='John.19.41'>İsanın çarmıxa çəkildiyi yerdə bir bağça, bu bağçanın içində də hələ heç kəsin qoyulmadığı təzə bir qəbir var idi.</verse>
+        <verse osisID='John.19.42'>Qəbir yaxında olduğuna görə İsanın cəsədini oraya qoydular, çünki o gün Yəhudilərin Hazırlıq günü idi.  </verse>
+      </chapter>
+      <chapter osisID='John.20'>
+        <verse osisID='John.20.1'>
+          Həftənin ilk günü tezdən, hələ qaranlıq ikən Məcdəlli Məryəm qəbirin yanına gəldi. O gördü ki, daş qəbirin ağzından götürülüb.</verse>
+        <verse osisID='John.20.2'>Onda qaçıb Şimon Peterlə İsanın sevimlisi olan o biri şagirdin yanına gəldi və onlara dedi: «Rəbbi qəbirdən aparıblar və hara qoyulduğunu bilmirik».</verse>
+        <verse osisID='John.20.3'>Peterlə o biri şagird bayıra çıxıb qəbirə tərəf getdilər.</verse>
+        <verse osisID='John.20.4'>İkisi birgə qaçırdı, amma o biri şagird Peterdən daha cəld qaçdı və qabaqca qəbirə o çatdı.</verse>
+        <verse osisID='John.20.5'>Əyilib içəri baxdı və kətan bezlərin düşüb-qaldığını gördü, ancaq içəri girmədi.</verse>
+        <verse osisID='John.20.6'>O vaxt onun ardınca Şimon Peter də gəlib qəbirə girdi. O, düşüb-qalan kətan bezləri</verse>
+        <verse osisID='John.20.7'>və İsanın başına qoyulmuş dəsmalı gördü. Dəsmal kətan bezlərin yanında deyil, başqa bir yerdə bükülü qalmışdı.</verse>
+        <verse osisID='John.20.8'>Onda qəbirin yanına qabaqca gələn o biri şagird də içəri girib bunları gördü və iman etdi.</verse>
+        <verse osisID='John.20.9'>Çünki onlar İsanın mütləq ölülər arasından diriləcəyini bildirən Müqəddəs Yazını hələ anlamırdılar.</verse>
+        <verse osisID='John.20.10'>Beləcə şagirdlər yenə evlərinə qayıtdılar. </verse>
+        <verse osisID='John.20.11'>Məryəm isə ağlayaraq qəbirin bayırında dayanmışdı. Ağlaya-ağlaya əyilib qəbirin içinə baxdı.</verse>
+        <verse osisID='John.20.12'>Orada ağ paltar geymiş iki mələk gördü: biri İsanın cəsədinin qoyulduğu yerin başında, o biri isə ayağında oturmuşdu.</verse>
+        <verse osisID='John.20.13'>Onlar Məryəmdən «Ey qadın, niyə ağlayırsan?» deyə soruşdu. Məryəm də onlara dedi: «Rəbbimi qəbirdən aparıblar və hara qoyduqlarını bilmirəm».</verse>
+        <verse osisID='John.20.14'>Bunu deyəndən sonra arxaya dönüb İsanın orada dayandığını gördü, amma Onun İsa olduğunu bilmədi.</verse>
+        <verse osisID='John.20.15'>İsa ondan soruşdu: «Ey qadın, niyə ağlayırsan? Kimi axtarırsan?» Məryəm Onun bağban olduğunu güman edərək dedi: «Ağa, əgər Onu Sən aparmısansa, hara qoyduğunu mənə söylə, mən də Onu götürüm».</verse>
+        <verse osisID='John.20.16'>İsa ona «Məryəm!» dedi. O da dönüb İsaya ibranicə «Rabbuni!» dedi. «Rabbuni» «Müəllim» deməkdir.</verse>
+        <verse osisID='John.20.17'>İsa ona dedi: «Mənə toxunma, çünki Mən hələ Atanın yanına qalxmamışam. Amma qardaşlarımın yanına gedib onlara söylə: Öz Atamın – sizin Atanızın, Öz Allahımın – sizin Allahınızın yanına qalxıram».</verse>
+        <verse osisID='John.20.18'>Məcdəlli Məryəm şagirdlərin yanına gəldi, onlara «Rəbbi görmüşəm!» deyib onun özünə bunları söylədiyini bildirdi. </verse>
+        <verse osisID='John.20.19'>O gün – həftənin ilk günü axşam çağı Yəhudi başçılarından qorxduqları üçün şagirdlərin olduqları yerin qapıları bağlı olsa da, İsa içəri girdi. O ortada durub onlara «Sizə salam olsun!» dedi.</verse>
+        <verse osisID='John.20.20'>Bunu söyləyib onlara əllərini və böyrünü göstərdi. Şagirdlər də Rəbbi görüb sevindilər.</verse>
+        <verse osisID='John.20.21'>İsa yenə onlara dedi: «Sizə salam olsun! Ata Məni göndərdiyi kimi Mən də sizi göndərirəm».</verse>
+        <verse osisID='John.20.22'>Bunu söylədikdən sonra onların üzərinə üfürərək dedi: «Müqəddəs Ruhu alın!</verse>
+        <verse osisID='John.20.23'>Kimin günahlarını bağışlasanız, bağışlanır, kimin günahlarını bağışlamasanız, bağışlanmamış qalır». </verse>
+        <verse osisID='John.20.24'>Lakin On İki şagirddən biri «Əkiz» adlanan Tomas İsa gələndə onların yanında deyildi.</verse>
+        <verse osisID='John.20.25'>O biri şagirdlər Tomasa «Rəbbi gördük» deyəndə onlara söylədi: «Əgər Onun əllərində mıxların açdığı yaraları görməsəm, mıxların yerinə barmağımla toxunmasam, böyrünə də əlimi qoymasam, buna heç inanmaram».</verse>
+        <verse osisID='John.20.26'>Səkkiz gündən sonra İsanın şagirdləri yenə otaqda toplaşanda Tomas da onların yanında idi. Qapılar bağlı olsa da, İsa içəri girdi. O ortada durub «Sizə salam olsun!» dedi.</verse>
+        <verse osisID='John.20.27'>Bundan sonra Tomasa söylədi: «Barmağını buraya uzat, əllərimə bax, əlini də uzat, böyrümə qoy. İmansız olma, imanlı ol!»</verse>
+        <verse osisID='John.20.28'>Tomas cavab verib Ona «Ya Rəbbim və Allahım!» dedi.</verse>
+        <verse osisID='John.20.29'>İsa ona dedi: «Sən Məni gördüyün üçünmü iman etdin? Görmədən iman edənlər nə bəxtiyardır!» </verse>
+        <verse osisID='John.20.30'>İsa şagirdlərinin gözü önündə bir çox başqa əlamətlər də göstərdi ki, bu kitabda yazılmayıb.</verse>
+        <verse osisID='John.20.31'>Amma buradakılar onun üçün yazılıb ki, siz İsanın Məsih – Allahın Oğlu olduğuna inanasınız və iman edərək Onun adı ilə həyata malik olasınız.  </verse>
+      </chapter>
+      <chapter osisID='John.21'>
+        <verse osisID='John.21.1'>
+          Bu hadisələrdən sonra İsa Tiberiya gölünün kənarında yenə şagirdlərə göründü. Bu belə oldu:</verse>
+        <verse osisID='John.21.2'>Şimon Peter, «Əkiz» adlanan Tomas, Qalileyanın Qana kəndindən olan Natanael, Zavdayın oğulları və Onun başqa iki şagirdi birlikdə idi.</verse>
+        <verse osisID='John.21.3'>Şimon Peter onlara «balıq ovuna gedirəm» dedi. O birilər də ona «biz də səninlə gedirik» dedilər. Onlar gedib qayığa mindilər, amma o gecə bir şey tuta bilmədilər.</verse>
+        <verse osisID='John.21.4'>Günəş doğarkən İsa sahildə dayanmışdı, amma şagirdlər Onun İsa olduğunu bilmədilər.</verse>
+        <verse osisID='John.21.5'>İsa onlara dedi: «Uşaqlar, yeməyə bir şey tutmusunuzmu?» Ona «xeyr» deyə cavab verdilər.</verse>
+        <verse osisID='John.21.6'>İsa yenə dedi: «Toru qayığın sağ tərəfinə atın, orada tapacaqsınız». Eləcə də atdılar və o qədər balıq tutdular ki, toru çəkə bilmirdilər.</verse>
+        <verse osisID='John.21.7'>Onda İsanın sevimli şagirdi Peterə «Bu, Rəbdir» söylədi. Şimon Peter Onun Rəbb olduğunu eşidən kimi əynindən çıxartdığı üst paltarına bürünüb gölə atıldı.</verse>
+        <verse osisID='John.21.8'>O biri şagirdlər isə balıq torunu çəkə-çəkə qayıqda gəldilər, çünki sahildən uzaq deyildilər, cəmi iki yüz qulac məsafədə idilər. </verse>
+        <verse osisID='John.21.9'>Onlar quruya çıxanda orada közərmiş ocağı, onun üzərinə qoyulmuş balığı və yanında olan çörəyi gördülər.</verse>
+        <verse osisID='John.21.10'>İsa onlara dedi: «İndi tutduğunuz balıqlardan gətirin».</verse>
+        <verse osisID='John.21.11'>Şimon Peter qayığa minib yüz əlli üç böyük balıqla dolu toru quruya çəkdi. Balıq lap çox olsa da, tor yırtılmadı.</verse>
+        <verse osisID='John.21.12'>İsa onlara dedi: «Gəlin, səhər yeməyi yeyin». Şagirdlərdən heç biri Ondan «Sən kimsən?» deyə soruşmağa cəsarət etmirdi, çünki Onun Rəbb olduğunu bilirdilər.</verse>
+        <verse osisID='John.21.13'>İsa gəlib çörəyi götürdü və onlara verdi, eləcə balığı da verdi.</verse>
+        <verse osisID='John.21.14'>İsa ölülər arasından dirildikdən sonra artıq üçüncü dəfə idi ki, şagirdlərə görünürdü. </verse>
+        <verse osisID='John.21.15'>Səhər yeməyindən sonra İsa Şimon Peterə dedi: «Ey Yəhya oğlu Şimon, Məni bunlardan çox sevirsənmi?» Peter ona dedi: «Bəli, ya Rəbb, Səni sevdiyimi bilirsən». İsa ona dedi: «Quzularımı bəslə».</verse>
+        <verse osisID='John.21.16'>İkinci dəfə yenə Peterə dedi: «Ey Yəhya oğlu Şimon, Məni sevirsənmi?» O da İsaya dedi: «Bəli, ya Rəbb, Səni sevdiyimi bilirsən». İsa ona dedi: «Quzularımı otar».</verse>
+        <verse osisID='John.21.17'>Üçüncü dəfə Peterə dedi: «Ey Yəhya oğlu Şimon, Məni sevirsənmi?» Peter üçüncü dəfə İsanın ona «Məni sevirsənmi?» sualını verməyinə kədərləndi və Ona dedi: «Ya Rəbb, Sən hər şeyi bilirsən, Səni sevdiyimi bilirsən». İsa ona dedi: «Quzularımı bəslə.</verse>
+        <verse osisID='John.21.18'>Doğrusunu, doğrusunu sənə deyirəm: cavan olanda qurşağını özün bağlayıb istədiyin yerə gedərdin, amma qocalanda əllərini uzadacaqsan və başqası sənin qurşağını bağlayıb istəmədiyin yerə aparacaq».</verse>
+        <verse osisID='John.21.19'>İsa bunu ona görə söylədi ki, Peterin necə öz ölümü vasitəsilə Allahı izzətləndirəcəyinə işarə etsin. Bunu söylədikdən sonra ona «ardımca gəl» dedi. </verse>
+        <verse osisID='John.21.20'>Peter də arxaya dönüb İsanın sevimli şagirdinin onların ardınca gəldiyini gördü. Bu həmin şagird idi ki, axşam yeməyi zamanı İsanın sinəsinə əyilib «Ya Rəbb, Sənə xəyanət edəcək adam kimdir?» demişdi.</verse>
+        <verse osisID='John.21.21'>Peter bu şagirdi görüb İsaya dedi: «Ya Rəbb, bəs o necə olacaq?»</verse>
+        <verse osisID='John.21.22'>İsa ona dedi: «Əgər Mən gələnə qədər onun sağ qalmasını istəyirəmsə, bundan sənə nə? Sən ardımca gəl».</verse>
+        <verse osisID='John.21.23'>Beləcə o şagirdin ölməyəcəyi barədə imanlı bacı-qardaşlar arasında söz yayıldı. Amma İsa onun ölməyəcəyini deməmişdi, sadəcə olaraq «Əgər Mən gələnə qədər onun sağ qalmasını istəyirəmsə, bundan sənə nə?» demişdi. </verse>
+        <verse osisID='John.21.24'>Bu hadisələrə şəhadət edərək bunları yazan həmin şagirddir. Biz də bilirik ki, onun şəhadəti etibarlıdır. </verse>
+        <verse osisID='John.21.25'>İsanın etdiyi çoxlu başqa şeylər də var. Əgər bunlar da bir-bir yazılsaydı, fikrimcə, yazılan kitablar heç dünyaya sığmazdı.  </verse>
+      </chapter>
+    </div></osisText>
+</osis>

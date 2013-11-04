@@ -1,0 +1,1320 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace'>
+  <osisText osisIDWork='NorthernAzeri' osisRefWork='Bible' xml:lang='az'>
+    <header>
+      <revisionDesc>
+        <date>2012-01-07</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='NorthernAzeri'>
+        <title>Northern Azeri Translation</title>
+        <contributor/>
+        <creator>Mod2Zef (6)</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject/>
+        <date>2012-01-07</date>
+        <description>Northern Azeri Translation</description>
+        <publisher/>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>NorthernAzeri</identifier>
+        <source>no entry TextSource in sword.conf found</source>
+        <language type='IETF'>az</language>
+        <relation/>
+        <coverage>provide the bible to the nations of the world</coverage>
+        <rights>Copyrighted Kutsul Kitab; Permission to distribute granted to CrossWire</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='Luke'>
+      <chapter osisID='Luke.1'>
+        <verse osisID='Luke.1.1'>
+          Hörmətli Teofil, çoxları aramızda baş vermiş hadisələrin tarixçəsini yazmağa cəhd göstərib.</verse>
+        <verse osisID='Luke.1.2'>Əvvəldən bəri Kəlamı öz gözləri ilə görənlər və Ona xidmət edənlər bu hadisələri bizə nəql etdiyi kimi</verse>
+        <verse osisID='Luke.1.3'>mən də əvvəlcədən hər şeyi diqqətlə araşdırıb bunları sənə ardıcıllıqla yazmağı münasib bildim.</verse>
+        <verse osisID='Luke.1.4'>Belə ki sən öyrəndiyin şeylərin doğru olduğunu biləsən. </verse>
+        <verse osisID='Luke.1.5'>Yəhudeya padşahı Hirodun dövründə Aviya bölüyündən olan Zəkəriyyə adlı bir kahin var idi. Arvadı da Harun nəslindən idi, adı Elizavet idi.</verse>
+        <verse osisID='Luke.1.6'>Onların hər ikisi Allahın gözündə saleh idi və Rəbbin qoyduğu əmr və qaydaların hamısına nöqsansız əməl edirdilər.</verse>
+        <verse osisID='Luke.1.7'>Amma Elizavet sonsuz olduğuna görə onların övladı yox idi. Hər ikisinin yaşı çox idi. </verse>
+        <verse osisID='Luke.1.8'>Bir gün Zəkəriyyə öz bölüyünün növbəsində Allahın önündə kahinlik xidmətini icra edirdi.</verse>
+        <verse osisID='Luke.1.9'>Rəbbin məbədinə daxil olub buxur yandırmaq üçün kahinlik adətinə görə atılan püşk ona düşdü.</verse>
+        <verse osisID='Luke.1.10'>Buxur yandırma zamanı bütün camaat məbəddən kənarda dua edirdi.</verse>
+        <verse osisID='Luke.1.11'>Bu vaxt Rəbbin bir mələyi buxur qurbangahının sağında durub Zəkəriyyəyə göründü.</verse>
+        <verse osisID='Luke.1.12'>Zəkəriyyə bunu görüb təlaşa düşdü və çox qorxdu.</verse>
+        <verse osisID='Luke.1.13'>Mələk isə ona dedi: «Qorxma, Zəkəriyyə! Sənin duan eşidildi. Arvadın Elizavet sənə bir oğul doğacaq. Sən də onun adını Yəhya qoy.</verse>
+        <verse osisID='Luke.1.14'>Sən sevinib şadlanacaqsan. Çox adam onun dünyaya gəlməsinə görə sevinəcək.</verse>
+        <verse osisID='Luke.1.15'>Çünki o, Rəbbin gözündə böyük olacaq. O, şərab və başqa kefləndirici içki içməyəcək; hələ ana bətnində olarkən Müqəddəs Ruhla dolu olacaq.</verse>
+        <verse osisID='Luke.1.16'>O, İsrail övladlarının çoxunu Allahı Rəbb tərəfə döndərəcək.</verse>
+        <verse osisID='Luke.1.17'>Ataların ürəklərini övladlarına, itaətsiz adamları salehlərin düşüncə tərzinə yönəltmək və Rəbbə hazırlanmış xalqı yetişdirmək üçün İlyasın ruhu və qüvvəti ilə Rəbbin önündə gedəcək».</verse>
+        <verse osisID='Luke.1.18'>Zəkəriyyə mələyə dedi: «Mən bunu necə bilərəm? Axı mən çox yaşlıyam, elə arvadımın da yaşı ötüb».</verse>
+        <verse osisID='Luke.1.19'>Mələk ona cavab verdi: «Mən Allahın önündə dayanan Cəbrayılam və səninlə danışıb bu müjdəni sənə çatdırmaq üçün göndərilmişəm.</verse>
+        <verse osisID='Luke.1.20'>Budur, vaxtında həyata keçəcək sözlərimə inanmadığına görə bu yerinə yetən günədək sən lal olub danışa bilməyəcəksən». </verse>
+        <verse osisID='Luke.1.21'>Bu vaxt camaat Zəkəriyyəni gözləyirdi və onun məbəddə ləngiməsinə heyrət edirdi.</verse>
+        <verse osisID='Luke.1.22'>O isə məbəddən çıxıb xalqla danışa bilmədi. Onlar da Zəkəriyyənin məbəddə görüntü gördüyünü başa düşdülər. Zəkəriyyə xalqa işarə edirdi və lal olaraq qaldı. </verse>
+        <verse osisID='Luke.1.23'>Zəkəriyyə xidmət vaxtı qurtaranda evinə qayıtdı.</verse>
+        <verse osisID='Luke.1.24'>Bu vaxtdan sonra arvadı Elizavet uşağa qaldı və beş ay evindən çıxmadı.</verse>
+        <verse osisID='Luke.1.25'>O deyirdi: «Bunu mənim üçün Rəbb etdi. Bu vaxt O mənə nəzər salıb məni el arasında xəcalətdən qurtardı». </verse>
+        <verse osisID='Luke.1.26'>Elizavetin hamiləliyinin altıncı ayında mələk Cəbrayıl Allah tərəfindən Qalileyadakı Nazaret adlanan şəhərə,</verse>
+        <verse osisID='Luke.1.27'>Davudun nəslindən olan Yusif adlı bir kişiyə nişanlanan bakirə qızın yanına göndərildi. Həmin qızın adı Məryəm idi.</verse>
+        <verse osisID='Luke.1.28'>Mələk onun yanına gəlib dedi: «Salam, ey lütfə nail olmuş qız! Rəbb səninlədir».</verse>
+        <verse osisID='Luke.1.29'>Məryəm bu sözlərdən tam lərzəyə gəldi və ürəyində bu salamın nə demək olduğu barədə düşünməyə başladı.</verse>
+        <verse osisID='Luke.1.30'>Mələk ona dedi: «Qorxma, Məryəm, çünki sən Allahın lütfünə nail oldun.</verse>
+        <verse osisID='Luke.1.31'>Sən hamilə olub bir Oğul doğacaqsan. Onun adını İsa qoy.</verse>
+        <verse osisID='Luke.1.32'>O, böyük olacaq və Haqq-Taalanın Oğlu adlanacaq. Rəbb Allah Ona atası Davudun taxtını verəcək.</verse>
+        <verse osisID='Luke.1.33'>O, Yaqub nəslinin üzərində əbədi olaraq Padşah olacaq və Onun Padşahlığının sonu olmayacaq».</verse>
+        <verse osisID='Luke.1.34'>Məryəm mələyə dedi: «Bu necə olacaq? Mən heç kişi üzü görməmişəm».</verse>
+        <verse osisID='Luke.1.35'>Mələk cavabında ona dedi: «Müqəddəs Ruh sənin üzərinə enəcək, Haqq-Taalanın qüdrəti üstünə kölgə salacaq. Buna görə də doğulacaq müqəddəs Övlad Allahın Oğlu adlanacaq.</verse>
+        <verse osisID='Luke.1.36'>Bax qohumun Elizavetin də yaşlı vaxtında bətninə oğlan uşağı düşüb. Onu sonsuz adlandırırdılar, amma o artıq altı aydır ki, hamilədir.</verse>
+        <verse osisID='Luke.1.37'>Çünki Allah üçün mümkün olmayan şey yoxdur».</verse>
+        <verse osisID='Luke.1.38'>Onda Məryəm dedi: «Mən Rəbbin quluyam, qoy mənə sənin dediyin kimi olsun». Mələk onu tərk edib getdi. </verse>
+        <verse osisID='Luke.1.39'>O vaxt Məryəm tələsik qalxıb Yəhudanın dağlıq bölgəsindəki bir şəhərə yollandı.</verse>
+        <verse osisID='Luke.1.40'>O, Zəkəriyyənin evinə girib Elizaveti salamladı.</verse>
+        <verse osisID='Luke.1.41'>Elizavet Məryəmin salamını eşidəndə bətnindəki körpə tərpəndi. Elizavet də Müqəddəs Ruhla dolub</verse>
+        <verse osisID='Luke.1.42'>uca səslə çığırdı: «Sən qadınlar arasında xeyir-dualısan, sənin bətninin bəhrəsi də xeyir-dualıdır!</verse>
+        <verse osisID='Luke.1.43'>Bu necə oldu ki, Rəbbimin anası yanıma gəlib?</verse>
+        <verse osisID='Luke.1.44'>Bax sənin salamının səsi qulağıma çatanda bətnimdəki körpə sevinclə tərpəndi.</verse>
+        <verse osisID='Luke.1.45'>Rəbbin ona dediyi sözlərin yerinə yetəcəyinə inanan qadın nə bəxtiyardır!». </verse>
+        <verse osisID='Luke.1.46'>Məryəm isə dedi:</verse>
+        <verse osisID='Luke.1.47'>«Qəlbim Rəbbi ucaldır,Ruhum Xilaskarım Allaha görə şadlanır,</verse>
+        <verse osisID='Luke.1.48'>Çünki O Öz qulunun yazıq halını gördü.Bundan sonra bütün nəsillər məni bəxtiyar sayacaq,</verse>
+        <verse osisID='Luke.1.49'>Çünki Qadir Olan mənim üçün böyük işlər etdi,Onun adı müqəddəsdir!</verse>
+        <verse osisID='Luke.1.50'>Onun mərhəməti də nəsildən-nəsləOndan qorxanlara göstərilər.</verse>
+        <verse osisID='Luke.1.51'>O, qolu ilə qüdrətli işlər gördü,Ürəklərində qürurla düşünənləri pərən-pərən saldı.</verse>
+        <verse osisID='Luke.1.52'>Hökmdarları taxtlarından endirdi,Məzlumları yüksəltdi.</verse>
+        <verse osisID='Luke.1.53'>Acları nemətlərlə doydurdu,Varlıları isə əliboş yola saldı.</verse>
+        <verse osisID='Luke.1.54'>Rəbb gulu İsrailin imdadına çatdı,Ata-babalarımıza vəd etdiyi kimiİbrahimə və onun nəslinə əbədilikMərhəmət göstərməyi yada saldı». </verse>
+        <verse osisID='Luke.1.55'>Rəbb gulu İsrailin imdadına çatdı,Ata-babalarımıza vəd etdiyi kimiİbrahimə və onun nəslinə əbədilikMərhəmət göstərməyi yada saldı». </verse>
+        <verse osisID='Luke.1.56'>Məryəm Elizavetin yanında üç aya yaxın qalıb evinə qayıtdı. </verse>
+        <verse osisID='Luke.1.57'>Elizavetin doğmaq vaxtı çatdı. O, bir oğlan doğdu.</verse>
+        <verse osisID='Luke.1.58'>Onun qohum-qonşuları Rəbbin ona böyük mərhəmət göstərdiyini eşidəndə onunla birgə sevindilər.</verse>
+        <verse osisID='Luke.1.59'>Səkkizinci gün körpəni sünnət etməyə gəldilər. Ona atası Zəkəriyyənin adını qoymaq istədilər.</verse>
+        <verse osisID='Luke.1.60'>Körpənin anası isə dedi: «Yox, onun adı Yəhya olacaq».</verse>
+        <verse osisID='Luke.1.61'>Ona dedilər: «Axı qohumların arasında belə adı olan bir kəs yoxdur».</verse>
+        <verse osisID='Luke.1.62'>Körpənin atasından körpəyə nə ad qoyulmasını işarə ilə soruşdular.</verse>
+        <verse osisID='Luke.1.63'>O, bir yazı lövhəciyi istəyib yazdı: «Onun adı Yəhyadır». Hamı heyrətə gəldi.</verse>
+        <verse osisID='Luke.1.64'>Həmin o anda Zəkəriyyənin dili açıldı. O, Allaha alqış etməyə başladı.</verse>
+        <verse osisID='Luke.1.65'>Qonşuların hamısı qorxuya düşdü. Bütün bu hadisələr haqqında Yəhudeyanın dağlıq bölgəsinin hər yerində danışırdılar.</verse>
+        <verse osisID='Luke.1.66'>Bu barədə eşidən hər bir kəs fikrə gedib deyərdi: «Bu körpə böyüyüb nə olacaq?» Çünki Rəbbin əli onun üzərində idi. </verse>
+        <verse osisID='Luke.1.67'>Körpənin atası Zəkəriyyə Müqəddəs Ruhla dolub belə peyğəmbərlik etdi:</verse>
+        <verse osisID='Luke.1.68'>«Alqış olsun İsrailin Allahı Rəbbə!Çünki Öz xalqına nəzər salıb onları satın aldı.</verse>
+        <verse osisID='Luke.1.69'>O, qulu Davudun nəslindənBizə qüdrətli Xilaskar yetirdi.</verse>
+        <verse osisID='Luke.1.70'>Qədimdən bəri Öz müqəddəs peyğəmbərlərinin vasitəsilə bildirdiyi kimi</verse>
+        <verse osisID='Luke.1.71'>Düşmənlərimizdən və bizə nifrət edənlərin əlindən bizi xilas etdi.</verse>
+        <verse osisID='Luke.1.72'>Beləcə ata-babalarımıza mərhəmət göstəribÖz müqəddəs Əhdini xatırladı.</verse>
+        <verse osisID='Luke.1.73'>Atamız İbrahimə and içdiyi kimiBizə elə güc verdi ki,</verse>
+        <verse osisID='Luke.1.74'>Düşmənlərimizin əlindən qurtulubHəyatımız boyu qorxmadan Rəbbin önündəMüqəddəslik və salehliklə Ona ibadət edək.</verse>
+        <verse osisID='Luke.1.75'>Düşmənlərimizin əlindən qurtulubHəyatımız boyu qorxmadan Rəbbin önündəMüqəddəslik və salehliklə Ona ibadət edək.</verse>
+        <verse osisID='Luke.1.76'>Ey körpə, sən Haqq-Taalanın peyğəmbəri adlanacaqsan,Çünki Rəbbin önündə gedəcəksən,Onun yolunu hazırlayacaqsan.</verse>
+        <verse osisID='Luke.1.77'>Onun xalqına günahlarının bağışlanması iləXilas olunmaları barədə bildirəcəksən.</verse>
+        <verse osisID='Luke.1.78'>Axı Allahımızın ürəyi mərhəmətlidir,Onun bu mərhəmətinə görəUcalarda bizim üçün Günəş doğacaq ki,</verse>
+        <verse osisID='Luke.1.79'>Zülmətdə və ölüm kölgəsində oturanların üzərinə nur saçsın,Ayaqlarımızı sülh yoluna yönəltsin». </verse>
+        <verse osisID='Luke.1.80'>Körpə isə böyüyüb ruhən qüvvətlənirdi və İsrail xalqına görünən günədək çöldə qaldı.  </verse>
+      </chapter>
+      <chapter osisID='Luke.2'>
+        <verse osisID='Luke.2.1'>
+          O günlərdə qeysər Avqust bütün Roma ölkəsi üçün siyahıyaalma keçirmək barəsində fərman verdi.</verse>
+        <verse osisID='Luke.2.2'>Bu ilk siyahıyaalma Kirini Suriyanın valisi olanda keçirilmişdi.</verse>
+        <verse osisID='Luke.2.3'>Hamı siyahıya alınmaq üçün öz şəhərinə yollandı. </verse>
+        <verse osisID='Luke.2.4'>Yusif də Davudun əsil-nəslindən olduğuna görə Qalileyanın Nazaret şəhərindən çıxıb Yəhudeyaya, Davudun şəhəri olan Bet-Lexemə yollandı.</verse>
+        <verse osisID='Luke.2.5'>O oraya hamilə olan nişanlısı Məryəmlə birlikdə siyahıya alınmaq üçün getdi.</verse>
+        <verse osisID='Luke.2.6'>Onlar orada olarkən Məryəmin doğuş vaxtı çatdı.</verse>
+        <verse osisID='Luke.2.7'>O, ilk Oğlunu doğdu. Körpəni bələyib axura qoydu, çünki qonaq evində onlara yer tapılmadı. </verse>
+        <verse osisID='Luke.2.8'>O ərazidə sürülərinin yanında gecə növbəsini çəkən çobanlar var idi. Onlar çöldə gecələyirdi.</verse>
+        <verse osisID='Luke.2.9'>Birdən Rəbbin bir mələyi onların qarşısında zühur etdi və Rəbbin ehtişamı onların üzərinə nur saçdı. Çobanları böyük qorxu bürüdü.</verse>
+        <verse osisID='Luke.2.10'>Mələk onlara dedi: «Qorxmayın! Mən sizə bütün xalqı çox sevindirəcək bir Müjdə gətirmişəm.</verse>
+        <verse osisID='Luke.2.11'>Bu gün Davudun şəhərində sizin üçün Xilaskar doğuldu. Bu, Rəbb Məsihdir.</verse>
+        <verse osisID='Luke.2.12'>Sizə əlamət bu olacaq: axurda yatan bələnmiş Körpə tapacaqsınız».</verse>
+        <verse osisID='Luke.2.13'>Qəflətən mələyin yanında Allaha həmd edən çoxsaylı səmavi ordu göründü. Onlar belə deyirdi:</verse>
+        <verse osisID='Luke.2.14'>«Ən ucalarda Allaha izzət,Yer üzündə Onun razı olduğu insanlara sülh olsun!» </verse>
+        <verse osisID='Luke.2.15'>Mələklər çobanları tərk edib göyə qalxandan sonra onlar bir-birinə dedi: «Gəlin Bet-Lexemə gedək və Rəbbin bizə bildirdiyi bu baş vermiş hadisəni görək».</verse>
+        <verse osisID='Luke.2.16'>Onlar tələsik getdilər. Məryəmi, Yusifi və axurda yatan Körpəni tapdılar.</verse>
+        <verse osisID='Luke.2.17'>Çobanlar Körpəni görəndə Onun haqqında onlara nəql edilənləri bildirdilər.</verse>
+        <verse osisID='Luke.2.18'>Bunu eşidənlərin hamısı çobanların sözlərindən heyrətə gəldi.</verse>
+        <verse osisID='Luke.2.19'>Məryəm isə bütün bu şeyləri dərin düşünərək öz ürəyində saxlayırdı.</verse>
+        <verse osisID='Luke.2.20'>Çobanlar bütün gördükləri və eşitdiklərinə görə Allahı izzətləndirib həmd edərək geri qayıtdılar. Çünki hər şey onlara söylənən kimi baş vermişdi. </verse>
+        <verse osisID='Luke.2.21'>Səkkizinci gün Körpənin sünnət olunması vaxtı gələndə Onun adını İsa qoydular. Bu ad ona ana bətninə düşməzdən əvvəl mələk tərəfindən verilmişdi. </verse>
+        <verse osisID='Luke.2.22'>Musanın Qanununa görə paklanma dövrü tamamlanandan sonra Yusiflə Məryəm Körpəni Rəbbə həsr etmək üçün Yerusəlimə gətirdilər,</verse>
+        <verse osisID='Luke.2.23'>necə ki Rəbbin Qanununda yazılıb: «Bətndən ilk doğulan bütün oğlanlar Rəbb üçün müqəddəs sayılsın».</verse>
+        <verse osisID='Luke.2.24'>Həmçinin onlar qurban təqdim etdilər, necə ki Rəbbin Qanununda əmr olunub: «İki qumru quşu yaxud iki göyərçin balası». </verse>
+        <verse osisID='Luke.2.25'>O vaxt Yerusəlimdə Şimeon adlı bir adam var idi. O, saleh və mömin idi. İsrailə təsəlli veriləcəyini gözləyirdi və Müqəddəs Ruh onun üzərində idi.</verse>
+        <verse osisID='Luke.2.26'>Müqəddəs Ruh ona əvvəlcədən açıqlamışdı ki, o, Rəbbin Məsihini görməyincə ölməyəcək.</verse>
+        <verse osisID='Luke.2.27'>Beləliklə, Şimeon Ruhdan ilham alıb məbədə gəldi. Körpənin ata-anası Qanunda qoyulan adətə əməl etmək üçün Körpə İsanı məbədə gətirəndə</verse>
+        <verse osisID='Luke.2.28'>Şimeon Körpəni qucağına götürdü və Allaha alqış edərək belə dedi:</verse>
+        <verse osisID='Luke.2.29'>«Ey Pərvərdigar, indi Sənin sözünə görəMən – Sənin qulun arxayın ölə bilərəm.</verse>
+        <verse osisID='Luke.2.30'>Çünki bütün xalqların gözləri önündə hazırladığın xilası,Millətlərə aşkar edən nuru,Xalqın İsrail üçün də izzətiÖz gözlərimlə gördüm».</verse>
+        <verse osisID='Luke.2.31'>Çünki bütün xalqların gözləri önündə hazırladığın xilası,Millətlərə aşkar edən nuru,Xalqın İsrail üçün də izzətiÖz gözlərimlə gördüm».</verse>
+        <verse osisID='Luke.2.32'>Çünki bütün xalqların gözləri önündə hazırladığın xilası,Millətlərə aşkar edən nuru,Xalqın İsrail üçün də izzətiÖz gözlərimlə gördüm».</verse>
+        <verse osisID='Luke.2.33'>Körpənin ata-anası Onun barəsində deyilən sözlərə görə heyrətə gəldi.</verse>
+        <verse osisID='Luke.2.34'>Şimeon onlara xeyir-dua verib Körpənin anası Məryəmə belə dedi: «Bu Körpə İsraildə bir çox adamın yıxılmasının ya ucalmasının səbəbkarı və insanların rədd etdiyi bir əlamət olmaq üçün təyin olunub.</verse>
+        <verse osisID='Luke.2.35'>Sənin köksünə isə sanki qılınc saplanacaq. Bütün bunlar bir çoxlarının qəlbindəki fikirlərin aşkara çıxması üçün olacaq». </verse>
+        <verse osisID='Luke.2.36'>Orada Aşer qəbiləsindən olan Penuel qızı Xanna adlı qadın peyğəmbər də var idi. O, çox yaşlı idi. Gənc yaşında ərə getmiş, əri ilə yeddi il yaşayıb dul qalmışdı.</verse>
+        <verse osisID='Luke.2.37'>Bu, səksən dörd yaşında dul qadın idi. O, məbədi tərk etmirdi və oruc tutub dua edərək gecə-gündüz Rəbbə ibadət edirdi.</verse>
+        <verse osisID='Luke.2.38'>Xanna da bu zaman yaxınlaşdı və Allaha şükür edərək Yerusəlimin satın alınmasını gözləyən bütün adamlara Körpə İsa barədə nəql etməyə başladı. </verse>
+        <verse osisID='Luke.2.39'>Yusiflə Məryəm Rəbbin Qanununa əsasən hər şeyi icra edib qurtardıqdan sonra Qalileyaya – öz şəhərləri olan Nazaretə qayıtdı.</verse>
+        <verse osisID='Luke.2.40'>Uşaq böyüyür, qüvvətlənir və hikmətdə yetkinləşirdi. Allahın lütfü də Onun üzərində idi. </verse>
+        <verse osisID='Luke.2.41'>Hər il İsanın ata-anası Pasxa bayramında Yerusəlimə gedərdi.</verse>
+        <verse osisID='Luke.2.42'>İsanın on iki yaşı tamam olanda onlar bayram adətinə görə yenə ora getdilər.</verse>
+        <verse osisID='Luke.2.43'>Bayram qurtarandan sonra onlar evə yollandılar. Amma yeniyetmə İsa Yerusəlimdə qaldı, onun ata-anasının isə bundan xəbəri yox idi.</verse>
+        <verse osisID='Luke.2.44'>Onlar İsanın səyyahlar dəstəsi içində getdiyini düşünürdülər. Amma bir günlük yolu gedəndən sonra Onu dostların və qohumların arasında axtarmağa başladılar.</verse>
+        <verse osisID='Luke.2.45'>Onu tapmadılar və axtara-axtara Yerusəlimə qayıtdılar.</verse>
+        <verse osisID='Luke.2.46'>Üç gündən sonra Onu məbəddə tapdılar. İsa müəllimlər arasında oturmuşdu və onlara qulaq asır, suallar verirdi.</verse>
+        <verse osisID='Luke.2.47'>Onu dinləyən hər kəs Onun zəkasına və verdiyi cavablara mat qalırdı.</verse>
+        <verse osisID='Luke.2.48'>Ata-anası Onu görüb təəccübləndi. İsanın anası Ona dedi: «Oğlum, bu nədir başımıza gətirdin? Atanla mən nigaran qalıb səni axtarırdıq».</verse>
+        <verse osisID='Luke.2.49'>İsa onlara cavab verdi: «Məni nə üçün axtarırdınız? Məgər bilmirdiniz ki, Mən Atamın evində olmalıyam?»</verse>
+        <verse osisID='Luke.2.50'>Amma onlar Onun nə demək istədiyini başa düşmədilər.</verse>
+        <verse osisID='Luke.2.51'>Sonra İsa ata-anası ilə Nazaretə qayıtdı. O, ata-anasına itaətli idi. Onun anası isə bütün bu şeyləri öz ürəyində saxlayırdı.</verse>
+        <verse osisID='Luke.2.52'>İsa böyüyürdü və hikmətdə artırdı. O, Allahın və insanların qarşısında lütf qazanırdı.  </verse>
+      </chapter>
+      <chapter osisID='Luke.3'>
+        <verse osisID='Luke.3.1'>
+          Qeysər Tiberinin hakimiyyətinin on beşinci ili idi. O dövrdə Ponti Pilat Yəhudeyanın valisi idi. Hirod Qalileyada, qardaşı Filip İtureya və Traxonitis bölgəsində, Lisaniya Abileniyada hökmranlıq edirdi.</verse>
+        <verse osisID='Luke.3.2'>Xananla Qayafa baş kahin idi. O vaxt çöldə Zəkəriyyənin oğlu Yəhyaya Allahın kəlamı nazil oldu.</verse>
+        <verse osisID='Luke.3.3'>O da İordan çayının ətrafındakı bütün bölgəni dolaşaraq insanların öz günahlarının bağışlanması üçün tövbə edib vəftiz olunmasını vəz edirdi.</verse>
+        <verse osisID='Luke.3.4'>Necə ki Yeşaya peyğəmbərin kitabında yazılıb:  «Səhrada nida edənin səsi gəlir:“Rəbbin yolunu hazırlayın,Onun keçəcəyi yerləri düz edin.</verse>
+        <verse osisID='Luke.3.5'>Hər dərə yüksəldiləcək,Hər dağ və təpə aşağı endiriləcək,Yoldakı əyriliklər düzələcək,Kələ-kötür yerlər hamar ediləcək.</verse>
+        <verse osisID='Luke.3.6'>Bütün bəşər Allahın xilasını görəcək”». </verse>
+        <verse osisID='Luke.3.7'>Yəhya vəftiz olunmaq üçün yanına gələn camaata deyirdi: «Ey gürzələr nəsli! Üzərinizə gələcək qəzəbdən canınızı qurtarmağı sizin beyninizə kim yeridib?</verse>
+        <verse osisID='Luke.3.8'>İndi isə tövbəyə layiq bəhrələr verin. Ürəyinizdə “atamız İbrahimdir” deməyə başlamayın. Mən sizə deyirəm ki, Allah bu daşlardan İbrahimə övlad yaratmağa qadirdir.</verse>
+        <verse osisID='Luke.3.9'>Artıq balta ağacların dibində yatır. Beləliklə, yaxşı bəhrə verməyən hər ağac kəsilir və oda atılır». </verse>
+        <verse osisID='Luke.3.10'>Camaat ondan soruşurdu: «Bəs biz nə edək?»</verse>
+        <verse osisID='Luke.3.11'>Yəhya onlara belə cavab verdi: «İki köynəyi olan birini köynəyi olmayana versin. Həmçinin yeməyi olan adam da olmayanla bölüşsün».</verse>
+        <verse osisID='Luke.3.12'>Vergiyığanlar da vəftiz olunmaq üçün onun yanına gəlib soruşdular: «Müəllim, biz nə edək?»</verse>
+        <verse osisID='Luke.3.13'>Yəhya onlara dedi: «Sizə tapşırılan məbləğdən artıq vergi yığmayın».</verse>
+        <verse osisID='Luke.3.14'>Bəzi əsgərlər də gəlib ondan soruşdular: «Bəs biz nə etməliyik?» Yəhya da onlara cavab verdi: «Heç kimdən zorla pul almayın, nahaq yerə ittiham etməyin, aldığınız maaşla kifayətlənin». </verse>
+        <verse osisID='Luke.3.15'>Xalq ümidlə gözləyirdi və hamı ürəyində Yəhya haqqında öz-özündən soruşurdu: «Görəsən bu, Məsihdirmi?»</verse>
+        <verse osisID='Luke.3.16'>Yəhya onların hamısına belə cavab verdi: «Mən sizi su ilə vəftiz edirəm, amma məndən daha Qüdrətlisi gəlir. Mən Onun çarıqlarının bağını açmağa belə, layiq deyiləm. O sizi Müqəddəs Ruhla və odla vəftiz edəcək.</verse>
+        <verse osisID='Luke.3.17'>Öz xırmanını sovurmaq və taxılı anbarına toplamaq üçün kürəyi əlində hazırdır. Küləşi isə sönməz odda yandıracaq». </verse>
+        <verse osisID='Luke.3.18'>Yəhya çoxlu başqa öyüd-nəsihət verərək xalqa Müjdəni vəz edirdi.</verse>
+        <verse osisID='Luke.3.19'>Amma Yəhya hökmdar Hirodu qardaşı arvadı Hirodiyanı aldığına və etdiyi hər cür pis işlərə görə məzəmmət etdikdə</verse>
+        <verse osisID='Luke.3.20'>Hirod etdiyi bütün pis işlərə bunu da əlavə edərək Yəhyanı zindana saldırdı. </verse>
+        <verse osisID='Luke.3.21'>Bütün xalq vəftiz olunanda İsa da vəftiz olundu. O dua edərkən göy yarıldı,</verse>
+        <verse osisID='Luke.3.22'>Müqəddəs Ruh bədəncə göyərçin şəklində Onun üzərinə endi. Göydən bir səda gəldi: «Sən Mənim sevimli Oğlumsan, Səndən razıyam». </verse>
+        <verse osisID='Luke.3.23'>İsa Öz xidmətinə başlayanda təxminən otuz yaşında idi. İnsanların zənnincə, O bu nəsildən idi: Yusif Oğlu Eli oğlu</verse>
+        <verse osisID='Luke.3.24'>Mattat oğlu Levi oğlu Melki oğlu Yannay oğlu Yusif oğlu</verse>
+        <verse osisID='Luke.3.25'>Mattitya oğlu Amos oğlu Nahum oğlu Hasli oğlu Naqqay oğlu</verse>
+        <verse osisID='Luke.3.26'>Mahat oğlu Mattitya oğlu Şimi oğlu Yoseh oğlu Yoda oğlu</verse>
+        <verse osisID='Luke.3.27'>Yoxanan oğlu Reşa oğlu Zerubbabil oğlu Şealtiel oğlu Neri oğlu</verse>
+        <verse osisID='Luke.3.28'>Melki oğlu Addi oğlu Kosam oğlu Elmadam oğlu Er oğlu</verse>
+        <verse osisID='Luke.3.29'>Yeşua oğlu Eliezer oğlu Yorim oğlu Mattat oğlu Levi oğlu</verse>
+        <verse osisID='Luke.3.30'>Şimeon oğlu Yəhuda oğlu Yusif oğlu Yonam oğlu Elyaqim oğlu</verse>
+        <verse osisID='Luke.3.31'>Melea oğlu Menna oğlu Mattata oğlu Natan oğlu Davud oğlu</verse>
+        <verse osisID='Luke.3.32'>Yessey oğlu Oved oğlu Boaz oğlu Salmon oğlu Naxşon oğlu</verse>
+        <verse osisID='Luke.3.33'>Amminadav oğlu Admin oğlu Arni oğlu Xesron oğlu Peres oğlu Yəhuda oğlu</verse>
+        <verse osisID='Luke.3.34'>Yaqub oğlu İshaq oğlu İbrahim oğlu Terah oğlu Naxor oğlu</verse>
+        <verse osisID='Luke.3.35'>Seruq oğlu Reu oğlu Peleq oğlu Ever oğlu Şelah oğlu</verse>
+        <verse osisID='Luke.3.36'>Qenan oğlu Arpakşad oğlu Sam oğlu Nuh oğlu Lemek oğlu</verse>
+        <verse osisID='Luke.3.37'>Metuşelah oğlu Xanok oğlu Yered oğlu Mahalalel oğlu Qenan oğlu</verse>
+        <verse osisID='Luke.3.38'>Enoş oğlu Şet oğlu Adəm oğlu Allah oğlu.  </verse>
+      </chapter>
+      <chapter osisID='Luke.4'>
+        <verse osisID='Luke.4.1'>
+          İsa Müqəddəs Ruhla dolaraq İordan çayından qayıtdı və Ruh tərəfindən səhraya aparıldı.</verse>
+        <verse osisID='Luke.4.2'>Orada İsa qırx gün ərzində iblis tərəfindən sınağa çəkildi. Bu müddətdə İsa heç nə yemədi və qırx gün keçəndən sonra acdı.</verse>
+        <verse osisID='Luke.4.3'>İblis Ona dedi: «Əgər Sən Allahın Oğlusansa, bu daşa əmr et ki, çörəyə dönsün».</verse>
+        <verse osisID='Luke.4.4'>Lakin İsa ona belə cavab verdi: «“İnsan yalnız çörəklə yaşamaz” deyə yazılmışdır». </verse>
+        <verse osisID='Luke.4.5'>Sonra iblis İsanı yuxarıya çıxardı və bir anda dünyanın bütün padşahlıqlarını Ona göstərdi.</verse>
+        <verse osisID='Luke.4.6'>İblis İsaya dedi: «Mən bütün bunların üzərindəki səlahiyyəti və şan-şöhrəti Sənə verəcəyəm. Çünki bunlar mənə verilib və mən kimə istəsəm, ona verə bilərəm.</verse>
+        <verse osisID='Luke.4.7'>Bax əgər Sən mənə səcdə etsən, bunların hamısı sənin olacaq».</verse>
+        <verse osisID='Luke.4.8'>İsa ona belə cavab verdi: «“Allahın Rəbbə səcdə et və yalnız Ona ibadət et” deyə yazılmışdır». </verse>
+        <verse osisID='Luke.4.9'>Sonra iblis Onu Yerusəlimə apardı və məbədin qülləsinə qoyub dedi: «Əgər Sən Allahın Oğlusansa, özünü buradan aşağı at.</verse>
+        <verse osisID='Luke.4.10'>Axı  “Allah Sənə görə mələklərinə əmr edər ki,Səni qorusunlar,</verse>
+        <verse osisID='Luke.4.11'>Səni əlləri üstündə aparsınlar,Ayağın bir daşa dəyməsin”  deyə yazılmışdır».</verse>
+        <verse osisID='Luke.4.12'>Amma İsa cavabında ona belə dedi: «“Allahın Rəbbi sınama” deyilmişdir». </verse>
+        <verse osisID='Luke.4.13'>İblis sınaqların hamısını qurtarandan sonra bir müddət Onu tərk etdi. </verse>
+        <verse osisID='Luke.4.14'>İsa Ruhun qüdrəti ilə Qalileyaya qayıtdı. Onun haqqında xəbər bütün bölgəyə yayıldı.</verse>
+        <verse osisID='Luke.4.15'>İsa oranın sinaqoqlarında təlim öyrətməyə başladı. Hamı Onu izzətləndirirdi. </verse>
+        <verse osisID='Luke.4.16'>İsa böyüdüyü Nazaret şəhərinə gəldi və adətinə görə Şənbə günü sinaqoqa getdi. O, Müqəddəs Yazılardan oxumaq üçün ayağa qalxdı.</verse>
+        <verse osisID='Luke.4.17'>Ona Yeşaya peyğəmbərin kitabını verdilər. İsa tumarı açıb bu sözlər yazılan hissəni tapdı:</verse>
+        <verse osisID='Luke.4.18'>«Rəbbin Ruhu üzərimdədir,Çünki fəqirlərə Müjdəni bildirmək üçünO Məni məsh etdi.Əsirlərə azadlıq,Korlara gözlərinin açılmasını elan etmək üçün,Məzlumları sərbəstliyə buraxmaq üçün,</verse>
+        <verse osisID='Luke.4.19'>Rəbbin lütf ilini bəyan etmək üçünMəni göndərdi». </verse>
+        <verse osisID='Luke.4.20'>Sonra İsa tumarı bağladı və xidmətçiyə verib oturdu. Sinaqoqda oturanların hamısı Ona diqqətlə baxırdı.</verse>
+        <verse osisID='Luke.4.21'>İsa onlara «eşitdiyiniz bu Müqəddəs Yazı bu gün yerinə yetdi» deyə danışmağa başladı. </verse>
+        <verse osisID='Luke.4.22'>Bu vaxt hamı Onun haqqında yaxşı sözlər deyirdi və Onun ağzından çıxan lütf dolu kəlmələrə heyrət edirdi. Onlar «Məgər bu, Yusifin Oğlu deyilmi?» deyirdilər.</verse>
+        <verse osisID='Luke.4.23'>İsa onlara belə dedi: «Əlbəttə, siz Mənə “Ey həkim, öz-özünə şəfa ver!” məsəlini xatırladacaqsınız. “Kefernahumda etdiklərin barəsində eşitmişik. Burada, Öz yurdunda da həmin işləri et!” deyəcəksiniz».</verse>
+        <verse osisID='Luke.4.24'>Sonra dedi: «Sizə doğrusunu deyirəm: heç bir peyğəmbər öz yurdunda qəbul edilməz.</verse>
+        <verse osisID='Luke.4.25'>Yenə də sizə həqiqəti deyirəm ki, İlyasın dövründə göy üç il altı ay ərzində bağlı qalıb bütün ölkədə böyük aclıq olanda İsraildə çoxlu dul qadın var idi.</verse>
+        <verse osisID='Luke.4.26'>Amma İlyas onlardan heç birinin yanına deyil, Sidonun Sarfat şəhərində olan bir dul qadının yanına göndərildi.</verse>
+        <verse osisID='Luke.4.27'>Elişa peyğəmbərin dövründə İsraildə çoxlu cüzamlı var idi. Ancaq onlardan heç biri deyil, yalnız Aramlı Naaman pak oldu». </verse>
+        <verse osisID='Luke.4.28'>Sinaqoqdakı camaatın hamısı bu sözləri eşidib hiddətləndi.</verse>
+        <verse osisID='Luke.4.29'>Onlar ayağa durdular və İsanı şəhərin kənarına qovdular. Onu uçurumdan atmaq üçün şəhərin qurulduğu təpənin başına gətirdilər.</verse>
+        <verse osisID='Luke.4.30'>Amma İsa onların arasından keçərək oradan çıxıb getdi. </verse>
+        <verse osisID='Luke.4.31'>İsa Qalileyanın Kefernahum şəhərinə gəldi və Şənbə günü onlara təlim öyrətməyə başladı.</verse>
+        <verse osisID='Luke.4.32'>Onun təliminə təəccüblənirdilər, çünki O, səlahiyyətlə danışırdı.</verse>
+        <verse osisID='Luke.4.33'>Həmin vaxt sinaqoqda cinə – natəmiz ruha tutulmuş bir nəfər var idi. O ucadan çığırdı:</verse>
+        <verse osisID='Luke.4.34'>«Nə olub? Ey Nazaretli İsa, bizdən nə istəyirsən? Bizi məhv etməyəmi gəlmisən? Mən bilirəm Sən Kimsən: Allahın Müqəddəsisən!»</verse>
+        <verse osisID='Luke.4.35'>Amma İsa ona qadağan edib dedi: «Sus və bu adamdan çıx!» Cin bu adamı hamının qabağında yerə yıxıb heç bir zərər vermədən ondan çıxdı.</verse>
+        <verse osisID='Luke.4.36'>Hamı heyrətə düşdü və bir-birinə dedi: «Bu söz nədir? O, natəmiz ruhlara səlahiyyət və qüdrətlə əmr edir, onlar da çıxır!»</verse>
+        <verse osisID='Luke.4.37'>İsa haqqında xəbər bu bölgənin hər yerinə yayıldı. </verse>
+        <verse osisID='Luke.4.38'>İsa sinaqoqdan çıxıb Şimonun evinə gəldi. Şimonun qayınanası isə yüksək qızdırma içində yatırdı. Bu qadından ötrü İsadan kömək istədilər.</verse>
+        <verse osisID='Luke.4.39'>İsa ona yaxınlaşıb qızdırma xəstəliyinə qadağan etdi və qadının qızdırması düşdü. Qadın o anda durub onlara xidmət etməyə başladı. </verse>
+        <verse osisID='Luke.4.40'>Gün batanda hamı müxtəlif xəstəliyə tutulanları İsanın yanına gətirdi. O hər birinin üzərinə əllərini qoyub onlara şəfa verdi.</verse>
+        <verse osisID='Luke.4.41'>Bir çoxlarındansa cinlər «Sən Allahın Oğlusan!» deyə bağıraraq çıxırdı. O isə onlara qadağan edir, danışmağa izin vermirdi. Çünki onlar İsanın Məsih olduğunu bilirdilər. </verse>
+        <verse osisID='Luke.4.42'>Səhər açılanda İsa çıxıb kimsəsiz bir yerə getdi. Camaat isə Onu axtarırdı və İsanın yanına gəlib onları tərk etməsin deyə Onu yanlarında saxlamaq istədilər.</verse>
+        <verse osisID='Luke.4.43'>Lakin İsa onlara dedi: «Mən o biri şəhərlərə də Allahın Padşahlığının Müjdəsini yaymalıyam, çünki Mən bunun üçün göndərilmişəm».</verse>
+        <verse osisID='Luke.4.44'>Beləliklə, İsa Yəhudeyanın sinaqoqlarında vəz etməyə davam etdi.  </verse>
+      </chapter>
+      <chapter osisID='Luke.5'>
+        <verse osisID='Luke.5.1'>
+           Bir gün İsa Ginesar gölünün sahilində dayanmışdı. İzdiham İsanı dövrəyə almışdı və Allahın kəlamına qulaq asırdı.</verse>
+        <verse osisID='Luke.5.2'>İsa göl kənarında duran iki qayıq gördü. Balıqçılar isə qayıqdan çıxıb torlarını yuyurdular.</verse>
+        <verse osisID='Luke.5.3'>İsa iki qayıqdan birinə – Şimonun qayığına minib onu gölün kənarından bir az uzaqlaşdırmasını xahiş etdi. Sonra İsa oturdu və qayıqdan izdihama təlim öyrətməyə başladı. </verse>
+        <verse osisID='Luke.5.4'>O, sözünü qurtaranda Şimona dedi: «Qayığı dərinliyə aparın və torlarınızı balıq tutmaq üçün suya atın».</verse>
+        <verse osisID='Luke.5.5'>Şimon cavab verdi: «Ustad, biz bütün gecə çalışdıq, lakin heç nə tuta bilmədik. Amma Sənin sözünə görə yenə də torları ataram».</verse>
+        <verse osisID='Luke.5.6'>Bunu etdilər və o qədər balıq tutdular ki, hətta torları cırılmağa başladı.</verse>
+        <verse osisID='Luke.5.7'>O biri qayıqdakı yoldaşlarına da işarə etdilər ki, gəlib kömək etsinlər. Onlar gəlib hər iki qayığı balıqla doldurdular. Qayıqlar da batmağa başladı.</verse>
+        <verse osisID='Luke.5.8'>Şimon Peter bunu gördükdə İsanın ayaqlarına düşdü və belə dedi: «Ya Rəbb, məndən uzaqlaş, axı mən günahkar bir adamam».</verse>
+        <verse osisID='Luke.5.9'>Çünki özü də, yanındakılar da tutduqları balıqların çoxluğuna görə heyrətə düşmüşdülər.</verse>
+        <verse osisID='Luke.5.10'>Şimonla ortaq olan Yaqub və Yəhya adlı Zavday oğulları da eyni hisslər keçirirdi. Amma İsa Şimona belə dedi: «Qorxma, bundan belə, balıq əvəzinə adam tutacaqsan».</verse>
+        <verse osisID='Luke.5.11'>Onlar qayıqları göl kənarına çıxarıb hər şeyi atdılar və İsanın ardınca getdilər. </verse>
+        <verse osisID='Luke.5.12'>Bir gün İsa şəhərlərin birində olarkən bütün bədəni cüzama tutulmuş bir kişi ilə rastlaşdı. Bu adam İsanı görüb üzüstə yerə qapanaraq yalvardı: «Ya Rəbb, əgər istəsən, məni pak edə bilərsən».</verse>
+        <verse osisID='Luke.5.13'>İsa əlini uzadıb ona toxundu və dedi: «İstəyirəm, pak ol!» Dərhal bu adam cüzamdan sağaldı.</verse>
+        <verse osisID='Luke.5.14'>İsa ona tapşırdı ki, heç kəsə bir söz söyləməsin və dedi: «Amma get, özünü kahinə göstər. Hər kəsə şəhadət olsun deyə sənin cüzamdan paklandığın üçün Musanın buyurduğuna əsasən təqdimlər apar».</verse>
+        <verse osisID='Luke.5.15'>Amma indi İsa barəsində xəbər daha çox yayılırdı. Çoxlu camaat axışıb İsanın yanına gəlirdi ki, Ona qulaq assın və xəstəliklərdən şəfa tapsın.</verse>
+        <verse osisID='Luke.5.16'>Amma İsa kimsəsiz yerlərə çəkilib dua edirdi. </verse>
+        <verse osisID='Luke.5.17'>Bir gün İsa təlim öyrədirdi. Qalileyanın və Yəhudeyanın bütün kəndlərindən və Yerusəlimdən gələn fariseylər və Qanun müəllimləri Onun yanında oturmuşdu. Onda şəfa vermək üçün Rəbbin qüdrəti var idi.</verse>
+        <verse osisID='Luke.5.18'>Bu vaxt bir neçə nəfər yataqda yatan bir iflic adamı gətirdi. Onlar bu adamı içəri gətirib İsanın önünə qoymağa çalışırdılar.</verse>
+        <verse osisID='Luke.5.19'>Amma böyük izdihama görə iflici İsanın yanına gətirə bilmirdilər. Ona görə də evin damına çıxıb kirəmitləri söküb açdıqları yerdən xəstəni yatağı ilə birgə aşağı endirdilər və ortalığa, İsanın qarşısına qoydular.</verse>
+        <verse osisID='Luke.5.20'>İsa onların imanını görüb dedi: «Dostum, günahların bağışlandı».</verse>
+        <verse osisID='Luke.5.21'>İlahiyyatçılar və fariseylər belə düşünməyə başladılar: «Küfr danışan bu Adam kimdir ki? Tək Allahdan başqa günahları kim bağışlaya bilər?»</verse>
+        <verse osisID='Luke.5.22'>İsa onların nə fikirləşdiyini dərk edib cavab verdi: «Niyə ürəyinizdə belə düşünürsünüz?</verse>
+        <verse osisID='Luke.5.23'>Bax hansı daha asandır? “Günahların bağışlandı” deməkmi, yoxsa “Qalx, yeri!” demək?</verse>
+        <verse osisID='Luke.5.24'>Lakin siz bilin ki, Bəşər Oğlunun yer üzündə günahları bağışlamaq səlahiyyəti var» və iflicə dedi: «Sənə deyirəm, qalx, yatağını götür, evinə get!»</verse>
+        <verse osisID='Luke.5.25'>Xəstə dərhal hamının qarşısında ayağa qalxdı, yatağını götürdü və Allahı izzətləndirərək evinə getdi.</verse>
+        <verse osisID='Luke.5.26'>Hamı mat qaldı və Allahı izzətləndirib böyük qorxu içində dedi: «Bu gün möcüzəli işlər gördük!» </verse>
+        <verse osisID='Luke.5.27'>Bundan sonra İsa bayıra çıxdı və vergi yığılan yerdə oturan Levi adlı vergiyığanı görüb ona dedi: «Ardımca gəl».</verse>
+        <verse osisID='Luke.5.28'>O da durub hər şeyi atdı və İsanın ardınca getdi. </verse>
+        <verse osisID='Luke.5.29'>Sonra Levi evində İsaya böyük bir qonaqlıq verdi. Onlarla birgə bir çox vergiyığan və başqa adamlar süfrəyə oturmuşdu.</verse>
+        <verse osisID='Luke.5.30'>Fariseylərlə onların ilahiyyatçıları şikayət etməyə başladı. Onlar İsanın şagirdlərinə dedi: «Niyə vergiyığanlar və günahkarlarla birgə yeyib-içirsiniz?»</verse>
+        <verse osisID='Luke.5.31'>Amma İsa onlara belə cavab verdi: «Sağlamların deyil, xəstələrin həkimə ehtiyacı var.</verse>
+        <verse osisID='Luke.5.32'>Mən salehləri deyil, günahkarları tövbəyə çağırmaq üçün gəlmişəm». </verse>
+        <verse osisID='Luke.5.33'>Onlarsa İsaya dedilər: «Yəhyanın şagirdləri tez-tez oruc tutub dua edir, fariseylərin şagirdləri də belə edirlər. Amma Səninkilər yeyib-içirlər».</verse>
+        <verse osisID='Luke.5.34'>İsa onlara cavab verdi: «Bəy yanlarında olanda sağdışı və soldışı oruc tutmağa məcbur edə bilərsinizmi?</verse>
+        <verse osisID='Luke.5.35'>Lakin bəyin onların arasından aparılacağı günlər gələcək və o zaman oruc tutacaqlar». </verse>
+        <verse osisID='Luke.5.36'>İsa onlara bir məsəl də çəkdi: «Heç kim təzə paltardan bir parça qoparıb köhnə paltara yamaq vurmaz. Yoxsa təzə paltar həm cırılar, həm də təzə paltardan qoparılan parça köhnə paltara yaraşmaz.</verse>
+        <verse osisID='Luke.5.37'>Heç kim təzə şərabı köhnə tuluqlara doldurmaz. Yoxsa təzə şərab tuluqları partladar, həm şərab tökülər, həm də tuluqlar zay olar.</verse>
+        <verse osisID='Luke.5.38'>Təzə şərab təzə tuluqlara doldurulmalıdır.</verse>
+        <verse osisID='Luke.5.39'>Heç kim köhnə şərabı içdikdən sonra təzəsini istəməz. Çünki deyər: “Köhnəsi daha yaxşıdır”».  </verse>
+      </chapter>
+      <chapter osisID='Luke.6'>
+        <verse osisID='Luke.6.1'>
+           Bir Şənbə günü İsa taxıl zəmiləri arasından keçirdi. Şagirdləri sünbülləri qırır və ovuclarında ovub yeyirdilər.</verse>
+        <verse osisID='Luke.6.2'>Fariseylərdən bəzisi dedi: «Siz nə üçün Şənbə günü qadağan olunan işləri görürsünüz?»</verse>
+        <verse osisID='Luke.6.3'>İsa onlara cavab verdi: «Davud və yanındakılar ac olanda nə etdiklərini oxumamısınızmı?</verse>
+        <verse osisID='Luke.6.4'>O, Allahın evinə girdi; kahinlərdən başqa heç kəsə yeməyə icazə verilməyən təqdis çörəklərini götürüb yedi, yanındakılara da verdi».</verse>
+        <verse osisID='Luke.6.5'>Sonra İsa onlara dedi: «Bəşər Oğlu Şənbə gününün Sahibidir». </verse>
+        <verse osisID='Luke.6.6'>Başqa bir Şənbə günü İsa yenə də sinaqoqa girib təlim öyrədirdi. Orada sağ əli qurumuş bir adam var idi.</verse>
+        <verse osisID='Luke.6.7'>İlahiyyatçılar və fariseylər İsanı ittiham etməyə bəhanə tapmaq üçün Ona göz qoyurdular ki, görsünlər, Şənbə günü şəfa verəcək ya yox.</verse>
+        <verse osisID='Luke.6.8'>Amma İsa onların nə düşündüklərini bilib əli qurumuş kişiyə dedi: «Ayağa qalx və qabağa çıx!» O adam da ayağa qalxıb ortaya çıxdı.</verse>
+        <verse osisID='Luke.6.9'>Sonra İsa onlara dedi: «Sizdən soruşuram, hansına icazə var, Şənbə günü yaxşılıq, yoxsa pislik etməyə, kiminsə canını xilas, yoxsa məhv etməyə?»</verse>
+        <verse osisID='Luke.6.10'>İsa ətrafındakıların hamısına baxdı və o adama dedi: «Əlini uzat!» O da elə etdi və əli əvvəlki halına qayıtdı.</verse>
+        <verse osisID='Luke.6.11'>Onlarsa qəzəbdən coşub İsaya nə edə biləcəkləri barədə bir-biri ilə müzakirə etməyə başladılar. </verse>
+        <verse osisID='Luke.6.12'>O günlərdə İsa dua etmək üçün dağa çıxdı. O bütün gecəni Allaha dua etməklə keçirtdi.</verse>
+        <verse osisID='Luke.6.13'>Gün açılanda şagirdlərini yanına çağırdı və onlardan on iki nəfəri seçib həvari adlandırdı:</verse>
+        <verse osisID='Luke.6.14'>Peter adını verdiyi Şimon, onun qardaşı Andrey, Yaqub, Yəhya, Filip, Bartalmay,</verse>
+        <verse osisID='Luke.6.15'>Matta, Tomas, Halfay oğlu Yaqub, Millətçi adlanan Şimon,</verse>
+        <verse osisID='Luke.6.16'>Yaqub oğlu Yəhuda və sonralar xəyanətkar olan Yəhuda İskaryot. </verse>
+        <verse osisID='Luke.6.17'>İsa onlarla birgə aşağı endi və düzəngahda dayandı. Orada çox sayda şagirdlərindən ibarət izdiham var idi. Bütün Yəhudeyadan, Yerusəlimdən, Sur və Sidon yaxınlığındakı sahil bölgələrindən çoxlu adam</verse>
+        <verse osisID='Luke.6.18'>Onu dinləmək və öz xəstəliklərindən sağalmaq üçün gəlmişdi. Natəmiz ruhlardan əzab çəkənlər də şəfa tapdılar.</verse>
+        <verse osisID='Luke.6.19'>Bütün izdiham İsaya toxunmağa çalışırdı. Çünki Ondan çıxan qüdrət hamını sağaldırdı. </verse>
+        <verse osisID='Luke.6.20'>İsa Öz şagirdlərinə nəzər salıb dedi:  «Nə bəxtiyarsınız, ey yoxsullar!Çünki Allahın Padşahlığı sizindir.</verse>
+        <verse osisID='Luke.6.21'>Nə bəxtiyarsınız, ey indi aclıq çəkənlər!Çünki doyacaqsınız.Nə bəxtiyarsınız, ey indi ağlayanlar!Çünki güləcəksiniz.</verse>
+        <verse osisID='Luke.6.22'>Bəşər Oğluna görə insanlar sizə nifrət edəndə, sizi cəmiyyətdən qovub təhqir edəndə, adınızı bədnam edəndə nə bəxtiyarsınız!</verse>
+        <verse osisID='Luke.6.23'>O gün sevinin və sevincdən atılıb-düşün! Çünki göydə mükafatınız böyükdür. Axı onların ata-babaları da peyğəmbərlərlə belə davranıb.</verse>
+        <verse osisID='Luke.6.24'>Amma vay halınıza, ey varlılar!Çünki artıq təsəllinizi almısınız.</verse>
+        <verse osisID='Luke.6.25'>Vay halınıza, ey indi tox olan sizlər!Çünki aclıq çəkəcəksiniz.Vay halınıza, ey indi gülənlər!Çünki yas tutub ağlayacaqsınız.</verse>
+        <verse osisID='Luke.6.26'>Bütün adamlar sizin barənizdə yaxşı şeylər danışanda vay halınıza! Axı onların ata-babaları da yalançı peyğəmbərlərlə belə davranıb. </verse>
+        <verse osisID='Luke.6.27'>Amma sizə deyirəm, ey Məni dinləyənlər: düşmənlərinizi sevin, sizə nifrət edənlərə yaxşılıq edin,</verse>
+        <verse osisID='Luke.6.28'>sizi lənətləyənlərə xeyir-dua verin, sizi incidənlər üçün dua edin. </verse>
+        <verse osisID='Luke.6.29'>Bir üzünə şillə vurana o birini də çevir və üst paltarını aparandan köynəyini də əsirgəmə.</verse>
+        <verse osisID='Luke.6.30'>Səndən bir şey diləyən hər kəsə ver və sənin malını aparandan geri istəmə.</verse>
+        <verse osisID='Luke.6.31'>İnsanların sizinlə necə rəftar etməsini istəyirsinizsə, siz də onlarla elə rəftar edin. </verse>
+        <verse osisID='Luke.6.32'>Əgər sizi sevənləri sevirsinizsə, hansı tərifə layiqsiniz? Çünki günahkarlar da onları sevənləri sevirlər.</verse>
+        <verse osisID='Luke.6.33'>Əgər sizə yaxşılıq edənlərə yaxşılıq edirsinizsə, hansı tərifə layiqsiniz? Çünki günahkarlar da elə edirlər.</verse>
+        <verse osisID='Luke.6.34'>Əgər geri almaq ümidi ilə insanlara borc verirsinizsə, hansı tərifə layiqsiniz? Günahkarlar da günahkarlara borc verirlər ki, həmin borcu tam geri alsınlar.</verse>
+        <verse osisID='Luke.6.35'>Sizsə düşmənlərinizi sevin, onlara yaxşılıq edin və heç bir şey ummadan borc verin. Onda alacağınız mükafat böyük olacaq və siz Haqq-Taalanın övladları olacaqsınız. Çünki O, nankorlara və pis adamlara da xeyirxahdır.</verse>
+        <verse osisID='Luke.6.36'>Atanız mərhəmətli olduğu kimi siz də mərhəmətli olun. </verse>
+        <verse osisID='Luke.6.37'>Mühakimə etməyin, siz də mühakimə olunmazsınız. Hökm çıxarmayın, sizə də hökm çıxarılmaz. Başqalarını bağışlayın, siz də bağışlanacaqsınız.</verse>
+        <verse osisID='Luke.6.38'>Verin, sizə də veriləcək: silkələnib basa-basa dolan bol bir ölçü ilə sizə qucaq-qucaq veriləcək. Çünki hansı ölçü ilə ölçsəniz, sizin üçün də eyni ölçü ilə ölçüləcək». </verse>
+        <verse osisID='Luke.6.39'>İsa onlara yenə də bir məsəl çəkdi: «Kor koru apara bilərmi? İkisi də çuxura düşməzmi?</verse>
+        <verse osisID='Luke.6.40'>Şagird müəllimindən üstün deyil, amma tam təlim alandan sonra hər şagird öz müəllimi kimi olacaq.</verse>
+        <verse osisID='Luke.6.41'>Sən nə üçün qardaşının gözündə çöpü görürsən, amma öz gözündəki tiri seçmirsən?</verse>
+        <verse osisID='Luke.6.42'>Öz gözündəki tiri isə görmədən qardaşına necə deyə bilərsən: “Qardaşım! Qoy gözündəki çöpü çıxarım!” Ey ikiüzlü, əvvəlcə öz gözündən tiri çıxar, onda aydın görərsən ki, qardaşının gözündəki çöpü necə çıxarmaq olar. </verse>
+        <verse osisID='Luke.6.43'>Yaxşı ağac pis bəhrə gətirməz, pis ağac da yaxşı bəhrə gətirməz.</verse>
+        <verse osisID='Luke.6.44'>Çünki hər ağac öz bəhrəsindən tanınır. Qaratikandan əncir yığmazlar, tikan kolundan da üzüm dərməzlər.</verse>
+        <verse osisID='Luke.6.45'>Yaxşı adam ürəyinin yaxşılıq xəzinəsindən yaxşı şeylər çıxarır, pis adamsa pislik xəzinəsindən pis şeylər çıxarır. Çünki ürək doluluğundan ağız danışar. </verse>
+        <verse osisID='Luke.6.46'>Nə üçün Məni “ya Rəbb, ya Rəbb” deyə çağırırsınız, amma dediklərimə əməl etmirsiniz?</verse>
+        <verse osisID='Luke.6.47'>Mənim yanıma gələn, sözlərimi eşidib onlara əməl edən hər adamın kimə bənzədiyini sizə izah edərəm:</verse>
+        <verse osisID='Luke.6.48'>o, ev tikən elə bir adama bənzəyir ki, torpağı qazıb dərinə gedər və təməli qaya üzərində qurar. Daşqın gəldiyi zaman sellər o evi bassa da, onu sarsıda bilməz. Çünki ev yaxşı tikilib.</verse>
+        <verse osisID='Luke.6.49'>Amma sözlərimi eşidib onlara əməl etməyən kəs torpaq üzərində təməlsiz ev tikən adama bənzəyir. Sellər o evi basar və ev o anda uçar. O evin yıxılması bir müsibət olar».  </verse>
+      </chapter>
+      <chapter osisID='Luke.7'>
+        <verse osisID='Luke.7.1'>
+          İsa Ona qulaq asan camaata sözlərini deyib qurtarandan sonra Kefernahuma daxil oldu.</verse>
+        <verse osisID='Luke.7.2'>Orada bir yüzbaşının çox dəyərli qulu xəstələnib ölüm yatağına düşmüşdü.</verse>
+        <verse osisID='Luke.7.3'>Bu yüzbaşı İsa haqqında eşidəndə gəlib qulunu sağaltsın deyə Yəhudilərin bəzi ağsaqqallarını Onun yanına göndərdi.</verse>
+        <verse osisID='Luke.7.4'>Onlar İsanın yanına gəlib Ona ürəkdən yalvardılar və belə dedilər: «Bu adam Sənin köməyinə layiqdir.</verse>
+        <verse osisID='Luke.7.5'>Çünki o bizim millətimizi sevir və bizim üçün sinaqoq tikdirib».</verse>
+        <verse osisID='Luke.7.6'>İsa onlarla birlikdə yola düşdü. O, evə yaxınlaşarkən yüzbaşı bəzi dostlarını yollayıb Ona belə xəbər göndərdi: «Ya Rəbb, zəhmət çəkmə. Mən layiq deyiləm ki, Sən mənim evimə girəsən.</verse>
+        <verse osisID='Luke.7.7'>Bu səbəbə görə yanına gəlməyə də özümü layiq bilmədim. Amma bir söz söylə ki, xidmətçim sağalsın.</verse>
+        <verse osisID='Luke.7.8'>Çünki mən də tabeçilik altında olan bir adamam, mənim də tabeçiliyimdə əsgərlər var. Birinə “Get!” deyirəm, o gedir, digərinə isə “Gəl!” deyirəm, o da gəlir. Quluma “Bunu et!” deyirəm, o da edir».</verse>
+        <verse osisID='Luke.7.9'>Bunu eşidən İsa yüzbaşıya heyrət etdi. O dönüb ardınca gələn camaata dedi: «Sizə deyirəm: heç İsraildə də bu qədər böyük iman görmədim».</verse>
+        <verse osisID='Luke.7.10'>Göndərilən adamlar evə qayıdanda xəstə qulun sağlam olduğunu gördülər. </verse>
+        <verse osisID='Luke.7.11'>Bundan bir az sonra İsa Nain adlanan bir şəhərə getdi. İsanın şagirdləri və böyük bir izdiham Onu müşayiət edirdi.</verse>
+        <verse osisID='Luke.7.12'>O, şəhər darvazasına yaxınlaşarkən bir dul ananın yeganə oğlunun cənazəsi çıxarılırdı. Şəhər sakinlərinin çoxu da ana ilə gedirdi.</verse>
+        <verse osisID='Luke.7.13'>Rəbb onu görəndə ona rəhmi gəldi və qadına dedi: «Ağlama!»</verse>
+        <verse osisID='Luke.7.14'>Yaxınlaşıb mafəyə toxundu və cənazəni aparanlar dayandılar. İsa dedi: «Ey cavan oğlan, sənə deyirəm: qalx!»</verse>
+        <verse osisID='Luke.7.15'>Ölü durub oturdu və danışmağa başladı. İsa onu anasına verdi.</verse>
+        <verse osisID='Luke.7.16'>Hamını qorxu bürüdü. «Aramızda böyük bir peyğəmbər ortaya çıxdı!» və «Allah Öz xalqına nəzər saldı!» – deyərək Allahı izzətləndirdilər.</verse>
+        <verse osisID='Luke.7.17'>İsa barəsindəki bu xəbər bütün Yəhudeyaya və ətraf bölgəyə yayıldı. </verse>
+        <verse osisID='Luke.7.18'>Yəhyanın şagirdləri də ona bütün bu hadisələr barədə xəbər verdilər. Yəhya şagirdlərindən ikisini yanına çağırıb</verse>
+        <verse osisID='Luke.7.19'>göndərdi ki, Rəbdən soruşsunlar: «Gəlməli Olan Sənsənmi, yoxsa başqasını gözləyək?»</verse>
+        <verse osisID='Luke.7.20'>Adamlar İsanın yanına gəlib dedilər: «Vəftizçi Yəhya bizi Sənin yanına göndərdi ki, soruşaq: “Gəlməli Olan Sənsənmi, yoxsa başqasını gözləyək?”»</verse>
+        <verse osisID='Luke.7.21'>Həmin vaxt İsa bir çox xəstəliklərə, azarlara və şər ruhlara tutulmuş insanlara şəfa verdi, həm də bir çox korların gözlərini açdı.</verse>
+        <verse osisID='Luke.7.22'>İsa onlara belə cavab verdi: «Gedin, görüb eşitdiklərinizi Yəhyaya bildirin: korlar görür, axsaqlar yeriyir, cüzamlılar pak olur, karlar eşidir, ölülər dirilir və yoxsullara Müjdə yayılır.</verse>
+        <verse osisID='Luke.7.23'>Kim Mənə görə büdrəməsə, nə bəxtiyardır!» </verse>
+        <verse osisID='Luke.7.24'>Yəhyanın elçiləri getdikdən sonra İsa camaata Yəhya haqqında danışmağa başladı: «Çölə nəyə baxmağa getmişdiniz? Küləyin sarsıtdığı qamışamı?</verse>
+        <verse osisID='Luke.7.25'>Bəs onda nəyə baxmağa getmişdiniz? Nəfis toxunmuş paltar geymiş bir adamamı? Amma gözəl paltar geyinib cah-calal içində yaşayanlar padşah saraylarında qalırlar.</verse>
+        <verse osisID='Luke.7.26'>Bəs onda nəyə baxmağa getmişdiniz? Bir peyğəmbərəmi? Bəli, sizə deyirəm, hətta peyğəmbərdən də üstün birinə.</verse>
+        <verse osisID='Luke.7.27'>Bu o adamdır ki, onun haqqında yazılıb:  “Budur, Sənin önündə Öz elçimi göndərirəm.O Sənin qabağında yolunu hazırlayacaq”.</verse>
+        <verse osisID='Luke.7.28'>Sizə deyirəm: qadından doğulanlar arasında Yəhyadan üstün olan yoxdur. Amma Allahın Padşahlığında ən kiçik olan ondan üstündür». </verse>
+        <verse osisID='Luke.7.29'>Yəhyanın vəftiz etdiyi xalqın hamısı, hətta vergiyığanlar da bunu eşitdikdə Allahın ədalətini təsdiq etdilər.</verse>
+        <verse osisID='Luke.7.30'>Amma fariseylər və qanunşünaslar Yəhyanın vəftizindən imtina etdilər və bununla Allahın onlar barəsindəki iradəsini rədd etdilər. </verse>
+        <verse osisID='Luke.7.31'>İsa sözünü davam etdirdi: «Bu nəslin adamlarını nəyə bənzədim? Onlar nəyə bənzəyir?</verse>
+        <verse osisID='Luke.7.32'>Bazar meydanında oturan və  “Biz sizə tütək çaldıq, sizsə oynamadınız,Biz mərsiyələr oxuduq, sizsə ağlamadınız”  deyib bir-birini səsləyən uşaqlara bənzəyirlər.</verse>
+        <verse osisID='Luke.7.33'>Çünki Vəftizçi Yəhya gəldikdə nə çörək yeyir, nə şərab içirdi və siz deyirsiniz: “O, cinə tutulmuşdur”.</verse>
+        <verse osisID='Luke.7.34'>Bəşər Oğlu gəldikdə yeyib-içdi və siz deyirsiniz: “Bu qarınqulu və əyyaş adama baxın! Vergiyığanlara və günahkarlara dost oldu!”</verse>
+        <verse osisID='Luke.7.35'>Amma hikmət öz övladlarının hamısı tərəfindən təsdiq olunur». </verse>
+        <verse osisID='Luke.7.36'>Fariseylərdən biri İsanı onunla birgə yeməyə dəvət etdi. O da fariseyin evinə girdi və süfrəyə oturdu.</verse>
+        <verse osisID='Luke.7.37'>Həmin şəhərdə günahkar bir qadın yaşayırdı. O, fariseyin evində İsanın süfrəyə oturduğundan xəbər tutanda ağ mərmər bir qabda ətirli yağ gətirdi.</verse>
+        <verse osisID='Luke.7.38'>Qadın arxada, İsanın ayaqlarının yanında durub ağlayaraq göz yaşları ilə Onun ayaqlarını islatmağa başladı. O, İsanın ayaqlarını saçları ilə sildi, öpdü və onlara ətirli yağ çəkdi. </verse>
+        <verse osisID='Luke.7.39'>İsanı evinə dəvət etmiş farisey bunu görüb öz-özünə belə dedi: «Əgər bu adam peyğəmbər olsaydı, Ona toxunanın kim və nə cür qadın olduğunu bilərdi, çünki bu qadın günahkardır».</verse>
+        <verse osisID='Luke.7.40'>İsa ona xitab edib belə söylədi: «Şimon, Mənim sənə sözüm var». O da dedi: «Müəllim, buyur».</verse>
+        <verse osisID='Luke.7.41'>«Bir sələmçiyə iki nəfərin borcu var idi. Biri beş yüz, o birisi isə əlli dinar borclu idi.</verse>
+        <verse osisID='Luke.7.42'>Onların borcu ödəməyə imkanları yox idi. Ona görə də sələmçi hər ikisinin borcunu bağışladı. De görüm, bu adamlardan hansı onu daha çox sevəcək?»</verse>
+        <verse osisID='Luke.7.43'>Şimon cavab verdi: «Güman edirəm, o adam ki ona daha çox bağışlandı». İsa ona «düz seçmisən» dedi.</verse>
+        <verse osisID='Luke.7.44'>Sonra İsa qadına tərəf baxıb Şimona dedi: «Sən bu qadını görürsənmi? Mən sənin evinə gəldim, sən Mənim ayaqlarımı yumaq üçün Mənə su da vermədin. Bu qadınsa ayaqlarımı göz yaşları ilə isladıb saçları ilə sildi.</verse>
+        <verse osisID='Luke.7.45'>Sən Məni öpmədin, bu qadınsa Mən evə girəndən bəri ayaqlarımı hey öpür.</verse>
+        <verse osisID='Luke.7.46'>Sən başıma zeytun yağı çəkmədin. O isə ayaqlarıma ətirli yağ çəkdi.</verse>
+        <verse osisID='Luke.7.47'>Buna görə də sənə deyirəm: bu qadının çox olan günahları bağışlandı. Böyük məhəbbət göstərməsi də bu səbəbdəndir. Kimə az bağışlanıbsa, az sevər». </verse>
+        <verse osisID='Luke.7.48'>Sonra İsa qadına dedi: «Sənin günahların bağışlandı».</verse>
+        <verse osisID='Luke.7.49'>Onda İsa ilə birgə süfrədə oturanlar öz aralarında danışmağa başladılar: «Bu adam kimdir ki, günahları da bağışlayır?»</verse>
+        <verse osisID='Luke.7.50'>Amma İsa qadına dedi: «İmanın səni xilas etdi. Arxayın get».  </verse>
+      </chapter>
+      <chapter osisID='Luke.8'>
+        <verse osisID='Luke.8.1'>
+          Bu hadisədən sonra İsa şəhərləri və kəndləri gəzməyə başladı. O, Allahın Padşahlığını vəz edərək Müjdəni yayırdı. On İki şagird Onunla birgə idi.</verse>
+        <verse osisID='Luke.8.2'>Həmçinin şər ruhlardan və xəstəliklərdən şəfa tapmış bəzi qadınlar, daxilindən yeddi cin çıxmış Məcdəlli adlanan Məryəm,</verse>
+        <verse osisID='Luke.8.3'>Hirodun eşikağası Xuzanın arvadı Yoxanna, Şoşanna və bir çox başqa qadınlar İsa ilə idi. Bu qadınlar əmlakları ilə onlara xidmət edirdilər. </verse>
+        <verse osisID='Luke.8.4'>Böyük izdiham toplaşanda, insanlar hər şəhərdən İsanın yanına gələndə İsa onlara bir məsəl danışdı:</verse>
+        <verse osisID='Luke.8.5'>«Bir əkinçi toxumunu səpməyə çıxdı. Səpin zamanı toxumlardan bəzisi yol kənarına düşdü, ayaq altında tapdalandı və göydə uçan quşlar onları dənlədi.</verse>
+        <verse osisID='Luke.8.6'>Bəzisi daşlığa düşdü və cücərincə susuzluqdan qurudu.</verse>
+        <verse osisID='Luke.8.7'>Bəzisi tikanlar arasına düşdü. Tikanlar toxumla birgə boy atıb onu boğdu.</verse>
+        <verse osisID='Luke.8.8'>Başqaları isə münbit torpağa düşdü və böyüyüncə yüz qat artıq səmərə verdi». İsa bunları deyərək nida etdi: «Eşitməyə qulağı olan eşitsin!» </verse>
+        <verse osisID='Luke.8.9'>Şagirdləri isə Ondan soruşdular: «Bu məsəlin mənası nədir?»</verse>
+        <verse osisID='Luke.8.10'>O dedi: «Allahın Padşahlığının sirlərini bilmə qabiliyyəti sizə verilmişdir. Başqalarına isə hər şeyi məsəllərlə danışıram ki,  “Gördükləri halda görməsinlər,Eşitdikləri halda anlamasınlar”. </verse>
+        <verse osisID='Luke.8.11'>Məsəlin mənası budur: toxum Allahın kəlamıdır.</verse>
+        <verse osisID='Luke.8.12'>Yol kənarına düşənlərsə kəlamı eşidənlərdir. Sonra iblis gəlir və iman etməyib xilas olmasınlar deyə kəlamı onların ürəyindən götürüb aparır.</verse>
+        <verse osisID='Luke.8.13'>Daşlığa düşənlərsə kəlamı eşidəndə sevinclə qəbul edənlərdir. Lakin onlarda kök olmadığına görə bir müddət iman edir və sınaq vaxtı gələndə imandan dönürlər.</verse>
+        <verse osisID='Luke.8.14'>Tikanlar arasına düşənlərsə bunlardır: kəlamı eşidirlər, amma get-gedə bu həyatın qayğılarından, var-dövlətindən, zövqlərindən boğulur və yaxşı bəhrə vermirlər.</verse>
+        <verse osisID='Luke.8.15'>Münbit torpağa düşənlərsə bunlardır: belə insanlar kəlamı eşidib xeyirxah və sadiq ürəkdə saxlayırlar. Bunlar səbirlə səmərə verir. </verse>
+        <verse osisID='Luke.8.16'>Heç kim çırağı yandırıb onu qabla örtməz yaxud yatağın altına qoymaz. Əksinə, çıraqdana qoyar ki, içəri girənlər işığı görsünlər.</verse>
+        <verse osisID='Luke.8.17'>Çünki elə gizli bir şey yoxdur ki, aşkara çıxmayacaq və elə örtülü bir şey yoxdur ki, bilinib aydın olmayacaq.</verse>
+        <verse osisID='Luke.8.18'>Buna görə də necə dinlədiyinizə diqqət edin. Çünki kimin varıdırsa, ona daha çox veriləcək. Amma kimin yoxudursa, özününkü zənn etdiyi şey də əlindən alınacaq». </verse>
+        <verse osisID='Luke.8.19'>İsanın anası və qardaşları Onun yanına gəldi. Amma izdihama görə Ona yaxınlaşa bilmədilər.</verse>
+        <verse osisID='Luke.8.20'>İsaya xəbər verdilər: «Anan və qardaşların bayırda dayanıb Səni görmək istəyirlər».</verse>
+        <verse osisID='Luke.8.21'>İsa onlara cavab verdi: «Mənim anam və qardaşlarım Allahın kəlamını eşidib ona əməl edənlərdir». </verse>
+        <verse osisID='Luke.8.22'>Bir gün İsa Öz şagirdləri ilə bir qayığa mindi və onlara dedi: «Gəlin gölün o biri sahilinə keçək». Onlar yola düşdülər.</verse>
+        <verse osisID='Luke.8.23'>Onlar qayıqda gedərkən İsanı yuxu apardı. Göldə tufan qopdu. Qayıq su ilə dolmağa başlayanda onlar təhlükəli vəziyyətə düşdülər.</verse>
+        <verse osisID='Luke.8.24'>Şagirdlər yaxınlaşıb İsanı oyadaraq dedilər: «Ustad, Ustad, biz həlak oluruq!» İsa durub küləyə və qalxan sulara qadağan etdi. Tufan dayandı və sükut çökdü.</verse>
+        <verse osisID='Luke.8.25'>Onda O, şagirdlərinə dedi: «Sizin imanınız haradadır?» Onlarsa qorxu və heyrət içində qalıb bir-birlərindən soruşurdular: «Bu Adam kimdir ki, həm küləklərə, həm suya əmr verir, onlar da itaət edir?» </verse>
+        <verse osisID='Luke.8.26'>Sonra onlar Qalileyanın qarşısında yerləşən Gerasalıların diyarına gəldilər.</verse>
+        <verse osisID='Luke.8.27'>İsa qayıqdan sahilə düşəndə şəhərdən olan bir nəfər Onunla qarşılaşdı. Cinlərə tutulmuş və xeyli vaxtdır ki, paltar geyməyən bu adam evdə yox, qəbir mağaralarında yaşayırdı.</verse>
+        <verse osisID='Luke.8.28'>O, İsanı görən kimi bağırıb Onun qarşısında diz çökdü və bərkdən çığıra-çığıra dedi: «Ey İsa, Allah-Taalanın Oğlu, məndən nə istəyirsən? Yalvarıram Sənə, mənə əzab vermə!»</verse>
+        <verse osisID='Luke.8.29'>Çünki İsa natəmiz ruha əmr etmişdi ki, həmin adamdan çıxsın. Bu ruh o adamı çoxdan tutmuşdu. Buna görə də o adamı qorumaq üçün onu zəncir və buxovlarla bağlamışdılar. O isə zəncirləri qıraraq cin tərəfindən çölə qovulurdu.</verse>
+        <verse osisID='Luke.8.30'>İsa ondan soruşdu: «Sənin adın nədir?» O cavab verdi: «Adım Qoşundur». Çünki onun daxilinə çox cin girmişdi.</verse>
+        <verse osisID='Luke.8.31'>Onlar dibsiz dərinliyə düşmələrini əmr etməsin deyə İsaya yalvarırdılar. </verse>
+        <verse osisID='Luke.8.32'>Orada – dağın yamacında böyük bir donuz sürüsü otlayırdı. Cinlər İsaya yalvardılar ki, donuzların içinə girməyə izin versin. İsa da onlara izin verdi.</verse>
+        <verse osisID='Luke.8.33'>Cinlər adamdan çıxıb donuzların içinə girdi. Sürü də uçurumdan aşağı, gölə atılıb boğuldu. </verse>
+        <verse osisID='Luke.8.34'>Donuz otaranlar bunları görüb qaçdılar, bu xəbəri şəhər və kəndlərdə yaydılar.</verse>
+        <verse osisID='Luke.8.35'>Camaat nə baş verdiyinə tamaşa etməyə çıxdı. Onlar İsanın yanına gəldilər, daxilindən cinlər çıxmış adamın İsanın ayaqları yanında geyinmiş və ağıllanmış oturduğunu görüb qorxuya düşdülər.</verse>
+        <verse osisID='Luke.8.36'>Hadisəni görənlərsə cinə tutulmuş adamın necə sağaldığını camaata danışdılar.</verse>
+        <verse osisID='Luke.8.37'>Gerasalıların ətraf diyarındakı bütün xalq İsadan xahiş etdi ki, oranı tərk etsin, çünki onları böyük qorxu bürümüşdü. İsa da qayığa minib geri qayıtdı.</verse>
+        <verse osisID='Luke.8.38'>Daxilindən cinlər çıxmış kişi İsanın yanında qalmaq üçün Ona yalvardı.</verse>
+        <verse osisID='Luke.8.39'>Amma İsa ona «qayıt evinə və Allahın sənə etdiyi hər şeyi danış» deyərək onu buraxdı. Bu adam da gedib İsanın ona etdiyi hər şeyi bütün şəhərə yaydı. </verse>
+        <verse osisID='Luke.8.40'>İsa geri qayıtdıqda xalq Onu qəbul etdi, çünki hamı Onu gözləyirdi.</verse>
+        <verse osisID='Luke.8.41'>Bu vaxt Yair adlı sinaqoq rəisi olan bir kişi gəlib İsanın ayaqlarına düşdü və Ona yalvardı ki, evinə gəlsin.</verse>
+        <verse osisID='Luke.8.42'>Çünki onun on iki yaşın içində olan bircə qızı var idi və o, can üstə idi. İsa oraya gedərkən izdiham Onu sıxışdırırdı. </verse>
+        <verse osisID='Luke.8.43'>Orada on iki il qanaxma xəstəliyinə tutulan bir qadın var idi. O bütün varını həkimlərə xərcləmişdi, lakin onların heç biri ona şəfa verə bilməmişdi.</verse>
+        <verse osisID='Luke.8.44'>Bu qadın İsanın arxasından gəlib Onun paltarının ətəyinə toxundu və o andaca onun qanaxması dayandı.</verse>
+        <verse osisID='Luke.8.45'>İsa dedi: «Mənə toxunan kim idi?» Lakin hamı bunu inkar edəndə Peter dedi: «Ustad, izdiham Səni əhatə edib sıxışdırır».</verse>
+        <verse osisID='Luke.8.46'>Amma İsa dedi: «Mənə kimsə toxundu, çünki Məndən qüvvət çıxdığını bildim».</verse>
+        <verse osisID='Luke.8.47'>Qadınsa gizlənə bilmədiyini gördükdə titrəyərək gəlib İsanın ayağına düşdü. Bütün xalq qarşısında Ona nə səbəbdən toxunduğunu və o anda necə sağaldığını İsaya nəql etdi.</verse>
+        <verse osisID='Luke.8.48'>İsa da ona dedi: «Qızım, imanın səni xilas etdi. Arxayın get». </verse>
+        <verse osisID='Luke.8.49'>İsa hələ danışırdı ki, sinaqoq rəisinin evindən bir nəfər gəlib dedi: «Qızın öldü. Müəllimi daha narahat etmə».</verse>
+        <verse osisID='Luke.8.50'>Amma İsa bunu eşidəndə sinaqoq rəisinə dedi: «Qorxma, yalnız iman et! Qızın xilas olacaq».</verse>
+        <verse osisID='Luke.8.51'>İsa onun evinə gələndə Peter, Yəhya, Yaqub və qızın ata-anasından başqa heç kimi Özü ilə evə girməyə qoymadı.</verse>
+        <verse osisID='Luke.8.52'>Hamı qız üçün ağlayıb nalə çəkirdi. Amma İsa dedi: «Ağlamayın, o ölməyib, sadəcə olaraq yatıb».</verse>
+        <verse osisID='Luke.8.53'>Onlarsa qızın öldüyünü bildiklərinə görə İsaya güldülər.</verse>
+        <verse osisID='Luke.8.54'>Amma İsa qızın əlindən tutub səslədi: «Qızcığaz, qalx!»</verse>
+        <verse osisID='Luke.8.55'>Qızın ruhu bədəninə qayıtdı və o dərhal ayağa qalxdı. İsa dedi ki, qıza yemək versinlər.</verse>
+        <verse osisID='Luke.8.56'>Qızın ata-anası mat qaldı. Amma İsa onlara tapşırdı ki, bu hadisə barədə heç kəsə danışmasınlar.  </verse>
+      </chapter>
+      <chapter osisID='Luke.9'>
+        <verse osisID='Luke.9.1'>
+          İsa On İki şagirdi yanına çağırıb bütün cinlər üzərində və xəstəliklərə şəfa vermək üçün onlara qüdrət və səlahiyyət verdi.</verse>
+        <verse osisID='Luke.9.2'>Onları göndərdi ki, Allahın Padşahlığını vəz edib xəstələri sağaltsınlar.</verse>
+        <verse osisID='Luke.9.3'>İsa onlara dedi: «Yol üçün heç nə – nə əsa, nə torba, nə çörək, nə pul, nə də iki köynək götürün.</verse>
+        <verse osisID='Luke.9.4'>Hansı evə girsəniz, orada qalın və oradan da yola çıxın.</verse>
+        <verse osisID='Luke.9.5'>Harada sizi qəbul etməzlərsə, o şəhərdən çıxarkən onlara qarşı şəhadət olsun deyə ayaqlarınızın tozunu çırpın».</verse>
+        <verse osisID='Luke.9.6'>Onlar da yola düşüb hər yerdə Müjdəni yayaraq və şəfa verərək kənd-kənd dolaşdılar. </verse>
+        <verse osisID='Luke.9.7'>Hökmdar Hirod baş verən bütün hadisələr barədə eşitdi və çaşıb-qaldı. Çünki bəziləri «Yəhya ölülər arasından dirilib»,</verse>
+        <verse osisID='Luke.9.8'>digərləri «İlyas zühur edib», başqaları da «qədim peyğəmbərlərdən biri dirilib» deyirdi.</verse>
+        <verse osisID='Luke.9.9'>Hirod isə dedi: «Yəhyanın boynunu mən vurdurdum, bəs haqqında bu xəbərləri eşitdiyim Adam kimdir?» Hirod Onu görməyə can atırdı. </verse>
+        <verse osisID='Luke.9.10'>Həvarilər İsanın yanına qayıdıb gördükləri işlər haqqında Ona danışdılar. Sonra İsa yalnız onları Özü ilə götürüb Bet-Sayda adlanan bir şəhərə apardı.</verse>
+        <verse osisID='Luke.9.11'>Amma camaat bu barədə xəbər tutub Onun ardınca düşdü. İsa onları xoş qarşıladı, onlara Allahın Padşahlığından danışdı və şəfaya möhtac olanları sağaltdı. </verse>
+        <verse osisID='Luke.9.12'>Artıq gün batırdı. On İki şagird İsanın yanına gəlib Ona dedi: «Camaatı burax, qoy ətrafdakı oba və kəndlərə gedib gecələsinlər və bir şey alıb yesinlər. Axı biz burada çöllük yerdəyik».</verse>
+        <verse osisID='Luke.9.13'>Amma İsa onlara dedi: «Onlara yeməyi siz verin». Şagirdlər Ona cavab verdilər: «Beş çörək və iki balıqdan başqa bir şeyimiz yoxdur. Bəlkə biz gedib bütün bu camaat üçün bir şey alaq?»</verse>
+        <verse osisID='Luke.9.14'>Orada beş minə yaxın kişi var idi. İsa şagirdlərinə dedi: «Onları dəstə-dəstə, əlli-əlli oturdun».</verse>
+        <verse osisID='Luke.9.15'>Şagirdlər də eləcə edib hamını oturtdular.</verse>
+        <verse osisID='Luke.9.16'>İsa beş çörəyi və iki balığı götürüb göyə baxaraq şükür duası etdi. Sonra onları bölüb şagirdlərə verdi ki, camaata paylasınlar.</verse>
+        <verse osisID='Luke.9.17'>Hamı yeyib-doydu. Artıq qalan hissələr on iki zənbilə yığıldı. </verse>
+        <verse osisID='Luke.9.18'>Bir gün İsa tək dua edirdi. Şagirdlər də yanında idi. İsa onlardan soruşdu: «Camaatın dediyinə görə Mən kiməm?»</verse>
+        <verse osisID='Luke.9.19'>Onlar belə cavab verdilər: «Bəziləri Vəftizçi Yəhya, başqaları İlyas, digərləri isə deyirlər ki, qədim peyğəmbərlərdən biri dirilib».</verse>
+        <verse osisID='Luke.9.20'>İsa onlara dedi: «Bəs siz nə deyirsiniz? Sizcə Mən kiməm?» Peter cavab verdi: «Sən Allahın Məsihisən».</verse>
+        <verse osisID='Luke.9.21'>İsa şagirdlərinə qadağan edib əmr etdi ki, bunu heç kəsə danışmasınlar. </verse>
+        <verse osisID='Luke.9.22'>O dedi: «Bəşər Oğlu çox əzab çəkməli, ağsaqqallar, başçı kahinlər və ilahiyyatçılar tərəfindən rədd olunmalı, öldürülməli və üçüncü gün dirilməlidir». </verse>
+        <verse osisID='Luke.9.23'>Sonra hamısına söylədi: «Əgər bir kəs Mənim ardımca gəlmək istəyirsə, özündən imtina etsin və hər gün çarmıxını götürüb ardımca gəlsin.</verse>
+        <verse osisID='Luke.9.24'>Kim canını xilas etmək istəyirsə, onu itirəcək, amma kim Mənim uğrumda canını itirirsə, onu xilas edəcək.</verse>
+        <verse osisID='Luke.9.25'>İnsan bütün dünyanı qazanıb canını məhv edər yaxud itirərsə, ona nə xeyri var?</verse>
+        <verse osisID='Luke.9.26'>Kim Məndən və Mənim sözlərimdən utanarsa, Bəşər Oğlu da Özünün, Atasının və müqəddəs mələklərin izzəti içində gələndə o adamdan utanacaq.</verse>
+        <verse osisID='Luke.9.27'>Amma sizə həqiqəti deyirəm: burada duranlardan bəzisi Allahın Padşahlığını görmədən ölməyəcək». </verse>
+        <verse osisID='Luke.9.28'>Bu sözləri söyləyəndən təxminən səkkiz gün keçmişdi. İsa Özü ilə Peter, Yəhya və Yaqubu götürüb dua etmək üçün dağa çıxdı.</verse>
+        <verse osisID='Luke.9.29'>İsa dua edərkən üzünün görünüşü dəyişdi və libası gözqamaşdırıcı ağ rəng aldı.</verse>
+        <verse osisID='Luke.9.30'>O anda iki nəfər İsa ilə söhbət etməyə başladı. Onlar Musa və İlyas idi.</verse>
+        <verse osisID='Luke.9.31'>Onlar ehtişam içində göründülər və İsanın Yerusəlimdə yerinə yetirəcəyi bu dünyadan ayrılması barədə danışırdılar.</verse>
+        <verse osisID='Luke.9.32'>Peter və onun yoldaşları dərin yuxuya dalmışdılar. Yuxudan ayılanda isə İsanın ehtişamını və yanında duran iki kişini gördülər.</verse>
+        <verse osisID='Luke.9.33'>Onlar İsanın yanından gedəndə Peter İsaya dedi: «Ustad! Nə yaxşı ki biz buradayıq. Gəl üç çardaq quraq, biri Sənin, biri Musa, biri də İlyas üçün». Əslində o nə dediyini bilmirdi.</verse>
+        <verse osisID='Luke.9.34'>Peter bunu deyən zaman bir bulud gəldi və onların üzərinə kölgə saldı. Buluda daxil olarkən onları dəhşət bürüdü.</verse>
+        <verse osisID='Luke.9.35'>Buluddan bir səs gəldi: «Bu Mənim Oğlumdur, seçilmişimdir, Ona qulaq asın!»</verse>
+        <verse osisID='Luke.9.36'>Səs kəsiləndə onlar İsanı tək gördülər. Şagirdlər bunu sirr olaraq saxlayıb o günlərdə gördüklərini heç kimə danışmadılar. </verse>
+        <verse osisID='Luke.9.37'>Ertəsi gün onlar dağdan enəndə İsanı böyük bir izdiham qarşıladı.</verse>
+        <verse osisID='Luke.9.38'>Camaat arasından bir kişi çığırdı: «Müəllim, yalvarıram, oğluma nəzər sal, o mənim yeganə balamdır.</verse>
+        <verse osisID='Luke.9.39'>Bir ruh onu tutur, o birdən bağırır. Ruh onu ağzından köpük gələnəcən sarsıdır. Ona əziyyət verib güc-bəla ilə onu tərk edir.</verse>
+        <verse osisID='Luke.9.40'>Mən şagirdlərindən xahiş etdim ki, bu ruhu qovsunlar, amma bacarmadılar».</verse>
+        <verse osisID='Luke.9.41'>İsa da ona cavab verdi: «Ey imansız və yolunu azmış nəsil! Nə vaxta qədər Mən sizinlə qalıb sizə dözəcəyəm? Oğlunu yanıma gətir».</verse>
+        <verse osisID='Luke.9.42'>Oğlan İsaya yaxınlaşarkən cin onu yerə atıb sarsıtdı. Amma İsa natəmiz ruha qadağan etdi, oğlanı sağaldıb atasına qaytardı.</verse>
+        <verse osisID='Luke.9.43'>Hamı Allahın əzəmətinə təəccüblənirdi.  Onlar hamısı İsanın etdiyi işlərə heyrət edərkən O, şagirdlərinə dedi:</verse>
+        <verse osisID='Luke.9.44'>«Bu sözlərə qulaq asın: Bəşər Oğlu insan əllərinə təslim edilmək üzrədir».</verse>
+        <verse osisID='Luke.9.45'>Lakin şagirdlər bu sözü başa düşmədilər. Bu sözün mənası onlar üçün gizli qaldı və Ondan bu söz barədə soruşmaqdan da qorxurdular. </verse>
+        <verse osisID='Luke.9.46'>Şagirdlər aralarında kimin ən böyük olduğu barədə mübahisə etməyə başladılar.</verse>
+        <verse osisID='Luke.9.47'>Amma İsa onların ürəklərindən keçəni bilib bir balaca uşağı götürüb yanına qoydu.</verse>
+        <verse osisID='Luke.9.48'>Sonra onlara dedi: «Kim Mənim adımla bu uşağı qəbul edərsə, Məni qəbul edər. Kim Məni qəbul edərsə, Məni Göndərəni qəbul edər. Sizin aranızda hamıdan kiçik olan ən böyükdür». </verse>
+        <verse osisID='Luke.9.49'>Yəhya cavabında dedi: «Ustad, biz Sənin adınla cinləri qovan bir nəfəri gördük, amma bizimlə birgə getmədiyinə görə ona mane olduq».</verse>
+        <verse osisID='Luke.9.50'>Amma İsa ona dedi: «Ona mane olmayın! Əleyhinizə olmayan sizin tərəfinizdədir». </verse>
+        <verse osisID='Luke.9.51'>Dünyadan ayrılacağı günlər yaxınlaşdıqca İsa Yerusəlimə getmək qərarına gəldi.</verse>
+        <verse osisID='Luke.9.52'>İsa qabağınca elçilər göndərdi. Onlar İsanın gəlişi münasibəti ilə hazırlıq işləri görmək üçün gedib Samariyalıların bir kəndinə girdilər.</verse>
+        <verse osisID='Luke.9.53'>Lakin Samariyalılar İsanı qəbul etmədilər, çünki O, Yerusəlimə doğru gedirdi.</verse>
+        <verse osisID='Luke.9.54'>Şagirdlərdən Yaqubla Yəhya bunu görüb dedilər: «Rəbb, bunları məhv etmək üçün bir əmrlə göydən alov yağdırmağımızı istəyirsənmi?»</verse>
+        <verse osisID='Luke.9.55'>Amma İsa dönüb onlara qadağan etdi.</verse>
+        <verse osisID='Luke.9.56'>Sonra onlar başqa bir kəndə yollandılar. </verse>
+        <verse osisID='Luke.9.57'>Onlar yol boyu gedərkən bir nəfər İsaya dedi: «Sən hara getsən, Sənin ardınca gedəcəyəm».</verse>
+        <verse osisID='Luke.9.58'>İsa ona dedi: «Tülkülərin də yuvası, göydə uçan quşların da yuvası var. Amma Bəşər Oğlunun başını qoymağa belə, yeri yoxdur». </verse>
+        <verse osisID='Luke.9.59'>Bir başqasına İsa dedi: «Ardımca gəl». O isə dedi: «Ya Rəbb, mənə icazə ver, əvvəlcə gedim, atamı dəfn edim».</verse>
+        <verse osisID='Luke.9.60'>İsa ona dedi: «Qoy ölülər öz ölülərini dəfn etsin. Sənsə get, Allahın Padşahlığını bəyan et». </verse>
+        <verse osisID='Luke.9.61'>Yenə başqa bir adam dedi: «Ya Rəbb, Sənin ardınca gələrəm, amma əvvəl icazə ver evimdəkilərlə vidalaşım».</verse>
+        <verse osisID='Luke.9.62'>Lakin İsa ona dedi: «Kotanı tutub geriyə baxan Allahın Padşahlığına layiq deyil».  </verse>
+      </chapter>
+      <chapter osisID='Luke.10'>
+        <verse osisID='Luke.10.1'>
+          Bu hadisələrdən sonra Rəbb başqa yetmiş nəfəri təyin etdi və onları iki-iki Özünün gedəcəyi hər şəhərə və hər yerə Özündən əvvəl göndərdi.</verse>
+        <verse osisID='Luke.10.2'>Onlara dedi: «Məhsul çoxdur, işçilərsə azdır. Buna görə də məhsulun Sahibinə yalvarın ki, Öz məhsulunu yığmaq üçün işçilər göndərsin.</verse>
+        <verse osisID='Luke.10.3'>Gedin, sizi qurdların arasına quzular kimi göndərirəm.</verse>
+        <verse osisID='Luke.10.4'>Özünüzlə nə kisə, nə torba, nə də çarıq götürün. Yolda heç kimlə salamlaşıb danışmayın.</verse>
+        <verse osisID='Luke.10.5'>Hansı bir evə girsəniz, əvvəl “Bu evə əmin-amanlıq olsun!” deyin.</verse>
+        <verse osisID='Luke.10.6'>Əgər orada əmin-amanlığa layiq bir adam varsa, dilədiyiniz əmin-amanlıq onun üzərində qalacaq. Əks halda o sizə qayıdacaq.</verse>
+        <verse osisID='Luke.10.7'>Girdiyiniz evdə qalın, sizə nə verirlərsə, yeyib-için, çünki işçi öz haqqına layiqdir. Evdən evə köçməyin.</verse>
+        <verse osisID='Luke.10.8'>Hansısa bir şəhərə girdiyiniz zaman sizi qəbul edirlərsə, qabağınıza qoyulanı yeyin.</verse>
+        <verse osisID='Luke.10.9'>Orada olan xəstələrə şəfa verin və onlara deyin: “Allahın Padşahlığı sizə yaxınlaşıb”.</verse>
+        <verse osisID='Luke.10.10'>Amma hansısa bir şəhərə girdiyiniz zaman sizi qəbul etməsələr, oranın küçələrinə çıxıb belə deyin:</verse>
+        <verse osisID='Luke.10.11'>“Sizin əleyhinizə çıxaraq şəhərinizin ayaqlarımıza yapışan tozunu belə, çırpırıq. Amma bunu bilin ki, Allahın Padşahlığı sizə yaxınlaşıb”.</verse>
+        <verse osisID='Luke.10.12'>Sizə bunu deyirəm: qiyamət günü Sodomun halı o şəhərin halından daha asan olacaq. </verse>
+        <verse osisID='Luke.10.13'>Vay halına, ey Korazin! Vay halına, ey Bet-Sayda! Sizdə baş vermiş möcüzələr Sur və Sidonda olsaydı, onlar çoxdan çul geyinib külün üstündə oturaraq tövbə edərdi.</verse>
+        <verse osisID='Luke.10.14'>Amma qiyamət günü Sur və Sidonun halı sizinkindən daha asan olacaq.</verse>
+        <verse osisID='Luke.10.15'>Sən, ey Kefernahum, göyə qədər ucalacaqsanmı? Ölülər diyarına qədər enəcəksən. </verse>
+        <verse osisID='Luke.10.16'>Sizi dinləyən kəs Məni dinləyir, sizi rədd edən Məni rədd edir. Məni rədd edənsə Məni Göndərəni rədd edir». </verse>
+        <verse osisID='Luke.10.17'>Yetmiş şagird sevinə-sevinə qayıtdı və dedi: «Ya Rəbb, Sənin adınla cinlər belə, bizə tabe olur!»</verse>
+        <verse osisID='Luke.10.18'>İsa onlara belə cavab verdi: «Mən Şeytanın ildırım kimi göydən düşməyini görmüşdüm.</verse>
+        <verse osisID='Luke.10.19'>Baxın Mən sizə səlahiyyət vermişəm ki, ilanları, əqrəbləri və düşmənin bütün gücünü ayaq altında əzəsiniz və heç nə sizə zərər vurmayacaq.</verse>
+        <verse osisID='Luke.10.20'>Bununla belə, ruhların sizə tabe olduğuna görə sevinməyin, amma sevinin ki, adlarınız göylərdə yazılıb». </verse>
+        <verse osisID='Luke.10.21'>İsa o vaxt Müqəddəs Ruhda şadlanıb dedi: «Ey yerin-göyün Sahibi olan Ata! Səndən razıyam ki, bu şeyləri müdrik və dərrakəli adamlardan gizlədib körpələrə agah etdin. Bəli, Ata! Çünki bu Sənin xoş niyyətin idi.</verse>
+        <verse osisID='Luke.10.22'>Atam tərəfindən hər şey Mənim ixtiyarıma verildi. Oğulun kim olduğunu Atadan başqa heç kəs bilməz. Atanın kim olduğunu da Oğuldan və Oğulun agah etmək istədiyi şəxsdən başqa heç kəs bilməz». </verse>
+        <verse osisID='Luke.10.23'>Sonra İsa şagirdlərə sarı dönüb onlara ayrıca dedi: «Nə bəxtiyardır o gözlər ki, sizin gördüklərinizi görür!</verse>
+        <verse osisID='Luke.10.24'>Sizə bunu deyirəm: bir çox peyğəmbərlər və padşahlar sizin gördüklərinizi görmək istədilər, amma görmədilər, eşitdiklərinizi eşitmək istədilər, amma eşitmədilər». </verse>
+        <verse osisID='Luke.10.25'>Bir qanunşünas İsanı sınamaq məqsədi ilə qalxıb dedi: «Müəllim, əbədi həyatı irs olaraq almaq üçün mən nə etməliyəm?»</verse>
+        <verse osisID='Luke.10.26'>İsa ondan soruşdu: «Qanunda nə yazılıb? Orada nə oxuyursan?»</verse>
+        <verse osisID='Luke.10.27'>Bu adam İsaya belə cavab verdi: «“Allahın Rəbbi bütün qəlbinlə, bütün varlığınla, bütün gücünlə və bütün düşüncənlə sev” və “Qonşunu özün kimi sev”».</verse>
+        <verse osisID='Luke.10.28'>İsa ona dedi: «Sən düz cavab verdin, buna əməl et və yaşayacaqsan».</verse>
+        <verse osisID='Luke.10.29'>Amma o özünə haqq qazandırmaq üçün İsadan soruşdu: «Bəs mənim qonşum kimdir?» </verse>
+        <verse osisID='Luke.10.30'>İsa belə cavab verdi: «Bir nəfər Yerusəlimdən Yerixoya gedən yolda quldurların əlinə düşdü. Quldurlar onu soyundurub döydülər və yarımcan halda qoyub getdilər.</verse>
+        <verse osisID='Luke.10.31'>Təsadüfən o yoldan bir kahin enirdi. Bu adamı görən kimi yolun o biri tərəfi ilə keçib getdi.</verse>
+        <verse osisID='Luke.10.32'>Bir Levili də ora yaxınlaşıb o adamı görəndə yolun o biri tərəfi ilə keçib getdi.</verse>
+        <verse osisID='Luke.10.33'>O yolla gedən bir Samariyalı isə bu adamı görəndə ona rəhmi gəldi.</verse>
+        <verse osisID='Luke.10.34'>Ona yaxınlaşdı və zeytun yağı ilə şərab tökərək yaralarını sarıdı. Sonra bu adamı öz heyvanına mindirib mehmanxanaya gətirdi və ona qayğı göstərdi.</verse>
+        <verse osisID='Luke.10.35'>Ertəsi gün o, iki dinar çıxarıb mehmanxana sahibinə verərək dedi: “Onun qayğısını çək. Əgər bundan da çox xərcin çıxsa, mən geri qayıdanda sənə verərəm”.</verse>
+        <verse osisID='Luke.10.36'>Səncə bu üç nəfərdən hansı quldurların əlinə düşən adamın qonşusu idi?»</verse>
+        <verse osisID='Luke.10.37'>Qanunşünas cavab verdi: «Ona mərhəmət göstərən». İsa da ona dedi: «Get, sən də elə et». </verse>
+        <verse osisID='Luke.10.38'>İsa şagirdləri ilə yoluna davam edərkən bir kəndə girdi. Burada Marta adlı bir qadın Onu öz evinə dəvət etdi.</verse>
+        <verse osisID='Luke.10.39'>Onun Məryəm adlı bir bacısı vardı. O, Rəbbin ayaqları yanında oturub Onun sözünə qulaq asırdı.</verse>
+        <verse osisID='Luke.10.40'>Marta isə işin çoxluğundan çaşıb-qalmışdı. O, İsaya yaxınlaşıb dedi: «Ya Rəbb! Görmürsən ki, bacım işləri tək mənim üstümə yığıb? Ona de ki, mənə kömək etsin».</verse>
+        <verse osisID='Luke.10.41'>Rəbb isə ona belə cavab verdi: «Marta, Marta, sən çox şeyin qayğısını çəkib təlaşa düşürsən.</verse>
+        <verse osisID='Luke.10.42'>Yalnız bir şey lazımdır. Məryəm yaxşısını seçdi. Bu da onun əlindən alınmayacaq».  </verse>
+      </chapter>
+      <chapter osisID='Luke.11'>
+        <verse osisID='Luke.11.1'>
+          İsa bir yerdə dua edirdi. Duasını bitirəndə şagirdlərindən biri Ona dedi: «Ya Rəbb, Yəhya öz şagirdlərinə öyrətdiyi kimi Sən də bizə dua etməyi öyrət».</verse>
+        <verse osisID='Luke.11.2'>İsa onlara dedi: «Dua edəndə belə deyin:  Göylərdə olan Atamız,Adın müqəddəs tutulsun,Padşahlığın gəlsin.Göydə olduğu kimi yerdə də Sənin iradən olsun.</verse>
+        <verse osisID='Luke.11.3'>Gündəlik çörəyimizi bizə hər gün ver.</verse>
+        <verse osisID='Luke.11.4'>Bizə borclu olan hər adamı bağışladığımıza görəBizim günahlarımızı da bağışla.Bizi sınağa çəkmə». </verse>
+        <verse osisID='Luke.11.5'>Sonra İsa onlara dedi: «Məsələn, sizlərdən birinin bir dostu var. O da gecə yarısı dostunun yanına gedib deyir: “Dostum, mənə üç kömbə çörək borc ver,</verse>
+        <verse osisID='Luke.11.6'>çünki yanıma dostum gəlib, qabağına qoyacaq heç nəyim yoxdur”.</verse>
+        <verse osisID='Luke.11.7'>Dostu da içəridən belə cavab verir: “Məni narahat etmə. Qapı artıq qıfıllıdır, uşaqlarım yanımda yatıb, mən durub sənə bir şey verə bilmərəm”.</verse>
+        <verse osisID='Luke.11.8'>Sizə deyim ki, o həmin adamla dost olduğu halda vermək istəməsə də, təkidlə xahiş etdiyinə görə qalxıb nə qədər ehtiyacı olsa, ona verəcək. </verse>
+        <verse osisID='Luke.11.9'>Mən sizə bunu deyirəm: diləyin, sizə veriləcək, axtarın, tapacaqsınız, qapını döyün və sizə açılacaq.</verse>
+        <verse osisID='Luke.11.10'>Çünki hər diləyən alar, axtaran tapar, qapı döyənə açılar.</verse>
+        <verse osisID='Luke.11.11'>Aranızdan hansı ata oğlu ondan balıq diləsə, ona balıq yerinə ilan verər?</verse>
+        <verse osisID='Luke.11.12'>Yaxud yumurta diləsə, ona əqrəb verər?</verse>
+        <verse osisID='Luke.11.13'>Beləliklə, siz pis olduğunuz halda öz övladlarınıza yaxşı hədiyyələr verməyi bilirsinizsə, göydə olan Atanın Ondan diləyənlərə Müqəddəs Ruhu verəcəyi nə qədər yəqindir!» </verse>
+        <verse osisID='Luke.11.14'>İsa bir adamdan lal olan bir cini qovurdu. Cin çıxandan sonra lal danışmağa başladı və camaat heyrətləndi.</verse>
+        <verse osisID='Luke.11.15'>Amma onların bəzisi deyirdi: «O, cinlərin başçısı Baal-Zevulun gücü ilə cinləri qovur».</verse>
+        <verse osisID='Luke.11.16'>Başqaları isə İsanı sınamaq üçün istədilər ki, göydən gələn bir əlamət göstərsin. </verse>
+        <verse osisID='Luke.11.17'>Nə düşündüklərini bilən İsa onlara dedi: «Öz daxilindən bölünmüş hər padşahlıq viran qalar və öz içindən bölünmüş ev dağılar.</verse>
+        <verse osisID='Luke.11.18'>Əgər Şeytan da öz daxilindən bölünübsə, onun padşahlığı necə davam gətirər? Siz də deyirsiniz ki, Mən cinləri Baal-Zevulun gücü ilə qovuram.</verse>
+        <verse osisID='Luke.11.19'>Əgər Mən cinləri Baal-Zevulun gücü ilə qovuramsa, bəs sizin adamlarınız kimin gücü ilə qovur? Buna görə də onlar sizin hakimləriniz olacaq.</verse>
+        <verse osisID='Luke.11.20'>Lakin Mən cinləri Allahın qüdrəti ilə qovuramsa, deməli, Allahın Padşahlığı üzərinizə gəlib.</verse>
+        <verse osisID='Luke.11.21'>Əgər güclü bir adam təpədən-dırnağadək silahlanıb öz evini qoruyursa, onun əmlakı əmin-amanlıqdadır.</verse>
+        <verse osisID='Luke.11.22'>Amma ondan güclüsü ona hücum edib qalib gələrsə, onda onun güvəndiyi silahları əlindən alıb talan mallarını bölüşdürər.</verse>
+        <verse osisID='Luke.11.23'>Mənimlə olmayan Mənə qarşıdır və Mənimlə yığmayan dağıdır. </verse>
+        <verse osisID='Luke.11.24'>Natəmiz ruh adamdan çıxdıqdan sonra quraq yerlərdə dolaşar, rahatlıq axtarar, lakin tapmaz. O zaman deyər: “Çıxdığım evə dönüm”.</verse>
+        <verse osisID='Luke.11.25'>Evə qayıdanda onu süpürülmüş və səliqə-sahman içində görər.</verse>
+        <verse osisID='Luke.11.26'>Bu vaxt o gedib özündən daha betər yeddi başqa ruhu götürər. Onlar da oraya girib məskunlaşar. Onda bu adamın axırı əvvəlkindən daha pis olar». </verse>
+        <verse osisID='Luke.11.27'>İsa bunu deyərkən bir qadın camaatın arasından uca səslə Ona dedi: «Səni bətnində daşıyan və Səni əmizdirən nə bəxtiyardır!»</verse>
+        <verse osisID='Luke.11.28'>Amma İsa dedi: «Daha doğrusu, Allahın kəlamını eşidib ona riayət edənlər nə bəxtiyardır!» </verse>
+        <verse osisID='Luke.11.29'>Camaat Onun ətrafına yığılanda İsa danışmağa başladı: «İndiki nəsil pis nəsildir. Onlar əlamət axtarır, amma onlara Yunusun əlamətindən başqa heç bir əlamət verilməyəcək.</verse>
+        <verse osisID='Luke.11.30'>Çünki Yunus Nineva əhalisinə necə bir əlamət oldusa, Bəşər Oğlu da bu nəsil üçün belə olacaq.</verse>
+        <verse osisID='Luke.11.31'>Cənub mələkəsi qiyamət günündə bu nəslin adamları ilə birgə qalxıb onları məhkum edəcək. Çünki mələkə Süleymanın hikmətli sözlərini dinləmək üçün yer üzünün ucqarlarından gəlmişdi. Budur, Süleymandan daha böyük Olan buradadır.</verse>
+        <verse osisID='Luke.11.32'>Nineva xalqı qiyamət günündə bu nəsillə birgə qalxıb onu məhkum edəcək. Çünki onlar Yunusun vəzinə görə tövbə etmişdilər. Budur, Yunusdan daha böyük Olan buradadır. </verse>
+        <verse osisID='Luke.11.33'>Heç kim çırağı yandırıb onu gizli yerə yaxud da qabın altına qoymaz. Əksinə, çıraqdana qoyar ki, içəri girənlər işığı görsünlər. </verse>
+        <verse osisID='Luke.11.34'>Bədəninin çırağı gözündür. Gözün sağlam olanda bütün bədənin də nurlu olur. Gözün zəif görəndə isə bütün bədənin də qaranlıq olur.</verse>
+        <verse osisID='Luke.11.35'>Beləliklə, diqqət et ki, səndəki “nur” qaranlıq olmasın.</verse>
+        <verse osisID='Luke.11.36'>Əgər sənin bütün bədənin nurlu olub heç bir yerdə qaranlıq qalmırsa, çıraq sənə öz nuru ilə işıq saçdığı kimi bədənin də tamamilə nurlu olacaq». </verse>
+        <verse osisID='Luke.11.37'>İsa bunları deyib qurtaranda fariseylərdən biri Onu evinə yeməyə dəvət etdi. O da içəri girib süfrəyə oturdu.</verse>
+        <verse osisID='Luke.11.38'>İsanın yeməkdən əvvəl yuyunmadığını görən farisey heyrətləndi.</verse>
+        <verse osisID='Luke.11.39'>Lakin Rəbb ona dedi: «İndi siz fariseylər kasanın və boşqabın bayır tərəfini təmizləyirsiniz, lakin daxiliniz soyğunçuluq və pisliklə dolub.</verse>
+        <verse osisID='Luke.11.40'>Ey ağılsızlar, zahiri yaradanla daxili yaradan eyni deyilmi?</verse>
+        <verse osisID='Luke.11.41'>Yaxşısı budur ki, qablarınızın içindəkilərini sədəqə verəsiniz, onda sizin üçün hər şey təmiz olar. </verse>
+        <verse osisID='Luke.11.42'>Vay halınıza, ey fariseylər! Çünki siz nanə, sədəfotu və hər cür göyərtinin onda birini verirsiniz, lakin ədalətə və Allah məhəbbətinə etinasızlıq göstərirsiniz. Amma onda biri verməklə yanaşı bunları da yerinə yetirməli idiniz. </verse>
+        <verse osisID='Luke.11.43'>Vay halınıza, ey fariseylər! Sinaqoqlarda baş kürsüləri tutmağı və bazar meydanlarında salam almağı sevirsiniz. </verse>
+        <verse osisID='Luke.11.44'>Vay halınıza! Çünki siz insanların xəbəri olmadan üstündən keçdikləri itmiş qəbirlərə oxşayırsınız». </verse>
+        <verse osisID='Luke.11.45'>Qanunşünaslardan biri İsaya cavab verdi: «Müəllim, sən bunları deməklə bizi də təhqir edirsən».</verse>
+        <verse osisID='Luke.11.46'>İsa da belə dedi: «Elə sizin də vay halınıza, ey qanunşünaslar! Çünki adamları ağır yüklərlə yükləyirsiniz, amma özünüz barmağınızın biri ilə də bu yüklərə toxunmursunuz. </verse>
+        <verse osisID='Luke.11.47'>Vay halınıza! Çünki peyğəmbərlərə məqbərələr tikirsiniz, amma onları sizin ata-babalarınız öldürdülər!</verse>
+        <verse osisID='Luke.11.48'>Beləliklə, siz ata-babalarınızın etdiklərinə şahidlik edib bəyənirsiniz. Çünki onlar peyğəmbərləri öldürüb, sizsə onlara məqbərələr tikirsiniz.</verse>
+        <verse osisID='Luke.11.49'>Buna görə də Allahın hikməti belə demişdi: “Mən onlara peyğəmbərlər və həvarilər göndərəcəyəm, onların bəzisini öldürüb, bəzisini isə təqib edəcəklər”.</verse>
+        <verse osisID='Luke.11.50'>Beləcə bu nəsil dünya yaranandan bəri Habilin qanından tutmuş qurbangahla məbədin arasında öldürülmüş Zəkəriyyənin qanına qədər bütün peyğəmbərlərin tökülən qanı üçün məsuliyyət daşıyacaq. Bəli, Mən sizə deyirəm: onun üçün bu nəsil məsuliyyət daşıyacaq. </verse>
+        <verse osisID='Luke.11.51'>Beləcə bu nəsil dünya yaranandan bəri Habilin qanından tutmuş qurbangahla məbədin arasında öldürülmüş Zəkəriyyənin qanına qədər bütün peyğəmbərlərin tökülən qanı üçün məsuliyyət daşıyacaq. Bəli, Mən sizə deyirəm: onun üçün bu nəsil məsuliyyət daşıyacaq. </verse>
+        <verse osisID='Luke.11.52'>Vay halınıza, ey qanunşünaslar! Çünki bilik qapısının açarlarını götürmüsünüz. Özünüz bu qapıdan girmədiniz, girmək istəyənlərə də mane oldunuz». </verse>
+        <verse osisID='Luke.11.53'>İsa oradan çıxanda ilahiyyatçılarla fariseylər ona çox təzyiq göstərərək bir çox məsələlər barədə Onu sorğu-suala tutmağa başladılar.</verse>
+        <verse osisID='Luke.11.54'>Onlar fürsət axtarırdılar ki, İsanın ağzından çıxan bir sözlə Onu tələyə salsınlar.  </verse>
+      </chapter>
+      <chapter osisID='Luke.12'>
+        <verse osisID='Luke.12.1'>
+           Bu vaxt saysız-hesabsız adam bir-birini sıxışdıra-sıxışdıra oraya yığıldı. İsa əvvəl şagirdlərinə danışmağa başladı: «Fariseylərin mayasından, yəni ikiüzlülükdən özünüzü gözləyin.</verse>
+        <verse osisID='Luke.12.2'>Elə örtülü bir şey yoxdur ki, aşkara çıxmayacaq və elə gizli bir şey yoxdur ki, bilinməyəcək.</verse>
+        <verse osisID='Luke.12.3'>Buna görə də qaranlıqda dediyiniz gün işığında eşidiləcək, bağlı qapı arxasında qulağa pıçıldadığınız damlardan bəyan olunacaq. </verse>
+        <verse osisID='Luke.12.4'>Ey dostlarım, sizə deyirəm: bədəni öldürən və ondan sonra başqa heç nə edə bilməyənlərdən qorxmayın.</verse>
+        <verse osisID='Luke.12.5'>Amma Kimdən qorxmaq lazım olduğunu sizə göstərim: adamı öldürəndən sonra cəhənnəmə atmağa ixtiyarı olan Allahdan qorxun. Bəli, sizə deyirəm: Ondan qorxun!</verse>
+        <verse osisID='Luke.12.6'>Beş sərçə iki qara pula satılmırmı? Onlardan biri belə, Allahın qarşısında yaddan çıxmır.</verse>
+        <verse osisID='Luke.12.7'>Sizin başınızdakı saçlar belə, sayılıb. Qorxmayın, siz saysız-hesabsız sərçədən daha dəyərlisiniz. </verse>
+        <verse osisID='Luke.12.8'>Mən sizə deyirəm: insanlar qarşısında Məni iqrar edən hər kəsi Bəşər Oğlu da Allahın mələkləri qarşısında iqrar edəcək.</verse>
+        <verse osisID='Luke.12.9'>Amma insanlar önündə Məni inkar edən özü də Allahın mələkləri önündə inkar olunacaq.</verse>
+        <verse osisID='Luke.12.10'>Bəşər Oğluna qarşı bir söz deyən hər kəs bağışlanacaq; amma Müqəddəs Ruha küfr edən bağışlanmayacaq. </verse>
+        <verse osisID='Luke.12.11'>Sizi sinaqoqlara, başçıların və hökmdarların qarşısına gətirəndə özünüzü necə müdafiə edəcəyiniz və yaxud nə deyəcəyiniz barədə qayğı çəkməyin.</verse>
+        <verse osisID='Luke.12.12'>Müqəddəs Ruh sizə o anda nə deməli olduğunuzu öyrədəcək». </verse>
+        <verse osisID='Luke.12.13'>İzdihamdan bir nəfər İsaya dedi: «Müəllim, qardaşıma de ki, mirası mənimlə bölsün».</verse>
+        <verse osisID='Luke.12.14'>İsa ona belə cavab verdi: «Ey insan, Məni kim üzərinizə hakim ya vəkil qoyub?»</verse>
+        <verse osisID='Luke.12.15'>Sonra İsa onlara dedi: «Diqqətli olun, hər cür tamahkarlıqdan özünüzü qoruyun. Çünki insanın həyatı var-yoxunun bolluğundan asılı deyil». </verse>
+        <verse osisID='Luke.12.16'>İsa onlara bu məsəli danışdı: «Bir varlının torpağı bol məhsul verdi.</verse>
+        <verse osisID='Luke.12.17'>Bu adam ürəyində düşündü: “Məhsulumu qoymağa yerim yoxdur. Axı nə edim?”</verse>
+        <verse osisID='Luke.12.18'>Sonra dedi: “Belə edərəm: anbarlarımı söküb daha böyüklərini tikəcəyəm. Bütün taxılımı və malımı oraya yığaram.</verse>
+        <verse osisID='Luke.12.19'>Canıma deyərəm: ey canım, illərlə kifayət qədər var-dövlət yığmısan. İndi dincəl, ye-iç, kef elə”.</verse>
+        <verse osisID='Luke.12.20'>Amma Allah ona dedi: “Ay axmaq, bu gecə canını səndən alacaqlar. Bəs hazırladığın kimə qalacaq?”</verse>
+        <verse osisID='Luke.12.21'>Özü üçün xəzinə toplayan, amma Allahın önündə varlı olmayan hər bir insanın axırı da elə olacaq». </verse>
+        <verse osisID='Luke.12.22'>İsa Öz şagirdlərinə belə dedi: «Buna görə sizə deyirəm: “Nə yeyəcəyik?” deyə canınız üçün, “Nə geyinəcəyik?” deyə bədəniniz üçün qayğı çəkməyin.</verse>
+        <verse osisID='Luke.12.23'>Can yeməkdən, bədənsə geyinməkdən daha vacibdir.</verse>
+        <verse osisID='Luke.12.24'>Qarğalara baxın: onlar nə əkir, nə də biçir, nə anbarları, nə də zirzəmiləri var. Amma Allah onları yedizdirir. Siz quşlardan nə qədər qiymətlisiniz!</verse>
+        <verse osisID='Luke.12.25'>Hansı biriniz qayğı çəkməklə ömrünü bir anlıq belə, uzada bilər?</verse>
+        <verse osisID='Luke.12.26'>Əgər siz elə balaca şeyi etməyi bacarmırsınızsa, nə üçün başqa şeylərin qayğısını çəkirsiniz?</verse>
+        <verse osisID='Luke.12.27'>Zanbaqların necə böyüdüyünə baxın: onlar nə zəhmət çəkir, nə də ip əyirir. Lakin sizə bunu deyirəm ki, bütün cah-calalı içində olan Süleyman belə, bunlardan biri kimi geyinməmişdi.</verse>
+        <verse osisID='Luke.12.28'>Ey imanı az olanlar, bu gün çöldə olub sabah ocağa atılan otu Allah belə geyindirirsə, sizi geyindirəcəyi nə qədər yəqindir!</verse>
+        <verse osisID='Luke.12.29'>“Nə yeyəcəyik?”, “Nə içəcəyik?” deyə axtarıb narahat olmayın.</verse>
+        <verse osisID='Luke.12.30'>Çünki dünyadakı bütpərəstlər bütün bu şeyləri axtarırlar. Doğrudan da, Atanız bunlara ehtiyacınız olduğunu bilir.</verse>
+        <verse osisID='Luke.12.31'>Lakin siz Allahın Padşahlığını axtarın, onda bunlar da sizə əlavə olaraq veriləcək. </verse>
+        <verse osisID='Luke.12.32'>Qorxma, ey kiçik sürü! Çünki Atanız Padşahlığı sizə verməyi münasib gördü.</verse>
+        <verse osisID='Luke.12.33'>Əmlakınızı satın və sədəqə verin. Özünüzə köhnəlməyən kisələr, göylərdə tükənməyən xəzinə hazırlayın. Oraya nə oğru gələr, nə də onu güvə yeyər.</verse>
+        <verse osisID='Luke.12.34'>Çünki xəzinəniz haradadırsa, ürəyiniz də orada olacaq». </verse>
+        <verse osisID='Luke.12.35'>«Qoy qurşaqlarınız bellərinizdə bağlı və çıraqlarınız yana-yana qalsın.</verse>
+        <verse osisID='Luke.12.36'>Toy ziyafətindən qayıdan ağasını gözləyən adamlara oxşayın. Onlar ağaları gəlib qapını döyən kimi qapını açmağa hazır olurlar.</verse>
+        <verse osisID='Luke.12.37'>Nə bəxtiyardır o qullar ki, ağa qayıdanda onları oyaq görür! Sizə doğrusunu deyirəm: o özü qurşaqlanıb qullarını süfrəyə oturdacaq və gəlib onlara xidmət edəcək.</verse>
+        <verse osisID='Luke.12.38'>Ağa istər gecəyarı, istər ondan gec, səhərə yaxın gəlib qulları oyaq görsə, o qullar necə də bəxtiyardır! </verse>
+        <verse osisID='Luke.12.39'>Amma bunu bilin ki, əgər evin yiyəsi oğrunun hansı saatda gələcəyini bilsəydi, evinin yarılmasına imkan verməzdi.</verse>
+        <verse osisID='Luke.12.40'>Beləcə siz də hazır olun, çünki Bəşər Oğlu gözləmədiyiniz vaxt gələcək». </verse>
+        <verse osisID='Luke.12.41'>Peter dedi: «Ya Rəbb, bu məsəli ancaq bizə danışırsan, yoxsa hamıya?»</verse>
+        <verse osisID='Luke.12.42'>Rəbb cavab verdi: «Vaxtlı-vaxtında onlara yemək vermək üçün ağasının öz nökərləri üzərinə qoyduğu sadiq və ağıllı idarəçi kimdir?</verse>
+        <verse osisID='Luke.12.43'>Nə bəxtiyardır o qul ki, ağası evinə qayıdanda onu iş başında görür!</verse>
+        <verse osisID='Luke.12.44'>Sizə həqiqəti deyirəm: ağası bu qula bütün əmlakı üzərində idarəçiliyi tapşıracaq.</verse>
+        <verse osisID='Luke.12.45'>Amma həmin qul ürəyində “ağam gec gələcək” deyərsə, başqa nökər və qarabaşları döyməyə, yeyib-içməyə, sərxoşluğa uymağa başlayarsa,</verse>
+        <verse osisID='Luke.12.46'>o qulun ağası onun gözləmədiyi gün və ağlına gəlmədiyi vaxt gələcək, ona ağır cəza verəcək və onu sədaqətsizlərlə bir yerdə saxlayacaq. </verse>
+        <verse osisID='Luke.12.47'>Ağasının istəyini bilib hazır olmayan və onun istəyinə əməl etməyən qul çox döyüləcək.</verse>
+        <verse osisID='Luke.12.48'>Bilməyib o cəzaya layiq iş görənsə az döyüləcək. Kimə çox verilibsə, ondan çox da istəniləcək. Kimə çox tapşırılıbsa, ondan daha çox tələb olunacaq. </verse>
+        <verse osisID='Luke.12.49'>Mən yer üzünə od yağdırmağa gəlmişəm. Kaş ki bu od artıq alışıb-yanaydı!</verse>
+        <verse osisID='Luke.12.50'>Mənim alacağım bir vəftiz var. Bu vəftiz yerinə yetib qurtaranadək nə qədər sıxıntı çəkməliyəm!</verse>
+        <verse osisID='Luke.12.51'>Siz düşünürsünüz ki, Mən yer üzünə sülh gətirməyə gəlmişəm? Xeyr, sizə deyirəm ki, Mən ayrılıq gətirməyə gəlmişəm!</verse>
+        <verse osisID='Luke.12.52'>Çünki bundan sonra bir evdə yaşayan beş nəfər bir-birindən ayrılaraq üç nəfərə qarşı iki nəfər, iki nəfərə qarşı üç nəfər olacaq.</verse>
+        <verse osisID='Luke.12.53'>Çünki ata oğlundan, oğul atasından, ana qızından, qız anasından, qayınana gəlinindən, gəlin də qayınanasından ayrılacaq». </verse>
+        <verse osisID='Luke.12.54'>İsa camaata bunu da dedi: «Siz qərb tərəfdən qalxan buludu görəndə dərhal “yağış yağacaq” deyirsiniz, bu da olur.</verse>
+        <verse osisID='Luke.12.55'>Cənub küləyinin əsməsini görəndə “qızmar isti olacaq” deyirsiniz, bu da olur.</verse>
+        <verse osisID='Luke.12.56'>Ey ikiüzlülər, yer üzünün və göyün görünüşünü seçə bilirsiniz, bəs onda nə üçün indiki zamanı seçə bilmirsiniz? </verse>
+        <verse osisID='Luke.12.57'>Nə üçün düzgün olan şeyə özünüz qərar vermirsiniz?</verse>
+        <verse osisID='Luke.12.58'>Səni ittiham edənlə birgə hakimin yanına gedəndə yolda ikən onunla barışmağa çalış. Yoxsa səni hakimin qabağına sürüyər, hakimsə məhkəmə icraçısına ötürər, o da səni zindana atar.</verse>
+        <verse osisID='Luke.12.59'>Sənə bunu deyirəm: axırıncı qəpik-quruşunu verməyincə oradan əsla çıxmayacaqsan».  </verse>
+      </chapter>
+      <chapter osisID='Luke.13'>
+        <verse osisID='Luke.13.1'>
+          Bu vaxt orada olan bəzi adamlar İsaya xəbər verdilər ki, Pilat bəzi Qalileyalıların qanını kəsdikləri qurbanların qanına qatmışdı.</verse>
+        <verse osisID='Luke.13.2'>İsa buna belə cavab verdi: «Siz elə bilirsiniz ki, bu aqibətə uğramış Qalileyalılar bütün digər Qalileyalılardan daha betər günahlı idilər?</verse>
+        <verse osisID='Luke.13.3'>Xeyr, Mən sizə deyirəm: tövbə etməsəniz, hamınız onlar kimi məhv olacaqsınız.</verse>
+        <verse osisID='Luke.13.4'>Yaxud Şiloah qülləsi on səkkiz adamın üstünə aşıb onları öldürəndə onların Yerusəlim sakinlərinin hamısından təqsirkar olduqlarını fikirləşirsiniz?</verse>
+        <verse osisID='Luke.13.5'>Xeyr, Mən sizə deyirəm: tövbə etməsəniz, hamınız onlar kimi məhv olacaqsınız». </verse>
+        <verse osisID='Luke.13.6'>Sonra İsa bu məsəli danışdı: «Bir adamın bağında bir əncir ağacı əkilmişdi. Bu adam gəlib ağacda meyvə axtardı, amma tapmadı.</verse>
+        <verse osisID='Luke.13.7'>O, bağbana dedi: “Bura bax, üç ildir ki, mən gəlib bu əncir ağacında meyvə axtarıram, amma tapmıram. Onu kəs! Nə üçün bu ağac əbəs yerə torpağı tutur?”</verse>
+        <verse osisID='Luke.13.8'>Bağbansa cavabında belə dedi: “Ağa, bir il də buna əl dəymə. Mən onu belləyib dövrəsinə peyin tökərəm.</verse>
+        <verse osisID='Luke.13.9'>Gələn il bu ağac meyvə gətirsə, yaxşıdır, yox, gətirməsə, onu kəsərsən”». </verse>
+        <verse osisID='Luke.13.10'>İsa bir dəfə Şənbə günü sinaqoqlardan birində təlim öyrədirdi.</verse>
+        <verse osisID='Luke.13.11'>Orada on səkkiz il daxilində xəstəlik ruhu olan beli bükülmüş bir qadın var idi. O, belini heç düzəldə bilmirdi.</verse>
+        <verse osisID='Luke.13.12'>İsa bu qadını görəndə çağırıb dedi: «Ey qadın, sən azarından azad oldun».</verse>
+        <verse osisID='Luke.13.13'>İsa əllərini qadının üstünə qoyanda o dərhal dikəlib Allahı izzətləndirməyə başladı.</verse>
+        <verse osisID='Luke.13.14'>Amma sinaqoqun rəisi İsanın Şənbə günü şəfa verdiyinə hiddətlənib camaata belə xitab etdi: «İş görmək üçün altı gün var, o günlər gəlin və şəfa alın, Şənbə günü yox».</verse>
+        <verse osisID='Luke.13.15'>Rəbb isə ona belə cavab verdi: «Ey ikiüzlülər, sizlərdən hər biriniz Şənbə günündə öz öküzünün ya eşşəyinin bağını açıb tövlədən su içməyə aparmırmı?</verse>
+        <verse osisID='Luke.13.16'>İbrahimin qızı olan bu qadını da on səkkiz il ərzində Şeytan buxovlamışdı. Şənbə günü bu qadının buxovlarını açmaq lazım deyildimi?»</verse>
+        <verse osisID='Luke.13.17'>İsa bunları deyəndə Ona qarşı çıxanlar hamısı utandı. Camaatın hamısı isə Onun etdiyi bütün izzətli işlərinə görə sevinirdi. </verse>
+        <verse osisID='Luke.13.18'>Sonra İsa dedi: «Allahın Padşahlığı nəyə bənzəyir? Onu nəyə bənzədim?</verse>
+        <verse osisID='Luke.13.19'>O, bir adamın bağçasına əkdiyi xardal toxumuna bənzəyir. O toxum böyüyüb ağac olur. Göydə uçan quşlar onun budaqlarında yuva qurur». </verse>
+        <verse osisID='Luke.13.20'>İsa yenə dedi: «Allahın Padşahlığını nəyə bənzədim?</verse>
+        <verse osisID='Luke.13.21'>O, xəmir mayasına bənzəyir. Qadın onu götürüb üç kisə una qarışdırıb bütün xəmir acıyanadək saxlayır». </verse>
+        <verse osisID='Luke.13.22'>İsa şəhər və kəndləri gəzib təlim öyrədərək Yerusəlimə tərəf gedirdi.</verse>
+        <verse osisID='Luke.13.23'>Bir nəfər Ondan soruşdu: «Ya Rəbb, xilas tapanların sayı az olacaqmı?» İsa onlara belə cavab verdi:</verse>
+        <verse osisID='Luke.13.24'>«Dar qapıdan girməyə çalışın. Sizə bunu deyirəm: çoxları bu qapıdan girməyə can atacaq, amma girə bilməyəcək.</verse>
+        <verse osisID='Luke.13.25'>Ev yiyəsi durub qapını bağlayandan sonra siz bayırda durub qapını döyərək deyəcəksiniz: “Ey ağam, bizə qapını aç!” O isə cavabında sizə deyəcək: “Mən sizin haradan gəldiyinizi bilmirəm!”</verse>
+        <verse osisID='Luke.13.26'>Siz o vaxt belə deyəcəksiniz: “Biz Sənin qarşında yeyib-içmişik. Sən bizim küçələrdə öyrədirdin”.</verse>
+        <verse osisID='Luke.13.27'>O isə sizə deyəcək: “Ey haqsızlıq edənlərin hamısı, Mən sizin haradan gəldiyinizi bilmirəm, Məndən uzaq olun!”</verse>
+        <verse osisID='Luke.13.28'>İbrahimi, İshaqı, Yaqubu və bütün peyğəmbərləri Allahın Padşahlığında, özünüzü isə bayıra atılmış görəndə aranızda ağlaşma və diş qıcırtısı olacaq.</verse>
+        <verse osisID='Luke.13.29'>Adamlar şərqdən, qərbdən, şimaldan, cənubdan gələcək və Allahın Padşahlığında süfrəyə oturacaq.</verse>
+        <verse osisID='Luke.13.30'>Budur, elə axırıncılar var ki, birinci olacaq, elə birincilər var ki, axırıncı olacaq». </verse>
+        <verse osisID='Luke.13.31'>O zaman bəzi fariseylər gəlib İsaya dedilər: «Buradan çıx get, çünki Hirod Səni öldürmək istəyir».</verse>
+        <verse osisID='Luke.13.32'>İsa onlara dedi: «Gedin o tülküyə deyin: “Budur, Mən bu gün və sabah cinləri qovub camaatı sağaldacağam və üçüncü gün işimi bitirəcəyəm”.</verse>
+        <verse osisID='Luke.13.33'>Yenə də bu gün, sabah və o biri gün yoluma davam etməliyəm. Çünki peyğəmbər Yerusəlimdən kənarda öldürülə bilməz! </verse>
+        <verse osisID='Luke.13.34'>Ey Yerusəlim, Yerusəlim! Peyğəmbərləri öldürən və ora göndərilənləri daşqalaq edən şəhər! Toyuq cücələrini qanadları altına yığan kimi Mən də dəfələrlə sənin övladlarını yığmaq istədim, sizsə istəmədiniz!</verse>
+        <verse osisID='Luke.13.35'>Baxın, eviniz viran qalır. Mən sizə bunu deyirəm:  “Rəbbin ismi ilə Gələnə alqış olsun!”  deyənə qədər Məni bir daha görməyəcəksiniz».  </verse>
+      </chapter>
+      <chapter osisID='Luke.14'>
+        <verse osisID='Luke.14.1'>
+          Bir Şənbə günü İsa farisey rəhbərlərinin birinin evinə çörək yeməyə getdi. Hamı Ona göz qoyurdu.</verse>
+        <verse osisID='Luke.14.2'>Onun qarşısında hidropos xəstəliyinə tutulmuş bir adam var idi.</verse>
+        <verse osisID='Luke.14.3'>İsa qanunşünas və fariseylərə xitab edərək soruşdu: «Şənbə günü insanlara şəfa verməyə icazə var ya yox?»</verse>
+        <verse osisID='Luke.14.4'>Amma onlar dinmirdi. İsa o adama əli ilə toxundu, onu sağaltdı və buraxdı.</verse>
+        <verse osisID='Luke.14.5'>İsa onlara dedi: «Sizlərdən kimin oğlu yaxud öküzü Şənbə günü quyuya düşsə, onu dərhal oradan dartıb çıxarmaz?»</verse>
+        <verse osisID='Luke.14.6'>Onlar İsanın bu sualına cavab verə bilmədilər. </verse>
+        <verse osisID='Luke.14.7'>İsa fikir verdi ki, dəvət olunanlar yuxarı başda oturmağı seçdilər. Onlara belə bir məsəl söylədi:</verse>
+        <verse osisID='Luke.14.8'>«Bir nəfər səni toya dəvət edirsə, yuxarı başda oturma. Bəlkə ev yiyəsinin səndən də hörmətli bir qonağı var.</verse>
+        <verse osisID='Luke.14.9'>İkinizi də toya dəvət edən gəlib sənə “bu adama yer ver” desə, sən xəcalət içində aşağı başda əyləşməli olarsan.</verse>
+        <verse osisID='Luke.14.10'>Amma dəvət olunanda gedib ən aşağı başda otur ki, səni dəvət edən adam gəlib sənə “Dostum! Yuxarı başa keç” desin; o zaman səninlə birgə oturanların hamısının qarşısında hörmət qazanarsan.</verse>
+        <verse osisID='Luke.14.11'>Çünki özünü yüksəldən hər kəs aşağı tutulacaq, özünü aşağı tutansa yüksəldiləcək». </verse>
+        <verse osisID='Luke.14.12'>İsa Onu dəvət edənə də dedi: «Günorta yaxud axşam yeməyi verdiyin vaxt öz dostlarını, qardaşlarını, qohumlarını, dövlətli qonşularını dəvət etmə ki, onlar da səni çağıraraq sənə əvəzini versin.</verse>
+        <verse osisID='Luke.14.13'>Amma qonaqlıq verəndə yoxsulları, əlilləri, topalları, korları çağır.</verse>
+        <verse osisID='Luke.14.14'>Onda onlar sənə əvəzini verə bilmədiyinə görə sən bəxtiyar olacaqsan. Çünki salehlər dirildiyi zaman sənə əvəz veriləcək». </verse>
+        <verse osisID='Luke.14.15'>Süfrəyə oturanlardan biri bunu eşidib İsaya dedi: «Allahın Padşahlığında çörək yeyən nə bəxtiyardır!»</verse>
+        <verse osisID='Luke.14.16'>Amma İsa ona dedi: «Bir adam böyük ziyafət hazırladı və oraya çoxlu qonaq çağırdı.</verse>
+        <verse osisID='Luke.14.17'>Yemək vaxtı gələndə öz qulunu dəvət olunanların yanına göndərdi ki, onlara desin: “Buyurun, indi hər şey hazırdır”.</verse>
+        <verse osisID='Luke.14.18'>Amma hamı birdən üzr istəməyə başladı. Birincisi ona dedi: “Mən bir torpaq sahəsi almışam, gedib ona baxmalıyam. Səndən xahiş edirəm, məni bağışla”.</verse>
+        <verse osisID='Luke.14.19'>Digəri isə dedi: “Mən beş cüt öküz satın almışam və onları yoxlamağa gedirəm. Səndən xahiş edirəm, məni bağışla”.</verse>
+        <verse osisID='Luke.14.20'>Üçüncüsü dedi: “Mən təzə evlənmişəm, buna görə də gələ bilmərəm”.</verse>
+        <verse osisID='Luke.14.21'>Qul qayıdıb bu şeyləri ağasına bildirdi. O zaman ev yiyəsi qəzəblənib quluna dedi: “Qaç, şəhərin küçə və tinlərində olan yoxsulları, əlilləri, korları və topalları buraya gətir”.</verse>
+        <verse osisID='Luke.14.22'>Qul isə dedi: “Ağa, sənin əmrin yerinə yetirildi, hələ artıq yer də qalıb”.</verse>
+        <verse osisID='Luke.14.23'>Ağası quluna dedi: “Get, bütün yolları və çəpərləri gəz. Evim dolsun deyə adamları gəlməyə vadar et.</verse>
+        <verse osisID='Luke.14.24'>Sizə bunu deyirəm: ilk dəvət olunanların heç biri mənim ziyafətimdən dadmayacaq”». </verse>
+        <verse osisID='Luke.14.25'>İsa ilə birlikdə böyük izdiham yol gedirdi. İsa dönüb onlara dedi:</verse>
+        <verse osisID='Luke.14.26'>«Kim Mənim yanıma gəlib ata-anasını, arvad-uşaqlarını, bacı-qardaşlarını, hətta öz həyatını Məndən üstün tutsa, Mənim şagirdim ola bilməz.</verse>
+        <verse osisID='Luke.14.27'>Öz çarmıxını daşıyıb ardımca gəlməyən kəs də Mənim şagirdim ola bilməz. </verse>
+        <verse osisID='Luke.14.28'>Sizlərdən kimsə bir qüllə tikmək istəyirsə, əvvəlcə oturub onun xərclərini hesablamaz ki, görsün onu qurtarmaq üçün pulu çatacaq ya yox?</verse>
+        <verse osisID='Luke.14.29'>Çünki qüllənin təməlini qoyub işi qurtara bilməsə, bunu görənlərin hamısı onu ələ salıb deyəcək:</verse>
+        <verse osisID='Luke.14.30'>“Bu adam tikintiyə başlayıb qurtara bilmədi”. </verse>
+        <verse osisID='Luke.14.31'>Yaxud da hansı padşah başqa padşahla müharibəyə gedəndə üstünə iyirmi min əsgərlə gələnə qarşı on min əsgərlə durmağa qadir olmağı əvvəlcə oturub götür-qoy eləməz?</verse>
+        <verse osisID='Luke.14.32'>Əgər padşah buna qadir deyilsə, o biri padşahın hələ uzaqda olduğu vaxt elçilər göndərib sülh müqaviləsi bağlamaq istəyər.</verse>
+        <verse osisID='Luke.14.33'>Eyni tərzdə sizdən hər biriniz bütün əmlakından əl çəkməsə, Mənim şagirdim ola bilməz. </verse>
+        <verse osisID='Luke.14.34'>Duz yaxşı şeydir, amma əgər duz öz dadını itirərsə, ona nə ilə dad verilə bilər?</verse>
+        <verse osisID='Luke.14.35'>O nə torpağa yarayar, nə də peyinə. Onu çölə atarlar. Eşitməyə qulağı olan eşitsin!»  </verse>
+      </chapter>
+      <chapter osisID='Luke.15'>
+        <verse osisID='Luke.15.1'>
+           Bütün vergiyığanlar və günahkarlar İsanı dinləmək üçün Ona yaxınlaşırdılar.</verse>
+        <verse osisID='Luke.15.2'>Fariseylər və ilahiyyatçılar isə «bu adam günahkarları qəbul edir və onlarla yemək yeyir» deyə deyinirdilər. </verse>
+        <verse osisID='Luke.15.3'>Amma İsa onlara bu məsəli çəkdi:</verse>
+        <verse osisID='Luke.15.4'>«Sizlərdən birinin yüz qoyunu olsa və onlardan birini itirsə, doxsan doqquzunu çöldə qoyub itmiş qoyunu tapanadək onu axtarmazmı?</verse>
+        <verse osisID='Luke.15.5'>Tapanda isə onu sevinclə çiyinlərinə qoyar.</verse>
+        <verse osisID='Luke.15.6'>Evə gələndə öz dostlarını və qonşularını çağırıb belə deyər: “Mənimlə birlikdə sevinin, itmiş qoyunumu tapmışam!”</verse>
+        <verse osisID='Luke.15.7'>Sizə bunu deyirəm: beləcə də göydə tövbə edən bircə günahkara görə tövbəyə ehtiyacı olmayan doxsan doqquz saleh insan üçün olduğundan daha çox sevinc olacaq. </verse>
+        <verse osisID='Luke.15.8'>Yaxud on dirhəmi olan hansı bir qadın bir dirhəmini itirsə, çıraq yandırıb evi süpürərək onu tapanadək diqqətlə axtarmaz?</verse>
+        <verse osisID='Luke.15.9'>Tapanda öz rəfiqələrini və qonşularını çağırıb deyər: “Mənimlə birlikdə sevinin, itirdiyim dirhəmi tapmışam!”</verse>
+        <verse osisID='Luke.15.10'>Sizə bunu deyirəm: Allahın mələklərinin önündə də tövbə edən bir günahkara görə sevinc olur». </verse>
+        <verse osisID='Luke.15.11'>İsa bunu da danışdı: «Bir adamın iki oğlu var idi.</verse>
+        <verse osisID='Luke.15.12'>Oğlanlardan kiçiyi atasına dedi: “Ata! Var-dövlətindən payıma düşəni mənə ver”. Atası da varını onların arasında bölüşdürdü. </verse>
+        <verse osisID='Luke.15.13'>Bir neçə gün sonra kiçik oğul nəyi vardısa, yığıb uzaq bir diyara yollandı. Orada pozğun həyat sürüb var-dövlətini heç-puç etdi.</verse>
+        <verse osisID='Luke.15.14'>Oğlan hər şeyini xərclədikdən sonra o ölkədə böyük bir aclıq oldu. O korluq çəkməyə başladı.</verse>
+        <verse osisID='Luke.15.15'>Buna görə də oğlan gedib o ölkənin sakinlərindən birinin yanında iş tapdı. Bu adam onu öz otlaqlarına donuz otarmağa göndərdi.</verse>
+        <verse osisID='Luke.15.16'>Oğlan donuzların yediyi keçibuynuzu qabıqları ilə qarnını doydurmağa şad olardı. Amma heç kim ona bir şey vermirdi. </verse>
+        <verse osisID='Luke.15.17'>Onda oğlan özünə gəlib dedi: “Atamın nə qədər muzdlu işçisi var, hamısının da doyunca yeməyə çörəyi var. Mənsə burada acından ölürəm!</verse>
+        <verse osisID='Luke.15.18'>Durub atamın yanına gedəcəyəm və ona deyəcəyəm: ‹Ata, mən göyə və sənə qarşı günah etdim.</verse>
+        <verse osisID='Luke.15.19'>Mən artıq sənin oğlun adlanmağa layiq deyiləm. Məni öz muzdlu işçilərinin biri kimi qəbul et›”.</verse>
+        <verse osisID='Luke.15.20'>O durub öz atasının yanına getdi.  Oğul hələ uzaqda ikən atası onu gördü. Ona rəhmi gəldi və qaçıb onun boynuna sarıldı və öpdü.</verse>
+        <verse osisID='Luke.15.21'>Oğul dedi: “Ata! Mən göyə və sənə qarşı günah etdim. Mən artıq sənin oğlun adlanmağa layiq deyiləm”.</verse>
+        <verse osisID='Luke.15.22'>Atası isə öz qullarına dedi: “Tez olun, ən gözəl xalat gətirin və onu geyindirin. Barmağına üzük və ayaqlarına çarıq taxın.</verse>
+        <verse osisID='Luke.15.23'>Kökəldilmiş dananı gətirin, kəsin: gəlin yeyib-şadlanaq!</verse>
+        <verse osisID='Luke.15.24'>Çünki bu oğlum ölmüşdü, yenə həyata qayıtdı. O itmişdi, tapıldı”. Beləliklə, şadlıq etməyə başladılar. </verse>
+        <verse osisID='Luke.15.25'>Atanın böyük oğlu isə tarlada idi. Qayıdaraq evə yaxınlaşanda çalğı və rəqs səsləri eşitdi.</verse>
+        <verse osisID='Luke.15.26'>O, nökərlərdən birini yanına çağırıb soruşdu: “Bu nədir?”</verse>
+        <verse osisID='Luke.15.27'>Nökər ona dedi: “Qardaşın qayıdıb. Atan da onun sağ-salamat qayıtmasına görə kökəldilmiş dananı kəsib”.</verse>
+        <verse osisID='Luke.15.28'>Böyük oğul isə hirsləndi və içəri girmək istəmədi. Atası bayıra çıxıb ona yalvardı.</verse>
+        <verse osisID='Luke.15.29'>Amma o, atasına belə cavab verdi: “Bax neçə ildir ki, sənin üçün qul kimi işləyirəm. Heç zaman sənin əmrindən çıxmamışam. Amma mənə heç vaxt bir oğlağı belə, qıymadın ki, dostlarımla şadlıq edim.</verse>
+        <verse osisID='Luke.15.30'>Bu oğlunsa sənin bütün varını fahişə qadınlara sərf edib. Amma o qayıdanda sən onun üçün kökəldilmiş dananı kəsdin”.</verse>
+        <verse osisID='Luke.15.31'>Atası isə ona dedi: “Oğlum, axı sən həmişə mənimləsən və bütün varım sənindir.</verse>
+        <verse osisID='Luke.15.32'>Lakin sevinmək və şadlanmaq lazımdır. Çünki sənin bu qardaşın ölmüşdü, həyata qayıtdı. O itmişdi, tapıldı!”»  </verse>
+      </chapter>
+      <chapter osisID='Luke.16'>
+        <verse osisID='Luke.16.1'>
+          İsa şagirdlərə bunları danışdı: «Varlı bir adamın idarəçisi var idi. Ona xəbər çatdırıldı ki, idarəçi onun əmlakını israf edir.</verse>
+        <verse osisID='Luke.16.2'>Varlı adam onu yanına çağırıb dedi: “Bu nədir, sənin haqqında mən nələr eşidirəm? Mənə idarəçiliyinin hesabatını ver. Sən artıq idarəçi ola bilməzsən”. </verse>
+        <verse osisID='Luke.16.3'>İdarəçi öz-özünə dedi: “Mən nə edəcəyəm? Ağam idarəçiliyi əlimdən alır. Torpaq belləməyə gücüm yoxdur, dilənməkdən də utanıram.</verse>
+        <verse osisID='Luke.16.4'>İşdən qovulanda məni öz evlərinə qəbul etsinlər deyə nə edəcəyimi bilirəm”. </verse>
+        <verse osisID='Luke.16.5'>Ona görə də öz ağasına borclu olanları bir-bir çağırıb birincisinə dedi: “Mənim ağama nə qədər borclusan?”</verse>
+        <verse osisID='Luke.16.6'>O “yüz bat zeytun yağı” dedi. İdarəçi ona dedi: “Öz qəbzini götür, otur və tez yaz: əlli”.</verse>
+        <verse osisID='Luke.16.7'>Sonra o birisinə dedi: “Bəs sənin nə qədər borcun var?” O cavab verdi: “Yüz kor buğda”. İdarəçi ona dedi: “Öz qəbzini götür və yaz: səksən”. </verse>
+        <verse osisID='Luke.16.8'>Ağası haqsızlıq edən idarəçini fərasətli hərəkət etdiyinə görə təriflədi. Çünki bu dövrün övladları öz nəsilləri ilə münasibətlərində nur övladlarından daha fərasətlidir.</verse>
+        <verse osisID='Luke.16.9'>Mən sizə bunu deyirəm: haqsız qazanc olan sərvətlə özünüzə dostlar qazanın ki, bu sərvət yox olduqda siz əbədi məskənlərə qəbul olunasınız. </verse>
+        <verse osisID='Luke.16.10'>Ən balaca bir işdə sadiq olan kəs böyük işdə də sadiqdir, ən balaca bir işdə haqsız olansa böyük işdə də haqsızdır.</verse>
+        <verse osisID='Luke.16.11'>Beləliklə, əgər siz haqsız sərvətdən istifadə etməkdə sadiq olmadınızsa, əsl var-dövləti sizə kim əmanət edər?</verse>
+        <verse osisID='Luke.16.12'>Əgər başqasının malından istifadə etməkdə sadiq olmadınızsa, öz malınızı sizə kim verər?</verse>
+        <verse osisID='Luke.16.13'>Heç bir nökər iki ağaya qulluq edə bilməz. Çünki ya birinə nifrət edib o birisini sevəcək ya da birinə bağlı qalıb o birisinə isə xor baxacaq. Siz həm Allaha, həm də sərvətə qulluq edə bilməzsiniz». </verse>
+        <verse osisID='Luke.16.14'>Fariseylər pulpərəst olduqları üçün bütün bu sözləri eşidib İsaya istehza ilə baxdılar.</verse>
+        <verse osisID='Luke.16.15'>İsa da onlara belə dedi: «İnsanların qarşısında özünüzü saleh göstərən sizsiniz, amma Allah sizin ürəyinizi bilir. Çünki insanlar arasında uca tutulan şey Allah qarşısında iyrənclikdir. </verse>
+        <verse osisID='Luke.16.16'>Qanun və Peyğəmbərlər Yəhyanın gəlişinə qədər idi. O vaxtdan bəri Allahın Padşahlığının Müjdəsi yayılır və hər kəs oraya zorla girməyə çalışır.</verse>
+        <verse osisID='Luke.16.17'>Amma göyün və yerin keçib getməsi Qanundan bir nöqtənin düşməsindən daha asandır. </verse>
+        <verse osisID='Luke.16.18'>Arvadını boşayıb başqası ilə evlənən hər kəs zina edir. Ərindən boşanmış qadınla evlənən də zina edir. </verse>
+        <verse osisID='Luke.16.19'>Varlı bir adam var idi. O, tünd qırmızı və incə kətandan paltar geyərdi və hər gün cah-calal içində kef edərdi.</verse>
+        <verse osisID='Luke.16.20'>Bütün bədəni yaralı olan Lazar adlı yoxsul bir adam da var idi. O, varlı adamın qapısı ağzına gətirilib uzanmışdı.</verse>
+        <verse osisID='Luke.16.21'>Lazar varlı adamın süfrəsindən tökülən qırıntılarla qarnını doydurmaq arzusunda idi. İtlər də gəlib onun yaralarını yalayırdı. </verse>
+        <verse osisID='Luke.16.22'>Bir gün yoxsul adam öldü və mələklər onu İbrahimin qucağına apardı. Varlı adam da öldü və dəfn edildi.</verse>
+        <verse osisID='Luke.16.23'>Varlı adam ölülər diyarında iztirab çəkəndə gözlərini qaldırıb uzaqda İbrahimi və onun qucağında Lazarı gördü.</verse>
+        <verse osisID='Luke.16.24'>O uca səslə dedi: “Ey İbrahim ata, mənə rəhm et! Lazarı göndər, barmağının ucunu suya batırıb mənim dilimi sərinlətsin, çünki mən bu alov içində əzab çəkirəm”.</verse>
+        <verse osisID='Luke.16.25'>Lakin İbrahim dedi: “Oğlum, yadına sal ki, sən öz həyatında yaxşı şeyləri, Lazar isə pis şeyləri almışdır. İndi isə o, təsəlli tapır, amma sən əzab çəkirsən.</verse>
+        <verse osisID='Luke.16.26'>Üstəlik, sizinlə bizim aramıza böyük bir uçurum qoyulmuşdur ki, nə buradan sizin tərəfinizə keçmək istəyənlər keçə bilir, nə də oradan bizim yanımıza gələ bilirlər”. </verse>
+        <verse osisID='Luke.16.27'>Varlı adam dedi: “Ata, elə isə yalvarıram sənə, Lazarı atamın evinə göndər.</verse>
+        <verse osisID='Luke.16.28'>Çünki beş qardaşım var. Qoy onlara xəbərdarlıq etsin ki, onlar da bu iztirab yerinə gəlməsinlər”.</verse>
+        <verse osisID='Luke.16.29'>İbrahim ona dedi: “Onlarda Musanın və Peyğəmbərlərin sözləri var. Qoy onlara qulaq assınlar”.</verse>
+        <verse osisID='Luke.16.30'>Varlı adamsa dedi: “Xeyr, İbrahim ata! Əgər ölülərdən biri onların yanına gəlsə, onlar tövbə edərlər”.</verse>
+        <verse osisID='Luke.16.31'>Onda İbrahim ona dedi: “Əgər onlar Musaya və Peyğəmbərlərə qulaq asmırlarsa, ölülərdən biri dirilsə belə, inanmazlar”».  </verse>
+      </chapter>
+      <chapter osisID='Luke.17'>
+        <verse osisID='Luke.17.1'>
+          İsa şagirdlərinə belə dedi: «İnsanları pis yola çəkən şeylər mütləq olur. Amma vay o adamın halına ki, bunların baisidir!</verse>
+        <verse osisID='Luke.17.2'>Bu kiçiklərdən birini pis yola çəkməkdənsə öz boynuna böyük bir dəyirman daşı asıb dənizə atılmaq onun üçün daha yaxşı olar.</verse>
+        <verse osisID='Luke.17.3'>Özünüzə fikir verin. Əgər qardaşın sənə qarşı günah edərsə, ona xəbərdarlıq et. Əgər o tövbə edərsə, onu bağışla.</verse>
+        <verse osisID='Luke.17.4'>Əgər gündə yeddi dəfə sənə qarşı günah etsə və gündə yeddi dəfə yanına gəlib sənə “tövbə edirəm” deyərsə, onu bağışla». </verse>
+        <verse osisID='Luke.17.5'>Həvarilər Rəbbə dedilər: «İmanımızı artır!»</verse>
+        <verse osisID='Luke.17.6'>Rəbb onlara belə dedi: «Bir xardal toxumu qədər imanınız olsaydı, bu tut ağacına “Kökündən çıx və dənizdə əkil!” deyərdiniz, o da sizin sözünüzə baxardı. </verse>
+        <verse osisID='Luke.17.7'>Sizlərdən hansı biriniz cütçülük və yaxud çobanlıq edən bir qula tarladan qayıdanda “tez ol, gəl süfrəyə otur” deyər?</verse>
+        <verse osisID='Luke.17.8'>Əksinə, ona “axşam yeməyimi hazırla və qurşanıb mənə xidmət et ki, mən yeyib-içim, sonra da sən özün ye-iç” deməzmi?</verse>
+        <verse osisID='Luke.17.9'>Əmrlərini yerinə yetirdiyi üçün o, qula təşəkkür edərmi?</verse>
+        <verse osisID='Luke.17.10'>Beləcə siz də sizə əmr olunanların hamısını yerinə yetirəndən sonra deyin: “Biz dəyərsiz qullarıq, çünki görməli olduğumuz işləri etmişik”». </verse>
+        <verse osisID='Luke.17.11'>İsa Yerusəlimə doğru yolunu davam edərkən Samariya ilə Qalileya arasındakı sərhəddən keçirdi.</verse>
+        <verse osisID='Luke.17.12'>Kəndlərin birinə girəndə Onu on nəfər cüzamlı kişi qarşıladı. Onlar uzaqda durub</verse>
+        <verse osisID='Luke.17.13'>ucadan çığırdılar: «İsa, Ustad, bizə rəhm et!»</verse>
+        <verse osisID='Luke.17.14'>İsa onları görüb «gedin, özünüzü kahinlərə göstərin» dedi. Onlar yol gedə-gedə pak oldular.</verse>
+        <verse osisID='Luke.17.15'>Onlardan biri isə sağaldığını görəndə uca səslə Allahı izzətləndirərək qayıtdı.</verse>
+        <verse osisID='Luke.17.16'>O üzüstə İsanın ayaqlarına düşərək Ona təşəkkür etdi. Bu adam Samariyalı idi.</verse>
+        <verse osisID='Luke.17.17'>Onda İsa dedi: «Pak olanlar on nəfər deyildimi? Bəs qalan doqquz adam haradadır?</verse>
+        <verse osisID='Luke.17.18'>Bu yadellidən savayı geri dönüb Allaha izzət verən olmadımı?»</verse>
+        <verse osisID='Luke.17.19'>Sonra o adama dedi: «Ayağa qalx, get. İmanın səni xilas etdi». </verse>
+        <verse osisID='Luke.17.20'>Fariseylər İsadan «Allahın Padşahlığı nə zaman gələcək?» deyə soruşanda İsa onlara cavab verdi: «Allahın Padşahlığı müşahidə ilə gəlməz.</verse>
+        <verse osisID='Luke.17.21'>Adamlar “bax, o buradadır” yaxud “oradadır” deməyəcəklər, çünki budur, Allahın Padşahlığı sizin daxilinizdədir». </verse>
+        <verse osisID='Luke.17.22'>İsa şagirdlərə də belə dedi: «Elə günlər gələcək ki, Bəşər Oğlunun günlərindən birini görməyi arzulayacaqsınız, amma görməyəcəksiniz.</verse>
+        <verse osisID='Luke.17.23'>Adamlar sizə “bax, O oradadır” yaxud “bax, buradadır” deyəcək. Gedib onların arxasınca düşməyin!</verse>
+        <verse osisID='Luke.17.24'>Çünki şimşək göyün bir kənarında çaxıb o biri kənarına qədər necə parlayırsa, Bəşər Oğlu da Öz günündə elə olacaq.</verse>
+        <verse osisID='Luke.17.25'>Amma əvvəlcə O, çox əzab çəkməli və indiki nəslin adamları tərəfindən rədd olunmalıdır. </verse>
+        <verse osisID='Luke.17.26'>Nuhun günlərində necə idisə, Bəşər Oğlunun günlərində də elə olacaq.</verse>
+        <verse osisID='Luke.17.27'>Nuhun gəmiyə girdiyi günə qədər insanlar yeyib-içir, evlənir, ərə gedirdi. Sonra daşqın gəlib hamısını məhv etdi.</verse>
+        <verse osisID='Luke.17.28'>Lutun günlərində də belə idi: insanlar yeyib-içir, alıb-satır, əkir, tikirdi.</verse>
+        <verse osisID='Luke.17.29'>Lakin Lut Sodomdan çıxdığı gün göydən od və kükürd yağdı və hamısını məhv etdi.</verse>
+        <verse osisID='Luke.17.30'>Bəşər Oğlunun zühur edəcəyi gündə də belə olacaq. </verse>
+        <verse osisID='Luke.17.31'>O gündə özü damda, əşyası isə evin içində olan adam onları götürmək üçün aşağı enməsin. Eləcə də tarlada olan geri qayıtmasın.</verse>
+        <verse osisID='Luke.17.32'>Lutun arvadını yadınıza salın!</verse>
+        <verse osisID='Luke.17.33'>Kim canını qorumaq istəsə, onu itirəcək, amma kim canını itirsə, onu yaşadacaq.</verse>
+        <verse osisID='Luke.17.34'>Sizə deyirəm: o gecə bir yataqda olan iki nəfərdən biri götürüləcək, o biri isə qalacaq.</verse>
+        <verse osisID='Luke.17.35'>Birlikdə dən üyüdən iki qadından biri götürüləcək, o biri isə qalacaq».</verse>
+        <verse osisID='Luke.17.36'/>
+        <verse osisID='Luke.17.37'>Ona müraciət edib dedilər: «Ya Rəbb, bu hadisələr harada olacaq?» O isə onlara dedi: «Leş haradadırsa, kərkəslər də orada toplaşar».  </verse>
+      </chapter>
+      <chapter osisID='Luke.18'>
+        <verse osisID='Luke.18.1'>
+          İsa şagirdlərinə daim dua etmək və heç ruhdan düşməmək lazım olduğu barədə bir məsəl çəkdi.</verse>
+        <verse osisID='Luke.18.2'>O dedi: «Bir şəhərdə Allahdan qorxmayan və adamlara hörmət etməyən bir hakim var idi.</verse>
+        <verse osisID='Luke.18.3'>Elə həmin şəhərdə bir dul qadın da var idi. Qadın hey onun yanına gələrək deyərdi: “Rəqibimlə olan işimdə mənim haqqımı qoru”.</verse>
+        <verse osisID='Luke.18.4'>Amma hakim bir müddət bunu etmək istəmədi, sonra isə öz-özünə dedi: “Hərçənd mən nə Allahdan qorxur, nə də adamlara hörmət edirəm,</verse>
+        <verse osisID='Luke.18.5'>bu qadın mənim zəhləmi tökdüyü üçün onun haqqını qoruyum ki, bir də gəlib baş-qulağımı aparmasın”».</verse>
+        <verse osisID='Luke.18.6'>Rəbb sözünə belə davam etdi: «Ədalətsiz hakimin nə dediyini dinləyin.</verse>
+        <verse osisID='Luke.18.7'>Məgər Allah Öz seçdiklərini, gecə-gündüz Ondan imdad istəyənlərin haqqını qorumayacaqmı? Onları çox gözlədəcəkmi?</verse>
+        <verse osisID='Luke.18.8'>Sizə bunu deyirəm: tezliklə onların haqqını qoruyacaq. Bəs Bəşər Oğlu gələndə yer üzündə iman tapacaqmı?» </verse>
+        <verse osisID='Luke.18.9'>Özlərinin saleh olduğuna güvənib başqalarına xor baxan bəziləri üçün də İsa belə bir məsəl çəkdi:</verse>
+        <verse osisID='Luke.18.10'>«Biri farisey, digəri isə vergiyığan olan iki nəfər dua etmək üçün məbədə girdi.</verse>
+        <verse osisID='Luke.18.11'>Farisey ayaq üstə durub öz-özünə belə dua edirdi: “Ya Allah, Sənə şükürlər olsun ki, mən başqaları kimi soyğunçu, haqsız, zinakar ya da bu vergiyığan kimi deyiləm.</verse>
+        <verse osisID='Luke.18.12'>Həftədə iki dəfə oruc tuturam, bütün qazandığımın onda birini verirəm”.</verse>
+        <verse osisID='Luke.18.13'>Vergiyığan isə uzaqda durub gözlərini göyə qaldırmağa belə, cəsarət etmirdi, amma sinəsinə vurub hey deyirdi: “Ya Allah! Mən günahkara rəhm et!”</verse>
+        <verse osisID='Luke.18.14'>Sizə deyirəm ki, o farisey yox, vergiyığan evinə saleh sayılaraq getdi. Çünki özünü yüksəldən hər kəs aşağı tutulacaq, özünü aşağı tutansa yüksəldiləcək». </verse>
+        <verse osisID='Luke.18.15'>Adamlar körpələri də İsanın yanına gətirirdilər ki, İsa onlara toxunsun. Bunu görən şagirdlərsə onlara qadağan etdilər.</verse>
+        <verse osisID='Luke.18.16'>Amma İsa uşaqları yanına çağırıb dedi: «Uşaqları buraxın, qoy Mənim yanıma gəlsinlər! Onlara mane olmayın! Çünki Allahın Padşahlığı belələrinə məxsusdur.</verse>
+        <verse osisID='Luke.18.17'>Sizə doğrusunu deyirəm: kim Allahın Padşahlığını bir uşaq kimi qəbul etməsə, oraya əsla daxil ola bilməz». </verse>
+        <verse osisID='Luke.18.18'>Rəhbərlərdən biri İsadan soruşdu: «Ey yaxşı Müəllim, mən nə etməliyəm ki, əbədi həyatı irs olaraq alım?»</verse>
+        <verse osisID='Luke.18.19'>İsa ona dedi: «Mənə niyə yaxşı deyirsən? Tək Allahdan başqa yaxşısı yoxdur.</verse>
+        <verse osisID='Luke.18.20'>Onun əmrlərini bilirsən: “Zina etmə. Qətl etmə. Oğurluq etmə. Yalandan şahidlik etmə. Ata-anana hörmət et”».</verse>
+        <verse osisID='Luke.18.21'>Bu adamsa dedi: «Bunların hamısına gəncliyimdən bəri riayət edirəm».</verse>
+        <verse osisID='Luke.18.22'>İsa bunu eşidib ona dedi: «Sənin bir şeyin çatışmır: nəyin varsa, satıb yoxsullara payla. Onda göylərdə xəzinən olacaq. Sonra qayıt, Mənim ardımca gəl».</verse>
+        <verse osisID='Luke.18.23'>Amma bu sözləri eşitdikdə həmin adamı dərin kədər bürüdü, çünki çox varlı idi. </verse>
+        <verse osisID='Luke.18.24'>İsa onun dərindən kədərləndiyini görəndə dedi: «Var-dövləti olanların Allahın Padşahlığına daxil olması nə qədər çətindir!</verse>
+        <verse osisID='Luke.18.25'>Doğrudan da, dəvənin iynə gözündən keçməsi varlı adamın Allahın Padşahlığına daxil olmasından asandır».</verse>
+        <verse osisID='Luke.18.26'>Bunları eşidənlər dedilər: «Elə isə, kim xilas ola bilər?»</verse>
+        <verse osisID='Luke.18.27'>O isə dedi: «İnsan üçün qeyri-mümkün olan, Allah üçün mümkündür». </verse>
+        <verse osisID='Luke.18.28'>Peter isə dedi: «Bax biz hər şeyi qoyub Sənin ardınca gəlmişik».</verse>
+        <verse osisID='Luke.18.29'>İsa onlara dedi: «Sizə doğrusunu deyirəm: Allahın Padşahlığı uğrunda ya evini ya arvadını ya bacı-qardaşlarını ya ata-anasını və yaxud uşaqlarını atan elə bir kəs yoxdur ki,</verse>
+        <verse osisID='Luke.18.30'>bu dövrdə bundan neçə qat artıq, gələcək dövrdə isə əbədi həyat almasın». </verse>
+        <verse osisID='Luke.18.31'>İsa On İki şagirdi kənara çəkib onlara dedi: «Bax Yerusəlimə qalxırıq, Bəşər Oğlu üçün peyğəmbərlər vasitəsilə yazılanların hamısı tam yerinə yetəcək.</verse>
+        <verse osisID='Luke.18.32'>Çünki O, başqa millətlərə təslim ediləcək. Onlar Onu ələ salıb təhqir edəcək, Ona tüpürəcək</verse>
+        <verse osisID='Luke.18.33'>və qamçılayıb öldürəcəklər. O, üçüncü gün diriləcək».</verse>
+        <verse osisID='Luke.18.34'>Amma şagirdlər bu sözlərdən heç bir şey başa düşmədilər. Bu sözlər onlar üçün gizli saxlandı və onlar deyilənləri anlamırdılar. </verse>
+        <verse osisID='Luke.18.35'>İsa Yerixoya yaxınlaşanda bir kor adam yol kənarında oturub dilənirdi.</verse>
+        <verse osisID='Luke.18.36'>Yanından çoxlu adamın keçdiyini eşitdikdə soruşdu: «Nə olub?»</verse>
+        <verse osisID='Luke.18.37'>Ona xəbər verdilər: «Nazaretli İsa buradan keçir».</verse>
+        <verse osisID='Luke.18.38'>Onda o qışqırdı: «Ey Davud Oğlu İsa! Mənə rəhm elə!»</verse>
+        <verse osisID='Luke.18.39'>Qabaqda gedənlər ona qadağan edib susdurmaq istəsələr də, o «Ey Davud Oğlu! Mənə rəhm elə!» deyə daha ucadan bağırdı.</verse>
+        <verse osisID='Luke.18.40'>İsa dayanıb əmr etdi ki, onu yanına gətirsinlər. Adam yaxınlaşarkən İsa ondan soruşdu:</verse>
+        <verse osisID='Luke.18.41'>«Nə istəyirsən, sənin üçün edim?» O dedi: «Ya Rəbb, gözlərim açılsın».</verse>
+        <verse osisID='Luke.18.42'>İsa ona dedi: «Qoy gözlərin açılsın, imanın səni xilas etdi».</verse>
+        <verse osisID='Luke.18.43'>Həmin an bu adamın gözləri açıldı və o, Allahı izzətləndirərək İsanın ardınca getdi. Bunu görən bütün xalq Allaha həmdlər etdi.  </verse>
+      </chapter>
+      <chapter osisID='Luke.19'>
+        <verse osisID='Luke.19.1'>
+          İsa Yerixoya daxil olub oradan keçirdi.</verse>
+        <verse osisID='Luke.19.2'>Orada vergiyığanların rəisi olan Zakkay adlı varlı bir adam var idi.</verse>
+        <verse osisID='Luke.19.3'>İsanın kim olduğunu görməyə can atırdı. Amma balacaboy olduğuna görə izdihamın arasından Onu görə bilmirdi.</verse>
+        <verse osisID='Luke.19.4'>İsanı görmək üçün irəliyə qaçıb bir firon ənciri ağacına dırmaşdı. Çünki İsa oradan keçməli idi. </verse>
+        <verse osisID='Luke.19.5'>İsa o yerə çatdıqda yuxarı baxıb onu gördü və ona dedi: «Ey Zakkay, tez aşağı düş. Bu gün Mən sənin evində qalmalıyam».</verse>
+        <verse osisID='Luke.19.6'>O tez aşağı düşüb İsanı sevinclə qəbul etdi.</verse>
+        <verse osisID='Luke.19.7'>Bütün xalq bunu gördükdə deyinməyə başladı: «Gedib günahkar bir kişinin qonağı oldu!»</verse>
+        <verse osisID='Luke.19.8'>Zakkay isə ayağa qalxıb Rəbbə belə dedi: «Ya Rəbb, əmlakımın yarısını yoxsullara verərəm və kimdən haqsızlıqla bir şey almışamsa, ona dördqat qaytaracağam».</verse>
+        <verse osisID='Luke.19.9'>İsa ona dedi: «Bu gün bu evə xilas gəldi, çünki bu adam da İbrahimin oğludur.</verse>
+        <verse osisID='Luke.19.10'>Çünki Bəşər Oğlu itmişləri axtarıb xilas etmək üçün gəlmişdir». </verse>
+        <verse osisID='Luke.19.11'>Onlar bu şeyləri dinləyərkən İsa bir məsəl də çəkdi. Çünki O, Yerusəlimə yaxınlaşmışdı və onlar elə düşünürdülər ki, Allahın Padşahlığı dərhal üzə çıxacaq.</verse>
+        <verse osisID='Luke.19.12'>İsa belə dedi: «Əsilzadələrdən olan bir nəfər padşah təyin olunub geri dönmək üçün uzaq bir ölkəyə yola düşdü.</verse>
+        <verse osisID='Luke.19.13'>Getməmişdən əvvəl qullarından on nəfəri çağırdı və onlara on mina pul verib dedi: “Mən gələnədək bunlarla ticarət et”.</verse>
+        <verse osisID='Luke.19.14'>Lakin əhalisi bu adama nifrət etdi və onun ardınca elçilər göndərib dedi: “Bu adamın üzərimizdə padşah olmasını istəmirik”. </verse>
+        <verse osisID='Luke.19.15'>O, padşah təyin olunub qayıdanda pul verdiyi həmin qulları yanına çağırtdırdı və nə qazandıqlarını öyrənmək istədi.</verse>
+        <verse osisID='Luke.19.16'>Birincisi gəlib dedi: “Ağa, sənin bir minan on mina da qazandırdı”.</verse>
+        <verse osisID='Luke.19.17'>Ağası ona dedi: “Afərin, yaxşı qulum! Ən kiçik bir işdə mənə sadiq olduğun üçün on şəhərin idarəsini üzərinə götür”.</verse>
+        <verse osisID='Luke.19.18'>İkincisi gəlib dedi: “Ağa! Sənin bir minan beş mina da qazandırdı”.</verse>
+        <verse osisID='Luke.19.19'>Ağası ona da “sən də beş şəhərə hakim ol” dedi. </verse>
+        <verse osisID='Luke.19.20'>Bir başqası gəlib dedi: “Ağa! Budur sənin minan, onu dəsmala büküb saxlayırdım.</verse>
+        <verse osisID='Luke.19.21'>Çünki səndən qorxurdum, sən qəddar bir adamsan, özün qoymadığını götürürsən və özün əkmədiyini biçirsən”.</verse>
+        <verse osisID='Luke.19.22'>Ağası ona dedi: “Ay pis qul, səni öz ağzından çıxan sözlərlə mühakimə edəcəyəm! Mənim qəddar bir adam olduğumu, özüm qoymadığımı götürdüyümü və özüm əkmədiyimi biçdiyimi bilirdinmi?</verse>
+        <verse osisID='Luke.19.23'>Bəs onda nə üçün mənim pulumu sərraflara vermədin ki, mən qayıdanda onu faizlə geri alım?”</verse>
+        <verse osisID='Luke.19.24'>Sonra ətrafında olanlara dedi: “Əlindəki minanı ondan alın və on minası olana verin!”</verse>
+        <verse osisID='Luke.19.25'>Ona dedilər: “Ay ağa, axı artıq onun on minası var!”</verse>
+        <verse osisID='Luke.19.26'>O, sözünə belə davam etdi: “Sizə deyirəm: kimin varıdırsa, daha çox veriləcək, kimin yoxudursa, əlində olan da alınacaq.</verse>
+        <verse osisID='Luke.19.27'>Mənim onların padşahı olmağımı istəməyən düşmənlərimi isə buraya gətirin və mənim gözümün qabağında qılıncdan keçirin!”» </verse>
+        <verse osisID='Luke.19.28'>İsa bu sözləri deyib qabaqda yeriyərək Yerusəlimə doğru qalxdı.</verse>
+        <verse osisID='Luke.19.29'>Zeytun dağı adlanan dağın yamacındakı Bet-Faqe ilə Bet-Anyaya yaxınlaşarkən şagirdlərdən ikisini göndərərək</verse>
+        <verse osisID='Luke.19.30'>dedi: «Qarşınızdakı kəndə gedin. Oraya girəndə hələ heç kəsin minmədiyi, bağlanmış bir sıpa tapacaqsınız. Onu açıb buraya gətirin.</verse>
+        <verse osisID='Luke.19.31'>Kim sizdən soruşsa: “Nə üçün sıpanı açırsınız?”, ona “bu sıpa Rəbbə lazımdır” deyərsiniz». </verse>
+        <verse osisID='Luke.19.32'>Göndərilənlər gedib hər şeyin Onun dediyi kimi olduğunu gördülər.</verse>
+        <verse osisID='Luke.19.33'>Onlar sıpanı açanda onun sahibləri onlara dedi: «Bu sıpanı nə üçün açırsınız?»</verse>
+        <verse osisID='Luke.19.34'>Onlar cavab verdilər: «Bu sıpa Rəbbə lazımdır».</verse>
+        <verse osisID='Luke.19.35'>Sıpanı İsanın yanına gətirdilər və öz paltarlarını sıpanın üstünə sərib İsanı onun belinə mindirdilər.</verse>
+        <verse osisID='Luke.19.36'>O irəli gedərkən insanlar öz paltarlarını yola döşəyirdi. </verse>
+        <verse osisID='Luke.19.37'>İsa Zeytun dağının aşağı düşən yamacına yaxınlaşanda çoxlu şagird gördükləri bütün möcüzələr üçün sevinib uca səslə Allaha həmd etməyə başladı.</verse>
+        <verse osisID='Luke.19.38'>Onlar deyirdi:  «Rəbbin ismi ilə gələn Padşaha alqış olsun!Göydə sülh, ən ucalarda izzət olsun!»</verse>
+        <verse osisID='Luke.19.39'>İzdihamın arasından bəzi fariseylər Ona dedilər: «Müəllim, şagirdlərinə qadağan et!»</verse>
+        <verse osisID='Luke.19.40'>Lakin İsa cavabında onlara dedi: «Sizə bunu deyirəm ki, əgər onlar sussa, daşlar dilə gələr!» </verse>
+        <verse osisID='Luke.19.41'>İsa Yerusəlimə yaxınlaşanda ona baxıb şəhər üçün ağladı.</verse>
+        <verse osisID='Luke.19.42'>O dedi: «Ah, kaş sən də bu gün sülhə aparan yolu tanıyaydın! Amma bu yol hələlik sənin nəzərindən gizlənib.</verse>
+        <verse osisID='Luke.19.43'>Çünki səni elə günlər gözləyir ki, düşmənlərin səni sədlə əhatə edəcək, mühasirəyə alacaq və hər yerdən sıxışdıracaqlar.</verse>
+        <verse osisID='Luke.19.44'>Səni də, qucağındakı övladlarını da yerlə-yeksan edəcəklər. Daşını daş üstə qoymayacaqlar, çünki Allahın sənə yaxınlaşdığı zamanı anlamadın». </verse>
+        <verse osisID='Luke.19.45'>İsa məbədə girib orada satıcılıq edənləri qovmağa başladı.</verse>
+        <verse osisID='Luke.19.46'>Onlara belə dedi:  «“Mənim evim dua evi olacaq”  deyə yazılıb. Amma siz onu quldur yuvasına çevirmisiniz!» </verse>
+        <verse osisID='Luke.19.47'>İsa hər gün məbəddə təlim öyrədirdi. Başçı kahinlər, ilahiyyatçılar və xalqın nüfuzlu adamları Onu öldürmək üçün yol axtarırdı,</verse>
+        <verse osisID='Luke.19.48'>amma bunu necə edəcəklərini bilmirdilər. Çünki bütün xalq Onu böyük diqqətlə dinləyirdi.  </verse>
+      </chapter>
+      <chapter osisID='Luke.20'>
+        <verse osisID='Luke.20.1'>
+          Günlərin birində İsa məbəddə xalqa təlim öyrədir və Müjdəni yayırdı. Başçı kahinlər, ilahiyyatçılarla ağsaqqallar yaxınlaşıb</verse>
+        <verse osisID='Luke.20.2'>Ona dedilər: «De görək, Sən bu işləri hansı səlahiyyətlə edirsən? Sənə bu səlahiyyəti kim verib?»</verse>
+        <verse osisID='Luke.20.3'>İsa onlara belə cavab verdi: «Mən də sizə bir sual verəcəyəm. Mənə deyin:</verse>
+        <verse osisID='Luke.20.4'>Yəhyanın vəftizi göydən idimi, yoxsa insanlardan?»</verse>
+        <verse osisID='Luke.20.5'>Onlarsa öz aralarında müzakirə edərək belə dedilər: «Əgər desək “göydən”, “Bəs nə üçün ona inanmadınız?” deyəcək.</verse>
+        <verse osisID='Luke.20.6'>Amma desək “insanlardan”, bütün xalq bizi daşqalaq edər. Çünki xalq Yəhyanın peyğəmbər olmasına əmindir».</verse>
+        <verse osisID='Luke.20.7'>Axırda Ona cavab verdilər: «Biz bilmirik haradandır».</verse>
+        <verse osisID='Luke.20.8'>İsa da onlara dedi: «Bunları hansı səlahiyyətlə etdiyimi Mən də sizə demirəm». </verse>
+        <verse osisID='Luke.20.9'>İsa xalqa belə bir məsəl çəkməyə başladı: «Bir adam üzüm bağı saldı və bağı bağbanlara icarəyə verərək uzun müddətə başqa ölkəyə getdi.</verse>
+        <verse osisID='Luke.20.10'>Məhsul vaxtı çatanda bağbanların yanına bir qul göndərdi ki, onlar üzüm bağının məhsulundan bir qədərini ona versinlər. Lakin bağbanlar qulu döyərək əliboş geri qaytardılar.</verse>
+        <verse osisID='Luke.20.11'>Bağ sahibi başqa bir qul göndərdi, amma onlar bunu da döyüb biabır etdilər və əliboş geri qaytardılar.</verse>
+        <verse osisID='Luke.20.12'>O, üçüncüsünü də göndərdi, amma onlar onu da yaralayıb qovdular.</verse>
+        <verse osisID='Luke.20.13'>Onda bağ sahibi dedi: “Mən nə edim? Qoy öz sevimli oğlumu göndərim, bəlkə ona hörmət edərlər”.</verse>
+        <verse osisID='Luke.20.14'>Amma bağbanlar onu gördükdə öz aralarında danışıb dedilər: “Varis budur. Gəlin onu öldürək ki, miras bizə qalsın”.</verse>
+        <verse osisID='Luke.20.15'>Beləcə onu bağdan kənara çıxarıb öldürdülər. Beləliklə, bağ sahibi onlara nə edəcək?</verse>
+        <verse osisID='Luke.20.16'>Gəlib həmin bağbanları həlak edəcək və bağı başqalarına verəcək». Bunu eşidənlərsə dedilər: «Qoy belə olmasın». </verse>
+        <verse osisID='Luke.20.17'>Amma İsa onların gözlərinin içinə baxıb dedi: «Bəs bu Yazının mənası nədir?  “Bənnaların rədd etdiyi daşGuşədaşı olub”.</verse>
+        <verse osisID='Luke.20.18'>Bu daşın üstünə yıxılan hər kəs parçalanacaq, daşsa kimin üzərinə düşərsə, onu əzəcək». </verse>
+        <verse osisID='Luke.20.19'>İlahiyyatçılar və başçı kahinlər başa düşdülər ki, İsa bu məsəli onlar barədə söylədi. Ona görə də həmin an Onu yaxalamaq üçün yol axtardılar, lakin xalqdan qorxdular. </verse>
+        <verse osisID='Luke.20.20'>İsanı güdürdülər və yanına özlərini dürüst insan kimi göstərən bir neçə casus göndərdilər. Onu dediyi söz üstə tutub valinin hökm və səlahiyyətinə təslim etmək məqsədləri var idi.</verse>
+        <verse osisID='Luke.20.21'>Onlar İsadan soruşdular: «Müəllim, biz bilirik ki, Sən düz danışırsan, təlim öyrədirsən və heç kimə tərəfkeşlik etmirsən, lakin Allahın yolunu həqiqətə görə öyrədirsən.</verse>
+        <verse osisID='Luke.20.22'>Bizim üçün qeysərə vergi verməyə icazə var ya yox?»</verse>
+        <verse osisID='Luke.20.23'>Amma İsa onların hiyləsini başa düşüb belə dedi:</verse>
+        <verse osisID='Luke.20.24'>«Mənə bir dinar göstərin. Onun üstündəki təsvir və yazı kimindir?» Onlar cavab verdilər: «Qeysərin».</verse>
+        <verse osisID='Luke.20.25'>İsa onlara dedi: «Onda qeysərin haqqını qeysərə, Allahın haqqını Allaha verin».</verse>
+        <verse osisID='Luke.20.26'>İsanı xalq qarşısında söz üstə tuta bilmədilər və Onun cavabına heyrət edib susdular. </verse>
+        <verse osisID='Luke.20.27'>Dirilmənin olmadığını iddia edən sadukeylərdən bəzisi İsanın yanına gəlib soruşdu:</verse>
+        <verse osisID='Luke.20.28'>«Müəllim, Musa bizim üçün belə yazmışdı: “Əgər bir adamın evli qardaşı övladsız ölsə, o biri qardaş dul qalmış arvadı alıb ölən qardaşın nəslini davam etdirsin”.</verse>
+        <verse osisID='Luke.20.29'>Yeddi qardaş var idi. Birincisi bir arvad aldı və övladsız öldü.</verse>
+        <verse osisID='Luke.20.30'>İkincisi də,</verse>
+        <verse osisID='Luke.20.31'>üçüncüsü də bu arvadla evləndi. Beləcə yeddisi də özündən sonra övlad qoymadan öldü.</verse>
+        <verse osisID='Luke.20.32'>Hamısından sonra bu qadın da öldü.</verse>
+        <verse osisID='Luke.20.33'>Ölülər diriləndə bu qadın onlardan hansının arvadı olacaq? Çünki yeddi qardaşın yeddisi də bu qadını almışdı». </verse>
+        <verse osisID='Luke.20.34'>İsa onlara belə cavab verdi: «Bu dövrün insanları evlənir və ərə gedir.</verse>
+        <verse osisID='Luke.20.35'>Amma gələcək dövrə yetişməyə və ölülər arasından dirilməyə layiq sayılanlarsa nə evlənəcək, nə də ərə gedəcək.</verse>
+        <verse osisID='Luke.20.36'>Artıq ölə də bilməzlər, çünki mələklərə bənzəyirlər və dirilmə övladları olduqlarına görə onlar Allahın övladlarıdır.</verse>
+        <verse osisID='Luke.20.37'>Amma ölülərin dirildiyini Musa da kolla bağlı əhvalatda Rəbbi “İbrahimin Allahı, İshaqın Allahı və Yaqubun Allahı” adlandıraraq göstərib.</verse>
+        <verse osisID='Luke.20.38'>Allah ölülərin deyil, dirilərin Allahıdır. Çünki Onun yanında hamı diridir». </verse>
+        <verse osisID='Luke.20.39'>İlahiyyatçılardan bəzisi buna cavab olaraq dedi: «Müəllim, Sən nə gözəl dedin».</verse>
+        <verse osisID='Luke.20.40'>Daha İsadan bir şey soruşmağa cəsarət etmədilər. </verse>
+        <verse osisID='Luke.20.41'>Amma İsa onlara dedi: «Niyə Məsih Davudun Oğludur deyirlər?</verse>
+        <verse osisID='Luke.20.42'>Axı Davud özü Zəbur kitabında  “Rəbb mənim Ağama dedi:‹Mən düşmənlərini ayaqlarının altına kətil kimi salanadəkSağımda otur›”  deyib.</verse>
+        <verse osisID='Luke.20.43'>Axı Davud özü Zəbur kitabında  “Rəbb mənim Ağama dedi:‹Mən düşmənlərini ayaqlarının altına kətil kimi salanadəkSağımda otur›”  deyib.</verse>
+        <verse osisID='Luke.20.44'>Deməli, Davud Ona “Ağa” deyə müraciət edir. O necə Davudun oğlu ola bilər?» </verse>
+        <verse osisID='Luke.20.45'>Bütün xalq bu sözləri dinləyəndə İsa Öz şagirdlərinə dedi:</verse>
+        <verse osisID='Luke.20.46'>«İlahiyyatçılardan özünüzü gözləyin. Onlar uzun paltarlarda gəzməyi xoşlayar, bazar meydanlarında salam almağı və sinaqoqlarda baş kürsüləri, ziyafətlərdə yuxarı başı tutmağı sevərlər.</verse>
+        <verse osisID='Luke.20.47'>Onlar dul qadınların evlərini yeyib-dağıdar və özlərini göstərmək üçün uzun-uzadı dua edərlər. Bu adamların cəzası daha ağır olacaq».  </verse>
+      </chapter>
+      <chapter osisID='Luke.21'>
+        <verse osisID='Luke.21.1'>
+          İsa başını qaldırıb baxdı və məbədin ianə qutusuna ianələri atan varlı adamları gördü.</verse>
+        <verse osisID='Luke.21.2'>Bir kasıb dul qadını da gördü. O, ianə qutusuna iki lepton pul atdı.</verse>
+        <verse osisID='Luke.21.3'>İsa dedi: «Sizə həqiqəti deyirəm: bu kasıb dul qadın hamıdan çox pul atdı.</verse>
+        <verse osisID='Luke.21.4'>Çünki onların hamısı varlarının artıqlığından ianə verdilər, bu qadınsa kasıblığına baxmayaraq, dolanmaq üçün əlində nə varsa, hamısını verdi». </verse>
+        <verse osisID='Luke.21.5'>Bəzi adamlar məbədin gözəl daşlar və Allaha həsr olunmuş təqdimlərlə bəzəndiyini söyləyərkən İsa dedi:</verse>
+        <verse osisID='Luke.21.6'>«Elə günlər gələcək ki, burada gördüyünüz şeylərin daşı daş üstündə qalmayacaq, hamısı yerlə-yeksan olacaq». </verse>
+        <verse osisID='Luke.21.7'>Ondan soruşdular: «Müəllim, bəs bu dediklərin nə vaxt baş verəcək? Bunlar baş vermək üzrə olanda hansı əlamətlər olacaq?»</verse>
+        <verse osisID='Luke.21.8'>İsa dedi: «Ehtiyatlı olun, aldanmayın! Çünki Mənim adımla çox adam gəlib “mən Oyam” və “vaxt yaxınlaşıb” deyəcək. Onların ardınca getməyin.</verse>
+        <verse osisID='Luke.21.9'>Müharibələr və üsyanlar barədə eşidəndə təlaşa düşməyin. Çünki bunlar əvvəlcədən baş verməlidir, amma hər şeyin axırı tez gəlməyəcək». </verse>
+        <verse osisID='Luke.21.10'>Sonra onlara belə dedi: «Millət millətə, padşahlıq padşahlığa qarşı çıxacaq.</verse>
+        <verse osisID='Luke.21.11'>Güclü zəlzələlər, yerbəyer aclıq və vəba, dəhşətli hadisələr və göydən böyük əlamətlər olacaq. </verse>
+        <verse osisID='Luke.21.12'>Amma bütün bu hadisələrdən əvvəl Mənim adıma görə sizi yaxalayacaqlar, təqib edəcəklər, sinaqoqlara və zindanlara təslim edəcəklər, padşahların və valilərin qarşısına aparacaqlar.</verse>
+        <verse osisID='Luke.21.13'>Bu işlər şəhadət etdiyiniz vaxt olacaq.</verse>
+        <verse osisID='Luke.21.14'>Buna görə də ürəyinizdə qərara alın ki, özünüzü necə müdafiə edəcəyiniz barədə əvvəlcədən düşünməyəsiniz.</verse>
+        <verse osisID='Luke.21.15'>Çünki Mən sizə elə danışıq qabiliyyəti və hikmət verəcəyəm ki, sizə qarşı çıxanların heç biri nə ona etiraz edə biləcək, nə də ona qarşı dura biləcək.</verse>
+        <verse osisID='Luke.21.16'>Hətta ata-analarınız, bacı-qardaşlarınız, qohumlarınız və dostlarınız sizi təslim edəcək və bəzinizi edam etdirəcək.</verse>
+        <verse osisID='Luke.21.17'>Mənim adıma görə hamı sizə nifrət edəcək.</verse>
+        <verse osisID='Luke.21.18'>Amma başınızdan bir tük belə, əskik olmayacaq.</verse>
+        <verse osisID='Luke.21.19'>Dayanıb dözməklə canlarınızı qurtarın. </verse>
+        <verse osisID='Luke.21.20'>Qoşunların Yerusəlimi mühasirə etdiyini görəndə bilin ki, onun viranə qalacağı vaxt yaxınlaşmışdır.</verse>
+        <verse osisID='Luke.21.21'>O zaman Yəhudeyada olanlar dağlara qaçsın, şəhərdə olanlar oradan çıxsın və ətrafda olanlar oraya girməsin.</verse>
+        <verse osisID='Luke.21.22'>Çünki bu günlər qisas günləridir ki, bütün yazılanlar yerinə yetsin.</verse>
+        <verse osisID='Luke.21.23'>Həmin günlər hamilələrin və körpə əmizdirənlərin vay halına! Çünki yer üzünün başına böyük fəlakət gələcək və bu xalq qəzəbə uğrayacaq.</verse>
+        <verse osisID='Luke.21.24'>Onlar qılıncdan keçiriləcək və bütün millətlər arasına əsirliyə aparılacaq. Başqa millətlərin vaxtı tamam olanadək Yerusəlim başqa millətlərin ayağı altında tapdalanacaq. </verse>
+        <verse osisID='Luke.21.25'>Günəşdə, ayda və ulduzlarda əlamətlər görünəcək. Yer üzündə dənizin və dalğaların gurultusundan millətlər çaşqınlıq içində qalıb əzab çəkəcək.</verse>
+        <verse osisID='Luke.21.26'>İnsanlar qorxudan və dünya üzərinə gələn fəlakətləri gözləməkdən huşunu itirəcək, çünki səma cisimləri lərzəyə gələcək.</verse>
+        <verse osisID='Luke.21.27'>O zaman onlar Bəşər Oğlunun bulud içində qüdrət və böyük izzətlə gəldiyini görəcək.</verse>
+        <verse osisID='Luke.21.28'>Bu hadisələr yerinə yetməyə başladıqda başınızı qaldırın və yuxarı baxın, çünki satınalınmanız yaxınlaşır». </verse>
+        <verse osisID='Luke.21.29'>İsa onlara bir məsəl də çəkdi: «Əncir ağacına və bütün ağaclara baxın:</verse>
+        <verse osisID='Luke.21.30'>onların yarpaqlandığını görəndə bilirsiniz ki, yay fəsli artıq yaxındır.</verse>
+        <verse osisID='Luke.21.31'>Eləcə siz də bu şeylərin baş verdiyini görəndə bilin ki, Allahın Padşahlığı yaxınlaşıb.</verse>
+        <verse osisID='Luke.21.32'>Sizə doğrusunu deyirəm: bu nəsil ömrünü sona çatdırmazdan əvvəl bütün bunlar baş verəcək.</verse>
+        <verse osisID='Luke.21.33'>Yer və göy keçib-gedəcək, amma Mənim sözlərim əsla keçib-getməyəcək. </verse>
+        <verse osisID='Luke.21.34'>Özünüzə fikir verin! Qoy ürəkləriniz eyş-işrət və sərxoşluqla, bu həyatın qayğıları ilə yüklənməsin. Qoy qiyamət günü bir tələ kimi üzərinizə qəflətən gəlməsin.</verse>
+        <verse osisID='Luke.21.35'>Çünki o gün yer üzündə yaşayanların hamısının üstünə gələcək.</verse>
+        <verse osisID='Luke.21.36'>Ona görə də baş verəcək bütün bu fəlakətlərdən qaçıb Bəşər Oğlunun önündə dura bilmək üçün hər an dua edərək ayıq olun». </verse>
+        <verse osisID='Luke.21.37'>İsa gündüzlər məbəddə təlim öyrədirdi, gecələri isə oradan çıxaraq Zeytun dağı adlanan dağda keçirirdi.</verse>
+        <verse osisID='Luke.21.38'>Səhər tezdən bütün xalq İsanı dinləmək üçün Onun yanına, məbədə gəlirdi.  </verse>
+      </chapter>
+      <chapter osisID='Luke.22'>
+        <verse osisID='Luke.22.1'>
+           Pasxa adlanan Mayasız Çörək bayramı yaxınlaşırdı.</verse>
+        <verse osisID='Luke.22.2'>Başçı kahinlər və ilahiyyatçılar İsanı öldürmək üçün bir yol axtarırdılar, çünki xalqdan qorxurdular. </verse>
+        <verse osisID='Luke.22.3'>O zaman Şeytan On İki şagirddən biri olan İskaryot adlanan Yəhudanın ürəyinə girdi.</verse>
+        <verse osisID='Luke.22.4'>O da gedib başçı kahinlər və məbəd mühafizəçilərinin başçıları ilə danışdı ki, İsanı necə onlara təslim etsin.</verse>
+        <verse osisID='Luke.22.5'>Onlar sevindilər və ona pul verməyə razı oldular.</verse>
+        <verse osisID='Luke.22.6'>Buna söz verən Yəhuda İsanı xalqdan gizlin onlara təslim etmək üçün fürsət axtarmağa başladı. </verse>
+        <verse osisID='Luke.22.7'>Pasxa quzusunun qurban kəsilməli olduğu Mayasız Çörək bayramı günü gəldi.</verse>
+        <verse osisID='Luke.22.8'>İsa Peter və Yəhyanı qabaqca göndərib «gedin, Pasxa yeməyimiz üçün bizə hazırlıq görün» dedi.</verse>
+        <verse osisID='Luke.22.9'>Onlarsa İsadan soruşdular: «Harada hazırlıq görməyimizi istəyirsən?»</verse>
+        <verse osisID='Luke.22.10'>İsa onlara dedi: «Bax siz şəhərə girəndə qarşınıza səhənglə su daşıyan bir nəfər çıxacaq. Onun ardınca gedin və onun girəcəyi evə girin.</verse>
+        <verse osisID='Luke.22.11'>Oranın sahibinə deyin: “Müəllim sənə deyir: ‹Şagirdlərimlə birgə Pasxa yeməyini yeyəcəyim qonaq otağı haradadır?›”</verse>
+        <verse osisID='Luke.22.12'>Ev sahibi sizə yuxarı mərtəbədə hər şeyi hazırlanmış böyük bir otaq göstərəcək. Orada hazırlıq işləri görün».</verse>
+        <verse osisID='Luke.22.13'>Onlar gedib hər şeyin Onun dediyi kimi olduğunu gördülər və Pasxa yeməyi üçün hazırlıq etdilər. </verse>
+        <verse osisID='Luke.22.14'>Yemək vaxtı çatanda İsa həvarilərlə süfrəyə oturdu.</verse>
+        <verse osisID='Luke.22.15'>İsa onlara dedi: «Mən əzab çəkməzdən əvvəl bu Pasxa yeməyini sizinlə birgə yeməyi çox arzulayırdım.</verse>
+        <verse osisID='Luke.22.16'>Sizə bunu deyirəm: Pasxa Allahın Padşahlığında yerinə yetənədək Mən bir daha onu yeməyəcəyəm». </verse>
+        <verse osisID='Luke.22.17'>Sonra İsa bir kasa götürüb şükür etdi və dedi: «Bunu götürün və aranızda bölüşdürün.</verse>
+        <verse osisID='Luke.22.18'>Mən sizə deyirəm: Allahın Padşahlığı gələnədək üzüm ağacının məhsulundan əsla içməyəcəyəm». </verse>
+        <verse osisID='Luke.22.19'>Sonra İsa çörək götürdü, şükür edib onu böldü və şagirdlərə verərək dedi: «Bu Mənim sizin üçün verilən bədənimdir. Bunu Məni xatırlamaq üçün edin».</verse>
+        <verse osisID='Luke.22.20'>Eləcə də axşam yeməyindən sonra kasanı götürüb dedi: «Sizin üçün axıdılan bu kasa Mənim qanımla bağladığım Yeni Əhddir.</verse>
+        <verse osisID='Luke.22.21'>Amma budur, Mənə xəyanət edən Mənimlə birlikdə əlini bu süfrəyə uzadır.</verse>
+        <verse osisID='Luke.22.22'>Bəşər Oğlu təyin edilmiş yolla gedir. Amma vay o adamın halına ki, Ona xəyanət edir!»</verse>
+        <verse osisID='Luke.22.23'>Şagirdlər öz aralarında bunu kimin edəcəyini araşdırmağa başladılar. </verse>
+        <verse osisID='Luke.22.24'>Aralarında onlardan kimin ən böyük sayılacağı barəsində bir mübahisə də oldu.</verse>
+        <verse osisID='Luke.22.25'>Amma İsa onlara dedi: «Millətlərin padşahları onların üzərində hökm edir və bu hakimiyyətdə olanlar himayədar adlanır.</verse>
+        <verse osisID='Luke.22.26'>Amma siz belə olmayın. Aranızda ən böyük olan ən kiçik kimi olsun və rəhbərlik edən xidmətçi kimi olsun.</verse>
+        <verse osisID='Luke.22.27'>Axı kim daha böyükdür, süfrədə oturan, yoxsa xidmət edən? Süfrədə oturan deyilmi? Mənsə sizin aranızda xidmətçi kimiyəm. </verse>
+        <verse osisID='Luke.22.28'>Keçirdiyim sınaqlarda Mənimlə qalanlar sizsiniz.</verse>
+        <verse osisID='Luke.22.29'>Atam Mənə bir padşahlıq tapşırdığı kimi Mən də sizə bir padşahlıq tapşırıram;</verse>
+        <verse osisID='Luke.22.30'>belə ki Mənim Padşahlığımda süfrəmdə yeyib-içəsiniz və İsrailin on iki qəbiləsinə hökm etmək üçün taxtlarda oturasınız. </verse>
+        <verse osisID='Luke.22.31'>Şimon, Şimon! Şeytan sizi buğda kimi xəlbirdən keçirməyə icazə istədi.</verse>
+        <verse osisID='Luke.22.32'>Amma Mən imanın itməsin deyə sənin üçün dua etdim. Sən də bir zaman geri dönüb öz qardaşlarını qüvvətləndir».</verse>
+        <verse osisID='Luke.22.33'>O, İsaya cavab verdi: «Ya Rəbb, mən Səninlə zindana da, ölümə də getməyə hazıram».</verse>
+        <verse osisID='Luke.22.34'>Amma İsa dedi: «Peter, sənə bunu deyirəm: bu gün xoruz banlamazdan əvvəl sən Məni tanıdığını üç dəfə inkar edəcəksən». </verse>
+        <verse osisID='Luke.22.35'>Sonra şagirdlərə dedi: «Mən sizi kisəsiz, torbasız və çarıqsız göndərəndə bir şeydə korluq çəkmisinizmi?» Onlar cavab verdilər: «Heç bir şeydə».</verse>
+        <verse osisID='Luke.22.36'>Onda İsa onlara dedi: «İndi isə kisəsi və torbası olan bunları götürsün. Qılıncı olmayan da öz paltarını satıb qılınc alsın.</verse>
+        <verse osisID='Luke.22.37'>Çünki sizə deyirəm: bu yazılmış olan  “Üsyankarlara tay tutuldu”  sözü Məndə tam yerinə yetməlidir. Çünki Mənim barəmdə yazılanlar tamam olur».</verse>
+        <verse osisID='Luke.22.38'>Onlar dedilər: «Ya Rəbb, budur, burada iki qılınc var». O isə onlara dedi: «Bu kifayətdir». </verse>
+        <verse osisID='Luke.22.39'>İsa çıxıb adətinə görə Zeytun dağına getdi. Şagirdlər də Onun ardınca getdi.</verse>
+        <verse osisID='Luke.22.40'>Oraya çatanda İsa onlara dedi: «Dua edin ki, sınağa düşməyəsiniz».</verse>
+        <verse osisID='Luke.22.41'>İsa Özü isə onlardan bir daş atımı qədər uzaqlaşdı və diz çöküb dua etdi.</verse>
+        <verse osisID='Luke.22.42'>O belə dedi: «Ey Ata, əgər Sənin iradənə məqbuldursa, bu kasanı Məndən uzaqlaşdır. Amma Mənim yox, Sənin iradən olsun».</verse>
+        <verse osisID='Luke.22.43'>Göydən bir mələk İsaya göründü və Onu qüvvətləndirdi.</verse>
+        <verse osisID='Luke.22.44'>İsa dəhşətli iztirab içində daha səylə dua edirdi. Onun təri yerə düşən qan damlalarına bənzəyirdi.</verse>
+        <verse osisID='Luke.22.45'>İsa duadan qalxıb şagirdlərin yanına gəldi, onları kədərdən üzülmüş və yatmış tapdı.</verse>
+        <verse osisID='Luke.22.46'>O, şagirdlərə dedi: «Nə üçün yatırsınız? Qalxın, dua edin ki, sınağa düşməyəsiniz». </verse>
+        <verse osisID='Luke.22.47'>İsa hələ danışarkən bir izdiham göründü. On İki şagirddən biri, Yəhuda adlı bir nəfər onlardan qabaqda gedirdi. O, İsanı öpmək üçün yaxınlaşdı.</verse>
+        <verse osisID='Luke.22.48'>Amma İsa ona dedi: «Yəhuda, sən Bəşər Oğlunu bir öpüşləmi satırsan?»</verse>
+        <verse osisID='Luke.22.49'>İsanın ətrafında olanlar nə baş verəcəyini görəndə Ona dedilər: «Ya Rəbb, bəlkə qılıncla vuraq?»</verse>
+        <verse osisID='Luke.22.50'>Onlardan biri baş kahinin qulunu vurub sağ qulağını qopartdı.</verse>
+        <verse osisID='Luke.22.51'>Lakin İsa dedi: «Bəsdir, eləməyin». Sonra qulun qulağına toxunaraq onu sağaltdı. </verse>
+        <verse osisID='Luke.22.52'>İsa üstünə gələn başçı kahinlərə, məbəd mühafizəçilərinin başçılarına və ağsaqqallara dedi: «Nə üçün quldur üstünə gələn kimi qılınc və dəyənəklərlə gəlmisiniz?</verse>
+        <verse osisID='Luke.22.53'>Mən hər gün məbəddə sizinlə birlikdə olanda siz Mənə əl qaldırmadınız. Amma indi sizin vaxtınızdır, zülmət hökmranlığıdır». </verse>
+        <verse osisID='Luke.22.54'>İsanı tutub apardılar və baş kahinin evinə gətirdilər. Peter isə uzaqdan Onun ardınca gedirdi.</verse>
+        <verse osisID='Luke.22.55'>Həyətin ortasında tonqal qalanmışdı. Peter gəlib onun ətrafında oturanların arasında oturdu. </verse>
+        <verse osisID='Luke.22.56'>Qarabaşlardan biri tonqalın işığında oturan Peteri gördü. Ona diqqətlə baxıb dedi: «Bu adam da İsa ilə birlikdə idi».</verse>
+        <verse osisID='Luke.22.57'>Amma Peter «Ay arvad, mən Onu tanımıram!» deyərək Onu inkar etdi.</verse>
+        <verse osisID='Luke.22.58'>Bir az sonra başqa bir adam onu görüb dedi: «Sən də onlardansan». Amma Peter dedi: «Ay kişi, mən deyiləm!»</verse>
+        <verse osisID='Luke.22.59'>Bir saata yaxın vaxt keçdi və digər bir adam təkidlə dedi: «Doğrudan da, bu adam da Onunla birlikdə idi, çünki Qalileyalıdır».</verse>
+        <verse osisID='Luke.22.60'>Peter isə dedi: «Ay kişi, dediyini başa düşmürəm».  Elə o danışdığı an xoruz banladı.</verse>
+        <verse osisID='Luke.22.61'>Onda Rəbb dönüb Peterə baxdı. Peter Rəbbin «bu gün xoruz banlamazdan əvvəl sən Məni üç dəfə inkar edəcəksən» dediyi sözü yadına saldı.</verse>
+        <verse osisID='Luke.22.62'>Ona görə oradan çıxıb hönkür-hönkür ağladı. </verse>
+        <verse osisID='Luke.22.63'>İsanı tutub saxlayan adamlar Onu ələ sala-sala döyürdülər.</verse>
+        <verse osisID='Luke.22.64'>Gözlərini bağlayıb Ondan soruşurdular: «Peyğəmbərlik elə görək, Səni vuran kimdir?»</verse>
+        <verse osisID='Luke.22.65'>Ona başqa sözlər də deyib çoxlu böhtan atırdılar. </verse>
+        <verse osisID='Luke.22.66'>Səhər açıldıqda xalqın ağsaqqalları, başçı kahinlər və ilahiyyatçılar yığıldı və İsanı öz Ali Şuralarına gətirdilər.</verse>
+        <verse osisID='Luke.22.67'>Onlar dedilər: «Bizə de, Məsih Sənsənmi?» İsa onlara dedi: «Əgər sizə desəm, inanmazsınız.</verse>
+        <verse osisID='Luke.22.68'>Əgər sizdən soruşsam, Mənə cavab verməyəcəksiniz.</verse>
+        <verse osisID='Luke.22.69'>Bundan sonra isə Bəşər Oğlu qüdrətli Allahın sağında oturacaq».</verse>
+        <verse osisID='Luke.22.70'>Onların hamısı dedi: «Deməli, Sən Allahın Oğlusan?» İsa onlara cavab verdi: «Sizin dediyiniz kimi O Mənəm».</verse>
+        <verse osisID='Luke.22.71'>Onda onlar dedilər: «Artıq şəhadətə nə ehtiyacımız var? Axı biz özümüz Onun ağzından eşitdik».  </verse>
+      </chapter>
+      <chapter osisID='Luke.23'>
+        <verse osisID='Luke.23.1'>
+          Ali Şura üzvlərinin hamısı ayağa durub İsanı Pilatın yanına apardı.</verse>
+        <verse osisID='Luke.23.2'>Onu ittiham etməyə başlayaraq dedilər: «Biz gördük ki, bu adam millətimizi yoldan çıxarır. Qeysərə vergi verməyə mane olur və Özünü Məsih, Padşah adlandırır».</verse>
+        <verse osisID='Luke.23.3'>Pilat Ondan «Yəhudilərin Padşahı Sənsənmi?» deyə soruşdu. İsa cavabında ona dedi: «Sənin dediyin kimidir».</verse>
+        <verse osisID='Luke.23.4'>Pilat başçı kahinlərə və xalqa dedi: «Mən bu Adamda heç bir təqsir görmürəm».</verse>
+        <verse osisID='Luke.23.5'>Amma onlar təkid edərək deyirdilər: «Bu Adam Qalileyadan tutmuş bu yerə qədər bütün Yəhudeyada təlim öyrədərək xalqı təşvişə salır». </verse>
+        <verse osisID='Luke.23.6'>Pilat Qalileya barədə eşidib soruşdu: «Məgər bu Adam Qalileyalıdır?»</verse>
+        <verse osisID='Luke.23.7'>İsanın Hirodun idarə etdiyi vilayətdən olduğunu bildikdə Onu Hirodun yanına göndərdi. Çünki o günlər Hirod da Yerusəlimdə idi. </verse>
+        <verse osisID='Luke.23.8'>Hirod İsanı gördükdə çox sevindi. Onun haqqında eşitdiyi şeylərə görə Onu çoxdan görmək istəyirdi. Ondan bir əlamət görməyi umurdu.</verse>
+        <verse osisID='Luke.23.9'>Hirod Ona çox suallar verdi, amma İsa ona heç bir cavab vermədi.</verse>
+        <verse osisID='Luke.23.10'>Başçı kahinlər və ilahiyyatçılar durub Onu şiddətlə ittiham edirdilər.</verse>
+        <verse osisID='Luke.23.11'>Hirod öz əsgərləri ilə Onu təhqir edib ələ saldı. Onun əyninə bir gözəl paltar geyindirib Pilatın yanına qaytardı.</verse>
+        <verse osisID='Luke.23.12'>Əvvəllər düşmən olan Pilatla Hirod o gün bir-biri ilə dostlaşdı. </verse>
+        <verse osisID='Luke.23.13'>O zaman Pilat başçı kahinləri, rəhbərləri və xalqı toplayıb</verse>
+        <verse osisID='Luke.23.14'>onlara dedi: «Siz bu Adamı mənim yanıma buna görə gətirdiniz ki, O, xalqı yoldan çıxarır. Budur, mən sizin qarşınızda məsələni araşdırıb bu Adamı sizin irəli sürdüyünüz ittihamların heç birində təqsirkar görmədim.</verse>
+        <verse osisID='Luke.23.15'>Hirod da bir şey tapmadı. Çünki bu Adamı bizə geri göndərdi. Budur, O, ölüm cəzasına layiq heç bir şey etməyib.</verse>
+        <verse osisID='Luke.23.16'>Buna görə də mən Onu cəzalandırıb azad edəcəyəm».</verse>
+        <verse osisID='Luke.23.17'/>
+        <verse osisID='Luke.23.18'>Amma bütün xalq birlikdə çığırırdı: «Bu Adam öldürülsün! Bizə Barabbanı azad et!»</verse>
+        <verse osisID='Luke.23.19'>Barabba şəhərdə üsyan qaldırmaq və adam öldürmək üstündə zindana atılmışdı.</verse>
+        <verse osisID='Luke.23.20'>Pilat İsanı azad etmək istəyərək yenə də səsini ucaltdı.</verse>
+        <verse osisID='Luke.23.21'>Amma onlar «Onu çarmıxa çək, çarmıxa çək!» deyə bağırırdılar.</verse>
+        <verse osisID='Luke.23.22'>Pilat üçüncü dəfə onlara dedi: «Axı O nə pislik edib? Mən Onda ölüm cəzasına layiq heç bir təqsir görmədim. Buna görə də Onu cəzalandırıb azad edəcəyəm».</verse>
+        <verse osisID='Luke.23.23'>Amma onlar təkid edərək uca səslə tələb edirdilər ki, O, çarmıxa çəkilsin. Onların səsi hamıdan bərk gəlirdi. </verse>
+        <verse osisID='Luke.23.24'>Pilat onların tələbini yerinə yetirmək qərarına gəldi.</verse>
+        <verse osisID='Luke.23.25'>Üsyan qaldırıb adam öldürdüyünə görə zindana atılmış adamı onların tələbinə görə azad etdi. İsanı isə onların ixtiyarına təslim etdi. </verse>
+        <verse osisID='Luke.23.26'>Əsgərlər İsanı apararkən kənd yerindən gələn Şimon adlı Kirenalı bir nəfəri yaxaladılar. Çarmıxı onun boynuna yükləyib İsanın ardınca daşımağa məcbur etdilər. </verse>
+        <verse osisID='Luke.23.27'>İsanın ardınca böyük bir izdiham və Onun üçün ağlayıb nalə çəkən qadınlar gedirdi.</verse>
+        <verse osisID='Luke.23.28'>İsa onlara tərəf dönüb dedi: «Ey Yerusəlim qızları, Mənim üçün ağlamayın. Özünüz və övladlarınız üçün ağlayın.</verse>
+        <verse osisID='Luke.23.29'>Çünki elə günlər gəlir ki “Nə bəxtiyardır sonsuz, doğmamış bətnlər və əmizdirməmiş döşləri olan qadınlar!” deyəcəklər.</verse>
+        <verse osisID='Luke.23.30'>“O zaman dağlara ‹Üstümüzə yıxılın!›, təpələrə ‹Bizi örtün!› deməyə başlayacaqlar”.</verse>
+        <verse osisID='Luke.23.31'>Çünki yaşıl ağacın başına bunları gətirirlərsə, bəs qurumuş ağaca nə olacaq?» </verse>
+        <verse osisID='Luke.23.32'>İsa ilə birlikdə iki cinayətkar da edama aparılırdı.</verse>
+        <verse osisID='Luke.23.33'>Kəllə adlanan yerə gələndə orada Onu və cinayətkarları – birini sağında, birini də solunda çarmıxa çəkdilər.</verse>
+        <verse osisID='Luke.23.34'>Amma İsa deyirdi: «Ata! Onları bağışla, çünki nə etdiklərini bilmirlər». Onlar püşk ataraq paltarlarını aralarında bölüşdürdülər. </verse>
+        <verse osisID='Luke.23.35'>Camaat durub tamaşa edirdi. Onlarla birlikdə rəhbərlər də İsaya istehza edib deyirdilər: «Başqalarını xilas edirdi. Əgər O, Allahın seçdiyi Məsihdirsə, qoy Özünü də xilas etsin!»</verse>
+        <verse osisID='Luke.23.36'>Əsgərlər də yaxınlaşıb Onu ələ saldılar. Ona şərab sirkəsi təqdim edib</verse>
+        <verse osisID='Luke.23.37'>belə dedilər: «Əgər Sən Yəhudilərin Padşahısansa, Özünü xilas et!»</verse>
+        <verse osisID='Luke.23.38'>Onun üzərində «Yəhudilərin Padşahı budur» yazısı yazılmışdı. </verse>
+        <verse osisID='Luke.23.39'>Çarmıxa asılmış cinayətkarlardan biri Ona böhtan ataraq deyirdi: «Məgər Sən Məsih deyilsən? Özünü də, bizi də xilas et!».</verse>
+        <verse osisID='Luke.23.40'>O biri cinayətkarsa ona qadağan edərək deyirdi: «Sən heç Allahdan qorxmursan? Sən özün də eyni cəzaya məhkum olmusan!</verse>
+        <verse osisID='Luke.23.41'>Biz ədalətlə məhkum olunmuşuq, çünki əməllərimizə layiq olan əvəzi alırıq. Bu Adamsa heç bir haqsızlıq etməmişdi».</verse>
+        <verse osisID='Luke.23.42'>Sonra İsaya dedi: «Ey İsa, Öz Padşahlığına gələndə məni xatırla!»</verse>
+        <verse osisID='Luke.23.43'>İsa ona dedi: «Sənə doğrusunu deyirəm: bu gün sən Mənimlə birlikdə cənnətdə olacaqsan». </verse>
+        <verse osisID='Luke.23.44'>Gündüz altıncı saat idi. Doqquzuncu saata qədər bütün yer üzünə qaranlıq çökdü,</verse>
+        <verse osisID='Luke.23.45'>günəş işığını saçmırdı. Məbədin pərdəsi ortadan parçalandı.</verse>
+        <verse osisID='Luke.23.46'>İsa uca səslə nida edərək dedi: «Ey Ata! Ruhumu Sənin əlinə verirəm». İsa bunu deyib son nəfəsini verdi. </verse>
+        <verse osisID='Luke.23.47'>Bunları görən yüzbaşı «doğrudan da, bu Adam saleh idi» deyərək Allahı izzətləndirdi.</verse>
+        <verse osisID='Luke.23.48'>Bunlara tamaşa etmək üçün yığılan bütün camaat baş verən hadisəni gördükdə sinəsinə döyə-döyə geri döndü. </verse>
+        <verse osisID='Luke.23.49'>İsanı tanıyan adamların hamısı və Onun ardınca Qalileyadan gəlmiş qadınlar uzaqda durub olub-keçənlərə baxırdılar. </verse>
+        <verse osisID='Luke.23.50'>Ali Şuranın üzvü olan Yusif adlı xeyirxah və saleh bir kişi var idi.</verse>
+        <verse osisID='Luke.23.51'>O, Ali Şuranın qərarı və əməli ilə razı olmamışdı. Bu adam Yəhudeyanın Arimateya şəhərindən idi və o da Allahın Padşahlığını gözləyirdi.</verse>
+        <verse osisID='Luke.23.52'>O, Pilatın yanına gedib İsanın cəsədini istədi.</verse>
+        <verse osisID='Luke.23.53'>Cəsədi çarmıxdan endirib kəfənə bükdü və qayada qazılmış, hələ indiyədək heç kimin dəfn edilmədiyi bir qəbirə qoydu.</verse>
+        <verse osisID='Luke.23.54'>O gün Hazırlıq günü idi və Şənbə günü yaxınlaşırdı. </verse>
+        <verse osisID='Luke.23.55'>İsa ilə Qalileyadan gəlmiş qadınlar da Yusifin ardınca gedib qəbiri və Onun cəsədinin necə qoyulduğunu gördülər.</verse>
+        <verse osisID='Luke.23.56'>Onlar evlərinə qayıdıb ətirli maddələr və qiymətli yağlar hazırladılar. Şənbə günü Allahın əmri ilə istirahət etdilər.  </verse>
+      </chapter>
+      <chapter osisID='Luke.24'>
+        <verse osisID='Luke.24.1'>
+          Həftənin ilk günü səhər çox erkən qadınlar hazırladıqları ətirləri götürüb qəbirin yanına gəldilər.</verse>
+        <verse osisID='Luke.24.2'>Qəbirin qapısındakı daşı yuvarlanmış gördülər.</verse>
+        <verse osisID='Luke.24.3'>Amma içəri girib Rəbb İsanın cəsədini tapmadılar.</verse>
+        <verse osisID='Luke.24.4'>Onlar bundan çaşqınlıq içində olarkən şimşək kimi parıldayan paltar geymiş iki kişi qəflətən onların qarşısında peyda oldu.</verse>
+        <verse osisID='Luke.24.5'>Qadınlar təlaş içində üzüstə yerə sərildilər. Kişilər soruşdular: «Nə üçün siz Dirini ölülər arasında axtarırsınız?</verse>
+        <verse osisID='Luke.24.6'>O burada yoxdur, O dirilmişdir! Hələ Qalileyada olarkən Onun sizə dediklərini yadınıza salın.</verse>
+        <verse osisID='Luke.24.7'>Demişdi ki, “Bəşər Oğlu günahkar insanlara təslim olmalı, çarmıxa çəkilməli və üçüncü gün dirilməlidir”».</verse>
+        <verse osisID='Luke.24.8'>Qadınlar da İsanın sözlərini yada saldılar. </verse>
+        <verse osisID='Luke.24.9'>Qəbirdən qayıdan qadınlar bütün bunları On Bir şagirdə və başqa adamların hamısına xəbər verdilər.</verse>
+        <verse osisID='Luke.24.10'>Həvarilərə bu xəbəri çatdıranlar Məcdəlli Məryəm, Yoxanna, Yaqubun anası Məryəm və onlarla birgə olan digər qadınlar idi.</verse>
+        <verse osisID='Luke.24.11'>Amma bu sözlər həvarilərə mənasız göründü və qadınlara inanmadılar.</verse>
+        <verse osisID='Luke.24.12'>Peter isə qalxıb qəbirə tərəf qaçdı. O əyilib yalnız kətan bezləri gördü və bu hadisəyə heyrət edərək öz evinə qayıtdı. </verse>
+        <verse osisID='Luke.24.13'>Elə o gün onlardan ikisi Yerusəlimdən altmış stadi uzaqlığında yerləşən Xamma adlı kəndə gedirdi.</verse>
+        <verse osisID='Luke.24.14'>Onlar olub-keçən bütün bu hadisələr barədə öz aralarında söhbət edirdi.</verse>
+        <verse osisID='Luke.24.15'>Onlar söhbət edərək öz aralarında müzakirə edərkən İsa Özü yaxınlaşıb onlarla birlikdə yol getdi.</verse>
+        <verse osisID='Luke.24.16'>Amma onların gözləri bağlanmışdı, buna görə də Onu tanımadılar. </verse>
+        <verse osisID='Luke.24.17'>İsa onlardan soruşdu: «Siz yol gedə-gedə öz aranızda nə barədə danışırsınız?» Onlar qaşqabaqlı dayandılar.</verse>
+        <verse osisID='Luke.24.18'>Onlardan Kleopa adlı bir nəfər İsaya cavab verdi: «Yerusəlimdə qalıb bu günlərdə orada baş vermiş hadisələrdən xəbəri olmayan bircə sənsənmi?»</verse>
+        <verse osisID='Luke.24.19'>İsa onlara dedi: «Hansı hadisələrdən?» Onlar da Ona dedilər: «Nazaretli İsa barəsindəki hadisələrdən. O, Allahın və bütün xalqın önündə əməldə və sözdə qüdrətli bir peyğəmbər idi.</verse>
+        <verse osisID='Luke.24.20'>Bizim başçı kahin və rəhbərlərimiz Onu ölümə məhkum etmək üçün təslim edib çarmıxa çəkdirdilər.</verse>
+        <verse osisID='Luke.24.21'>Biz də ümid edirdik ki, bu, İsrailin gələcək Satınalanıdır. Bundan əlavə, bu hadisələr artıq üç gündür ki, baş verib.</verse>
+        <verse osisID='Luke.24.22'>Üstəlik bizim qadınlardan bəzisi də bizi mat qoydular: onlar səhər erkən qəbir üstünə gedib</verse>
+        <verse osisID='Luke.24.23'>Onun cəsədini orada tapa bilməyiblər və gəlib dedilər ki, görüntüdə Onun diri olduğunu bəyan edən mələkləri görüblər.</verse>
+        <verse osisID='Luke.24.24'>Bizimlə olan bəziləri qəbirə gedib oranın qadınların dediyi kimi olduğunu müəyyən etdilər, amma Onu görmədilər». </verse>
+        <verse osisID='Luke.24.25'>Onda İsa onlara dedi: «Ey ağılsızlar və peyğəmbərlərin xəbər verdiklərinə inanmaq üçün ürəyində ləngiyənlər!</verse>
+        <verse osisID='Luke.24.26'>Məsih bu əzabları çəkib Öz izzətinə qovuşmalı deyildimi?»</verse>
+        <verse osisID='Luke.24.27'>Sonra Musa ilə bütün Peyğəmbərlərdən başlayaraq Müqəddəs Yazıların hamısında Özü haqqında olanları onlara izah etdi. </verse>
+        <verse osisID='Luke.24.28'>Onlar getdikləri kəndə yaxınlaşdılar. İsa Özünü yoluna davam etmək istəyən kimi apardı.</verse>
+        <verse osisID='Luke.24.29'>Amma onlar İsadan təkidlə xahiş edib dedilər: «Bizimlə qal, çünki axşam düşür və gün batmaq üzrədir». O da onlarla qalmaq üçün içəri girdi. </verse>
+        <verse osisID='Luke.24.30'>İsa onlarla süfrəyə oturanda çörək götürüb şükür duası etdi, böldü və onlara verdi.</verse>
+        <verse osisID='Luke.24.31'>Bu anda onların gözləri açıldı və onlar İsanı tanıdılar. Amma İsa onlar üçün görünməz oldu.</verse>
+        <verse osisID='Luke.24.32'>Onlar bir-birlərinə dedilər: «O, yolda bizimlə danışıb və Müqəddəs Yazıları bizə izah edəndə bizim ürəklərimiz alışıb-yanmırdımı?» </verse>
+        <verse osisID='Luke.24.33'>Onlar elə o saat qalxıb Yerusəlimə qayıtdılar, On Bir şagirdi və onlarla birlikdə olanları bir yerdə toplaşmış gördülər.</verse>
+        <verse osisID='Luke.24.34'>Bunlar deyirdi: «Rəbb, doğrudan da, dirilmiş və Şimona görünmüşdür».</verse>
+        <verse osisID='Luke.24.35'>Onlar da yolda baş verənləri və çörəyi böldüyü zaman Onu necə tanıdıqlarını nəql etdilər. </verse>
+        <verse osisID='Luke.24.36'>Onlar bu barədə danışarkən İsa Özü aralarında durub onlara «Sizə salam olsun!» dedi.</verse>
+        <verse osisID='Luke.24.37'>Onlarsa çaşıb dəhşətə gələrək bir ruh gördüklərini zənn etdilər.</verse>
+        <verse osisID='Luke.24.38'>Amma İsa onlara dedi: «Nə üçün təlaşa düşürsünüz? Nəyə görə ürəklərinizə belə fikirlər gəlir?</verse>
+        <verse osisID='Luke.24.39'>Əllərimə və ayaqlarıma baxın. Bu – Mən Özüməm! Mənə toxunun və baxın, çünki Məndə olduğunu gördüyünüz kimi ruhun əti və sümüyü olmur».</verse>
+        <verse osisID='Luke.24.40'>İsa bunu deyib onlara əllərini və ayaqlarını göstərdi.</verse>
+        <verse osisID='Luke.24.41'>Onlar hələ sevincdən inanmayıb heyrətlənərkən İsa onlara dedi: «Burada yeməyə bir şey varmı?»</verse>
+        <verse osisID='Luke.24.42'>Ona bir tikə bişmiş balıq verdilər.</verse>
+        <verse osisID='Luke.24.43'>İsa da yeməyi götürüb onların qabağında yedi. </verse>
+        <verse osisID='Luke.24.44'>Sonra İsa onlara dedi: «Sizinlə birgə olarkən söylədiyim sözlər bunlardır: Musanın Qanununda, Peyğəmbərlərin kitablarında və Zəburda Mənim haqqımda yazılanların yerinə yetirilməsi lazımdır».</verse>
+        <verse osisID='Luke.24.45'>Bundan sonra Müqəddəs Yazıları anlamaq üçün onların zehnini açdı.</verse>
+        <verse osisID='Luke.24.46'>İsa onlara dedi: «Belə yazılıb: Məsih əzab çəkib üçüncü gün ölülər arasından dirilməlidir.</verse>
+        <verse osisID='Luke.24.47'>Yerusəlimdən başlayaraq bütün millətlərə günahların bağışlanması üçün tövbə Onun adı ilə vəz edilməlidir.</verse>
+        <verse osisID='Luke.24.48'>Siz bu hadisələrin şahidisiniz.</verse>
+        <verse osisID='Luke.24.49'>Budur, Mən Öz Atamın vəd etdiyini sizə göndərəcəyəm. Sizsə ucalardan gələn qüvvəyə bürünənədək bu şəhərdə qalın». </verse>
+        <verse osisID='Luke.24.50'>İsa onları şəhərdən kənara çıxarıb Bet-Anyayadək gətirdi və əllərini qaldırıb onlara xeyir-dua verdi;</verse>
+        <verse osisID='Luke.24.51'>xeyir-dua verərkən onlardan uzaqlaşdı və göyə aparıldı.</verse>
+        <verse osisID='Luke.24.52'>Şagirdləri də İsaya səcdə etdilər və böyük sevinclə Yerusəlimə qayıtdılar.</verse>
+        <verse osisID='Luke.24.53'>Onlar daim Allaha alqış edərək məbəddə olurdular.  </verse>
+      </chapter>
+    </div></osisText>
+</osis>

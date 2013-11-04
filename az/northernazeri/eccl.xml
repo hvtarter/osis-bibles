@@ -1,0 +1,347 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace'>
+  <osisText osisIDWork='NorthernAzeri' osisRefWork='Bible' xml:lang='az'>
+    <header>
+      <revisionDesc>
+        <date>2012-01-07</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='NorthernAzeri'>
+        <title>Northern Azeri Translation</title>
+        <contributor/>
+        <creator>Mod2Zef (6)</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject/>
+        <date>2012-01-07</date>
+        <description>Northern Azeri Translation</description>
+        <publisher/>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>NorthernAzeri</identifier>
+        <source>no entry TextSource in sword.conf found</source>
+        <language type='IETF'>az</language>
+        <relation/>
+        <coverage>provide the bible to the nations of the world</coverage>
+        <rights>Copyrighted Kutsul Kitab; Permission to distribute granted to CrossWire</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='Eccl'>
+      <chapter osisID='Eccl.1'>
+        <verse osisID='Eccl.1.1'>
+          Bu, Yerusəlimdə padşahlıq edən Davud oğlu Vaizin sözləridir.</verse>
+        <verse osisID='Eccl.1.2'>Vaiz deyir:«Hər şey puçdur, puçdur, tamam puçdur!</verse>
+        <verse osisID='Eccl.1.3'>İnsanın səma altında çəkdiyiBütün zəhmətlərinin nə faydası var?</verse>
+        <verse osisID='Eccl.1.4'>Bir nəsil gedir, o biri nəsil gəlir,Amma dünya daim qalır.</verse>
+        <verse osisID='Eccl.1.5'>Günəş çıxır, günəş batır,Sonra tələsik yerinə dönür ki,Təzədən çıxsın.</verse>
+        <verse osisID='Eccl.1.6'>Külək cənub səmtinə əsir,Sonra şimal səmtinə dönür.Dönə-dönə gedir,Öz yolunu təkrar edir.</verse>
+        <verse osisID='Eccl.1.7'>Bütün çaylar dənizə axır,Amma dəniz heç vaxt dolmur.Axdıqları yerə qayıdırlar ki,Təzədən axsınlar.</verse>
+        <verse osisID='Eccl.1.8'>Hər şey çətin başa gəlir.Sözlər kifayət etmir,Göz görməkdən doymur,Qulaq da eşitməkdən.</verse>
+        <verse osisID='Eccl.1.9'>Nə olubsa, yenə olacaq,Nə edilibsə, yenə ediləcək.Ona görə də səma altında tamam təzə bir şey yoxdur.</verse>
+        <verse osisID='Eccl.1.10'>Məgər bir şey var ki,Onun haqqında deyilsin:“Bax bu təzə bir şeydir?”O da çoxdan var imiş –Bizim dövrümüzdən əvvəl.</verse>
+        <verse osisID='Eccl.1.11'>Əvvəlki şeylərdən heç nə xatırlanmır,Gələcəkdə baş verən şeylərdən dəBundan sonra gələnlər arasındaHeç nə xatırlanmayacaq. </verse>
+        <verse osisID='Eccl.1.12'>Mən Vaiz Yerusəlimdə İsrailin padşahı idim.</verse>
+        <verse osisID='Eccl.1.13'>Ürəyimdə niyyət etdim ki, göylər altında edilən bütün işləri hikmətlə öyrənib araşdırım. Bu çətin işi üzərində zəhmət çəkmək üçün Allah insanlara verib.</verse>
+        <verse osisID='Eccl.1.14'>Səma altında edilən bütün işlərə nəzər saldım və bildim ki, onların hamısı puçdur, külək dalınca qaçmağa bənzər.</verse>
+        <verse osisID='Eccl.1.15'>Əyri olan düz ola bilməz,Əskik olan sayıla bilməz. </verse>
+        <verse osisID='Eccl.1.16'>Öz-özümə dedim: “Bax mən böyük adam olmuşam və məndən əvvəl Yerusəlimdə yaşayanların hamısından çox hikmət qazanmışam. Ağlımda çoxlu hikmət və bilik var”.</verse>
+        <verse osisID='Eccl.1.17'>Sonra ürəyimdə niyyət etdim ki, hikmətin nə olduğunu, dəlilik və axmaqlığın nə olduğunu öyrənim. Amma bildim ki, bu da külək dalınca qaçmağa bənzər.</verse>
+        <verse osisID='Eccl.1.18'>Çünki hikmət çox olduqcaKədər də çoxalır.Bilik artdıqcaDərd də artır. </verse>
+      </chapter>
+      <chapter osisID='Eccl.2'>
+        <verse osisID='Eccl.2.1'>
+          Mən ürəyimdə dedim: “Gəl indi də şadlıq etməyi sınaqdan keçir və kefə bax”. Amma gördüm ki, bu da puçdur.</verse>
+        <verse osisID='Eccl.2.2'>Gülmək haqqında “Dəlilikdir!”, şadlıq haqqında “Nə faydası var?” dedim.</verse>
+        <verse osisID='Eccl.2.3'>Hələ ağlım başımda olarkən cəhd etdim ki, necə özümü şərabla şənləndirib ağılsız olum. Beləcə görmək istəyirdim ki, göylər altında insanlar üçün bir neçə günlük ömürlərində kef açan nədir. </verse>
+        <verse osisID='Eccl.2.4'>Mən böyük işlər gördüm: özümə evlər tikdim, üzüm bağları saldım,</verse>
+        <verse osisID='Eccl.2.5'>özümə bağçalar və bağlar düzəltdim, orada hər cür meyvə ağacı əkdim.</verse>
+        <verse osisID='Eccl.2.6'>Özümə su hovuzları düzəltdim ki, meşədə bitən ağacları suvarsın.</verse>
+        <verse osisID='Eccl.2.7'>Nökərlər və kənizlər aldım, evimdə doğulan qullarım var idi. Naxırlarım və sürülərim də məndən əvvəl Yerusəlimdə yaşayanların hamısınkından çox idi.</verse>
+        <verse osisID='Eccl.2.8'>Özümə qızıl-gümüş, padşahların və vilayətlərin xəzinələrini yığdım. Özümə kişi və qadın müğənnilər gətirtdim, kişilərin xoşuna gələn ən gözəl qadınların sayını artırdım. </verse>
+        <verse osisID='Eccl.2.9'>Beləcə yüksəlib məndən əvvəl Yerusəlimdə yaşayanların hamısından daha əzəmətli oldum. Hikmətim də özümdə qaldı.</verse>
+        <verse osisID='Eccl.2.10'>Gözlərimin istədiyi hər şeyi özümdən əsirgəmədim,Ürəyimi heç bir həzzdən məhrum etmədim,Könlüm etdiyim hər işdən zövq aldı.Bu çəkdiyim bütün zəhmətlərin payı idi.</verse>
+        <verse osisID='Eccl.2.11'>Mən etdiyim bütün işlərə,Nail olmaq üçün çəkdiyim bütün zəhmətlərə dönüb baxdım:Gördüm ki, hər şey puçdur,Külək dalınca qaçmağa bənzər.Səma altında bunların faydası yoxdur. </verse>
+        <verse osisID='Eccl.2.12'>Sonra mən hikmət, dəlilik və ağılsızlığınNə olduğuna dönüb baxdım.Bundan sonra padşah olan adamİndiyə qədər görülən işlərdən başqaNə edə bilər ki?</verse>
+        <verse osisID='Eccl.2.13'>Mən gördüm ki,Necə işıq qaranlıqdan üstündürsə,Hikmət də ağılsızlıqdan eləcə üstündür.</verse>
+        <verse osisID='Eccl.2.14'>Hikmətli adamın gözləri yerindədir,Ağılsız adam isə qaranlıqda gəzir.Lakin mən yenə bilirəm ki,İkisinin də aqibəti eyni cür olur.</verse>
+        <verse osisID='Eccl.2.15'>Mən ürəyimdə dedim:“Mənim də aqibətim ağılsız adamınAqibəti kimi olacaq.Onda hikmətli olmağımınNə faydası var?”Ona görə də ürəyimdə dedim:“Bu da puçdur”.</verse>
+        <verse osisID='Eccl.2.16'>Çünki müdrik adam daAğılsız adam kimiBir daha xatırlanmayacaq,Gələcək dövrdə hamısı unudulacaq.Heyf ki hikmətli adam daAğılsız adam kimi ölür!</verse>
+        <verse osisID='Eccl.2.17'>Beləcə həyata nifrət etdim,Çünki səma altında edilən işlərMənim üçün dərddir.Hər şey puçdur,Külək dalınca qaçmağa bənzər.   </verse>
+        <verse osisID='Eccl.2.18'>Mən səma altında çəkdiyim bütün zəhmətlərə nifrət etdim. Çünki onun da səmərəsini məndən sonra gələn adama verməliyəm.</verse>
+        <verse osisID='Eccl.2.19'>Kim bilir, o da bir müdrik adam olacaq, yoxsa ağılsızın biri? Lakin hər halda səma altında hikmətlə davranıb çəkdiyim bütün zəhmətlərin səmərəsinə sahib olacaq. Bu da puçdur.</verse>
+        <verse osisID='Eccl.2.20'>Ona görə də səma altında çəkdiyim bütün zəhmətlərdən əlimi üzdüm.</verse>
+        <verse osisID='Eccl.2.21'>Çünki biri hikmət, bilik və bacarıqla zəhmət çəkir, axırda isə onun payını heç bir zəhmət çəkməmiş başqa adama verməli olur. Bu da puçdur, böyük bir dərddir.</verse>
+        <verse osisID='Eccl.2.22'>İnsanın səma altında çəkdiyi bütün zəhmətlərin, ürəyindəki qayğıların ona nə faydası var?</verse>
+        <verse osisID='Eccl.2.23'>Onun bütün günləri dərd içində, işləri kədər içində keçir. Hətta gecə də ürəyi rahatlanmır. Bu da puçdur. </verse>
+        <verse osisID='Eccl.2.24'>İnsan üçün yeyib-içməkdən və gördüyü işdən zövq almaqdan yaxşı şey yoxdur. Ancaq mən gördüm ki, bunu da verən Allahdır.</verse>
+        <verse osisID='Eccl.2.25'>Çünki Onsuz  kim yeyə, kim kef çəkə bilər?</verse>
+        <verse osisID='Eccl.2.26'>Allah hikməti, biliyi və şadlığı razı qaldığı adama verir. Günahkarlara isə var-dövlət yığıb-toplamaq zəhmətini verir ki, sonra onu Özünün razı qaldığı adama bəxş etsin. Bu da puçdur, külək dalınca qaçmağa bənzər.  </verse>
+      </chapter>
+      <chapter osisID='Eccl.3'>
+        <verse osisID='Eccl.3.1'>Hər şeyin öz vaxtı var, göylər altında hər işin öz vaxtı var:</verse>
+        <verse osisID='Eccl.3.2'>Doğulmağın öz vaxtı var, ölməyin öz vaxtı.Əkməyin öz vaxtı, kökündən çıxartmağın öz vaxtı.</verse>
+        <verse osisID='Eccl.3.3'>Öldürməyin öz vaxtı, sağaltmağın öz vaxtı.Yıxmağın öz vaxtı, qurmağın öz vaxtı.</verse>
+        <verse osisID='Eccl.3.4'>Ağlamağın öz vaxtı, gülməyin öz vaxtı.Yas tutmağın öz vaxtı, rəqs etməyin öz vaxtı.</verse>
+        <verse osisID='Eccl.3.5'>Daş atmağın öz vaxtı, daş yığmağın öz vaxtı.Qucaqlaşmağın öz vaxtı, qucaqlaşmamağın öz vaxtı.</verse>
+        <verse osisID='Eccl.3.6'>Axtarmağın öz vaxtı, itirməyin öz vaxtı.Saxlamağın öz vaxtı, atmağın öz vaxtı.</verse>
+        <verse osisID='Eccl.3.7'>Yırtmağın öz vaxtı, tikməyin öz vaxtı.Susmağın öz vaxtı, danışmağın öz vaxtı.</verse>
+        <verse osisID='Eccl.3.8'>Sevməyin öz vaxtı, nifrət etməyin öz vaxtı.Müharibənin öz vaxtı, sülhün öz vaxtı. </verse>
+        <verse osisID='Eccl.3.9'>İşləyən adama zəhmət çəkib gördüyü işin nə faydası var?</verse>
+        <verse osisID='Eccl.3.10'>Gördüm ki, bu işi üzərində zəhmət çəkmək üçün Allah insanlara verib.</verse>
+        <verse osisID='Eccl.3.11'>Allah hər şeyi öz vaxtında gözəl yaratdı və əbədiyyəti də insanların ürəyinə qoydu. Hərçənd ki insan Allahın etdiyi işi əvvəldən axıra qədər anlaya bilməz.</verse>
+        <verse osisID='Eccl.3.12'>Mən bilirəm ki, insan üçün şadlıq etməkdən və ömrü boyu xeyirxahlıq etməkdən yaxşı şey yoxdur.</verse>
+        <verse osisID='Eccl.3.13'>Həm də hər kəsin yeyib-içməyi və gördüyü işdən zövq almağı Allahın bəxşişidir.</verse>
+        <verse osisID='Eccl.3.14'>Bunu bilirəm ki, Allahın etdiyi hər iş daim qalır: ona nə bir şey artırmaq, nə də bir şey əskiltmək olar. Allah bunu ona görə edir ki, insanlar Ondan qorxsun.</verse>
+        <verse osisID='Eccl.3.15'>İndi nə olursa, keçmişdə də olub,Nə olacaqsa, lap qədimdən də var idi.Allah olub-keçənləri araşdırır.</verse>
+        <verse osisID='Eccl.3.16'>Səma altında bir şey də gördüm:Ədalətin yerində pislik var,Salehliyin də yerində pislik.</verse>
+        <verse osisID='Eccl.3.17'>Mən ürəyimdə dedim:“Allah həm salehi,Həm də pis adamı mühakimə edəcək.Çünki O hər iş, hər əməl üçünBir vaxt qoyub”. </verse>
+        <verse osisID='Eccl.3.18'>İnsanlar barədə mən ürəyimdə dedim: “Allah onları sınayır ki, heyvan kimi olduqlarını görsünlər”.</verse>
+        <verse osisID='Eccl.3.19'>Çünki heyvanın başına gələn insanın da başına gəlir, ikisinin də aqibəti eyni cür olur. Necə biri ölürsə, eləcə də o biri ölür. İkisi də eyni nəfəsə malikdir, insan heyvandan üstün deyil, çünki hər şey puçdur.</verse>
+        <verse osisID='Eccl.3.20'>Hamısı bir yerə gedir, hamısı torpaqdan yaranıb, torpağa da qayıdır.</verse>
+        <verse osisID='Eccl.3.21'>Bunu kim bilir ki, insanların ruhu yuxarı qalxır, heyvanların ruhu aşağı – yerin altına enir? </verse>
+        <verse osisID='Eccl.3.22'>Gördüm ki, insanın etdiyi işdən zövq almasından yaxşı şey yoxdur, çünki onun payına düşən budur. Kim onu bir də geri qaytaracaq ki, özündən sonra nə olacağını görsün?  </verse>
+      </chapter>
+      <chapter osisID='Eccl.4'>
+        <verse osisID='Eccl.4.1'>Mən yenə səma altında edilənBütün zülmləri gördüm:Məzlumların göz yaşlarını gördüm,Onlara təsəlli verən yox idi,Qüdrət zalımların əlində idi,Məzlumlara təsəlli verən yox idi.</verse>
+        <verse osisID='Eccl.4.2'>Çoxdan ölüb getmiş adamlarıHələ diri qalanlardan daha xoşbəxt saydım.</verse>
+        <verse osisID='Eccl.4.3'>Bunlardan da xoşbəxt o adamdır ki,Hələ dünyaya gəlməyib,Səma altında edilən pisliyi görməyib. </verse>
+        <verse osisID='Eccl.4.4'>Mən gördüm ki, bir adamın çəkdiyi bütün zəhmətlər, yaxşı gedən bütün işlər qonşusunda qısqanclıqdan həvəs yaradır. Bu da puçdur, külək dalınca qaçmağa bənzər.</verse>
+        <verse osisID='Eccl.4.5'>Ağılsız adam əlini qoynuna qoyur,Öz canını üzür.</verse>
+        <verse osisID='Eccl.4.6'>Bir ovuc dolusunun gətirdiyi rahatlıqİki ovuc dolusunun gətirdiyiZəhmətdən və külək dalınca qaçmaqdan yaxşıdır. </verse>
+        <verse osisID='Eccl.4.7'>Mən yenə səma altında puç olan başqa bir şeyi gördüm:</verse>
+        <verse osisID='Eccl.4.8'>Tənha bir adam var idi,Onun nə oğlu, nə də qardaşı var idi.Zəhmət çəkməkdən yorulmazdı,Lakin yenə də gözləri mal-dövlətdən doymurdu.Özündən soruşmurdu ki,Kimin üçün bu qədər zəhmət çəkirəm,Kimin üçün özümü zövq almaqdan məhrum edirəm?Bu da puçdur, böyük bir dərddir.</verse>
+        <verse osisID='Eccl.4.9'>İki adam bir adamdan yaxşıdır,Çünki zəhmətləri üçün yaxşı muzd alacaqlar.</verse>
+        <verse osisID='Eccl.4.10'>Əgər biri yıxılsa,O biri yoldaşını qaldırar.Lakin vay o adamın halına ki,Yıxılanda onu qaldıran olmur!</verse>
+        <verse osisID='Eccl.4.11'>Həmçinin iki nəfər bir yerdə yatarsa,Bir-birini isidər.Amma tək yatan necə isinə bilər?</verse>
+        <verse osisID='Eccl.4.12'>Əgər bir nəfər tək qalıb məğlub olarsa,İki nəfər hücuma tab gətirə bilər.Üçqat ip tez qırılmaz. </verse>
+        <verse osisID='Eccl.4.13'>Yoxsul və hikmətli bir cavan irad qəbul etməyən qoca və səfeh padşahdan yaxşıdır.</verse>
+        <verse osisID='Eccl.4.14'>Çünki o cavan bu ölkədə yoxsulluq içində doğulsa da, zindana düşsə də, çıxıb padşah ola bilər.</verse>
+        <verse osisID='Eccl.4.15'>Gördüm ki, səma altında dolaşan bütün adamlar padşah taxtına oturan bu cavanın ardınca gedir.</verse>
+        <verse osisID='Eccl.4.16'>Onun başına yığışan bütün xalqın sayı-hesabı yox idi. Ancaq sonra gələn nəsillər onun üçün də sevinməyəcək. Bu da puçdur, külək dalınca qaçmağa bənzər.  </verse>
+      </chapter>
+      <chapter osisID='Eccl.5'>
+        <verse osisID='Eccl.5.1'>
+          Allahın evinə getdiyin zaman hərəkətlərinə diqqət et. Qulaq asmaq üçün oraya girmək yaxşı və pisin nə olduğunu bilməyən səfeh adamların qurban təqdim etməsindən yaxşıdır.</verse>
+        <verse osisID='Eccl.5.2'>Dilin tələsməsin,Allahın hüzurunda söz deməyəÜrəyin tələsməsin.Çünki Allah göydədir, sən yerdə.Buna görə də az danış.</verse>
+        <verse osisID='Eccl.5.3'>Necə ki iş çox olanda adam yuxu görər,Söz də çox olanda səfeh danışığa çevrilər. </verse>
+        <verse osisID='Eccl.5.4'>Allaha əhd edəndə onu yerinə yetirməkdə yubanma, çünki ağılsızlar Onun xoşuna gəlməz. Öz əhdini yerinə yetir.</verse>
+        <verse osisID='Eccl.5.5'>Əhd etməmək əhd edib onu yerinə yetirməməkdən yaxşıdır.</verse>
+        <verse osisID='Eccl.5.6'>Qoyma sözlərin səni günaha batırsın. Allahın elçisinə demə ki, bu, kiçik səhv idi. Nə üçün Allah sənin sözünə qəzəblənsin və əlinin zəhmətini yox etsin?</verse>
+        <verse osisID='Eccl.5.7'>Çünki çox yuxu görəndə də, çox söz danışanda da puç şeylər çox olar. Sən ancaq Allahdan qorx. </verse>
+        <verse osisID='Eccl.5.8'>Əgər bir vilayətdə yoxsullara zülm edildiyini, ədalət və salehliyin ayaq altında tapdalandığını görürsənsə, gördüyünə təəccüb etmə. Çünki hər vəzifə başında olana özündən yuxarıda bir nəzarətçi qoyulub və onların başında da özlərindən yuxarıda olanlar var.</verse>
+        <verse osisID='Eccl.5.9'>Ancaq hamıdan yuxarıda olan padşah ədalətli olsa, hər kəs öz tarlasının bəhrəsindən xeyir götürər.</verse>
+        <verse osisID='Eccl.5.10'>Pul sevən puldan doymaz,Var-dövlət sevən də qazancdan.Bu da puçdur.</verse>
+        <verse osisID='Eccl.5.11'>Var-dövlət çoxaldıqcaOnu yeyənlər də çoxalır.Gözləri ilə görməkdən savayıSahibinə ondan nə fayda var?</verse>
+        <verse osisID='Eccl.5.12'>Fəhlə az da yesə, çox da yesə,Yuxusu şirindir.Amma varlı adamın dövləti qoymaz ki,O, rahat yatsın.</verse>
+        <verse osisID='Eccl.5.13'>Səma altında gördüyümBaşqa böyük dərd də var:Yığdığı sərvət sahibinə zərər gətirir,</verse>
+        <verse osisID='Eccl.5.14'>Bu sərvəti bədbəxt hadisələr yox edir,Sərvət sahibinin oğlu doğulandaOna verməyə bir şeyi qalmır.</verse>
+        <verse osisID='Eccl.5.15'>Necə ki o, anasının bətnindən çılpaq doğulub,  Eləcə də bu dünyadan gedir.Zəhmətinin bəhrəsindənHeç nəyi əlinə götürübÖzü ilə apara bilmir.</verse>
+        <verse osisID='Eccl.5.16'>Bu da böyük bir dərddir:İnsan dünyaya necə gəlirsə,Elə də gedir.Boş yerə çəkdiyi zəhmətinOna nə faydası var?</verse>
+        <verse osisID='Eccl.5.17'>Ömrü boyu öz çörəyiniQaranlıq, böyük sıxıntı, xəstəlik vəQəzəb içində yeyir. </verse>
+        <verse osisID='Eccl.5.18'>İnsan üçün mənim gördüyüm yaxşı və gözəl olan budur ki, o yeyib-içsin və Allahın ona verdiyi bir neçə günlük ömründə səma altında çəkdiyi bütün zəhmətlərindən zövq alsın, çünki ona düşən bəxşiş budur.</verse>
+        <verse osisID='Eccl.5.19'>Həmçinin Allah hər kəsə var-dövlət bəxş edərək qüvvət verib ki, ondan yesin, payını götürsün və zəhmətindən zövq alsın. Bu, Allahın hədiyyəsidir.</verse>
+        <verse osisID='Eccl.5.20'>Çünki Allah insanın başını şənliklə qatdığı üçün insan ömrünün günlərini dərindən düşünmür.  </verse>
+      </chapter>
+      <chapter osisID='Eccl.6'>
+        <verse osisID='Eccl.6.1'>Səma altında gördüyüm bir dərd də var ki, insanlar arasında çox yayılıb:</verse>
+        <verse osisID='Eccl.6.2'>adam var ki, Allah ona var-dövlət, izzət verir, arzu etdiyi hər şeyi yerinə yetirir, ancaq ona bu şeylərdən yeyib-içməyə imkan vermir, yad bir adam onun malını yeyir. Bu da puçdur, böyük bir dərddir.</verse>
+        <verse osisID='Eccl.6.3'>Bir adam yüz uşaq atası olub, uzun illər yaşasa da, amma uzun ömrünün əvəzində firavanlığından doymayıb hörmətlə dəfn olunmazsa, məncə, ölü doğulmuş uşaq ondan yaxşıdır.</verse>
+        <verse osisID='Eccl.6.4'>Çünki ölü doğulmuş uşaq boş yerə doğulur, qaranlıq içində itib-gedir, heç adı da çəkilmir.</verse>
+        <verse osisID='Eccl.6.5'>Nə günəş üzü görür, nə də bir şey bilir. Amma bu uşağın rahatlığı o adamınkından çoxdur.</verse>
+        <verse osisID='Eccl.6.6'>Çünki o adam iki dəfə min il ömür sürsə də, sevincin nə olduğunu bilmir. Məgər hər ikisi eyni yerə getmirmi?</verse>
+        <verse osisID='Eccl.6.7'>İnsan bütün zəhmətiQarnı üçün çəkir,Amma yenə də iştahası bitib-tükənmir.</verse>
+        <verse osisID='Eccl.6.8'>Hikmətli adamın ağılsızdanNə üstünlüyü var?Yoxsul başqa insanlarlaNecə rəftar etməyi bilsə də,Bunun ona nə faydası var?</verse>
+        <verse osisID='Eccl.6.9'>Gözün görməsi ürəyin istəməsindən yaxşıdır.Bu da puçdur, külək dalınca qaçmağa bənzər.</verse>
+        <verse osisID='Eccl.6.10'>Nə varsa, adı çoxdan qoyulmuşdur,İnsanın da nə olduğu bilinir.Heç kəs özündən güclü ilə güləşə bilməz.</verse>
+        <verse osisID='Eccl.6.11'>Sözün çoxluğu puçluğu çoxaldır.Bunun insana nə faydası var? </verse>
+        <verse osisID='Eccl.6.12'>Görəsən kim bilir ki, kölgə kimi keçən qısa puç həyatda insan üçün yaxşı şey nədir? Kim insana deyə bilər ki, özündən sonra səma altında nə baş verəcək?  </verse>
+      </chapter>
+      <chapter osisID='Eccl.7'>
+        <verse osisID='Eccl.7.1'>Yaxşı ad ətirli yağdan,  Ölüm günü isə doğum günündən yaxşıdır.</verse>
+        <verse osisID='Eccl.7.2'>Yas evinə getməkZiyafət evinə getməkdən yaxşıdır,Çünki hər kəsin axırı ölümdür.Gərək yaşayan hər adamBunu yadında saxlasın.</verse>
+        <verse osisID='Eccl.7.3'>Qüssə gülməkdən yaxşıdır,Çünki üzün qəmgin olmasıİnsan üçün daha yaxşıdır.</verse>
+        <verse osisID='Eccl.7.4'>Hikmətli adamın ürəyi yas evindədir,Amma ağılsızın ürəyi şadlıq evində.</verse>
+        <verse osisID='Eccl.7.5'>Hikmətli adamın məzəmmətini eşitməkAğılsızın nəğməsini eşitməkdən yaxşıdır.</verse>
+        <verse osisID='Eccl.7.6'>Çünki ağılsız adamın gülməyiQazan altında yanan tikanlı kolun səsi kimidir.Bu da puçdur.</verse>
+        <verse osisID='Eccl.7.7'>Haram gəlir hikmətli adamı ağılsıza çevirir,Rüşvət isə ürəyi bərbad edir.</verse>
+        <verse osisID='Eccl.7.8'>Bir şeyin axırı əvvəlindən yaxşıdır,Səbirli adam qürurludan yaxşıdır.</verse>
+        <verse osisID='Eccl.7.9'>Qəzəblənməyə tələsmə,  Çünki qəzəb ağılsızlarınÜrəyində yuva salar.</verse>
+        <verse osisID='Eccl.7.10'>“Niyə keçən günlər bu gündən yaxşı idi?” demə,Çünki verdiyin sual hikmətli sual deyil.</verse>
+        <verse osisID='Eccl.7.11'>Hikmət miras mal qədər yaxşıdır,Dünyada yaşayan hər kəs üçün faydalıdır.</verse>
+        <verse osisID='Eccl.7.12'>Çünki pul necə insanın sipəridirsə,Hikmət də eləcə insanın sipəridir.Amma biliyin faydası bundan ibarətdir:Hikmət ona sahib olana həyat verər.</verse>
+        <verse osisID='Eccl.7.13'>Allahın işinə diqqət et:Onun əydiyini kim düzəldə bilər?</verse>
+        <verse osisID='Eccl.7.14'>Yaxşı gündə şad-xürrəm ol,Pis gündə isə bunu anla:Hər cür günü Allah təyin edib ki,İnsan özündən sonra nə olacağını bilməsin.</verse>
+        <verse osisID='Eccl.7.15'>Puç ömrümdə bunları gördüm:Saleh adam salehliyinə baxmayaraq, ölür,Pis adamın isə pisliyinə baxmayaraq, ömrü uzanır.</verse>
+        <verse osisID='Eccl.7.16'>Həddən artıq saleh olma,Həddən artıq müdrik olma.Nə üçün özünü üzəsən?</verse>
+        <verse osisID='Eccl.7.17'>Həddən artıq pis olma,Həddən artıq ağılsız olma.Nə üçün əcəlin çatmamış öləsən?</verse>
+        <verse osisID='Eccl.7.18'>Bir şeydən yapışmağın yaxşıdır,Amma o birindən də əlini çəkmə.Çünki Allahdan qorxan adamHər ikisini tarazlayar.</verse>
+        <verse osisID='Eccl.7.19'>Hikmət ağıllı adamaŞəhərdə olan on hakimin hökmündənDaha çox güc verər.</verse>
+        <verse osisID='Eccl.7.20'>Doğrudan da, yer üzündə elə saleh adam yoxdur ki,Yalnız yaxşılıq edib heç bir günah etməsin.</verse>
+        <verse osisID='Eccl.7.21'>Adamların dediyi hər sözə məhəl qoyma,Onda nökərinin səni söydüyünü eşitməzsən.</verse>
+        <verse osisID='Eccl.7.22'>Çünki sənin ürəyin də yaxşı bilir ki,Sən də başqa adamları çox söymüsən.</verse>
+        <verse osisID='Eccl.7.23'>Bu deyilənlərin hamısını hikmətlə sınadım.“Hikmətli olacağam” söylədim.Amma buna qadir olmadım.</verse>
+        <verse osisID='Eccl.7.24'>Hikmət deyilən şeyÇox uzaqda, çox dərindədir.Onu kim tapa bilər?</verse>
+        <verse osisID='Eccl.7.25'>Mən ürəyimdə niyyət etdim ki,Hikməti və hər şeyin əsasını bilim,Axtarıb araşdırım,Bilim ki, pislik ağılsızlıqdır,Ağılsızlıq isə dəlilikdir.</verse>
+        <verse osisID='Eccl.7.26'>Tələ quran qadınıÖlümdən acı gördüm.Onun ürəyi tora,Əlləri zəncirə bənzər.Allahın razı qaldığı adam ondan qaçar,Ancaq günahkar adam ona əsir olar».</verse>
+        <verse osisID='Eccl.7.27'>Vaiz deyir:«Bax bunu öyrəndim:Hər şeyin əsasını tapmaq üçünBir-bir araşdıran zaman</verse>
+        <verse osisID='Eccl.7.28'>Ürəyim hey axtarır, ancaq tapa bilmir.Min kişinin içində bir yaxşısını tapdım,Amma bu qədər qadının içində bir yaxşısını tapmadım.</verse>
+        <verse osisID='Eccl.7.29'>Ancaq bunu öyrəndim ki,Allah insanları kamil yaratdı,Onlar isə qarışıq fikirlərə düşdü.</verse>
+      </chapter>
+      <chapter osisID='Eccl.8'>
+        <verse osisID='Eccl.8.1'>Kim hikmətli adama tay ola bilər?Şeylərin mənasını kim bilər?Hikmət insanın üzünü nurlandırar,Tutqun simasını dəyişdirər.   </verse>
+        <verse osisID='Eccl.8.2'>Mən deyirəm: padşahın hökmünə qulaq as, çünki Allaha and içmisən.</verse>
+        <verse osisID='Eccl.8.3'>Padşahın hüzurundan çıxmağa tələsmə, onun xoşuna gəlməyən işində inad etmə, çünki o istədiyi hər şeyi edə bilər.</verse>
+        <verse osisID='Eccl.8.4'>Padşahın sözündə səlahiyyət var.Kim ona “Nə edirsən?” deyə bilər?</verse>
+        <verse osisID='Eccl.8.5'>Onun hökmünü yerinə yetirənHeç bir bəlaya düşməz.Hikmətli adamın ürəyiBunun vaxtını da, qaydasını da bilir.</verse>
+        <verse osisID='Eccl.8.6'>Axı hər şeyin həm öz vaxtı,Həm də öz qaydası var.Hərçənd ki insanın daşıdığı dərd çox ağırdır.</verse>
+        <verse osisID='Eccl.8.7'>Çünki kim bilir ki, nə olacaq?Bəs kim ona deyə bilər ki, necə olacaq?</verse>
+        <verse osisID='Eccl.8.8'>Küləyi tutub saxlamağa heç kəsin gücü çatmadığı kimiÖlüm gününü saxlamağa da heç kəsin gücü çatmaz.Döyüşçü meydanı tərk etmədiyi kimiPislik də pis adamı tərk etməz. </verse>
+        <verse osisID='Eccl.8.9'>Bunların hamısını gördüm və səma altında görülən hər işə diqqət etdim: bir adamın başqa adama ağalıq etməsi başına bəla olur.</verse>
+        <verse osisID='Eccl.8.10'>Sonra mən pis adamların axırını da gördüm. Bu adamlar müqəddəs yerə gəlib-gedər, buna görə də pislik etdikləri şəhərdə təriflənərdi. Bu da puçdur.</verse>
+        <verse osisID='Eccl.8.11'>Pis işin cəzası tez verilmədiyinə görə insanların ürəyi də pislik etməyə cəsarət tapır.</verse>
+        <verse osisID='Eccl.8.12'>Günahkar adam yüz dəfə pislik edib uzun müddət yaşasa da, Allahdan qorxanların, Onun hüzurunda ehtiramla duranların yaxşılıq görəcəyini bilirəm.</verse>
+        <verse osisID='Eccl.8.13'>Ancaq pis adam yaxşılıq görməyəcək və onun kölgəyə bənzər günləri uzadılmayacaq, çünki Allahın hüzurunda ehtiramla durmur. </verse>
+        <verse osisID='Eccl.8.14'>Yer üzündə baş verən başqa puç şey də var: saleh adamlara layiq olan şeylər pis adamlara qismət olur, pis adamlara layiq olan şeylər saleh adamlara qismət olur. Dedim ki, bu da puçdur. </verse>
+        <verse osisID='Eccl.8.15'>Beləcə mən kef çəkməyi üstün saydım, çünki səma altında insan üçün yeyib-içməkdən və kef çəkməkdən yaxşı şey yoxdur. Çünki səma altında Allahın insana ömrü boyu çəkdirdiyi zəhmətdən ona ancaq bu qalır. </verse>
+        <verse osisID='Eccl.8.16'>O zaman ürəyimdə niyyət etdim ki, hikmət öyrənim və yer üzündə insanların gecə-gündüz gözlərinə yuxu getməyərək gördükləri işlərə nəzər salım.</verse>
+        <verse osisID='Eccl.8.17'>Onda Allahın bütün işlərini gördüm. Bildim ki, kimsə səma altında edilən işləri anlaya bilməz, nə qədər səy göstərsə də, yenə də bunu anlaya bilməz. Bir hikmətli adam bunu bildiyini iddia etsə də, yenə dərk edə bilməz.  </verse>
+      </chapter>
+      <chapter osisID='Eccl.9'>
+        <verse osisID='Eccl.9.1'>
+          Beləcə bunların hamısını ürəyimdə araşdırıb bu nəticəyə gəldim: salehlər, hikmətlilər və onların etdikləri işlər Allahın əlindədir. İstər sevgi olsun, istər nifrət, insan qabağına nə çıxacağını bilmir.</verse>
+        <verse osisID='Eccl.9.2'>Hər kəsin aqibəti eyni cür olur: salehlərin və pislərin, yaxşıların və yamanların, təmizlərin və murdarların, qurban təqdim edənlərin və qurban təqdim etməyənlərin. Yaxşı adama nə olursa, günahkarlara da elə olur. And içənə nə olursa, and içməkdən qorxana da elə olur.</verse>
+        <verse osisID='Eccl.9.3'>Səma altında edilən işlərin hamısının pis cəhəti bundadır ki, hər kəsin aqibəti eyni cür olur. Doğrudan da, insanların ürəyi pisliklə doludur. Nə qədər ki yaşayırlar, ürəklərində dəlilik var. Sonra isə ölüb gedirlər.</verse>
+        <verse osisID='Eccl.9.4'>İnsan nə qədər ki yaşayır, onun üçün ümid var, ona görə ki diri it ölü şirdən yaxşıdır.</verse>
+        <verse osisID='Eccl.9.5'>Çünki dirilər öləcəklərini bilir,Ancaq ölülər heç nə bilmir.Onlara daha heç vaxt əvəz verilməyəcək,Çünki onların xatirəsi də unudulub.</verse>
+        <verse osisID='Eccl.9.6'>Ölülərin sevgisi, nifrəti,Paxıllığı artıq məhv olub.Səma altında görülən işlərdəDaha payları olmayacaq.</verse>
+        <verse osisID='Eccl.9.7'>Get çörəyini şadlıqla ye,Şərabını şən ürəklə iç.Çünki artıq AllahEtdiyin işlərdən razıdır.</verse>
+        <verse osisID='Eccl.9.8'>Qoy paltarın həmişə ağ olsun,Başından ətirli yağ əskik olmasın. </verse>
+        <verse osisID='Eccl.9.9'>Səma altında Allahın sənə verdiyi puç ömrünün bütün günlərini – həyatının hamısını sevdiyin qadınla xoş həyat keçir. Çünki həyatından və səma altında çəkdiyin zəhmətdən sənə qalan pay budur.</verse>
+        <verse osisID='Eccl.9.10'>Çalışmaq üçün nə bacarırsan, var gücünlə et. Çünki gedəcəyin ölülər diyarında nə iş, nə fikir, nə bilik, nə də hikmət var.</verse>
+        <verse osisID='Eccl.9.11'>Səma altında daha bir şey də gördüm:Yarışı həmişə bərk qaçanlar udmur,Müharibədə həmişə igidlər qalib gəlmir.Çörək həmişə müdriklərə,Var-dövlət həmişə ağıllılara nəsib olmur,Hörmət alimlərə göstərilmir.Ancaq zaman və fürsətdir ki, hər kəsin qabağına çıxır.</verse>
+        <verse osisID='Eccl.9.12'>Həmçinin insan öz vaxtını bilmir.Balıqlar amansız bir tora,Quşlar tələyə düşdüyü kimiİnsanlar da pis bir zəmanəyə düçar olur,Onda pis zəmanə qəfildən başlarının üstünü alır. </verse>
+        <verse osisID='Eccl.9.13'>Səma altında mənə çox təsir edən bu hikməti də gördüm:</verse>
+        <verse osisID='Eccl.9.14'>içində az adam yaşayan kiçik bir şəhər var idi. Güclü bir padşah oraya hücum edib onu dövrəyə aldı, ətrafında böyük mühasirə işləri gördü.</verse>
+        <verse osisID='Eccl.9.15'>Orada yoxsul, ancaq hikmətli bir adam yaşayırdı. O öz hikməti ilə şəhəri xilas etdi. Lakin heç kəs bu yoxsul adamı xatırlamadı.</verse>
+        <verse osisID='Eccl.9.16'>O zaman mən dedim:“Hikmət qüdrətdən yaxşıdır,Lakin yoxsul adamın hikmətinə xor baxırlar,Onun sözləri eşidilmir”.</verse>
+        <verse osisID='Eccl.9.17'>Hikmətli adamın pıçıltı ilə dediyi sözlərAğılsızların içindəki başçının qışqırtısından yüksəkdir.</verse>
+        <verse osisID='Eccl.9.18'>Hikmət döyüş silahından üstündür,Amma bir günahkar hər cür yaxşılığı bərbad edər. </verse>
+      </chapter>
+      <chapter osisID='Eccl.10'>
+        <verse osisID='Eccl.10.1'>Ölü milçəklər ətirdüzəldənin yağınıİylədib xarab edər.Kiçik ağılsızlıq daHikmət və hörmət sahibini rüsvay edər.</verse>
+        <verse osisID='Eccl.10.2'>Hikmətli adamın ürəyi düzlüyə tərəf yönələr,Ağılsız adamın ürəyi əyriliyə.</verse>
+        <verse osisID='Eccl.10.3'>O yol gedəndə də ağlının azlığı bilinər,Ağılsız olduğunu hamıya göstərər.</verse>
+        <verse osisID='Eccl.10.4'>Əgər hakimin qəzəbi sənə qarşı alovlansa,Yerindən tərpənmə.Çünki sakitlikBöyük xətaların üstünü örtər.</verse>
+        <verse osisID='Eccl.10.5'>Səma altında bir dərd də gördüm:O da hökmdarın əlindən çıxan səhvdir.</verse>
+        <verse osisID='Eccl.10.6'>Ağılsızlar yüksək vəzifələrə qoyulur,Halbuki varlılar aşağıda oturur.</verse>
+        <verse osisID='Eccl.10.7'>Gördüm ki, qullar necə at üstündə,Ağalar isə qul kimi piyada gedir.</verse>
+        <verse osisID='Eccl.10.8'>Quyu qazan içinə özü düşə bilər,  Divar sökəni ilan sanca bilər.</verse>
+        <verse osisID='Eccl.10.9'>Daş kəsəni daşlar yaralar,Odun yarana odun xətər yetirər.</verse>
+        <verse osisID='Eccl.10.10'>Əgər balta kütdürsə,Onun ağzı itilənməyə verilməyibsə,Daha çox güc sərf olunmalıdır.Amma hikmət insanın köməyinə çatar.</verse>
+        <verse osisID='Eccl.10.11'>Əgər ilan ovsun oxunmazdan qabaq sancsa,Ovsunçu çağırmağın faydası yoxdur.</verse>
+        <verse osisID='Eccl.10.12'>Hikmətli adamın ağzından lütfkar sözlər çıxar,Lakin ağılsız öz dili ilə həlakına yol açar.</verse>
+        <verse osisID='Eccl.10.13'>Onun dilindəki sözlər ağılsızlıqla başlanar,Danışığının axırı da sarsaqlıqdır.</verse>
+        <verse osisID='Eccl.10.14'>Ağılsız adam çox söz danışar.Heç kəs nə olacağını bilməz.Bəs kim ona özündən sonraNə olacağını deyə bilər?</verse>
+        <verse osisID='Eccl.10.15'>Ağılsızların çəkdikləri zəhmətÖzlərini yorar,Onlar şəhərə gedən yolu da bilmir.</verse>
+        <verse osisID='Eccl.10.16'>Əgər padşahın bir uşaqdırsa,Başçıların səhər tezdənZiyafətə başlayırsa,Onda vay halına, ey ölkə!</verse>
+        <verse osisID='Eccl.10.17'>Əgər padşahın bir əsilzadədirsə,Başçıların da vaxtındaKeflənmək üçün yox, qüvvətlənmək üçün yeyirsə,Onda xoş halına, ey ölkə!</verse>
+        <verse osisID='Eccl.10.18'>Tənbəllik üzündən evin damı uçar,Heç bir iş görməsən, evin tavanı damar.</verse>
+        <verse osisID='Eccl.10.19'>Yemək şadlıq gətirər,Şərab həyatı keflə doldurar,Pul isə hər istəyini ödəyər.</verse>
+        <verse osisID='Eccl.10.20'>Padşahı hətta ürəyində də söymə,Varlı adamı yataq otağında da lənətləmə.Çünki göydə uçan quşlar xəbər aparar,Qanadlı məxluqlar sənin sözünü çatdırar.</verse>
+      </chapter>
+      <chapter osisID='Eccl.11'>
+        <verse osisID='Eccl.11.1'>Çörəyini suların üzünə burax,Çünki uzun müddət sonra yenə onu taparsan.</verse>
+        <verse osisID='Eccl.11.2'>Yeddi ya səkkiz adama pay ver,Çünki bilmirsən ki,Ölkədə necə bir pis gün olacaq.</verse>
+        <verse osisID='Eccl.11.3'>Əgər buludlar su ilə dolu olsa,Yağışlarını yer üzünə səpər.Əgər bir ağac cənub ya şimalSəmtinə yıxılsa,Elə yıxıldığı yerdə də qalar.</verse>
+        <verse osisID='Eccl.11.4'>Küləyə baxan toxum səpməz,Buludlara baxan əkdiyini biçməz.</verse>
+        <verse osisID='Eccl.11.5'>Küləyin səmtini,Hamilə qadının qarnındaSümüklərin necə böyüdüyünü bilmədiyin kimiHər şeyi yaradanAllahın işlərindən də xəbərsizsən.</verse>
+        <verse osisID='Eccl.11.6'>Toxumunu səhər vaxtı səp,Axşama qədər də əlin boş durmasın.Çünki bilmirsən ki, əvvəlki məhsuldar olacaqYoxsa sonrakıYaxud hər ikisi birlikdə.</verse>
+        <verse osisID='Eccl.11.7'>Həqiqətən, işıq gözəldir,Günəşi görmək gözlərə xoşdur.</verse>
+        <verse osisID='Eccl.11.8'>Əgər insan uzun ömür sürürsə,Qoy sevinclə yaşasın.Ancaq qaranlıq günlərinin də olduğunu unutmasın,Çünki onlar daha çox olacaq.Baş verəcək hər şey puçdur.</verse>
+        <verse osisID='Eccl.11.9'>Ey gənc, cavanlığında sevin,Qoy ürəyin səni cavanlıq günlərində sevindirsin.Ürəyinin istədiyi ilə,Gözlərinin gördüyü ilə get.Ancaq bil ki, AllahBunların hamısına görəSəni mühakimə edəcək.</verse>
+        <verse osisID='Eccl.11.10'>Buna görə də təşvişi ürəyindən qov,Əzabı bədənindən uzaqlaşdır.Çünki cavanlıq da,Cavanlıqdakı güc də puçdur.</verse>
+      </chapter>
+      <chapter osisID='Eccl.12'>
+        <verse osisID='Eccl.12.1'>Pis günlər gəlməzdən qabaq,“Onlardan zövq almıram” deyəcəyin illərYaxınlaşmazdan əvvəl,Cavanlıq günlərindəSəni Yaradanı xatırla.</verse>
+        <verse osisID='Eccl.12.2'>Günəş, işıq, ay və ulduzlar sönməzdən əvvəl,Yağışdan sonra buludlar yenə qayıtmazdan əvvəlOnu xatırla.</verse>
+        <verse osisID='Eccl.12.3'>O gün gələndəEvi qoruyanlar tir-tir əsəcək,Güclülər əyiləcək,Əl dəyirmanı ilə işləyənlərAz olduqları üçünDən üyüdə bilməyəcək,Pəncərədən baxanlar qaralacaq.</verse>
+        <verse osisID='Eccl.12.4'>Küçəyə açılan qapılar bağlanacaq,Dəyirmanların səsi kəsiləcək.Adamlar quş səsi ilə oyanacaq,Nəğmə oxuyan bütün qızların səsiniZəif eşidəcəklər.</verse>
+        <verse osisID='Eccl.12.5'>O zaman onlar uca yerdən qorxacaq,Yolda yerimək də təhlükəli olur.Bax badam ağacı çiçək verir,Çəyirtkə özünü güclə çəkir,Həvəsi zəifləyir.Beləcə insan son mənzilə gedir,Yas tutanlar küçələrə düşür.</verse>
+        <verse osisID='Eccl.12.6'>Gümüş iplər qopmamış,Qızıl kasa qırılmamış,Bulaq başında kuzə tikə-tikə olmamış,Quyu yanında çarx sınmamış,</verse>
+        <verse osisID='Eccl.12.7'>Torpaq gəldiyi yerə qayıtmamış,Həyat nəfəsi isə onu verən Allaha dönməmişSəni Yaradanı xatırla».</verse>
+        <verse osisID='Eccl.12.8'>Vaiz deyir:«Hər şey puçdur, tamam puçdur».   </verse>
+        <verse osisID='Eccl.12.9'>Vaiz hikmətli adam olmaqdan başqa, xalqa bilik də öyrədirdi. O bir çox məsəlləri araşdırıb axtardı və tərtib etdi.</verse>
+        <verse osisID='Eccl.12.10'>Vaiz faydalı sözlər tapmağa çalışdı. Onun yazdıqları düzgün və doğrudur.</verse>
+        <verse osisID='Eccl.12.11'>Hikmətlilərin sözləri çoban çubuğu kimi, topladıqları sözləri bərk vurulmuş mıxlar kimidir; o sözlər bir Çoban tərəfindən verilir.</verse>
+        <verse osisID='Eccl.12.12'>Bunlardan başqa, oğlum, sən buna diqqət et ki,Çox kitab yazmağın axırı yoxdur,Çox oxumaq adamı yorur.</verse>
+        <verse osisID='Eccl.12.13'>Hər şey aşkar oldu,Nəticə bundan ibarətdir:Allahdan qorx,Onun əmrlərini yerinə yetir.Bəli, insanın əsas vəzifəsi budur.</verse>
+        <verse osisID='Eccl.12.14'>Çünki Allah hər işi, gizli olan hər şeyi –İstər yaxşı olsun, istər pis –Mühakimə edəcək. </verse>
+      </chapter>
+    </div></osisText>
+</osis>

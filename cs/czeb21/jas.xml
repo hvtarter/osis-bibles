@@ -1,0 +1,215 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace'>
+  <osisText osisRefWork='Bible' osisIDWork='CzeB21' xml:lang='cs'>
+    <header>
+      <revisionDesc>
+        <date>2010-02-26</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='CzeB21'>
+        <title>Czech Bible, Překlad 21. století</title>
+        <contributor/>
+        <creator>Mod2Zef (4)</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject/>
+        <date>2009-07-31</date>
+        <description>Bible, Překlad 21. století  vedoucí projektu Alexandr Flek  odborná spolupráce Jiří Hedánek, Pavel Hoffman, Zdeněk Sýkora  Přeloženo z hebrejštiny, aramejštiny, řečtiny  Vydání první  (c) 2009 Biblion, o. s.  www.bible21.org  www.bible21.cz   Překlad 21. století přináší nadčasové poselství Bible v současné, čtivé češtině. Usiluje o maximální věrnost původním hebrejským, aramejským a řeckým textům, zároveň však chce oslovit dnešní čtenáře, ať už jsou zvyklí čerpat z této knihy inspiraci pro každý den, anebo ji otevírají poprvé.</description>
+        <publisher/>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>CzeB21</identifier>
+        <source>no entry TextSource in sword.conf found</source>
+        <language type='IETF'>cs</language>
+        <relation/>
+        <coverage>provide the bible to the nations of the world</coverage>
+        <rights>Copyrighted; Permission to distribute granted to CrossWire</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='Jas'>
+      <chapter osisID='Jas.1'>
+        <verse osisID='Jas.1.1'>Jakub, služebník Boha a Pána Ježíše Krista, zdraví dvanáct pokolení v diaspoře.</verse>
+        <verse osisID='Jas.1.2'>Mějte z toho jen radost, bratři moji, kdykoli upadáte do různých zkoušek.</verse>
+        <verse osisID='Jas.1.3'>Víte přece, že zkoušení vaší víry přináší vytrvalost.</verse>
+        <verse osisID='Jas.1.4'>Nechte však vytrvalost dozrát, abyste byli dokonalí a úplní a nic vám nescházelo.</verse>
+        <verse osisID='Jas.1.5'>Schází-li někomu z vás moudrost, ať žádá Boha, a ten mu ji dá - je přece štědrý ke všem a bez výhrad!</verse>
+        <verse osisID='Jas.1.6'>Ať ale žádá ve víře a bez pochybností. Kdo pochybuje, podobá se totiž mořské vlně, větrem bičované a hnané sem a tam.</verse>
+        <verse osisID='Jas.1.7'>Ať nikdo takový nečeká, že od Pána něco dostane -</verse>
+        <verse osisID='Jas.1.8'>člověk s dvojakou myslí je totiž ve všem nestálý.</verse>
+        <verse osisID='Jas.1.9'>Ať se bratr, který je nízko, raduje ze svého povýšení</verse>
+        <verse osisID='Jas.1.10'>a bohatý ze svého ponížení; pomine totiž jako polní květ.</verse>
+        <verse osisID='Jas.1.11'>Když vyjde slunce a přijde žár, usychá tráva a vadne květ; ze vší té nádhery nic nezbývá. Právě tak uvadne boháč při všech svých počinech.</verse>
+        <verse osisID='Jas.1.12'>Blaze člověku, který prochází zkouškou! Až se osvědčí, získá korunu života, kterou Pán zaslíbil těm, kdo ho milují.</verse>
+        <verse osisID='Jas.1.13'>Když je však někdo pokoušen, ať nikdy neříká, že to pokušení je od Boha. Jako Bůh nemůže být pokoušen zlým, tak také sám nikoho nepokouší.</verse>
+        <verse osisID='Jas.1.14'>Když je někdo pokoušen, vždycky jej vleče a vábí jeho vlastní chtíč.</verse>
+        <verse osisID='Jas.1.15'>Chtíč, jakmile počne, rodí hřích a hřích, když dospěje, plodí smrt.</verse>
+        <verse osisID='Jas.1.16'>Nepleťte se, milovaní bratři!</verse>
+        <verse osisID='Jas.1.17'>Všechno dobré a dokonalé je dar shůry od Otce světel, u něhož není žádná změna, žádný proměnlivý stín.</verse>
+        <verse osisID='Jas.1.18'>Ze své vůle nás zplodil slovem pravdy, abychom byli prvotinou jeho stvoření.</verse>
+        <verse osisID='Jas.1.19'>Víte, milovaní bratři, že každý člověk má být pohotový k slyšení, ale pomalý k mluvení, pomalý k hněvu.</verse>
+        <verse osisID='Jas.1.20'>Lidský hněv přece k spravedlnosti před Bohem nevede.</verse>
+        <verse osisID='Jas.1.21'>Odhoďte proto všechnu špínu a spoustu špatnosti a s krotkostí přijímejte zaseté Slovo, které má moc spasit vaše duše.</verse>
+        <verse osisID='Jas.1.22'>Tím slovem je ale potřeba se řídit - nenamlouvejte si, že mu stačí naslouchat!</verse>
+        <verse osisID='Jas.1.23'>Kdo Slovu naslouchá, ale neřídí se jím, podobá se člověku, který se vidí v zrcadle,</verse>
+        <verse osisID='Jas.1.24'>ale když odejde, hned zapomene, jak vypadal.</verse>
+        <verse osisID='Jas.1.25'>Kdo však zahlédl dokonalý zákon svobody a drží se jej, blaze jemu ve všem, co dělá! Nezapomíná totiž, co slyšel, ale naplňuje to skutkem.</verse>
+        <verse osisID='Jas.1.26'>Pokud si někdo myslí, že je zbožný, a přitom neumí zvládnout vlastní jazyk, ten klame sám sebe a jeho zbožnost je k ničemu.</verse>
+        <verse osisID='Jas.1.27'>Čistá a ryzí zbožnost před Bohem a Otcem je toto: pomáhat sirotkům a vdovám v jejich nouzi a chránit se před špínou světa.</verse>
+      </chapter>
+      <chapter osisID='Jas.2'>
+        <verse osisID='Jas.2.1'>Bratři moji, nespojujte víru našeho slavného Pána Ježíše Krista s předpojatostí.</verse>
+        <verse osisID='Jas.2.2'>Co když do vašeho shromáždění přijde člověk v nádherných šatech a se zlatým prstenem a za ním chudák ve špinavých hadrech?</verse>
+        <verse osisID='Jas.2.3'>Budete-li se věnovat tomu nádherně oblečenému a řeknete mu: "Posaď se prosím sem," ale tomu chudákovi řeknete: "Někde si stoupni nebo si sedni na zem" -</verse>
+        <verse osisID='Jas.2.4'>copak tím mezi sebou neděláte rozdíly? Neposuzujete lidi špatným měřítkem?</verse>
+        <verse osisID='Jas.2.5'>Poslouchejte, milovaní bratři: Copak Bůh nevyvolil chudáky tohoto světa, aby byli bohatí ve víře? Nemají právě oni zdědit království, které Bůh zaslíbil těm, kdo jej milují?</verse>
+        <verse osisID='Jas.2.6'>Vy ale chudého klidně ponížíte! Nejsou to přitom právě bohatí, kdo vás utiskuje a vláčí po soudech?</verse>
+        <verse osisID='Jas.2.7'>Nerouhají se právě oni tomu vzácnému jménu, kterým jste označeni?</verse>
+        <verse osisID='Jas.2.8'>Pokud opravdu plníte královský zákon, jak praví Písmo: "Miluj svého bližního jako sám sebe," dobře děláte.</verse>
+        <verse osisID='Jas.2.9'>Jste-li však předpojatí, hřešíte a Zákon vás usvědčuje jako viníky.</verse>
+        <verse osisID='Jas.2.10'>Kdo by totiž dodržoval celý Zákon, ale v jednom bodě selhal, provinil se ve všech.</verse>
+        <verse osisID='Jas.2.11'>Tentýž, kdo řekl: "Necizolož," řekl také: "Nezabíjej." Pokud tedy necizoložíš, ale zabíjíš, přestupuješ Zákon.</verse>
+        <verse osisID='Jas.2.12'>Proto mluvte a jednejte jako lidé, kteří mají být souzeni podle zákona svobody.</verse>
+        <verse osisID='Jas.2.13'>Toho, kdo nebyl milosrdný, čeká nemilosrdný soud. Milosrdenství však nad soudem vítězí.</verse>
+        <verse osisID='Jas.2.14'>K čemu to je, bratři moji, když někdo tvrdí, že má víru, ale neprojevuje se to skutky? Copak ho taková víra zachrání?</verse>
+        <verse osisID='Jas.2.15'>Co když bratr nebo sestra nebudou mít co jíst anebo co na sebe?</verse>
+        <verse osisID='Jas.2.16'>Když jim řeknete: "Jděte v pokoji, ať je vám teplo a dobře se najezte," ale nedáte jim, co potřebují k životu, k čemu to bude?</verse>
+        <verse osisID='Jas.2.17'>Právě tak víra bez skutků, víra sama o sobě, je mrtvá.</verse>
+        <verse osisID='Jas.2.18'>Někdo na to řekne: "Jeden má víru, druhý zase skutky." Nuže, ukaž mi tu svou víru bez skutků a já ti ukážu svou víru na svých skutcích.</verse>
+        <verse osisID='Jas.2.19'>Ty věříš, že je jediný Bůh? Dobře děláš. Tomu ale věří i démoni - a třesou se!</verse>
+        <verse osisID='Jas.2.20'>Kdy už pochopíš, ty blázne, že víra bez skutků je jalová?</verse>
+        <verse osisID='Jas.2.21'>Nebyl snad náš otec Abraham ospravedlněn na základě skutků, když přinesl svého syna Izáka na oltář?</verse>
+        <verse osisID='Jas.2.22'>Vidíš? Víra podporovala jeho skutky a díky těm skutkům jeho víra došla naplnění!</verse>
+        <verse osisID='Jas.2.23'>Tak se stalo, co říká Písmo: "Abraham uvěřil Bohu a to mu bylo počítáno za spravedlnost" a byl označen za Božího přítele.</verse>
+        <verse osisID='Jas.2.24'>Vidíte? Člověk je ospravedlňován díky skutkům, a ne jen díky víře.</verse>
+        <verse osisID='Jas.2.25'>Nebyla podobně na základě skutků ospravedlněna také nevěstka Rachab, když přijala ony špehy a potom je poslala pryč jinudy?</verse>
+        <verse osisID='Jas.2.26'>Takže: jako je tělo bez ducha mrtvé, stejně tak je mrtvá i víra bez skutků.</verse>
+      </chapter>
+      <chapter osisID='Jas.3'>
+        <verse osisID='Jas.3.1'>Nesnažte se mnozí stát učiteli, bratři moji - vězte, že budeme souzeni přísněji.</verse>
+        <verse osisID='Jas.3.2'>Všichni přece v mnohém chybujeme. Kdo nechybuje ve slově, dosáhl dokonalosti a je schopen se ovládat v každém ohledu.</verse>
+        <verse osisID='Jas.3.3'>Když dáme koním do huby udidlo, abychom je zkrotili, můžeme pak ovládat celé jejich tělo.</verse>
+        <verse osisID='Jas.3.4'>I mohutné lodě hnané prudkým větrem řídí malé kormidlo, kamkoli kormidelník chce.</verse>
+        <verse osisID='Jas.3.5'>Stejně tak i jazyk je malý sval, ale co všechno dokáže! Považte, jak dokáže maličký oheň zapálit veliký les.</verse>
+        <verse osisID='Jas.3.6'>I jazyk je oheň! Mezi všemi orgány našeho těla představuje jazyk svět zla. Poskvrňuje celé tělo a spaluje celý běh života, neboť je rozpalován peklem.</verse>
+        <verse osisID='Jas.3.7'>Lidstvo se pokouší zkrotit každý druh zvířat, ptáků, plazů i mořských tvorů a daří se mu to,</verse>
+        <verse osisID='Jas.3.8'>ale jazyk žádný člověk zkrotit neumí. Je to nezvládnutelné zlo, plné smrtelného jedu.</verse>
+        <verse osisID='Jas.3.9'>Jím dobrořečíme Pánu a Otci, jím také zlořečíme lidem stvořeným k Boží podobě.</verse>
+        <verse osisID='Jas.3.10'>Ze stejných úst vychází žehnání i proklínání. Bratři moji, tak to nemá být!</verse>
+        <verse osisID='Jas.3.11'>Chrlí snad pramen ze stejného ústí sladkou i hořkou vodu?</verse>
+        <verse osisID='Jas.3.12'>Může snad, bratři moji, fíkovník plodit olivy anebo vinná réva fíky? Stejně tak solný pramen nevydává sladkou vodu.</verse>
+        <verse osisID='Jas.3.13'>Kdo je mezi vámi moudrý a rozumný? Ať to prokáže svými skutky - ušlechtilým životem ve vlídné moudrosti.</verse>
+        <verse osisID='Jas.3.14'>Máte-li však v srdci hořkou závist a svárlivost, nechlubte se a nelžete proti pravdě.</verse>
+        <verse osisID='Jas.3.15'>To není moudrost přicházející shůry, ale ta pozemská, pudová a ďábelská.</verse>
+        <verse osisID='Jas.3.16'>Kde je totiž závist a svárlivost, tam vzniká nepokoj a kdejaká špatnost.</verse>
+        <verse osisID='Jas.3.17'>Moudrost, která je shůry, je ale především čistá, dále pokojná, vlídná, povolná, plná milosrdenství a dobrého ovoce, nestranná a nepokrytecká.</verse>
+        <verse osisID='Jas.3.18'>Ti, kdo rozsévají pokoj, sklidí ovoce spravedlnosti.</verse>
+      </chapter>
+      <chapter osisID='Jas.4'>
+        <verse osisID='Jas.4.1'>Odkud pocházejí boje a sváry mezi vámi? Nepůsobí je snad vaše choutky, které se ve vás perou?</verse>
+        <verse osisID='Jas.4.2'>Dychtíte, ale nemáte, vraždíte a závidíte, ale nemůžete dosáhnout, bojujete a válčíte, ale nemáte, protože neprosíte.</verse>
+        <verse osisID='Jas.4.3'>Prosíte, ale nedostáváte, protože prosíte zle, abyste uspokojili své vlastní choutky.</verse>
+        <verse osisID='Jas.4.4'>Vy nevěrníci! Nevíte, že přátelství se světem znamená nepřátelství s Bohem? Kdokoli se rozhodne být přítelem světa, stává se Božím nepřítelem.</verse>
+        <verse osisID='Jas.4.5'>Anebo si myslíte, že Písmo mluví naprázdno? Copak Duch, který v nás přebývá, vede k nevraživosti?</verse>
+        <verse osisID='Jas.4.6'>Naopak, nabízí úžasnou milost! Říká přece: "Bůh se staví proti pyšným, pokorné ale zahrne milostí."</verse>
+        <verse osisID='Jas.4.7'>Poddejte se tedy Bohu. Vzepřete se ďáblu a uteče od vás,</verse>
+        <verse osisID='Jas.4.8'>přibližte se Bohu a přiblíží se vám. Umyjte své ruce, hříšníci, a očistěte svá srdce, vy, kdo máte dvojakou mysl.</verse>
+        <verse osisID='Jas.4.9'>Dejte se do bědování, truchlete a plačte! Váš smích ať se obrátí v nářek a vaše radost v sklíčenost.</verse>
+        <verse osisID='Jas.4.10'>Pokořte se před Pánovou tváří a on vás povýší.</verse>
+        <verse osisID='Jas.4.11'>Bratři, nepomlouvejte jedni druhé. Kdo pomlouvá nebo soudí svého bratra, pomlouvá a soudí Zákon. Pokud soudíš Zákon, přestal jsi být plnitelem Zákona a stal ses jeho soudcem.</verse>
+        <verse osisID='Jas.4.12'>Zákonodárce a soudce je ale jen jeden! On může zachránit i zničit. Kdo vůbec jsi, že soudíš svého bližního?</verse>
+        <verse osisID='Jas.4.13'>A teď vy, kdo říkáte: "Dnes nebo zítra se vypravíme do tamtoho města. Strávíme tam rok a vyděláme si obchodem" -</verse>
+        <verse osisID='Jas.4.14'>vy přece ani nevíte, co bude zítra! Co je váš život? Nic než pára. Na chvilku se ukáže a pak mizí.</verse>
+        <verse osisID='Jas.4.15'>Raději máte říci: "Dá-li Pán a budeme živí, uděláme to či ono."</verse>
+        <verse osisID='Jas.4.16'>Vy se ale chlubíte ve své namyšlenosti. Všechno takové chlubení je zlé.</verse>
+        <verse osisID='Jas.4.17'>Umět jednat správně, ale nejednat je hřích.</verse>
+      </chapter>
+      <chapter osisID='Jas.5'>
+        <verse osisID='Jas.5.1'>A teď vy, boháči - plačte a naříkejte nad bídami, jež vás čekají.</verse>
+        <verse osisID='Jas.5.2'>Vaše bohatství je shnilé, šaty vám sežrali moli,</verse>
+        <verse osisID='Jas.5.3'>vaše zlato a stříbro zrezivělo. Ta rez bude svědčit proti vám a stráví vaše těla jako oheň. Nahromadili jste si poklad pro poslední dny!</verse>
+        <verse osisID='Jas.5.4'>Slyšíte? To křičí mzda, kterou jste odepřeli dělníkům, kteří dřeli na vašich polích! Volání ženců došlo sluchu Hospodina zástupů!</verse>
+        <verse osisID='Jas.5.5'>Žili jste na zemi v rozkoši a v požitcích; vykrmili jste se ke dni porážky!</verse>
+        <verse osisID='Jas.5.6'>Odsoudili jste a zavraždili spravedlivého; on se nebránil.</verse>
+        <verse osisID='Jas.5.7'>Bratři, buďte trpěliví až do Pánova příchodu. Víte, jak rolník očekává drahocennou úrodu země - trpělivě na ni čeká, dokud nepřijde raný i pozdní déšť.</verse>
+        <verse osisID='Jas.5.8'>I vy tedy buďte trpěliví a pevní. Pánův příchod je blízko.</verse>
+        <verse osisID='Jas.5.9'>Nestěžujte si, bratři, jeden na druhého, abyste nebyli odsouzeni. Hle, Soudce už stojí ve dveřích!</verse>
+        <verse osisID='Jas.5.10'>Za příklad odolnosti a trpělivosti si, bratři, vezměte proroky, kteří mluvili v Hospodinově jménu.</verse>
+        <verse osisID='Jas.5.11'>Víte, že říkáme: "Blaze těm, kteří vytrvali." Slyšeli jste o Jobově vytrvalosti a viděli jste, co pro něj nakonec Pán připravil, vždyť "Hospodin je nesmírně milosrdný a soucitný."</verse>
+        <verse osisID='Jas.5.12'>Především však, bratři moji, nepřísahejte - ani při nebi, ani při zemi, ani žádnou jinou přísahou - ale ať vaše "Ano" znamená ano a "Ne" ne, abyste nebyli odsouzeni.</verse>
+        <verse osisID='Jas.5.13'>Má někdo z vás trápení? Ať se modlí. Je někdo šťastný? Ať zpívá chvály.</verse>
+        <verse osisID='Jas.5.14'>Je někdo z vás nemocný? Ať zavolá starší sboru a ti ať se za něj modlí a mažou ho olejem v Pánově jménu.</verse>
+        <verse osisID='Jas.5.15'>Modlitba víry uzdraví nemocného, Pán ho pozdvihne, a pokud spáchal nějaké hříchy, bude mu odpuštěno.</verse>
+        <verse osisID='Jas.5.16'>Vyznávejte si navzájem své hříchy a modlete se jedni za druhé, abyste byli uzdraveni. Vroucí modlitba spravedlivého dokáže mnoho.</verse>
+        <verse osisID='Jas.5.17'>Eliáš byl člověk jako my, a když se horlivě modlil, aby nepršelo, na zemi nezapršelo tři a půl roku.</verse>
+        <verse osisID='Jas.5.18'>Když se pak modlil znovu, nebe vydalo déšť a země úrodu.</verse>
+        <verse osisID='Jas.5.19'>Bratři moji, může se stát, že někdo z vás zbloudí od pravdy a někdo ho obrátí zpět.</verse>
+        <verse osisID='Jas.5.20'>Vězte, že ten, kdo odvrátí hříšníka od jeho bludné cesty, zachrání jeho duši před smrtí a přikryje množství hříchů.</verse>
+      </chapter>
+    </div></osisText>
+</osis>

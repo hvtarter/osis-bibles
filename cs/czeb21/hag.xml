@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace'>
+  <osisText osisRefWork='Bible' osisIDWork='CzeB21' xml:lang='cs'>
+    <header>
+      <revisionDesc>
+        <date>2010-02-26</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='CzeB21'>
+        <title>Czech Bible, Překlad 21. století</title>
+        <contributor/>
+        <creator>Mod2Zef (4)</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject/>
+        <date>2009-07-31</date>
+        <description>Bible, Překlad 21. století  vedoucí projektu Alexandr Flek  odborná spolupráce Jiří Hedánek, Pavel Hoffman, Zdeněk Sýkora  Přeloženo z hebrejštiny, aramejštiny, řečtiny  Vydání první  (c) 2009 Biblion, o. s.  www.bible21.org  www.bible21.cz   Překlad 21. století přináší nadčasové poselství Bible v současné, čtivé češtině. Usiluje o maximální věrnost původním hebrejským, aramejským a řeckým textům, zároveň však chce oslovit dnešní čtenáře, ať už jsou zvyklí čerpat z této knihy inspiraci pro každý den, anebo ji otevírají poprvé.</description>
+        <publisher/>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>CzeB21</identifier>
+        <source>no entry TextSource in sword.conf found</source>
+        <language type='IETF'>cs</language>
+        <relation/>
+        <coverage>provide the bible to the nations of the world</coverage>
+        <rights>Copyrighted; Permission to distribute granted to CrossWire</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='Hag'>
+      <chapter osisID='Hag.1'>
+        <verse osisID='Hag.1.1'>Ve druhém roce vlády krále Dareia, prvního dne šestého měsíce, přišlo skrze proroka Agea slovo Hospodinovo k judskému místodržiteli Zerubábelovi, synu Šealtielovu, a k veleknězi Jošuovi, synu Jocadakovu:</verse>
+        <verse osisID='Hag.1.2'>"Tak praví Hospodin zástupů - Tento lid říká: ‚Ještě nepřišel ten čas; není čas budovat Hospodinův chrám.'"</verse>
+        <verse osisID='Hag.1.3'>Proto skrze proroka Agea přišlo slovo Hospodinovo:</verse>
+        <verse osisID='Hag.1.4'>"Podle vás je tedy čas, abyste si žili ve svých vyzdobených domech, zatímco tento chrám je v troskách?</verse>
+        <verse osisID='Hag.1.5'>Nuže tak praví Hospodin zástupů: Všimněte si, jak se vám vede.</verse>
+        <verse osisID='Hag.1.6'>Sejete mnoho, a sklízíte málo. Jíte, a nenajíte se. Pijete, a máte žízeň. Oblékáte se, a vůbec to nehřeje. Kdo něco vydělá, nosí to v měšci děravém.</verse>
+        <verse osisID='Hag.1.7'>Tak praví Hospodin zástupů: Všimněte si, jak se vám vede!</verse>
+        <verse osisID='Hag.1.8'>Vypravte se do hor, přivezte dřevo a stavte chrám. Já pak v něm najdu zalíbení, a tak se oslavím, praví Hospodin.</verse>
+        <verse osisID='Hag.1.9'>Očekáváte mnoho, a je z toho málo. Co přivezete domů, to rozfoukám. A proč? praví Hospodin zástupů. Protože můj chrám je v troskách a vy se staráte každý jen o svůj dům.</verse>
+        <verse osisID='Hag.1.10'>Proto nad vámi nebe zadrželo rosu a země zadržela svou úrodu.</verse>
+        <verse osisID='Hag.1.11'>Přivolal jsem sucho na tuto zemi i na hory, na obilí, víno, olej i na vše ostatní, co roste ze země, a také na lidi, na dobytek a na všechno, na čem pracujete."</verse>
+        <verse osisID='Hag.1.12'>Zerubábel, syn Šealtielův, velekněz Jošua, syn Jocadakův, i všechen zbývající lid tehdy poslechli hlas Hospodina, svého Boha, totiž slova proroka Agea, neboť ho poslal Hospodin, jejich Bůh. A lid byl naplněn bázní před Hospodinem.</verse>
+        <verse osisID='Hag.1.13'>Ageus, Hospodinův posel, pak lidu vyřídil Hospodinovo poselství: "Já jsem s vámi, praví Hospodin."</verse>
+        <verse osisID='Hag.1.14'>Hospodin tenkrát roznítil ducha judského místodržitele Zerubábela, syna Šealtielova, ducha velekněze Jošuy, syna Jocadakova, i ducha všeho zbývajícího lidu. Přišli a dali se do práce na chrámu Hospodina zástupů, svého Boha.</verse>
+        <verse osisID='Hag.1.15'>Bylo to čtyřiadvacátého dne šestého měsíce. Ve druhém roce vlády krále Dareia,</verse>
+      </chapter>
+      <chapter osisID='Hag.2'>
+        <verse osisID='Hag.2.1'>jednadvacátého dne sedmého měsíce, přišlo skrze proroka Agea slovo Hospodinovo:</verse>
+        <verse osisID='Hag.2.2'>"Promluv k judskému místodržiteli Zerubábelovi, synu Šealtielovu, k veleknězi Jošuovi, synu Jocadakovu, i ke zbývajícímu lidu:</verse>
+        <verse osisID='Hag.2.3'>Zbývá mezi vámi ještě někdo, kdo viděl tento chrám v jeho dřívější slávě? A jak ho vidíte teď? Nepřipadá vám jako nic?</verse>
+        <verse osisID='Hag.2.4'>Nuže vzchop se, Zerubábeli! praví Hospodin. Vzchop se, veleknězi Jošuo, synu Jocadakův! Vzchop se, všechen lide této země, praví Hospodin, a dejte se do práce. Vždyť já jsem s vámi, praví Hospodin zástupů.</verse>
+        <verse osisID='Hag.2.5'>To je slovo, které jsem vám dal, když jste vycházeli z Egypta. Můj Duch zůstává vprostřed vás. Nebojte se!</verse>
+        <verse osisID='Hag.2.6'>Tak praví Hospodin zástupů: Ještě jednou, a to brzy, otřesu nebem i zemí, mořem i souší.</verse>
+        <verse osisID='Hag.2.7'>Otřesu všemi národy, takže přijdou se svými poklady, a já tento chrám naplním slávou, praví Hospodin zástupů.</verse>
+        <verse osisID='Hag.2.8'>Mé je stříbro a mé je zlato, praví Hospodin zástupů.</verse>
+        <verse osisID='Hag.2.9'>Sláva tohoto nového chrámu bude větší než toho prvního, praví Hospodin zástupů. Na tomto místě daruji pokoj, praví Hospodin zástupů."</verse>
+        <verse osisID='Hag.2.10'>Čtyřiadvacátého dne devátého měsíce ve druhém roce Dareiovy vlády dostal prorok Ageus slovo Hospodinovo:</verse>
+        <verse osisID='Hag.2.11'>"Tak praví Hospodin zástupů - Zeptej se kněží na zákon:</verse>
+        <verse osisID='Hag.2.12'>Kdyby někdo nesl v cípu svého pláště posvěcené maso a tím cípem by se dotkl chleba, kaše, vína, oleje nebo jakéhokoli jídla, posvětí se to?" "Ne," odpověděli kněží.</verse>
+        <verse osisID='Hag.2.13'>"A kdyby se čehokoli takového dotkl někdo poskvrněný mrtvolou," pokračoval Ageus, "poskvrní se to?" "Ano, poskvrní," odpověděli kněží.</verse>
+        <verse osisID='Hag.2.14'>Na to Ageus řekl: "Stejné je to v mých očích s tímto lidem a s tímto národem, praví Hospodin. Stejné je to se vším, co dělají a co tu obětují - je to nečisté!</verse>
+        <verse osisID='Hag.2.15'>Všímejte si ale, jak bude ode dneška dál. Jak bylo předtím, než se v Hospodinově chrámu začal pokládat kámen na kámen?</verse>
+        <verse osisID='Hag.2.16'>Kdo tehdy přišel k hromadě zrní pro dvacet měr, našel tam jen deset. Kdo přišel k vinné kádi pro padesát měr, našel tam jen dvacet.</verse>
+        <verse osisID='Hag.2.17'>Všechno, na čem jste pracovali, jsem bil plísní, snětí a kroupami, a přesto jste na mě nedbali, praví Hospodin.</verse>
+        <verse osisID='Hag.2.18'>Všímejte si, jak bude ode dneška dál, jak bude od čtyřiadvacátého dne devátého měsíce - ode dne, kdy byl znovu založen Hospodinův chrám. Všímejte si:</verse>
+        <verse osisID='Hag.2.19'>Je už v obilnici zrní? Réva, fíkovník, granátovník ani oliva ještě nerodí? Ode dneška vám požehnám."</verse>
+        <verse osisID='Hag.2.20'>Čtyřiadvacátého dne téhož měsíce dostal Ageus podruhé slovo Hospodinovo:</verse>
+        <verse osisID='Hag.2.21'>"Řekni judskému místodržiteli Zerubábelovi: Otřesu nebem i zemí.</verse>
+        <verse osisID='Hag.2.22'>Převrhnu královské trůny a sílu pohanských říší zničím. Převrhnu vozy i s vozataji, takže padnou koně a jejich jezdci se navzájem pobijí.</verse>
+        <verse osisID='Hag.2.23'>V ten den, praví Hospodin zástupů, tě vezmu, můj služebníku Zerubábeli, synu Šealtielův, praví Hospodin, a učiním tě svým pečetním prstenem, protože tebe jsem si vyvolil, praví Hospodin zástupů."</verse>
+      </chapter>
+    </div></osisText>
+</osis>

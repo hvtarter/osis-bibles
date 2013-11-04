@@ -1,0 +1,865 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace'>
+  <osisText osisRefWork='Bible' osisIDWork='CzeB21' xml:lang='cs'>
+    <header>
+      <revisionDesc>
+        <date>2010-02-26</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='CzeB21'>
+        <title>Czech Bible, Překlad 21. století</title>
+        <contributor/>
+        <creator>Mod2Zef (4)</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject/>
+        <date>2009-07-31</date>
+        <description>Bible, Překlad 21. století  vedoucí projektu Alexandr Flek  odborná spolupráce Jiří Hedánek, Pavel Hoffman, Zdeněk Sýkora  Přeloženo z hebrejštiny, aramejštiny, řečtiny  Vydání první  (c) 2009 Biblion, o. s.  www.bible21.org  www.bible21.cz   Překlad 21. století přináší nadčasové poselství Bible v současné, čtivé češtině. Usiluje o maximální věrnost původním hebrejským, aramejským a řeckým textům, zároveň však chce oslovit dnešní čtenáře, ať už jsou zvyklí čerpat z této knihy inspiraci pro každý den, anebo ji otevírají poprvé.</description>
+        <publisher/>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>CzeB21</identifier>
+        <source>no entry TextSource in sword.conf found</source>
+        <language type='IETF'>cs</language>
+        <relation/>
+        <coverage>provide the bible to the nations of the world</coverage>
+        <rights>Copyrighted; Permission to distribute granted to CrossWire</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='2Kgs'>
+      <chapter osisID='2Kgs.1'>
+        <verse osisID='2Kgs.1.1'>Po Achabově smrti se Moáb vzbouřil proti Izraeli.</verse>
+        <verse osisID='2Kgs.1.2'>Achaziáš v Samaří propadl mříží své střešní terasy a zranil se. Vyslal posly a řekl jim: "Jděte se vyptat Baal-zebuba, božstva Ekronu, jestli se z toho uzdravím."</verse>
+        <verse osisID='2Kgs.1.3'>Hospodinův anděl ale promluvil k Eliášovi Tišbejskému: "Vstaň, vyjdi poslům samařského krále naproti a řekni jim: ‚Copak už není Bůh v Izraeli, že se jdete vyptávat Baal-zebuba, božstva Ekronu?</verse>
+        <verse osisID='2Kgs.1.4'>Nuže, toto praví Hospodin: Nejenže nevstaneš z lože, na něž jsi ulehl, ale zemřeš!'" Pak Eliáš odešel.</verse>
+        <verse osisID='2Kgs.1.5'>Když se poslové vrátili zpět, král se jich ptal: "Proč jste se vrátili?"</verse>
+        <verse osisID='2Kgs.1.6'>"Vyšel nám naproti jeden muž," odpověděli, "a řekl nám: ‚Vraťte se ke králi, který vás poslal, a vyřiďte mu: Tak praví Hospodin: Copak už není Bůh v Izraeli, že se necháváš ptát Baal-zebuba, božstva Ekronu? Proto nejenže nevstaneš z lože, na něž jsi ulehl, ale zemřeš!'"</verse>
+        <verse osisID='2Kgs.1.7'>"Jak vypadal ten muž, který vám s těmi slovy vyšel naproti?" ptal se král.</verse>
+        <verse osisID='2Kgs.1.8'>"Měl plášť z kožešiny," odpověděli, "a kolem boků kožený pás." "To je Eliáš Tišbejský!" řekl král.</verse>
+        <verse osisID='2Kgs.1.9'>Poslal tedy na něj velitele s padesáti vojáky. Eliáš seděl na vrcholu hory, a tak velitel hned vylezl za ním a přikázal mu: "Boží muži, král praví: Sestup dolů!"</verse>
+        <verse osisID='2Kgs.1.10'>"Jestli jsem Boží muž," odpověděl Eliáš veliteli, "tak ať z nebe sestoupí oheň a pohltí tě i těch tvých padesát." Vtom z nebe sestoupil oheň a pohltil velitele i s jeho padesáti.</verse>
+        <verse osisID='2Kgs.1.11'>Král tedy na něj poslal dalšího velitele s padesáti vojáky. Ten za ním vylezl a přikázal mu: "Boží muži, tak praví král: Ihned sestup!"</verse>
+        <verse osisID='2Kgs.1.12'>"Jestli jsem Boží muž," odpověděl Eliáš, "tak ať z nebe sestoupí oheň a pohltí tě i těch tvých padesát." Vtom z nebe sestoupil Boží oheň a pohltil velitele i s jeho padesáti.</verse>
+        <verse osisID='2Kgs.1.13'>Král tedy poslal ještě třetího velitele s padesáti muži. Když ale ten třetí velitel padesáti mužů vystoupal k Eliášovi, padl před ním na kolena a prosil ho: "Boží muži, prosím ušetři život můj i těchto tvých padesáti služebníků.</verse>
+        <verse osisID='2Kgs.1.14'>Hle, z nebe sestoupil oheň a pohltil oba první velitele i s jejich padesáti muži, můj život ale prosím ušetři!"</verse>
+        <verse osisID='2Kgs.1.15'>Hospodinův anděl tehdy promluvil k Eliášovi: "Sestup s ním, neboj se ho." A tak vstal a šel s ním ke králi.</verse>
+        <verse osisID='2Kgs.1.16'>Řekl mu: "Tak praví Hospodin: Copak už není Bůh v Izraeli, aby ses tázal na jeho slova? Ty jsi ale vyslal posly, aby se vyptávali Baal-zebuba, božstva Ekronu. Proto nejenže nevstaneš z lože, na něž jsi ulehl, ale zemřeš!"</verse>
+        <verse osisID='2Kgs.1.17'>Achaziáš pak zemřel, jak Hospodin řekl skrze Eliáše. Neměl syna, a tak na jeho místě začal druhého roku judského krále Jehorama, syna Jošafatova, kralovat Joram.</verse>
+        <verse osisID='2Kgs.1.18'>O ostatních Achaziášových skutcích, které vykonal, se, jak známo, píše v Kronice izraelských králů.</verse>
+      </chapter>
+      <chapter osisID='2Kgs.2'>
+        <verse osisID='2Kgs.2.1'>Hospodin se pak chystal vzít Eliáše ve vichru do nebe. Ten byl právě s Elíšou na cestě z Gilgalu.</verse>
+        <verse osisID='2Kgs.2.2'>"Zůstaň tu," řekl Eliáš Elíšovi. "Hospodin mě posílá do Bet-elu."Elíša ale odpověděl: "Jakože je živ Hospodin a živ jsi ty, neopustím tě!" A tak šli do Bet-elu.</verse>
+        <verse osisID='2Kgs.2.3'>Z Bet-elu přišli za Elíšou proročtí učedníci. "Víš, že Hospodin ti dnes vezme tvého pána?" řekli mu. "Já vím, mlčte," odpověděl.</verse>
+        <verse osisID='2Kgs.2.4'>Potom mu Eliáš řekl: "Zůstaň tu. Hospodin mě posílá do Jericha." On ale odpověděl: "Jakože je živ Hospodin a živ jsi ty, neopustím tě!" A tak šli do Jericha.</verse>
+        <verse osisID='2Kgs.2.5'>Proročtí učedníci z Jericha přišli za Elíšou a řekli mu: "Víš, že Hospodin ti dnes vezme tvého pána?" "Já vím, mlčte," odpověděl.</verse>
+        <verse osisID='2Kgs.2.6'>Potom mu Eliáš řekl: "Zůstaň tu. Hospodin mě posílá k Jordánu." On ale odpověděl: "Jakože je živ Hospodin a živ jsi ty, neopustím tě!" A tak šli dál spolu.</verse>
+        <verse osisID='2Kgs.2.7'>Padesát prorockých učedníků šlo za nimi. Zastavili se opodál, na dohled od místa, kde se u Jordánu zastavili ti dva.</verse>
+        <verse osisID='2Kgs.2.8'>Eliáš vzal svůj plášť, svinul ho a udeřil jím do vody. Ta se rozestoupila a oba přešli po suchu na druhou stranu.</verse>
+        <verse osisID='2Kgs.2.9'>Když přešli, Eliáš Elíšu vyzval: "Řekni, co pro tebe mám udělat, než budu od tebe vzat." "Prosím, ať mi připadnou dva díly tvého ducha!" odpověděl Elíša.</verse>
+        <verse osisID='2Kgs.2.10'>"Žádáš o nelehkou věc," řekl mu Eliáš. "Pokud ale uvidíš, jak jsem od tebe vzat, tvá žádost se splní. Pokud ne, nesplní se."</verse>
+        <verse osisID='2Kgs.2.11'>Šli tedy spolu dál a rozmlouvali, když vtom je náhle rozdělil ohnivý vůz s ohnivými koni - Eliáš ve vichru vystoupil do nebe!</verse>
+        <verse osisID='2Kgs.2.12'>Když to Elíša uviděl, vykřikl: "Otče můj, otče můj! Jízdo izraelská!" A víckrát už ho neviděl. Elíša vzal své roucho a roztrhl je na dva kusy.</verse>
+        <verse osisID='2Kgs.2.13'>Pak zvedl plášť, který spadl z Eliáše, a šel zpátky. Když stanul na břehu Jordánu,</verse>
+        <verse osisID='2Kgs.2.14'>vzal Eliášův plášť a udeřil jím do vody. "Kde je Hospodin, Bůh Eliášův?" zvolal. "Kde je on sám?!" A jakmile jím udeřil do vody, rozestoupila se a Elíša přešel na druhou stranu.</verse>
+        <verse osisID='2Kgs.2.15'>"Duch Eliášův spočinul na Elíšovi!" řekli proročtí učedníci z Jericha, kteří stáli opodál. Vyrazili mu naproti a klaněli se mu až k zemi</verse>
+        <verse osisID='2Kgs.2.16'>se slovy: "Jsme tví služebníci!" Potom řekli: "Pohleď, máme tu padesát schopných mužů. Když dovolíš, pošleme je hledat tvého pána. Třeba ho Duch Hospodinův vzal a upustil na některou horu nebo do některého údolí." "Nikam je neposílejte!" řekl jim Elíša.</verse>
+        <verse osisID='2Kgs.2.17'>Když ale na něj naléhali, až z toho byl nesvůj, svolil: "Dobrá, pošlete je." Poslali tedy těch padesát mužů a ti ho hledali tři dny, ale nenašli.</verse>
+        <verse osisID='2Kgs.2.18'>Když se pak vrátili do Jericha za Elíšou, řekl jim: "Copak jsem vám neříkal: Nechoďte?"</verse>
+        <verse osisID='2Kgs.2.19'>Tamější muži Elíšovi řekli: "Pohleď, prosím, pane. V tomto městě se dobře bydlí, jak sám vidíš, ale voda je špatná a zem neúrodná."</verse>
+        <verse osisID='2Kgs.2.20'>Odpověděl jim: "Přineste mi novou mísu a dejte do ní sůl." Když mu to přinesli,</verse>
+        <verse osisID='2Kgs.2.21'>šel k vodnímu prameni a vhodil do něj sůl se slovy: "Tak praví Hospodin: Uzdravuji tyto vody. Už odsud nevzejde smrt ani neplodnost!"</verse>
+        <verse osisID='2Kgs.2.22'>A ty vody jsou zdravé až dodnes, přesně jak Elíša řekl.</verse>
+        <verse osisID='2Kgs.2.23'>Potom se odtud vydal vzhůru do Bet-elu. Když stoupal po cestě, vyšli z města nějací výrostci, posmívali se mu a pokřikovali na něj: "Táhni, plešoune! Táhni, plešoune!"</verse>
+        <verse osisID='2Kgs.2.24'>On se otočil, podíval se na ně a zlořečil jim v Hospodinově jménu. Vtom z lesa vyběhly dvě medvědice a dvaačtyřicet z těch výrostků rozsápaly.</verse>
+        <verse osisID='2Kgs.2.25'>Elíša se pak odebral na horu Karmel a odtud se vrátil do Samaří.</verse>
+      </chapter>
+      <chapter osisID='2Kgs.3'>
+        <verse osisID='2Kgs.3.1'>Osmnáctého roku judského krále Jošafata se izraelským králem stal Joram, syn Achabův, a kraloval v Samaří dvanáct let.</verse>
+        <verse osisID='2Kgs.3.2'>Páchal, co je v Hospodinových očích zlé, ačkoli ne tolik jako jeho otec a jeho matka - odstranil alespoň Baalův sloup, který nechal vztyčit jeho otec.</verse>
+        <verse osisID='2Kgs.3.3'>Zůstával ale v hříších Jeroboáma, syna Nebatova, který svedl Izrael k hříchu, a neodvrátil se od nich.</verse>
+        <verse osisID='2Kgs.3.4'>Moábský král Méša choval ovce. Odváděl izraelskému králi sto tisíc jehňat a sto tisíc beranů na vlnu.</verse>
+        <verse osisID='2Kgs.3.5'>Po Achabově smrti se ale moábský král proti izraelskému králi vzbouřil.</verse>
+        <verse osisID='2Kgs.3.6'>Král Joram proto ihned vytáhl ze Samaří a svolal do boje celý Izrael.</verse>
+        <verse osisID='2Kgs.3.7'>Tehdy vzkázal také judskému králi Jošafatovi: "Moábský král se proti mně vzbouřil. Potáhneš se mnou do války s Moábem?" "Udělám to, co ty," odpověděl Jošafat. "Můj lid je jako tvůj, mí koně jako tví!</verse>
+        <verse osisID='2Kgs.3.8'>Kudy potáhneme?" zeptal se pak ještě. "Pouštní cestou přes Edom," odpověděl Joram.</verse>
+        <verse osisID='2Kgs.3.9'>Král Izraele tedy vytáhl spolu s králem Judy a s králem Edomu. Po sedmidenní cestě oklikou už ale vojsko nemělo vodu pro sebe ani pro svá zvířata.</verse>
+        <verse osisID='2Kgs.3.10'>Izraelský král si povzdechl: "Ach, copak nás tři krále Hospodin svolal proto, aby nás vydal do rukou Moábcům?"</verse>
+        <verse osisID='2Kgs.3.11'>Jošafat ale řekl: "To už tu není žádný Hospodinův prorok, abychom se skrze něj zeptali Hospodina?" Jeden ze služebníků izraelského krále se ozval: "Je tu Elíša, syn Šafatův, který líval vodu na ruce Eliášovy."</verse>
+        <verse osisID='2Kgs.3.12'>"Ten má slovo Hospodinovo," odpověděl Jošafat. Vydali se tedy spolu s izraelským a edomským králem za ním.</verse>
+        <verse osisID='2Kgs.3.13'>Elíša ale izraelskému králi řekl: "Co je mi do tebe? Jdi si za proroky svého otce nebo své matky!" "To ne," odpověděl mu izraelský král. "Byl to Hospodin, kdo nás tři krále svolal, aby nás vydal do rukou Moábcům."</verse>
+        <verse osisID='2Kgs.3.14'>Elíša mu na to řekl: "Jakože je živ Hospodin zástupů, před jehož tváří stojím - kdybych si nevážil judského krále Jošafata, nevěnoval bych ti jediný pohled!</verse>
+        <verse osisID='2Kgs.3.15'>Nuže, přiveďte mi tedy hudebníka." Když pak hudebník začal hrát, nad Elíšou byla ruka Hospodinova.</verse>
+        <verse osisID='2Kgs.3.16'>"Tak praví Hospodin," řekl. "Prohlubně v tomto vyschlém říčním korytu budou plné vody!</verse>
+        <verse osisID='2Kgs.3.17'>Ano, tak praví Hospodin: Nespatříte vítr ani déšť, ale koryto se naplní vodou, tak že se napijete vy, váš dobytek i všechna vaše zvířata.</verse>
+        <verse osisID='2Kgs.3.18'>To by ale v Hospodinových očích bylo málo. Proto vám také vydá do rukou Moábce.</verse>
+        <verse osisID='2Kgs.3.19'>Všechna hrazená města, všechna větší města dobudete, všechny ovocné stromy pokácíte, všechny vodní prameny zasypete a všechny dobré pozemky zaházíte kamením!"</verse>
+        <verse osisID='2Kgs.3.20'>Druhý den ráno, v době, kdy se přináší moučná oběť, se náhle od Edomu přivalila spousta vody, která zaplavila celé okolí.</verse>
+        <verse osisID='2Kgs.3.21'>Všichni Moábci slyšeli, že proti nim vytáhli do boje tito králové, a tak povolali všechny, kdo unesli zbroj, staré i mladé. Pak se rozestavěli na hranici.</verse>
+        <verse osisID='2Kgs.3.22'>Když ráno vstali, vycházející slunce ozářilo vodu. Moábcům ta voda z druhého břehu připadala rudá jako krev.</verse>
+        <verse osisID='2Kgs.3.23'>"To je krev!" zvolali. "Ti králové se na sebe museli vrhnout a navzájem se povraždit. Nuže, Moábe, vzhůru za kořistí!"</verse>
+        <verse osisID='2Kgs.3.24'>Když ale došli k izraelskému táboru, Izraelci vyrazili a bili je, až se Moábci před nimi dali na útěk. Oni je ale dostihli a pobili je.</verse>
+        <verse osisID='2Kgs.3.25'>Jejich města rozbořili, všechny dobré pozemky úplně zaházeli kamením, všechny vodní prameny zasypali, všechny ovocné stromy pokáceli. Jedině kamenné hradby v Kir-charešetu zůstaly stát, a tak to město obklíčili prakovníci a dobývali je.</verse>
+        <verse osisID='2Kgs.3.26'>Moábský král viděl, že boj je nad jeho síly, a tak si vzal 700 mužů ozbrojených mečem, aby se probil k edomskému králi, ale nedokázal to.</verse>
+        <verse osisID='2Kgs.3.27'>Tehdy vzal svého prvorozeného syna, který měl kralovat po něm, a obětoval ho jako zápalnou oběť na hradbách. Izraelci byli tak zděšeni, že od nich odtáhli a vrátili se do vlasti.</verse>
+      </chapter>
+      <chapter osisID='2Kgs.4'>
+        <verse osisID='2Kgs.4.1'>Jedna z manželek prorockých učedníků před Elíšou úpěnlivě naříkala: "Tvůj služebník, můj muž, umřel. Sám víš, jak tvůj služebník ctil Hospodina. Teď ale přišel věřitel a chce si oba mé chlapce odvést jako otroky!"</verse>
+        <verse osisID='2Kgs.4.2'>"Co pro tebe mohu udělat?" ptal se jí Elíša. "Pověz mi, co máš doma?" "Tvá služebnice nemá doma nic než lahvičku oleje," odpověděla.</verse>
+        <verse osisID='2Kgs.4.3'>"Jdi ven," řekl, "a vypůjči si od všech sousedů prázdné džbány. Ať jich není málo!</verse>
+        <verse osisID='2Kgs.4.4'>Pak se vrať, zavři za sebou i za svými syny dveře a lij do všech těch džbánů olej. Plné dávej stranou."</verse>
+        <verse osisID='2Kgs.4.5'>A tak šla ven. Potom za sebou a za svými syny zavřela dveře, oni jí podávali džbány a ona nalévala.</verse>
+        <verse osisID='2Kgs.4.6'>Když byly džbány plné, řekla synovi: "Podej mi další." "Další nemáme," řekl a vtom olej došel.</verse>
+        <verse osisID='2Kgs.4.7'>Šla to povědět Božímu muži a ten jí řekl: "Jdi ten olej prodat a vyrovnej svůj dluh. Z toho, co zbude, pak budeš se svými syny žít."</verse>
+        <verse osisID='2Kgs.4.8'>Když jednou Elíša procházel Šunemem, jedna místní zámožná žena ho pozvala k jídlu. Od té doby se pokaždé, když tudy procházel, zastavil u ní na jídlo.</verse>
+        <verse osisID='2Kgs.4.9'>Ta žena řekla svému manželovi: "Podívej se, ten muž, co tudy často chodí, je určitě Boží světec.</verse>
+        <verse osisID='2Kgs.4.10'>Pojďme mu na střeše postavit pokojík. Dáme mu tam postel, stůl, židli a svícen, ať má kde odpočívat, když k nám přijde."</verse>
+        <verse osisID='2Kgs.4.11'>Jednoho dne si tam tedy Elíša přišel odpočinout. Lehl si ve svém pokojíku</verse>
+        <verse osisID='2Kgs.4.12'>a svému mládenci Gehazimu řekl: "Zavolej tu Šunemitku." Ten ji zavolal, a když stanula před ním,</verse>
+        <verse osisID='2Kgs.4.13'>Elíša mládenci řekl: "Pověz jí: Zahrnulas nás všemožnou péčí. Co pro tebe mohu udělat? Mám se o tobě zmínit u krále nebo u velitele vojska?" Ona mu však odpověděla: "Žiju si spokojeně mezi svými."</verse>
+        <verse osisID='2Kgs.4.14'>"Co bych jen pro ni mohl udělat?" ptal se potom Elíša. "Vlastně nemá syna a její muž je starý," odpověděl Gehazi.</verse>
+        <verse osisID='2Kgs.4.15'>"Zavolej ji," řekl mu. A tak ji zavolal, a když stanula ve dveřích,</verse>
+        <verse osisID='2Kgs.4.16'>Elíša jí řekl: "Za rok touto dobou budeš chovat syna." "To ne, můj pane," zvolala. "Jsi Boží muž, nepodváděj svou služebnici!"</verse>
+        <verse osisID='2Kgs.4.17'>Ta žena pak ale opravdu počala a za rok tou dobou porodila syna, přesně jak jí Elíša řekl.</verse>
+        <verse osisID='2Kgs.4.18'>Když chlapec povyrostl, jednoho dne o žních šel za otcem na pole.</verse>
+        <verse osisID='2Kgs.4.19'>Tam ale začal naříkat: "Moje hlava! Moje hlava!" "Odnes ho k matce," řekl otec mládenci,</verse>
+        <verse osisID='2Kgs.4.20'>a tak ho vzal a přinesl matce. Okolo poledne jí umřel v náručí.</verse>
+        <verse osisID='2Kgs.4.21'>Vynesla ho nahoru a položila na lůžko Božího muže, zavřela za sebou a odešla.</verse>
+        <verse osisID='2Kgs.4.22'>Potom zavolala manžela: "Pošli mi jednoho z mládenců a oslici. Musím rychle za Božím mužem. Hned se vrátím."</verse>
+        <verse osisID='2Kgs.4.23'>"Proč bys za ním dnes chodila?" namítl jí. "Není přece novoluní ani sobota." "Buď klidný," řekla mu.</verse>
+        <verse osisID='2Kgs.4.24'>Osedlala oslici a svému mládenci řekla: "Jen ji žeň! Kvůli mně nezpomaluj, dokud ti neřeknu."</verse>
+        <verse osisID='2Kgs.4.25'>A tak jela, až dorazila k Božímu muži na horu Karmel. Když Boží muž uviděl, jak k němu míří, řekl svému mládenci Gehazimu: "Podívej, to je ta Šunemitka.</verse>
+        <verse osisID='2Kgs.4.26'>Utíkej jí naproti a zeptej se: Jak se ti daří? Jak se daří manželovi? Jak se daří dítěti?" "Dobře," odpověděla.</verse>
+        <verse osisID='2Kgs.4.27'>Když ale došla až nahoru k Božímu muži, vrhla se k zemi a objala mu nohy. Gehazi hned přistoupil, aby ji odstrčil, ale Boží muž mu řekl: "Nech ji, má v duši hořkost. Hospodin mi to ale zatajil a nic mi o tom neřekl."</verse>
+        <verse osisID='2Kgs.4.28'>"Pane," řekla pak ta žena, "chtěla jsem snad od tebe syna? Neříkala jsem ti, ať mě nepodvádíš?!"</verse>
+        <verse osisID='2Kgs.4.29'>Na to Elíša řekl Gehazimu: "Přepásej se, vezmi si tuto hůl a běž! Cestou nikoho nezdrav a ani na pozdrav neodpovídej. Mou hůl pak polož chlapci na tvář."</verse>
+        <verse osisID='2Kgs.4.30'>Chlapcova matka ale prohlásila: "Jakože je živ Hospodin a živ jsi ty, nepustím se tě!" A tak vstal a šel s ní.</verse>
+        <verse osisID='2Kgs.4.31'>Gehazi vyrazil napřed. Položil chlapci hůl na tvář, ale ten ani nehlesl, ani se nepohnul. Vrátil se tedy Elíšovi naproti a řekl mu: "Chlapec se nevzbudil."</verse>
+        <verse osisID='2Kgs.4.32'>Když Elíša vešel do domu, chlapec ležel mrtvý na lůžku.</verse>
+        <verse osisID='2Kgs.4.33'>Elíša šel dovnitř, zavřel se s ním o samotě a začal se modlit k Hospodinu.</verse>
+        <verse osisID='2Kgs.4.34'>Potom vstal a šel k chlapci. Položil se na něj, ústa na ústa, oči na oči, dlaně na dlaně. Jak na něm ležel, chlapcovo tělo se zahřálo.</verse>
+        <verse osisID='2Kgs.4.35'>Potom se zvedl a přecházel po domě sem a tam. Opět k němu přistoupil a položil se na něj. Tu chlapec kýchl, pak znovu, celkem sedmkrát a nakonec otevřel oči.</verse>
+        <verse osisID='2Kgs.4.36'>Elíša přivolal Gehaziho: "Zavolej Šunemitku!" Zavolal ji tedy, a když přišla, Elíša jí řekl: "Tady máš svého syna."</verse>
+        <verse osisID='2Kgs.4.37'>Vešla dovnitř, padla mu k nohám a klaněla se mu až k zemi. Pak vzala syna a odešla.</verse>
+        <verse osisID='2Kgs.4.38'>Elíša se vrátil do Gilgalu. V zemi byl hlad. Jednou, když před ním seděli proročtí učedníci, řekl svému mládenci: "Přistav ten velký hrnec a uvař jim polévku."</verse>
+        <verse osisID='2Kgs.4.39'>Jeden z nich šel ven pro nějakou zeleninu. Našel ale divoké tykve a nasbíral si jich plnou zástěru. Vrátil se, a aniž si toho kdo všiml, nakrájel je do hrnce s tou polévkou.</verse>
+        <verse osisID='2Kgs.4.40'>Tu pak všem rozlévali k jídlu. Jakmile ji ale okusili, začali křičet: "Boží muži! V hrnci je smrt!" Nedalo se to jíst.</verse>
+        <verse osisID='2Kgs.4.41'>"Přineste mouku," řekl Elíša. Nasypal ji do hrnce a řekl: "Rozlévejte všem, ať se najedí." A v hrnci už nic špatného nebylo.</verse>
+        <verse osisID='2Kgs.4.42'>Jeden muž přišel z Baal-šališy a přinesl Božímu muži prvotiny své úrody - dvacet ječných chlebů a snopek obilí. Elíša řekl: "Dej to lidem, ať se najedí."</verse>
+        <verse osisID='2Kgs.4.43'>"Cože?" namítl jeho pomocník. "Tohle mám nabídnout stovce mužů?" On ale opakoval: "Dej to lidem, ať se najedí. Neboť tak praví Hospodin: Najedí se a ještě zbude."</verse>
+        <verse osisID='2Kgs.4.44'>A opravdu - když jim to nabídl, najedli se a ještě zbylo, přesně jak řekl Hospodin.</verse>
+      </chapter>
+      <chapter osisID='2Kgs.5'>
+        <verse osisID='2Kgs.5.1'>Náman byl vojevůdce aramejského krále. Byl to muž důležitý a velmi vážený v očích svého pána, neboť skrze něj Hospodin Aramejcům daroval vítězství. Tento udatný válečník ale onemocněl malomocenstvím.</verse>
+        <verse osisID='2Kgs.5.2'>Při jednom ze svých nájezdů na izraelské území si odtud Aramejci přivedli mladou dívku, která pak sloužila u Námanovy manželky.</verse>
+        <verse osisID='2Kgs.5.3'>Jednou řekla své paní: "Kdyby se tak můj pán dostal k prorokovi, který žije v Samaří. Ten by ho jistě malomocenství zbavil."</verse>
+        <verse osisID='2Kgs.5.4'>Náman pak šel za svým pánem a vyprávěl mu, co ta dívka z izraelské země říkala.</verse>
+        <verse osisID='2Kgs.5.5'>"Vydej se na cestu!" odpověděl aramejský král. "Já zatím pošlu list izraelskému králi." Náman se tedy vypravil na cestu. Vzal s sebou deset talentů stříbra, šest tisíc šekelů zlata a desatero slavnostních šatů.</verse>
+        <verse osisID='2Kgs.5.6'>Izraelskému králi doručil list tohoto znění: "Posílám ti tento list po svém služebníku Námanovi. Zbav ho malomocenství."</verse>
+        <verse osisID='2Kgs.5.7'>Jakmile si izraelský král ten list přečetl, roztrhl své roucho a zvolal: "Copak jsem Bůh, který bere nebo dává život? Tak on mi vzkazuje, ať někoho zbavím malomocenství! Posuďte sami - zjevně si proti mně hledá záminku!"</verse>
+        <verse osisID='2Kgs.5.8'>Když Boží muž Elíša uslyšel, že izraelský král roztrhl své roucho, vzkázal mu: "Proč jsi roztrhl své roucho? Pošli ho za mnou, ať pozná, že v Izraeli je prorok."</verse>
+        <verse osisID='2Kgs.5.9'>Když pak Náman dorazil se svým vozem a spřežením a zastavil se u vchodu do Elíšova domu,</verse>
+        <verse osisID='2Kgs.5.10'>Elíša mu po svém poslu vzkázal: "Jdi a sedmkrát se omyj v Jordánu. Tak se tvé tělo uzdraví a budeš čistý."</verse>
+        <verse osisID='2Kgs.5.11'>Námana to tak popudilo, že šel pryč. "Myslel jsem, že ke mně aspoň vyjde ven!" rozčiloval se. "Myslel jsem, že bude vzývat jméno svého Boha Hospodina a mávat rukou nad nemocným místem, aby malomocenství odehnal.</verse>
+        <verse osisID='2Kgs.5.12'>Copak nejsou damašské řeky Amana a Parpar lepší než všechna voda v Izraeli? Copak jsem se nemohl umýt v nich, abych byl očištěn?" S tím se otočil a rozčilen odjel.</verse>
+        <verse osisID='2Kgs.5.13'>Jeho služebníci ale přistoupili a řekli mu: "Otče, kdyby ti prorok uložil něco těžkého, neudělal bys to? Čím spíše tedy, když ti řekl: Omyj se, a budeš čistý."</verse>
+        <verse osisID='2Kgs.5.14'>A tak sestoupil a sedmkrát se ponořil v Jordánu, jak mu Boží muž řekl, a jeho tělo se uzdravilo - bylo čisté jako tělo malého chlapce!</verse>
+        <verse osisID='2Kgs.5.15'>Hned se tedy s celým svým doprovodem vydal zpátky k Božímu muži. Předstoupil před něj a řekl: "Hle, teď jsem poznal, že na celém světě není Bůh jako v Izraeli. Zde, prosím, přijmi od svého služebníka tyto dary."</verse>
+        <verse osisID='2Kgs.5.16'>Elíša ale odpověděl: "Jakože je živ Hospodin, před jehož tváří stojím, nic si nevezmu!" A i když ho Náman přemlouval, ať si něco vezme, odmítl.</verse>
+        <verse osisID='2Kgs.5.17'>"Když jinak nedáš, pane," řekl potom Náman, "dovol prosím, ať si tvůj služebník alespoň naloží dva mezky zdejší půdou. Tvůj služebník už totiž nechce přinášet zápaly ani oběti žádným bohům kromě Hospodina.</verse>
+        <verse osisID='2Kgs.5.18'>Jednu věc ale kéž Hospodin tvému služebníku odpustí: Když můj pán vchází do Rimonova chrámu, aby se tam klaněl, opírá se o mé rámě, takže i já se musím v Rimonově chrámu poklonit. Když se tedy budu klanět v Rimonově chrámu, kéž to Hospodin tvému služebníku odpustí."</verse>
+        <verse osisID='2Kgs.5.19'>"Jdi v pokoji," odpověděl mu Elíša. Ještě ani nebyl daleko,</verse>
+        <verse osisID='2Kgs.5.20'>když si Gehazi, mládenec Božího muže Elíšy, řekl: "Tak vida, můj pán si odmítl vzít, co ten Aramejec Náman přinesl. Jakože je živ Hospodin, poběžím za ním a něco si od něj vezmu!"</verse>
+        <verse osisID='2Kgs.5.21'>A tak se Gehazi rozeběhl za Námanem. Jakmile si Náman všiml, že za ním běží, vystoupil z vozu a šel mu vstříc. "Je všechno v pořádku?" ptal se.</verse>
+        <verse osisID='2Kgs.5.22'>"Ano, v pořádku," odpověděl Gehazi. "Můj pán mě jen posílá se vzkazem: Teď právě ke mně přišli dva mládenci od prorockých učedníků z Efraimských hor. Dej jim, prosím, talent stříbra a dvoje slavnostní šaty."</verse>
+        <verse osisID='2Kgs.5.23'>"Ale jistě!" odpověděl Náman a přemlouval ho: "Vezmi si prosím dva talenty." Zavázal tedy dva talenty stříbra do dvou pytlů, přidal k tomu dvoje slavnostní šaty a všechno to svěřil dvěma svým mládencům, aby to nesli před Gehazim.</verse>
+        <verse osisID='2Kgs.5.24'>Když ale došli k návrší, Gehazi to od nich převzal a schoval to tam v jednom domě. S muži se rozloučil a oni odešli.</verse>
+        <verse osisID='2Kgs.5.25'>Také on odešel a vrátil se ke svému pánu. "Kde jsi byl, Gehazi?" zeptal se Elíša. "Tvůj služebník nešel celkem nikam."</verse>
+        <verse osisID='2Kgs.5.26'>"Copak jsem tam v duchu nebyl, když ten muž vystoupil z vozu a šel ti vstříc?" řekl mu na to Elíša. "Copak je teď vhodná chvíle brát stříbro a šaty, háje a vinice, brav a skot, sluhy a služky?</verse>
+        <verse osisID='2Kgs.5.27'>Námanovo malomocenství proto navěky ulpí na tobě a na tvých potomcích!" A Gehazi od něj odešel malomocný - bílý jako sníh!</verse>
+      </chapter>
+      <chapter osisID='2Kgs.6'>
+        <verse osisID='2Kgs.6.1'>Proročtí učedníci řekli Elíšovi: "Podívej se, místo, kde s tebou bydlíme, je nám příliš těsné.</verse>
+        <verse osisID='2Kgs.6.2'>Pojďme k Jordánu; každý odtamtud vezmeme jeden trám a postavíme si tam místo k bydlení." Odpověděl jim: "Můžete jít."</verse>
+        <verse osisID='2Kgs.6.3'>"A nechtěl bys jít se svými služebníky?" řekl jeden z nich. "Dobrá, půjdu," odpověděl Elíša</verse>
+        <verse osisID='2Kgs.6.4'>a šel s nimi. Přišli k Jordánu a začali kácet stromy.</verse>
+        <verse osisID='2Kgs.6.5'>Jednomu z nich při tom náhle sklouzla sekera z topůrka a spadla do vody. "Ach, pane!" vykřikl, "byla vypůjčená!"</verse>
+        <verse osisID='2Kgs.6.6'>"Kam spadla?" zeptal se Boží muž. Když mu to místo ukázal, Elíša usekl kus dřeva, hodil ho tam a sekera vyplavala.</verse>
+        <verse osisID='2Kgs.6.7'>"Vytáhni si ji," řekl a on natáhl ruku a vzal si ji.</verse>
+        <verse osisID='2Kgs.6.8'>Když aramejský král válčil s Izraelem, poradil se se svými služebníky a řekl: "Položím svůj tábor tam a tam."</verse>
+        <verse osisID='2Kgs.6.9'>Boží muž ale vzkázal izraelskému králi: "Dej pozor, ať neprocházíš tímto místem; skrývají se tam Aramejci."</verse>
+        <verse osisID='2Kgs.6.10'>Izraelský král pak na to místo, o kterém mu Boží muž řekl, poslal varování, ať si tam dávají pozor. Tak se to dělo znovu a znovu.</verse>
+        <verse osisID='2Kgs.6.11'>Aramejského krále to přivádělo k nepříčetnosti. "Tak řeknete mi už," křičel na své služebníky, "kdo z nás tady donáší izraelskému králi?"</verse>
+        <verse osisID='2Kgs.6.12'>Jeden z jeho služebníků se ozval: "Nikdo, pane můj, králi. To Elíša, ten prorok v Izraeli, prozradí izraelskému králi i to, co říkáš v ložnici."</verse>
+        <verse osisID='2Kgs.6.13'>Král tedy rozkázal: "Jděte zjistit, kde je! Nechám ho tam zajmout." Když pak přišla zpráva: "Je právě v Dotanu,"</verse>
+        <verse osisID='2Kgs.6.14'>hned tam poslal koně, vozy a množství vojáků. Dorazili tam v noci a město obklíčili.</verse>
+        <verse osisID='2Kgs.6.15'>Ráno sluha Božího muže vstal, vyšel ven a hle - kolem celého města vojsko, koně a vozy! "Ach, můj pane," řekl mládenec Elíšovi, "co si počneme?"</verse>
+        <verse osisID='2Kgs.6.16'>"Neboj se," odpověděl mu. "S námi jich je víc než s nimi."</verse>
+        <verse osisID='2Kgs.6.17'>Pak se Elíša modlil: "Hospodine, otevři mu oči, ať vidí." Hospodin mládenci otevřel oči a hle - uviděl kolem Elíši horu ohnivých koní a vozů!</verse>
+        <verse osisID='2Kgs.6.18'>Když se k němu Aramejci začali stahovat, Elíša se modlil k Hospodinu: "Prosím, oslep ten zástup!" A on je naráz oslepil, jak Elíša řekl.</verse>
+        <verse osisID='2Kgs.6.19'>Elíša pak na ně zavolal: "To není ta cesta! To není to město! Pojďte za mnou a dovedu vás k muži, kterého hledáte." A dovedl je do Samaří.</verse>
+        <verse osisID='2Kgs.6.20'>Jakmile vešli do Samaří, Elíša řekl: "Hospodine, otevři jim oči, ať vidí." Hospodin jim otevřel oči a hle - uviděli, že jsou uprostřed Samaří!</verse>
+        <verse osisID='2Kgs.6.21'>Vtom je spatřil izraelský král. "Mám je pobít, otče? Mám je pobít?" ptal se Elíši.</verse>
+        <verse osisID='2Kgs.6.22'>"Ne!" odpověděl. "Nezajal jsi je vlastním mečem a lukem, a teď bys je chtěl pobíjet? Dej jim jídlo a vodu, ať se najedí a napijí a pak ať se vrátí ke svému pánu."</verse>
+        <verse osisID='2Kgs.6.23'>Král jim tedy vystrojil velikou hostinu, a když se najedli a napili, propustil je. Vrátili se ke svému pánu a od té doby aramejské nájezdy na izraelské území přestaly.</verse>
+        <verse osisID='2Kgs.6.24'>Později ale aramejský král Ben-hadad znovu shromáždil celé své vojsko, vytáhl proti Samaří a oblehl je.</verse>
+        <verse osisID='2Kgs.6.25'>V Samaří nastal veliký hlad. Obléhání pokračovalo, až byla oslí hlava za osmdesát šekelů stříbra a čtvrt dížky "holubího trusu" za pět šekelů stříbra.</verse>
+        <verse osisID='2Kgs.6.26'>Jednou, když izraelský král obcházel hradby, nějaká žena na něj vykřikla: "Pomoz, pane můj, králi!"</verse>
+        <verse osisID='2Kgs.6.27'>"Když ti nepomáhá Hospodin, jak ti mám pomoci já? Je libo obilí z mlatu nebo víno z lisu?!" odpověděl jí král.</verse>
+        <verse osisID='2Kgs.6.28'>Potom se zeptal: "Tak co chceš?" Začala mu vyprávět: "Tahle žena mi řekla: ‚Dej sem svého syna. Dnes ho sníme a zítra sníme zase mého.'</verse>
+        <verse osisID='2Kgs.6.29'>A tak jsme mého syna uvařily a snědly. Druhý den jí povídám: ‚Dej sem svého syna, ať ho sníme.' Jenže ona svého syna schovala!"</verse>
+        <verse osisID='2Kgs.6.30'>Když král uslyšel slova té ženy, roztrhl své roucho. Jak obcházel hradby, lidé si všimli, že má na holém těle pytlovinu.</verse>
+        <verse osisID='2Kgs.6.31'>"Ať mě Bůh potrestá a ještě mi přidá," zvolal král, "jestli ten Elíša, syn Šafatův, ještě dnes nepřijde o hlavu!"</verse>
+        <verse osisID='2Kgs.6.32'>Pak poslal pro Elíšu. Ten zatím seděl doma se stařešiny Izraele. Ještě než k němu královský posel dorazil, řekl jim: "Vidíte, ten vrahoun už někoho poslal, aby mě připravil o hlavu. Dávejte pozor; až ten posel přijde, zavřete za ním dveře a pevně je držte. Slyším, jak mu jde v patách jeho pán."</verse>
+        <verse osisID='2Kgs.6.33'>Sotva to dořekl, přišel posel se vzkazem: "Za to neštěstí může Hospodin! Proč bych v něj ještě doufal?"</verse>
+      </chapter>
+      <chapter osisID='2Kgs.7'>
+        <verse osisID='2Kgs.7.1'>"Slyšte slovo Hospodinovo," řekl na to Elíša. "Tak praví Hospodin: Zítra touto dobou se v samařské bráně bude prodávat míra jemné mouky za šekel a stejně tak dvě míry ječmene!"</verse>
+        <verse osisID='2Kgs.7.2'>Králův pobočník, jeho pravá ruka, Božímu muži namítl: "Hospodin sice otevírá nebeské průduchy, ale copak se může stát něco takového?" "Uvidíš to na vlastní oči, ale neokusíš to!" odpověděl Elíša.</verse>
+        <verse osisID='2Kgs.7.3'>U vrat brány seděli čtyři malomocní. Řekli si: "Co tu tak sedíme a čekáme na smrt?</verse>
+        <verse osisID='2Kgs.7.4'>Máme snad jít do města, když je ve městě hlad? Tam bychom zemřeli. Když tu zůstaneme sedět, zemřeme zrovna tak. Přeběhněme raději do aramejského tábora. Když nás nechají naživu, přežijeme. Když nás zabijí, beztak zemřeme."</verse>
+        <verse osisID='2Kgs.7.5'>Ještě za šera se tedy zvedli, že půjdou do tábora Aramejců. Došli až k jeho okraji a hle - nikde nikdo!</verse>
+        <verse osisID='2Kgs.7.6'>Hospodin způsobil, že Aramejci v táboře slyšeli hluk vozů, hluk koní, hluk velikého vojska a řekli si: "Podívejte! Izraelský král si proti nám najal chetitské a egyptské krále! Už táhnou na nás!"</verse>
+        <verse osisID='2Kgs.7.7'>A tak se zvedli a ještě za tmy se dali na úprk. Nechali tam své stany, koně, osly i tábor tak, jak byl, a utíkali o život.</verse>
+        <verse osisID='2Kgs.7.8'>Potom dorazili k táboru ti malomocní. Vešli do jednoho stanu a dali se do jídla a pití. Nabrali si odtud stříbro, zlato a oděvy a odběhli si to schovat. Pak se vrátili, šli do jiného stanu, nabrali si i odtud a znovu si to odběhli schovat.</verse>
+        <verse osisID='2Kgs.7.9'>Potom si ale řekli: "Neděláme dobře. Dnes je den dobrých zpráv, a my mlčíme! Bylo by trestuhodné čekat až do rána. Pojďme to raději hned oznámit v královském paláci."</verse>
+        <verse osisID='2Kgs.7.10'>Když dorazili k městské bráně, zavolali stráž a řekli: "Přišli jsme k aramejskému táboru a hle - nikde nikdo! Po nikom ani vidu ani slechu. Na místě zůstali kromě stanů jen uvázaní koně a osli."</verse>
+        <verse osisID='2Kgs.7.11'>Strážní tu zprávu předali dál, až se dostala do královského paláce.</verse>
+        <verse osisID='2Kgs.7.12'>Král ještě v noci vstal a řekl svým služebníkům: "Já vám povím, co na nás Aramejci uchystali. Vědí, že hladovíme, a tak opustili tábor a skryli se v poli. Říkají si: ‚Až vyjdou z města, zajmeme je živé a vpadneme dovnitř!'"</verse>
+        <verse osisID='2Kgs.7.13'>Na to mu jeden z jeho dvořanů odpověděl: "Co kdybychom vyslali několik mužů na průzkum; ať si vezmou těch pět koní, co ve městě zbývají. Budou na tom stejně jako všichni Izraelci, co tu ještě zbyli. Všechny Izraelce přece stejně čeká smrt."</verse>
+        <verse osisID='2Kgs.7.14'>A tak vzali dvě koňská spřežení a král je vyslal za aramejským vojskem: "Jeďte na průzkum!"</verse>
+        <verse osisID='2Kgs.7.15'>Vyrazili tedy po jejich stopě až k Jordánu a hle - po celé cestě viděli plno výstroje a výzbroje, kterou Aramejci na úprku odhazovali! A tak se poslové vrátili a podali zprávu králi.</verse>
+        <verse osisID='2Kgs.7.16'>Lid tehdy vyrazil a vyplenil aramejský tábor. Míra jemné mouky náhle stála pouhý šekel a stejně tak dvě míry ječmene, přesně jak řekl Hospodin.</verse>
+        <verse osisID='2Kgs.7.17'>Král tehdy odvelel svého pobočníka, svou pravou ruku, k bráně. Dav ho tam ale ušlapal k smrti, přesně jak Boží muž řekl, když za ním onen posel přišel.</verse>
+        <verse osisID='2Kgs.7.18'>Tak se stalo, co Boží muž předpověděl: "Zítra touto dobou se v samařské bráně budou prodávat dvě míry ječmene za šekel a stejně tak míra jemné mouky."</verse>
+        <verse osisID='2Kgs.7.19'>Králův pobočník mu tehdy namítl: "Hospodin otevírá nebeské průduchy, ale copak se může stát něco takového?" a Boží muž mu odpověděl: "Uvidíš to na vlastní oči, ale neokusíš to."</verse>
+        <verse osisID='2Kgs.7.20'>A tak se stalo: dav ho v bráně ušlapal k smrti.</verse>
+      </chapter>
+      <chapter osisID='2Kgs.8'>
+        <verse osisID='2Kgs.8.1'>Elíša řekl té ženě, jejíhož syna vzkřísil: "Ihned se s celou rodinou odstěhuj a nějaký čas zůstaň, kde to půjde. Hospodin do této země přivolal hlad a ten potrvá sedm let."</verse>
+        <verse osisID='2Kgs.8.2'>Žena se zařídila, jak Boží muž řekl. Odstěhovala se s celou rodinou pryč a strávila sedm let ve filištínské zemi.</verse>
+        <verse osisID='2Kgs.8.3'>Když těch sedm let uplynulo, vrátila se odtud a přišla ke králi, aby se domohla svého domu a pozemků.</verse>
+        <verse osisID='2Kgs.8.4'>Král právě říkal sluhovi Božího muže, Gehazimu: "Vyprávěj mi prosím o všech těch velikých věcech, které Elíša vykonal!"</verse>
+        <verse osisID='2Kgs.8.5'>Gehazi právě líčil králi, jak Elíša vzkřísil mrtvého, když vtom vešla ta žena, jejíhož syna vzkřísil, a domáhala se u krále svého domu a pozemků. "Pane můj, králi!" zvolal Gehazi. "To je ta žena a to je ten syn, kterého Elíša vzkřísil!"</verse>
+        <verse osisID='2Kgs.8.6'>Král se jí hned začal vyptávat a ona mu vše vyprávěla. Potom jí přidělil jednoho ze svých dvořanů a přikázal: "Zařiď, ať dostane zpátky všechen majetek včetně všech polních výnosů ode dne, kdy odešla ze země, až dodnes!"</verse>
+        <verse osisID='2Kgs.8.7'>Elíša se vypravil do Damašku. Aramejský král Ben-hadad byl totiž nemocen. Když mu oznámili, že přichází Boží muž,</verse>
+        <verse osisID='2Kgs.8.8'>poručil král Chazaelovi: "Vezmi s sebou dary a jdi Božímu muži naproti. Vyptej se u něj Hospodina, jestli se uzdravím."</verse>
+        <verse osisID='2Kgs.8.9'>Chazael se mu tedy vydal naproti a vzal s sebou dary - čtyřicet velbloudů naložil tím nejlepším, co v Damašku bylo. Když přišel, zastavil se před ním a řekl: "Posílá mě za tebou tvůj syn, aramejský král Ben-hadad, a ptá se: Uzdravím se?"</verse>
+        <verse osisID='2Kgs.8.10'>"Ano, jdi mu říct, že se uzdraví," odpověděl Elíša. "Hospodin mi ale ukázal, že přesto zemře."</verse>
+        <verse osisID='2Kgs.8.11'>Potom se na něj upřeně zadíval; jeho tvář se ani nepohnula, až z toho byl Chazael nesvůj. Tehdy se Boží muž rozplakal.</verse>
+        <verse osisID='2Kgs.8.12'>"Proč pláčeš, pane můj?" ptal se ho Chazael. "Protože vím," odpověděl, "jakého zla se dopustíš na synech Izraele. Jejich opevněná města vypálíš, chlapce pobiješ, nemluvňata utlučeš a těhotné rozpářeš."</verse>
+        <verse osisID='2Kgs.8.13'>"Co je tvůj služebník?" řekl na to Chazael. "Pouhý pes! Jak by mohl dokázat něco takového?" "Hospodin mi tě ukázal jako krále nad Aramem," odpověděl mu Elíša.</verse>
+        <verse osisID='2Kgs.8.14'>Chazael se pak od něj vrátil za svým pánem. Ten se ho zeptal: "Co ti říkal Elíša?" "Říkal mi, že se určitě uzdravíš," odpověděl Chazael.</verse>
+        <verse osisID='2Kgs.8.15'>Druhého dne pak vzal pokrývku, namočil ji do vody a držel mu ji na tváři, dokud nezemřel. Tak se Chazael stal králem místo něj.</verse>
+        <verse osisID='2Kgs.8.16'>Pátého roku vlády izraelského krále Jorama, syna Achabova, ještě za vlády judského krále Jošafata, začal nad Judou kralovat Jehoram, syn Jošafatův.</verse>
+        <verse osisID='2Kgs.8.17'>Stal se králem ve dvaatřiceti letech a kraloval v Jeruzalémě osm let.</verse>
+        <verse osisID='2Kgs.8.18'>Řídil se ale způsoby izraelských králů, tak jako to dělali v domě Achabově, neboť se oženil s Achabovou dcerou. Páchal, co je v Hospodinových očích zlé.</verse>
+        <verse osisID='2Kgs.8.19'>Kvůli svému služebníku Davidovi ale Hospodin nechtěl Judu zničit, neboť mu slíbil, že jeho synům po všechny dny nechá zářit svíci.</verse>
+        <verse osisID='2Kgs.8.20'>V jeho dobách se Edom vzbouřil proti judské nadvládě a ustanovil si krále.</verse>
+        <verse osisID='2Kgs.8.21'>Jehoram proto vytáhl se všemi svými vozy do Caíru. Edomci ho i s jeho veliteli vozů obklopili ze všech stran, ale on v noci vstal a obklíčení prolomil. Vojsko se mu pak rozuteklo domů.</verse>
+        <verse osisID='2Kgs.8.22'>Edom tedy zůstává ve vzpouře proti Judovi až dodnes. V téže době se vzbouřila i Libna.</verse>
+        <verse osisID='2Kgs.8.23'>Ostatní Jehoramovy skutky - co všechno vykonal - o tom se, jak známo, píše v Kronice judských králů.</verse>
+        <verse osisID='2Kgs.8.24'>Jehoram pak ulehl ke svým otcům a byl pochován mezi svými předky ve Městě Davidově. Na jeho místě pak kraloval jeho syn Achaziáš.</verse>
+        <verse osisID='2Kgs.8.25'>Dvanáctého roku izraelského krále Jorama, syna Achabova, začal nad Judou kralovat Achaziáš, syn Jehoramův.</verse>
+        <verse osisID='2Kgs.8.26'>Stal se králem ve dvaadvaceti letech a kraloval v Jeruzalémě jeden rok. Jeho matka se jmenovala Atalia, vnučka izraelského krále Omriho.</verse>
+        <verse osisID='2Kgs.8.27'>Také on se řídil způsoby domu Achabova a páchal, co je v Hospodinových očích zlé, tak jako dům Achabův. Vždyť se do Achabova domu přiženil!</verse>
+        <verse osisID='2Kgs.8.28'>Spolu s Achabovým synem Joramem vytáhl proti aramejskému králi Chazaelovi do války o Rámot-gileád. Aramejci ale Jorama porazili.</verse>
+        <verse osisID='2Kgs.8.29'>Král Joram se vrátil do Jizreelu, aby se léčil z ran, které utržil, když v Rámotu bojoval s aramejským králem Chazaelem. Judský král Achaziáš, syn Jehoramův, pak přijel do Jizreelu, aby zraněného Jorama, syna Achabova, navštívil.</verse>
+      </chapter>
+      <chapter osisID='2Kgs.9'>
+        <verse osisID='2Kgs.9.1'>Prorok Elíša zavolal jednoho z prorockých učedníků a řekl mu: "Přepásej se, vezmi s sebou tuhle nádobku s olejem a jdi do Rámot-gileádu.</verse>
+        <verse osisID='2Kgs.9.2'>Až tam přijdeš, vyhledej Jehua, syna Jošafatova, syna Nimšiho. Jdi za ním, odveď ho od jeho druhů a vezmi ho do nejzazšího pokojíku.</verse>
+        <verse osisID='2Kgs.9.3'>Tam vezmi nádobku s olejem, vylij mu ji na hlavu a řekni: ‚Tak praví Hospodin: Pomazal jsem tě za krále nad Izraelem.' Pak otevři dveře a uteč. Na nic nečekej!"</verse>
+        <verse osisID='2Kgs.9.4'>A tak ten mládenec, ten mladý prorok, odešel do Rámot-gileádu.</verse>
+        <verse osisID='2Kgs.9.5'>Když tam dorazil, probíhala právě porada vojevůdců. "Mám pro tebe slovo, veliteli," řekl mládenec. "Pro kterého z nás?" zeptal se Jehu. "Pro tebe, veliteli!" řekl mu.</verse>
+        <verse osisID='2Kgs.9.6'>A tak vstal a šel s ním dovnitř. On mu tam polil hlavu olejem a řekl mu: "Tak praví Hospodin, Bůh Izraele: Pomazal jsem tě za krále nad Hospodinovým lidem Izraelem.</verse>
+        <verse osisID='2Kgs.9.7'>Vyhladíš dům svého pána Achaba, a tak pomstím krev svých služebníků proroků i krev všech Hospodinových služebníků, prolitou rukama Jezábel.</verse>
+        <verse osisID='2Kgs.9.8'>Celý dům Achabův zahyne. Achabovy potomky dočista vyhladím z Izraele - pána i kmána až do posledního pacholka!</verse>
+        <verse osisID='2Kgs.9.9'>Naložím s domem Achabovým jako s domem Jeroboáma, syna Nebatova, a jako s domem Baašy, syna Achiášova.</verse>
+        <verse osisID='2Kgs.9.10'>A Jezábel budou žrát psi z celého jizreelského okolí a nikdo ji nepohřbí!" Pak otevřel dveře a utekl.</verse>
+        <verse osisID='2Kgs.9.11'>Jehu se vrátil mezi vojevůdce svého pána. "Všechno v pořádku? Co ti ten blázen chtěl?" vyzvídal jeden z nich. "Sami víte, jak takoví lidé blábolí," odpověděl jim.</verse>
+        <verse osisID='2Kgs.9.12'>"Nelži," oni na to. "Pěkně nám to řekni!" A tak jim vyprávěl: "Mluvil se mnou tak a tak. Že prý: ‚Tak praví Hospodin: Pomazal jsem tě za krále nad Izraelem.'"</verse>
+        <verse osisID='2Kgs.9.13'>A oni hned vzali každý svůj plášť, prostřeli ho pod ním na schody, troubili na beraní roh a volali: "Jehu je král!"</verse>
+        <verse osisID='2Kgs.9.14'>Tak Jehu, syn Jošafata, syna Nimšiho, zahájil spiknutí proti Joramovi. (Joram zatím v čele izraelského vojska hájil Rámot-gileád před aramejským králem Chazaelem.</verse>
+        <verse osisID='2Kgs.9.15'>Pak se ale král Joram vrátil do Jizreelu, aby se léčil z ran, které v boji s aramejským králem Chazaelem utržil.) Jehu prohlásil: "Jestli mě opravdu chcete za krále, nedovolte nikomu uniknout z města a prozradit to v Jizreelu."</verse>
+        <verse osisID='2Kgs.9.16'>Jehu pak nasedl do vozu a jel do Jizreelu, kam Jorama k jeho lůžku přijel navštívit judský král Achaziáš.</verse>
+        <verse osisID='2Kgs.9.17'>Když strážný na jizreelské věži uviděl, jak se blíží Jehuův houf, zvolal: "Vidím nějaký houf!" Joram na to řekl: "Vyber jezdce a pošli jim ho vstříc, ať se zeptá, zda přináší pokoj."</verse>
+        <verse osisID='2Kgs.9.18'>Jezdec jim tedy vyrazil naproti: "Král se ptá - přinášíš pokoj?" "Co se staráš o pokoj?" opáčil Jehu. "Zařaď se za mě!" Strážný tedy ohlásil: "Posel dojel až k nim, ale nevrací se."</verse>
+        <verse osisID='2Kgs.9.19'>Král jim tedy vyslal naproti dalšího jezdce: "Král se ptá - přinášíš pokoj?" "Co se staráš o pokoj?" opáčil Jehu. "Zařaď se za mě!"</verse>
+        <verse osisID='2Kgs.9.20'>Strážný pak ohlásil: "Dojel až k nim, ale nevrací se. Podle jízdy je to Jehu, syn Nimšiho; jede jako šílený."</verse>
+        <verse osisID='2Kgs.9.21'>"Zapřahej!" rozkázal na to Joram. Zapřáhl mu tedy vůz a izraelský král Joram vyrazil. Také judský král Achaziáš vyjel; každý se vydal ve svém voze naproti Jehuovi. Setkali se na pozemku Nábota Jizreelského.</verse>
+        <verse osisID='2Kgs.9.22'>Když Joram uviděl Jehua, zeptal se: "Jehu, je pokoj?" "Jak může být pokoj," zvolal Jehu, "dokud je tu všude kolem smilstvo a čarodějnictví tvé matky Jezábel!"</verse>
+        <verse osisID='2Kgs.9.23'>Nato Joram prudce obrátil vůz a ujížděl pryč. Ještě stačil křiknout na Achaziáše: "Achaziáši, zrada!"</verse>
+        <verse osisID='2Kgs.9.24'>Vtom ale Jehu napjal luk a zasáhl Jorama mezi lopatky, takže mu šíp pronikl srdcem a on se zhroutil na podlahu svého vozu.</verse>
+        <verse osisID='2Kgs.9.25'>"Vezmi ho a pohoď na poli Nábota Jizreelského," řekl pak Jehu svému pobočníku Bidkarovi. "Jen si vzpomeň, jak jsme spolu jeli na vozech za jeho otcem Achabem, když nad ním Hospodin vynesl ortel:</verse>
+        <verse osisID='2Kgs.9.26'>‚Za krev Nábota a jeho synů, kterou jsem tu včera viděl prolévat, mi zaplatíš zde na tomto poli, praví Hospodin.' Takže ho vezmi a pohoď na tom poli, jak řekl Hospodin."</verse>
+        <verse osisID='2Kgs.9.27'>Jakmile judský král Achaziáš viděl, co se děje, ujížděl pryč k Bet-haganu. Jehu se ale pustil za ním a křičel: "Toho taky!" Zasáhli ho ve voze na svahu Gur poblíž Jibleamu. Dojel ale až do Megida, kde zemřel.</verse>
+        <verse osisID='2Kgs.9.28'>Jeho služebníci ho převezli do Jeruzaléma a pochovali ho k jeho otcům do jeho hrobu ve Městě Davidově.</verse>
+        <verse osisID='2Kgs.9.29'>Achaziáš kraloval nad Judou od jedenáctého roku Achabova syna Jorama.</verse>
+        <verse osisID='2Kgs.9.30'>Jehu pak dorazil do Jizreelu. Když to Jezábel uslyšela, nalíčila si oči, upravila si účes a vyhlédla z okna.</verse>
+        <verse osisID='2Kgs.9.31'>Jehu právě vjížděl do brány. "Přinášíš pokoj, ty Zimri, vrahu svého pána?" zavolala.</verse>
+        <verse osisID='2Kgs.9.32'>On se podíval směrem k oknu a vykřikl: "Kdo je se mnou? Kdo?" Vyhlédli dva nebo tři komorníci.</verse>
+        <verse osisID='2Kgs.9.33'>"Shoďte ji dolů," zavolal, a tak ji shodili. Krev vystříkla na zeď i na koně, kteří ji udupali.</verse>
+        <verse osisID='2Kgs.9.34'>Jehu vešel dovnitř, pojedl, popil a potom řekl: "Postarejte se o tu proklatou a pohřběte ji. Přece jen to byla královská dcera."</verse>
+        <verse osisID='2Kgs.9.35'>Šli ji tedy pohřbít, ale našli z ní už jen lebku, nohy a ruce.</verse>
+        <verse osisID='2Kgs.9.36'>Když se vrátili a oznámili mu to, odpověděl: "Tak znělo slovo Hospodinovo skrze jeho služebníka Eliáše Tišbejského: ‚Tělo Jezábel budou žrát psi z celého jizreelského okolí.</verse>
+        <verse osisID='2Kgs.9.37'>Mrtvola Jezábel zůstane jako hnůj na jizreelském poli, aby nikdo nemohl říci: To byla Jezábel.'"</verse>
+      </chapter>
+      <chapter osisID='2Kgs.10'>
+        <verse osisID='2Kgs.10.1'>Achab měl v Samaří sedmdesát synů. Jehu proto do Samaří poslal listy jizreelským velmožům, stařešinům města a vychovatelům Achabových synů. Napsal jim:</verse>
+        <verse osisID='2Kgs.10.2'>"Máte syny svého pána, máte vozy a koně, opevněné město a zbraně. Nuže, jakmile dostanete tento list,</verse>
+        <verse osisID='2Kgs.10.3'>vyberte ze synů svého pána toho nejlepšího a nejschopnějšího, dosaďte ho na trůn jeho otce a bojujte za dům svého pána!"</verse>
+        <verse osisID='2Kgs.10.4'>Oni ale dostali hrozný strach. Řekli si: "Když před ním neobstáli dva králové, jak obstojíme my?"</verse>
+        <verse osisID='2Kgs.10.5'>Správce paláce i správce města se stařešiny a vychovateli proto Jehuovi vzkázali: "Jsme tvoji služebníci! Uděláme, cokoli nám řekneš. Nikoho za krále nedosadíme. Uděláme, co budeš chtít."</verse>
+        <verse osisID='2Kgs.10.6'>Napsal jim tedy druhý list: "Jestli jste se mnou a chcete mě poslouchat, vezměte hlavy všech synů svého pána a přijďte zítra touto dobou za mnou do Jizreelu." Oněch sedmdesát královských synů vyrůstalo u předních mužů města, kteří se o ně starali.</verse>
+        <verse osisID='2Kgs.10.7'>Jakmile ten list dostali, vzali královské syny a všech sedmdesát jich povraždili. Jejich hlavy naskládali do košů, které pak odeslali do Jizreelu.</verse>
+        <verse osisID='2Kgs.10.8'>K Jehuovi přišel posel a oznamoval: "Přinesli hlavy královských synů." "Složte je u brány na dvě hromady a nechte je tam do rána!" odpověděl.</verse>
+        <verse osisID='2Kgs.10.9'>Ráno pak vyšel ven, postavil se před lid a promluvil k nim: "Tak vy jste spravedliví. Ano, já jsem zosnoval spiknutí proti svému pánu a zabil jsem ho. Kdo ale povraždil všechny tyhle?!</verse>
+        <verse osisID='2Kgs.10.10'>Proto vězte, že ani jediné slovo, které Hospodin vyřkl proti domu Achabovu, neselže. Hospodin vykonal, co řekl skrze svého služebníka Eliáše!"</verse>
+        <verse osisID='2Kgs.10.11'>Pak Jehu v Jizreelu pobil všechny pozůstalé z Achabova domu a také všechny jeho přední muže, přátele i kněze. Nikoho nenechal naživu.</verse>
+        <verse osisID='2Kgs.10.12'>Poté se Jehu vypravil do Samaří. Když projížděl Bet-ekedem pastýřů,</verse>
+        <verse osisID='2Kgs.10.13'>narazil tam na příbuzné judského krále Achaziáše. "Kdo jste?" zeptal se. "Jsme Achaziášovi příbuzní. Jdeme pozdravit syny krále a syny královny matky."</verse>
+        <verse osisID='2Kgs.10.14'>"Zajměte je živé!" rozkázal Jehu. Zajali je tedy živé a všech dvaačtyřicet jich pak pobili u bet-ekedské nádrže. Nikoho neušetřil.</verse>
+        <verse osisID='2Kgs.10.15'>Cestou odtud narazil na Jonadaba, syna Rechabova, který ho přicházel pozdravit. "Jsi mi oddaný tak jako já tobě?" zeptal se ho. "Ano, jistěže ano," odvětil Jonadab. "Tak mi podej ruku," vyzval ho. Když mu Jonadab podal ruku, vytáhl ho k sobě na vůz</verse>
+        <verse osisID='2Kgs.10.16'>a řekl: "Pojeď se mnou a sleduj mou horlivost pro Hospodina!" A tak jeli spolu v jeho voze.</verse>
+        <verse osisID='2Kgs.10.17'>Jakmile přijel do Samaří, pobil tam všechny Achabovy příbuzné, kteří ještě zbyli. Úplně je vyhladil, přesně jak Hospodin řekl skrze Eliáše.</verse>
+        <verse osisID='2Kgs.10.18'>Pak Jehu shromáždil všechen lid a promluvil k nim: "Achab sloužil Baalovi málo. Jehu mu bude sloužit víc.</verse>
+        <verse osisID='2Kgs.10.19'>Proto teď ke mně svolejte všechny Baalovy proroky, všechny jeho ctitele a všechny jeho kněze. Nikdo ať nechybí, protože chci uspořádat velikou oběť Baalovi. Kdokoli bude chybět, nezůstane naživu!" (Byla to ovšem Jehuova lest, aby mohl vyhubit Baalovy ctitele.)</verse>
+        <verse osisID='2Kgs.10.20'>"Zasvěťte slavnost Baalovi," přikázal Jehu, a tak to rozhlásili.</verse>
+        <verse osisID='2Kgs.10.21'>Jehu nechal obeslat celý Izrael, a tak přišli všichni Baalovi ctitelé. Nebyl jediný, který by nepřišel. Vešli do Baalova chrámu a naplnili ho od jednoho konce k druhému.</verse>
+        <verse osisID='2Kgs.10.22'>"Vydávej roucha všem Baalovým ctitelům!" přikázal Jehu správci rouch a ten jim rozdal roucha.</verse>
+        <verse osisID='2Kgs.10.23'>Nakonec do Baalova chrámu přišel Jehu s Jonadabem, synem Rechabovým, a řekl Baalovým ctitelům: "Přesvědčte se, jestli mezi vámi nejsou nějací ctitelé Hospodina. Dohlédněte, aby tu byli jen ctitelé Baalovi."</verse>
+        <verse osisID='2Kgs.10.24'>Poté přistoupili k obětním hodům a zápalným obětem. Jehu zatím venku rozestavěl osmdesát mužů a varoval je: "Za ty lidi mi ručíte. Kdo nechá jediného z nich uniknout, zaplatí za něj životem!"</verse>
+        <verse osisID='2Kgs.10.25'>Když byli hotovi s přípravou zápalné oběti, Jehu přikázal svým strážcům a pobočníkům: "Jděte a bijte je. Nikdo ať neunikne!" Pobili je tedy ostřím meče a nechali je tam ležet. Strážci a pobočníci pronikli až do vnitřní svatyně Baalova chrámu.</verse>
+        <verse osisID='2Kgs.10.26'>Pak z Baalova chrámu vynesli posvátný sloup a spálili ho.</verse>
+        <verse osisID='2Kgs.10.27'>Strhli Baalův sloup, strhli Baalův chrám a zřídili tam veřejné záchody, které tam jsou dodnes.</verse>
+        <verse osisID='2Kgs.10.28'>Tak Jehu vymýtil Baala z Izraele.</verse>
+        <verse osisID='2Kgs.10.29'>Jehu se ale neodvrátil od hříchů Jeroboáma, syna Nebatova, který svedl celý Izrael, totiž od těch zlatých telat v Bet-elu a Danu.</verse>
+        <verse osisID='2Kgs.10.30'>Hospodin Jehuovi řekl: "Dobře jsi vykonal, co je v mých očích správné. Udělal jsi s Achabovým domem všechno, co jsem chtěl, a proto budou na izraelském trůnu sedět čtyři tví potomci."</verse>
+        <verse osisID='2Kgs.10.31'>Jehu se ale nesnažil dodržovat Zákon Hospodina, Boha Izraele, celým svým srdcem a neodvrátil se od hříchů Jeroboáma, který svedl celý Izrael.</verse>
+        <verse osisID='2Kgs.10.32'>Hospodin v té době začal Izrael ořezávat. Chazael na ně zaútočil po celé hranici</verse>
+        <verse osisID='2Kgs.10.33'>východně od Jordánu. Zabral celou zemi Gileád, totiž území Gáda, Rubena a Manasese od Aroeru na potoce Arnon přes Gileád až k Bášanu.</verse>
+        <verse osisID='2Kgs.10.34'>Ostatní Jehuovy skutky - co všechno vykonal, a jak byl udatný - o tom všem se, jak známo, píše v Kronice izraelských králů.</verse>
+        <verse osisID='2Kgs.10.35'>Jehu pak ulehl ke svým otcům a byl pochován v Samaří. Na jeho místě se stal králem jeho syn Joachaz.</verse>
+        <verse osisID='2Kgs.10.36'>Jehu kraloval v Samaří nad Izraelem celkem dvacet osm let.</verse>
+      </chapter>
+      <chapter osisID='2Kgs.11'>
+        <verse osisID='2Kgs.11.1'>Když Achaziášova matka Atalia viděla, že její syn je mrtev, rychle vyhladila všechny, kdo měli královský původ.</verse>
+        <verse osisID='2Kgs.11.2'>Achaziášově sestře Jošebě, dceři krále Jehorama, se ale podařilo unést Achaziášova syna Joaše zprostřed královských synů, kteří měli zemřít, a spolu s jeho kojnou ho před Ataliou ukryla v ložnici. Díky tomu nebyl zabit.</verse>
+        <verse osisID='2Kgs.11.3'>Ukrýval se s ní v Hospodinově chrámu šest let, dokud v zemi vládla Atalia.</verse>
+        <verse osisID='2Kgs.11.4'>Sedmého roku kněz Jojada obeslal setníky, palácovou gardu i stráže a pozval je k sobě do Hospodinova chrámu. Tam s nimi pod přísahou uzavřel smlouvu a ukázal jim královského syna.</verse>
+        <verse osisID='2Kgs.11.5'>Potom jim nařídil: "Provedete to takhle: Třetina z vás, kteří máte v sobotu nastoupit službu, bude hlídat u královského paláce,</verse>
+        <verse osisID='2Kgs.11.6'>další třetina u brány Sur a další u brány za strážnicí. Tak budete držet stráž kolem chrámu ze všech stran.</verse>
+        <verse osisID='2Kgs.11.7'>Vy ze dvou zbývajících oddílů, kteří máte v sobotu odejít, zůstanete na stráži Hospodinova chrámu při králi.</verse>
+        <verse osisID='2Kgs.11.8'>Obklopíte krále, každý se zbraní v ruce. Kdokoli se přiblíží k vašim řadám, zemře. Musíte zůstat při králi, kamkoli se pohne."</verse>
+        <verse osisID='2Kgs.11.9'>Setníci to provedli přesně, jak jim kněz Jojada nařídil. Každý vzal své muže, jak ty, kteří v sobotu nastupovali, tak ty, kteří právě odcházeli, a přišli ke knězi Jojadovi.</verse>
+        <verse osisID='2Kgs.11.10'>Ten rozdal setníkům kopí a Davidovy štíty uložené v Hospodinově chrámu.</verse>
+        <verse osisID='2Kgs.11.11'>Strážní se rozestavěli, aby všichni se zbraní v ruce obklopili krále od pravé strany chrámu až k jeho levé straně, u oltáře před chrámem.</verse>
+        <verse osisID='2Kgs.11.12'>Potom k nim Jojada přivedl králova syna, vložil mu na hlavu korunu, dali mu opis smlouvy a prohlásili ho za krále. Když ho pomazali, začali tleskat a volat: "Ať žije král!"</verse>
+        <verse osisID='2Kgs.11.13'>Jak se všichni sbíhali, Atalia zaslechla hluk. Vešla za nimi do Hospodinova chrámu,</verse>
+        <verse osisID='2Kgs.11.14'>a hle - u sloupu stojí právoplatný král s veliteli a trubači po boku! Všechen lid země se radoval a troubil na trubky. Atalia roztrhla své roucho a vykřikla: "Spiknutí! Spiknutí!"</verse>
+        <verse osisID='2Kgs.11.15'>Kněz Jojada za ní poslal setníky velící vojsku. Přikázal jim: "Odveďte ji mezi oddíly. Kdo bude s ní, toho popravte." (Kněz totiž nechtěl, aby byla zabita u Hospodinova chrámu.)</verse>
+        <verse osisID='2Kgs.11.16'>Chopili se jí, a když vešla Koňskou bránou do královského paláce, zabili ji.</verse>
+        <verse osisID='2Kgs.11.17'>Jojada zavázal krále i lid Hospodinovou smlouvou, že budou Hospodinův lid. Uzavřel také smlouvu mezi králem a lidem.</verse>
+        <verse osisID='2Kgs.11.18'>Všechen lid země pak vyrazil k Baalovu chrámu a zbořili ho. Jeho oltáře a sochy rozbili napadrť a Baalova kněze Matana zabili před těmi oltáři. Kněz Jojada pak ustanovil dohled nad Hospodinovým chrámem.</verse>
+        <verse osisID='2Kgs.11.19'>Vzal setníky, palácovou gardu i stráže a spolu se vším lidem země vedli krále z Hospodinova chrámu Bránou strážců do královského paláce. Tam dosedl na královský trůn.</verse>
+        <verse osisID='2Kgs.11.20'>Všechen lid země se radoval a ve městě zavládl klid, protože Altalia byla u královského paláce popravena.</verse>
+      </chapter>
+      <chapter osisID='2Kgs.12'>
+        <verse osisID='2Kgs.12.1'>Joaš se stal králem v sedmi letech.</verse>
+        <verse osisID='2Kgs.12.2'>Začal kralovat sedmého roku Jehuova a kraloval v Jeruzalémě čtyřicet let. Jeho matka se jmenovala Cibia z Beer-šeby.</verse>
+        <verse osisID='2Kgs.12.3'>Po celou dobu, kdy Joaše učil kněz Jojada, dělal, co je v Hospodinových očích správné.</verse>
+        <verse osisID='2Kgs.12.4'>Obětní výšiny ale nebyly odstraněny, a tak lid nadále obětoval a pálil kadidlo na výšinách.</verse>
+        <verse osisID='2Kgs.12.5'>Joaš řekl kněžím: "Shromážděte všechno zasvěcené stříbro, které se přináší do Hospodinova chrámu - stříbro vybírané při sčítání, stříbro věnované při osobních slibech a všechno stříbro, které se přináší do Hospodinova chrámu jako dobrovolný dar.</verse>
+        <verse osisID='2Kgs.12.6'>Každý kněz ať vezme stříbro od jednoho z pokladníků a opraví za něj jakoukoli škodu, která se na chrámu najde."</verse>
+        <verse osisID='2Kgs.12.7'>Kněží ale ještě ani třiadvacátého roku krále Joaše škody na chrámu neopravili.</verse>
+        <verse osisID='2Kgs.12.8'>Král Joaš si proto zavolal kněze Jojadu i ostatní kněze a otázal se: "Proč neopravujete škody na chrámu? Neberte od pokladníků už žádné další stříbro, ale věnujte ho na opravy chrámu."</verse>
+        <verse osisID='2Kgs.12.9'>Kněží tedy souhlasili, že už od lidí nebudou vybírat stříbro a že nebudou opravovat chrám sami.</verse>
+        <verse osisID='2Kgs.12.10'>Kněz Jojada pak vzal jednu truhlici, udělal v jejím víku otvor a postavil ji vedle oltáře vpravo od brány k Hospodinovu chrámu. Kněží, strážci prahu, pak do ní dávali všechno stříbro, které se přinášelo do Hospodinova chrámu.</verse>
+        <verse osisID='2Kgs.12.11'>Když viděli, že je v truhlici už hodně stříbra, přišel královský písař s nejvyšším knězem a stříbro přinesené do Hospodinova chrámu spočítali a zabalili.</verse>
+        <verse osisID='2Kgs.12.12'>Odměřené stříbro pak předávali mistrům zodpovědným za práci na Hospodinově chrámu. Ti na obnovu Hospodinova chrámu najímali tesaře a stavitele,</verse>
+        <verse osisID='2Kgs.12.13'>zedníky a kameníky. Platili také za dřevo a tesaný kámen na opravu Hospodinova chrámu a za všechny ostatní výdaje při opravě chrámu.</verse>
+        <verse osisID='2Kgs.12.14'>Stříbro přinesené do Hospodinova chrámu se nepoužívalo k výrobě stříbrných kalichů, kratiknotů, misek, trub ani žádného jiného vybavení Hospodinova chrámu, ať zlatého či stříbrného.</verse>
+        <verse osisID='2Kgs.12.15'>Používalo se totiž na platy dělníků, kteří za ně opravovali Hospodinův chrám.</verse>
+        <verse osisID='2Kgs.12.16'>Mistři, kterým se vydávalo stříbro na výplaty dělníků, jednali tak svědomitě, že se od nich ani nežádalo vyúčtování.</verse>
+        <verse osisID='2Kgs.12.17'>Stříbro z obětí odškodnění a z obětí za hřích se ovšem na Hospodinův chrám neodevzdávalo; to patřilo kněžím.</verse>
+        <verse osisID='2Kgs.12.18'>Tehdy vytáhl aramejský král Chazael, zaútočil na Gat a dobyl ho. Potom se Chazael rozhodl, že potáhne na Jeruzalém.</verse>
+        <verse osisID='2Kgs.12.19'>Judský král Joaš proto vzal všechny zasvěcené dary svých předků, judských králů Jošafata, Jehorama a Achaziáše, i vlastní zasvěcené dary a všechno zlato, které se našlo v pokladnicích Hospodinova chrámu i královského paláce, a poslal to aramejskému králi Chazaelovi. Ten pak od Jeruzaléma odtáhl.</verse>
+        <verse osisID='2Kgs.12.20'>Ostatní Joašovy skutky - o všem, co vykonal - se, jak známo, píše v Kronice judských králů.</verse>
+        <verse osisID='2Kgs.12.21'>Proti Joašovi se spikli jeho vlastní dvořané a zabili ho poblíž Bet-mila na cestě do Sily. Dvořané, kteří ho zavraždili, byli Jozabad, syn Šimeatův, a Jehozabad, syn Šomerův. Joaš byl pochován ke svým otcům ve Městě Davidově. Na jeho místě pak kraloval jeho syn Amaciáš.</verse>
+      </chapter>
+      <chapter osisID='2Kgs.13'>
+        <verse osisID='2Kgs.13.1'>Třiadvacátého roku judského krále Joaše, syna Achaziášova, se izraelským králem stal Joachaz, syn Jehuův. Kraloval v Samaří sedmnáct let</verse>
+        <verse osisID='2Kgs.13.2'>a páchal, co je v Hospodinových očích zlé. Následoval hříchy Jeroboáma, syna Nebatova, který svedl celý Izrael, a neodvrátil se od nich.</verse>
+        <verse osisID='2Kgs.13.3'>Hospodin proto vzplanul proti Izraeli hněvem a nadlouho je vydal do rukou aramejského krále Chazaela i jeho syna Ben-hadada.</verse>
+        <verse osisID='2Kgs.13.4'>Joachaz ale prosil Hospodina o milost a Hospodin ho vyslyšel. Viděl totiž trápení, kterým aramejský král Izrael sužoval.</verse>
+        <verse osisID='2Kgs.13.5'>Hospodin tehdy Izraeli dal zachránce, takže se synové Izraele z moci Aramu vymanili a mohli žít ve svém vlastním tak jako kdysi.</verse>
+        <verse osisID='2Kgs.13.6'>Neodvrátili se ale od hříchů domu Jeroboámova, který svedl celý Izrael, a pokračovali v nich. V Samaří dokonce stál Ašeřin posvátný kůl.</verse>
+        <verse osisID='2Kgs.13.7'>Proto z Joachazova vojska nezbylo více než 50 jezdců, 10 vozů a 10 000 pěšáků. Tak je aramejský král zničil. Rozdrtil je na prach.</verse>
+        <verse osisID='2Kgs.13.8'>Ostatní Joachazovy skutky - co všechno vykonal a jak byl udatný - o tom se, jak známo, píše v Kronice izraelských králů.</verse>
+        <verse osisID='2Kgs.13.9'>Potom Joachaz ulehl ke svým otcům a byl pochován v Samaří. Na jeho místě pak kraloval jeho syn Jehoaš.</verse>
+        <verse osisID='2Kgs.13.10'>Sedmatřicátého roku judského krále Joaše se izraelským králem stal Jehoaš, syn Joachazův. Kraloval šestnáct let</verse>
+        <verse osisID='2Kgs.13.11'>a páchal, co je v Hospodinových očích zlé. Neodvrátil se od žádných hříchů Jeroboáma, syna Nebatova, který svedl celý Izrael, ale pokračoval v nich.</verse>
+        <verse osisID='2Kgs.13.12'>Ostatní Jehoašovy skutky - co všechno vykonal a jak udatně bojoval s judským králem Amaciášem - o tom se, jak známo, píše v Kronice izraelských králů.</verse>
+        <verse osisID='2Kgs.13.13'>Potom Jehoaš ulehl ke svým otcům a na jeho trůn dosedl Jeroboám. Jehoaš byl pochován v Samaří mezi izraelskými králi.</verse>
+        <verse osisID='2Kgs.13.14'>Když Elíša na smrt onemocněl, izraelský král Jehoaš ho navštívil, plakal nad ním a volal: "Otče můj, otče můj! Jízdo izraelská!"</verse>
+        <verse osisID='2Kgs.13.15'>Elíša mu řekl: "Přines luk a šípy." Když je přinesl,</verse>
+        <verse osisID='2Kgs.13.16'>Elíša mu řekl: "Polož ruku na luk." A když to udělal, Elíša položil své ruce na ruce královy.</verse>
+        <verse osisID='2Kgs.13.17'>"Otevři okno na východ," řekl mu Elíša, a když je otevřel, řekl mu: "Střel!" Jakmile vystřelil, Elíša zvolal: "Šíp Hospodinova vítězství! Šíp vítězství nad Aramem! Udeříš na Arama v Afeku a úplně ho rozdrtíš."</verse>
+        <verse osisID='2Kgs.13.18'>Potom řekl: "Vezmi šípy." Když je vzal, Elíša mu řekl: "Udeř jimi o zem! Izraelský král udeřil třikrát a přestal.</verse>
+        <verse osisID='2Kgs.13.19'>Tehdy se na něj Boží muž rozhněval: "Měl jsi udeřit pětkrát nebo šestkrát - pak bys Arama úplně rozdrtil! Teď ho ale porazíš jen třikrát."</verse>
+        <verse osisID='2Kgs.13.20'>Elíša pak zemřel a byl pochován. Příští jaro do země vtrhli moábští nájezdníci.</verse>
+        <verse osisID='2Kgs.13.21'>Izraelci právě kohosi pohřbívali, když vtom uviděli nájezdníky. Hodili ho tedy do Elíšova hrobu a utekli. Jakmile ten muž dopadl na Elíšovy kosti, ožil a postavil se na nohy.</verse>
+        <verse osisID='2Kgs.13.22'>Aramejský král Chazael trápil Izrael po celou dobu Joachazovy vlády.</verse>
+        <verse osisID='2Kgs.13.23'>Hospodin se ale nad nimi smiloval. Slitoval se a shlédl na ně kvůli své smlouvě s Abrahamem, Izákem a Jákobem. Nechtěl dopustit jejich zkázu a dosud je nevyhnal ze své blízkosti.</verse>
+        <verse osisID='2Kgs.13.24'>Aramejský král Chazael pak zemřel a na jeho místě začal kralovat jeho syn Ben-hadad.</verse>
+        <verse osisID='2Kgs.13.25'>Jehoaš, syn Joachazův, tehdy na Ben-hadadovi, synu Chazelovu, znovu dobyl města, která Chazael ve válce vzal jeho otci Joachazovi. Jehoaš ho třikrát porazil a dobyl ta izraelská města zpět.</verse>
+      </chapter>
+      <chapter osisID='2Kgs.14'>
+        <verse osisID='2Kgs.14.1'>Druhého roku izraelského krále Jehoaše, syna Joachazova, začal kralovat Amaciáš, syn Joaše, krále judského.</verse>
+        <verse osisID='2Kgs.14.2'>Stal se králem v pětadvaceti letech a kraloval v Jeruzalémě dvacet devět let. Jeho matka se jmenovala Joadan a byla z Jeruzaléma.</verse>
+        <verse osisID='2Kgs.14.3'>Dělal, co je v Hospodinových očích správné, ale ne tak jako jeho otec David. Ve všem se řídil příkladem svého otce Joaše.</verse>
+        <verse osisID='2Kgs.14.4'>Obětní výšiny ale nebyly odstraněny, a tak lid nadále obětoval a pálil kadidlo na výšinách.</verse>
+        <verse osisID='2Kgs.14.5'>Jakmile měl Amaciáš království pevně v rukou, nechal pobít ty své dvořany, kteří zabili jeho královského otce.</verse>
+        <verse osisID='2Kgs.14.6'>Syny těch vrahů ale nepopravil, neboť v knize Mojžíšova zákona je psáno, že Hospodin přikázal: "Rodiče nemohou platit životem za své děti ani děti za své rodiče. Každý zaplatí životem za svůj vlastní hřích."</verse>
+        <verse osisID='2Kgs.14.7'>To on porazil 10 000 Edomců v Solném údolí. V oné bitvě dobyl Selu, přejmenoval ji na Jokteel a tak se jmenuje dodnes.</verse>
+        <verse osisID='2Kgs.14.8'>Amaciáš tenkrát vzkázal izraelskému králi Jehoašovi, synu Joachaze, syna Jehuova: "Pojďme se utkat!"</verse>
+        <verse osisID='2Kgs.14.9'>Izraelský král Jehoaš ale judskému králi Amaciášovi vzkázal: "Jeden bodlák v Libanonu vzkázal cedru v Libanonu: Dej svou dceru mému synu za ženu! Jedno zvíře v Libanonu šlo okolo a ten bodlák pošlapalo.</verse>
+        <verse osisID='2Kgs.14.10'>Porazil jsi Edoma, srdce se ti dme. Jen se chlub, ale raději zůstaň doma. Proč si říkáš o neštěstí? Chceš padnout a strhnout s sebou i Judu?"</verse>
+        <verse osisID='2Kgs.14.11'>Amaciáš ale neposlechl. Izraelský král Jehoaš tedy vytáhl a utkal se s judským králem Amaciášem u judského Bet-šemeše.</verse>
+        <verse osisID='2Kgs.14.12'>Juda byl Izraelem poražen a celé jeho vojsko se rozuteklo domů.</verse>
+        <verse osisID='2Kgs.14.13'>Izraelský král Jehoaš zajal judského krále Amaciáše, syna Joašova, syna Achaziášova, u Bet-šemeše, odkud se vypravil na Jeruzalém. Od Efraimské brány až k Nárožní bráně proboural v jeruzalémských hradbách trhlinu na 400 loktů širokou.</verse>
+        <verse osisID='2Kgs.14.14'>Pobral všechno zlato a stříbro i všechny nádoby, které se našly v Hospodinově chrámu i v pokladnicích královského paláce. Potom se s rukojmími vrátil do Samaří.</verse>
+        <verse osisID='2Kgs.14.15'>Ostatní Jehoašovy skutky - co všechno vykonal a jak udatně bojoval s judským králem Amaciášem - o tom se, jak známo, píše v Kronice izraelských králů.</verse>
+        <verse osisID='2Kgs.14.16'>Potom Jehoaš ulehl ke svým otcům a byl pochován v Samaří mezi izraelskými králi. Na jeho místě pak začal kralovat jeho syn Jeroboám.</verse>
+        <verse osisID='2Kgs.14.17'>Judský král Amaciáš, syn Joašův, žil po smrti izraelského krále Jehoaše, syna Joachazova, ještě patnáct let.</verse>
+        <verse osisID='2Kgs.14.18'>Ostatní Amaciášovy skutky jsou, jak známo, sepsány v Kronice judských králů.</verse>
+        <verse osisID='2Kgs.14.19'>V Jeruzalémě proti němu zosnovali spiknutí. Utekl sice do Lachiše, ale i tam za ním poslali vrahy, kteří ho zabili.</verse>
+        <verse osisID='2Kgs.14.20'>Převezli ho na koni a pochovali ho v Jeruzalémě, ve Městě Davidově, k jeho předkům.</verse>
+        <verse osisID='2Kgs.14.21'>Všechen judský lid pak vzal Azariáše, kterému bylo šestnáct let, a prohlásili ho za krále na místě jeho otce Amaciáše.</verse>
+        <verse osisID='2Kgs.14.22'>To on vybudoval Eilat a vrátil ho Judovi poté, co král Amaciáš ulehl ke svým otcům.</verse>
+        <verse osisID='2Kgs.14.23'>Patnáctého roku judského krále Amaciáše, syna Joašova, se stal izraelským králem Jeroboám, syn Jehoašův. Kraloval v Samaří čtyřicet jedna let</verse>
+        <verse osisID='2Kgs.14.24'>a páchal, co je v Hospodinových očích zlé. Neodvrátil se od žádných hříchů Jeroboáma, syna Nebatova, který svedl celý Izrael.</verse>
+        <verse osisID='2Kgs.14.25'>To on obnovil hranice Izraele od Lebo-chamátu až k Mrtvému moři v Aravě, jak to Hospodin, Bůh Izraele, řekl ústy svého služebníka Jonáše, syna Amitajova, proroka z Gat-cheferu.</verse>
+        <verse osisID='2Kgs.14.26'>Hospodin viděl trpké trápení Izraele, že je konec s pánem i kmánem a že Izrael nemá, kdo by mu pomohl.</verse>
+        <verse osisID='2Kgs.14.27'>A protože se Hospodin rozhodl, že nevyhladí jméno Izraele pod nebem, zachránil je skrze Jeroboáma, syna Jehoašova.</verse>
+        <verse osisID='2Kgs.14.28'>Ostatní Jeroboámovy skutky - co všechno vykonal a jak udatně bojoval, když Izraeli navrátil Damašek i judský Chamát - o tom se, jak známo, píše v Kronice izraelských králů.</verse>
+        <verse osisID='2Kgs.14.29'>Potom Jeroboám ulehl ke svým otcům a byl pochován mezi izraelskými králi. Na jeho místě pak začal kralovat jeho syn Zachariáš.</verse>
+      </chapter>
+      <chapter osisID='2Kgs.15'>
+        <verse osisID='2Kgs.15.1'>Sedmadvacátého roku izraelského krále Jeroboáma začal nad Judou kralovat Azariáš, syn Amaciáše.</verse>
+        <verse osisID='2Kgs.15.2'>Stal se králem v šestnácti letech a kraloval v Jeruzalémě padesát dva let. Jeho matka se jmenovala Jecholia a byla z Jeruzaléma.</verse>
+        <verse osisID='2Kgs.15.3'>Dělal, co je správné v Hospodinových očích, přesně jako jeho otec Amaciáš.</verse>
+        <verse osisID='2Kgs.15.4'>Obětní výšiny ale nebyly odstraněny, a tak lid nadále obětoval a pálil kadidlo na výšinách.</verse>
+        <verse osisID='2Kgs.15.5'>Hospodin tohoto krále ranil malomocenstvím, takže až do dne své smrti bydlel v odděleném domě. Královský palác tehdy spravoval jeho syn Jotam, který také vládl lidu.</verse>
+        <verse osisID='2Kgs.15.6'>Ostatní Azariášovy skutky - co všechno vykonal - o tom se, jak známo, píše v Kronice judských králů.</verse>
+        <verse osisID='2Kgs.15.7'>Když Azariáš ulehl ke svým otcům, pochovali ho mezi jeho předky ve Městě Davidově. Na jeho místě pak začal kralovat jeho syn Jotam.</verse>
+        <verse osisID='2Kgs.15.8'>Osmatřicátého roku judského krále Azariáše se izraelským králem stal Zachariáš, syn Jeroboámův. Kraloval v Samaří šest měsíců</verse>
+        <verse osisID='2Kgs.15.9'>a páchal, co je v Hospodinových očích zlé, tak jako jeho otcové. Neodvrátil se od hříchů Jeroboáma, syna Nebatova, který svedl celý Izrael.</verse>
+        <verse osisID='2Kgs.15.10'>Šalum, syn Jábešův, proti němu zosnoval spiknutí a před lidmi ho napadl. Poté, co ho zavraždil, se stal králem místo něj.</verse>
+        <verse osisID='2Kgs.15.11'>Ostatní Zachariášovy skutky jsou, jak známo, sepsány v Kronice izraelských králů.</verse>
+        <verse osisID='2Kgs.15.12'>Hospodin kdysi dal Jehuovi slovo: "Na izraelském trůnu budou sedět čtyři tví potomci." A tak se také stalo.</verse>
+        <verse osisID='2Kgs.15.13'>Devětatřicátého roku judského krále Uziáše se v Samaří stal králem Šalum, syn Jábešův. Kraloval jeden měsíc.</verse>
+        <verse osisID='2Kgs.15.14'>Z Tirsy totiž vytáhl Menachem, syn Gadiho, dorazil k Samaří a tam Šaluma, syna Jábešova, napadl. Poté, co ho zavraždil, se stal králem místo něj.</verse>
+        <verse osisID='2Kgs.15.15'>Ostatní Šalumovy skutky - včetně spiknutí, které zosnoval - jsou sepsány v Kronice izraelských králů.</verse>
+        <verse osisID='2Kgs.15.16'>Menachem tenkrát vytáhl z Tirsy, přepadl Tipsach, a když mu odmítli otevřít, vybil celé to město i okolí a všechny těhotné tam rozpáral.</verse>
+        <verse osisID='2Kgs.15.17'>Devětatřicátého roku judského krále Uziáše se izraelským králem stal Menachem, syn Gadiho. Kraloval v Samaří deset let</verse>
+        <verse osisID='2Kgs.15.18'>a páchal, co je v Hospodinových očích zlé. Za celou tu dobu se neodvrátil od žádného z hříchů Jeroboáma, syna Nebatova, který svedl celý Izrael.</verse>
+        <verse osisID='2Kgs.15.19'>Do země pak přitáhl asyrský král Pul a Menachem mu odevzdal 1 000 talentů stříbra, aby získal jeho podporu a udržel si královskou moc.</verse>
+        <verse osisID='2Kgs.15.20'>Menachem to stříbro vymohl od Izraelců. Každý zámožný člověk musel králi odevzdat 50 šekelů stříbra, aby měl Menachem co dát asyrskému králi. Ten se pak ale obrátil zpět a v zemi se nezdržel.</verse>
+        <verse osisID='2Kgs.15.21'>Ostatní Menachemovy skutky - co všechno vykonal - o tom se, jak známo, píše v Kronice izraelských králů.</verse>
+        <verse osisID='2Kgs.15.22'>Když Menachem ulehl ke svým otcům, na jeho místě začal kralovat jeho syn Pekachiáš.</verse>
+        <verse osisID='2Kgs.15.23'>Padesátého roku judského krále Azariáše se izraelským králem stal Pekachiáš, syn Menachemův. Kraloval v Samaří dva roky</verse>
+        <verse osisID='2Kgs.15.24'>a páchal, co je v Hospodinových očích zlé. Neodvrátil se od hříchů Jeroboáma, syna Nebatova, který svedl celý Izrael.</verse>
+        <verse osisID='2Kgs.15.25'>Pekach, syn Remaliášův, jeho pobočník, proti němu zosnoval spiknutí. Vzal s sebou padesát mužů z Gileádu a zavraždil ho v královském paláci v Samaří a s ním i Argoba a Aria. Poté, co ho zavraždil, se stal králem místo něj.</verse>
+        <verse osisID='2Kgs.15.26'>Ostatní Pekachiášovy skutky - co všechno vykonal - o tom se píše v Kronice izraelských králů.</verse>
+        <verse osisID='2Kgs.15.27'>Dvaapadesátého roku judského krále Azariáše se izraelským králem stal Pekach, syn Remaliášův. Kraloval v Samaří dvacet let</verse>
+        <verse osisID='2Kgs.15.28'>a páchal, co je v Hospodinových očích zlé. Neodvrátil se od hříchů Jeroboáma, syna Nebatova, který svedl celý Izrael.</verse>
+        <verse osisID='2Kgs.15.29'>Za vlády izraelského krále Pekacha přitáhl asyrský král Tiglat-pilesar a dobyl Ijon, Abel-bet-maaku, Janoach, Kedeš a Chacor. Zabral Gileád, Galileu i celý kraj Neftalí a lid odvlekl do Asýrie.</verse>
+        <verse osisID='2Kgs.15.30'>Hošea, syn Ely, pak proti Pekachovi, synu Remaliášovu, zosnoval spiknutí. Napadl ho a zavraždil, a tak se dvacátého roku Jotama, syna Uziášova, stal králem místo něj.</verse>
+        <verse osisID='2Kgs.15.31'>Ostatní Pekachovy skutky - co všechno vykonal - o tom se píše v Kronice izraelských králů.</verse>
+        <verse osisID='2Kgs.15.32'>Druhého roku izraelského krále Pekacha, syna Remaliášova, začal nad Judou kralovat Jotam, syn Uziášův.</verse>
+        <verse osisID='2Kgs.15.33'>Stal se králem v pětadvaceti letech a kraloval v Jeruzalémě šestnáct let. Jeho matka se jmenovala Jeruša, dcera Sádokova.</verse>
+        <verse osisID='2Kgs.15.34'>Dělal, co je správné v Hospodinových očích, přesně jako jeho otec Uziáš.</verse>
+        <verse osisID='2Kgs.15.35'>Obětní výšiny ale nebyly odstraněny, a tak lid nadále obětoval a pálil kadidlo na výšinách. To on vystavěl Horní bránu Hospodinova chrámu.</verse>
+        <verse osisID='2Kgs.15.36'>Ostatní Jotamovy skutky - co všechno vykonal - o tom se, jak známo, píše v Kronice judských králů.</verse>
+        <verse osisID='2Kgs.15.37'>(V té době začal Hospodin proti Judovi podněcovat aramejského krále Recina a Pekacha, syna Remaliášova.)</verse>
+        <verse osisID='2Kgs.15.38'>Jotam pak ulehl ke svým otcům a byl pochován mezi svými předky ve městě svého otce Davida. Na jeho místě pak kraloval jeho syn Achaz.</verse>
+      </chapter>
+      <chapter osisID='2Kgs.16'>
+        <verse osisID='2Kgs.16.1'>Sedmnáctého roku Pekacha, syna Remaliášova, začal nad Judou kralovat Achaz, syn Jotamův.</verse>
+        <verse osisID='2Kgs.16.2'>Stal se králem ve dvaceti letech a kraloval v Jeruzalémě šestnáct let. Nedělal však, co je v Hospodinových očích správné, jako kdysi jeho otec David,</verse>
+        <verse osisID='2Kgs.16.3'>ale řídil se způsoby izraelských králů. Vlastního syna dokonce nechal provést ohněm podle ohavných zvyklostí národů, které Hospodin vyhnal před syny Izraele.</verse>
+        <verse osisID='2Kgs.16.4'>Obětoval a pálil kadidlo na posvátných výšinách, návrších a pod kdejakým košatým stromem.</verse>
+        <verse osisID='2Kgs.16.5'>Aramejský král Recin tehdy s izraelským králem Pekachem, synem Remaliášovým, vytáhl do boje proti Jeruzalému. Oblehli Achaze, ale nedokázali ho porazit.</verse>
+        <verse osisID='2Kgs.16.6'>V té době aramejský král Recin vyhnal Judejce z Eilatu a dobyl ho pro Aramejce. Potom se do Eilatu nastěhovali Edomci a bydlí tam až dodnes.</verse>
+        <verse osisID='2Kgs.16.7'>Achaz proto vyslal k asyrskému králi Tiglat-pilesarovi posly s prosbou: "Jsem tvůj služebník, tvůj syn! Přijď mě prosím vysvobodit z rukou aramejského a izraelského krále, kteří mě napadli."</verse>
+        <verse osisID='2Kgs.16.8'>Achaz tehdy pobral stříbro a zlato, které se našlo v Hospodinově chrámu i v pokladnicích královského paláce, a poslal to asyrskému králi jako úplatu.</verse>
+        <verse osisID='2Kgs.16.9'>Asyrský král ho vyslyšel. Přitáhl k Damašku, dobyl ho, obyvatele odvlekl do Kíru a Recina popravil.</verse>
+        <verse osisID='2Kgs.16.10'>Král Achaz se pak vypravil vstříc asyrskému králi Tiglat-pilesarovi do Damašku. Když spatřil damašský oltář, poslal knězi Uriášovi jeho nákres a podrobný popis jeho provedení.</verse>
+        <verse osisID='2Kgs.16.11'>Kněz Uriáš pak postavil oltář přesně podle údajů, které poslal král Achaz z Damašku. Stihl to ještě předtím, než se král Achaz odtamtud vrátil.</verse>
+        <verse osisID='2Kgs.16.12'>Když král dorazil z Damašku, prohlédl si oltář, přistoupil k němu a obětoval na něm.</verse>
+        <verse osisID='2Kgs.16.13'>Zažehl svou zápalnou i moučnou oběť, přinesl úlitbu a skropil oltář krví své pokojné oběti.</verse>
+        <verse osisID='2Kgs.16.14'>Bronzový oltář, který stával před Hospodinem, ale nechal odnést z průčelí chrámu, z místa mezi novým oltářem a Hospodinovým chrámem, a postavil ho stranou onoho oltáře směrem na sever.</verse>
+        <verse osisID='2Kgs.16.15'>Potom král Achaz přikázal knězi Uriášovi: "Na tomto velkém novém oltáři obětuj ranní zápaly, večerní moučné oběti - zápalnou a moučnou oběť za krále i zápalnou a moučnou oběť s úlitbou za všechen lid země. Skrápěj ho krví zápalů a obětí. Co dělat s tím bronzovým oltářem, si ještě rozmyslím."</verse>
+        <verse osisID='2Kgs.16.16'>A kněz Uriáš udělal všechno přesně tak, jak mu Achaz přikázal.</verse>
+        <verse osisID='2Kgs.16.17'>Král Achaz pak osekal postranice z bronzových stojanů a sejmul z nich umyvadla. Moře sňal z bronzových býků, na nichž spočívalo, a položil je na kamenné dláždění.</verse>
+        <verse osisID='2Kgs.16.18'>Aby se zalíbil asyrskému králi, nechal z chrámu odstranit podstavec trůnu, který tam předtím postavili, a zrušil vnější královský vchod do Hospodinova chrámu.</verse>
+        <verse osisID='2Kgs.16.19'>Ostatní Achazovy skutky - co všechno vykonal - o tom se, jak známo, píše v Kronice judských králů.</verse>
+        <verse osisID='2Kgs.16.20'>Achaz ulehl ke svým otcům a byl pochován mezi svými předky ve Městě Davidově. Na jeho místě pak začal kralovat jeho syn Ezechiáš.</verse>
+      </chapter>
+      <chapter osisID='2Kgs.17'>
+        <verse osisID='2Kgs.17.1'>Dvanáctého roku judského krále Achaze se izraelským králem stal Hošea, syn Ely. Kraloval v Samaří devět let</verse>
+        <verse osisID='2Kgs.17.2'>a páchal, co je v Hospodinových očích zlé, i když ne tak jako izraelští králové před ním.</verse>
+        <verse osisID='2Kgs.17.3'>Napadl ho asyrský král Šalman-assar. Hošea byl totiž jeho vazalem a odváděl mu dávky,</verse>
+        <verse osisID='2Kgs.17.4'>ale asyrský král odhalil jeho zradu: Hošea poslal vyslance k egyptskému vládci do Soa a přestal asyrskému králi odvádět každoroční daň. Proto ho asyrský král zajal a v poutech vsadil do vězení.</verse>
+        <verse osisID='2Kgs.17.5'>Asyrský král vtrhl do celé země, přitáhl až k Samaří a tři roky město obléhal.</verse>
+        <verse osisID='2Kgs.17.6'>Devátého roku Hošeovy vlády konečně Samaří dobyl a Izraelce odvlekl do Asýrie. Usídlil je v Chalachu a Chaboru na řece Gozan a v médských městech.</verse>
+        <verse osisID='2Kgs.17.7'>Stalo se to proto, že synové Izraele hřešili proti Hospodinu, svému Bohu, který je vyvedl z Egypta, z moci egyptského vládce faraona. Uctívali cizí bohy</verse>
+        <verse osisID='2Kgs.17.8'>a řídili se zvyklostmi národů, které před nimi Hospodin vyhnal, a zvyklostmi izraelských králů.</verse>
+        <verse osisID='2Kgs.17.9'>Synové Izraele prováděli špatnosti proti Hospodinu, svému Bohu. Ve všech svých městech - od hlídkových věží až po pevnosti - si nastavěli obětní výšiny.</verse>
+        <verse osisID='2Kgs.17.10'>Na kdejakém vyšším návrší a pod kdejakým košatým stromem si nadělali posvátné sloupy a Ašeřiny kůly.</verse>
+        <verse osisID='2Kgs.17.11'>Na všech těch výšinách pálili kadidlo, jako to dělali pohané, které před nimi Hospodin vyhnal. Prováděli zlé věci a popouzeli Hospodina.</verse>
+        <verse osisID='2Kgs.17.12'>Sloužili hnusným modlám, ačkoli jim Hospodin řekl: "To nesmíte!"</verse>
+        <verse osisID='2Kgs.17.13'>Hospodin varoval Izrael i Judu skrze všechny své proroky a vidoucí: "Odvraťte se od svých zlých cest a dodržujte má přikázání a ustanovení! Tak to stojí v celém Zákoně, který jsem svěřil vašim otcům a který jsem vám předal skrze své služebníky proroky."</verse>
+        <verse osisID='2Kgs.17.14'>Oni však neposlechli a zatvrdili se. Byli tvrdošíjní stejně jako jejich otcové, kteří nevěřili v Hospodina, svého Boha.</verse>
+        <verse osisID='2Kgs.17.15'>Zavrhli jeho pravidla, jeho smlouvu, kterou uzavřel s jejich otci, i jeho výstrahy, jimiž je varoval. Marnost následovali a marností se stali. Následovali národy ve svém okolí, ačkoli jim Hospodin řekl: "To nesmíte!"</verse>
+        <verse osisID='2Kgs.17.16'>Opustili všechna přikázání Hospodina, svého Boha, a odlili si dvě telata. Vyrobili si také posvátné kůly, klaněli se všem nebeským zástupům a sloužili Baalovi.</verse>
+        <verse osisID='2Kgs.17.17'>Své syny a dcery prováděli ohněm a zabývali se čarováním a věštěním. Zaprodali se, páchali, co je v Hospodinových očích zlé, a popouzeli ho.</verse>
+        <verse osisID='2Kgs.17.18'>Hospodin se na Izrael nesmírně rozhněval a vyhnal je ze své blízkosti. Ponechal tam jen samotný kmen Juda.</verse>
+        <verse osisID='2Kgs.17.19'>Ani Juda však nedodržoval přikázání Hospodina, svého Boha. Řídili se zvyklostmi Izraele, jednali jako oni.</verse>
+        <verse osisID='2Kgs.17.20'>Hospodin pak celé pokolení Izraele zavrhl. Ponížil je, vydával je do rukou nájezdníků, až je nakonec zapudil ze své blízkosti.</verse>
+        <verse osisID='2Kgs.17.21'>Když odtrhl Izrael od domu Davidova, udělali si králem Jeroboáma, syna Nebatova. Jeroboám ale Izrael odvrátil od Hospodina a svedl je k velikému hříchu.</verse>
+        <verse osisID='2Kgs.17.22'>Synové Izraele pak pokračovali ve všech hříších, které páchal Jeroboám, a neodvrátili se od nich.</verse>
+        <verse osisID='2Kgs.17.23'>Nakonec tedy Hospodin vyhnal Izrael ze své blízkosti, jak je varoval skrze všechny své služebníky proroky. Izrael je proto až dodnes vystěhován ze své země do Asýrie.</verse>
+        <verse osisID='2Kgs.17.24'>Asyrský král pak přivedl pohany z Babylonu, Kúty, Avy, Chamátu a Sefarvaimu a usídlil je v samařských městech namísto synů Izraele. Tak ovládli Samaří a zabydleli se v izraelských městech.</verse>
+        <verse osisID='2Kgs.17.25'>Když tam začali žít, nesloužili Hospodinu, a tak na ně poslal lvy, kteří je zabíjeli.</verse>
+        <verse osisID='2Kgs.17.26'>Asyrský král tehdy dostal zprávu: "Národy, které jsi vystěhoval a přesídlil do samařských měst, neznají způsoby Boha té země, a tak na ně poslal lvy, kteří je zabíjejí. Je to proto, že neznají způsoby Boha té země."</verse>
+        <verse osisID='2Kgs.17.27'>Asyrský král proto vydal rozkaz: "Doveďte tam jednoho z kněží, které jste odtud vyhnali. Smí se tam vrátit a žít tam, aby je vyučoval způsobům Boha té země."</verse>
+        <verse osisID='2Kgs.17.28'>Jeden z kněží odvlečených ze Samaří tedy přišel, usadil se v Bet-elu a učil je, jak uctívat Hospodina.</verse>
+        <verse osisID='2Kgs.17.29'>Každý z těch národů si ale ve městě, kam přišel bydlet, nadělal vlastní bohy a vystavili si je ve svatyních, které Samaritáni postavili na svých obětních výšinách.</verse>
+        <verse osisID='2Kgs.17.30'>Babylóňané si udělali Sukot-benot, obyvatelé Kútu si udělali Nergala, Chamáťané si udělali Ašima,</verse>
+        <verse osisID='2Kgs.17.31'>Avijci si udělali Nibchaza a Tartaka. Obyvatelé Sefarvaimu spalovali své děti v ohni sefarvaimským božstvům Adramelechovi a Anamelechovi.</verse>
+        <verse osisID='2Kgs.17.32'>K tomu pak ještě uctívali Hospodina; zřídili si ale své vlastní kněze posvátných výšin, kteří za ně obětovali ve svatyních na výšinách.</verse>
+        <verse osisID='2Kgs.17.33'>Uctívali sice Hospodina, ale sloužili také svým vlastním bohům podle zvyklostí těch národů, z nichž byli vystěhováni.</verse>
+        <verse osisID='2Kgs.17.34'>Až dodnes se řídí podle svých starých zvyků. Nebojí se Hospodina a neřídí se podle jeho ustanovení a práv ani podle Zákona a přikázání, která Hospodin svěřil synům Jákoba, jemuž dal jméno Izrael.</verse>
+        <verse osisID='2Kgs.17.35'>S těmi Hospodin kdysi uzavřel smlouvu a přikázal jim: "Neuctívejte cizí bohy, neklaňte se jim, neslužte jim ani jim neobětujte!</verse>
+        <verse osisID='2Kgs.17.36'>Pouze Hospodina, který vás vyvedl z Egypta velikou silou a vztaženou paží, jeho jediného ctěte, jemu se klanějte a jemu obětujte.</verse>
+        <verse osisID='2Kgs.17.37'>Po všechny dny pečlivě dodržujte ustanovení, práva, Zákon a přikázání, která vám napsal. Neuctívejte cizí bohy.</verse>
+        <verse osisID='2Kgs.17.38'>Nezapomínejte na smlouvu, kterou jsem s vámi uzavřel, a neuctívejte cizí bohy.</verse>
+        <verse osisID='2Kgs.17.39'>Ctěte jen Hospodina, svého Boha. On vás zachrání z rukou všech vašich nepřátel!"</verse>
+        <verse osisID='2Kgs.17.40'>Oni však neposlechli a řídili se podle svých starých zvyků.</verse>
+        <verse osisID='2Kgs.17.41'>Tyto národy sice začaly uctívat Hospodina, ale nadále sloužily svým modlám. Také jejich synové a synové jejich synů až dodnes jednají tak jako předtím jejich otcové.</verse>
+      </chapter>
+      <chapter osisID='2Kgs.18'>
+        <verse osisID='2Kgs.18.1'>Třetího roku izraelského krále Hošey, syna Elova, začal nad Judou kralovat Ezechiáš, syn Achazův.</verse>
+        <verse osisID='2Kgs.18.2'>Stal se králem v pětadvaceti letech a kraloval v Jeruzalémě dvacet devět let. Jeho matka se jmenovala Abija, dcera Zachariášova.</verse>
+        <verse osisID='2Kgs.18.3'>Dělal, co je v Hospodinových očích správné, přesně jako kdysi jeho otec David.</verse>
+        <verse osisID='2Kgs.18.4'>To on odstranil obětní výšiny, rozbil posvátné sloupy a rozřezal Ašeřiny kůly. Roztloukl i bronzového hada, kterého kdysi zhotovil Mojžíš; až do té doby mu totiž synové Izraele pálili kadidlo. Říkalo se mu Nechuštan, Bronzovec.</verse>
+        <verse osisID='2Kgs.18.5'>Ezechiáš spoléhal na Hospodina, Boha Izraele. Mezi všemi judskými králi před ním ani po něm nebyl nikdo jako on.</verse>
+        <verse osisID='2Kgs.18.6'>Lnul k Hospodinu a neuchyloval se od něj. Dodržoval přikázání, která Hospodin vydal Mojžíšovi,</verse>
+        <verse osisID='2Kgs.18.7'>a Hospodin byl s ním. Ve všem, co podnikl, se mu dařilo. Vzbouřil se proti asyrskému králi a přestal mu sloužit.</verse>
+        <verse osisID='2Kgs.18.8'>Také porazil Filištíny až po Gazu a okolí, od hlídkových věží až po pevnosti.</verse>
+        <verse osisID='2Kgs.18.9'>Čtvrtého roku Ezechiášovy vlády (což byl sedmý rok izraelského krále Hošey, syna Elova,) vytáhl asyrský král Šalman-assar proti Samaří a oblehl je.</verse>
+        <verse osisID='2Kgs.18.10'>Teprve po třech letech je dobyl. Samaří padlo v šestém roce Ezechiášovy vlády, což byl devátý rok izraelského krále Hošey.</verse>
+        <verse osisID='2Kgs.18.11'>Asyrský král odvlekl Izrael do Asýrie a usadil je v Chalachu a Chaboru na řece Gozan a v médských městech.</verse>
+        <verse osisID='2Kgs.18.12'>Stalo se to proto, že neposlouchali Hospodina, svého Boha, ale porušovali jeho smlouvu. Neposlouchali a neřídili se ničím z toho, co přikázal Hospodinův služebník Mojžíš.</verse>
+        <verse osisID='2Kgs.18.13'>Čtrnáctého roku krále Ezechiáše vytáhl asyrský král Senacherib proti všem judským opevněným městům a dobyl je.</verse>
+        <verse osisID='2Kgs.18.14'>Judský král Ezechiáš vzkázal asyrskému králi do Lachiše: "Pochybil jsem. Jakékoli břímě mi uložíš, to ponesu, jen ode mě prosím odtáhni." Asyrský král tedy judskému králi Ezechiášovi uložil zaplatit 300 talentů stříbra a 30 talentů zlata.</verse>
+        <verse osisID='2Kgs.18.15'>Ezechiáš mu odevzdal všechno stříbro, které se našlo v Hospodinově chrámu a v pokladnicích královského paláce.</verse>
+        <verse osisID='2Kgs.18.16'>Judský král Ezechiáš tenkrát oloupal dveře i sloupy Hospodinova chrámu, které předtím sám nechal pokrýt zlatem, a odevzdal to asyrskému králi.</verse>
+        <verse osisID='2Kgs.18.17'>Asyrský král vyslal z Lachiše do Jeruzaléma ke králi Ezechiášovi svého vrchního velitele, nejvyššího správce a nejvyššího komořího s mocným vojskem. Vytáhli a zamířili k Jeruzalému, vystoupali vzhůru, a když dorazili, postavili se u strouhy Horního rybníka, u silnice k Valchářovu poli.</verse>
+        <verse osisID='2Kgs.18.18'>Volali krále, ale vyšel k nim správce paláce Eliakim, syn Chilkiášův, písař Šebna a kancléř Joach, syn Asafův.</verse>
+        <verse osisID='2Kgs.18.19'>Nejvyšší komoří k nim promluvil: "Vyřiďte Ezechiášovi: Tak praví velkokrál, král Asýrie: V co to doufáš?</verse>
+        <verse osisID='2Kgs.18.20'>To si myslíš, že pouhá slova nahradí válečné umění a sílu? Na koho to spoléháš, že se mi protivíš?</verse>
+        <verse osisID='2Kgs.18.21'>Spolehl ses na Egypt, na ten nalomený rákos? Kdo se o něj opře, tomu probodne dlaň! Takový je egyptský vládce farao ke všem, kdo na něj spolehnou.</verse>
+        <verse osisID='2Kgs.18.22'>Možná mi řeknete: ‚Spoléháme na Hospodina, svého Boha.' Není to snad ten, jehož obětní výšiny a oltáře Ezechiáš sám odstranil? Judovi a Jeruzalému pak nařídil: ‚Před tímto oltářem v Jeruzalémě se budete klanět!'</verse>
+        <verse osisID='2Kgs.18.23'>Pojď se teď vsadit s mým pánem, asyrským králem: Dám ti dva tisíce koní, jestli si na ně najdeš jezdce!</verse>
+        <verse osisID='2Kgs.18.24'>Jak se chceš postavit hejtmanu poslední provincie mého pána, když se spoléháš na vozy a jezdce z Egypta?</verse>
+        <verse osisID='2Kgs.18.25'>A navíc, cožpak jsem vytáhl toto místo zničit bez Hospodina? To Hospodin mi řekl: ‚Vytáhni proti té zemi a znič ji!'"</verse>
+        <verse osisID='2Kgs.18.26'>Eliakim, syn Chilkiášův, Šebna a Joach nejvyššího komořího požádali: "Mluv prosím ke svým služebníkům aramejsky, vždyť rozumíme. Nemluv s námi hebrejsky. Lid na hradbách to slyší."</verse>
+        <verse osisID='2Kgs.18.27'>Nejvyšší komoří jim odpověděl: "Copak mě můj pán s těmito slovy poslal za tvým pánem a za tebou? Poslal mě právě za těmi muži na hradbách! Budou žrát svoje lejna a pít svou moč tak jako vy!"</verse>
+        <verse osisID='2Kgs.18.28'>Pak se nejvyšší komoří postavil a začal hlasitě volat v hebrejštině: "Slyšte slovo velkokrále, krále Asýrie!</verse>
+        <verse osisID='2Kgs.18.29'>Tak praví král: Nenechte se od Ezechiáše klamat. Z mé ruky vás vysvobodit nemůže!</verse>
+        <verse osisID='2Kgs.18.30'>Nenechte se od Ezechiáše navádět k důvěře v Hospodina, když vám tvrdí: ‚Hospodin nás vysvobodí; toto město nepadne asyrskému králi do rukou.'</verse>
+        <verse osisID='2Kgs.18.31'>Neposlouchejte Ezechiáše! Takto praví král Asýrie: Uzavřete se mnou mír, vyjděte ke mně. Každý pak budete sklízet svou vinici a své fíky, každý budete pít ze své studny,</verse>
+        <verse osisID='2Kgs.18.32'>než přijdu a vezmu vás do země podobné té vaší, do země obilí a moštu, země chleba a vinic, země oliv a medu. Žijte, neumírejte! Neposlouchejte Ezechiáše! Jenom vás podvádí, když tvrdí: ‚Hospodin nás vysvobodí.'</verse>
+        <verse osisID='2Kgs.18.33'>Vysvobodili snad bohové všech národů své země z rukou asyrského krále?</verse>
+        <verse osisID='2Kgs.18.34'>Kde jsou bohové Chamátu a Arpádu? Kde jsou bohové Sefarvaimu, Heny a Ivy? Vysvobodili snad z mé ruky Samaří?</verse>
+        <verse osisID='2Kgs.18.35'>Kdo z bohů všech těch zemí vysvobodil svou zemi z mých rukou? Jak by tedy Hospodin z mé ruky vysvobodil Jeruzalém?"</verse>
+        <verse osisID='2Kgs.18.36'>Lid mlčel. Neodpověděli mu ani slovo. Královský rozkaz totiž zněl: "Neodpovídejte mu!"</verse>
+        <verse osisID='2Kgs.18.37'>Správce paláce Eliakim, syn Chilkiášův, písař Šebna a kancléř Joach, syn Asafův, pak přišli k Ezechiášovi, roucha roztržená, a ohlásili mu, co říkal nejvyšší komoří.</verse>
+      </chapter>
+      <chapter osisID='2Kgs.19'>
+        <verse osisID='2Kgs.19.1'>Když to král Ezechiáš uslyšel, roztrhl své roucho a zahalen pytlovinou vešel do Hospodinova chrámu.</verse>
+        <verse osisID='2Kgs.19.2'>Správce paláce Eliakima, písaře Šebnu a starší kněze, zahalené pytlovinou, poslal k proroku Izaiášovi, synu Amosovu,</verse>
+        <verse osisID='2Kgs.19.3'>aby mu řekli: "Tak praví Ezechiáš: Dnes je den soužení, trestání a ponížení. Porod už začal, ale není dost sil.</verse>
+        <verse osisID='2Kgs.19.4'>Kéž by Hospodin, tvůj Bůh, slyšel, co všechno řekl nejvyšší komoří vyslaný svým pánem, asyrským králem, aby urážel živého Boha. Kéž by je ztrestal za ta slova, která Hospodin, tvůj Bůh, slyšel. Modli se proto za tu hrstku, která tu z nás ještě zůstala."</verse>
+        <verse osisID='2Kgs.19.5'>Služebníci krále Ezechiáše tedy přišli k Izaiášovi.</verse>
+        <verse osisID='2Kgs.19.6'>Izaiáš jim odpověděl: "Vyřiďte svému pánu: Tak praví Hospodin - Neboj se slov, která jsi slyšel, když se proti mně rouhali sluhové asyrského krále.</verse>
+        <verse osisID='2Kgs.19.7'>Hle, zavanu na něj duchem, zaslechne zvěst, vrátí se do své země a v jeho zemi ho nechám padnout mečem."</verse>
+        <verse osisID='2Kgs.19.8'>Mezitím se nejvyšší komoří doslechl, že asyrský král opustil Lachiš. Stáhl se tedy za ním a zastihl ho při obléhání Libny.</verse>
+        <verse osisID='2Kgs.19.9'>Vtom se král dozvěděl o Tirhakovi: "Habešský král vytáhl proti tobě do boje." Obratem proto vyslal posly k Ezechiášovi se slovy:</verse>
+        <verse osisID='2Kgs.19.10'>"Vyřiďte judskému králi Ezechiášovi: Nedej se klamat svým Bohem, na něhož spoléháš. Říkáš si, že Jeruzalém nepadne do rukou asyrského krále.</verse>
+        <verse osisID='2Kgs.19.11'>Slyšel jsi ale, jak asyrští králové naložili se všemi zeměmi - vyhubili je! A ty bys měl uniknout?</verse>
+        <verse osisID='2Kgs.19.12'>Copak jiní bohové vysvobodili své národy? Mí předkové je vyhladili! Jak dopadl Gozan, Charan, Recef a lid Edenu v Tel-asaru?</verse>
+        <verse osisID='2Kgs.19.13'>Kde je král Chamátu, král Arpádu, král města Sefarvaim, Heny a Ivy?"</verse>
+        <verse osisID='2Kgs.19.14'>Král Ezechiáš převzal list od poslů a přečetl ho. Potom šel do Hospodinova chrámu a rozložil ho před Hospodinem.</verse>
+        <verse osisID='2Kgs.19.15'>Ezechiáš se tehdy k Hospodinu modlil: "Hospodine, Bože Izraele, jenž trůníš na cherubech, ty jsi jediný Bůh všech království země! To ty jsi učinil nebesa i zem!</verse>
+        <verse osisID='2Kgs.19.16'>Nakloň, Hospodine, své ucho a slyš, otevři své oči a viz. Slyšel jsi, co vzkázal Senacherib, jak urážel živého Boha?</verse>
+        <verse osisID='2Kgs.19.17'>Je to tak, Hospodine, asyrští králové ty národy i jejich země zpustošili</verse>
+        <verse osisID='2Kgs.19.18'>a jejich bohy naházeli do ohně. Nejsou to přece žádní bohové, ale jen dílo lidských rukou, dřevo a kámen - to proto je zničili.</verse>
+        <verse osisID='2Kgs.19.19'>Teď ale prosím, Hospodine, Bože náš, vysvoboď nás z jeho rukou, ať všechna království země poznají, že ty, Hospodine, jsi jediný Bůh!"</verse>
+        <verse osisID='2Kgs.19.20'>Izaiáš, syn Amosův, tehdy Ezechiášovi vzkázal: "Tak praví Hospodin, Bůh Izraele: Tvou modlitbu ohledně asyrského krále Senacheriba jsem vyslyšel.</verse>
+        <verse osisID='2Kgs.19.21'>Toto je slovo, které o něm vyřkl Hospodin: Posmívá se ti, pohrdá tebou panna, Dcera sionská; pošklebuje se nad tebou Dcera jeruzalémská!</verse>
+        <verse osisID='2Kgs.19.22'>Kohos to urážel, komu ses rouhal, proti komu jsi zvedl hlas? Koho sis pyšně měřil očima? Svatého Izraelova!</verse>
+        <verse osisID='2Kgs.19.23'>Urážels Pána ústy svých poslů, prý: ‚Já mám přece tolik vozů! Všemi svahy Libanonu vystoupal jsem k hřebenům, vykácel tam cedry, bory, dosáh jsem až na vrcholy, do lesů a do hvozdů.</verse>
+        <verse osisID='2Kgs.19.24'>Kopal jsem a vypil vodu cizincům, nohama jsem rozdupal všechny řeky Egypta!'</verse>
+        <verse osisID='2Kgs.19.25'>Neslyšel jsi ve svých dálkách? To já jsem to ustanovil, rozhodl jsem odedávna! Nyní jsem to tedy splnil: města dobře opevněná proměníš v hromady suti!</verse>
+        <verse osisID='2Kgs.19.26'>Kdo v nich bydlí, vysíleni, vyděšeni, zahanbeni, jak bylina polní byli, jako tráva zelená, jako plevel na střechách - uschne dřív, než uzrává!</verse>
+        <verse osisID='2Kgs.19.27'>Ať sedíš, chodíš sem a tam, ať na mě běsníš, já tě znám.</verse>
+        <verse osisID='2Kgs.19.28'>Tvé běsnění a tvá pýcha ke mně dolehla. Udidlo dám na tvá ústa, do nosu zabodnu ti hák, odvedu tě, kudys přišel, stejnou cestou půjdeš zpět!</verse>
+        <verse osisID='2Kgs.19.29'>A toto budeš mít jako znamení, Ezechiáši: Letos budete jíst, co samo vyroste. I napřesrok jen to, co se samo urodí. Třetího roku ale sejte a sklízejte, sázejte vinice a jezte z úrody.</verse>
+        <verse osisID='2Kgs.19.30'>Pozůstatek z domu Judy hluboce zakoření, vypučí vzhůru a přinese ovoce.</verse>
+        <verse osisID='2Kgs.19.31'>Z Jeruzaléma vzejde pozůstatek a z hory Sion ti, kdo se zachrání. Horlivost Hospodina zástupů to učiní!</verse>
+        <verse osisID='2Kgs.19.32'>Nuže, toto praví Hospodin o asyrském králi: Nevstoupí do tohoto města, nevystřelí sem ani šíp, násep proti němu nenavrší a nikdo nenastaví štít.</verse>
+        <verse osisID='2Kgs.19.33'>Odejde, kudy přivedla ho cesta, do tohoto města nevstoupí, praví Hospodin.</verse>
+        <verse osisID='2Kgs.19.34'>To město budu hájit, já sám je zachráním, pro sebe učiním to a pro Davida, jenž byl můj služebník!"</verse>
+        <verse osisID='2Kgs.19.35'>Téže noci pak vyšel Hospodinův anděl a pobil v asyrském táboře 185 000 mužů. Ráno vstali a hle - všude samé mrtvoly!</verse>
+        <verse osisID='2Kgs.19.36'>Asyrský král Senacherib se sebral, odtáhl pryč a zůstal v Ninive.</verse>
+        <verse osisID='2Kgs.19.37'>Jednou, když se klaněl v chrámu svého boha Nisrocha, ho jeho synové Adramelech a Sarecer probodli mečem. Uprchli pak do země Ararat a na jeho místě kraloval jeho syn Esar-chadon.</verse>
+      </chapter>
+      <chapter osisID='2Kgs.20'>
+        <verse osisID='2Kgs.20.1'>V té době Ezechiáš na smrt onemocněl. Prorok Izaiáš, syn Amosův, ho navštívil a řekl mu: "Toto praví Hospodin: Dej své věci do pořádku, protože umřeš; neuzdravíš se."</verse>
+        <verse osisID='2Kgs.20.2'>Ezechiáš se obrátil tváří ke zdi a modlil se k Hospodinu:</verse>
+        <verse osisID='2Kgs.20.3'>"Ach Hospodine, pamatuj prosím, že jsem před tebou žil oddaně a s upřímným srdcem a že jsem dělal, co je v tvých očích správné." A Ezechiáš plakal a plakal.</verse>
+        <verse osisID='2Kgs.20.4'>Izaiáš ještě ani nevyšel z prostředního nádvoří, když dostal slovo Hospodinovo:</verse>
+        <verse osisID='2Kgs.20.5'>"Vrať se a řekni Ezechiášovi, vůdci mého lidu: Toto praví Hospodin, Bůh tvého otce Davida: Slyšel jsem tvou modlitbu a viděl jsem tvé slzy. Hle, uzdravuji tě! Třetího dne vejdeš do Hospodinova chrámu.</verse>
+        <verse osisID='2Kgs.20.6'>Přidám ti patnáct let života. Kromě toho vysvobodím tebe i toto město z rukou asyrského krále a budu to město bránit. Udělám to pro sebe a pro svého služebníka Davida."</verse>
+        <verse osisID='2Kgs.20.7'>Izaiáš tenkrát řekl: "Přineste hroudu fíků." Přinesli je, přiložili na vřed a Ezechiáš byl uzdraven.</verse>
+        <verse osisID='2Kgs.20.8'>Ezechiáš se Izaiáše ptal: "Jaké dostanu znamení, že mě Hospodin uzdraví a že třetího dne vejdu do Hospodinova chrámu?"</verse>
+        <verse osisID='2Kgs.20.9'>Izaiáš odpověděl: "Toto je znamení od Hospodina, že vykoná, co ti slíbil: Má stín postoupit o deset stupňů, nebo se má o deset stupňů vrátit?"</verse>
+        <verse osisID='2Kgs.20.10'>Ezechiáš řekl: "Je snadnější, aby stín o deset stupňů postoupil. Ať se tedy raději o deset stupňů vrátí."</verse>
+        <verse osisID='2Kgs.20.11'>Prorok Izaiáš pak volal k Hospodinu a ten vrátil stín sestupující po Achazově schodišti o deset stupňů zpět.</verse>
+        <verse osisID='2Kgs.20.12'>V té době babylonský král Marduk-bal-adan, syn Bal-adanův, poslal Ezechiášovi list a dar, neboť slyšel, že Ezechiáš je nemocný.</verse>
+        <verse osisID='2Kgs.20.13'>Ezechiáš posly přijal a ukázal jim celou svou klenotnici, stříbro, zlato, balzámy a výborný olej. Ukázal jim i zbrojnici a všechno, co se jen našlo v jeho pokladnicích. V celém jeho paláci a v celém jeho panství nebylo nic, co by jim Ezechiáš neukázal.</verse>
+        <verse osisID='2Kgs.20.14'>Pak za králem Ezechiášem přišel prorok Izaiáš a ptal se: "Co říkali ti muži? Odkud přišli?" "Přišli z veliké dálky, až z Babylonu," odpověděl Ezechiáš.</verse>
+        <verse osisID='2Kgs.20.15'>"Co ve tvém paláci viděli?" ptal se dál. "Viděli všechno, co v paláci mám," odvětil Ezechiáš. "Není nic, co bych jim ze svých pokladů neukázal."</verse>
+        <verse osisID='2Kgs.20.16'>Izaiáš na to Ezechiášovi řekl: "Slyš slovo Hospodinovo:</verse>
+        <verse osisID='2Kgs.20.17'>Hle, přicházejí dny, kdy všechno, co máš v paláci, všechno, co až dodnes nashromáždili tví předkové, bude odneseno do Babylonu. Nezůstane nic, praví Hospodin.</verse>
+        <verse osisID='2Kgs.20.18'>I tvoji synové, tví vlastní potomci, budou zajati a stanou se eunuchy v paláci babylonského krále."</verse>
+        <verse osisID='2Kgs.20.19'>"Slovo Hospodinovo, které jsi řekl, je dobré," odpověděl Ezechiáš. Pomyslel si totiž: "Za mých dnů přece bude pokoj a bezpečí."</verse>
+        <verse osisID='2Kgs.20.20'>Ostatní Ezechiášovy skutky - všechny jeho udatné činy i to, jak udělal rybník a vodovod, kterým do města přivedl vodu - o tom se, jak známo, píše v Kronice judských králů.</verse>
+        <verse osisID='2Kgs.20.21'>Ezechiáš pak ulehl ke svým otcům a na jeho místě začal kralovat jeho syn Menaše.</verse>
+      </chapter>
+      <chapter osisID='2Kgs.21'>
+        <verse osisID='2Kgs.21.1'>Menaše se stal králem ve dvanácti letech a kraloval v Jeruzalémě padesát pět let. Jeho matka se jmenovala Chefciba.</verse>
+        <verse osisID='2Kgs.21.2'>Páchal, co je v Hospodinových očích zlé, podle ohavných způsobů těch národů, které Hospodin vyhnal před syny Izraele.</verse>
+        <verse osisID='2Kgs.21.3'>Znovu vystavěl obětní výšiny, které jeho otec Ezechiáš zničil. Postavil také oltáře Baalovi a vztyčil Ašeřin kůl, jako to dělal izraelský král Achab. Klaněl se všem nebeským zástupům a sloužil jim.</verse>
+        <verse osisID='2Kgs.21.4'>Nastavěl oltáře v Hospodinově chrámu, o kterém Hospodin prohlásil: "Svému jménu dám spočinout v Jeruzalémě."</verse>
+        <verse osisID='2Kgs.21.5'>Na obou nádvořích Hospodinova chrámu nastavěl oltáře všem nebeským zástupům.</verse>
+        <verse osisID='2Kgs.21.6'>Dokonce provedl vlastního syna ohněm. Věštil, čaroval, zabýval se jasnovidectvím a vyvolával mrtvé. Napáchal v Hospodinových očích spoustu zla a popouzel ho k hněvu.</verse>
+        <verse osisID='2Kgs.21.7'>Nechal vyrobit modlu Ašery a vztyčil ji v chrámu, o kterém Hospodin Davidovi a jeho synu Šalomounovi řekl: "V tomto domě, v Jeruzalémě, který jsem vyvolil ze všech kmenů Izraele, dám navždy spočinout svému jménu.</verse>
+        <verse osisID='2Kgs.21.8'>Bude-li se Izrael pečlivě řídit vším, co jsem jim přikázal, a plnit celý Zákon, který jim svěřil můj služebník Mojžíš, nikdy nedopustím, aby museli prchat ze země, kterou jsem dal jejich předkům."</verse>
+        <verse osisID='2Kgs.21.9'>Oni však neposlechli. Menaše je svedl, aby prováděli ještě horší věci než národy, které Hospodin před syny Izraele vyhubil.</verse>
+        <verse osisID='2Kgs.21.10'>Hospodin proto mluvil skrze své služebníky proroky:</verse>
+        <verse osisID='2Kgs.21.11'>"Judský král Menaše napáchal ještě horší ohavnosti, než jaké před ním páchali Emorejci, a svými hnusnými modlami svedl Judu k hříchu.</verse>
+        <verse osisID='2Kgs.21.12'>Nuže, tak praví Hospodin, Bůh Izraele: Hle, dopustím na Jeruzalém a Judu takové neštěstí, že to nikomu, kdo o tom uslyší, nepřestane znít v obou uších.</verse>
+        <verse osisID='2Kgs.21.13'>Přeměřím Jeruzalém touž mírou jako Samaří a touž olovnicí jako dům Achabův. Vydrhnu Jeruzalém, jako se drhne mísa a po vytření se překlopí.</verse>
+        <verse osisID='2Kgs.21.14'>Co zbylo z mého dědictví, to opustím a vydám je do rukou jejich nepřátel. Stanou se lupem a kořistí všech svých nepřátel,</verse>
+        <verse osisID='2Kgs.21.15'>protože páchali, co je v mých očích zlé, a uráželi mě ode dne, kdy jejich otcové vyšli z Egypta, až dodnes."</verse>
+        <verse osisID='2Kgs.21.16'>Menaše prolil tolik nevinné krve, že jí naplnil Jeruzalém od okraje po okraj - jako by nebylo dost na tom, že svedl Judu k hříchu, aby páchali, co je v Hospodinových očích zlé.</verse>
+        <verse osisID='2Kgs.21.17'>Ostatní Menašemovy skutky - co všechno vykonal a jaký hřích spáchal - o tom se, jak známo, píše v Kronice judských králů.</verse>
+        <verse osisID='2Kgs.21.18'>Pak Menaše ulehl ke svým otcům a byl pochován v Uzově zahradě svého paláce. Na jeho místě pak začal kralovat jeho syn Amon.</verse>
+        <verse osisID='2Kgs.21.19'>Amon se stal králem v dvaadvaceti letech a kraloval v Jeruzalémě dva roky. Jeho matka se jmenovala Mešulemet, dcera Charuce z Jotby.</verse>
+        <verse osisID='2Kgs.21.20'>I on páchal, co je v Hospodinových očích zlé, tak jako jeho otec Menaše.</verse>
+        <verse osisID='2Kgs.21.21'>Ve všem se držel cest svého otce: sloužil hnusným modlám, kterým sloužil jeho otec, a klaněl se jim.</verse>
+        <verse osisID='2Kgs.21.22'>Opustil Hospodina, Boha svých otců, a nedržel se Hospodinových cest.</verse>
+        <verse osisID='2Kgs.21.23'>Amonovi dvořané se proti němu spikli a zabili krále v jeho vlastním domě.</verse>
+        <verse osisID='2Kgs.21.24'>Lid země ale všechny spiklence proti králi Amonovi pobil a na jeho místě prohlásili za krále jeho syna Jošiáše.</verse>
+        <verse osisID='2Kgs.21.25'>Ostatní Amonovy skutky - co všechno vykonal - o tom se, jak známo, píše v Kronice judských králů.</verse>
+        <verse osisID='2Kgs.21.26'>Pochovali ho do jeho hrobu v Uzově zahradě a na jeho místě začal kralovat jeho syn Jošiáš.</verse>
+      </chapter>
+      <chapter osisID='2Kgs.22'>
+        <verse osisID='2Kgs.22.1'>Jošiáš se stal králem v osmi letech a kraloval v Jeruzalémě třicet jedna let. Jeho matka se jmenovala Jedida, dcera Adajáše z Boskatu.</verse>
+        <verse osisID='2Kgs.22.2'>Dělal, co je v Hospodinových očích správné. Ve všem se držel cest svého otce Davida a neuchýlil se napravo ani nalevo.</verse>
+        <verse osisID='2Kgs.22.3'>V osmnáctém roce své vlády poslal Jošiáš písaře Šafana, syna Acaliášova, syna Mešulamova, do Hospodinova chrámu s pokynem:</verse>
+        <verse osisID='2Kgs.22.4'>"Jdi k nejvyššímu knězi, ať spočítá stříbro přinesené do Hospodinova chrámu, které od lidu vybrali strážci prahu.</verse>
+        <verse osisID='2Kgs.22.5'>Svěří je mistrům odpovědným za práci na Hospodinově chrámu, aby je vypláceli dělníkům pracujícím na opravě škod v Hospodinově chrámu.</verse>
+        <verse osisID='2Kgs.22.6'>Ať je dávají tesařům, stavitelům i zedníkům a nakupují za ně dřevo a tesaný kámen na opravu chrámu.</verse>
+        <verse osisID='2Kgs.22.7'>Za vyplacené stříbro od nich není třeba žádat vyúčtování, protože jednají svědomitě."</verse>
+        <verse osisID='2Kgs.22.8'>Velekněz Chilkiáš tehdy ohlásil písaři Šafanovi: "Našel jsem v Hospodinově chrámu Knihu Zákona." Předal knihu Šafanovi a ten si v ní četl.</verse>
+        <verse osisID='2Kgs.22.9'>Písař Šafan pak šel ke králi a podal mu zprávu: "Tví služebníci vysypali stříbro uložené v chrámu a svěřili je mistrům odpovědným za práci na Hospodinově chrámu."</verse>
+        <verse osisID='2Kgs.22.10'>Dále písař Šafan králi ohlásil: "Velekněz Chilkiáš mi dal jistou knihu," a začal z ní králi číst.</verse>
+        <verse osisID='2Kgs.22.11'>Jakmile král uslyšel slova Knihy Zákona, roztrhl své roucho</verse>
+        <verse osisID='2Kgs.22.12'>a přikázal knězi Chilkiášovi, Achikamovi, synu Šafanovu, Achborovi, synu Michajášovu, písaři Šafanovi a královskému služebníku Asajášovi:</verse>
+        <verse osisID='2Kgs.22.13'>"Jděte se za mě, za lid a za celé Judsko dotazovat Hospodina ohledně slov této nalezené knihy. Hospodin proti nám plane velikým hněvem, neboť naši otcové neposlouchali slova této knihy a neřídili se vším, co je v ní o nás psáno."</verse>
+        <verse osisID='2Kgs.22.14'>Kněz Chilkiáš, Achikam, Achbor, Šafan i Asajáš tedy šli za prorokyní Chuldou, ženou Šaluma, syna Tikvy, syna Charchasova, strážce rouch. Bydlela v jeruzalémském Novém městě. Když s ní o tom promluvili,</verse>
+        <verse osisID='2Kgs.22.15'>odpověděla: "Tak praví Hospodin, Bůh Izraele: ‚Povězte muži, který vás ke mně poslal:</verse>
+        <verse osisID='2Kgs.22.16'>Tak praví Hospodin - Hle, na toto místo i na jeho obyvatele dopustím všechna neštěstí, všechna slova té knihy, kterou judský král četl.</verse>
+        <verse osisID='2Kgs.22.17'>Protože mě opustili, pálili kadidlo cizím bohům a popouzeli mě veškerým dílem svých rukou, vzplanul proti tomuto místu můj neutuchající hněv!'</verse>
+        <verse osisID='2Kgs.22.18'>Odpovězte judskému králi, který vás poslal dotazovat se Hospodina: ‚Tak praví Hospodin, Bůh Izraele ohledně slov, která jsi slyšel:</verse>
+        <verse osisID='2Kgs.22.19'>Když jsi uslyšel, jak jsem o tomto místu a jeho obyvatelích prohlásil, že na ně přijde zkáza a prokletí, nezatvrdil jsi své srdce, ale ponížil ses před Hospodinem; roztrhl jsi své roucho a plakals přede mnou. Proto jsem tě také vyslyšel, praví Hospodin.</verse>
+        <verse osisID='2Kgs.22.20'>Hle, připojím tě k tvým předkům a budeš uložen do hrobu v pokoji. Tvé oči nespatří nic z toho neštěstí, které na toto místo dopustím.'" S touto zprávou se tedy vrátili ke králi.</verse>
+      </chapter>
+      <chapter osisID='2Kgs.23'>
+        <verse osisID='2Kgs.23.1'>Nato král nechal svolat všechny stařešiny Judy a Jeruzaléma.</verse>
+        <verse osisID='2Kgs.23.2'>Král vešel do Hospodinova chrámu a s ním všechen judský lid, obyvatelé Jeruzaléma, kněží i proroci - všechen lid od nejmenších po největší. Král jim předčítal všechna slova Knihy smlouvy, nalezené v Hospodinově chrámu.</verse>
+        <verse osisID='2Kgs.23.3'>Pak se postavil ke sloupu a zavázal se před Hospodinem smlouvou, že bude celým srdcem i duší následovat Hospodina a poslouchat jeho příkazy, svědectví a ustanovení a plnit tak slova této smlouvy, zapsaná v této knize. Také všechen lid se k té smlouvě připojil.</verse>
+        <verse osisID='2Kgs.23.4'>Král přikázal nejvyššímu knězi Chilkiášovi a dalším kněžím i strážcům prahu, aby z Hospodinovy svatyně vynesli všechny věci vyrobené pro Baala, pro Ašeru a pro všechny nebeské zástupy. Spálil je venku za Jeruzalémem u potoka Kidron a jejich popel odnesl do Bet-elu.</verse>
+        <verse osisID='2Kgs.23.5'>Skoncoval také s modlářským kněžstvem, které si ustanovili judští králové, aby po judských městech i v okolí Jeruzaléma pálili kadidlo na výšinách (pálili totiž kadidlo Baalovi, slunci, měsíci, souhvězdím a všem nebeským zástupům).</verse>
+        <verse osisID='2Kgs.23.6'>Také sochu Ašery vynesl z Hospodinova chrámu ven za Jeruzalém k potoku Kidron, kde ji spálil. Rozemlel ji na prach a ten pak vysypal na veřejném hřbitově.</verse>
+        <verse osisID='2Kgs.23.7'>Dále zbořil stánky modlářské prostituce v Hospodinově chrámu, kde ženy tkaly roucha pro Ašeru.</verse>
+        <verse osisID='2Kgs.23.8'>Dal také přivést všechny kněze z judských měst a od Geby až po Beer-šebu znesvětil obětní výšiny, na nichž kněží pálili kadidlo. Zničil také Výšinu bran, umístěnou u vchodu do brány městského správce Jošuy (když se šlo bránou do města, stála vlevo).</verse>
+        <verse osisID='2Kgs.23.9'>Kněží oněch výšin nesloužili u Hospodinova oltáře v Jeruzalémě, přesto však směli jíst nekvašený chléb se svými kněžskými bratry.</verse>
+        <verse osisID='2Kgs.23.10'>Jošiáš znesvětil i Tofet v údolí Ben-hinom, aby tam už nikdo neprovedl svého syna nebo dceru ohněm jako oběť Molochovi.</verse>
+        <verse osisID='2Kgs.23.11'>Od vchodu do Hospodinova chrámu odstranil koně, které judští králové zasvětili slunci (byli poblíž místnosti komořího Netan-melecha ve sloupořadí), a spálil sluneční vozy.</verse>
+        <verse osisID='2Kgs.23.12'>Rozbořil oltáře, které si judští králové zřídili na střešní terase poblíž Achazovy komnaty, stejně jako oltáře, které postavil Menaše na obou nádvořích Hospodinova chrámu. Jejich prach odtud urychleně vyhodil do potoka Kidron.</verse>
+        <verse osisID='2Kgs.23.13'>Král také znesvětil obětní výšiny před Jeruzalémem jižně pod Horou zkázy, které vystavěl izraelský král Šalomoun pro sidonskou ohavnost Aštartu, pro moábskou ohavnost Kemoše a pro amonskou odpornost Molocha.</verse>
+        <verse osisID='2Kgs.23.14'>Jošiáš roztříštil posvátné sloupy, zporážel Ašeřiny kůly a místa po nich naplnil lidskými kostmi.</verse>
+        <verse osisID='2Kgs.23.15'>Dokonce i ten oltář v Bet-elu - tu obětní výšinu, kterou vystavěl Jeroboám, syn Nebatův, když svedl Izrael k hříchu - i tento oltář Jošiáš rozbořil, tu výšinu spálil a rozdrtil na prach. Spálil také Ašeřin kůl.</verse>
+        <verse osisID='2Kgs.23.16'>Když se Jošiáš rozhlédl, všiml si na tom svahu nějakých hrobů. Poslal z nich tedy vyzvednout kosti a ty na tom oltáři spálil, aby ho znesvětil. Tak došlo na Hospodinova slova, jak je vykřikl Boží muž, který to všechno předpověděl.</verse>
+        <verse osisID='2Kgs.23.17'>Král se zeptal: "Čí je ten náhrobek, který tu vidím?" Místní mu odpověděli: "To je hrob Božího muže, který přišel z Judska a vykřikl proti betelskému oltáři všechno to, co jsi s ním právě udělal."</verse>
+        <verse osisID='2Kgs.23.18'>"Nechte ho odpočívat," řekl na to král. "Jeho kostmi ať nikdo nehýbá." Ušetřili tedy jeho kosti i kosti proroka, který přišel ze Samaří.</verse>
+        <verse osisID='2Kgs.23.19'>A právě tak, jako to udělal v Bet-elu, stejně odstranil i všechny svatyně na výšinách, které si izraelští králové postavili v samařských městech a popouzeli jimi Hospodina.</verse>
+        <verse osisID='2Kgs.23.20'>Všechny kněze těch výšin pobil na jejich oltářích a pálil na nich lidské kosti. Teprve pak se vrátil do Jeruzaléma.</verse>
+        <verse osisID='2Kgs.23.21'>Král tenkrát přikázal všemu lidu: "Slavte Hod beránka Hospodinu, svému Bohu, jak je psáno v této Knize smlouvy."</verse>
+        <verse osisID='2Kgs.23.22'>Takový Hod beránka se nekonal už od dob soudců, kteří kdysi vedli Izrael, ani za celou dobu izraelských a judských králů.</verse>
+        <verse osisID='2Kgs.23.23'>Osmnáctého roku krále Jošiáše se ale v Jeruzalémě slavil tento Hospodinův Hod beránka.</verse>
+        <verse osisID='2Kgs.23.24'>Jošiáš vymýtil věštce a duchaře stejně jako bůžky, hnusné modly a všechny ty ohavnosti, které bývaly vidět v judské zemi i v Jeruzalémě. Tak naplnil slova Zákona, zapsaná v knize, kterou kněz Chilkiáš nalezl v Hospodinově chrámu.</verse>
+        <verse osisID='2Kgs.23.25'>Nikdy předtím ani potom nebyl žádný král jako Jošiáš, který by se obrátil k Hospodinu celým svým srdcem, celou svou duší i celou svou silou a řídil by se celým Zákonem Mojžíšovým.</verse>
+        <verse osisID='2Kgs.23.26'>Hospodin se ale přesto neodvrátil od rozhorlení svého velikého hněvu, kterým vzplál proti Judovi kvůli všem těm urážkám, jimiž ho popouzel Menaše.</verse>
+        <verse osisID='2Kgs.23.27'>Hospodin prohlásil: "Jako jsem ze své blízkosti vyhnal Izrael, tak vyženu i Judu. Zavrhnu Jeruzalém, toto město, které jsem si vyvolil, i chrám, o němž jsem řekl, že tam bude zůstávat mé jméno."</verse>
+        <verse osisID='2Kgs.23.28'>Ostatní Jošiášovy skutky - co všechno vykonal - o tom se, jak známo, píše v Kronice judských králů.</verse>
+        <verse osisID='2Kgs.23.29'>Za jeho dnů vytáhl egyptský vládce, farao Nekó, proti asyrskému králi k řece Eufrat. Král Jošiáš vytáhl proti němu, ale on ho zabil v Megidu, jakmile se tam objevil.</verse>
+        <verse osisID='2Kgs.23.30'>Jeho služebníci převezli jeho tělo na voze z Megida do Jeruzaléma, kde ho pochovali. Lid země pak vzal Jošiášova syna Joachaze, pomazali ho a prohlásili ho za krále namísto jeho otce.</verse>
+        <verse osisID='2Kgs.23.31'>Joachaz se stal králem ve třiadvaceti letech a kraloval v Jeruzalémě tři měsíce. Jeho matka se jmenovala Chamutal, dcera Jeremiáše z Libny.</verse>
+        <verse osisID='2Kgs.23.32'>Páchal, co je v Hospodinových očích zlé, přesně jako to dělali jeho otcové.</verse>
+        <verse osisID='2Kgs.23.33'>Farao Nekó ho uvěznil v Rible v chamátské zemi, aby nemohl kralovat v Jeruzalémě, a uložil zemi povinný odvod sto talentů stříbra a talent zlata.</verse>
+        <verse osisID='2Kgs.23.34'>Namísto jeho otce Jošiáše pak farao Nekó jmenoval králem Jošiášova syna Eliakima, kterého přejmenoval na Joakima. Joachaze nechal odvléci do Egypta, kde zemřel.</verse>
+        <verse osisID='2Kgs.23.35'>Protože Joakim odváděl faraonovi stříbro a zlato, musel zemi zdanit. Kvůli faraonovu příkazu tedy každý platil stříbro, jak mu bylo vyměřeno. Joakim to stříbro a zlato vymáhal od lidu země, aby ho mohl odevzdat faraonu Nekóovi.</verse>
+        <verse osisID='2Kgs.23.36'>Joakim se stal králem v pětadvaceti letech a kraloval v Jeruzalémě jedenáct let. Jeho matka se jmenovala Zebuda, dcera Pedaje z Rumy.</verse>
+        <verse osisID='2Kgs.23.37'>Páchal, co bylo v očích Hospodina, jeho Boha, zlé, přesně jako to dělali jeho otcové.</verse>
+      </chapter>
+      <chapter osisID='2Kgs.24'>
+        <verse osisID='2Kgs.24.1'>Za jeho dnů přitáhl babylonský král Nabukadnezar a Joakim se stal jeho vazalem. Po třech letech se ale proti němu vzbouřil.</verse>
+        <verse osisID='2Kgs.24.2'>Hospodin však na něj posílal chaldejské, aramejské, moábské a amonské nájezdníky. Ty posílal na Judu, aby ho hubili, jak Hospodin Judu varoval skrze své služebníky proroky.</verse>
+        <verse osisID='2Kgs.24.3'>Tyto věci se pak Judovi opravdu staly, jak Hospodin předpověděl. Vyhnal je ze své blízkosti kvůli všem hříchům, které Menaše napáchal,</verse>
+        <verse osisID='2Kgs.24.4'>a kvůli krvi nevinných, kterou proléval, až byl Jeruzalém té krve plný. Hospodin už to nehodlal promíjet.</verse>
+        <verse osisID='2Kgs.24.5'>Ostatní Joakimovy skutky - co všechno vykonal - o tom se, jak známo, píše v Kronice judských králů.</verse>
+        <verse osisID='2Kgs.24.6'>Joakim pak ulehl ke svým otcům a místo něj se stal králem jeho syn Joakin.</verse>
+        <verse osisID='2Kgs.24.7'>Egyptský vládce pak už nikdy nevytáhl ze své země. Babylonský král totiž zabral všechno, co předtím patřilo vládci Egypta, od Egyptského potoka až po řeku Eufrat.</verse>
+        <verse osisID='2Kgs.24.8'>Joakin se stal králem v osmnácti letech a kraloval v Jeruzalémě tři měsíce. Jeho matka se jmenovala Nechušta, dcera Elnátana z Jeruzaléma.</verse>
+        <verse osisID='2Kgs.24.9'>Páchal, co je v Hospodinových očích zlé, přesně jako jeho otec.</verse>
+        <verse osisID='2Kgs.24.10'>V té době vytáhli na Jeruzalém služebníci babylonského krále Nabukadnezara a začali město obléhat.</verse>
+        <verse osisID='2Kgs.24.11'>Během obléhání dorazil k městu i samotný babylonský král.</verse>
+        <verse osisID='2Kgs.24.12'>Judský král Joakin se pak se svou matkou, svými služebníky, svými veliteli a svými komorníky babylonskému králi vzdal. Babylonský král ho tedy v osmém roce své vlády zajal.</verse>
+        <verse osisID='2Kgs.24.13'>Přesně jak řekl Hospodin, odnesl si všechny poklady Hospodinova chrámu i královského paláce. Všechny zlaté předměty, které dal zhotovit izraelský král Šalomoun v Hospodinově chrámu, Nabukadnezar osekal.</verse>
+        <verse osisID='2Kgs.24.14'>Z celého Jeruzaléma odvlekl 10 000 vyhnanců - všechny hodnostáře, všechny bojovníky a také všechny řemeslníky a kováře, takže nezůstal nikdo než ti nejchudší z lidu.</verse>
+        <verse osisID='2Kgs.24.15'>Odvlekl Joakina do Babylonu spolu s královnou matkou, s jeho ženami, komorníky a s mocnými země. Ty všechny odvedl z Jeruzaléma do vyhnanství v Babylonu.</verse>
+        <verse osisID='2Kgs.24.16'>Babylonský král odvedl do zajetí v Babylonu celkem 7 000 udatných bojovníků a k tomu 1 000 řemeslníků a kovářů, samé bojeschopné muže.</verse>
+        <verse osisID='2Kgs.24.17'>Namísto Joakina jmenoval králem jeho strýce Mataniáše, kterého přejmenoval na Cidkiáše.</verse>
+        <verse osisID='2Kgs.24.18'>Cidkiáš se stal králem v jednadvaceti letech a kraloval v Jeruzalémě jedenáct let. Jeho matka se jmenovala Chamutal, dcera Jeremiáše z Libny.</verse>
+        <verse osisID='2Kgs.24.19'>Páchal, co je v Hospodinových očích zlé, přesně jako to dělal Joakim.</verse>
+        <verse osisID='2Kgs.24.20'>Hospodin se proto na Jeruzalém a na Judu tak rozhněval, že je nakonec vyhnal ze své blízkosti. Cidkiáš se vzbouřil proti babylonskému králi.</verse>
+      </chapter>
+      <chapter osisID='2Kgs.25'>
+        <verse osisID='2Kgs.25.1'>Desátého dne desátého měsíce v devátém roce Cidkiášovy vlády proto k Jeruzalému přitáhl babylonský král Nabukadnezar s celým svým vojskem. Utábořili se před městem a začali kolem něj stavět obléhací val.</verse>
+        <verse osisID='2Kgs.25.2'>Město zůstalo obleženo až do jedenáctého roku krále Cidkiáše.</verse>
+        <verse osisID='2Kgs.25.3'>Devátého dne čtvrtého měsíce ve městě vládl takový hlad, že lidé neměli co jíst.</verse>
+        <verse osisID='2Kgs.25.4'>Tehdy byla městská hradba prolomena a všichni vojáci v noci utekli brankou mezi zdmi u královské zahrady, ačkoli Babyloňané drželi město v obležení. Král prchal k pláni Arava,</verse>
+        <verse osisID='2Kgs.25.5'>ale babylonské vojsko se pustilo za ním. Když ho pak na jerišské pláni dostihli, všichni jeho vojáci se mu rozutekli.</verse>
+        <verse osisID='2Kgs.25.6'>Král byl zajat a odveden k babylonskému králi do Ribly. Tam byl nad ním vynesen rozsudek:</verse>
+        <verse osisID='2Kgs.25.7'>Cidkiášovi před očima popravili jeho syny, pak mu vyloupli oči, spoutali ho bronzovými řetězy a odvlekli do Babylonu.</verse>
+        <verse osisID='2Kgs.25.8'>Sedmého dne pátého měsíce v devatenáctém roce vlády babylonského krále Nabukadnezara přitáhl do Jeruzaléma zmocněnec babylonského krále, velitel gardistů Nebuzaradan.</verse>
+        <verse osisID='2Kgs.25.9'>Vypálil Hospodinův chrám i královský palác; vypálil v Jeruzalémě všechny paláce i všechny velké domy.</verse>
+        <verse osisID='2Kgs.25.10'>Všichni babylonští vojáci, kteří přišli s velitelem gardistů, pak rozbořili hradby okolo Jeruzaléma.</verse>
+        <verse osisID='2Kgs.25.11'>Zbytek lidí, kteří zůstali ve městě, odvlekl velitel gardistů Nebuzaradan stejně jako ty, kteří přeběhli k babylonskému králi, a jako ostatní obyvatelstvo.</verse>
+        <verse osisID='2Kgs.25.12'>Jen ty nejchudší z lidu tam velitel gardistů nechal, aby se někdo staral o vinice a oral pole.</verse>
+        <verse osisID='2Kgs.25.13'>Bronzové sloupy Hospodinova chrámu, stojany i bronzové Moře, které bylo v Hospodinově chrámu, rozbili Babyloňané na kusy a bronz z nich odvezli do Babylonu.</verse>
+        <verse osisID='2Kgs.25.14'>Vzali s sebou i hrnce, lopaty, kratiknoty, pohárky a všechno bronzové bohoslužebné náčiní.</verse>
+        <verse osisID='2Kgs.25.15'>Velitel gardistů pobral pánvice, mísy a vše, co bylo z ryzího zlata a stříbra.</verse>
+        <verse osisID='2Kgs.25.16'>Dva sloupy, jedno Moře, stojany, které pro Hospodinův chrám zhotovil Šalomoun - bronz ze všech těch věcí se ani nedal zvážit.</verse>
+        <verse osisID='2Kgs.25.17'>Jeden sloup byl vysoký 18 loktů, na něm byla bronzová hlavice vysoká 3 lokty s mřížováním a granátovými jablky kolem dokola, to vše z bronzu. Právě takový byl i druhý sloup, včetně mřížování.</verse>
+        <verse osisID='2Kgs.25.18'>Velitel gardistů zajal nejvyššího kněze Serajáše, zástupce nejvyššího kněze Cefaniáše a tři strážce prahu.</verse>
+        <verse osisID='2Kgs.25.19'>Ve městě zajal komořího, který velel vojákům, a pět členů královské rady. Dále ve městě našli písaře, který velel při odvodech mužstva a šedesát prostých lidí, kteří se nacházeli ve městě.</verse>
+        <verse osisID='2Kgs.25.20'>Velitel gardistů Nebuzaradan je zajal a odvedl do Ribly k babylonskému králi.</verse>
+        <verse osisID='2Kgs.25.21'>Ten je tam v Rible v chamátské zemi nechal popravit. Takto byl Juda vyhnán ze své vlasti.</verse>
+        <verse osisID='2Kgs.25.22'>Babylonský král Nabukadnezar pak jmenoval Gedaliáše, syna Achikama, syna Šafanova, správcem lidu, který směl zůstat v Judsku.</verse>
+        <verse osisID='2Kgs.25.23'>Když všichni velitelé se svými muži uslyšeli, že babylonský král jmenoval Gedaliáše správcem, přišli za ním do Micpy - Išmael, syn Netaniášův, Jochanan, syn Kareachův, Serajáš, syn Tanchumeta Netofského, a Jaazaniáš, syn Maachatského - ti všichni i se svými muži.</verse>
+        <verse osisID='2Kgs.25.24'>Gedaliáš je tehdy i s jejich muži zapřísahal: "Nebojte se sloužit Babyloňanům. Zůstaňte v zemi, služte babylonskému králi a povede se vám dobře."</verse>
+        <verse osisID='2Kgs.25.25'>V sedmém měsíci ale přišel Išmael, syn Netaniáše, syna Elišamova, z královského rodu a s deseti dalšími muži Gedaliáše zavraždil. Kromě něj zabili i všechny Židy a Babyloňany, kteří s ním byli v Micpě.</verse>
+        <verse osisID='2Kgs.25.26'>Všichni od nejmenšího po největšího, včetně velitelů vojsk, se pak sebrali a odešli do Egypta, protože se báli Babyloňanů.</verse>
+        <verse osisID='2Kgs.25.27'>V sedmatřicátém roce vyhnanství judského krále Joakina nastoupil na babylonský trůn král Evil-merodach. Ten ještě téhož roku, sedmadvacátého dne dvanáctého měsíce, omilostnil judského krále Joakina a propustil ho z vězení.</verse>
+        <verse osisID='2Kgs.25.28'>Jednal s ním laskavě a udělil mu čestné křeslo, vyšší než měli ostatní králové, kteří byli u něj v Babylonu.</verse>
+        <verse osisID='2Kgs.25.29'>Směl odložit vězeňský oděv a po všechny dny svého života směl vždy jíst u králova stolu.</verse>
+        <verse osisID='2Kgs.25.30'>Vše, co potřeboval, dostával od krále pravidelně den co den po všechny dny svého života.</verse>
+      </chapter>
+    </div></osisText>
+</osis>

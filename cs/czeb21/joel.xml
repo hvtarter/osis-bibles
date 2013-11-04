@@ -1,0 +1,156 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace'>
+  <osisText osisRefWork='Bible' osisIDWork='CzeB21' xml:lang='cs'>
+    <header>
+      <revisionDesc>
+        <date>2010-02-26</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='CzeB21'>
+        <title>Czech Bible, Překlad 21. století</title>
+        <contributor/>
+        <creator>Mod2Zef (4)</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject/>
+        <date>2009-07-31</date>
+        <description>Bible, Překlad 21. století  vedoucí projektu Alexandr Flek  odborná spolupráce Jiří Hedánek, Pavel Hoffman, Zdeněk Sýkora  Přeloženo z hebrejštiny, aramejštiny, řečtiny  Vydání první  (c) 2009 Biblion, o. s.  www.bible21.org  www.bible21.cz   Překlad 21. století přináší nadčasové poselství Bible v současné, čtivé češtině. Usiluje o maximální věrnost původním hebrejským, aramejským a řeckým textům, zároveň však chce oslovit dnešní čtenáře, ať už jsou zvyklí čerpat z této knihy inspiraci pro každý den, anebo ji otevírají poprvé.</description>
+        <publisher/>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>CzeB21</identifier>
+        <source>no entry TextSource in sword.conf found</source>
+        <language type='IETF'>cs</language>
+        <relation/>
+        <coverage>provide the bible to the nations of the world</coverage>
+        <rights>Copyrighted; Permission to distribute granted to CrossWire</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='Joel'>
+      <chapter osisID='Joel.1'>
+        <verse osisID='Joel.1.1'>Slovo Hospodinovo, které dostal Joel, syn Petuelův.</verse>
+        <verse osisID='Joel.1.2'>Stařešinové, teď toto poslyšte, všichni obyvatelé země, ucho nakloňte! Stalo se co takového za vašich dnů anebo za dnů vašich otců?</verse>
+        <verse osisID='Joel.1.3'>Svým dětem o tom povězte, vaše děti zas svým dětem a jejich děti potom těm, kdo vystřídají je:</verse>
+        <verse osisID='Joel.1.4'>Co zbylo po housenkách, sežraly kobylky, co zbylo po kobylkách, larvy sežraly, a co zbylo po larvách, sežraly ponravy.</verse>
+        <verse osisID='Joel.1.5'>Proberte se, opilci, plakejte, kvílejte všichni, kdo víno pijete! O sladký mok jste přišli teď, od vašich úst byl odtržen.</verse>
+        <verse osisID='Joel.1.6'>Do mé země totiž vpadl lid mocný a nesčetný, se zuby, jako mají šelmy, se lvími tesáky.</verse>
+        <verse osisID='Joel.1.7'>Mou vinnou révu zpustošil a oklestil mé fíkoví; zbavil je kůry, kterou odhodil, zbyly jen bílé větévky.</verse>
+        <verse osisID='Joel.1.8'>Kvílej jako panna pytlem oděná, když oplakává svého ženicha!</verse>
+        <verse osisID='Joel.1.9'>Z Hospodinova domu zmizela moučná oběť i úlitba. Kněží Hospodinu sloužící se dali do truchlení.</verse>
+        <verse osisID='Joel.1.10'>Zpustlo pole, vyschla země, zničeno obilí, víno pryč, olej dochází.</verse>
+        <verse osisID='Joel.1.11'>Zoufejte, rolníci, kvílejte, vinaři, kvůli pšenici a ječmeni - zničena byla sklizeň na poli!</verse>
+        <verse osisID='Joel.1.12'>Vinná réva uschla, zvadlo fíkoví, granátovníky i palmy s jabloněmi, všechny stromy v sadu uvadly - uvadlo samo lidské veselí.</verse>
+        <verse osisID='Joel.1.13'>Oblečte se pytlem, kněží, truchlete! Sluhové oltáře, kvílejte! Pojďte, nocujte v pytlovině, kdo mému Bohu sloužíte! Domu vašeho Boha je upřena moučná oběť i úlitba.</verse>
+        <verse osisID='Joel.1.14'>Vyhlaste půst, svolejte shromáždění, shromážděte stařešiny i všechny obyvatele země do domu Hospodina, svého Boha, a pojďte volat k Hospodinu!</verse>
+        <verse osisID='Joel.1.15'>Ach, ten den! Hospodinův den blízko je, zhouba od Všemohoucího blíží se!</verse>
+        <verse osisID='Joel.1.16'>Přímo před našima očima se pokrm vytratil; z domu našeho Boha zmizel jásot a veselí.</verse>
+        <verse osisID='Joel.1.17'>Zrní se scvrklo pod hroudami, zpustly stodoly, sýpky jsou zbořeny, neboť zvadlo obilí.</verse>
+        <verse osisID='Joel.1.18'>I dobytek už naříká! Stáda krav bloudí sem a tam, neboť se nemají kde pást; i stáda ovcí jsou hlady zmožená.</verse>
+        <verse osisID='Joel.1.19'>Volám, Hospodine, k tobě! Širé pastviny spolkl oheň a lesy lehly popelem.</verse>
+        <verse osisID='Joel.1.20'>Sténá k tobě i divá zvěř, protože vyschla voda v potoce; širé pastviny spolkl oheň!</verse>
+      </chapter>
+      <chapter osisID='Joel.2'>
+        <verse osisID='Joel.2.1'>Ať na Sionu troubí polnice, na mé svaté hoře poplach vyhlaste! Všichni obyvatelé země ať se třesou, neboť přichází Hospodinův den! Ano, blíží se</verse>
+        <verse osisID='Joel.2.2'>temný a chmurný den, den zahalený soumrakem! Jako se úsvit rozlévá po horách, blíží se veliká a mocná armáda, jaká odpradávna nikdy nebyla a navěky už nebude žádná podobná:</verse>
+        <verse osisID='Joel.2.3'>Před nimi sžírající oheň, za nimi plamen plápolá. Před nimi zem jak zahrada Eden, za nimi zpustošená pustina - uniknout není kam!</verse>
+        <verse osisID='Joel.2.4'>Napohled se podobají koním, řítí se vpřed jak oři váleční.</verse>
+        <verse osisID='Joel.2.5'>Rachotí jako jízda s vozy, skáčou přes horské vrcholy. Hučí, jako když slámu hltají plameny, jako mocné vojsko seřazené do bitvy.</verse>
+        <verse osisID='Joel.2.6'>Před nimi se chvějí národy, ve tváři blednou zděšením.</verse>
+        <verse osisID='Joel.2.7'>Řítí se vpřed jako vojáci, jako hrdinové útočí na hradby; směru se drží každý z nich, ze své dráhy se neodchýlí.</verse>
+        <verse osisID='Joel.2.8'>Jeden do druhého nevráží, každý sleduje svůj cíl, a i když na obranu narazí, neřídne jejich šik.</verse>
+        <verse osisID='Joel.2.9'>Na město se vrhají, řítí se na hradby, šplhají na domy, vnikají okny jako zloději.</verse>
+        <verse osisID='Joel.2.10'>Před nimi země třese se i samo nebe se musí chvět; slunce a měsíc zatmí se a zmizí záře hvězd.</verse>
+        <verse osisID='Joel.2.11'>Hospodin sám pak burácí v čele své armády; jeho tábor je obrovský, připraven plnit jeho rozkazy. Veliký, vskutku hrozný je Hospodinův den! Kdo jej může snést?</verse>
+        <verse osisID='Joel.2.12'>A proto ještě teď, praví Hospodin, vraťte se ke mně celým srdcem svým, s postem, pláčem a truchlením!</verse>
+        <verse osisID='Joel.2.13'>Roztrhněte svá srdce, a ne pláště své, k Hospodinu, svému Bohu, vraťte se; je přece milostivý a soucitný, nesmírně trpělivý, velmi laskavý a který od zla upouští.</verse>
+        <verse osisID='Joel.2.14'>Kdo ví? Třeba se rozmyslí, pohnut lítostí, a požehnání nám zanechá, aby zas byly moučné oběti a úlitby pro Hospodina, vašeho Boha.</verse>
+        <verse osisID='Joel.2.15'>Ať na Sionu troubí polnice, vyhlaste půst, všechny svolejte!</verse>
+        <verse osisID='Joel.2.16'>Shromážděte lid, posvěťte shromáždění, sezvěte starce, shromážděte děti i malé kojence. Ženich ať vyjde z ložnice a nevěsta ze svého pokoje.</verse>
+        <verse osisID='Joel.2.17'>Kněží, kteří Hospodinu sloužíte, plačte mezi síní a oltářem! Proste: "Ušetři, Hospodine, svůj lid, nevydávej posměchu své dědictví, ať nejsou pořekadlem pro pohany! Proč se má říkat mezi národy: ‚Jejich Bůh? Co je s ním?'"</verse>
+        <verse osisID='Joel.2.18'>Hospodin se pak rozhorlí pro svou zem a nad svým lidem se slituje.</verse>
+        <verse osisID='Joel.2.19'>Hospodin svému lidu odpoví: "Hle, posílám vám obilí, víno a olej do sytosti! Nevydám vás už nikdy víc posměchu mezi pohany.</verse>
+        <verse osisID='Joel.2.20'>Severní vojsko od vás vyženu daleko na vyprahlou pustinu - jeho přední voj do Moře mrtvého, zadní pak do Středozemního; a vzejde z něho smrad a puch." Ano, on vykonal věci veliké,</verse>
+        <verse osisID='Joel.2.21'>neboj se, země, jásej a raduj se! Hospodin vykonal věci veliké,</verse>
+        <verse osisID='Joel.2.22'>ať už se nebojí polní zvěř! Širé pastviny zas budou zelené, stromy ponesou své ovoce a fíkovník s révou vydají užitek.</verse>
+        <verse osisID='Joel.2.23'>Synové Sionu, jásejte, v Hospodinu, svém Bohu, se radujte, neboť vám dá déšť, jak se patří, vylije na vás liják vydatný, podzimní i jarní, jako dřív.</verse>
+        <verse osisID='Joel.2.24'>Tvá humna budou plná obilí, tvé lisy budou tonout ve vínu a oleji.</verse>
+        <verse osisID='Joel.2.25'>Nahradím vám roky, jež sežraly kobylky, larvy, ponravy i housenky - mé veliké vojsko, které jsem na vás vypravil.</verse>
+        <verse osisID='Joel.2.26'>Budete jíst a jíst až do sytosti a jméno Hospodina, svého Boha, velebit, toho, jenž pro vás koná zázraky: Můj lid už navěky nedojde potupy!</verse>
+        <verse osisID='Joel.2.27'>A tehdy poznáte, že já jsem v Izraeli, že váš Bůh jsem já, Hospodin, a žádný jiný není. Můj lid už navěky nedojde potupy!</verse>
+      </chapter>
+      <chapter osisID='Joel.3'>
+        <verse osisID='Joel.3.1'>Na všechny lidi pak vyliji svého Ducha a vaši synové i dcery budou prorokovat; vaši starci budou mívat sny a vaši mladíci vídat vidění.</verse>
+        <verse osisID='Joel.3.2'>Ano, i na otroky a otrokyně vyliji svého Ducha v oněch dnech.</verse>
+        <verse osisID='Joel.3.3'>Ukážu zázraky na nebi i na zemi, krev, oheň a stoupající dým.</verse>
+        <verse osisID='Joel.3.4'>Slunce zakryje tma a měsíc krev, než přijde veliký a hrozný Hospodinův den.</verse>
+        <verse osisID='Joel.3.5'>Každý, kdo vzývá Hospodinovo jméno, však bude zachráněn. Na hoře Sion, v Jeruzalémě vyvázne, jak Hospodin slíbil, hrstka přeživších, které povolal Hospodin.</verse>
+        <verse osisID='Joel.3.21'>Hle, v tom čase a v ty dny, kdy úděl Judy a Jeruzaléma obrátím, shromáždím všechny národy do Jošafatského údolí a budu se tam s nimi soudit o Izrael, můj lid a mé dědictví, které rozptýlili mezi pohany. Rozdělili si moji zemi a losovali o můj lid. Chlapce za nevěstku nabízeli a za víno platili dívkami, aby se napili. Co vůbec máte proti mně, Týre a Sidone a všechny filistinské kraje? Za co se mi to mstíte? Jestliže se mi chcete mstít, rychle a rázně vám to oplatím! Pobrali jste mé stříbro a zlato, mé vzácné poklady jste odnesli do svých chrámů. Judský a jeruzalémský lid jste prodali Řekům, aby je zahnali daleko od vlasti. Hle, já je probudím, aby se vrátili z míst, kam jste je prodali, a vaše činy vám odplatím. Vaše syny a dcery vydám napospas synům Judy a ti je prodají Sabejským, daleko mezi pohany. Tak praví Hospodin. Provolejte to mezi národy: Vyhlaste boj! Probuďte hrdiny! Do útoku, všichni vojáci! Ukujte ze svých pluhů meče a ze svých srpů oštěpy; i slaboch ať řekne: "Jsem udatný!" Rychle sem, všechny národy! Shromážděte se z okolí! Přiveď tam, Hospodine, svoje hrdiny! Jen ať se národy probudí a přitáhnou do Jošafatského údolí, neboť se tam posadím, abych soudil všechny národy v okolí. Uchopte srp, sklizeň dozrála! Šlapejte hrozny, lis už je plný, káď už přetéká; jejich hanebnost je veliká! Davy a davy jsou v Údolí rozsudku! Hospodinův den blízko je, v Údolí rozsudku! Slunce a měsíc zatmí se a zmizí záře hvězd. Hospodin bude ze Sionu řvát, burácet bude z Jeruzaléma - nebe i země se budou třást! Hospodin bude útočištěm pro svůj lid, pro syny Izraele bude pevností. A tehdy poznáte, že já jsem Hospodin, váš Bůh, jenž bydlí na své svaté hoře Sionu. Jeruzalém pak znovu bude svatý a nevpadnou už do něj cizáci. V ten den budou hory oplývat vínem, kopce přetékat budou mlékem a každou judskou roklí voda poteče. Z Hospodinova domu pramen vyrazí a zavlaží Akátové údolí. Egypt se stane pustinou, z Edomu bude pustá poušť kvůli násilí, jež páchali na synech Judy, když vraždili nevinné v jejich zemi. Juda však bude trvat navěky a Jeruzalém po všechna pokolení. Pomstím jejich krev, kterou jsem nepomstil. Na Sionu bydlí Hospodin!</verse>
+      </chapter>
+    </div></osisText>
+</osis>

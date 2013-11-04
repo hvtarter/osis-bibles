@@ -1,0 +1,1262 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace'>
+  <osisText osisRefWork='Bible' osisIDWork='Azeri' xml:lang='XX'>
+    <header>
+      <revisionDesc>
+        <date>2012-01-07</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='Azeri'>
+        <title>Description_en=Southern Azeri Translation</title>
+        <contributor/>
+        <creator>Mod2Zef (6)</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject/>
+        <date>2012-01-07</date>
+        <description>About_en=Southern Azeri Translation</description>
+        <publisher/>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>Azeri</identifier>
+        <source>no entry TextSource in sword.conf found</source>
+        <language type='IETF'>XX</language>
+        <relation/>
+        <coverage>provide the bible to the nations of the world</coverage>
+        <rights>Copyrighted; Permission to distribute granted to CrossWire</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='Job'>
+      <chapter osisID='Job.1'>
+        <verse osisID='Job.1.1'>عوص دئياريندا اَيّوب آدلي بئر آدام وار ائدي. اَيّوب کامئل و دوز بئر آدام ائدي؛ تاريدان قورخوردو و پئسلئکدن اؤزونو اوزاق ساخلاييردي.</verse>
+        <verse osisID='Job.1.2'>اونون يدّي اوغلو و اوچ قيزي وار ائدي.</verse>
+        <verse osisID='Job.1.3'>دونيا ماليندان اونون يدّي مئن قويونو، اوچ مئن دَوه‌سي، بش يوز جوت اؤکوزو، بش يوز دئشي اِششه‌يي و بئر چوخ نؤکري وار ائدي؛ اله کي، شرقده ياشايان بوتون آداملاردان لاپ بؤيوک ائدي.  </verse>
+        <verse osisID='Job.1.4'>
+          اونون اوغوللاري گدئب هَره‌سي اؤز نؤوبه‌سئنده اِوئنده ضئيافت ورَردئلر و آدام گؤنده‌رئب اوچ باجيلاريني دا چاغيرارديلار کي، اونلارلا يِيئب ائچسئنلر.</verse>
+        <verse osisID='Job.1.5'>اونلارين ضئيافت گونلري بئر دؤور باشا چاتاندان سونرا اَيّوب گؤنده‌رئب اونلاري تقدئس اِدَردي و سحر اِرکَن قالخيب اونلارين هاميسينين ساييسينا گؤره يانديرما قورباني تقدئم اِدَردي. چونکي دئيَردي: "بَلکي اؤولادلاريم گوناه ادئب اورَکلرئنده تارييا لعنت اتمئشلر." و اَيّوب همئشه بله اِدَردي.  </verse>
+        <verse osisID='Job.1.6'>بئر گون ائلاهي وارليقلار اؤزلرئني تقدئم اتمک اوچون ربّئن حوضورونا گلدئلر و شيطان دا اونلارلا گلدي.</verse>
+        <verse osisID='Job.1.7'/>
+        <verse osisID='Job.1.8'/>
+        <verse osisID='Job.1.9'>
+          او زامان شيطان ربّه جاواب ورئب ددي: "مگر اَيّوب تاريدان بوشونا قورخور؟!</verse>
+        <verse osisID='Job.1.10'>مگر سن اونون اطرافينا، اِوئنئن اطرافينا، بوتون وار-يوخونون اطرافينا حاصار چکمه‌يئبسن؟! اونون اَللرئنئن ائشئنه برکت ورئبسن کي، مالي يرده چوخاليب.</verse>
+        <verse osisID='Job.1.11'>آمّا ائندي اَلئني اوزات و بوتون وار-يوخونو آرادان آپار. گؤزونون قاباغيندا سنه لعنت اده‌‌جک."</verse>
+        <verse osisID='Job.1.12'>رب شيطانا ددي: "باخ، اونون بوتون وار-يوخو سنئن اَلئنده‌‌دئر، آنجاق اونون اؤزونه اَلئني اوزاتما!" بلجه شيطان ربّئن حوضوروندان اِشئيه چيخدي.  </verse>
+        <verse osisID='Job.1.13'>
+          بئر گون، او زامان کي، اَيّوبون اوغوللاري و قيزلاري بؤيوک قارداشلارينين اِوئنده يِيئب شراب ائچئردئلر،</verse>
+        <verse osisID='Job.1.14'>بئر قاصئد اَيّوبا گلئب ددي: "اؤکوزلر جوت سوروردولر، دئشي اِششَکلر ده اونلارين يانيندا اوتلاييرديلار.</verse>
+        <verse osisID='Job.1.15'>او واخت سابالي‌لار هوجوم ادئب اونلاري آپارديلار و نؤکرلري قيلينج آغزيندان کچئرتدئلر. آنجاق تَک من قاچميشام کي، سنه خبر گتئرئم."</verse>
+        <verse osisID='Job.1.16'>بو آدام حله دانيشيردي کي، آيري بئري گلئب ددي: "گؤيدن تارينين اودو دوشوب قويونلاري و نؤکرلري يانديردي و اونلاري تلف اتدي. آنجاق تَک من قاچميشام کي، سنه خبر گتئرئم."</verse>
+        <verse osisID='Job.1.17'>بو آدام حله دانيشيردي کي، آيري بئري گلئب ددي: "کَلدانئلر اوچ دسته اولوب دَوه‌لرئن اوستونه هوجوم گتئردئلر و اونلاري گؤتوروب آپارديلار، نؤکرلري ده قيلينج آغزيندان کچئرتدئلر. آنجاق تَک من قاچميشام کي، سنه خبر گتئرئم."</verse>
+        <verse osisID='Job.1.18'>بو آدام حله دانيشيردي کي، آيري بئري گلئب ددي: "اوغوللارين و قيزلارين بؤيوک قارداشلارينين اِوئنده يِيئب شراب ائچئردئلر کي،</verse>
+        <verse osisID='Job.1.19'>بئردن صحرا طرفئندن گوجلو بئر يل گلئب اِوئن دؤرد کونجوندن اله ووردو کي، اِو جاوانلارين اوستونه ييخيلدي و اونلارين هاميسي اؤلدولر. آنجاق تَک من قاچميشام کي، سنه خبر گتئرئم."  </verse>
+        <verse osisID='Job.1.20'>
+          او زامان اَيّوب قالخدي، جوبّه‌سئني ييرتدي، باشينين توکلرئني کَسدي، و يره دوشوب سجده اتدي.</verse>
+        <verse osisID='Job.1.21'>و ددی: </verse>
+        <verse osisID='Job.1.22'/>
+      </chapter>
+      <chapter osisID='Job.2'>
+        <verse osisID='Job.2.1'>ائلاهي مؤوجودلار گئنه اؤزلرئني تقدئم اتمک اوچون ربّئن حوضورونا گلدئلر. شيطان دا اونلارلا گلدي کي، اؤزونو ربّئن حوضوروندا تقدئم اتسئن.</verse>
+        <verse osisID='Job.2.2'>رب شيطانا ددي: "هارادان گلئرسئن؟" </verse>
+        <verse osisID='Job.2.3'/>
+        <verse osisID='Job.2.4'>
+          شيطان ربّه جاواب ورئب ددي: "دَري عوضئنه دَري. ائنسان اؤز جانيندان اؤتري بوتون وار-يوخوندان کِچَر.</verse>
+        <verse osisID='Job.2.5'>آمّا اَلئني بئر اوزاديب اونون سومويونه و اَتئنه دَي، گؤزونون قاباغيندا سنه لعنت اده‌‌جک."  </verse>
+        <verse osisID='Job.2.6'/>
+        <verse osisID='Job.2.7'>
+          شيطان ربّئن حوضوروندان اِشئيه چيخدي و اَيّوبو، آياغينين آلتيندان تپه‌سئنه قدر، پئس چئبانلارلا ووردو.</verse>
+        <verse osisID='Job.2.8'>اَيّوب اؤزونو قاشيماق اوچون بئر صاخسي پارچاسي گؤتوروب کول ائچئنده اوتوردو.  </verse>
+        <verse osisID='Job.2.9'/>
+        <verse osisID='Job.2.10'/>
+        <verse osisID='Job.2.11'>
+          اَيّوبون اوچ دوستو تِيمانلي اِلئفَز، شوخلو بئلدَد، و نَعَماتلي صوفَر اونون باشينا گلن بوتون بلالاري اشئدئب، قرار وردئلر کی، هر بئري اؤز يرئندن اونون يانينا گلسئنلر و بئربئرلري ائله گؤروشدولر کي، بئرلئکده گدئب اونونلا همدرد اولسونلار و اونا تسلّی ورسئنلر.</verse>
+        <verse osisID='Job.2.12'>اوزاقدان اَيّوبو گؤرنده اونو تانيماديلار و باغيريب هؤنکور-هؤنکور آغلاماغا باشلاديلار. هر بئري اؤز جوبّه‌سئني ييرتيب و گؤيه، باشلاري اوستونه تورپاق آتديلار.</verse>
+        <verse osisID='Job.2.13'>اَيّوبلا يدّي گون يدّي گجه تورپاق اوستونده اوتوردولار. هچ بئري اونونلا بئر سؤز ده دانيشمادي، چونکي دردئنئن نه قدر بؤيوک اولدوغونو گؤردولر.  </verse>
+      </chapter>
+      <chapter osisID='Job.3'>
+        <verse osisID='Job.3.1'>بوندان سونرا اَيّوب آغزيني آچيب دوغولدوغو گونه لعنت اتدي.</verse>
+        <verse osisID='Job.3.2'>و دئله گلئب ددی:  </verse>
+        <verse osisID='Job.3.3'/>
+        <verse osisID='Job.3.4'/>
+        <verse osisID='Job.3.5'/>
+        <verse osisID='Job.3.6'/>
+        <verse osisID='Job.3.7'/>
+        <verse osisID='Job.3.8'/>
+        <verse osisID='Job.3.9'/>
+        <verse osisID='Job.3.10'/>
+        <verse osisID='Job.3.11'/>
+        <verse osisID='Job.3.12'/>
+        <verse osisID='Job.3.13'/>
+        <verse osisID='Job.3.14'/>
+        <verse osisID='Job.3.15'/>
+        <verse osisID='Job.3.16'/>
+        <verse osisID='Job.3.17'/>
+        <verse osisID='Job.3.18'/>
+        <verse osisID='Job.3.19'/>
+        <verse osisID='Job.3.20'/>
+        <verse osisID='Job.3.21'/>
+        <verse osisID='Job.3.22'/>
+        <verse osisID='Job.3.23'/>
+        <verse osisID='Job.3.24'/>
+        <verse osisID='Job.3.25'/>
+        <verse osisID='Job.3.26'/>
+      </chapter>
+      <chapter osisID='Job.4'>
+        <verse osisID='Job.4.1'>او زامان تِيمانلي اِلئفَز جاواب ورئب ددی:  </verse>
+        <verse osisID='Job.4.2'/>
+        <verse osisID='Job.4.3'/>
+        <verse osisID='Job.4.4'/>
+        <verse osisID='Job.4.5'/>
+        <verse osisID='Job.4.6'/>
+        <verse osisID='Job.4.7'/>
+        <verse osisID='Job.4.8'/>
+        <verse osisID='Job.4.9'/>
+        <verse osisID='Job.4.10'/>
+        <verse osisID='Job.4.11'/>
+        <verse osisID='Job.4.12'/>
+        <verse osisID='Job.4.13'/>
+        <verse osisID='Job.4.14'/>
+        <verse osisID='Job.4.15'/>
+        <verse osisID='Job.4.16'/>
+        <verse osisID='Job.4.17'/>
+        <verse osisID='Job.4.18'/>
+        <verse osisID='Job.4.19'/>
+        <verse osisID='Job.4.20'/>
+        <verse osisID='Job.4.21'/>
+      </chapter>
+      <chapter osisID='Job.5'>
+        <verse osisID='Job.5.1'>ائندي چاغير؛ </verse>
+        <verse osisID='Job.5.2'/>
+        <verse osisID='Job.5.3'/>
+        <verse osisID='Job.5.4'/>
+        <verse osisID='Job.5.5'/>
+        <verse osisID='Job.5.6'/>
+        <verse osisID='Job.5.7'/>
+        <verse osisID='Job.5.8'/>
+        <verse osisID='Job.5.9'/>
+        <verse osisID='Job.5.10'/>
+        <verse osisID='Job.5.11'/>
+        <verse osisID='Job.5.12'/>
+        <verse osisID='Job.5.13'/>
+        <verse osisID='Job.5.14'/>
+        <verse osisID='Job.5.15'/>
+        <verse osisID='Job.5.16'/>
+        <verse osisID='Job.5.17'/>
+        <verse osisID='Job.5.18'/>
+        <verse osisID='Job.5.19'/>
+        <verse osisID='Job.5.20'/>
+        <verse osisID='Job.5.21'/>
+        <verse osisID='Job.5.22'/>
+        <verse osisID='Job.5.23'/>
+        <verse osisID='Job.5.24'/>
+        <verse osisID='Job.5.25'/>
+        <verse osisID='Job.5.26'/>
+        <verse osisID='Job.5.27'/>
+      </chapter>
+      <chapter osisID='Job.6'>
+        <verse osisID='Job.6.1'>او زامان اَيّوب جاواب ورئب ددي:  </verse>
+        <verse osisID='Job.6.2'/>
+        <verse osisID='Job.6.3'/>
+        <verse osisID='Job.6.4'/>
+        <verse osisID='Job.6.5'/>
+        <verse osisID='Job.6.6'/>
+        <verse osisID='Job.6.7'/>
+        <verse osisID='Job.6.8'/>
+        <verse osisID='Job.6.9'/>
+        <verse osisID='Job.6.10'/>
+        <verse osisID='Job.6.11'/>
+        <verse osisID='Job.6.12'/>
+        <verse osisID='Job.6.13'/>
+        <verse osisID='Job.6.14'/>
+        <verse osisID='Job.6.15'/>
+        <verse osisID='Job.6.16'/>
+        <verse osisID='Job.6.17'/>
+        <verse osisID='Job.6.18'/>
+        <verse osisID='Job.6.19'/>
+        <verse osisID='Job.6.20'/>
+        <verse osisID='Job.6.21'/>
+        <verse osisID='Job.6.22'/>
+        <verse osisID='Job.6.23'/>
+        <verse osisID='Job.6.24'/>
+        <verse osisID='Job.6.25'/>
+        <verse osisID='Job.6.26'/>
+        <verse osisID='Job.6.27'/>
+        <verse osisID='Job.6.28'/>
+        <verse osisID='Job.6.29'/>
+        <verse osisID='Job.6.30'/>
+      </chapter>
+      <chapter osisID='Job.7'>
+        <verse osisID='Job.7.1'>ائنسانين ير اوزونده‌کي حياتي مگر زحمت چکمک اوچون ديئل؟ </verse>
+        <verse osisID='Job.7.2'/>
+        <verse osisID='Job.7.3'/>
+        <verse osisID='Job.7.4'/>
+        <verse osisID='Job.7.5'/>
+        <verse osisID='Job.7.6'/>
+        <verse osisID='Job.7.7'/>
+        <verse osisID='Job.7.8'/>
+        <verse osisID='Job.7.9'/>
+        <verse osisID='Job.7.10'/>
+        <verse osisID='Job.7.11'/>
+        <verse osisID='Job.7.12'/>
+        <verse osisID='Job.7.13'/>
+        <verse osisID='Job.7.14'/>
+        <verse osisID='Job.7.15'/>
+        <verse osisID='Job.7.16'/>
+        <verse osisID='Job.7.17'/>
+        <verse osisID='Job.7.18'/>
+        <verse osisID='Job.7.19'/>
+        <verse osisID='Job.7.20'/>
+        <verse osisID='Job.7.21'/>
+      </chapter>
+      <chapter osisID='Job.8'>
+        <verse osisID='Job.8.1'>او زامان شواَخلي بئلدَد جاواب ورئب ددی:  </verse>
+        <verse osisID='Job.8.2'/>
+        <verse osisID='Job.8.3'/>
+        <verse osisID='Job.8.4'/>
+        <verse osisID='Job.8.5'/>
+        <verse osisID='Job.8.6'/>
+        <verse osisID='Job.8.7'/>
+        <verse osisID='Job.8.8'/>
+        <verse osisID='Job.8.9'/>
+        <verse osisID='Job.8.10'/>
+        <verse osisID='Job.8.11'/>
+        <verse osisID='Job.8.12'/>
+        <verse osisID='Job.8.13'/>
+        <verse osisID='Job.8.14'/>
+        <verse osisID='Job.8.15'/>
+        <verse osisID='Job.8.16'/>
+        <verse osisID='Job.8.17'/>
+        <verse osisID='Job.8.18'/>
+        <verse osisID='Job.8.19'/>
+        <verse osisID='Job.8.20'/>
+        <verse osisID='Job.8.21'/>
+        <verse osisID='Job.8.22'/>
+      </chapter>
+      <chapter osisID='Job.9'>
+        <verse osisID='Job.9.1'>او زامان اَيّوب جاواب ورئب ددی:</verse>
+        <verse osisID='Job.9.2'/>
+        <verse osisID='Job.9.3'/>
+        <verse osisID='Job.9.4'/>
+        <verse osisID='Job.9.5'/>
+        <verse osisID='Job.9.6'/>
+        <verse osisID='Job.9.7'/>
+        <verse osisID='Job.9.8'/>
+        <verse osisID='Job.9.9'/>
+        <verse osisID='Job.9.10'/>
+        <verse osisID='Job.9.11'/>
+        <verse osisID='Job.9.12'/>
+        <verse osisID='Job.9.13'/>
+        <verse osisID='Job.9.14'/>
+        <verse osisID='Job.9.15'/>
+        <verse osisID='Job.9.16'/>
+        <verse osisID='Job.9.17'/>
+        <verse osisID='Job.9.18'/>
+        <verse osisID='Job.9.19'/>
+        <verse osisID='Job.9.20'/>
+        <verse osisID='Job.9.21'/>
+        <verse osisID='Job.9.22'/>
+        <verse osisID='Job.9.23'/>
+        <verse osisID='Job.9.24'/>
+        <verse osisID='Job.9.25'/>
+        <verse osisID='Job.9.26'/>
+        <verse osisID='Job.9.27'/>
+        <verse osisID='Job.9.28'/>
+        <verse osisID='Job.9.29'/>
+        <verse osisID='Job.9.30'/>
+        <verse osisID='Job.9.31'/>
+        <verse osisID='Job.9.32'/>
+        <verse osisID='Job.9.33'/>
+        <verse osisID='Job.9.34'/>
+        <verse osisID='Job.9.35'/>
+      </chapter>
+      <chapter osisID='Job.10'>
+        <verse osisID='Job.10.1'>جانيم حياتيمدان بِزئب؛ </verse>
+        <verse osisID='Job.10.2'/>
+        <verse osisID='Job.10.3'/>
+        <verse osisID='Job.10.4'/>
+        <verse osisID='Job.10.5'/>
+        <verse osisID='Job.10.6'/>
+        <verse osisID='Job.10.7'/>
+        <verse osisID='Job.10.8'/>
+        <verse osisID='Job.10.9'/>
+        <verse osisID='Job.10.10'/>
+        <verse osisID='Job.10.11'/>
+        <verse osisID='Job.10.12'/>
+        <verse osisID='Job.10.13'/>
+        <verse osisID='Job.10.14'/>
+        <verse osisID='Job.10.15'/>
+        <verse osisID='Job.10.16'/>
+        <verse osisID='Job.10.17'/>
+        <verse osisID='Job.10.18'/>
+        <verse osisID='Job.10.19'/>
+        <verse osisID='Job.10.20'/>
+        <verse osisID='Job.10.21'/>
+        <verse osisID='Job.10.22'/>
+      </chapter>
+      <chapter osisID='Job.11'>
+        <verse osisID='Job.11.1'>او زامان نِعمِاتلي صوفَر جاواب ورئب ددي:  </verse>
+        <verse osisID='Job.11.2'/>
+        <verse osisID='Job.11.3'/>
+        <verse osisID='Job.11.4'/>
+        <verse osisID='Job.11.5'/>
+        <verse osisID='Job.11.6'/>
+        <verse osisID='Job.11.7'/>
+        <verse osisID='Job.11.8'/>
+        <verse osisID='Job.11.9'/>
+        <verse osisID='Job.11.10'/>
+        <verse osisID='Job.11.11'/>
+        <verse osisID='Job.11.12'/>
+        <verse osisID='Job.11.13'/>
+        <verse osisID='Job.11.14'/>
+        <verse osisID='Job.11.15'/>
+        <verse osisID='Job.11.16'/>
+        <verse osisID='Job.11.17'/>
+        <verse osisID='Job.11.18'/>
+        <verse osisID='Job.11.19'/>
+        <verse osisID='Job.11.20'/>
+      </chapter>
+      <chapter osisID='Job.12'>
+        <verse osisID='Job.12.1'>او زامان اَيّوب جاواب ورئب ددی:  </verse>
+        <verse osisID='Job.12.2'/>
+        <verse osisID='Job.12.3'/>
+        <verse osisID='Job.12.4'/>
+        <verse osisID='Job.12.5'/>
+        <verse osisID='Job.12.6'/>
+        <verse osisID='Job.12.7'/>
+        <verse osisID='Job.12.8'/>
+        <verse osisID='Job.12.9'/>
+        <verse osisID='Job.12.10'/>
+        <verse osisID='Job.12.11'/>
+        <verse osisID='Job.12.12'/>
+        <verse osisID='Job.12.13'/>
+        <verse osisID='Job.12.14'/>
+        <verse osisID='Job.12.15'/>
+        <verse osisID='Job.12.16'/>
+        <verse osisID='Job.12.17'/>
+        <verse osisID='Job.12.18'/>
+        <verse osisID='Job.12.19'/>
+        <verse osisID='Job.12.20'/>
+        <verse osisID='Job.12.21'/>
+        <verse osisID='Job.12.22'/>
+        <verse osisID='Job.12.23'/>
+        <verse osisID='Job.12.24'/>
+        <verse osisID='Job.12.25'/>
+      </chapter>
+      <chapter osisID='Job.13'>
+        <verse osisID='Job.13.1'>باخ، گؤزوم بونون هاميسيني گؤروب، </verse>
+        <verse osisID='Job.13.2'/>
+        <verse osisID='Job.13.3'/>
+        <verse osisID='Job.13.4'/>
+        <verse osisID='Job.13.5'/>
+        <verse osisID='Job.13.6'/>
+        <verse osisID='Job.13.7'/>
+        <verse osisID='Job.13.8'/>
+        <verse osisID='Job.13.9'/>
+        <verse osisID='Job.13.10'/>
+        <verse osisID='Job.13.11'/>
+        <verse osisID='Job.13.12'/>
+        <verse osisID='Job.13.13'/>
+        <verse osisID='Job.13.14'/>
+        <verse osisID='Job.13.15'/>
+        <verse osisID='Job.13.16'/>
+        <verse osisID='Job.13.17'/>
+        <verse osisID='Job.13.18'/>
+        <verse osisID='Job.13.19'/>
+        <verse osisID='Job.13.20'/>
+        <verse osisID='Job.13.21'/>
+        <verse osisID='Job.13.22'/>
+        <verse osisID='Job.13.23'/>
+        <verse osisID='Job.13.24'/>
+        <verse osisID='Job.13.25'/>
+        <verse osisID='Job.13.26'/>
+        <verse osisID='Job.13.27'/>
+        <verse osisID='Job.13.28'/>
+      </chapter>
+      <chapter osisID='Job.14'>
+        <verse osisID='Job.14.1'>آرواددان دوغولان ائنسانين حياتي قيسادير، </verse>
+        <verse osisID='Job.14.2'/>
+        <verse osisID='Job.14.3'/>
+        <verse osisID='Job.14.4'/>
+        <verse osisID='Job.14.5'/>
+        <verse osisID='Job.14.6'/>
+        <verse osisID='Job.14.7'/>
+        <verse osisID='Job.14.8'/>
+        <verse osisID='Job.14.9'/>
+        <verse osisID='Job.14.10'/>
+        <verse osisID='Job.14.11'/>
+        <verse osisID='Job.14.12'/>
+        <verse osisID='Job.14.13'/>
+        <verse osisID='Job.14.14'/>
+        <verse osisID='Job.14.15'/>
+        <verse osisID='Job.14.16'/>
+        <verse osisID='Job.14.17'/>
+        <verse osisID='Job.14.18'/>
+        <verse osisID='Job.14.19'/>
+        <verse osisID='Job.14.20'/>
+        <verse osisID='Job.14.21'/>
+        <verse osisID='Job.14.22'/>
+      </chapter>
+      <chapter osisID='Job.15'>
+        <verse osisID='Job.15.1'>او زامان تِيمانلي اِلئفَز جاواب ورئب ددی:  </verse>
+        <verse osisID='Job.15.2'/>
+        <verse osisID='Job.15.3'/>
+        <verse osisID='Job.15.4'/>
+        <verse osisID='Job.15.5'/>
+        <verse osisID='Job.15.6'/>
+        <verse osisID='Job.15.7'/>
+        <verse osisID='Job.15.8'/>
+        <verse osisID='Job.15.9'/>
+        <verse osisID='Job.15.10'/>
+        <verse osisID='Job.15.11'/>
+        <verse osisID='Job.15.12'/>
+        <verse osisID='Job.15.13'/>
+        <verse osisID='Job.15.14'/>
+        <verse osisID='Job.15.15'/>
+        <verse osisID='Job.15.16'/>
+        <verse osisID='Job.15.17'/>
+        <verse osisID='Job.15.18'/>
+        <verse osisID='Job.15.19'/>
+        <verse osisID='Job.15.20'/>
+        <verse osisID='Job.15.21'/>
+        <verse osisID='Job.15.22'/>
+        <verse osisID='Job.15.23'/>
+        <verse osisID='Job.15.24'/>
+        <verse osisID='Job.15.25'/>
+        <verse osisID='Job.15.26'/>
+        <verse osisID='Job.15.27'/>
+        <verse osisID='Job.15.28'/>
+        <verse osisID='Job.15.29'/>
+        <verse osisID='Job.15.30'/>
+        <verse osisID='Job.15.31'/>
+        <verse osisID='Job.15.32'/>
+        <verse osisID='Job.15.33'/>
+        <verse osisID='Job.15.34'/>
+        <verse osisID='Job.15.35'/>
+      </chapter>
+      <chapter osisID='Job.16'>
+        <verse osisID='Job.16.1'>او زامان اَيّوب جاواب ورئب ددی:  </verse>
+        <verse osisID='Job.16.2'/>
+        <verse osisID='Job.16.3'/>
+        <verse osisID='Job.16.4'/>
+        <verse osisID='Job.16.5'/>
+        <verse osisID='Job.16.6'/>
+        <verse osisID='Job.16.7'/>
+        <verse osisID='Job.16.8'/>
+        <verse osisID='Job.16.9'/>
+        <verse osisID='Job.16.10'/>
+        <verse osisID='Job.16.11'/>
+        <verse osisID='Job.16.12'/>
+        <verse osisID='Job.16.13'/>
+        <verse osisID='Job.16.14'/>
+        <verse osisID='Job.16.15'/>
+        <verse osisID='Job.16.16'/>
+        <verse osisID='Job.16.17'/>
+        <verse osisID='Job.16.18'/>
+        <verse osisID='Job.16.19'/>
+        <verse osisID='Job.16.20'/>
+        <verse osisID='Job.16.21'/>
+        <verse osisID='Job.16.22'/>
+      </chapter>
+      <chapter osisID='Job.17'>
+        <verse osisID='Job.17.1'>روحوم پرئشاندير، گونلرئمئن نورو سؤنور. </verse>
+        <verse osisID='Job.17.2'/>
+        <verse osisID='Job.17.3'/>
+        <verse osisID='Job.17.4'/>
+        <verse osisID='Job.17.5'/>
+        <verse osisID='Job.17.6'/>
+        <verse osisID='Job.17.7'/>
+        <verse osisID='Job.17.8'/>
+        <verse osisID='Job.17.9'/>
+        <verse osisID='Job.17.10'/>
+        <verse osisID='Job.17.11'/>
+        <verse osisID='Job.17.12'/>
+        <verse osisID='Job.17.13'/>
+        <verse osisID='Job.17.14'/>
+        <verse osisID='Job.17.15'/>
+        <verse osisID='Job.17.16'/>
+      </chapter>
+      <chapter osisID='Job.18'>
+        <verse osisID='Job.18.1'>او زامان شواَخلي بئلدَد جاواب ورئب ددی:  </verse>
+        <verse osisID='Job.18.2'/>
+        <verse osisID='Job.18.3'/>
+        <verse osisID='Job.18.4'/>
+        <verse osisID='Job.18.5'/>
+        <verse osisID='Job.18.6'/>
+        <verse osisID='Job.18.7'/>
+        <verse osisID='Job.18.8'/>
+        <verse osisID='Job.18.9'/>
+        <verse osisID='Job.18.10'/>
+        <verse osisID='Job.18.11'/>
+        <verse osisID='Job.18.12'/>
+        <verse osisID='Job.18.13'/>
+        <verse osisID='Job.18.14'/>
+        <verse osisID='Job.18.15'/>
+        <verse osisID='Job.18.16'/>
+        <verse osisID='Job.18.17'/>
+        <verse osisID='Job.18.18'/>
+        <verse osisID='Job.18.19'/>
+        <verse osisID='Job.18.20'/>
+        <verse osisID='Job.18.21'/>
+      </chapter>
+      <chapter osisID='Job.19'>
+        <verse osisID='Job.19.1'>او زامان اَيّوب جاواب ورئب ددي:  </verse>
+        <verse osisID='Job.19.2'/>
+        <verse osisID='Job.19.3'/>
+        <verse osisID='Job.19.4'/>
+        <verse osisID='Job.19.5'/>
+        <verse osisID='Job.19.6'/>
+        <verse osisID='Job.19.7'/>
+        <verse osisID='Job.19.8'/>
+        <verse osisID='Job.19.9'/>
+        <verse osisID='Job.19.10'/>
+        <verse osisID='Job.19.11'/>
+        <verse osisID='Job.19.12'/>
+        <verse osisID='Job.19.13'/>
+        <verse osisID='Job.19.14'/>
+        <verse osisID='Job.19.15'/>
+        <verse osisID='Job.19.16'/>
+        <verse osisID='Job.19.17'/>
+        <verse osisID='Job.19.18'/>
+        <verse osisID='Job.19.19'/>
+        <verse osisID='Job.19.20'/>
+        <verse osisID='Job.19.21'/>
+        <verse osisID='Job.19.22'/>
+        <verse osisID='Job.19.23'/>
+        <verse osisID='Job.19.24'/>
+        <verse osisID='Job.19.25'/>
+        <verse osisID='Job.19.26'/>
+        <verse osisID='Job.19.27'/>
+        <verse osisID='Job.19.28'/>
+        <verse osisID='Job.19.29'/>
+      </chapter>
+      <chapter osisID='Job.20'>
+        <verse osisID='Job.20.1'>او زامان نِعَماتلي صوفَر جاواب ورئب ددی:  </verse>
+        <verse osisID='Job.20.2'/>
+        <verse osisID='Job.20.3'/>
+        <verse osisID='Job.20.4'/>
+        <verse osisID='Job.20.5'/>
+        <verse osisID='Job.20.6'/>
+        <verse osisID='Job.20.7'/>
+        <verse osisID='Job.20.8'/>
+        <verse osisID='Job.20.9'/>
+        <verse osisID='Job.20.10'/>
+        <verse osisID='Job.20.11'/>
+        <verse osisID='Job.20.12'/>
+        <verse osisID='Job.20.13'/>
+        <verse osisID='Job.20.14'/>
+        <verse osisID='Job.20.15'/>
+        <verse osisID='Job.20.16'/>
+        <verse osisID='Job.20.17'/>
+        <verse osisID='Job.20.18'/>
+        <verse osisID='Job.20.19'/>
+        <verse osisID='Job.20.20'/>
+        <verse osisID='Job.20.21'/>
+        <verse osisID='Job.20.22'/>
+        <verse osisID='Job.20.23'/>
+        <verse osisID='Job.20.24'/>
+        <verse osisID='Job.20.25'/>
+        <verse osisID='Job.20.26'/>
+        <verse osisID='Job.20.27'/>
+        <verse osisID='Job.20.28'/>
+        <verse osisID='Job.20.29'/>
+      </chapter>
+      <chapter osisID='Job.21'>
+        <verse osisID='Job.21.1'>او واخت اَيّوب جاواب ورئب ددي:  </verse>
+        <verse osisID='Job.21.2'/>
+        <verse osisID='Job.21.3'/>
+        <verse osisID='Job.21.4'/>
+        <verse osisID='Job.21.5'/>
+        <verse osisID='Job.21.6'/>
+        <verse osisID='Job.21.7'/>
+        <verse osisID='Job.21.8'/>
+        <verse osisID='Job.21.9'/>
+        <verse osisID='Job.21.10'/>
+        <verse osisID='Job.21.11'/>
+        <verse osisID='Job.21.12'/>
+        <verse osisID='Job.21.13'/>
+        <verse osisID='Job.21.14'/>
+        <verse osisID='Job.21.15'/>
+        <verse osisID='Job.21.16'/>
+        <verse osisID='Job.21.17'/>
+        <verse osisID='Job.21.18'/>
+        <verse osisID='Job.21.19'/>
+        <verse osisID='Job.21.20'/>
+        <verse osisID='Job.21.21'/>
+        <verse osisID='Job.21.22'/>
+        <verse osisID='Job.21.23'/>
+        <verse osisID='Job.21.24'/>
+        <verse osisID='Job.21.25'/>
+        <verse osisID='Job.21.26'/>
+        <verse osisID='Job.21.27'/>
+        <verse osisID='Job.21.28'/>
+        <verse osisID='Job.21.29'/>
+        <verse osisID='Job.21.30'/>
+        <verse osisID='Job.21.31'/>
+        <verse osisID='Job.21.32'/>
+        <verse osisID='Job.21.33'/>
+        <verse osisID='Job.21.34'/>
+      </chapter>
+      <chapter osisID='Job.22'>
+        <verse osisID='Job.22.1'>او زامان تِيمانلي اِلئفَز جاواب ورئب ددی:  </verse>
+        <verse osisID='Job.22.2'/>
+        <verse osisID='Job.22.3'/>
+        <verse osisID='Job.22.4'/>
+        <verse osisID='Job.22.5'/>
+        <verse osisID='Job.22.6'/>
+        <verse osisID='Job.22.7'/>
+        <verse osisID='Job.22.8'/>
+        <verse osisID='Job.22.9'/>
+        <verse osisID='Job.22.10'/>
+        <verse osisID='Job.22.11'/>
+        <verse osisID='Job.22.12'/>
+        <verse osisID='Job.22.13'/>
+        <verse osisID='Job.22.14'/>
+        <verse osisID='Job.22.15'/>
+        <verse osisID='Job.22.16'/>
+        <verse osisID='Job.22.17'/>
+        <verse osisID='Job.22.18'/>
+        <verse osisID='Job.22.19'/>
+        <verse osisID='Job.22.20'/>
+        <verse osisID='Job.22.21'/>
+        <verse osisID='Job.22.22'/>
+        <verse osisID='Job.22.23'/>
+        <verse osisID='Job.22.24'/>
+        <verse osisID='Job.22.25'/>
+        <verse osisID='Job.22.26'/>
+        <verse osisID='Job.22.27'/>
+        <verse osisID='Job.22.28'/>
+        <verse osisID='Job.22.29'/>
+        <verse osisID='Job.22.30'/>
+      </chapter>
+      <chapter osisID='Job.23'>
+        <verse osisID='Job.23.1'>او زامان اَيّوب جاواب ورئب ددی:  </verse>
+        <verse osisID='Job.23.2'/>
+        <verse osisID='Job.23.3'/>
+        <verse osisID='Job.23.4'/>
+        <verse osisID='Job.23.5'/>
+        <verse osisID='Job.23.6'/>
+        <verse osisID='Job.23.7'/>
+        <verse osisID='Job.23.8'/>
+        <verse osisID='Job.23.9'/>
+        <verse osisID='Job.23.10'/>
+        <verse osisID='Job.23.11'/>
+        <verse osisID='Job.23.12'/>
+        <verse osisID='Job.23.13'/>
+        <verse osisID='Job.23.14'/>
+        <verse osisID='Job.23.15'/>
+        <verse osisID='Job.23.16'/>
+        <verse osisID='Job.23.17'/>
+      </chapter>
+      <chapter osisID='Job.24'>
+        <verse osisID='Job.24.1'>نئيه قادئري-موطلق حؤکم اوچون زامان تعيئن اتمئر؟ </verse>
+        <verse osisID='Job.24.2'/>
+        <verse osisID='Job.24.3'/>
+        <verse osisID='Job.24.4'/>
+        <verse osisID='Job.24.5'/>
+        <verse osisID='Job.24.6'/>
+        <verse osisID='Job.24.7'/>
+        <verse osisID='Job.24.8'/>
+        <verse osisID='Job.24.9'/>
+        <verse osisID='Job.24.10'/>
+        <verse osisID='Job.24.11'/>
+        <verse osisID='Job.24.12'/>
+        <verse osisID='Job.24.13'/>
+        <verse osisID='Job.24.14'/>
+        <verse osisID='Job.24.15'/>
+        <verse osisID='Job.24.16'/>
+        <verse osisID='Job.24.17'/>
+        <verse osisID='Job.24.18'/>
+        <verse osisID='Job.24.19'/>
+        <verse osisID='Job.24.20'/>
+        <verse osisID='Job.24.21'/>
+        <verse osisID='Job.24.22'/>
+        <verse osisID='Job.24.23'/>
+        <verse osisID='Job.24.24'/>
+        <verse osisID='Job.24.25'/>
+      </chapter>
+      <chapter osisID='Job.25'>
+        <verse osisID='Job.25.1'>او زامان شواَخلي بئلدَد جاواب ورئب ددی:  </verse>
+        <verse osisID='Job.25.2'/>
+        <verse osisID='Job.25.3'/>
+        <verse osisID='Job.25.4'/>
+        <verse osisID='Job.25.5'/>
+        <verse osisID='Job.25.6'/>
+      </chapter>
+      <chapter osisID='Job.26'>
+        <verse osisID='Job.26.1'>او زامان اَيّوب جاواب ورئب ددی:  </verse>
+        <verse osisID='Job.26.2'/>
+        <verse osisID='Job.26.3'/>
+        <verse osisID='Job.26.4'/>
+        <verse osisID='Job.26.5'/>
+        <verse osisID='Job.26.6'/>
+        <verse osisID='Job.26.7'/>
+        <verse osisID='Job.26.8'/>
+        <verse osisID='Job.26.9'/>
+        <verse osisID='Job.26.10'/>
+        <verse osisID='Job.26.11'/>
+        <verse osisID='Job.26.12'/>
+        <verse osisID='Job.26.13'/>
+        <verse osisID='Job.26.14'/>
+      </chapter>
+      <chapter osisID='Job.27'>
+        <verse osisID='Job.27.1'>اَيّوب گئنه موباحئثه‌سئنه داوام ورئب ددی:  </verse>
+        <verse osisID='Job.27.2'/>
+        <verse osisID='Job.27.3'/>
+        <verse osisID='Job.27.4'/>
+        <verse osisID='Job.27.5'/>
+        <verse osisID='Job.27.6'/>
+        <verse osisID='Job.27.7'/>
+        <verse osisID='Job.27.8'/>
+        <verse osisID='Job.27.9'/>
+        <verse osisID='Job.27.10'/>
+        <verse osisID='Job.27.11'/>
+        <verse osisID='Job.27.12'/>
+        <verse osisID='Job.27.13'/>
+        <verse osisID='Job.27.14'/>
+        <verse osisID='Job.27.15'/>
+        <verse osisID='Job.27.16'/>
+        <verse osisID='Job.27.17'/>
+        <verse osisID='Job.27.18'/>
+        <verse osisID='Job.27.19'/>
+        <verse osisID='Job.27.20'/>
+        <verse osisID='Job.27.21'/>
+        <verse osisID='Job.27.22'/>
+        <verse osisID='Job.27.23'/>
+      </chapter>
+      <chapter osisID='Job.28'>
+        <verse osisID='Job.28.1'/>
+        <verse osisID='Job.28.2'/>
+        <verse osisID='Job.28.3'/>
+        <verse osisID='Job.28.4'/>
+        <verse osisID='Job.28.5'/>
+        <verse osisID='Job.28.6'/>
+        <verse osisID='Job.28.7'/>
+        <verse osisID='Job.28.8'/>
+        <verse osisID='Job.28.9'/>
+        <verse osisID='Job.28.10'/>
+        <verse osisID='Job.28.11'/>
+        <verse osisID='Job.28.12'/>
+        <verse osisID='Job.28.13'/>
+        <verse osisID='Job.28.14'/>
+        <verse osisID='Job.28.15'/>
+        <verse osisID='Job.28.16'/>
+        <verse osisID='Job.28.17'/>
+        <verse osisID='Job.28.18'/>
+        <verse osisID='Job.28.19'/>
+        <verse osisID='Job.28.20'/>
+        <verse osisID='Job.28.21'/>
+        <verse osisID='Job.28.22'/>
+        <verse osisID='Job.28.23'/>
+        <verse osisID='Job.28.24'/>
+        <verse osisID='Job.28.25'/>
+        <verse osisID='Job.28.26'/>
+        <verse osisID='Job.28.27'/>
+        <verse osisID='Job.28.28'/>
+      </chapter>
+      <chapter osisID='Job.29'>
+        <verse osisID='Job.29.1'/>
+        <verse osisID='Job.29.2'/>
+        <verse osisID='Job.29.3'/>
+        <verse osisID='Job.29.4'/>
+        <verse osisID='Job.29.5'/>
+        <verse osisID='Job.29.6'/>
+        <verse osisID='Job.29.7'/>
+        <verse osisID='Job.29.8'/>
+        <verse osisID='Job.29.9'/>
+        <verse osisID='Job.29.10'/>
+        <verse osisID='Job.29.11'/>
+        <verse osisID='Job.29.12'/>
+        <verse osisID='Job.29.13'/>
+        <verse osisID='Job.29.14'/>
+        <verse osisID='Job.29.15'/>
+        <verse osisID='Job.29.16'/>
+        <verse osisID='Job.29.17'/>
+        <verse osisID='Job.29.18'/>
+        <verse osisID='Job.29.19'/>
+        <verse osisID='Job.29.20'/>
+        <verse osisID='Job.29.21'/>
+        <verse osisID='Job.29.22'/>
+        <verse osisID='Job.29.23'/>
+        <verse osisID='Job.29.24'/>
+        <verse osisID='Job.29.25'/>
+      </chapter>
+      <chapter osisID='Job.30'>
+        <verse osisID='Job.30.1'>آمّا ائندي ياشجا مندن کئچئکلر </verse>
+        <verse osisID='Job.30.2'/>
+        <verse osisID='Job.30.3'/>
+        <verse osisID='Job.30.4'/>
+        <verse osisID='Job.30.5'/>
+        <verse osisID='Job.30.6'/>
+        <verse osisID='Job.30.7'/>
+        <verse osisID='Job.30.8'/>
+        <verse osisID='Job.30.9'/>
+        <verse osisID='Job.30.10'/>
+        <verse osisID='Job.30.11'/>
+        <verse osisID='Job.30.12'/>
+        <verse osisID='Job.30.13'/>
+        <verse osisID='Job.30.14'/>
+        <verse osisID='Job.30.15'/>
+        <verse osisID='Job.30.16'/>
+        <verse osisID='Job.30.17'/>
+        <verse osisID='Job.30.18'/>
+        <verse osisID='Job.30.19'/>
+        <verse osisID='Job.30.20'/>
+        <verse osisID='Job.30.21'/>
+        <verse osisID='Job.30.22'/>
+        <verse osisID='Job.30.23'/>
+        <verse osisID='Job.30.24'/>
+        <verse osisID='Job.30.25'/>
+        <verse osisID='Job.30.26'/>
+        <verse osisID='Job.30.27'/>
+        <verse osisID='Job.30.28'/>
+        <verse osisID='Job.30.29'/>
+        <verse osisID='Job.30.30'/>
+        <verse osisID='Job.30.31'/>
+      </chapter>
+      <chapter osisID='Job.31'>
+        <verse osisID='Job.31.1'>گؤزلرئمله عهد باغلاميشام؛ </verse>
+        <verse osisID='Job.31.2'/>
+        <verse osisID='Job.31.3'/>
+        <verse osisID='Job.31.4'/>
+        <verse osisID='Job.31.5'/>
+        <verse osisID='Job.31.6'/>
+        <verse osisID='Job.31.7'/>
+        <verse osisID='Job.31.8'/>
+        <verse osisID='Job.31.9'/>
+        <verse osisID='Job.31.10'/>
+        <verse osisID='Job.31.11'/>
+        <verse osisID='Job.31.12'/>
+        <verse osisID='Job.31.13'/>
+        <verse osisID='Job.31.14'/>
+        <verse osisID='Job.31.15'/>
+        <verse osisID='Job.31.16'/>
+        <verse osisID='Job.31.17'/>
+        <verse osisID='Job.31.18'/>
+        <verse osisID='Job.31.19'/>
+        <verse osisID='Job.31.20'/>
+        <verse osisID='Job.31.21'/>
+        <verse osisID='Job.31.22'/>
+        <verse osisID='Job.31.23'/>
+        <verse osisID='Job.31.24'/>
+        <verse osisID='Job.31.25'/>
+        <verse osisID='Job.31.26'/>
+        <verse osisID='Job.31.27'/>
+        <verse osisID='Job.31.28'/>
+        <verse osisID='Job.31.29'/>
+        <verse osisID='Job.31.30'/>
+        <verse osisID='Job.31.31'/>
+        <verse osisID='Job.31.32'/>
+        <verse osisID='Job.31.33'/>
+        <verse osisID='Job.31.34'/>
+        <verse osisID='Job.31.35'/>
+        <verse osisID='Job.31.36'/>
+        <verse osisID='Job.31.37'/>
+        <verse osisID='Job.31.38'/>
+        <verse osisID='Job.31.39'/>
+        <verse osisID='Job.31.40'/>
+      </chapter>
+      <chapter osisID='Job.32'>
+        <verse osisID='Job.32.1'>
+          بلجه بو اوچ کئشي اَيّوبا جاواب ورمکدن دايانديلار، چونکي او، اؤز نظرئنده صالح بئر آدام ائدي.</verse>
+        <verse osisID='Job.32.2'>لاکئن رام نسلئندن بوزلو بَرَکِلئن اوغلو اِلئهونون قضبي اَيّوبون اوستونه آلوولاندي، چونکي اؤزونو تاريدان داها چوخ حاقلي حساب ادئردي.</verse>
+        <verse osisID='Job.32.3'>اونون قضبي او اوچ دوستون اوستونه ده آلوولاندي، چونکي اَيّوبو محکوم اتدئيي حالدا، حله ده اونا بئر جاواب تاپا بئلمه‌مئشدئلر.</verse>
+        <verse osisID='Job.32.4'>اِلئهو بوراجاق اَيّوبلا دانيشماغا گؤزله‌مئشدي، چونکي اونلار ياشدا اوندان بؤيوک ائدئلر.</verse>
+        <verse osisID='Job.32.5'>لاکئن بو اوچ کئشئنين آغزيندا آرتيق جاواب اولماديغيني گؤرَن واخت، قضبي آلوولاندي.  </verse>
+        <verse osisID='Job.32.6'/>
+        <verse osisID='Job.32.7'/>
+        <verse osisID='Job.32.8'/>
+        <verse osisID='Job.32.9'/>
+        <verse osisID='Job.32.10'/>
+        <verse osisID='Job.32.11'/>
+        <verse osisID='Job.32.12'/>
+        <verse osisID='Job.32.13'/>
+        <verse osisID='Job.32.14'/>
+        <verse osisID='Job.32.15'/>
+        <verse osisID='Job.32.16'/>
+        <verse osisID='Job.32.17'/>
+        <verse osisID='Job.32.18'/>
+        <verse osisID='Job.32.19'/>
+        <verse osisID='Job.32.20'/>
+        <verse osisID='Job.32.21'/>
+        <verse osisID='Job.32.22'/>
+      </chapter>
+      <chapter osisID='Job.33'>
+        <verse osisID='Job.33.1'>ائندي اَيّوب، ددئيئمي اشئت، </verse>
+        <verse osisID='Job.33.2'/>
+        <verse osisID='Job.33.3'/>
+        <verse osisID='Job.33.4'/>
+        <verse osisID='Job.33.5'/>
+        <verse osisID='Job.33.6'/>
+        <verse osisID='Job.33.7'/>
+        <verse osisID='Job.33.8'/>
+        <verse osisID='Job.33.9'/>
+        <verse osisID='Job.33.10'/>
+        <verse osisID='Job.33.11'/>
+        <verse osisID='Job.33.12'/>
+        <verse osisID='Job.33.13'/>
+        <verse osisID='Job.33.14'/>
+        <verse osisID='Job.33.15'/>
+        <verse osisID='Job.33.16'/>
+        <verse osisID='Job.33.17'/>
+        <verse osisID='Job.33.18'/>
+        <verse osisID='Job.33.19'/>
+        <verse osisID='Job.33.20'/>
+        <verse osisID='Job.33.21'/>
+        <verse osisID='Job.33.22'/>
+        <verse osisID='Job.33.23'/>
+        <verse osisID='Job.33.24'/>
+        <verse osisID='Job.33.25'/>
+        <verse osisID='Job.33.26'/>
+        <verse osisID='Job.33.27'/>
+        <verse osisID='Job.33.28'/>
+        <verse osisID='Job.33.29'/>
+        <verse osisID='Job.33.30'/>
+        <verse osisID='Job.33.31'/>
+        <verse osisID='Job.33.32'/>
+        <verse osisID='Job.33.33'/>
+      </chapter>
+      <chapter osisID='Job.34'>
+        <verse osisID='Job.34.1'>اِلئهو سؤزونه داوام ورئب ددی:  </verse>
+        <verse osisID='Job.34.2'/>
+        <verse osisID='Job.34.3'/>
+        <verse osisID='Job.34.4'/>
+        <verse osisID='Job.34.5'/>
+        <verse osisID='Job.34.6'/>
+        <verse osisID='Job.34.7'/>
+        <verse osisID='Job.34.8'/>
+        <verse osisID='Job.34.9'/>
+        <verse osisID='Job.34.10'/>
+        <verse osisID='Job.34.11'/>
+        <verse osisID='Job.34.12'/>
+        <verse osisID='Job.34.13'/>
+        <verse osisID='Job.34.14'/>
+        <verse osisID='Job.34.15'/>
+        <verse osisID='Job.34.16'/>
+        <verse osisID='Job.34.17'/>
+        <verse osisID='Job.34.18'/>
+        <verse osisID='Job.34.19'/>
+        <verse osisID='Job.34.20'/>
+        <verse osisID='Job.34.21'/>
+        <verse osisID='Job.34.22'/>
+        <verse osisID='Job.34.23'/>
+        <verse osisID='Job.34.24'/>
+        <verse osisID='Job.34.25'/>
+        <verse osisID='Job.34.26'/>
+        <verse osisID='Job.34.27'/>
+        <verse osisID='Job.34.28'/>
+        <verse osisID='Job.34.29'/>
+        <verse osisID='Job.34.30'/>
+        <verse osisID='Job.34.31'/>
+        <verse osisID='Job.34.32'/>
+        <verse osisID='Job.34.33'/>
+        <verse osisID='Job.34.34'/>
+        <verse osisID='Job.34.35'/>
+        <verse osisID='Job.34.36'/>
+        <verse osisID='Job.34.37'/>
+      </chapter>
+      <chapter osisID='Job.35'>
+        <verse osisID='Job.35.1'>اِلئهو سؤزونه داوام ورئب ددي:  </verse>
+        <verse osisID='Job.35.2'/>
+        <verse osisID='Job.35.3'/>
+        <verse osisID='Job.35.4'/>
+        <verse osisID='Job.35.5'/>
+        <verse osisID='Job.35.6'/>
+        <verse osisID='Job.35.7'/>
+        <verse osisID='Job.35.8'/>
+        <verse osisID='Job.35.9'/>
+        <verse osisID='Job.35.10'/>
+        <verse osisID='Job.35.11'/>
+        <verse osisID='Job.35.12'/>
+        <verse osisID='Job.35.13'/>
+        <verse osisID='Job.35.14'/>
+        <verse osisID='Job.35.15'/>
+        <verse osisID='Job.35.16'/>
+      </chapter>
+      <chapter osisID='Job.36'>
+        <verse osisID='Job.36.1'>اِلئهو سؤزونه داوام ورئب ددي:  </verse>
+        <verse osisID='Job.36.2'/>
+        <verse osisID='Job.36.3'/>
+        <verse osisID='Job.36.4'/>
+        <verse osisID='Job.36.5'/>
+        <verse osisID='Job.36.6'/>
+        <verse osisID='Job.36.7'/>
+        <verse osisID='Job.36.8'/>
+        <verse osisID='Job.36.9'/>
+        <verse osisID='Job.36.10'/>
+        <verse osisID='Job.36.11'/>
+        <verse osisID='Job.36.12'/>
+        <verse osisID='Job.36.13'/>
+        <verse osisID='Job.36.14'/>
+        <verse osisID='Job.36.15'/>
+        <verse osisID='Job.36.16'/>
+        <verse osisID='Job.36.17'/>
+        <verse osisID='Job.36.18'/>
+        <verse osisID='Job.36.19'/>
+        <verse osisID='Job.36.20'/>
+        <verse osisID='Job.36.21'/>
+        <verse osisID='Job.36.22'/>
+        <verse osisID='Job.36.23'/>
+        <verse osisID='Job.36.24'/>
+        <verse osisID='Job.36.25'/>
+        <verse osisID='Job.36.26'/>
+        <verse osisID='Job.36.27'/>
+        <verse osisID='Job.36.28'/>
+        <verse osisID='Job.36.29'/>
+        <verse osisID='Job.36.30'/>
+        <verse osisID='Job.36.31'/>
+        <verse osisID='Job.36.32'/>
+        <verse osisID='Job.36.33'/>
+      </chapter>
+      <chapter osisID='Job.37'>
+        <verse osisID='Job.37.1'>بونا دا اوره‌يئم چيرپينير، </verse>
+        <verse osisID='Job.37.2'/>
+        <verse osisID='Job.37.3'/>
+        <verse osisID='Job.37.4'/>
+        <verse osisID='Job.37.5'/>
+        <verse osisID='Job.37.6'/>
+        <verse osisID='Job.37.7'/>
+        <verse osisID='Job.37.8'/>
+        <verse osisID='Job.37.9'/>
+        <verse osisID='Job.37.10'/>
+        <verse osisID='Job.37.11'/>
+        <verse osisID='Job.37.12'/>
+        <verse osisID='Job.37.13'/>
+        <verse osisID='Job.37.14'/>
+        <verse osisID='Job.37.15'/>
+        <verse osisID='Job.37.16'/>
+        <verse osisID='Job.37.17'/>
+        <verse osisID='Job.37.18'/>
+        <verse osisID='Job.37.19'/>
+        <verse osisID='Job.37.20'/>
+        <verse osisID='Job.37.21'/>
+        <verse osisID='Job.37.22'/>
+        <verse osisID='Job.37.23'/>
+        <verse osisID='Job.37.24'/>
+      </chapter>
+      <chapter osisID='Job.38'>
+        <verse osisID='Job.38.1'>او زامان رب فيرلانان يل ائچئندن اَيّوبا جاواب ورئب ددی:  </verse>
+        <verse osisID='Job.38.2'/>
+        <verse osisID='Job.38.3'/>
+        <verse osisID='Job.38.4'/>
+        <verse osisID='Job.38.5'/>
+        <verse osisID='Job.38.6'/>
+        <verse osisID='Job.38.7'/>
+        <verse osisID='Job.38.8'/>
+        <verse osisID='Job.38.9'/>
+        <verse osisID='Job.38.10'/>
+        <verse osisID='Job.38.11'/>
+        <verse osisID='Job.38.12'/>
+        <verse osisID='Job.38.13'/>
+        <verse osisID='Job.38.14'/>
+        <verse osisID='Job.38.15'/>
+        <verse osisID='Job.38.16'/>
+        <verse osisID='Job.38.17'/>
+        <verse osisID='Job.38.18'/>
+        <verse osisID='Job.38.19'/>
+        <verse osisID='Job.38.20'/>
+        <verse osisID='Job.38.21'/>
+        <verse osisID='Job.38.22'/>
+        <verse osisID='Job.38.23'/>
+        <verse osisID='Job.38.24'/>
+        <verse osisID='Job.38.25'/>
+        <verse osisID='Job.38.26'/>
+        <verse osisID='Job.38.27'/>
+        <verse osisID='Job.38.28'/>
+        <verse osisID='Job.38.29'/>
+        <verse osisID='Job.38.30'/>
+        <verse osisID='Job.38.31'/>
+        <verse osisID='Job.38.32'/>
+        <verse osisID='Job.38.33'/>
+        <verse osisID='Job.38.34'/>
+        <verse osisID='Job.38.35'/>
+        <verse osisID='Job.38.36'/>
+        <verse osisID='Job.38.37'/>
+        <verse osisID='Job.38.38'/>
+        <verse osisID='Job.38.39'/>
+        <verse osisID='Job.38.40'/>
+        <verse osisID='Job.38.41'/>
+      </chapter>
+      <chapter osisID='Job.39'>
+        <verse osisID='Job.39.1'>آيا داغ کچي‌لرئنئن نه واخت دوغدوغونو بئلئرسن؟ </verse>
+        <verse osisID='Job.39.2'/>
+        <verse osisID='Job.39.3'/>
+        <verse osisID='Job.39.4'/>
+        <verse osisID='Job.39.5'/>
+        <verse osisID='Job.39.6'/>
+        <verse osisID='Job.39.7'/>
+        <verse osisID='Job.39.8'/>
+        <verse osisID='Job.39.9'/>
+        <verse osisID='Job.39.10'/>
+        <verse osisID='Job.39.11'/>
+        <verse osisID='Job.39.12'/>
+        <verse osisID='Job.39.13'/>
+        <verse osisID='Job.39.14'/>
+        <verse osisID='Job.39.15'/>
+        <verse osisID='Job.39.16'/>
+        <verse osisID='Job.39.17'/>
+        <verse osisID='Job.39.18'/>
+        <verse osisID='Job.39.19'/>
+        <verse osisID='Job.39.20'/>
+        <verse osisID='Job.39.21'/>
+        <verse osisID='Job.39.22'/>
+        <verse osisID='Job.39.23'/>
+        <verse osisID='Job.39.24'/>
+        <verse osisID='Job.39.25'/>
+        <verse osisID='Job.39.26'/>
+        <verse osisID='Job.39.27'/>
+        <verse osisID='Job.39.28'/>
+        <verse osisID='Job.39.29'/>
+        <verse osisID='Job.39.30'/>
+      </chapter>
+      <chapter osisID='Job.40'>
+        <verse osisID='Job.40.1'>سونرا رب اَيّوبا ددی:  </verse>
+        <verse osisID='Job.40.2'/>
+        <verse osisID='Job.40.3'/>
+        <verse osisID='Job.40.4'/>
+        <verse osisID='Job.40.5'/>
+        <verse osisID='Job.40.6'/>
+        <verse osisID='Job.40.7'/>
+        <verse osisID='Job.40.8'/>
+        <verse osisID='Job.40.9'/>
+        <verse osisID='Job.40.10'/>
+        <verse osisID='Job.40.11'/>
+        <verse osisID='Job.40.12'/>
+        <verse osisID='Job.40.13'/>
+        <verse osisID='Job.40.14'/>
+        <verse osisID='Job.40.15'/>
+        <verse osisID='Job.40.16'/>
+        <verse osisID='Job.40.17'/>
+        <verse osisID='Job.40.18'/>
+        <verse osisID='Job.40.19'/>
+        <verse osisID='Job.40.20'/>
+        <verse osisID='Job.40.21'/>
+        <verse osisID='Job.40.22'/>
+        <verse osisID='Job.40.23'/>
+        <verse osisID='Job.40.24'/>
+      </chapter>
+      <chapter osisID='Job.41'>
+        <verse osisID='Job.41.1'>آيا لئوياتاني باليق قارماغي ائله چکه بئلرسن؟ </verse>
+        <verse osisID='Job.41.2'/>
+        <verse osisID='Job.41.3'/>
+        <verse osisID='Job.41.4'/>
+        <verse osisID='Job.41.5'/>
+        <verse osisID='Job.41.6'/>
+        <verse osisID='Job.41.7'/>
+        <verse osisID='Job.41.8'/>
+        <verse osisID='Job.41.9'/>
+        <verse osisID='Job.41.10'/>
+        <verse osisID='Job.41.11'/>
+        <verse osisID='Job.41.12'/>
+        <verse osisID='Job.41.13'/>
+        <verse osisID='Job.41.14'/>
+        <verse osisID='Job.41.15'/>
+        <verse osisID='Job.41.16'/>
+        <verse osisID='Job.41.17'/>
+        <verse osisID='Job.41.18'/>
+        <verse osisID='Job.41.19'/>
+        <verse osisID='Job.41.20'/>
+        <verse osisID='Job.41.21'/>
+        <verse osisID='Job.41.22'/>
+        <verse osisID='Job.41.23'/>
+        <verse osisID='Job.41.24'/>
+        <verse osisID='Job.41.25'/>
+        <verse osisID='Job.41.26'/>
+        <verse osisID='Job.41.27'/>
+        <verse osisID='Job.41.28'/>
+        <verse osisID='Job.41.29'/>
+        <verse osisID='Job.41.30'/>
+        <verse osisID='Job.41.31'/>
+        <verse osisID='Job.41.32'/>
+        <verse osisID='Job.41.33'/>
+        <verse osisID='Job.41.34'/>
+      </chapter>
+      <chapter osisID='Job.42'>
+        <verse osisID='Job.42.1'>او زامان اَيّوب ربّه جاواب ورئب ددی:  </verse>
+        <verse osisID='Job.42.2'/>
+        <verse osisID='Job.42.3'/>
+        <verse osisID='Job.42.4'/>
+        <verse osisID='Job.42.5'/>
+        <verse osisID='Job.42.6'/>
+        <verse osisID='Job.42.7'>
+          رب اَيّوبا بو سؤزلري دئيَندن سونرا، تِيمانلي اِلئفَزه ددي: "قضبئم سنئن ضئدّئنه و ائکي دوستلارينين ضئدّئنه آلوولانيب. چونکي سئز قولوم اَيّوب کئمي منئم حاقّيمدا دوغرو اولاني دِمه‌دئنئز.</verse>
+        <verse osisID='Job.42.8'>ائندي اؤزونوز اوچون يدّي گاميش و يدّي قوچ آليب قولوم اَيّوبون يانينا گدئن و اؤزونوز اوچون يانديرما قوربانيني تقدئم ادئن. قولوم اَيّوب سئزئن اوچون دوعا اتسئن. من ده اونون دوعاسيني قبول ادئب، سئزئنله آخماقليغينيزا گؤره رفتار اتمه‌رم؛ چونکي سئز قولوم اَيّوب کئمي منئم حاقّيمدا دوغرو اولاني دِمه‌دئنئز."  </verse>
+        <verse osisID='Job.42.9'/>
+        <verse osisID='Job.42.10'>
+          اَيّوب دوستلاري اوچون دوعا ادندن سونرا، رب اوندان آلينديقلاريني اونا گری قايتاردي؛ رب اَيّوبا بوتون قاباکي ماليندان ائکي قات آرتيق مال- دؤولَت وردی.</verse>
+        <verse osisID='Job.42.11'>اَيّوبون بوتون قارداشلاري و باجيلاري و بوتون اَوّلکي آشنالاري اونون يانينا گلئب اِوئنده اونونلا چؤرک يدئلر و اونون دردئنه شرئک اولدولار و ربّئن اونون باشينا گتئردئيي بوتون بلالاردان اؤتري اونا تسلّی وردئلر. هر بئري اونا بئر پارچا گوموش و بئر قيزيل حالقا وردی.</verse>
+        <verse osisID='Job.42.12'>رب اَيّوبون آخير گونلرئني اَوّلکي گونلرئندن داها چوخ برکتلي اتدي؛ اونون ۱۴۰۰۰ قويونو، ۶۰۰۰ دَوه‌سي، ۱۰۰۰ جوت اؤکوزو، و ۱۰۰۰ دئشي اِشّه‌يي وار ائدي.</verse>
+        <verse osisID='Job.42.13'>اَيّوبون يدّي اوغلو، اوچ قيزي اولدو.</verse>
+        <verse osisID='Job.42.14'>بئرئنجئسئنئن آديني "يِمئما"، ائکئنجئسئنئن آديني "قِصئعا"، اوچوسونون آديني دا "قِرِن‌هَپّوک" قويدو.</verse>
+        <verse osisID='Job.42.15'>بوتون اؤلکه‌ده اَيّوبون قيزلاري کئمي گؤزل آرواد هچ يوخ ائدي. آتالاري دا اونلارا قارداشلاري آراسيندا مئراث وردی.  </verse>
+        <verse osisID='Job.42.16'>
+          بوندان سونرا اَيّوب ۱۴۰ ائل ياشادي و اؤولادلاريني و دؤرد نسئل اؤولادلاريني گؤردو.</verse>
+        <verse osisID='Job.42.17'>اَيّوب قوجاليب عؤموردن دويموش اؤلدو.  </verse>
+      </chapter>
+    </div></osisText>
+</osis>

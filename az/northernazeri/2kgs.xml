@@ -1,0 +1,886 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace'>
+  <osisText osisIDWork='NorthernAzeri' osisRefWork='Bible' xml:lang='az'>
+    <header>
+      <revisionDesc>
+        <date>2012-01-07</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='NorthernAzeri'>
+        <title>Northern Azeri Translation</title>
+        <contributor/>
+        <creator>Mod2Zef (6)</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject/>
+        <date>2012-01-07</date>
+        <description>Northern Azeri Translation</description>
+        <publisher/>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>NorthernAzeri</identifier>
+        <source>no entry TextSource in sword.conf found</source>
+        <language type='IETF'>az</language>
+        <relation/>
+        <coverage>provide the bible to the nations of the world</coverage>
+        <rights>Copyrighted Kutsul Kitab; Permission to distribute granted to CrossWire</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='2Kgs'>
+      <chapter osisID='2Kgs.1'>
+        <verse osisID='2Kgs.1.1'/>
+        <verse osisID='2Kgs.1.2'>Padşah Axazya Samariyada olan yuxarı otağındakı barmaqlığı olan pəncərədən yıxılıb yaralandı. O, qasidlərinə «Gedin, Eqron allahı Baal-Zevuvdan soruşun, bu yaram sağalacaqmı?» deyib onları göndərdi.</verse>
+        <verse osisID='2Kgs.1.3'>Rəbbin mələyi Tişbeli İlyasa dedi: «Qalx Samariya padşahının qasidlərini qarşılamaq üçün çıx və onlara de: “İsraildə Allah yoxdur ki, Eqron allahı Baal-Zevuva müraciət etməyə gedirsiniz?”</verse>
+        <verse osisID='2Kgs.1.4'>Buna görə də Rəbb belə deyir: “Üstündə uzandığın yataqdan qalxa bilməyəcəksən, çünki hökmən öləcəksən!”» İlyas getdi. </verse>
+        <verse osisID='2Kgs.1.5'>Qasidlər padşahın yanına qayıtdılar. Padşah onlara dedi: «Niyə geri qayıtdınız?»</verse>
+        <verse osisID='2Kgs.1.6'>Ona dedilər: «Bir adam bizi qarşılamağa çıxdı və bizə dedi: “Sizi göndərən padşahın yanına qayıdıb ona söyləyin ki, Rəbb belə deyir: ‹İsraildə Allah yoxdur ki, Eqron allahı Baal-Zevuva müraciət etmək üçün qasidlər göndərdin?› Buna görə də üstündə uzandığın yataqdan qalxa bilməyəcəksən, çünki hökmən öləcəksən!”»</verse>
+        <verse osisID='2Kgs.1.7'>Padşah onlara dedi: «Sizi qarşılamağa çıxan və sizə bu sözləri söyləyən adam nə qiyafədə idi?»</verse>
+        <verse osisID='2Kgs.1.8'>Ona dedilər: «Tüklü bir adam idi, belinə dəri qurşaq bağlamışdı». Padşah dedi: «O, Tişbeli İlyasdır». </verse>
+        <verse osisID='2Kgs.1.9'>Padşah bir əllibaşı ilə əlli adamını İlyasın yanına göndərdi. Əllibaşı onun yanına qalxdı. İlyas təpənin başında oturmuşdu. Əllibaşı ona dedi: «Ey Allah adamı, padşah “aşağı düş” deyir».</verse>
+        <verse osisID='2Kgs.1.10'>İlyas əllibaşıya cavab verib dedi: «Əgər mən Allah adamıyamsa, göydən od yağsın, səni və əlli adamını tələf etsin!» Onda göydən od yağdı, əllibaşı ilə əlli adamını tələf etdi.</verse>
+        <verse osisID='2Kgs.1.11'>Padşah başqa bir əllibaşı ilə əlli adamını onun yanına göndərdi. Əllibaşı ona dedi: «Ey Allah adamı, padşah belə deyir: “Tez aşağı düş”».</verse>
+        <verse osisID='2Kgs.1.12'>İlyas onlara cavab verib dedi: «Əgər mən Allah adamıyamsa, göydən od yağsın, səni və əlli adamını tələf etsin!» Onda göydən Allahın odu yağdı, əllibaşı ilə əlli adamını tələf etdi.</verse>
+        <verse osisID='2Kgs.1.13'>Padşah yenə üçüncü bir əllibaşı ilə əlli adamını göndərdi. Üçüncü əllibaşı qalxıb gəldi, İlyasın qarşısında diz çökdü və ona yalvarıb dedi: «Ey Allah adamı, xahiş edirəm, mənim və bu əlli qulunun canına yazığın gəlsin.</verse>
+        <verse osisID='2Kgs.1.14'>Göydən od yağıb əvvəl gələn iki əllibaşını və onların hərəsinin əlli adamını tələf etdi. İndi mənim canıma yazığın gəlsin». </verse>
+        <verse osisID='2Kgs.1.15'>Rəbbin mələyi İlyasa dedi: «Onunla birgə aşağı düş, ondan qorxma». İlyas qalxıb aşağı düşdü və əllibaşı ilə birgə padşahın yanına gəldi.</verse>
+        <verse osisID='2Kgs.1.16'>Ona dedi: «Rəbb belə deyir: “İsraildə sözünü soruşmağa Allah yoxdur ki, Eqron allahı Baal-Zevuvdan soruşmaq üçün qasidlər göndərdin? Buna görə də üstündə uzandığın yataqdan qalxa bilməyəcəksən, çünki hökmən öləcəksən!”» </verse>
+        <verse osisID='2Kgs.1.17'>İlyasın söylədiyi Rəbbin sözünə görə Axazya öldü. Oğlu olmadığı üçün yerinə Axavın oğlu Yehoram padşah oldu. Bu da Yəhuda padşahı Yehoşafat oğlu Yehoramın padşahlığının ikinci ilində oldu.</verse>
+        <verse osisID='2Kgs.1.18'>Axazyanın qalan işləri İsrail padşahlarının salnamələr kitabında yazılmışdır.  </verse>
+      </chapter>
+      <chapter osisID='2Kgs.2'>
+        <verse osisID='2Kgs.2.1'>
+          Rəbb İlyası qasırğa ilə göyə qaldırmazdan əvvəl İlyas və Elişa Qilqaldan getdilər.</verse>
+        <verse osisID='2Kgs.2.2'>Onda İlyas Elişaya dedi: «Burada qal, çünki Rəbb məni Bet-Elə göndərir». Elişa dedi: «Var olan Rəbbə və sənin canına and olsun ki, səndən əl çəkmərəm». Onlar Bet-Elə getdilər.</verse>
+        <verse osisID='2Kgs.2.3'>Bet-Eldə olan peyğəmbərlər Elişanın yanına gəlib ona dedilər: «Rəbbin bu gün sənin ağanı başının üstündən götürəcəyini bilirsənmi?» O dedi: «Bəli, bilirəm, susun». </verse>
+        <verse osisID='2Kgs.2.4'>İlyas ona dedi: «Elişa, burada qal, çünki Rəbb məni Yerixoya göndərir». Elişa dedi: «Var olan Rəbbə və sənin canına and olsun ki, səndən əl çəkmərəm». Onlar Yerixoya gəldilər.</verse>
+        <verse osisID='2Kgs.2.5'>Yerixoda olan peyğəmbərlər Elişanın yanına gəlib ona dedilər: «Bilirsənmi, Rəbb bu gün ağanı sənin başın üstündən götürəcək?» O dedi: «Bəli, bilirəm, susun!» </verse>
+        <verse osisID='2Kgs.2.6'>İlyas ona dedi: «Burada qal, çünki Rəbb məni İordan çayının yanına göndərir». Elişa dedi: «Var olan Rəbbə və sənin canına and olsun ki, səndən əl çəkmərəm». Onlar getdilər.</verse>
+        <verse osisID='2Kgs.2.7'>Peyğəmbərlərdən əlli adam gedib uzaqda onların qarşısında dayandı. Onlar da İordan çayının yanında dayandılar.</verse>
+        <verse osisID='2Kgs.2.8'>İlyas cübbəsini götürdü və onu büküb suya vurdu. Su iki yerə ayrıldı və onlar quru yerin üstündən keçdilər.</verse>
+        <verse osisID='2Kgs.2.9'>Onlar keçəndən sonra İlyas Elişaya dedi: «Mən sənin yanından götürülməzdən əvvəl məndən bir şey istə, sənin üçün nə edim?» Elişa dedi: «Qoy indi səndə olan ruh ikiqat artıq məndə olsun».</verse>
+        <verse osisID='2Kgs.2.10'>İlyas dedi: «Sən çətin bir şey istədin. Əgər sənin yanından götürüldüyümü görsən, səninlə belə olacaq, yoxsa bu olmayacaq».</verse>
+        <verse osisID='2Kgs.2.11'>Onlar danışa-danışa gedərkən qəflətən odlu bir araba və odlu atlar göründü, onları bir-birindən ayırdı və İlyas qasırğa ilə göyə qaldırıldı.</verse>
+        <verse osisID='2Kgs.2.12'>Elişa bunu görüb qışqırdı: «Atam, ey atam! İsrailin arabası və atlıları!» O, İlyası daha görməyəndə öz paltarını götürdü və onu cırıb iki yerə böldü. </verse>
+        <verse osisID='2Kgs.2.13'>Sonra İlyasın əynindən düşən cübbəni götürüb geri döndü və İordan çayının sahilində dayandı.</verse>
+        <verse osisID='2Kgs.2.14'>İlyasın əynindən düşən cübbəni götürüb suya vurdu və dedi: «İlyasın Allahı Rəbb haradadır?» O da cübbəni suya vuranda su iki yerə ayrıldı. Elişa oradan keçdi. </verse>
+        <verse osisID='2Kgs.2.15'>Yerixoda olan peyğəmbərlər onu uzaqdan görüb dedilər: «İlyasın ruhunun gücü Elişanın üstünə qondu». Onlar Elişanı qarşılamağa gələrək önündə yerə qədər təzim etdilər.</verse>
+        <verse osisID='2Kgs.2.16'>Ona dedilər: «Bu qullarının yanında əlli igid var, qoy gedib ağanı axtarsınlar. Bəlkə Rəbbin Ruhu onu qaldırıb dağların yaxud da dərələrin birinə atmışdır?» Elişa dedi: «Göndərməyin».</verse>
+        <verse osisID='2Kgs.2.17'>Amma onlar o qədər inad etdilər ki, Elişa utanıb dedi: «Göndərin». Əlli nəfər göndərdilər və onlar üç gün axtardılar, ancaq İlyası tapa bilmədilər.</verse>
+        <verse osisID='2Kgs.2.18'>Sonra Yerixoda qalan Elişanın yanına qayıtdılar. Elişa onlara dedi: «Mən sizə demədim ki, getməyin?» </verse>
+        <verse osisID='2Kgs.2.19'>Şəhərin adamları Elişaya dedilər: «Ağamın gördüyü kimi bu şəhərin yeri yaxşıdır, ancaq suyu pisdir, torpağı bəhər vermir».</verse>
+        <verse osisID='2Kgs.2.20'>O dedi: «Mənə təzə bir qab gətirin və onun içinə duz qoyun». Bunu ona gətirdilər.</verse>
+        <verse osisID='2Kgs.2.21'>O, bulağa çıxdı, duzu oraya atıb dedi: «Rəbb belə deyir: “Bu suları pak edirəm, artıq onda ölüm və bəhərsizlik olmayacaq”».</verse>
+        <verse osisID='2Kgs.2.22'>Elişanın söylədiyi sözə görə bu su indiyə qədər də pak qalır. </verse>
+        <verse osisID='2Kgs.2.23'>Elişa oradan Bet-Elə qalxdı. O, yola düşəndə kiçik oğlanlar şəhərdən çıxdılar və onu lağa qoyub dedilər: «Rədd ol, keçəl, rədd ol, keçəl!»</verse>
+        <verse osisID='2Kgs.2.24'>O arxaya dönüb oğlanları gördü və onları Rəbbin adı ilə lənətlədi. Meşədən iki dişi ayı çıxıb onlardan qırx iki nəfəri parçaladı.</verse>
+        <verse osisID='2Kgs.2.25'>Elişa oradan Karmel dağına getdi, oradan da Samariyaya qayıtdı.  </verse>
+      </chapter>
+      <chapter osisID='2Kgs.3'>
+        <verse osisID='2Kgs.3.1'>
+          Yəhuda padşahı Yehoşafatın padşahlığının on səkkizinci ilində Axav oğlu Yehoram Samariyada İsrail üzərində padşah oldu və on iki il padşahlıq etdi.</verse>
+        <verse osisID='2Kgs.3.2'>O, Rəbbin gözündə pis olan işlər etdi, ancaq atası və anası kimi deyildi, çünki atasının düzəltdiyi Baal sütununu yox etdi.</verse>
+        <verse osisID='2Kgs.3.3'>Ancaq Nevat oğlu Yarovamın İsrailə etdirdiyi günahlardan yapışdı, onlardan əl çəkmədi. </verse>
+        <verse osisID='2Kgs.3.4'>Moav padşahı Meşanın sürüsü var idi. O, İsrail padşahına yüz min quzu və yüz min qoçun yununu göndərərdi.</verse>
+        <verse osisID='2Kgs.3.5'>Axavın ölümündən sonra Moav padşahı İsrail padşahına qarşı üsyan qaldırdı.</verse>
+        <verse osisID='2Kgs.3.6'>O vaxt padşah Yehoram Samariyadan çıxdı və bütün İsrailliləri topladı.</verse>
+        <verse osisID='2Kgs.3.7'>O gedəndə Yəhuda padşahı Yehoşafata xəbər göndərib dedi: «Moav padşahı mənə qarşı üsyan qaldırdı. Moavlılara qarşı vuruşmaq üçün mənimlə birgə gedərsənmi?» Yehoşafat dedi: «Gedərəm, məni özün kimi, xalqımı xalqın kimi, atlarımı atların kimi hesab elə».</verse>
+        <verse osisID='2Kgs.3.8'>Yehoram dedi: «Hansı yolla çıxaq?» O dedi: «Edom çölünün yolu ilə».</verse>
+        <verse osisID='2Kgs.3.9'>İsrail padşahı, Yəhuda padşahı və Edom padşahı gedib o yolu yeddi gün dolaşdılar. Əsgərlər və dallarınca gələn heyvanlar üçün su yox idi.</verse>
+        <verse osisID='2Kgs.3.10'>İsrail padşahı dedi: «Ay aman! Rəbb bu üç padşahı Moavlılara təslim etmək üçün bir yerə çağırıb».</verse>
+        <verse osisID='2Kgs.3.11'>Yehoşafat dedi: «Burada Rəbbin bir peyğəmbəri yoxdur ki, onun vasitəsilə Rəbdən soruşaq?» İsrail padşahının əyanlarından biri cavab verib dedi: «Şafat oğlu Elişa buradadır. O, İlyasın əlinə su tökərdi».</verse>
+        <verse osisID='2Kgs.3.12'>Padşah Yehoşafat dedi: «Onda Rəbbin sözü var». Sonra İsrail padşahı, Edom padşahı və Yehoşafat Elişanın yanına enib getdilər. </verse>
+        <verse osisID='2Kgs.3.13'>Elişa İsrail padşahına dedi: «Məndən sənə nə? Öz ata-ananın peyğəmbərlərinin yanına get». İsrail padşahı ona dedi: «Yox! Bu üç padşahı Moavlılara təslim etmək üçün Rəbb bir yerə çağırıb».</verse>
+        <verse osisID='2Kgs.3.14'>Elişa dedi: «Önündə durduğum var olan Ordular Rəbbinə and olsun ki, Yəhuda padşahı Yehoşafata hörmət etməsəydim, sənin üzünə baxmazdım.</verse>
+        <verse osisID='2Kgs.3.15'>İndi mənim yanıma çəng çalan bir adam gətirin». Gətirilən adam çəng çalarkən Rəbbin əli Elişanın üzərinə gəldi.</verse>
+        <verse osisID='2Kgs.3.16'>O dedi: «Rəbb belə deyir: “Bu vadinin hər tərəfində xəndəklər qazın”.</verse>
+        <verse osisID='2Kgs.3.17'>Çünki Rəbb belə deyir: “Siz külək və yağış görməyəcəksiniz, amma bu vadi su ilə dolacaq. Siz, mal-qaranız və heyvanlarınız doyunca su içəcəksiniz”.</verse>
+        <verse osisID='2Kgs.3.18'>Bu, Rəbbin gözündə çox asan bir şeydir. O, Moavlıları da sizə təslim edəcək.</verse>
+        <verse osisID='2Kgs.3.19'>Bütün qalalı şəhərləri və seçmə şəhərləri dağıdacaqsınız, hər yaxşı ağacı kəsəcəksiniz, bütün bulaqların gözünü tutacaqsınız və hər yaxşı tarlanı daşlarla dolduracaqsınız».</verse>
+        <verse osisID='2Kgs.3.20'>Ertəsi gün səhər təqdim gətirilən zaman birdən Edom yolundan su gəldi və torpaq su ilə doldu. </verse>
+        <verse osisID='2Kgs.3.21'>Bütün Moavlılar eşitdilər ki, padşahlar onlarla vuruşmağa gəlir. Silah qurşana bilən hər kəsi və daha yaşlı adamları çağırdılar. Onlar sərhəddə dayandılar.</verse>
+        <verse osisID='2Kgs.3.22'>Moavlılar ertəsi gün səhər tezdən duran zaman günəş çıxıb suların üzərinə şəfəq salmışdı. Onlar qarşılarındakı suları qan kimi qırmızı gördülər.</verse>
+        <verse osisID='2Kgs.3.23'>O zaman dedilər: «Bu qandır, yəqin padşahlar vuruşub bir-birlərini qırıblar. İndi, ey Moavlılar, qarət etməyə gedək!»</verse>
+        <verse osisID='2Kgs.3.24'>Onlar İsrail ordugahına gəldilər. İsraillilər qalxıb Moavlıları qırdılar və Moavlılar onların qabağından qaçmağa başladılar. İsraillilər qalxıb Moav torpağını viran etmək üçün hücum etdilər.</verse>
+        <verse osisID='2Kgs.3.25'>Onlar şəhərləri dağıtdılar, hər yaxşı tarlanı daşlarla doldurdular, bütün bulaqların gözünü tutdular və hər yaxşı ağacı kəsdilər. Yalnız Qir-Xaresetin daşları yerində qaldı, ancaq sapandçılar onu da mühasirəyə alıb vurdular.</verse>
+        <verse osisID='2Kgs.3.26'>Moav padşahı döyüşdə məğlub olduğunu görəndə özü ilə yeddi yüz nəfər əli qılınclı adam götürdü. Onlar Edom padşahının qoşununu yarmaq istədilər, ancaq bunu edə bilmədilər.</verse>
+        <verse osisID='2Kgs.3.27'>Sonra o, vəliəhd olan ilk oğlunu götürüb divarın üzərində yandırma qurbanı gətirdi. Onda İsraillilərə qarşı böyük bir qəzəb oyandı, onlar da oranı tərk edib öz ölkələrinə qayıtdılar.  </verse>
+      </chapter>
+      <chapter osisID='2Kgs.4'>
+        <verse osisID='2Kgs.4.1'>
+          Peyğəmbərlərdən olan bir adamın arvadı Elişaya fəryad edərək dedi: «Sənin qulun ərim öldü! Bilirsən ki, o qulun Rəbdən qorxurdu. İndi isə bir borc sahibi iki oğlumu özünə qul etmək üçün gəlmişdi».</verse>
+        <verse osisID='2Kgs.4.2'>Elişa ona dedi: «Sənin üçün nə edim? Mənə söylə görüm, evində nəyin var?» Qadın dedi: «Bir qab yağdan başqa bu kənizinin evində heç nə yoxdur».</verse>
+        <verse osisID='2Kgs.4.3'>Elişa dedi: «Get bayırda bütün qonşularından özün üçün boş qablar istə, qoy çox olsun.</verse>
+        <verse osisID='2Kgs.4.4'>Sonra içəri gir, özünün və oğullarının dalınca qapını bağla, öz yağını bütün bu qablara tök və onları doldurub bir tərəfə qoy». </verse>
+        <verse osisID='2Kgs.4.5'>Qadın onu tərk edib qapını özünün və oğullarının dalınca bağladı. Oğulları qabları onun yanına gətirdilər, o da doldurdu.</verse>
+        <verse osisID='2Kgs.4.6'>Qablar dolanda o, oğullarından birinə dedi: «Mənə bir qab da gətir». Oğlu ona dedi: «Daha qab qalmadı». Onda yağ kəsildi.</verse>
+        <verse osisID='2Kgs.4.7'>Qadın gəlib bunları Allah adamına danışdı, o da dedi: «Get yağı satıb borcunu ödə. Qalanı ilə də oğullarınla birgə dolanarsan». </verse>
+        <verse osisID='2Kgs.4.8'>Bir gün Elişa Şunemdən keçirdi. Orada yaşayan varlı bir qadın Elişanı çörək yeməyə dəvət etdi. Sonralar Elişa hər dəfə keçəndə çörək yemək üçün oraya gedərdi.</verse>
+        <verse osisID='2Kgs.4.9'>Qadın ərinə dedi: «İndi bildim ki, həmişə yanımızdan keçən bu adam müqəddəs bir Allah adamıdır.</verse>
+        <verse osisID='2Kgs.4.10'>Gəl damda ona kiçik bir otaq düzəldək, oraya onun üçün yataq, süfrə, taxt, bir də çıraq qoyaq ki, bizə gələndə orada qalsın». </verse>
+        <verse osisID='2Kgs.4.11'>Bir gün Elişa oraya gəldi və damdakı otağa çıxıb orada yatdı.</verse>
+        <verse osisID='2Kgs.4.12'>O, nökəri Gehaziyə dedi: «Şunemli qadını çağır». O, qadını çağırdı və qadın onun qarşısında dayandı.</verse>
+        <verse osisID='2Kgs.4.13'>Elişa nökərinə dedi: «İndi qadına söylə: “Bizim üçün bu qədər zəhmət çəkmisən. Mən sənin üçün nə edə bilərəm? Sənin barəndə padşahla ya ordu başçısı ilə danışım?”» Gehazi bunu söylədi. Qadın dedi: «Yox, lazım deyil, mən öz xalqımla birgə yaşayıram».</verse>
+        <verse osisID='2Kgs.4.14'>Elişa dedi: «Elə isə onun üçün nə edə bilərəm?» Gehazi dedi: «Doğrusu, oğlu yoxdur, əri də qocadır».</verse>
+        <verse osisID='2Kgs.4.15'>Elişa dedi: «Qadını çağır». Gehazi qadını çağırdı və o gəlib qapıda durdu.</verse>
+        <verse osisID='2Kgs.4.16'>Elişa dedi: «Bir ildən sonra bu fəsildə qucağında bir oğlun olacaq». Qadın dedi: «Yox, ey ağam Allah adamı, kənizinə yalan söyləmə!»</verse>
+        <verse osisID='2Kgs.4.17'>Elişanın söylədiyi kimi qadın hamilə oldu və bir il sonra həmin fəsildə bir oğlan doğdu. </verse>
+        <verse osisID='2Kgs.4.18'>Uşaq böyüdü. O, bir gün biçinçilərlə birgə işləyən atasının yanına getdi.</verse>
+        <verse osisID='2Kgs.4.19'>O, atasına «Başım ağrıyır, başım!» dedi. Atası nökərə dedi: «Onu anasının yanına apar».</verse>
+        <verse osisID='2Kgs.4.20'>Nökər onu götürüb anasının yanına gətirdi. O, günortaya qədər anasının dizləri üstündə qaldı və sonra öldü.</verse>
+        <verse osisID='2Kgs.4.21'>Qadın yuxarı çıxıb uşağı Allah adamının yatağı üstünə uzandırdı, sonra qapını dalınca örtüb çıxdı.</verse>
+        <verse osisID='2Kgs.4.22'>O, ərini çağırıb dedi: «Nökərlərindən biri ilə mənə bir eşşək göndər. Tez Allah adamının yanına gedib-qayıdacağam».</verse>
+        <verse osisID='2Kgs.4.23'>Əri dedi: «Nə üçün bu gün onun yanına gedirsən? Nə Təzə Ay mərasimi, nə də Şənbə günüdür». Qadın dedi: «Eybi yox».</verse>
+        <verse osisID='2Kgs.4.24'>O, eşşəyi palanlayıb nökərinə dedi: «Sür və mən sənə deməyincə dayanma».</verse>
+        <verse osisID='2Kgs.4.25'>O getdi və Karmel dağına, Allah adamının yanına gəldi.  Allah adamı qadını uzaqdan gördükdə nökəri Gehaziyə dedi: «Şunemli qadın buraya gəlir.</verse>
+        <verse osisID='2Kgs.4.26'>İndi onun qabağına qaçıb soruş: “Necəsən, yaxşısanmı, ərin və oğlun yaxşıdırmı?”» O gedib soruşdu. Qadın dedi: «Yaxşıyıq».</verse>
+        <verse osisID='2Kgs.4.27'>Qadın dağa çıxıb Allah adamının yanına gəldi və onun ayaqlarına sarıldı. Gehazi onu geri itələmək üçün yaxınlaşdı, ancaq Allah adamı dedi: «Onu burax, çünki ürəyi kədərlidir, ancaq Rəbb bunun səbəbini gizlətdi və mənə bildirmədi».</verse>
+        <verse osisID='2Kgs.4.28'>Qadın dedi: «Mən ağamdan uşaq istədimmi? “Məni aldatma” demədimmi?»</verse>
+        <verse osisID='2Kgs.4.29'>Elişa Gehaziyə dedi: «Belini qurşa və əsamı əlinə götürüb get. Əgər bir adamla rastlaşsan, ona salam vermə və sənə salam verənin salamını alma. Get, əsamı oğlanın üzünün üstünə qoy».</verse>
+        <verse osisID='2Kgs.4.30'>Oğlanın anası dedi: «Var olan Rəbbə və sənin canına and olsun ki, səndən əl çəkmərəm». Elişa qalxıb onun dalınca getdi.</verse>
+        <verse osisID='2Kgs.4.31'>Gehazi onlardan qabaq getdi və əsanı oğlanın üzünün üstünə qoydu, ancaq nə bir səs, nə də bir cavab oldu. Gehazi Elişanı qarşılamaq üçün geri döndü və «oğlan dirilmədi» deyə ona bildirdi. </verse>
+        <verse osisID='2Kgs.4.32'>Elişa evə girdi. Ölən oğlan onun yatağı üstündə uzanmışdı.</verse>
+        <verse osisID='2Kgs.4.33'>O içəri girib qapını onların üzünə bağladı və Rəbbə dua etdi.</verse>
+        <verse osisID='2Kgs.4.34'>Sonra yatağa qalxıb uşağın üstünə əyildi. Ağzını onun ağzının, gözlərini onun gözlərinin, ovuclarını onun ovuclarının üstünə qoydu. Uşağın bədəni isindi.</verse>
+        <verse osisID='2Kgs.4.35'>Elişa yataqdan düşüb otaqda o tərəf-bu tərəfə gəzdi. Sonra yenə yatağa qalxıb onun üstünə əyildi. Oğlan yeddi dəfə asqırıb gözlərini açdı.</verse>
+        <verse osisID='2Kgs.4.36'>Elişa Gehazini çağırıb dedi: «Şunemli qadını çağır». O, qadını çağırdı. Qadın Elişanın yanına gələndə o dedi: «Al oğlunu».</verse>
+        <verse osisID='2Kgs.4.37'>Qadın gəlib Elişanın ayaqlarına düşərək yerə qədər əyildi və oğlunu götürüb getdi. </verse>
+        <verse osisID='2Kgs.4.38'>Elişa yenə Qilqala gəldi. Vilayətdə aclıq idi. Peyğəmbərlər onun önündə oturmuşdular. O, nökərinə dedi: «Böyük qazanı ocağa qoy və peyğəmbərlər üçün şorba bişir».</verse>
+        <verse osisID='2Kgs.4.39'>Onlardan biri ot yığmaq üçün çölə çıxdı. Bir çöl tənəyi tapıb ondan ətək dolusu yabanı balqabaq yığdı və gətirib şorba qazanına doğradı. Bunun nə olduğunu bilməyərək</verse>
+        <verse osisID='2Kgs.4.40'>yemək üçün adamlara verdilər. Şorba yeyənlər qışqırıb dedilər: «Qazandakı yeməkdən yesək, ölərik, ey Allah adamı!» Heç kəs ondan yeyə bilmədi.</verse>
+        <verse osisID='2Kgs.4.41'>Elişa dedi: «Elə isə un gətirin». Sonra onu qazana atıb dedi: «Adamlar üçün tök, yesinlər». Qazanda zərərli bir şey olmadı. </verse>
+        <verse osisID='2Kgs.4.42'>Baal-Şalişadan bir adam gəldi. O, Allah adamı üçün ilk nübardan bişirilən iyirmi kömbə arpa çörəyi və təzə sünbülləri torbada gətirdi. Elişa dedi: «Adamlara ver, yesinlər».</verse>
+        <verse osisID='2Kgs.4.43'>Onun qulluqçusu dedi: «Bunu yüz adamın qabağına necə qoyaq?» Elişa dedi: «Adamlara ver, yesinlər. Çünki Rəbb belə deyir: “Yeyəcəklər, hələ artıq da qalacaq”».</verse>
+        <verse osisID='2Kgs.4.44'>Yeməyi onların qabağına qoydular. Rəbbin dediyi kimi onlar yedilər və yemək artıq qaldı.  </verse>
+      </chapter>
+      <chapter osisID='2Kgs.5'>
+        <verse osisID='2Kgs.5.1'>
+            Aram padşahının ordu başçısı Naaman ağasının yanında hörmət və etibar sahibi idi, çünki Rəbb onun vasitəsilə Arama qurtuluş vermişdi. O, cəsur bir döyüşçü idi, ancaq cüzamlı idi.</verse>
+        <verse osisID='2Kgs.5.2'>Aramlılar dəstələrlə çıxıb İsrail torpağından kiçik bir qızı əsir götürmüşdülər. Bu qız Naamanın arvadının yanında qalırdı.</verse>
+        <verse osisID='2Kgs.5.3'>O, xanımına dedi: «Kaş ki ağam Samariyada peyğəmbərin yanında olaydı. O zaman peyğəmbər onun cüzamına şəfa verərdi».</verse>
+        <verse osisID='2Kgs.5.4'>Naaman gedib «İsrail torpağından olan qız belə-belə söylədi» deyə ağasına bildirdi.</verse>
+        <verse osisID='2Kgs.5.5'>Aram padşahı dedi: «Get, mən İsrail padşahına bir məktub göndərərəm». Naaman özü ilə altı min şekel qızıl, on talant gümüş və on dəst paltar götürüb getdi.</verse>
+        <verse osisID='2Kgs.5.6'>Məktubu da İsrail padşahına gətirdi. Orada belə yazılmışdı: </verse>
+        <verse osisID='2Kgs.5.7'>İsrail padşahı məktubu oxuyanda paltarını cırıb dedi: «Məgər mən öldürüb-dirildən Allaham? Niyə bu adam cüzamına şəfa vermək üçün mənim yanıma adam göndərir? Baxarsınız, mənimlə dava etmək üçün bəhanə axtarır». </verse>
+        <verse osisID='2Kgs.5.8'>Allah adamı Elişa İsrail padşahının öz paltarını cırdığını eşidəndə ona xəbər göndərib dedi: «Nə üçün paltarını cırdın? Qoy indi o mənim yanıma gəlsin və bilsin ki, İsraildə bir peyğəmbər var».</verse>
+        <verse osisID='2Kgs.5.9'>Naaman atları və döyüş arabası ilə gəldi və Elişanın evinin qapısında dayandı.</verse>
+        <verse osisID='2Kgs.5.10'>Elişa onun yanına qasid göndərib dedi: «Get, İordan çayında yeddi dəfə yuyun ki, bədənin sağalıb tər-təmiz olsun».</verse>
+        <verse osisID='2Kgs.5.11'>Ancaq Naaman acıqlanıb getdi və dedi: «Mən güman edirdim ki, mütləq bayıra çıxıb yanıma gələcək, durub Allahı Rəbbin adı ilə çağıracaq və əlini cüzamlı yerin üzərində yelləyib şəfa verəcək.</verse>
+        <verse osisID='2Kgs.5.12'>Dəməşqin çayları Avana və Parpar İsrailin bütün sularından daha yaxşı deyilmi? Onlarda yuyunub təmiz ola bilməzdimmi?» O hirslə dönüb getdi. </verse>
+        <verse osisID='2Kgs.5.13'>Naamanın adamları onun yanına gəlib dedilər: «Ey atamız, əgər peyğəmbər sənə böyük bir şey əmr etsəydi, ona əməl etməzdinmi? O yalnız sənə “yuyun və təmiz ol” deyir».</verse>
+        <verse osisID='2Kgs.5.14'>Bundan sonra Naaman Allah adamının sözünə görə İordan çayına enib yeddi dəfə suya baş vurdu. Onun bədəni sağaldı və körpə bədəni kimi tər-təmiz oldu. </verse>
+        <verse osisID='2Kgs.5.15'>Naaman bütün dəstəsi ilə yenə Allah adamının yanına gəldi və onun önündə dayanıb dedi: «Bax indi bildim ki, İsraildən başqa, dünyanın heç bir yerində Allah yoxdur. Buyur bu qulunun hədiyyəsini götür».</verse>
+        <verse osisID='2Kgs.5.16'>Lakin Elişa dedi: «Önündə durduğum var olan Rəbbə and olsun ki, heç nə götürməyəcəyəm». Naaman götürməyi təkid etdi, ancaq Elişa istəmədi.</verse>
+        <verse osisID='2Kgs.5.17'>Naaman dedi: «Əgər götürmürsənsə, onda qoy bu quluna buradan iki qatır yükü torpaq verilsin. Çünki bu qulun artıq başqa allahlara deyil, yalnız Rəbbə yandırma qurbanları və təqdimlər gətirəcək.</verse>
+        <verse osisID='2Kgs.5.18'>Ancaq Rəbb bu işi quluna bağışlasın: ağam padşah səcdə etmək üçün Rimmon məbədinə girəndə mən onun sağında durmalıyam, onda Rimmon məbədində mən də səcdə etməliyəm. Orada səcdə etdiyimi Rəbb quluna bağışlasın».</verse>
+        <verse osisID='2Kgs.5.19'>Elişa ona dedi: «Sağ-salamat get». Naaman onun yanından çıxıb bir az yol getdi. </verse>
+        <verse osisID='2Kgs.5.20'>Allah adamı Elişanın nökəri Gehazi dedi: «Ağam gətirdiyi şeyi bu Aramlı Naamandan götürmək istəmədi. Var olan Rəbbə and olsun ki, onun dalınca qaçıb ondan nəsə alacağam».</verse>
+        <verse osisID='2Kgs.5.21'>Gehazi Naamanın dalınca qaçdı. Naaman dalınca bir nəfərin gəldiyini görəndə onu qarşılamaq üçün arabadan düşüb dedi: «Xeyir ola?»</verse>
+        <verse osisID='2Kgs.5.22'>Gehazi dedi: «Xeyirdir. Ağam məni göndərdi ki, sənə deyim: “Elə indicə Efrayimin dağlıq bölgəsindən yanıma peyğəmbərlərdən olan iki cavan oğlan gəldi. Xahiş edirəm, onlara bir talant gümüş və iki dəst paltar ver”».</verse>
+        <verse osisID='2Kgs.5.23'>Naaman dedi: «Buyur iki talant götür». Ona təkid edərək iki talant gümüşü iki torbaya qoyub bağladı və iki dəst paltarla birgə nökərlərindən ikisinə verdi. Nökərlər Gehazinin qabağında gedib bunları daşıdılar.</verse>
+        <verse osisID='2Kgs.5.24'>Təpəyə çatanda Gehazi şeyləri onların əlindən alıb evinə qoydu. Nökərləri geri göndərdi və onlar getdilər.</verse>
+        <verse osisID='2Kgs.5.25'>Sonra ağası Elişanın yanına gedib önündə dayandı. Elişa ondan soruşdu: «Haradan gəlirsən, Gehazi?» Gehazi dedi: «Bu qulun heç yerə getməyib».</verse>
+        <verse osisID='2Kgs.5.26'>Elişa ona dedi: «O adam səni qarşılamaq üçün arabasından düşəndə ürəyim orada deyildimi? İndi gümüş götürmək, paltar, zeytun və üzüm bağları, qoyun-keçi, mal-qara, qullar və kənizlər almaq vaxtıdırmı?</verse>
+        <verse osisID='2Kgs.5.27'>Buna görə də Naamanın cüzamı əbədi olaraq sənə və sənin nəslinə yapışacaq». Gehazi qar kimi cüzamlı olub onun hüzurundan çıxdı.  </verse>
+      </chapter>
+      <chapter osisID='2Kgs.6'>
+        <verse osisID='2Kgs.6.1'>
+          Peyğəmbərlər Elişaya dedilər: «Bax indi sənin yanında qaldığımız yer bizə dardır.</verse>
+        <verse osisID='2Kgs.6.2'>Qoy İordan çayının kənarına gedək, hərəmiz bir ağac kəsib gətirək və qalmaq üçün orada özümüzə yer düzəldək». Elişa «gedin» dedi.</verse>
+        <verse osisID='2Kgs.6.3'>Onlardan biri dedi: «Xahiş edirəm, sən də bu qullarınla gəl». Elişa «gələrəm» deyib</verse>
+        <verse osisID='2Kgs.6.4'>onlarla getdi. Onlar İordan çayının kənarına gəldilər və ağac kəsməyə başladılar.</verse>
+        <verse osisID='2Kgs.6.5'>Onlardan biri ağac kəsərkən baltanın dəmiri suya düşdü. O qışqırıb dedi: «Vay, ağam! Onu borc almışdım».</verse>
+        <verse osisID='2Kgs.6.6'>Allah adamı dedi: «Hara düşdü?» O, Elişaya həmin yeri göstərdi. Elişa bir budaq kəsib oraya atdı və dəmir suyun üzərinə çıxdı.</verse>
+        <verse osisID='2Kgs.6.7'>Elişa «onu qaldır» dedi. Həmin adam əlini uzadıb onu qaldırdı. </verse>
+        <verse osisID='2Kgs.6.8'>Aram padşahı İsrailə qarşı vuruşduğu zaman əyanları ilə məsləhətləşib dedi: «Filan yerdə ordugah quracağam».</verse>
+        <verse osisID='2Kgs.6.9'>Allah adamı İsrail padşahına xəbər göndərib dedi: «O yerdən keçmə, çünki Aramlılar oraya enirlər».</verse>
+        <verse osisID='2Kgs.6.10'>İsrail padşahı Allah adamının dediyi yerə xəbər göndərdi. Beləcə padşah onun xəbərdarlıq etdiyi yerlərdə dəfələrlə özünü qorudu. </verse>
+        <verse osisID='2Kgs.6.11'>Aram padşahı bundan çox qəzəbləndi və əyanlarını çağırıb onlara dedi: «Mənə deyin görək, bizimkilərdən İsrail padşahına tərəfdar olan kimdir?»</verse>
+        <verse osisID='2Kgs.6.12'>Əyanlardan biri dedi: «Heç kim, ağam padşah. Bunları İsrail padşahına bildirən İsraildə olan peyğəmbər Elişadır. O hətta yataq otağında söylədiyin sözləri ona çatdırır».</verse>
+        <verse osisID='2Kgs.6.13'>Padşah dedi: «Gedin görün, o haradadır, mən onu bura gətirtdirəcəyəm». Padşaha «o, Dotandadır» deyə bildirdilər.</verse>
+        <verse osisID='2Kgs.6.14'>Padşah atlar, döyüş arabaları və çoxlu qoşun göndərdi və onlar gecə ikən gəlib şəhəri əhatəyə aldılar. </verse>
+        <verse osisID='2Kgs.6.15'>Allah adamının qulluqçusu səhər tezdən durub bayıra çıxdı və şəhərin ətrafında qoşunun, atların və döyüş arabalarının olduğunu gördü. O, Elişaya dedi: «Vay, ağam, nə edəcəyik?»</verse>
+        <verse osisID='2Kgs.6.16'>O dedi: «Qorxma, çünki bizimlə olanlar onlarla olanlardan çoxdur».</verse>
+        <verse osisID='2Kgs.6.17'>Sonra Elişa dua edib dedi: «Ya Rəbb, onun gözlərini aç ki, görsün». Rəbb nökərin gözlərini açdı və o gördü ki, dağ odlu atlar və döyüş arabaları ilə doludur. Onlar Elişanı əhatəyə almışdı.</verse>
+        <verse osisID='2Kgs.6.18'>Qoşun ona tərəf enəndə Elişa Rəbbə dua edib dedi: «Bu adamları kor et». Elişanın sözünə görə Rəbb onları kor etdi.</verse>
+        <verse osisID='2Kgs.6.19'>Elişa onlara dedi: «Yol bu deyil, şəhər də bu deyil. Ardımca gəlin, sizi axtardığınız adamın yanına aparım». Elişa onları Samariyaya gətirdi. </verse>
+        <verse osisID='2Kgs.6.20'>Onlar Samariyaya girəndə Elişa dedi: «Ya Rəbb, onların gözlərini aç ki, görsünlər». Rəbb onların gözlərini açdı və onlar gördülər ki, Samariyanın ortasındadırlar.</verse>
+        <verse osisID='2Kgs.6.21'>İsrail padşahı onları görəndə Elişaya dedi: «Mənim atam, onları qırıb məhv edimmi?»</verse>
+        <verse osisID='2Kgs.6.22'>Elişa dedi: «Yox, qırma. Məgər bu adamları sən qılıncın və ox-kamanınla əsir etmisən ki, qırmağa haqqın olsun? Onların qabağına çörək və su qoy ki, yeyib-içsinlər və sonra öz ağalarının yanına getsinlər».</verse>
+        <verse osisID='2Kgs.6.23'>O, Aramlılar üçün böyük bir ziyafət verdi və onlar yeyib-içdilər. Sonra onları öz ağalarının yanına göndərdi. Aramlıların dəstələri bir daha İsrail torpağına gəlmədi. </verse>
+        <verse osisID='2Kgs.6.24'>Bir müddət sonra Aram padşahı Ben-Hadad bütün ordusunu toplayıb çıxdı və Samariyanı mühasirəyə aldı.</verse>
+        <verse osisID='2Kgs.6.25'>Samariyada böyük bir aclıq oldu. Çünki şəhəri o qədər mühasirədə saxlamışdılar ki, bir eşşək başı səksən şekel gümüşə və bir kabın dörddə biri qədər göyərçin peyini beş şekel gümüşə satılırdı.</verse>
+        <verse osisID='2Kgs.6.26'>Bir dəfə İsrail padşahı qala divarının üstündən keçəndə bir qadın fəryad edib ona dedi: «Ağam padşah, kömək et!»</verse>
+        <verse osisID='2Kgs.6.27'>Padşah dedi: «Rəbb sənə kömək etməsə, mən sənə necə kömək edim? Xırmandan yoxsa üzümsıxandan?»</verse>
+        <verse osisID='2Kgs.6.28'>Sonra padşah ona dedi: «Nə istəyirsən?» O dedi: «Bu qadın mənə demişdi: “Sən öz oğlunu ver, bu gün yeyək, mənim oğlumu isə sabah yeyərik”.</verse>
+        <verse osisID='2Kgs.6.29'>Oğlumu bişirib yedik. Ertəsi gün ona dedim: “Öz oğlunu ver, yeyək”. Ancaq o, oğlunu gizlətdi».</verse>
+        <verse osisID='2Kgs.6.30'>Padşah qadının sözlərini eşidəndə paltarını cırdı. O bu vaxt qala divarının üstündən keçirdi və xalq gördü ki, onun əynində çul var.</verse>
+        <verse osisID='2Kgs.6.31'>Padşah dedi: «Əgər bu gün Şafat oğlu Elişanın başı çiyni üstündə qalsa, Allah mənə beləsini və bundan betərini eləsin». </verse>
+        <verse osisID='2Kgs.6.32'>Elişa öz evində oturmuşdu, ağsaqqallar da onun yanında əyləşmişdi. Padşah hüzurundan bir qasid göndərdi. Amma qasid yanına gəlməzdən qabaq Elişa ağsaqqallara dedi: «Görürsünüzmü, bu qatil mənim boynumu vurmaq üçün adam göndərir! Baxın qasid gələndə qapını bağlayın və onu içəri buraxmayın. Onun arxasınca ağasının da ayaq səsləri gələcək!»</verse>
+        <verse osisID='2Kgs.6.33'>Elişa hələ danışarkən qasid onun yanına gəlib dedi: «Bax bu bəlanı göndərən Rəbdir. Nə üçün daha Rəbdən kömək gözləyək?»  </verse>
+      </chapter>
+      <chapter osisID='2Kgs.7'>
+        <verse osisID='2Kgs.7.1'>Elişa dedi: «Rəbbin sözünü eşidin, Rəbb belə deyir: “Sabah bu vaxt Samariya darvazasında bir sea narın un bir şekelə və iki sea arpa bir şekelə satılacaq”».</verse>
+        <verse osisID='2Kgs.7.2'>Padşahın sağında duran köməkçi Allah adamına cavab verib dedi: «Rəbb göylərdə pəncərələr açsa da, bu iş ola bilməz». Allah adamı isə dedi: «Bax sən gözlərinlə bunu görəcəksən, ancaq ondan yeməyəcəksən». </verse>
+        <verse osisID='2Kgs.7.3'>Şəhər darvazasının önündə dörd cüzamlı adam var idi. Onlar bir-birlərinə dedilər: «Nə üçün biz ölənə qədər burada oturub qalmalıyıq?</verse>
+        <verse osisID='2Kgs.7.4'>Əgər şəhərə girsək, şəhərdə olan aclıqdan öləcəyik, burada qalsaq, burada öləcəyik. Onda Aramlıların ordugahına gedib təslim olaq. Əgər bizi sağ buraxsalar, sağ qalarıq, öldürsələr, ölərik».</verse>
+        <verse osisID='2Kgs.7.5'>Onlar Aramlıların ordugahına getmək üçün axşam alaqaranlığında qalxıb onun kənarına gəldilər. Orada heç kəs yox idi.</verse>
+        <verse osisID='2Kgs.7.6'>Rəbb Aramlıların ordusuna döyüş arabalarının gurultusunu, atların tappıltısını və böyük ordunun səsini eşitdirmişdi. Onlar bir-birlərinə söyləmişdilər: «İsrail padşahı Xet və Misir padşahlarını muzdla tutmuşdur ki, bizim üstümüzə gəlsinlər».</verse>
+        <verse osisID='2Kgs.7.7'>Onlar axşam alaqaranlığında qalxıb qaçmışdılar. Çadırlarını, atlarını, eşşəklərini – bütün ordugahı olduğu kimi buraxıb getmişdilər. Beləcə canlarını qurtarmaq üçün qaçmışdılar.</verse>
+        <verse osisID='2Kgs.7.8'>Bu cüzamlılar ordugahın kənarına gəlib bir çadıra girdilər və yeyib-içdilər. Oradan qızıl-gümüş, paltar götürüb getdilər və onları gizlətdilər. Sonra qayıdıb başqa bir çadıra girdilər. Oradan da şeylər götürüb getdilər və onları da gizlətdilər. </verse>
+        <verse osisID='2Kgs.7.9'>Onlar bir-birlərinə dedilər: «Biz yaxşı eləmirik, bu gün müjdə günüdür, biz isə susuruq. Səhər açılana qədər gözləməyə haqqımız yoxdur, indi gedək, saray adamlarına bu xəbəri bildirək».</verse>
+        <verse osisID='2Kgs.7.10'>Onlar gəlib şəhərin qapıçılarını səslədilər və onlara bildirib dedilər: «Aramlıların ordugahına getdik, orada heç kəs yox idi və insan səsi də gəlmirdi. Ancaq bağlı atlar, bağlı eşşəklər və olduğu kimi qalan çadırlar var idi».</verse>
+        <verse osisID='2Kgs.7.11'>Qapıçılar da qışqırıb bu xəbəri saray içərisində olan adamlara bildirdilər.</verse>
+        <verse osisID='2Kgs.7.12'>Padşah gecə ikən qalxıb əyanlarına dedi: «Aramlıların bizə nə etmək istədiklərini indi sizə deyərəm: onlar bilirlər ki, biz acıq, buna görə də ordugahdan çıxıb çöldə gizlənmişlər və “şəhərdən çıxanda onları diri tutarıq və şəhərə girərik” deyə düşünürlər».</verse>
+        <verse osisID='2Kgs.7.13'>Əyanlardan biri cavab verib dedi: «Qoy bir neçə adam şəhərdə qalmış atlardan beşini götürsün və onları göndərək, gedib görsünlər. Onların da aqibəti qalan bütün İsrail camaatının aqibəti kimi olacaq, çünki bütün İsrail camaatı həlak olacaq».</verse>
+        <verse osisID='2Kgs.7.14'>Onlar atlar qoşulmuş iki döyüş arabası götürdülər. Padşah «gedin görün» deyib onları Aram ordusunun dalınca göndərdi.</verse>
+        <verse osisID='2Kgs.7.15'>Onlar Aramlıların dalınca İordan çayına qədər getdilər. Bütün yol Aramlıların tələsik qaçdıqları vaxt atdıqları geyim və əşyalarla dolu idi. Qasidlər geri qayıdıb padşaha bu xəbəri bildirdilər.</verse>
+        <verse osisID='2Kgs.7.16'>Xalq çıxıb Aramlıların ordugahını qarət etdi. Rəbbin sözünə görə bir sea narın un bir şekelə və iki sea arpa bir şekelə satıldı. </verse>
+        <verse osisID='2Kgs.7.17'>Padşah sağında duran köməkçini darvazanın ağzına qoymuşdu. Padşah Allah adamının yanına enib gəldiyi zaman onun söylədiyi kimi xalq padşahın köməkçisini darvazanın ağzında tapdaladı və o öldü.</verse>
+        <verse osisID='2Kgs.7.18'>Allah adamının padşaha söylədiyi kimi oldu. O demişdi: «Sabah bu vaxt Samariya darvazasında iki sea arpa bir şekelə və bir sea narın un bir şekelə satılacaq».</verse>
+        <verse osisID='2Kgs.7.19'>Padşahın köməkçisi də Allah adamına cavab verib demişdi: «Rəbb göylərdə pəncərələr açsa da, bu iş ola bilməz». Allah adamı isə demişdi: «Bax sən gözlərinlə bunu görəcəksən, ancaq ondan yeməyəcəksən».</verse>
+        <verse osisID='2Kgs.7.20'>Həmin şey də onun başına gəldi: xalq onu darvazanın ağzında tapdaladı və o öldü.  </verse>
+      </chapter>
+      <chapter osisID='2Kgs.8'>
+        <verse osisID='2Kgs.8.1'>
+            Elişa oğlunu diriltdiyi qadına demişdi: «Qalx öz ev adamlarınla birgə get və qala biləcəyin yerdə qal. Çünki Rəbb qərar verdi ki, yeddi il ölkədə aclıq olacaq».</verse>
+        <verse osisID='2Kgs.8.2'>Qadın Allah adamının sözünə əməl etmişdi və ev adamları ilə birgə gedib Filiştlilərin ölkəsində yeddi il qalmışdı.</verse>
+        <verse osisID='2Kgs.8.3'>Bu müddətdən sonra qadın Filiştlilərin ölkəsindən qayıtdı. O, evini və tarlasını istəmək üçün padşahın yanına getdi.</verse>
+        <verse osisID='2Kgs.8.4'>O vaxt padşah Allah adamının nökəri Gehazi ilə danışaraq ona deyirdi: «Buyur Elişanın etdiyi bütün böyük işləri mənə danış».</verse>
+        <verse osisID='2Kgs.8.5'>O, Elişanın ölünü necə diriltdiyini padşaha danışdığı vaxt oğlu dirilən qadın da evini və tarlasını istəmək üçün padşaha yalvarmağa başladı. Gehazi dedi: «Ağam padşah, o qadın budur, Elişanın diriltdiyi oğlu da yanındadır».</verse>
+        <verse osisID='2Kgs.8.6'>Padşah qadından soruşanda o, padşaha hər şeyi danışdı. Padşah ona bir saray xidmətçisi verib dedi: «Onun hər şeyini qaytar, ölkəni tərk etdiyi gündən indiyə qədər tarlasının yetirdiyi bütün məhsulu ona ver». </verse>
+        <verse osisID='2Kgs.8.7'>Elişa Dəməşqə gəldi. Aram padşahı Ben-Hadad xəstə idi. «Allah adamı buraya gəlib» deyə ona bildirdilər.</verse>
+        <verse osisID='2Kgs.8.8'>Padşah Xazaelə dedi: «Bir hədiyyə götürüb Allah adamını qarşılamağa get. “Bu xəstəlikdən sağalacağammı?” deyib onun vasitəsilə Rəbdən soruş».</verse>
+        <verse osisID='2Kgs.8.9'>Xazael onu qarşılamağa getdi. Əlindəki hədiyyə ilə birgə Dəməşqin bütün yaxşı şeylərindən qırx dəvə yükü hədiyyə götürüb gəldi və onun önündə durub dedi: «Oğlun Aram padşahı Ben-Hadad “Bu xəstəlikdən sağalacağammı?” deyib məni sənin yanına göndərdi».</verse>
+        <verse osisID='2Kgs.8.10'>Elişa ona dedi: «Get, ona “mütləq sağalacaqsan” söylə. Ancaq Rəbb mənə göstərdi ki, o mütləq öləcək».</verse>
+        <verse osisID='2Kgs.8.11'>Allah adamı Xazaeli utandırana kimi gözünü onun üzünə dikdi və sonra ağladı.</verse>
+        <verse osisID='2Kgs.8.12'>Xazael dedi: «Ağam nə üçün ağlayır?» O dedi: «Ona görə ki İsraillilərə sənin edəcəyin pisliyi bilirəm: onların qalalarına od vuracaqsan, cavanlarını qılıncla öldürəcəksən, uşaqlarını daşlara çırpacaqsan və hamilə qadınlarını doğrayacaqsan».</verse>
+        <verse osisID='2Kgs.8.13'>Xazael dedi: «Bu köpək qulun kimdir ki, bu böyük işi etsin?» Elişa dedi: «Rəbb mənə göstərdi ki, sən Aram üzərində padşah olacaqsan».</verse>
+        <verse osisID='2Kgs.8.14'>Xazael Elişanı tərk edib ağasının yanına gəldi. Ağası ondan soruşdu: «Elişa sənə nə dedi?» O cavab verdi: «Mənə dedi ki, sən mütləq sağalacaqsan».</verse>
+        <verse osisID='2Kgs.8.15'>Ertəsi gün Xazael bir örtük götürüb suya batırdı, ağasının üzünün üstünə çəkdi və o boğulub öldü. Onun yerinə Xazael padşah oldu. </verse>
+        <verse osisID='2Kgs.8.16'>İsrail padşahı Axav oğlu Yehoramın padşahlığının beşinci ilində, Yehoşafat Yəhuda padşahı olanda onun oğlu Yehoram da onunla birgə padşah oldu.</verse>
+        <verse osisID='2Kgs.8.17'>O, padşah olduğu vaxt otuz iki yaşında idi və Yerusəlimdə səkkiz il padşahlıq etdi.</verse>
+        <verse osisID='2Kgs.8.18'>Axav nəslinin etdiyi kimi o da İsrail padşahlarının yolu ilə getdi, çünki Axavın qızı onun arvadı idi. Yehoram Rəbbin gözündə pis olan işlər etdi.</verse>
+        <verse osisID='2Kgs.8.19'>Ancaq Rəbb Öz qulu Davudun xatirinə Yəhudalıları məhv etmək istəmədi, çünki Davuda və onun nəslinə əbədi olaraq bir çıraq verəcəyini vəd etmişdi. </verse>
+        <verse osisID='2Kgs.8.20'>Onun dövründə Edomlular üsyan qaldırıb Yəhudanın əsarəti altından çıxdılar və özlərinə bir padşah qoydular.</verse>
+        <verse osisID='2Kgs.8.21'>Yehoram bütün döyüş arabaları ilə birgə Sairə getdi. Gecə ikən qalxıb onu hər tərəfdən əhatə edən Edomluları və araba rəislərini qırdı, lakin xalq öz torpağına qaçdı.</verse>
+        <verse osisID='2Kgs.8.22'>Beləcə Edomlular üsyan qaldırdılar, bu günə qədər də Yəhudanın əsarəti altında deyillər. Həmin vaxt Livnalılar da üsyan qaldırmışdılar. </verse>
+        <verse osisID='2Kgs.8.23'>Yehoramın qalan işləri və etdiyi hər şey barədə Yəhuda padşahlarının salnamələr kitabında yazılmışdır.</verse>
+        <verse osisID='2Kgs.8.24'>Yehoram ataları ilə uyudu və Davudun şəhərində, atalarının yanında basdırıldı. Onun yerinə oğlu Axazya padşah oldu. </verse>
+        <verse osisID='2Kgs.8.25'>İsrail padşahı Axav oğlu Yehoramın padşahlığının on ikinci ilində Yehoram oğlu Axazya Yəhuda üzərində padşah oldu.</verse>
+        <verse osisID='2Kgs.8.26'>Axazya padşah olduğu vaxt iyirmi iki yaşında idi və Yerusəlimdə bir il padşahlıq etdi. Anası İsrail padşahı Omrinin nəvəsi olub adı Atalya idi.</verse>
+        <verse osisID='2Kgs.8.27'>Axazya da Axav nəslinin yolu ilə getdi və onlar kimi Rəbbin gözündə pis olan işlər etdi, çünki Axav nəslinin kürəkəni idi. </verse>
+        <verse osisID='2Kgs.8.28'>O, Aram padşahı Xazaelə qarşı vuruşmaq üçün Axav oğlu Yehoramla birgə Ramot-Gileada getdi. Aramlılar Yehoramı yaraladılar.</verse>
+        <verse osisID='2Kgs.8.29'>Padşah Yehoram Ramot-Gileadda Aram padşahı Xazaelə qarşı vuruşarkən Aramlıların ona vurduqları yaraları sağaltmaq üçün İzreelə qayıtdı. Yəhuda padşahı Yehoram oğlu Axazya, Axav oğlu Yehoramı görmək üçün İzreelə gəldi, çünki o, yaralı idi.  </verse>
+      </chapter>
+      <chapter osisID='2Kgs.9'>
+        <verse osisID='2Kgs.9.1'>
+          Peyğəmbər Elişa peyğəmbərlərdən birini çağırıb ona demişdi: «Belini qurşa və bu yağ qabını əlinə alıb Ramot-Gileada get.</verse>
+        <verse osisID='2Kgs.9.2'>Oraya çatınca Nimşi oğlu Yehoşafat oğlu Yehunu tap. Girib onu yoldaşlarının arasından çağır və içəri otağa apar.</verse>
+        <verse osisID='2Kgs.9.3'>Yağ qabını götür və yağı onun başına töküb söylə: “Rəbb belə deyir: ‹Səni İsrail üzərində padşah olmaq üçün məsh etdim›”. Sonra qapını açıb qaç və orada durma». </verse>
+        <verse osisID='2Kgs.9.4'>Peyğəmbərin nökəri olan bu cavan oğlan Ramot-Gileada getdi.</verse>
+        <verse osisID='2Kgs.9.5'>Oraya gəlib gördü ki, qoşun başçıları burada oturmuşlar. O dedi: «Ey rəis, sənə sözüm var». Yehu dedi: «Aramızdan kimə?» Nökər dedi: «Ey rəis, sənə».</verse>
+        <verse osisID='2Kgs.9.6'>Yehu qalxıb içəri girdi. Nökər yağı onun başına töküb dedi: «İsrailin Allahı Rəbb belə deyir: “Səni Rəbbin xalqı olan İsrail üzərində padşah olmaq üçün məsh etdim.</verse>
+        <verse osisID='2Kgs.9.7'>Ağan Axavın nəslini qırıb məhv edəcəksən. Qullarım peyğəmbərlərin və Rəbbin bütün qullarının qanı üçün Mən İzeveldən qisasımı alacağam.</verse>
+        <verse osisID='2Kgs.9.8'>Bütün Axav nəsli məhv olacaq: İsraildə Axavdan divar isladan hər kəsi – bütün kişiləri, istər kölə olsun, istər azad, kəsib atacağam.</verse>
+        <verse osisID='2Kgs.9.9'>Axavın nəslini Nevat oğlu Yarovamın və Axiya oğlu Baaşanın nəsilləri kimi edəcəyəm.</verse>
+        <verse osisID='2Kgs.9.10'>İzeveli isə İzreel tarlasında köpəklər yeyəcək və onu basdıran olmayacaq”». Sonra o, qapını açıb qaçdı. </verse>
+        <verse osisID='2Kgs.9.11'>Yehu çıxıb ağasının adamlarının yanına gəldi. Onlardan biri Yehuya dedi: «Xeyir ola? Bu dəli sənin yanına nə üçün gəlib?» Yehu onlara dedi: «Onun necə adam olduğunu və nə deyəcəyini bilirsiniz».</verse>
+        <verse osisID='2Kgs.9.12'>Onlar dedilər: «Yalan deyirsən! Onun nə dediyini bizə bildir». Yehu dedi: «Mənə söylədi ki, Rəbb belə deyir: “Səni İsrail üzərində padşah olmaq üçün məsh etdim”».</verse>
+        <verse osisID='2Kgs.9.13'>Hamı tez qalxıb öz paltarını götürdü və onları pilləkənin üstünə – Yehunun ayağı altına sərdi. Onlar şeypur çalıb «Yehu padşahdır!» dedilər. </verse>
+        <verse osisID='2Kgs.9.14'>Nimşi oğlu Yehoşafat oğlu Yehu Yehorama qəsd hazırladı. O vaxt Yehoram və onunla birgə bütün İsraillilər Ramot-Gileadı Aram padşahı Xazaelin hücumundan qoruyurdular.</verse>
+        <verse osisID='2Kgs.9.15'>Ancaq padşah Yehoram Aram padşahı Xazaelə qarşı vuruşarkən Aramlıların ona vurduqları yaraları sağaltmaq üçün İzreelə qayıtmışdı. Yehu dedi: «Əgər siz mənimlə razısınızsa, qoy şəhəri heç kəs tərk etməsin ki, bu xəbər İzreelə gedib çatmasın».</verse>
+        <verse osisID='2Kgs.9.16'>Yehu arabaya minib İzreelə getdi, çünki Yehoram orada yatırdı. Yəhuda padşahı Axazya Yehoramı görmək üçün gəlmişdi. </verse>
+        <verse osisID='2Kgs.9.17'>İzreeldəki qüllə üzərində duran gözətçi Yehunun oraya yaxınlaşan qoşununu görüb dedi: «Qoşun görürəm». Yehoram dedi: «Bir atlı götürüb onları qarşılamağa göndər ki, soruşsun: “Xeyir ola?”»</verse>
+        <verse osisID='2Kgs.9.18'>Bir atlı Yehunu qarşılamağa getdi və ona dedi: «Padşah soruşur: “Xeyir ola?”» Yehu dedi: «Xeyirdən sənə nə? Dön, dalımca gəl». Gözətçi dedi: «Qasid onların yanına gəldi, ancaq geri qayıtmır».</verse>
+        <verse osisID='2Kgs.9.19'>İkinci atlını göndərdilər, o da Yehunun yanına gəlib dedi: «Padşah soruşur: “Xeyir ola?”» Yehu dedi: «Xeyirdən sənə nə? Dön, dalımca gəl».</verse>
+        <verse osisID='2Kgs.9.20'>Gözətçi dedi: «Qasid onların yanına gəldi, ancaq geri qayıtmır. Araba sürməyi Nimşi oğlu Yehunun sürməyinə oxşayır, çünki o dəli kimi sürür». </verse>
+        <verse osisID='2Kgs.9.21'>Yehoram dedi: «Arabamı qoş». Onun arabasını qoşdular. İsrail padşahı Yehoram və Yəhuda padşahı Axazya öz arabalarında Yehunu qarşılamağa çıxdılar və İzreelli Navotun tarlasında onunla rastlaşdılar.</verse>
+        <verse osisID='2Kgs.9.22'>Yehoram Yehunu görəndə soruşdu: «Xeyir ola, Yehu?» Yehu dedi: «Anan İzevelin xainlikləri və cadugərlikləri bu qədər çox olduğu halda necə xeyir ola bilər?»</verse>
+        <verse osisID='2Kgs.9.23'>Yehoram arabasını döndərdi və Axazyaya «Xəyanət, ey Axazya!» deyib qaçdı.</verse>
+        <verse osisID='2Kgs.9.24'>Yehu ox-kamanını çəkdi və Yehoramı kürəyindən vurdu. Ox onun ürəyindən keçib çıxdı və o öz arabasına yıxıldı.</verse>
+        <verse osisID='2Kgs.9.25'>Yehu padşahın köməkçisi Bidqara dedi: «Onu götürüb İzreelli Navotun tarlasına at. Yadına sal, mən səninlə birgə onun atası Axavın dalınca gedərkən Rəbb ona qarşı belə söyləmişdi:</verse>
+        <verse osisID='2Kgs.9.26'>“Navotun və onun oğullarının qanı dünən Mənim gözümün qabağına gəldi” bəyan edir Rəbb. “Səndən bu tarlada qisas alacağam” bəyan edir Rəbb. İndi Rəbbin sözünə görə onu götürüb tarlaya at». </verse>
+        <verse osisID='2Kgs.9.27'>Yəhuda padşahı Axazya bunu gördükdə Bet-Haqqan yolu ilə qaçdı. Yehu onu təqib edib dedi: «Onu da vurun». İvleam yanında olan Qur yoxuşunda onu arabada vurdular. O, Megiddoya qaçıb orada öldü.</verse>
+        <verse osisID='2Kgs.9.28'>Adamları onu araba ilə Yerusəlimə gətirdilər və Davudun şəhərində, atalarının yanında, öz qəbrində basdırdılar.</verse>
+        <verse osisID='2Kgs.9.29'>Axav oğlu Yehoramın padşahlığının on birinci ilində Axazya Yəhuda üzərində padşah olmuşdu. </verse>
+        <verse osisID='2Kgs.9.30'>Yehu İzreelə gəldi. İzevel bunu eşitdi. O, gözlərinə sürmə çəkib başına bəzək vurdu və pəncərədən boylanıb baxdı.</verse>
+        <verse osisID='2Kgs.9.31'>Yehu darvazadan girəndə İzevel dedi: «Xeyir ola, ey öz ağasını öldürən Zimri?»</verse>
+        <verse osisID='2Kgs.9.32'>Yehu üzünü pəncərəyə doğru qaldırıb dedi: «Kim mənimlədir, kim?» İki-üç saray xidmətçisi boylanıb ona baxdı.</verse>
+        <verse osisID='2Kgs.9.33'>Yehu dedi: «Onu aşağı atın». İzeveli aşağı atdılar. Qanı divarın və atların üstünə sıçradı və atlar onun cəsədini tapdaladı.</verse>
+        <verse osisID='2Kgs.9.34'>Yehu içəri girərək yeyib-içdi və dedi: «Bu lənətə gəlmiş qadını götürüb basdırın, çünki padşah qızıdır».</verse>
+        <verse osisID='2Kgs.9.35'>Onlar İzeveli basdırmaq üçün getdilər. Ancaq onun kəlləsindən, ayaqlarından və ovuclarından başqa heç nə tapmadılar.</verse>
+        <verse osisID='2Kgs.9.36'>Geri qayıdıb Yehuya söylədilər. O dedi: «Qulu Tişbeli İlyas vasitəsilə Rəbbin söylədiyi söz belədir: “İzreel tarlasında İzevelin ətini köpəklər yeyəcək.</verse>
+        <verse osisID='2Kgs.9.37'>İzevelin cəsədi İzreel tarlasına tökülmüş peyin kimi olacaq və heç kəs deyə bilməyəcək ki, bu, İzeveldir”».  </verse>
+      </chapter>
+      <chapter osisID='2Kgs.10'>
+        <verse osisID='2Kgs.10.1'>
+          Samariyada Axavın nəslindən olan yetmiş nəfər şahzadə var idi. Yehu İzreel başçılarına, ağsaqqallara və Axavın nəslindən olan uşaqların himayəçilərinə məktublar yazıb Samariyaya göndərdi. O belə yazdı:</verse>
+        <verse osisID='2Kgs.10.2'>«Ağanızın şahzadələri sizin yanınızdadır, döyüş arabalarınız və atlarınız, qalalı şəhəriniz və silahlarınız var. Bu məktub sizə çatanda</verse>
+        <verse osisID='2Kgs.10.3'>ağanızın şahzadələrindən ən yaxşısını, ən layiqlisini seçib onu atasının taxtında oturdun və ağanızın nəsli üçün vuruşun». </verse>
+        <verse osisID='2Kgs.10.4'>Onlar çox qorxub dedilər: «İki padşah ona qarşı dayana bilmədi, biz necə dayanacağıq?»</verse>
+        <verse osisID='2Kgs.10.5'>Saray rəisi, şəhər başçısı, ağsaqqallar və himayəçilər Yehuya xəbər göndərib dedilər: «Biz sənin qullarınıq və bizə dediyin hər şeyi edərik, heç kəsi də padşah etməyəcəyik. Sən nə istəyirsən, onu da et».</verse>
+        <verse osisID='2Kgs.10.6'>Yehu ikinci məktubunda onlara belə yazdı: «Əgər siz mənimlə razı olub sözümə qulaq asırsınızsa, ağanızın şahzadələrinin başlarını götürüb sabah bu vaxt İzreelə, yanıma gəlin». Yetmiş nəfər şahzadə onları tərbiyə edən şəhərin böyük adamlarının yanında qalırdı.</verse>
+        <verse osisID='2Kgs.10.7'>Məktub onlara çatanda onlar yetmiş nəfər şahzadəni tutub öldürdülər və başlarını səbətlərə qoyub İzreelə, Yehuya göndərdilər.</verse>
+        <verse osisID='2Kgs.10.8'>Qasid gəldi və ona bildirib dedi: «Şahzadələrin başlarını gətirdilər». Yehu dedi: «Onları iki qalaq edib darvazanın girişində səhərə qədər qoyun».</verse>
+        <verse osisID='2Kgs.10.9'>Səhəri gün Yehu bayıra çıxdı və qalxıb bütün xalqa dedi: «Sizin təqsiriniz yoxdur. Ağama mən qəsd hazırladım və onu mən öldürdüm. Bəs bunların hamısını kim qırdı?</verse>
+        <verse osisID='2Kgs.10.10'>Onda bilin ki, Axavın nəslinə qarşı Rəbbin söylədiyi sözlərdən heç biri hədər gedə bilməz. Rəbb Öz qulu İlyas vasitəsilə söylədiyi işi etmişdir».</verse>
+        <verse osisID='2Kgs.10.11'>Yehu Axavın İzreeldəki sarayında olan adamlardan sağ qalanların hamısını – onun bütün böyüklərini, yaxın adamlarını və kahinlərini qırdı, bir adamını da sağ buraxmadı. </verse>
+        <verse osisID='2Kgs.10.12'>Yehu Samariyaya tərəf yola düşdü. Yolda çobanlara məxsus olan Bet-Eqeddən keçəndə</verse>
+        <verse osisID='2Kgs.10.13'>Yəhuda padşahı Axazyanın qohumlarına rast gəldi və onlara dedi: «Siz kimsiniz?» Onlar dedilər: «Biz Axazyanın qohumlarıyıq. Padşahın və mələkənin övladlarını salamlamaq üçün gedirik».</verse>
+        <verse osisID='2Kgs.10.14'>Yehu dedi: «Bunları diri tutun». Onları diri tutdular və bu qırx iki nəfər adamı Bet-Eqed quyusunun yanında öldürdülər. Yehu onlardan heç birini sağ buraxmadı. </verse>
+        <verse osisID='2Kgs.10.15'>Yehu oradan gedəndə onu qarşılamağa gələn Rekav oğlu Yehonadava rast gəldi və onu salamlayıb dedi: «Sənin niyyətin mənim ürəyimcə olduğu kimi mənim də niyyətim sənin ürəyincədirmi?» Yehonadav «bəli» dedi. Yehu dedi: «Elə isə əlini ver». O, əlini verdi və Yehu onu öz arabasına qaldırdı.</verse>
+        <verse osisID='2Kgs.10.16'>Sonra dedi: «Mənimlə gəl və Rəbb üçün göstərdiyim qeyrəti gör». Onu Yehunun arabasına mindirib apardılar.</verse>
+        <verse osisID='2Kgs.10.17'>Yehu Samariyaya gəldi və Rəbbin İlyasa söylədiyi sözə görə Axavın Samariyada qalan bütün adamlarını tamamilə qırıb məhv etdi. </verse>
+        <verse osisID='2Kgs.10.18'>Yehu bütün xalqı toplayıb onlara dedi: «Axav Baala az səcdə etdi, ancaq Yehu ona çox səcdə edəcək.</verse>
+        <verse osisID='2Kgs.10.19'>İndi Baalın bütün peyğəmbərlərini, ona səcdə edənlərin hamısını, onun bütün kahinlərini mənim yanıma çağırın, heç kəs qalmasın, çünki Baala böyük qurbanım var. Kim gəlməsə, sağ qalmayacaq». Ancaq Yehu burada hiylə işlətdi ki, Baala səcdə edənləri məhv etsin.</verse>
+        <verse osisID='2Kgs.10.20'>Yehu dedi: «Baal üçün təqdis olunmuş bir toplantı çağırın». Onlar toplantı çağırdılar.</verse>
+        <verse osisID='2Kgs.10.21'>Yehu İsrailin hər tərəfinə xəbər göndərdi. Baala səcdə edənlərin hamısı gəldi, gəlməyən bir nəfər də qalmadı. Onlar Baal məbədinə girdilər və Baal məbədi ağzınacan adamla doldu.</verse>
+        <verse osisID='2Kgs.10.22'>Yehu paltarlara baxan adama dedi: «Baala səcdə edənlərin hamısı üçün əba ver». Bu adam da onlar üçün əba verdi. </verse>
+        <verse osisID='2Kgs.10.23'>Yehu Rekav oğlu Yehonadavla birgə Baal məbədinə girib Baala səcdə edənlərə dedi: «Axtarıb baxın, burada Rəbbə səcdə edən bir nəfər sizinlə olmasın, yalnız Baala səcdə edənlər olsun».</verse>
+        <verse osisID='2Kgs.10.24'>Onlar təqdimlər və yandırma qurbanları gətirmək üçün qabağa gəldilər. Yehu bayırda səksən adam qoymuşdu və onlara demişdi: «Əlinizə verdiyim bu adamlardan biri kimdən qaçıb qurtarsa, o adam əvəzində öz canını verəcək».</verse>
+        <verse osisID='2Kgs.10.25'>Yandırma qurbanları gətirilməsi sona çatanda Yehu öz mühafizəçilərinə və rəislərinə dedi: «İçəri girib onları qırın, heç kəs çıxa bilməsin». Mühafizəçilər və rəislər onları qılıncdan keçirib qırdılar və meyitlərini bayıra atdılar. Sonra Baal məbədinin içəri otağına girdilər.</verse>
+        <verse osisID='2Kgs.10.26'>Oradan Baal məbədinin büt olan sütununu çıxarıb yandırdılar.</verse>
+        <verse osisID='2Kgs.10.27'>Beləcə Baala qoyulan sütunu yıxdılar. Baal məbədini də dağıdıb ayaqyolu etdilər, ora bu günə qədər də belədir. </verse>
+        <verse osisID='2Kgs.10.28'>Beləliklə, Yehu İsraildən Baalın kökünü kəsdi.</verse>
+        <verse osisID='2Kgs.10.29'>Ancaq Yehu Nevat oğlu Yarovamın İsrailə etdirdiyi günahlardan, Bet-Eldə və Danda olan qızıl danalara səcdə etməkdən əl çəkmədi.</verse>
+        <verse osisID='2Kgs.10.30'>Rəbb Yehuya dedi: «Sən gözümdə doğru olan işlər görməklə yaxşı elədin və Mənim ürəyimdə olan hər şeyə görə Axavın adamları ilə rəftar etdin. Buna görə də dördüncü nəslinə qədər sənin övladların İsrail taxtında oturacaq».</verse>
+        <verse osisID='2Kgs.10.31'>Ancaq Yehu bütün qəlbi ilə İsrailin Allahı Rəbbin Qanunu ilə getmək istəmədi və Yarovamın İsrailə etdirdiyi günahlardan əl çəkmədi. </verse>
+        <verse osisID='2Kgs.10.32'>Rəbb o dövrdə İsrail torpağını kəsib kiçiltməyə başladı. Xazael bütün İsrail hüdudlarında onları məğlub etdi:</verse>
+        <verse osisID='2Kgs.10.33'>İordan çayının şərq tərəfindəki Qadlılara, Ruvenlilərə və Menaşşelilərə məxsus olan bütün Gilead torpağını, Arnon vadisinin kənarında olan Aroerdən Gileada və Başana qədər hər tərəfi zəbt etdi. </verse>
+        <verse osisID='2Kgs.10.34'>Yehunun qalan işləri, etdiyi hər şey və onun bütün hünəri barədə İsrail padşahlarının salnamələr kitabında yazılmışdır.</verse>
+        <verse osisID='2Kgs.10.35'>Yehu ataları ilə uyudu və onu Samariyada basdırdılar. Onun yerinə oğlu Yehoaxaz padşah oldu.</verse>
+        <verse osisID='2Kgs.10.36'>Yehunun Samariyada İsrail üzərində padşahlıq etdiyi müddət iyirmi səkkiz il idi.  </verse>
+      </chapter>
+      <chapter osisID='2Kgs.11'>
+        <verse osisID='2Kgs.11.1'>
+          Axazyanın anası Atalya oğlunun öldüyünü görəndə qalxıb bütün padşah nəslini məhv etdi.</verse>
+        <verse osisID='2Kgs.11.2'>Ancaq padşah Yehoramın qızı, Axazyanın bacısı Yehoşeva öldürülən şahzadələr arasından Axazyanın oğlu Yoaşı gizlincə apardı və onu dayəsi ilə birgə yataq otağında yerləşdirdi. Beləcə Yoaşı Atalyadan gizlətdilər və o öldürülmədi.</verse>
+        <verse osisID='2Kgs.11.3'>O, altı il gizli olaraq Rəbbin məbədində dayəsi ilə birgə qaldı. Atalya isə ölkə üzərində padşahlıq etdi. </verse>
+        <verse osisID='2Kgs.11.4'>Yeddinci ildə Yehoyada Karililərin və mühafizəçilərin yüzbaşılarını çağırtdırdı, onları öz yanına – Rəbbin məbədinin içərisinə gətirdi. Orada bu adamlarla əhd kəsib onları and içdirdi və şahzadəni onlara göstərdi.</verse>
+        <verse osisID='2Kgs.11.5'>Sonra Yehoyada onlara əmr edib dedi: «Siz belə edin: Şənbə günü növbə çəkənlərinizin üçdə biri sarayın keşiyini çəksin,</verse>
+        <verse osisID='2Kgs.11.6'>üçdə biri Sur darvazasında dursun, üçdə biri isə mühafizəçilərin arxasındakı darvazada dayansın. Beləcə sarayın keşiyini çəkin.</verse>
+        <verse osisID='2Kgs.11.7'>Sizin iki bölüyünüz – Şənbə günü növbə çəkməyənlərin hamısı padşahın tərəfində olub Rəbbin məbədinin keşiyini çəksin.</verse>
+        <verse osisID='2Kgs.11.8'>Hər kəs silahı əlində padşahı əhatəyə alsın, cərgələrinizə girən öldürülsün. Padşah girib-çıxdığı vaxt onunla olun». </verse>
+        <verse osisID='2Kgs.11.9'>Yüzbaşılar kahin Yehoyadanın əmr etdiyi hər şeyi etdilər: hər biri öz adamlarını, Şənbə günü növbə çəkənləri və növbədə olmayanları götürüb kahin Yehoyadanın yanına gəldi.</verse>
+        <verse osisID='2Kgs.11.10'>Kahin yüzbaşılara Rəbbin məbədində olan padşah Davudun nizələrini və qalxanlarını verdi.</verse>
+        <verse osisID='2Kgs.11.11'>Mühafizəçilər məbədin sağ tərəfindən sol tərəfinə qədər qurbangahın və məbədin yanında, padşahın ətrafında dayandılar. Hər kəsin silahı əlində idi.</verse>
+        <verse osisID='2Kgs.11.12'>Kahin şahzadəni irəli çıxartdı və tacı başına qoyub şəhadətnaməni ona verdi. Onu padşah olmaq üçün məsh etdilər və əl çalıb «Yaşasın padşah!» dedilər. </verse>
+        <verse osisID='2Kgs.11.13'>Atalya mühafizəçilərin və xalqın səsini eşidəndə xalqın yanına, Rəbbin məbədinə gəldi.</verse>
+        <verse osisID='2Kgs.11.14'>O baxıb gördü ki, padşah qaydaya görə sütunun yanında dayanmış, rəislər və kərənay çalanlar da padşahın yanındadır. Bütün ölkə xalqı sevinərək kərənay çalırdı. Atalya paltarını cırıb bağırdı: «Xəyanət! Xəyanət!»</verse>
+        <verse osisID='2Kgs.11.15'>Kahin Yehoyada qoşun üçün cavabdeh olan yüzbaşılara əmr edib dedi: «Onu cərgələrin arasından çıxarın və dalınca gələni qılıncla öldürün». Çünki kahin «qoy o, Rəbbin məbədində öldürülməsin» demişdi.</verse>
+        <verse osisID='2Kgs.11.16'>Atalyanı tutdular, onu atların girdiyi darvazadan saraya gətirdilər və orada öldürüldü. </verse>
+        <verse osisID='2Kgs.11.17'>Yehoyada Rəbb ilə padşah və xalq arasında əhd kəsdi ki, onlar Rəbbin xalqı olsun. O, padşahla xalq arasında da əhd kəsdi.</verse>
+        <verse osisID='2Kgs.11.18'>Bütün ölkə xalqı Baal məbədinə getdi. Onu dağıdıb qurbangahlarını və bütlərini parça-parça etdilər, Baal kahini Mattanı qurbangahların önündə öldürdülər. Kahin Rəbbin məbədinə gözətçilər qoydu.</verse>
+        <verse osisID='2Kgs.11.19'>O, yüzbaşıları, Karililəri, mühafizəçiləri, bütün ölkə xalqını özü ilə götürdü. Onlar padşahı Rəbbin məbədindən düşürtdülər və mühafizəçilər darvazasının yolu ilə saraya gəldilər. Yoaş padşahların taxtında oturdu.</verse>
+        <verse osisID='2Kgs.11.20'>Bütün ölkə xalqı sevindi və şəhər sakitləşdi. Çünki Atalyanı padşah sarayında qılıncla öldürmüşdülər. </verse>
+        <verse osisID='2Kgs.11.21'>Yoaş padşah olduğu vaxt yeddi yaşında idi.  </verse>
+      </chapter>
+      <chapter osisID='2Kgs.12'>
+        <verse osisID='2Kgs.12.1'>Yehunun padşahlığının yeddinci ilində Yoaş padşah oldu və Yerusəlimdə qırx il padşahlıq etdi. Anası Beer-Şevadan olub adı Sivya idi.</verse>
+        <verse osisID='2Kgs.12.2'>Kahin Yehoyada Yoaşı öyrətdiyi dövr ərzində Rəbbin gözündə doğru olan işlər etdi.</verse>
+        <verse osisID='2Kgs.12.3'>Ancaq səcdəgahlar aradan qaldırılmadı, xalq hələ səcdəgahlarda qurban gətirir və buxur yandırırdı. </verse>
+        <verse osisID='2Kgs.12.4'>Yoaş kahinlərə dedi: «Müqəddəs şeylər kimi Rəbbin məbədinə gətirilən gümüşü, siyahıyaalma zamanı toplanmış gümüşü, hər kəsin öz canı əvəzinə verdiyi gümüşü və Rəbbin məbədinə gətirmək üçün hər kəsin ürəyi istədiyi qədər verdiyi gümüşün hamısını</verse>
+        <verse osisID='2Kgs.12.5'>kahinlərin hər biri öz xəzinədarından götürsün və məbəddə harada uçuq bir yer varsa, o uçuqları özləri təmir etsin».</verse>
+        <verse osisID='2Kgs.12.6'>Ancaq padşah Yoaşın padşahlığının iyirmi üçüncü ilində kahinlər hələ məbədin uçuqlarını təmir etməmişdilər.</verse>
+        <verse osisID='2Kgs.12.7'>Padşah Yoaş kahin Yehoyadanı və o biri kahinləri çağırıb onlara dedi: «Nə üçün siz məbədin uçuqlarını təmir etmirsiniz? İndi daha xəzinədarlarınızdan özünüz üçün gümüş almayın, qoy bu gümüş məbədin uçuqlarının təmiri üçün verilsin».</verse>
+        <verse osisID='2Kgs.12.8'>Kahinlər razı oldular ki, daha xalqdan gümüş almasınlar və məbədin uçuqlarını da özləri təmir etməsinlər. </verse>
+        <verse osisID='2Kgs.12.9'>Kahin Yehoyada bir sandıq götürdü və onun qapağında dəlik açdı. Onu qurbangahın yanına, Rəbbin məbədinə girən yerdə sağ tərəfə qoydu. Qapıda keşik çəkən kahinlər Rəbbin məbədinə gətirilən gümüşün hamısını oraya qoyardı.</verse>
+        <verse osisID='2Kgs.12.10'>Sandıqda çoxlu gümüş olduğunu görəndə padşahın mirzəsi və baş kahin gələrək Rəbbin məbədində tapılan gümüşü torbalara doldurub tərəzidə çəkirdilər.</verse>
+        <verse osisID='2Kgs.12.11'>Çəkilən gümüşü Rəbbin məbədinin işinə nəzarət edən rəislərə verirdilər. Onlar da bunu Rəbbin məbədində işləyən dülgərlərə, ustalara,</verse>
+        <verse osisID='2Kgs.12.12'>bənnalara, daşyonanlara, Rəbbin məbədinin uçuqlarını təmir etmək üçün taxta və yonulmuş daşlar satın alan adamlara verir və məbədin bütün təmir işlərinə xərcləyirdilər.</verse>
+        <verse osisID='2Kgs.12.13'>Ancaq Rəbbin məbədinə gətirilmiş gümüşdən məbəd üçün gümüş kasalar, maqqaşlar, piyalələr, kərənaylar və qızıl yaxud gümüş qablar düzəldilmirdi.</verse>
+        <verse osisID='2Kgs.12.14'>Çünki gümüşü iş görənlərə verirdilər və onunla Rəbbin məbədini təmir edirdilər.</verse>
+        <verse osisID='2Kgs.12.15'>İş görənlərə vermək üçün əllərinə gümüş verdikləri adamlardan hesabat istəmirdilər, çünki onlar sədaqətlə çalışırdılar.</verse>
+        <verse osisID='2Kgs.12.16'>Təqsir təqdimlərinin və günah təqdimlərinin gümüşü Rəbbin məbədinə gətirilmədi, çünki o, kahinlərin idi. </verse>
+        <verse osisID='2Kgs.12.17'>O vaxt Aram padşahı Xazael gəldi və Qata hücum edib oranı aldı. Sonra o, Yerusəlimə hücum etməyə yönəldi.</verse>
+        <verse osisID='2Kgs.12.18'>Yəhuda padşahı Yoaş babaları olan Yəhuda padşahları Yehoşafatın, Yehoramın və Axazyanın təqdis etdiyi bütün şeyləri, özünün təqdis etdiyi şeyləri, Rəbbin məbədinin və sarayın xəzinələrində tapılan bütün qızılı götürüb Aram padşahı Xazaelə göndərdi. O da Yerusəlimdən geri çəkildi. </verse>
+        <verse osisID='2Kgs.12.19'>Yoaşın qalan işləri və etdiyi hər şey barədə Yəhuda padşahlarının salnamələr kitabında yazılmışdır.</verse>
+        <verse osisID='2Kgs.12.20'>Əyanları qalxıb ona qəsd hazırladılar və Sillaya enən yoldakı Bet-Milloda Yoaşı vurdular.</verse>
+        <verse osisID='2Kgs.12.21'>Onu vuranlar əyanları Şimeat oğlu Yozakar və Şomer oğlu Yehozavad idi. Yoaş ataları ilə uyudu və onu Davudun şəhərində, atalarının yanında basdırdılar. Onun yerinə oğlu Amasya padşah oldu.  </verse>
+      </chapter>
+      <chapter osisID='2Kgs.13'>
+        <verse osisID='2Kgs.13.1'>
+          Yəhuda padşahı Axazya oğlu Yoaşın padşahlığının iyirmi üçüncü ilində Yehunun oğlu Yehoaxaz Samariyada İsrail üzərində padşah oldu və on yeddi il padşahlıq etdi.</verse>
+        <verse osisID='2Kgs.13.2'>O, Rəbbin gözündə pis olan işlər etdi və Nevat oğlu Yarovamın İsrailə etdirdiyi günahların dalınca getdi, onlardan əl çəkmədi. </verse>
+        <verse osisID='2Kgs.13.3'>İsrailə qarşı Rəbbin qəzəbi alovlandı və Yehoaxazın bütün ömrü boyu onları Aram padşahı Xazaelin və Xazaelin oğlu Ben-Hadadın əlinə verdi.</verse>
+        <verse osisID='2Kgs.13.4'>Yehoaxaz Rəbbə üz tutub yalvardı və Rəbb onu eşitdi, çünki İsraillilərin əzabını və Aram padşahının onlara necə zülm etdiyini gördü.</verse>
+        <verse osisID='2Kgs.13.5'>Rəbb İsraillilərə bir xilaskar verdi və onlar Aramın əsarəti altından çıxdılar. İsraillilər əvvəlki kimi öz torpaqlarında yaşadılar.</verse>
+        <verse osisID='2Kgs.13.6'>Ancaq onlar Yarovam nəslinin İsrailə etdirdiyi günahlardan əl çəkmədilər və bu günahların dalınca getdilər, Aşera bütü də Samariyada qalırdı.</verse>
+        <verse osisID='2Kgs.13.7'>Əlli süvaridən, on döyüş arabasından və on min piyadadan başqa, Yehoaxazın daha qoşunu qalmadı, çünki Aram padşahı onları xırmanda toz kimi əzmişdi. </verse>
+        <verse osisID='2Kgs.13.8'>Yehoaxazın qalan işləri, etdiyi hər şey və onun hünəri barədə İsrail padşahlarının salnamələr kitabında yazılmışdır.</verse>
+        <verse osisID='2Kgs.13.9'>Yehoaxaz ataları ilə uyudu və onu Samariyada basdırdılar. Onun yerinə oğlu Yoaş padşah oldu. </verse>
+        <verse osisID='2Kgs.13.10'>Yəhuda padşahı Yoaşın padşahlığının otuz yeddinci ilində Yehoaxaz oğlu Yoaş Samariyada İsrail üzərində padşah oldu və on altı il padşahlıq etdi.</verse>
+        <verse osisID='2Kgs.13.11'>O, Rəbbin gözündə pis olan işlər etdi, Nevat oğlu Yarovamın İsrailə etdirdiyi bütün günahlardan əl çəkmədi və bu günahların dalınca getdi. </verse>
+        <verse osisID='2Kgs.13.12'>Yoaşın qalan işləri, etdiyi hər şey və Yəhuda padşahı Amasya ilə döyüşdə göstərdiyi hünər barədə İsrail padşahlarının salnamələr kitabında yazılmışdır.</verse>
+        <verse osisID='2Kgs.13.13'>Yoaş ataları ilə uyudu və onun taxtında Yarovam oturdu. Yoaş Samariyada İsrail padşahlarının yanında basdırıldı. </verse>
+        <verse osisID='2Kgs.13.14'>Elişa ölümcül halda xəstələnmişdi. İsrail padşahı Yoaş ona baş çəkmək üçün yanına gəldi və ağlayıb dedi: «Atam, ey atam! İsrailin arabası və atlıları!»</verse>
+        <verse osisID='2Kgs.13.15'>Elişa ona dedi: «Kaman və oxlar götür». O, kaman və oxlar götürdü.</verse>
+        <verse osisID='2Kgs.13.16'>Elişa İsrail padşahına dedi: «Kamanı çək». O, kamanı çəkdi. Elişa əllərini padşahın əlləri üstünə qoydu.</verse>
+        <verse osisID='2Kgs.13.17'>Sonra dedi: «Şərq tərəfdəki pəncərəni aç». O açdı. Elişa «oxu at» dedi. O atdı. Elişa dedi: «Bu, Rəbbin qurtuluş oxu, Arama qarşı qurtuluş oxudur! Sən Aramlıları Afeqdə axıra qədər qıracaqsan».</verse>
+        <verse osisID='2Kgs.13.18'>Sonra dedi: «Oxları götür». O götürdü. Elişa İsrail padşahına dedi: «Yerə vur». O, üç dəfə vurub dayandı.</verse>
+        <verse osisID='2Kgs.13.19'>Allah adamı ona qəzəblənib dedi: «Beş-altı dəfə vurmalı idin. Onda Aramlıları axıra qədər qıra bilərdin, indi isə onları üç dəfə qıracaqsan». </verse>
+        <verse osisID='2Kgs.13.20'>Elişa öldü və onu basdırdılar. Moavlıların dəstələri hər bahar fəslində ölkəyə gələrdi.</verse>
+        <verse osisID='2Kgs.13.21'>Bir dəfə bir nəfəri basdırarkən adamlar bir dəstə gördülər və ölünü Elişanın qəbrinə atdılar. Ölü düşüb Elişanın sümüklərinə toxunan kimi dirildi və ayaq üstə qalxdı. </verse>
+        <verse osisID='2Kgs.13.22'>Yehoaxazın bütün ömrü boyu Aram padşahı Xazael İsraillilərə zülm etdi.</verse>
+        <verse osisID='2Kgs.13.23'>Ancaq Rəbb İbrahim, İshaq və Yaqubla etdiyi əhdindən ötrü lütf və mərhəmət göstərib onlara tərəf üz tutdu, onları məhv etmək istəmədi və indiyə qədər Öz hüzurundan kənar etmədi.</verse>
+        <verse osisID='2Kgs.13.24'>Aram padşahı Xazael öldü və yerinə oğlu Ben-Hadad padşah oldu.</verse>
+        <verse osisID='2Kgs.13.25'>Yehoaxaz oğlu Yoaş müharibədə atası Yehoaxazın əlindən alınan şəhərləri Xazaelin oğlu Ben-Hadadın əlindən aldı. Yoaş Aramlıları üç dəfə qırıb İsrail şəhərlərini geri aldı.  </verse>
+      </chapter>
+      <chapter osisID='2Kgs.14'>
+        <verse osisID='2Kgs.14.1'>
+          İsrail padşahı Yehoaxaz oğlu Yoaşın padşahlığının ikinci ilində Yəhuda padşahı Yoaşın oğlu Amasya padşah oldu.</verse>
+        <verse osisID='2Kgs.14.2'>O, padşah olduğu vaxt iyirmi beş yaşında idi və Yerusəlimdə iyirmi doqquz il padşahlıq etdi. Anası Yerusəlimdən olub adı Yehoaddan idi.</verse>
+        <verse osisID='2Kgs.14.3'>Amasya atası Yoaşın etdiyi kimi Rəbbin gözündə doğru olan işlər etdi, amma babası Davud kimi deyildi.</verse>
+        <verse osisID='2Kgs.14.4'>Lakin səcdəgahlar aradan qaldırılmadı, xalq hələ səcdəgahlarda qurban gətirir və buxur yandırırdı. </verse>
+        <verse osisID='2Kgs.14.5'>Padşahlıq əlində möhkəmlənəndə Amasya padşah olan atasını öldürmüş əyanları öldürdü.</verse>
+        <verse osisID='2Kgs.14.6'>Ancaq Musanın Qanun kitabında yazıldığı kimi qatillərin oğullarını öldürmədi, çünki Rəbb əmr edib demişdi: «Oğula görə ata, ataya görə oğul öldürülməsin, hər kəs öz günahına görə ölməlidir».</verse>
+        <verse osisID='2Kgs.14.7'>O, on min nəfər Edomlunu Duz dərəsində qırıb Selanı müharibə ilə aldı. Onun adını Yoqteel qoydu və bu günə qədər də belədir. </verse>
+        <verse osisID='2Kgs.14.8'>O vaxt Amasya İsrail padşahı Yehu oğlu Yehoaxaz oğlu Yoaşın yanına qasidlər göndərib dedi: «Gəl, qarşılaşaq».</verse>
+        <verse osisID='2Kgs.14.9'>İsrail padşahı Yoaş Yəhuda padşahı Amasyaya cavab verib dedi: «Livanda olan qanqal oradakı sidr ağacına xəbər göndərib “qızını oğluma arvad olmaq üçün ver” dedi. Amma Livanda olan bir çöl heyvanı keçərək qanqalı tapdaladı.</verse>
+        <verse osisID='2Kgs.14.10'>Əlbəttə, sən Edomluları qırdın və ürəyin qürurlandı. Bununla öyün və öz evində otur. Nə üçün sən Yəhudalılarla birlikdə bəlaya düşmək üçün münaqişəyə atılırsan?» </verse>
+        <verse osisID='2Kgs.14.11'>Ancaq Amasya qulaq asmadı. İsrail padşahı Yoaş çıxıb Yəhuda padşahı Amasya ilə Yəhudada olan Bet-Şemeşdə qarşılaşdı.</verse>
+        <verse osisID='2Kgs.14.12'>Yəhudalılar İsraillilərin önündə məğlub oldular və hər kəs öz evinə qaçdı.</verse>
+        <verse osisID='2Kgs.14.13'>İsrail padşahı Yoaş Yəhuda padşahı Axazya oğlu Yoaş oğlu Amasyanı Bet-Şemeşdə tutdu. Yoaş Yerusəlimə gəlib şəhər divarının Efrayim darvazasından Künc darvazasına qədər dörd yüz qulacını uçurdu.</verse>
+        <verse osisID='2Kgs.14.14'>Rəbbin məbədində və sarayın xəzinələrində tapılan bütün qızıl-gümüşü, bütün əşyaları apardı. Girov olaraq tutduğu adamları da götürüb Samariyaya qayıtdı. </verse>
+        <verse osisID='2Kgs.14.15'>Yoaşın qalan işləri, onun hünəri və Yəhuda padşahı Amasya ilə necə vuruşduğu barədə İsrail padşahlarının salnamələr kitabında yazılmışdır.</verse>
+        <verse osisID='2Kgs.14.16'>Yoaş ataları ilə uyudu və Samariyada İsrail padşahlarının yanında basdırıldı. Onun yerinə oğlu Yarovam padşah oldu. </verse>
+        <verse osisID='2Kgs.14.17'>Yəhuda padşahı Yoaş oğlu Amasya İsrail padşahı Yehoaxaz oğlu Yoaşın ölümündən sonra on beş il yaşadı. </verse>
+        <verse osisID='2Kgs.14.18'>Amasyanın qalan işləri barədə Yəhuda padşahlarının salnamələr kitabında yazılmışdır.</verse>
+        <verse osisID='2Kgs.14.19'>Yerusəlimdə Amasyaya qəsd hazırladılar. O, Lakişə qaçdı. Lakişə onun dalınca adamlar göndərib orada onu öldürdülər.</verse>
+        <verse osisID='2Kgs.14.20'>Onu atlar üstündə gətirib Yerusəlimdə, Davudun şəhərində, atalarının yanında basdırdılar.</verse>
+        <verse osisID='2Kgs.14.21'>Bütün Yəhuda xalqı on altı yaşlı Azaryanı  götürüb atası Amasyanın yerinə padşah etdi.</verse>
+        <verse osisID='2Kgs.14.22'>Padşah ataları ilə uyuduqdan sonra o, Elatı Yəhudaya qaytarıb oranı tikdi. </verse>
+        <verse osisID='2Kgs.14.23'>Yəhuda padşahı Yoaş oğlu Amasyanın padşahlığının on beşinci ilində Yoaş oğlu Yarovam Samariyada İsrail üzərində padşah oldu və qırx bir il padşahlıq etdi.</verse>
+        <verse osisID='2Kgs.14.24'>O, Rəbbin gözündə pis olan işlər etdi və Nevat oğlu Yarovamın İsrailə etdirdiyi bütün günahlardan əl çəkmədi.</verse>
+        <verse osisID='2Kgs.14.25'>Qulu Qat-Xeferli peyğəmbər Amittay oğlu Yunus vasitəsilə İsrailin Allahı Rəbbin söylədiyi sözə görə o, Xamat keçidindən Arava dənizinə qədər İsrail torpaqlarını geri aldı.</verse>
+        <verse osisID='2Kgs.14.26'>Çünki Rəbb İsraillilərin acı fəlakətini görmüşdü: istər kölə olsun, istər azad, İsraillilərə kömək edən bir kəs olmadı.</verse>
+        <verse osisID='2Kgs.14.27'>Rəbb heç vaxt İsrailin adını göylər altından siləcəyini deməmişdi, buna görə də Yoaş oğlu Yarovamın vasitəsilə onlara qurtuluş verdi. </verse>
+        <verse osisID='2Kgs.14.28'>Yarovamın qalan işləri, etdiyi hər şey, onun hünəri, necə vuruşduğu və əvvəllər Yəhudaya məxsus olan Dəməşqi və Xamatı İsrailə necə qaytarması barədə İsrail padşahlarının salnamələr kitabında yazılmışdır.</verse>
+        <verse osisID='2Kgs.14.29'>Yarovam ataları İsrail padşahları ilə uyudu və yerinə oğlu Zəkəriyyə padşah oldu.  </verse>
+      </chapter>
+      <chapter osisID='2Kgs.15'>
+        <verse osisID='2Kgs.15.1'>
+          İsrail padşahı Yarovamın padşahlığının iyirmi yeddinci ilində Yəhuda padşahı Amasyanın oğlu Azarya padşah oldu.</verse>
+        <verse osisID='2Kgs.15.2'>O padşah olduğu vaxt on altı yaşında idi və Yerusəlimdə əlli iki il padşahlıq etdi. Anası Yerusəlimdən olub adı Yekolya idi.</verse>
+        <verse osisID='2Kgs.15.3'>Azarya atası Amasyanın etdiyi kimi Rəbbin gözündə doğru olan işlər etdi.</verse>
+        <verse osisID='2Kgs.15.4'>Lakin səcdəgahlar aradan qaldırılmadı, xalq hələ səcdəgahlarda qurban gətirir və buxur yandırırdı. </verse>
+        <verse osisID='2Kgs.15.5'>Rəbb padşaha bəla göndərdi, o, ölüm gününə qədər cüzamlı oldu. Padşah başqa bir evdə yaşayırdı. Onun oğlu Yotam isə saraya başçılıq edərək ölkə xalqına hökm edirdi. </verse>
+        <verse osisID='2Kgs.15.6'>Azaryanın qalan işləri və etdiyi hər şey barədə Yəhuda padşahlarının salnamələr kitabında yazılmışdır.</verse>
+        <verse osisID='2Kgs.15.7'>Azarya ataları ilə uyudu və onu Davudun şəhərində, atalarının yanında basdırdılar. Onun yerinə oğlu Yotam padşah oldu. </verse>
+        <verse osisID='2Kgs.15.8'>Yəhuda padşahı Azaryanın padşahlığının otuz səkkizinci ilində Yarovam oğlu Zəkəriyyə Samariyada İsrail üzərində padşah oldu və altı ay padşahlıq etdi.</verse>
+        <verse osisID='2Kgs.15.9'>O, atalarının etdiyi kimi Rəbbin gözündə pis olan işlər etdi və Nevat oğlu Yarovamın İsrailə etdirdiyi günahlardan əl çəkmədi.</verse>
+        <verse osisID='2Kgs.15.10'>Yaveş oğlu Şallum ona qəsd hazırladı, onu xalqın qabağında vurub öldürdü və yerinə padşah oldu. </verse>
+        <verse osisID='2Kgs.15.11'>Zəkəriyyənin qalan işləri barədə İsrail padşahlarının salnamələr kitabında yazılmışdır.</verse>
+        <verse osisID='2Kgs.15.12'>Rəbbin Yehuya «dördüncü nəslinə qədər sənin övladların İsrail taxtında oturacaqlar» deyə söylədiyi sözə görə belə oldu. </verse>
+        <verse osisID='2Kgs.15.13'>Yəhuda padşahı Uzziyanın  padşahlığının otuz doqquzuncu ilində Yaveş oğlu Şallum padşah oldu və Samariyada bir ay padşahlıq etdi.</verse>
+        <verse osisID='2Kgs.15.14'>Qadi oğlu Menaxem Tirsadan çıxıb Samariyaya gəldi. Samariyada Yaveş oğlu Şallumu vurub öldürdü və yerinə padşah oldu. </verse>
+        <verse osisID='2Kgs.15.15'>Şallumun qalan işləri və necə qəsd hazırladığı barədə İsrail padşahlarının salnamələr kitabında yazılmışdır.</verse>
+        <verse osisID='2Kgs.15.16'>O vaxt Menaxem Tirsadan çıxıb Tifsahda və onun ətrafında yaşayanların hamısını qırdı. Darvazaları onun üzünə açmadıqlarına görə onları məhv etdi və orada olan bütün hamilə qadınları doğradı. </verse>
+        <verse osisID='2Kgs.15.17'>Yəhuda padşahı Azaryanın padşahlığının otuz doqquzuncu ilində Qadi oğlu Menaxem İsrail üzərində padşah oldu və Samariyada on il padşahlıq etdi.</verse>
+        <verse osisID='2Kgs.15.18'>O, Rəbbin gözündə pis olan işlər etdi və bütün ömrü boyu Nevat oğlu Yarovamın İsrailə etdirdiyi günahlardan əl çəkmədi.</verse>
+        <verse osisID='2Kgs.15.19'>Aşşur padşahı Pul  ölkəyə hücum etdi. Menaxem ona min talant gümüş verdi ki, padşahlığını möhkəmləndirmək üçün Pul onunla müttəfiq olsun.</verse>
+        <verse osisID='2Kgs.15.20'>Menaxem Aşşur padşahına vermək üçün İsrailin varlı adamlarının hamısından gümüş yığdı, onların hər birindən əlli şekel gümüş aldı. Onda Aşşur padşahı bu ölkədə qalmayıb geri qayıtdı. </verse>
+        <verse osisID='2Kgs.15.21'>Menaxemin qalan işləri və etdiyi hər şey barədə İsrail padşahlarının salnamələr kitabında yazılmışdır.</verse>
+        <verse osisID='2Kgs.15.22'>Menaxem ataları ilə uyudu və yerinə oğlu Peqahya padşah oldu. </verse>
+        <verse osisID='2Kgs.15.23'>Yəhuda padşahı Azaryanın padşahlığının əllinci ilində Menaxem oğlu Peqahya Samariyada İsrail üzərində padşah oldu və iki il padşahlıq etdi.</verse>
+        <verse osisID='2Kgs.15.24'>O, Rəbbin gözündə pis olan işlər etdi və Nevat oğlu Yarovamın İsrailə etdirdiyi günahlardan əl çəkmədi.</verse>
+        <verse osisID='2Kgs.15.25'>Peqahyanın mühafizəçilər rəisi Remalya oğlu Peqah ona qəsd hazırladı, Gileadlılardan əlli nəfərin köməyi ilə Samariyada sarayın qalasında onu Arqov və Arye ilə birgə vurub öldürdü və onun yerinə padşah oldu. </verse>
+        <verse osisID='2Kgs.15.26'>Peqahyanın qalan işləri və etdiyi hər şey barədə İsrail padşahlarının salnamələr kitabında yazılmışdır. </verse>
+        <verse osisID='2Kgs.15.27'>Yəhuda padşahı Azaryanın padşahlığının əlli ikinci ilində Remalya oğlu Peqah Samariyada İsrail üzərində padşah oldu və iyirmi il padşahlıq etdi.</verse>
+        <verse osisID='2Kgs.15.28'>O, Rəbbin gözündə pis olan işlər etdi və Nevat oğlu Yarovamın İsrailə etdirdiyi günahlardan əl çəkmədi. </verse>
+        <verse osisID='2Kgs.15.29'>İsrail padşahı Peqahın dövründə Aşşur padşahı Tiqlat-Pileser gəlib İyonu, Avel-Bet-Maakanı, Yanoahı, Qedeşi, Xasoru, Gileadı, Qalileyanı və bütün Naftali torpağını tutdu, əhalisini də Aşşura sürgün etdi.</verse>
+        <verse osisID='2Kgs.15.30'>Ela oğlu Huşə Remalya oğlu Peqaha qəsd hazırladı, onu vurub öldürdü və Uzziya oğlu Yotamın padşahlığının iyirminci ilində onun yerinə padşah oldu. </verse>
+        <verse osisID='2Kgs.15.31'>Peqahın qalan işləri və etdiyi hər şey barədə İsrail padşahlarının salnamələr kitabında yazılmışdır. </verse>
+        <verse osisID='2Kgs.15.32'>İsrail padşahı Remalya oğlu Peqahın padşahlığının ikinci ilində Uzziya oğlu Yotam Yəhuda üzərində padşah oldu.</verse>
+        <verse osisID='2Kgs.15.33'>O, padşah olduğu vaxt iyirmi beş yaşında idi və Yerusəlimdə on altı il padşahlıq etdi. Anası Sadoq qızı Yeruşa idi.</verse>
+        <verse osisID='2Kgs.15.34'>Yotam atası Uzziyanın etdiyi kimi Rəbbin gözündə doğru olan işlər etdi.</verse>
+        <verse osisID='2Kgs.15.35'>Lakin səcdəgahlar aradan qaldırılmadı, xalq hələ səcdəgahlarda qurban gətirir və buxur yandırırdı. O, Rəbbin məbədinin yuxarı darvazasını düzəltdi. </verse>
+        <verse osisID='2Kgs.15.36'>Yotamın qalan işləri və etdiyi hər şey barədə Yəhuda padşahlarının salnamələr kitabında yazılmışdır.</verse>
+        <verse osisID='2Kgs.15.37'>Rəbb o dövrdə Aram padşahı Resini və Remalya oğlu Peqahı Yəhudalıların üstünə göndərməyə başladı.</verse>
+        <verse osisID='2Kgs.15.38'>Yotam ataları ilə uyudu və babası Davudun şəhərində, atalarının yanında basdırıldı. Onun yerinə oğlu Axaz padşah oldu.  </verse>
+      </chapter>
+      <chapter osisID='2Kgs.16'>
+        <verse osisID='2Kgs.16.1'>
+          Remalya oğlu Peqahın padşahlığının on yeddinci ilində Yotam oğlu Axaz Yəhuda üzərində padşah oldu.</verse>
+        <verse osisID='2Kgs.16.2'>Axaz padşah olduğu vaxt iyirmi yaşında idi və Yerusəlimdə on altı il padşahlıq etdi. O, babası Davuddan fərqli olaraq Allahı Rəbbin gözündə doğru olan işlər etmədi.</verse>
+        <verse osisID='2Kgs.16.3'>Axaz İsrail padşahlarının yolu ilə getdi və Rəbbin İsrail övladlarının önündən qovduğu millətlərin iyrənc əməllərini edərək oğlunu oda qurban verdi.</verse>
+        <verse osisID='2Kgs.16.4'>O, səcdəgahlarda, təpələr üstündə və hər kölgəli ağac altında qurban gətirir və buxur yandırırdı. </verse>
+        <verse osisID='2Kgs.16.5'>Onda Aram padşahı Resin və İsrail padşahı Remalya oğlu Peqah Yerusəlimin üzərinə hücum etdilər və Axazı mühasirəyə aldılar, ancaq onu məğlub edə bilmədilər.</verse>
+        <verse osisID='2Kgs.16.6'>O vaxt Aram padşahı Resin Elatı Arama qaytardı və Yəhudalıları Elatdan qovub çıxartdı. Aramlılar Elata girdilər və bu günə qədər orada yaşayırlar. </verse>
+        <verse osisID='2Kgs.16.7'>Axaz Aşşur padşahı Tiqlat-Pileserin yanına qasidlər göndərib dedi: «Mən sənin qulun və nökərinəm. Gəl, məni üstümə hücum edən Aram və İsrail padşahlarının əlindən qurtar».</verse>
+        <verse osisID='2Kgs.16.8'>Axaz Rəbbin məbədində və sarayın xəzinələrində tapılan qızıl-gümüşü götürüb Aşşur padşahına hədiyyə göndərdi.</verse>
+        <verse osisID='2Kgs.16.9'>Aşşur padşahı ona qulaq asdı: Dəməşqə hücum edib onu aldı, əhalisini Qirə sürgün etdi və Resini öldürdü. </verse>
+        <verse osisID='2Kgs.16.10'>Padşah Axaz Aşşur padşahı Tiqlat-Pileseri qarşılamaq üçün Dəməşqə getdi. O, Dəməşqdə olan qurbangahı gördü, qurbangahın bütün quruluşunu və təsvirini kahin Uriyaya göndərdi.</verse>
+        <verse osisID='2Kgs.16.11'>Kahin Uriya padşah Axazın Dəməşqdən göndərdiyi bütün şeylərə görə bir qurbangah düzəltdi. O, padşah Dəməşqdən qayıdana qədər bunu etdi.</verse>
+        <verse osisID='2Kgs.16.12'>Padşah Dəməşqdən qayıdıb qurbangahı gördü. O yaxınlaşıb qurbangahın üstünə qalxdı.</verse>
+        <verse osisID='2Kgs.16.13'>Qurbangahın üstündə öz yandırma qurbanını və taxıl təqdimini yandırdı, tökmə təqdimini tökdü və ünsiyyət qurbanlarının qanını oraya səpdi.</verse>
+        <verse osisID='2Kgs.16.14'>Rəbbin önündə olan tunc qurbangahı məbədin qabaq tərəfindən, öz qurbangahı ilə Rəbbin məbədi arasından gətirdi və onu öz qurbangahının şimal tərəfinə qoydu.</verse>
+        <verse osisID='2Kgs.16.15'>Padşah Axaz kahin Uriyaya əmr edib dedi: «Hər gün səhərin yandırma qurbanını, axşamın taxıl təqdimini, padşahın yandırma qurbanını və taxıl təqdimini, bütün ölkə xalqının yandırma qurbanını, taxıl təqdimini və tökmə təqdimini böyük qurbangahın üstündə yandır. Yandırma qurbanlarının və başqa qurbanların bütün qanını onun üstünə səp. Ancaq tunc qurbangah soraq etmək üçün mənim olacaq».</verse>
+        <verse osisID='2Kgs.16.16'>Kahin Uriya da padşah Axazın əmr etdiyi hər şeyi yerinə yetirdi. </verse>
+        <verse osisID='2Kgs.16.17'>Padşah Axaz dayaqların yan lövhələrini kəsib dayaqların üstündən ləyənləri götürdü. Hovuzu altında olan tunc buğaların üstündən qaldırıb bir daş səkinin üstünə qoydu.</verse>
+        <verse osisID='2Kgs.16.18'>Şənbə günü üçün məbəddə düzəldilmiş bağlı yeri və padşahın bayırdakı giriş yerini Aşşur padşahından ötrü Rəbbin məbədindən götürdü. </verse>
+        <verse osisID='2Kgs.16.19'>Axazın qalan işləri barədə Yəhuda padşahlarının salnamələr kitabında yazılmışdır.</verse>
+        <verse osisID='2Kgs.16.20'>Axaz ataları ilə uyudu və Davudun şəhərində, atalarının yanında basdırıldı. Onun yerinə oğlu Xizqiya padşah oldu.  </verse>
+      </chapter>
+      <chapter osisID='2Kgs.17'>
+        <verse osisID='2Kgs.17.1'>
+          Yəhuda padşahı Axazın padşahlığının on ikinci ilində Ela oğlu Huşə Samariyada İsrail üzərində padşah oldu və doqquz il padşahlıq etdi.</verse>
+        <verse osisID='2Kgs.17.2'>O, Rəbbin gözündə pis olan işlər etdi, ancaq özündən əvvəlki İsrail padşahları kimi deyildi.</verse>
+        <verse osisID='2Kgs.17.3'>Aşşur padşahı Şalmaneser Huşənin üstünə hücum etmişdi və Huşə ona tabe olub xərac vermişdi.</verse>
+        <verse osisID='2Kgs.17.4'>Amma Aşşur padşahı Huşənin xəyanət etdiyini gördü, çünki o həm Misir padşahı Sonun yanına qasidlər göndərmişdi, həm də hər il olduğu kimi Aşşur padşahına xərac verməmişdi. Buna görə də Aşşur padşahı onu tutub zindana saldı. </verse>
+        <verse osisID='2Kgs.17.5'>Aşşur padşahı bütün ölkəyə hücum etdi. O, Samariyaya yaxınlaşdı və oranı üç il mühasirədə saxladı.</verse>
+        <verse osisID='2Kgs.17.6'>Huşənin padşahlığının doqquzuncu ilində Aşşur padşahı Samariyanı aldı və İsrailliləri Aşşur torpağına sürgün etdi. Onları Xalahda, Qozan çayı sahilindəki Xavorda və Midiya şəhərlərində yerləşdirdi. </verse>
+        <verse osisID='2Kgs.17.7'>Bu iş ona görə İsrail övladlarının başına gəldi ki, onları Misir padşahı fironun əsarəti altından, Misir torpağından çıxaran özlərinin Allahı Rəbbə qarşı günah etmişdilər. İsrail övladları başqa allahlara səcdə etmişdilər.</verse>
+        <verse osisID='2Kgs.17.8'>Onların önündən Rəbbin qovduğu millətlərin adətlərinə və İsrail padşahlarının qoyduğu qanunlara görə davranmışdılar.</verse>
+        <verse osisID='2Kgs.17.9'>Gizlində özlərinin Allahı Rəbbə qarşı doğru olmayan işlər etmişdilər. Məskən saldıqları hər yerdə keşikçi qülləsindən qalalı şəhərə qədər özləri üçün səcdəgahlar tikmişdilər.</verse>
+        <verse osisID='2Kgs.17.10'>Hər hündür təpənin üstündə, hər kölgəli ağacın altında sütunlar və Aşera bütləri qoymuşdular.</verse>
+        <verse osisID='2Kgs.17.11'>Onların önündən Rəbbin qovduğu millətlərin etdiyi kimi bütün bu səcdəgahlarda buxur yandırmış və pis işlər görüb Rəbbi qəzəbləndirmişdilər.</verse>
+        <verse osisID='2Kgs.17.12'>Rəbb onlara «belə etməyin» söylədiyinə baxmayaraq, onlar bütlərə qulluq etmişdilər. </verse>
+        <verse osisID='2Kgs.17.13'>Rəbb bütün peyğəmbərləri və görücüləri vasitəsilə İsraillilərə və Yəhudalılara xəbərdarlıq edib demişdi: «Pis yolunuzdan dönün. Atalarınıza buyurduğum və qullarım peyğəmbərlər vasitəsilə sizə öyrətdiyim Qanunda olan bütün əmrlərimə və qanunlarıma əməl edin».</verse>
+        <verse osisID='2Kgs.17.14'>Ancaq onlar bu sözlərə qulaq asmamışdılar və iman etməyən ataları kimi özlərinin Allahı Rəbbə boyun əyməmişdilər.</verse>
+        <verse osisID='2Kgs.17.15'>Onun qanunlarını, ataları ilə bağladığı əhdini və onlara etdiyi xəbərdarlıqları rədd etmişdilər. Boş şey dalınca gedib boş adamlar olmuşdular. Rəbb «ətrafınızdakı millətlər kimi etməyin» deyib əmr etdiyi halda onlar kimi davranmışdılar.</verse>
+        <verse osisID='2Kgs.17.16'>Özlərinin Allahı Rəbbin bütün əmrlərindən üz döndərib iki tökmə dana bütü və Aşera bütü düzəltmişdilər, bütün səma cisimlərinə səcdə etmişdilər və Baala qulluq etmişdilər.</verse>
+        <verse osisID='2Kgs.17.17'>Oğullarını və qızlarını oda qurban vermişdilər, falçılıq və baxıcılıq etmişdilər. Rəbbin gözündə pis olan işlərə özlərini təslim edib Onu qəzəbləndirmişdilər. </verse>
+        <verse osisID='2Kgs.17.18'>Buna görə də Rəbb İsraillilərə qəzəblənib onlardan üz döndərdi. Yalnız Yəhuda qəbiləsindən başqa heç biri qalmadı. </verse>
+        <verse osisID='2Kgs.17.19'>Yəhudalılar da özlərinin Allahı Rəbbin əmrlərinə əməl etməmişdilər və İsraillilərin qoyduğu adətlərlə davranmışdılar.</verse>
+        <verse osisID='2Kgs.17.20'>Rəbb bütün İsrail nəslindən üz döndərərək onları alçaldıb soyğunçulara təslim etdi və nəhayət, onları hüzurundan kənara atdı.</verse>
+        <verse osisID='2Kgs.17.21'>Rəbb İsraili Davud sülaləsindən alıb ayırmışdı və İsraillilər Nevat oğlu Yarovamı padşah etmişdilər. Yarovam onları Rəbbin yolundan azdırmışdı və onlara böyük günahlar etdirmişdi.</verse>
+        <verse osisID='2Kgs.17.22'>İsrail övladları Yarovamın etdiyi bütün günahlara görə davranmışdılar və bu günahlardan əl çəkməmişdilər.</verse>
+        <verse osisID='2Kgs.17.23'>Rəbb Öz qulu olan bütün peyğəmbərlər vasitəsilə söylədiyi kimi, nəhayət, İsraillilərdən üz döndərdi. Onlar öz torpaqlarından Aşşur torpağına sürgün olundular və bu günə qədər belədir. </verse>
+        <verse osisID='2Kgs.17.24'>Aşşur padşahı Babildən, Kutadan, Avvadan, Xamatdan və Sefarvayimdən adamlar gətirib İsrail övladlarının yerinə Samariyanın şəhərlərində yerləşdirdi. Onlar Samariyaya sahib oldular və oranın şəhərlərində yaşadılar.</verse>
+        <verse osisID='2Kgs.17.25'>Onlar orada yaşamağa başlayanda Rəbbə sitayiş etmirdilər. Rəbb də üstlərinə şirlər göndərdi və şirlər onları öldürməyə başladı.</verse>
+        <verse osisID='2Kgs.17.26'>Onlar Aşşur padşahına dedilər: «Sürgün edib Samariyanın şəhərlərində yerləşdirdiyin millətlər bu ölkə Allahının adətlərini bilmirlər. O Allah da üstlərinə şirlər göndərdi və şirlər onları öldürür, çünki bu adamlar ölkə Allahının adətlərini bilmirlər».</verse>
+        <verse osisID='2Kgs.17.27'>Aşşur padşahı əmr edib dedi: «Oradan sürgün etdiyiniz kahinlərdən birini geri qaytarın, adamları ilə gedib orada yaşasın və ölkə Allahının adətlərini onlara öyrətsin».</verse>
+        <verse osisID='2Kgs.17.28'>Samariyadan sürgün etdikləri kahinlərdən biri gəlib Bet-Eldə yaşadı və Rəbbə necə sitayiş etməyi onlara öyrətməyə başladı. </verse>
+        <verse osisID='2Kgs.17.29'>Ancaq hər millət öz allahının bütünü düzəltdi. Onları yaşadıqları şəhərlərdə Samariyalıların səcdəgahlarda tikdikləri məbədlərə qoydular:</verse>
+        <verse osisID='2Kgs.17.30'>Babillilər Sukkot-Benot bütünü, Kutalılar Nerqal bütünü, Xamatlılar Aşima bütünü,</verse>
+        <verse osisID='2Kgs.17.31'>Avvalılar Nivxaz və Tartaq bütlərini düzəltdilər. Sefarvayimlilər isə oğullarını Sefarvayim allahları Adrammelek və Anammelek üçün odda yandırırdılar.</verse>
+        <verse osisID='2Kgs.17.32'>Onlar Rəbbə də sitayiş edirdilər. Səcdəgahların məbədlərində xidmət etmək üçün öz aralarından kahinlər seçib qoydular.</verse>
+        <verse osisID='2Kgs.17.33'>Onlar həm Rəbbə, həm də aralarından sürgün olunduqları millətlərin adətlərinə görə öz allahlarına sitayiş edirdilər. </verse>
+        <verse osisID='2Kgs.17.34'>Onlar bu günə qədər də əvvəlki adətlərinə görə davranırlar və Rəbbə sitayiş etmirlər, adını İsrail qoyduğu Yaqubun nəslinə Rəbbin buyurduğu qaydalara, hökmlərə, qanunlara və əmrlərə əməl etmirlər.</verse>
+        <verse osisID='2Kgs.17.35'>Rəbb Yaqub övladları ilə əhd etmişdi və onlara əmr edib demişdi: «Başqa allahlara sitayiş və səcdə etməyin, onlara qulluq edib qurban gətirməyin.</verse>
+        <verse osisID='2Kgs.17.36'>Ancaq böyük qüdrəti və uzatdığı əli ilə sizi Misir torpağından çıxaran Rəbbə sitayiş və səcdə edin, Ona qurban gətirin.</verse>
+        <verse osisID='2Kgs.17.37'>Sizin üçün yazdığı qaydalara, hökmlərə, qanunlara və əmrlərə həmişə diqqətlə əməl edin və başqa allahlara sitayiş etməyin.</verse>
+        <verse osisID='2Kgs.17.38'>Sizinlə bağladığım əhdi unutmayın. Başqa allahlara deyil,</verse>
+        <verse osisID='2Kgs.17.39'>yalnız Allahınız Rəbbə sitayiş etsəniz, O sizi bütün düşmənlərinizin əlindən qurtarar».</verse>
+        <verse osisID='2Kgs.17.40'>Ancaq onlar bu sözlərə qulaq asmadılar və bu günə qədər də özlərinin əvvəlki adətlərinə görə davranırlar.</verse>
+        <verse osisID='2Kgs.17.41'>Beləcə bu millətlər həm Rəbbə, həm də öz bütlərinə sitayiş edirdilər. Ataları necə edirdisə, oğulları və nəvələri də bu günə qədər belə edirlər.  </verse>
+      </chapter>
+      <chapter osisID='2Kgs.18'>
+        <verse osisID='2Kgs.18.1'>
+          İsrail padşahı Ela oğlu Huşənin padşahlığının üçüncü ilində Axaz oğlu Xizqiya Yəhuda üzərində padşah oldu.</verse>
+        <verse osisID='2Kgs.18.2'>O, padşah olduğu vaxt iyirmi beş yaşında idi və Yerusəlimdə iyirmi doqquz il padşahlıq etdi. Anası Zəkəriyyə qızı Avi idi.</verse>
+        <verse osisID='2Kgs.18.3'>Xizqiya babası Davudun etdiyi kimi Rəbbin gözündə doğru olan işlər etdi.</verse>
+        <verse osisID='2Kgs.18.4'>O, səcdəgahları aradan qaldırdı, sütunları parça-parça etdi və Aşera bütünü kəsdi. Musanın düzəltdiyi tunc ilanı əzib parçaladı, çünki İsraillilər onun adını Nexuştan  qoyub o vaxta qədər ona buxur yandırırdılar. </verse>
+        <verse osisID='2Kgs.18.5'>Xizqiya İsrailin Allahı Rəbbə güvəndi. Özündən əvvəl və sonra olan bütün Yəhuda padşahları arasında onun kimisi olmadı.</verse>
+        <verse osisID='2Kgs.18.6'>O, Rəbdən yapışıb Onun yolundan dönmədi və Rəbbin Musaya verdiyi əmrlərinə əməl etdi.</verse>
+        <verse osisID='2Kgs.18.7'>Rəbb də onunla idi və hara gedirdisə, uğur qazanırdı. Xizqiya Aşşur padşahına qulluq etməkdən boyun qaçırdı.</verse>
+        <verse osisID='2Kgs.18.8'>Qəzzədə və onun sərhədləri boyu, keşikçi qülləsindən qalalı şəhərə qədər hər yerdə yaşayan Filiştliləri qırdı. </verse>
+        <verse osisID='2Kgs.18.9'>Xizqiyanın padşahlığının dördüncü ilində, yəni İsrail padşahı Ela oğlu Huşənin padşahlığının yeddinci ilində Aşşur padşahı Şalmaneser Samariya üzərinə hücum edib oranı mühasirəyə aldı.</verse>
+        <verse osisID='2Kgs.18.10'>Üç ildən sonra şəhəri aldılar. Xizqiyanın padşahlığının altıncı ilində, yəni İsrail padşahı Huşənin padşahlığının doqquzuncu ilində Samariya alındı.</verse>
+        <verse osisID='2Kgs.18.11'>Aşşur padşahı İsrailliləri Aşşur torpağına sürgün etdi və onları Xalahda, Qozan çayı sahilindəki Xavorda və Midiya şəhərlərində yerləşdirdi.</verse>
+        <verse osisID='2Kgs.18.12'>Bu iş ona görə onların başına gəldi ki, özlərinin Allahı Rəbbin sözünə qulaq asmamışdılar və Onun əhdini, Rəbbin qulu Musanın əmr etdiyi hər şeyi pozmuşdular. Onlar buna nə qulaq asmış, nə də əməl etmişdilər. </verse>
+        <verse osisID='2Kgs.18.13'>Xizqiyanın padşahlığının on dördüncü ilində Aşşur padşahı Sanxeriv Yəhudanın bütün qalalı şəhərlərinə hücum edib onları aldı.</verse>
+        <verse osisID='2Kgs.18.14'>Yəhuda padşahı Xizqiya Lakişə, Aşşur padşahına xəbər göndərib dedi: «Təqsirkaram, üzərimdən geri çəkil, məndən nə qədər xərac tələb etsən, verərəm». Aşşur padşahı Yəhuda padşahı Xizqiyadan xərac olaraq otuz talant qızıl və üç yüz talant gümüş tələb etdi.</verse>
+        <verse osisID='2Kgs.18.15'>Xizqiya Rəbbin məbədində və sarayın xəzinələrində tapılan gümüşün hamısını verdi.</verse>
+        <verse osisID='2Kgs.18.16'>O vaxt Yəhuda padşahı Xizqiya Rəbbin məbədinin qapılarının və sütunlarının üstünə özünün örtdüyü qızılı çıxartdı və onu Aşşur padşahına verdi. </verse>
+        <verse osisID='2Kgs.18.17'>Aşşur padşahı öz ordu başçısını, baş məmuru və baş vəzirini böyük qoşunla Lakişdən Yerusəlimə, padşah Xizqiyanın yanına göndərdi. Onlar çıxıb Yerusəlimə gəldilər və Mahudbasan tarlası yoluna, yuxarı hovuzun su kəmərinin yanına qalxıb orada dayandılar.</verse>
+        <verse osisID='2Kgs.18.18'>Onlar padşahı çağırdılar. Saray rəisi Xilqiya oğlu Elyaqim, mirzə Şevna və salnaməçi Asəf oğlu Yoah onların qabağına çıxdı. </verse>
+        <verse osisID='2Kgs.18.19'>Baş vəzir onlara dedi: «İndi Xizqiyaya söyləyin ki, böyük padşah – Aşşur padşahı belə deyir: “Nəyə güvənirsən?</verse>
+        <verse osisID='2Kgs.18.20'>Sən yalnız boş sözlər deyirsən, müharibə üçün tədbir və güc lazımdır. İndi sən kimə güvənirsən ki, mənə qarşı çıxırsan?</verse>
+        <verse osisID='2Kgs.18.21'>Yəqin sən əzilmiş qamış çubuğuna – Misirə güvənirsən. Bil ki, kim ona söykənsə, əlinə batıb deşər. Misir padşahı firon ona güvənənlərin hamısı üçün belədir.</verse>
+        <verse osisID='2Kgs.18.22'>Bəlkə mənə ‹biz Allahımız Rəbbə güvənirik› söyləyəsiniz. Məgər bu həmin Allah deyildi ki, Xizqiya Onun səcdəgahlarını və qurbangahlarını aradan qaldırdı? O, Yəhudalılara və Yerusəlimlilərə də ‹yalnız Yerusəlimdəki bu qurbangahın önündə səcdə edin› demədimi?</verse>
+        <verse osisID='2Kgs.18.23'>İndi ağam Aşşur padşahı ilə mərcə gəl: əgər sən iki min süvari tapa bilsən, mən sənə o qədər at verərəm.</verse>
+        <verse osisID='2Kgs.18.24'>Görək sən ağamın kiçik qulu olan bir başçını necə məğlub edəcəksən. Sən hələ döyüş arabaları və süvarilər almaq üçün Misirə güvənirsən!</verse>
+        <verse osisID='2Kgs.18.25'>Məgər indi mən bu yeri viran etməyə Rəbbin istəyi ilə gəlmədimmi? Rəbb mənə ‹bu ölkəyə hücum edib onu viran et› dedi”». </verse>
+        <verse osisID='2Kgs.18.26'>Xilqiya oğlu Elyaqim, Şevna və Yoah baş vəzirə dedi: «Xahiş edirik, bu qullarınla Arami dilində danış, biz bu dili başa düşürük, amma divar üzərindəki xalqın eşitdiyi yerdə bizimlə Yəhudi dilində danışma».</verse>
+        <verse osisID='2Kgs.18.27'>Baş vəzir onlara dedi: «Məgər ağam məni göndərib ki, bu sözləri təkcə sənin ağana və sənə söyləyim, yoxsa divar üzərində oturan bu adamlara? Axı onlar da sizinlə birgə nəcislərini yeyib sidiklərini içəcəklər». </verse>
+        <verse osisID='2Kgs.18.28'>Onda baş vəzir durub Yəhudi dilində uca səslə bağıraraq dedi: «Böyük padşahın – Aşşur padşahının sözünü eşidin!</verse>
+        <verse osisID='2Kgs.18.29'>Padşah belə deyir: “Xizqiya sizi aldatmasın, sizi mənim əlimdən qurtara bilməyəcək.</verse>
+        <verse osisID='2Kgs.18.30'>Qoy Xizqiya sizə ‹Rəbb bizi hökmən qurtaracaq və bu şəhər Aşşur padşahına təslim edilməyəcək› deyib Rəbbə arxayın etməsin”.</verse>
+        <verse osisID='2Kgs.18.31'>Ona qulaq asmayın! Çünki Aşşur padşahı belə deyir: “Mənimlə sülh bağlayın və yanıma gəlin. Mən gələnə qədər hər kəs öz üzüm meynəsinin və əncir ağacının bəhrəsindən yeyib öz quyusunun suyundan içəcək.</verse>
+        <verse osisID='2Kgs.18.32'>Sonra mən gəlib sizi ölkənizə bənzər bir ölkəyə – buğda, şərab, çörək, üzüm bağları, zeytun yağı və bal olan bir torpağa aparacağam. Beləcə ölməyib sağ qalarsınız. ‹Rəbb bizi qurtaracaq› deyib sizi azdıran Xizqiyaya qulaq asmayın.</verse>
+        <verse osisID='2Kgs.18.33'>Millətlərin allahlarından biri öz ölkəsini Aşşur padşahının əlindən qurtardımı?</verse>
+        <verse osisID='2Kgs.18.34'>Hanı Xamatın və Arpadın allahları? Hanı Sefarvayimin, Henanın və Avvanın allahları? Onlar Samariyanı mənim əlimdən qurtardılarmı?</verse>
+        <verse osisID='2Kgs.18.35'>Bütün bu allahlardan hansı öz ölkəsini mənim əlimdən qurtardı? Bəs Rəbb necə Yerusəlimi mənim əlimdən qurtara bilər?”» </verse>
+        <verse osisID='2Kgs.18.36'>Xalq susdu və onun cavabında heç nə demədi. Çünki padşah «ona cavab verməyin» deyə əmr etmişdi.</verse>
+        <verse osisID='2Kgs.18.37'>Saray rəisi Xilqiya oğlu Elyaqim, mirzə Şevna və salnaməçi Asəf oğlu Yoah cırılmış paltarlarda Xizqiyanın yanına gəlib baş vəzirin sözlərini ona çatdırdılar.  </verse>
+      </chapter>
+      <chapter osisID='2Kgs.19'>
+        <verse osisID='2Kgs.19.1'>
+          Padşah Xizqiya bunu eşidəndə paltarını cırdı və çula bürünüb Rəbbin məbədinə girdi.</verse>
+        <verse osisID='2Kgs.19.2'>O, saray rəisi Elyaqimi, mirzə Şevnanı və kahinlərin ağsaqqallarını çula bürünmüş halda peyğəmbər Amots oğlu Yeşayanın yanına göndərdi.</verse>
+        <verse osisID='2Kgs.19.3'>Onlar Yeşayaya dedilər: «Xizqiya belə deyir: “Bu gün bəla, təhqir və rüsvayçılıq günüdür, çünki uşaqların doğulması vaxtı çatıb, ancaq doğmağa güc yoxdur.</verse>
+        <verse osisID='2Kgs.19.4'>Bəlkə ağası Aşşur padşahının var olan Allahı təhqir etməyə göndərdiyi baş vəzirin bütün sözlərini Allahın Rəbb eşidib buna görə məzəmmət edər. Ona görə də qalanlar üçün dua et”».</verse>
+        <verse osisID='2Kgs.19.5'>Padşah Xizqiyanın adamları Yeşayanın yanına gələndə</verse>
+        <verse osisID='2Kgs.19.6'>Yeşaya onlara dedi: «Ağanıza söyləyin ki, Rəbb belə deyir: “Aşşur padşahının nökərlərinin Mənə qarşı küfr edərək söylədiyi və sənin eşitdiyin sözlərdən qorxma.</verse>
+        <verse osisID='2Kgs.19.7'>Mən onun daxilinə elə bir ruh göndərəcəyəm ki, bir xəbər eşidib öz ölkəsinə qayıdacaq və orada onu qılıncla öldürtdürəcəyəm”». </verse>
+        <verse osisID='2Kgs.19.8'>Baş vəzir geri qayıdıb Aşşur padşahının Livna üzərinə hücum etdiyini gördü. Çünki Lakişdən geri çəkildiyini eşitmişdi.</verse>
+        <verse osisID='2Kgs.19.9'>Aşşur padşahına «Kuş padşahı Tirhaqa sənin üstünə vuruşmağa gəlir» xəbəri çatdı. O, Xizqiyanın yanına yenidən qasidlər göndərib dedi:</verse>
+        <verse osisID='2Kgs.19.10'>«Yəhuda padşahı Xizqiyaya belə söyləyin: “Qoy güvəndiyin Allahın ‹Yerusəlim Aşşur padşahına təslim edilməyəcək› deyə səni aldatmasın.</verse>
+        <verse osisID='2Kgs.19.11'>Axı sən eşitdin ki, Aşşur padşahları bütün ölkələrə nə ediblər, oraları necə viran ediblər. Sən qurtula biləcəksənmi?</verse>
+        <verse osisID='2Kgs.19.12'>Atalarımın məhv etdikləri millətlərin – Qozanın, Xaranın, Resefin və Telassarda olan Edenlilərin allahları onları qurtardımı?</verse>
+        <verse osisID='2Kgs.19.13'>Hanı Xamat padşahı, Arpad padşahı, Sefarvayim şəhərinin, Henanın və Avvanın padşahı?”» </verse>
+        <verse osisID='2Kgs.19.14'>Xizqiya məktubu qasidlərdən alıb oxudu. O, Rəbbin məbədinə qalxıb məktubu Rəbbin önündə yerə sərdi.</verse>
+        <verse osisID='2Kgs.19.15'>Xizqiya Rəbbin önündə dua edib dedi: «Ey keruvlar üstündə əyləşən İsrailin Allahı Rəbb! Bütün dünya padşahlıqlarının Allahı yalnız Sənsən. Göyü və yeri Sən yaratmısan.</verse>
+        <verse osisID='2Kgs.19.16'>Ya Rəbb, qulağın eşitsin, gözün görsün, Sanxerivin var olan Allaha qarşı küfr edərək göndərdiyi sözlərə qulaq as.</verse>
+        <verse osisID='2Kgs.19.17'>Ya Rəbb, doğrudur, Aşşur padşahları millətləri və onların torpaqlarını talan etdilər,</verse>
+        <verse osisID='2Kgs.19.18'>allahlarını oda atıb məhv etdilər. Çünki onlar Allah deyildi, insanlar onları ağac və daşdan düzəltmişdilər.</verse>
+        <verse osisID='2Kgs.19.19'>Ey Allahımız Rəbb, indi isə yalvarıram, bizi onun əlindən qurtar və bütün dünya padşahlıqları bilsinlər ki, ya Rəbb, Sən, yalnız Sən Allahsan!» </verse>
+        <verse osisID='2Kgs.19.20'>Amots oğlu Yeşaya Xizqiyaya xəbər göndərib dedi: «İsrailin Allahı Rəbb belə deyir: “Aşşur padşahı Sanxeriv barədə Mənə etdiyin duanı eşitdim”.</verse>
+        <verse osisID='2Kgs.19.21'>Onun haqqında Rəbbin söylədiyi söz budur:  “Bakirə Sion qızıSənə xor baxıb lağ edir,Yerusəlim qızıSənin arxanca başını bulayır.</verse>
+        <verse osisID='2Kgs.19.22'>Kimi söyüb küfr etdin?Kimə qarşı səsini qaldırdın?Kimə lovğalıqla baxdın?İsrailin Müqəddəsinə!</verse>
+        <verse osisID='2Kgs.19.23'>Qasidlərinin vasitəsiləRəbbi təhqir edib dedin:‹Çoxlu döyüş arabalarımlaDağların zirvəsinə,Livanın ən uca yerlərinə çıxdım.Uca sidr ağaclarını,Gözəl sərv ağaclarını kəsdim,Ən son məskəninə,Yaşıl meşələrinə girdim.</verse>
+        <verse osisID='2Kgs.19.24'>Quyu qazdım və özgə sularını içdim,Misirin bütün çaylarını ayağımla qurutdum›.</verse>
+        <verse osisID='2Kgs.19.25'>Məgər eşitməmisən ki,Mən çoxdan bu işi hazırladım,Qədimdən bəri müəyyən etdiyimiİndi yerinə yetirirəm ki,Sən qalalı şəhərləri dağıdıbViranəliyə çevirəsən.</verse>
+        <verse osisID='2Kgs.19.26'>Bu şəhərlərin sakinləri zəiflədi,Çaşqınlığa və xəcalətə düşdülər.Yetişməmişdən əvvəl yandırılanÇöl otu, göyərti və damda bitən ot kimi oldular.</verse>
+        <verse osisID='2Kgs.19.27'>Sənin oturuşunu,Girişini-çıxışını,Mənə qarşı hiddətini bilirəm.</verse>
+        <verse osisID='2Kgs.19.28'>Mənə qarşı hiddətləndiyinə görə,Lovğalığın qulağıma çatdığına görəHalqamı burnuna və yüyənimi ağzına taxacağam,Səni gəldiyin yolla geri qaytaracağam.</verse>
+        <verse osisID='2Kgs.19.29'>Ancaq sənin üçün əlamət budur, ey Xizqiya!Bu il və gələn il özü yetişən barını,Üçüncü il isə taxıl zəmilərini,Üzüm bağları salıb onların bəhrəsini yeyin.</verse>
+        <verse osisID='2Kgs.19.30'>Yəhuda nəslindən xilas olub qalanlarYenə aşağıya doğru kök atacaqlar,Yuxarıya doğru bəhrə verəcəklər.</verse>
+        <verse osisID='2Kgs.19.31'>Çünki qalanlar Yerusəlimdən,Xilas olanlar Sion dağından çıxacaqlar.Rəbbin qeyrəti bunu edəcək”.</verse>
+        <verse osisID='2Kgs.19.32'>Buna görə Aşşur padşahı barədə Rəbb belə deyir:“O bu şəhərə girməyəcək,Oraya ox atmayacaq,Qarşısına qalxanla çıxmayacaq,Qala önündə torpaq qalağı qurmayacaq.</verse>
+        <verse osisID='2Kgs.19.33'>Ancaq gəldiyi yolla geri qayıdacaq,Bu şəhərə girməyəcək”Rəbb belə bəyan edir.</verse>
+        <verse osisID='2Kgs.19.34'>“Mən bu şəhəri Özüm üçün,Qulum Davudun xatirinə qoruyub xilas edəcəyəm”». </verse>
+        <verse osisID='2Kgs.19.35'>O gecə Rəbbin mələyi çıxıb Aşşur ordugahında yüz səksən beş min nəfəri qırdı. Səhər erkən qalxıb gördülər ki, onların hamısı öldürülüb.</verse>
+        <verse osisID='2Kgs.19.36'>Aşşur padşahı Sanxeriv geri çəkilib getdi və Ninevada qaldı.</verse>
+        <verse osisID='2Kgs.19.37'>O öz allahı Nisrokun məbədində səcdə edərkən oğulları Adrammelek və Şareser onu qılıncla öldürdülər və Urartu ölkəsinə qaçdılar. Sanxerivin yerinə oğlu Esar-Xaddon padşah oldu.  </verse>
+      </chapter>
+      <chapter osisID='2Kgs.20'>
+        <verse osisID='2Kgs.20.1'>
+          O günlərdə Xizqiya ölümcül xəstələndi. Peyğəmbər Amots oğlu Yeşaya onun yanına gəlib dedi: «Rəbb belə deyir: “Evin üçün vəsiyyət et, çünki xəstəlikdən sağalmayıb öləcəksən”».</verse>
+        <verse osisID='2Kgs.20.2'>Xizqiya üzünü divara çevirdi və Rəbbə dua edib dedi:</verse>
+        <verse osisID='2Kgs.20.3'>«Yalvarıram, ya Rəbb, yadına sal ki, necə Sənin önündə salehliklə və sidq ürəklə davranmışam, necə Sənin gözündə yaxşı olan işlər etmişəm». Xizqiya acı-acı ağladı.</verse>
+        <verse osisID='2Kgs.20.4'>Yeşaya hələ orta həyətdən çıxmamış ona Rəbbin bu sözü nazil oldu:</verse>
+        <verse osisID='2Kgs.20.5'>«Qayıt, Mənim xalqımın hökmdarı Xizqiyaya söylə ki, baban Davudun Allahı Rəbb belə deyir: “Sənin duanı eşitdim, göz yaşlarını gördüm. İndi Mən səni sağaldıram və üçüncü gün Rəbbin məbədinə qalxacaqsan.</verse>
+        <verse osisID='2Kgs.20.6'>Sənin ömrünü on beş il artırıram. Səni və bu şəhəri Aşşur padşahının əlindən qurtaracağam, onu Özüm üçün və qulum Davudun xatirinə qoruyacağam”».</verse>
+        <verse osisID='2Kgs.20.7'>Sonra Yeşaya «əncir kündəsi götürün» dedi. Bunu götürüb çibanın üstünə qoydular və padşah sağaldı. </verse>
+        <verse osisID='2Kgs.20.8'>Xizqiya Yeşayaya demişdi: «Rəbbin məni sağaldacağına və üçüncü gün Rəbbin məbədinə qalxacağıma əlamət nədir?»</verse>
+        <verse osisID='2Kgs.20.9'>Yeşaya dedi: «Söylədiyi sözə əməl edəcəyinə Rəbbin verdiyi əlamət budur: sənin istəyinə görə kölgə ya on dərəcə qabağa gedəcək ya da on dərəcə geri çəkiləcək».</verse>
+        <verse osisID='2Kgs.20.10'>Xizqiya dedi: «Kölgə üçün on dərəcə qabağa getmək asandır. Qoy on dərəcə geri çəkilsin».</verse>
+        <verse osisID='2Kgs.20.11'>Peyğəmbər Yeşaya Rəbbi çağırdı, Rəbb də Axazın tikdiyi günəş saatının üstünə düşən kölgəni on dərəcə geri çəkdi. </verse>
+        <verse osisID='2Kgs.20.12'>O zaman Babil padşahı Baladan oğlu Merodak-Baladan Xizqiyaya məktublar və hədiyyələr göndərdi, çünki Xizqiyanın xəstələndiyini eşitmişdi.</verse>
+        <verse osisID='2Kgs.20.13'>Bunlar Xizqiyanı sevindirdi. O, xəzinəsində olan bütün şeyləri – qızıl-gümüşü, ətriyyatı, qiymətli yağları, silah anbarını elçilərə göstərdi. Xizqiyanın sarayında və bütün ölkəsində onlara göstərmədiyi bir şey qalmadı. </verse>
+        <verse osisID='2Kgs.20.14'>Onda Yeşaya peyğəmbər padşah Xizqiyanın yanına gəlib ona dedi: «Bu adamlar nə dedilər? Sənin yanına haradan gəldilər?» Xizqiya dedi: «Uzaq bir ölkədən – Babildən gəldilər».</verse>
+        <verse osisID='2Kgs.20.15'>Yeşaya dedi: «Sənin sarayında nə gördülər?» Xizqiya dedi: «Sarayımda olan bütün şeyləri gördülər. Xəzinəmdə onlara göstərmədiyim bir şey qalmadı». </verse>
+        <verse osisID='2Kgs.20.16'>Yeşaya Xizqiyaya dedi: «Rəbbin sözünü dinlə:</verse>
+        <verse osisID='2Kgs.20.17'>“Bir gün gələcək ki, sənin sarayında olan hər şey və atalarının bu günə qədər yığdıqları şeylər Babilə aparılacaq, heç nə qalmayacaq” deyir Rəbb.</verse>
+        <verse osisID='2Kgs.20.18'>“Sənin nəslindən olan və səndən törəyən bəzi oğullarını götürüb aparacaqlar və onlar Babil padşahının sarayında hərəmağası olacaq”».</verse>
+        <verse osisID='2Kgs.20.19'>Xizqiya Yeşayaya dedi: «Söylədiyin Rəbbin sözü yaxşı sözdür». Sonra dedi: «Heç olmasa mənim dövrümdə sülh və əmin-amanlıq olacaq. Bu, yaxşı deyilmi?» </verse>
+        <verse osisID='2Kgs.20.20'>Xizqiyanın qalan işləri, onun bütün hünəri, hovuz və su kəməri düzəldib suyu necə şəhərə gətirməsi barədə Yəhuda padşahlarının salnamələr kitabında yazılmışdır.</verse>
+        <verse osisID='2Kgs.20.21'>Xizqiya ataları ilə uyudu və yerinə oğlu Menaşşe padşah oldu.  </verse>
+      </chapter>
+      <chapter osisID='2Kgs.21'>
+        <verse osisID='2Kgs.21.1'>
+          Menaşşe padşah olduğu vaxt on iki yaşında idi və Yerusəlimdə əlli beş il padşahlıq etdi. Anasının adı Xefsivah idi.</verse>
+        <verse osisID='2Kgs.21.2'>O, İsrail övladlarının önündən Rəbbin qovduğu millətlərin etdikləri iyrənc işlər kimi Rəbbin gözündə pis olan işlər etdi.</verse>
+        <verse osisID='2Kgs.21.3'>Atası Xizqiyanın dağıtdığı səcdəgahları yenidən tikdi. İsrail padşahı Axav kimi Baal bütü üçün qurbangahlar qurdu və Aşera bütü düzəltdi, bütün səma cisimlərinə səcdə və qulluq etdi.</verse>
+        <verse osisID='2Kgs.21.4'>Rəbbin «adımı Yerusəlimdə qoyacağam» dediyi məbədində Menaşşe qurbangahlar tikməyə başladı.</verse>
+        <verse osisID='2Kgs.21.5'>Rəbbin məbədinin hər iki həyətində bütün səma cisimlərinə qurbangahlar düzəltdi.</verse>
+        <verse osisID='2Kgs.21.6'>O, oğlunu oda qurban verdi, gələcəyi dedi, baxıcılıq edib cindarlara və ruhçağıranlara müraciət etdi. Beləliklə, Rəbbin gözündə çoxlu pis işlər görərək Onu qəzəbləndirdi.</verse>
+        <verse osisID='2Kgs.21.7'>Düzəltdiyi oyma Aşera bütünü məbədə qoydu. Rəbb Davuda və oğlu Süleymana demişdi: «Bu məbəddə və bütün İsrail qəbilələrindən seçdiyim Yerusəlimdə Öz adımı əbədi qoyacağam.</verse>
+        <verse osisID='2Kgs.21.8'>Əgər Mənim onlara buyurduqlarıma və qulum Musanın onlara əmr etdiyi bütün Qanuna əməl etsələr, İsrailliləri atalarına verdiyim torpaqdan didərgin düşməyə qoymayacağam».</verse>
+        <verse osisID='2Kgs.21.9'>Ancaq onlar bu sözlərə qulaq asmadılar. İsrail övladlarının önündə Rəbbin məhv etdiyi millətlərdən də çox pis işlər etmək üçün Menaşşe onları yoldan çıxartdı. </verse>
+        <verse osisID='2Kgs.21.10'>Rəbb Öz qulları peyğəmbərlər vasitəsilə dedi:</verse>
+        <verse osisID='2Kgs.21.11'>«Yəhuda padşahı Menaşşe bu iyrənc işləri etməklə özündən əvvəlki Emorluların etdiklərindən də çox pislik etdi və bütləri ilə Yəhudalılara da günah etdirdi.</verse>
+        <verse osisID='2Kgs.21.12'>Buna görə də İsrailin Allahı Rəbb belə deyir: “Mən Yerusəlimin və Yəhudanın üzərinə elə bir bəla gətirəcəyəm ki, bunu eşidən hər kəsin qulaqları cingildəyəcək.</verse>
+        <verse osisID='2Kgs.21.13'>Samariyanı ölçdüyüm ipi və Axav nəslinin üstünə çəkdiyim şaqulu Yerusəlimin üzərinə də çəkəcəyəm. Bir nəfər boşqabı necə silib üzüstə çevirirsə, Mən də Yerusəlimi elə siləcəyəm.</verse>
+        <verse osisID='2Kgs.21.14'>İrsimin qalanlarından üz döndərəcəyəm, onları düşmənlərinə təslim edəcəyəm və düşmənləri onları soyub talan edəcək.</verse>
+        <verse osisID='2Kgs.21.15'>Çünki gözümdə pis olan işlər edirdilər və ataları Misirdən çıxdıqları gündən bu günə qədər Məni qəzəbləndirirdilər”». </verse>
+        <verse osisID='2Kgs.21.16'>Menaşşe Rəbbin gözündə pis olan işlər edərək Yəhudalılara etdirdiyi günahdan başqa çoxlu günahsız qan töküb Yerusəlimi başdan-başa qana buladı. </verse>
+        <verse osisID='2Kgs.21.17'>Menaşşenin qalan işləri, etdiyi hər şey və elədiyi günah barədə Yəhuda padşahlarının salnamələr kitabında yazılmışdır.</verse>
+        <verse osisID='2Kgs.21.18'>Menaşşe ataları ilə uyudu və öz sarayının bağçasında – Uzza bağçasında basdırıldı. Onun yerinə oğlu Amon padşah oldu. </verse>
+        <verse osisID='2Kgs.21.19'>Amon padşah olduğu vaxt iyirmi iki yaşında idi və Yerusəlimdə iki il padşahlıq etdi. Anası Yotvalı Xarusun qızı olub adı Meşullemet idi.</verse>
+        <verse osisID='2Kgs.21.20'>O, atası Menaşşenin etdiyi kimi Rəbbin gözündə pis olan işlər etdi.</verse>
+        <verse osisID='2Kgs.21.21'>Atasının yolu ilə gedib onun qulluq etdiyi bütlərə səcdə və qulluq etdi.</verse>
+        <verse osisID='2Kgs.21.22'>Atalarının Allahı Rəbbi tərk etdi və Rəbbin yolu ilə getmədi.</verse>
+        <verse osisID='2Kgs.21.23'>Amonun əyanları ona qəsd hazırladılar və padşahı sarayında öldürdülər.</verse>
+        <verse osisID='2Kgs.21.24'>Ölkə xalqı padşah Amona qəsd hazırlayanların hamısını qırdı və onun yerinə oğlu Yoşiyanı padşah etdi. </verse>
+        <verse osisID='2Kgs.21.25'>Amonun qalan işləri barədə Yəhuda padşahlarının salnamələr kitabında yazılmışdır.</verse>
+        <verse osisID='2Kgs.21.26'>O, Uzza bağçasında, öz qəbrində basdırıldı. Onun yerinə oğlu Yoşiya padşah oldu.  </verse>
+      </chapter>
+      <chapter osisID='2Kgs.22'>
+        <verse osisID='2Kgs.22.1'>
+            Yoşiya padşah olduğu vaxt səkkiz yaşında idi və Yerusəlimdə otuz bir il padşahlıq etdi. Anası Bosqatlı Adayanın qızı olub adı Yedida idi.</verse>
+        <verse osisID='2Kgs.22.2'>O, Rəbbin gözündə doğru olan işlər etdi, hər işdə babası Davudun yolu ilə gedərək ondan kənara çıxmadı. </verse>
+        <verse osisID='2Kgs.22.3'>Yoşiyanın padşahlığının on səkkizinci ilində padşah mirzə Meşullam oğlu Asalya oğlu Şafanı Rəbbin məbədinə göndərib dedi:</verse>
+        <verse osisID='2Kgs.22.4'>«Baş kahin Xilqiyanın yanına get. Qoy o, astanada keşik çəkənlərin xalqdan yığdıqları Rəbbin məbədinə gətirilən pulu tərəzidə çəksin.</verse>
+        <verse osisID='2Kgs.22.5'>Onu Rəbbin məbədinin işinə nəzarət edənlərə versinlər. Onlar da pulu məbədin uçuq yerlərini təmir etmək üçün Rəbbin məbədində olan işçilərə –</verse>
+        <verse osisID='2Kgs.22.6'>dülgərlərə, ustalara, bənnalara, məbədi təmir etmək üçün taxta və yonulmuş daş alanlara versinlər.</verse>
+        <verse osisID='2Kgs.22.7'>Ancaq əllərinə verilən pulun hesabı onlarla aparılmasın, çünki sədaqətlə çalışırlar». </verse>
+        <verse osisID='2Kgs.22.8'>Baş kahin Xilqiya mirzə Şafana dedi: «Rəbbin məbədində Qanun kitabını tapdım». Xilqiya kitabı Şafana verdi və Şafan onu oxudu.</verse>
+        <verse osisID='2Kgs.22.9'>Mirzə Şafan padşahın yanına gəldi və ona xəbər gətirib dedi: «Qulların məbəddə tapılan pulu boşaltdılar və onu Rəbbin məbədinin işinə nəzarət edənlərə verdilər».</verse>
+        <verse osisID='2Kgs.22.10'>Mirzə Şafan padşaha bildirib dedi: «Kahin Xilqiya mənə bir kitab verdi». Şafan onu padşahın önündə oxudu. </verse>
+        <verse osisID='2Kgs.22.11'>Padşah Qanun kitabının sözlərini eşidəndə paltarını cırdı.</verse>
+        <verse osisID='2Kgs.22.12'>Padşah kahin Xilqiyaya, Şafan oğlu Axiqama, Mikeya oğlu Akbora, mirzə Şafana və padşahın xidmətçisi Asayaya əmr edib dedi:</verse>
+        <verse osisID='2Kgs.22.13'>«Gedin, tapılmış bu kitabın sözlərinə görə mənim üçün, xalq və bütün Yəhuda üçün Rəbdən soruşun, çünki Rəbbin bizə qarşı alovlanmış qəzəbi böyükdür. Ona görə ki atalarımız bu kitabın sözlərinə qulaq asmamışdı və orada bizim üçün yazılmış bu şeylərə əməl etməmişdi». </verse>
+        <verse osisID='2Kgs.22.14'>Kahin Xilqiya, Axiqam, Akbor, Şafan və Asaya qadın peyğəmbər Xuldanın yanına getdilər. O, paltarlara baxan Harhas oğlu Tiqva oğlu Şallumun arvadı idi və Yerusəlimdə ikinci məhəllədə yaşayırdı. Onunla söhbət etdilər.</verse>
+        <verse osisID='2Kgs.22.15'>Qadın onlara dedi: «İsrailin Allahı Rəbb deyir: sizi Mənim yanıma göndərən adama söyləyin ki,</verse>
+        <verse osisID='2Kgs.22.16'>Rəbb belə deyir: “Mən Yəhuda padşahının oxuduğu kitabdakı bütün sözlərə görə bu yerə və burada yaşayanların üzərinə bəla gətirəcəyəm.</verse>
+        <verse osisID='2Kgs.22.17'>Onlar Məni tərk etdilər və başqa allahlara buxur yandıraraq bütün əməlləri ilə Məni qəzəbləndirdilər. Buna görə də bu yerə qarşı qəzəbim alovlanacaq və sönməyəcək”.</verse>
+        <verse osisID='2Kgs.22.18'>Ancaq Rəbdən soruşmaq üçün sizi göndərən Yəhuda padşahına söyləyin ki, İsrailin Allahı Rəbb belə deyir: “Sözlərimi dinlədin.</verse>
+        <verse osisID='2Kgs.22.19'>Mənim bu yer və orada yaşayanlar barədə ‹viranəlik və lənət olsun› deyə söylədiyim sözü eşidəndə ürəyin yumşaldı və Rəbbin önündə özünü aşağı tutdun, paltarını cırıb önümdə ağladın. Buna görə də Mən səni eşitdim” belə deyir Rəbb.</verse>
+        <verse osisID='2Kgs.22.20'>“Bundan ötrü Mən səni atalarına qoşacağam, rahatlıqla öz qəbrinə qoyulacaqsan və bu yerin üzərinə gətirəcəyim bütün bəlanı gözlərin görməyəcək”». Onlar bu xəbəri padşaha çatdırdılar.  </verse>
+      </chapter>
+      <chapter osisID='2Kgs.23'>
+        <verse osisID='2Kgs.23.1'>
+          Padşah Yəhuda və Yerusəlimin bütün ağsaqqallarını çağırtdırıb öz yanına topladı.</verse>
+        <verse osisID='2Kgs.23.2'>Padşah, onunla birgə bütün Yəhuda adamları, Yerusəlimdə yaşayanların hamısı, kahinlər, peyğəmbərlər və böyükdən kiçiyə qədər bütün xalq Rəbbin məbədinə qalxdı. O, Rəbbin məbədində tapılmış Əhd kitabının bütün sözlərini onlara eşitdirərək oxudu.</verse>
+        <verse osisID='2Kgs.23.3'>Padşah sütunun yanında dayandı. O, Rəbbin önündə əhd bağladı ki, Rəbbin ardınca gedib Onun əmrlərinə, göstərişlərinə, qaydalarına bütün qəlbi, bütün varlığı ilə əməl etsin və bu kitabda yazılmış əhdin sözlərini yerinə yetirsin. Bütün xalq da onunla birgə əhd bağladı. </verse>
+        <verse osisID='2Kgs.23.4'>Padşah baş kahin Xilqiyaya, müavin kahinlərə və astanada keşik çəkənlərə əmr etdi ki, Baal, Aşera və bütün səma cisimləri üçün düzəldilmiş şeylərin hamısını Rəbbin məbədindən çıxarsınlar. Onları Yerusəlimin kənarında olan Qidron vadisindəki tarlalarda yandırdı və küllərini Bet-Elə apardı.</verse>
+        <verse osisID='2Kgs.23.5'>O, Yəhuda şəhərlərində və Yerusəlimin ətrafında olan səcdəgahlarda buxur yandırmaq üçün Yəhuda padşahlarının qoyduqları kahinləri və Baala, günəşə, aya, bürclərə, bütün səma cisimlərinə buxur yandıranları işdən kənar etdi.</verse>
+        <verse osisID='2Kgs.23.6'>Aşera bütünü Rəbbin məbədindən Yerusəlimin kənarına, Qidron vadisinə çıxartdı. Onu Qidron vadisində yandırdı, əzib toz etdi və tozunu adi adamların qəbirləri üstünə səpələyib murdarladı.</verse>
+        <verse osisID='2Kgs.23.7'>Rəbbin məbədində məbəd fahişəliyi ilə məşğul olan kişilərin evlərini dağıtdı. Qadınlar orada Aşera üçün çadırlar toxuyurdular.</verse>
+        <verse osisID='2Kgs.23.8'>Yoşiya Yəhuda şəhərlərindən bütün kahinləri gətirtdi, Gevadan Beer-Şevaya qədər bu kahinlərin buxur yandırdıqları səcdəgahları murdar etdi. Şəhər rəisi Yeşuanın darvazasının girəcək yerində, sol tərəfdə olan şəhər darvazasındakı səcdəgahları dağıtdı.</verse>
+        <verse osisID='2Kgs.23.9'>Lakin səcdəgahların kahinləri Yerusəlimdə Rəbbin qurbangahına qalxmırdılar, amma qardaşları ilə birlikdə mayasız çörək yeyirdilər.</verse>
+        <verse osisID='2Kgs.23.10'>Yoşiya Ben-Hinnom dərəsində olan Tofeti murdar etdi ki, heç kəs oğlunu ya qızını Molek üçün oda qurban verməsin.</verse>
+        <verse osisID='2Kgs.23.11'>O, Rəbbin məbədinə, saray xidmətçisi Natan-Melekin həyətdə olan otağına Yəhuda padşahlarının günəşə həsr etdikləri atların gətirilməsinə son qoydu və günəş arabalarını odda yandırdı.</verse>
+        <verse osisID='2Kgs.23.12'>Axazın yuxarı otağının damında Yəhuda padşahlarının düzəltdiyi qurbangahları və Rəbbin məbədinin iki həyətində Menaşşenin düzəltdiyi qurbangahları da padşah dağıtdı. Onları orada qırıb əzdi və tozlarını Qidron vadisinə səpələdi.</verse>
+        <verse osisID='2Kgs.23.13'>Yerusəlimin şərq tərəfində, Həlak dağının cənub tərəfində Sidonluların iyrənc bütü Aştoret, Moavlıların iyrənc bütü Kemoş və Ammonluların iyrənc bütü Milkom üçün İsrail padşahı Süleymanın düzəltdiyi səcdəgahları padşah murdar etdi.</verse>
+        <verse osisID='2Kgs.23.14'>O, sütunları parça-parça etdi, Aşera bütlərini kəsdi və onların yerlərini insan sümükləri ilə doldurdu. </verse>
+        <verse osisID='2Kgs.23.15'>Həmçinin Bet-Eldə olan qurbangahı və İsrailə günah etdirmiş Nevat oğlu Yarovamın düzəltdiyi səcdəgahı dağıtdı. O, səcdəgahı yandırdı və əzib toz etdi, Aşera bütünü də yandırdı.</verse>
+        <verse osisID='2Kgs.23.16'>Yoşiya dönüb qarşısındakı dağda olan qəbirləri gördü və sümükləri qəbirlərdən götürtdü. Bu işləri qabaqcadan söyləyən Allah adamının dediyi Rəbbin sözünə görə onları qurbangah üzərində yandırıb onu murdar etdi.</verse>
+        <verse osisID='2Kgs.23.17'>Yoşiya dedi: «Orada gördüyüm abidə nədir?» Şəhərin adamları ona dedilər: «Yəhudadan gələn Allah adamının qəbridir. O, Bet-El qurbangahına qarşı sənin etdiyin bu işləri qabaqcadan söyləmişdi».</verse>
+        <verse osisID='2Kgs.23.18'>O dedi: «Ona toxunmayın, heç kəs onun sümüklərini narahat etməsin». Onun və Samariyadan gələn peyğəmbərin sümüklərinə toxunmadılar.</verse>
+        <verse osisID='2Kgs.23.19'>Yoşiya Samariya şəhərlərində olan bütün səcdəgahlardakı məbədləri aradan qaldırdı. İsrail padşahları bu məbədləri tikib Rəbbi qəzəbləndirmişdilər. O, Bet-Eldə etdiyi bütün işləri bu yerlərdə də etdi.</verse>
+        <verse osisID='2Kgs.23.20'>Yoşiya qurbangahların üstündə həmin səcdəgahlardakı bütün kahinləri qurban gətirdi və insan sümükləri yandırdı. Sonra Yerusəlimə qayıtdı. </verse>
+        <verse osisID='2Kgs.23.21'>Padşah bütün xalqa əmr edib dedi: «Bu Əhd kitabında yazıldığına görə Allahınız Rəbb üçün Pasxa bayramını keçirin».</verse>
+        <verse osisID='2Kgs.23.22'>İsrailə hökm edən hakimlərin dövründən bəri, İsrail və Yəhuda padşahlarının bütün dövrü boyu Pasxa bayramı belə keçirilməmişdi.</verse>
+        <verse osisID='2Kgs.23.23'>Ancaq Yoşiyanın padşahlığının on səkkizinci ilində bu Pasxa Rəbb üçün Yerusəlimdə keçirildi. </verse>
+        <verse osisID='2Kgs.23.24'>Bundan başqa, Yoşiya Rəbbin məbədində kahin Xilqiyanın tapdığı kitabda yazılan Qanunun sözlərinə əməl edərək cindarları və ruhçağıranları, ev bütlərini və başqa bütləri – Yəhuda ölkəsində və Yerusəlimdə gözünə dəyən bütün mənfur şeyləri məhv etdi.</verse>
+        <verse osisID='2Kgs.23.25'>Musanın bütün Qanununa görə bütün qəlbi, bütün varlığı, bütün gücü ilə onun kimi Rəbbə üz tutan bir padşah nə ondan əvvəl, nə də ondan sonra oldu. </verse>
+        <verse osisID='2Kgs.23.26'>Ancaq Menaşşenin Rəbbi qəzəbləndirmək üçün etdiyi bütün əməllərindən ötrü Rəbb Yəhudalılara qarşı alovlanan böyük qəzəbindən dönmədi.</verse>
+        <verse osisID='2Kgs.23.27'>Rəbb dedi: «İsrailliləri gözümün önündən rədd etdiyim kimi Yəhudalıları da rədd edəcəyəm, seçdiyim şəhər Yerusəlimdən və “adım orada olacaq” dediyim məbəddən üz döndərəcəyəm». </verse>
+        <verse osisID='2Kgs.23.28'>Yoşiyanın qalan işləri və etdiyi hər şey barədə Yəhuda padşahlarının salnamələr kitabında yazılmışdır.</verse>
+        <verse osisID='2Kgs.23.29'>Onun dövründə Misir padşahı firon Neko Fərat çayına tərəf Aşşur padşahının üstünə hücum etmək istədi. Padşah Yoşiya onunla qarşılaşmağa çıxdı. Firon Neko Yoşiya ilə Megiddoda qarşılaşıb onu öldürdü.</verse>
+        <verse osisID='2Kgs.23.30'>Adamları onun cəsədini Megiddodan götürüb araba ilə Yerusəlimə gətirdilər və öz qəbrində basdırdılar. Ölkə xalqı Yoşiyanın oğlu Yehoaxazı götürüb məsh etdi və onu atasının yerinə padşah etdi. </verse>
+        <verse osisID='2Kgs.23.31'>Yehoaxaz padşah olduğu vaxt iyirmi üç yaşında idi və Yerusəlimdə üç ay padşahlıq etdi. Anası Livnalı Yeremyanın qızı olub adı Xamutal idi.</verse>
+        <verse osisID='2Kgs.23.32'>O, atalarının etdiyi kimi Rəbbin gözündə pis olan işlər etdi.</verse>
+        <verse osisID='2Kgs.23.33'>Firon Neko Xamat torpağındakı Rivlada onu əsir aldı ki, Yerusəlimdə padşahlıq edə bilməsin. O, ölkə üzərinə bir talant qızıl və yüz talant gümüş miqdarında xərac qoydu.</verse>
+        <verse osisID='2Kgs.23.34'>Firon Neko Yoşiyanın oğlu Elyaqimi atası Yoşiyanın yerinə padşah etdi və onun adını dəyişdirib Yehoyaqim qoydu. Yehoaxazı isə götürüb apardı. Yehoaxaz Misirə gəlib orada öldü.</verse>
+        <verse osisID='2Kgs.23.35'>Yehoyaqim firona qızıl-gümüş verdi və fironun istədiyi qədər gümüş vermək üçün ölkə üzərinə vergi qoydu. O, firon Nekoya vermək üçün ölkə xalqından hər kəsə təyin olunmuş məbləğə görə qızıl-gümüş alırdı. </verse>
+        <verse osisID='2Kgs.23.36'>Yehoyaqim padşah olduğu vaxt iyirmi beş yaşında idi və Yerusəlimdə on bir il padşahlıq etdi. Anası Rumalı Pedayanın qızı olub adı Zevida idi.</verse>
+        <verse osisID='2Kgs.23.37'>O, atalarının etdiyi kimi Rəbbin gözündə pis olan işlər etdi.  </verse>
+      </chapter>
+      <chapter osisID='2Kgs.24'>
+        <verse osisID='2Kgs.24.1'>Yehoyaqimin dövründə Babil padşahı Navuxodonosor onun üzərinə hücum etdi. Yehoyaqim üç il ona tabe oldu, amma sonra ona qulluq etməkdən boyun qaçırdı.</verse>
+        <verse osisID='2Kgs.24.2'>Xaldeylilərin, Aramlıların, Moavlıların və Ammonluların qoşunlarını Rəbb ona qarşı göndərdi; Rəbbin Öz qulları peyğəmbərlər vasitəsilə söylədiyi sözünə görə Yəhudanı məhv etmək üçün onun üzərinə göndərdi.</verse>
+        <verse osisID='2Kgs.24.3'>Həqiqətən, Rəbbin sözünə görə Yəhudanın başına bu iş gəldi ki, Menaşşenin etdiyi bütün günahlardan ötrü Rəbb onları hüzurundan rədd etsin.</verse>
+        <verse osisID='2Kgs.24.4'>Çünki onun günahsız qan töküb Yerusəlimi qanla doldurmasını Rəbb bağışlamaq istəmədi. </verse>
+        <verse osisID='2Kgs.24.5'>Yehoyaqimin qalan işləri və etdiyi hər şey barədə Yəhuda padşahlarının salnamələr kitabında yazılmışdır.</verse>
+        <verse osisID='2Kgs.24.6'>Yehoyaqim ataları ilə uyudu və yerinə oğlu Yehoyakin padşah oldu.</verse>
+        <verse osisID='2Kgs.24.7'>Misir padşahı bir daha öz ölkəsindən kənara çıxmadı, çünki Misir vadisindən Fərat çayına qədər Misir padşahının əvvəllər işğal etdiyi hər yeri Babil padşahı tutmuşdu. </verse>
+        <verse osisID='2Kgs.24.8'>Yehoyakin padşah olduğu vaxt on səkkiz yaşında idi və Yerusəlimdə üç ay padşahlıq etdi. Anası Yerusəlimli Elnatanın qızı olub adı Nexuşta idi.</verse>
+        <verse osisID='2Kgs.24.9'>Yehoyakin atasının etdiyi kimi Rəbbin gözündə pis olan işlər etdi. </verse>
+        <verse osisID='2Kgs.24.10'>O zaman Babil padşahı Navuxodonosorun qoşunları Yerusəlimə yaxınlaşdı. Şəhər mühasirəyə alındı.</verse>
+        <verse osisID='2Kgs.24.11'>Qoşunlar şəhəri mühasirəyə alanda Babil padşahı Navuxodonosor onun ətrafına gəldi.</verse>
+        <verse osisID='2Kgs.24.12'>Yəhuda padşahı Yehoyakin anası, əyanları, rəisləri və saray xidmətçiləri ilə birlikdə Babil padşahına təslim oldu. Padşahlığının səkkizinci ilində Babil padşahı onu əsir aldı.</verse>
+        <verse osisID='2Kgs.24.13'>Rəbbin söylədiyi kimi Rəbbin məbədinin və sarayın xəzinələrini oradan çıxartdı. İsrail padşahı Süleymanın Rəbbin məbədi üçün düzəltdiyi bütün qızıl şeyləri parça-parça etdi.</verse>
+        <verse osisID='2Kgs.24.14'>O bütün Yerusəlimliləri, bütün rəisləri, igid adamların hamısını – cəmi on min nəfəri və bütün ustalarla sənətkarları sürgün etdi. Ölkədə yoxsul xalqdan başqa heç kəs qalmadı.</verse>
+        <verse osisID='2Kgs.24.15'>Yehoyakini də Babilə sürgün etdi. Padşahın anasını, arvadlarını, saray xidmətçilərini və ölkənin adlı-sanlı adamlarını Yerusəlimdən sürgün edib Babilə apardı.</verse>
+        <verse osisID='2Kgs.24.16'>Babil padşahı sayı yeddi min nəfər olan bütün döyüşçüləri, min nəfər ustanı və sənətkarı – müharibədə iş görən bütün bacarıqlı adamları əsir edib Babilə gətirdi.</verse>
+        <verse osisID='2Kgs.24.17'>Babil padşahı Yehoyakinin yerinə əmisi Mattanyanı padşah etdi və onun adını dəyişib Sidqiya qoydu. </verse>
+        <verse osisID='2Kgs.24.18'>Sidqiya padşah olduğu vaxt iyirmi bir yaşında idi və Yerusəlimdə on bir il padşahlıq etdi. Anası Livnalı Yeremyanın qızı olub adı Xamutal idi.</verse>
+        <verse osisID='2Kgs.24.19'>O, Yehoyaqimin etdiyi kimi Rəbbin gözündə pis olan işlər etdi.</verse>
+        <verse osisID='2Kgs.24.20'>Həqiqətən, Rəbbin qəzəbinə görə Yerusəlimin və Yəhudanın başına bu iş gəldi və Rəbb onları hüzurundan kənar etdi. </verse>
+      </chapter>
+      <chapter osisID='2Kgs.25'>
+        <verse osisID='2Kgs.25.1'>Onun padşahlığının doqquzuncu ilində, onuncu ayın onuncu günü Babil padşahı Navuxodonosor bütün ordusu ilə Yerusəlimin üzərinə hücum etdi, oraya qarşı ordugah qurdu və ətrafında mühasirə divarları düzəltdi.</verse>
+        <verse osisID='2Kgs.25.2'>Padşah Sidqiyanın hakimiyyətinin on birinci ilinə qədər şəhər mühasirədə qaldı.</verse>
+        <verse osisID='2Kgs.25.3'>Dördüncü ayın doqquzuncu günü şəhərdə aclıq elə gücləndi ki, ölkə xalqının yeməyə çörəyi qalmadı.</verse>
+        <verse osisID='2Kgs.25.4'>Həmin vaxt şəhərin divarlarında dəlik açıldı. Gecə ikən Xaldeylilər şəhərin ətrafında olanda padşah və bütün döyüşçülər padşah bağçasının yanında olan iki divar arasındakı darvazadan çıxıb Arava yolu ilə getdilər.</verse>
+        <verse osisID='2Kgs.25.5'>Ancaq Xaldeylilərin qoşunu padşahı təqib etdi və Yerixo düzənliklərində ona çatdı. Padşahın ordusu onu tərk edib dağılmışdı.</verse>
+        <verse osisID='2Kgs.25.6'>Padşahı tutub Rivlaya, Babil padşahının yanına apardılar və onun haqqında hökm verdilər.</verse>
+        <verse osisID='2Kgs.25.7'>Sidqiyanın oğullarını gözü qabağında öldürdülər, özünün isə gözlərini çıxartdılar və qandallayıb Babilə apardılar. </verse>
+        <verse osisID='2Kgs.25.8'>Babil padşahı Navuxodonosorun padşahlığının on doqquzuncu ilində, beşinci ayın yeddinci günü Babil padşahının əyanı olan mühafizəçilər rəisi Nevuzaradan Yerusəlimə gəldi.</verse>
+        <verse osisID='2Kgs.25.9'>O, Rəbbin məbədinə, padşah sarayına, Yerusəlimdəki bütün evlərə od vurub bütün əsas binaları yandırdı.</verse>
+        <verse osisID='2Kgs.25.10'>Mühafizəçilər rəisi ilə birgə gələn bütün Xaldey ordusu Yerusəlimin ətrafındakı divarları uçurtdu.</verse>
+        <verse osisID='2Kgs.25.11'>Mühafizəçilər rəisi Nevuzaradan şəhərdə qalan xalqı, Babil padşahının tərəfinə keçən fərariləri və başqa əhalini sürgün etdi.</verse>
+        <verse osisID='2Kgs.25.12'>Ancaq o, bağçılıq və əkinçilik etmək üçün ölkədəki yoxsulların bir hissəsini orada saxladı. </verse>
+        <verse osisID='2Kgs.25.13'>Xaldeylilər Rəbbin məbədində olan tunc sütunları, dayaqları və tunc hovuzu parçalayıb tunclarını Babilə apardılar.</verse>
+        <verse osisID='2Kgs.25.14'>İbadət zamanı işlədilən qazanları, kürəkləri, maqqaşları, nimçələri və bütün tunc qabları götürüb apardılar.</verse>
+        <verse osisID='2Kgs.25.15'>Mühafizəçilər rəisi xalis qızıldan və gümüşdən olan bütün şeyləri – buxurdanları və piyalələri götürdü.</verse>
+        <verse osisID='2Kgs.25.16'>Rəbbin məbədi üçün Süleymanın düzəltdiyi iki sütunda, hovuzda və dayaqlarda olan bütün tuncun ağırlığı hesaba gəlməzdi.</verse>
+        <verse osisID='2Kgs.25.17'>Bir sütunun hündürlüyü on səkkiz qulac idi və üzərində tunc başlıq var idi. Başlığın hündürlüyü üç qulac idi. Bu başlığın ətrafında hörmə tor və narlar var idi. Hər şey tuncdan düzəldilmişdi. O biri sütun da hörmə torla birgə bu cür idi. </verse>
+        <verse osisID='2Kgs.25.18'>Mühafizəçilər rəisi başçı kahin Serayanı, başçı kahinin müavini Sefanyanı və astanada keşik çəkən üç nəfəri əsir aldı.</verse>
+        <verse osisID='2Kgs.25.19'>Şəhərdə qalan döyüşçülərin sərkərdəsini, padşahın məsləhətçilərindən şəhərdə olan beş nəfəri, ölkə xalqını orduya yazan sərkərdənin mirzəsini və ölkə xalqından şəhərdə qalan altmış nəfəri əsir tutdu.</verse>
+        <verse osisID='2Kgs.25.20'>Mühafizəçilər rəisi Nevuzaradan onları götürüb Rivlaya, Babil padşahının yanına apardı.</verse>
+        <verse osisID='2Kgs.25.21'>Babil padşahı Xamat torpağında olan Rivlada onları öldürdü. Beləcə Yəhuda xalqı öz ölkəsindən sürgün olundu. </verse>
+        <verse osisID='2Kgs.25.22'>Yəhuda ölkəsində Babil padşahı Navuxodonosorun toxunmadığı qalan xalqa gəlincə, padşah Şafan oğlu Axiqam oğlu Gedalyanı onların üzərində vali qoydu.</verse>
+        <verse osisID='2Kgs.25.23'>Babil padşahının Gedalyanı vali qoyduğunu eşitdikdə bütün qoşun başçıları və onların adamları – Netanya oğlu İsmail, Qareah oğlu Yoxanan, Netofalı Tanxumet oğlu Seraya, bir Maakalının oğlu Yaazanya və onların döyüşçüləri Mispaya, Gedalyanın yanına gəldilər.</verse>
+        <verse osisID='2Kgs.25.24'>Gedalya onların özlərinə və adamlarına and içib dedi: «Xaldeylilərdən qorxmayın. Ölkədə qalıb Babil padşahına qulluq edin. Belə etsəniz, sizin üçün yaxşı olar».</verse>
+        <verse osisID='2Kgs.25.25'>Yeddinci ayda padşah nəslindən olan Elişama oğlu Netanya oğlu İsmail on nəfərlə birgə gəlib Gedalyanı öldürdü. Onlar Mispada Gedalyanın yanında olan Yəhudalıları və Xaldeyliləri də öldürdülər.</verse>
+        <verse osisID='2Kgs.25.26'>Böyükdən kiçiyə qədər bütün xalq və qoşun başçıları qalxıb Misirə qaçdı, çünki Xaldeylilərdən qorxurdular. </verse>
+        <verse osisID='2Kgs.25.27'>Yəhuda padşahı Yehoyakinin sürgündə olmasının otuz yeddinci ilində Evil-Merodak Babil padşahı oldu. Həmin ilin on ikinci ayının iyirmi yeddinci günü Evil-Merodak Yəhuda padşahı Yehoyakinə mərhəmət göstərərək onu zindandan azad etdi.</verse>
+        <verse osisID='2Kgs.25.28'>Onunla mehribanlıqla söhbət etdi və onun üçün özü ilə birgə Babildə olan padşahların taxtlarından yuxarı bir taxt qoydurdu.</verse>
+        <verse osisID='2Kgs.25.29'>Yehoyakin həbsxana paltarlarını əynindən çıxartdı. O yaşadığı müddətdə padşahın süfrəsində yemək yeyərdi.</verse>
+        <verse osisID='2Kgs.25.30'>Bütün ömrü boyu ona padşah tərəfindən gündəlik azuqə verilirdi.  </verse>
+      </chapter>
+    </div></osisText>
+</osis>

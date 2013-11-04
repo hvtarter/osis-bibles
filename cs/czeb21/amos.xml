@@ -1,0 +1,261 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace'>
+  <osisText osisRefWork='Bible' osisIDWork='CzeB21' xml:lang='cs'>
+    <header>
+      <revisionDesc>
+        <date>2010-02-26</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='CzeB21'>
+        <title>Czech Bible, Překlad 21. století</title>
+        <contributor/>
+        <creator>Mod2Zef (4)</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject/>
+        <date>2009-07-31</date>
+        <description>Bible, Překlad 21. století  vedoucí projektu Alexandr Flek  odborná spolupráce Jiří Hedánek, Pavel Hoffman, Zdeněk Sýkora  Přeloženo z hebrejštiny, aramejštiny, řečtiny  Vydání první  (c) 2009 Biblion, o. s.  www.bible21.org  www.bible21.cz   Překlad 21. století přináší nadčasové poselství Bible v současné, čtivé češtině. Usiluje o maximální věrnost původním hebrejským, aramejským a řeckým textům, zároveň však chce oslovit dnešní čtenáře, ať už jsou zvyklí čerpat z této knihy inspiraci pro každý den, anebo ji otevírají poprvé.</description>
+        <publisher/>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>CzeB21</identifier>
+        <source>no entry TextSource in sword.conf found</source>
+        <language type='IETF'>cs</language>
+        <relation/>
+        <coverage>provide the bible to the nations of the world</coverage>
+        <rights>Copyrighted; Permission to distribute granted to CrossWire</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='Amos'>
+      <chapter osisID='Amos.1'>
+        <verse osisID='Amos.1.1'>Slova Amose, jednoho z tekojských pastevců. Dva roky před zemětřesením, za vlády judského krále Uziáše a izraelského krále Jeroboáma, syna Jehoašova, měl vidění o Izraeli.</verse>
+        <verse osisID='Amos.1.2'>Říkal: Hospodin bude ze Sionu řvát, burácet bude z Jeruzaléma! Vyprahnou louky pastýřů, uschne i vrchol Karmelu.</verse>
+        <verse osisID='Amos.1.3'>Toto praví Hospodin: Damašek hřešil trojnásob, čtyřnásob - už toho mám dost! Za to, že Gileáda mlátili cepy okovanými,</verse>
+        <verse osisID='Amos.1.4'>sešlu na Chazaelův dům oheň, aby pohltil Ben-hadadovy paláce.</verse>
+        <verse osisID='Amos.1.5'>Rozlámu závoru Damašku; odstraním trůnícího v Údolí hříchu, třímajícího žezlo v Bet-edenu. Aramejský lid bude vyhnán do Kíru, praví Hospodin.</verse>
+        <verse osisID='Amos.1.6'>Toto praví Hospodin: Gaza hřešila trojnásob, čtyřnásob - už toho mám dost! Za to, že vyháněli všechen lid a prodávali je Edomským,</verse>
+        <verse osisID='Amos.1.7'>sešlu na hradby Gazy oheň, aby pohltil její paláce.</verse>
+        <verse osisID='Amos.1.8'>Odstraním toho, kdo trůní v Ašdodu, kdo třímá žezlo v Aškelonu. Obrátím svou ruku proti Ekronu a zbytky Filištínů zahynou, praví Panovník Hospodin.</verse>
+        <verse osisID='Amos.1.9'>Toto praví Hospodin: Týr hřešil trojnásob, čtyřnásob - už toho mám dost! Za to, že prodávali vyhnance Edomským a na bratrskou smlouvu ani nevzpomněli,</verse>
+        <verse osisID='Amos.1.10'>sešlu na hradby Týru oheň, aby pohltil jeho paláce.</verse>
+        <verse osisID='Amos.1.11'>Toto praví Hospodin: Edom hřešil trojnásob, čtyřnásob - už toho mám dost! Za to, že bratra stíhal mečem a všechen soucit potlačil, neustále jen soptil hněvem, dál a dál ve svém zuření -</verse>
+        <verse osisID='Amos.1.12'>za to sešlu na Teman oheň, aby pohltil paláce v Bosře.</verse>
+        <verse osisID='Amos.1.13'>Toto praví Hospodin: Amonci hřešili trojnásob, čtyřnásob - už toho mám dost! Za to, že v Gileádu rozpárali těhotné, aby rozšiřovali své hranice,</verse>
+        <verse osisID='Amos.1.14'>zapálím na hradbách Raby oheň, aby pohltil její paláce uprostřed vřavy v den boje, uprostřed bouře v den vichřice.</verse>
+        <verse osisID='Amos.1.15'>Jejich král půjde do vyhnanství a jeho velmoži spolu s ním, praví Hospodin.</verse>
+      </chapter>
+      <chapter osisID='Amos.2'>
+        <verse osisID='Amos.2.1'>Toto praví Hospodin: Moáb hřešil trojnásob, čtyřnásob - už toho mám dost! Za to, že kosti edomského krále spálili na prášek,</verse>
+        <verse osisID='Amos.2.2'>sešlu na Moába oheň, aby pohltil keriotské paláce. Moáb zahyne uprostřed vřavy, válečného křiku a troubení.</verse>
+        <verse osisID='Amos.2.3'>Odstraním z jeho středu soudce, všechny jeho velmože pobiji spolu s ním, praví Hospodin.</verse>
+        <verse osisID='Amos.2.4'>Toto praví Hospodin: Juda hřešil trojnásob, čtyřnásob - už toho mám dost! Za to, že Hospodinův zákon zavrhli a neřídili se jeho pravidly, že se dali svést svými podvody, za kterými už jejich předci šli,</verse>
+        <verse osisID='Amos.2.5'>za to sešlu na Judu oheň, aby pohltil jeruzalémské paláce.</verse>
+        <verse osisID='Amos.2.6'>Toto praví Hospodin: Izrael hřešil trojnásob, čtyřnásob - už toho mám dost! Nevinné prodávají za peníz a ubohé za dva sandály.</verse>
+        <verse osisID='Amos.2.7'>Chudé zašlapávají do země a ponížené krátí na právech. Za nevěstkou chodí otec i syn, aby mé svaté jméno prznili.</verse>
+        <verse osisID='Amos.2.8'>Při kdejakém oltáři se na zabavených pláštích válejí a v chrámě svého boha pijí víno vybrané na pokutách.</verse>
+        <verse osisID='Amos.2.9'>Já jsem před nimi Emorejce porazil, ač byli jako cedry vysocí a jako duby mohutní. Zničil jsem je shora od koruny až dolů po kořeny.</verse>
+        <verse osisID='Amos.2.10'>Já jsem vás vyvedl z Egypta a čtyřicet let po poušti vedl vás, aby vám emorejská země připadla.</verse>
+        <verse osisID='Amos.2.11'>Z vašich synů jsem probouzel proroky a z vašich mladíků nazíry. Copak to tak není, Izraelci? praví Hospodin.</verse>
+        <verse osisID='Amos.2.12'>Vy jste však nazíry napájeli vínem, prorokům jste přikazovali: "Neprorokujte!"</verse>
+        <verse osisID='Amos.2.13'>Hle, já vás k zemi přitlačím jako těžký vůz plný obilí.</verse>
+        <verse osisID='Amos.2.14'>Běžec nebude mít kam utéct, silákovi síla nezbude, hrdina nezachrání se.</verse>
+        <verse osisID='Amos.2.15'>Neobstojí ani lukostřelec, rychlonohý posel neunikne, jezdec na koni nezachrání se.</verse>
+        <verse osisID='Amos.2.16'>Nejstatečnější hrdina v ten den bude nahý utíkat, praví Hospodin.</verse>
+      </chapter>
+      <chapter osisID='Amos.3'>
+        <verse osisID='Amos.3.1'>Slyšte, Izraelci, slovo, jež Hospodin mluví proti vám - proti celé té čeládce, kterou jsem vyvedl z Egypta:</verse>
+        <verse osisID='Amos.3.2'>Jedině vás jsem vyvolil ze všech čeledí na zemi, a proto s vámi zúčtuji za všechen váš hřích!</verse>
+        <verse osisID='Amos.3.3'>Mohou snad jít dva společně, když nejsou ve shodě?</verse>
+        <verse osisID='Amos.3.4'>Řve snad v divočině lev, když nemá úlovek? Vrčí snad ve svém doupěti, když kořist nelapil?</verse>
+        <verse osisID='Amos.3.5'>Padne snad do pasti na zem pták, když chybí návnada? Sklapne snad někdy past, aniž by kořist lapila?</verse>
+        <verse osisID='Amos.3.6'>Když se ve městě troubí na poplach, copak lid nemá strach? Když se ve městě stane neštěstí, copak to nedopustil Hospodin?</verse>
+        <verse osisID='Amos.3.7'>Jistě! Panovník Hospodin nepůsobí nic, aniž sdílí své tajemství se svými služebníky, proroky.</verse>
+        <verse osisID='Amos.3.8'>Lev řve, kdo by se nebál? Panovník Hospodin mluví, kdo by neprorokoval?</verse>
+        <verse osisID='Amos.3.9'>Na palácích v Ašdodu zvolejte, vyhlaste na palácích v Egyptě: Shromážděte se na hory Samaří - jen se podívejte na ten zmatek, na to vykořisťování!</verse>
+        <verse osisID='Amos.3.10'>Jednat správně jsou neschopní, praví Hospodin. To, co hromadí ve svých palácích, získali násilím a loupeží!</verse>
+        <verse osisID='Amos.3.11'>Nuže, toto praví Panovník Hospodin: Tuto zem obklíčí protivník, strhne tvé pevnosti a tvé paláce vyplení.</verse>
+        <verse osisID='Amos.3.12'>Toto praví Hospodin: Jako když pastýř vyrve z tlamy lva jen dvě nohy anebo kus ucha, tak budou vyrváni Izraelci, kteří si hoví na divanech v Samaří, na damaškových polštářích.</verse>
+        <verse osisID='Amos.3.13'>Slyšte to a varujte dům Jákobův, praví Panovník Hospodin, Bůh zástupů:</verse>
+        <verse osisID='Amos.3.14'>V den, kdy s Izraelem zúčtuji za jeho vzbouření, zúčtuji také s betelskými oltáři: Rohy oltáře budou odsekány a popadají k zemi.</verse>
+        <verse osisID='Amos.3.15'>Udeřím na zimní dům tak jako na letní a zřítí se domy ze slonoviny; ty skvělé domy vymizí, praví Hospodin.</verse>
+      </chapter>
+      <chapter osisID='Amos.4'>
+        <verse osisID='Amos.4.1'>Vy, bášanské krávy, tohle poslyšte, vy, jež se na samařské hoře pasete, vy, které utiskujete ubohé, vy, které chudé drtíte a manželům říkáte: "Přines, ať pijeme!"</verse>
+        <verse osisID='Amos.4.2'>Panovník Hospodin přísahá při své svatosti: Hle, přijdou na vás dny, kdy vás potáhnou na hácích a vaše děti na udicích!</verse>
+        <verse osisID='Amos.4.3'>Jednu za druhou vás odvedou skrz hradbu zbořenou a k Harmonu vás poženou, praví Hospodin.</verse>
+        <verse osisID='Amos.4.4'>Jděte si do Bet-elu zahřešit, v Gilgalu hřešte ještě víc! Ráno co ráno přinášejte oběti a každé tři dny desátky.</verse>
+        <verse osisID='Amos.4.5'>Palte kvašené chleby jako oběť vděčnosti a hlučně pokřikujte o své štědrosti - tak to přece máte, Izraelci, rádi, praví Panovník Hospodin.</verse>
+        <verse osisID='Amos.4.6'>Ve všech vašich městech jsem způsobil, že jste co do úst neměli; ve všech vašich vesnicích byl nedostatek potravy. A přesto jste se ke mně nevrátili, praví Hospodin.</verse>
+        <verse osisID='Amos.4.7'>Odepřel jsem vám také déšť, když do žně zbývaly tři měsíce. Jedno město jsem skrápěl deštěm, druhému jsem jej však odepřel; jeden díl země byl zavlažen, druhý však uschl bez deště.</verse>
+        <verse osisID='Amos.4.8'>Ze dvou tří měst se k dalšímu plahočili, aby se vody napili, uhasit žízeň ale nemohli. A přesto jste se ke mně nevrátili, praví Hospodin.</verse>
+        <verse osisID='Amos.4.9'>Vaše zahrady a vinice jsem bil znovu a znovu plísní a snětí; vaše fíky a olivy žraly housenky. A přesto jste se ke mně nevrátili, praví Hospodin.</verse>
+        <verse osisID='Amos.4.10'>Poslal jsem na vás mor jako na Egypt, vaše mladíky jsem mečem bil, vaše koně byli zajati, vaše tábory jsem puchem naplnil. A přesto jste se ke mně nevrátili, praví Hospodin.</verse>
+        <verse osisID='Amos.4.11'>Já Bůh jsem mezi vámi působil zkázu, jako když jsem rozvrátil Sodomu a Gomoru; byli jste jako oharek vyrvaný z plamenů. A přesto jste se ke mně nevrátili, praví Hospodin.</verse>
+        <verse osisID='Amos.4.12'>Tak tedy s tebou, Izraeli, naložím, a protože tak s tebou naložím, připrav se, Izraeli, setkat s Bohem svým!</verse>
+        <verse osisID='Amos.4.13'>Hle - tvůrce hor a stvořitel větru, jenž oznamuje člověku své myšlenky, ten, který tvoří svítání i tmu a překračuje zemské výšiny, má jméno Hospodin, Bůh zástupů.</verse>
+      </chapter>
+      <chapter osisID='Amos.5'>
+        <verse osisID='Amos.5.1'>Slyšte slovo, jež pronáším nad vámi - žalozpěv nad domem Izraele:</verse>
+        <verse osisID='Amos.5.2'>Panna izraelská padne a víckrát nevstane. Opuštěna bude v zemi své, nikdo ji nezvedne.</verse>
+        <verse osisID='Amos.5.3'>Toto praví Panovník Hospodin domu Izraele: Městu, jež vytáhne s tisícem, jen sto jich zůstane a tomu, jež se stem vytáhne, zůstane jen deset.</verse>
+        <verse osisID='Amos.5.4'>Toto praví Hospodin domu Izraele: Hledejte mne, ať žijete!</verse>
+        <verse osisID='Amos.5.5'>Nehledejte Bet-el, do Gilgalu nechoďte, do Beer-šeby neputujte. Gilgal totiž bude vysídlen a z Bet-elu nic nezbude.</verse>
+        <verse osisID='Amos.5.6'>Hledejte Hospodina, ať žijete! Ať se na dům Josefův nevrhne jak oheň, který stravuje, který nikdo v Bet-elu uhasit nemůže!</verse>
+        <verse osisID='Amos.5.7'>Vy ale obracíte právo v pelyněk a spravedlnost k zemi srážíte.</verse>
+        <verse osisID='Amos.5.8'>Ten, který stvořil Plejády a Orion, který obrací stín smrti na jitro a den pak zase stmívá v noc, ten, který přivolává mořské vody a vylévá je na zemi, má jméno Hospodin.</verse>
+        <verse osisID='Amos.5.9'>Do zkázy umí vrhnout mocného, záhuba přijde i na pevnost!</verse>
+        <verse osisID='Amos.5.10'>Vy ale nenávidíte toho, kdo soudí v bráně, štítíte se toho, kdo mluví pravdivě.</verse>
+        <verse osisID='Amos.5.11'>Protože dupete po chudácích a nutíte je odvádět daně z obilí, nebudete bydlet v těch svých palácích, které jste si postavili z kamení; z těch výtečných vinic, co jste sázeli, nebudete moci víno pít.</verse>
+        <verse osisID='Amos.5.12'>Jen já vím, kolik je vašich vin a jak hrozný je váš hřích. Nevinné sužujete, berete úplatek, ubohé v bráně krátíte na právech.</verse>
+        <verse osisID='Amos.5.13'>Rozumný bude v té době mlčet - ty časy budou zlé.</verse>
+        <verse osisID='Amos.5.14'>Hledejte dobré, a ne zlé, ať žijete! Hospodin, Bůh zástupů, pak s vámi bude, jak říkáte.</verse>
+        <verse osisID='Amos.5.15'>Zlo nenáviďte a dobro milujte, u soudu v bráně právo podpořte - snad se Hospodin, Bůh zástupů, smiluje nad tím, co z Josefa zůstane.</verse>
+        <verse osisID='Amos.5.16'>Nuže, toto praví Panovník Hospodin, Bůh zástupů: Nářek bude znít na všech prostranstvích, "Ach, běda!" bude slyšet na všech ulicích. Rolníky povolají k oplakávání a znalce žalozpěvů k truchlení.</verse>
+        <verse osisID='Amos.5.17'>Nářek bude znít na všech vinicích, až projdu mezi vámi, praví Hospodin.</verse>
+        <verse osisID='Amos.5.18'>Běda těm, kteří touží po Hospodinově dni! K čemu vám bude Hospodinův den? Přijde s tmou, a ne se světlem!</verse>
+        <verse osisID='Amos.5.19'>Jako by někdo utíkal před lvem a potkal by se s medvědem; jako by se doma opřel rukou o zeď a byl by uštknut hadem.</verse>
+        <verse osisID='Amos.5.20'>Hospodinův den nepřinese světlo, ale tmu, černotu bez jediného paprsku!</verse>
+        <verse osisID='Amos.5.21'>Nenávidím vaše svátky, jsou mi odporné, vaše shromáždění nemohu vydržet!</verse>
+        <verse osisID='Amos.5.22'>Když mi přinášíte zápalné a moučné oběti, mně se to nelíbí. Na pokojné oběti z vašich dobytčat se nechci ani podívat.</verse>
+        <verse osisID='Amos.5.23'>S rámusem svých písní mě nechte být, nechci poslouchat vaše hraní na loutny!</verse>
+        <verse osisID='Amos.5.24'>Ať se valí právo jako mocná řeka, spravedlnost jako proud, jenž nevysychá!</verse>
+        <verse osisID='Amos.5.25'>Přinášeli jste mi oběti a dary těch čtyřicet let na poušti, dome izraelský?</verse>
+        <verse osisID='Amos.5.26'>Nosili jste svého "krále" Sakúta a hvězdu svého "boha" Saturna - obrazy, jež jste si museli sami udělat?</verse>
+        <verse osisID='Amos.5.27'>Proto vás vystěhuji až za Damašek, praví Hospodin, Bůh zástupů - tak se jmenuje.</verse>
+      </chapter>
+      <chapter osisID='Amos.6'>
+        <verse osisID='Amos.6.1'>Běda těm, kdo mají na Sionu klid, běda sebejistým na hoře Samaří! Máte se za výkvět prvního mezi národy, celý dům Izraele chodí za vámi.</verse>
+        <verse osisID='Amos.6.2'>Na Kalne se jděte podívat a odtud na Veliký Chamát a pak dolů na filištínský Gat. Jste lepší než tato království? Mají snad větší území než vy?</verse>
+        <verse osisID='Amos.6.3'>Zlý den byste chtěli odvrátit, nastolujete však násilí.</verse>
+        <verse osisID='Amos.6.4'>Vyleháváte na lůžkách slonových, povalujete se na svých polštářích. Cpete se výběrovým skopovým a nejšťavnatějším telecím.</verse>
+        <verse osisID='Amos.6.5'>Vyjete u loutny, jako byste byli David, loudíte tóny na hudebních nástrojích.</verse>
+        <verse osisID='Amos.6.6'>Pijete víno plnými miskami, mažete se nejjemnějšími oleji a zkáza Josefa vás vůbec netrápí.</verse>
+        <verse osisID='Amos.6.7'>Proto budete vyhnáni mezi prvními, bude konec vašim hostinám i válení!</verse>
+        <verse osisID='Amos.6.8'>Panovník Hospodin přísahá sám při sobě - Hospodin, Bůh zástupů, prohlašuje: Z Jákobovy pýchy se mi dělá špatně, jeho paláce jsou mi odporné. Proto to město vydám v plen i se vším, co je v něm!</verse>
+        <verse osisID='Amos.6.9'>Zbude-li v jediném domě jen deset lidí, zemřou i ti.</verse>
+        <verse osisID='Amos.6.10'>Přijde-li příbuzný, aby vynesl a spálil jejich ostatky, a najde někoho, kdo se tam v koutku skryl, zeptá se: "Je s tebou ještě někdo?" "Nikdo," hlesne on. A tehdy řekne: "Tiše! Ať ani nezmíníme Hospodinovo jméno!"</verse>
+        <verse osisID='Amos.6.11'>Hle, Hospodin dává rozkazy - rozbije veliký dům na kusy a malý domek na třísky!</verse>
+        <verse osisID='Amos.6.12'>Dokážou koně běžet po skále? Dá se snad s voly orat moře? Vy jste však dokázali obrátit právo v jed a ovoce spravedlnosti v pelyněk -</verse>
+        <verse osisID='Amos.6.13'>vy, kdo jásáte radostí nad Lo-debarem nicotným a říkáte: "Nedobyli jsme svými silami ten mocný Karnajim?"</verse>
+        <verse osisID='Amos.6.14'>Hle, dome Izraele, jsem to já, praví Hospodin, Bůh zástupů, kdo vzbudí proti vám národ, který vás bude utlačovat od Lebo-chamátu až po údolí Arava!</verse>
+      </chapter>
+      <chapter osisID='Amos.7'>
+        <verse osisID='Amos.7.1'>Panovník Hospodin mi ukázal toto: Když skončila senoseč pro krále a tráva začínala růst k pozdnímu sečení, hle - nachystal roje kobylek!</verse>
+        <verse osisID='Amos.7.2'>Když sežraly veškerou zeleň na zemi, řekl jsem: "Hospodine, Pane můj, prosím odpusť! Jak to Jákob vydrží? Vždyť je tak maličký!"</verse>
+        <verse osisID='Amos.7.3'>A Hospodin byl pohnut lítostí. "Nestane se to," řekl Hospodin.</verse>
+        <verse osisID='Amos.7.4'>Panovník Hospodin mi ukázal toto: Hle - Panovník Hospodin volal, že povede soud ohněm! Když strávil širý oceán a měl pohltit i zem,</verse>
+        <verse osisID='Amos.7.5'>řekl jsem: "Panovníku Hospodine, prosím přestaň! Jak to Jákob vydrží? Vždyť je tak maličký!"</verse>
+        <verse osisID='Amos.7.6'>A Hospodin byl pohnut lítostí. "Nestane se ani toto," řekl Panovník Hospodin.</verse>
+        <verse osisID='Amos.7.7'>Potom mi ukázal toto: Pán stál na hradbě s olovnicí, s olovnicí v ruce.</verse>
+        <verse osisID='Amos.7.8'>"Co vidíš, Amosi?" zeptal se mě Hospodin. "Olovnici," odpověděl jsem. Tehdy mi Pán řekl: "Hle, spouštím olovnici doprostřed svého lidu, Izraele. Víckrát už je neušetřím.</verse>
+        <verse osisID='Amos.7.9'>Izákovy obětní výšiny budou zničeny, z izraelských svatyní budou sutiny, až s mečem povstanu proti Jeroboámovu domu!"</verse>
+        <verse osisID='Amos.7.10'>Betelský kněz Amaciáš tehdy vzkázal izraelskému králi Jeroboámovi: "Amos proti tobě osnuje spiknutí v samém srdci Izraele. Země nemůže všechny ty jeho řeči snést.</verse>
+        <verse osisID='Amos.7.11'>Amos totiž říká: ‚Jeroboám zahyne mečem! Izrael bude vyhnán ze země!'"</verse>
+        <verse osisID='Amos.7.12'>Potom Amaciáš řekl Amosovi: "Seber se, vidoucí, a utíkej do Judska! Tam si vydělávej na chleba, prorokuj si tam.</verse>
+        <verse osisID='Amos.7.13'>V Bet-elu už ale víckrát neprorokuj - vždyť je to králova svatyně, je to chrám království!"</verse>
+        <verse osisID='Amos.7.14'>Amos na to Amaciášovi odpověděl: "Nebýval jsem prorok ani prorocký učedník - choval jsem dobytek a pěstoval fíky.</verse>
+        <verse osisID='Amos.7.15'>Hospodin mě ale vzal od ovcí a řekl mi: ‚Jdi, prorokuj mému lidu, Izraeli.'</verse>
+        <verse osisID='Amos.7.16'>Proto teď slyš slovo Hospodinovo. Ty říkáš: ‚Neprorokuj o Izraeli, o domu Izákovu neřečni!'</verse>
+        <verse osisID='Amos.7.17'>Nuže, toto praví Hospodin: Tvá žena bude smilnit ve městě a tví synové i dcery padnou mečem. Tvá země bude rozměřena provazcem a ty zemřeš v zemi nečisté. Izrael musí být jistojistě ze své země vysídlen!"</verse>
+      </chapter>
+      <chapter osisID='Amos.8'>
+        <verse osisID='Amos.8.1'>Panovník Hospodin mi ukázal toto: Hle - koš zralého ovoce!</verse>
+        <verse osisID='Amos.8.2'>"Co vidíš, Amosi?" zeptal se mě. "Koš zralého ovoce," odpověděl jsem. Tehdy mi Hospodin řekl: "Můj lid Izrael je zralý pro konec! Víckrát už je neušetřím.</verse>
+        <verse osisID='Amos.8.3'>V ten den se chrámové zpěvy obrátí v kvílení, praví Panovník Hospodin. Všude spousta rozházených mrtvol! Všude ticho."</verse>
+        <verse osisID='Amos.8.4'>Slyšte, vy, kdo šlapete po chudácích, vy, kdo ničíte ubožáky na zemi,</verse>
+        <verse osisID='Amos.8.5'>se slovy: "Kdy už skončí svátek novoluní, abychom prodávali obilí? Kdy už skončí den sobotní, abychom zrní nabídli, abychom z míry ubrali a k ceně přidali, abychom šidili falešnými váhami,</verse>
+        <verse osisID='Amos.8.6'>abychom si nuzné koupili za peníz a ubohé za dva sandály, abychom místo zrní prodávali otruby?"</verse>
+        <verse osisID='Amos.8.7'>Hospodin přísahá při Pýše Jákobově: "Nikdy nezapomenu na žádný jejich skutek."</verse>
+        <verse osisID='Amos.8.8'>Copak se kvůli tomu neotřese země, nedá se každý její obyvatel do pláče? Jako Nil se celá rozlije, vzedme se a zase opadne jako ta řeka v Egyptě!</verse>
+        <verse osisID='Amos.8.9'>V ten den, praví Panovník Hospodin, nechám slunce zajít v poledne a zatemním zemi vprostřed dne.</verse>
+        <verse osisID='Amos.8.10'>Vaše slavnosti obrátím v truchlení a všechny vaše písně v kvílení. Všechny vás obleču do pytloviny a všechny hlavy budou oholeny. Nechám zem truchlit jako nad jednorozeným - její poslední den bude nejtrpčí!</verse>
+        <verse osisID='Amos.8.11'>Hle, přicházejí dny, praví Panovník Hospodin, kdy na zem pošlu hlad - ne hlad po chlebu ani žízeň po vodě, ale po slyšení Hospodinových slov.</verse>
+        <verse osisID='Amos.8.12'>Od moře k moři se budou plahočit a od severu bloudit na východ, aby hledali Hospodinovo slovo, ale nenajdou.</verse>
+        <verse osisID='Amos.8.13'>V ten den budou omdlévat žízní krásné panny i statní mladíci -</verse>
+        <verse osisID='Amos.8.14'>ti, kteří přísahají na hřích Samaří. Prý: "Jakože je tvůj Bůh, Dane, živ! Jakože žije pouť do Beer-šeby!" - takoví padnou, aby už nevstali.</verse>
+      </chapter>
+      <chapter osisID='Amos.9'>
+        <verse osisID='Amos.9.1'>Spatřil jsem Pána, jak stojí nad oltářem a říká: "Udeř ty sloupy do hlavic, ať se zachvějí základy! Strhni je jim všem na hlavy. Ty, kdo přežijí, mečem pobiji! Neuteče ani jeden z nich, neunikne mi ani jediný!</verse>
+        <verse osisID='Amos.9.2'>I kdyby se zakopali do pekla, má ruka by je odtud vytáhla. Kdyby snad vystoupili do nebe, i odtud strhnu je.</verse>
+        <verse osisID='Amos.9.3'>Kdyby se ukryli na vršku Karmelu, najdu je a odtud přivedu. Kdyby se mi schovali na mořském dně, přikážu hadu, ať je odtud vyštípe.</verse>
+        <verse osisID='Amos.9.4'>Kdyby je nepřátelé do zajetí zahnali, přikážu meči, aby je tam vyhubil. Spočinu na nich svým pohledem - avšak ne v dobrém, ale ve zlém!</verse>
+        <verse osisID='Amos.9.5'>Panovník, Hospodin zástupů, se dotkne země a ta se roztřese, všichni její obyvatelé se dají do pláče. Jako Nil se celá rozlije a zase opadne jako ta řeka v Egyptě.</verse>
+        <verse osisID='Amos.9.6'>Ten, který si staví v nebi komnaty a svoji klenbu založil na zemi, ten, který přivolává mořské vody a vylévá je na zemi, má jméno Hospodin.</verse>
+        <verse osisID='Amos.9.7'>Copak nejste, Izraelci, pro mě stejní jako Habešané? praví Hospodin. Copak jsem Izrael nevyvedl z Egypta stejně jako Filištíny z Kaftoru a Aramejce z Kíru?</verse>
+        <verse osisID='Amos.9.8'>Hle, oči Panovníka Hospodina utkvěly na tomto hříšném království! Vyhladím dům Jákobův ze země, nevyhladím je však úplně, praví Hospodin.</verse>
+        <verse osisID='Amos.9.9'>Hle, už dávám rozkazy! Budu přesívat dům Izraele přes všechny národy, tak jako se přesívá sítem, aby nepropadly žádné kamínky.</verse>
+        <verse osisID='Amos.9.10'>Stejně tak zahynou mečem v mém lidu všichni hříšníci, kteří říkají: "Nám se nic nestane. Nepotká nás žádné neštěstí!"</verse>
+        <verse osisID='Amos.9.11'>Toho dne obnovím zbořený stan Davidův. Opravím jeho trhliny a jeho trosky obnovím - vztyčím jej jako za dávných dnů.</verse>
+        <verse osisID='Amos.9.12'>Tehdy jim připadne zbytek Edomu i všechny národy mé jméno nesoucí, praví Hospodin, který to způsobí.</verse>
+        <verse osisID='Amos.9.13'>Hle, přicházejí dny, praví Hospodin, kdy žence dožene oráč a toho, kdo šlape hrozny, rozsévač. Hory budou tehdy vínem oplývat a všechny kopce přímo přetékat.</verse>
+        <verse osisID='Amos.9.14'>Svůj lid Izrael přivedu zpět ze zajetí. Vystavějí města, jež museli opustit, a budou v nich znovu žít. Budou sázet vinice a jejich víno pít, zakládat zahrady a ovoce z nich jíst.</verse>
+        <verse osisID='Amos.9.15'>Zasadím je v jejich zemi, kterou jsem dal jim, a z té země nebudou už nikdy vyrváni, praví Hospodin, tvůj Bůh.</verse>
+      </chapter>
+    </div></osisText>
+</osis>

@@ -1,0 +1,261 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace'>
+  <osisText osisRefWork='Bible' osisIDWork='CzeB21' xml:lang='cs'>
+    <header>
+      <revisionDesc>
+        <date>2010-02-26</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='CzeB21'>
+        <title>Czech Bible, Překlad 21. století</title>
+        <contributor/>
+        <creator>Mod2Zef (4)</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject/>
+        <date>2009-07-31</date>
+        <description>Bible, Překlad 21. století  vedoucí projektu Alexandr Flek  odborná spolupráce Jiří Hedánek, Pavel Hoffman, Zdeněk Sýkora  Přeloženo z hebrejštiny, aramejštiny, řečtiny  Vydání první  (c) 2009 Biblion, o. s.  www.bible21.org  www.bible21.cz   Překlad 21. století přináší nadčasové poselství Bible v současné, čtivé češtině. Usiluje o maximální věrnost původním hebrejským, aramejským a řeckým textům, zároveň však chce oslovit dnešní čtenáře, ať už jsou zvyklí čerpat z této knihy inspiraci pro každý den, anebo ji otevírají poprvé.</description>
+        <publisher/>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>CzeB21</identifier>
+        <source>no entry TextSource in sword.conf found</source>
+        <language type='IETF'>cs</language>
+        <relation/>
+        <coverage>provide the bible to the nations of the world</coverage>
+        <rights>Copyrighted; Permission to distribute granted to CrossWire</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='Lam'>
+      <chapter osisID='Lam.1'>
+        <verse osisID='Lam.1.1'>Ach, jak zůstalo opuštěno to město plné lidí! Jako by bylo ovdovělo to proslulé mezi národy! Bývalo kněžnou mezi zeměmi, a teď je v otroctví.</verse>
+        <verse osisID='Lam.1.2'>Hořce naříká celou noc, po tvářích kanou slzy. Z jejích milenců, kolik jich bylo, ji žádný nejde utěšit. Všichni přátelé ji zradili, obrátili se proti ní!</verse>
+        <verse osisID='Lam.1.3'>Juda odešel do vyhnanství ponížen krutou porobou. Přebývá mezi pohany a nemá, kde by spočinul. Všichni, kdo ho pronásledovali, ho dostihli v jeho sevření.</verse>
+        <verse osisID='Lam.1.4'>Osiřelé jsou cesty na Sion, nikdo už nejde na slavnost. Jeho brány pustě zejí, jeho kněží sténají, jeho panny mají smutek - Sionu je tak hořce!</verse>
+        <verse osisID='Lam.1.5'>Jeho protivníci triumfují, nepřátelé mají zdar. Hospodin totiž Jeruzalém ranil kvůli mnoha jeho nevěrám. Do zajetí šly i děti - nepřítel si je vzal!</verse>
+        <verse osisID='Lam.1.6'>Dceru sionskou opustila veškerá nádhera. Její velmoži jako jeleni pastvu marně hledají; zbaveni síly prchají před svými pronásledovateli.</verse>
+        <verse osisID='Lam.1.7'>Ve dnech trápení a bloudění Dcera jeruzalémská vzpomíná na všechny poklady, jež kdysi mívala. Když její lid padal rukou soka a nikdo nešel na pomoc, nepřítel se tenkrát díval a smál se nad tou záhubou.</verse>
+        <verse osisID='Lam.1.8'>Dcera jeruzalémská hrozně hřešila, stala se nečistou. Každý ctitel jí teď pohrdá, když vidí její nahotu, a ona zatím sténá, hanbou zakrývá si tvář.</verse>
+        <verse osisID='Lam.1.9'>Na jejích sukních špína ulpěla, nestarala se, co bude pak. Neuvěřitelný byl její pád a nikde žádná útěcha. Pohleď, Hospodine, na mé trápení - nepřítel zvítězil!</verse>
+        <verse osisID='Lam.1.10'>Na vše, co jí bylo drahé, vztáhl svou ruku nepřítel. Viděla, jak do její svatyně vtrhli pohané - ti, o kterých jsi nařídil: "Do tvého shromáždění nesmějí!"</verse>
+        <verse osisID='Lam.1.11'>Všechen její lid sténá a žebrá o chleba. Své drahé dali za něco k jídlu, aby se udrželi naživu. Pohleď, Hospodine, jen se podívej, v jaké jsem hrozné potupě!</verse>
+        <verse osisID='Lam.1.12'>Není to pro vás vůbec nic, všichni, kdo procházíte kolem? Jen se podívejte, pohleďte, zda je bolest podobná té, kterou trpím, kterou mě ranil Hospodin v den, kdy se rozlítil.</verse>
+        <verse osisID='Lam.1.13'>On seslal oheň z výšiny do mých kostí, které zachvátil. On nastražil mým nohám síť, obrátil mě zpátky. On způsobil mé zničení, celé dny ležím v bezmoci!</verse>
+        <verse osisID='Lam.1.14'>Z mých hříchů se stalo jho, jež bylo jeho rukou svázáno. Zavěsily se mi na hrdlo, to jho mě síly zbavilo! Hospodin mě vydal do rukou, před nimiž obstát nemohu.</verse>
+        <verse osisID='Lam.1.15'>Hospodin pohrdl všemi hrdiny, kteří jsou v mých zdech. Vojsko proti mně shromáždil, aby rozdrtil mé mládence. Hospodin šlapal v lisu panenskou dceru Judu!</verse>
+        <verse osisID='Lam.1.16'>To proto nyní pláči, z očí mi tečou slzy. Není nablízku, kdo by mě potěšil, kdo by mi život navrátil. Mé děti zůstaly opuštěny - nepřítel zvítězil.</verse>
+        <verse osisID='Lam.1.17'>Sion své ruce vztahuje, chybí mu těšitel. Hospodin vzbudil proti Jákobovi všechny nepřátele z okolí; Jeruzalém je mezi nimi jako nečistý.</verse>
+        <verse osisID='Lam.1.18'>Hospodin je ale v právu, vždyť jsem se vzepřela jeho příkazům. Poslyšte, všechny národy, pohleďte na mé trápení: Mé panny i mí mládenci museli jít do zajetí.</verse>
+        <verse osisID='Lam.1.19'>Volala jsem své milence, ti mě však zradili. Moji kněží i mí stařešinové ve městě pomřeli, když žebrali o něco k jídlu, aby se udrželi naživu.</verse>
+        <verse osisID='Lam.1.20'>Pohleď, Hospodine, na mé úzkosti, jak se mi chvějí útroby! Srdce mi buší v prsou nad mojí hroznou vzpourou. Venku meč vraždí děti, doma umírají hlady!</verse>
+        <verse osisID='Lam.1.21'>Každý slyší mé sténání, nikdo mě ale netěší. Všichni mí nepřátelé slyší o mém neštěstí a jásají nad tím, co jsi dopustil. Kéž už přivedeš ten vyhlášený den, kdy je postihne to, co mě!</verse>
+        <verse osisID='Lam.1.22'>Kéž už všechna jejich zloba vystoupí před tvou tvář. Proveď jim, co jsi mi učinil za všechny mé nevěry. Je příliš mého sténání, srdce mi puká bolestí!</verse>
+      </chapter>
+      <chapter osisID='Lam.2'>
+        <verse osisID='Lam.2.1'>Ach, jak Hospodin hněvem zahalil Dceru sionskou! Z nebe až na zem zahodil Izraelovu nádheru. V den svého hněvu nebral ohledy na podnož svých nohou.</verse>
+        <verse osisID='Lam.2.2'>Hospodin bez milosti pohltil všechny Jákobovy příbytky. Ve své prchlivosti rozbořil opevnění Judské dcery. Porazil k zemi, zneuctil království i s jeho velmoži!</verse>
+        <verse osisID='Lam.2.3'>V zuřivém rozhněvání uťal Izraeli rohy. Před tváří nepřítele odvrátil od něj svou pravici. Vzplanul proti Jákobovi plamenem jak oheň, jenž vše spaluje.</verse>
+        <verse osisID='Lam.2.4'>Jako nepřítel napjal luk s pravicí připravenou k výstřelu. Jako protivník pobil vše, co bylo krásné na pohled. Jak oheň vylil svůj prudký hněv na stánek Dcery sionské.</verse>
+        <verse osisID='Lam.2.5'>Hospodin jednal jako nepřítel, pohltil celý Izrael; pohltil všechny jeho paláce, rozbořil jeho opevněnou zeď. Rozmnožil Dceři judské žal a zármutek.</verse>
+        <verse osisID='Lam.2.6'>Zpustošil svůj příbytek jako zahradu, svůj svatostánek nechal zaniknout. Hospodin nechal v zapomnění upadnout svátky i soboty na Sionu; krále i kněze zavrhl ve svém rozhořčeném hněvu.</verse>
+        <verse osisID='Lam.2.7'>Hospodin na svůj oltář zanevřel, zošklivil si svou svatyni. Vydal do rukou nepřátel městské hradby i pevnosti. V Hospodinově domě byl slyšet křik jako v den slavnosti.</verse>
+        <verse osisID='Lam.2.8'>Hospodin pojal rozhodnutí, že zničí hradby Dcery sionské. Natáhl šňůru, začal měřit, odvrátit od zkázy už nedal se. Hradby i bašty proto naříkaly, klesly společně.</verse>
+        <verse osisID='Lam.2.9'>Brány se k zemi zřítily, když rozlámal a rozbil závory. Král i velmoži jsou mezi pohany, Zákon se vytratil. Také proroci už nemají od Hospodina žádné vidění.</verse>
+        <verse osisID='Lam.2.10'>Stařešinové Dcery sionské sedají mlčky na zemi. Prachem si hlavu pokryli, oblečeni do pytloviny. Jeruzalémské panny svěsily hlavy k zemi.</verse>
+        <verse osisID='Lam.2.11'>Pro slzy už sotva vidím, mé útroby se chvějí. Srdce mi puká nad ranami, jež padly na můj lid; nad tím, že děti, ba i kojenci klesají v městských ulicích.</verse>
+        <verse osisID='Lam.2.12'>Svým matkám říkají: "Kde je jídlo? Kde je pití?" Hroutí se jako zranění na městských prostranstvích, pomalu vypouštějí duši svým matkám v náručí.</verse>
+        <verse osisID='Lam.2.13'>K čemu tě přirovnám, Dcero jeruzalémská, čemu se jenom podobáš? K čemu tě připodobním, abych tě potěšil, panenská Dcero sionská? Tvá rána je hluboká jako oceán, kdo by tě mohl uzdravit?</verse>
+        <verse osisID='Lam.2.14'>Tvoji proroci ti prorokovali lži a nesmysly. Neodhalovali tvé zločiny, aby odvrátili tvé vyhnanství. Proroctví, která ti předkládali, byly lži a přeludy!</verse>
+        <verse osisID='Lam.2.15'>Všichni, kdo půjdou okolo, sprásknou nad tebou ruce. Hvízdnou a hlavou potřesou nad Dcerou jeruzalémskou: "To že je to město, jemuž se říkalo Dokonalost krásy, Potěcha vší země?"</verse>
+        <verse osisID='Lam.2.16'>Všichni tví nepřátelé si otvírají ústa na tebe. Pohvizdují a cení zuby se slovy: "Konečně jsme je zničili! Na tenhle den jsme čekali a dočkali jsme se - už je tady!"</verse>
+        <verse osisID='Lam.2.17'>Hospodin vykonal to, co plánoval; to, co řekl, také udělal. Jak varoval už odedávna, bořil, aniž se slitoval. Obveselil nad tebou protivníka, roh tvých nepřátel nechal triumfovat.</verse>
+        <verse osisID='Lam.2.18'>Volej k Hospodinu ze srdce - ach, hradby Dcery sionské! Ať tvé slzy proudí potokem, ať už je noc či den! Odpočinek si nedopřej, tvé oko ať neusne!</verse>
+        <verse osisID='Lam.2.19'>Vstávej a volej za nocí při počátcích hlídek. Jak vodu své srdce vylévej před tváří Páně! Za život svých dětí, jež umírají hladem na každém nároží, pozdvihuj k němu dlaně!</verse>
+        <verse osisID='Lam.2.20'>Pohleď, Hospodine, jen pohlédni, koho jsi takto ranil! To mají ženy jíst své děti, své miláčky, jež právě zrodily? To mají být v Hospodinově svatyni vražděni kněží i proroci?</verse>
+        <verse osisID='Lam.2.21'>Mladí i staří v ulicích leží na zemi. Mé panny i mí mládenci pod mečem padali. V den svého hněvu jsi je bil, pobíjel jsi bez milosti!</verse>
+        <verse osisID='Lam.2.22'>Jako ke slavnosti jsi svolal odevšad ty, jichž se děsím. Nebyl v den hněvu Hospodinova, kdo by unikl a přežil. Ty, jež jsem hýčkala, jež jsem vychovala, můj nepřítel zhubil!</verse>
+      </chapter>
+      <chapter osisID='Lam.3'>
+        <verse osisID='Lam.3.1'>Ano, i já jsem pocítil, jak trestá jeho rozzuřený kyj.</verse>
+        <verse osisID='Lam.3.2'>Odehnal mě, do tmy zavedl, a ne ke světlu.</verse>
+        <verse osisID='Lam.3.3'>Zas a znovu, celý den obrací ruku proti mně!</verse>
+        <verse osisID='Lam.3.4'>Tělo i kůži sedřel mi, rozdrtil kosti na padrť.</verse>
+        <verse osisID='Lam.3.5'>Ohradil mě a obklopil hořkou útrapou.</verse>
+        <verse osisID='Lam.3.6'>Usadil mě do temnoty jak dávno mrtvého.</verse>
+        <verse osisID='Lam.3.7'>Zazdil mě, nemohu pryč, obtížil mě okovy.</verse>
+        <verse osisID='Lam.3.8'>I když jsem křičel ze všech sil, on umlčel mé modlitby.</verse>
+        <verse osisID='Lam.3.9'>Kamennou zdí mi cesty zahradil a zamotal mé pěšiny.</verse>
+        <verse osisID='Lam.3.10'>Číhal na mě jako medvěd, jako lev ve skrýši.</verse>
+        <verse osisID='Lam.3.11'>Na mé cestě přepadl mě, rozsápal a zahubil.</verse>
+        <verse osisID='Lam.3.12'>Napjal svůj luk, přiložil šíp, udělal si ze mě cíl!</verse>
+        <verse osisID='Lam.3.13'>Ve svém toulci našel střely, prostřílel mi slabiny!</verse>
+        <verse osisID='Lam.3.14'>Všichni lidé se mi smějí, zpívají si o mně celé dny.</verse>
+        <verse osisID='Lam.3.15'>Nakrmil mě hořkým jedem, k pití mi dal pelyněk!</verse>
+        <verse osisID='Lam.3.16'>Do zubů mi vemlel štěrk, nakrmil mě popelem.</verse>
+        <verse osisID='Lam.3.17'>Má duše nezná pokoje, na vše dobré jsem zapomněl.</verse>
+        <verse osisID='Lam.3.18'>To je můj konec, řekl jsem, u Hospodina pro mě není naděje!</verse>
+        <verse osisID='Lam.3.19'>Myslím na svou bídu, na své bloudění, na ten pelyněk a trpké byliny.</verse>
+        <verse osisID='Lam.3.20'>Když o tom stále přemýšlím, má duše klesá níž a níž.</verse>
+        <verse osisID='Lam.3.21'>Toto však k srdci beru si, toto je mojí nadějí:</verse>
+        <verse osisID='Lam.3.22'>Hospodinova láska nepomíjí, jeho soucit nikdy nekončí.</verse>
+        <verse osisID='Lam.3.23'>Každé ráno stále nová, tvá věrnost je tak veliká!</verse>
+        <verse osisID='Lam.3.24'>Můj úděl je Hospodin, říkám si, v něj složím svoji naději.</verse>
+        <verse osisID='Lam.3.25'>Dobrý je Hospodin k těm, kdo v něj doufají, ke všem, kteří jej hledají.</verse>
+        <verse osisID='Lam.3.26'>Dobré je trpělivé čekání na Hospodinovo spasení.</verse>
+        <verse osisID='Lam.3.27'>Dobré je, když člověk nosí své jho už od mládí.</verse>
+        <verse osisID='Lam.3.28'>Ať sedá o samotě, tiše pod uloženým břemenem.</verse>
+        <verse osisID='Lam.3.29'>Ústy do prachu ať klesne - snad je naděje!</verse>
+        <verse osisID='Lam.3.30'>Tvář ať nastaví tomu, kdo jej bije, potupou ať je nasycen.</verse>
+        <verse osisID='Lam.3.31'>Hospodin přece navěky nezavrhuje!</verse>
+        <verse osisID='Lam.3.32'>I když zarmoutil, znovu se slituje ve veliké lásce své.</verse>
+        <verse osisID='Lam.3.33'>Netrápí přece zlomyslně, nechce lidem dávat zármutek.</verse>
+        <verse osisID='Lam.3.34'>Když jsou všichni zajatci v zemi pod nohama drceni,</verse>
+        <verse osisID='Lam.3.35'>když se překrucuje právo lidí přímo před Nejvyšším,</verse>
+        <verse osisID='Lam.3.36'>když se křivdí lidem v soudní při - copak to Hospodin nevidí?</verse>
+        <verse osisID='Lam.3.37'>Kdo "promluví, a stane se"? Kdo než Hospodin to přikáže?</verse>
+        <verse osisID='Lam.3.38'>Což nepochází pohroma i dobro přímo z úst Nejvyššího?</verse>
+        <verse osisID='Lam.3.39'>Proč by si tedy člověk stěžoval, když je za svůj hřích potrestán?</verse>
+        <verse osisID='Lam.3.40'>Zpytujme své cesty, zkoumejme je, k Hospodinu se navraťme!</verse>
+        <verse osisID='Lam.3.41'>Nejen své dlaně, ale i srdce k Bohu na nebesích zvedněme.</verse>
+        <verse osisID='Lam.3.42'>My jsme zhřešili, vzbouřili jsme se - a ty jsi přestal promíjet.</verse>
+        <verse osisID='Lam.3.43'>Zahalen hněvem jsi nás hnal, pobíjel jsi bez milosti.</verse>
+        <verse osisID='Lam.3.44'>Zahalil ses v oblaka, nepřístupný pro modlitby.</verse>
+        <verse osisID='Lam.3.45'>Odporným smetím učinil jsi nás mezi národy.</verse>
+        <verse osisID='Lam.3.46'>Otvírají si na nás ústa všichni, kdo jsou proti nám.</verse>
+        <verse osisID='Lam.3.47'>Zbývá nám jen strach a prach, zkáza, zmar!</verse>
+        <verse osisID='Lam.3.48'>Z očí mi slzy proudí potokem - můj lid je rozdrcen!</verse>
+        <verse osisID='Lam.3.49'>Mé oči pláčou bez ustání, ten proud nemůže přestat,</verse>
+        <verse osisID='Lam.3.50'>dříve než Hospodin shlédne shůry, než se podívá na nás.</verse>
+        <verse osisID='Lam.3.51'>Ach, jak jsem ztrápený, když vidím dcery svého města!</verse>
+        <verse osisID='Lam.3.52'>Nepřátelé mě jak ptáčka lovili, lovili mě bez příčiny.</verse>
+        <verse osisID='Lam.3.53'>V jámě chtěli můj život ukončit, zaházeli mě kamením.</verse>
+        <verse osisID='Lam.3.54'>Nad hlavou se mi vody zavřely, řekl jsem si: Jsem ztracený!</verse>
+        <verse osisID='Lam.3.55'>V té nejhlubší jámě, Hospodine, jsem ale vzýval jméno tvé.</verse>
+        <verse osisID='Lam.3.56'>Slyšel jsi můj křik: "Neodvracej se, když k tobě volám po úlevě!"</verse>
+        <verse osisID='Lam.3.57'>Když jsem tě volal, přiblížil ses a říkal jsi mi: "Neboj se!"</verse>
+        <verse osisID='Lam.3.58'>Když mi šlo o život, vedl jsi mou při, tys mě, Hospodine, vykoupil!</verse>
+        <verse osisID='Lam.3.59'>Mé křivdy, Hospodine, viděl jsi, pomoz mi k spravedlnosti!</verse>
+        <verse osisID='Lam.3.60'>Viděl jsi, jak se mi pořád mstí, jak na mě chystají samé úklady.</verse>
+        <verse osisID='Lam.3.61'>Slyšel jsi, Hospodine, jejich urážky, všechny úklady, jež na mě chystají,</verse>
+        <verse osisID='Lam.3.62'>řeči těch, kdo na mě útočí, a co si celý den o mně šeptají.</verse>
+        <verse osisID='Lam.3.63'>Pohleď - ať si sedají nebo vstávají, prozpěvují si o mně posměšky!</verse>
+        <verse osisID='Lam.3.64'>Odplať jim, Hospodine, jak si zaslouží - za to, jak se sami chovali!</verse>
+        <verse osisID='Lam.3.65'>Zatvrzelé srdce ponech jim, ať je stihne tvoje prokletí!</verse>
+        <verse osisID='Lam.3.66'>Pronásleduj je svým hněvem, vyhlaď je, Hospodine, zpod nebe!</verse>
+      </chapter>
+      <chapter osisID='Lam.4'>
+        <verse osisID='Lam.4.1'>Ach, jak zašlo lesklé zlato, ryzí kov už se netřpytí! Drahé kamení rozmetáno na každém nároží!</verse>
+        <verse osisID='Lam.4.2'>Synové Sionu bývali kdysi nad zlato vzácnější - teď jsou však levní jako džbány, jak nádobí, co hrnčíř vyrobil!</verse>
+        <verse osisID='Lam.4.3'>I šakalí matky nastavují prsy, aby své mladé krmily, můj lid je ale k svým dětem krutý tak jako pštrosi na poušti.</verse>
+        <verse osisID='Lam.4.4'>Kojenci na patro se lepí jazyk vyprahlý; o chleba prosí malé děti, a nikdo se s nimi nedělí.</verse>
+        <verse osisID='Lam.4.5'>Ti, kdo se lahůdkami živili, teď živoří v ulicích. Ti, kdo si šarlat oblékali, se přehrabují v odpadcích.</verse>
+        <verse osisID='Lam.4.6'>Trest mého lidu je ještě větší, než co zasloužila Sodoma - ta byla vyvrácena v jedinou chvíli, aniž se ruka pohnula!</verse>
+        <verse osisID='Lam.4.7'>Zasvěcení tu bývali čistější než sníh, nad mléko bělejší. Těla měli ruměná jako rubíny, jako by byli ze safíru broušeni.</verse>
+        <verse osisID='Lam.4.8'>Teď jsou však černější než saze, k nepoznání jsou v ulicích; kůže jim přischla ke kostem, jako dřevo jsou svraštělí.</verse>
+        <verse osisID='Lam.4.9'>Kdo padli mečem, jsou na tom líp než ti, kdo hladem padají; ti, kdo vykrváceli na svá zranění, než ti, kdo nemají co sklidit na poli.</verse>
+        <verse osisID='Lam.4.10'>Soucitné ruce žen vařily vlastní děti - ty byly jejich pokrmem, když byl rozdrcen můj lid.</verse>
+        <verse osisID='Lam.4.11'>Hospodin naplno projevil svůj hněv, dal průchod svému zuření. Zapálil na Sionu oheň, jenž pohltil jeho základy.</verse>
+        <verse osisID='Lam.4.12'>Nevěřili by zemští králové a nikdo z vládců světa, že vejde zapřisáhlý nepřítel do bran Jeruzaléma.</verse>
+        <verse osisID='Lam.4.13'>To kvůli hříchům jeho proroků, kvůli vinám jeho kněží - těch, kdo prolévali v jeho středu krev nevinných!</verse>
+        <verse osisID='Lam.4.14'>Jak slepí bloudili v ulicích zbroceni krví prolitou; nikdo se neodvážil ani dotknout jejich rouch.</verse>
+        <verse osisID='Lam.4.15'>"Z cesty! Nečistý!" křičeli na ně. "Z cesty, z cesty! Nedotýkejte se!" A když teď bloudí tam a sem, národy říkají: "Už je tu nechceme!"</verse>
+        <verse osisID='Lam.4.16'>Hospodin sám je rozptýlil, už na ně ani nepohlédne; nikdo nebere ohled na kněží, nikdo nešetří ani starce.</verse>
+        <verse osisID='Lam.4.17'>Oči jsme napínali, až nás bolely, marně jsme pomoc čekali. Ze svých věží jsme vyhlíželi lid, jenž nebyl s to nás zachránit.</verse>
+        <verse osisID='Lam.4.18'>Sledovali naše kroky, nemohli jsme ani vyjít ven. Přišel náš konec, dny se naplnily, ano, náš konec nadešel.</verse>
+        <verse osisID='Lam.4.19'>Naši pronásledovatelé byli rychlejší než orli na nebi. Po horách nás honili, číhali na nás na poušti.</verse>
+        <verse osisID='Lam.4.20'>Hospodinův pomazaný, náš vlastní dech, byl v jejich pasti polapen - a my jsme mysleli, že nám dá stín, v němž budeme žít mezi národy!</verse>
+        <verse osisID='Lam.4.21'>Raduj se a vesel, Dcero edomská, jež bydlíš v zemi Úc. I ty se však dočkáš kalicha - opiješ se a svlékneš donaha!</verse>
+        <verse osisID='Lam.4.22'>Tvůj trest vyprší, Dcero sionská, už nezůstaneš v zajetí. Ty, Dcero edomská, však budeš ztrestána, tvůj hřích se brzy odhalí!</verse>
+      </chapter>
+      <chapter osisID='Lam.5'>
+        <verse osisID='Lam.5.1'>Vzpomeň si, Hospodine, jak jsme dopadli, dobře se podívej na naši hanbu:</verse>
+        <verse osisID='Lam.5.2'>Naše dědictví připadlo cizím, naše domy patří cizákům!</verse>
+        <verse osisID='Lam.5.3'>Jsme sirotci, přišli jsme o otce, z našich matek jsou teď vdovy.</verse>
+        <verse osisID='Lam.5.4'>Vlastní vodu pijeme za peníze, za své dříví musíme platit.</verse>
+        <verse osisID='Lam.5.5'>S pronásledovateli v zádech dřeme, zbaveni odpočinku.</verse>
+        <verse osisID='Lam.5.6'>Třeseme si rukou s Egyptem i s Asýrií - kvůli chlebu.</verse>
+        <verse osisID='Lam.5.7'>Naši otcové hřešili; jsou pryč a my neseme jejich trest.</verse>
+        <verse osisID='Lam.5.8'>Panují nad námi otroci a nikdo neuvolní jejich pěst.</verse>
+        <verse osisID='Lam.5.9'>Jde nám o život, když přinášíme chléb ohroženi mečem v pustém kraji.</verse>
+        <verse osisID='Lam.5.10'>Kůže nám hoří jako pec horečkou z hladovění.</verse>
+        <verse osisID='Lam.5.11'>Sionské ženy byly znásilněny tak jako panny ve městech Judových.</verse>
+        <verse osisID='Lam.5.12'>Naše velmože nám pověsili, ke starcům úctu neměli!</verse>
+        <verse osisID='Lam.5.13'>Mládenci roztáčejí mlýn, chlapci klopýtají pod dřívím.</verse>
+        <verse osisID='Lam.5.14'>Starci už v branách nesedí, mládenci dozpívali.</verse>
+        <verse osisID='Lam.5.15'>Utichlo naše bujaré veselí, tanec se změnil v truchlení.</verse>
+        <verse osisID='Lam.5.16'>Koruna spadla z naší hlavy; běda nám, že jsme hřešili!</verse>
+        <verse osisID='Lam.5.17'>Srdce nám nad tím usedá, potemněly nám nad tím oči -</verse>
+        <verse osisID='Lam.5.18'>že z hory Sion zbyla pustina, že se tam honí lišky!</verse>
+        <verse osisID='Lam.5.19'>Ty, Hospodine, však vládneš navěky, tvůj trůn trvá po všechny časy.</verse>
+        <verse osisID='Lam.5.20'>Proč na nás nikdy nepomyslíš? To nás opustíš navždy?</verse>
+        <verse osisID='Lam.5.21'>Navrať nás k sobě, Hospodine, ať se vrátíme! Obnov naše dny, ať jsou jako dřív!</verse>
+        <verse osisID='Lam.5.22'>Anebo jsi nás už zavrhl úplně? Rozhněval ses na nás přespříliš?</verse>
+      </chapter>
+    </div></osisText>
+</osis>

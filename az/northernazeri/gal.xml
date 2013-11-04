@@ -1,0 +1,261 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace'>
+  <osisText osisIDWork='NorthernAzeri' osisRefWork='Bible' xml:lang='az'>
+    <header>
+      <revisionDesc>
+        <date>2012-01-07</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='NorthernAzeri'>
+        <title>Northern Azeri Translation</title>
+        <contributor/>
+        <creator>Mod2Zef (6)</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject/>
+        <date>2012-01-07</date>
+        <description>Northern Azeri Translation</description>
+        <publisher/>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>NorthernAzeri</identifier>
+        <source>no entry TextSource in sword.conf found</source>
+        <language type='IETF'>az</language>
+        <relation/>
+        <coverage>provide the bible to the nations of the world</coverage>
+        <rights>Copyrighted Kutsul Kitab; Permission to distribute granted to CrossWire</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='Gal'>
+      <chapter osisID='Gal.1'>
+        <verse osisID='Gal.1.1'>Nə insanlardan, nə də insan vasitəsilə, yalnız İsa Məsih və Onu ölülər arasından dirildən Ata Allah vasitəsilə həvari təyin olunan mən Pauldan</verse>
+        <verse osisID='Gal.1.2'>və mənimlə olan bütün qardaşlardan Qalatiyada olan imanlı cəmiyyətlərə salam!</verse>
+        <verse osisID='Gal.1.3'>Atamız Allahdan və Rəbb İsa Məsihdən sizə lütf və sülh olsun!</verse>
+        <verse osisID='Gal.1.4'>Atamız Allahın iradəsinə görə Məsih günahlarımız üçün Özünü fəda etdi ki, bizi indiki şər dövründən qurtarsın.</verse>
+        <verse osisID='Gal.1.5'>Allaha əbədi izzət olsun! Amin. </verse>
+        <verse osisID='Gal.1.6'>Heyrətlənirəm ki, Məsihin lütfü ilə sizi çağıran Allahı belə tezliklə tərk edib başqa bir müjdəyə tərəf dönürsünüz.</verse>
+        <verse osisID='Gal.1.7'>Əslində başqa müjdə yoxdur. Amma sizi lərzəyə salıb Məsihin Müjdəsini təhrif etmək istəyənlər vardır.</verse>
+        <verse osisID='Gal.1.8'>Amma istər biz, istərsə göydən gələn bir mələk belə, bizim sizə yaydığımız Müjdəyə zidd bir şeyi müjdə kimi yaysa, ona lənət olsun!</verse>
+        <verse osisID='Gal.1.9'>Əvvəlcə dediyimizi indi bir daha deyirəm: kim sizə qəbul etdiyiniz Müjdəyə zidd bir şey yayırsa, ona lənət olsun!</verse>
+        <verse osisID='Gal.1.10'>İndi mən insanları, yoxsa Allahı məmnun etməyi axtarıram? Yoxsa insanlarımı razı salmağa çalışıram? Əgər mən hələ də insanları razı salmaq istəsəydim, Məsihin qulu olmazdım. </verse>
+        <verse osisID='Gal.1.11'>Qardaşlar, sizə bəyan edirəm ki, mənim yaydığım Müjdənin mənbəyi insan deyil.</verse>
+        <verse osisID='Gal.1.12'>Çünki mən onu insandan almadım və insan tərəfindən də öyrədilmədim. Bunu mənə İsa Məsih vəhy vasitəsilə açdı. </verse>
+        <verse osisID='Gal.1.13'>Yəhudi dininə bağlı olduğum günlərdə mənim necə həyat sürdüyümü eşitdiniz. Mən Allahın cəmiyyətini hədsiz təqib edir, onu dağıdırdım.</verse>
+        <verse osisID='Gal.1.14'>Yəhudi dinində soydaşlarım arasında yaşıdlarımın bir çoxundan daha irəlidə idim. Ata-babalarımın adət-ənənələrinin qeyrətini həddindən artıq çəkirdim.</verse>
+        <verse osisID='Gal.1.15'>Amma hələ anamın bətnindən məni seçib lütfü ilə çağıran Allah</verse>
+        <verse osisID='Gal.1.16'>Öz Oğlu ilə bağlı Müjdəni başqa millətlər arasında yayım deyə Onu mənə zahir etməyə razı olanda dərhal insanlarla məsləhətləşmədim.</verse>
+        <verse osisID='Gal.1.17'>Yerusəlimə, məndən qabaq həvari olanların yanına da getmədim, amma Ərəbistana getdim, sonra yenə Dəməşqə qayıtdım. </verse>
+        <verse osisID='Gal.1.18'>Üç il keçəndən sonra isə Kefa ilə tanış olmaq üçün Yerusəlimə getdim və on beş gün onun yanında qaldım.</verse>
+        <verse osisID='Gal.1.19'>O biri həvarilərin heç birini görmədim. Yalnız Rəbbin qardaşı Yaqubu gördüm.</verse>
+        <verse osisID='Gal.1.20'>Allahın önündə sizə yazdıqlarımın yalan olmadığını deyirəm.</verse>
+        <verse osisID='Gal.1.21'>Sonra Suriya və Kilikiya diyarlarına getdim.</verse>
+        <verse osisID='Gal.1.22'>Yəhudeyanın Məsihdə olan cəmiyyətləri isə məni şəxsən tanımırdılar.</verse>
+        <verse osisID='Gal.1.23'>Yalnız bu sözü eşidirdilər: «Bir zaman bizi təqib edən şəxs vaxtilə yox etməyə çalışdığı imanı müjdələyir».</verse>
+        <verse osisID='Gal.1.24'>Beləliklə, mənə görə Allahı izzətləndirirdilər.  </verse>
+      </chapter>
+      <chapter osisID='Gal.2'>
+        <verse osisID='Gal.2.1'>
+          On dörd il keçəndən sonra isə Barnaba ilə birlikdə Titi də özümlə götürüb yenə Yerusəlimə getdim.</verse>
+        <verse osisID='Gal.2.2'>Vəhy vasitəsilə getdim. Başqa millətlər arasında vəz etdiyim Müjdəni onlara, etibarlı olanlara şəxsən təqdim etdim ki, boş yerə cəhd etməyim yaxud da cəhd etmiş olmayım.</verse>
+        <verse osisID='Gal.2.3'>Yanımda olan Tit də Yunan olduğu halda sünnət olunmağa məcbur edilmədi.</verse>
+        <verse osisID='Gal.2.4'>Bu iş aramıza gizlicə soxulan yalançı qardaşlar üzündən oldu. Onlar Məsih İsada malik olduğumuz azadlığı əl altından öyrənib bizi kölə etmək üçün gizlicə aramıza girdilər.</verse>
+        <verse osisID='Gal.2.5'>Onlara bir anlıq da olsa, baş əyib təslim olmadıq ki, Müjdənin həqiqəti sizinlə qalsın. </verse>
+        <verse osisID='Gal.2.6'>Etibarlı sayılan şəxslərə gəlincə, kim olursa olsun mənə vacib deyil, Allah insanlara tərəfkeşlik etməz. Lakin bu etibarlı sayılan şəxslər mənim dediklərimə heç nə artırmadılar.</verse>
+        <verse osisID='Gal.2.7'>Əksinə, sünnətlilərə Müjdə yaymaq işi Peterə tapşırıldığı kimi sünnətsizlər arasında Müjdə yaymaq işinin mənə tapşırıldığını gördülər.</verse>
+        <verse osisID='Gal.2.8'>Çünki sünnətlilərə həvari olması üçün Peterdə fəal olan Allah başqa millətlər üçün məndə də fəal oldu.</verse>
+        <verse osisID='Gal.2.9'>Cəmiyyətin sütunları sayılan Yaqub, Kefa və Yəhya mənə bağışlanan lütfü tanıdıqda mənə və Barnabaya sağ əllərini uzatdılar ki, şərikliyimiz olsun. Ona görə ki biz başqa millətlərin, onlarsa sünnətlilərin yanına getsin.</verse>
+        <verse osisID='Gal.2.10'>Yalnız yoxsulları yad etməyimizi istədilər, mən də məhz bunu icra etməyə səy göstərdim. </verse>
+        <verse osisID='Gal.2.11'>Kefa Antakyaya gəldikdə isə şəxsən ona qarşı çıxdım, ona görə ki tənqidə layiq idi.</verse>
+        <verse osisID='Gal.2.12'>Çünki Yaqubun yanından bəzi adamlar gəlməmişdən əvvəl Peter başqa millətlərdən olanlarla yemək yeyirdi. Həmin adamlar gəldikdə isə sünnət tərəfdarlarından qorxaraq başqa millətlərin yanından çəkilib ayrı durdu.</verse>
+        <verse osisID='Gal.2.13'>Onunla birlikdə o biri Yəhudilər də ikiüzlülük etdilər. Hətta Barnaba belə, onların ikiüzlülüyünə qapıldı.</verse>
+        <verse osisID='Gal.2.14'>Amma mən Müjdənin həqiqətinə görə düzgün riayət etmədiklərini görəndə hamının qarşısında Kefaya dedim: «Əgər sən Yəhudi olduğun halda Yəhudi kimi deyil, başqa millətlərdən biri kimi yaşayırsansa, necə başqa millətləri Yəhudi kimi yaşamağa məcbur edirsən?» </verse>
+        <verse osisID='Gal.2.15'>Biz anadangəlmə Yəhudilərik, başqa millətdən olan «günahkarlar» deyilik.</verse>
+        <verse osisID='Gal.2.16'>Lakin biz bilirik ki, insan Qanuna əməl etməklə deyil, yalnız İsa Məsihə iman etməklə saleh sayılır. Biz də Məsih İsaya iman etdik ki, Qanuna əməl etməklə deyil, Məsihə olan imanla saleh sayılaq. Çünki Qanuna əməl etməklə heç bir insan saleh sayılmaz.</verse>
+        <verse osisID='Gal.2.17'>Əgər biz Məsihdə saleh sayılmaq istərkən özümüz günahkar çıxsaq, belə çıxır ki, Məsih günah xidmətçisidir? Əsla!</verse>
+        <verse osisID='Gal.2.18'>Əgər mən əvvəlcə yıxdığımı yenidən tikirəmsə, özümü Qanunu pozan olaraq göstərirəm.</verse>
+        <verse osisID='Gal.2.19'>Çünki mən Qanun vasitəsilə Qanuna münasibətdə öldüm ki, Allah üçün yaşayım.</verse>
+        <verse osisID='Gal.2.20'>Məsihlə birlikdə çarmıxa çəkildim. Artıq mən yaşamıram, Məsih məndə yaşayır. İndi cismən yaşadığım həyata gəlincə məni sevib uğrumda Özünü fəda edən Allahın Oğluna olan imanla yaşayıram.</verse>
+        <verse osisID='Gal.2.21'>Allahın lütfünü rədd etmirəm. Çünki əgər salehlik Qanun vasitəsilə qazanıla bilsəydi, deməli Məsih boş yerə öldü.  </verse>
+      </chapter>
+      <chapter osisID='Gal.3'>
+        <verse osisID='Gal.3.1'>
+          Ey ağılsız Qalatiyalılar! Sizi kim tilsimlədi? İsa Məsihin çarmıxa çəkilməsi gözləriniz önündə açıqca təsvir olundu!</verse>
+        <verse osisID='Gal.3.2'>Sizdən yalnız bunu öyrənmək istəyirəm: Ruhu Qanuna əməl etməklə, yoxsa eşitdiyinizə iman etməklə aldınız?</verse>
+        <verse osisID='Gal.3.3'>Siz bu qədərmi ağılsızsınız? Ruhla başlayandan sonra indi cismani səyləmi bitirirsiniz?</verse>
+        <verse osisID='Gal.3.4'>Boş yerəmi o qədər əzab çəkdiniz? Həqiqətən, bunlar boş yerə idi?</verse>
+        <verse osisID='Gal.3.5'>Bəs sizi Ruhla təmin edən və aranızda möcüzələr yaradan Allah bunları Qanuna əməl etməyinizlə, yoxsa eşitdiyinizə iman etməyinizlə icra edir? </verse>
+        <verse osisID='Gal.3.6'>Məsələn, «İbrahim Allaha iman etdi və bu ona salehlik sayıldı».</verse>
+        <verse osisID='Gal.3.7'>İndi isə bunu bilin ki, İbrahimin övladları imana əsaslananlar olur.</verse>
+        <verse osisID='Gal.3.8'>Müqəddəs Yazı Allahın başqa millətləri imanları ilə saleh sayacağını qabaqcadan görüb İbrahimə «bütün millətlər sənin vasitənlə xeyir-dua alacaq» deyərək Müjdəni qabaqcadan bildirdi.</verse>
+        <verse osisID='Gal.3.9'>Beləliklə, imana əsaslananlar iman etmiş olan İbrahimlə birlikdə xeyir-dua alırlar. </verse>
+        <verse osisID='Gal.3.10'>Qanuna əməl etməyə əsaslananların hamısı lənət altındadır. Çünki yazılıb: «Qoy Qanun kitabında yazılan hər şeyə riayət etməyən, onu təsdiq etməyən hər kəsə lənət olsun!»</verse>
+        <verse osisID='Gal.3.11'>Aydındır ki, Allah qarşısında heç kim Qanun vasitəsilə saleh sayılmır, çünki «saleh adam imanla yaşayacaq».</verse>
+        <verse osisID='Gal.3.12'>Qanun isə imana əsaslanmamışdır. Əksinə, «bu şeyləri yerinə yetirən adam bunların sayəsində yaşayacaq».</verse>
+        <verse osisID='Gal.3.13'>Məsih bizim uğrumuzda lənətlənərək bizi Qanunun lənətindən satın aldı. Çünki yazılıb: «ağacdan asılan hər kəsə lənət olsun!»</verse>
+        <verse osisID='Gal.3.14'>Belə ki İbrahimin aldığı xeyir-dua Məsih İsada bütün başqa millətlərin üzərinə gəlsin və biz vəd edilmiş Ruhu iman vasitəsilə alaq. </verse>
+        <verse osisID='Gal.3.15'>Qardaşlar, insan düşüncəsi əsasında deyirəm: hətta insanın belə təsdiq etdiyi əhdi heç kəs ləğv edə bilməz yaxud da ona heç bir şey əlavə edə bilməz.</verse>
+        <verse osisID='Gal.3.16'>Vədlər yalnız İbrahimə və onun nəslinə verildi. Allah çox adam barədə danışırmış kimi «və nəslindən olanlara» yox, tək bir adam barədə danışaraq «və sənin nəslindən olana» deyir; bu «nəslindən olan» Məsihdir.</verse>
+        <verse osisID='Gal.3.17'>Bunu demək istəyirəm: Allahın təsdiq etdiyi Əhdi bundan dörd yüz otuz il sonra gələn Qanun qüvvədən sala bilməz ki, vədi ləğv etsin.</verse>
+        <verse osisID='Gal.3.18'>Çünki əgər irs Qanuna əsaslanırsa, artıq vədə əsaslanmır. Amma Allah İbrahimə irsi vəd vasitəsilə lütfə görə verdi. </verse>
+        <verse osisID='Gal.3.19'>Bəs Qanun nə üçündür? Qanun Əhdi pozanları təqsirləndirmək üçün əlavə olundu. Vədi alan və İbrahimin nəslindən olan Şəxs gələnə qədər qüvvədə qalmalı idi. Mələklər vasitəsilə, bir vasitəçi əli ilə tərtib edildi.</verse>
+        <verse osisID='Gal.3.20'>Vasitəçi tək bir nəfərə aid deyildir, Allah isə birdir. </verse>
+        <verse osisID='Gal.3.21'>Deməli, Qanun Allahın vədlərinə ziddirmi? Əsla! Çünki əgər həyat verməyə qadir olan bir Qanun verilsəydi, salehlik, həqiqətən, Qanunla gələrdi.</verse>
+        <verse osisID='Gal.3.22'>Lakin Müqəddəs Yazı bütün kainatı günahın əsiri elan etdi ki, İsa Məsihə olan imanla vəd olunan şeylər iman edənlərə verilsin. </verse>
+        <verse osisID='Gal.3.23'>Amma bu iman gəlməzdən qabaq biz Qanun altında saxlanmışdıq, gələcək iman zühur edənə qədər əsir tutulmuşduq.</verse>
+        <verse osisID='Gal.3.24'>Yəni Qanun bizə Məsihə qədər yol göstərən mürəbbimiz oldu ki, imanla saleh sayılaq.</verse>
+        <verse osisID='Gal.3.25'>Amma iman gəldiyinə görə biz artıq mürəbbinin əli altında deyilik. </verse>
+        <verse osisID='Gal.3.26'>Siz hamınız Məsih İsaya olan iman vasitəsilə Allahın övladlarısınız.</verse>
+        <verse osisID='Gal.3.27'>Çünki vəftizdə Məsihlə birləşən hamınız Məsihə bürünmüsünüz.</verse>
+        <verse osisID='Gal.3.28'>Artıq Yəhudi ilə Yunan, qulla azad, kişi ilə qadın arasında fərq yoxdur. Çünki hamınız Məsih İsada birsiniz.</verse>
+        <verse osisID='Gal.3.29'>Əgər Məsihə aidsinizsə, deməli, İbrahimin nəslindənsiniz və vədə görə varissiniz.  </verse>
+      </chapter>
+      <chapter osisID='Gal.4'>
+        <verse osisID='Gal.4.1'>Mən bunu deyirəm: varis hər şeyin sahibi olsa da, uşaqlıq vaxtında kölədən fərqlənmir.</verse>
+        <verse osisID='Gal.4.2'>O, atasının təyin etdiyi vaxta qədər qəyyumların və idarəçilərin nəzarəti altındadır.</verse>
+        <verse osisID='Gal.4.3'>Bunun kimi biz də ruhani tərəfdən uşaq ikən dünyanın ibtidai təlimlərinə kölə idik.</verse>
+        <verse osisID='Gal.4.4'>Lakin vaxt tamam olanda Allah qadından, Qanun altında doğulan Öz Oğlunu göndərdi ki,</verse>
+        <verse osisID='Gal.4.5'>Qanun altında olanları satın alsın və biz övladlığa götürülək.</verse>
+        <verse osisID='Gal.4.6'>Övladlar olduğunuz üçün Allah Öz Oğlunun «Abba, Ata!» deyərək nida edən Ruhunu ürəklərimizə göndərdi.</verse>
+        <verse osisID='Gal.4.7'>Buna görə də sən artıq kölə deyil, övladsan. Əgər övladsansa, həmçinin Allahın təyin etdiyi varissən. </verse>
+        <verse osisID='Gal.4.8'>Əvvəllər Allahı tanımadığınız vaxt təbiətcə allah olmayanların kölələri idiniz.</verse>
+        <verse osisID='Gal.4.9'>İndi isə siz Allahı tanıdınız, daha doğrusu, Allah tərəfindən tanındınız. Necə olur ki, təkrarən zəif və dəyərsiz olan ibtidai təlimlərə qayıdırsınız? Yenidən onların köləsimi olmaq istəyirsiniz?</verse>
+        <verse osisID='Gal.4.10'>Xüsusi günlərə, aylara, mövsümlərə və illərə riayət edirsiniz!</verse>
+        <verse osisID='Gal.4.11'>Sizin üçün qorxuram, bəlkə sizə görə boş yerə zəhmət çəkmişəm. </verse>
+        <verse osisID='Gal.4.12'>Qardaşlar, sizə yalvarıram, mənim kimi olun, çünki mən də sizin kimi oldum. Siz mənə heç bir haqsızlıq etməmisiniz.</verse>
+        <verse osisID='Gal.4.13'>Bildiyiniz kimi, mən Müjdəni ilk dəfə sizə cismən zəif olaraq vəz etmişdim.</verse>
+        <verse osisID='Gal.4.14'>Cismani vəziyyətim sizin üçün çətin bir sınaq oldusa da, nə mənə xor baxdınız, nə də məni rədd etdiniz. Hətta məni, Allahın bir mələyini, Məsih İsanı qəbul edər kimi qəbul etdiniz.</verse>
+        <verse osisID='Gal.4.15'>İndi o xoşbəxtliyiniz necə oldu? Sizin haqqınızda şəhadət edirəm ki, əgər mümkün olsaydı, gözlərinizi çıxardıb mənə verərdiniz.</verse>
+        <verse osisID='Gal.4.16'>Məgər sizə həqiqəti söylədiyim üçün sizin düşməniniz oldum?</verse>
+        <verse osisID='Gal.4.17'>Onlar sizin qeyrətinizi çəkirlər, amma yaxşı niyyətlə deyil. Siz onların qeyrətini çəkəsiniz deyə sizi məndən ayırmaq istəyirlər.</verse>
+        <verse osisID='Gal.4.18'>Yaxşı niyyətlə olarsa, qeyrətimi çəkməniz yaxşıdır, amma bu, yalnız yanınızda olduğum vaxt deyil, daimi olsun.</verse>
+        <verse osisID='Gal.4.19'>Övladlarım! Məsihin surəti sizdə yaradılana qədər, sizlər üçün yenə doğuş ağrısı çəkirəm.</verse>
+        <verse osisID='Gal.4.20'>İndi yanınızda olmaq və səsimi dəyişdirmək istəyirdim. Bu halınıza çaşıb-qalmışam. </verse>
+        <verse osisID='Gal.4.21'>Ey Qanun altında yaşamaq istəyənlər, mənə deyin görüm, Qanunun nə dediyini eşitməmisinizmi?</verse>
+        <verse osisID='Gal.4.22'>İbrahimin iki oğlu olduğu yazılmışdır. Bir oğlu cariyədən, o biri oğlu isə azad qadından doğulmuşdu.</verse>
+        <verse osisID='Gal.4.23'>Cariyədən doğulan bəşəri arzusundan, azad qadından doğulan isə vədə görə doğulmuşdu.</verse>
+        <verse osisID='Gal.4.24'>Burada bir məcaz var. Çünki bu qadınlar iki Əhdi təmsil edir. Biri Sina dağındandır, köləlik üçün uşaq doğur. Bu, Həcərdir.</verse>
+        <verse osisID='Gal.4.25'>Həcər Ərəbistandakı Sina dağını təmsil edir və indiki Yerusəlimə bənzəyir. Çünki indiki Yerusəlim övladları ilə birlikdə köləlikdədir.</verse>
+        <verse osisID='Gal.4.26'>Səmavi Yerusəlim isə azaddır, o bizim anamızdır.</verse>
+        <verse osisID='Gal.4.27'>Çünki yazılıb:  «Şənlən, ey sonsuz, qısır qadın!Sevinclə mahnı oxu, qışqır,Ey doğuş ağrısı çəkməyən qadın!Çünki atılmış qadının övladlarıƏrli qadının övladlarından çoxdur».</verse>
+        <verse osisID='Gal.4.28'>Sizsə, qardaşlar, İshaq kimi vədə görə doğulan övladlarsınız.</verse>
+        <verse osisID='Gal.4.29'>Amma o zaman bəşər arzusundan doğulan şəxs Ruhun gücü ilə doğulan şəxsi necə təqib etdisə, indi də belədir.</verse>
+        <verse osisID='Gal.4.30'>Bəs Müqəddəs Yazı nə deyir? «Cariyəni və onun oğlunu qov. Çünki cariyənin oğlu azad qadının oğlu ilə birgə varis olmayacaq».</verse>
+        <verse osisID='Gal.4.31'>Buna görə, qardaşlar, biz cariyənin deyil, azad qadının övladlarıyıq.  </verse>
+      </chapter>
+      <chapter osisID='Gal.5'>
+        <verse osisID='Gal.5.1'/>
+        <verse osisID='Gal.5.2'>Budur, mən Paul sizə deyirəm: əgər siz sünnət olunsanız, Məsih sizə heç bir fayda verməz.</verse>
+        <verse osisID='Gal.5.3'>Sünnət olunan hər adama yenə şəhadət edirəm ki, elə bir adam bütün Qanuna əməl etməyə borcludur.</verse>
+        <verse osisID='Gal.5.4'>Ey Qanun vasitəsilə saleh sayılmaq istəyənlər, siz Məsihdən ayrıldınız, Allahın lütfündən uzaq düşdünüz.</verse>
+        <verse osisID='Gal.5.5'>Amma biz Ruh vasitəsilə imanla saleh sayılacağımıza ümid bağlayıb onu həvəslə gözləyirik.</verse>
+        <verse osisID='Gal.5.6'>Məsih İsada sünnətlilik də, sünnətsizlik də əhəmiyyət kəsb etmir, əhəmiyyət kəsb edən isə məhəbbətlə fəal olan imandır. </verse>
+        <verse osisID='Gal.5.7'>Yaxşı irəliləyirdiniz. Axı həqiqətə itaət etmə yolunuzu kim kəsdi?</verse>
+        <verse osisID='Gal.5.8'>Belə inandırılmağınız sizi Çağıranın istəyi deyil.</verse>
+        <verse osisID='Gal.5.9'>Azacıq maya bütün xəmiri acıdır.</verse>
+        <verse osisID='Gal.5.10'>Mən Rəbdə sizə etimad edirəm ki, başqa cür düşünməyəsiniz. Sizi lərzəyə salansa, kim olursa olsun, öz cəzasını çəkəcək.</verse>
+        <verse osisID='Gal.5.11'>Amma, qardaşlar, əgər mən hələ də sünnəti vəz edirəmsə, nə üçün hələ də təqibə məruz qalıram? Elə olsaydı, onlara büdrəmə daşı olan çarmıx ləğv olunardı.</verse>
+        <verse osisID='Gal.5.12'>Ah, kaş sizi çaşdıranlar özlərini axtalayaydılar! </verse>
+        <verse osisID='Gal.5.13'>Qardaşlar, siz azadlığa dəvət olunmusunuz. Amma bu azadlığı cismani təbiət üçün fürsətə çevirməyin, lakin bir-birinizə məhəbbətlə qulluq edin.</verse>
+        <verse osisID='Gal.5.14'>Bütün Qanun tək bir sözdə tamamlanır: «Qonşunu özün kimi sev».</verse>
+        <verse osisID='Gal.5.15'>Əgər siz bir-birinizi didib-yeyirsinizsə, ehtiyatlı olun ki, bir-birinizi tələf etməyəsiniz. </verse>
+        <verse osisID='Gal.5.16'>Mən bunu deyirəm: Müqəddəs Ruha görə həyat sürün, o zaman siz cismani təbiətin ehtirasını əsla icra etməzsiniz.</verse>
+        <verse osisID='Gal.5.17'>Çünki cismani təbiət Ruha zidd və Ruh cismani təbiətə zidd olanı arzulayır. Onlar bir-birinə qarşı durur ki, siz istədiyinizi etməyəsiniz.</verse>
+        <verse osisID='Gal.5.18'>Amma Müqəddəs Ruhun rəhbərliyi altında olsanız, siz Qanun altında deyilsiniz. </verse>
+        <verse osisID='Gal.5.19'>Cismani təbiətin əməlləri isə bəllidir. Bunlar cinsi əxlaqsızlıq, murdarlıq, pozğunluq,</verse>
+        <verse osisID='Gal.5.20'>bütpərəstlik, sehrbazlıq, düşmənçilik, münaqişə, qısqanclıq, hiddət, özünü göstərmə, nifaq, təfriqələr,</verse>
+        <verse osisID='Gal.5.21'>paxıllıq, sərxoşluq, eyş-işrət və buna bənzər şeylərdir. Sizə əvvəllər xəbərdarlıq etdiyim kimi indi də xəbərdarlıq edirəm ki, bunları edənlər Allahın Padşahlığını irs almayacaqlar. </verse>
+        <verse osisID='Gal.5.22'>Müqəddəs Ruhun səmərəsi isə budur: məhəbbət, sevinc, sülh, səbir, xeyirxahlıq, yaxşılıq, sədaqət,</verse>
+        <verse osisID='Gal.5.23'>həlimlik, nəfsə hakim olmaq. Bu kimi şeylərə qarşı qanun yoxdur.</verse>
+        <verse osisID='Gal.5.24'>Məsih İsaya məxsus olanlar isə öz həvəs və ehtirasları ilə birlikdə cismani təbiəti çarmıxa çəkdilər.</verse>
+        <verse osisID='Gal.5.25'>Madam ki, biz Ruha görə yaşayırıq, Ruha görə də rəftar edək.</verse>
+        <verse osisID='Gal.5.26'>Şöhrətpərəst olmayaq, bir-birimizi hirsləndirməyək, bir-birimizə paxıllıq etməyək.  </verse>
+      </chapter>
+      <chapter osisID='Gal.6'>
+        <verse osisID='Gal.6.1'>
+          Qardaşlar, əgər bir adam bir təqsir üstündə tutulsa, siz ruhanilər onu həlimlik ruhu ilə bərpa edin. Sən də sınağa düşməmək üçün özünə fikir ver.</verse>
+        <verse osisID='Gal.6.2'>Bir-birinizin yüklərini daşıyın və bu yolla Məsihin qanununu icra edin.</verse>
+        <verse osisID='Gal.6.3'>Çünki əgər kimsə heç olduğu halda özünü əhəmiyyətli sanırsa, öz-özünü aldadır.</verse>
+        <verse osisID='Gal.6.4'>Qoy hər kəs öz əməlini yoxlasın və onda başqasının etdikləri ilə deyil, yalnız öz etdikləri ilə fəxr edəcək.</verse>
+        <verse osisID='Gal.6.5'>Çünki hər kəs öz üzərinə düşən yükü daşımalıdır. </verse>
+        <verse osisID='Gal.6.6'>Kəlam haqqında təlim alan, təlim verənlə hər cür neməti bölüşdürsün. </verse>
+        <verse osisID='Gal.6.7'>Aldanmayın: Allaha istehza edilməz. Çünki insan nəyi əkərsə, onu da biçəcək.</verse>
+        <verse osisID='Gal.6.8'>Öz cismani təbiəti üçün əkən, bu təbiətdən məhv biçəcək. Ruh üçün əkənsə Ruhdan əbədi həyat biçəcək.</verse>
+        <verse osisID='Gal.6.9'>Yaxşılıq edərkən ruhdan düşməyək. Çünki əgər həvəsdən düşməsək, vaxtında biçərik.</verse>
+        <verse osisID='Gal.6.10'>Buna görə də nə qədər fürsətimiz varsa, hamı üçün, xüsusən imanlılar ailəsi üçün yaxşı işlər görək. </verse>
+        <verse osisID='Gal.6.11'>Baxın, sizə öz əlimlə necə böyük hərflərlə yazdım!</verse>
+        <verse osisID='Gal.6.12'>Zahirən və cismən yaxşı təsir buraxmaq istəyənlər yalnız Məsihin çarmıxı üzündən təqib olunmamaq üçün sizi sünnət olunmağa məcbur edirlər.</verse>
+        <verse osisID='Gal.6.13'>Axı sünnət olunanların özləri də Qanuna riayət etmirlər. Lakin sizin sünnət olunmanızı istəyirlər ki, sizin cisminizlə öyünsünlər.</verse>
+        <verse osisID='Gal.6.14'>Mənsə Rəbbimiz İsa Məsihin çarmıxından başqa şeylə əsla öyünmərəm. Bunun vasitəsilə dünya mənim üçün çarmıxa çəkildi, mən də dünya üçün çarmıxa çəkildim.</verse>
+        <verse osisID='Gal.6.15'>Çünki əhəmiyyət kəsb edən sünnətlilik yaxud sünnətsizlik deyil, yeni yaradılışdır.</verse>
+        <verse osisID='Gal.6.16'>Nə qədər bu qaydaya riayət edənlər varsa, onların üzərinə, Allahın İsraili üzərinə sülh və mərhəmət gəlsin. </verse>
+        <verse osisID='Gal.6.17'>Bundan sonra qoy heç kim mənə əziyyət verməsin. Çünki mən İsanın yara izlərini bədənimdə daşıyıram. </verse>
+        <verse osisID='Gal.6.18'>Qardaşlar, Rəbbimiz İsa Məsihin lütfü ruhunuza yar olsun! Amin.  </verse>
+      </chapter>
+    </div></osisText>
+</osis>

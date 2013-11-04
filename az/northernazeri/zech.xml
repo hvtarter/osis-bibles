@@ -1,0 +1,348 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace'>
+  <osisText osisIDWork='NorthernAzeri' osisRefWork='Bible' xml:lang='az'>
+    <header>
+      <revisionDesc>
+        <date>2012-01-07</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='NorthernAzeri'>
+        <title>Northern Azeri Translation</title>
+        <contributor/>
+        <creator>Mod2Zef (6)</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject/>
+        <date>2012-01-07</date>
+        <description>Northern Azeri Translation</description>
+        <publisher/>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>NorthernAzeri</identifier>
+        <source>no entry TextSource in sword.conf found</source>
+        <language type='IETF'>az</language>
+        <relation/>
+        <coverage>provide the bible to the nations of the world</coverage>
+        <rights>Copyrighted Kutsul Kitab; Permission to distribute granted to CrossWire</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='Zech'>
+      <chapter osisID='Zech.1'>
+        <verse osisID='Zech.1.1'>
+            Daranın hakimiyyətinin ikinci ilində, səkkizinci ayda İddo oğlu Berekya oğlu Zəkəriyyə peyğəmbərə Rəbbin bu sözü nazil oldu:</verse>
+        <verse osisID='Zech.1.2'>«Rəbb atalarınıza çox qəzəbləndi.</verse>
+        <verse osisID='Zech.1.3'>Ona görə də sən onlara söylə ki, Ordular Rəbbinin sözü belədir:  “Mənə tərəf qayıdın” bəyan edir Ordular Rəbbi,“Mən də sizə tərəf qayıdaram” deyir Ordular Rəbbi. </verse>
+        <verse osisID='Zech.1.4'>“Atalarınız kimi olmayın! Əvvəlki peyğəmbərlər onlara müraciət edib söylədi ki, Ordular Rəbbi onlara ‹pis əməllərinizdən və pis işlərinizdən qayıdın› deyir. Ancaq onlar eşitmədi və Mənə qulaq asmadı” Rəbb belə bəyan edir.</verse>
+        <verse osisID='Zech.1.5'>“Atalarınız indi haradadır?Peyğəmbərlər də əbədi yaşayırmı?</verse>
+        <verse osisID='Zech.1.6'>Amma qullarım peyğəmbərlərə əmr etdiyimSözlərim və qaydalarım atalarınıza gəlib çatmadımı?”  Onlar da tövbə edib dedi: “Ordular Rəbbi əməllərimizə və işlərimizə görə bizə nə etməyi düşündüsə, bizimlə elə də rəftar etdi”». </verse>
+        <verse osisID='Zech.1.7'>Daranın hakimiyyətinin ikinci ilində, on birinci ay olan Şevat ayının iyirmi dördüncü günü İddo oğlu Berekya oğlu Zəkəriyyə peyğəmbərə Rəbbin bu sözü nazil oldu:</verse>
+        <verse osisID='Zech.1.8'>gecə yarısı gördüm ki, qırmızı ata minmiş bir nəfər dərənin dibində mərsin ağacları arasında durub. Onun arxasında isə qırmızı, kəhər və ağ atlar var idi.</verse>
+        <verse osisID='Zech.1.9'>Mən soruşdum: «Ay ağam, bunlar nədir?» Mənimlə danışan mələk dedi: «Bunların nə olduğunu sənə göstərəcəyəm».</verse>
+        <verse osisID='Zech.1.10'>Mərsin ağacları arasında duran adam cavab verdi: «Bunları dünyanı dolaşmaq üçün Rəbb göndərib».</verse>
+        <verse osisID='Zech.1.11'>Onlar mərsin ağacları arasında duran Rəbbin mələyinə cavab verdi: «Biz dünyanı dolaşdıq və gördük ki, bütün dünya asayiş və əmin-amanlıq içindədir». </verse>
+        <verse osisID='Zech.1.12'>Onda Rəbbin mələyi dedi: «Ey Ordular Rəbbi, bu yetmiş il ərzində qəzəbləndiyin Yerusəlimə və başqa Yəhuda şəhərlərinə nə vaxta qədər mərhəmət etməyəcəksən?»</verse>
+        <verse osisID='Zech.1.13'>Rəbb mənimlə danışan mələyə yaxşı vədlərlə, təsəlliverici sözlərlə cavab verdi.</verse>
+        <verse osisID='Zech.1.14'>Mənimlə danışan mələk mənə dedi: «Müraciət edib söylə ki, Ordular Rəbbi belə deyir:  “Yerusəlim və Sion üçün böyük qısqanclıq duyuram.</verse>
+        <verse osisID='Zech.1.15'>Qayğısız olan millətlərə qarşı çox qəzəbliyəm.Çünki Mən hələ az qəzəbləndiyim zamanOnlar öz pis əməllərini daha da artırdı”.</verse>
+        <verse osisID='Zech.1.16'>Buna görə də Rəbb belə deyir:“Mən mərhəmətlə Yerusəlimə qayıtdım.Evim yenə orada qurulacaq,Yerusəlimin üzərinə ölçü ipi çəkiləcək”Bəyan edir Ordular Rəbbi.</verse>
+        <verse osisID='Zech.1.17'>Sən bir daha müraciət edib söylə ki,Ordular Rəbbi belə deyir:“Şəhərlərim yenə bolluqla dolub-daşacaq.Rəbb Siona yenə təsəlli verəcək,Yenə Yerusəlimi seçəcək”». </verse>
+        <verse osisID='Zech.1.18'>Sonra başımı qaldırıb baxdım və dörd buynuz gördüm.</verse>
+        <verse osisID='Zech.1.19'>Mənimlə danışan mələyə dedim: «Bunlar nədir?» O mənə dedi: «Bunlar Yəhudanı, İsraili və Yerusəlimi dağıtmış buynuzlardır».</verse>
+        <verse osisID='Zech.1.20'>Onda Rəbb mənə dörd usta göstərdi.</verse>
+        <verse osisID='Zech.1.21'>Mən «Bunlar nə etməyə gəlir?» deyə soruşdum. O dedi: «Bu buynuzlar Yəhudanı elə dağıtdı ki, heç kəs başını qaldıra bilmədi. Bu ustalar da Yəhuda ölkəsini dağıtmaq üçün buynuz qaldıran millətləri dəhşətə gətirib buynuzlarını yerə çalmağa gəldi».  </verse>
+      </chapter>
+      <chapter osisID='Zech.2'>
+        <verse osisID='Zech.2.1'>
+          Mən başımı qaldırıb baxdım və əlində ölçü ipi olan bir adam gördüm.</verse>
+        <verse osisID='Zech.2.2'>«Hara gedirsən?» deyib soruşdum. O mənə dedi: «Yerusəlimi ölçməyə, en və uzunluğunun nə qədər olduğunu öyrənməyə gedirəm».</verse>
+        <verse osisID='Zech.2.3'>Mənimlə danışan mələk yanımdan çıxanda başqa bir mələk onu qarşılamağa gəldi</verse>
+        <verse osisID='Zech.2.4'>və ona dedi:  «Qaç, o cavana söylə ki, içində adamlarVə heyvanlar çox olduğu üçünYerusəlim divarsız bir şəhər olacaq.</verse>
+        <verse osisID='Zech.2.5'>“Mən Özüm onun ətrafında odlu divara çevriləcəyəm,Onun içində izzət olacağam” bəyan edir Rəbb».</verse>
+        <verse osisID='Zech.2.6'>«Haydı, haydı! Şimal ölkəsindən qaçın» deyir Rəbb,«Çünki sizi göydə dörd tərəfə əsənKülək kimi dağıtmışdım» deyir Rəbb.</verse>
+        <verse osisID='Zech.2.7'>«Haydı! Ey Sion, sən ki Babil şəhərində yaşayırsan, qaçıb qurtar!»</verse>
+        <verse osisID='Zech.2.8'>Çünki Ordular Rəbbi deyir ki,İzzəti üçün sizi qarət etmiş millətlərin yanına Məni göndərdi.Sizə toxunan Onun göz bəbəyinə toxunmuş olur.</verse>
+        <verse osisID='Zech.2.9'>Mən o millətlərə qarşı əlimi qaldıracağam,Əsarətlərində olanlar onları qarət edəcək.Onda biləcəksiniz ki,Məni Ordular Rəbbi göndərmişdir. </verse>
+        <verse osisID='Zech.2.10'>«Şadlıq edib sevin, ey Sion qızı!  Çünki aranızda yaşamağa gəlirəm» bəyan edir Rəbb.</verse>
+        <verse osisID='Zech.2.11'>«O gün çoxlu millətlər Rəbbə bağlanacaq,Mənim xalqım olacaq.O zaman aranızda yaşayacağam.Siz biləcəksiniz ki,Məni yanınıza Ordular Rəbbi göndərib.</verse>
+        <verse osisID='Zech.2.12'>Rəbb müqəddəs torpaqdaYəhudanı Öz payı olaraq mülk alacaq,Yenə Yerusəlimi seçəcək.</verse>
+        <verse osisID='Zech.2.13'>Ey bütün bəşər, Rəbbin önündə susun!Çünki O Öz müqəddəs məskənindən qalxıb gəlir!» </verse>
+      </chapter>
+      <chapter osisID='Zech.3'>
+        <verse osisID='Zech.3.1'>
+              Rəbb mənə bunu göstərdi: Rəbbin mələyinin önündə baş kahin Yeşua durmuşdu və onu ittiham etmək üçün sağında Şeytan dayanmışdı.</verse>
+        <verse osisID='Zech.3.2'>Rəbb Şeytana dedi: «Rəbb səni məzəmmət etsin, ey Şeytan, Yerusəlimi seçən Rəbb səni məzəmmət etsin. Bu adam oddan çıxarılmış, yarısı yanmış odun parçasına bənzəmirmi?»</verse>
+        <verse osisID='Zech.3.3'>O vaxt Yeşua əyninə çox çirkli paltar geyinib mələyin önündə dayanmışdı.</verse>
+        <verse osisID='Zech.3.4'>Bu mələk önündə duran mələklərə dedi: «Onun əynindən çirkli paltarı çıxarın». Sonra Yeşuaya dedi: «Bax günahını sənin üzərindən götürdüm, indi sənə bayram paltarı geyindirəcəyəm».</verse>
+        <verse osisID='Zech.3.5'>Mən isə dedim: «Qoy başına da təmiz çalma bağlasınlar». Başına təmiz çalma bağlayıb ona paltar geyindirdilər. Rəbbin mələyi də yanında durmuşdu. </verse>
+        <verse osisID='Zech.3.6'>Sonra Rəbbin mələyi Yeşuaya şəhadət edib dedi:</verse>
+        <verse osisID='Zech.3.7'>«Ordular Rəbbi belə deyir:  “Əgər yollarımla getsən, verdiyim buyruğumu qoruyub saxlasan,Evimə sən başçılıq edəcəksən, həyətlərimi sən qoruyacaqsan.Burada duranların arasında içəri keçmək haqqını sənə verirəm”.</verse>
+        <verse osisID='Zech.3.8'>Ey baş kahin Yeşua, sən və sənin önündə oturan yoldaşların qulaq assın!  Çünki onlar gələcək hadisələrin əlamətidir.Mən “Pöhrə” adlı qulumu gətirəcəyəm.</verse>
+        <verse osisID='Zech.3.9'>Yeşuanın önünə qoyduğum daşa baxın!O tək daşın yeddi gözü var.Onun üzərinə bir yazı oyub yazacağam» bəyan edir Ordular Rəbbi,«Bir gün içində bu ölkənin günahını ortadan götürəcəyəm.</verse>
+        <verse osisID='Zech.3.10'>O gün hər biriniz qonşusunu öz tənəyi və əncir ağacı altına çağıracaq»  Bəyan edir Ordular Rəbbi. </verse>
+      </chapter>
+      <chapter osisID='Zech.4'>
+        <verse osisID='Zech.4.1'>
+          Mənimlə danışan mələk geri qayıdıb məni yuxusundan oyanan adam kimi oyatdı.</verse>
+        <verse osisID='Zech.4.2'>O məndən soruşdu: «Nə görürsən?» Mən dedim: «Büsbütün qızıldan olan bir çıraqdan görürəm. Onun başında zeytun yağı üçün bir qab, üzərində yeddi çıraq, çıraqlarda isə yeddi lülə var.</verse>
+        <verse osisID='Zech.4.3'>Çıraqdanın yanında isə biri yağ qabının sağında, o biri solunda olmaqla iki zeytun ağacı var».</verse>
+        <verse osisID='Zech.4.4'>Sonra mənimlə danışan mələkdən soruşdum: «Ay ağam, bunlar nədir?»</verse>
+        <verse osisID='Zech.4.5'>Mənimlə danışan mələk «Bunların nə olduğunu bilmirsənmi?» deyə soruşdu. Mən də «yox, ağam» dedim.</verse>
+        <verse osisID='Zech.4.6'>O mənə cavab verdi:  «Zerubbabilə Rəbbin sözü budur:“Güclə, qüdrətlə yox, yalnız Mənim Ruhumla iş görəcəksən”Deyir Ordular Rəbbi.</verse>
+        <verse osisID='Zech.4.7'>Sən kimsən, ey uca dağ?Zerubbabilin önündə düzənliyə çevriləcəksən.O “nə gözəldir, nə gözəldir” nidaları altındaMəbədin təpə daşını götürəcək». </verse>
+        <verse osisID='Zech.4.8'>Mənə Rəbbin sözü nazil oldu:</verse>
+        <verse osisID='Zech.4.9'>«Bu evin təməlini Zerubbabilin əlləri qoydu,Onun əlləri də bunu sona çatdıracaq.Onda biləcəksən ki, Ordular Rəbbi Məni sizin yanınıza göndərib.</verse>
+        <verse osisID='Zech.4.10'>Bu günü kim əhəmiyyətsiz hesab edə bilər?  Məhz bu gün adamlar Zerubbabilin əlində şaqulu görəndə sevinəcək.Bu yeddi çıraq isə Rəbbin bütün yer üzündə dolaşan gözləridir». </verse>
+        <verse osisID='Zech.4.11'>Mən ondan soruşdum: «Bəs çıraqdanın sağ və solunda olan bu iki zeytun ağacı nədir?»</verse>
+        <verse osisID='Zech.4.12'>Sonra yenə soruşdum: «İki qızıl borucuq vasitəsilə içindən qızıl rəngində yağ axan bu iki zeytun budağı nədir?»</verse>
+        <verse osisID='Zech.4.13'>O məndən soruşdu: «Bunların nə olduğunu bilmirsənmi?» Mən də «yox, ay ağam» dedim.</verse>
+        <verse osisID='Zech.4.14'>O mənə dedi: «Bunlar bütün yer üzünün Sahibinin önündə duran məsh olunmuş iki nəfərdir».  </verse>
+      </chapter>
+      <chapter osisID='Zech.5'>
+        <verse osisID='Zech.5.1'>
+          Mən yenə başımı qaldırıb baxanda uçan bir tumar gördüm.</verse>
+        <verse osisID='Zech.5.2'>Mələk «Nə görürsən?» deyib məndən soruşdu. Mən dedim: «Uçan bir tumar görürəm: onun uzunluğu iyirmi qulac, eni on qulacdır».</verse>
+        <verse osisID='Zech.5.3'>O dedi: «Bu bütün yer üzünə yağacaq lənətdir. Tumarın bir üzünə yazılanlara görə oğurluq edən hər kəs kəsilib-atılacaq, o biri üzünə yazılanlara görə isə yalandan and içənlər kəsilib-atılacaq.</verse>
+        <verse osisID='Zech.5.4'>Lənət yağdıracağam» bəyan edir Ordular Rəbbi,«Oğrunun evinə və Mənim adımlaYalandan and içən adamın evinə lənət girəcək,O evin içində qalacaq,Taxtaları və daşları ilə birlikdə onu yıxıb məhv edəcək». </verse>
+        <verse osisID='Zech.5.5'>Sonra mənimlə danışan mələk yaxınlaşıb dedi: «Başını qaldırıb ortaya çıxan bu şeyin nə olduğunu gör».</verse>
+        <verse osisID='Zech.5.6'>Mən «Bu nədir?» deyə soruşdum. O cavab verdi: «Bu ortaya çıxan şey bir ölçü qabıdır». Sonra əlavə etdi: «Bu bütün ölkə xalqının təqsiridir».</verse>
+        <verse osisID='Zech.5.7'>Qabın qurğuşun qapağı qaldırıldı. Qabın içində bir qadın oturmuşdu.</verse>
+        <verse osisID='Zech.5.8'>Mələk «bu qadın pislikdir» dedi və qadını ölçü qabının içinə atıb üstünə qurğuşun qapağı basdı. </verse>
+        <verse osisID='Zech.5.9'>Mən başımı qaldırıb baxanda gördüm ki, iki qadın çıxdı, onların qanadlarında külək var idi. Onların da leylək qanadlarına bənzər qanadları var idi. Onlar qabı yerlə göy arasına qaldırdı.</verse>
+        <verse osisID='Zech.5.10'>Mənimlə danışan mələkdən soruşdum: «Qabı hara aparırlar?»</verse>
+        <verse osisID='Zech.5.11'>O mənə dedi: «Şinar ölkəsində ona bir ev tikmək üçün oraya aparırlar. Ev hazır olanda qab oraya – öz yerinə qoyulacaq».  </verse>
+      </chapter>
+      <chapter osisID='Zech.6'>
+        <verse osisID='Zech.6.1'>
+          Yenə başımı qaldırıb baxanda iki dağ arasından dörd döyüş arabasının çıxdığını gördüm. O dağlar misdən idi.</verse>
+        <verse osisID='Zech.6.2'>Birinci döyüş arabasının qırmızı, ikincisinin qara,</verse>
+        <verse osisID='Zech.6.3'>üçüncüsünün ağ, dördüncüsünün xallı atları var idi. Hamısı qüvvətli atlar idi.</verse>
+        <verse osisID='Zech.6.4'>Mənimlə danışan mələkdən «Ay ağam, bunlar nədir?» deyib soruşdum.</verse>
+        <verse osisID='Zech.6.5'>Mələk mənə cavab verdi: «Bunlar bütün yer üzünün Sahibinə xidmət etdikləri yerdən çıxan göylərin dörd səmtinin ruhudur.</verse>
+        <verse osisID='Zech.6.6'>Qara atları olan döyüş arabası şimal torpağına, ağ atları olan döyüş arabası qərbə, xallı atları olan döyüş arabası isə cənuba tərəf gedir».</verse>
+        <verse osisID='Zech.6.7'>Qüvvətli atlar çıxıb yer üzünü dolaşmaq üçün getmək istədi. Mələk «gedin yer üzünü dolaşın» dedi. Onlar da gedib yer üzünü dolaşdı.</verse>
+        <verse osisID='Zech.6.8'>Mələk məni çağırıb dedi: «Bax şimal torpağına gedənlər orada ürəyimi rahatlandırdı». </verse>
+        <verse osisID='Zech.6.9'>Mənə Rəbbin bu sözü nazil oldu:</verse>
+        <verse osisID='Zech.6.10'>«Hədiyyələri sürgündən qayıdanlardan – Babildən gələn Xelday, Toviya, Yedayadan götür və həmin gün Sefanya oğlu Yoşiyanın evinə get.</verse>
+        <verse osisID='Zech.6.11'>Onların arasından qızıl-gümüş götürüb taclar düzəlt və baş kahin Yehosadaq oğlu Yeşuanın başına qoy.</verse>
+        <verse osisID='Zech.6.12'>Ona söylə ki, Ordular Rəbbi belə deyir:  “Bax ‹Pöhrə› adlanan adam budur!O olduğu yerdən qol-budaq atacaq,Rəbbin məbədini tikəcək.</verse>
+        <verse osisID='Zech.6.13'>Bəli, Rəbbin məbədini o tikəcək.O izzətlənəcək, taxtında oturub hökmranlıq edəcək.Taxtının yanında kahin olacaq,İkisinin arasında tam razılıq olacaq”. </verse>
+        <verse osisID='Zech.6.14'>Bu taclar Xeldayın, Toviyanın, Yedayanın, Sefanya oğlu Yoşiyanın xatirəsi kimi Rəbbin məbədinə qoyulacaq.</verse>
+        <verse osisID='Zech.6.15'>Uzaqda olanlar da gəlib Rəbbin məbədinin tikintisində çalışacaq. Onda biləcəksiniz ki, məni Ordular Rəbbi sizin yanınıza göndərmişdir. Əgər Allahınız Rəbbin səsinə yaxşı qulaq assanız, bunlar olacaq».  </verse>
+      </chapter>
+      <chapter osisID='Zech.7'>
+        <verse osisID='Zech.7.1'>
+          Padşah Daranın hakimiyyətinin dördüncü ilində, doqquzuncu ay olan Kislev ayının dördüncü günü Zəkəriyyəyə Rəbbin sözü nazil oldu.</verse>
+        <verse osisID='Zech.7.2'>O vaxt Bet-El əhalisi Sar-Eseri, Reqem-Meleki və onun adamlarını Rəbbin hüzuruna yalvarmağa göndərdi ki,</verse>
+        <verse osisID='Zech.7.3'>Ordular Rəbbinin evində olan kahinlərlə peyğəmbərlərdən «İllərlə etdiyimiz kimi beşinci ayda yenə də oruc tutub ağlayaqmı?» deyə soruşsunlar. </verse>
+        <verse osisID='Zech.7.4'>Onda mənə Ordular Rəbbinin bu sözü nazil oldu:</verse>
+        <verse osisID='Zech.7.5'>«Bütün ölkə xalqına və kahinlərə söylə:“Yetmiş il ərzində beşinci və yeddinci aylardaOruc tutub yas saxladığınız zamanMənim üçünmü oruc tuturdunuz?</verse>
+        <verse osisID='Zech.7.6'>Yeyib-içdiyiniz zamanÖzünüz üçün yeyib-içmirdinizmi?”</verse>
+        <verse osisID='Zech.7.7'>Yerusəlim əmin-amanlıq içində yaşayarkən, ətrafındakı şəhərlər, Negev və yamaclı-düzənlikli bölgədə insanlar sakin olarkən Rəbb indi dediyi bu sözləri əvvəlki peyğəmbərlər vasitəsilə söyləməmişdimi?» </verse>
+        <verse osisID='Zech.7.8'>Zəkəriyyəyə Rəbbin bu sözü nazil oldu:</verse>
+        <verse osisID='Zech.7.9'>«Ordular Rəbbi belə deyir:“Düzgün və ədalətlə mühakimə edin.Hər kəs bir-birinə məhəbbət və mərhəmət göstərsin.</verse>
+        <verse osisID='Zech.7.10'>Dul qadına, yetimə, qəribə və yoxsula zülm etməyin.Ürəyinizdə bir-birinizə qarşı pis niyyətlər tutmayın”.</verse>
+        <verse osisID='Zech.7.11'>Ancaq onlar eşitməkdən boyun qaçırdı, inadkarlıqla arxa çevirdi, eşitməmək üçün qulaqlarını bağladı.</verse>
+        <verse osisID='Zech.7.12'>Ordular Rəbbinin Öz Ruhu ilə əvvəlki peyğəmbərlər vasitəsilə göndərdiyi qanunu və nəsihətləri eşitməmək üçün ürəklərini almaz kimi sərtləşdirdilər. Buna görə də Ordular Rəbbi onlara çox qəzəbləndi.</verse>
+        <verse osisID='Zech.7.13'>Ordular Rəbbi deyir: “İndi ki Mən onları çağıranda qulaq asmadılar, onlar da çağıranda Mən qulaq asmayacağam.</verse>
+        <verse osisID='Zech.7.14'>Onları qasırğa kimi tanımadıqları millətlərin arasına səpələdim. Arxada qoyduqları torpaq elə viran qaldı ki, oraya gedib-gələn olmadı. Gözəl torpaq xaraba qaldı”».  </verse>
+      </chapter>
+      <chapter osisID='Zech.8'>
+        <verse osisID='Zech.8.1'>
+          Mənə Ordular Rəbbinin bu sözü nazil oldu:</verse>
+        <verse osisID='Zech.8.2'>Ordular Rəbbi belə deyir: «Sion üçün böyük qısqanclıq duyuram. Bəli, onu çox qısqanıram».</verse>
+        <verse osisID='Zech.8.3'>Rəbb belə deyir: «Siona qayıtdım, artıq Yerusəlimdə yaşayacağam. Yerusəlim Həqiqət şəhəri, Ordular Rəbbinin dağı Müqəddəs dağ çağırılacaq». </verse>
+        <verse osisID='Zech.8.4'>Ordular Rəbbi belə deyir: «Yenə Yerusəlim meydanlarında qoca kişilər və qadınlar oturacaq, hər kəs yaşı çox olduğuna görə əlinə əsa alacaq.</verse>
+        <verse osisID='Zech.8.5'>Şəhərin meydanları orada oynayan oğlan və qız uşaqları ilə dolacaq». </verse>
+        <verse osisID='Zech.8.6'>Ordular Rəbbi belə deyir: «O günlər bu xalqın sağ qalanlarının gözündə bu iş qeyri-mümkün görünürsə, Mənə də belə görünməlidirmi?» bəyan edir Ordular Rəbbi.</verse>
+        <verse osisID='Zech.8.7'>«Bax Mən Öz xalqımı şərq və qərb ölkələrindən qaytaracağam» deyir Ordular Rəbbi.</verse>
+        <verse osisID='Zech.8.8'>«Mən onları gətirəcəyəm və onlar Yerusəlimdə yaşayacaq. Onlar Mənim xalqım olacaq, Mən də sədaqət və salehliklə onların Allahı olacağam». </verse>
+        <verse osisID='Zech.8.9'>Ordular Rəbbi belə deyir: «Ordular Rəbbinin evinin – məbədin tikilməsi üçün təməli qoyulan gün orada peyğəmbərlərin dediyi bu sözləri o vaxt eşidənlər, qoy qolunuza güc gəlsin.</verse>
+        <verse osisID='Zech.8.10'>O vaxtdan əvvəl insan yaxud heyvana heç bir əvəz verilmirdi. Düşmən üzündən heç kəs əmin-amanlıq içində gedib-gələ bilmirdi. Çünki adamları bir-birinin üstünə salışdırmışdım.</verse>
+        <verse osisID='Zech.8.11'>Ancaq indi bu xalqın sağ qalanları ilə əvvəlki kimi rəftar etməyəcəyəm» bəyan edir Ordular Rəbbi.</verse>
+        <verse osisID='Zech.8.12'>«Çünki əkilən toxum bəhərli olacaq: tənək bəhrəsini, torpaq məhsulunu, göylər şehini verəcək. Bunların hamısını bu xalqın sağ qalanlarına mülk olaraq verəcəyəm.</verse>
+        <verse osisID='Zech.8.13'>Sizi qurtaracağam, ey Yəhuda və İsrail nəsli. Siz necə millətlər arasında lənət hədəfi oldunuzsa, indi bərəkət qaynağı olacaqsınız. Qorxmayın, qolunuza güc gəlsin». </verse>
+        <verse osisID='Zech.8.14'>Ordular Rəbbi belə deyir: «Atalarınız Məni qəzəbləndirən zaman başınıza fəlakət gətirmək istədim və fikrimdən dönmədim» deyir Ordular Rəbbi.</verse>
+        <verse osisID='Zech.8.15'>«İndi isə Yerusəlimə və Yəhuda nəslinə yenə yaxşılıq etmək fikrindəyəm. Siz qorxmayın!</verse>
+        <verse osisID='Zech.8.16'>Belə edin: hər kəs öz qonşusuna həqiqəti söyləsin, əmin-amanlıq üçün şəhər darvazalarında sədaqət və ədalətlə mühakimə edin.</verse>
+        <verse osisID='Zech.8.17'>Bir-birinizə qarşı ürəyinizdə pis niyyət tutmayın, yalandan and içməkdən əl çəkin, çünki bunların hamısı Mənim nifrət etdiyim şeylərdir» bəyan edir Rəbb. </verse>
+        <verse osisID='Zech.8.18'>Mənə Ordular Rəbbinin bu sözü nazil oldu:</verse>
+        <verse osisID='Zech.8.19'>Ordular Rəbbi belə deyir: «Dördüncü, beşinci, yeddinci və onuncu ayların orucları Yəhuda xalqı üçün sevinc və şadlıq dolu gözəl bayramlar olacaq. Ancaq siz düzgünlüyü və əmin-amanlığı sevin». </verse>
+        <verse osisID='Zech.8.20'>Ordular Rəbbi belə deyir: «Hələ çoxlu xalq, çoxlu şəhərin əhalisi də gələcək.</verse>
+        <verse osisID='Zech.8.21'>Bir şəhərdə yaşayanlar başqa şəhərə gedib deyəcək: “Gəlin yola düşək, Rəbbin hüzurunda yalvaraq, Ordular Rəbbini axtaraq. Mən də gedirəm”.</verse>
+        <verse osisID='Zech.8.22'>Bir çox xalqlar və qüdrətli millətlər Ordular Rəbbini axtarmaq və Rəbbin hüzurunda yalvarmaq üçün Yerusəlimə gələcək». </verse>
+        <verse osisID='Zech.8.23'>Ordular Rəbbi deyir: «O günlərdə müxtəlif dillərdə danışan millətlərdən olan on adam bir Yəhudinin ətəyindən yapışıb “qoy sizinlə gedək, çünki Allahın sizinlə olduğunu eşitmişik” deyəcək».  </verse>
+      </chapter>
+      <chapter osisID='Zech.9'>
+        <verse osisID='Zech.9.1'>
+            Bu xəbərdarlıq Xadrak ölkəsi və onun rahatlıq yeri Dəməşq şəhəri barəsində nazil olan Rəbbin sözüdür, çünki insanların və bütün İsrail qəbilələrinin gözü Rəbbə baxır.</verse>
+        <verse osisID='Zech.9.2'>Bu söz oranın sərhədində olan Xamat şəhərinə, çox tərəqqi etmiş Sur və Sidon şəhərlərinə də aiddir.</verse>
+        <verse osisID='Zech.9.3'>Sur özünə bir qala tikdi, torpaq qədər gümüş, küçə palçığı qədər saf qızıl yığdı.</verse>
+        <verse osisID='Zech.9.4'>Amma Rəbb onu qovacaq, dənizdəki gücünü yox edəcək, od onu yandırıb-yaxacaq.</verse>
+        <verse osisID='Zech.9.5'>Aşqelon bunu görüb qorxacaq, Qəzzə də çox ağrı çəkəcək, Eqron da eləcə, çünki ümidi sönəcək. Qəzzədə padşah olmayacaq, Aşqelon sakinsiz qalacaq.</verse>
+        <verse osisID='Zech.9.6'>Aşdodda bic doğulanlar yaşayacaq, Filiştlilərin qürurunu qıracağam.</verse>
+        <verse osisID='Zech.9.7'>Ağızlarından qanı daman əti, dişlərinin arasından haram yeməkləri alacağam. Onların sağ qalanları Allahımıza məxsus olub Yəhudanın bir nəsli kimi olacaq. Eqronlular da Yevuslular kimi olacaq.</verse>
+        <verse osisID='Zech.9.8'>Hücum edən ordulara qarşı evimin ətrafında ordugah quracağam. Heç bir istilaçı daha xalqımın üzərinə tökülməyəcək. Çünki artıq xalqıma Mən keşik çəkirəm. </verse>
+        <verse osisID='Zech.9.9'>Ey Sion qızı, böyük sevinclə coş,  Ey Yerusəlim qızı, hayqır!Bax padşahın sənə tərəf gəlir.O ədalətli və xilaskardır.O itaətkardır və bir eşşəyə –Eşşəyin balası olan sıpaya minib gəlir.</verse>
+        <verse osisID='Zech.9.10'>Döyüş arabalarını Efrayimdən,  Atları Yerusəlimdən uzaqlaşdıracağam.Döyüş kamanları qırılacaq.Padşahınız millətlərə sülh elan edəcək.Onun hökmranlığı dənizdən dənizə,Çaydan yer üzünün qurtaracağınadək hər yerə uzanacaq.</verse>
+        <verse osisID='Zech.9.11'>Sizə gəlincə, əhd qurbanının qanından ötrüSürgündəki xalqınızıSusuz quyudan çıxarıb xilas edəcəyəm.</verse>
+        <verse osisID='Zech.9.12'>Qalanıza qayıdın,Ey ümid edən əsirlər!Bu gün sizə bildirirəm ki,Sizə zəhmətinizin ikiqat əvəzini verəcəyəm.</verse>
+        <verse osisID='Zech.9.13'>Yəhudanı Özüm üçün kaman kimi çəkəcəyəm,Efrayimi ox kimi ona qoyacağam.Ey Sion, övladlarınıYunan övladlarının üstünə qaldıracağam.Səni bir döyüşçü qılıncı tək edəcəyəm.</verse>
+        <verse osisID='Zech.9.14'>Onda Rəbb xalqının üzərində görünəcək,Onun oxu şimşək kimi çaxacaq.Xudavənd Rəbb şeypur çalacaq,Cənub qasırğaları ilə irəli gedəcək.</verse>
+        <verse osisID='Zech.9.15'>Onları Ordular Rəbbi qoruyacaq.Düşmənlərini tələf edəcəklər,Sapand daşları ilə qırıb-çatacaqlar.Onların qanını şərab kimi içib hay-küy salacaqlar.Qurban qanı tökülən qablar kimi,Qurbangahın künc-bucaqları kimiQanla dolu olacaqlar.</verse>
+        <verse osisID='Zech.9.16'>O gün özlərinin Allahı RəbbXalqının sürüsü kimi onları xilas edəcək.Onlar Onun torpağındaTac daş-qaşı kimi parıldayacaq.</verse>
+        <verse osisID='Zech.9.17'>Necə yaraşıqlı, necə gözəl olacaqlar!Oğlanlar taxılla,Qızlar təzə şərabla gücə gələcək.</verse>
+      </chapter>
+      <chapter osisID='Zech.10'>
+        <verse osisID='Zech.10.1'>Yaz yağışı mövsümündəRəbdən, şimşək çaxdıran RəbdənYağış istəyin.O, insanlara bolluca yağış vəHər kəsin tarlasına ot verəcək.</verse>
+        <verse osisID='Zech.10.2'>Ancaq ev bütlərindən alınan vədlər boş şeydir.  Falçılar boş görüntülər görür,Mənasız yuxular danışaraqƏbəs yerə təsəlli verir.Buna görə də xalq sürü kimi dağınıqdır,Zəhmət çəkirlər, çünki bir çoban yoxdur.</verse>
+        <verse osisID='Zech.10.3'>Rəbb deyir:«Çobanlara qarşı qəzəbim alovlandı,Başçılarına cəza verəcəyəm.Ordular Rəbbi Öz sürüsü olanYəhuda nəslinin qayğısını çəkəcək.Onlar əzəmətli döyüş atları kimi olacaq.</verse>
+        <verse osisID='Zech.10.4'>Künc daşı, çadır payası,Döyüş kamanı ondan olacaq.Bütün xalq başçıları ondan çıxacaq.</verse>
+        <verse osisID='Zech.10.5'>Onlar döyüşdəDüşməni küçələrdə palçıqda tapdalayanİgidlər kimi olacaq,Rəbb onlarla olduğu üçün döyüşəcəklər,Süvariləri utandıracaqlar.</verse>
+        <verse osisID='Zech.10.6'>Yəhuda nəslini qüvvətləndirəcəyəm,Yusif xalqını qurtaracağam.Sürgündən geri qaytaracağam,Çünki onlara acıyıram.Elə edəcəyəm ki, sanki onlarıHeç əvvəlcədən rədd etməmişəm.Çünki Mən onların Allahı Rəbbəm,Onlara cavab verəcəyəm.</verse>
+        <verse osisID='Zech.10.7'>Efrayimlilər igidlər kimi olacaq,Şərab içmiş kimi ürəkləri coşacaq.Övladları bunu görüb sevinəcək,Ürəkləri Rəbdə sevinc tapacaq.</verse>
+        <verse osisID='Zech.10.8'>Fit çalıb onları toplayacağam,Çünki Mən onları satın almışam.Əvvəllər necə çoxalırdılarsa,İndi də eləcə çoxalacaqlar.</verse>
+        <verse osisID='Zech.10.9'>Onları xalqlar arasına səpələdimsə də,Uzaq ölkələrdə Məni yada salacaqlar.Övladları ilə birgə sağ qalacaq vəGeri qayıdacaqlar.</verse>
+        <verse osisID='Zech.10.10'>Mən onları yenə Misir ölkəsindən gətirəcək,Aşşurdan toplayacağam.Onları Gilead torpağına,Livana gətirəcəyəm.Onlara kifayət qədər yer tapılmayacaq.</verse>
+        <verse osisID='Zech.10.11'>Əziyyət dənizindən keçəcəklər,Dənizin dalğaları sakitləşəcək,Nilin bütün dərin suları quruyacaq.Aşşurun qüruru alçaldılacaq,Misirin padşahlıq əsası əlindən düşəcək.</verse>
+        <verse osisID='Zech.10.12'>Onları Rəbdə qüvvətləndirəcəyəm,Onlar da Rəbbin adı ilə yaşayacaq»Rəbb belə bəyan edir.</verse>
+      </chapter>
+      <chapter osisID='Zech.11'>
+        <verse osisID='Zech.11.1'>Ey Livan, qapılarını aç ki,Od sənin sidr ağaclarını yandırıb-yaxsın.</verse>
+        <verse osisID='Zech.11.2'>Ey şam ağacı, fəryad et,Çünki sidr ağacı yıxıldı,Hündür ağaclar məhv oldu.Fəryad edin, ey Başan palıdları,Qalın meşənin ağacları böyrü üstə aşdı.</verse>
+        <verse osisID='Zech.11.3'>Çobanların fəryadını eşit,Çünki onların fəxr etdikləriOtlaqları məhv oldu.Cavan aslanların nəriltisinə qulaq as,Çünki İordan çayının kənarındakı sıx meşə yox oldu.   </verse>
+        <verse osisID='Zech.11.4'>Allahım Rəbb belə deyir: «Kəsmək üçün ayrılmış sürünü sən otar.</verse>
+        <verse osisID='Zech.11.5'>O sürünün qoyunlarını alanlar onları kəssə də, təqsirsiz qalır. Onları satanlar isə “Rəbbə alqış olsun ki, dövlətli oldum” deyir. Çobanlar öz sürülərinə acımır.</verse>
+        <verse osisID='Zech.11.6'>Mən də daha ölkədə yaşayan xalqa acımayacağam» bəyan edir Rəbb. «Hər kəsi öz qonşusuna və padşahına təslim edəcəyəm. Ölkəni dağıdacaqlar, Mən də xalqı əllərindən qurtarmayacağam. </verse>
+        <verse osisID='Zech.11.7'>Buna görə də kəsmək üçün ayrılmış sürünün zəiflərini otardım. Özümə iki dəyənək götürdüm, birini “Lütf”, o birini isə “Birlik” adlandırdım və sürünü otarmağa başladım.</verse>
+        <verse osisID='Zech.11.8'>Bircə ayın içində üç çobanı işdən qovdum, çünki onların əlindən təngə gəlmişdim, onların da Məndən zəhləsi gedirdi.</verse>
+        <verse osisID='Zech.11.9'>Sonra sürüyə dedim: “Daha sizi otarmayacağam. Ölən ölsün, kəsilən kəsilsin, yerdə qalanlar da bir-birlərinin ətini yesin”.</verse>
+        <verse osisID='Zech.11.10'>Sonra “Lütf” adlı dəyənəyimi götürdüm və bütün xalqlarla bağladığım əhdi pozmaq üçün onu qırdım.</verse>
+        <verse osisID='Zech.11.11'>Beləcə əhd o gün pozuldu. Sürünün Mənə qulaq asan zəifləri bunun Rəbbin sözü olduğunu anladı.</verse>
+        <verse osisID='Zech.11.12'>Mən onlara dedim: “Əgər bu sizə xoşdursa, Mənim muzdumu verin, əgər belə deyilsə, verməyin”. Onlar Mənə muzd olaraq otuz gümüş verdi.</verse>
+        <verse osisID='Zech.11.13'>Rəbb Mənə dedi: “Onların Məni qiymətləndirdiyi bu yüksək muzdu dulusçuya at”. Beləcə otuz gümüşü götürüb Rəbbin məbədində olan dulusçuya atdım.</verse>
+        <verse osisID='Zech.11.14'>Sonra Yəhuda ilə İsrail arasındakı qardaşlığı pozmaq üçün “Birlik” adlı o biri dəyənəyimi də qırdım. </verse>
+        <verse osisID='Zech.11.15'>Rəbb mənə dedi: “Yenə ağılsız bir çobanın əşyalarını özün üçün götür.</verse>
+        <verse osisID='Zech.11.16'>Mən ölkəyə elə bir çoban qoyacağam ki, oğurlananlara baxmayacaq, itmişləri axtarmayacaq, xəstələri sağaltmayacaq, sağlamları bəsləməyəcək. Ancaq kök qoyunların ətini yemək, pəncələrini kəsməklə məşğul olacaq.</verse>
+        <verse osisID='Zech.11.17'>Sürünü tərk edən yaramaz çobanın vay halına!Qılınc onun qolunu və sağ gözünü vursun!Qoy onun qolu qurusun, sağ gözü kor olsun!”» </verse>
+      </chapter>
+      <chapter osisID='Zech.12'>
+        <verse osisID='Zech.12.1'>
+          Bu xəbərdarlıq İsrail barədə nazil olan Rəbbin sözüdür: göyləri yayan, yerin təməlini qoyan, insanın içindəki ruha şəkil verən Rəbb belə bəyan edir:</verse>
+        <verse osisID='Zech.12.2'>«Bax Yerusəlimi ətrafındakı bütün xalqları səndələdən şərab dolu kasa edəcəyəm. Yerusəlim kimi Yəhuda da mühasirəyə alınacaq.</verse>
+        <verse osisID='Zech.12.3'>O gün Yerusəlimi bütün xalqlar üçün ağır bir daş edəcəyəm. Onu qaldıranların hamısı ağır yaralanacaq. Dünyanın bütün millətləri ona qarşı birləşəcək.</verse>
+        <verse osisID='Zech.12.4'>O gün hər atı dəhşətə, süvarisini dəliliyə düçar edəcəyəm» bəyan edir Rəbb, «Mən Yəhuda nəslinə göz qoyacağam, amma o biri xalqların bütün atlarını kor edəcəyəm.</verse>
+        <verse osisID='Zech.12.5'>Onda Yəhuda başçıları ürəklərində deyəcək: “Özlərinin Allahı Ordular Rəbbinin ucbatından Yerusəlimdə yaşayanlar mənim üçün qüvvə olub”. </verse>
+        <verse osisID='Zech.12.6'>O gün Yəhuda başçılarını odunların arasında yanan bir manqal, dərzlərin ortasında alovlanan bir məşəl kimi edəcəyəm. Hər tərəfdə – sağda və solda olan bütün xalqları yandırıb məhv edəcəklər. Yerusəlimlilər isə yenə öz şəhərlərində yaşayacaq. </verse>
+        <verse osisID='Zech.12.7'>Mən Rəbb əvvəlcə Yəhuda xalqının məskənlərini qurtaracağam. Ona görə ki Davud nəsli və Yerusəlimdə yaşayanlar Yəhudadan çox şərəfli olmasın.</verse>
+        <verse osisID='Zech.12.8'>Mən Rəbb o gün Yerusəlimdə yaşayanları qoruyacağam. O gün onların arasında ən gücsüz adam Davud kimi, Davud nəsli isə Allah kimi, onlara başçılıq edən Rəbbin mələyi kimi olacaq.</verse>
+        <verse osisID='Zech.12.9'>O gün Yerusəlimə hücum etmək üçün gələn bütün millətləri məhv etməyə çalışacağam. </verse>
+        <verse osisID='Zech.12.10'>Davud nəsli və Yerusəlimdə yaşayanların üzərinə lütf və yalvarış ruhunu tökəcəyəm. Onlar Mənə – bədənini deşdikləri şəxsə baxacaq və vahid oğluna yas tutan adam kimi ona yas tutacaq, ilk oğlu üçün dərd çəkən adam kimi dərd çəkəcək.</verse>
+        <verse osisID='Zech.12.11'>O gün Yerusəlimdə böyük matəm olacaq, Megiddo düzənliyində, Hadad-Rimmonda olduğu kimi böyük matəm olacaq.</verse>
+        <verse osisID='Zech.12.12'>Ölkədə hər nəsil öz içində yas tutacaq: Davud nəsli ayrı, qadınları ayrı, Natan nəsli ayrı, qadınları ayrı,</verse>
+        <verse osisID='Zech.12.13'>Levi nəsli ayrı, qadınları ayrı, Şimey nəsli ayrı, qadınları ayrı yas tutacaq.</verse>
+        <verse osisID='Zech.12.14'>Bütün qalan nəsilləri ayrı-ayrı, qadınları isə ayrı yas tutacaq.  </verse>
+      </chapter>
+      <chapter osisID='Zech.13'>
+        <verse osisID='Zech.13.1'>
+          O gün Davud nəslini və Yerusəlimdə yaşayanları günahdan və murdarlıqdan təmizləmək üçün bir bulaq açılacaq.</verse>
+        <verse osisID='Zech.13.2'>O gün ölkədən bütlərin adını birdəfəlik siləcəyəm, onlar bir daha xatırlanmayacaq. Yalançı peyğəmbərləri də, natəmiz ruhu da ölkədən uzaqlaşdıracağam» bəyan edir Ordular Rəbbi.</verse>
+        <verse osisID='Zech.13.3'>«Əgər kimsə yenə peyğəmbərlik etsə, onu dünyaya gətirmiş ata-anası ona deyəcək: “Sən yaşaya bilməzsən, çünki Rəbbin adı ilə yalan söyləmisən”. Sonra isə peyğəmbərlik edəndə öz ata-anası onun bədənini deşəcək.</verse>
+        <verse osisID='Zech.13.4'>O gün hər peyğəmbər peyğəmbərlik edərkən ona nazil olan görüntüdən utanacaq. O daha insanları aldatmaq üçün tüklü paltar geyməyəcək.</verse>
+        <verse osisID='Zech.13.5'>O deyəcək: “Mən peyğəmbər deyiləm, əkinçiyəm. Cavanlığımda bir adam məni özünə qul etdi”. </verse>
+        <verse osisID='Zech.13.6'>O biri ondan soruşacaq: “Bəs sinəndəki bu yaralar nədir?” O isə “dostlarımın evində aldığım yaralardır” deyəcək. </verse>
+        <verse osisID='Zech.13.7'>Oyan, ey qılınc,  Çobanımın, yaxınımın üstünə get»Bəyan edir Ordular Rəbbi.«Çobanı vur,Qoyunları pərən-pərən olsun.Mən də əlimi kiçiklərə qarşı qaldıracağam.</verse>
+        <verse osisID='Zech.13.8'>Bütün ölkədəXalqın üçdə ikisi vurulub-öldürüləcək,Üçdə biri isə sağ qalacaq»Bəyan edir Rəbb.</verse>
+        <verse osisID='Zech.13.9'>«Qalan üçdə birini oda salacağam,Onları gümüşü təmizləyən kimi təmizləyəcəyəm.Qızılı yoxlayan kimi yoxlayacağam.Onlar Mənim adımı çağıracaq,Mən də onlara cavab verib“Bunlar Mənim xalqımdır” deyəcəyəm,Onlar da “Rəbb Allahımızdır” deyəcək.</verse>
+      </chapter>
+      <chapter osisID='Zech.14'>
+        <verse osisID='Zech.14.1'>
+          Budur, Rəbbin günü gəlir! Ey Yerusəlim xalqı, sənin qarət olunmuş mallarını gözlərin önündə bölüşdürəcəklər.</verse>
+        <verse osisID='Zech.14.2'>Mən bütün millətləri Yerusəlimə qarşı müharibə etmək üçün toplayacağam. Şəhər ələ keçiriləcək, evlər qarət ediləcək, qadınlara təcavüz ediləcək. Şəhər əhalisinin yarısı sürgünə göndəriləcək, amma qalanların şəhərdən kökü kəsilməyəcək.</verse>
+        <verse osisID='Zech.14.3'>O zaman Rəbb çıxıb müharibə günündə necə döyüşdüsə, eləcə o millətlərə qarşı döyüşəcək.</verse>
+        <verse osisID='Zech.14.4'>O gün Onun ayaqları Yerusəlimin önündə – şərq tərəfində olan Zeytun dağının üzərində duracaq. Zeytun dağı şərqə və qərbə doğru ortadan yarılıb çox böyük bir vadi olacaq. Dağın yarısı şimala, yarısı cənuba çəkiləcək.</verse>
+        <verse osisID='Zech.14.5'>Siz isə dağlarımdakı vadi ilə qaçacaqsınız, çünki dağlardakı vadi Aselə qədər uzanacaq. Yəhuda padşahı Uzziyanın dövründə zəlzələ olarkən necə qaçdınızsa, eləcə qaçacaqsınız. O zaman Allahım Rəbb bütün müqəddəslərlə birgə gələcək. </verse>
+        <verse osisID='Zech.14.6'>O gün işıq olmayacaq, işıq verən göy cisimləri qaralacaq.</verse>
+        <verse osisID='Zech.14.7'>Yalnız Rəbbin bildiyi xüsusi bir gün olacaq. Gecə də, gündüz də olmayacaq. Axşam vaxtı işıqlı olacaq.</verse>
+        <verse osisID='Zech.14.8'>O gün Yerusəlimdən həyat verən sular axacaq. Suların yarısı Şərq dənizinə, yarısı isə Qərb dənizinə axacaq. Yayda da, qışda da belə olacaq. </verse>
+        <verse osisID='Zech.14.9'>Rəbb bütün dünyanın padşahı olacaq. O gün yalnız Rəbb və Onun adı ucalacaq.</verse>
+        <verse osisID='Zech.14.10'>Bütün ölkə Gevadan Yerusəlimin cənubundakı Rimmona qədər Arava düzənliyi kimi olacaq. Amma Yerusəlim yüksəklikdə olacaq, Binyamin darvazasından ilk darvazanın yerinə, Künc darvazasına, Xananel qülləsindən padşahın üzümsıxanlarına qədər öz yerində duracaq.</verse>
+        <verse osisID='Zech.14.11'>İnsanlar orada sakin olub asayiş içində yaşayacaq. Yerusəlim bir daha məhvə düçar olmayacaq. </verse>
+        <verse osisID='Zech.14.12'>Yerusəlimə hücum edən bütün xalqları Rəbb bu bəla ilə cəzalandıracaq. Ayaq üstə olanda bədənləri, hədəqələrindəki gözləri, ağızlarındakı dilləri çürüyəcək.</verse>
+        <verse osisID='Zech.14.13'>O gün Rəbb onları böyük təlaşa düçar edəcək. Hər kəs qonşusunun əlini tutacaq, bir-birinin üstünə hücum çəkəcək.</verse>
+        <verse osisID='Zech.14.14'>Yəhudalılar da Yerusəlimdə vuruşacaq. Ətrafdakı bütün millətlərin sərvəti, çoxlu miqdarda qızıl, gümüş və paltar toplanacaq.</verse>
+        <verse osisID='Zech.14.15'>Düşmən ordugahlarındakı bütün heyvanlar da – atlar, qatırlar, dəvələr və eşşəklər bu cür bəlaya düçar olacaq. </verse>
+        <verse osisID='Zech.14.16'>Yerusəlimə hücum edən millətlərdən sağ qalanların hamısı Ordular Rəbbi olan Padşaha səcdə etmək və Çardaqlar bayramını keçirmək üçün hər il Yerusəlimə gedəcək.</verse>
+        <verse osisID='Zech.14.17'>Əgər yer üzündəki nəsillərdən hansısa Ordular Rəbbi olan Padşaha səcdə etmək üçün Yerusəlimə getməsə, onun ölkəsinə yağış yağmayacaq.</verse>
+        <verse osisID='Zech.14.18'>Misirlilər nəsli Yerusəlimə getməsə, onların torpağı suvarılmayacaq. Rəbb onlara da Çardaqlar bayramını keçirmək üçün Yerusəlimə getməyən bütün millətlərə verdiyi cəzanı verəcək.</verse>
+        <verse osisID='Zech.14.19'>Misirlilərə və Çardaqlar bayramını keçirmək üçün Yerusəlimə getməyən bütün millətlərə belə cəza veriləcək. </verse>
+        <verse osisID='Zech.14.20'>O gün atların zınqırovları üzərinə “Rəbbə həsr edilmiş” sözləri yazılacaq. Rəbbin evindəki qazanlar da qurbangahın önündəki ləyənlər kimi olacaq.</verse>
+        <verse osisID='Zech.14.21'>Yerusəlim və Yəhudada hər qazan Ordular Rəbbinə həsr olunacaq. Qurban kəsən adamların hamısı gəlib bu qazanlardan qurban ətini bişirmək üçün istifadə edəcək. O gün Ordular Rəbbinin evində artıq Kənanlı  qalmayacaq».  </verse>
+      </chapter>
+    </div></osisText>
+</osis>

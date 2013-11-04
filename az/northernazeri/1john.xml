@@ -1,0 +1,215 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace'>
+  <osisText osisIDWork='NorthernAzeri' osisRefWork='Bible' xml:lang='az'>
+    <header>
+      <revisionDesc>
+        <date>2012-01-07</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='NorthernAzeri'>
+        <title>Northern Azeri Translation</title>
+        <contributor/>
+        <creator>Mod2Zef (6)</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject/>
+        <date>2012-01-07</date>
+        <description>Northern Azeri Translation</description>
+        <publisher/>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>NorthernAzeri</identifier>
+        <source>no entry TextSource in sword.conf found</source>
+        <language type='IETF'>az</language>
+        <relation/>
+        <coverage>provide the bible to the nations of the world</coverage>
+        <rights>Copyrighted Kutsul Kitab; Permission to distribute granted to CrossWire</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='1John'>
+      <chapter osisID='1John.1'>
+        <verse osisID='1John.1.1'>
+           Biz Həyat Kəlamını elan edirik; bu həmin Kəlamdır ki, başlanğıcdan var idi və biz Onu eşitdik, gözlərimizlə gördük, seyr etdik və əllərimizlə hiss etdik.</verse>
+        <verse osisID='1John.1.2'>Həyat zahir oldu, biz də onu görüb şahidlik edirik və Ata ilə birlikdə olub bizə zahir olan əbədi həyatı sizə elan edirik.</verse>
+        <verse osisID='1John.1.3'>Biz sizə gördüyümüzü və eşitdiyimizi elan edirik ki, sizin də bizimlə şərikliyiniz olsun; bizim şərikliyimiz də Ata və Onun Oğlu İsa Məsihlədir.</verse>
+        <verse osisID='1John.1.4'>Biz bunları yazırıq ki, sevincimiz kamil olsun. </verse>
+        <verse osisID='1John.1.5'>Məsihdən eşitdiyimiz və sizə elan etdiyimiz xəbər budur: Allah nurdur və Onda zərrə qədər də qaranlıq yoxdur.</verse>
+        <verse osisID='1John.1.6'>Əgər biz «Allahla şərikliyimiz var» dediyimiz halda qaranlıqda gəziriksə, demək, yalan danışırıq və həqiqətə əməl etmirik.</verse>
+        <verse osisID='1John.1.7'>Amma O, nurda olduğu kimi biz də nurda gəziriksə, onda bir-birimizlə şərikliyimiz var və Onun Oğlu İsanın qanı bizi hər günahdan təmizləyir.</verse>
+        <verse osisID='1John.1.8'>Əgər günahsız olduğumuzu iddia ediriksə, özümüzü aldadırıq və daxilimizdə həqiqət yoxdur.</verse>
+        <verse osisID='1John.1.9'>Amma günahlarımızı etiraf ediriksə, Allah sadiq və ədalətli olduğu üçün günahlarımızı bağışlayacaq və bizi hər haqsızlıqdan təmizləyəcək.</verse>
+        <verse osisID='1John.1.10'>Əgər günahkar olmadığımızı iddia ediriksə, onda Onu yalançı yerinə qoyuruq və daxilimizdə Onun sözü olmur.  </verse>
+      </chapter>
+      <chapter osisID='1John.2'>
+        <verse osisID='1John.2.1'>Övladlarım, bunları sizə yazıram ki, günah etməyəsiniz. Əgər kimsə günah etsə belə, Atanın hüzurunda Vəsatətçimiz var; O, saleh olan İsa Məsihdir.</verse>
+        <verse osisID='1John.2.2'>O bizim günahlarımıza görə – təkcə bizim günahlarımıza görə deyil, bütün dünyanın günahlarına görə kəffarə qurbanıdır. </verse>
+        <verse osisID='1John.2.3'>Onu tanıdığımızı bundan bilirik ki, Onun əmrlərinə riayət edirik.</verse>
+        <verse osisID='1John.2.4'>Kim «Onu tanıyıram» deyir, amma Onun əmrlərinə riayət etmirsə, yalançıdır və onun daxilində həqiqət yoxdur.</verse>
+        <verse osisID='1John.2.5'>Lakin kim Onun sözünə riayət edirsə, Allah məhəbbəti onda, həqiqətən, kamilliyə çatıb. Bundan bilirik ki, biz Allahdayıq.</verse>
+        <verse osisID='1John.2.6'>Kim Onda qaldığını deyirsə, İsa Məsihin həyat sürdüyü kimi həyat sürməlidir. </verse>
+        <verse osisID='1John.2.7'>Sevimlilər, sizə yeni əmr yazmıram, əvvəldən bəri malik olduğunuz qədim bir əmri yazıram; qədim əmr isə eşitdiyiniz sözdür.</verse>
+        <verse osisID='1John.2.8'>Yenə də sizə yeni bir əmr yazıram; bunun həqiqi olduğu Məsihdə və sizdə görünür. Çünki qaranlıq keçir və həqiqi nur artıq parlayır. </verse>
+        <verse osisID='1John.2.9'>Kim nurda olduğunu deyir, amma qardaşına nifrət edirsə, hələ də qaranlıqdadır.</verse>
+        <verse osisID='1John.2.10'>Qardaşını sevən nurda qalır və onda büdrəmə səbəbi yoxdur.</verse>
+        <verse osisID='1John.2.11'>Amma qardaşına nifrət edən qaranlıqdadır. O, qaranlıqda gəzir və hara getdiyini bilmir, çünki qaranlıq onun gözlərini kor edib. </verse>
+        <verse osisID='1John.2.12'>Ey övladlar, sizə yazıram, çünki Onun adı naminə günahlarınız bağışlanıb. </verse>
+        <verse osisID='1John.2.13'>Ey atalar, sizə yazıram, çünki başlanğıcdan bəri Var Olanı tanıyırsınız. </verse>
+        <verse osisID='1John.2.14'>Ey uşaqlar, sizə yazdım, çünki Atanı tanıyırsınız. </verse>
+        <verse osisID='1John.2.15'>Dünyanı və dünyada olan şeyləri sevməyin. Kim dünyanı sevirsə, onda Atadan olan məhəbbət yoxdur.</verse>
+        <verse osisID='1John.2.16'>Çünki dünyada olan hər şey – cismani ehtiraslar, acgözlük və dünya malına görə təkəbbür Atadan yox, dünyadan gəlir.</verse>
+        <verse osisID='1John.2.17'>Dünya və ondakı ehtiraslar keçib-gedir, amma Allahın iradəsinə əməl edən əbədi qalır. </verse>
+        <verse osisID='1John.2.18'>Ey uşaqlar, axır zamandır. Siz «Məsih əleyhdarı»nın gələcəyini eşitmisiniz, indi də çoxlu Məsih əleyhdarı meydana çıxıb. Bundan bilirik ki, axır zamandır.</verse>
+        <verse osisID='1John.2.19'>Onlar bizim aramızdan çıxdılar, amma bizə məxsus deyildilər. Əgər bizə məxsus olsaydılar, bizimlə qalardılar. Amma qalmadılar ki, heç birinin bizə məxsus olmadığı aşkara çıxsın. </verse>
+        <verse osisID='1John.2.20'>Lakin siz Müqəddəs Olandan bir məsh almısınız və hamınız biliklisiniz.</verse>
+        <verse osisID='1John.2.21'>Mən sizə həqiqəti bilmədiyiniz üçün deyil, onu bildiyiniz üçün yazdım; siz bunu da bilirsiniz ki, heç bir yalanın həqiqətlə əlaqəsi yoxdur.</verse>
+        <verse osisID='1John.2.22'>Bəs yalançı kimdir? İsanın Məsih olduğunu inkar edən şəxs! O, Atanı və Oğulu inkar edən Məsih əleyhdarıdır.</verse>
+        <verse osisID='1John.2.23'>Oğulu inkar edən hər kəs Ataya da malik deyil, lakin Oğulu iqrar edən kəs Ataya da malikdir.</verse>
+        <verse osisID='1John.2.24'>Sizin əvvəldən bəri eşitdiyiniz söz qoy sizdə qalsın. Əgər əvvəldən bəri eşitdiyiniz söz sizdə qalsa, siz də Oğul və Atada qalarsınız.</verse>
+        <verse osisID='1John.2.25'>Onun bizə verdiyi vəd budur: əbədi həyat! </verse>
+        <verse osisID='1John.2.26'>Bunları sizi aldatmaq istəyənlər barəsində yazıram.</verse>
+        <verse osisID='1John.2.27'>Sizə gəlincə, Ondan aldığınız məsh daxilinizdə qalır və kimsənin sizə təlim verməsinə ehtiyacınız yoxdur. Əksinə, Onun bu məshi sizə hər şey barədə təlim verir və bu, yalan deyil, həqiqətdir. Ona görə də sizə öyrətdiyi kimi Onda qalın. </verse>
+        <verse osisID='1John.2.28'>Beləliklə, ey övladlar, Onda qalın ki, O zahir olanda cəsarətimiz olsun, Onun zühuru zamanı önündə utanmayaq.</verse>
+        <verse osisID='1John.2.29'>Əgər Onun saleh olduğunu bilirsinizsə, həm də bilin ki, saleh iş görən hər kəs Ondan doğulub.  </verse>
+      </chapter>
+      <chapter osisID='1John.3'>
+        <verse osisID='1John.3.1'>Görün Ata bizə necə məhəbbət göstərib ki, biz Allahın övladları adlanırıq! Doğrudan da, beləyik! Dünya Onu tanımadığına görə bizi də tanımır.</verse>
+        <verse osisID='1John.3.2'>Ey sevimlilər, indi biz Allahın övladlarıyıq, amma nə olacağımız hələ üzə çıxmayıb. Lakin bilirik ki, Məsih zühur edəndə biz Ona bənzəyəcəyik, çünki Onu olduğu kimi görəcəyik.</verse>
+        <verse osisID='1John.3.3'>Ona bu cür ümid bağlayan hər kəs O pak olduğu kimi özünü pak edir. </verse>
+        <verse osisID='1John.3.4'>Günah edən hər kəs Qanunu da pozar, çünki günah Qanunu pozmaqdır.</verse>
+        <verse osisID='1John.3.5'>Siz bilirsiniz ki, Məsih günahları aradan qaldırmaq üçün zühur etdi. Onda günah yoxdur.</verse>
+        <verse osisID='1John.3.6'>Onda qalan hər kəs günahını davam etdirməz. Günahını davam etdirən hər kəs nə Onu görüb, nə də Onu tanıyır. </verse>
+        <verse osisID='1John.3.7'>Ey övladlar, heç kəs sizi aldatmasın; saleh iş görən şəxs Məsihin saleh olduğu kimi salehdir.</verse>
+        <verse osisID='1John.3.8'>Günahını davam etdirən şəxs iblisdəndir, çünki iblis başlanğıcdan bəri günah edir. Allahın Oğlu buna görə zühur etdi ki, iblisin əməllərini puça çıxarsın.</verse>
+        <verse osisID='1John.3.9'>Allahdan doğulan hər kəs günahını davam etdirməz, çünki Allahın toxumu onda qalır. O, günahını davam etdirə bilməz, çünki Allahdan doğulub.</verse>
+        <verse osisID='1John.3.10'>Kimin Allahın övladı, kiminsə iblisin övladı olması bundan aydın olur: saleh iş görməyən, həmçinin qardaşını sevməyən hər kəs Allahdan deyil. </verse>
+        <verse osisID='1John.3.11'>Əvvəldən bəri eşitdiyiniz xəbər budur: bir-birimizi sevək.</verse>
+        <verse osisID='1John.3.12'>Şərdən olub qardaşını öldürən Qabil kimi olmayaq. O, qardaşını niyə öldürdü? Ona görə ki öz əməlləri şər, qardaşının əməlləri isə saleh idi.</verse>
+        <verse osisID='1John.3.13'>Beləliklə, qardaşlar, dünya sizə nifrət edirsə, heyrətlənməyin.</verse>
+        <verse osisID='1John.3.14'>Qardaşlarımızı sevdiyimizə görə biz bilirik ki, ölümdən həyata keçmişik. Sevməyənsə ölümdə qalır.</verse>
+        <verse osisID='1John.3.15'>Qardaşına nifrət edən hər kəs qatildir. Bildiyiniz kimi, heç bir qatil özündə qalan əbədi həyata malik deyil.</verse>
+        <verse osisID='1John.3.16'>Məhəbbətin nə olduğunu bundan anladıq ki, Məsih Öz canını bizim üçün fəda etdi. Biz də öz canımızı qardaşlarımız üçün fəda etməliyik.</verse>
+        <verse osisID='1John.3.17'>Əgər kimsə dünya malına sahib olarkən qardaşını ehtiyac içində görüb ona rəhmi gəlmirsə, Allah məhəbbəti onda necə qala bilər? </verse>
+        <verse osisID='1John.3.18'>Ey övladlar, sözdə və dildə deyil, əməldə və həqiqətdə sevək.</verse>
+        <verse osisID='1John.3.19'>Bununla həqiqətdən olduğumuzu biləcəyik və ürəyimiz bizi məhkum edirsə, ürəyimizi Allahın önündə sakitləşdirəcəyik. Çünki Allah bizim ürəyimizdən üstündür və hər şeyi bilir.</verse>
+        <verse osisID='1John.3.20'>Bununla həqiqətdən olduğumuzu biləcəyik və ürəyimiz bizi məhkum edirsə, ürəyimizi Allahın önündə sakitləşdirəcəyik. Çünki Allah bizim ürəyimizdən üstündür və hər şeyi bilir.</verse>
+        <verse osisID='1John.3.21'>Ey sevimlilər, əgər ürəyimiz bizi məhkum etmirsə, demək, Allahın hüzurunda cəsarətlə danışa bilərik</verse>
+        <verse osisID='1John.3.22'>və Ondan nə diləyiriksə, alırıq. Ona görə ki Onun əmrlərinə riayət edirik və önündə Ona məqbul olan işlər görürük.</verse>
+        <verse osisID='1John.3.23'>Onun əmri də budur ki, biz Onun Oğlu İsa Məsihin adına iman edək və Onun bizə əmr etdiyi kimi bir-birimizi sevək.</verse>
+        <verse osisID='1John.3.24'>Onun əmrlərinə riayət edən şəxs Allahda, Allah da onda qalır. Onun bizdə qaldığını bu yolla, bizə verdiyi Ruh vasitəsilə bilirik.  </verse>
+      </chapter>
+      <chapter osisID='1John.4'>
+        <verse osisID='1John.4.1'>
+          Ey sevimlilər, hər ruha inanmayın; ruhların Allahdan olub-olmadığını bilmək üçün onları sınaqdan keçirin. Çünki dünyada çoxlu yalançı peyğəmbər meydana çıxıb.</verse>
+        <verse osisID='1John.4.2'>Allahın Ruhunu bundan tanıya bilərsiniz: İsa Məsihin cismən gəldiyini iqrar edən hər ruh Allahdandır,</verse>
+        <verse osisID='1John.4.3'>İsanı iqrar etməyən hər ruhsa Allahdan deyil. Bu, «Məsih əleyhdarı»nın ruhudur ki, bu ruhun gələcəyini eşitmisiniz və indi də artıq dünyadadır.</verse>
+        <verse osisID='1John.4.4'>Sizsə, ey övladlar, Allahdansınız və yalançı peyğəmbərlərə qalib gəlmisiniz. Çünki sizdə olan Ruh dünyada olandan üstündür.</verse>
+        <verse osisID='1John.4.5'>Onlar dünyadandır, buna görə də dünyəvi mövqedən danışırlar və dünya onlara qulaq asır.</verse>
+        <verse osisID='1John.4.6'>Bizsə Allahdanıq. Allahı tanıyan bizə qulaq asır, Allahdan olmayansa bizə qulaq asmır. Həqiqət ruhunu və aldatma ruhunu bundan tanıyırıq. </verse>
+        <verse osisID='1John.4.7'>Ey sevimlilər, bir-birimizi sevək, çünki məhəbbət Allahdandır. Sevən hər kəs də Allahdan doğulub və Allahı tanıyır.</verse>
+        <verse osisID='1John.4.8'>Sevməyən kəs Allahı tanımır, çünki Allah məhəbbətdir.</verse>
+        <verse osisID='1John.4.9'>Allahın bizə olan məhəbbəti belə zahir oldu: Allah Öz vahid Oğlunu dünyaya göndərdi ki, biz Onun vasitəsilə yaşayaq.</verse>
+        <verse osisID='1John.4.10'>Məhəbbət bizim Allahı sevməyimizlə bağlı deyil, amma bundan ibarətdir: O bizi sevdi və Öz Oğlunu bizim günahlarımıza görə kəffarə qurbanı olaraq göndərdi.</verse>
+        <verse osisID='1John.4.11'>Ey sevimlilər, Allah bizi bu cür sevdiyi üçün biz də gərək bir-birimizi sevək.</verse>
+        <verse osisID='1John.4.12'>Allahı heç kim heç zaman görməyib. Əgər biz bir-birimizi sevsək, Allah bizdə qalır və Onun məhəbbəti bizdə kamil olur. </verse>
+        <verse osisID='1John.4.13'>Bizim Onda, Onun da bizdə qaldığını bundan bilirik ki, O bizə Öz Ruhundan verib.</verse>
+        <verse osisID='1John.4.14'>Biz görüb şahidlik edirik ki, Ata Oğlunu dünyanın Xilaskarı olaraq göndərdi.</verse>
+        <verse osisID='1John.4.15'>Kim iqrar edir ki, İsa Allahın Oğludur, Allah onda, o da Allahda qalır.</verse>
+        <verse osisID='1John.4.16'>Biz Allahın bizə olan məhəbbətini anlayıb buna inandıq.  Allah məhəbbətdir. Kim məhəbbətdə qalarsa, Allahda qalar, Allah da onda qalar.</verse>
+        <verse osisID='1John.4.17'>Məhəbbət bizdə ona görə kamil oldu ki, qiyamət günündə cəsarətimiz olsun. Çünki Məsih necədirsə, biz də bu dünyada eləyik.</verse>
+        <verse osisID='1John.4.18'>Məhəbbətdə qorxu yoxdur, əksinə, kamil məhəbbət qorxunu qovar. Çünki qorxu cəzaya aiddir, qorxan insan məhəbbətdə kamil deyil. </verse>
+        <verse osisID='1John.4.19'>Biz sevirik, çünki öncə O bizi sevdi.</verse>
+        <verse osisID='1John.4.20'>Kim «mən Allahı sevirəm» deyir, amma öz qardaşına nifrət edirsə, yalançıdır. Axı gördüyü qardaşını sevməyən görmədiyi Allahı sevə bilməz.</verse>
+        <verse osisID='1John.4.21'>Bizim Ondan aldığımız əmr budur ki, Allahı sevən gərək öz qardaşını da sevsin.  </verse>
+      </chapter>
+      <chapter osisID='1John.5'>
+        <verse osisID='1John.5.1'>
+          İsanın Məsih olduğuna inanan hər kəs Allahdan doğulub. Doğanı sevən ondan doğulanı da sevir.</verse>
+        <verse osisID='1John.5.2'>Biz Allahın övladlarını sevdiyimizi bundan anlayırıq ki, Allahı sevib Onun əmrlərinə əməl edirik.</verse>
+        <verse osisID='1John.5.3'>Çünki Allah məhəbbəti Onun əmrlərinə riayət etməyimizi tələb edir. Onun əmrləri isə ağır deyil.</verse>
+        <verse osisID='1John.5.4'>Çünki Allahdan doğulan hər kəs dünyaya qalib gəlir. Bizə dünya üzərində zəfər qazandıran öz imanımızdır.</verse>
+        <verse osisID='1John.5.5'>Dünyaya qalib gələn kimdir? Əlbəttə ki, İsanın Allahın Oğlu olmasına inanan! </verse>
+        <verse osisID='1John.5.6'>Su və qanla gələn Şəxs həmin İsa Məsihdir. O yalnız su ilə deyil, su və qanla gəldi. Buna şəhadət edən Ruhdur, çünki Ruh həqiqətdir.</verse>
+        <verse osisID='1John.5.7'>Bəli, üç şahid var:</verse>
+        <verse osisID='1John.5.8'>Ruh, su və qan. Bunların üçü də bir-birinə uyğun gəlir.</verse>
+        <verse osisID='1John.5.9'>Biz insanların şəhadətini qəbul edirik, amma Allahın şəhadəti bundan üstündür. Çünki bu, Allahın şəhadətidir; O Öz Oğlu barədə şəhadət edib.</verse>
+        <verse osisID='1John.5.10'>Allahın Oğluna iman edən kəs öz daxilində bu şəhadətə malikdir. Amma Allaha inanmayan Onu yalançı yerinə qoyub. Çünki Allahın Öz Oğlu barədə verdiyi şəhadətə inanmayıb.</verse>
+        <verse osisID='1John.5.11'>Bu şəhadət ondan ibarətdir ki, Allah bizə əbədi həyat verib və bu həyat Onun Oğlundadır.</verse>
+        <verse osisID='1John.5.12'>Oğula malik olan şəxsin həyatı var, Allahın Oğluna malik olmayan şəxsin isə həyatı yoxdur. </verse>
+        <verse osisID='1John.5.13'>Bunları sizə – Allahın Oğlunun adına iman edənlərə yazdım ki, əbədi həyata malik olduğunuzu biləsiniz.</verse>
+        <verse osisID='1John.5.14'>Biz Onun hüzurunda ona görə cəsarətlə danışa bilirik ki, Onun iradəsinə uyğun nəsə dilədikdə O bizi eşidir.</verse>
+        <verse osisID='1John.5.15'>Bilirik ki, nə diləyiriksə, O bizi eşidir; beləcə də bilirik ki, Ondan dilədiklərimizi alırıq. </verse>
+        <verse osisID='1John.5.16'>Əgər bir kəs qardaşının ölümə aparmayan günah etdiyini görsə, qoy Allahdan onun sağ qalmasını diləsin və beləcə ona – ölümə aparmayan günah edən kəsə həyat versin. Ölümə aparan günah da var. Demirəm ki, bu barədə Allahdan istəsin.</verse>
+        <verse osisID='1John.5.17'>Hər cür haqsızlıq günahdır, amma ölümə aparmayan günah da var. </verse>
+        <verse osisID='1John.5.18'>Bilirik ki, Allahdan doğulan hər kəs günahını davam etdirməz. Əksinə, Allahdan doğulan Oğul onu qoruyur və şər olan ona toxuna bilmir.</verse>
+        <verse osisID='1John.5.19'>Bilirik ki, biz Allahdanıq, amma bütün dünya şər olanın hakimiyyəti altındadır.</verse>
+        <verse osisID='1John.5.20'>Bunu da bilirik ki, Allahın Oğlu gəlib bizə Haqq Olanı tanımaq üçün dərrakə verdi. Biz də Haqq Olanda, Onun Oğlu İsa Məsihdəyik. Həqiqi Allah və əbədi həyat Odur. </verse>
+        <verse osisID='1John.5.21'>Ey övladlar, özünüzü bütlərdən qoruyun!  </verse>
+      </chapter>
+    </div></osisText>
+</osis>

@@ -1,0 +1,989 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace'>
+  <osisText osisRefWork='Bible' osisIDWork='CzeB21' xml:lang='cs'>
+    <header>
+      <revisionDesc>
+        <date>2010-02-26</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='CzeB21'>
+        <title>Czech Bible, Překlad 21. století</title>
+        <contributor/>
+        <creator>Mod2Zef (4)</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject/>
+        <date>2009-07-31</date>
+        <description>Bible, Překlad 21. století  vedoucí projektu Alexandr Flek  odborná spolupráce Jiří Hedánek, Pavel Hoffman, Zdeněk Sýkora  Přeloženo z hebrejštiny, aramejštiny, řečtiny  Vydání první  (c) 2009 Biblion, o. s.  www.bible21.org  www.bible21.cz   Překlad 21. století přináší nadčasové poselství Bible v současné, čtivé češtině. Usiluje o maximální věrnost původním hebrejským, aramejským a řeckým textům, zároveň však chce oslovit dnešní čtenáře, ať už jsou zvyklí čerpat z této knihy inspiraci pro každý den, anebo ji otevírají poprvé.</description>
+        <publisher/>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>CzeB21</identifier>
+        <source>no entry TextSource in sword.conf found</source>
+        <language type='IETF'>cs</language>
+        <relation/>
+        <coverage>provide the bible to the nations of the world</coverage>
+        <rights>Copyrighted; Permission to distribute granted to CrossWire</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='2Chr'>
+      <chapter osisID='2Chr.1'>
+        <verse osisID='2Chr.1.1'>Davidův syn Šalomoun se pevně chopil královské vlády. Hospodin, jeho Bůh, byl s ním a obdařil ho velkolepou mocí.</verse>
+        <verse osisID='2Chr.1.2'>Šalomoun sezval celý Izrael, velitele tisíců a stovek, soudce i všechny vznešené vůdce izraelských otcovských rodů.</verse>
+        <verse osisID='2Chr.1.3'>Celé to shromáždění se s Šalomounem ubíralo na výšinu do Gibeonu, neboť tam stál Boží Stan setkávání, který Hospodinův služebník Mojžíš zhotovil na poušti.</verse>
+        <verse osisID='2Chr.1.4'>(David sice nechal Boží truhlu přenést z Kiriat-jearimu do Jeruzaléma, kde pro ni připravil stan,</verse>
+        <verse osisID='2Chr.1.5'>ale bronzový oltář, který zhotovil Becaleel, syn Uriho, syna Hurova, dosud stál před Příbytkem). Šalomoun tam s celým shromážděním hledal Hospodina</verse>
+        <verse osisID='2Chr.1.6'>a na tom bronzovém oltáři u Stanu setkávání obětoval před Hospodinem na tisíc zápalných obětí.</verse>
+        <verse osisID='2Chr.1.7'>Té noci se Šalomounovi zjevil Bůh a řekl mu: "Žádej mě o cokoli a dám ti to."</verse>
+        <verse osisID='2Chr.1.8'>Šalomoun Bohu odpověděl: "Prokázal jsi mému otci Davidovi velikou přízeň a mě jsi učinil králem po něm.</verse>
+        <verse osisID='2Chr.1.9'>Nuže, Hospodine Bože, kéž se potvrdí slovo, které jsi dal mému otci Davidovi. Vždyť jsi mě učinil králem lidu početného jako zemský prach.</verse>
+        <verse osisID='2Chr.1.10'>Dej mi tedy moudrost a poznání, abych dovedl vycházet i přicházet v čele tohoto lidu. Vždyť kdo by dokázal spravovat tento tvůj nesmírný lid?"</verse>
+        <verse osisID='2Chr.1.11'>Bůh Šalomounovi řekl: "Protože jsi chtěl právě toto - nežádal jsi poklady, slávu ani smrt svých nepřátel, ba ani dlouhý život sis nežádal, ale chtěl jsi moudrost a poznání, abys dokázal spravovat můj lid, nad nímž jsem tě učinil králem -</verse>
+        <verse osisID='2Chr.1.12'>proto tu moudrost i poznání dostaneš. K tomu ti přidám bohatství, poklady a slávu, takže ti nebude rovného mezi králi v minulosti ani v budoucnu."</verse>
+        <verse osisID='2Chr.1.13'>Šalomoun se pak od Stanu setkávání na gibeonské výšině odebral do Jeruzaléma a kraloval nad Izraelem.</verse>
+        <verse osisID='2Chr.1.14'>Šalomoun nashromáždil vozy i koně, takže měl 1 400 vozů a 12 000 koní, které umístil do vozových měst i k sobě do Jeruzaléma.</verse>
+        <verse osisID='2Chr.1.15'>Za jeho vlády bylo v Jeruzalémě stříbra i zlata jako kamení a cedrů jako planých fíků v podhůří.</verse>
+        <verse osisID='2Chr.1.16'>Koně si král nechával dovážet z Egypta a Kilikie. Královští obchodníci je v Kilikii nakupovali za dohodnuté ceny.</verse>
+        <verse osisID='2Chr.1.17'>Vozy dováželi z Egypta za 600 šekelů stříbra a koně za 150 šekelů. Také je vyváželi dál pro všechny chetitské a aramejské krále. Šalomoun se rozhodl postavit chrám Hospodinovu jménu a sobě královský palác.</verse>
+      </chapter>
+      <chapter osisID='2Chr.2'>
+        <verse osisID='2Chr.2.1'>Povolal 70 000 mužů do hor jako nosiče a 80 000 mužů jako lamače kamene. Dozíralo na ně 3 600 předáků.</verse>
+        <verse osisID='2Chr.2.2'>Šalomoun pak poslal zprávu týrskému králi Chíramovi: "Kdysi jsi posílal mému otci Davidovi cedrové dřevo na stavbu jeho paláce, když si stavěl svůj palác.</verse>
+        <verse osisID='2Chr.2.3'>Nuže, já stavím chrám jménu Hospodina, svého Boha. Chci ho zasvětit k pálení vonného kadidla před jeho tváří, k ustavičnému předkládání chlebů a k zápalným obětem ráno i večer, o sobotách a novoluních a při slavnostech Hospodina, našeho Boha, jak bylo Izraeli navěky uloženo.</verse>
+        <verse osisID='2Chr.2.4'>Chrám, který chci postavit, má být veliký, neboť náš Bůh je veliký nade všechny bohy.</verse>
+        <verse osisID='2Chr.2.5'>Kdo by však dokázal postavit dům Tomu, jehož nemohou obsáhnout nebesa, ba ani nebesa nebes? A kdo jsem já, abych mu směl stavět dům, byť jen pro pálení kadidla před jeho tváří?</verse>
+        <verse osisID='2Chr.2.6'>Proto mi prosím pošli dovedného muže, který by uměl pracovat se zlatem, stříbrem, bronzem a železem, se šarlatem, karmínem a modří a také dobře znal řezbářské umění. Připojí se k mým umělcům v Judsku a v Jeruzalémě, které shromáždil už můj otec David.</verse>
+        <verse osisID='2Chr.2.7'>Pošli prosím také cedrové, cypřišové a santálové dřevo z Libanonu. Vždyť vím, jak tvoji služebníci v Libanonu dovedou kácet dřevo. Tvým služebníkům budou zajisté pomáhat mí služebníci,</verse>
+        <verse osisID='2Chr.2.8'>aby mi připravili dostatek dřeva, neboť chrám, který chci stavět, má být veliký a podivuhodný.</verse>
+        <verse osisID='2Chr.2.9'>Tvým dřevorubcům dodám 20 000 korů drcené pšenice, 20 000 korů ječmene, 20 000 batů vína a 20 000 batů oleje."</verse>
+        <verse osisID='2Chr.2.10'>Týrský král Chíram odpověděl dopisem, ve kterém Šalomounovi vzkázal: "Hospodin jistě miluje svůj lid, když jim dal krále, jako jsi ty."</verse>
+        <verse osisID='2Chr.2.11'>Dopis dále pokračoval: "Požehnán buď Hospodin, Bůh Izraele, který učinil nebesa i zem a který dal králi Davidovi syna tak moudrého, znalého, rozumného a rozvážného, který jistě vybuduje Hospodinův chrám i královský palác.</verse>
+        <verse osisID='2Chr.2.12'>Posílám ti nesmírně zručného a zkušeného člověka, Churam-abiho,</verse>
+        <verse osisID='2Chr.2.13'>syna jedné ženy z pokolení Dan. Jeho otec byl z Týru. Umí pracovat se zlatem, stříbrem, bronzem i železem, s kamením i dřevem, se šarlatem, modří, kmentem i karmínem. Dokonale zná řezbářské umění a dovede uskutečnit jakýkoli návrh. Ten se připojí ke tvým umělcům a k umělcům mého pána, tvého otce Davida.</verse>
+        <verse osisID='2Chr.2.14'>Nuže, nechť můj pán pošle svým služebníkům pšenici a ječmen, olej a víno, jak řekl.</verse>
+        <verse osisID='2Chr.2.15'>My pokácíme v Libanonu tolik stromů, kolik jen budeš potřebovat. Uděláme z nich vory a pošleme ti je po moři do Jafy, odkud je budeš moci dopravit do Jeruzaléma."</verse>
+        <verse osisID='2Chr.2.16'>Šalomoun také nechal v izraelské zemi sečíst všechny cizince mužského pohlaví, tak jako předtím jeho otec David. Bylo jich napočítáno 153 600.</verse>
+        <verse osisID='2Chr.2.17'>Z nich určil 70 000 za nosiče, 80 000 za lamače kamene v horách a 3 600 za předáky, aby dohlíželi nad dělníky.</verse>
+      </chapter>
+      <chapter osisID='2Chr.3'>
+        <verse osisID='2Chr.3.1'>Šalomoun pak v Jeruzalémě začal stavět Hospodinův chrám na hoře Moria, kde se Hospodin ukázal jeho otci Davidovi - na místě, které David připravil, na mlatu Aravny Jebusejského.</verse>
+        <verse osisID='2Chr.3.2'>Stavbu zahájil druhého dne druhého měsíce čtvrtého roku své vlády.</verse>
+        <verse osisID='2Chr.3.3'>Základy, které Šalomoun položil pro Hospodinův chrám, měřily 60 loktů na délku a 20 loktů na šířku (měřeno podle staré míry).</verse>
+        <verse osisID='2Chr.3.4'>Před chrámovou lodí bylo přes celou šířku 20 loktů kryté sloupoví, 20 loktů vysoké. Vnitřek pokryl čistým zlatem.</verse>
+        <verse osisID='2Chr.3.5'>Chrámovou loď obložil cypřišovým dřevem, pokryl ryzím zlatem a povrch ozdobil palmami a řetízky.</verse>
+        <verse osisID='2Chr.3.6'>Chrám ozdobil drahokamy a ke zlacení použil parvaimské zlato.</verse>
+        <verse osisID='2Chr.3.7'>Zlatem potáhl trámy, prahy, stěny i dveře chrámu a na stěnách vyřezal cheruby.</verse>
+        <verse osisID='2Chr.3.8'>Přes celou šířku chrámu postavil místnost pro nejsvětější svatyni, 20 loktů na délku a 20 loktů na šířku. Potáhl ji šesti sty talenty ryzího zlata;</verse>
+        <verse osisID='2Chr.3.9'>jen zlato na hřebech vážilo padesát šekelů. Zlatem potáhl i stropy.</verse>
+        <verse osisID='2Chr.3.10'>Do místnosti nejsvětější svatyně zhotovil dva odlévané cheruby a i je pokryl zlatem.</verse>
+        <verse osisID='2Chr.3.11'>Křídla cherubů měřila na délku celkem 20 loktů. První cherub se jedním pětiloktovým křídlem dotýkal jedné stěny místnosti; druhým pětiloktovým křídlem se dotýkal křídla druhého cheruba.</verse>
+        <verse osisID='2Chr.3.12'>Také druhý cherub se jedním pětiloktovým křídlem dotýkal stěny chrámu; druhým pětiloktovým křídlem se dotýkal křídla protějšího cheruba.</verse>
+        <verse osisID='2Chr.3.13'>Takto měli cherubové křídla roztažená přes celých 20 loktů, zatímco stáli na nohou, tvářemi do síně.</verse>
+        <verse osisID='2Chr.3.14'>Zhotovil také kmentovou modro-purpurovo-karmínovou oponu a i na ni dal vyšít cheruby.</verse>
+        <verse osisID='2Chr.3.15'>Před chrám postavil dvojici sloupů. Byly od sebe 35 loktů daleko a navrchu měly hlavice 5 loktů vysoké.</verse>
+        <verse osisID='2Chr.3.16'>Zhotovil také řetězy podobné těm ve svatostánku a umístil je na hlavice sloupů. Na řetězy připevnil po stovce granátových jablek.</verse>
+        <verse osisID='2Chr.3.17'>Potom sloupy vztyčil před chrámem, jeden napravo, druhý nalevo. Ten pravý nazval Jachin, Opora, a levý Boáz, Posila.</verse>
+      </chapter>
+      <chapter osisID='2Chr.4'>
+        <verse osisID='2Chr.4.1'>Vyrobil také bronzový oltář 20 loktů dlouhý, 20 loktů široký a 10 loktů vysoký.</verse>
+        <verse osisID='2Chr.4.2'>Poté odlil kulatou nádrž zvanou Moře. Napříč od okraje po okraj měřila 10 loktů, na výšku 5 loktů a po obvodu 30 loktů.</verse>
+        <verse osisID='2Chr.4.3'>Pod okrajem ji po celém obvodu lemovaly dvě řady ozdob ve tvaru býků (vždy deset na loket), jednolitých s nádrží.</verse>
+        <verse osisID='2Chr.4.4'>Moře spočívalo na dvanácti býcích: tři byli obráceni k severu, tři k západu, tři k jihu a tři k východu. Leželo na nich tak, že je všechny zezadu přikrývalo.</verse>
+        <verse osisID='2Chr.4.5'>Bylo na dlaň silné a jeho okraje byly vytvarovány do liliového květu jako okraj poháru. Zcela naplněné mohlo pojmout až 3 000 batů.</verse>
+        <verse osisID='2Chr.4.6'>Dále vyrobil deset umyvadel; pět umístil napravo, pět nalevo. V nich omývali, co se připravovalo k zápalné oběti, zatímco v Moři se omývali kněží.</verse>
+        <verse osisID='2Chr.4.7'>Podle příslušného popisu vyrobil také deset zlatých svícnů a umístil je do chrámu, pět napravo a pět nalevo.</verse>
+        <verse osisID='2Chr.4.8'>Vyrobil rovněž deset stolů a postavil je do chrámu, pět napravo a pět nalevo. Zlatých mis vyrobil sto.</verse>
+        <verse osisID='2Chr.4.9'>Potom vybudoval Kněžské nádvoří a Velké nádvoří, před nádvořím postavil vrata a ta okoval bronzem.</verse>
+        <verse osisID='2Chr.4.10'>Moře postavil napravo v jihovýchodním rohu.</verse>
+        <verse osisID='2Chr.4.11'>Nakonec Churam vyrobil kotlíky, lopatky a mísy. Tak završil dílo, které pro krále Šalomouna konal na Božím chrámu:</verse>
+        <verse osisID='2Chr.4.12'>dva sloupy, dvě kulovité hlavice na vrcholech sloupů, dvoje mřížování pokrývající obě kulovité hlavice na vrcholech sloupů,</verse>
+        <verse osisID='2Chr.4.13'>čtyři sta granátových jablek ke dvěma mřížováním (dvě řady granátových jablek ke každému mřížování přikrývajícímu obě kulovité hlavice sloupů),</verse>
+        <verse osisID='2Chr.4.14'>vyrobil podstavce, vyrobil umyvadla na podstavce,</verse>
+        <verse osisID='2Chr.4.15'>jedno Moře, dvanáct býků nesoucích Moře,</verse>
+        <verse osisID='2Chr.4.16'>kotlíky, lopatky a vidlice. Všechny předměty, které Churam-abi zhotovil králi Šalomounovi pro Hospodinův chrám, byly z leštěného bronzu.</verse>
+        <verse osisID='2Chr.4.17'>Král je nechal odlévat na jordánské rovině v jílovité půdě mezi Sukotem a Caretánem.</verse>
+        <verse osisID='2Chr.4.18'>Všeho vybavení, které Šalomoun nechal zhotovit, bylo tolik, že váha bronzu ani nebyla nikdy zjištěna.</verse>
+        <verse osisID='2Chr.4.19'>Šalomoun nechal zhotovit veškeré vybavení pro Boží chrám: zlatý oltář, stoly pro chleby předložení,</verse>
+        <verse osisID='2Chr.4.20'>svícny s kahánky z ryzího zlata ke svícení před svatostánkem, jak náleží,</verse>
+        <verse osisID='2Chr.4.21'>k nim květy, kahany a kleště ze zlata (bylo to nejčistší zlato),</verse>
+        <verse osisID='2Chr.4.22'>dále kratiknoty, nádobky, pohárky a pánvice z ryzího zlata a vchod do chrámu - vnitřní dveře nejsvětější svatyně i dveře chrámové lodi - to vše bylo ze zlata.</verse>
+      </chapter>
+      <chapter osisID='2Chr.5'>
+        <verse osisID='2Chr.5.1'>Tak bylo završeno veškeré dílo, které král Šalomoun konal na Hospodinově chrámu. Šalomoun pak přinesl zasvěcenou kořist svého otce Davida, totiž stříbro, zlato a další předměty, a uložil je do pokladnice Božího chrámu.</verse>
+        <verse osisID='2Chr.5.2'>Tehdy Šalomoun shromáždil do Jeruzaléma všechny stařešiny Izraele a kmenové náčelníky a vůdce izraelských rodů, aby přenesli Truhlu Hospodinovy smlouvy ze Sionu, z Města Davidova.</verse>
+        <verse osisID='2Chr.5.3'>Všichni izraelští muži se tedy shromáždili ke králi o svátcích, jež připadají na sedmý měsíc.</verse>
+        <verse osisID='2Chr.5.4'>Když přišli všichni izraelští stařešinové, levité zvedli Truhlu</verse>
+        <verse osisID='2Chr.5.5'>a vynesli ji i Stan setkávání se vším jeho posvátným vybavením. Zatímco to kněží a levité vynášeli,</verse>
+        <verse osisID='2Chr.5.6'>král Šalomoun s celým shromážděním Izraele, jež se k němu dostavilo před Truhlu, obětoval tolik ovcí, koz a býčků, že nešlo počítat ani sledovat, kolik toho bylo.</verse>
+        <verse osisID='2Chr.5.7'>Kněží pak vnesli Truhlu Hospodinovy smlouvy na její místo do chrámového svatostánku, do nejsvětější svatyně pod křídla cherubů.</verse>
+        <verse osisID='2Chr.5.8'>Cherubové totiž rozprostírali svá křídla nad Truhlou, takže svrchu přikrývali Truhlu i její tyče.</verse>
+        <verse osisID='2Chr.5.9'>Ty byly tak dlouhé, že jejich konce čnící od Truhly bylo vidět před svatostánkem. Zvenku je ovšem vidět nebylo. Jsou tam až dodnes.</verse>
+        <verse osisID='2Chr.5.10'>V Truhle nebylo nic než dvě desky, které tam uložil Mojžíš na Orébu, když Hospodin se syny Izraele uzavřel smlouvu po jejich odchodu z Egypta.</verse>
+        <verse osisID='2Chr.5.11'>Když potom kněží vycházeli ze svatyně (všichni přítomní kněží bez ohledu na příslušnost k oddílům se totiž posvětili),</verse>
+        <verse osisID='2Chr.5.12'>levitští zpěváci - synové Asafovi, Hemanovi i Jedutunovi se svými syny a bratry stáli oblečeni kmentem východně od oltáře s činely, lyrami a citerami. Sto dvacet kněží k tomu troubilo na trubky.</verse>
+        <verse osisID='2Chr.5.13'>Troubili a zpívali tenkrát jedním hlasem. Jedním hlasem chválili a oslavovali Hospodina. Jakmile zazněly trubky, činely a další nástroje, zpěváci začali hlasitě chválit Hospodina písní: "Je tak dobrý! Jeho láska trvá navěky!" V tu chvíli ten dům, totiž Hospodinův chrám, naplnil oblak.</verse>
+        <verse osisID='2Chr.5.14'>Kněží se kvůli tomu oblaku nemohli postavit ke službě, protože Hospodinův chrám naplnila Boží sláva.</verse>
+      </chapter>
+      <chapter osisID='2Chr.6'>
+        <verse osisID='2Chr.6.1'>Tehdy Šalomoun prohlásil: "‚Zůstávám v mračnu,' pravil Hospodin.</verse>
+        <verse osisID='2Chr.6.2'>Já jsem ti ale postavil chrám vznešený, místo, kde bys bydlel už navěky!"</verse>
+        <verse osisID='2Chr.6.3'>Potom se král otočil a požehnal celému stojícímu shromáždění Izraele:</verse>
+        <verse osisID='2Chr.6.4'>"Požehnán buď Hospodin, Bůh Izraele, jenž vlastními ústy mluvil k mému otci Davidovi a vlastní rukou naplnil, co řekl:</verse>
+        <verse osisID='2Chr.6.5'>‚Ode dne, kdy jsem svůj lid vyvedl z Egypta, jsem ze žádného izraelského kmene nevyvolil město k postavení domu, v němž by zůstávalo mé jméno, ani jsem nevyvolil nikoho, aby se stal vůdcem mého lidu Izraele.</verse>
+        <verse osisID='2Chr.6.6'>Vyvolil jsem však Jeruzalém, aby v něm zůstávalo mé jméno, a vyvolil jsem Davida, aby vedl můj lid Izrael.'</verse>
+        <verse osisID='2Chr.6.7'>Můj otec David toužil postavit chrám jménu Hospodina, Boha Izraele.</verse>
+        <verse osisID='2Chr.6.8'>Hospodin mu ale řekl: ‚Je dobře, že chceš mému jménu postavit chrám.</verse>
+        <verse osisID='2Chr.6.9'>Nepostavíš ho však ty, ale tvůj syn, který vzejde ze tvých beder. Ten vystaví chrám mému jménu.'</verse>
+        <verse osisID='2Chr.6.10'>A Hospodin dodržel slovo, které dal. Nastoupil jsem po svém otci Davidovi, usedl jsem na izraelský trůn, jak řekl Hospodin, a postavil jsem chrám jménu Hospodina, Boha Izraele.</verse>
+        <verse osisID='2Chr.6.11'>V něm jsem postavil Truhlu, v níž je Hospodinova smlouva, kterou uzavřel se syny Izraele."</verse>
+        <verse osisID='2Chr.6.12'>Poté se postavil před Hospodinův oltář a před očima celého izraelského shromáždění vzepjal ruce.</verse>
+        <verse osisID='2Chr.6.13'>Šalomoun si totiž nechal vyrobit 5 loktů dlouhé, 5 loktů široké a 3 lokty vysoké bronzové podium, které dal umístit doprostřed prostranství. Postavil se na ně, před celým izraelským shromážděním poklekl na kolena, vztáhl ruce k nebi a řekl:</verse>
+        <verse osisID='2Chr.6.14'>"Hospodine, Bože Izraele! Nahoře na nebi ani dole na zemi není Boha podobného tobě, jenž by zachovával smlouvu a milosrdenství svým služebníkům, kteří před tebou žijí s oddaným srdcem.</verse>
+        <verse osisID='2Chr.6.15'>Svému služebníku Davidovi, mému otci, jsi dodržel svůj slib. Vlastními ústy jsi promluvil a vlastní rukou jsi to, jak vidíme, splnil.</verse>
+        <verse osisID='2Chr.6.16'>Nuže, Hospodine, Bože Izraele, dodrž, co jsi slíbil, když jsi svému služebníku Davidovi, mému otci, řekl: ‚Postarám se, aby na izraelském trůnu nikdy nechyběl tvůj potomek, budou-li jen tví synové dbát na svou cestu a žít podle tvého Zákona, jako jsi přede mnou žil ty.'</verse>
+        <verse osisID='2Chr.6.17'>Nyní tedy, Hospodine, Bože Izraele, kéž se prosím potvrdí slovo, které jsi dal svému služebníku Davidovi.</verse>
+        <verse osisID='2Chr.6.18'>Bude snad Bůh opravdu přebývat s člověkem na zemi? Nebesa, ba ani nebesa nebes tě nemohou obsáhnout - čím méně tento chrám, který jsem postavil!</verse>
+        <verse osisID='2Chr.6.19'>Shlédni však na modlitbu svého služebníka a na jeho prosby, Hospodine, Bože můj; vyslyš toto volání a modlitbu, kterou ti tvůj služebník předkládá.</verse>
+        <verse osisID='2Chr.6.20'>Kéž jsou tvé oči dnem i nocí upřeny k tomuto chrámu, k místu, o němž jsi řekl, že tam spočine tvé jméno. Kéž nasloucháš modlitbě, již se tvůj služebník bude modlit směrem k tomuto místu.</verse>
+        <verse osisID='2Chr.6.21'>Kéž vyslyšíš prosby svého služebníka i svého lidu Izraele, kdykoli se budou modlit směrem k tomuto místu. Vyslýchej z nebe, kde přebýváš, vyslýchej a odpouštěj.</verse>
+        <verse osisID='2Chr.6.22'>Kdyby se někdo provinil proti svému bližnímu a měl by se zapřisáhnout slibem, kdyby pak přišel a složil přísahu před tvým oltářem v tomto chrámu,</verse>
+        <verse osisID='2Chr.6.23'>vyslýchej z nebe. Zasáhni a rozsuď své služebníky tak, abys odplatil viníkovi, co zaslouží za své skutky, a spravedlivého abys ospravedlnil a odplatil mu za jeho spravedlnost.</verse>
+        <verse osisID='2Chr.6.24'>Kdyby tvůj lid Izrael hřešil proti tobě, a utrpěl by proto porážku od svých nepřátel, kdyby se pak ale vrátili k tobě, chválili tvé jméno, modlili se a prosili tě v tomto chrámu,</verse>
+        <verse osisID='2Chr.6.25'>vyslýchej z nebe. Odpusť hřích svého lidu Izraele a přiveď je zpět do země, kterou jsi dal jim a jejich otcům.</verse>
+        <verse osisID='2Chr.6.26'>Kdyby hřešili proti tobě, a zavřela by se proto nebesa a nebyl déšť, kdyby se pak ale modlili směrem k tomuto místu, chválili tvé jméno a po svém potrestání se odvrátili od svých hříchů,</verse>
+        <verse osisID='2Chr.6.27'>vyslýchej na nebesích. Odpusť svým služebníkům, svému lidu Izraeli, jejich hřích. Vyuč je správné cestě, kterou mají jít, a sešli déšť na svou zem, kterou jsi dal svému lidu za dědictví.</verse>
+        <verse osisID='2Chr.6.28'>Kdyby v zemi nastal hlad nebo mor, plíseň nebo sněť, kobylky nebo housenky nebo kdyby tvůj lid v zemi až u samých bran utlačoval nepřítel nebo jakákoli rána či nemoc -</verse>
+        <verse osisID='2Chr.6.29'>kdyby si pak ale kdokoli ze všeho tvého lidu Izraele připustil, že jde o bolestnou ránu, a vzepjal by ruce k tomuto chrámu,</verse>
+        <verse osisID='2Chr.6.30'>vyslýchej z nebe, kde přebýváš. Odpusť a odplať každému jeho skutky, neboť znáš jeho srdce - jen ty sám přece znáš srdce lidí -</verse>
+        <verse osisID='2Chr.6.31'>aby tě měli v úctě a chodili po tvých cestách po všechny dny svého života v zemi, kterou jsi dal našim otcům.</verse>
+        <verse osisID='2Chr.6.32'>Rovněž kdyby cizinec, ačkoli nepatří k tvému lidu Izraeli, přišel z daleké země kvůli tvému velikému jménu, tvé mocné ruce a vztažené paži - kdyby přišli a modlili se směrem k tomuto chrámu,</verse>
+        <verse osisID='2Chr.6.33'>i tehdy vyslýchej z nebe, kde přebýváš. Učiň vše, oč by tě ten cizinec prosil, aby všechny národy země poznaly tvé jméno a měly tě v úctě tak jako tvůj lid Izrael a aby věděly, že tvé jméno je vzýváno nad tímto chrámem, který jsem postavil.</verse>
+        <verse osisID='2Chr.6.34'>Kdyby tvůj lid vytáhl do války, kamkoli bys je poslal, a modlili by se k tobě směrem k tomuto městu, jež jsi vyvolil, a ke chrámu, který jsem postavil tvému jménu,</verse>
+        <verse osisID='2Chr.6.35'>vyslýchej z nebe jejich modlitbu a prosbu a zjednej jim právo.</verse>
+        <verse osisID='2Chr.6.36'>Kdyby zhřešili proti tobě - vždyť není člověka, který by nehřešil - a ty by ses na ně rozhněval a vydal je nepříteli a jejich uchvatitelé by je odvedli jako zajatce do země daleké či blízké,</verse>
+        <verse osisID='2Chr.6.37'>kdyby si to však potom v zemi svého zajetí vzali k srdci, obrátili by se a prosili tě o milost v zemi svých věznitelů se slovy: ‚Zhřešili jsme, zkazili se, jednali jsme zle!'</verse>
+        <verse osisID='2Chr.6.38'>a kdyby se ve vyhnanství v zemi svých věznitelů celým srdcem a celou duší obrátili a modlili by se směrem ke své zemi, kterou jsi dal jejich otcům, k městu, které jsi vyvolil, a ke chrámu, který jsem postavil tvému jménu,</verse>
+        <verse osisID='2Chr.6.39'>vyslýchej z nebe, kde přebýváš, jejich modlitbu a jejich prosby. Zjednej jim právo a odpusť svému lidu to, čím proti tobě zhřešili.</verse>
+        <verse osisID='2Chr.6.40'>Nyní tedy, Bože můj, kéž jsou tvé oči upřeny a tvé uši nakloněny k modlitbě na tomto místě.</verse>
+        <verse osisID='2Chr.6.41'>Již povstaň, Hospodine Bože, ke svému spočinutí společně s Truhlou síly své! Tví kněží, Hospodine Bože, ať jsou spásou oblečeni, tví věrní ať se radují z tvé dobroty.</verse>
+        <verse osisID='2Chr.6.42'>Neodvracej, Hospodine Bože, svoji tvář od toho, kohos pomazal - pamatuj na oddanost svého služebníka Davida!"</verse>
+      </chapter>
+      <chapter osisID='2Chr.7'>
+        <verse osisID='2Chr.7.1'>Jakmile Šalomoun dokončil tuto modlitbu, z nebe sestoupil oheň a pohltil zápalnou oběť i ostatní oběti. Chrám naplnila sláva Hospodinova,</verse>
+        <verse osisID='2Chr.7.2'>takže kněží nemohli vstoupit do Hospodinova chrámu, protože Hospodinův chrám naplnila Hospodinova sláva.</verse>
+        <verse osisID='2Chr.7.3'>Všichni synové Izraele viděli, jak sestupuje oheň. Když spatřili Hospodinovu slávu nad chrámem, poklekli na dlažbu tváří k zemi, klaněli se a dobrořečili Hospodinu: "Je tak dobrý! Jeho láska trvá navěky!"</verse>
+        <verse osisID='2Chr.7.4'>Král i všechen lid pak před Hospodinem slavili obětní hody.</verse>
+        <verse osisID='2Chr.7.5'>Král Šalomoun obětoval 22 000 býků a 120 000 ovcí. Takto král a všechen lid zasvětili Boží chrám.</verse>
+        <verse osisID='2Chr.7.6'>Kněží stáli na svých místech, naproti nim levité s hudebními nástroji, které k oslavě Hospodina zhotovil král David, a oslavovali Hospodina Davidovou písní: "Jeho láska trvá na věky!" Kněží troubili naproti levitům před celým nastoupeným Izraelem.</verse>
+        <verse osisID='2Chr.7.7'>Šalomoun tehdy posvětil střed nádvoří před Hospodinovým chrámem. Tam totiž obětoval zápalnou oběť i tuk pokojných obětí, protože bronzový oltář, který Šalomoun zhotovil, nemohl pojmout všechny ty zápalné a moučné oběti a obětní tuk.</verse>
+        <verse osisID='2Chr.7.8'>Tak Šalomoun slavil sedmidenní slavnost a s ním všechen Izrael od Lebo-chamátu po Egyptský potok. Bylo to jedno veliké shromáždění.</verse>
+        <verse osisID='2Chr.7.9'>Slavnost zahájili osmého dne; sedm dní totiž zasvěcovali oltář a dalších sedm dní slavili.</verse>
+        <verse osisID='2Chr.7.10'>Třiadvacátého dne sedmého měsíce pak Šalomoun lid propustil. Vraceli se domů s veselím a radostí ze všeho dobrodiní, které Hospodin prokázal Davidovi, Šalomounovi a svému lidu Izraeli.</verse>
+        <verse osisID='2Chr.7.11'>Tak Šalomoun dokončil Hospodinův chrám i královský palác. Vše, co chtěl uskutečnit, ať už šlo o Hospodinův chrám nebo o jeho palác, se zdařilo.</verse>
+        <verse osisID='2Chr.7.12'>Tehdy se Šalomounovi v noci ukázal Hospodin a řekl mu: "Vyslyšel jsem tvou modlitbu. Vyvolil jsem si toto místo za dům oběti.</verse>
+        <verse osisID='2Chr.7.13'>Může se stát, že zavřu nebe, aby nepršelo; že přikážu kobylkám, aby sežraly zemi; že sešlu na svůj lid mor.</verse>
+        <verse osisID='2Chr.7.14'>Jestliže se pak můj lid, který se nazývá mým jménem, pokoří a bude se modlit, bude hledat mou tvář a odvrátí se od svých zlých cest, potom je vyslyším z nebe, odpustím jejich hřích a uzdravím jejich zem.</verse>
+        <verse osisID='2Chr.7.15'>Ano, mé oči budou otevřené a mé uši nakloněné k modlitbě z tohoto místa.</verse>
+        <verse osisID='2Chr.7.16'>Nyní jsem tento dům vyvolil a posvětil, aby v něm mé jméno zůstalo navěky. Mé oči i mé srdce tam zůstanou navždy.</verse>
+        <verse osisID='2Chr.7.17'>Budeš-li žít přede mnou jako tvůj otec David a konat vše, co jsem ti přikázal, a dodržovat má ustanovení i má pravidla,</verse>
+        <verse osisID='2Chr.7.18'>potvrdím trůn tvého království, jak jsem slíbil tvému otci Davidovi: ‚Izrael nikdy nebude bez vlády tvého potomka.'</verse>
+        <verse osisID='2Chr.7.19'>Pokud se však odvrátíte a opustíte ustanovení a přikázání, jež jsem vám svěřil, a půjdete sloužit cizím bohům a budete se jim klanět,</verse>
+        <verse osisID='2Chr.7.20'>potom vás vyrvu ze své země, kterou jsem vám dal, a z tohoto chrámu, který jsem posvětil pro své jméno. Vyženu Izrael ze své přítomnosti, takže bude mezi národy za pořekadlo a posměšek.</verse>
+        <verse osisID='2Chr.7.21'>A tento chrám, kdysi tak vznešený? Každý, kdo půjde kolem, strne a řekne: ‚Proč tak Hospodin naložil s tou zemí a s tím chrámem?'</verse>
+        <verse osisID='2Chr.7.22'>A dostanou odpověď: ‚To proto, že opustili Hospodina, Boha svých předků, který je vyvedl z Egypta, a přijali cizí bohy, jimž se klaněli a jimž sloužili - to proto na ně uvedl všechno to zlo!'"</verse>
+      </chapter>
+      <chapter osisID='2Chr.8'>
+        <verse osisID='2Chr.8.1'>Šalomoun vystavěl Hospodinův chrám i královský palác během dvaceti let. Po jejich uplynutí</verse>
+        <verse osisID='2Chr.8.2'>stavěl města, která Šalomounovi dal Chíram, a osídlil je Izraelci.</verse>
+        <verse osisID='2Chr.8.3'>Šalomoun táhl na Chamát-cobu a dobyl ji.</verse>
+        <verse osisID='2Chr.8.4'>Na poušti vystavěl také Tadmor a v Chamátu vybudoval všechna města skladů.</verse>
+        <verse osisID='2Chr.8.5'>Postavil také Horní a Dolní Bet-choron, města opevněná hradbami, branami a závorami;</verse>
+        <verse osisID='2Chr.8.6'>dále Baalat a všechna Šalomounova zásobovací města, města pro vozy a města pro jízdu; zkrátka cokoli se Šalomounovi zachtělo, co se mu zlíbilo postavit, ať v Jeruzalémě, v Libanonu anebo kdekoli v celé své říši.</verse>
+        <verse osisID='2Chr.8.7'>Všechno obyvatelstvo pozůstalé z Chetejců, Emorejců, Perizejců, Hivejců a Jebusejců, kteří nepatřili k Izraeli,</verse>
+        <verse osisID='2Chr.8.8'>totiž jejich potomky, kteří po nich zůstali v zemi a které synové Izraele nedokázali vyhladit, Šalomoun podrobil nuceným pracím, a tak otročí dodnes.</verse>
+        <verse osisID='2Chr.8.9'>Syny Izraele ovšem nebral do otroctví, ale jako vojáky, pobočníky, vozataje a jezdce.</verse>
+        <verse osisID='2Chr.8.10'>Král Šalomoun měl 250 správců, kteří dohlíželi na lid.</verse>
+        <verse osisID='2Chr.8.11'>Přestěhoval také faraonovu dceru z Města Davidova do paláce, který pro ni postavil. Prohlásil totiž: "Má žena nemůže bydlet v domě izraelského krále Davida, neboť místa, kam vešla Truhla Hospodinova, jsou svatá."</verse>
+        <verse osisID='2Chr.8.12'>Na Hospodinově oltáři, který postavil před chrámovou předsíní, přinášel Šalomoun Hospodinu zápalné oběti,</verse>
+        <verse osisID='2Chr.8.13'>jak to Mojžíš určil pro každý den, pro soboty, novoluní a pro tři výroční slavnosti - Svátek nekvašených chlebů, Svátek týdnů a Svátek stánků.</verse>
+        <verse osisID='2Chr.8.14'>Podle pořádku svého otce Davida ustanovil oddíly kněží, aby sloužili, a levitů, aby střežili, chválili a přisluhovali kněžím, jak bylo určeno pro každý den, a také oddíly stráží pro každou bránu, jak to přikázal David, muž Boží.</verse>
+        <verse osisID='2Chr.8.15'>Neuchýlili se od králova příkazu pro kněží a levity v ničem, ani ve správě pokladnic.</verse>
+        <verse osisID='2Chr.8.16'>Všechno Šalomounovo dílo bylo provedeno, ode dne položení základů Hospodinova chrámu až do jeho dokončení. Tak se završila stavba Hospodinova chrámu.</verse>
+        <verse osisID='2Chr.8.17'>Tenkrát se Šalomoun vypravil do Ecjon-geberu a Eilatu na mořském pobřeží v edomské zemi.</verse>
+        <verse osisID='2Chr.8.18'>Chíram mu po svých zkušených námořnících poslal lodě a jeho služebníci se pak spolu s Šalomounovými služebníky vydali do Ofiru. Přivezli odtud 450 talentů zlata, které dopravili králi Šalomounovi.</verse>
+      </chapter>
+      <chapter osisID='2Chr.9'>
+        <verse osisID='2Chr.9.1'>Také královna ze Sáby se doslechla o Šalomounově proslulosti, a tak přijela do Jeruzaléma, aby Šalomouna vyzkoušela v hádankách. Když dorazila do Jeruzaléma s početnou družinou a s velbloudy nesoucími vonné balzámy, velké množství zlata i drahokamů, přišla k Šalomounovi a hovořila s ním o všem, co měla na srdci.</verse>
+        <verse osisID='2Chr.9.2'>Šalomoun všechny její otázky zodpověděl; žádná z nich nebyla pro krále tak těžká, aby na ni neodpověděl.</verse>
+        <verse osisID='2Chr.9.3'>Když královna ze Sáby viděla Šalomounovu moudrost i palác, který vystavěl,</verse>
+        <verse osisID='2Chr.9.4'>pokrmy na jeho stole, zasedání jeho dvořanů, práci jeho služebníků a jejich roucha, jeho číšníky a jejich roucha i to, jaké oběti král přináší v Hospodinově chrámu, byla naprosto ohromena</verse>
+        <verse osisID='2Chr.9.5'>a řekla mu: "To, co jsem u nás slyšela o tvých slovech a o tvé moudrosti, je pravda.</verse>
+        <verse osisID='2Chr.9.6'>Dokud jsem nepřijela a neuviděla to na vlastní oči, nevěřila jsem tomu. Teď ale vidím, že mi o tvé veliké moudrosti neřekli ani polovinu! Překonal jsi pověst, kterou jsem slyšela.</verse>
+        <verse osisID='2Chr.9.7'>Blaze tvým mužům, blaze těmto tvým služebníkům, kteří stále stojí před tebou a naslouchají tvé moudrosti.</verse>
+        <verse osisID='2Chr.9.8'>Požehnán buď Hospodin, tvůj Bůh, jenž si tě oblíbil a dosadil tě na svůj trůn, abys byl králem pro Hospodina, svého Boha! Tvůj Bůh miluje Izrael a navěky ho upevňuje, a tak tě učinil jejich králem, abys zjednával právo a spravedlnost."</verse>
+        <verse osisID='2Chr.9.9'>Poté darovala králi 120 talentů zlata a veliké množství balzámů a drahokamů. Takové vonné balzámy, jako dala králi Šalomounovi královna ze Sáby, se ještě nikdy neobjevily.</verse>
+        <verse osisID='2Chr.9.10'>(K tomu také Chíramovi a Šalomounovi služebníci, kteří jeli do Ofiru pro zlato, dovezli santálové dřevo a drahokamy.</verse>
+        <verse osisID='2Chr.9.11'>Král z toho santálového dřeva vyrobil schody pro Hospodinův chrám i pro královský palác a také lyry a citery pro zpěváky. Nic takového se předtím v Judsku neobjevilo.)</verse>
+        <verse osisID='2Chr.9.12'>Král Šalomoun pak královně ze Sáby splnil každé přání, které vyslovila, a dal jí mnohem více darů, než králi přinesla ona. Královna se pak se svým služebnictvem vydala zpět na cestu do vlasti.</verse>
+        <verse osisID='2Chr.9.13'>Král Šalomoun ročně získával 666 talentů zlata,</verse>
+        <verse osisID='2Chr.9.14'>nepočítaje příjmy od pocestných, kupců a obchodníků i ode všech arabských králů a krajských hejtmanů, kteří Šalomounovi odváděli zlato a stříbro.</verse>
+        <verse osisID='2Chr.9.15'>Král Šalomoun nechal zhotovit 200 pavéz z tepaného zlata (na jednu pavézu vynaložil 600 šekelů tepaného zlata)</verse>
+        <verse osisID='2Chr.9.16'>a 300 štítů z tepaného zlata (na jeden štít vynaložil 300 šekelů zlata). Král je umístil v Paláci Libanonského lesa.</verse>
+        <verse osisID='2Chr.9.17'>Král také pořídil veliký trůn ze slonoviny a pokryl ho ryzím zlatem.</verse>
+        <verse osisID='2Chr.9.18'>K trůnu vedlo šest stupňů, které byly spolu se zlatou podnoží připojeny k trůnu. Sedadlo mělo po obou stranách područky a vedle područek stáli lvi.</verse>
+        <verse osisID='2Chr.9.19'>Na šesti stupních po obou stranách stálo dvanáct dalších lvů. Nic takového nebylo vyrobeno v žádném království.</verse>
+        <verse osisID='2Chr.9.20'>Také všechny nádoby na pití měl král Šalomoun zlaté a stejně tak všechno vybavení Paláce libanonského lesa bylo z ryzího zlata. Nic nebylo ze stříbra - to nebylo v Šalomounových dobách vůbec považováno za cenné.</verse>
+        <verse osisID='2Chr.9.21'>Král totiž měl na moři také lodě se služebníky Chíramovými, plující do zámoří. Byly to nákladní lodě, které připlouvaly jednou za tři roky a přivážely zlato a stříbro, slonovinu, opice a pávy.</verse>
+        <verse osisID='2Chr.9.22'>Král Šalomoun co do bohatství i co do moudrosti předčil všechny krále světa.</verse>
+        <verse osisID='2Chr.9.23'>Ti všichni se ucházeli o přijetí u Šalomouna, aby slyšeli jeho moudrost, kterou mu do srdce vložil Bůh.</verse>
+        <verse osisID='2Chr.9.24'>Všichni mu přinášeli dary, stříbrné a zlaté předměty, oděvy, zbraně, balzámy, koně i mezky - a tak tomu bylo rok co rok.</verse>
+        <verse osisID='2Chr.9.25'>Šalomoun měl 4 000 stájí pro koně a vozy a 12 000 koní, které umístil do vozových měst i k sobě do Jeruzaléma.</verse>
+        <verse osisID='2Chr.9.26'>Vládl všem králům od řeky Eufrat po filištínskou zem až k hranici s Egyptem.</verse>
+        <verse osisID='2Chr.9.27'>Za jeho vlády bylo v Jeruzalémě stříbra jako kamení a cedrů jako planých fíků v podhůří.</verse>
+        <verse osisID='2Chr.9.28'>Koně si Šalomoun nechal dovážet z Egypta i ze všech ostatních zemí.</verse>
+        <verse osisID='2Chr.9.29'>Ostatní Šalomounovy skutky jsou, jak známo, od počátku až do konce sepsány ve Slovech proroka Nátana, v Proroctví Achiáše Šíloského a ve Vidění vidoucího Ida o Jeroboámovi, synu Nebatovu.</verse>
+        <verse osisID='2Chr.9.30'>Šalomoun kraloval v Jeruzalémě nad celým Izraelem čtyřicet let.</verse>
+        <verse osisID='2Chr.9.31'>Potom ulehl ke svým otcům a byl pochován ve městě svého otce Davida. Na jeho místě pak začal kralovat jeho syn Rechoboám.</verse>
+      </chapter>
+      <chapter osisID='2Chr.10'>
+        <verse osisID='2Chr.10.1'>Rechoboám se odebral do Šechemu, neboť se tam sešel celý Izrael, aby ho prohlásili králem.</verse>
+        <verse osisID='2Chr.10.2'>Jeroboám, syn Nebatův, se o tom dověděl v Egyptě, kam uprchl před králem Šalomounem. Vrátil se tedy z Egypta,</verse>
+        <verse osisID='2Chr.10.3'>protože pro něj poslali a zvali ho zpět. Jeroboám přišel s celým Izraelem za Rechoboámem a společně mu řekli:</verse>
+        <verse osisID='2Chr.10.4'>"Tvůj otec na nás vložil těžké jho. Ulev nám teď od tvrdé služby a od těžkého jha, které nám tvůj otec naložil, a budeme ti sloužit."</verse>
+        <verse osisID='2Chr.10.5'>"Vraťte se ke mně za tři dny," odpověděl jim Rechoboám. Lid se tedy rozešel.</verse>
+        <verse osisID='2Chr.10.6'>Král Rechoboám se radil se starci, kteří bývali ve službách jeho otce Šalomouna, dokud ještě žil. "Co mi radíte? Jak mám odpovědět lidu?"</verse>
+        <verse osisID='2Chr.10.7'>"Pokud se k lidu zachováš dobrotivě," řekli mu, "pokud k nim budeš přívětivý a dáš jim laskavou odpověď, budou ti sloužit navždycky."</verse>
+        <verse osisID='2Chr.10.8'>On ale odmítl radu, kterou mu dávali starci, a poradil se s mladíky, kteří s ním vyrůstali a teď se ocitli v jeho službách.</verse>
+        <verse osisID='2Chr.10.9'>"Co radíte vy?" zeptal se jich. "Jak mám odpovědět těmto lidem, kteří po mně žádají: ‚Ulev nám od jha, které nám naložil tvůj otec'?"</verse>
+        <verse osisID='2Chr.10.10'>Mladíci, kteří s ním vyrůstali, mu odpověděli: "Lidem, kteří ti říkají: ‚Tvůj otec nám naložil těžké jho, ty nám od něj ulev,' odpověz takhle: Já mám silnější malík, než měl můj otec pupík!</verse>
+        <verse osisID='2Chr.10.11'>Můj otec vám naložil těžké jho? Já vám ho ještě ztížím! Můj otec na vás brával bič, já na vás vezmu karabáč!'"</verse>
+        <verse osisID='2Chr.10.12'>Třetího dne přišel Jeroboám a všechen lid za Rechoboámem. (Řekl jim totiž: "Vraťte se ke mně za tři dny.")</verse>
+        <verse osisID='2Chr.10.13'>Král jim odpověděl tvrdě. Rechoboám totiž nedbal na radu starců,</verse>
+        <verse osisID='2Chr.10.14'>ale odpověděl jim podle rady mladíků:"Můj otec vám naložil těžké jho? Já vám ho ještě ztížím! Můj otec na vás brával bič, já na vás vezmu karabáč!"</verse>
+        <verse osisID='2Chr.10.15'>Král tedy nevyslyšel lid, neboť to tak Bůh zařídil, aby se naplnilo Hospodinovo slovo, které promluvil k Jeroboámovi, synu Nebatovu, skrze Achiáše Šíloského.</verse>
+        <verse osisID='2Chr.10.16'>Když celý Izrael viděl, že je král nevyslyšel, odpověděli králi takto:"Co máme společného s Davidem? S Jišajovým synem mít podíl nebudem! Jen ať se vrátí domů Izrael, ty si hleď svého domu, Davide!" A tak se celý Izrael rozešel do svých domů.</verse>
+        <verse osisID='2Chr.10.17'>Rechoboám pak kraloval jen nad těmi syny Izraele, kteří bydleli ve městech Judových.</verse>
+        <verse osisID='2Chr.10.18'>Král Rechoboám sice vyslal Adonirama, který velel nuceným pracím, ale Izraelci ho společně ukamenovali k smrti. Král Rechoboám sotva stačil naskočit do vozu a ujet do Jeruzaléma.</verse>
+        <verse osisID='2Chr.10.19'>Tak zůstává Izrael ve vzpouře proti domu Davidovu až dodnes.</verse>
+      </chapter>
+      <chapter osisID='2Chr.11'>
+        <verse osisID='2Chr.11.1'>Když Rechoboám dorazil do Jeruzaléma, shromáždil dům Judův a Benjamínův, 180 000 vybraných bojovníků, aby bojovali s Izraelem a navrátili království Rechoboámovi.</verse>
+        <verse osisID='2Chr.11.2'>Šemajáš, Boží muž, tehdy dostal slovo Hospodinovo:</verse>
+        <verse osisID='2Chr.11.3'>"Řekni Rechoboámovi, synu Šalomounovu, králi judskému, i všem Izraelcům z Judy a Benjamína:</verse>
+        <verse osisID='2Chr.11.4'>Tak praví Hospodin - Nebojujte proti svým bratrům. Vraťte se každý domů, neboť ta věc vzešla ode mě." Uposlechli tedy Hospodinova slova a zrušili tažení proti Jeroboámovi.</verse>
+        <verse osisID='2Chr.11.5'>Rechoboám sídlil v Jeruzalémě a po celém Judsku budoval opevněná města.</verse>
+        <verse osisID='2Chr.11.6'>Vystavěl Betlém, Etam, Tekou,</verse>
+        <verse osisID='2Chr.11.7'>Bet-cur, Socho, Adulam,</verse>
+        <verse osisID='2Chr.11.8'>Gat, Marešu, Zif,</verse>
+        <verse osisID='2Chr.11.9'>Adorajim, Lachiš, Azeku,</verse>
+        <verse osisID='2Chr.11.10'>Coreu, Ajalon a Hebron - všechna tato opevněná města v Judovi a Benjamínovi.</verse>
+        <verse osisID='2Chr.11.11'>Zesílil jejich opevnění a dodal jim velitele, zásoby potravin, oleje a vína</verse>
+        <verse osisID='2Chr.11.12'>a také štíty a kopí. Všechna ta města tím nesmírně posílil, a zajistil si tak Judu i Benjamína.</verse>
+        <verse osisID='2Chr.11.13'>Také kněží a levité ze všech krajů se přidali k němu.</verse>
+        <verse osisID='2Chr.11.14'>Levité opustili své pastviny a majetky a vydali se do Judska a do Jeruzaléma. Jeroboám totiž jim i jejich synům upřel Hospodinovo kněžství</verse>
+        <verse osisID='2Chr.11.15'>a ustanovil si vlastní kněžstvo pro obětní výšiny, pro ty běsy a telata, jež vyrobil.</verse>
+        <verse osisID='2Chr.11.16'>Ze všech izraelských kmenů se k nim připojili ti, kdo toužili hledat Hospodina, Boha Izraele. Přicházeli do Jeruzaléma a obětovali Hospodinu, Bohu svých otců.</verse>
+        <verse osisID='2Chr.11.17'>Tím upevňovali judské království a po tři roky posilovali Rechoboáma, syna Šalomounova. Po ty tři roky totiž chodil cestou Davidovou a Šalomounovou.</verse>
+        <verse osisID='2Chr.11.18'>Rechoboám se oženil s Machalatou, dcerou Jerimota, syna Davidova, a Abihaily, dcery Eliaba, syna Jišajova.</verse>
+        <verse osisID='2Chr.11.19'>Ta mu porodila Jeuše, Šemariáše a Zahama.</verse>
+        <verse osisID='2Chr.11.20'>Po ní si vzal Maaku, dceru Abšalomovu. Ta mu porodila Abiáše, Ataje, Zizu a Šelomita.</verse>
+        <verse osisID='2Chr.11.21'>Rechoboám miloval Maaku více než všechny ostatní manželky a konkubíny (manželek měl osmnáct, konkubín šedesát a zplodil osmadvacet synů a šedesát dcer).</verse>
+        <verse osisID='2Chr.11.22'>Proto upřednostnil Abiáše, syna Maaky, aby byl mezi svými bratry přední, a tak ho mohl prohlásit králem.</verse>
+        <verse osisID='2Chr.11.23'>Ostatní své syny chytře rozmístil po všech judských a benjamínských krajích do opevněných měst, kde jim poskytl štědrou podporu a obstaral pro ně mnoho žen.</verse>
+      </chapter>
+      <chapter osisID='2Chr.12'>
+        <verse osisID='2Chr.12.1'>Když ale Rechoboám pevně uchopil královskou moc a stal se silným, opustil Hospodinův zákon a celý Izrael ho následoval.</verse>
+        <verse osisID='2Chr.12.2'>Protože zradili Hospodina, v pátém roce Rechoboámova kralování vytáhl proti Jeruzalému egyptský vládce Šišak.</verse>
+        <verse osisID='2Chr.12.3'>Měl 1 200 vozů, 60 000 jezdců a nesčíslné vojsko, které s ním táhlo z Egypta: Libyjci, Sukité a Habešané.</verse>
+        <verse osisID='2Chr.12.4'>Dobyl opevněná města v Judsku a pronikl až k Jeruzalému.</verse>
+        <verse osisID='2Chr.12.5'>Rechoboáma i judské velitele, kteří se před Šišakem stáhli do Jeruzaléma, navštívil prorok Šemajáš a oznámil jim: "Tak praví Hospodin: Vy jste zanechali mě, i já tedy zanechávám vás v rukou Šišakových."</verse>
+        <verse osisID='2Chr.12.6'>Izraelští vůdcové i král se tehdy pokořili a řekli: "Hospodin je spravedlivý!"</verse>
+        <verse osisID='2Chr.12.7'>Hospodin viděl, že se pokořili. Šemajáš proto dostal slovo Hospodinovo: "Pokořili se, a tak je nezničím. Nevyliji skrze Šišaka svůj hněv na Jeruzalém, nechám je o vlásek uniknout.</verse>
+        <verse osisID='2Chr.12.8'>Stanou se ale jeho služebníky, aby poznali, jaké je to sloužit mně a jaké sloužit královstvím světa."</verse>
+        <verse osisID='2Chr.12.9'>Egyptský vládce Šišak potom přitáhl k Jeruzalému a pobral poklady Hospodinova chrámu i poklady královského paláce. Vzal všechno; vzal i všechny zlaté štíty, které zhotovil Šalomoun.</verse>
+        <verse osisID='2Chr.12.10'>Místo nich potom král Rechoboám zhotovil bronzové štíty a svěřil je velitelům stráže, která hlídala vchod do královského paláce.</verse>
+        <verse osisID='2Chr.12.11'>Kdykoli král chodíval do Hospodinova chrámu, šly s ním stráže, vynášely ty štíty a pak je opět vracely do strážní komory.</verse>
+        <verse osisID='2Chr.12.12'>Protože se však pokořil, Hospodinův hněv se od něj odvrátil a nezničil je úplně. V Judsku se totiž našlo i leccos dobrého.</verse>
+        <verse osisID='2Chr.12.13'>Král Rechoboám vládl v Jeruzalémě pevnou rukou. Stal se králem v jedenačtyřiceti letech a sedmnáct let kraloval v Jeruzalémě, ve městě, které Hospodin vyvolil ze všech izraelských kmenů, aby tam zůstávalo jeho jméno. Rechoboámova matka, Amonka, se jmenovala Naama.</verse>
+        <verse osisID='2Chr.12.14'>Jednal zle a nijak netoužil hledat Hospodina.</verse>
+        <verse osisID='2Chr.12.15'>Rechoboámovy skutky jsou, jak známo, od počátku až do konce sepsány spolu s rodokmeny ve Slovech proroka Šemajáše a vidoucího Ida. Mezi Rechoboámem a Jeroboámem trvala neustálá válka.</verse>
+        <verse osisID='2Chr.12.16'>Rechoboám pak ulehl ke svým otcům a byl pochován ve Městě Davidově. Na jeho místě začal kralovat jeho syn Abiáš.</verse>
+      </chapter>
+      <chapter osisID='2Chr.13'>
+        <verse osisID='2Chr.13.1'>Osmnáctého roku Jeroboámovy vlády se stal judským králem Abiáš.</verse>
+        <verse osisID='2Chr.13.2'>Kraloval v Jeruzalémě tři roky. Jeho matka se jmenovala Maaka, dcera Uriela z Gibeje. Mezi Abiášem a Jeroboámem trvala válka.</verse>
+        <verse osisID='2Chr.13.3'>Abiáš se vypravil do boje s vojskem čítajícím 400 000 vybraných bojovníků. Jeroboám se vypravil s vojskem čítajícím 800 000 vybraných bojovníků.</verse>
+        <verse osisID='2Chr.13.4'>Abiáš se postavil na horu Cemaraim v Efraimském pohoří a prohlásil: "Jeroboáme a všechen Izraeli, poslouchejte!</verse>
+        <verse osisID='2Chr.13.5'>Copak nevíte, že Hospodin, Bůh Izraele, uzavřel s Davidem a jeho syny trvalou smlouvu, že budou vládnout Izraeli navěky?</verse>
+        <verse osisID='2Chr.13.6'>Pak ale povstal Jeroboám, syn Nebatův, služebník Davidova syna Šalomouna, a vzbouřil se proti svému pánovi.</verse>
+        <verse osisID='2Chr.13.7'>K němu se shromáždila ničemná a zlotřilá cháska a vzepřela se Šalomounovu synu Rechoboámovi, protože Rechoboám byl ještě mladý a nezkušený a nedokázal se jim postavit.</verse>
+        <verse osisID='2Chr.13.8'>Copak si myslíte, že teď můžete obstát proti Hospodinovu království, které je v rukou Davidových synů? Snad proto, že je vás tolik? Nebo proto, že s sebou máte jako bohy zlatá telata, která vám Jeroboám vyrobil?</verse>
+        <verse osisID='2Chr.13.9'>Copak jste nevyhnali Hospodinovy kněze, syny Áronovy, i levity? Copak jste si sami nepořídili kněze, jako to dělají pohané v cizích zemích? Kdokoli si s mladým býčkem a sedmi berany přijde pro vysvěcení, už je z něj kněz těch vašich nebohů.</verse>
+        <verse osisID='2Chr.13.10'>Naším Bohem je ale Hospodin! My jsme ho neopustili! Kněží, kteří u nás slouží Hospodinu, jsou synové Áronovi, kterým pomáhají levité.</verse>
+        <verse osisID='2Chr.13.11'>Ráno co ráno a večer co večer přinášejí Hospodinu dým zápalných obětí a vonného kadidla. Předkládají mu chleby na neposkvrněném stole a večer co večer zažehují zlatý svícen se svítilnami. My zachováváme Hospodinovu službu, ale vy jste ho opustili.</verse>
+        <verse osisID='2Chr.13.12'>Bůh je s námi! Stojí nám v čele! Jeho kněží zatroubí proti vám, synové Izraele! Nebojujte s Hospodinem, Bohem našich otců! Neuspějete!"</verse>
+        <verse osisID='2Chr.13.13'>Jeroboám ale mezitím vyslal obchvatem zálohu, aby je napadla zezadu, takže je Judští měli zepředu i zezadu.</verse>
+        <verse osisID='2Chr.13.14'>Jakmile zjistili, že se bojuje vepředu i vzadu, začali volat k Hospodinu. Kněží troubili na trubky</verse>
+        <verse osisID='2Chr.13.15'>a všichni judští muži vyrazili pokřik. Jakmile zazněl jejich pokřik, Bůh před Abiášem a Judskými porazil Jeroboáma a celý Izrael.</verse>
+        <verse osisID='2Chr.13.16'>Synové Izraele se dali před Judou na útěk, ale Bůh jim je vydal do rukou,</verse>
+        <verse osisID='2Chr.13.17'>takže je Abiáš se svým vojskem úplně rozdrtil. Na izraelské straně padlo 500 000 vybraných bojovníků.</verse>
+        <verse osisID='2Chr.13.18'>Synové Izraele byli tenkrát pokořeni, kdežto synové Judy zvítězili, protože se spolehli na Hospodina, Boha svých otců.</verse>
+        <verse osisID='2Chr.13.19'>Abiáš pronásledoval Jeroboáma a dobyl města Bet-el, Ješanu a Efron i s jejich vesnicemi.</verse>
+        <verse osisID='2Chr.13.20'>Jeroboám se za celou dobu Abiášovy vlády už nevzpamatoval. Bůh ho ranil tak, že zemřel.</verse>
+        <verse osisID='2Chr.13.21'>Abiáš ale sílil. Vzal si čtrnáct manželek a zplodil dvaadvacet synů a šestnáct dcer.</verse>
+        <verse osisID='2Chr.13.22'>Ostatní Abiášovy skutky - jeho slova i činy - jsou sepsány ve Výkladu proroka Ida. Abiáš pak ulehl ke svým otcům a byl pochován ve Městě Davidově. Na jeho místě začal kralovat jeho syn Asa. V jeho době země zažívala deset let míru.</verse>
+      </chapter>
+      <chapter osisID='2Chr.14'>
+        <verse osisID='2Chr.14.1'>Asa dělal, co je správné a dobré v očích Hospodina, jeho Boha.</verse>
+        <verse osisID='2Chr.14.2'>Odstranil cizí oltáře a obětní výšiny, zničil posvátné sloupy a pokácel Ašeřiny kůly.</verse>
+        <verse osisID='2Chr.14.3'>Přikázal Judovi, aby hledal Hospodina, Boha svých otců, a dodržoval jeho Zákon i přikázání.</verse>
+        <verse osisID='2Chr.14.4'>Ze všech judských měst odstranil obětní výšiny a kadidlové oltáříky. Království v jeho době zažívalo mír.</verse>
+        <verse osisID='2Chr.14.5'>Země žila v míru, a tak mohl Asa v Judsku budovat opevněná města. Nikdo proti němu v těch letech neválčil, neboť mu Hospodin dopřál odpočinutí.</verse>
+        <verse osisID='2Chr.14.6'>"Vybudujme ta města!" vybídl Asa Judu. "Opevněme je hradbami s věžemi, branami a závorami. Země zůstala nám, protože jsme hledali Hospodina, svého Boha. Hledali jsme ho a on nám dopřál odpočinutí ze všech stran!" Stavěli tedy a dařilo se jim.</verse>
+        <verse osisID='2Chr.14.7'>Asovo vojsko čítalo 300 000 judských mužů s pavézami a oštěpy a 280 000 Benjamínců vládnoucích štítem a lukem, samé statečné bojovníky.</verse>
+        <verse osisID='2Chr.14.8'>Tehdy proti němu vytáhl Habešan Zerach s milionovou armádou a třemi sty vozy a pronikl až k Mareše.</verse>
+        <verse osisID='2Chr.14.9'>Asa mu vytáhl naproti. Když se sšikovali k bitvě v údolí Cefata u Marešy,</verse>
+        <verse osisID='2Chr.14.10'>Asa volal k Hospodinu, svému Bohu: "Hospodine, nikdo jiný nemůže pomoci slabému proti takové přesile. Pomoz nám, Hospodine, Bože náš! Na tebe spoléháme a ve tvém jménu čelíme této přesile. Hospodine, ty jsi náš Bůh; přece proti tobě neobstojí smrtelník!"</verse>
+        <verse osisID='2Chr.14.11'>Hospodin tenkrát ty Habešany před Asou a judskými muži porazil, takže se dali na útěk.</verse>
+        <verse osisID='2Chr.14.12'>Asa je se svým vojskem pronásledoval až ke Geraru. Habešanů padlo tolik, že se už nevzchopili, protože je stihla drtivá porážka před Hospodinem a jeho táborem. Judští si pak odnesli velikou spoustu kořisti.</verse>
+        <verse osisID='2Chr.14.13'>Na všechna města v okolí Geraru padla hrůza z Hospodina. Zaútočili na ně a všechna ta města vyplenili; bylo v nich opravdu nesmírné množství kořisti.</verse>
+        <verse osisID='2Chr.14.14'>Napadli tábory pastevců a pobrali spoustu ovcí, koz a velbloudů. Potom se vrátili do Jeruzaléma.</verse>
+      </chapter>
+      <chapter osisID='2Chr.15'>
+        <verse osisID='2Chr.15.1'>Boží Duch spočinul na Azariášovi, synu Odedovu.</verse>
+        <verse osisID='2Chr.15.2'>Vyšel Asovi vstříc se slovy: "Slyš mě, Aso i všechen Judo a Benjamíne! Hospodin bude s vámi, když budete s ním. Když ho budete hledat, dá se vám najít. Když ho opustíte, opustí vás.</verse>
+        <verse osisID='2Chr.15.3'>Izrael byl už dlouho bez pravého Boha, bez kněze, který by je učil, a bez Zákona.</verse>
+        <verse osisID='2Chr.15.4'>Když se ale ve svém soužení navrátí k Hospodinu, Bohu Izraele, on se jim dá najít.</verse>
+        <verse osisID='2Chr.15.5'>V těchto dnech není bezpečné cestovat tam ani zpět. Mezi obyvateli všech zemí vládne nepokoj.</verse>
+        <verse osisID='2Chr.15.6'>Národy i města se drtí navzájem, neboť je Bůh stíhá všemožným soužením.</verse>
+        <verse osisID='2Chr.15.7'>Vy se však vzchopte a nepolevujte, vždyť vaše námaha má odplatu."</verse>
+        <verse osisID='2Chr.15.8'>Když Asa uslyšel tato slova, proroctví z úst Azariáše, syna Odedova, vzchopil se a odstranil ohavnosti z celé judské a benjamínské země i z měst, která zabral v Efraimských horách. Obnovil také Hospodinův oltář stojící naproti předsíni Hospodinova chrámu.</verse>
+        <verse osisID='2Chr.15.9'>Poté shromáždil celého Judu a Benjamína i všechny přistěhovalce z Efraima, Manasese a Šimeona. Mnozí z Izraele se totiž přidali k Judovi, když viděli, že Hospodin, jeho Bůh, je s ním.</verse>
+        <verse osisID='2Chr.15.10'>Třetího měsíce patnáctého roku Asova kralování se shromáždili v Jeruzalémě</verse>
+        <verse osisID='2Chr.15.11'>a toho dne obětovali Hospodinu dary z kořisti. Přihnali 700 kusů dobytka a 7 000 ovcí a koz.</verse>
+        <verse osisID='2Chr.15.12'>Zavázali se smlouvou, že budou hledat Hospodina, Boha svých otců, celým srdcem a celou duší.</verse>
+        <verse osisID='2Chr.15.13'>Kdokoli by nehledal Hospodina, Boha Izraele, měl zemřít, ať byl malý nebo velký, ať to byl muž nebo žena.</verse>
+        <verse osisID='2Chr.15.14'>S hlasitým voláním to přísahali Hospodinu za zvuku trubek a beraních rohů.</verse>
+        <verse osisID='2Chr.15.15'>Všechen judský lid se z té přísahy radoval, protože přísahali celým srdcem. Hledali ho s veškerou horlivostí, a Hospodin se jim dal najít a dopřál jim odpočinutí ze všech stran.</verse>
+        <verse osisID='2Chr.15.16'>Král Asa zbavil svou babičku Maaku postavení královny matky kvůli té zrůdnosti, kterou nechala vyrobit pro Ašeru. Asa tu zrůdnou modlu rozbil na kusy a spálil u potoka Kidron.</verse>
+        <verse osisID='2Chr.15.17'>Asa sice z Izraele neodstranil obětní výšiny, ale po celý svůj život měl srdce oddané Hospodinu.</verse>
+        <verse osisID='2Chr.15.18'>Vnesl do Božího chrámu zasvěcenou kořist svého otce i svou vlastní, stříbro a zlato a další předměty.</verse>
+        <verse osisID='2Chr.15.19'>Až do pětatřicátého roku Asovy vlády nebyla žádná další válka.</verse>
+      </chapter>
+      <chapter osisID='2Chr.16'>
+        <verse osisID='2Chr.16.1'>V šestatřicátém roce Asova kralování ale proti Judsku vytáhl izraelský král Baaša. Vystavěl Rámu, takže od krále Asy nemohl nikdo odejít ani tam přijít.</verse>
+        <verse osisID='2Chr.16.2'>Asa proto vynesl stříbro a zlato z pokladnic Hospodinova chrámu i královského paláce a poslal je k aramejskému králi Ben-hadadovi, sídlícímu v Damašku. Vzkázal mu:</verse>
+        <verse osisID='2Chr.16.3'>"Pojďme spolu uzavřít smlouvu tak jako naši otcové. Hle, posílám ti stříbro a zlato. Zruš svou smlouvu s izraelským králem Baašou, ať ode mě odtáhne."</verse>
+        <verse osisID='2Chr.16.4'>Ben-hadad králi Asovi vyhověl a vyslal do izraelských měst své vojevůdce. Dobyli Ijon, Dan, Abel-majim a všechny zásobovací sklady měst v kraji Neftalí.</verse>
+        <verse osisID='2Chr.16.5'>Jakmile se to Baaša doslechl, přestal stavět Rámu a práce tam ukončil.</verse>
+        <verse osisID='2Chr.16.6'>Král Asa pak svolal celého Judu, aby odnášeli kamení a dřevo z Rámy, kterou chtěl Baaša vystavět. Král Asa z toho vystavěl Gebu a Micpu.</verse>
+        <verse osisID='2Chr.16.7'>V té době k judskému králi Asovi přišel vidoucí Chanani a řekl mu: "Protože ses spolehl na aramejského krále, a ne na Hospodina, svého Boha, vojsko aramejského krále ti uniklo z rukou.</verse>
+        <verse osisID='2Chr.16.8'>Neměli snad Habešané a Libyjci ohromné vojsko s obrovským množstvím vozů a jezdců? Tenkrát ses ale spolehl na Hospodina, a tak ti je vydal do rukou.</verse>
+        <verse osisID='2Chr.16.9'>Hospodinovy oči procházejí celou zemi, aby posiloval ty, kdo jsou mu oddáni celým srdcem. Ty ses teď ale zachoval jako hlupák, a tak budeš od nynějška čelit válkám."</verse>
+        <verse osisID='2Chr.16.10'>Asa se na vidoucího rozhněval. Rozzuřil se tak, že ho dal ve vězení vsadit do klády. Tehdy se také k některým z lidu dopustil velikých krutostí.</verse>
+        <verse osisID='2Chr.16.11'>Asovy skutky jsou od počátku až do konce zapsány v Knize judských a izraelských králů.</verse>
+        <verse osisID='2Chr.16.12'>V devětatřicátém roce své vlády Asa onemocněl na nohy. Byl vážně nemocný, ve své nemoci však nehledal Hospodina, ale lékaře.</verse>
+        <verse osisID='2Chr.16.13'>V jednačtyřicátém roce svého kralování pak Asa zemřel a ulehl ke svým otcům.</verse>
+        <verse osisID='2Chr.16.14'>Pochovali ho v jeho hrobce, kterou si nechal vytesat ve Městě Davidově. Uložili ho na márách pokrytých vonnými balzámy a směsí rozmanitých mastí a k jeho poctě zažehli nesmírně veliký pohřební oheň.</verse>
+      </chapter>
+      <chapter osisID='2Chr.17'>
+        <verse osisID='2Chr.17.1'>Na Asově místě začal kralovat jeho syn Jošafat, který posílil Judu proti Izraeli.</verse>
+        <verse osisID='2Chr.17.2'>Do všech opevněných judských měst umístil vojsko a po celé judské zemi i v efraimských městech, která zabral jeho otec Asa, rozmístil posádky.</verse>
+        <verse osisID='2Chr.17.3'>Hospodin byl s Jošafatem, neboť chodil po starých cestách svého otce Davida a nevyhledával baaly.</verse>
+        <verse osisID='2Chr.17.4'>Namísto toho hledal Boha svého otce a narozdíl od Izraele se řídil jeho příkazy.</verse>
+        <verse osisID='2Chr.17.5'>Hospodin mu dal království pevně do rukou a celé Judsko přinášelo Jošafatovi dary, takže měl nesmírné bohatství a slávu.</verse>
+        <verse osisID='2Chr.17.6'>Srdcem se natolik upnul k Hospodinovým cestám, že z Judska odstranil obětní výšiny i posvátné kůly.</verse>
+        <verse osisID='2Chr.17.7'>Ve třetím roce své vlády vyslal své hodnostáře Ben-chaila, Obadiáše, Zachariáše, Natanaela a Michajáše, aby učili v judských městech.</verse>
+        <verse osisID='2Chr.17.8'>Poslal s nimi také levity Šemajáše, Netaniáše, Zebadiáše, Asaela, Šemiramota, Jonatana, Adoniáše, Tobiáše a Tob-adoniáše a s nimi také kněze Elišamu a Jorama.</verse>
+        <verse osisID='2Chr.17.9'>Ti vyučovali v Judsku. Měli s sebou knihu Zákona Hospodinova, obcházeli všechna judská města a vyučovali lid.</verse>
+        <verse osisID='2Chr.17.10'>Všechna království okolo Judska tehdy měla hrůzu z Hospodina, takže s Jošafatem nikdo nebojoval.</verse>
+        <verse osisID='2Chr.17.11'>Dokonce i Filištíni přinášeli Jošafatovi předepsanou daň ve stříbře. Arabové mu přiváděli stáda: 7 700 beranů a 7 700 kozlů.</verse>
+        <verse osisID='2Chr.17.12'>Jošafatova moc neustále rostla. V Judsku vystavěl pevnosti a zásobovací města</verse>
+        <verse osisID='2Chr.17.13'>a v judských městech hromadil veliké zásoby. V Jeruzalémě pak měl vojsko udatných bojovníků.</verse>
+        <verse osisID='2Chr.17.14'>Toto je jejich výčet podle otcovských domů: Velitelé tisíců z Judy: velitel Adna a jeho 300 000 udatných bojovníků,</verse>
+        <verse osisID='2Chr.17.15'>po něm velitel Jochanan a jeho 280 000 mužů,</verse>
+        <verse osisID='2Chr.17.16'>po něm Amasiáš, syn Zichriho, dobrovolník Hospodinův, a jeho 200 000 bojovníků.</verse>
+        <verse osisID='2Chr.17.17'>Z Benjamína: bojovník Eliada a jeho 200 000 mužů vyzbrojených luky a štíty,</verse>
+        <verse osisID='2Chr.17.18'>po něm Jozabad a jeho 180 000 ozbrojenců.</verse>
+        <verse osisID='2Chr.17.19'>Ti sloužili králi a další král rozmístil v opevněných městech po celém Judsku.</verse>
+      </chapter>
+      <chapter osisID='2Chr.18'>
+        <verse osisID='2Chr.18.1'>Když Jošafat dosáhl velikého bohatství a slávy, uzavřel sňatkem svého syna spojenectví s Achabem.</verse>
+        <verse osisID='2Chr.18.2'>Po několika letech Achaba navštívil v Samaří a ten pro něj a pro jeho doprovod porazil spoustu ovcí, koz a telat. Potom ho začal podněcovat k tažení proti Rámot-gileádu.</verse>
+        <verse osisID='2Chr.18.3'>"Potáhneš se mnou na Rámot-gileád?" ptal se izraelský král Achab judského krále Jošafata. "Udělám to, co ty," odpověděl mu Jošafat. "Můj lid je jako tvůj, mí koně jako tví! Půjdu do boje s tebou."</verse>
+        <verse osisID='2Chr.18.4'>Jošafat ale izraelského krále požádal: "Vyptej se dnes prosím na slovo Hospodinovo."</verse>
+        <verse osisID='2Chr.18.5'>Izraelský král tedy shromáždil na čtyři sta proroků a ptal se jich: "Máme jít do války o Rámot-gileád, nebo ne?" "Jdi," odpovídali, "a Bůh je vydá králi do rukou!"</verse>
+        <verse osisID='2Chr.18.6'>Jošafat ale naléhal: "To už tu není žádný Hospodinův prorok, abychom se zeptali jeho?"</verse>
+        <verse osisID='2Chr.18.7'>"Vlastně tu jeden takový je," řekl izraelský král. "Skrze něj se lze ptát Hospodina, ale já ho nesnáším, protože mi neprorokuje nic dobrého, jen samé neštěstí. Je to Michajáš, syn Jimlův." "Tak by král neměl mluvit," odpověděl Jošafat.</verse>
+        <verse osisID='2Chr.18.8'>Izraelský král tedy zavolal jednoho komorníka a rozkázal: "Rychle, Michajáše, syna Jimlova!"</verse>
+        <verse osisID='2Chr.18.9'>Král Izraele a Jošafat, král Judy, seděli ve slavnostním rouchu na svých trůnech na prostranství u vchodu do samařské brány a všichni ti proroci prorokovali před nimi.</verse>
+        <verse osisID='2Chr.18.10'>Cidkiáš, syn Kenaanův, si zhotovil železné rohy a prohlásil: "Toto praví Hospodin: Takhle utrkáš Aramejce k smrti!"</verse>
+        <verse osisID='2Chr.18.11'>A všichni ti proroci prorokovali podobně: "Jdi na Rámot-gileád! Čeká tě úspěch! Hospodin ho králi vydá do rukou!"</verse>
+        <verse osisID='2Chr.18.12'>Posel, který šel pro Michajáše, mu říkal: "Podívej se, všichni proroci jako jeden muž předpovídají králi dobré věci. Raději mluv jako oni. Řekni mu něco dobrého."</verse>
+        <verse osisID='2Chr.18.13'>"Jakože je živ Hospodin," odpověděl Michajáš, "budu mluvit jen to, co řekne můj Bůh."</verse>
+        <verse osisID='2Chr.18.14'>A tak přišel ke králi. Ten se ho zeptal: "Michajáši, máme jít do války o Rámot-gileád, nebo ne?" "Jděte," odpověděl. "Čeká vás úspěch. Padnou vám do rukou."</verse>
+        <verse osisID='2Chr.18.15'>Král ho však přerušil: "Kolikrát tě mám zapřísahat, abys mi ve jménu Hospodinově neříkal nic než pravdu!"</verse>
+        <verse osisID='2Chr.18.16'>Michajáš mu tedy řekl: "Viděl jsem všechen Izrael jak ovce po horách rozptýlen, jak ovce bez svého pastýře. Hospodin řekl mi: Pány nemají, ať vrátí se domů každý v pokoji!"</verse>
+        <verse osisID='2Chr.18.17'>"Vždyť jsem ti to říkal," obrátil se izraelský král k Jošafatovi. "Neprorokuje mi nic dobrého, jen samé neštěstí."</verse>
+        <verse osisID='2Chr.18.18'>Michajáš ale pokračoval: "Nuže, slyšte slovo Hospodinovo. Viděl jsem Hospodina sedícího na trůnu a všechen nebeský zástup po jeho pravici a levici.</verse>
+        <verse osisID='2Chr.18.19'>Hospodin se ptal: ‚Kdo svede izraelského krále Achaba, aby vytáhl a padl u Rámot-gileádu?' Ten říkal to a ten zas ono.</verse>
+        <verse osisID='2Chr.18.20'>Vtom vyšel duch, stanul před Hospodinem a řekl: ‚Já ho svedu.' Hospodin se zeptal: ‚Jak?'</verse>
+        <verse osisID='2Chr.18.21'>a on odpověděl: ‚Vyjdu a budu lživým duchem v ústech všech jeho proroků.' Nato Hospodin řekl: ‚Ano, podaří se ti to; svedeš ho. Jdi a proveď to.'</verse>
+        <verse osisID='2Chr.18.22'>Nuže, pohleď - do úst všech těchto tvých proroků vložil Hospodin lživého ducha. Hospodin ti ale předpovídá neštěstí."</verse>
+        <verse osisID='2Chr.18.23'>Vtom vykročil Cidkiáš, syn Kenaanův, a udeřil Michajáše do tváře se slovy: "Kudy asi přešel Hospodinův duch ode mě, aby mluvil k tobě?"</verse>
+        <verse osisID='2Chr.18.24'>"To uvidíš v den, kdy se ukryješ v nejzazším pokojíku!" odpověděl mu Michajáš."</verse>
+        <verse osisID='2Chr.18.25'>Nato izraelský král rozkázal: "Seberte Michajáše a odveďte ho k veliteli města Amonovi a královskému synu Joašovi.</verse>
+        <verse osisID='2Chr.18.26'>Řeknete: ‚Takto praví král: Tohoto muže vsaďte do vězení a odměřujte mu chleba a vodu, dokud se v pořádku nenavrátím.'"</verse>
+        <verse osisID='2Chr.18.27'>Michajáš ale řekl: "Jestli se vrátíš v pořádku, nemluvil skrze mě Hospodin." A dodal: "Slyšte to, všichni lidé!"</verse>
+        <verse osisID='2Chr.18.28'>Izraelský král pak s judským králem Jošafatem táhli na Rámot-gileád.</verse>
+        <verse osisID='2Chr.18.29'>Izraelský král Jošafatovi řekl: "Já půjdu do bitvy v přestrojení, ty ale zůstaň ve svém rouchu." A tak se král Izraele před bitvou přestrojil.</verse>
+        <verse osisID='2Chr.18.30'>Aramejský král rozkázal svým vozatajům: "Nebojujte s malým ani s velkým, jedině s králem izraelským!"</verse>
+        <verse osisID='2Chr.18.31'>Když potom vozatajové uviděli Jošafata, řekli si: "To je izraelský král." Obklíčili ho tedy, aby ho napadli. Když ale Jošafat vykřikl, Hospodin mu pomohl. Bůh je od něj odlákal.</verse>
+        <verse osisID='2Chr.18.32'>Vozatajové poznali, že to není izraelský král, a nechali ho být.</verse>
+        <verse osisID='2Chr.18.33'>Někdo tehdy náhodně vystřelil z luku a zasáhl izraelského krále mezi pláty a pancíř. "Zpátky!" rozkázal král svému vozatajovi. "Odvez mě z boje! Jsem raněn!"</verse>
+        <verse osisID='2Chr.18.34'>Bitva ale zuřila celý den, a tak izraelský král musel zůstat před Aramejci podepřen na svém voze až do večera. Zemřel při západu slunce.</verse>
+      </chapter>
+      <chapter osisID='2Chr.19'>
+        <verse osisID='2Chr.19.1'>Judský král Jošafat se vracel domů do Jeruzaléma v pokoji.</verse>
+        <verse osisID='2Chr.19.2'>Vyšel mu ale vstříc vidoucí Jehu, syn Chananiho, a oslovil ho: "Měl jsi pomáhat ničemovi? Měl ses přátelit s Hospodinovými nepřáteli? Kvůli tomu na tebe přijde Hospodinův hněv.</verse>
+        <verse osisID='2Chr.19.3'>Našlo se ale na tobě i leccos dobrého, neboť jsi v celé zemi spálil posvátné kůly a v srdci jsi odhodlán hledat Boha."</verse>
+        <verse osisID='2Chr.19.4'>Jošafat bydlel v Jeruzalémě, ale opakovaně se vydával mezi lid od Beer-šeby po Efraimské hory a navracel je k Hospodinu, Bohu jejich otců.</verse>
+        <verse osisID='2Chr.19.5'>Po celé zemi ustanovil v každém opevněném městě soudce.</verse>
+        <verse osisID='2Chr.19.6'>Těmto soudcům nařídil: "Dávejte pozor, jak jednáte. Nesoudíte přece jen pro člověka, ale pro Hospodina. Když vynášíte soud, on je s vámi.</verse>
+        <verse osisID='2Chr.19.7'>Ať vás tedy provází hrůza z Hospodina. Jednejte svědomitě, neboť Hospodin, náš Bůh, nestrpí nespravedlnost, podjatost ani úplatky!"</verse>
+        <verse osisID='2Chr.19.8'>V Jeruzalémě pak Jošafat ustanovil některé levity, kněze a vůdce izraelských kmenů, aby uplatňovali Hospodinův soud, a tak bylo možno odvolávat se do Jeruzaléma.</verse>
+        <verse osisID='2Chr.19.9'>Přikázal jim: "Tak jednejte - s úctou k Hospodinu, věrně a s upřímným srdcem.</verse>
+        <verse osisID='2Chr.19.10'>U každého sporu, který k vám přijde od vašich bratrů z jiných měst, ať už se bude týkat prolití krve nebo otázek Zákona, přikázání, ustanovení a pravidel, je musíte poučit, ať nehřeší proti Hospodinu. Jinak by Boží hněv padl nejen na vaše bratry, ale i na vás. Tak jednejte a buďte bezúhonní.</verse>
+        <verse osisID='2Chr.19.11'>Nejvyšší kněz Amariáš vám bude nadřízen ve všech záležitostech Hospodinových a Zebadiáš, syn Izmaelův, představený domu Judova, ve všech záležitostech královských. Levité vám budou sloužit jako úředníci. Buďte stateční a pusťte se do práce. Hospodin bude na straně dobrých!"</verse>
+      </chapter>
+      <chapter osisID='2Chr.20'>
+        <verse osisID='2Chr.20.1'>Po nějaké době přitáhli Moábci spolu s Amonci a některými Meunity, aby proti Jošafatovi vedli válku.</verse>
+        <verse osisID='2Chr.20.2'>Jošafatovi bylo oznámeno: "Přitáhla proti tobě ohromná spousta z protějšího břehu Mrtvého moře, z Edomu, a už jsou v Chasason-tamaru!" (To je En-gedi.)</verse>
+        <verse osisID='2Chr.20.3'>Jošafat se bál a rozhodl se hledat Hospodina. V celém Judsku proto vyhlásil půst</verse>
+        <verse osisID='2Chr.20.4'>a judský lid se shromáždil, aby hledali pomoc od Hospodina. Přišli hledat Hospodina opravdu ze všech judských měst.</verse>
+        <verse osisID='2Chr.20.5'>Jošafat se spolu se shromážděným Judou a Jeruzalémem postavil před novým nádvořím v Hospodinově chrámu</verse>
+        <verse osisID='2Chr.20.6'>a promluvil: "Hospodine, Bože našich otců, ty jsi přece Bůh na nebesích! To ty vládneš královstvím všech národů a ve tvé ruce je síla i moc. Nikdo nemůže obstát před tebou!</verse>
+        <verse osisID='2Chr.20.7'>Byl jsi to přece ty, Bože náš, kdo před svým lidem Izraelem vyhnal obyvatele této země a dal ji potomkům svého přítele Abrahama na věky.</verse>
+        <verse osisID='2Chr.20.8'>Poté, co ji osídlili, postavili v ní svatyni pro tvé jméno a řekli:</verse>
+        <verse osisID='2Chr.20.9'>‚Přijde-li na nás neštěstí, ať už meč, soud, mor či hlad, postavíme se před tento chrám a před tebe samého - vždyť v tomto domě přebývá tvé jméno - a budeme z našich úzkostí volat k tobě a ty nás uslyšíš a vysvobodíš.'</verse>
+        <verse osisID='2Chr.20.10'>Nuže, pohleď - jsou tu Amonci, Moábci a obyvatelé pohoří Seír! Když naši otcové vycházeli z Egypta, nenechal jsi tudy Izrael ani projít, takže se jim vyhnuli a nevyhladili je.</verse>
+        <verse osisID='2Chr.20.11'>A podívej se, jak nám odplácejí! Přicházejí nás vyhnat z tvého dědictví, které jsi nám odkázal.</verse>
+        <verse osisID='2Chr.20.12'>Copak je nebudeš soudit, Bože náš? Nemáme sílu na tu ohromnou přesilu, která táhne proti nám. Nevíme, co máme dělat, ale naše oči hledí k tobě!"</verse>
+        <verse osisID='2Chr.20.13'>Celý Juda stál i s nemluvňaty, ženami a dětmi před Hospodinem.</verse>
+        <verse osisID='2Chr.20.14'>Vtom uprostřed shromáždění sestoupil Duch Hospodinův na Jachziela, syna Zachariášova, syna Benajášova, syna Jehielova, syna Mataniášova, levitu ze synů Asafových.</verse>
+        <verse osisID='2Chr.20.15'>Řekl: "Všechen Judo a obyvatelé Jeruzaléma i ty, králi Jošafate, poslouchejte. Toto vám praví Hospodin: Nebojte se ani se nelekejte té ohromné přesily. Ten boj není váš, ale Boží.</verse>
+        <verse osisID='2Chr.20.16'>Zítra vytáhněte proti nim. Uvidíte, jak stoupají do svahu Cic, a střetnete se s nimi na konci strže před pouští Jeruel.</verse>
+        <verse osisID='2Chr.20.17'>Boj ale nebude na vás. Stůjte na svých místech a uvidíte, jakou záchranu vám Hospodin přichystal. Nebojte se ani se nelekejte, Judo a Jeruzaléme! Zítra vytáhněte proti nim a Hospodin bude s vámi!"</verse>
+        <verse osisID='2Chr.20.18'>Nato se Jošafat sklonil tváří k zemi a celý Juda i obyvatelé Jeruzaléma padli před Hospodinem a klaněli se mu.</verse>
+        <verse osisID='2Chr.20.19'>Levité ze synů Kehatových a Korachových pak vstali, aby oslavovali Hospodina, Boha Izraele, hlasitým zpěvem.</verse>
+        <verse osisID='2Chr.20.20'>Brzy ráno vytáhli na Tekojskou poušť. Když vycházeli, Jošafat se před ně postavil a prohlásil: "Slyšte mě, Judo a všichni Jeruzalémští! Věřte Hospodinu, svému Bohu, a obstojíte. Věřte jeho prorokům, a uspějete!"</verse>
+        <verse osisID='2Chr.20.21'>Poté, co se poradil s lidem, postavil do čela vojska Hospodinovy zpěváky, aby při pochodu oslavovali nádheru jeho svatosti: "Chvála Hospodinu! Jeho láska trvá na věky!"</verse>
+        <verse osisID='2Chr.20.22'>Ve chvíli, kdy začali zpívat a oslavovat, Hospodin proti Amoncům, Moábcům a obyvatelům hory Seír, kteří útočili na Judu, obrátil jejich zálohy, takže se pustili jedni do druhých.</verse>
+        <verse osisID='2Chr.20.23'>Amonci a Moábci napadli obyvatele pohoří Seír a pobili je do posledního muže. Poté, co skoncovali s obyvateli Seíru, pomohli k záhubě jeden druhému.</verse>
+        <verse osisID='2Chr.20.24'>Když Judští dorazili k místu, odkud je vidět daleko do pouště, rozhlíželi se po tom ohromném vojsku a hle - země byla poseta mrtvými! Nikdo nevyvázl.</verse>
+        <verse osisID='2Chr.20.25'>Jošafat pak se svým vojskem začal sbírat kořist. Našli u nich takové množství výzbroje, šatů a dalších cenností, že to ani nemohli pobrat. Kořisti nakonec bylo tolik, že jim trvalo tři dny, než ji posbírali.</verse>
+        <verse osisID='2Chr.20.26'>Čtvrtého dne se shromáždili do údolí Beracha (to je: Dobrořečení), aby tam dobrořečili Hospodinu. Proto se to místo dodnes nazývá Emek-beracha, totiž Údolí dobrořečení.</verse>
+        <verse osisID='2Chr.20.27'>Všichni judští a jeruzalémští muži se pak v čele s Jošafatem radostně vrátili do Jeruzaléma, protože jim Hospodin dal radost z porážky jejich nepřátel.</verse>
+        <verse osisID='2Chr.20.28'>Přišli do Jeruzaléma a s lyrami, citerami a trubkami zamířili do Hospodinova chrámu.</verse>
+        <verse osisID='2Chr.20.29'>Když se všechna okolní království doslechla, jak Hospodin bojoval proti nepřátelům Izraele, padla na ně hrůza z Boha.</verse>
+        <verse osisID='2Chr.20.30'>Jošafatovo království pak žilo v míru, protože jeho Bůh mu dopřál odpočinutí ze všech stran.</verse>
+        <verse osisID='2Chr.20.31'>Jošafat se stal judským králem v pětatřiceti letech a kraloval v Jeruzalémě dvacet pět let. Jeho matka se jmenovala Azuba, dcera Šilchiho.</verse>
+        <verse osisID='2Chr.20.32'>Držel se cesty svého otce Asy a nepřestával dělat, co je v Hospodinových očích správné.</verse>
+        <verse osisID='2Chr.20.33'>Pouze obětní výšiny nebyly odstraněny, a tak se lid stále neodhodlal odevzdat své srdce Bohu svých otců.</verse>
+        <verse osisID='2Chr.20.34'>Ostatní Jošafatovy skutky jsou od počátku až do konce zapsány ve Slovech Jehua, syna Chananiho, která jsou součástí Knihy izraelských králů.</verse>
+        <verse osisID='2Chr.20.35'>Judský král Jošafat se v pozdějších letech spolčil s izraelským králem Achaziášem, což byl velmi špatný čin.</verse>
+        <verse osisID='2Chr.20.36'>Spolčil se s ním, aby si pořídil zámořské loďstvo. Když ty lodě v Ecjon-geberu postavili,</verse>
+        <verse osisID='2Chr.20.37'>Eliezer, syn Dodavahův z Marešy, pak Jošafatovi prorokoval: "Protože ses spolčil s Achaziášem, Hospodin tvé dílo zničí!" Lodě ztroskotaly, a tak z plavby do zámoří sešlo.</verse>
+      </chapter>
+      <chapter osisID='2Chr.21'>
+        <verse osisID='2Chr.21.1'>Potom Jošafat ulehl ke svým otcům, a když byl pochován ke svým předkům ve Městě Davidově, na jeho místě začal kralovat jeho syn Jehoram.</verse>
+        <verse osisID='2Chr.21.2'>Jeho bratři, synové Jošafatovi, byli: Azariáš, Jechiel, Zachariáš, Azarjáh, Michael a Šefatiáš. Ti všichni byli synové izraelského krále Jošafata.</verse>
+        <verse osisID='2Chr.21.3'>Jejich otec je bohatě obdaroval stříbrem, zlatem a cennostmi. Svěřil jim judská opevněná města, ale království svěřil Jehoramovi, svému prvorozenému.</verse>
+        <verse osisID='2Chr.21.4'>Jehoram se tedy ujal království svého otce. Jakmile upevnil svou moc, povraždil mečem všechny své bratry i některé z izraelských vůdců.</verse>
+        <verse osisID='2Chr.21.5'>Jehoram se stal králem ve dvaatřiceti letech a kraloval v Jeruzalémě osm let.</verse>
+        <verse osisID='2Chr.21.6'>Řídil se ale způsoby izraelských králů, jako to dělali v domě Achabově, neboť se oženil s Achabovou dcerou. Páchal, co je v Hospodinových očích zlé.</verse>
+        <verse osisID='2Chr.21.7'>Kvůli smlouvě, kterou s Davidem uzavřel, ale Hospodin nechtěl zničit dům Davidův, neboť slíbil, že Davidovi i jeho synům po všechny dny nechá zářit svíci.</verse>
+        <verse osisID='2Chr.21.8'>V jeho dobách se Edom vzbouřil proti judské nadvládě a ustanovil si krále.</verse>
+        <verse osisID='2Chr.21.9'>Jehoram proto vytáhl se svými veliteli a se všemi svými vozy do boje. Edomci ho i s jeho veliteli vozů obklopili ze všech stran, ale on v noci vstal a obklíčení prolomil.</verse>
+        <verse osisID='2Chr.21.10'>Edom tedy zůstává ve vzpouře proti Judovi až dodnes. V téže době se vzbouřila i Libna. Jehoram totiž opustil Hospodina, Boha svých otců,</verse>
+        <verse osisID='2Chr.21.11'>a nadělal na judských horách obětní výšiny. Tak svedl ke smilstvu obyvatele Jeruzaléma a spolu s nimi strhl i Judu.</verse>
+        <verse osisID='2Chr.21.12'>Od proroka Eliáše mu proto přišel dopis: "Tak praví Hospodin, Bůh tvého otce Davida: Nekráčel jsi cestami svého otce Jošafata ani cestami judského krále Asy,</verse>
+        <verse osisID='2Chr.21.13'>ale vydal ses cestou králů izraelských. Judu i obyvatele Jeruzaléma jsi svedl ke smilstvu, tak jako to dělal dům Achabův. Dokonce jsi povraždil vlastní rodinu - své bratry, kteří byli lepší než ty.</verse>
+        <verse osisID='2Chr.21.14'>Nuže, pohleď: Hospodin zasáhne tvůj lid, tvé syny, ženy i všechno tvé jmění velikou ranou.</verse>
+        <verse osisID='2Chr.21.15'>Ty sám těžce onemocníš střevní chorobou - bude se zhoršovat den ode dne, až ti nakonec střeva vyhřeznou!"</verse>
+        <verse osisID='2Chr.21.16'>Hospodin proti Jehoramovi podnítil Filištíny i Araby sousedící s Habešany.</verse>
+        <verse osisID='2Chr.21.17'>Vytáhli proti Judsku, pronikli obranou a pobrali všechno jmění, které našli v králově paláci, stejně jako jeho syny a ženy. Jediný, kdo mu zůstal, byl nejmladší syn Achaziáš.</verse>
+        <verse osisID='2Chr.21.18'>Po tom všem ho ještě Hospodin ranil nevyléčitelnou střevní chorobou.</verse>
+        <verse osisID='2Chr.21.19'>Po dlouhé době, téměř po dvou letech, mu kvůli té nemoci vyhřezla střeva, takže zemřel v hrozných bolestech. Jeho lid k jeho poctě ani nezažehl pohřební oheň, jako to udělal jeho otci.</verse>
+        <verse osisID='2Chr.21.20'>Stal se králem ve dvaatřiceti letech a kraloval v Jeruzalémě osm let. Když odešel, nikdo ho nelitoval. Pochovali ho ve Městě Davidově, ale ne na královském pohřebišti.</verse>
+      </chapter>
+      <chapter osisID='2Chr.22'>
+        <verse osisID='2Chr.22.1'>Na jeho místě si obyvatelé Jeruzaléma určili za krále jeho nejmladšího syna Achaziáše. Všechny starší syny totiž v táboře povraždila horda arabských nájezdníků. Tak se Achaziáš, syn Jehoramův, stal judským králem.</verse>
+        <verse osisID='2Chr.22.2'>Stal se králem ve dvaadvaceti letech a kraloval v Jeruzalémě jeden rok. Jeho matka se jmenovala Atalia, vnučka Omriho.</verse>
+        <verse osisID='2Chr.22.3'>Také on se řídil způsoby domu Achabova, neboť ho matka naváděla k hanebnostem.</verse>
+        <verse osisID='2Chr.22.4'>Páchal, co je v Hospodinových očích zlé, tak jako dům Achabův. Po smrti svého otce si totiž k vlastní záhubě pozval rádce z Achabova domu.</verse>
+        <verse osisID='2Chr.22.5'>Na jejich radu se rozhodl vytáhnout spolu s izraelským králem, Achabovým synem Joramem, do války o Rámot-gileád. Aramejci ale Jorama se svým králem Chazaelem porazili.</verse>
+        <verse osisID='2Chr.22.6'>Ten se pak vrátil do Jizreelu, aby se léčil z ran, které utržil, když v Rámotu bojoval s aramejským králem Chazaelem. Judský král Achaziáš, syn Jehoramův, pak přijel do Jizreelu, aby zraněného Jorama, syna Achabova, navštívil.</verse>
+        <verse osisID='2Chr.22.7'>Při té návštěvě Bůh přivodil jeho pád. Když Achaziáš dorazil k Joramovi, šel s ním za Jehuem, synem Nimšiho, jehož Hospodin pomazal, aby vyhladil dům Achabův.</verse>
+        <verse osisID='2Chr.22.8'>Když Jehu konal Boží soud nad domem Achabovým, narazil i na judské hodnostáře, totiž Achaziášovy příbuzné, kteří byli v jeho službách, a pobil i je.</verse>
+        <verse osisID='2Chr.22.9'>Poté nechal hledat Achaziáše. Skrýval se v Samaří, ale tam ho zajali, přivedli ho k Jehuovi a zabili. Potom ho pohřbili, neboť si řekli: "Byl to syn Jošafatův a ten hledal Hospodina celým srdcem." V Achaziášově domě tak nezůstal nikdo, kdo by mohl vládnout.</verse>
+        <verse osisID='2Chr.22.10'>Když Achaziášova matka Atalia viděla, že její syn je mrtev, rychle vyhladila z Judova domu všechny, kdo měli královský původ.</verse>
+        <verse osisID='2Chr.22.11'>Královské dceři Jošebě se ale podařilo unést Achaziášova syna Joaše zprostřed královských synů, kteří měli zemřít, a spolu s jeho kojnou ho ukryla v ložnici. Tak tedy Achaziášova sestra Jošeba, manželka kněze Jojady a dcera krále Jehorama, schovala Joaše před Atalií, aby ho nezabila.</verse>
+        <verse osisID='2Chr.22.12'>Ukrýval se u nich v Hospodinově chrámu šest let, dokud v zemi vládla Atalia.</verse>
+      </chapter>
+      <chapter osisID='2Chr.23'>
+        <verse osisID='2Chr.23.1'>Sedmého roku Jojada sebral odvahu a uzavřel smlouvu se setníky Azariášem, synem Joramovým, Izmaelem, synem Jochananovým, Azariášem, synem Obedovým, Maasejášem, synem Adajášovým, a Elišafatem, synem Zichriho.</verse>
+        <verse osisID='2Chr.23.2'>Ti obešli Judsko, ze všech judských měst shromáždili levity a vůdce izraelských otcovských rodů a vrátili se do Jeruzaléma.</verse>
+        <verse osisID='2Chr.23.3'>Celé to shromáždění pak v Božím chrámu uzavřelo smlouvu s králem. Jojada jim řekl: "Hle, podle Hospodinova slova o synech Davidových bude kralovat králův syn.</verse>
+        <verse osisID='2Chr.23.4'>Provedete to takhle: Třetina z vás kněží a levitů, kteří v sobotu nastoupíte službu, bude hlídat u dveří,</verse>
+        <verse osisID='2Chr.23.5'>další třetina u královského paláce a další u Brány základů. Všichni ostatní zatím budou na nádvořích Hospodinova chrámu.</verse>
+        <verse osisID='2Chr.23.6'>Ať do Hospodinova chrámu nevchází nikdo kromě kněží a sloužících levitů, kteří smí vstoupit, protože jsou svatí. Ať všechen lid dodržuje Hospodinův řád.</verse>
+        <verse osisID='2Chr.23.7'>Levité obklopí krále, každý se zbraní v ruce. Kdokoli se přiblíží k chrámu, zemře. Musíte zůstat při králi, kamkoli se pohne."</verse>
+        <verse osisID='2Chr.23.8'>Levité i všichni Judští to provedli přesně, jak jim kněz Jojada určil. Každý vzal své muže, jak ty, kteří v sobotu nastupovali, tak ty, kteří právě odcházeli. Kněz Jojada totiž nechtěl o žádný z jejich oddílů přijít.</verse>
+        <verse osisID='2Chr.23.9'>Rozdal setníkům kopí, pavézy a štíty krále Davida, uložené v Hospodinově chrámu.</verse>
+        <verse osisID='2Chr.23.10'>Potom všechny muže rozestavěl, aby všichni se zbraní v ruce obklopili krále od pravé strany chrámu až k jeho levé straně, u oltáře před chrámem.</verse>
+        <verse osisID='2Chr.23.11'>Jojada a jeho synové pak přivedli králova syna, vložili mu na hlavu korunu, dali mu opis smlouvy a prohlásili ho za krále. Když ho pomazali, začali volat: "Ať žije král!"</verse>
+        <verse osisID='2Chr.23.12'>Jak se všichni sbíhali a oslavovali krále, Atalia zaslechla hluk. Přišla za nimi do Hospodinova chrámu,</verse>
+        <verse osisID='2Chr.23.13'>a hle - u svého sloupu vedle vchodu stojí král s veliteli a trubači po boku! Všechen lid země se radoval, troubil na trubky a zpěváci a hudebníci vedli chvály. Atalia roztrhla své roucho a vykřikla: "Spiknutí! Spiknutí!"</verse>
+        <verse osisID='2Chr.23.14'>Kněz Jojada za ní poslal setníky velící vojsku. Přikázal jim: "Odveďte ji mezi oddíly. Kdo bude s ní, toho popravte." (Kněz totiž nechtěl, aby byla zabita u Hospodinova chrámu.)</verse>
+        <verse osisID='2Chr.23.15'>Chopili se jí, a když prošla Koňskou bránou do královského paláce, zabili ji.</verse>
+        <verse osisID='2Chr.23.16'>Jojada uzavřel se vším lidem a s králem smlouvu, že budou Hospodinův lid.</verse>
+        <verse osisID='2Chr.23.17'>Všichni pak vyrazili k Baalovu chrámu a zbořili ho. Rozbili jeho oltáře i sochy a Baalova kněze Matana zabili před těmi oltáři.</verse>
+        <verse osisID='2Chr.23.18'>Jojada pak svěřil dohled nad Hospodinovým chrámem kněžím a levitům, aby se podle Davidových pokynů s veselím a zpěvem starali o Hospodinův dům a přinášeli Hospodinu zápalné oběti, jak je psáno v Zákoně Mojžíšově.</verse>
+        <verse osisID='2Chr.23.19'>K branám Hospodinova chrámu postavil stráže, aby nemohl vstoupit nikdo jakkoli nečistý.</verse>
+        <verse osisID='2Chr.23.20'>Vzal setníky, hodnostáře i vůdce lidu a spolu se vším lidem země vedli krále z Hospodinova chrámu Horní bránou do královského paláce. Tam krále usadili na královský trůn.</verse>
+        <verse osisID='2Chr.23.21'>Všechen lid země se radoval a ve městě zavládl klid, protože Atalia byla popravena.</verse>
+      </chapter>
+      <chapter osisID='2Chr.24'>
+        <verse osisID='2Chr.24.1'>Joaš se stal králem v sedmi letech a kraloval v Jeruzalémě čtyřicet let. Jeho matka se jmenovala Cibia a byla z Beer-šeby.</verse>
+        <verse osisID='2Chr.24.2'>Po celý život kněze Jojady dělal Joaš, co je v Hospodinových očích správné.</verse>
+        <verse osisID='2Chr.24.3'>Jojada mu našel dvě manželky a on s nimi měl syny a dcery.</verse>
+        <verse osisID='2Chr.24.4'>Po nějaké době se Joaš rozhodl obnovit Hospodinův chrám.</verse>
+        <verse osisID='2Chr.24.5'>Shromáždil tedy kněze a levity a řekl jim: "Rozejděte se do judských měst a vybírejte od celého Izraele každoroční obnos stříbra na opravu chrámu našeho Boha. Pospěšte si s tím." Levité ale nespěchali.</verse>
+        <verse osisID='2Chr.24.6'>Král si tedy zavolal představeného Jojadu a otázal se: "Proč ses nepostaral, aby levité přinesli z Judska a z Jeruzaléma daň předepsanou Hospodinovým služebníkem Mojžíšem, totiž daň izraelského shromáždění pro Stan svědectví?"</verse>
+        <verse osisID='2Chr.24.7'>(Stoupenci té hanebné Atalie totiž pronikli do Božího chrámu a ze všech posvátných předmětů Hospodinova chrámu nadělali baaly.)</verse>
+        <verse osisID='2Chr.24.8'>Na králův rozkaz pak vyrobili truhlici, kterou postavili před bránu do Hospodinova chrámu.</verse>
+        <verse osisID='2Chr.24.9'>V Judsku i v Jeruzalémě dali provolat, ať všichni přinesou daň, kterou Boží služebník Mojžíš předepsal Izraeli na poušti.</verse>
+        <verse osisID='2Chr.24.10'>Všichni vůdcové i všechen lid ji pak s radostí přinášeli a házeli do truhly, až ji naplnili.</verse>
+        <verse osisID='2Chr.24.11'>Levité truhlici pravidelně odnášeli do královského úřadu, kde královský písař se zástupcem nejvyššího kněze zjistili množství stříbra. Když truhlici vyprázdnili, znovu ji odnesli a postavili na místo. Tak to dělali den co den a vybrali veliké množství stříbra.</verse>
+        <verse osisID='2Chr.24.12'>Král s Jojadou je předávali mistrům zodpovědným za práci na Hospodinově chrámu. Ti na obnovu Hospodinova chrámu najímali kameníky, tesaře spolu s kováři železa i bronzu, aby opravovali Hospodinův chrám.</verse>
+        <verse osisID='2Chr.24.13'>Mistři byli pilní, takže jim dílo rostlo pod rukama. Obnovili Boží chrám do původního stavu a ještě ho zpevnili.</verse>
+        <verse osisID='2Chr.24.14'>Když byli hotovi, přinesli zbylé stříbro před krále a před Jojadu. Ten z něj nechal zhotovit vybavení Hospodinova chrámu: náčiní pro službu i pro oběti, nádobí a další předměty ze zlata a stříbra. Po celý Jojadův život se v Hospodinově chrámu konaly pravidelné oběti.</verse>
+        <verse osisID='2Chr.24.15'>Když Jojada zestárl a naplnil svůj čas, ve věku sto třiceti let zemřel.</verse>
+        <verse osisID='2Chr.24.16'>Pochovali ho ve Městě Davidově mezi králi, protože v Izraeli vykonal tolik dobrého pro Hospodina a jeho dům.</verse>
+        <verse osisID='2Chr.24.17'>Po Jojadově smrti přišli někdejší judští hodnostáři a klaněli se králi. A král jim začal naslouchat.</verse>
+        <verse osisID='2Chr.24.18'>Tehdy opustili dům Hospodina, Boha svých otců, a začali sloužit Ašeřiným kůlům a modlám. Tímto proviněním si Juda i Jeruzalém zasloužil Boží hněv.</verse>
+        <verse osisID='2Chr.24.19'>Hospodin k nim posílal proroky, aby je navrátili k němu. Varovali je, ale oni neposlouchali.</verse>
+        <verse osisID='2Chr.24.20'>Tenkrát sestoupil Boží Duch na Zachariáše, syna kněze Jojady. Postavil se před lid a prohlásil: "Tak praví Bůh: Proč přestupujete Hospodinova přikázání? Neuspějete. Opustili jste Hospodina, a on opustí vás!"</verse>
+        <verse osisID='2Chr.24.21'>Oni se ale proti němu spikli a na králův rozkaz ho na nádvoří Hospodinova chrámu ukamenovali.</verse>
+        <verse osisID='2Chr.24.22'>Král Joaš nepamatoval na oddanost, kterou mu prokazoval Zachariášův otec Jojada, a zavraždil jeho syna. Ten, když umíral, řekl: "Hospodin to vidí a zúčtuje."</verse>
+        <verse osisID='2Chr.24.23'>Než se rok s rokem sešel, vytáhlo proti Joašovi aramejské vojsko. Vtrhli do Judska i do Jeruzaléma a pobili všechny jejich velitele. Veškerou kořist odeslali damašskému králi.</verse>
+        <verse osisID='2Chr.24.24'>Aramejské vojsko sice přitáhlo v malém počtu, ale Hospodin jim vydal do rukou vojsko mnohem větší, protože Juda opustil Hospodina, Boha svých otců. Když Joaše jaksepatří potrestali,</verse>
+        <verse osisID='2Chr.24.25'>odtáhli pryč a zanechali ho těžce zraněného. Tehdy se jeho dvořané proti němu spikli, protože prolil krev syna kněze Jojady, a zabili ho na lůžku. Když zemřel, pochovali ho ve Městě Davidově, ale ne na královském pohřebišti.</verse>
+        <verse osisID='2Chr.24.26'>Spiklenci proti němu byli Zabad, syn Amonky Šimeat, a Jehozabad, syn Moábky Šimrít.</verse>
+        <verse osisID='2Chr.24.27'>O jeho synech, o mnoha proroctvích vznesených proti němu i o přestavbě Božího chrámu se píše ve Výkladu ke Knize králů. Na jeho místě pak začal kralovat jeho syn Amaciáš.</verse>
+      </chapter>
+      <chapter osisID='2Chr.25'>
+        <verse osisID='2Chr.25.1'>Amaciáš se stal králem v pětadvaceti letech a kraloval v Jeruzalémě dvacet devět let. Jeho matka se jmenovala Joadan a byla z Jeruzaléma.</verse>
+        <verse osisID='2Chr.25.2'>Dělal, co je v Hospodinových očích správné, ale ne z celého srdce.</verse>
+        <verse osisID='2Chr.25.3'>Jakmile měl království pevně v moci, nechal popravit ty své dvořany, kteří zabili jeho královského otce.</verse>
+        <verse osisID='2Chr.25.4'>Jejich syny ale nepopravil, neboť v Knize Mojžíšově, totiž v Zákoně, je psáno, že Hospodin přikázal: "Rodiče nemohou platit životem za své děti ani děti za své rodiče. Každý zaplatí životem za svůj vlastní hřích."</verse>
+        <verse osisID='2Chr.25.5'>Amaciáš shromáždil Judu, seřadil je podle otcovských rodů a celého Judu i Benjamína přidělil velitelům tisíců a setnin. Sečetl všechny od dvaceti let výše a zjistil, že má 300 000 bojeschopných mužů, vládnoucích kopím a štítem.</verse>
+        <verse osisID='2Chr.25.6'>Za sto talentů stříbra pak najal ještě 100 000 bojovníků z Izraele.</verse>
+        <verse osisID='2Chr.25.7'>Přišel však za ním Boží muž a řekl: "Králi, neber s sebou izraelské vojsko. Bůh není s Izraelem, není s nikým z Efraima.</verse>
+        <verse osisID='2Chr.25.8'>Pokud vytáhneš, můžeš si v boji vést jakkoli statečně, Bůh tě ale před nepřítelem srazí. Bůh přece dokáže pomoci, ale i srazit!"</verse>
+        <verse osisID='2Chr.25.9'>"A co těch sto talentů, které jsem zaplatil za izraelské oddíly?" namítl Amaciáš Božímu muži."Hospodin ti může dát mnohem víc," odpověděl mu.</verse>
+        <verse osisID='2Chr.25.10'>Amaciáš tedy žoldnéře z Efraima oddělil a poslal je domů. Ti se tehdy na Judské velmi rozhněvali a vraceli se domů plní vzteku.</verse>
+        <verse osisID='2Chr.25.11'>Amaciáš sebral odvahu a odvedl vlastní vojsko do Solného údolí, kde pobil 10 000 obyvatel Seíru.</verse>
+        <verse osisID='2Chr.25.12'>Dalších 10 000 zajali judští vojáci živých a odvedli je na vrchol skály, odkud je svrhli dolů a všechny roztříštili.</verse>
+        <verse osisID='2Chr.25.13'>Žoldnéři, které Amaciáš nepustil se svým vojskem do války, mezitím napadali judská města od Samaří až po Bet-choron. Pobili v nich na 3 000 obyvatel a pobrali spoustu kořisti.</verse>
+        <verse osisID='2Chr.25.14'>Když se Amaciáš vrátil z vítězství nad Edomci, přinesl si s sebou seírské bůžky. Přijal je za své bohy, klaněl se jim a pálil jim kadidlo.</verse>
+        <verse osisID='2Chr.25.15'>Hospodin tehdy proti Amaciášovi vzplanul hněvem. Poslal k němu proroka, který mu řekl: "Proč uctíváš bohy, kteří nedokázali svůj národ vysvobodit z tvých rukou?"</verse>
+        <verse osisID='2Chr.25.16'>Král mu na to odpověděl: "Že bychom tě jmenovali královským rádcem? Jestli je ti život milý, přestaň!" Prorok tedy přestal mluvit, jen ještě dodal: "Vím, že Bůh už si s tebou poradil a zahladí tě, protože si vedeš svou a na moji radu nedbáš."</verse>
+        <verse osisID='2Chr.25.17'>Judský král Amaciáš se pak poradil a vzkázal izraelskému králi Jehoašovi, synu Joachaze, syna Jehuova: "Pojďme se utkat!"</verse>
+        <verse osisID='2Chr.25.18'>Izraelský král Jehoaš mu ale vzkázal: "Jeden bodlák v Libanonu vzkázal cedru v Libanonu: Dej svou dceru mému synu za ženu! Jedno zvíře v Libanonu šlo okolo a ten bodlák pošlapalo.</verse>
+        <verse osisID='2Chr.25.19'>Říkáš si: Vida, porazil jsem Edoma! Srdce se ti dme chloubou. Raději ale zůstaň doma! Proč si říkáš o neštěstí? Chceš padnout a strhnout s sebou i Judu?"</verse>
+        <verse osisID='2Chr.25.20'>Amaciáš ale neposlechl, neboť Bůh se rozhodl, že Judu vydá do jejich rukou, protože uctívali edomské bohy.</verse>
+        <verse osisID='2Chr.25.21'>Izraelský král Jehoaš tedy vytáhl a utkal se s judským králem Amaciášem u judského Bet-šemeše.</verse>
+        <verse osisID='2Chr.25.22'>Juda byl Izraelem poražen a celé jeho vojsko se rozuteklo domů.</verse>
+        <verse osisID='2Chr.25.23'>Izraelský král Jehoaš zajal judského krále Amaciáše, syna Joašova, syna Achaziášova, u Bet-šemeše, odkud ho přivedl do Jeruzaléma. Od Efraimské brány až k Nárožní bráně proboural v jeruzalémských hradbách trhlinu na 400 loktů širokou.</verse>
+        <verse osisID='2Chr.25.24'>Pobral všechno zlato a stříbro i všechny nádoby, které se našly v Hospodinově chrámu u Obed-edoma i v pokladnicích královského paláce. Potom se s rukojmími vrátil do Samaří.</verse>
+        <verse osisID='2Chr.25.25'>Judský král Amaciáš, syn Joašův, přežil izraelského krále Jehoaše, syna Joachazova, o patnáct let.</verse>
+        <verse osisID='2Chr.25.26'>Ostatní Amaciášovy skutky jsou od počátku až do konce sepsány v Knize judských a izraelských králů.</verse>
+        <verse osisID='2Chr.25.27'>Od dob, kdy Amaciáš přestal následovat Hospodina, se proti němu v Jeruzalémě chystalo spiknutí. Utekl sice do Lachiše, ale i tam za ním poslali vrahy, kteří ho zabili.</verse>
+        <verse osisID='2Chr.25.28'>Převezli ho na koni a pochovali ho ve Městě Davidově k jeho předkům.</verse>
+      </chapter>
+      <chapter osisID='2Chr.26'>
+        <verse osisID='2Chr.26.1'>Všechen judský lid pak vzal Uziáše, kterému bylo šestnáct let, a prohlásili ho za krále na místě jeho otce Amaciáše.</verse>
+        <verse osisID='2Chr.26.2'>To on vybudoval Eilat a vrátil ho Judovi poté, co Amaciáš spočinul u svých předků.</verse>
+        <verse osisID='2Chr.26.3'>Uziáš se stal králem v šestnácti letech a kraloval v Jeruzalémě padesát dva let. Jeho matka se jmenovala Jecholia a byla z Jeruzaléma.</verse>
+        <verse osisID='2Chr.26.4'>Dělal, co je správné v Hospodinových očích, přesně jako jeho otec Amaciáš.</verse>
+        <verse osisID='2Chr.26.5'>Hledal Boha za dnů Zachariáše, který ho učil Boží bázni, a dokud ho hledal, Bůh mu dopřával úspěch.</verse>
+        <verse osisID='2Chr.26.6'>Vytáhl do boje proti Filištínům, zbořil hradby Gatu, Jabny i Ašdodu a vystavěl v okolí Ašdodu i jinde na filištínském území města.</verse>
+        <verse osisID='2Chr.26.7'>Bůh mu pomáhal proti Filištínům i proti Arabům žijícím v Gur-baalu a proti Meunitům.</verse>
+        <verse osisID='2Chr.26.8'>Také Amonci odevzdávali Uziášovi daň a jeho jméno se rozneslo až k samému Egyptu, neboť velice rozšířil svůj vliv.</verse>
+        <verse osisID='2Chr.26.9'>V Jeruzalémě Uziáš postavil a opevnil věže nad Nárožní a Údolní branou a také v rohu hradeb.</verse>
+        <verse osisID='2Chr.26.10'>Rovněž na poušti postavil věže a vykopal mnoho nádrží, neboť měl množství stád v podhůří i v nížině a oráče i vinaře na horách, a kdekoli se dalo něco pěstovat. Miloval totiž půdu.</verse>
+        <verse osisID='2Chr.26.11'>Uziáš měl vycvičené vojsko, připravené k boji po jednotlivých oddílech, sečtených kancléřem Jehielem a správcem Maasejášem pod velením Chananiáše, jednoho z královských vojevůdců.</verse>
+        <verse osisID='2Chr.26.12'>Vůdců otcovských rodů bylo celkem 2 600 - samí hrdinové.</verse>
+        <verse osisID='2Chr.26.13'>Pod jejich velením bylo vojsko čítající 307 500 mužů připravených vyjít králi na pomoc do boje proti nepříteli.</verse>
+        <verse osisID='2Chr.26.14'>Uziáš celé vojsko vyzbrojil štíty, kopími, přilbami, pancíři, luky a praky na vrhání kamenů.</verse>
+        <verse osisID='2Chr.26.15'>V Jeruzalémě vyrobil důmyslná zařízení k metání střel a balvanů z věží a bašt. Jeho pověst se rozšířila do daleka, neboť zakoušel neobyčejnou pomoc, až získal značný vliv.</verse>
+        <verse osisID='2Chr.26.16'>Když ale takto zesílil, k vlastní záhubě zpychl. Zradil Hospodina, svého Boha, a vstoupil dovnitř Hospodinova chrámu, aby na kadidlovém oltáři pálil kadidlo.</verse>
+        <verse osisID='2Chr.26.17'>Kněz Azariáš a osmdesát statečných Hospodinových kněží tam šli za ním.</verse>
+        <verse osisID='2Chr.26.18'>Postavili se proti králi Uziášovi a řekli mu: "Uziáši, nenáleží ti pálit kadidlo Hospodinu. Pouze kněží, synové Áronovi, jsou posvěceni k jeho pálení. Opusť svatyni, neboť ses dopustil přestoupení. Takto slávu od Hospodina Boha nezískáš."</verse>
+        <verse osisID='2Chr.26.19'>Uziáš zuřil, kadidelnici připravenou k pálení kadidla stále v ruce. Zatímco spílal kněžím, na čele se mu před jejich zraky v Hospodinově chrámu u kadidlového oltáře vyrazilo malomocenství.</verse>
+        <verse osisID='2Chr.26.20'>Nejvyšší kněz Azariáš s ostatními kněžími se na něj podíval a hle - na čele měl malomocenství! Spěšně ho odtud vyvedli, ba on sám spěchal ven kvůli tomu, jak ho Hospodin ranil.</verse>
+        <verse osisID='2Chr.26.21'>Král Uziáš pak byl až do dne své smrti malomocný a jako takový bydlel v odděleném domě, protože byl vyloučen z domu Hospodinova. Královský palác tehdy spravoval jeho syn Jotam, který také vládl lidu.</verse>
+        <verse osisID='2Chr.26.22'>Ostatní Uziášovy skutky od počátku až do konce sepsal prorok Izaiáš, syn Amosův.</verse>
+        <verse osisID='2Chr.26.23'>Když Uziáš spočinul u svých předků, pochovali ho poblíž jeho otců na poli u královské hrobky. Řekli si totiž: "Byl přece malomocný!" Na jeho místě pak kraloval jeho syn Jotam.</verse>
+      </chapter>
+      <chapter osisID='2Chr.27'>
+        <verse osisID='2Chr.27.1'>Jotam se stal králem v pětadvaceti letech a kraloval v Jeruzalémě šestnáct let. Jeho matka se jmenovala Jeruša, dcera Sádokova.</verse>
+        <verse osisID='2Chr.27.2'>Dělal, co je správné v Hospodinových očích, přesně jako jeho otec Uziáš (na rozdíl od něj ale nevstoupil dovnitř Hospodinova chrámu). Lid ale i nadále jednal zvráceně.</verse>
+        <verse osisID='2Chr.27.3'>To on postavil Horní bránu Hospodinova chrámu a odvedl hodně práce na hradbě Ofelu.</verse>
+        <verse osisID='2Chr.27.4'>Vybudoval také města v Judském pohoří a v lesích vystavěl pevnosti a věže.</verse>
+        <verse osisID='2Chr.27.5'>Bojoval s amonským králem a zvítězil. Amonci mu toho roku museli odvést 100 talentů stříbra, 10 000 korů pšenice a 10 000 korů ječmene. Totéž mu odváděli i druhý a třetí rok.</verse>
+        <verse osisID='2Chr.27.6'>Tak Jotam upevnil svou moc, neboť žil důsledně před Hospodinem, svým Bohem.</verse>
+        <verse osisID='2Chr.27.7'>Ostatní Jotamovy skutky i všechny jeho války a cesty jsou sepsány v Knize izraelských a judských králů.</verse>
+        <verse osisID='2Chr.27.8'>Stal se králem v pětadvaceti letech a kraloval v Jeruzalémě šestnáct let.</verse>
+        <verse osisID='2Chr.27.9'>Když pak Jotam spočinul u svých předků, pochovali ho ve Městě Davidově. Na jeho místě pak kraloval jeho syn Achaz.</verse>
+      </chapter>
+      <chapter osisID='2Chr.28'>
+        <verse osisID='2Chr.28.1'>Achaz se stal králem ve dvaceti letech a kraloval v Jeruzalémě šestnáct let. Nedělal však, co je v Hospodinových očích správné, jako kdysi jeho otec David,</verse>
+        <verse osisID='2Chr.28.2'>ale řídil se způsoby izraelských králů. Nechal dokonce odlít sochy baalů,</verse>
+        <verse osisID='2Chr.28.3'>sám pálil kadidlo v údolí Ben-hinom a vlastní syny prováděl ohněm podle ohavných zvyklostí národů, které Hospodin vyhnal před syny Izraele.</verse>
+        <verse osisID='2Chr.28.4'>Obětoval a pálil kadidlo na posvátných výšinách, návrších a pod kdejakým košatým stromem.</verse>
+        <verse osisID='2Chr.28.5'>Proto ho Hospodin, jeho Bůh, vydal do rukou aramejského krále. Aramejci ho porazili, zajali mnoho zajatců a odvedli je do Damašku. Právě tak padl do rukou izraelskému králi, a ten mu způsobil hroznou porážku.</verse>
+        <verse osisID='2Chr.28.6'>Pekach, syn Remaliášův, pobil za jediný den 120 000 judských mužů, samých udatných bojovníků, protože opustili Hospodina, Boha svých otců.</verse>
+        <verse osisID='2Chr.28.7'>Efraimský bojovník Zichri zabil králova syna Maasejáše, správce paláce Azrikama i králova pobočníka Elkánu.</verse>
+        <verse osisID='2Chr.28.8'>Synové Izraele zajali svým bratrům 200 000 žen a dětí a pobrali jim spoustu kořisti, kterou si odnesli do Samaří.</verse>
+        <verse osisID='2Chr.28.9'>Tam ale byl jeden Hospodinův prorok jménem Oded. Když se vojsko vracelo do Samaří, vyšel jim naproti. "Hleďte," řekl jim. "Hospodin, Bůh vašich otců, se hněval na Judu, a tak vám je vydal do rukou. Zuřivost, s jakou jste je povraždili, ale volá do nebe!</verse>
+        <verse osisID='2Chr.28.10'>A k tomu si ještě chcete zotročit judské a jeruzalémské děti jako své sluhy a služky? Copak sami nemáte před Hospodinem, svým Bohem, žádný hřích?</verse>
+        <verse osisID='2Chr.28.11'>Proto mě teď poslechněte a vraťte ty zajatce zpátky svým bratrům. Jinak proti vám vzplane Hospodinův hněv!"</verse>
+        <verse osisID='2Chr.28.12'>Tehdy povstali někteří efraimští vůdcové - Azariáš, syn Jochananův, Berechiáš, syn Mešilemotův, Jezechiáš, syn Šalumův, a Amasa, syn Chadlajův - a vystoupili proti těm, kdo se vraceli z boje.</verse>
+        <verse osisID='2Chr.28.13'>"Nevoďte sem ty zajatce!" řekli jim. "Chcete snad, abychom se provinili proti Hospodinu, tak aby se naše hříchy a viny ještě rozmnožily? Už jsme se přece provinili dost na to, aby na Izraeli spočíval Boží hněv!"</verse>
+        <verse osisID='2Chr.28.14'>Vojáci se tedy před veliteli a celým shromážděním vzdali zajatců i kořisti.</verse>
+        <verse osisID='2Chr.28.15'>Jmenovitě ustanovení muži se pak zajatců ujali a z kořisti oblékli všechny nahé. Oblékli je a obuli, dali jim najíst a napít, ošetřili je, všechny vyčerpané naložili na osly a přivedli je k jejich bratrům do Palmového města Jericha. Potom se vrátili do Samaří.</verse>
+        <verse osisID='2Chr.28.16'>V té době poslal král Achaz k asyrskému králi žádost o pomoc.</verse>
+        <verse osisID='2Chr.28.17'>Edomci totiž znovu přitáhli, zaútočili na Judu a odváděli zajatce.</verse>
+        <verse osisID='2Chr.28.18'>Do měst v podhůří a do judského Negevu navíc vpadli Filištíni a dobyli Bet-šemeš, Ajalon, Gederot a také Socho, Timnu a Gimzo s jejich vesnicemi a usadili se tam.</verse>
+        <verse osisID='2Chr.28.19'>Tak Hospodin pokořil Judu kvůli izraelskému králi Achazovi, protože sváděl Judu na scestí a zcela zradil Hospodina.</verse>
+        <verse osisID='2Chr.28.20'>Asyrský král Tiglat-pilesar sice k němu přitáhl, ale spíše ho sužoval, než aby ho posílil.</verse>
+        <verse osisID='2Chr.28.21'>Achaz vyplenil Hospodinův chrám, královský palác i domy urozených, aby mohl obdarovat asyrského krále, ale nebylo mu to k ničemu.</verse>
+        <verse osisID='2Chr.28.22'>I během svého soužení zrazoval Hospodina čím dál víc. Takový byl král Achaz.</verse>
+        <verse osisID='2Chr.28.23'>Obětoval damašským bohům, kteří ho porazili, protože si myslel: "Aramejským králům pomáhají jejich bohové. Když jim budu obětovat, pomohou i mně." Jenomže oni ho jen sráželi, tak jako celý Izrael.</verse>
+        <verse osisID='2Chr.28.24'>Achaz také vzal náčiní Božího chrámu a okleštil jeho zařízení. Potom zamkl dveře Hospodinova chrámu a na kdejakém jeruzalémském nároží si zřídil oltáře.</verse>
+        <verse osisID='2Chr.28.25'>V každém z judských měst nadělal obětní výšiny k pálení kadidla cizím bohům. Tak popouzel Hospodina, Boha svých otců.</verse>
+        <verse osisID='2Chr.28.26'>Ostatní jeho skutky i všechny jeho způsoby jsou od počátku až do konce sepsány v Knize judských a izraelských králů.</verse>
+        <verse osisID='2Chr.28.27'>Když Achaz spočinul u svých předků, pochovali ho ve městě Jeruzalémě, ale na pohřebiště králů Izraele ho nevnesli. Na jeho místě pak kraloval jeho syn Ezechiáš.</verse>
+      </chapter>
+      <chapter osisID='2Chr.29'>
+        <verse osisID='2Chr.29.1'>Ezechiáš se stal králem v pětadvaceti letech a kraloval v Jeruzalémě dvacet devět let. Jeho matka se jmenovala Abija, dcera Zachariášova.</verse>
+        <verse osisID='2Chr.29.2'>Dělal, co je v Hospodinových očích správné, přesně jako kdysi jeho otec David.</verse>
+        <verse osisID='2Chr.29.3'>Už v prvním měsíci prvního roku své vlády otevřel dveře Hospodinova chrámu a opravil je.</verse>
+        <verse osisID='2Chr.29.4'>Přivedl kněze a levity, shromáždil je na východním prostranství</verse>
+        <verse osisID='2Chr.29.5'>a řekl jim: "Slyšte mě, levité! Posvěťte se a posvěťte chrám Hospodina, Boha svých otců. Vyneste ze svatyně všechno nečisté!</verse>
+        <verse osisID='2Chr.29.6'>Naši otcové zradili Hospodina, našeho Boha, a páchali, co je v jeho očích zlé. Opustili ho, odvrátili svou tvář od Hospodinova příbytku a obrátili se k němu zády.</verse>
+        <verse osisID='2Chr.29.7'>Potom zavřeli dveře předsíně, pozhášeli lampy a už nezažehli kadidlo a nepřinesli zápalnou oběť ve svatyni Boha Izraele.</verse>
+        <verse osisID='2Chr.29.8'>Proto na Judu a Jeruzalém dolehl Hospodinův hněv a učinil je odstrašujícím příkladem pro výstrahu a výsměch, jak to sami na vlastní oči vidíte.</verse>
+        <verse osisID='2Chr.29.9'>Hle, proto naši otcové padli mečem a naši synové, dcery a ženy jsou v zajetí.</verse>
+        <verse osisID='2Chr.29.10'>Teď jsem ale rozhodnut uzavřít s Hospodinem, Bohem Izraele, smlouvu, aby od nás odvrátil svůj planoucí hněv.</verse>
+        <verse osisID='2Chr.29.11'>Synové moji, neberte to teď na lehkou váhu. Hospodin vás přece vyvolil, abyste stáli před ním a sloužili mu, abyste mu jakožto jeho služebníci pálili kadidlo."</verse>
+        <verse osisID='2Chr.29.12'>Levité tedy začali: ze synů Kehatových Machat, syn Amasajův, a Joel, syn Azariášův; ze synů Merariho Kiš, syn Abdiho, a Azariáš, syn Jehalelela; ze synů Geršonových Joach, syn Zimův, a Eden, syn Joachův;</verse>
+        <verse osisID='2Chr.29.13'>ze synů Elicafanových Šimri a Jehiel; ze synů Asafových Zachariáš a Mataniáš;</verse>
+        <verse osisID='2Chr.29.14'>ze synů Hemanových Jechiel a Šimei; ze synů Jedutunových Šemajáš a Uziel.</verse>
+        <verse osisID='2Chr.29.15'>Ti shromáždili své bratry a posvětili se. Potom šli podle králova příkazu očistit Hospodinův chrám, jak řekl Hospodin.</verse>
+        <verse osisID='2Chr.29.16'>Kněží vešli dovnitř Hospodinova chrámu, aby ho vyčistili. Veškerou nečistotu, kterou v Hospodinově chrámu našli, vynášeli na chrámové nádvoří, kde se toho chopili další levité a odnášeli to za město k potoku Kidron.</verse>
+        <verse osisID='2Chr.29.17'>S posvěcováním začali hned prvního dne prvního měsíce. Osmého dne téhož měsíce postoupili do předsíně Hospodinova chrámu. Dalších osm dní posvěcovali Hospodinův chrám a šestnáctého dne prvního měsíce byli hotovi.</verse>
+        <verse osisID='2Chr.29.18'>Šli tedy za králem Ezechiášem a oznámili mu: "Vyčistili jsme celý Hospodinův chrám, zápalný oltář s veškerým náčiním i stůl předložení s veškerým náčiním.</verse>
+        <verse osisID='2Chr.29.19'>Všechny nádoby, kterých se král Achaz během své vlády zrádně zbavil, jsme zhotovili a posvětili. Už jsou před Hospodinovým oltářem."</verse>
+        <verse osisID='2Chr.29.20'>Ezechiáš hned ráno shromáždil městské hodnostáře a vydal se do Hospodinova chrámu.</verse>
+        <verse osisID='2Chr.29.21'>Za království, za svatyni a za Judu přivedli k oběti za hřích sedm býčků, sedm beranů, sedm jehňat a sedm kozlů. Kněžím z Áronových synů přikázal, ať je obětují na Hospodinově oltáři.</verse>
+        <verse osisID='2Chr.29.22'>Poráželi tedy býčky a kněží chytali jejich krev a kropili s ní oltář. Když poráželi berany, kropili oltář jejich krví, a když poráželi jehňata, kropili oltář jejich krví.</verse>
+        <verse osisID='2Chr.29.23'>Pak přivedli kozly k oběti za hřích před krále a před celé shromáždění, aby na ně vložili ruce.</verse>
+        <verse osisID='2Chr.29.24'>Kněží je potom porazili a jejich krví očistili oltář od hříchu. Tak vykonali smírčí obřady za Izrael; král totiž za celý Izrael nařídil obětovat zápaly i oběti za hřích.</verse>
+        <verse osisID='2Chr.29.25'>Král postavil v Hospodinově chrámu levity s činely, lyrami a citerami podle pokynů Davida, králova vidoucího Gáda a proroka Nátana (toto přikázání totiž přišlo od Hospodina skrze jeho proroky).</verse>
+        <verse osisID='2Chr.29.26'>Když se levité postavili na svá místa s Davidovými nástroji a kněží s trubkami,</verse>
+        <verse osisID='2Chr.29.27'>Ezechiáš nechal přinést na oltáři zápalnou oběť. Ve chvíli, kdy začala oběť, začalo se zpívat a troubit Hospodinu za doprovodu hudebních nástrojů izraelského krále Davida.</verse>
+        <verse osisID='2Chr.29.28'>Celé shromáždění se klanělo, zpěváci zpívali, trubači troubili a to vše trvalo, dokud zápalná oběť neskončila.</verse>
+        <verse osisID='2Chr.29.29'>Jakmile byla zápalná oběť dokonána, Ezechiáš i všichni přítomní poklekli a klaněli se.</verse>
+        <verse osisID='2Chr.29.30'>Ezechiáš a jeho hodnostáři uložili levitům, ať oslavují Hospodina písněmi Davida a vidoucího Asafa. Oslavovali ho s velikou radostí, padali na kolena a klaněli se mu.</verse>
+        <verse osisID='2Chr.29.31'>Potom Ezechiáš promluvil: "Teď jste zasvěceni kněžské službě Hospodinu. Přistupujte do Hospodinova chrámu s pokojnými a děkovnými oběťmi." Shromáždění tedy přineslo dary k obětním hodům a děkovné oběti. Každý, kdo měl ochotné srdce, přinesl také zápalné oběti,</verse>
+        <verse osisID='2Chr.29.32'>jejichž počet činil 70 býčků, 100 beranů a 200 jehňat - to vše jako zápalná oběť Hospodinu.</verse>
+        <verse osisID='2Chr.29.33'>Jako oběť také zasvětili 600 býčků a 3 000 ovcí.</verse>
+        <verse osisID='2Chr.29.34'>Kněží ale bylo málo, takže to množství zvířat k zápalné oběti nestačili stahovat. Museli jim proto pomáhat jejich bratři levité, dokud to dílo nebylo hotové a dokud se nezasvětili další kněží (levité se totiž posvěcovali svědomitěji než kněží).</verse>
+        <verse osisID='2Chr.29.35'>Obětovalo se veliké množství zápalů a také tuku z pokojných obětí a úliteb doprovázejících zápalné oběti. Tak byla v Hospodinově chrámu obnovena bohoslužba.</verse>
+        <verse osisID='2Chr.29.36'>Ezechiáš i všechen lid se radovali z toho, co pro ně Bůh přichystal. Všechno se totiž seběhlo velmi nenadále.</verse>
+      </chapter>
+      <chapter osisID='2Chr.30'>
+        <verse osisID='2Chr.30.1'>Potom Ezechiáš nechal rozhlásit po celém Izraeli a Judsku (napsal totiž dopisy také do Efraima i Manasese), ať přijdou do Hospodinova chrámu v Jeruzalémě slavit Hospodinu, Bohu Izraele, Hod beránka.</verse>
+        <verse osisID='2Chr.30.2'>Král se totiž s hodnostáři a s celou jeruzalémskou obcí dohodl, že oslaví Hod beránka v druhém měsíci,</verse>
+        <verse osisID='2Chr.30.3'>protože ho nemohli uspořádat v patřičný čas, neboť ještě nebylo posvěceno dost kněží a lid se ještě neshromáždil do Jeruzaléma.</verse>
+        <verse osisID='2Chr.30.4'>Takové řešení se líbilo králi i celé obci.</verse>
+        <verse osisID='2Chr.30.5'>Proto rozhodli, že dají provolat po celém Izraeli od Beer-šeby až po Dan, ať přijdou do Jeruzaléma slavit Hospodinu, Bohu Izraele, Hod beránka. Dlouho jej totiž neslavili, jak je předepsáno.</verse>
+        <verse osisID='2Chr.30.6'>Na králův rozkaz tedy do celého Izraele a Judska vyrazili poslové s tímto dopisem od krále a jeho hodnostářů: "Synové Izraele, vraťte se k Hospodinu, Bohu Abrahama, Izáka a Izraele! On se pak vrátí k vám, pozůstatkům uniklým z moci asyrských králů.</verse>
+        <verse osisID='2Chr.30.7'>Nebuďte jako vaši otcové a bratři, kteří zradili Hospodina, Boha vašich otců, a ze kterých udělal odstrašující příklad, jak sami vidíte.</verse>
+        <verse osisID='2Chr.30.8'>Nebuďte už tvrdošíjní jako vaši otcové. Poddejte se Hospodinu a pojďte do jeho svatyně, kterou posvětil navěky! Služte Hospodinu, svému Bohu, a on od vás odvrátí svůj planoucí hněv.</verse>
+        <verse osisID='2Chr.30.9'>Pokud se vrátíte k Hospodinu, vaši bratři a synové dojdou u svých věznitelů slitování a vrátí se do této země. Hospodin, váš Bůh, je přece milostivý a soucitný. Pokud se k němu vrátíte, neodmítne vás!"</verse>
+        <verse osisID='2Chr.30.10'>Poslové tedy procházeli celý kraj Efraim a Manases od města k městu až k Zabulonu, ale byli jen k posměchu a pohrdání.</verse>
+        <verse osisID='2Chr.30.11'>Někteří z Ašera, Manasese a Zabulona se ale pokořili a přišli do Jeruzaléma.</verse>
+        <verse osisID='2Chr.30.12'>Na Judovi ovšem spočinula Boží ruka, aby jednomyslně splnili, co jim král a hodnostáři podle Hospodinova slova přikázali.</verse>
+        <verse osisID='2Chr.30.13'>Do Jeruzaléma se shromáždilo množství lidu, aby se ve druhém měsíci zúčastnili Slavnosti nekvašených chlebů. Celé to veliké množství</verse>
+        <verse osisID='2Chr.30.14'>nejdříve zbořilo jeruzalémské oltáře, odstranili také všechny kadidlové oltáříky a naházeli je do potoka Kidron.</verse>
+        <verse osisID='2Chr.30.15'>Čtrnáctý den druhého měsíce porazili velikonočního beránka. Kněží a levité se zastyděli, posvětili se a přinesli do Hospodinova chrámu zápalné oběti.</verse>
+        <verse osisID='2Chr.30.16'>Zaujali svá místa, jak jim to určoval Zákon Božího muže Mojžíše. Kněží kropili oltář krví, kterou jim levité podávali.</verse>
+        <verse osisID='2Chr.30.17'>Mnozí ve shromáždění ale nebyli posvěceni. Za všechny nečisté proto zabíjeli jejich velikonoční beránky levité, aby je posvětili Hospodinu.</verse>
+        <verse osisID='2Chr.30.18'>Mnozí z Efraima, Manasese, Isachara i Zabulona se neočistili, ale přesto jedli velikonočního beránka, ačkoli to nebylo podle předpisů. Ezechiáš se totiž za ně modlil: "Kéž dobrotivý Hospodin očistí</verse>
+        <verse osisID='2Chr.30.19'>každého, kdo se v srdci rozhodl hledat Boha - Hospodina, Boha svých otců - ačkoli nejsou čistí podle předpisů svatyně."</verse>
+        <verse osisID='2Chr.30.20'>Hospodin pak Ezechiáše vyslyšel a lid uzdravil.</verse>
+        <verse osisID='2Chr.30.21'>Synové Izraele shromáždění v Jeruzalémě pak s velikou radostí slavili sedmidenní Slavnost nekvašených chlebů. Kněží a levité každý den chválili Hospodina zvučnými nástroji zasvěcenými Hospodinu.</verse>
+        <verse osisID='2Chr.30.22'>Ezechiáš také vyjádřil uznání všem levitům za velikou svědomitost, s jakou sloužili Hospodinu. Po sedm dní jedli své určené podíly, přinášeli pokojné oběti a děkovali Hospodinu, Bohu svých otců.</verse>
+        <verse osisID='2Chr.30.23'>Celé shromáždění se pak shodlo, že budou pokračovat ještě dalších sedm dní, a tak radostně slavili ještě sedm dní.</verse>
+        <verse osisID='2Chr.30.24'>Judský král Ezechiáš totiž shromáždění věnoval 1 000 býčků a 7 000 ovcí a koz. Hodnostáři pak věnovali 1 000 býčků a 10 000 ovcí a koz. Posvětilo se veliké množství kněží</verse>
+        <verse osisID='2Chr.30.25'>a celé judské shromáždění se radovalo spolu s kněžími a levity, se všemi příchozími z Izraele i se všemi cizinci, ať už dorazili z izraelské země anebo bydleli v Judsku.</verse>
+        <verse osisID='2Chr.30.26'>V Jeruzalémě zavládla nesmírná radost, neboť od dob izraelského krále Šalomouna, syna Davidova, město nic podobného nezažilo.</verse>
+        <verse osisID='2Chr.30.27'>Kněží a levité nakonec vstali, aby lidu požehnali. Bůh je vyslyšel a jejich modlitba dosáhla nebe, jeho svatého příbytku.</verse>
+      </chapter>
+      <chapter osisID='2Chr.31'>
+        <verse osisID='2Chr.31.1'>Když to celé skončilo, všichni příchozí z Izraele se rozešli. Cestou v judských městech rozbíjeli posvátné sloupy, káceli Ašeřiny kůly a bourali obětní výšiny a oltáře všude v Judovi a Benjamínovi, ale i v Efraimovi a Manasesovi, dokud je nevymýtili. Teprve pak se všichni Izraelci vrátili do svých měst, každý do svého kraje.</verse>
+        <verse osisID='2Chr.31.2'>Ezechiáš rozdělil kněží a levity do oddílů, podle kterých pak všichni plnili své kněžské či levitské úkoly, ať už šlo o zápalné a pokojné oběti, o pomocné práce nebo o děkování a chvály v branách Hospodinova tábora.</verse>
+        <verse osisID='2Chr.31.3'>Král oddělil část svého majetku jako příspěvek na zápalné oběti jak ranní, tak večerní a také o sobotách, novoluních a slavnostech, jak jsou předepsány v Zákoně Hospodinově.</verse>
+        <verse osisID='2Chr.31.4'>Obyvatelům Jeruzaléma přikázal odevzdávat podíl kněžím a levitům, aby se mohli plně věnovat Hospodinovu zákonu.</verse>
+        <verse osisID='2Chr.31.5'>Jakmile se ta zpráva rozšířila, synové Izraele začali přinášet množství prvotin z obilí, vína, oleje, medu a z veškeré úrody. Přinesli také štědrý desátek ze všech věcí;</verse>
+        <verse osisID='2Chr.31.6'>synové Izraele i Judy, kteří bydleli v judských městech, totiž přinesli desátek z ovcí, koz a býčků. Přinášeli také desátky ze své úrody, které zasvětili Hospodinu, svému Bohu, a vršili je na hromady.</verse>
+        <verse osisID='2Chr.31.7'>Tyto hromady začali vršit ve třetím měsíci a skončili až v sedmém měsíci.</verse>
+        <verse osisID='2Chr.31.8'>Když přišel Ezechiáš se svými hodnostáři a viděli ty hromady, dobrořečili Hospodinu i jeho lidu Izraeli.</verse>
+        <verse osisID='2Chr.31.9'>Ezechiáš se na ty hromady vyptával kněží a levitů.</verse>
+        <verse osisID='2Chr.31.10'>Nejvyšší kněz Azariáš z domu Sádokova mu odpověděl: "Od chvíle, kdy lidé začali do Hospodinova chrámu přinášet příspěvky, máme jídla do sytosti a ještě hodně zbývá. Hospodin požehnal svému lidu tak, že ještě tolik přebývá."</verse>
+        <verse osisID='2Chr.31.11'>Ezechiáš proto nechal v Hospodinově chrámu zřídit komory. Když je připravili,</verse>
+        <verse osisID='2Chr.31.12'>svědomitě do nich snesli příspěvky, desátky a zasvěcené dary. Dohledem nad nimi byl pověřen levita Konaniáš a jeho zástupcem byl jeho bratr Šimei.</verse>
+        <verse osisID='2Chr.31.13'>Podle rozhodnutí krále Ezechiáše a správce Božího chrámu Azariáše pak Konaniáš a jeho bratr Šimei k sobě přibrali úředníky Jechiela, Azaziáše, Nachata, Asaela, Jerimota, Jozabada, Eliela, Jismachiáše, Machata a Benajáše.</verse>
+        <verse osisID='2Chr.31.14'>Dobrovolné dary Bohu byly svěřeny Koremu, synu Jimnovu, strážnému Východní brány. Ten měl vydávat Hospodinovy příděly a svatosvaté věci.</verse>
+        <verse osisID='2Chr.31.15'>V kněžských městech měl pomocníky Edena, Minjamina, Ješuu, Šemajáše, Amariáše a Šechaniáše, kteří svědomitě rozdělovali příděly bratřím v jednotlivých kněžských směnách, mladým stejně jako starým.</verse>
+        <verse osisID='2Chr.31.16'>Rozdělovali je všem mužům od tří let výše, kteří byli uvedeni ve jmenných seznamech - všem, kteří přicházeli do Hospodinova chrámu za každodenními povinnostmi podle druhu práce, služebního zařazení a směny.</verse>
+        <verse osisID='2Chr.31.17'>Rozdělovali příděly kněžím, kteří byli uvedeni v seznamech podle svých otcovských rodů, a také levitům od dvaceti let výše podle jejich služebního zařazení a směny.</verse>
+        <verse osisID='2Chr.31.18'>Rodové seznamy zahrnovaly celé rodiny - manželky, nemluvňata, syny i dcery, celé to množství. Ti všichni se museli svědomitě posvěcovat, aby byli svatí.</verse>
+        <verse osisID='2Chr.31.19'>Výše uvedení muži v každém městě rozdělovali příděly kněžím ze synů Áronových, žijícím na obecní půdě na předměstích. Přidělovali je každému knězi mužského pohlaví a každému levitovi, uvedenému na jejich rodovém seznamu.</verse>
+        <verse osisID='2Chr.31.20'>Tak to Ezechiáš zařídil po celém Judsku. Jednal dobře, správně a věrně před Hospodinem, svým Bohem.</verse>
+        <verse osisID='2Chr.31.21'>Ve všem, co si předsevzal, ať už šlo o Boží chrám nebo o Zákon a přikázání, hledal svého Boha a věnoval se tomu celým srdcem. Proto se mu dařilo.</verse>
+      </chapter>
+      <chapter osisID='2Chr.32'>
+        <verse osisID='2Chr.32.1'>Po všem, co Ezechiáš tak věrně vykonal, přitáhl do Judska asyrský král Senacherib a oblehl opevněná města, která chtěl dobýt.</verse>
+        <verse osisID='2Chr.32.2'>Když Ezechiáš viděl, že se blíží Senacherib a že je rozhodnut napadnout Jeruzalém,</verse>
+        <verse osisID='2Chr.32.3'>svolal poradu svých hodnostářů a velitelů. Navrhl, ať se zasypou vodní prameny mimo město, a oni ho podpořili.</verse>
+        <verse osisID='2Chr.32.4'>Sešla se spousta lidí, takže zasypali všechny prameny i potok protékající krajem. Říkali si: "Proč by měl asyrský král, až přijde, najít tolik vody?"</verse>
+        <verse osisID='2Chr.32.5'>Ezechiáš pak se vší rozhodností opravil všechna pobořená místa v městské hradbě, postavil na ní věže a přidal ještě vnější hradbu. Opravil také terasu Milo ve Městě Davidově a vyrobil množství zbraní a štítů.</verse>
+        <verse osisID='2Chr.32.6'>Lid svěřil pod správu vojenských velitelů. Shromáždil je k sobě na prostranství u městské brány a povzbuzoval je:</verse>
+        <verse osisID='2Chr.32.7'>"Buďte silní a stateční! Nebojte se ani se nelekejte asyrského krále ani té spousty, která táhne s ním. S námi je někdo větší nežli s ním!</verse>
+        <verse osisID='2Chr.32.8'>S ním je jenom lidská síla, ale s námi je Hospodin, náš Bůh, připravený nám pomáhat a vést náš boj." A lid se na ta slova judského krále Ezechiáše spolehl.</verse>
+        <verse osisID='2Chr.32.9'>Když potom asyrský král Senacherib s celou svou armádou dobýval Lachiš, vyslal do Jeruzaléma své služebníky se zprávou pro judského krále Ezechiáše a pro všechen judský lid v Jeruzalémě:</verse>
+        <verse osisID='2Chr.32.10'>"Tak praví Senacherib, král Asýrie: V co to doufáte, že zůstáváte obležení v Jeruzalémě?</verse>
+        <verse osisID='2Chr.32.11'>Když Ezechiáš tvrdí: ‚Hospodin, náš Bůh, nás vysvobodí z rukou asyrského krále,' myslíte, že vás nepodvádí? Vede vás na smrt hladem a žízní!</verse>
+        <verse osisID='2Chr.32.12'>Mluví snad Ezechiáš o tom bohu, jehož obětní výšiny a oltáře sám odstranil? Judovi a Jeruzalému pak nařídil: ‚Před jediným oltářem se budete klanět a na něm pálit oběti!'</verse>
+        <verse osisID='2Chr.32.13'>To nevíte, co jsem provedl já i moji otcové všem okolním národům? Dokázali snad jejich bohové vysvobodit své země z mých rukou?</verse>
+        <verse osisID='2Chr.32.14'>Kdo z bohů těch národů, které moji otcové vyhladili, dokázal vysvobodit svůj lid z mých rukou? Jak by tedy váš bůh mohl z mých rukou vysvobodit vás?</verse>
+        <verse osisID='2Chr.32.15'>Nenechte se od Ezechiáše klamat a podvádět! Nevěřte mu! Žádný bůh žádného národa ani království nedokázal vysvobodit svůj lid z mé ruky ani z rukou mých otců. Ani váš bůh nemůže z mé ruky vysvobodit vás!"</verse>
+        <verse osisID='2Chr.32.16'>Jeho služebníci vedli proti Hospodinu Bohu a proti jeho služebníku Ezechiášovi ještě další řeči.</verse>
+        <verse osisID='2Chr.32.17'>Senacherib psal dopisy, jimiž haněl Hospodina, Boha Izraele. Říkal o něm: "Jako bohové okolních národů nevysvobodili svůj lid z mé ruky, tak svůj lid z mé ruky nevysvobodí ani Bůh Ezechiášův!"</verse>
+        <verse osisID='2Chr.32.18'>Hlasitě křičeli v hebrejštině na jeruzalémský lid na hradbách, aby je zastrašili a vyděsili, aby pak mohli dobýt město.</verse>
+        <verse osisID='2Chr.32.19'>Mluvili o jeruzalémském Bohu jako o bozích okolních národů, vyrobených lidskýma rukama.</verse>
+        <verse osisID='2Chr.32.20'>Král Ezechiáš a prorok Izaiáš, syn Amosův, se za to modlili a volali k nebi.</verse>
+        <verse osisID='2Chr.32.21'>Hospodin tehdy poslal svého anděla a ten pobil všechny bojovníky, velitele i vojevůdce v táboře asyrského krále. Ten pak odtáhl do své země s ostudou. Když vešel do chrámu svého boha, jeho vlastní synové ho tam srazili mečem.</verse>
+        <verse osisID='2Chr.32.22'>Tak Hospodin Ezechiáše i obyvatele Jeruzaléma zachránil z rukou asyrského krále Senacheriba i z rukou všech ostatních a dopřál jim odpočinutí ze všech stran.</verse>
+        <verse osisID='2Chr.32.23'>Mnozí přinášeli do Jeruzaléma dary Hospodinu a vzácné pocty judskému králi Ezechiášovi, protože po tom všem stoupl v očích všech národů.</verse>
+        <verse osisID='2Chr.32.24'>V té době Ezechiáš na smrt onemocněl. Modlil se ale k Hospodinu a ten k němu promluvil a udělal pro něj zázrak.</verse>
+        <verse osisID='2Chr.32.25'>Ezechiáš ale za prokázané dobrodiní nebyl vděčný a zpychl. Tak vzbudil proti sobě i proti Judovi a Jeruzalému Boží hněv.</verse>
+        <verse osisID='2Chr.32.26'>Potom se však z té pýchy kál, stejně jako obyvatelé Jeruzaléma, a tak je za Ezechiášových dnů Boží hněv nestihl.</verse>
+        <verse osisID='2Chr.32.27'>Ezechiáš měl ohromné bohatství a slávu. Nashromáždil poklady stříbra, zlata, drahokamů, balzámů, štítů a všemožných klenotů.</verse>
+        <verse osisID='2Chr.32.28'>Měl sklady obilí, vína i oleje, chlévy pro všemožný dobytek a ohrady pro stáda.</verse>
+        <verse osisID='2Chr.32.29'>Vystavěl si města a získal veliká stáda bravu i skotu, protože ho Bůh obdařil nesmírným bohatstvím.</verse>
+        <verse osisID='2Chr.32.30'>Právě Ezechiáš dal zasypat horní ústí pramene Gíchon a svedl ho dolů k západní straně Města Davidova. Ezechiášovi se dařilo všechno, co dělal.</verse>
+        <verse osisID='2Chr.32.31'>Když pak ale za ním babylonští vládcové vypravili posly, aby se vyptali na ten zázrak, který se v zemi odehrál, Bůh ho v té zkoušce nechal, aby se poznalo, co všechno má v srdci.</verse>
+        <verse osisID='2Chr.32.32'>Ostatní Ezechiášovy skutky i jeho oddanost jsou popsány ve Vidění proroka Izaiáše, syna Amosova, které je součástí Knihy judských a izraelských králů.</verse>
+        <verse osisID='2Chr.32.33'>Když Ezechiáš spočinul u svých předků, pochovali ho v horní části pohřebiště synů Davidových. Celý Juda a všichni obyvatelé Jeruzaléma mu při jeho úmrtí vzdali čest. Na jeho místě pak kraloval jeho syn Menaše.</verse>
+      </chapter>
+      <chapter osisID='2Chr.33'>
+        <verse osisID='2Chr.33.1'>Menaše se stal králem ve dvanácti letech a kraloval v Jeruzalémě padesát pět let.</verse>
+        <verse osisID='2Chr.33.2'>Páchal, co je v Hospodinových očích zlé, a řídil se ohavnými zvyklostmi národů, které Hospodin vyhnal před syny Izraele.</verse>
+        <verse osisID='2Chr.33.3'>Znovu vystavěl obětní výšiny, které zbořil jeho otec Ezechiáš. Postavil také oltáře baalům a vztyčil Ašeřiny kůly. Klaněl se všem nebeským zástupům a sloužil jim.</verse>
+        <verse osisID='2Chr.33.4'>Nastavěl oltáře v Hospodinově chrámu, o kterém Hospodin prohlásil: "Mé jméno bude v Jeruzalémě navěky."</verse>
+        <verse osisID='2Chr.33.5'>Na obou nádvořích Hospodinova chrámu nastavěl oltáře všem nebeským zástupům.</verse>
+        <verse osisID='2Chr.33.6'>Dokonce prováděl vlastní syny ohněm v údolí Ben-hinom. Věštil, čaroval, kouzlil, zabýval se jasnovidectvím a vyvolával mrtvé. Napáchal v Hospodinových očích spoustu zla a popouzel ho k hněvu.</verse>
+        <verse osisID='2Chr.33.7'>Nechal vyrobit modlářskou sochu a vztyčil ji v Božím chrámu, o kterém Hospodin Davidovi a jeho synu Šalomounovi řekl: "V tomto domě, v Jeruzalémě, dám navždy spočinout svému jménu.</verse>
+        <verse osisID='2Chr.33.8'>Bude-li Izrael pečlivě dodržovat všechna přikázání, Zákon, ustanovení a předpisy, jež jsem jim vydal skrze Mojžíše, nikdy nedopustím, aby museli prchat ze země, kterou jsem dal jejich otcům."</verse>
+        <verse osisID='2Chr.33.9'>Menaše ale Judu a obyvatele Jeruzaléma svedl, aby prováděli ještě horší věci než národy, které Hospodin před syny Izraele vyhubil.</verse>
+        <verse osisID='2Chr.33.10'>Hospodin k Menašemu a jeho lidu mluvil, ale oni si ho nevšímali.</verse>
+        <verse osisID='2Chr.33.11'>Proto na ně Hospodin přivedl armádu asyrského krále, jejíž velitelé Menašeho zajali. Vrazili mu do nosu hák, spoutali ho bronzovými řetězy a odvedli do Babylonu.</verse>
+        <verse osisID='2Chr.33.12'>Tam pak ve své úzkosti prosil Hospodina, svého Boha, o milost. Velice se pokořil před Bohem svých otců</verse>
+        <verse osisID='2Chr.33.13'>a modlil se k němu, takže se Hospodin nechal pohnout a vyslyšel jeho prosbu. Přivedl ho zpátky do Jeruzaléma a nechal ho znovu kralovat. Tak Menaše poznal, že jen Hospodin je Bůh.</verse>
+        <verse osisID='2Chr.33.14'>Poté obnovil vnější hradbu Města Davidova západně od pramene Gíchon podél potoka až ke vchodu do Rybné brány a kolem Ofelu. Také ji o hodně zvýšil. Po všech opevněných městech v Judsku rozmístil vojenské velitele.</verse>
+        <verse osisID='2Chr.33.15'>Z Hospodinova chrámu odstranil cizí bohy a sochy. Všechny oltáře, které předtím nastavěl na Chrámové hoře v Jeruzalémě, vyházel na skládku za městem.</verse>
+        <verse osisID='2Chr.33.16'>Opravil Hospodinův oltář a obětoval na něm pokojné a děkovné oběti a vyzval Judu, ať slouží Hospodinu, Bohu Izraele.</verse>
+        <verse osisID='2Chr.33.17'>Lid ovšem nadále obětoval na výšinách, i když pouze Hospodinu, svému Bohu.</verse>
+        <verse osisID='2Chr.33.18'>Ostatní Menašeho skutky, jeho modlitba k Bohu i slova vidoucích, kteří k němu mluvili ve jménu Hospodina, Boha Izraele, to vše je uvedeno ve Skutcích izraelských králů.</verse>
+        <verse osisID='2Chr.33.19'>Jeho modlitba, která pohnula Hospodina, a také všechny jeho hříchy a zrady, stejně jako místa, kde předtím, než se ponížil, vystavěl obětní výšiny a vztyčil Ašeřiny kůly a sochy - to vše je zapsáno ve Slovech vidoucích.</verse>
+        <verse osisID='2Chr.33.20'>Když Menaše spočinul u svých předků, pochovali ho u něj doma. Na jeho místě pak začal kralovat jeho syn Amon.</verse>
+        <verse osisID='2Chr.33.21'>Amon se stal králem ve dvaadvaceti letech a kraloval v Jeruzalémě dva roky.</verse>
+        <verse osisID='2Chr.33.22'>I on páchal, co je v Hospodinových očích zlé, tak jako jeho otec Menaše. Amon obětoval všem sochám, které vyrobil jeho otec Menaše, a sloužil jim.</verse>
+        <verse osisID='2Chr.33.23'>Neponížil se však před Hospodinem jako kdysi jeho otec, ale hřešil ještě mnohem víc.</verse>
+        <verse osisID='2Chr.33.24'>Jeho dvořané se proti němu spikli a zabili ho v jeho vlastním domě.</verse>
+        <verse osisID='2Chr.33.25'>Lid země ale všechny spiklence proti králi Amonovi pobil a na jeho místě prohlásili za krále jeho syna Jošiáše.</verse>
+      </chapter>
+      <chapter osisID='2Chr.34'>
+        <verse osisID='2Chr.34.1'>Jošiáš se stal králem v osmi letech a kraloval v Jeruzalémě třicet jedna let.</verse>
+        <verse osisID='2Chr.34.2'>Dělal, co je v Hospodinových očích správné. Chodil po cestách svého otce Davida a neuchýlil se napravo ani nalevo.</verse>
+        <verse osisID='2Chr.34.3'>V osmém roce své vlády, ještě jako mladík, začal hledat Boha svého otce Davida.Ve dvanáctém roce začal očišťovat Judsko a Jeruzalém od obětních výšin, Ašeřiných kůlů, soch a odlitků.</verse>
+        <verse osisID='2Chr.34.4'>Pod jeho dohledem se bořily oltáře baalů a kadidlové oltáříky nad nimi rozsekal na třísky. Ašeřiny kůly, sochy a odlitky rozdrtil a rozházel po hrobech jejich uctívačů</verse>
+        <verse osisID='2Chr.34.5'>a kosti kněží spálil na jejich oltářích. Tak očistil Judsko i Jeruzalém.</verse>
+        <verse osisID='2Chr.34.6'>Dokonce i ve městech na území Manasese, Efraima i Šimeona až po Neftalího bořil jejich chrámy,</verse>
+        <verse osisID='2Chr.34.7'>porážel oltáře, rozdrtil Ašeřiny kůly a sochy a rozsekal kadidlové oltáříky po celé izraelské zemi. Potom se vrátil do Jeruzaléma.</verse>
+        <verse osisID='2Chr.34.8'>V osmnáctém roce své vlády, poté co očistil zemi i Boží chrám, pověřil Šafana, syna Acaliášova, se správcem města Maasejášem a kancléřem Joachem, synem Joachazovým, aby opravili Hospodinův chrám.</verse>
+        <verse osisID='2Chr.34.9'>Ti přišli za veleknězem Chilkiášem a předali mu stříbro, které levitští strážci prahu vybrali od Manasese, Efraima a od ostatních Izraelců, kteří je přinášeli do Božího chrámu spolu s Judou, Benjamínem a obyvateli Jeruzaléma.</verse>
+        <verse osisID='2Chr.34.10'>Stříbro bylo svěřeno mistrům odpovědným za práci na Hospodinově chrámu, aby je vypláceli dělníkům pracujícím na opravě a obnově Hospodinova chrámu.</verse>
+        <verse osisID='2Chr.34.11'>Dávali je tesařům a stavitelům na nákup opracovaného kamene, trámů a stavebního dřeva na budovy, které judští králové nechali zpustnout.</verse>
+        <verse osisID='2Chr.34.12'>Dělníci pracovali svědomitě. Dozor nad nimi konali Jachat a Abdiáš, levité ze synů Merariho, a Zachariáš a Mešulam ze synů Kehatových. Tito levité, samí znamenití hudebníci,</verse>
+        <verse osisID='2Chr.34.13'>měli na starosti nosiče a dozírali na veškeré dělníky všech řemesel (další levité byli písaři, další úředníci a další tvořili chrámovou stráž).</verse>
+        <verse osisID='2Chr.34.14'>Když vynášeli stříbro věnované na Hospodinův chrám, kněz Chilkiáš nalezl knihu Hospodinova zákona vydaného skrze Mojžíše.</verse>
+        <verse osisID='2Chr.34.15'>Chilkiáš tedy ohlásil písaři Šafanovi: "Našel jsem v Hospodinově chrámu knihu Zákona." A předal knihu Šafanovi.</verse>
+        <verse osisID='2Chr.34.16'>Ten ji přinesl ke králi a podal mu zprávu: "Tví služebníci plní vše, co jim bylo uloženo.</verse>
+        <verse osisID='2Chr.34.17'>Stříbro uložené v Hospodinově chrámu bylo vyplaceno mistrům i dělníkům na stavbě."</verse>
+        <verse osisID='2Chr.34.18'>Dále písař Šafan králi ohlásil: "Kněz Chilkiáš mi dal jistou knihu," a začal z ní králi číst.</verse>
+        <verse osisID='2Chr.34.19'>Jakmile král uslyšel slova Zákona, roztrhl své roucho</verse>
+        <verse osisID='2Chr.34.20'>a přikázal Chilkiášovi, Achikamovi, synu Šafanovu, Achborovi, synu Michajášovu, písaři Šafanovi a královskému služebníku Asajášovi:</verse>
+        <verse osisID='2Chr.34.21'>"Jděte se za mě a za zbytek Izraele a Judy dotazovat Hospodina ohledně slov té nalezené knihy. Vždyť je na nás vylit nesmírný Hospodinův hněv! Ten vzplál proti nám, protože naši otcové neposlouchali Hospodinovo slovo a neřídili se vším, co je psáno v této knize."</verse>
+        <verse osisID='2Chr.34.22'>Chilkiáš pak s královými muži šel do jeruzalémského Nového města, kde bydlela prorokyně Chulda, žena Šaluma, syna Tokhatova, syna Chasry, strážce rouch. Když s ní o tom promluvili,</verse>
+        <verse osisID='2Chr.34.23'>odpověděla: "Tak praví Hospodin, Bůh Izraele: ‚Povězte muži, který vás ke mně poslal:</verse>
+        <verse osisID='2Chr.34.24'>Tak praví Hospodin - Hle, na toto místo i na jeho obyvatele dopustím neštěstí a všechna zlořečení zapsaná v knize, kterou judský král slyšel číst.</verse>
+        <verse osisID='2Chr.34.25'>Protože mě opustili, pálili kadidlo cizím bohům a popouzeli mě veškerým dílem svých rukou, bude na toto místo vylit můj neutuchající hněv!'</verse>
+        <verse osisID='2Chr.34.26'>Odpovězte judskému králi, který vás poslal dotazovat se Hospodina: ‚Tak praví Hospodin, Bůh Izraele, ohledně slov, která jsi slyšel:</verse>
+        <verse osisID='2Chr.34.27'>Když jsi uslyšel ta slova proti tomuto místu a jeho obyvatelům, nezatvrdil jsi své srdce, ale ponížil ses před Bohem; ponížil ses přede mnou, roztrhl jsi své roucho a plakals přede mnou. Proto jsem tě také vyslyšel, praví Hospodin.</verse>
+        <verse osisID='2Chr.34.28'>Hle, připojím tě k tvým předkům a budeš uložen do hrobu v pokoji. Tvé oči nespatří nic z toho neštěstí, které na toto místo i jeho obyvatele dopustím.'" S touto zprávou se tedy vrátili ke králi.</verse>
+        <verse osisID='2Chr.34.29'>Nato král nechal svolat všechny stařešiny Judy a Jeruzaléma.</verse>
+        <verse osisID='2Chr.34.30'>Král vešel do Hospodinova chrámu a s ním všechen judský lid, obyvatelé Jeruzaléma, kněží i levité - všechen lid od největších po nejmenší. Král jim předčítal všechna slova Knihy smlouvy, jež byla nalezena v Hospodinově chrámu.</verse>
+        <verse osisID='2Chr.34.31'>Potom se postavil ke sloupu a zavázal se před Hospodinem smlouvou, že bude celým srdcem i duší následovat Hospodina a poslouchat jeho příkazy, svědectví a ustanovení, a plnit tak slova smlouvy, zapsaná v této knize.</verse>
+        <verse osisID='2Chr.34.32'>Všechny, kdo byli v Jeruzalémě a v Benjamínovi, zavázal toutéž smlouvou, aby se obyvatelé Jeruzaléma řídili podle Boží smlouvy, kterou jim vydal Bůh jejich otců.</verse>
+        <verse osisID='2Chr.34.33'>Jošiáš vymýtil všechny ohavnosti ze všech izraelských území. Každého, kdo žil v Izraeli, zavázal ke službě Hospodinu, jejich Bohu. Po celou dobu jeho vlády pak nepřestávali následovat Hospodina, Boha svých otců.</verse>
+      </chapter>
+      <chapter osisID='2Chr.35'>
+        <verse osisID='2Chr.35.1'>Jošiáš pak v Jeruzalémě slavil Hod beránka Hospodinu. Velikonočního beránka zabíjeli čtrnáctého dne prvního měsíce.</verse>
+        <verse osisID='2Chr.35.2'>Kněžím svěřil jejich úkoly a povzbudil je ke službě v Hospodinově chrámu.</verse>
+        <verse osisID='2Chr.35.3'>Levitům zasvěceným Hospodinu, aby učili celý Izrael, řekl: "Složte Truhlu svatosti v chrámě, který vystavěl izraelský král Šalomoun, syn Davidův. Teď už ji nenosíte na svých ramenou, a tak se věnujte službě Hospodinu, svému Bohu, a jeho lidu Izraeli.</verse>
+        <verse osisID='2Chr.35.4'>Rozdělte se do oddílů po otcovských rodech, jak to předepsal izraelský král David a jeho syn Šalomoun.</verse>
+        <verse osisID='2Chr.35.5'>Postavte se ve svatyni tak, aby každému otcovskému rodu vašich bratří z lidu odpovídal rodový oddíl levitů.</verse>
+        <verse osisID='2Chr.35.6'>Posvěťte se, porážejte velikonoční beránky a připravujte je pro své bratry podle slova, jež Hospodin promluvil skrze Mojžíše."</verse>
+        <verse osisID='2Chr.35.7'>Král Jošiáš přítomným z lidu věnoval 30 000 beránků a kůzlat pro velikonoční hod a také 3 000 býčků - to vše z vlastního majetku.</verse>
+        <verse osisID='2Chr.35.8'>Také jeho hodnostáři štědře obdarovali lid, kněží i levity: Chilkiáš, Zachariáš a Jechiel, správcové Božího chrámu, věnovali kněžím 2 600 velikonočních beránků a 300 býčků.</verse>
+        <verse osisID='2Chr.35.9'>Levitští předáci - Konaniáš se svými bratry Šemajášem a Natanaelem a také Chašabiáš, Jehiel a Jozabad - věnovali levitům 5 000 velikonočních beránků a 500 býčků.</verse>
+        <verse osisID='2Chr.35.10'>Když bylo vše připraveno k bohoslužbě, kněží podle králova rozkazu zaujali svá místa, stejně jako levité po svých oddílech.</verse>
+        <verse osisID='2Chr.35.11'>Levité pak zabíjeli beránky a podávali krev kněžím, kteří s ní kropili oltář, zatímco levité stahovali zvířata.</verse>
+        <verse osisID='2Chr.35.12'>Oddělovali, co bylo určeno k zápalné oběti, a rozdávali to lidu rozdělenému podle otcovských rodů, aby obětovali Hospodinu, jak je předepsáno v Knize Mojžíšově. Takto naložili i s býčky.</verse>
+        <verse osisID='2Chr.35.13'>Beránky pekli na ohni, jak je předepsáno, ale zasvěcené části vařili v hrncích, kotlích a pánvích a ihned roznášeli mezi všechen lid.</verse>
+        <verse osisID='2Chr.35.14'>Teprve potom připravili hod i sobě a kněžím. Kněží, synové Áronovi, totiž obětovali zápaly a tuk až do noci. Proto levité připravovali beránka nejen pro sebe, ale i pro kněží ze synů Áronových.</verse>
+        <verse osisID='2Chr.35.15'>Zpěváci, synové Asafovi, stáli na svých místech podle příkazu Davida, Asafa, Hemana a králova vidoucího Jedutuna. Také strážní u každé jednotlivé brány nesměli opouštět službu, a tak jejich bratři levité připravovali beránka i pro ně.</verse>
+        <verse osisID='2Chr.35.16'>Tak byla onoho dne na příkaz krále Jošiáše vykonána veškerá služba Hospodinu, a to slavením Hodu beránka a obětováním zápalů na Hospodinově oltáři.</verse>
+        <verse osisID='2Chr.35.17'>Přítomní synové Izraele tenkrát slavili Hod beránka i sedmidenní Slavnost nekvašených chlebů.</verse>
+        <verse osisID='2Chr.35.18'>Takovýto Hod beránka se nekonal od dob proroka Samuela. Žádný z izraelských králů neslavil takový Hod beránka, jako slavil Jošiáš s kněžími, levity, obyvateli Jeruzaléma a se všemi přítomnými z Judy i z Izraele.</verse>
+        <verse osisID='2Chr.35.19'>Tento Hod beránka se slavil v osmnáctém roce Jošiášova kralování.</verse>
+        <verse osisID='2Chr.35.20'>Po tom, když Jošiáš dokončil obnovu chrámu, vytáhl egyptský vládce Nekó do bitvy u Karkemiše na Eufratu. Jošiáš vytáhl proti němu,</verse>
+        <verse osisID='2Chr.35.21'>ale on za ním vyslal posly se vzkazem: "Já s tebou nic nemám, judský králi. Netáhnu dnes proti tobě, ale proti národu, se kterým válčím. A Bůh mi řekl, ať si pospíším. Bůh je se mnou, proto se mu nestav do cesty, aby tě nezničil!"</verse>
+        <verse osisID='2Chr.35.22'>Jošiáš mu ale neustoupil. Převlékl se a šel s ním bojovat. Neposlechl Boží slovo v Nekóových ústech a vyrazil do bitvy na pláň Megido.</verse>
+        <verse osisID='2Chr.35.23'>Tam krále Jošiáše zasáhli lučištníci. "Odvezte mě!" řekl Jošiáš svým mužům. "Jsem těžce raněn!"</verse>
+        <verse osisID='2Chr.35.24'>Jeho muži ho tedy odnesli z vozu, naložili ho na jiný vůz a odvezli do Jeruzaléma. Jošiáš pak zemřel a byl pochován na pohřebišti svých otců a všichni v Judsku a v Jeruzalémě ho oplakávali.</verse>
+        <verse osisID='2Chr.35.25'>Jeremiáš o něm složil žalozpěvy, jimiž až dodnes všichni zpěváci a pěvkyně truchlí nad Jošiášem, jak se v Izraeli stalo zvykem. Jsou zahrnuty v Knize žalozpěvů.</verse>
+        <verse osisID='2Chr.35.26'>Ostatní Jošiášovy skutky, jeho oddanost tomu, co je psáno v Hospodinově Zákoně,</verse>
+        <verse osisID='2Chr.35.27'>a veškeré jeho počínání je od počátku až do konce popsáno v Knize izraelských a judských králů.</verse>
+      </chapter>
+      <chapter osisID='2Chr.36'>
+        <verse osisID='2Chr.36.1'>Lid země pak vzal Jošiášova syna Joachaze a prohlásili ho v Jeruzalémě za krále namísto jeho otce.</verse>
+        <verse osisID='2Chr.36.2'>Joachaz se stal králem ve třiadvaceti letech a kraloval v Jeruzalémě tři měsíce.</verse>
+        <verse osisID='2Chr.36.3'>Pak ho egyptský vládce v Jeruzalémě sesadil a uložil zemi povinný odvod sto talentů stříbra a talent zlata.</verse>
+        <verse osisID='2Chr.36.4'>Vládce Egypta ustanovil za krále nad Judou a Jeruzalémem jeho bratra Eliakima, kterého přejmenoval na Joakima. Jeho bratra Joachaze dal Nekó odvléci do Egypta.</verse>
+        <verse osisID='2Chr.36.5'>Joakim se stal králem v pětadvaceti letech a kraloval v Jeruzalémě jedenáct let. Páchal, co je v očích Hospodina, jeho Boha, zlé.</verse>
+        <verse osisID='2Chr.36.6'>Přitáhl proti němu babylonský král Nabukadnezar a spoutal ho bronzovými řetězy, aby ho odvlekl do Babylonu.</verse>
+        <verse osisID='2Chr.36.7'>Nabukadnezar odvezl do Babylonu část vybavení Hospodinova chrámu a uložil je ve svém babylonském chrámu.</verse>
+        <verse osisID='2Chr.36.8'>Ostatní Joakimovy skutky i to, jaké ohavnosti páchal a čím se provinil, to vše je sepsáno v Knize izraelských a judských králů. Na jeho místě pak kraloval jeho syn Joakin.</verse>
+        <verse osisID='2Chr.36.9'>Joakin se stal králem v osmnácti letech a kraloval v Jeruzalémě tři měsíce a deset dní. Páchal, co je v Hospodinových očích zlé.</verse>
+        <verse osisID='2Chr.36.10'>Na jaře ho pak dal král Nabukadnezar odvléct do Babylonu spolu s klenoty Hospodinova chrámu. Králem nad Judou a Jeruzalémem ustanovil Joakimova strýce Cidkiáše.</verse>
+        <verse osisID='2Chr.36.11'>Cidkiáš se stal králem v jednadvaceti letech a kraloval v Jeruzalémě jedenáct let.</verse>
+        <verse osisID='2Chr.36.12'>Páchal, co je v očích Hospodina, jeho Boha, zlé a nepokořil se před Hospodinovým slovem v ústech proroka Jeremiáše.</verse>
+        <verse osisID='2Chr.36.13'>Nakonec se vzbouřil i proti králi Nabukadnezarovi, který ho před Bohem zavázal slibem věrnosti. Byl tvrdošíjný a zatvrzele se odmítal vrátit k Hospodinu, Bohu Izraele.</verse>
+        <verse osisID='2Chr.36.14'>Také všichni hodnostáři, kněží i lid vršili jednu zradu za druhou. Řídili se všemožnými pohanskými ohavnostmi, a poskvrnili tak Hospodinův chrám v Jeruzalémě, který on posvětil.</verse>
+        <verse osisID='2Chr.36.15'>Hospodin, Bůh jejich otců, k nim stále posílal své posly. Posílal je zas a znovu, ze soucitu ke svému lidu a ke svému příbytku.</verse>
+        <verse osisID='2Chr.36.16'>Oni se ale Božím poslům vysmívali a jejich slovy pohrdali. Z jeho proroků si tropili žerty, až Hospodin vzplál hněvem proti svému lidu tak, že už nebylo pomoci.</verse>
+        <verse osisID='2Chr.36.17'>Přivedl na ně babylonského krále, který pobil jejich mladíky mečem přímo ve svatyni. Neušetřil mládence ani panny, starce ani kmety; všichni mu padli do rukou.</verse>
+        <verse osisID='2Chr.36.18'>Všechno vybavení Božího chrámu, velké i malé předměty, poklady Hospodinova chrámu stejně jako poklady krále a jeho velmožů, to vše bylo odvezeno do Babylonu.</verse>
+        <verse osisID='2Chr.36.19'>Boží chrám vypálili, jeruzalémské hradby rozbořili, všechny paláce zapálili a všechny cennosti v nich zničili.</verse>
+        <verse osisID='2Chr.36.20'>Zbytek těch, kdo unikli meči, král odvlekl do Babylonu, kde pak jemu a jeho synům otročili až do nástupu Perské říše.</verse>
+        <verse osisID='2Chr.36.21'>Tak se naplnilo Hospodinovo slovo řečené ústy Jeremiáše. Země po celou dobu svého zpustošení konečně užívala svých sobot; odpočívala plných sedmdesát let.</verse>
+        <verse osisID='2Chr.36.22'>Prvního roku perského krále Kýra se Hospodinovo slovo řečené ústy Jeremiáše splnilo. Hospodin podnítil perského krále Kýra, aby po celé své říši dal rozhlásit slovem i písmem:</verse>
+        <verse osisID='2Chr.36.23'>"Tak praví Kýros, král perský: Hospodin, Bůh nebes, jenž mi dal všechna království země, mi uložil, abych mu vystavěl chrám v judském Jeruzalémě. Kdokoli mezi vámi patří k jeho lidu, Hospodin, jeho Bůh, buď s ním. Smíte odejít."</verse>
+      </chapter>
+    </div></osisText>
+</osis>

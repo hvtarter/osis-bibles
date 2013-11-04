@@ -1,0 +1,332 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace'>
+  <osisText osisRefWork='Bible' osisIDWork='CzeB21' xml:lang='cs'>
+    <header>
+      <revisionDesc>
+        <date>2010-02-26</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='CzeB21'>
+        <title>Czech Bible, Překlad 21. století</title>
+        <contributor/>
+        <creator>Mod2Zef (4)</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject/>
+        <date>2009-07-31</date>
+        <description>Bible, Překlad 21. století  vedoucí projektu Alexandr Flek  odborná spolupráce Jiří Hedánek, Pavel Hoffman, Zdeněk Sýkora  Přeloženo z hebrejštiny, aramejštiny, řečtiny  Vydání první  (c) 2009 Biblion, o. s.  www.bible21.org  www.bible21.cz   Překlad 21. století přináší nadčasové poselství Bible v současné, čtivé češtině. Usiluje o maximální věrnost původním hebrejským, aramejským a řeckým textům, zároveň však chce oslovit dnešní čtenáře, ať už jsou zvyklí čerpat z této knihy inspiraci pro každý den, anebo ji otevírají poprvé.</description>
+        <publisher/>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>CzeB21</identifier>
+        <source>no entry TextSource in sword.conf found</source>
+        <language type='IETF'>cs</language>
+        <relation/>
+        <coverage>provide the bible to the nations of the world</coverage>
+        <rights>Copyrighted; Permission to distribute granted to CrossWire</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='Zech'>
+      <chapter osisID='Zech.1'>
+        <verse osisID='Zech.1.1'>V osmém měsíci druhého roku Dareiovy vlády dostal prorok Zachariáš, syn Berechiáše, syna Idova, slovo Hospodinovo:</verse>
+        <verse osisID='Zech.1.2'>"Hospodin se na vaše otce hrozně rozhněval.</verse>
+        <verse osisID='Zech.1.3'>Proto řekni lidu: Tak praví Hospodin zástupů - Vraťte se ke mně, praví Hospodin zástupů, a já se vrátím k vám, praví Hospodin zástupů.</verse>
+        <verse osisID='Zech.1.4'>Nebuďte jako vaši otcové, ke kterým volali dávní proroci: ‚Tak praví Hospodin zástupů: Odvraťte se od svých zlých cest, od svého zlého jednání!' Vy jste ale neposlouchali, vůbec jste si jich nevšímali, praví Hospodin.</verse>
+        <verse osisID='Zech.1.5'>Kde jsou teď vaši otcové? A ti proroci - žijí snad navěky?</verse>
+        <verse osisID='Zech.1.6'>Ale má slova a mé výnosy, které jsem svěřil svým služebníkům prorokům, ty přece vaše otce dostihly! Tehdy se obrátili a uznali: ‚Hospodin zástupů se rozhodl s námi naložit, jak si zasloužíme za své cesty a za své jednání.'"</verse>
+        <verse osisID='Zech.1.7'>Čtyřiadvacátého dne jedenáctého měsíce, totiž měsíce šebat, ve druhém roce Dareiovy vlády dostal prorok Zachariáš, syn Berechiáše, syna Idova, slovo Hospodinovo.</verse>
+        <verse osisID='Zech.1.8'>V noci jsem měl vidění - hle, jakýsi jezdec na rudém koni! Stál mezi myrtami v hluboké rokli a za ním koně rudí, zlataví a bílí.</verse>
+        <verse osisID='Zech.1.9'>"Co to znamená, pane?" zeptal jsem se. "Ukážu ti, co to znamená," odpověděl mi anděl, který se mnou mluvil.</verse>
+        <verse osisID='Zech.1.10'>"To jsou ti, které poslal Hospodin, aby procházeli zemí," řekl onen muž stojící v myrtoví.</verse>
+        <verse osisID='Zech.1.11'>Ti pak Hospodinovu andělu stojícímu v myrtoví hlásili: "Prošli jsme zemí a hle - celá zem žije v klidu a pokoji."</verse>
+        <verse osisID='Zech.1.12'>Nato Hospodinův anděl zvolal: "Hospodine zástupů, kdy už se konečně slituješ nad Jeruzalémem a judskými městy? Vždyť už se na ně hněváš sedmdesát let!"</verse>
+        <verse osisID='Zech.1.13'>A Hospodin andělu mluvícímu se mnou odpověděl laskavými slovy plnými útěchy.</verse>
+        <verse osisID='Zech.1.14'>Anděl mluvící se mnou mi tedy řekl: "Volej - Tak praví Hospodin zástupů: Horlím pro Jeruzalém a Sion velikou horlivostí</verse>
+        <verse osisID='Zech.1.15'>a hrozně se hněvám na ty sebejisté národy. Když jsem se jen trochu rozzlobil, oni to neštěstí ještě zhoršili.</verse>
+        <verse osisID='Zech.1.16'>A proto tak praví Hospodin: Vrátím se k Jeruzalému s milosrdenstvím. Můj chrám v něm bude znovu vystavěn, praví Hospodin zástupů, a měřicí šňůra změří Jeruzalém.</verse>
+        <verse osisID='Zech.1.17'>Volej dál - Tak praví Hospodin zástupů: Má města budou znovu přetékat vším dobrým. Hospodin znovu potěší Sion a znovu vyvolí Jeruzalém."</verse>
+      </chapter>
+      <chapter osisID='Zech.2'>
+        <verse osisID='Zech.2.1'>Zvedl jsem oči a hle - uviděl jsem čtyři rohy.</verse>
+        <verse osisID='Zech.2.2'>"Co to znamená?" zeptal jsem se anděla mluvícího se mnou. "To jsou rohy, které rozprášily Judu, Izrael a Jeruzalém," odpověděl mi.</verse>
+        <verse osisID='Zech.2.3'>Pak mi Hospodin ukázal čtyři kováře.</verse>
+        <verse osisID='Zech.2.4'>"Co jdou dělat?" ptal jsem se. Odpověděl mi: "Tyto rohy rozprášily Judu tak, že nikdo ani nemohl zvednout hlavu. Tihle však přišli, aby jimi otřásli a srazili rohy národům, které pozvedly roh proti judské zemi a chtěly ji rozprášit."</verse>
+        <verse osisID='Zech.2.5'>Zvedl jsem oči a hle - muž s měřicí šňůrou v ruce.</verse>
+        <verse osisID='Zech.2.6'>"Kam jdeš?" zeptal jsem se. "Změřit Jeruzalém," odpověděl mi. "Zjistit, jak je široký a dlouhý."</verse>
+        <verse osisID='Zech.2.7'>Anděl mluvící se mnou pak odešel, ale naproti mu vyšel jiný anděl</verse>
+        <verse osisID='Zech.2.8'>se slovy: "Běž a pověz tomu mladíkovi: ‚V Jeruzalémě bude žít tolik lidí a dobytka, že se stane městem bez hradeb.</verse>
+        <verse osisID='Zech.2.9'>Já sám, praví Hospodin, budu ohnivou hradbou kolem něj a slávou vprostřed něj.'"</verse>
+        <verse osisID='Zech.2.10'>"Pojďte, pojďte! Utečte ze severní země, praví Hospodin, neboť vás rozšířím do čtyř světových stran, praví Hospodin.</verse>
+        <verse osisID='Zech.2.11'>Pojď, Sione! Zachraň se, kdo ses zabydlel u Dcery babylonské!"</verse>
+        <verse osisID='Zech.2.12'>Neboť tak praví Hospodin zástupů, který mě pro svou slávu poslal k národům, které vás plenily: "Kdo se vás dotýká, dotýká se zornice mého oka.</verse>
+        <verse osisID='Zech.2.13'>Hle, mávnu po nich rukou a stanou se kořistí svých otroků." Tehdy poznáte, že mě poslal Hospodin zástupů. "Jásej a vesel se, Dcero sionská! Hle - už přicházím, abych bydlel mezi vámi, praví Hospodin. V onen den se mnohé národy připojí k Hospodinu a budou mým lidem a já budu bydlet mezi vámi." Tehdy poznáš, že mě k tobě poslal Hospodin zástupů. Hospodin se ujme Judy jako svého dědictví ve svaté zemi a znovu vyvolí Jeruzalém. Zmlkněte před Hospodinem, všichni lidé - vždyť už se probouzí, už vychází ze svého svatého příbytku!</verse>
+      </chapter>
+      <chapter osisID='Zech.3'>
+        <verse osisID='Zech.3.1'>Potom mi ukázal velekněze Jošuu, jak stojí před Hospodinovým andělem; po pravici mu stál satan, aby ho obviňoval.</verse>
+        <verse osisID='Zech.3.2'>Hospodin však satanovi řekl: "Ztrestej tě Hospodin, satane! Ztrestej tě Hospodin, který vyvolil Jeruzalém! Copak to není oharek vyrvaný z ohně?"</verse>
+        <verse osisID='Zech.3.3'>Jošua přitom stál před andělem oblečen do špinavých šatů.</verse>
+        <verse osisID='Zech.3.4'>Vtom znovu zazněl hlas a promluvil k těm, kdo stáli před ním: "Svlékněte mu ty špinavé šaty!"Pak řekl Jošuovi: "Hle, snímám z tebe tvůj hřích a oblékám ti slavnostní roucho."</verse>
+        <verse osisID='Zech.3.5'>Řekl jsem: "Vsaďte mu na hlavu čistý turban!" Vsadili mu tedy na hlavu čistý turban a oblékli mu roucha. Hospodinův anděl stál u toho.</verse>
+        <verse osisID='Zech.3.6'>Potom Hospodinův anděl začal Jošuu nabádat:</verse>
+        <verse osisID='Zech.3.7'>"Tak praví Hospodin zástupů: Budeš-li chodit po mých cestách a zachovávat, co jsem ti svěřil, staneš se správcem mého domu a strážcem mých nádvoří a daruji ti přístup mezi ty, kteří tu stojí.</verse>
+        <verse osisID='Zech.3.8'>Slyš tedy, veleknězi Jošuo, ty i tví druhové, kteří sedí před tebou: Tito muži jsou znamením, že už přivádím svého služebníka, Výhonek.</verse>
+        <verse osisID='Zech.3.9'>Hle - kámen, který kladu před Jošuu, a na tom jednom kameni je sedm očí. Já sám na něj vyryji nápis, praví Hospodin, a hřích této země odstraním v jediném dni.</verse>
+        <verse osisID='Zech.3.10'>Toho dne, praví Hospodin zástupů, budete zvát své druhy k posezení ve stínu révy a fíkoví."</verse>
+      </chapter>
+      <chapter osisID='Zech.4'>
+        <verse osisID='Zech.4.1'>Potom mě ten anděl mluvící se mnou znovu probudil, jako se probouzí ten, kdo spí.</verse>
+        <verse osisID='Zech.4.2'>"Co vidíš?" zeptal se mě. "Vidím svícen," odpověděl jsem, "celý ze zlata. Na vrcholu má mísu se sedmi kahany a k těm sedmi kahanům na vrcholu svícnu vede po sedmi hubicích.</verse>
+        <verse osisID='Zech.4.3'>A u něj stojí dvě olivy, jedna vpravo od mísy a druhá vlevo."</verse>
+        <verse osisID='Zech.4.4'>Tehdy jsem se zeptal anděla mluvícího se mnou: "Co to znamená, pane?"</verse>
+        <verse osisID='Zech.4.5'>"Ty nevíš, co to znamená?" řekl mi anděl mluvící se mnou. "Ne, pane," odpověděl jsem.</verse>
+        <verse osisID='Zech.4.6'>Řekl mi: "Toto je slovo Hospodinovo k Zerubábelovi: Ne silou ani mocí, ale mým Duchem! praví Hospodin zástupů.</verse>
+        <verse osisID='Zech.4.7'>Co jsi, ty veliká horo? Před Zerubábelem jsi rovinou! Osadí totiž vrcholový kámen za hlučného křiku: ‚Milost, milost jemu!'"</verse>
+        <verse osisID='Zech.4.8'>Dostal jsem slovo Hospodinovo:</verse>
+        <verse osisID='Zech.4.9'>"Zerubábelovy ruce tento chrám založily a jeho ruce ho dokončí. Tehdy poznáš, že mě k vám poslal Hospodin zástupů.</verse>
+        <verse osisID='Zech.4.10'>Kdo by pohrdal dnem malých začátků? Takoví se zaradují, až uvidí ten znamenitý kámen v ruce Zerubábelově." "Těch sedm, to jsou oči Hospodinovy, procházející všechnu zemi."</verse>
+        <verse osisID='Zech.4.11'>Zeptal jsem se ho: "A co znamenají ty dvě olivy vpravo a vlevo od svícnu?"</verse>
+        <verse osisID='Zech.4.12'>Zeptal jsem se znovu: "Co znamenají ty dvě olivové ratolesti, ze kterých dvěma zlatými trubicemi proudí zlatý olej?"</verse>
+        <verse osisID='Zech.4.13'>"Ty nevíš, co to znamená?" řekl mi. "Ne, pane," odpověděl jsem.</verse>
+        <verse osisID='Zech.4.14'>Tehdy mi řekl: "To jsou ti dva pomazaní olejem, kteří slouží Pánu vší země."</verse>
+      </chapter>
+      <chapter osisID='Zech.5'>
+        <verse osisID='Zech.5.1'>Znovu jsem zvedl oči a hle - jakýsi letící svitek!</verse>
+        <verse osisID='Zech.5.2'>"Co vidíš?" zeptal se mě anděl. "Vidím letící svitek, 20 loktů dlouhý a 10 loktů široký."</verse>
+        <verse osisID='Zech.5.3'>"To je kletba vypuštěná na celou zem," řekl mi. "Z jedné strany je napsáno: ‚Každý zloděj bude vyhlazen' a z druhé strany: ‚Každý křivopřísežník bude vyhlazen.'</verse>
+        <verse osisID='Zech.5.4'>Tu kletbu vypustím, praví Hospodin zástupů, a přijde na dům zloděje i na dům toho, kdo křivě přísahá mým jménem, a v tom domě zůstane, dokud nebude zničen - jak dřevo, tak i kámen!</verse>
+        <verse osisID='Zech.5.5'>Potom anděl mluvící se mnou přistoupil a řekl mi: "Pozvedni oči a podívej se, co se to objevuje."</verse>
+        <verse osisID='Zech.5.6'>"Co to je?" zeptal jsem se. "Koš na měření," odpověděl. "Takhle to vypadá s celou zemí."</verse>
+        <verse osisID='Zech.5.7'>Vtom se zvedlo olověné víko a hle - v tom koši seděla jakási žena!</verse>
+        <verse osisID='Zech.5.8'>"To je Ničemnost," řekl anděl. Zatlačil ji zpět do koše a jeho otvor zaklopil olověným víkem.</verse>
+        <verse osisID='Zech.5.9'>Potom jsem zvedl oči a hle - uviděl jsem, jak se objevují dvě ženy s větrem v křídlech! (Měly totiž křídla jako čápi.) Vzaly ten koš a zvedly ho mezi nebe a zemi.</verse>
+        <verse osisID='Zech.5.10'>"Kam ten koš nesou?" zeptal jsem se anděla mluvícího se mnou.</verse>
+        <verse osisID='Zech.5.11'>"Do babylonské země," odpověděl. "Vystavějí mu tam dům, a až bude hotov, položí ho v něm na podstavec."</verse>
+      </chapter>
+      <chapter osisID='Zech.6'>
+        <verse osisID='Zech.6.1'>Znovu jsem zvedl oči a hle - mezi dvěma horami se objevily čtyři vozy; a ty hory byly z bronzu.</verse>
+        <verse osisID='Zech.6.2'>První vůz táhli ryzáci, druhý vraníci,</verse>
+        <verse osisID='Zech.6.3'>třetí bělouši a čtvrtý grošáci - samí statní hřebci.</verse>
+        <verse osisID='Zech.6.4'>"Co to znamená, pane?" zeptal jsem se anděla mluvícího se mnou.</verse>
+        <verse osisID='Zech.6.5'>"To vyrážejí čtyři nebeští duchové, kteří stáli před Pánem vší země," odpověděl mi anděl.</verse>
+        <verse osisID='Zech.6.6'>"Ten s vraníky vyráží do země na severu; za nimi vyrážejí bělouši, grošáci pak do země na jihu."</verse>
+        <verse osisID='Zech.6.7'>Když ti statní hřebci vyrazili, byli dychtiví projít celou zem. Řekl jim: "Projděte celou zem!" A tak prochodili zem.</verse>
+        <verse osisID='Zech.6.8'>Potom na mě zavolal: "Podívej se! Ti, kteří vyrazili na sever, utišili mého ducha, pokud jde o severní zem."</verse>
+        <verse osisID='Zech.6.9'>Dostal jsem slovo Hospodinovo:</verse>
+        <verse osisID='Zech.6.10'>"Vyber dary od vyhnanců Cheldaje, Tobiáše a Jedajáše, kteří se vrátili z Babylonu. Téhož dne jdi také do domu Jošiáše, syna Cefaniášova.</verse>
+        <verse osisID='Zech.6.11'>Vyber od nich stříbro a zlato, vyrob korunu a vlož ji na hlavu velekněze Jošuy, syna Jocadakova,</verse>
+        <verse osisID='Zech.6.12'>se slovy: ‚Tak praví Hospodin zástupů - Muž jménem Výhonek vyraší zespoda a vystaví Hospodinův chrám.</verse>
+        <verse osisID='Zech.6.13'>To on vystaví Hospodinův chrám a oblékne se v majestát. Usedne na svém trůnu jako vládce a bude na svém trůnu knězem - a to obojí bude ve shodě.'</verse>
+        <verse osisID='Zech.6.14'>Koruna pak zůstane na památku v Hospodinově chrámě, kde bude svěřena Cheldajovi, Tobiášovi, Jedajášovi a Chenovi, synu Cefaniášovu.</verse>
+        <verse osisID='Zech.6.15'>Dokonce i z daleka budou lidé přicházet a stavět Hospodinův chrám a tehdy poznáte, že mě k vám poslal Hospodin zástupů. To se stane, ale jen pokud budete opravdu poslouchat Hospodina, svého Boha."</verse>
+      </chapter>
+      <chapter osisID='Zech.7'>
+        <verse osisID='Zech.7.1'>Čtvrtého dne devátého měsíce (totiž měsíce kislev) ve čtvrtém roce vlády krále Dareia dostal Zachariáš slovo Hospodinovo.</verse>
+        <verse osisID='Zech.7.2'>Z Bét-elu totiž poslali Sar-ecera a Regem-melecha s jeho muži, aby prosili Hospodina o přízeň</verse>
+        <verse osisID='Zech.7.3'>a zeptali se kněží v chrámě Hospodina zástupů a rovněž proroků: "Máme v pátém měsíci truchlit a postit se, jak to děláme už tolik let?"</verse>
+        <verse osisID='Zech.7.4'>Tehdy jsem dostal slovo Hospodina zástupů:</verse>
+        <verse osisID='Zech.7.5'>"Řekni všemu lidu této země i kněžím: Už sedmdesát let se vždy v pátém a sedmém měsíci postíte a naříkáte - ale copak to děláte pro mě?</verse>
+        <verse osisID='Zech.7.6'>A když jíte a pijete, copak to neděláte jen sami pro sebe?</verse>
+        <verse osisID='Zech.7.7'>Nevolal snad Hospodin právě takovými slovy skrze dávné proroky, když se ještě v Jeruzalémě žilo v klidu a pokoji a stejně tak ve městech v jeho okolí, v Negevu i v podhůří?"</verse>
+        <verse osisID='Zech.7.8'>Zachariáš dostal slovo Hospodinovo:</verse>
+        <verse osisID='Zech.7.9'>"Takto promlouval Hospodin zástupů: ‚Prosazujte opravdové právo a jedni druhým projevujte soucit a laskavost.</verse>
+        <verse osisID='Zech.7.10'>Neutlačujte vdovy a sirotky, přistěhovalce ani chudáky a nevymýšlejte, jak jedni druhým ublížit.'</verse>
+        <verse osisID='Zech.7.11'>Oni to ale odmítli vnímat; vzpurně se otočili zády a zacpali si uši, aby neslyšeli.</verse>
+        <verse osisID='Zech.7.12'>V srdci se zatvrdili na křemen, aby neslyšeli Zákon ani slova, která Hospodin zástupů posílal svým Duchem skrze dávné proroky. Tak přišel veliký hněv od Hospodina zástupů.</verse>
+        <verse osisID='Zech.7.13'>Když jsem volal, neposlouchali; a tak když volali oni, dělal jsem, že neslyším, praví Hospodin zástupů.</verse>
+        <verse osisID='Zech.7.14'>Rozprášil jsem je vichřicí mezi všechny národy, které ani neznali. Země pak bez nich zpustla tak, že tudy nešlo ani cestovat. Kvůli nim se z té krásné země stala pustina!"</verse>
+      </chapter>
+      <chapter osisID='Zech.8'>
+        <verse osisID='Zech.8.1'>Dostal jsem slovo Hospodina zástupů:</verse>
+        <verse osisID='Zech.8.2'>"Tak praví Hospodin zástupů: Horlím pro Sion velikou horlivostí; horlivostí pro něj jen hořím!</verse>
+        <verse osisID='Zech.8.3'>Tak praví Hospodin: Vrátím se na Sion a budu bydlet uprostřed Jeruzaléma. Jeruzalém bude nazýván Městem pravdy a hora Hospodina zástupů Horou svatosti.</verse>
+        <verse osisID='Zech.8.4'>Tak praví Hospodin zástupů: V ulicích Jeruzaléma budou znovu sedávat starci a stařenky, každý s holí v ruce, jak budou staří.</verse>
+        <verse osisID='Zech.8.5'>Ulice toho města budou plné chlapců a děvčat, kteří si tam budou hrát.</verse>
+        <verse osisID='Zech.8.6'>Tak praví Hospodin zástupů: Zdá-li se to pozůstatku tohoto lidu v těchto dnech nemožné, musí to být nemožné i pro mě? praví Hospodin zástupů.</verse>
+        <verse osisID='Zech.8.7'>Tak praví Hospodin zástupů: Hle, zachráním svůj lid ze země na východě i ze země, kde zapadá slunce.</verse>
+        <verse osisID='Zech.8.8'>Přivedu je zpět a budou bydlet v Jeruzalémě; budou mým lidem a já budu jejich Bohem věrně a spravedlivě.</verse>
+        <verse osisID='Zech.8.9'>Tak praví Hospodin zástupů: Vzchopte se, ať je chrám dostavěn - vy, kdo v těchto dnech slyšíte tato slova z úst proroků, a to už ode dne, kdy byly položeny základy domu Hospodina zástupů.</verse>
+        <verse osisID='Zech.8.10'>Ano, lidé i zvířata dosud pracovali bez odměny a kvůli nepřátelům nemohl nikdo v klidu přicházet ani odcházet, neboť jsem posílal všechny proti všem.</verse>
+        <verse osisID='Zech.8.11'>Teď už ale nebudu s pozůstatkem tohoto lidu nakládat tak jako dříve, praví Hospodin zástupů.</verse>
+        <verse osisID='Zech.8.12'>Setbě se bude dařit, réva vydá své ovoce, země vydá úrodu a nebe vydá rosu. To všechno dám pozůstatku tohoto lidu za dědictví.</verse>
+        <verse osisID='Zech.8.13'>Jako jste byli mezi národy kletbou, dome judský a dome izraelský, tak také budete požehnáním, až vás zachráním. Nebojte se a vzchopte se!</verse>
+        <verse osisID='Zech.8.14'>Tak praví Hospodin zástupů: Jako jsem se rozhodl naložit s vámi zle, když mě vaši otcové rozhněvali, a neslitoval jsem se, praví Hospodin zástupů,</verse>
+        <verse osisID='Zech.8.15'>právě tak jsem v těchto dnech rozhodnut zahrnout Jeruzalém a dům Judy dobrem. Nebojte se.</verse>
+        <verse osisID='Zech.8.16'>Toto dělejte: Mluvte mezi sebou pravdu a ve svých branách vynášejte soud pravdy a pokoje.</verse>
+        <verse osisID='Zech.8.17'>Nikdo nevymýšlejte, jak ublížit svým bližním, a nelibujte si v křivé přísaze. To všechno totiž nenávidím, praví Hospodin."</verse>
+        <verse osisID='Zech.8.18'>Dostal jsem slovo Hospodina zástupů:</verse>
+        <verse osisID='Zech.8.19'>"Tak praví Hospodin zástupů: Půst ve čtvrtém, pátém, sedmém i desátém měsíci se pro dům Judy stanou šťastnými slavnostmi radosti a veselí. Jen ale milujte pravdu a pokoj!</verse>
+        <verse osisID='Zech.8.20'>Tak praví Hospodin zástupů: Ještě sem budou přicházet národy a obyvatelé mnoha měst.</verse>
+        <verse osisID='Zech.8.21'>Z jednoho města půjdou k druhému se slovy: ‚Pojďme prosit Hospodina o přízeň, pojďme hledat Hospodina zástupů! I já půjdu!'</verse>
+        <verse osisID='Zech.8.22'>Tak budou přicházet veliké kmeny a mocné národy, aby v Jeruzalémě hledaly Hospodina zástupů a prosily Hospodina o přízeň.</verse>
+        <verse osisID='Zech.8.23'>Tak praví Hospodin zástupů: V těch dnech se deset mužů mluvících jazyky všelijakých národů chytí cípu roucha jednoho Žida se slovy: ‚Půjdeme s vámi. Slyšeli jsme, že s vámi je Bůh!'"</verse>
+      </chapter>
+      <chapter osisID='Zech.9'>
+        <verse osisID='Zech.9.1'>Ortel: Slovo Hospodinovo jde proti zemi Chadraku a spočine až v Damašku. (Vždyť k Hospodinu hledí všichni lidé i všechny kmeny Izraele!)</verse>
+        <verse osisID='Zech.9.2'>Přijde i k Chamátu při jeho hranicích i k Týru a Sidonu, ač jsou tak prohnaní:</verse>
+        <verse osisID='Zech.9.3'>Týr už se opevnil jako monastýr, stříbra nakupil jak prachu hromady a zlata jak bláta v ulicích.</verse>
+        <verse osisID='Zech.9.4'>Hle! Panovník ho však vyžene, jeho hradby strhne do moře a město zmizí v plamenech!</verse>
+        <verse osisID='Zech.9.5'>Spatří to Aškelon, zděsí se, Gaza se strachy roztřese a Ekron zklame jeho naděje. Gaza pak přijde o krále, Aškelon bude vylidněn,</verse>
+        <verse osisID='Zech.9.6'>v Ašdodu budou bydlet bastardi a s pýchou Filištínů skoncuji:</verse>
+        <verse osisID='Zech.9.7'>Vyrvu jim krvavé sousto z úst, ohavný pokrm ze zubů! Kdo z nich zůstanou, připadnou našemu Bohu a stanou se jedním z judských rodů; Ekron pak čeká osud Jebusejců.</verse>
+        <verse osisID='Zech.9.8'>Utábořím se při svém domě jako stráž proti těm, kdo by jej chtěli napadat. Po mém lidu už nebude šlapat tyran - teď už z nich nespustím svůj zrak!</verse>
+        <verse osisID='Zech.9.9'>Jásej vesele, Dcero sionská, dej se do zpěvu, Dcero jeruzalémská! Hle, tvůj král k tobě přichází, spravedlivý a vítězný; pokorný, sedící na oslu, na oslíku, osličím hříbátku.</verse>
+        <verse osisID='Zech.9.10'>Odstraní vozy z Efraima i koně z Jeruzaléma, válečné luky odstraní, národům řekne: Mír! Od moře k moři bude panovat, od řeky Eufrat po světa kraj.</verse>
+        <verse osisID='Zech.9.11'>Pro krev mé smlouvy s tebou propustím tvé vězně z jámy bez vody.</verse>
+        <verse osisID='Zech.9.12'>Zpátky do bezpečí! Vězňové, máte naději! Dnes oznamuji: Všechno ti dvakrát nahradím!</verse>
+        <verse osisID='Zech.9.13'>Já napnu Judu jako luk, Efraima vložím na tětivu a tvými syny, Sione, se proti Řekům oženu - budeš mi mečem hrdinů!</verse>
+        <verse osisID='Zech.9.14'>Hospodin se zjeví nad nimi a jako blesk vyrazí jeho šíp. Panovník Hospodin zatroubí na polnici a vyrazí v jižní vichřici.</verse>
+        <verse osisID='Zech.9.15'>Hospodin zástupů jim bude záštitou, takže kamení z praku podupou. Budou jíst a pít a hlučet jak po víně, budou plní jak miska ke skrápění rohů oltáře.</verse>
+        <verse osisID='Zech.9.16'>Hospodin, jejich Bůh, zachrání v onen den svůj lid jak stádo ovcí. Jak drahokamy v čelence pak zazáří v jeho zemi.</verse>
+        <verse osisID='Zech.9.17'>Jaká krása! Jaká nádhera! Mládenci jako klasy plní sil, panny jak víno kypící!</verse>
+      </chapter>
+      <chapter osisID='Zech.10'>
+        <verse osisID='Zech.10.1'>Žádejte od Hospodina déšť, když má na jaře pršet. Hospodin působí hojnou průtrž mračen, každému na poli zeleň dopřeje.</verse>
+        <verse osisID='Zech.10.2'>Bůžkové mluví bludy a věštci vidí lži; vykládají své marné sny a potěšují přeludy. Proto lid bloudí jako ovce, zubožení, bez pastýře.</verse>
+        <verse osisID='Zech.10.3'>Proti těm pastýřům hněvem hořím, s těmi vůdci teď zúčtuji! Ano, Hospodin zástupů své stádo navštíví a z domu Judy učiní slavného koně do války.</verse>
+        <verse osisID='Zech.10.4'>Z něj vzejde kámen úhelný, z něj stanový kolík, z něj bude luk do bitvy, z něj všichni vladaři.</verse>
+        <verse osisID='Zech.10.5'>Budou z nich mocní bojovníci, rozdupou nepřátele jak bláto v ulicích. Budou se bít, neboť Hospodin bude s nimi a zahanbí jezdce na koních.</verse>
+        <verse osisID='Zech.10.6'>Dům Judy učiním mocným a dům Josefův zachráním. Přivedu je zpět, vždyť je lituji, a budou, jako bych je nebyl zapudil. Jsem přece jejich Bůh, Hospodin - já je vyslyším.</verse>
+        <verse osisID='Zech.10.7'>Efraimci budou jak mocní bojovníci, jako po vínu se rozjaří. Až to spatří jejich děti, budou se veselit, před Hospodinem budou jásat radostí.</verse>
+        <verse osisID='Zech.10.8'>Hvízdnu na ně, a tak je shromáždím, protože jsem je vykoupil; bude jich zase tolik jako dřív!</verse>
+        <verse osisID='Zech.10.9'>Rozptýlil jsem je mezi národy, v té dálce však na mě znovu pomyslí; přežijí i se svými dětmi a znovu se sem navrátí.</verse>
+        <verse osisID='Zech.10.10'>Z egyptské země je vrátím zpět, z Asýrie je shromáždím zpět do Gileádu a libanonského kraje, ale ani to jim nepostačí.</verse>
+        <verse osisID='Zech.10.11'>Budou procházet mořem soužení, mořské vlny však budou sraženy; vyschne i Nil a jeho hlubiny! Pýcha Asýrie bude svržena, žezlo Egypta to tam!</verse>
+        <verse osisID='Zech.10.12'>Učiním je mocnými v Hospodinu a budou kráčet v jeho jménu, praví Hospodin.</verse>
+      </chapter>
+      <chapter osisID='Zech.11'>
+        <verse osisID='Zech.11.1'>Své brány, Libanone, otevři - tvé cedry oheň pohltí!</verse>
+        <verse osisID='Zech.11.2'>Kvílejte, cypřiše - cedry padly, velikáni jsou zničeni! Kvílejte, duby bášanské - ten hustý les je vykácen!</verse>
+        <verse osisID='Zech.11.3'>Slyš, to kvílejí pastýři - jejich skvělé louky zničeny! Slyš, to řvou mladí lvi - jordánské houštiny zničeny!</verse>
+        <verse osisID='Zech.11.4'>Toto mi řekl Hospodin, můj Bůh: "Pas ovce určené na porážku.</verse>
+        <verse osisID='Zech.11.5'>Ti, kdo je kupují, je zabíjejí bez výčitek svědomí. Ti, kdo je prodávají, říkají: ‚Sláva Hospodinu, to jsem bohatý!' Jejich vlastní pastýři je nešetří.</verse>
+        <verse osisID='Zech.11.6'>Proto ani já už nebudu šetřit obyvatele této země, praví Hospodin. Hle, vydám lidi napospas jejich bližním a napospas jejich králi. Rozbijí tu zemi na kusy, ale já je nevysvobodím."</verse>
+        <verse osisID='Zech.11.7'>Pásl jsem tedy ovce určené na porážku pro ty, kdo s nimi kupčili. Vzal jsem si dvě hole; jednu jsem nazval Náklonnost a druhou Jednota. Začal jsem pást ty ovce</verse>
+        <verse osisID='Zech.11.8'>a za jediný měsíc jsem vyhnal tři pastýře. Pak mi ale s nimi došla trpělivost a také ovce už mě měly dost.</verse>
+        <verse osisID='Zech.11.9'>Proto jsem řekl: "Nebudu vás pást. Co je na umření, ať umře; co se ztratilo, ať je ztraceno; a ty zbývající ať se spolu třeba požerou!"</verse>
+        <verse osisID='Zech.11.10'>Vzal jsem hůl jménem Náklonnost a zlámal ji, abych zrušil smlouvu, kterou jsem uzavřel se všemi národy.</verse>
+        <verse osisID='Zech.11.11'>Toho dne byla zrušena. Obchodníci s ovcemi, kteří mě pozorovali, tehdy poznali, že to je slovo od Hospodina.</verse>
+        <verse osisID='Zech.11.12'>Řekl jsem jim: "Jestli chcete, vyplaťte mi mzdu. A jestli ne, nevadí." Vyplatili mi tedy mzdu - třicet stříbrných.</verse>
+        <verse osisID='Zech.11.13'>Tehdy mi Hospodin řekl: "Hoď to hrnčířovi - tu úžasnou cenu, kterou mě ocenili!" Vzal jsem tedy těch třicet stříbrných a hodil je hrnčířovi u Hospodinova chrámu.</verse>
+        <verse osisID='Zech.11.14'>Potom jsem zlámal druhou hůl jménem Jednota, abych zrušil bratrství mezi Judou a Izraelem.</verse>
+        <verse osisID='Zech.11.15'>Tehdy mi Hospodin řekl: "Převlékni se ještě za ztřeštěného pastýře.</verse>
+        <verse osisID='Zech.11.16'>Hle, vzbudím totiž v zemi pastýře, který se nebude starat o ztracené, nebude hledat maličké, nebude hojit zraněné, ba ani zdravé krmit nebude. Ty vypasené však bude jíst; bude je rvát i s kopýtky.</verse>
+        <verse osisID='Zech.11.17'>Běda mému ničemnému pastýři, který opouští stádo! Meč na jeho paži, na jeho pravé oko! Ať mu ta paže úplně ochrne, ať mu to pravé oko oslepne!"</verse>
+      </chapter>
+      <chapter osisID='Zech.12'>
+        <verse osisID='Zech.12.1'>Ortel slova Hospodinova nad Izraelem. Hospodin, který prostírá nebesa, zakladatel země a tvůrce ducha v lidském nitru, praví:</verse>
+        <verse osisID='Zech.12.2'>Hle - učiním Jeruzalém číší, po níž se zapotácejí všechny národy v okolí. Jeruzalém totiž bude obléhán a stejně tak i Juda.</verse>
+        <verse osisID='Zech.12.3'>V onen den učiním Jeruzalém přetěžkým balvanem pro všechny národy. Všichni, kdo se jej budou snažit vzepřít, se těžce poraní. Proti Jeruzalému se totiž shromáždí všechny světové národy.</verse>
+        <verse osisID='Zech.12.4'>V onen den, praví Hospodin, raním každého koně tak, že se splaší, a jezdce na něm tak, že zešílí. S otevřenýma očima budu bdít nad domem Judy, ale všechny koně národů oslepím.</verse>
+        <verse osisID='Zech.12.5'>Vůdcové Judy si tehdy v srdci pomyslí: "Obyvatelé Jeruzaléma mají sílu v Hospodinu zástupů, svém Bohu!"</verse>
+        <verse osisID='Zech.12.6'>V onen den učiním vůdce Judy pánví s uhlíky mezi dřívím a hořící pochodní mezi snopy. Budou hltat vpravo vlevo všechny národy v okolí, ale Jeruzalém zůstane na svém místě netknutý.</verse>
+        <verse osisID='Zech.12.7'>Hospodin ovšem zachrání nejprve judské příbytky, aby sláva domu Davidova a sláva obyvatel Jeruzaléma nepřevýšila slávu Judy.</verse>
+        <verse osisID='Zech.12.8'>V onen den Hospodin zaštítí obyvatele Jeruzaléma, takže nejslabší mezi nimi bude v onen den jako David a dům Davidův bude jako Bůh, jako anděl Hospodinův jdoucí před nimi.</verse>
+        <verse osisID='Zech.12.9'>V onen den budu chtít zničit všechny národy, které přitáhly proti Jeruzalému.</verse>
+        <verse osisID='Zech.12.10'>Na dům Davidův a na obyvatele Jeruzaléma ale vyliji Ducha milosti a modliteb a tehdy pohlédnou na mě, jehož probodli. Budou ho oplakávat, jako se oplakává jediný syn; budou nad ním hořce truchlit, jako když umře prvorozený.</verse>
+        <verse osisID='Zech.12.11'>V onen den se Jeruzalémem bude rozléhat veliký pláč, jako byl pláč v Hadad-rimonu na pláni u Megida.</verse>
+        <verse osisID='Zech.12.12'>Země bude oplakávat rod za rodem, každý rod zvlášť: rod domu Davidova zvlášť a jejich ženy zvlášť; rod Nátanova domu zvlášť a jejich ženy zvlášť;</verse>
+        <verse osisID='Zech.12.13'>rod domu Levi zvlášť a jejich ženy zvlášť; rod domu Šimei zvlášť a jejich ženy zvlášť</verse>
+        <verse osisID='Zech.12.14'>i všechny ostatní rody každý zvlášť a jejich ženy zvlášť.</verse>
+      </chapter>
+      <chapter osisID='Zech.13'>
+        <verse osisID='Zech.13.1'>V onen den vytryskne domu Davidovu a obyvatelům Jeruzaléma pramen k omytí hříchu a nečistot.</verse>
+        <verse osisID='Zech.13.2'>V onen den, praví Hospodin zástupů, odstraním ze země jména model, takže si na ně už nikdo nevzpomene; odstraním ze země také proroky a ducha nečistoty.</verse>
+        <verse osisID='Zech.13.3'>A kdyby pak ještě někdo prorokoval, řekne mu jeho otec i matka, jeho vlastní rodiče: "Teď zemřeš, protože jsi v Hospodinově jménu lhal!" A vlastní rodiče, jeho otec s matkou, ho probodnou, protože prorokoval.</verse>
+        <verse osisID='Zech.13.4'>V onen den se proroci budou stydět každý za své prorocké vidění. Aby druhé oklamali, přestanou nosit pláště z kožešiny.</verse>
+        <verse osisID='Zech.13.5'>"Nejsem prorok," řekne takový, "jsem rolník. Od mládí obdělávám zemi jako nevolník."</verse>
+        <verse osisID='Zech.13.6'>A když se někdo zeptá: "A co ty jizvy, co máš na hrudi?" odpoví: "To mě zbili doma ti, kdo mě milují!"</verse>
+        <verse osisID='Zech.13.7'>Vzhůru, meči, na mého pastýře, na mého blízkého přítele! praví Hospodin zástupů. Bij pastýře, ať se stádo rozprchne! Obrátím svou ruku na ty maličké!</verse>
+        <verse osisID='Zech.13.8'>V celé zemi, praví Hospodin, budou dvě třetiny vyhlazeny a pomřou, takže v ní zůstane jen třetina.</verse>
+        <verse osisID='Zech.13.9'>I tu třetinu ale zavedu do ohně. Přetavím je, jako se taví stříbro, protříbím je, jako se tříbí zlato. Budou vzývat mé jméno a já je vyslyším. Řeknu: "To je můj lid!" a oni odpoví: "Náš Bůh je Hospodin!"</verse>
+      </chapter>
+      <chapter osisID='Zech.14'>
+        <verse osisID='Zech.14.1'>Hle, přichází Hospodinův den! Tvůj majetek padne za kořist přímo ve tvých zdech.</verse>
+        <verse osisID='Zech.14.2'>Shromáždím totiž všechny národy, aby napadly Jeruzalém. Město bude dobyto, domy vypleněny, ženy znásilněny. Polovina města půjde do vyhnanství, zbytek lidu ale zůstane ve městě.</verse>
+        <verse osisID='Zech.14.3'>Tehdy Hospodin vytáhne a bude bojovat s těmi národy - tak, jak on bojuje v den bitvy!</verse>
+        <verse osisID='Zech.14.4'>V onen den stanou jeho nohy na Olivetské hoře, ležící východně před Jeruzalémem. Olivetská hora se tehdy rozdělí vedví, takže od východu na západ vznikne širé údolí; polovina hory ustoupí na sever a polovina na jih.</verse>
+        <verse osisID='Zech.14.5'>Tímto mým horským údolím budete moci utéci, neboť se potáhne až k Acalu. Budete utíkat, jako jste utíkali před zemětřesením za dnů judského krále Uziáše. A tehdy přijde Hospodin, můj Bůh, a všichni svatí s ním.</verse>
+        <verse osisID='Zech.14.6'>V onen den nebude horko ani chladná tma.</verse>
+        <verse osisID='Zech.14.7'>Bude to nebývalý den - jen Hospodin ho zná - kdy zmizí rozdíl mezi dnem a nocí, takže bude světlo i v čas večera.</verse>
+        <verse osisID='Zech.14.8'>V onen den potečou z Jeruzaléma živé vody, polovina k Mrtvému moři na východě a polovina ke Středozemnímu moři na západě. Potečou v létě tak jako v zimě.</verse>
+        <verse osisID='Zech.14.9'>A Hospodin bude králem vší země. V onen den bude Hospodin jediný a jeho jméno jediné.</verse>
+        <verse osisID='Zech.14.10'>Celý kraj od Geby na severu až po Rimon jižně od Jeruzaléma se změní v pustou pláň. Jeruzalém však zůstane nepohnutelně stát a bude se tyčit od Benjamínské brány až tam, kde stávala stará brána, k bráně Nárožní a od věže Chananel až po Královské lisy.</verse>
+        <verse osisID='Zech.14.11'>Jeruzalém bude obydlen a už nikdy nepropadne klatbě; bude se v něm bydlet bezpečně.</verse>
+        <verse osisID='Zech.14.12'>A toto je rána, kterou Hospodin raní všechny národy, které bojovaly proti Jeruzalému: Maso jim shnije vestoje, oči jim shnijí v lebce a jazyk jim shnije v ústech!</verse>
+        <verse osisID='Zech.14.13'>V onen den mezi ně Hospodin pošle hrozný zmatek; jeden druhého chytí za ruce a obrátí ruce proti sobě navzájem.</verse>
+        <verse osisID='Zech.14.14'>(Také Juda bude bojovat v Jeruzalémě. Nashromáždí se bohatství všech národů v okolí, zlato, stříbro a šaty v nepřeberném množství.)</verse>
+        <verse osisID='Zech.14.15'>Stejná rána postihne i koně, mezky, velbloudy, osly i všechen dobytek v jejich táborech.</verse>
+        <verse osisID='Zech.14.16'>Všichni, kdo pozůstanou ze všech těch národů, které přitáhly proti Jeruzalému, pak budou každoročně putovat, aby se klaněli Králi, Hospodinu zástupů, a slavili Svátek stánků.</verse>
+        <verse osisID='Zech.14.17'>Pokud některý lid země nepůjde do Jeruzaléma klanět se Králi, Hospodinu zástupů, nedostane se jim déšť.</verse>
+        <verse osisID='Zech.14.18'>A když se na tu pouť nevydá lid Egypta, nebude pršet ani na ně. Takovou ranou Hospodin raní národy, které by neputovaly slavit Svátek stánků.</verse>
+        <verse osisID='Zech.14.19'>Takový bude trest Egypta a trest všech národů, které by neputovaly slavit Svátek stánků.</verse>
+        <verse osisID='Zech.14.20'>V onen den bude na koňských zvoncích nápis: SVATÝ HOSPODINU. Hrnce v Hospodinově chrámu budou stejně svaté jako obětní mísy před oltářem.</verse>
+        <verse osisID='Zech.14.21'>Právě tak i každý hrnec v Jeruzalémě a Judsku bude svatý Hospodinu zástupů. Všichni obětující budou přicházet, brát si je a vařit v nich. V onen den už nebude v chrámu Hospodina zástupů nikdo kupčit!</verse>
+      </chapter>
+    </div></osisText>
+</osis>

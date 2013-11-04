@@ -1,0 +1,1182 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace'>
+  <osisText osisIDWork='NorthernAzeri' osisRefWork='Bible' xml:lang='az'>
+    <header>
+      <revisionDesc>
+        <date>2012-01-07</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='NorthernAzeri'>
+        <title>Northern Azeri Translation</title>
+        <contributor/>
+        <creator>Mod2Zef (6)</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject/>
+        <date>2012-01-07</date>
+        <description>Northern Azeri Translation</description>
+        <publisher/>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>NorthernAzeri</identifier>
+        <source>no entry TextSource in sword.conf found</source>
+        <language type='IETF'>az</language>
+        <relation/>
+        <coverage>provide the bible to the nations of the world</coverage>
+        <rights>Copyrighted Kutsul Kitab; Permission to distribute granted to CrossWire</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='Acts'>
+      <chapter osisID='Acts.1'>
+        <verse osisID='Acts.1.1'>
+           Ey Teofil, birinci yazılarım İsanın göyə qaldırıldığı günədək başladığı işlər və öyrətməyə başladığı tam təlim barəsindədir.</verse>
+        <verse osisID='Acts.1.2'>Göyə qaldırılmazdan əvvəl İsa seçdiyi həvarilərə Müqəddəs Ruh vasitəsilə əmrlər verdi.</verse>
+        <verse osisID='Acts.1.3'>Ölüm əzabını çəkəndən sonra həvarilərə çoxlu inandırıcı dəlillərlə Özünü diri olaraq göstərdi. O, qırx gün ərzində onlara görünərək Allahın Padşahlığı barədə danışırdı.</verse>
+        <verse osisID='Acts.1.4'>İsa onlarla duz-çörək kəsəndə bu əmri verdi: «Yerusəlimdən kənara çıxmayın, Atanın verdiyi, Məndən eşitdiyiniz vədin həyata keçməsini gözləyin.</verse>
+        <verse osisID='Acts.1.5'>Belə ki Yəhya su ilə vəftiz edirdi, amma siz bir neçə gündən sonra Müqəddəs Ruhla vəftiz olacaqsınız». </verse>
+        <verse osisID='Acts.1.6'>Həvarilər bir yerə toplaşanda İsadan soruşdular: «Ya Rəbb, İsraildə Padşahlığı indimi bərpa edəcəksən?»</verse>
+        <verse osisID='Acts.1.7'>İsa cavab verdi: «Atanın hökmü ilə təyin olunan vaxtları və tarixləri bilmək sizin işiniz deyil.</verse>
+        <verse osisID='Acts.1.8'>Amma Müqəddəs Ruh üzərinizə enəndə siz qüvvə alacaqsınız və Yerusəlimdə, bütün Yəhudeya və Samariyada, həmçinin yer üzünün qurtaracağınadək hər yerdə Mənim şahidlərim olacaqsınız».</verse>
+        <verse osisID='Acts.1.9'>İsa bunları deyəndən sonra həvarilərin gözləri qarşısında yuxarı qaldırıldı. Bir bulud İsanı götürüb onlardan gizlədi.</verse>
+        <verse osisID='Acts.1.10'>İsa göyə qalxanda onlar səmaya baxırdılar. Elə həmin an ağ libaslı iki kişi onların yanında peyda olub</verse>
+        <verse osisID='Acts.1.11'>soruşdu: «Ey Qalileyalılar, niyə səmaya baxa-baxa qalmısınız? Aranızdan götürülüb göyə qaldırılan İsanın aparıldığını necə gördünüzsə, elə də qayıdacaq». </verse>
+        <verse osisID='Acts.1.12'>Bundan sonra həvarilər Zeytun dağı adlanan yerdən Yerusəlimə endilər. Bu dağ Yerusəlimin yaxınlığındadır, oraya olan məsafə Şənbə yolu qədərdir.</verse>
+        <verse osisID='Acts.1.13'>Onlar şəhərə girib qaldıqları evin yuxarı otağına çıxdılar. Oradakılar bunlar idi: Peter, Yəhya, Yaqub, Andrey, Filip, Tomas, Bartalmay, Matta, Halfay oğlu Yaqub, Millətçi Şimon və Yaqub oğlu Yəhuda.</verse>
+        <verse osisID='Acts.1.14'>İsanın anası Məryəmlə qardaşları və başqa qadınlar da həvarilərlə birlikdə dayanmadan dua edirdilər. </verse>
+        <verse osisID='Acts.1.15'>Həmin günlərdə təxminən yüz iyirmi bacı-qardaşdan ibarət olan toplantı arasından Peter qalxıb dedi:</verse>
+        <verse osisID='Acts.1.16'>«Qardaşlar, İsanı tutanlara yol göstərən Yəhuda haqqında Müqəddəs Ruhun Davudun dili ilə əvvəlcədən dediyi Müqəddəs Yazı sözləri yerinə yetməlidir.</verse>
+        <verse osisID='Acts.1.17'>Yəhuda bizə qoşuldu, bu xidmətdən ona da pay düşdü.</verse>
+        <verse osisID='Acts.1.18'>Bu adam etdiyi haqsızlığın haqqına bir tarla satın aldı, sonra da oradan kəlləmayallaq aşıb qarnı yırtıldı və bağırsaqları töküldü.</verse>
+        <verse osisID='Acts.1.19'>Bütün Yerusəlim əhalisi bunu eşitdi və o yeri öz dillərində “Haqal-Dema”, yəni “Qan tarlası” adlandırdı.</verse>
+        <verse osisID='Acts.1.20'>Axı Zəbur kitabında yazılıb:  “Məskəni viran olsun,Kimsəsiz, boş qalsın”  və  “Vəzifəsini başqası tutsun”.</verse>
+        <verse osisID='Acts.1.21'>Buna görə də Rəbb İsanın aramıza gəlib-getdiyi müddət ərzində, yəni Yəhyanın vəftizindən başlayaraq Rəbb İsanın göyə qaldırıldığı günə qədər yanımızdakılardan bir kişi Onun dirilməsinə bizimlə birgə şahid olmalıdır».</verse>
+        <verse osisID='Acts.1.22'>Buna görə də Rəbb İsanın aramıza gəlib-getdiyi müddət ərzində, yəni Yəhyanın vəftizindən başlayaraq Rəbb İsanın göyə qaldırıldığı günə qədər yanımızdakılardan bir kişi Onun dirilməsinə bizimlə birgə şahid olmalıdır».</verse>
+        <verse osisID='Acts.1.23'>Beləliklə, iki nəfəri – Barsabba çağırılan, həm də Yust adlanan Yusifi və Mattiyanı namizəd göstərdilər.</verse>
+        <verse osisID='Acts.1.24'>Sonra dua etdilər: «Ya Rəbb, Sən hamının ürəyindən xəbərdarsan. Bu iki nəfərdən birini seçib bizə göstər ki,</verse>
+        <verse osisID='Acts.1.25'>qoy onlardan biri bu xidmətə – həvari vəzifəsinə keçsin. Çünki Yəhuda öz yerini tutsun deyə bu işi atdı».</verse>
+        <verse osisID='Acts.1.26'>Sonra püşk atdılar. Püşk Mattiyaya düşdü və o, həvari sırasına – on bir nəfərin yanına keçdi.  </verse>
+      </chapter>
+      <chapter osisID='Acts.2'>
+        <verse osisID='Acts.2.1'>
+           Əllinci Gün bayramı zamanı onların hamısı bir yerə yığılmışdı.</verse>
+        <verse osisID='Acts.2.2'>Birdən güclü külək uğultusu kimi göydən bir səs gəlib onlar oturan evin hər tərəfini bürüdü.</verse>
+        <verse osisID='Acts.2.3'>Onlara göründü ki, nə isə alov kimi dillərə parçalanaraq hər birinin üstünə düşür.</verse>
+        <verse osisID='Acts.2.4'>Onların hamısı Müqəddəs Ruhla doldu və Ruhun danışdırdığına görə başqa dillərdə danışmağa başladılar. </verse>
+        <verse osisID='Acts.2.5'>Bu vaxt səma altında mövcud olan bütün millətlər arasından gələn mömin Yəhudilər Yerusəlimdə yaşayırdılar.</verse>
+        <verse osisID='Acts.2.6'>Bu səs gələndə orada böyük izdiham toplandı. Hamı öz dilində danışıldığını eşidəndə çaş-baş qaldı.</verse>
+        <verse osisID='Acts.2.7'>Mat qalaraq heyrət içində dedilər: «Bu danışanların hamısı Qalileyalı deyilmi?</verse>
+        <verse osisID='Acts.2.8'>Bəs necə olur ki, biz hamımız öz ana dilimizi eşidirik?</verse>
+        <verse osisID='Acts.2.9'>Biz Parfiyalılar, Midiyalılar, Elamlılar, Mesopotamiyada, Yəhudeyada, Kappadokiyada, Pontda və Asiya vilayətində,</verse>
+        <verse osisID='Acts.2.10'>Frigiyada, Pamfiliyada, Misirdə və Liviyanın Kirenaya yaxın bölgələrində yaşayanlar, Romada yaşayan</verse>
+        <verse osisID='Acts.2.11'>Yəhudilər və Yəhudi dinini qəbul edənlər, Kritlilər, Ərəblər eşidirik ki, onlar bizim dilimizdə Allahın əzəmətli işlərindən danışır».</verse>
+        <verse osisID='Acts.2.12'>Hamı mat qalıb çaşqınlıq içində bir-birindən soruşurdu: «Bu nədir?»</verse>
+        <verse osisID='Acts.2.13'>Bəziləri də rişxəndlə deyirdi: «Bunlar şirin şərabdan sərxoş olublar». </verse>
+        <verse osisID='Acts.2.14'>Peter On Bir həvari ilə bərabər irəli çıxdı və izdihama ucadan nida etdi: «Ey Yəhudilər və Yerusəlimin bütün sakinləri, sizə bildirirəm, sözlərimə qulaq asın.</verse>
+        <verse osisID='Acts.2.15'>Bu adamlar fikirləşdiyiniz kimi sərxoş deyil. Hələ günün üçüncü saatıdır.</verse>
+        <verse osisID='Acts.2.16'>Bu gördükləriniz Yoel peyğəmbər vasitəsilə əvvəlcədən deyilən hadisədir.</verse>
+        <verse osisID='Acts.2.17'>Allah dedi ki, axır zamanda  “Bütün bəşər üzərinə Ruhumdan tökəcəyəm.Oğullarınız və qızlarınız peyğəmbərlik edəcək,Cavanlarınız görüntülər,Ağsaqqallarınızsa röyalar görəcək.</verse>
+        <verse osisID='Acts.2.18'>O günlərdə qul və qarabaşların üzərinə dəRuhumdan tökəcəyəm,Onlar da peyğəmbərlik edəcək.</verse>
+        <verse osisID='Acts.2.19'>Yuxarıda – göylərdə xariqələr,Aşağıda – yerdə əlamətlər göstərəcəyəm:Qan, alov və tüstü buxarları görünəcək.</verse>
+        <verse osisID='Acts.2.20'>Rəbbin möhtəşəm və əzəmətli günü gəlməzdən əvvəlGünəş qaranlığa və ay qan rənginə dönəcək.</verse>
+        <verse osisID='Acts.2.21'>Rəbbin adını çağıran hər kəs xilas olacaq”. </verse>
+        <verse osisID='Acts.2.22'>Ey İsraillilər, bu sözlərimə qulaq asın! Bildiyiniz kimi Allahın aranızda Nazaretli İsa vasitəsilə yaratdığı möcüzələr, xariqələr və əlamətlər aydın göstərdi ki, O, Allahdan gələn Şəxsdir.</verse>
+        <verse osisID='Acts.2.23'>Allahın əzəldən bilib müəyyən etdiyi məqsədə uyğun olaraq siz bu Şəxsi qanunsuzlara təslim edib onların əli ilə çarmıxa mıxlatdıraraq öldürdünüz.</verse>
+        <verse osisID='Acts.2.24'>Allah isə ölüm əzablarını kəsərək Onu diriltdi. Çünki Onu ölüm tutub saxlaya bilməzdi.</verse>
+        <verse osisID='Acts.2.25'>Davud da Onun barəsində demişdi:  “Rəbbə əbədilik üz tutmuşam,Sağımda olduğu üçün sarsılmaram.</verse>
+        <verse osisID='Acts.2.26'>Elə bunun üçün qəlbim sevinir, dilim şad olur,Cismim belə, ümidlə yaşayır.</verse>
+        <verse osisID='Acts.2.27'>Çünki məni ölülər diyarına atmazsan,Mömin insanını çürüməyə qoymazsan.</verse>
+        <verse osisID='Acts.2.28'>Mənə həyat yolunu öyrədirsən,Hüzurunda mənə doyunca sevinc verirsən”. </verse>
+        <verse osisID='Acts.2.29'>Qardaşlar, sizə cəsarətlə deməliyəm ki, doğrudan da, ulu babamız Davud ölüb və dəfn olunub. Onun qəbri bu günə qədər buradadır.</verse>
+        <verse osisID='Acts.2.30'>Davud peyğəmbər idi və öz nəslindən bir Nəfəri onun taxtına çıxarmaq üçün Allahın and içərək Davuda vəd etdiyini bilirdi.</verse>
+        <verse osisID='Acts.2.31'>Ona görə Məsihin dirilməsini əvvəlcədən görüb barəsində demişdi ki, Allah  Onu ölülər diyarına atmaz,Cismini çürüməyə qoymaz.</verse>
+        <verse osisID='Acts.2.32'>Allah bu İsanı ölümdən diriltdi və hamımız buna şahid olduq.</verse>
+        <verse osisID='Acts.2.33'>Allah Onu ucaltdı və sağ əlində oturtdu. O, vəd edilən Müqəddəs Ruhu Atadan götürüb sizin görüb-eşitdiyiniz kimi üstümüzə tökdü.</verse>
+        <verse osisID='Acts.2.34'>Davud özü göylərə qalxmadı, amma belə dedi:  “Rəbb mənim Ağama dedi:</verse>
+        <verse osisID='Acts.2.35'>‹Mən düşmənlərini ayaqlarının altına kətil kimi salanadəkSağımda otur›”.</verse>
+        <verse osisID='Acts.2.36'>Ona görə də qoy bütün İsrail xalqı möhkəm bilsin ki, Allah sizin çarmıxa çəkdiyiniz bu İsanı həm Rəbb, həm də Məsih təyin etmişdir». </verse>
+        <verse osisID='Acts.2.37'>Bu sözlər ona qulaq asanların ürəyinə ox kimi sancıldı. Onlar həm Peterdən, həm də o biri həvarilərdən soruşdular: «Qardaşlar, bəs biz nə edək?»</verse>
+        <verse osisID='Acts.2.38'>Peter onlara cavab verdi: «Tövbə edin, hamınız İsa Məsihin adı ilə vəftiz olun. Onda günahlarınız bağışlanacaq və bəxşiş olaraq Müqəddəs Ruhu alacaqsınız.</verse>
+        <verse osisID='Acts.2.39'>Çünki bu vəd siz, övladlarınız, uzaqdakıların hamısı – Allahımız Rəbbin çağırdığı hər kəs üçündür».</verse>
+        <verse osisID='Acts.2.40'>Peter başqa çox söz deyib onlara xəbərdarlıq etdi və yalvardı: «Bu əyri nəsildən xilas olun».</verse>
+        <verse osisID='Acts.2.41'>Onun sözünü qəbul edənlər vəftiz oldular. O gün üç min nəfərə yaxın insan imanlılara qoşuldu.</verse>
+        <verse osisID='Acts.2.42'>Onlar da özlərini həvarilərin təliminə, hər şeydə şərik olmağa, birgə çörək bölməyə və duaya həsr etdilər. </verse>
+        <verse osisID='Acts.2.43'>Bütün imanlıların ürəyinə qorxu düşdü. Həvarilər vasitəsilə çoxlu xariqələr və əlamətlər göstərilirdi.</verse>
+        <verse osisID='Acts.2.44'>İman edənlərin hamısı bir yerdə idi, bütün əmlaklarından da birgə istifadə edirdi.</verse>
+        <verse osisID='Acts.2.45'>Onlar mallarını, mülklərini satıb pulu hər kəsə ehtiyacına görə paylayırdılar;</verse>
+        <verse osisID='Acts.2.46'>hər gün məbədə yığılmaqda davam edir, evlərdə sevinə-sevinə, səmimi qəlbdən çörək bölüb yeyirdilər.</verse>
+        <verse osisID='Acts.2.47'>Onlar Allaha həmd edir və bütün xalq qarşısında lütf qazanırdılar. Rəbb isə hər gün insanları xilas edir və imanlılara qoşurdu.  </verse>
+      </chapter>
+      <chapter osisID='Acts.3'>
+        <verse osisID='Acts.3.1'>
+          Bir gün Peterlə Yəhya doqquzuncu saatda, dua vaxtı məbədə gedirdilər.</verse>
+        <verse osisID='Acts.3.2'>Bu zaman ayaqları anadangəlmə şikəst olan bir kişi məbədin Gözəl adlı qapısına gətirilirdi. Hər gün bu adamı ona görə oraya gətirərdilər ki, məbədə gəlib-gedənlərdən dilənərək nəzir alsın.</verse>
+        <verse osisID='Acts.3.3'>O, məbədə girən Peterlə Yəhyanı görüb onlardan nəzir istədi.</verse>
+        <verse osisID='Acts.3.4'>Peterlə Yəhya ona diqqətlə baxdı. Peter ona dedi: «Bizə bax».</verse>
+        <verse osisID='Acts.3.5'>Bu kişi onlardan nə isə umaraq gözlərini onların üzünə dikdi.</verse>
+        <verse osisID='Acts.3.6'>Peter ona dedi: «Nə qızılım, nə də gümüşüm var ki, sənə verim. Nəyim varsa, sənə onu verirəm. Nazaretli İsa Məsihin adı ilə qalx, gəz».</verse>
+        <verse osisID='Acts.3.7'>Sonra sağ əlindən tutub onu qaldırdı. Bu kişinin topuqları və ayaqları dərhal qüvvət aldı.</verse>
+        <verse osisID='Acts.3.8'>Atılaraq ayağa qalxdı və yeriməyə başladı. Qaçıb tullana-tullana, Allaha həmd edərək onlarla bərabər məbədə girdi.</verse>
+        <verse osisID='Acts.3.9'>Bütün xalq gördü ki, bu kişi yeriyir və Allaha həmd edir.</verse>
+        <verse osisID='Acts.3.10'>Onun məbədin Gözəl qapısında oturub dilənən kişi olduğunu tanıyanda hamı ondakı dəyişikliyə mat qalıb heyrətə düşdü. </verse>
+        <verse osisID='Acts.3.11'>Bu kişi Peterin və Yəhyanın əlindən yapışdı. Heyrətə düşən bütün xalq onlara tərəf, Süleymanın eyvanı adlanan yerə qaçdı.</verse>
+        <verse osisID='Acts.3.12'>Bunu görən Peter xalqa nida etdi: «Ey İsraillilər, burada heyrətamiz nə var ki? Niyə gözlərinizi bizə dikib baxırsınız? Elə bil biz öz qüvvəmizlə, öz möminliyimizlə bu kişinin yeriməsinə səbəb olmuşuq.</verse>
+        <verse osisID='Acts.3.13'>İbrahimin Allahı, İshaqın Allahı və Yaqubun Allahı, ata-babalarımızın Allahı Qulu İsanı izzətləndirib. Siz Onu sataraq Pilatın qarşısında rədd etdiniz. Pilat Onu azad etmək üçün qərar vermişdi,</verse>
+        <verse osisID='Acts.3.14'>amma siz Müqəddəs və Saleh Olanı rədd edib bir qatilin azad edilməsini istədiniz.</verse>
+        <verse osisID='Acts.3.15'>Siz Həyat Banisini öldürdünüz, amma Allah Onu ölülər arasından diriltdi. Biz bunun şahidləriyik.</verse>
+        <verse osisID='Acts.3.16'>Gördüyünüz və tanıdığınız bu kişi İsanın adı sayəsində, Onun adına olan imanla sağaldı. İsa vasitəsilə olan imanla bu kişi hamınızın gözü qarşısında tam şəfa tapdı. </verse>
+        <verse osisID='Acts.3.17'>İndi, ey qardaşlar, bilirəm ki, rəhbərləriniz kimi siz də bunu bilmədən etmisiniz.</verse>
+        <verse osisID='Acts.3.18'>Amma Allah peyğəmbərlərin dili ilə Öz Məsihinin əzab çəkməsi barədə əvvəlcədən bəyan etdiyini yerinə yetirdi.</verse>
+        <verse osisID='Acts.3.19'>Beləliklə, günahlarınız silinsin deyə tövbə edib Allaha tərəf dönün ki,</verse>
+        <verse osisID='Acts.3.20'>Rəbbin hüzurunda rahatlıq vaxtı tapasınız və O da sizin üçün əvvəlcədən təyin olunan Məsihi, yəni İsanı göndərsin.</verse>
+        <verse osisID='Acts.3.21'>Çünki Allahın qədimdən bəri müqəddəs peyğəmbərlərinin dili ilə məlum etdiyi kimi hər şeyin yenidən hazırlanacağı vaxtacan İsanın səmada qalması lazımdır.</verse>
+        <verse osisID='Acts.3.22'>Musa belə demişdi: “Allahınız Rəbb sizin üçün öz soydaşlarınız içərisindən mənim kimi bir peyğəmbər yetirəcək. Sizə nə söyləyəcəksə, ona qulaq asın”.</verse>
+        <verse osisID='Acts.3.23'>“Bu peyğəmbərə qulaq asmayan hər adam xalqı arasından ayrılıb məhv ediləcək”.</verse>
+        <verse osisID='Acts.3.24'>Şamueldən başlayaraq bütün peyğəmbərlər bu günləri elan etdilər.</verse>
+        <verse osisID='Acts.3.25'>Siz də peyğəmbərlərin varisləri, Allahın ata-babalarınızla kəsdiyi Əhdin varislərisiniz. Allah İbrahimə demişdi: “Yer üzünün bütün tayfaları sənin nəslin vasitəsilə xeyir-dua alacaq”.</verse>
+        <verse osisID='Acts.3.26'>Allah hər birinizi pis əməllərinizdən döndərmək və xeyir-dua vermək üçün Öz Qulunu dirildərək əvvəlcə sizin yanınıza göndərdi».  </verse>
+      </chapter>
+      <chapter osisID='Acts.4'>
+        <verse osisID='Acts.4.1'>
+          Kahinlər, məbəd mühafizəçilərinin başçısı və sadukeylər xalqa vəz edən Peterlə Yəhyanın üstünə getdilər.</verse>
+        <verse osisID='Acts.4.2'>Çünki bu həvarilərin xalqı öyrətməsinə, İsaya şamil edərək ölülər arasından dirilməni bəyan etməsinə qıcıqlandılar.</verse>
+        <verse osisID='Acts.4.3'>Onları tutdular və axşam olduğu üçün sabahkı günə qədər zindanda saxladılar.</verse>
+        <verse osisID='Acts.4.4'>Lakin onların sözünə qulaq asanlardan bir çoxu iman etdi. Beləliklə, iman edən kişilərin sayı beş minə qədər çatdı. </verse>
+        <verse osisID='Acts.4.5'>Ertəsi gün Yəhudilərin rəhbərləri, ağsaqqalları və ilahiyyatçıları Yerusəlimə toplaşdılar.</verse>
+        <verse osisID='Acts.4.6'>Baş kahin Xanan, Qayafa, Yəhya, İsgəndər və baş kahinin nəslindən olanların hamısı orada idi.</verse>
+        <verse osisID='Acts.4.7'>Peterlə Yəhyanı onların qarşısına gətirib soruşdular: «Siz bunu hansı qüvvə ilə, kimin adı ilə edirsiniz?»</verse>
+        <verse osisID='Acts.4.8'>O zaman Peter Müqəddəs Ruhla dolub dedi: «Ey xalqın rəhbərləri və ağsaqqalları!</verse>
+        <verse osisID='Acts.4.9'>Əgər bu gün biz bir xəstəyə etdiyimiz yaxşılığa və onun necə sağalmasına görə sorğu-suala çəkiliriksə,</verse>
+        <verse osisID='Acts.4.10'>hamınız, bütün İsrail xalqı bilsin ki, bu adam sizin çarmıxa çəkdiyiniz, lakin Allahın ölülər arasından diriltdiyi Nazaretli İsa Məsihin adı ilə qarşınızda sağlam durub.</verse>
+        <verse osisID='Acts.4.11'>Siz “bənnaların rədd etdiyi daş guşədaşı olan” həmin İsadır.</verse>
+        <verse osisID='Acts.4.12'>Ondan başqa heç kimdə xilas yoxdur. Çünki səma altında biz insanlara verilən başqa bir ad yoxdur ki, onun vasitəsilə xilas olaq». </verse>
+        <verse osisID='Acts.4.13'>Onlar Peter və Yəhyanın cəsarətini görəndə, onların savadsız, sadə insanlar olduğunu biləndə heyrətə düşdülər, amma tanıdılar ki, onlar İsa ilə birgə olmuşdular.</verse>
+        <verse osisID='Acts.4.14'>Şəfa tapan adam Peter və Yəhya ilə birgə onların gözləri qarşısında durmuşdu, buna görə onların əleyhinə heç nə deyə bilmədilər.</verse>
+        <verse osisID='Acts.4.15'>Ali Şuranın üzvləri onlara bayıra çıxmağı əmr edəndən sonra aralarında müzakirəyə başlayıb</verse>
+        <verse osisID='Acts.4.16'>dedilər: «Bu adamlara nə edək? Bütün Yerusəlim əhalisinə aydın olub ki, bu adamların əli ilə əhəmiyyətli bir əlamət göstərilib və biz bunu dana bilmərik.</verse>
+        <verse osisID='Acts.4.17'>Amma bu xəbərin xalq arasında daha çox yayılmasının qarşısını almaq üçün onlara hədə-qorxu gələk ki, bundan sonra bu Adı çəkib heç kimə heç nə deməsinlər».</verse>
+        <verse osisID='Acts.4.18'>Beləcə onları çağırıb əmr verdilər ki, İsanın adını bəyan etmək və bu adla hər hansı bir təlim öyrətmək qadağandır.</verse>
+        <verse osisID='Acts.4.19'>Lakin Peterlə Yəhya cavab verib dedilər: «Özünüz qərar verin, Allaha deyil, sizə qulaq asmaq Allahın gözündə nə qədər doğrudur?</verse>
+        <verse osisID='Acts.4.20'>Axı eşidib-gördüklərimizi deməyə bilmərik».</verse>
+        <verse osisID='Acts.4.21'>Ali Şuranın üzvləri onlara cəza vermək üçün imkan tapa bilmədiklərinə görə onları bir daha hədələyəndən sonra azadlığa buraxdılar. Çünki bütün xalq baş verən hadisəyə görə Allahı izzətləndirdi.</verse>
+        <verse osisID='Acts.4.22'>Bu əlamət vasitəsilə sağalan adamın qırxdan artıq yaşı var idi. </verse>
+        <verse osisID='Acts.4.23'>Azadlığa buraxılan Peter və Yəhya öz yoldaşlarının yanına gəlib başçı kahinlərlə ağsaqqalların sözlərini onlara çatdırdılar.</verse>
+        <verse osisID='Acts.4.24'>Yoldaşları bunu eşidərkən bir nəfər kimi Allaha nida etdilər: «Ey Pərvərdigarımız, yeri, göyü, dənizi və bunların içindəki hər şeyi yaradan Sənsən.</verse>
+        <verse osisID='Acts.4.25'>Müqəddəs Ruh vasitəsilə Öz qulun atamız Davudun dili ilə belə dedin:  “Nə üçün millətlər belə hirslənir,Ümmətlər boş şeylər düşünür?</verse>
+        <verse osisID='Acts.4.26'>Dünya şahları yığışır,Hökmdarlar Rəbbə və Onun məsh etdiyinə qarşı birləşir”. </verse>
+        <verse osisID='Acts.4.27'>Həqiqətən, Hirod və Ponti Pilat başqa millətlər və İsrail xalqı ilə birlikdə Sənin məsh etdiyin müqəddəs Qulun İsanın əleyhinə bu şəhərdə toplaşdı ki,</verse>
+        <verse osisID='Acts.4.28'>Sənin əvvəldən qərar verdiyin, Sənin əlində və niyyətində olan şeyləri həyata keçirsin.</verse>
+        <verse osisID='Acts.4.29'>İndi, ya Rəbb, onların etdikləri hədə-qorxuya bax! Biz qullarına güc ver ki, Sənin sözlərini tam cəsarətlə yayaq.</verse>
+        <verse osisID='Acts.4.30'>Xəstələri sağaltmaq üçün əlini uzat və müqəddəs Qulun İsanın adı ilə əlamətlər və xariqələr göstər».</verse>
+        <verse osisID='Acts.4.31'>Onlar dualarını qurtaran kimi toplandıqları yer lərzəyə gəldi və onların hamısı Müqəddəs Ruhla dolub Allahın kəlamını cəsarətlə yaymağa başladı. </verse>
+        <verse osisID='Acts.4.32'>İmanlıların hamısı canbir qəlbdə idi. Heç kim öz əmlakına «bu mənimdir» demir, bütün əmlaklarından birgə istifadə edirdi.</verse>
+        <verse osisID='Acts.4.33'>Həvarilər Rəbb İsanın dirilməsi barədə böyük qüvvə ilə şəhadət edirdi və hamısının üzərinə bol-bol lütf ehsan olunurdu.</verse>
+        <verse osisID='Acts.4.34'>Onların arasında heç kim yoxsul deyildi. Çünki onların arasında torpaq və ev sahibi olanlar mülkünü satıb pulunu gətirər,</verse>
+        <verse osisID='Acts.4.35'>həvarilərin ixtiyarına verərdi. Bu da hər kəsə ehtiyacına görə paylanardı.</verse>
+        <verse osisID='Acts.4.36'>Məsələn, Kiprdə anadan olan, həvarilərin Barnaba adlandırdığı (mənası «Təsəlli oğlu») Levili Yusif</verse>
+        <verse osisID='Acts.4.37'>sahib olduğu torpaq sahəsini sataraq pulunu gətirib həvarilərin ixtiyarına verdi.  </verse>
+      </chapter>
+      <chapter osisID='Acts.5'>
+        <verse osisID='Acts.5.1'>
+          Xananya adında bir kişi arvadı Sapfira ilə razılığa gəlib bir mülk satdı.</verse>
+        <verse osisID='Acts.5.2'>O, pulun bir hissəsini özünə götürüb qalan hissəsini həvarilərin ixtiyarına verdi. Arvadının da bu işdən xəbəri var idi.</verse>
+        <verse osisID='Acts.5.3'>Peter ona dedi: «Xananya, niyə ürəyinə Şeytanı buraxıb Müqəddəs Ruha yalan söyləyərək torpağın pulunun bir hissəsini özünə götürdün?</verse>
+        <verse osisID='Acts.5.4'>Bu torpaq satılmamışdan əvvəl sənin deyildimi? Sən onu satandan sonra da pul sənin ixtiyarında deyildimi? Bu nə niyyətdir, ürəyində tutmusan? Sən insanlara deyil, Allaha yalan satdın».</verse>
+        <verse osisID='Acts.5.5'>Xananya bunları eşidən kimi yerə yıxıldı və canı çıxdı. Bunu eşidən hər kəsi böyük bir vahimə bürüdü.</verse>
+        <verse osisID='Acts.5.6'>Gənclər gəlib Xananyanın meyitini kəfənə bürüdülər və aparıb dəfn etdilər. </verse>
+        <verse osisID='Acts.5.7'>Bundan təxminən üç saat sonra Xananyanın arvadı içəri daxil oldu. Onun olub-keçənlərdən heç bir xəbəri yox idi.</verse>
+        <verse osisID='Acts.5.8'>Peter ondan soruşdu: «Mənə söylə, torpağı bu qiymətəmi satdınız?» Qadın cavab verdi: «Bəli, o qiymətə».</verse>
+        <verse osisID='Acts.5.9'>Peter ona dedi: «Niyə əlbir olub Rəbbin Ruhunu sınamaq istədiniz? Budur, ərini dəfn edənlərin ayaq səsləri qapı ağzındadır, indi də səni aparmağa gəlirlər».</verse>
+        <verse osisID='Acts.5.10'>Qadın həmin an Peterin ayaqları qarşısına yıxıldı və canı çıxdı. İçəri daxil olan gənclər gördülər ki, o da ölüb. Onlar onu götürüb ərinin yanında dəfn etdilər.</verse>
+        <verse osisID='Acts.5.11'>Bütün imanlılar cəmiyyətini və bu hadisəni eşidənlərin hamısını böyük bir vahimə bürüdü. </verse>
+        <verse osisID='Acts.5.12'>Həvarilər vasitəsilə xalq arasında çox əlamətlər və xariqələr göstərilirdi. Bütün imanlılar Süleymanın eyvanına yığılardı.</verse>
+        <verse osisID='Acts.5.13'>Xalqın gözündə böyük nüfuz qazansalar da, kənardan heç kim onlara qoşulmağa cürət etmirdi.</verse>
+        <verse osisID='Acts.5.14'>Buna baxmayaraq, get-gedə daha çox qadın və kişi Rəbbə iman gətirirdi.</verse>
+        <verse osisID='Acts.5.15'>Buna görə də Peter yoldan keçəndə heç olmasa kölgəsi xəstələrin üstünə düşsün deyə xalq öz xəstələrini döşək və çarpayı ilə birlikdə çıxarıb küçələrə qoyardı.</verse>
+        <verse osisID='Acts.5.16'>Yerusəlimin ətraf şəhərlərində yaşayanlar da axın-axın gələr, öz xəstələrini və natəmiz ruhdan əzab çəkənləri gətirərdi. Onların hamısı şəfa tapardı. </verse>
+        <verse osisID='Acts.5.17'>Bu, baş kahini və yanındakıların hamısını, yəni sadukey təriqətinə mənsub olanları hərəkətə gətirdi, çünki qısqanclıqları aşıb-daşırdı.</verse>
+        <verse osisID='Acts.5.18'>Ona görə də həvariləri tutub ümumi zindana atdılar.</verse>
+        <verse osisID='Acts.5.19'>Amma Rəbbin mələyi gecənin bir vaxtında gəlib zindanın qapısını açdı, onları bayıra çıxarıb dedi:</verse>
+        <verse osisID='Acts.5.20'>«Gedin, məbəddə durun və camaata yeni həyatla bağlı sözlərin hamısını deyin».</verse>
+        <verse osisID='Acts.5.21'>Həvarilər bunu eşidəndə səhər tezdən məbədə daxil olub təlimlərini öyrətməyə başladılar.  Baş kahin və yanındakılar gəlib Ali Şuranı – İsrailin bütün ağsaqqallar məclisini çağırdı ki, bir yerə yığılsınlar. Onlar həvariləri gətirtmək üçün mühafizəçiləri zindana göndərdilər.</verse>
+        <verse osisID='Acts.5.22'>Lakin mühafizəçilər gəlib zindanda həvariləri tapa bilmədi və geri qayıdıb belə xəbər verdilər:</verse>
+        <verse osisID='Acts.5.23'>«Gördük ki, zindan bağlıdır, tamamilə nəzarət altındadır və gözətçilər qapıda dayanıb. Amma qapıları açanda içəridə heç kimi tapa bilmədik».</verse>
+        <verse osisID='Acts.5.24'>Bu sözləri eşidən məbəd mühafizəçilərinin başçısı ilə başçı kahinlər «Bu işin sonu necə qurtaracaq?» deyə çaşıb-qaldılar.</verse>
+        <verse osisID='Acts.5.25'>Elə bu zaman kimsə onların yanına gəlib xəbər verdi: «Baxın, zindana saldığınız adamlar məbəddə dayanıb camaata təlim öyrədir».</verse>
+        <verse osisID='Acts.5.26'>Bu vaxt başçı ilə mühafizəçilər gedib həvariləri gətirdilər. Xalqın onları daşqalaq etməsindən qorxduqları üçün güc tətbiq etmədilər. </verse>
+        <verse osisID='Acts.5.27'>Onlar həvariləri Ali Şuranın qarşısına gətirdilər. Baş kahin onlardan soruşdu:</verse>
+        <verse osisID='Acts.5.28'>«Bu adla təlim öyrətməyi sizə qəti qadağan etmədikmi? Amma siz təliminizi bütün Yerusəlimə yaydınız və o Adamın qanını bizim boynumuza yükləmək istəyirsiniz».</verse>
+        <verse osisID='Acts.5.29'>Peter və başqa həvarilər belə cavab verdi: «İnsana deyil, Allaha itaət etmək daha vacibdir.</verse>
+        <verse osisID='Acts.5.30'>Ata-babamızın Allahı sizin çarmıxa çəkib öldürdüyünüz İsanı diriltdi.</verse>
+        <verse osisID='Acts.5.31'>İsrailə günahlarından tövbə və bağışlanma imkanı vermək üçün Allah Onu Bani və Xilaskar olaraq Öz sağ tərəfinə qaldırdı.</verse>
+        <verse osisID='Acts.5.32'>Bu şeylər barədə biz şahidik, Allahın Özünə itaət edənlərə verdiyi Müqəddəs Ruh da şahiddir». </verse>
+        <verse osisID='Acts.5.33'>Onlar bunu eşidəndə çox qəzəbləndi və həvariləri öldürmək istədilər.</verse>
+        <verse osisID='Acts.5.34'>Lakin bütün xalqın hörmətini qazanmış Qanun müəllimi olan Qamliel adlı bir farisey Ali Şurada ayağa qalxdı və əmr etdi ki, bu adamları qısa müddətə bayıra çıxarsınlar.</verse>
+        <verse osisID='Acts.5.35'>O, Ali Şuranın üzvlərinə belə dedi: «Ey İsraillilər, bu insanlara nə edəcəyiniz barədə yaxşı-yaxşı fikirləşin.</verse>
+        <verse osisID='Acts.5.36'>Bir qədər bundan əvvəl Tevda özü barəsində yüksək iddiada olaraq ortaya çıxdı və ona təxminən dörd yüz nəfər qoşuldu. Lakin bu kişi öldürüldü, bütün tərəfdarları darmadağın edildi və bu hərəkat yatırıldı.</verse>
+        <verse osisID='Acts.5.37'>Sonra siyahıyaalma zamanı Qalileyalı Yəhuda ortaya çıxdı və camaatı ardınca apardı. O da öldü və tərəfdarlarının hamısı darmadağın edildi.</verse>
+        <verse osisID='Acts.5.38'>İndiki iş barəsində sizə onu deyirəm ki, bu adamlardan əl çəkin və azad buraxın. Əgər bu hərəkat, bu iş insandandırsa, məhv olub gedəcək.</verse>
+        <verse osisID='Acts.5.39'>Yox, əgər Allahdandırsa, bu adamların işini məhv edə bilməzsiniz. Allaha qarşı çıxanların vəziyyətinə belə, düşə bilərsiniz». Onlar Qamlielin sözünə baxdılar,</verse>
+        <verse osisID='Acts.5.40'>həvariləri içəri çağırıb qamçılatdılar və əmr etdilər ki, İsanın adını çəkərək heç nə danışmasınlar. Sonra onları azad etdilər. </verse>
+        <verse osisID='Acts.5.41'>Həvarilər bu ad uğrunda təhqirə layiq görüldükləri üçün sevinərək Ali Şuranın önündən ayrıldılar.</verse>
+        <verse osisID='Acts.5.42'>Onlar hər gün məbəddə və evlərdə təlim öyrətməkdən, İsanın Məsih olması barədə Müjdəni yaymaqdan əl çəkmədilər.  </verse>
+      </chapter>
+      <chapter osisID='Acts.6'>
+        <verse osisID='Acts.6.1'>
+          O günlərdə – şagirdlərin çoxaldığı vaxtda yunanca danışan Yəhudilər ibranicə danışan Yəhudilərdən şikayət etməyə başladılar. Çünki gündəlik yardım paylananda onların dul qadınlarını nəzərə almamışdılar.</verse>
+        <verse osisID='Acts.6.2'>Ona görə On İki həvari bütün şagirdləri bir yerə yığıb belə dedi: «Allahın kəlamını vəz etmək işini atıb maddi işlərlə məşğul olmağımız düzgün deyil.</verse>
+        <verse osisID='Acts.6.3'>Ey qardaşlar, aranızda etibar qazanmış, Ruh və hikmətlə dolu olan yeddi kişi seçin ki, onları bu işə təyin edək.</verse>
+        <verse osisID='Acts.6.4'>Biz isə özümüzü duaya və Allahın kəlamını yaymağa həsr edək».</verse>
+        <verse osisID='Acts.6.5'>Bu sözlər bütün toplantının xoşuna gəldi. Stefanı, Filipi, Proxoru, Nikanoru, Timonu, Parmenanı və Yəhudi dinini qəbul edən Antakyalı Nikolanı seçdilər. Stefan iman və Müqəddəs Ruhla dolu bir kişi idi.</verse>
+        <verse osisID='Acts.6.6'>Bunları həvarilərin qarşısına çıxardılar. Həvarilər də dua edib onların üzərinə əl qoydular. </verse>
+        <verse osisID='Acts.6.7'>Allahın kəlamı yayılır, Yerusəlimdə şagirdlərin sayı xeyli artır və bir çox kahinlər də bu imana tabe olurdu. </verse>
+        <verse osisID='Acts.6.8'>Lütf və qüvvə ilə dolu olan Stefan xalq arasında böyük xariqə və əlamətlər göstərirdi.</verse>
+        <verse osisID='Acts.6.9'>Belə olanda Azadlar Sinaqoqu adlanan sinaqoqun bəzi üzvləri, Kirenalılardan, İsgəndəriyyəlilərdən, Kilikiyadan və Asiya vilayətindən bəzi insanlar Stefana qarşı çıxıb onunla mübahisəyə başladılar.</verse>
+        <verse osisID='Acts.6.10'>Amma Stefanın sözündəki hikmətin və Ruhun qarşısında dayana bilmədilər.</verse>
+        <verse osisID='Acts.6.11'>Onda bir neçə nəfəri şirnikləndirdilər ki, belə desinlər: «Bu adamın həm Musaya, həm də Allaha qarşı küfr dolu sözlər dediyini eşitmişik».</verse>
+        <verse osisID='Acts.6.12'>Beləliklə, xalqı, ağsaqqalları və ilahiyyatçıları da təşvişə saldılar. Stefanın üstünə gəlib onu tutdular və Ali Şuranın qarşısına gətirdilər.</verse>
+        <verse osisID='Acts.6.13'>Gətirdikləri yalançı şahidlər onun üzünə durub dedilər: «Bu adam dayanmadan bu Müqəddəs məkana və Qanuna qarşı danışır.</verse>
+        <verse osisID='Acts.6.14'>“Nazaretli İsa bu məkanı darmadağın edəcək və Musadan bizə əmanət qalan adətləri dəyişəcək” dediyini özümüz eşitmişik».</verse>
+        <verse osisID='Acts.6.15'>Ali Şurada oturanların hamısı Stefana diqqətlə baxanda gördü ki, onun üzü bir mələyin üzünə bənzəyir.  </verse>
+      </chapter>
+      <chapter osisID='Acts.7'>
+        <verse osisID='Acts.7.1'>
+          Baş kahin Stefandan soruşdu: «Bunlar doğrudurmu?»</verse>
+        <verse osisID='Acts.7.2'>Stefan belə cavab verdi: «Qardaşlar və atalar, məni dinləyin! Atamız İbrahim hələ Mesopotamiyada ikən Xaranda məskunlaşmazdan əvvəl izzətli Allah ona göründü.</verse>
+        <verse osisID='Acts.7.3'>Ona belə dedi: “Öz torpağından, qohumlarının arasından çıx, sənə göstərəcəyim torpağa get”.</verse>
+        <verse osisID='Acts.7.4'>Buna görə İbrahim Xaldeylilərin ölkəsini tərk edib Xarana köçdü. Atasının ölümündən sonra Allah onu oradan da götürüb sizin indi yaşadığınız bu ölkəyə gətirdi.</verse>
+        <verse osisID='Acts.7.5'>Burada ona irs olaraq bir qarış belə, torpaq vermədi. Amma İbrahimin o zaman hələ övladı olmasa da, Allah bu torpağı mülk olaraq ona və onun gələcək nəslinə verəcəyini vəd etmişdi.</verse>
+        <verse osisID='Acts.7.6'>Allah ona belə dedi: “Nəslin yad ölkədə qərib olacaq, orada olan millətə köləlik edəcək və onlara dörd yüz il zülm ediləcək”.</verse>
+        <verse osisID='Acts.7.7'>“Ancaq onların köləlik edəcəkləri milləti Özüm cəzalandıracağam” dedi Allah, “bundan sonra oradan çıxacaqlar” və “bu yerdə Mənə ibadət edəcəklər”.</verse>
+        <verse osisID='Acts.7.8'>Sonra Allah onunla sünnətlə bağlı Əhd kəsdi. Beləliklə də, İbrahim İshaqın atası olarkən onu səkkiz günlük olanda sünnət etdi. Bundan sonra İshaqdan Yaqub, Yaqubdan da on iki ulu babamız törədi. </verse>
+        <verse osisID='Acts.7.9'>Bu ulu babalarımız paxıllıqdan Yusifi qul kimi Misirə satdı. Lakin Allah Yusifə yar idi.</verse>
+        <verse osisID='Acts.7.10'>Onu bütün əziyyətlərdən qurtardı və ona hikmət verərək Misir hökmdarı fironun gözündə lütf qazandırdı. Firon onu Misirin və öz sarayında olan bütün xalqın rəhbəri təyin etdi.</verse>
+        <verse osisID='Acts.7.11'>Sonra bütün Misir və Kənan torpağı aclıq və böyük əziyyətlərlə üzləşdi. Bu ata-babalarımız yemək tapa bilmədi.</verse>
+        <verse osisID='Acts.7.12'>Yaqub eşidəndə ki, Misirdə taxıl var, bu ata-babalarımızı birinci dəfə oraya göndərdi.</verse>
+        <verse osisID='Acts.7.13'>Onlar ikinci dəfə Misirə gələndə Yusif özünü qardaşlarına tanıtdı. Bununla da firon Yusifin ailəsi ilə tanış oldu.</verse>
+        <verse osisID='Acts.7.14'>Yusif atası Yaquba xəbər göndərib onunla birgə bütün qohumlarını – yetmiş beş nəfəri çağırtdırdı.</verse>
+        <verse osisID='Acts.7.15'>Beləliklə, Yaqub Misirə getdi. Özü ilə bu ata-babalarımız da orada öldü.</verse>
+        <verse osisID='Acts.7.16'>Onların cəsədləri sonradan Şekemə gətirildi və Şekemdə İbrahimin Xamor övladlarından bir neçə gümüşə satın aldığı qəbirdə dəfn olundu. </verse>
+        <verse osisID='Acts.7.17'>Allahın İbrahimə bəyan etdiyi vədin həyata keçdiyi vaxt yaxınlaşanda Misirdəki xalqımızın sayı bir xeyli çoxalmışdı.</verse>
+        <verse osisID='Acts.7.18'>Axırda Misirdə Yusifi tanımayan yeni bir padşah taxta çıxdı.</verse>
+        <verse osisID='Acts.7.19'>Bu adam soydaşlarımıza hiylə işlətdi, zorakılıqla ata-babalarımızı məcbur etdi ki, yeni doğulan körpələrini sağ qalmasın deyə bayıra atsınlar.</verse>
+        <verse osisID='Acts.7.20'>Bu dövrdə son dərəcə gözəl bir körpə olan Musa doğuldu. O, üç ay atasının evində bəsləndi.</verse>
+        <verse osisID='Acts.7.21'>Sonra o da bayıra atıldı. Onu fironun qızı tapıb özünə övlad etdi və öz oğlu kimi böyütdü.</verse>
+        <verse osisID='Acts.7.22'>Musa Misirlilərin bütün elmi biliklərinə bağlı tərbiyə alıb söz və əməlində güclü bir şəxsiyyət oldu. </verse>
+        <verse osisID='Acts.7.23'>Musa qırx yaşına çatanda ürəyində soydaşları İsrail övladlarının vəziyyətini yaxından bilmək arzusu oyandı.</verse>
+        <verse osisID='Acts.7.24'>Onlardan birinin zərər çəkdiyini görəndə Musa onu müdafiə etdi. Zərər vuran Misirlini öldürərək əzilən insanın intiqamını aldı.</verse>
+        <verse osisID='Acts.7.25'>O belə fikirləşdi: “Soydaşlarım dərk edəcəklər ki, mənim vasitəmlə Allah onları xilas edir”. Amma onlar bunu dərk etmədilər.</verse>
+        <verse osisID='Acts.7.26'>Ertəsi gün Musa dalaşan iki İsraillini görəndə onları barışdırmaq istədi və dedi: “Ay kişilər, siz soydaşsınız, niyə bir-birinizə zərər vurursunuz?”</verse>
+        <verse osisID='Acts.7.27'>Lakin soydaşına zərər vuran kişi Musanı itələyib dedi: “Səni bizim üstümüzə kim başçı və hakim qoyub?</verse>
+        <verse osisID='Acts.7.28'>Yoxsa dünən Misirlini öldürdüyün kimi məni də öldürmək fikrindəsən?”</verse>
+        <verse osisID='Acts.7.29'>Bu sözə görə Musa qaçdı. O, Midyan torpağında, qürbətdə yaşadı və orada iki oğul atası oldu. </verse>
+        <verse osisID='Acts.7.30'>Qırx il keçəndən sonra Musa Sina dağının yaxınlığındakı səhrada olanda mələk ona bir kol arasından od-alov içərisində göründü.</verse>
+        <verse osisID='Acts.7.31'>Musa gördüklərinə heyrətləndi. Baxmaq üçün oraya yaxınlaşanda Rəbbin səsini eşitdi:</verse>
+        <verse osisID='Acts.7.32'>“Mən ata-babalarının Allahı – İbrahimin, İshaqın və Yaqubun Allahıyam”. Musa qorxusundan lərzəyə gəlib baxmağa belə, cəsarət etmədi.</verse>
+        <verse osisID='Acts.7.33'>Rəbb ona dedi: “Ayaqlarından çarıqlarını çıxart, çünki durduğun yer müqəddəs torpaqdır.</verse>
+        <verse osisID='Acts.7.34'>Həqiqətən, Mən Misirdə olan xalqımın əziyyətini gördüm, fəryadlarını eşitdim və onları qurtarmaq üçün endim. İndi get, Mən səni Misirə göndərirəm”. </verse>
+        <verse osisID='Acts.7.35'>Bu, həmin Musadır ki, onu rədd edib demişdilər: “Səni bizim üstümüzə kim başçı və hakim qoyub?” Amma Allah Musanı bir kol arasında görünən mələyin əli ilə başçı və qurtarıcı olaraq göndərdi.</verse>
+        <verse osisID='Acts.7.36'>O, xalqı Misirdən çıxaran, həm orada, həm Qırmızı dənizdə, həm də qırx il ərzində səhrada xariqə və əlamətlər yaradan insan idi.</verse>
+        <verse osisID='Acts.7.37'>İsrail övladlarına “Allah məni yetirdiyi kimi sizin üçün öz soydaşlarınız içərisindən bir peyğəmbər yetirəcək” deyən bu Musadır.</verse>
+        <verse osisID='Acts.7.38'>Bu, həmin adamdır ki, Sina dağında onunla danışan mələklə və ata-babalarımızla birgə səhradakı cəmiyyətdə olmuşdu. O, canlı sözlər almışdı ki, bizə versin.</verse>
+        <verse osisID='Acts.7.39'>Ata-babalarımızsa Musanın sözünə baxmaq istəmədi, onu rədd etdi və Misirə qayıtmağı arzuladılar.</verse>
+        <verse osisID='Acts.7.40'>Haruna dedilər: “Bizim üçün allahlar düzəlt ki, qabağımızca getsinlər. Çünki bizi Misir torpağından çıxaran adamın – bu Musanın başına nə iş gəldiyini bilmirik!”</verse>
+        <verse osisID='Acts.7.41'>O günlərdə dana şəklində bir büt düzəldib ona qurban gətirdilər və öz əlləri ilə düzəltdikləri bu büt üçün şənlik qurdular.</verse>
+        <verse osisID='Acts.7.42'>Buna görə Allah ata-babalarımızdan üz döndərib onları tərk etdi ki, səma cisimlərinə ibadət etsinlər. Peyğəmbərlərin kitabında da belə yazılıb:  “Ey İsrail nəsli,Qırx il çöldə olanda Mənə qurban və təqdimlər gətirmişdinizmi?</verse>
+        <verse osisID='Acts.7.43'>Səcdə edəsiniz deyə düzəltdiyiniz Molekin çadırını,Tanrınız Refanın ulduz bütünü gəzdirdiniz.Elə buna görə də siziBabilin o tayına sürgünə aparacağam”. </verse>
+        <verse osisID='Acts.7.44'>Səhrada ata-babalarınızın Şəhadət çadırı var idi. Musa bunu onunla danışan Allahın əmr etdiyi kimi, gördüyü nümunəyə əsasən düzəltmişdi.</verse>
+        <verse osisID='Acts.7.45'>Şəhadət çadırını əvvəlki nəsildən təhvil alan ata-babalarımız Yeşuanın başçılığı ilə başqa millətlərin mülkünü ələ keçirəndə çadırı da özləri ilə gətirmişdilər. Allah Özü millətləri ata-babalarımızın qarşısından qovdu. Şəhadət çadırı Davudun dövrünə qədər qaldı.</verse>
+        <verse osisID='Acts.7.46'>Allahın lütfünü qazanan Davud yalvardı ki, Yaqubun nəsli üçün bir məskən qura bilsin.</verse>
+        <verse osisID='Acts.7.47'>Lakin Allaha ev tikən Süleyman oldu.</verse>
+        <verse osisID='Acts.7.48'>Amma Haqq-Taala əllə tikilən evlərdə yaşamaz. Peyğəmbərin dediyi kimi</verse>
+        <verse osisID='Acts.7.49'>Rəbb belə deyir:“Göylər Mənim taxtımdır,Yer ayaqlarımın altındakı kətildir.Mənim üçün nə cür ev tikəcəksiniz,Dincələcəyim yer harada olacaq?</verse>
+        <verse osisID='Acts.7.50'>Bütün bunları Mənim əlim yaratmadımı?” </verse>
+        <verse osisID='Acts.7.51'>Ey dikbaş, həm ürəkləri, həm də qulaqları “sünnət” edilməmiş insanlar, ata-babanız kimi siz də həmişə Müqəddəs Ruhun əleyhinə çıxırsınız.</verse>
+        <verse osisID='Acts.7.52'>Ata-babalarınızın təqib etmədiyi peyğəmbər varmı? Onlar Saleh Olanın zühuru barədə əvvəlcədən xəbər verənləri belə, öldürdülər. Sizsə bu Saleh Olana xəyanət edərək Onu qətlə yetirdiniz.</verse>
+        <verse osisID='Acts.7.53'>Mələklər vasitəsilə verilən Qanunu aldınız, lakin ona riayət etmədiniz». </verse>
+        <verse osisID='Acts.7.54'>Ali Şuranın üzvləri bu sözləri eşidəndə çox qəzəbləndilər və Stefana dişlərini qıcırtdılar.</verse>
+        <verse osisID='Acts.7.55'>Müqəddəs Ruhla dolan Stefan isə gözlərini göyə dikib Allahın ehtişamını və Allahın sağında dayanan İsanı gördü.</verse>
+        <verse osisID='Acts.7.56'>O dedi: «Baxın, mən göylərin yarıldığını və Bəşər Oğlunun Allahın sağında dayandığını görürəm».</verse>
+        <verse osisID='Acts.7.57'>Onlar qulaqlarını tutub haray qopardılar və hamısı birlikdə Stefanın üstünə hücum çəkdilər.</verse>
+        <verse osisID='Acts.7.58'>Onu şəhərdən kənara çıxarıb daşqalaq etdilər. Stefanın əleyhinə şahidlik edənlər öz üst geyimlərini Şaul adlı bir gəncin ayaqları altına qoydular.</verse>
+        <verse osisID='Acts.7.59'>Stefan üstünə yağan daşlar altında belə yalvarırdı: «Ya Rəbb İsa, ruhumu qəbul et».</verse>
+        <verse osisID='Acts.7.60'>Sonra diz çöküb ucadan nida etdi: «Ya Rəbb, bunu onlara günah sayma». Bunu deyəndən sonra gözlərini bu həyata yumdu.  </verse>
+      </chapter>
+      <chapter osisID='Acts.8'>
+        <verse osisID='Acts.8.1'>
+         O gün Yerusəlimdə olan imanlılar cəmiyyətinə qarşı güclü təqib başladı. Həvarilərdən başqa bütün imanlılar pərən-pərən düşüb Yəhudeya və Samariyanın hər tərəfinə yayıldı.</verse>
+        <verse osisID='Acts.8.2'>Bəzi mömin kişilər isə Stefanı dəfn etdi və onun üçün dərin hüznlə yas saxladılar.</verse>
+        <verse osisID='Acts.8.3'>Amma Şaul imanlılar cəmiyyətini dağıtmağa başladı. Belə ki o, evdən-evə gedərək qadın-kişi bilmədən imanlıları sürüyüb zindana salırdı. </verse>
+        <verse osisID='Acts.8.4'>Pərən-pərən düşən imanlılar hər yerdə Allahın kəlamını – Müjdəni yayırdı.</verse>
+        <verse osisID='Acts.8.5'>Filip də Samariya şəhərinə gəlib Məsihi vəz edirdi.</verse>
+        <verse osisID='Acts.8.6'>Filipi eşidib, göstərdiyi əlamətləri görən izdiham onun sözlərinə birlikdə diqqət yetirirdi.</verse>
+        <verse osisID='Acts.8.7'>Natəmiz ruha tutulan çox adamdan bu ruhlar bərkdən çığıraraq çıxır, çox iflic və ayaqları şikəst olanlar şəfa tapırdı.</verse>
+        <verse osisID='Acts.8.8'>Ona görə bu şəhərdə bol sevinc var idi. </verse>
+        <verse osisID='Acts.8.9'>Amma bu şəhərdə bundan əvvəl cadugərlik edən və Samariya millətini mat qoyan Şimon adlı bir kişi var idi. O özünü böyük bir şəxsiyyət kimi təqdim edirdi.</verse>
+        <verse osisID='Acts.8.10'>Böyüklü-kiçikli hər kəs ona diqqətlə qulaq asır və belə deyirdi: «Böyük adlanan Allahın qüvvəsi budur».</verse>
+        <verse osisID='Acts.8.11'>Onun cadugərliyi hamını çoxdan mat qoymuşdu. Buna görə də ona diqqətlə qulaq asırdılar.</verse>
+        <verse osisID='Acts.8.12'>Amma Filip Allahın Padşahlığı və İsa Məsihin adı ilə bağlı Müjdəni yayanda sözlərinə iman gətirdilər və kişilər də, qadınlar da vəftiz oldular.</verse>
+        <verse osisID='Acts.8.13'>Şimon özü də iman gətirdi. Vəftiz olduqdan sonra Filipin yanından ayrılmadı. Göstərilən əlamət və möcüzələr Şimonu mat qoydu. </verse>
+        <verse osisID='Acts.8.14'>Yerusəlimdə qalan həvarilər Samariyalıların Allahın kəlamını qəbul etdiklərini eşidəndə Peterlə Yəhyanı onların yanına göndərdi.</verse>
+        <verse osisID='Acts.8.15'>Peterlə Yəhya oraya çatanda dua etdilər ki, Samariyalı imanlılar Müqəddəs Ruhu alsınlar.</verse>
+        <verse osisID='Acts.8.16'>Çünki Ruh hələ onların heç birinin üzərinə enməmişdi, sadəcə olaraq Rəbb İsanın adı ilə vəftiz olmuşdular.</verse>
+        <verse osisID='Acts.8.17'>Sonra Peterlə Yəhya əllərini onların üstünə qoydular və onlar Müqəddəs Ruhu aldılar.</verse>
+        <verse osisID='Acts.8.18'>Həvarilərin əl qoyması ilə Ruhun verildiyini görən Şimon onlara pul təklif edərək</verse>
+        <verse osisID='Acts.8.19'>dedi: «Mənə də belə bir səlahiyyət verin. Əlimi kimin üstünə qoysam, Müqəddəs Ruhu alsın».</verse>
+        <verse osisID='Acts.8.20'>Peter ona dedi: «Pulun da yox olsun, sən də! Ona görə ki sən Allahın ənamını pulla əldə edə bilmək xəyalına düşmüsən.</verse>
+        <verse osisID='Acts.8.21'>Bu işdə sənin nə haqqın var, nə payın. Çünki Allahın qarşısında ürəyin düz deyil.</verse>
+        <verse osisID='Acts.8.22'>Bu pisliyin üçün tövbə et, Rəbbə yalvar. Bəlkə ürəyinin bu niyyəti bağışlanar.</verse>
+        <verse osisID='Acts.8.23'>Görürəm ki, səndə acı zəhər var və haqsızlığın əsirisən».</verse>
+        <verse osisID='Acts.8.24'>Şimon ona cavab verdi: «Mənim üçün Rəbbə siz yalvarın ki, dediklərinizin heç biri mənim başıma gəlməsin». </verse>
+        <verse osisID='Acts.8.25'>Peterlə Yəhya şəhadət edib Rəbbin kəlamını söyləyəndən sonra Samariyalıların yaşadığı xeyli kəndlərdə Müjdəni yaya-yaya Yerusəlimə qayıdırdılar. </verse>
+        <verse osisID='Acts.8.26'>Bu zaman Rəbbin bir mələyi Filipə belə dedi: «Dur, cənuba tərəf, Yerusəlimdən Qəzzəyə düşən yola – səhra yoluna çıx».</verse>
+        <verse osisID='Acts.8.27'>Filip qalxıb getdi. Yolda Həbəşli bir hərəmağası ilə rastlaşdı. Bu, kandakinin, yəni Həbəşlilərin mələkəsinin vəzirlərindən biri idi. O, mələkənin bütün xəzinəsinə cavabdeh idi. Yerusəlimə ibadət etmək üçün gəlmişdi.</verse>
+        <verse osisID='Acts.8.28'>Arabasına oturub geri qayıdarkən Yeşaya peyğəmbərin kitabını oxuyurdu.</verse>
+        <verse osisID='Acts.8.29'>Ruh Filipə dedi: «Get, bu arabaya çatıb yanında qal».</verse>
+        <verse osisID='Acts.8.30'>Filip qaça-qaça arabanın yanına gəldi və eşitdi ki, hərəmağası Yeşaya peyğəmbərin kitabını oxuyur. Ondan soruşdu: «Görəsən oxuduğunu başa düşürsənmi?»</verse>
+        <verse osisID='Acts.8.31'>Hərəmağası ona dedi: «Əgər mənə yol göstərən yoxdursa, bunu necə başa düşmək olar?» Sonra Filipdən xahiş etdi ki, arabaya minib onun yanında otursun.</verse>
+        <verse osisID='Acts.8.32'>O, Müqəddəs Yazılardan bu hissəni oxuyurdu:  «Kəsilməyə aparılan qoyun kimi,Qırxanların qabağında dilsiz quzu kimiAğzını açmadı.</verse>
+        <verse osisID='Acts.8.33'>Alçaldığı zaman ədalətdən məhrum oldu.Onun nəslini kim təsvir edə bilər?Onun həyatı yer üzündən götürülür».</verse>
+        <verse osisID='Acts.8.34'>Hərəmağası Filipdən soruşdu: «Xahiş edirəm, deyin, burada peyğəmbər kimdən bəhs edir, özündən, yoxsa başqasından?»</verse>
+        <verse osisID='Acts.8.35'>Bundan sonra Filip sözə başlayıb danışdı və Müqəddəs Yazıların bu hissəsindən başlayıb İsa barədə olan Müjdəni bəyan etdi.</verse>
+        <verse osisID='Acts.8.36'>Onlar yol gedə-gedə gəlib su olan yerə çatdılar. Hərəmağası dedi: «Burada su var. Mənim vəftiz olmağıma nə isə mane olurmu?»</verse>
+        <verse osisID='Acts.8.38'>Sonra əmr etdi ki, araba dayansın. Filip hərəmağası ilə birgə suya girdi. Beləliklə, Filip hərəmağasını vəftiz etdi.</verse>
+        <verse osisID='Acts.8.39'>Sudan çıxanda Rəbbin Ruhu Filipi götürüb oradan uzaqlaşdırdı. Filipi bir daha görməyən hərəmağası sevinə-sevinə yoluna davam etdi.</verse>
+        <verse osisID='Acts.8.40'>Filip bir də gördü ki, Aşdod şəhərinə gəlib-çıxıb. O, Qeysəriyyəyə çatanacan bütün şəhərləri gəzib-dolaşaraq Müjdəni yaydı.  </verse>
+      </chapter>
+      <chapter osisID='Acts.9'>
+        <verse osisID='Acts.9.1'>
+          Şaul Rəbbin şagirdlərinə qarşı hələ də ölüm hədələri yağdırırdı. Baş kahinin yanına gedib</verse>
+        <verse osisID='Acts.9.2'>ondan Dəməşq sinaqoqlarına yazılan məktublar istədi ki, orada İsa yolunu tutan kişi və qadınlardan kimi tapsa, əl-qolunu bağlayıb Yerusəlimə gətirmək üçün səlahiyyəti olsun.</verse>
+        <verse osisID='Acts.9.3'>Dəməşqə yollanıb oraya yaxınlaşanda birdən göydən gələn bir işıq onun ətrafında parladı.</verse>
+        <verse osisID='Acts.9.4'>Şaul yerə yıxıldı və bir səs eşitdi, ona deyirdi: «Şaul, Şaul, niyə Məni təqib edirsən?»</verse>
+        <verse osisID='Acts.9.5'>Şaul ona dedi: «Ey Ağam, Sən kimsən?» O cavab verdi: «Mən sənin təqib etdiyin İsayam.</verse>
+        <verse osisID='Acts.9.6'>Qalx ayağa, şəhərə get və nə etmək lazımdırsa, sənə deyiləcək».</verse>
+        <verse osisID='Acts.9.7'>Şaulla birlikdə yola çıxan adamlar yerlərindəcə susub qalmışdı. Səsi eşitsələr də, heç kimi görə bilmədilər.</verse>
+        <verse osisID='Acts.9.8'>Şaul yerdən qalxdı, amma gözlərini açanda heç nə görə bilmirdi. Sonra onun əlindən tutub Dəməşqə apardılar.</verse>
+        <verse osisID='Acts.9.9'>Üç gün ərzində Şaulun gözləri görmədi və o nə yedi, nə də içdi. </verse>
+        <verse osisID='Acts.9.10'>Dəməşqdə İsanın şagirdlərindən Xananya adlı bir nəfər var idi. Rəbb görüntü vasitəsilə «Xananya!» deyə çağırdı. O cavab verdi: «Bəli, ya Rəbb!»</verse>
+        <verse osisID='Acts.9.11'>Rəbb ona dedi: «Qalx, “Düz Küçə” adlanan küçəyə get və Yəhudanın evində adı Şaul olan Tarsuslu bir adamı soruş. Hal-hazırda orada dua edir.</verse>
+        <verse osisID='Acts.9.12'>O, görüntüdə görüb ki, yanına Xananya adlı bir kişi gəlib onun üzərinə əllərini qoyur ki, gözləri açılsın».</verse>
+        <verse osisID='Acts.9.13'>Xananya cavab verdi: «Ya Rəbb, bu kişi barədə çoxlarından eşitmişəm ki, Yerusəlimdə Sənin müqəddəslərinə nə qədər pislik edib.</verse>
+        <verse osisID='Acts.9.14'>Burada Sənin adını çəkənlərin hər birinin əl-qolunu bağlamaq üçün başçı kahinlərdən səlahiyyət alıb».</verse>
+        <verse osisID='Acts.9.15'>Amma Rəbb ona dedi: «Get! Başqa millətlərə, padşahlara və İsrail övladlarına Öz adımı bəyan eləmək üçün bu adam seçdiyim alətdir.</verse>
+        <verse osisID='Acts.9.16'>Mənim adım uğrunda çəkəcəyi əzabın nə qədər böyük olduğunu ona göstərəcəyəm».</verse>
+        <verse osisID='Acts.9.17'>Bundan sonra Xananya gedib həmin evə girdi və əllərini Şaulun üstünə qoyub dedi: «Qardaşım Şaul, Rəbb, yəni bura gələrkən yolda sənə görünən İsa məni göndərdi ki, sənin gözlərin açılsın və Müqəddəs Ruhla dolasan».</verse>
+        <verse osisID='Acts.9.18'>O andaca Şaulun gözlərindən sanki pulcuqlar töküldü və Şaul təkrar görməyə başladı. O qalxdı və vəftiz oldu.</verse>
+        <verse osisID='Acts.9.19'>Sonra yemək yeyib taqətə gəldi.  Bir neçə gün Şaul Dəməşqdə olan şagirdlərin yanında qaldı.</verse>
+        <verse osisID='Acts.9.20'>Dərhal sinaqoqlarda İsanın Allahın Oğlu olduğunu vəz etməyə başladı.</verse>
+        <verse osisID='Acts.9.21'>Onu eşidənlərin hamısı mat qalıb deyirdi: «Yerusəlimdə bu adı çəkənləri dağıdan adam bu deyilmi? Buraya belələrini əl-qolunu bağlayıb başçı kahinlərin yanına aparmağa gəlməmişdimi?»</verse>
+        <verse osisID='Acts.9.22'>Şaul isə gündən-günə qüvvətlənirdi. İsanın Məsih olmasına dair sübutlar göstərməklə Dəməşqdə yaşayan Yəhudiləri çaş-baş saldı. </verse>
+        <verse osisID='Acts.9.23'>Aradan xeyli gün keçdi. Yəhudilər Şaulu öldürmək üçün sui-qəsd hazırladı.</verse>
+        <verse osisID='Acts.9.24'>Amma onların bu qəsdi haqqında xəbər Şaula çatdı. Yəhudilər onu öldürmək üçün gecə-gündüz şəhərin qapılarında pusqu qururdu.</verse>
+        <verse osisID='Acts.9.25'>Amma Şaulun şagirdləri gecə olan kimi onu götürüb bir səbətin içinə qoyaraq şəhər divarlarından aşağı endirdilər. </verse>
+        <verse osisID='Acts.9.26'>Şaul Yerusəlimə çatanda oradakı şagirdlərə qoşulmağa çalışdı, lakin onların hamısı Şauldan qorxur və inanmırdılar ki, o, İsanın şagirdidir.</verse>
+        <verse osisID='Acts.9.27'>Amma Barnaba onu götürüb həvarilərin yanına apardı və onlara açıqladı ki, Şaul yolla gedəndə Rəbbi necə görüb, Rəbb onunla necə danışıb, o, Dəməşqdə İsanın adını necə cəsarətlə bəyan edib.</verse>
+        <verse osisID='Acts.9.28'>Beləliklə, Şaul onların yanında qalıb Yerusəlimdə hər yerə bir gedib-gəlir və orada da Rəbbin adını cəsarətlə bəyan edirdi.</verse>
+        <verse osisID='Acts.9.29'>O yunanca danışan Yəhudilərlə söhbət edərək mübahisə edirdi. Onlar isə Şaulu öldürmək istəyirdilər.</verse>
+        <verse osisID='Acts.9.30'>İmanlı bacı-qardaşlar isə bunu öyrənəndə Şaulu Qeysəriyyəyə aparıb oradan Tarsusa göndərdilər. </verse>
+        <verse osisID='Acts.9.31'>Beləcə bütün Yəhudeya, Qalileya və Samariyadakı imanlılar cəmiyyəti əmin-amanlığa çatdı. İnkişaf edən və Rəbb qorxusu içində yaşayan cəmiyyət Müqəddəs Ruhun ürəkləndirməsi ilə sayca artırdı. </verse>
+        <verse osisID='Acts.9.32'>Bu zaman hər yanı dolaşan Peter Lodda yaşayan müqəddəslərin yanına gəldi.</verse>
+        <verse osisID='Acts.9.33'>Orada Eneya adlı bir nəfərə baş çəkdi. Eneya iflic olmuşdu və səkkiz il idi ki, yataqda idi.</verse>
+        <verse osisID='Acts.9.34'>Peter ona dedi: «Eneya, İsa Məsih səni sağaldır. Qalx, yatağını yığışdır». Eneya dərhal ayağa qalxdı.</verse>
+        <verse osisID='Acts.9.35'>Lod və Şaronda yaşayanların hamısı bu adamı görüb Rəbbə tərəf döndü. </verse>
+        <verse osisID='Acts.9.36'>Yafoda İsanın şagirdləri arasında Tabita adlı bir qadın var idi. «Tabita» «Ceyran» deməkdir. Bu qadın həmişə xeyirxah işlər görür və yoxsullara kömək edirdi.</verse>
+        <verse osisID='Acts.9.37'>Bu vaxtlarda o xəstələnib öldü. Onun meyitini yuyub yuxarı mərtəbədəki otağa qoydular.</verse>
+        <verse osisID='Acts.9.38'>Lod Yafoya yaxın idi, ona görə də Peterin Lodda olduğunu eşidən şagirdlər iki kişini onun yanına göndərdilər və onlar gəlib xahiş etdilər: «Vaxt itirmədən yanımıza gəl».</verse>
+        <verse osisID='Acts.9.39'>Peter durub onlarla getdi. Yafoya çatanda onlar Peteri evin yuxarı mərtəbəsinə çıxartdılar. Bütün dul qadınlar ağlaşa-ağlaşa Peterin yanına yığıldı və Tabitanın onlarla birlikdə olanda tikdiyi köynəkləri, paltarları göstərirdilər.</verse>
+        <verse osisID='Acts.9.40'>Peter isə onların hamısını bayıra çıxartdı, sonra diz çöküb dua etdi. Bundan sonra isə ölüyə tərəf dönüb dedi: «Tabita, qalx!» Qadın gözlərini açıb Peteri görən kimi dik oturdu.</verse>
+        <verse osisID='Acts.9.41'>Peter əlini uzadıb onu ayağa qaldırdı və sonra müqəddəslərlə dul qadınları çağırdı. Tabitanı sağ-salamat onların qarşısına çıxartdı.</verse>
+        <verse osisID='Acts.9.42'>Bu xəbər bütün Yafoya yayıldı və çox adam Rəbbə iman gətirdi.</verse>
+        <verse osisID='Acts.9.43'>Peter isə xeyli gün Yafoda, Şimon adlı bir dabbağın evində qaldı.  </verse>
+      </chapter>
+      <chapter osisID='Acts.10'>
+        <verse osisID='Acts.10.1'>
+          Qeysəriyyədə Korneli adlı bir nəfər yaşayırdı. O, İtaliyalı adlı alayın yüzbaşılarından biri idi.</verse>
+        <verse osisID='Acts.10.2'>Həm özü, həm də bütün külfəti mömin olub Allahdan qorxardı. O, xalqa çox nəzir-niyaz paylayar, daim Allaha dua edərdi.</verse>
+        <verse osisID='Acts.10.3'>Bir gün təxminən doqquzuncu saat radələrində görüntüdə aydın gördü ki, Allahın bir mələyi yanına gəlib onu çağırdı: «Ey Korneli!»</verse>
+        <verse osisID='Acts.10.4'>Korneli qorxa-qorxa ona baxıb dedi: «Nədir, ey ağam?» Mələk ona dedi: «Duaların və nəzir-niyazların xatirə təqdimi kimi Allahın hüzurunda qəbul olundu.</verse>
+        <verse osisID='Acts.10.5'>İndi Yafoya adamlar göndər, Peter adlanan Şimonu çağırtdır.</verse>
+        <verse osisID='Acts.10.6'>O, dabbağ Şimonun dəniz kənarındakı evində qonaqdır».</verse>
+        <verse osisID='Acts.10.7'>Onunla danışan mələk gedəndən sonra Korneli xidmətçilərindən ikisini və mühafizəçilərindən bir mömin əsgəri çağırtdırdı.</verse>
+        <verse osisID='Acts.10.8'>Onlara hər şeyi danışdı və sonra onları Yafoya göndərdi. </verse>
+        <verse osisID='Acts.10.9'>Ertəsi gün təxminən altıncı saat radələrində, onlar yolda olub şəhərə yaxınlaşanda Peter dua etmək üçün dama çıxdı.</verse>
+        <verse osisID='Acts.10.10'>O acıb yemək istəyirdi. Yemək hazırlanarkən Peterin fikrini bir görüntü apardı.</verse>
+        <verse osisID='Acts.10.11'>O gördü ki, göy yarıldı, böyük mələfəyə bənzər bir şey dörd küncündən asılaraq yerə endi.</verse>
+        <verse osisID='Acts.10.12'>Onun üstündə hər cür dördayaqlılar, sürünənlər və göydə uçan quşlar var idi.</verse>
+        <verse osisID='Acts.10.13'>Ona bir səda gəldi: «Qalx, Peter, kəs və ye!»</verse>
+        <verse osisID='Acts.10.14'>Peter Ona dedi: «Əsla, ya Rəbb! Mən heç vaxt nə haram, nə də murdar bir şey yeməmişəm».</verse>
+        <verse osisID='Acts.10.15'>Səda ikinci dəfə yenə gəldi və Peterə dedi: «Allahın halal dediyi şeylərə sən haram demə».</verse>
+        <verse osisID='Acts.10.16'>Bu, üç dəfə təkrarlanandan sonra o şey dərhal göyə çəkildi. </verse>
+        <verse osisID='Acts.10.17'>Peter bu görüntünün mənası barədə fikirləri ilə çaşbaş qalanda Kornelinin göndərdiyi adamlar Şimonun evini soruşurdular. Onlar qapı ağzında dayanıb</verse>
+        <verse osisID='Acts.10.18'>bərkdən soruşdular: «Peter deyə çağırılan Şimon burada qalırmı?»</verse>
+        <verse osisID='Acts.10.19'>Bu zaman görüntü barədə fikirləşən Peterə Ruh belə dedi: «Bax səni üç kişi axtarır.</verse>
+        <verse osisID='Acts.10.20'>Dur, aşağı en və heç tərəddüd etmədən onlarla get. Çünki onları Mən göndərmişəm».</verse>
+        <verse osisID='Acts.10.21'>Peter aşağı enib həmin adamlara dedi: «Axtardığınız adam mənəm. Niyə gəlmisiniz?»</verse>
+        <verse osisID='Acts.10.22'>Onlar dedilər: «Korneli adlı bir yüzbaşı var. O, saleh və Allahdan qorxan kişidir; buna bütün Yəhudi milləti də şahiddir. Müqəddəs bir mələk ona əmr etdi ki, səni öz evinə çağırtdırsın və deyəcəyin sözlərə qulaq assın».</verse>
+        <verse osisID='Acts.10.23'>Bundan sonra Peter onları içəri dəvət edib qonaq saxladı.  Ertəsi gün Peter qalxıb onlarla yola çıxdı və Yafodan olan bəzi qardaşlar da onlara qoşuldu.</verse>
+        <verse osisID='Acts.10.24'>Sonrakı gün Qeysəriyyəyə çatdı. Korneli öz qohumlarını və yaxın dostlarını bir yerə yığıb onları gözləyirdi.</verse>
+        <verse osisID='Acts.10.25'>Peter içəri girəndə Korneli ayağına düşüb ona səcdə etdi.</verse>
+        <verse osisID='Acts.10.26'>Peter isə onu ayağa qaldıraraq dedi: «Qalx, mən də sənin kimi insanam».</verse>
+        <verse osisID='Acts.10.27'>Peter Korneli ilə danışa-danışa içəri daxil olanda gördü ki, oraya xeyli adam yığılıb.</verse>
+        <verse osisID='Acts.10.28'>Onlara belə dedi: «Bilirsiniz ki, Yəhudilərə hər hansı bir yadelli ilə ünsiyyət yaratmaq, onlara qonaq getmək qadağandır. Amma insanları haram və murdar saymamağı Allah mənə göstərdi.</verse>
+        <verse osisID='Acts.10.29'>Buna görə məni çağıranda etiraz etmədən gəldim. Deyə bilərsinizmi, məni niyə çağırmısınız?»</verse>
+        <verse osisID='Acts.10.30'>Korneli cavab verdi: «Üç gün əvvəl elə bu vaxtlarda doqquzuncu saatın duasını edirdim ki, birdən parlaq libaslı bir kişi qarşımda dayandı</verse>
+        <verse osisID='Acts.10.31'>və dedi: “Ey Korneli, sənin duaların eşidildi və nəzir-niyazların Allah tərəfindən yada salındı.</verse>
+        <verse osisID='Acts.10.32'>İndi Yafoya adamlar göndər, Peter adlanan Şimonu çağırtdır. O, dabbağ Şimonun dəniz kənarındakı evində qonaqdır”.</verse>
+        <verse osisID='Acts.10.33'>Ona görə sənin yanına adamlar göndərdim və sən də xeyirxahlıq göstərərək gəldin. İndi hamımız Allahın önündəyik və Rəbbin sənə əmr etdiyi hər sözə qulaq asmağa hazırıq». </verse>
+        <verse osisID='Acts.10.34'>Peter sözə başlayıb dedi: «İndi bildim ki, həqiqətən, Allah tərəfkeşlik etmir.</verse>
+        <verse osisID='Acts.10.35'>Milliyətindən asılı olmayaraq kim ki Ondan qorxub əməlisaleh olarsa, Ona məqbuldur.</verse>
+        <verse osisID='Acts.10.36'>O, İsrail övladlarına Öz kəlamını göndərdi və hamının Sahibi olan İsa Məsih vasitəsilə barışdırma Müjdəsini yaydı.</verse>
+        <verse osisID='Acts.10.37'>Bilirsiniz ki, Yəhyanın vəftiz üçün çağırışından sonra Qalileyadan başlayaraq bütün Yəhudeyada nələr baş verdi.</verse>
+        <verse osisID='Acts.10.38'>Allah Nazaretli İsanı Müqəddəs Ruhla və qüdrətlə məsh etdi. İsa xeyirxahlıq edərək hər yanı gəzib iblisin təzyiqinə məruz qalanların hamısını sağaltdı. Çünki Allah Ona yar idi.</verse>
+        <verse osisID='Acts.10.39'>Yəhudilərin ölkəsində və Yerusəlimdə İsanın nələr etdiyinin şahidi olduq. Onu çarmıxa çəkib öldürdülər.</verse>
+        <verse osisID='Acts.10.40'>Amma Allah Onu üçüncü gün diriltdi və bütün xalqa deyil, əvvəlcədən seçdiyi Öz şahidlərinə – ölülər arasından dirilməsindən sonra Onunla birlikdə yeyib-içən bizlərə aydın göstərdi.</verse>
+        <verse osisID='Acts.10.41'>Amma Allah Onu üçüncü gün diriltdi və bütün xalqa deyil, əvvəlcədən seçdiyi Öz şahidlərinə – ölülər arasından dirilməsindən sonra Onunla birlikdə yeyib-içən bizlərə aydın göstərdi.</verse>
+        <verse osisID='Acts.10.42'>Bizə isə əmr verdi ki, “Allahın təyin etdiyi ölülərlə dirilərin Hakimi Budur” deyə bunu xalqa şəhadət etməklə vəz edək.</verse>
+        <verse osisID='Acts.10.43'>Onun barəsində bütün peyğəmbərlər şəhadət edir ki, Ona iman edən hər kəsin günahı Onun adı ilə bağışlanır». </verse>
+        <verse osisID='Acts.10.44'>Peter bu sözləri deyirdi ki, Müqəddəs Ruh söhbətə qulaq asan hər kəsin üzərinə endi.</verse>
+        <verse osisID='Acts.10.45'>Peterlə birlikdə gəlmiş sünnətli imanlılar Müqəddəs Ruhun bəxşiş olaraq başqa millətlərin də üstünə töküldüyünə mat qaldı;</verse>
+        <verse osisID='Acts.10.46'>onların başqa dillərdə danışıb Allahı mədh etdiyini eşitdilər. Onda Peter belə dedi:</verse>
+        <verse osisID='Acts.10.47'>«Bu adamlar bizim kimi Müqəddəs Ruhu alıb. Bunların su ilə vəftiz olmalarına kim mane ola bilər?»</verse>
+        <verse osisID='Acts.10.48'>Beləliklə, onların İsa Məsihin adı ilə vəftiz olmalarını buyurdu. Sonra onlar Peterdən xahiş etdilər ki, bir neçə gün onların yanında qalsın.  </verse>
+      </chapter>
+      <chapter osisID='Acts.11'>
+        <verse osisID='Acts.11.1'>
+          Həvarilərlə bütün Yəhudeyadakı imanlı bacı-qardaşlar eşitdilər ki, başqa millətlər də Allahın kəlamını qəbul ediblər.</verse>
+        <verse osisID='Acts.11.2'>Peter Yerusəlimə gələndə sünnət tərəfdarları onu tənqid edərək</verse>
+        <verse osisID='Acts.11.3'>dedilər: «Sən sünnətsizlərin evinə gedib onlarla birgə yemək yemisən». </verse>
+        <verse osisID='Acts.11.4'>Peter sözə başlayıb onlara hər şeyi bir-bir izah etdi:</verse>
+        <verse osisID='Acts.11.5'>«Mən Yafo şəhərində dua edirdim. Birdən fikrimi görüntü apardı. Gördüm ki, böyük mələfəyə bənzər bir şey dörd küncündən asılaraq göydən enib mənim yanıma çatır.</verse>
+        <verse osisID='Acts.11.6'>Bu şeyə gözlərimi dikib diqqətlə baxdım. Gördüm ki, onun üstündə yer üzərində yaşayan dördayaqlılar, çöl heyvanları, sürünənlər və göydə uçan quşlar var.</verse>
+        <verse osisID='Acts.11.7'>Sonra eşitdim ki, bir səda mənə deyir: “Qalx, Peter, kəs və ye!”</verse>
+        <verse osisID='Acts.11.8'>Mən dedim: “Əsla, ya Rəbb! Heç vaxt mənim ağzıma nə haram, nə də murdar bir şey dəyməyib”.</verse>
+        <verse osisID='Acts.11.9'>Yenə göydən səda gəldi: “Allahın halal dediyi şeylərə sən haram demə”.</verse>
+        <verse osisID='Acts.11.10'>Bu, üç dəfə təkrarlanandan sonra hər şey yenə göyə çəkildi.</verse>
+        <verse osisID='Acts.11.11'>Elə bu zaman Qeysəriyyədən mənim yanıma göndərilən üç kişi qaldığımız evin qapısında dayandı.</verse>
+        <verse osisID='Acts.11.12'>Ruh mənə dedi ki, tərəddüd etmədən onlarla gedim. İmanlı qardaşlarımız olan bu altı nəfər də mənə qoşulub həmin kişinin evinə girdik.</verse>
+        <verse osisID='Acts.11.13'>Bu adam bizə nəql etdi ki, öz evində dayanan mələk görüb. Mələk ona demişdi: “Yafoya adamlar göndər, Peter adlanan Şimonu çağırtdır.</verse>
+        <verse osisID='Acts.11.14'>Onun sənə deyəcəyi sözlərlə həm sən, həm də bütün külfətin xilas olacaq”.</verse>
+        <verse osisID='Acts.11.15'>Mən sözə başlayanda Müqəddəs Ruh başlanğıcda bizim üstümüzə endiyi kimi onların da üstünə endi.</verse>
+        <verse osisID='Acts.11.16'>Onda Rəbbin dediyi bu sözlər yadıma düşdü: “Yəhya su ilə vəftiz etdi, amma siz Müqəddəs Ruhla vəftiz olacaqsınız”.</verse>
+        <verse osisID='Acts.11.17'>Beləliklə, Rəbb İsa Məsihə iman edən bizlərə verdiyi eyni bəxşişi Allah onlara da veribsə, mən kiməm ki, Allaha qarşı çıxam?»</verse>
+        <verse osisID='Acts.11.18'>Bu sözləri eşidib hamı sakitləşdi və Allahı izzətləndirib dedi: «Deməli, Allah başqa millətlərə də imkan yaratdı ki, tövbə edib həyat tapsın». </verse>
+        <verse osisID='Acts.11.19'>Stefanın öldürülməsi ilə başlanan təqib nəticəsində pərən-pərən düşən imanlılar Finikiya, Kipr və Antakyaya qədər getdilər. Allahın kəlamını yalnız Yəhudilərə dedilər.</verse>
+        <verse osisID='Acts.11.20'>Amma onların arasından bəzi Kiprli və Kirenalılar Antakyaya gedib yunanca danışanlarla da söhbətə başladılar. Onlara Rəbb İsa ilə bağlı Müjdəni yayırdılar.</verse>
+        <verse osisID='Acts.11.21'>Rəbbin əli onların üzərində idi və bunun nəticəsində xeyli insan iman gətirib Rəbbə tərəf döndü.</verse>
+        <verse osisID='Acts.11.22'>Bunların xəbəri Yerusəlimdəki cəmiyyətə çatdı və Barnabanı Antakyaya göndərdilər.</verse>
+        <verse osisID='Acts.11.23'>O oraya çatanda Allahın lütfünün bəhrəsini görüb sevindi. O hamını həvəsləndirirdi ki, can-dildən Rəbbə bağlı qalsınlar.</verse>
+        <verse osisID='Acts.11.24'>Çünki özü Müqəddəs Ruhla və imanla dolu, xeyirxah bir kişi idi. Bunun nəticəsində də böyük bir kütlə Rəbbə iman gətirdi.</verse>
+        <verse osisID='Acts.11.25'>Sonra Barnaba Tarsusa gedib Şaulu axtardı.</verse>
+        <verse osisID='Acts.11.26'>Onu tapan kimi Antakyaya gətirdi. Bir il ərzində oradakı imanlılar cəmiyyətinə qoşulub bir yerdə yığılaraq böyük bir kütləyə təlim öyrədirdi. Şagirdlər ilk dəfə olaraq Antakyada məsihçi adlandırıldı. </verse>
+        <verse osisID='Acts.11.27'>Elə həmin günlərdə Yerusəlimdən Antakyaya bəzi peyğəmbərlər gəldi.</verse>
+        <verse osisID='Acts.11.28'>Bunlardan Aqab adlı biri qalxıb Ruhun təsiri ilə bütün dünyada böyük bir aclıq olacağını bildirdi. Bu aclıq Klavdinin hakimiyyəti dövrünə təsadüf olundu.</verse>
+        <verse osisID='Acts.11.29'>Şagirdlər qərara aldılar ki, hər biri gücü çatan qədər Yəhudeyada yaşayan imanlı bacı-qardaşlarına yardım göndərsin.</verse>
+        <verse osisID='Acts.11.30'>Bu qərara əməl edərək yardımları Barnaba və Şaulun əli ilə cəmiyyət ağsaqqallarına göndərdilər.  </verse>
+      </chapter>
+      <chapter osisID='Acts.12'>
+        <verse osisID='Acts.12.1'>
+          O vaxtlar padşah Hirod cəmiyyətin bəzi üzvlərinə zülm etməyə əl atdı.</verse>
+        <verse osisID='Acts.12.2'>Yəhyanın qardaşı Yaqubu qılıncdan keçirib edam etdirdi.</verse>
+        <verse osisID='Acts.12.3'>Bundan Yəhudilərin razı qaldığını görüb üstəlik Peteri də tutdurdu. Bunu Mayasız Çörək bayramı vaxtında etdi.</verse>
+        <verse osisID='Acts.12.4'>O, Peteri yaxalatdırıb zindana saldırdı; onu hər birində dörd nəfər olmaqla dörd əsgəri dəstəyə nəzarət altında saxlanmaq üçün təslim etdi. Niyyətində tutmuşdu ki, Pasxa bayramından sonra xalq qarşısında onun məhkəməsini keçirsin.</verse>
+        <verse osisID='Acts.12.5'>Peter buna görə zindanda saxlanılırdı. Lakin imanlılar cəmiyyəti ciddi-cəhdlə onun üçün Allaha dua edirdi. </verse>
+        <verse osisID='Acts.12.6'>Peter Hirodun ona məhkəmə quracağı günün əvvəlki gecəsi iki əsgər arasında bir cüt zəncirə bağlanmış halda yatırdı. Qarovulçular da qapıda dayanıb zindanın təhlükəsizliyini qoruyurdu.</verse>
+        <verse osisID='Acts.12.7'>Qəflətən Rəbbin bir mələyi göründü. Zindanın otağı işıqlandı. Mələk Peterin böyrünə vurub onu oyatdı və dedi: «Tez ol, qalx». O andaca Peterin biləklərindəki zəncirlər düşdü.</verse>
+        <verse osisID='Acts.12.8'>Mələk ona dedi: «Qurşağını bağla, çarığını geyin». Peter belə də etdi. Mələk yenə dedi: «Üst paltarını geyin, ardımca gəl».</verse>
+        <verse osisID='Acts.12.9'>Peter onun ardınca düşərək bayıra çıxdı. Amma mələyin etdiyinin həqiqi olduğunu başa düşmürdü, elə bilirdi ki, bir görüntü görür.</verse>
+        <verse osisID='Acts.12.10'>Birinci, ikinci qarovulçunun yanından keçərək şəhərə açılan dəmir darvazaya çatdılar. Onların qarşısında darvaza öz-özünə açıldı. Onlar çıxıb küçə uzunu getdilər. Birdən mələk Peterdən ayrıldı.</verse>
+        <verse osisID='Acts.12.11'>O andaca özünə gələn Peter dedi: «İndi əminliklə başa düşdüm ki, Rəbb Öz mələyini göndərib məni Hirodun əlindən və Yəhudi xalqının gözlədiyi bütün bəlalardan qurtardı». </verse>
+        <verse osisID='Acts.12.12'>Peter bunları dərk edəndə Mark adlanan Yəhyanın anası Məryəmin evinə getdi. Orada xeyli adam yığılıb dua edirdi.</verse>
+        <verse osisID='Acts.12.13'>Peter həyət qapısını döyməyə başladı və Roda adlı bir qarabaş eşidib qapıya getdi.</verse>
+        <verse osisID='Acts.12.14'>Qız Peteri səsindən tanıdı və sevincindən qapını belə, açmadan yenə evə qaçdı. Oradakılara xəbər verdi ki, Peter qapıda dayanıb.</verse>
+        <verse osisID='Acts.12.15'>Onlar isə belə dedilər: «Dəli olmusan?» Amma qız dediyinin üstündə durdu. Belə olanda dedilər: «Yəqin onu qoruyan mələkdir».</verse>
+        <verse osisID='Acts.12.16'>Peter isə dayanmadan qapını döyürdü. Qapını açıb onu görəndə mat qaldılar.</verse>
+        <verse osisID='Acts.12.17'>Peter əli ilə susmaq işarəsi verərək Rəbbin onu necə zindandan çıxardığını nəql etdi. Sonra «bu xəbəri Yaquba və o biri qardaşlara da çatdırın» deyərək onlardan ayrılıb başqa yerə getdi. </verse>
+        <verse osisID='Acts.12.18'>Səhər açılanda əsgərləri böyük bir vahimə bürüdü. Bir-birlərindən soruşdular: «Bəs Peter necə oldu?»</verse>
+        <verse osisID='Acts.12.19'>Hirod onu axtartdı. Tapa bilməyəndə isə qarovulçuları sorğu-suala çəkdirəndən sonra edam edilmələrinə əmr verdi.  Bundan sonra Hirod Yəhudeyadan Qeysəriyyəyə yollandı və orada qaldı.</verse>
+        <verse osisID='Acts.12.20'>Hirod Sur və Sidon əhalisinə qarşı hiddətindən alışıb-yanırdı. Onlar birlikdə onun yanına gəlib sarayın məişət işləri üzrə müdiri Blastı öz tərəflərinə çəkərək sülh istədiklərini bildirdilər. Çünki onların ölkəsi padşahın ölkəsindən gələn ərzaqdan asılı idi.</verse>
+        <verse osisID='Acts.12.21'>Təyin olunan gündə şahlıq libasını geyən Hirod hökm kürsüsünə oturaraq Sur və Sidonlulara müraciət etdi.</verse>
+        <verse osisID='Acts.12.22'>Camaat qışqırmağa başladı: «Bu bir insanın səsi deyil, bir allahın səsidir!»</verse>
+        <verse osisID='Acts.12.23'>O anda Rəbbin bir mələyi Hirodu vurdu. Çünki izzəti Allaha vermədi. Onu daxildən qurdlar yedi və canı çıxdı. </verse>
+        <verse osisID='Acts.12.24'>Allahın kəlamı isə yayılırdı və təsiri artırdı.</verse>
+        <verse osisID='Acts.12.25'>Barnaba və Şaul Yerusəlimdəki xidmətlərini yerinə yetirəndən sonra Mark adlanan Yəhyanı özləri ilə götürüb geri qayıtdılar.  </verse>
+      </chapter>
+      <chapter osisID='Acts.13'>
+        <verse osisID='Acts.13.1'>Antakyadakı cəmiyyətdə peyğəmbərlər və müəllimlər var idi: Barnaba, Niger adlanan Şimeon, Kirenalı Luki, hökmdar Hirodun süd qardaşı Menaxem və Şaul.</verse>
+        <verse osisID='Acts.13.2'>Bu adamlar Rəbbə xidmət edib oruc tutarkən Müqəddəs Ruh onlara dedi: «Barnaba ilə Şaulu Mənim tapşırdığım iş üçün ayırın».</verse>
+        <verse osisID='Acts.13.3'>Beləliklə, oruc tutub dua etdikdən sonra Barnaba ilə Şaulun üzərinə əllərini qoydular və onları yola saldılar. </verse>
+        <verse osisID='Acts.13.4'>Müqəddəs Ruhun əmri ilə yola çıxan Barnaba və Şaul Selevkiyaya getdilər və oradan da gəmi ilə Kiprə getdilər.</verse>
+        <verse osisID='Acts.13.5'>Salamisə çatanda Yəhudilərin sinaqoqlarında Allahın kəlamını bəyan etməyə başladılar. Yəhya isə onların köməkçisi idi.</verse>
+        <verse osisID='Acts.13.6'>Adanı başdan-başa gəzərək Pafosa çatdılar. Orada Baryeşu adlı bir Yəhudi cadugər və yalançı peyğəmbərə rast gəldilər.</verse>
+        <verse osisID='Acts.13.7'>Baryeşu vali Sergi Paula yaxın adam idi. Ağıllı kişi olan vali Barnaba ilə Şaulu çağırtdırıb Allahın kəlamına qulaq asmaq istədi.</verse>
+        <verse osisID='Acts.13.8'>Lakin adı cadugər mənasını verən Elima, yəni Baryeşu buna qarşı çıxaraq valini imandan azdırmağa çalışırdı.</verse>
+        <verse osisID='Acts.13.9'>Amma Müqəddəs Ruhla dolan Şaul, yəni Paul gözlərini Elimaya dikib</verse>
+        <verse osisID='Acts.13.10'>dedi: «Ey iblis oğlu, ürəyin hər cür hiylə və fırıldaqla doludur. Ey salehliyə tamamilə düşmən kəsilən, Rəbbin haqq yolunu əyri qələmə verməkdən əl çəkməyəcəksənmi?</verse>
+        <verse osisID='Acts.13.11'>İndi isə bax, sənin üstünə Rəbbin əli gəlir. Kor olacaqsan, bir müddət gün işığı görməyəcəksən». O anda həmin adamın üzərinə bir duman, bir qaranlıq çökdü. Ora-bura gəzərək kimisə axtarırdı ki, onun əlindən tutub yol göstərsin.</verse>
+        <verse osisID='Acts.13.12'>Olanları görən vali Rəbbin təliminə təəccübləndi və iman etdi. </verse>
+        <verse osisID='Acts.13.13'>Paulla yanındakılar Pafosdan yelkən açıb Pamfiliya bölgəsindəki Perge şəhərinə çatdı. Yəhya isə onlardan ayrılıb Yerusəlimə qayıtdı.</verse>
+        <verse osisID='Acts.13.14'>Onlar yollarına davam edib Pergedən Pisidiyada olan Antakyaya çatdılar. Şənbə günü sinaqoqa girib oturdular.</verse>
+        <verse osisID='Acts.13.15'>Qanunun və Peyğəmbərlərin yazılarının oxunmasından sonra sinaqoq rəisləri onları çağırtdırıb dedilər: «Qardaşlar, xalqa ürəkləndirici müraciətiniz varsa, buyurub deyin». </verse>
+        <verse osisID='Acts.13.16'>Paul ayağa qalxıb diqqəti cəlb etmək üçün əlini qaldıraraq dedi: «Ey İsraillilər və Allahdan qorxanlar, qulaq asın.</verse>
+        <verse osisID='Acts.13.17'>Bu xalqın, yəni İsraillilərin səcdə etdiyi Allah bizim ata-babalarımızı seçdi və Misirdə – qürbət eldə yaşadıqları müddət ərzində onları böyük bir millət etdi. Sonra əlini uzadıb onları Misirdən çıxartdı.</verse>
+        <verse osisID='Acts.13.18'>Qırx ilə yaxın səhrada qaldıqları müddət ərzində onlara dözdü.</verse>
+        <verse osisID='Acts.13.19'>Kənan torpağında yaşayan yeddi milləti qırandan sonra bu millətlərin torpaqlarını irs olaraq İsrail xalqına verdi.</verse>
+        <verse osisID='Acts.13.20'>Bütün bunlar təqribən dörd yüz əlli ili əhatə etdi. Sonra Allah onlar üçün hakimlər yetirdi. Bu, peyğəmbər Şamuelin dövrünə qədər davam etdi.</verse>
+        <verse osisID='Acts.13.21'>Xalq padşah istəyəndə isə Allah Binyamin qəbiləsindən olan Qiş oğlu Şaulu onlar üçün padşah təyin etdi. O, qırx il padşahlıq etdi.</verse>
+        <verse osisID='Acts.13.22'>Onu aradan götürəndən sonra Allah Davudu ucaldıb onların üzərində padşah etdi və onun barəsində şəhadət etdi: “Öz ürəyimə yatan adam olaraq Yessey oğlu Davudu tapdım və o Mənim bütün istədiklərimi yerinə yetirəcək”.</verse>
+        <verse osisID='Acts.13.23'>Allah Öz vədinə sadiq qalıb bu adamın soyundan olan Xilaskar İsanı İsrailə göndərdi.</verse>
+        <verse osisID='Acts.13.24'>İsanın gəlişindən əvvəl Yəhya bütün İsrail xalqına vəz etmişdi ki, tövbə edib vəftiz olunsunlar.</verse>
+        <verse osisID='Acts.13.25'>Yəhya işini qurtararkən dedi: “Məni kim sayırsınız? O Şəxs mən deyiləm. Məndən sonra O gəlir. Mən Onun ayağındakı çarığını açmağa belə, layiq deyiləm”. </verse>
+        <verse osisID='Acts.13.26'>Qardaşlar, ey İbrahimin nəslinin övladları və aranızda olan Allahdan qorxanlar, bu xilas sözü bizə göndərilib.</verse>
+        <verse osisID='Acts.13.27'>Çünki Yerusəlim əhalisi və onların rəhbərləri İsanı tanımadı. Beləliklə, Onu mühakimə etməklə hər Şənbə günü oxunan peyğəmbərlərin sözünü yerinə yetirdilər.</verse>
+        <verse osisID='Acts.13.28'>Onda ölümə layiq heç bir təqsir tapmasalar da, Pilatdan Onun edam olunmasını tələb etdilər.</verse>
+        <verse osisID='Acts.13.29'>Onun barəsində yazılanların hamısını tam yerinə yetirəndən sonra Onu çarmıxdan düşürüb qəbirə qoydular.</verse>
+        <verse osisID='Acts.13.30'>Lakin Allah Onu ölülər arasından diriltdi.</verse>
+        <verse osisID='Acts.13.31'>İsa xeyli günlər ərzində daha əvvəl Qalileyadan Onunla Yerusəlimə gələnlərə göründü. Bu adamlar indi Onun barəsində xalq üçün şahiddir. </verse>
+        <verse osisID='Acts.13.32'>Biz indi sizə bu Müjdəni bəyan edirik: ata-babalarımıza verilən vəd həyata keçib,</verse>
+        <verse osisID='Acts.13.33'>Allah İsanı diriltməklə bu vədi onların övladları olan bizlər üçün yerinə yetirib. İkinci məzmurda belə yazılıb:  “Sən Mənim Oğlumsan,Mən bu gün Sənə Ata oldum”.</verse>
+        <verse osisID='Acts.13.34'>Allah Onu ölülər arasından dirildərək heç vaxt çürüməyə qoymayacaq. Ona görə demişdi: “Davuda vəd etdiyim sadiq məhəbbəti sizə göstərəcəyəm”.</verse>
+        <verse osisID='Acts.13.35'>Buna görə də başqa yerdə belə deyir: “Mömin insanını çürüməyə qoymazsan”.</verse>
+        <verse osisID='Acts.13.36'>Davud öz müasirlərinə Allahın iradəsinə müvafiq xidmət edəndən sonra vəfat etdi. O da ataları ilə uyudu və cəsədi çürüyüb-getdi.</verse>
+        <verse osisID='Acts.13.37'>Amma Allahın diriltdiyi İnsanın cismi çürümədi. </verse>
+        <verse osisID='Acts.13.38'>Bununla da, ey qardaşlar, bilin ki, bu İnsan vasitəsilə günahların bağışlanması sizə elan edilir. Belə ki Musanın Qanununa görə saleh sayılmamanızın səbəblərinin heç birinə baxmayaraq,</verse>
+        <verse osisID='Acts.13.39'>iman edən hər kəs bu İnsanda saleh sayılacaq.</verse>
+        <verse osisID='Acts.13.40'>Ehtiyatlı olun ki, Peyğəmbərlərin dedikləri baş verməsin:</verse>
+        <verse osisID='Acts.13.41'>“Baxın, siz ey xor baxanlar,Mat qalın və yox olun.Sizin vaxtınızda elə işlər görəcəyəm ki,Sizə danışsaydılar, inanmazdınız”». </verse>
+        <verse osisID='Acts.13.42'>Paulla Barnaba sinaqoqdan çıxarkən camaat onlardan xahiş etdi ki, gələn Şənbə günü yenə də bu mövzudan danışsınlar.</verse>
+        <verse osisID='Acts.13.43'>Sinaqoqda olan camaat çıxıb gedəndən sonra xeyli Yəhudi və Yəhudi dinini qəbul edən möminlər Paul və Barnabanın ardınca getdilər. Onlar da bu adamlarla söhbətlər edir və Allahın lütfündə dönməz olsunlar deyə onlara öyüd-nəsihət verirdilər. </verse>
+        <verse osisID='Acts.13.44'>Növbəti Şənbə Rəbbin kəlamına qulaq asmaq üçün demək olar ki bütün şəhər əhalisi toplaşmışdı.</verse>
+        <verse osisID='Acts.13.45'>İzdihamı görən Yəhudiləri qısqanclıq bürüdü və Paulun nitqinin əleyhinə qalxıb ona böhtan atdılar.</verse>
+        <verse osisID='Acts.13.46'>Paulla Barnaba isə cəsarətlə dedilər: «Allahın kəlamı əvvəlcə sizə bəyan olunmalı idi. Sizin ondan imtina etdiyiniz və özünüzü əbədi həyata layiq görmədiyiniz üçün biz indi başqa millətlərə üz tuturuq.</verse>
+        <verse osisID='Acts.13.47'>Çünki Rəbbin bizə əmri belə idi:  “Səni millətlərə nur etmişəm ki,Xilası dünyanın ən uzaq yerlərinə yayasan”».</verse>
+        <verse osisID='Acts.13.48'>Başqa millətlərdən olanlar bunu eşidərkən sevinirdilər və Rəbbin kəlamını izzətləndirirdilər. Əbədi həyat üçün təyin olunanların hamısı iman gətirdi.</verse>
+        <verse osisID='Acts.13.49'>Beləliklə, Rəbbin kəlamı bütün bölgəyə yayıldı.</verse>
+        <verse osisID='Acts.13.50'>Amma Yəhudilər hörmətli, mömin qadınları və şəhərin nüfuzlu adamlarını təşvişə saldılar. Onlar da Paulla Barnabanı təqib edib o bölgədən qovdular.</verse>
+        <verse osisID='Acts.13.51'>Buna görə də Paulla Barnaba ayaqlarının tozunu onların üstünə çırpıb Konyaya getdilər.</verse>
+        <verse osisID='Acts.13.52'>Şagirdlər isə sevinc və Müqəddəs Ruhla doldular.  </verse>
+      </chapter>
+      <chapter osisID='Acts.14'>
+        <verse osisID='Acts.14.1'>
+          Konyada Paulla Barnaba Yəhudilərin sinaqoquna birlikdə daxil olub elə danışdılar ki, həm Yəhudilərdən, həm də Yunanlardan ibarət böyük kütləni imana gətirdilər.</verse>
+        <verse osisID='Acts.14.2'>Amma inanmayan Yəhudilər başqa millətlərdən olanları qızışdıraraq onları imanlıların əleyhinə qaldırdılar.</verse>
+        <verse osisID='Acts.14.3'>Xeyli vaxt orada qalan Paulla Barnaba cəsarətlə Rəbb haqqında danışırdı. Rəbb isə onlara əlamət və xariqə göstərmək gücünü verməklə Öz lütfü barədə kəlamı təsdiqlədi.</verse>
+        <verse osisID='Acts.14.4'>Amma şəhər əhalisi iki hissəyə bölündü. Bəziləri Yəhudilərin, bəziləri isə həvarilərin tərəfini saxladı.</verse>
+        <verse osisID='Acts.14.5'>Yəhudilərlə başqa millətlərdən olanlar və onların rəhbərləri həvariləri təhqir edərək daşqalaq etmək üçün bir sui-qəsd hazırladı.</verse>
+        <verse osisID='Acts.14.6'>Bundan xəbər tutan bu həvarilər Likaoniyanın Listra ilə Derbe şəhərlərinə və oranın ətraf yerlərinə qaçdılar.</verse>
+        <verse osisID='Acts.14.7'>Orada da Müjdəni yaydılar. </verse>
+        <verse osisID='Acts.14.8'>Listrada ayaqlarından şikəst olan bir kişi var idi. Bu adam anadangəlmə əlil idi, heç vaxt yeriməmişdi.</verse>
+        <verse osisID='Acts.14.9'>O, Paulun dediklərinə qulaq asırdı. Ona göz qoyan Paul gördü ki, sağalacağına imanı var.</verse>
+        <verse osisID='Acts.14.10'>Ona görə bərkdən dedi: «Qalx, ayaq üstə dur!» Bu adam yerindən atılıb yeriməyə başladı.</verse>
+        <verse osisID='Acts.14.11'>Camaat Paulun etdiyini görəndə haray salıb Likaoniya dilində dedi: «Tanrılar insan şəklində yanımıza gəlib!»</verse>
+        <verse osisID='Acts.14.12'>Barnabaya Zevs, Paula isə aparıcı natiq olduğuna görə Hermes dedilər.</verse>
+        <verse osisID='Acts.14.13'>Şəhərin qarşısında yerləşən Zevs məbədinin kahini şəhər darvazalarına buğalar və çələnglər gətirdi. O, camaatla birgə qurban kəsmək istədi.</verse>
+        <verse osisID='Acts.14.14'>Amma həvarilər – Barnaba ilə Paul bunu eşidən kimi paltarlarını cırdılar və izdihamın içinə girib haray çəkdilər:</verse>
+        <verse osisID='Acts.14.15'>«Ay ağalar, niyə belə edirsiniz? Biz də sizin kimi insanıq, eyni varlığıq. Sizə Müjdə gətirmişik. Əl çəkin bu boş şeylərdən. Yeri, göyü, dənizi və bunların içindəki hər şeyi yaradan, var olan Allaha tərəf dönün.</verse>
+        <verse osisID='Acts.14.16'>O, əvvəlki nəsillərin dövründə yaşayan bütün millətlərə öz yolları ilə getməyə izin verdi.</verse>
+        <verse osisID='Acts.14.17'>Lakin yenə də Özünü şahidsiz qoymadı. Sizə yaxşılıq edərək göydən yağışlar yağdırır, cürbəcür məhsullar yetişdirən fəsillər bəxş edir, sizi yeməklə doydurur və ürəyinizi sevincə qərq edir».</verse>
+        <verse osisID='Acts.14.18'>Bu sözlərlə camaatın onlara qurban kəsməsinin qarşısını bir çətinliklə aldılar. </verse>
+        <verse osisID='Acts.14.19'>Antakya və Konyadan bəzi Yəhudilər gəlib xalqı öz tərəfinə çəkərək Paulu daşqalaq etdilər. Elə bildilər ki, Paul ölüb, onu şəhərdən kənara sürüdülər.</verse>
+        <verse osisID='Acts.14.20'>Şagirdlər ətrafına yığılanda isə Paul ayağa qalxıb şəhərə qayıtdı. Ertəsi gün isə Barnaba ilə birlikdə Derbeyə getdi.</verse>
+        <verse osisID='Acts.14.21'>O şəhərdə də Müjdə yayıb xeyli şagird hazırladılar.  Paulla Barnaba daha sonra Listraya, Konyaya və Pisidiyada olan Antakyaya qayıtdı.</verse>
+        <verse osisID='Acts.14.22'>Şagirdləri ruhən möhkəmləndirdilər və imanda dönməz olsunlar deyə onları həvəsləndirərək dedilər: «Allahın Padşahlığına çox əziyyətlərdən keçərək girməliyik».</verse>
+        <verse osisID='Acts.14.23'>İmanlılar üçün hər cəmiyyətdə ağsaqqallar seçərək dua və orucla onları inandıqları Rəbbə əmanət etdilər. </verse>
+        <verse osisID='Acts.14.24'>Pisidiya bölgəsindən keçərək Pamfiliyaya gəldilər.</verse>
+        <verse osisID='Acts.14.25'>Pergedə kəlamı yayandan sonra Antalyaya getdilər.</verse>
+        <verse osisID='Acts.14.26'>Oradan gəmi ilə Suriyadakı Antakyaya qayıtdılar. Onların indi yerinə yetirdikləri xidmət üçün burada Allahın lütfünə əmanət edilmişdilər.</verse>
+        <verse osisID='Acts.14.27'>Oraya çatanda cəmiyyəti bir yerə yığıb Allahın onlar vasitəsilə nə etdiyini, başqa millətlərə iman qapısını necə açdığını söylədilər</verse>
+        <verse osisID='Acts.14.28'>və şagirdlərin yanında uzun müddət qaldılar.  </verse>
+      </chapter>
+      <chapter osisID='Acts.15'>
+        <verse osisID='Acts.15.1'>
+           Yəhudeyadan gələn bəzi adamlar Antakyadakı imanlı bacı-qardaşlara belə təlim öyrədirdi: «Əgər siz Musanın qoyduğu adətə görə sünnət olmasanız, xilas ola bilməzsiniz».</verse>
+        <verse osisID='Acts.15.2'>Paul və Barnaba bu adamlarla çox çəkişib mübahisə etdi. Nəhayət qərara alındı ki, Paulla Barnaba digər qardaşlardan bir neçəsini götürərək Yerusəlimə gedib bu sualın müzakirəsi üçün həvarilər və ağsaqqallarla görüşsünlər.</verse>
+        <verse osisID='Acts.15.3'>Beləliklə, cəmiyyət tərəfindən göndərilənlər Finikiya və Samariya bölgələrindən keçdilər. Başqa millətlərin Allaha tərəf necə dönmələrini xəbər verə-verə oradakı bütün imanlı bacı-qardaşları çox sevindirdilər.</verse>
+        <verse osisID='Acts.15.4'>Yerusəlimə çatanda oradakı imanlılar cəmiyyəti və həvarilərlə ağsaqqallar onları yaxşı qarşıladılar. Allahın onlar vasitəsilə etdiyi hər şeyi danışdılar.</verse>
+        <verse osisID='Acts.15.5'>Amma farisey təriqətindən olmuş bəzi imanlılar qalxıb belə dedilər: «Başqa millətlərdən olanları sünnət etmək və onlara Musanın Qanununa riayət etmələrini əmr etmək lazımdır». </verse>
+        <verse osisID='Acts.15.6'>Həvarilərlə ağsaqqallar bu mövzunun müzakirəsi üçün toplaşdılar.</verse>
+        <verse osisID='Acts.15.7'>Uzun-uzadı mübahisələrdən sonra Peter ayağa qalxıb dedi: «Qardaşlar, bildiyiniz kimi Allah aranızdan çoxdan bəri məni seçib ki, başqa millətlərdən olanlar Müjdəni mənim dilimdən eşidib iman etsinlər.</verse>
+        <verse osisID='Acts.15.8'>İnsanın ürəyindən xəbərdar olan Allah bizə verdiyi kimi Müqəddəs Ruhu onlara da verməklə təsdiq etdi ki, onları qəbul edir.</verse>
+        <verse osisID='Acts.15.9'>Onlarla bizim aramızda heç bir ayrı-seçkilik yaratmadı, imanları ilə onların da ürəklərini təmizlədi.</verse>
+        <verse osisID='Acts.15.10'>Elə isə nə bizim, nə də ata-babalarımızın gəzdirə bilmədiyi boyunduruğu niyə bu şagirdlərin boynuna yükləyərək Allahı sınağa çəkirsiniz?</verse>
+        <verse osisID='Acts.15.11'>Əksinə, inanırıq ki, biz də Rəbb İsanın lütfü ilə xilas oluruq, onlar da». </verse>
+        <verse osisID='Acts.15.12'>Onda bütün toplantı sakitləşdi və Barnaba ilə Paula qulaq asmağa başladılar. Barnaba ilə Paul Allahın onlar vasitəsilə başqa millətlər arasında göstərdiyi əlamət və xariqələrin hamısını danışdı.</verse>
+        <verse osisID='Acts.15.13'>Onlar sözlərini yekunlaşdırandan sonra Yaqub söz alıb dedi: «Qardaşlar, mənə qulaq asın!</verse>
+        <verse osisID='Acts.15.14'>Allah başqa millətlərdən Öz adı üçün bir xalq yaratmaq məqsədi ilə onlara ilk dəfə necə nəzər salması barədə Şimon izahat verdi.</verse>
+        <verse osisID='Acts.15.15'>Peyğəmbərlərin sözləri bunu təsdiqləyir. Orada yazıldığı kimi:</verse>
+        <verse osisID='Acts.15.16'>“Bundan sonra qayıdacağam,Davudun yıxılan çadırını bərpa edəcəyəm.Onun dağılan yerlərini yenidən tikəcəyəm,Onu əvvəlki halına salacağam,</verse>
+        <verse osisID='Acts.15.17'>Ona görə ki qalan insanlar –Mənim adımla çağırılan bütün millətlər Rəbbi axtarsınlar.Bunları qədimdən bəri məlum edən Rəbb belə deyir”.</verse>
+        <verse osisID='Acts.15.18'>Ona görə ki qalan insanlar –Mənim adımla çağırılan bütün millətlər Rəbbi axtarsınlar.Bunları qədimdən bəri məlum edən Rəbb belə deyir”.</verse>
+        <verse osisID='Acts.15.19'>Beləliklə, bu qərara gəlmişəm ki, başqa millətlərdən Allaha tərəf dönənlərə maneçilik törətməməliyik.</verse>
+        <verse osisID='Acts.15.20'>Lakin onlara yazmalıyıq ki, bütlərə təqdim olunub murdarlanan qurbanların ətini, boğularaq öldürülən heyvanların ətini və qan yeməsinlər; əxlaqsızlıqdan da özlərini uzaq saxlasınlar.</verse>
+        <verse osisID='Acts.15.21'>Çünki qədim nəsillərin dövründən bəri hər şəhərdə Musanın sözlərini vəz edənlər var və bu sözlər hər Şənbə günü sinaqoqlarda oxunmaqdadır». </verse>
+        <verse osisID='Acts.15.22'>Buna görə bütün imanlılar cəmiyyəti ilə həvarilər və ağsaqqallar razılığa gəldilər ki, öz aralarından adamlar seçib Paul və Barnaba ilə birlikdə Antakyaya göndərsinlər. İmanlı bacı-qardaşlar arasında rəhbərlik edən Barsabba adlanan Yəhuda ilə Silanı seçdilər.</verse>
+        <verse osisID='Acts.15.23'>Onların əlinə bu məktubu verib göndərdilər: </verse>
+        <verse osisID='Acts.15.24'>Eşitdik ki, bizlərdən bəzi adamlar yanınıza gəlib sözləri ilə sizi lərzəyə salaraq düşüncələrinizi qarışdırıblar. Lakin bunu onlara biz tapşırmamışdıq.</verse>
+        <verse osisID='Acts.15.25'>Ona görə də aramızdan bəzi adamları seçib sevimli dostlarımız Barnaba və Paulla bərabər sizin yanınıza göndərməyi yekdilliklə qərara aldıq.</verse>
+        <verse osisID='Acts.15.26'>Hər ikisi Rəbbimiz İsa Məsihin adı uğrunda canını təhlükəyə atıb.</verse>
+        <verse osisID='Acts.15.27'>Qərarımıza müvafiq sizin yanınıza Yəhuda ilə Silanı göndəririk ki, eyni şeyləri sizə şifahi olaraq şərh etsinlər.</verse>
+        <verse osisID='Acts.15.28'>Müqəddəs Ruh və biz vacib olan bu qaydalardan başqa sizin üstünüzə heç nəyi yükləməməyi lazım bildik:</verse>
+        <verse osisID='Acts.15.29'>Bütlərə təqdim olunan qurbanların ətini, boğularaq öldürülən heyvanların ətini və qan yeməyin; əxlaqsızlıqdan da özünüzü uzaq saxlayın. Bunlardan qaçsanız, düz edərsiniz. Salamat qalın». </verse>
+        <verse osisID='Acts.15.30'>Beləliklə, adamlar yola düşüb Antakyaya getdilər və camaatı bir yerə yığıb məktubu onlara verdilər.</verse>
+        <verse osisID='Acts.15.31'>İmanlılar ucadan oxunan məktubun ürəkləndirici sözlərindən sevindilər.</verse>
+        <verse osisID='Acts.15.32'>İkisi də peyğəmbər olan Yəhuda və Sila bir çox danışıqlar apararaq imanlı bacı-qardaşları ürəkləndirib ruhən möhkəmləndirdilər.</verse>
+        <verse osisID='Acts.15.33'>Bir müddət orada qalandan sonra onları göndərənlərin yanına qayıtmaq üçün bacı-qardaşlar tərəfindən əmin-arxayın yola salındılar.</verse>
+        <verse osisID='Acts.15.34'/>
+        <verse osisID='Acts.15.35'>Paulla Barnaba Antakyada qalıb xeyli başqa adamla birlikdə Rəbbin kəlamını öyrədərək Müjdəni yaydılar. </verse>
+        <verse osisID='Acts.15.36'>Bundan bir qədər sonra Paul Barnabaya dedi: «Rəbbin kəlamını elan etdiyimiz bütün şəhərlərə qayıdıb imanlı bacı-qardaşlara baş çəkək, hal-əhval tutaq».</verse>
+        <verse osisID='Acts.15.37'>Barnaba istədi ki, Mark adlanan Yəhyanı da aparsınlar.</verse>
+        <verse osisID='Acts.15.38'>Amma Paul Pamfiliyada onları atıb gedən, onlarla birlikdə işini başa çatdırmayan adamı özləri ilə götürməyi məsləhət bilmədi.</verse>
+        <verse osisID='Acts.15.39'>Onların arasında elə kəskin fikir ayrılığı oldu ki, bir-birlərindən ayrıldılar. Barnaba Markı götürüb Kiprə doğru yelkən açdı.</verse>
+        <verse osisID='Acts.15.40'>Paul isə Silanı seçdi və imanlı bacı-qardaşlar tərəfindən Rəbbin lütfünə əmanət ediləndən sonra yola çıxdı.</verse>
+        <verse osisID='Acts.15.41'>Onlar Suriya və Kilikiyanı gəzib-dolaşdılar və cəmiyyətləri möhkəmləndirdilər.  </verse>
+      </chapter>
+      <chapter osisID='Acts.16'>
+        <verse osisID='Acts.16.1'>
+          Paul Derbe və Listraya gəldi. Listrada Timotey adlı bir İsa şagirdi var idi. Onun anası imanlı bir Yəhudi, atası isə Yunan idi.</verse>
+        <verse osisID='Acts.16.2'>Listra və Konyadakı imanlı bacı-qardaşlar onun barəsində xoş sözlər deyirdi.</verse>
+        <verse osisID='Acts.16.3'>Timoteyi özü ilə aparmaq istəyən Paul bu şəhərlərdəki Yəhudilərə görə onu sünnət etdi. Çünki hamı onun atasının Yunan olduğunu bilirdi.</verse>
+        <verse osisID='Acts.16.4'>Onlar şəhərbəşəhər gəzib-dolaşır, Yerusəlimdəki həvarilərlə ağsaqqalların qərara aldığı qaydaları imanlılara deyir və göstərirdi ki, bunlara riayət etsinlər.</verse>
+        <verse osisID='Acts.16.5'>Beləliklə, cəmiyyətlər imanda güclənir və sayı günbəgün artırdı. </verse>
+        <verse osisID='Acts.16.6'>Müqəddəs Ruh onlara imkan vermədi ki, Asiya vilayətində kəlamı yaysınlar. Ona görə də onlar Frigiya və Qalatiya ərazisini keçib getdilər.</verse>
+        <verse osisID='Acts.16.7'>Misiya sərhədinə gələrkən Bitinyaya getməyə çalışdılar. Amma İsanın Ruhu onlara izin vermədi.</verse>
+        <verse osisID='Acts.16.8'>Ona görə Misiyadan keçib Troasa getdilər.</verse>
+        <verse osisID='Acts.16.9'>O gecə Paul bir görüntü gördü. Makedoniyalı bir nəfər onun qarşısında durub yalvarırdı: «Makedoniyaya gəl və bizə kömək et!»</verse>
+        <verse osisID='Acts.16.10'>Paul bu görüntünü görəndən sonra Makedoniyaya getmək üçün dərhal bir yol axtardıq. Bundan nəticə çıxartdıq ki, Allah bizi orada Müjdə yaymaq üçün çağırır. </verse>
+        <verse osisID='Acts.16.11'>Troasdan yelkən açıb birbaşa Samotraki adasına və ertəsi gün isə Neapolisə gəldik.</verse>
+        <verse osisID='Acts.16.12'>Oradan Filipiyə keçdik. Bura Makedoniya bölgəsində əhəmiyyətli bir şəhərdir, əhalisi əsasən Romalılardır. Bu şəhərdə bir neçə gün qaldıq.</verse>
+        <verse osisID='Acts.16.13'>Şənbə günü şəhər darvazasından çıxıb çay kənarına getdik. Elə bildik ki, Yəhudilər adətən oraya dua etmək üçün yığılır. Oturduq, oraya yığılan qadınlarla söhbət etməyə başladıq.</verse>
+        <verse osisID='Acts.16.14'>Bizə qulaq asanlar arasında Tiatira şəhərindən tünd qırmızı parça satan, Allaha mömin olan Lidiya adlı bir qadın var idi. Paulun sözlərinə qulaq asmaq üçün Rəbb ona açıq ürək vermişdi.</verse>
+        <verse osisID='Acts.16.15'>Lidiya ev əhli ilə bərabər vəftiz olunduqdan sonra bizi evinə dəvət edib dedi: «Əgər siz məni Rəbbə sadiq bir insan kimi qəbul edirsinizsə, gəlin, mənim evimdə qalın». O bizi buna razı etdi. </verse>
+        <verse osisID='Acts.16.16'>Bir gün biz dua yerinə gedərkən falçılıq ruhuna tutulan bir qarabaş qarşımıza çıxdı. Bu qız baxıcılıq edərək öz ağalarına nə qədər qazanc gətirmişdi.</verse>
+        <verse osisID='Acts.16.17'>O, Paulun və bizim ardımızca düşərək qışqıra-qışqıra deyirdi: «Bu adamlar Allah-Taalanın qullarıdır. Sizə xilas yolunu bildirirlər».</verse>
+        <verse osisID='Acts.16.18'>Bunu günbəgün təkrar etdi. Bu, Paulu çox bezdirdi. Nəhayət, o çevrilib ruha dedi: «İsa Məsihin adı ilə sənə əmr edirəm, bu qızdan çıx!» Ruh dərhal qızdan çıxdı. </verse>
+        <verse osisID='Acts.16.19'>Qızın ağaları görəndə ki bu qazancdan ümidləri kəsildi, Paulla Silanı tutub bazar meydanına – rəhbərlərin qarşısına gətirdilər.</verse>
+        <verse osisID='Acts.16.20'>Onları hakimlərin qarşısına çıxararaq dedilər: «Bu adamlar Yəhudidir. Şəhərimizə qarışıqlıq salıblar.</verse>
+        <verse osisID='Acts.16.21'>Biz Romalılara qəbulu və icrası qadağan olunan adətləri yayırlar».</verse>
+        <verse osisID='Acts.16.22'>Xalq da Paulla Silanın əleyhinə çıxdı. Hakimlər əmr verdilər ki, onların əyinlərindəki paltarları soyundurub dəyənəklə döysünlər.</verse>
+        <verse osisID='Acts.16.23'>Onlara çox zərbə vurdular və sonra zindana atdılar. Zindanın baş mühafizəçisinə əmr etdilər ki, onları möhkəm nəzarət altında saxlasınlar.</verse>
+        <verse osisID='Acts.16.24'>Bu əmri alan baş mühafizəçi onları zindanın xüsusi otağına aparıb ayaqlarını kündəyə saldı. </verse>
+        <verse osisID='Acts.16.25'>Gecə yarısına yaxın Paulla Sila dua edir və Allaha ilahilər oxuyurdu. Digər məhbuslar da onlara qulaq asırdılar.</verse>
+        <verse osisID='Acts.16.26'>Birdən elə güclü zəlzələ oldu ki, zindanın təməli belə, yerindən oynadı. Bir andaca bütün qapılar açıldı, hamının zəncirləri töküldü.</verse>
+        <verse osisID='Acts.16.27'>Baş mühafizəçi oyanıb zindanın qapılarını açıq görəndə qılıncını çəkib canına qəsd etmək istədi. Elə bildi ki, məhbuslar qaçıb.</verse>
+        <verse osisID='Acts.16.28'>Amma Paul bərkdən qışqırıb dedi: «Canına qıyma, hamımız buradayıq!»</verse>
+        <verse osisID='Acts.16.29'>Baş mühafizəçi işıq gətirdib içəri qaçdı. Titrəyə-titrəyə Paul və Silanın qarşısında yerə düşdü.</verse>
+        <verse osisID='Acts.16.30'>Onları bayıra çıxararaq soruşdu: «Ağalar, xilas olmaq üçün nə etməliyəm?»</verse>
+        <verse osisID='Acts.16.31'>Onlar dedilər: «Rəbb İsaya iman et, sən də, ev əhlin də xilas olarsınız».</verse>
+        <verse osisID='Acts.16.32'>Sonra həm ona, həm də onun ev əhlinə Rəbbin kəlamını bildirdilər.</verse>
+        <verse osisID='Acts.16.33'>Gecənin bu vədəsində baş mühafizəçi onları götürüb yaralarını yudu. Sonra həm özü, həm də ev əhli dərhal vəftiz oldu.</verse>
+        <verse osisID='Acts.16.34'>Paulla Silanı evinə aparıb onlar üçün süfrə açdı. Allaha iman etdiklərinə görə o və bütün ev əhli şad oldular. </verse>
+        <verse osisID='Acts.16.35'>Səhər açılanda hakimlər yasavullar göndərib dedilər: «Bu adamları azad et».</verse>
+        <verse osisID='Acts.16.36'>Baş mühafizəçi bu sözləri Paula çatdırdı: «Hakimlər xəbər göndərdi ki, siz azad ediləsiniz. İndi çıxın, arxayın gedin».</verse>
+        <verse osisID='Acts.16.37'>Amma Paul yasavullara belə dedi: «Roma vətəndaşı ola-ola bizi məhkəməsiz hamının qarşısında döyüb zindana atdılar. İndi bizi gizli-gizli qovmaq istəyirlərmi? Belə şey ola bilməz! Özləri gəlsin, bizi buradan çıxarsın!»</verse>
+        <verse osisID='Acts.16.38'>Yasavullar bu sözləri hakimlərə çatdırdılar. Hakimlər Paulla Silanın Roma vətəndaşı olduğunu eşidəndə qorxdular</verse>
+        <verse osisID='Acts.16.39'>və gəlib onlardan üzr istədilər. Sonra onları bayıra çıxarıb xahiş etdilər ki, şəhərdən çıxıb getsinlər.</verse>
+        <verse osisID='Acts.16.40'>Paulla Sila zindandan çıxandan sonra Lidiyanın evinə getdilər. İmanlı bacı-qardaşlarla görüşüb onları ruhlandırandan sonra yola düşüb getdilər.  </verse>
+      </chapter>
+      <chapter osisID='Acts.17'>
+        <verse osisID='Acts.17.1'>
+          Onlar Amfipolis və Apolloniyadan keçərək Salonikə gəldilər. Burada bir Yəhudi sinaqoqu var idi.</verse>
+        <verse osisID='Acts.17.2'>Paul adətinə görə Yəhudilərin yanına gedib üç Şənbə dalbadal onlarla Müqəddəs Yazılar üstündə mübahisə etdi,</verse>
+        <verse osisID='Acts.17.3'>şərh və sübut göstərdi ki, Məsihin əzab çəkərək ölüb ölülər arasından dirilməsi lazım idi və dedi: «Sizə elan etməkdə olduğum bu İsa Məsihdir!»</verse>
+        <verse osisID='Acts.17.4'>Yəhudilərdən bəziləri, mömin Yunanların böyük bir hissəsi, bir çox nüfuzlu qadınlar buna əmin oldu və Paulla Silaya qoşuldu.</verse>
+        <verse osisID='Acts.17.5'>Yəhudilərin buna paxıllığı tutdu. Meydana yığılan camaatın içərisində olan bəzi şər adamlardan bir izdiham toplayıb şəhərdə qarışıqlıq saldılar. Paulla Silanı xalqın önünə çıxarmaq məqsədi ilə Yasonun evinə hücum etdilər.</verse>
+        <verse osisID='Acts.17.6'>Onları tapmayanda Yasonla bəzi imanlı qardaşları sürüyə-sürüyə şəhər başçılarının qarşısına gətirib hay-küy saldılar: «Dünyaya çaxnaşma salan bu adamlar gəlib buraya da çıxdı.</verse>
+        <verse osisID='Acts.17.7'>Yason onları öz evinə qəbul edib. Bunların hamısı qeysərin fərmanlarının əksinə gedib deyir ki, İsa adlı başqa bir padşah var».</verse>
+        <verse osisID='Acts.17.8'>Bu sözləri eşidən izdiham və şəhər başçıları lərzəyə düşdülər.</verse>
+        <verse osisID='Acts.17.9'>Nəhayət, başçılar təminat alaraq Yason və digərlərini azad etdilər. </verse>
+        <verse osisID='Acts.17.10'>İmanlı bacı-qardaşlar isə gecə olan kimi Paulla Silanı dərhal Veriya şəhərinə göndərdilər. Onlar oraya çatarkən Yəhudilərin sinaqoquna getdilər.</verse>
+        <verse osisID='Acts.17.11'>Veriyadakı Yəhudilərsə Salonikdə olanlardan daha açıq fikirli idi. Kəlamı böyük həvəslə qarşılayaraq hər gün Müqəddəs Yazıları araşdırır, «Bu düzgün təlimdirmi?» deyə yoxlayırdılar.</verse>
+        <verse osisID='Acts.17.12'>Beləliklə, onların arasından xeyli adam, həmçinin çoxlu hörmətli Yunan qadınları və kişiləri iman etdilər.</verse>
+        <verse osisID='Acts.17.13'>Lakin Salonikdəki Yəhudilər Paulun Veriyada da Allahın kəlamını elan etdiyini biləndə oraya getdilər və xalqı qızışdırıb lərzəyə saldılar.</verse>
+        <verse osisID='Acts.17.14'>Bundan sonra imanlı bacı-qardaşlar Paulu dərhal dəniz sahilinə gedən yolla göndərdilər. Sila ilə Timotey isə Veriyada qaldı.</verse>
+        <verse osisID='Acts.17.15'>Paulu yola salanlar onu Afinaya qədər ötürdülər. Sonra Paul onlara əmr verdi ki, geri qayıdıb Sila ilə Timoteyi təcili surətdə onun yanına göndərsinlər. </verse>
+        <verse osisID='Acts.17.16'>Onları Afinada gözləyən Paul gördü ki, şəhər bütlərlə doludur. Bundan ötrü onun ürəyi çox narahat oldu.</verse>
+        <verse osisID='Acts.17.17'>Buna görə sinaqoqda Yəhudilərlə və mömin Yunanlarla, hər gün bazar meydanında rastlaşdığı insanlarla mübahisə edirdi.</verse>
+        <verse osisID='Acts.17.18'>Epikürçü və Stoist fəlsəfi cərəyanından olanların bəziləri onunla mübahisəyə girişdi. Kimisi deyir: «Bu boşboğaz nə demək istəyir?» Kimisi də deyir: «Deyəsən bu yad allahların təbliğatçısıdır». Çünki Paul İsa və dirilmə ilə bağlı Müjdəni yaymaqda idi.</verse>
+        <verse osisID='Acts.17.19'>Onlar Paulu götürüb Areopaq məşvərətinə gətirdilər. Ondan soruşdular: «Sənin yaydığın bu yeni təlimin nə olduğunu bilmək olarmı?</verse>
+        <verse osisID='Acts.17.20'>Çünki qulağımız öyrəşmədiyi şeyləri bizə eşitdirirsən. İndi bunların mənasını bilmək istəyirik».</verse>
+        <verse osisID='Acts.17.21'>Bütün Afinalılar və şəhərdəki yadellilər vaxtlarını yalnız yeni fikirləri söyləyərək və qulaq asaraq keçirirdilər. </verse>
+        <verse osisID='Acts.17.22'>Paul Areopaqın qarşısına çıxıb belə söylədi: «Ey Afinalılar, sizin hər cəhətdən çox pərəstişkar olduğunuzu görürəm.</verse>
+        <verse osisID='Acts.17.23'>Belə ki mən ətrafda gəzəndə səcdəgahlarınıza diqqətlə nəzər salarkən bir qurbangaha da rast gəldim ki, onun üstündə yazılmışdı: “Naməlum Allaha məxsus”. Tanımadan ibadət etdiyiniz bu Allahı sizə tanıtmaq istəyirəm.</verse>
+        <verse osisID='Acts.17.24'>Dünyanı və onda mövcud olan hər şeyi yaradan, yerin-göyün Sahibi olan Allah əllə tikilən məbədlərdə yaşamaz.</verse>
+        <verse osisID='Acts.17.25'>İnsan əli ilə edilən xidmətə Onun ehtiyacı yoxdur, çünki hər kəsə həyat, nəfəs və hər şeyi verən Odur!</verse>
+        <verse osisID='Acts.17.26'>Allah bütün bəşəriyyətin millətlərini bir insandan yaratdı ki, bütün yer üzərində yaşasınlar. Yaşamaq üçün onlara zaman və məkan təyin etdi ki,</verse>
+        <verse osisID='Acts.17.27'>Onu axtarsınlar, yəni kor əllərini sürtə-sürtə yol axtardığı kimi axtarıb Onu tapa bilsinlər. Əslində Allah heç birimizdən uzaq deyil.</verse>
+        <verse osisID='Acts.17.28'>“Axı biz Onda yaşayırıq, hərəkət edirik, mövcuduq”. Bəzi şairlərinizin dediyi kimi: “Biz də Onun nəslindənik”.</verse>
+        <verse osisID='Acts.17.29'>Demək biz Allahın nəslindən olduğumuza görə belə düşünmək olmaz ki, İlahi Varlıq insan layihəsi və istedadı ilə yaranan qızıl, gümüş yaxud daşdan düzəldilən bir şeyə bənzəyir.</verse>
+        <verse osisID='Acts.17.30'>Allah cəhalət zamanlarında buna göz yumdu, amma indi hər yerdə hamının tövbə etməsini insanlara əmr edir.</verse>
+        <verse osisID='Acts.17.31'>Çünki Allah Öz seçdiyi Şəxs vasitəsilə dünyanı ədalətlə mühakimə edəcəyi günü təyin edib. Onu ölülər arasından diriltməklə hamının qarşısında bunu təsdiq edib». </verse>
+        <verse osisID='Acts.17.32'>Ölülərin dirilməsi ilə bağlı sözləri eşidən kimi bəziləri onu ələ saldı, kimisi də belə dedi: «Bu barədə səndən bir daha eşitmək istəyirik».</verse>
+        <verse osisID='Acts.17.33'>Beləliklə, Paul onların arasından çıxıb getdi.</verse>
+        <verse osisID='Acts.17.34'>Bir neçə insan isə ona qoşulub iman gətirdi. Bunların arasında Areopaq üzvü Dionis, Damaris adlı bir qadın və başqaları da var idi.  </verse>
+      </chapter>
+      <chapter osisID='Acts.18'>
+        <verse osisID='Acts.18.1'>
+          Bundan sonra Paul Afinadan çıxıb Korinfə getdi.</verse>
+        <verse osisID='Acts.18.2'>Orada Pontda doğulan Akila adlı bir Yəhudiyə rast gəldi. O, arvadı Priskila ilə birlikdə İtaliyadan yenicə gəlmişdi. Çünki Klavdi əmr vermişdi ki, Romada olan bütün Yəhudilər oradan çıxsınlar. Paul onların yanına getdi.</verse>
+        <verse osisID='Acts.18.3'>Onların peşəsi çadırçılıq idi və eyni peşə sahibi olan Paul buna görə onların yanında qalıb çalışdı.</verse>
+        <verse osisID='Acts.18.4'>Paul hər Şənbə günü sinaqoqda mübahisə edib həm Yəhudiləri, həm də Yunanları inandırırdı. </verse>
+        <verse osisID='Acts.18.5'>Sila ilə Timotey Makedoniyadan gələn kimi Paul özünü tamamilə kəlama həsr etdi və Yəhudilərə İsanın Məsih olmasına dair şəhadət edirdi.</verse>
+        <verse osisID='Acts.18.6'>Amma Yəhudilər onun əleyhinə çıxaraq böhtan atmağa başlayan kimi Paul yaxasını çırpıb onlara dedi: «Qanınız öz başınıza dönsün, mən bu işdə təmizəm. Bundan sonra başqa millətlərdən olanların yanına gedəcəyəm».</verse>
+        <verse osisID='Acts.18.7'>Paul oradan çıxdı, Allaha mömin olan Titi Yust adlı bir nəfərin evinə getdi. Onun evi sinaqoqa bitişik idi.</verse>
+        <verse osisID='Acts.18.8'>Sinaqoq rəisi Krisp bütün ev əhli ilə birgə Rəbbə iman etdi. Korinflilərin bir çoxu Paulu dinləyəndə iman gətirərək vəftiz oldu.</verse>
+        <verse osisID='Acts.18.9'>Bir gecə Rəbb görüntüdə Paula dedi: «Qorxma, danış, susma.</verse>
+        <verse osisID='Acts.18.10'>Bax Mən səninləyəm, heç kimin sənə pisliyi dəyməyəcək, çünki bu şəhərdə xalqım çoxdur».</verse>
+        <verse osisID='Acts.18.11'>Paul orada il yarım qaldı və dayanmadan xalqa Allahın kəlamını öyrətdi. </verse>
+        <verse osisID='Acts.18.12'>Axayya valisi Qalliyo olan zaman Yəhudilər birləşərək Paula hücum etdilər və onu valinin hökm kürsüsü qarşısına çıxartdılar.</verse>
+        <verse osisID='Acts.18.13'>Belə dedilər: «Bu adam Allaha qeyri-qanuni şəkildə ibadət etmək üçün insanları tovlayır».</verse>
+        <verse osisID='Acts.18.14'>Paul danışmaq istəyirdi ki, Qalliyo Yəhudilərə dedi: «Ey Yəhudilər, əgər ittihamınız bir haqsızlıq və yaxud ağır cinayət işinə görə olsaydı, sizi səbirlə dinləməyi məsləhət bilərdim.</verse>
+        <verse osisID='Acts.18.15'>Amma məsələlər bir təlimlə, bəzi adlarla və sizin qanununuzla bağlı olduğu üçün bu işi özünüz həll edin. Mən belə şeylərə hakimlik etmək istəmirəm».</verse>
+        <verse osisID='Acts.18.16'>Beləliklə, onları hökm kürsüsündən qovdu.</verse>
+        <verse osisID='Acts.18.17'>Hamı sinaqoq rəisi Sosteni tutub hökm kürsüsünün qarşısında döydü. Qalliyo isə bu hadisələrə əhəmiyyət vermədi. </verse>
+        <verse osisID='Acts.18.18'>Paul Korinfdə olan imanlı bacı-qardaşların yanında xeyli gün qaldı və sonra onlarla vidalaşıb Priskila və Akila ilə birgə Suriyaya getmək üçün yelkən açdı. O, Kenxreya limanında saçını qırxdırmışdı, çünki bir əhd etmişdi.</verse>
+        <verse osisID='Acts.18.19'>Onlar Efesə çatanda Priskila ilə Akiladan ayrılaraq sinaqoqa girdi və Yəhudilərlə mübahisə etməyə başladı.</verse>
+        <verse osisID='Acts.18.20'>Ondan xahiş edəndə ki burada daha bir müddət qalsın, buna razı olmadı.</verse>
+        <verse osisID='Acts.18.21'>Amma onlarla vidalaşanda belə dedi: «Allah qoysa, yenə yanınıza gələcəyəm». Sonra Efesdən yelkən açıb getdi.</verse>
+        <verse osisID='Acts.18.22'>Qeysəriyyəyə çatandan sonra Yerusəlimə gedərək imanlılar cəmiyyətinə baş çəkdi və sonra oradan Antakyaya keçdi.</verse>
+        <verse osisID='Acts.18.23'>Bir müddət orada qalandan sonra yola çıxdı. Qalatiya və Frigiya bölgələrini gəzib dolaşaraq oradakı şagirdləri ruhən möhkəmləndirdi. </verse>
+        <verse osisID='Acts.18.24'>Bu ərəfədə İsgəndəriyyədə doğulmuş Apollo adlı bir Yəhudi Efesə gəldi. Onun yaxşı natiqliyi var idi və Müqəddəs Yazıları çox yaxşı bilirdi,</verse>
+        <verse osisID='Acts.18.25'>Rəbb yolunda da təhsil almışdı. O, ruhda alışıb-yanaraq danışır və yalnız Yəhyanın vəftizindən xəbəri olduğu halda İsa ilə bağlı həqiqətləri doğru öyrədirdi.</verse>
+        <verse osisID='Acts.18.26'>O, sinaqoqda cəsarətlə danışmağa başladı. Ona qulaq asan Priskila ilə Akila onu yanlarına çəkib Allah yolu barədə daha dəqiq izahat verdilər.</verse>
+        <verse osisID='Acts.18.27'>Apollo Axayyaya getmək istəyəndə bacı-qardaşlar onu həvəsləndirdilər və oradakı şagirdlərə məktub yazdılar ki, onu yaxşı qarşılasınlar. Apollo oraya çatanda Allahın lütfü ilə iman edənlərə çox kömək etdi.</verse>
+        <verse osisID='Acts.18.28'>Belə ki Müqəddəs Yazılarla İsanın Məsih olduğunu sübuta yetirərək Yəhudilərin iddialarını açıq şəkildə və güclü surətdə inkar edirdi.  </verse>
+      </chapter>
+      <chapter osisID='Acts.19'>
+        <verse osisID='Acts.19.1'>
+          Apollo Korinfdə olarkən Paul daxili bölgələrdən keçərək Efesə gəldi və orada bir neçə şagirdlə rastlaşdı.</verse>
+        <verse osisID='Acts.19.2'>Onlara dedi: «İman etdiyiniz zaman Müqəddəs Ruhu aldınızmı?» Onlar dedilər: «Müqəddəs Ruhun mövcudluğundan belə, xəbərimiz yoxdur».</verse>
+        <verse osisID='Acts.19.3'>Paul onlardan soruşdu: «Elə isə nəyə əsasən vəftiz oldunuz?» Onlar cavab verdilər: «Yəhyanın vəftizinə əsasən».</verse>
+        <verse osisID='Acts.19.4'>Paul dedi: «Yəhyanın etdiyi vəftiz tövbə ilə bağlı bir vəftiz idi. Xalqı özündən sonra Gələnə, yəni İsaya iman etməyə çağırdı».</verse>
+        <verse osisID='Acts.19.5'>Onlar bunu eşidən kimi Rəbb İsanın adı ilə vəftiz oldular.</verse>
+        <verse osisID='Acts.19.6'>Paul əllərini onların üzərinə qoyanda Müqəddəs Ruh onların üzərinə endi və onlar başqa dillərdə danışmağa və peyğəmbərlik etməyə başladılar.</verse>
+        <verse osisID='Acts.19.7'>Onlar təxminən on iki kişi idi. </verse>
+        <verse osisID='Acts.19.8'>Sinaqoqa daxil olan Paul cəsarətlə danışmağa başladı. Üç ay ərzində onlarla mübahisələr aparır və Allahın Padşahlığı barədə onları inandırırdı.</verse>
+        <verse osisID='Acts.19.9'>Bəziləri inadkar olub inanmaq istəmir və xalqın qarşısında İsa yolunu pisləməyə başlayırdı. Buna görə Paul onlardan ayrılıb şagirdlərini də götürüb apardı. O, Tiranın mühazirə otağında hər gün mübahisələr edirdi.</verse>
+        <verse osisID='Acts.19.10'>Bu vəziyyət iki il davam etdi. Nəhayət, istər Yəhudi, istərsə də Yunan – bütün Asiya vilayəti əhalisi Rəbbin kəlamını eşitdi. </verse>
+        <verse osisID='Acts.19.11'>Allah Paul vasitəsilə fövqəladə möcüzələr yaradırdı.</verse>
+        <verse osisID='Acts.19.12'>Belə ki Paulun bədəninə toxunan dəsmallar və belinə bağladığı önlüklər belə, götürülüb xəstələrin üstünə qoyulanda insanların xəstəlikləri yox olur, şər ruhlar çıxırdı.</verse>
+        <verse osisID='Acts.19.13'>Bəzi ətrafı gəzib-dolaşan Yəhudi cindarlar da şər ruhlara əsir olanlara Rəbb İsanın adını çəkərək deyirdilər: «Paulun vəz etdiyi İsanın adı ilə sizə əmr edirəm!»</verse>
+        <verse osisID='Acts.19.14'>Yəhudilərin Skeva adlı başçı kahinin yeddi oğlu bu işlə məşğul idi.</verse>
+        <verse osisID='Acts.19.15'>Bir dəfə şər ruh onlara cavab verdi: «İsanı tanıyıram, Paul haqqında da hər şey bilirəm. Bəs siz kimsiniz?»</verse>
+        <verse osisID='Acts.19.16'>Daxilində şər ruh olan adam onların üstünə hücum çəkdi, hamısını təpiyinin altına salaraq məğlub etdi. Belə ki onlar o evdən lüt-üryan və yaralı halda qaçdılar. </verse>
+        <verse osisID='Acts.19.17'>Bu xəbər Efesdə yaşayan bütün Yəhudilərə və Yunanlara çatdı. Hamısını bir vahimə bürüdü və Rəbb İsanın adının nüfuzu böyüdü.</verse>
+        <verse osisID='Acts.19.18'>İman edənlərin çoxu gəlib öz əməllərini açıq etiraf edirdi.</verse>
+        <verse osisID='Acts.19.19'>Cadugərliklə məşğul olan bir dəstə insan da öz kitablarını yığıb hamının qarşısında yandırdı. Kitablarının qiyməti hesablananda məlum oldu ki, əlli min gümüş pula bərabər idi.</verse>
+        <verse osisID='Acts.19.20'>Beləliklə, Rəbbin kəlamı qüdrətlə böyüyüb təsirini artırırdı. </verse>
+        <verse osisID='Acts.19.21'>Bunlar baş verəndən sonra Paul qərara gəldi ki, Makedoniya və Axayyadan keçərək Yerusəlimə getsin. O dedi: «Oraya gedəndən sonra gərək Romanı da görəm».</verse>
+        <verse osisID='Acts.19.22'>Xidmətçilərindən ikisini – Timoteylə Erastı Makedoniyaya göndərərək özü bir müddət Asiya vilayətində qaldı. </verse>
+        <verse osisID='Acts.19.23'>O ərəfədə İsa yolu ilə bağlı böyük bir qarışıqlıq yarandı.</verse>
+        <verse osisID='Acts.19.24'>Dimitri adlı bir zərgər gümüşdən ilahə Artemidanın ev səcdəgahlarını düzəldirdi və sənətkarlara çoxlu gəlir gətirirdi.</verse>
+        <verse osisID='Acts.19.25'>O, sənətkarları və bu cür işlə məşğul olanları bir yerə toplayıb belə dedi: «Ay kişilər, bilirsiniz ki, gəlirimiz bu işdən asılıdır.</verse>
+        <verse osisID='Acts.19.26'>Amma bu Paul deyir ki, əl işi olan allahlar həqiqi allahlar deyil. Yalnız Efesdə deyil, demək olar ki, bütün Asiya vilayətində nə qədər insanı tovlayıb azdırdığını görmüsünüz və eşitmisiniz.</verse>
+        <verse osisID='Acts.19.27'>Onda böyük bir təhlükə ilə üzləşirik. Bu həm bizim sənətimizin nüfuzunu itirə bilər, həm də ulu ilahə Artemidanın məbədini gözdən sala bilər. Bununla da bütün Asiya vilayətinin və bütün dünyanın ibadət etdiyi Artemidanın ululuğu heçə çıxar». </verse>
+        <verse osisID='Acts.19.28'>Oradakılar bunu eşidəndə bərk hiddətləndilər və qışqıra-qışqıra dedilər: «Efes ilahəsi Artemida uludur!»</verse>
+        <verse osisID='Acts.19.29'>Şəhər bir-birinə qarışdı. Xalq Paulun yol yoldaşları olan Makedoniyalı Qayla Aristarxı tutub sürüyərək birlikdə teatra doluşdu.</verse>
+        <verse osisID='Acts.19.30'>Paul istədi ki, xalqın arasına girsin, amma şagirdlər onu buraxmadılar.</verse>
+        <verse osisID='Acts.19.31'>Hətta Paulun dostları olan Asiya vilayətinin sədrlərinin bəziləri də ona xəbər göndərib yalvardı ki, teatra ayaq basmasın.</verse>
+        <verse osisID='Acts.19.32'>Teatrdakı yığıncaqda aləm qarışmışdı, hər ağızdan bir avaz gəlirdi. Onların çoxu isə bilmirdi ki, buraya nə üçün gəlib.</verse>
+        <verse osisID='Acts.19.33'>Yəhudilər İsgəndəri qarşıya çıxaranda izdihamın içərisindən bəziləri hadisəni onunla əlaqələndirdi. O isə xalqın diqqətini cəmləşdirmək üçün əlini qaldırdı və onların qarşısında özünü müdafiə etmək istədi.</verse>
+        <verse osisID='Acts.19.34'>Amma xalq onun Yəhudi olduğunu biləndə bir səslə iki saata yaxın «Efes ilahəsi Artemida uludur!» deyə qışqırışdı.</verse>
+        <verse osisID='Acts.19.35'>İzdihamı sakitləşdirən şəhərin icra məmuru dedi: «Ey Efeslilər, kim bilmir ki, Efes şəhəri ulu Artemida məbədinin və göydən gələn heykəlinin keşikçisidir?</verse>
+        <verse osisID='Acts.19.36'>Bunları heç kim inkar edə bilməz. Buna görə sakit olmanız və fikirləşmədən bir iş görməməyiniz lazımdır.</verse>
+        <verse osisID='Acts.19.37'>Buraya gətirdiyiniz adamlar nə məbədimizi soydu, nə də ilahəmizi söydü.</verse>
+        <verse osisID='Acts.19.38'>Əgər Dimitrinin və onun sənətkar dostlarının kimdən şikayəti varsa, məhkəmələr açıqdır, valilər də var. Qoy bir-birlərini orada ittiham etsinlər.</verse>
+        <verse osisID='Acts.19.39'>Sizin araşdıracağınız başqa hallar varsa, bunun da qanuni bir yığıncaqda həll olması lazımdır.</verse>
+        <verse osisID='Acts.19.40'>Bugünkü hadisələrə görə üsyan qaldırdığımız üçün ittiham olunmaq təhlükəsi qarşısındayıq. Biz bu səbəbsiz iğtişaşa bəraət qazandıra bilmərik».</verse>
+        <verse osisID='Acts.19.41'>O bu sözləri deyərək yığıncağı dağıtdı.  </verse>
+      </chapter>
+      <chapter osisID='Acts.20'>
+        <verse osisID='Acts.20.1'>
+          Hay-küy sakitləşəndən sonra Paul şagirdləri çağırıb ruhlandırdı. Sonra onlarla vidalaşaraq Makedoniyaya getmək üçün yola çıxdı.</verse>
+        <verse osisID='Acts.20.2'>O tərəfləri gəzib-dolaşaraq imanlılarla çoxlu söhbətlər aparıb onları ruhlandırandan sonra Yunanıstana getdi.</verse>
+        <verse osisID='Acts.20.3'>Orada üç ay qaldı və dəniz yolu ilə Suriyaya getmək istəyirdi ki, ona qarşı Yəhudilərin hazırladığı sui-qəsdə görə Makedoniya yolu ilə qayıtmaq qərarına gəldi.</verse>
+        <verse osisID='Acts.20.4'>Pir oğlu Veriyalı Sopater, Saloniklilərdən Aristarx və Sekund, Derbeli Qay, Timotey, Asiyalılardan Tixik və Trofim onu müşayiət edirdi.</verse>
+        <verse osisID='Acts.20.5'>Bunlar bizdən əvvəl gedib bizi Troasda gözlədilər.</verse>
+        <verse osisID='Acts.20.6'>Biz də Mayasız Çörək bayramından sonra Filipidən dəniz yolu ilə beş günə Troasa gələrək onlarla görüşdük. Orada yeddi gün qaldıq. </verse>
+        <verse osisID='Acts.20.7'>Həftənin ilk günündə çörək bölmək üçün bir yerə yığıldığımız zaman Paul camaatla söhbət apardı. Ertəsi gün onlardan ayrılacaqdı, ona görə söhbəti gecə yarısına qədər davam etdirdi.</verse>
+        <verse osisID='Acts.20.8'>Toplandığımız yuxarı mərtəbədəki otaqda çoxlu çıraqlar yanırdı.</verse>
+        <verse osisID='Acts.20.9'>Eftik adlı bir yeniyetmə pəncərədə oturmuşdu. Paul söhbəti uzadanda Eftiki dərin yuxu apardı. Yuxuya gedən kimi o, üçüncü mərtəbədən aşağı düşdü və yerdən onu qaldıranda o, ölü vəziyyətində idi.</verse>
+        <verse osisID='Acts.20.10'>Paul aşağı enib yeniyetmənin üstünə əyildi və onu qucaqlayaraq dedi: «Narahat olmayın, indi canı sağdır».</verse>
+        <verse osisID='Acts.20.11'>Təkrar yuxarı qalxıb çörək böldü və yemək yedi. Gün doğana qədər onlarla uzun-uzadı söhbət aparandan sonra oradan ayrıldı.</verse>
+        <verse osisID='Acts.20.12'>Oğlanı sağ-salamat apardılar və bu hadisədən çox ruhlandılar. </verse>
+        <verse osisID='Acts.20.13'>Biz irəli gedərək gəmiyə mindik və Assosa tərəf üzdük. Çünki Paulu oradan götürməli idik. O, quru ilə getmək istədiyi üçün bunu belə nizamlamışdı.</verse>
+        <verse osisID='Acts.20.14'>O bizi Assosda qarşılayanda onu gəmiyə mindirdik və Mitiliniyə gəldik.</verse>
+        <verse osisID='Acts.20.15'>Oradan da dənizdən üzərək səhəri gün Xios adasının qarşısına və bir gündən sonra isə Samosa çatdıq. Ertəsi gün Miletə gəldik.</verse>
+        <verse osisID='Acts.20.16'>Çünki Paul Asiya vilayətində vaxt itirməmək üçün Efesi ötüb keçmək qərarına gəlmişdi. O tələsirdi ki, imkan tapıb Əllinci Gün bayramında Yerusəlimdə olsun. </verse>
+        <verse osisID='Acts.20.17'>Paul Miletdən Efesə xəbər göndərərək cəmiyyət ağsaqqallarını yanına çağırtdırdı.</verse>
+        <verse osisID='Acts.20.18'>Yanına gələndə onlara belə dedi: «Asiya vilayətinə qədəm basdığım birinci gündən bəri sizinlə olduğum dövrdən bu vaxta qədər özümü necə apardığım sizə məlumdur.</verse>
+        <verse osisID='Acts.20.19'>Yəhudilərin qəsd-qərəzi vasitəsilə sınaqlardan keçərkən Rəbbə tam itaətkarlıqla, göz yaşı içində qulluq edirdim.</verse>
+        <verse osisID='Acts.20.20'>Xeyirli olan hər şeyi sizə bəyan edərək istər açıq, istərsə də evdən-evə gəzib-dolaşaraq təlim verməkdən çəkinmədim.</verse>
+        <verse osisID='Acts.20.21'>Həm Yəhudiləri, həm də Yunanları tövbə edib Allaha tərəf dönməyə və Rəbbimiz İsaya iman gətirməyə çağırdım. </verse>
+        <verse osisID='Acts.20.22'>İndi də Ruhun təkidi ilə Yerusəlimə gedirəm və orada başıma nə gələcəyini bilmirəm.</verse>
+        <verse osisID='Acts.20.23'>Lakin Müqəddəs Ruh hər şəhərdə xəbərdarlıq edirdi ki, məni zəncirlər və əziyyətlər gözləyir.</verse>
+        <verse osisID='Acts.20.24'>Öz canıma heç əhəmiyyət vermirəm, onu qiymətləndirmirəm. Mənə kifayətdir ki, yolumu – Rəbb İsanın mənə tapşırdığı kimi Allahın lütfünü göstərən Müjdəni şəhadətetmə xidmətini başa çatdırım. </verse>
+        <verse osisID='Acts.20.25'>İndi aranızda dolaşıb Padşahlıq barədə vəz etdiyim sizlərdən heç biriniz mənim üzümü bir də görməyəcək.</verse>
+        <verse osisID='Acts.20.26'>Ona görə bu gün bunu sizə bəyan etmək istəyirəm ki, mən təmizəm, heç kimin qanına bais olmamışam.</verse>
+        <verse osisID='Acts.20.27'>Çünki mən çəkinmədən Allahın bütün iradəsini sizə çatdırmışam.</verse>
+        <verse osisID='Acts.20.28'>Həm özünüzə, həm də Müqəddəs Ruhun sizi nəzarətçilər təyin etdiyi bütün sürüyə diqqətlə baxın. Allahın Öz Oğlunun qanı bahasına əldə etdiyi bu cəmiyyətini bəsləyin.</verse>
+        <verse osisID='Acts.20.29'>Bilirəm ki, mən gedəndən sonra sürüyə rəhm etməyən yırtıcı canavarlar aranıza soxulacaq.</verse>
+        <verse osisID='Acts.20.30'>Aranızdan təhrif edilmiş sözlər deyən, şagirdləri özlərinin ardınca çəkmək istəyən adamlar çıxacaq.</verse>
+        <verse osisID='Acts.20.31'>Buna görə oyaq olun. Üç il boyu, fasiləsiz, gecə-gündüz göz yaşı tökərək hər birinizə necə nəsihət verdiyimi yada salın. </verse>
+        <verse osisID='Acts.20.32'>İndi isə mən sizi Allaha və Onun lütfü barədəki kəlamına əmanət edirəm. Bu kəlam sizi inkişaf etdirib təqdis olunmuş bütün insanlar arasında irsə qovuşdurmağa qadirdir.</verse>
+        <verse osisID='Acts.20.33'>Mən heç kimin nə qızılına, nə gümüşünə, nə də pal-paltarına göz dikmişəm.</verse>
+        <verse osisID='Acts.20.34'>Siz də bilirsiniz ki, bu əllər həm mənim, həm də mənimlə olanların ehtiyaclarını təmin etdi.</verse>
+        <verse osisID='Acts.20.35'>Gördüyüm hər işdə Rəbb İsanın “vermək almaqdan daha çox bəxtiyarlıq gətirər” sözünü yaddan çıxarmayıb belə əmək sərf edərək zəiflərə kömək etməyin vacibliyini sizə göstərdim». </verse>
+        <verse osisID='Acts.20.36'>Paul bu sözləri söyləyəndən sonra diz çöküb onlarla birlikdə dua etdi.</verse>
+        <verse osisID='Acts.20.37'>Sonra hamısı ağlayaraq Paulun boynuna sarıldı və onu öpdü.</verse>
+        <verse osisID='Acts.20.38'>Onlar ən çox «mənim üzümü bir də görməyəcəksiniz» sözündən kövrəldilər. Sonra onu gəmiyə qədər yola saldılar.  </verse>
+      </chapter>
+      <chapter osisID='Acts.21'>
+        <verse osisID='Acts.21.1'>
+          Onlardan ayrılıb dənizə çıxanda birbaşa Kosa getdik, səhəri gün isə Rodosa, oradan da Pataraya keçdik.</verse>
+        <verse osisID='Acts.21.2'>Finikiyaya gedən bir gəmi tapdıq və ona minib dənizlə getdik.</verse>
+        <verse osisID='Acts.21.3'>Kipri gördük və onun cənubundan keçdik. Suriya istiqamətinə getdik və Sur şəhərində sahilə çıxdıq. Gəmi yükünü orada boşaltmalı idi.</verse>
+        <verse osisID='Acts.21.4'>Orada şagirdləri axtarıb tapdıq və yanlarında bir həftə qaldıq. Şagirdlər Ruhun təsiri ilə Paula xəbərdarlıq etdilər ki, Yerusəlimə getməsin.</verse>
+        <verse osisID='Acts.21.5'>Amma oradakı günlərimiz başa çatanda bu şəhərdən çıxıb yolumuza davam etdik. İmanlıların hamısı öz arvad-uşaqları ilə bərabər bizi şəhərin kənarına qədər ötürdü və sahildə diz çökərək dua etdik.</verse>
+        <verse osisID='Acts.21.6'>Bir-birimizlə vidalaşandan sonra biz gəmiyə mindik, onlar da evlərinə qayıtdılar. </verse>
+        <verse osisID='Acts.21.7'>Surdan dəniz səyahətimizə davam edərək Ptolemaisə gəldik və orada imanlı bacı-qardaşlara baş çəkib bir gün yanlarında qaldıq.</verse>
+        <verse osisID='Acts.21.8'>Ertəsi gün onlardan ayrılıb Qeysəriyyəyə gəldik. Yeddi köməkçidən biri olan müjdəçi Filipin evinə gedib orada qaldıq.</verse>
+        <verse osisID='Acts.21.9'>Bu kişinin peyğəmbərlik edən dörd subay qızı var idi.</verse>
+        <verse osisID='Acts.21.10'>Oraya çatandan bir neçə gün sonra Yəhudeyadan Aqab adlı bir peyğəmbər gəldi.</verse>
+        <verse osisID='Acts.21.11'>O bizə yaxınlaşıb Paulun kəmərini götürüb öz əllərini və ayaqlarını bağlayaraq dedi: «Müqəddəs Ruh belə deyir: “Yəhudilər bu kəmərin sahibini Yerusəlimdə belə bağlayıb başqa millətlərə təslim edəcəklər”».</verse>
+        <verse osisID='Acts.21.12'>Bu sözləri eşidəndə həm biz, həm də oranın sakinləri Paula yalvardıq ki, Yerusəlimə getməsin.</verse>
+        <verse osisID='Acts.21.13'>Buna cavab olaraq Paul belə dedi: «Nə olub? Niyə ağlayıb ürəyimi sızladırsınız? Mən Rəbb İsanın adı uğrunda Yerusəlimdə təkcə əl-ayağımın bağlanmasına deyil, ölümə də hazıram».</verse>
+        <verse osisID='Acts.21.14'>Paulu razı sala bilmədikdə «Qoy Rəbbin iradəsi olsun!» deyərək susduq. </verse>
+        <verse osisID='Acts.21.15'>Bir müddət keçəndən sonra biz hazırlıq işlərini görüb Yerusəlimə tərəf getdik.</verse>
+        <verse osisID='Acts.21.16'>Qeysəriyyədə yaşayan şagirdlərin bəzisi də bizimlə birgə gəldi. Onlar bizi ilk şagirdlərdən biri olan Kiprli Minasonun evinə apardı, çünki biz onların evində qalacaqdıq.</verse>
+        <verse osisID='Acts.21.17'>Yerusəlimə çatanda imanlı bacı-qardaşlar bizi sevinclə qarşıladılar.</verse>
+        <verse osisID='Acts.21.18'>Ertəsi gün Paulla birlikdə Yaqubu görməyə getdik. Cəmiyyət ağsaqqallarının hamısı oraya yığılmışdı.</verse>
+        <verse osisID='Acts.21.19'>Paul onlardan hal-əhval tutandan sonra öz xidməti ilə əlaqədar olaraq Allahın başqa millətlər arasında gördüyü işlərdən ətraflı məlumat verdi.</verse>
+        <verse osisID='Acts.21.20'>Bunları eşidəndə Allahı izzətləndirdilər. Paula dedilər: «Görürsənmi, qardaş, Yəhudilər arasında on minlərlə imanlı var və hamısı Qanunun qeyrətini çəkir.</verse>
+        <verse osisID='Acts.21.21'>Onlar sənin barəndə xəbər tutublar ki, başqa millətlər arasında yaşayan bütün Yəhudilərə oğullarını sünnət etməyib adət-ənənələrimizə görə yaşamamağı və Musadan dönməyi öyrədirsən.</verse>
+        <verse osisID='Acts.21.22'>İndi nə edək? Mütləq sənin bura gəldiyini eşidəcəklər.</verse>
+        <verse osisID='Acts.21.23'>Ona görə sənə dediklərimizə əməl et. Bizim aramızda əhd edən dörd kişi var.</verse>
+        <verse osisID='Acts.21.24'>Bunları yanına al və onlarla birgə paklanma mərasiminə qoşul. Başlarını qırxdırmaq üçün qurban xərclərini sən çək. Bununla da hamı biləcək ki, sənin haqqında eşitdikləri əsassızdır, sən də Qanuna riayət edirsən.</verse>
+        <verse osisID='Acts.21.25'>Başqa millətlərdən olan imanlılara gəlincə, biz qərara alıb onlara məktub vasitəsilə yazmışıq ki, bütlərə təqdim olunan qurbanların ətini, boğularaq öldürülən heyvanların ətini və qan yeməsinlər, həmçinin özlərini əxlaqsızlıqdan saxlasınlar».</verse>
+        <verse osisID='Acts.21.26'>Bundan sonra Paul bu dörd kişini yanına alıb ertəsi gün onlarla bərabər özünü pak etdi. Sonra məbədə girərək paklanma dövrünün nə vaxt qurtaracağını, hər birinin adına nə vaxt qurban təqdim ediləcəyini elan etdi. </verse>
+        <verse osisID='Acts.21.27'>Yeddi günlük müddət qurtarmaq üzrə Asiya vilayətindən olan Yəhudilər Paulu məbəddə görəndə bütün izdihamı təşvişə salaraq onu yaxaladılar</verse>
+        <verse osisID='Acts.21.28'>və qışqırdılar: «Ey İsraillilər, kömək edin! Hər yerdə hər kəsə, xalqımıza, Qanuna və bu Müqəddəs məkana qarşı təlim öyrədən adam budur. Həmçinin məbədə bəzi Yunanları gətirərək bu Müqəddəs məkanı murdarladı».</verse>
+        <verse osisID='Acts.21.29'>Bu Yəhudilər Efesli Trofimi əvvəllər şəhərdə Paulun yanında gördükləri üçün elə bilirdilər ki, onu Paul məbədə gətirib.</verse>
+        <verse osisID='Acts.21.30'>Bütün şəhər oyandı. Camaat hər tərəfdən qaçıb-gələrək Paulu tutub məbəddən bayıra sürüdü. Dərhal məbəd qapıları bağlandı.</verse>
+        <verse osisID='Acts.21.31'>Onlar Paulu öldürməyə çalışırdılar ki, bütün Yerusəlimin təşvişə düşməsi xəbəri Roma alayının minbaşısına çatdırıldı.</verse>
+        <verse osisID='Acts.21.32'>Minbaşı dərhal yüzbaşılarla əsgərləri özü ilə götürərək izdiham olan yerə qaçdı. Minbaşı ilə əsgərləri görən camaat Paulu döyməyi dayandırdı.</verse>
+        <verse osisID='Acts.21.33'>O zaman minbaşı yaxına gəlib Paulu tutdu və əmr etdi ki, onu qoşa zəncirlə bağlasınlar. Sonra soruşdu: «Bu adam kimdir? Nə edib?»</verse>
+        <verse osisID='Acts.21.34'>İzdiham içində hər ağızdan bir avaz gəlir, qışqırışırdılar. Hay-küydən minbaşı heç nə müəyyənləşdirə bilmədi, ona görə Paulun qalaya aparılmasını əmr etdi.</verse>
+        <verse osisID='Acts.21.35'>Paul pilləkəndə olanda xalq elə qızışmışdı ki, əsgərlər onu əlləri üstündə aparmalı oldular.</verse>
+        <verse osisID='Acts.21.36'>Çünki izdiham onun ardınca düşüb qışqırırdı: «Öldürün onu!» </verse>
+        <verse osisID='Acts.21.37'>Paul qalaya gətirilməkdə ikən o, minbaşıdan soruşdu: «Səndən bir söz soruşmaq olar?» Minbaşı dedi: «Sən Yunan dilini bilirsən?</verse>
+        <verse osisID='Acts.21.38'>Sən bu yaxınlarda iğtişaş yaratmağa başlayan dörd min qatili səhraya aparan Misirli deyilsənmi?»</verse>
+        <verse osisID='Acts.21.39'>Paul dedi: «Mən Yəhudiyəm, Kilikiyanın Tarsus şəhərindənəm, məşhur bir şəhərin vətəndaşıyam. Rica edirəm, bu xalqa bir neçə söz deməyə izin ver».</verse>
+        <verse osisID='Acts.21.40'>Minbaşı icazə verəndən sonra Paul pilləkənlərin üstünə çıxıb diqqəti cəlb etmək üçün xalqa əli ilə işarə etdi. Dərin sükut çökəndə İbrani dilində danışmağa başlayaraq dedi:  </verse>
+      </chapter>
+      <chapter osisID='Acts.22'>
+        <verse osisID='Acts.22.1'>«Qardaşlar və atalar, indi mənim özümü müdafiəmə qulaq asın!»</verse>
+        <verse osisID='Acts.22.2'>Paulun onlarla ibranicə danışdığını eşidəndə daha dərin sükut yarandı.  Paul sözünə davam etdi:</verse>
+        <verse osisID='Acts.22.3'>«Mən bir Yəhudiyəm, Kilikiyanın Tarsus şəhərində doğuldum. Bu Yerusəlim şəhərində isə böyüyüb Qamlielin yanında ata-babalarımızın Qanununa bağlı ciddi bir təlim almışam. Hamınızın bu gün etdiyi kimi mən də Allah naminə qeyrət çəkirdim.</verse>
+        <verse osisID='Acts.22.4'>İsa yolunda olanları ölüncəyə qədər təqib edərdim və qadın-kişi bilmədən onların əl-qolunu bağlayıb zindana salardım.</verse>
+        <verse osisID='Acts.22.5'>Mənim dediklərim barədə baş kahin və bütün ağsaqqallar məclisi də şəhadət edə bilər. Hətta mən onlardan Dəməşqdəki soydaşlarımıza yazılmış bir məktub alaraq oradakı İsa yolunda olanların əl-qolunu bağlayıb cəzalandırmaq üçün Yerusəlimə gətirməyə gedirdim. </verse>
+        <verse osisID='Acts.22.6'>Mən günortaya yaxın yolda, Dəməşqə yaxınlaşmaqda ikən birdən-birə göydən böyük bir işıq ətrafımda parladı.</verse>
+        <verse osisID='Acts.22.7'>Mən yerə yıxıldım və eşitdim ki, bir səs mənə belə deyir: “Şaul, Şaul, niyə Məni təqib edirsən?”</verse>
+        <verse osisID='Acts.22.8'>Mən soruşdum: “Ey Ağam, Sən kimsən?” Səs mənə dedi: “Mən sənin təqib etdiyin Nazaretli İsayam”.</verse>
+        <verse osisID='Acts.22.9'>Yanımdakılar işığı görsələr də, mənimlə danışanın səsini eşitmədilər.</verse>
+        <verse osisID='Acts.22.10'>Mən dedim: “Ya Rəbb, mən nə edim?” Rəbb mənə dedi: “Qalx, Dəməşqə get, icra etməyin üçün təyin edilən hər şey orada sənə deyiləcək”.</verse>
+        <verse osisID='Acts.22.11'>O işığın parlaqlığından gözlərim tutuldu. Yanımda olanlar əllərimdən tutub məni Dəməşqə apardılar. </verse>
+        <verse osisID='Acts.22.12'>Orada Xananya adlı bir mömin kişi var idi. Bu adam Qanuna əməl edir və o şəhərdə yaşayan Yəhudilər arasında hörmət sahibi idi.</verse>
+        <verse osisID='Acts.22.13'>O mənim yanıma gəlib dedi: “Qardaşım Şaul, qoy gözlərin açılsın”. Dərhal gözlərim açıldı və onu gördüm.</verse>
+        <verse osisID='Acts.22.14'>O mənə dedi: “Ata-babalarımızın Allahı səni seçdi ki, Onun iradəsini biləsən və Saleh Olanı görüb ağzından bir səs eşidəsən.</verse>
+        <verse osisID='Acts.22.15'>Çünki görüb-eşitdiklərini bütün insanlara yayaraq Onun üçün şəhadət edəcəksən.</verse>
+        <verse osisID='Acts.22.16'>İndi nə gözləyirsən? Qalx, vəftiz ol və Onun adını çağıraraq günahlarını yu”. </verse>
+        <verse osisID='Acts.22.17'>Mən Yerusəlimə qayıdıb məbəddə dua etməkdə idim ki, fikrimi bir görüntü apardı</verse>
+        <verse osisID='Acts.22.18'>və Rəbbi gördüm. O mənə dedi: “Tez ol, dərhal Yerusəlimi tərk et, çünki Mənim barəmdə etdiyin şəhadəti qəbul etməyəcəklər”.</verse>
+        <verse osisID='Acts.22.19'>Mən dedim: “Ya Rəbb, bilirlər ki, mən sinaqoqdan-sinaqoqa gedərək Sənə iman edənləri həbs edir və döyürdüm.</verse>
+        <verse osisID='Acts.22.20'>Hətta Sənin uğrunda şəhid olan Stefanın qanı töküləndə mən də orada idim. Edilənlərə razı olub onu öldürənlərin üst geyimlərini qoruyurdum”.</verse>
+        <verse osisID='Acts.22.21'>Rəbb də mənə dedi: “Get, Mən səni uzaqlara, başqa millətlərin yanına göndərəcəyəm”». </verse>
+        <verse osisID='Acts.22.22'>Paula buraya qədər qulaq asanlar bu sözdən sonra haray salıb dedilər: «Beləsini yer üzündən silib-atmaq lazımdır! O yaşamağa layiq deyil!»</verse>
+        <verse osisID='Acts.22.23'>Onlar belə hay-küy qopararaq paltarlarını yelləyib havaya toz qaldıranda</verse>
+        <verse osisID='Acts.22.24'>minbaşı əmr etdi ki, Paulu qalaya salsınlar. Onların niyə belə hay-küy qoparmalarının səbəbini bilmək üçün onu qamçılatmaqla sorğuya çəkmək istədi.</verse>
+        <verse osisID='Acts.22.25'>Onu qamçılatmaq üçün bağlayanda Paul orada dayanan yüzbaşıya dedi: «Məhkum olmamış Roma vətəndaşını qamçılatmağa icazəniz varmı?»</verse>
+        <verse osisID='Acts.22.26'>Yüzbaşı bunu eşidən kimi minbaşının yanına gəlib xəbər verərək dedi: «Nə edəcəksən? Bu adam Roma vətəndaşıdır».</verse>
+        <verse osisID='Acts.22.27'>Minbaşı Paulun yanına gəlib soruşdu: «De görək, sən Roma vətəndaşısan?» Paul dedi: «Bəli».</verse>
+        <verse osisID='Acts.22.28'>Minbaşı cavabında «mən nə qədər pula bu vətəndaşlığı əldə etmişəm» dedi. Paul isə «amma mən doğulandan Roma vətəndaşıyam» dedi.</verse>
+        <verse osisID='Acts.22.29'>Onu sorğuya çəkmək istəyənlər dərhal onun yanından geri çəkildilər. Minbaşı qollarını bağladığı Paulun Roma vətəndaşı olduğunu öyrənərkən qorxdu. </verse>
+        <verse osisID='Acts.22.30'>Minbaşı ertəsi gün Yəhudilərin Paulu nədə ittiham etdiklərini dəqiq öyrənmək istədi. Ona görə Paulu azad etdi. Minbaşı əmr verdi ki, başçı kahinlərlə bütün Ali Şura toplaşsın. Sonra Paulu aşağı endirib onların qarşısına gətirdi.  </verse>
+      </chapter>
+      <chapter osisID='Acts.23'>
+        <verse osisID='Acts.23.1'>Ali Şuranı diqqətlə nəzərdən keçirən Paul dedi: «Qardaşlar, mən bu günəcən Allahın qarşısında təmiz vicdanla yaşamışam».</verse>
+        <verse osisID='Acts.23.2'>Baş kahin Xananya Paulun yanında duranlara əmr etdi ki, onun ağzından vursunlar.</verse>
+        <verse osisID='Acts.23.3'>Bundan sonra Paul ona dedi: «Ey üzü ağardılan divar, səni Allah vuracaq! Həm oturub Qanuna əsasən məni mühakimə edirsən, həm də Qanunu pozaraq məni döymək üçün əmr verirsən».</verse>
+        <verse osisID='Acts.23.4'>Yanında duranlar ona dedilər: «Sən Allahın baş kahinini söyürsən?»</verse>
+        <verse osisID='Acts.23.5'>Paul dedi: «Qardaşlar, onun baş kahin olduğunu bilmirdim. Əlbəttə, “xalqın başçısı barədə pis söz demə” deyə yazılıb». </verse>
+        <verse osisID='Acts.23.6'>Onların bir hissəsinin sadukey, digər hissəsinin isə farisey olduğunu bilən Paul Ali Şuraya nida etdi: «Ey qardaşlar, mən farisey oğlu fariseyəm. Ölülərin dirilməsinə ümid bəslədiyim üçün burada mühakimə olunuram».</verse>
+        <verse osisID='Acts.23.7'>Paulun bu sözündən sonra fariseylərlə sadukeylər arasında çəkişmə başladı və toplantı iki hissəyə ayrıldı.</verse>
+        <verse osisID='Acts.23.8'>Çünki sadukeylər iddia edirlər ki, ölümdən dirilmə, mələk və ruh yoxdur. Əksinə, fariseylər bunların hamısına inanırlar.</verse>
+        <verse osisID='Acts.23.9'>Toplantıda böyük bir hay-küy yarandı. Farisey tərəfini tutan bəzi ilahiyyatçılar qalxıb dava yaradaraq belə deyirdilər: «Bu adamda heç bir günah görmürük. Nə olsun ki, onunla bir ruh və yaxud mələk danışıb.»</verse>
+        <verse osisID='Acts.23.10'>Çəkişmə o qədər qızışdı ki, minbaşı onların Paulu parçalayacağından qorxdu. O, əsgərlərə əmr etdi ki, aşağı enib Paulu zorla onların arasından çıxararaq qalaya aparsınlar. </verse>
+        <verse osisID='Acts.23.11'>O gecə Rəbb Paulun yanında dayanıb dedi: «Cəsarətli ol, Yerusəlimdə Mənim haqqımda etdiyin şəhadəti Romada da etməyin lazımdır». </verse>
+        <verse osisID='Acts.23.12'>Səhər açılanda Yəhudilər öz aralarında Paula sui-qəsd hazırlayaraq and içdilər: «Əgər Paulu öldürməmiş bir şey yeyib-içəriksə, lənətə gələk!»</verse>
+        <verse osisID='Acts.23.13'>Bu sui-qəsdə qoşulanların sayı qırxdan artıq idi.</verse>
+        <verse osisID='Acts.23.14'>Bu adamlar başçı kahinlərlə ağsaqqalların yanına gəlib belə dedilər: «Biz qəti and içmişik: “Əgər Paulu öldürməmiş bir şey yeyib-içəriksə, lənətə gələk!”</verse>
+        <verse osisID='Acts.23.15'>İndi siz Ali Şura ilə birgə guya Paulun işinə daha dəqiq baxmaq istəyərək minbaşıdan xahiş edin ki, onu yanınıza gətirsin. Paul buraya gəlməmiş biz onu öldürməyə hazır olacağıq».</verse>
+        <verse osisID='Acts.23.16'>Lakin Paulun bacısı oğlu onların pusqu qurduqlarını eşidib qalaya girdi və Paula xəbər verdi.</verse>
+        <verse osisID='Acts.23.17'>Paul yüzbaşılardan birini yanına çağırıb dedi: «Bu cavanı minbaşının yanına apar, ona çatdırılası bir xəbəri var».</verse>
+        <verse osisID='Acts.23.18'>Yüzbaşı cavanı götürüb minbaşının yanına apardı və dedi: «Məhbus Paul məni çağırıb xahiş etdi ki, bu oğlanı sənin yanına aparım. Sənə bir sözü var».</verse>
+        <verse osisID='Acts.23.19'>Minbaşı cavanın əlindən tutub bir tərəfə çəkdi və soruşdu: «Mənə nə demək istəyirsən?»</verse>
+        <verse osisID='Acts.23.20'>Cavan dedi: «Yəhudilər belə razılığa gəlib ki, guya Paulun işinə daha dəqiq baxmaq istəyirlər, ona görə sabah səndən onun Ali Şuraya gətirilməsini xahiş edəcəklər.</verse>
+        <verse osisID='Acts.23.21'>Amma sən onların sözünə qulaq asma, çünki qırx nəfərdən artıq kişi “Əgər Paulu öldürməmiş bir şey yeyib-içəriksə, lənətə gələk!” deyə and içib pusquda gözləyir. Onlar hazır dayanıb sənin razılığını gözləyirlər».</verse>
+        <verse osisID='Acts.23.22'>Minbaşı ona belə tapşırdı: «Bunları mənə xəbər verdiyini heç kimə demə». Sonra oğlanı evə göndərdi. </verse>
+        <verse osisID='Acts.23.23'>Minbaşı yüzbaşılardan ikisini yanına çağırıb belə dedi: «Gecənin üçüncü saatı Qeysəriyyəyə getmək üçün iki yüz piyada, yetmiş atlı və iki yüz nizəçi hazırlayın.</verse>
+        <verse osisID='Acts.23.24'>Həmçinin minmək üçün heyvanlar gətirin və Paulu sağ-salamat vali Feliksə çatdırın».</verse>
+        <verse osisID='Acts.23.25'>Sonra bu cür məktub yazdı: </verse>
+        <verse osisID='Acts.23.26'>«Möhtərəm vali Feliksə Klavdi Lisiyadan salamlar! </verse>
+        <verse osisID='Acts.23.27'>Bu kişini Yəhudilər tutub öldürmək istəyirdi. Mən biləndə ki bu adam Roma vətəndaşıdır, özümü yetirib əsgərlərlə onu xilas etdim.</verse>
+        <verse osisID='Acts.23.28'>Onu nədə təqsirləndirmələrini bilmək üçün Yəhudilərin Ali Şurasının qarşısına çıxartdım.</verse>
+        <verse osisID='Acts.23.29'>Öyrəndim ki, onu özlərinin Qanunu ilə bağlı məsələlərdə ittiham edirlər, amma ona ölüm yaxud həbsə layiq cəza vermək üçün heç bir əsas yoxdur.</verse>
+        <verse osisID='Acts.23.30'>Mənə çatdırılanda ki bu kişiyə qarşı bir sui-qəsd qurulub, dərhal onu sənin yanına göndərdim. Onu ittiham edənlərin də şikayətlərini sənə bildirmələrini əmr etdim». </verse>
+        <verse osisID='Acts.23.31'>Əsgərlər onlara verilən əmrə əməl edərək gecə ikən Paulu götürüb Antipatrisə apardılar.</verse>
+        <verse osisID='Acts.23.32'>Ertəsi gün atlıları Paulla birlikdə yollarına davam etmək üçün ötürəndən sonra qalaya qayıtdılar.</verse>
+        <verse osisID='Acts.23.33'>Atlılar Qeysəriyyəyə çatan kimi məktubu valiyə verəndə Paulu da ona təslim etdilər.</verse>
+        <verse osisID='Acts.23.34'>Vali məktubu oxuyandan sonra Paulun hansı vilayətdən olduğunu soruşdu. Öyrənəndə ki Kilikiyadandır,</verse>
+        <verse osisID='Acts.23.35'>belə dedi: «Səni ittiham edənlər gələndə sənin işinə baxacağam». Bundan sonra əmr verdi ki, Paulu Hirod sarayında nəzarət altında saxlasınlar.  </verse>
+      </chapter>
+      <chapter osisID='Acts.24'>
+        <verse osisID='Acts.24.1'>
+          Bundan beş gün sonra baş kahin Xananya, bəzi ağsaqqallar və Tertul adlı bir vəkil Qeysəriyyəyə gəlib Pauldan edilən şikayətləri valiyə çatdırdı.</verse>
+        <verse osisID='Acts.24.2'>Paul çağırılanda Tertul onu ittiham etməyə başladı: «Möhtərəm Feliks, sənin sayəndə uzun müddətdir ki, əmin-amanlıq içində yaşamaqdayıq. Sənin uzaqgörənliyinlə bu millət üçün keçirdiyin islahatları</verse>
+        <verse osisID='Acts.24.3'>hər yerdə, hər zaman dərin minnətdarlıqla qəbul edirik.</verse>
+        <verse osisID='Acts.24.4'>Vaxtınızı çox almaq istəmirəm. Rica edirəm, lütfkarlığınla bizi bir qədər dinlə.</verse>
+        <verse osisID='Acts.24.5'>Bizim gəldiyimiz nəticəyə görə bu kişi dünyanın hər yerində olan Yəhudilər arasında iğtişaşlar salan bir araqarışdırandır. O, Nəsrani təriqətinin başçılarındandır.</verse>
+        <verse osisID='Acts.24.6'>Bu insan hətta məbədi murdarlamağa çalışdı, amma biz onu yaxaladıq.</verse>
+        <verse osisID='Acts.24.8'>Onu istintaq etsən, bütün bu ittihamlarımızın doğru olduğunu özündən öyrənə bilərsən».</verse>
+        <verse osisID='Acts.24.9'>Oradakı Yəhudilər də deyilənlərin doğru olduğunu təsdiqləyərək bu işə qoşuldu. </verse>
+        <verse osisID='Acts.24.10'>Vali Paula işarə verəndə o cavab verdi: «Bilirəm ki, sən neçə illərdir bu millətin hakimisən. Buna görə sənin qarşında özümü müdafiə etməyimə sevinirəm.</verse>
+        <verse osisID='Acts.24.11'>Sən özün də öyrənə bilərsən ki, ibadət etmək məqsədi ilə Yerusəlimə gedişimdən bu yana sadəcə on iki gün keçib.</verse>
+        <verse osisID='Acts.24.12'>Bu adamlardan heç biri görməyib ki, mən məbəddə, sinaqoqlarda yaxud şəhərin hansısa bir yerində kiminləsə mübahisə edim və yaxud camaatı təşvişə salım.</verse>
+        <verse osisID='Acts.24.13'>Bu anda mənə qarşı etdikləri ittihamları sənin hüzurunda sübut edə bilmirlər.</verse>
+        <verse osisID='Acts.24.14'>Lakin ata-babalarımızın Allahına onların təriqət adlandırdığı İsa yolunun ardıcılı olaraq ibadət etdiyimi sənin qarşında iqrar edirəm. Qanunda olan və Peyğəmbərlərin kitablarında yazılan hər şeyə inanıram.</verse>
+        <verse osisID='Acts.24.15'>Eyni ilə bu adamların qəbul etdikləri kimi həm saleh, həm də saleh olmayan insanların diriləcəyinə dair Allaha ümid bəsləyirəm.</verse>
+        <verse osisID='Acts.24.16'>Bu məqsədlə mən istər Allah, istərsə də insanların qarşısında hər zaman vicdanımın təmiz olması üçün çalışıram.</verse>
+        <verse osisID='Acts.24.17'>Uzun illərdən sonra millətimə yardım və hədiyyələr vermək üçün Yerusəlimə gəldim.</verse>
+        <verse osisID='Acts.24.18'>Bununla məşğul olarkən məni məbəddə paklanmış olaraq tapdılar. Ətrafımda nə izdiham, nə də hay-küy var idi.</verse>
+        <verse osisID='Acts.24.19'>Lakin Asiya vilayətindən bəzi Yəhudilər orada idi. Onlar buraya – sənin hüzuruna gəlməli və məndən şikayətləri varsa, ittihamlarını göstərməlidirlər.</verse>
+        <verse osisID='Acts.24.20'>Yaxud özləri desinlər ki, Ali Şuranın qarşısında dayandığım vaxt hansı haqsızlığı üzə çıxartdılar.</verse>
+        <verse osisID='Acts.24.21'>Onların qarşısında dayananda nida edərək belə demişdim və yalnız bunda mənim haqsız olduğumu hesab edə bilərlər: “Bu gün mən ölülərin dirilməsi məsələsinə görə önünüzdə mühakimə olunuram”». </verse>
+        <verse osisID='Acts.24.22'>İsa yolu barədə dəqiq məlumatı olan Feliks bu işi təxirə salıb dedi: «İşiniz barədə minbaşı Lisiya gələndən sonra qərarımı verəcəyəm».</verse>
+        <verse osisID='Acts.24.23'>Oradakı yüzbaşıya əmr verdi ki, Paulu nəzarət altında saxlasın, lakin sərbəstlik versin və ona xidmət edən dostlarına maneçilik yaratmasın. </verse>
+        <verse osisID='Acts.24.24'>Bir neçə gün keçəndən sonra vali Feliks Yəhudi arvadı Drusilla ilə birlikdə gəlib Paulu çağırtdırdı və onun Məsih İsaya olan imanından danışdıqlarına qulaq asdı.</verse>
+        <verse osisID='Acts.24.25'>Paul salehlik, nəfsə hakim olma və gələcək mühakimədən söhbət edəndə Feliks qorxuya düşdü və dedi: «Bəsdir, indi get, imkan olanda yenə səni çağırtdıracağam».</verse>
+        <verse osisID='Acts.24.26'>Digər tərəfdən də Pauldan rüşvət umurdu. Ona görə tez-tez Paulu yanına çağırtdırır və onunla söhbət edirdi. </verse>
+        <verse osisID='Acts.24.27'>İki il keçəndən sonra Feliks öz vəzifəsini Porki Festə təhvil verdi. Feliks Yəhudilərin rəğbətini qazanmaq üçün Paulu həbsdə qoyub getdi.  </verse>
+      </chapter>
+      <chapter osisID='Acts.25'>
+        <verse osisID='Acts.25.1'>
+          Vilayətə çatandan üç gün sonra Fest Qeysəriyyədən Yerusəlimə getdi.</verse>
+        <verse osisID='Acts.25.2'>Başçı kahinlərlə Yəhudilərin nüfuzlu adamları Paulla bağlı şikayətlərini ona açıqladılar.</verse>
+        <verse osisID='Acts.25.3'>Onlara bir yaxşılıq etsin deyə Festə yalvararaq Paulun Yerusəlimə gətirilməsini xahiş etdilər, çünki onu öldürmək üçün yolda pusqu qururdular.</verse>
+        <verse osisID='Acts.25.4'>Fest cavab verdi: «Paul Qeysəriyyədə həbsdədir və tezliklə özüm də oraya gedəcəyəm.</verse>
+        <verse osisID='Acts.25.5'>Aranızda səlahiyyəti olanlar mənimlə getsin və əgər bu kişi haqsızlıq edibsə, onu ittiham etsin». </verse>
+        <verse osisID='Acts.25.6'>Fest onların yanında səkkiz ya on gündən artıq qalmadı və Qeysəriyyəyə qayıtdı. Ertəsi gün hökm kürsüsünə çıxıb Paulun gətirilməsini əmr etdi.</verse>
+        <verse osisID='Acts.25.7'>Paul içəri girəndə Yerusəlimdən gələn Yəhudilər onun ətrafını bürüdü və onun barəsində dəlil-sübutsuz bir çox ağır ittihamlar irəli sürdülər.</verse>
+        <verse osisID='Acts.25.8'>Paul «nə Yəhudilərin Qanununa, nə məbədə, nə də qeysərə qarşı heç bir günah işlətməmişəm» deyərək özünü müdafiə etdi.</verse>
+        <verse osisID='Acts.25.9'>Yəhudilərin rəğbətini qazanmaq üçün Fest Paula belə dedi: «Bu iş üzrə mənim qarşımda mühakimənin Yerusəlimdə olmasını istəyirsənmi?»</verse>
+        <verse osisID='Acts.25.10'>Paul dedi: «Mən qeysərin hökm kürsüsünün qarşısında dayanmışam. Mənim məhkəməm burada olmalıdır. Sən özün də yaxşı bilirsən ki, Yəhudilərə qarşı heç bir haqsızlıq etməmişəm.</verse>
+        <verse osisID='Acts.25.11'>Əgər haqsızlıq etmişəmsə, ölüm cəzasına layiq bir iş tutmuşamsa, ölümdən qaçmıram. Yox, əgər bunların ittihamları əsassızdırsa, məni onların əlinə təslim etmək üçün heç kimin səlahiyyəti yoxdur. Mən qeysərin məhkəməsinə müraciət etmək istəyirəm».</verse>
+        <verse osisID='Acts.25.12'>Fest öz məsləhət şurası ilə müşavirə keçirəndən sonra cavab verdi: «Sən qeysərin məhkəməsinə müraciət etmək istədiyin üçün qeysərin yanına gedəcəksən». </verse>
+        <verse osisID='Acts.25.13'>Bir neçə gündən sonra padşah Aqrippa ilə Berniki Festi təbrik etmək üçün Qeysəriyyəyə gəldi.</verse>
+        <verse osisID='Acts.25.14'>Bir müddət orada qaldılar. Fest bu ərəfədə Paulun işini padşaha danışdı. O dedi: «Bir kişi var, Feliks onu məhbus saxlayaraq gedib.</verse>
+        <verse osisID='Acts.25.15'>Yerusəlimdə olduğum ərəfədə Yəhudilərin başçı kahinləri ilə ağsaqqalları onunla bağlı şikayətlərini açıqladı və onu cəzalandırmağımı istədi.</verse>
+        <verse osisID='Acts.25.16'>Mən dedim ki, ittiham edilən şəxsi ittihamçılarla üzləşdirmədən, ona edilən ittihamlara müdafiə imkanı vermədən, onlara təslim etmək Romalıların adətinə xas deyil.</verse>
+        <verse osisID='Acts.25.17'>Onlar mənimlə buraya toplananda heç bir vaxt itirmədən ertəsi gün hökm kürsüsünə çıxıb bu kişinin gətirilməsini əmr etdim.</verse>
+        <verse osisID='Acts.25.18'>Amma ittihamçılar qalxıb danışanda mənim gözlədiyim cinayətlərin heç biri ilə onu təqsirləndirmədilər.</verse>
+        <verse osisID='Acts.25.19'>Lakin onunla öz dinləri barədə bir neçə məsələ qaldırdılar. Bunlar ölmüş və Paulun iddiasına görə sağ olan İsa adlı bir şəxslə bağlı məsələlərdir.</verse>
+        <verse osisID='Acts.25.20'>Bunları necə tədqiq edəcəyimdən şübhələndiyim üçün ondan soruşdum ki, Yerusəlimə gedib bu iş üçün orada mühakimə olmağa razıdır ya yox.</verse>
+        <verse osisID='Acts.25.21'>Amma Paul imperatorun məhkəməsinə müraciət etmək və bu olana qədər həbsdə qalmaq istədi. Mən də onu qeysərin yanına göndərəcəyim zamanacan həbsdə qalması barədə əmr verdim».</verse>
+        <verse osisID='Acts.25.22'>Aqrippa Festə dedi: «Bu adama mən də qulaq asmaq istəyirəm». Fest dedi: «Sabah qulaq asarsan». </verse>
+        <verse osisID='Acts.25.23'>Ertəsi gün Aqrippa ilə Berniki təntənəli surətdə gəlib minbaşılar və şəhərin nüfuzlu şəxsləri ilə birlikdə iclas otağına daxil oldular. Festin əmrinə əsasən Paulu içəri gətirdilər.</verse>
+        <verse osisID='Acts.25.24'>Fest dedi: «Ey padşah Aqrippa və burada bizimlə olan bütün cənablar, istər Yerusəlimdə, istərsə də burada, bütün Yəhudi xalqının şikayət etdiyi bu insanı görürsünüzmü? “Bu adam daha yaşamamalıdır!” deyə Yəhudilər hay-küy salırdı.</verse>
+        <verse osisID='Acts.25.25'>Amma mən nəticəyə gəldim ki, bu adam ölümə layiq heç bir iş görməyib. Lakin imperatorun məhkəməsinə müraciət etmək istədiyinə görə onu göndərmək qərarına gəldim.</verse>
+        <verse osisID='Acts.25.26'>Amma onun barəsində qəti bir sözüm yoxdur ki, cənabıma yazam. Ona görə də onu sizin qarşınıza, xüsusən, padşah Aqrippa, sənin qarşına çıxarıram ki, bu işin istintaqından sonra yazmağa sözüm olsun.</verse>
+        <verse osisID='Acts.25.27'>Çünki bir məhbusu imperatorun qarşısına göndərəndə ona edilən ittihamları göstərməmək mənə məntiqsiz göründü».  </verse>
+      </chapter>
+      <chapter osisID='Acts.26'>
+        <verse osisID='Acts.26.1'>Aqrippa Paula dedi: «Özünü müdafiə edə bilərsən». Onda Paul əl hərəkəti ilə özünü müdafiəyə başladı:</verse>
+        <verse osisID='Acts.26.2'>«Padşah Aqrippa, Yəhudilərin məni ittihamlandırdığı hər şeyə görə bu gün sənin hüzurunda özümü müdafiə edəcəyim üçün özümü xoşbəxt sayıram.</verse>
+        <verse osisID='Acts.26.3'>Çünki bütün Yəhudi adət-ənənələrinə və mübahisələrinə yaxşı bələdsən. Ona görə rica edirəm, mənə səbirlə qulaq as. </verse>
+        <verse osisID='Acts.26.4'>Bütün Yəhudilər bilir ki, əzəldən, lap cavanlığımdan bəri həm öz elimdə, həm də Yerusəlimdə necə həyat sürmüşəm.</verse>
+        <verse osisID='Acts.26.5'>Məni əvvəldən tanıyırlar, bilirlər ki, keçmişdə dinimizin ən ciddi təriqəti olan farisey təriqətinə necə bağlı yaşayırdım. İstəsələr, bu barədə şəhadət edə bilərlər.</verse>
+        <verse osisID='Acts.26.6'>İndi isə Allahın ata-babalarımıza verdiyi vədin həyata keçməsinə ümid bağladığım üçün burada dayanıb mühakimə olunuram.</verse>
+        <verse osisID='Acts.26.7'>Xalqımızın on iki qəbiləsi də gecə-gündüz Allaha sidq ürəkdən ibadət edə-edə həmin şeyə ümid bəsləyir. Ey padşah, Yəhudilər məni bu ümidə görə ittiham edirlər.</verse>
+        <verse osisID='Acts.26.8'>Niyə Allahın ölüləri diriltməsi aranızda inanılmaz bir şey sayılır? </verse>
+        <verse osisID='Acts.26.9'>Doğrusu, mən buna əmin olmuşdum ki, Nazaretli İsanın adı əleyhinə əlimdən gələni etməliyəm.</verse>
+        <verse osisID='Acts.26.10'>Yerusəlimdə də bunu edirdim. Başçı kahinlərdən aldığım səlahiyyətə əsasən nə qədər müqəddəsi zindanlara saldırdım və edam olunanda onların əleyhinə səs verdim.</verse>
+        <verse osisID='Acts.26.11'>Bütün sinaqoqları gəzib-dolaşaraq onları tez-tez cəzalandırır və öz etiqadlarına küfr etməyə məcbur edirdim. Mən elə dəli olmuşdum ki, onları ölkə xaricində olan şəhərlərdə belə, təqib edirdim. </verse>
+        <verse osisID='Acts.26.12'>Bu iş üçün başçı kahinlərdən aldığım səlahiyyət və tapşırıqla Dəməşqə tərəf yola çıxdım.</verse>
+        <verse osisID='Acts.26.13'>Ey padşah, günorta vaxtı yol gedirdim ki, göydən məni və yoldaşlarımı hər tərəfdən nurlandıran günəşdən daha parlaq bir işıq gördüm.</verse>
+        <verse osisID='Acts.26.14'>Hamımız yerə yıxıldıq. Bir səsin mənə İbrani dilində dediyini eşitdim: “Şaul, Şaul, niyə Məni təqib edirsən? Bizin ucuna təpik vurmaq sənə zərər verər”.</verse>
+        <verse osisID='Acts.26.15'>Mən dedim: “Ey Ağam, Sən kimsən?” Rəbb cavab verdi: “Mən sənin təqib etdiyin İsayam.</verse>
+        <verse osisID='Acts.26.16'>Qalx ayağa və dur. Mən ona görə sənə göründüm ki, səni xidmətçi və haqqımda gördüyün, sənə göstərəcəyim şeylərin şahidi olmağa təyin edim.</verse>
+        <verse osisID='Acts.26.17'>Səni öz xalqından, həm də başqa millətlərin əlindən qurtaracağam. Səni o millətlərin yanına göndərirəm ki,</verse>
+        <verse osisID='Acts.26.18'>onların gözlərini açıb qaranlıqdan işığa, Şeytanın hakimiyyətindən Allaha tərəf döndərəsən. Belə ki onlar günahlarının bağışlanmasına və Mənə iman etməklə təqdis olunanlar arasında irsə nail olsunlar”. </verse>
+        <verse osisID='Acts.26.19'>Buna görə mən, ey padşah Aqrippa, bu səmavi görüntüyə itaətsizlik etmədim.</verse>
+        <verse osisID='Acts.26.20'>Əvvəlcə Dəməşqin, sonra Yerusəlimin və bütün Yəhudeya bölgəsinin əhalisini, başqa millətləri də tövbə edib Allaha tərəf dönməyə və bu tövbəyə uyğun tərzdə iş görməyə çağırdım.</verse>
+        <verse osisID='Acts.26.21'>Yəhudilər buna görə məni məbəddə tutub öldürməyə cəhd göstərirdilər.</verse>
+        <verse osisID='Acts.26.22'>Amma bu günə qədər Allah mənim dayağımda durdu və bunun sayəsində burada durub böyükdən kiçiyə qədər hamıya şəhadət edirəm. Mənim dediklərim peyğəmbərlərin və Musanın əvvəlcədən xəbər verdiyi hadisələrdən başqa bir şey deyil.</verse>
+        <verse osisID='Acts.26.23'>Onlar bildirib ki, Məsih əzab çəkəcək və ölümdən dirilənlərin birincisi olacaq, həm Öz xalqına, həm də başqa millətlərə nur doğduğunu elan edəcək». </verse>
+        <verse osisID='Acts.26.24'>Paul özünü bu cür müdafiə edəndə Fest bərkdən dedi: «Paul, dəlilik edirsən, çox oxumaqdan başın xarab olub».</verse>
+        <verse osisID='Acts.26.25'>Paul dedi: «Hörmətli Fest, mən dəlilik etmirəm, həqiqəti və ağla batan sözləri danışıram.</verse>
+        <verse osisID='Acts.26.26'>Padşahın bu barədə məlumatı olduğu üçün onunla cəsarətlə danışıram. Əminəm ki, olanların heç biri padşahın nəzərindən qaçmayıb. Çünki bu işlər künc-bucaqda görülən işlər deyil.</verse>
+        <verse osisID='Acts.26.27'>Padşah Aqrippa, sən peyğəmbərlərə inanırsanmı? Bilirəm ki, inanırsan».</verse>
+        <verse osisID='Acts.26.28'>Aqrippa Paula dedi: «Bu az müddətdə məni də inandıraraq məsihçi edəcəksən?»</verse>
+        <verse osisID='Acts.26.29'>Paul dedi: «İstər az, istər çox müddət olsun, Allahdan istəyirəm ki, təkcə sən yox, bu gün mənə qulaq asan hər bir adam bu zəncirlərdən başqa mənim kimi olsun!» </verse>
+        <verse osisID='Acts.26.30'>Sonra padşah, vali, Berniki və onlarla birlikdə oturanlar qalxdılar.</verse>
+        <verse osisID='Acts.26.31'>Bayıra çıxanda aralarında belə danışdılar: «Bu adam ölümə yaxud həbsə layiq bir şey etmir».</verse>
+        <verse osisID='Acts.26.32'>Aqrippa da Festə dedi: «Bu adam qeysərin məhkəməsinə müraciət etmək istəməsəydi, azad edilə bilərdi».  </verse>
+      </chapter>
+      <chapter osisID='Acts.27'>
+        <verse osisID='Acts.27.1'>
+          İtaliyaya doğru yelkən açmağa qərar veriləndə Paulu və bəzi başqa məhbusları İmperator alayından Yuli adlı bir yüzbaşıya təhvil verdilər.</verse>
+        <verse osisID='Acts.27.2'>Asiya vilayətinin sahilindəki limanlara gedən bir Edremit gəmisinə minərək dənizlə getdik. Salonikdən Makedoniyalı Aristarx da yanımızda idi.</verse>
+        <verse osisID='Acts.27.3'>Ertəsi gün Sidona çatdıq. Paulla dost kimi rəftar edən Yuli ona izin verdi ki, lazımi kömək almaq üçün dostlarının yanına getsin.</verse>
+        <verse osisID='Acts.27.4'>Oradan yenə dənizlə getdik. Küləklər bizə əks istiqamətdə əsdiyi üçün Kipri külək tutmayan tərəfdən keçdik.</verse>
+        <verse osisID='Acts.27.5'>Dəniz yolu ilə Kilikiya və Pamfiliyanı keçib Likiyanın Mira şəhərinə gəldik.</verse>
+        <verse osisID='Acts.27.6'>Yüzbaşı orada İtaliyaya gedən bir İsgəndəriyyə gəmisi tapıb bizi o gəmiyə mindirdi.</verse>
+        <verse osisID='Acts.27.7'>Xeyli gün aşağı sürətlə, çətinliklə üzərək Knid şəhərinin qarşısına çatdıq. Külək bizə yol vermədiyi üçün Salmoni burnundan dolanaraq Kritin külək tutmayan tərəfi ilə getdik.</verse>
+        <verse osisID='Acts.27.8'>Sahil boyunca çətinliklə irəliləyərək Laseya şəhəri yaxınlığındakı Gözəl Limanlar adlanan körfəzə gəlib-çatdıq. </verse>
+        <verse osisID='Acts.27.9'>Xeyli vaxt itirmişdik, hətta oruc günü də keçib-getmişdi. Artıq bu mövsümdə dəniz yolu ilə getmək təhlükəli idi. Odur ki, Paul onlara xəbərdarlıq edərək</verse>
+        <verse osisID='Acts.27.10'>dedi: «Ağalar, görürəm ki, bu səfər yalnız yük və gəmiyə deyil, canımıza da çox ziyan və bəla gətirəcək».</verse>
+        <verse osisID='Acts.27.11'>Lakin yüzbaşı Paulun dediklərini dinləməkdənsə gəmi sükançısının və sahibinin sözlərinə uydu.</verse>
+        <verse osisID='Acts.27.12'>Liman qışlamaq üçün əlverişsiz idi. Buna görə gəmidəkilərin əksəriyyəti oradan dənizə çıxıb imkan olarsa, Finiksə çataraq qışı orada keçirmək qərarına gəldi; Finiks Kritdə olan, cənub-qərbə və şimal-qərbə baxan bir liman idi. </verse>
+        <verse osisID='Acts.27.13'>Cənubdan zəif bir külək əsməyə başlayanda gözlədikləri anın gəldiyini zənn edərək lövbərləri çıxartdılar. Krit sahili boyu üzərək irəlilədilər.</verse>
+        <verse osisID='Acts.27.14'>Amma çox keçmədi ki, qurudan Evrakilon fırtınası qopdu.</verse>
+        <verse osisID='Acts.27.15'>Fırtınaya düşən gəmi küləyə müqavimət göstərə bilmirdi, əlacsız qaldıq və külək bizi aparırdı.</verse>
+        <verse osisID='Acts.27.16'>Qavda adlı kiçik bir adanın külək zəif tutan tərəfinə düşəndə gəminin qayığını güclə qurtara bildik.</verse>
+        <verse osisID='Acts.27.17'>Qayığı yuxarı çəkəndən sonra gəminin kəndirlərini onun altından dolayıb bağlayaraq tədbir gördülər. Sirt körfəzində saya oturmaqdan qorxub ləngəri aşağı saldılar və gəmi sürüklənməyə başladı.</verse>
+        <verse osisID='Acts.27.18'>Fırtına bizi bir xeyli çalxaladı. Ertəsi gün gəminin yükünü atmağa başladılar.</verse>
+        <verse osisID='Acts.27.19'>Üçüncü gün isə öz əlləri ilə gəminin təchizatını atdılar.</verse>
+        <verse osisID='Acts.27.20'>Günlərlə nə günəş, nə də ulduzlar göründü. Fırtına da o qədər şiddətlə davam edirdi ki, artıq bundan xilas olmağa ümidimiz qalmamışdı. </verse>
+        <verse osisID='Acts.27.21'>Adamlar uzun müddət yemək yemədikdə Paul ortada durub dedi: «Ağalar, gərək siz mənə qulaq asıb Kritdən çıxmayaydınız və bu ziyana, bu bəlaya düşməyəydiniz.</verse>
+        <verse osisID='Acts.27.22'>İndi sizə öyüd verərək deyirəm: ürəkli olun, çünki heç biriniz canını itirməyəcək, yalnız gəmi məhv olacaq.</verse>
+        <verse osisID='Acts.27.23'>Çünki mənsub olub ibadət etdiyim Allahın bir mələyi bu gecə yanıma gəlib dedi:</verse>
+        <verse osisID='Acts.27.24'>“Qorxma, Paul, sənin qeysərin qarşısına çıxmağın lazımdır. Səninlə birgə gəmidə olanların hamısını da Allah sənə bağışladı”.</verse>
+        <verse osisID='Acts.27.25'>Ay ağalar, buna görə ürəkli olun! Allaha inandığıma görə bilirəm ki, hər şey mənə deyilən kimi olacaq.</verse>
+        <verse osisID='Acts.27.26'>Amma bizə bir adaya düşmək lazımdır». </verse>
+        <verse osisID='Acts.27.27'>On dördüncü gecə idi ki, biz İoniya dənizində sürüklənirdik. Gecə yarısına yaxın gəmiçilər hiss etdilər ki, quruya yaxınlaşırlar.</verse>
+        <verse osisID='Acts.27.28'>Suyun dərinliyini ölçəndə gördülər ki, iyirmi qolacdır. Bir az gedəndən sonra bir daha ölçdülər və gördülər ki, on beş qolacdır.</verse>
+        <verse osisID='Acts.27.29'>Qayalığa çıxmaqdan qorxaraq gəminin dal tərəfindən dörd lövbər atıb sabahın açılması üçün dua etdilər.</verse>
+        <verse osisID='Acts.27.30'>Belə olanda gəmiçilər qaçmağa çalışıb gəminin qabaq hissəsindən lövbərlər salmaq bəhanəsi ilə qayığı dənizə endirdilər.</verse>
+        <verse osisID='Acts.27.31'>Amma Paul yüzbaşıya və əsgərlərə dedi: «Bunlar gəmidə qalmasalar, siz xilas ola bilməzsiniz».</verse>
+        <verse osisID='Acts.27.32'>Bundan sonra əsgərlər qayığın iplərini kəsib onu dənizə saldılar. </verse>
+        <verse osisID='Acts.27.33'>Dan yeri söküləndə Paul hamıya yemək yeməyi təkid edərək dedi: «Bu gün on dörd gündür ki, nigarançılıq içindəsiniz və heç nə yemədiyinizə görə acsınız.</verse>
+        <verse osisID='Acts.27.34'>Bunun üçün sizdən xahiş edirəm ki, yemək yeyəsiniz. Bu, xilasınız üçün lazımdır. Heç birinizin başından bir tük belə, əskik olmayacaq».</verse>
+        <verse osisID='Acts.27.35'>Paul bunu deyəndən sonra çörək götürdü və hamının qarşısında Allaha şükür edərək çörəyi bölüb yeməyə başladı.</verse>
+        <verse osisID='Acts.27.36'>Bundan hamı ürəklənib yemək yedi.</verse>
+        <verse osisID='Acts.27.37'>Gəmidə cəmi iki yüz yetmiş altı nəfər idik.</verse>
+        <verse osisID='Acts.27.38'>Hamı doyandan sonra buğdanı dənizə boşaldaraq gəmini yüngülləşdirdilər. </verse>
+        <verse osisID='Acts.27.39'>Hava işıqlananda gördükləri qurunu tanıya bilmədilər. Amma qumsal sahili olan bir körfəz gördülər. Qərara aldılar ki, imkan olsa, gəmini orada oturtsunlar.</verse>
+        <verse osisID='Acts.27.40'>Lövbərləri kəsib dənizdə qoydular. Eyni zamanda sükanları saxlayan kəndirləri açıb qabaq yelkəni qaldıraraq qumsallığa tərəf yönəldilər.</verse>
+        <verse osisID='Acts.27.41'>Gəmi isə dayazlıqda qum üstündə oturdu. Gəminin burnu quma batıb tərpənməz oldu. Arxa tərəfi isə dalğaların zərbəsindən sınmağa başladı.</verse>
+        <verse osisID='Acts.27.42'>Əsgərlər məhbusları öldürmək istəyirdi ki, heç biri üzərək qaçmasın.</verse>
+        <verse osisID='Acts.27.43'>Amma Paulu xilas etmək istəyən yüzbaşı əsgərləri bu fikirdən daşındırdı. Əmr etdi ki, əvvəlcə üzməyi bacaranlar dənizə tullanıb üzsünlər,</verse>
+        <verse osisID='Acts.27.44'>sonra dalda qalanlar ya taxtalar ya da gəminin başqa parçaları üzərində sahilə çıxsınlar. Beləliklə, hamısı sağ-salamat quruya çıxdı.  </verse>
+      </chapter>
+      <chapter osisID='Acts.28'>
+        <verse osisID='Acts.28.1'>
+          Xilas olandan sonra öyrəndik ki, adanın adı Maltadır.</verse>
+        <verse osisID='Acts.28.2'>Oranın sakinləri bizə gözlənilməz bir mehribanlıq göstərdi. Hava yağışlı və soyuq olduğu üçün ocaq qalayıb hamımızı hərarətlə qarşıladılar.</verse>
+        <verse osisID='Acts.28.3'>Paul bir dəstə çırpı götürüb ocağa atdı. O zaman istinin təsirindən bir gürzə çıxıb onun əlinə yapışdı.</verse>
+        <verse osisID='Acts.28.4'>Oranın sakinləri Paulun əlinə ilanın yapışdığını görəndə bir-birlərinə dedilər: «Demək bu adam qatildir. Dənizdən xilas olsa da, ədalət ilahəsi onu yaşamağa qoymur».</verse>
+        <verse osisID='Acts.28.5'>Amma Paul əlini silkələyib ilanı oda ataraq heç bir xətər görmədi.</verse>
+        <verse osisID='Acts.28.6'>Camaat gözləyirdi ki, Paulun bədəni şişəcək yaxud birdən-birə yıxılıb öləcək. Amma çox gözlədilər, ona heç nə olmadığını görəndə fikirlərini dəyişib dedilər: «Bu bir allahdır». </verse>
+        <verse osisID='Acts.28.7'>O yerin yaxınlığında malikanə var idi ki, ora adanın baş məmuru Publi adlı bir şəxsin idi. Bu adam bizi öz evində qəbul etdi və üç gün bizə mehribanlıqla qonaqpərvərlik göstərdi.</verse>
+        <verse osisID='Acts.28.8'>O ərəfədə Publinin atası qızdırma və qanlı ishal üzündən xəstə yatırdı. Paul xəstənin yanına gəldi və dua edərək əllərini onun üzərinə qoyub sağaltdı.</verse>
+        <verse osisID='Acts.28.9'>Bu hadisədən sonra adadakı qalan xəstələr də gəlib şəfa tapdılar.</verse>
+        <verse osisID='Acts.28.10'>Bizə çoxlu bəxşiş verərək şərəfləndirdilər. Biz dənizə çıxanda isə bizə lazım olan şeyləri gəmiyə yüklədilər. </verse>
+        <verse osisID='Acts.28.11'>Üç aydan sonra qışı adada keçirmiş, başında Əkiz Tanrılar heykəlini gəzdirən bir İsgəndəriyyə gəmisi ilə dənizdən yelkən açdıq.</verse>
+        <verse osisID='Acts.28.12'>Sirakuza şəhərinə çatıb üç gün orada qaldıq.</verse>
+        <verse osisID='Acts.28.13'>Oradan yolumuza davam edərək Regiuma gəldik. Ertəsi gün əsməyə başlayan cənub küləyinin köməyi ilə iki günə Puteoliyə çatdıq.</verse>
+        <verse osisID='Acts.28.14'>Orada rastlaşdığımız imanlı bacı-qardaşlar bizdən xahiş etdilər ki, onların yanında bir həftə qalaq.  Sonra Romaya çatdıq.</verse>
+        <verse osisID='Acts.28.15'>Bizdən xəbər tutan Romadakı imanlı bacı-qardaşlar bizi qarşılamaq üçün Appi Bazarına və Üç Mehmanxanaya qədər gəldilər. Paul onları görəndə Allaha şükür edib ürəkləndi.</verse>
+        <verse osisID='Acts.28.16'>Romaya gələndə Paula izin verildi ki, bir əsgərin nəzarəti altında tək yaşasın. </verse>
+        <verse osisID='Acts.28.17'>Üç gün sonra Paul Yəhudilərin orada olan başçılarını toplantıya dəvət etdi. Onlar bir yerə yığılandan sonra Paul onlara belə dedi: «Soydaşlar, xalqımıza və ata-babalarımızın adət-ənənəsinə zidd heç nə etmədiyim halda Yerusəlimdə həbs edilib Romalılara təslim edildim.</verse>
+        <verse osisID='Acts.28.18'>Onlar məni sorğu-suala çəkəndən sonra azad etmək istədilər. Çünki ölüm cəzasına layiq bir təqsirim yox idi.</verse>
+        <verse osisID='Acts.28.19'>Amma Yəhudilər buna qarşı çıxanda məcbur olub qeysərin məhkəməsinə müraciət etmək istədim, lakin öz millətimi heç nədə ittihamlandırmaq istəmirdim.</verse>
+        <verse osisID='Acts.28.20'>Bu səbəbdən sizi buraya görüşüb söhbət etmək üçün çağırmışam. Axı mən İsrailin ümidi uğrunda belə zəncirlənmişəm».</verse>
+        <verse osisID='Acts.28.21'>Onlar Paula dedilər: «Yəhudeyadan sənin barəndə nə məktub almışıq, nə də buraya gələn soydaşlardan kimsə sənin barəndə bizə xəbər gətirərək pis bir söz deyib.</verse>
+        <verse osisID='Acts.28.22'>Biz sənin fikirlərini sənin özündən eşitmək istəyirik. Çünki hər yerdə bu təriqətə qarşı çıxıldığını bilirik». </verse>
+        <verse osisID='Acts.28.23'>Bir gün təyin edib, həmin gün daha böyük kütlə ilə Paulun qaldığı yerə gəldilər. Paul səhərdən axşamacan Allahın Padşahlığından şəhadət edərək onlara açıqlama verdi, həm Musanın Qanunundan, həm də Peyğəmbərlərin yazdıqlarından onları İsaya inandırmağa çalışdı.</verse>
+        <verse osisID='Acts.28.24'>Bəziləri onun sözlərinə inandı, bəziləri isə inanmadı.</verse>
+        <verse osisID='Acts.28.25'>Bir-birləri ilə razılığa gəlməyəndə Paulun bu son sözlərinə qulaq asıb ayrıldılar: «Müqəddəs Ruh Yeşaya peyğəmbərin vasitəsilə ata-babalarınıza bu gözəl sözü dedi:</verse>
+        <verse osisID='Acts.28.26'>“Get bu xalqa bunu çatdır:‹Eşitdikcə eşidəcəksiniz, amma anlamayacaqsınız,Gördükcə görəcəksiniz, amma qanmayacaqsınız.</verse>
+        <verse osisID='Acts.28.27'>Çünki bu xalqın ürəyi kütləşdi,Qulaqları ağır eşitdi,Gözlərini yumdular ki,Gözləri ilə görməsinlər,Qulaqları ilə eşitməsinlər,Ürəkləri ilə anlamasınlarVə Mənə sarı dönməsinlər ki,Mən onlara şəfa verim›”.</verse>
+        <verse osisID='Acts.28.28'>İndi bilin ki, Allahın verdiyi bu xilas başqa millətlərə göndərilib və onlar buna qulaq asacaqlar».</verse>
+        <verse osisID='Acts.28.29'/>
+        <verse osisID='Acts.28.30'>Paul düz iki il kirayə tutduğu evdə qalıb yanına gələnlərin hamısını qəbul edirdi.</verse>
+        <verse osisID='Acts.28.31'>Heç bir maneə olmadan tam bir cəsarətlə Allahın Padşahlığını vəz edir və Rəbb İsa Məsihlə bağlı həqiqətləri öyrədirdi.  </verse>
+      </chapter>
+    </div></osisText>
+</osis>

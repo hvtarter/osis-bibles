@@ -1,0 +1,209 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace'>
+  <osisText osisRefWork='Bible' osisIDWork='CzeB21' xml:lang='cs'>
+    <header>
+      <revisionDesc>
+        <date>2010-02-26</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='CzeB21'>
+        <title>Czech Bible, Překlad 21. století</title>
+        <contributor/>
+        <creator>Mod2Zef (4)</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject/>
+        <date>2009-07-31</date>
+        <description>Bible, Překlad 21. století  vedoucí projektu Alexandr Flek  odborná spolupráce Jiří Hedánek, Pavel Hoffman, Zdeněk Sýkora  Přeloženo z hebrejštiny, aramejštiny, řečtiny  Vydání první  (c) 2009 Biblion, o. s.  www.bible21.org  www.bible21.cz   Překlad 21. století přináší nadčasové poselství Bible v současné, čtivé češtině. Usiluje o maximální věrnost původním hebrejským, aramejským a řeckým textům, zároveň však chce oslovit dnešní čtenáře, ať už jsou zvyklí čerpat z této knihy inspiraci pro každý den, anebo ji otevírají poprvé.</description>
+        <publisher/>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>CzeB21</identifier>
+        <source>no entry TextSource in sword.conf found</source>
+        <language type='IETF'>cs</language>
+        <relation/>
+        <coverage>provide the bible to the nations of the world</coverage>
+        <rights>Copyrighted; Permission to distribute granted to CrossWire</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='Phil'>
+      <chapter osisID='Phil.1'>
+        <verse osisID='Phil.1.1'>Pavel a Timoteus, služebníci Krista Ježíše, všem svatým v Kristu Ježíši, kteří jsou ve Filipech, se správci a služebníky:</verse>
+        <verse osisID='Phil.1.2'>Milost vám a pokoj od Boha, našeho Otce, a od Pána Ježíše Krista.</verse>
+        <verse osisID='Phil.1.3'>Kdykoli si na vás vzpomenu, musím děkovat svému Bohu.</verse>
+        <verse osisID='Phil.1.4'>Stále se za vás všechny modlím a při každé své modlitbě se raduji</verse>
+        <verse osisID='Phil.1.5'>z toho, jak se od prvního dne až doposud podílíte na evangeliu.</verse>
+        <verse osisID='Phil.1.6'>Jsem si jist, že Ten, který ve vás začal dobré dílo, je dovede až do konce v den Krista Ježíše.</verse>
+        <verse osisID='Phil.1.7'>Právem takto smýšlím o vás všech, protože mě nosíte v srdci; vy všichni máte se mnou podíl na Boží milosti, jak v mém vězení, tak v obhajobě a potvrzování evangelia.</verse>
+        <verse osisID='Phil.1.8'>Bůh je mi svědkem, jak po vás všech toužím; cítím k vám lásku Krista Ježíše!</verse>
+        <verse osisID='Phil.1.9'>Modlím se, aby i vaše láska stále víc a více rostla spolu s poznáním a hlubokou vnímavostí,</verse>
+        <verse osisID='Phil.1.10'>abyste uměli rozeznat, co je správné, abyste byli ryzí a bezúhonní až do Kristova dne</verse>
+        <verse osisID='Phil.1.11'>a dali se od Ježíše Krista naplnit ovocem spravedlnosti ke slávě a chvále Boží.</verse>
+        <verse osisID='Phil.1.12'>Chtěl bych, bratři, abyste věděli, že to, co mě potkalo, přispělo spíše k prospěchu evangelia.</verse>
+        <verse osisID='Phil.1.13'>Celý palác i všichni ostatní tu vědí, že jsem vězněn pro Krista.</verse>
+        <verse osisID='Phil.1.14'>Mé okovy dodaly mnoha sourozencům v Pánu jistotu, takže teď káží Slovo mnohem směleji a beze strachu.</verse>
+        <verse osisID='Phil.1.15'>Někteří sice kážou Krista ze závisti a soupeřivosti, jiní však s dobrým úmyslem.</verse>
+        <verse osisID='Phil.1.16'>Jedni hlásají Krista ze ctižádosti, neupřímně, v domnění, že mi k mým okovům přidají soužení;</verse>
+        <verse osisID='Phil.1.17'>druzí však z lásky a s vědomím, že jsem tu proto, abych obhajoval evangelium.</verse>
+        <verse osisID='Phil.1.18'>Ale co na tom! Hlavně že se jakýmkoli způsobem, ať už naoko nebo opravdově, káže Kristus. Raduji se tedy a budu se radovat i nadále, neboť</verse>
+        <verse osisID='Phil.1.19'>vím, že díky vaší modlitbě a pomoci Ducha Ježíše Krista to vše povede k mé záchraně.</verse>
+        <verse osisID='Phil.1.20'>Už se nemohu dočkat! Mám totiž naději, že v ničem nebudu zahanben, ale že nyní, tak jako vždy, bude na mém těle veřejně oslaven Kristus, ať už skrze život anebo smrt.</verse>
+        <verse osisID='Phil.1.21'>Žít - to je pro mě Kristus, a umřít - to je zisk!</verse>
+        <verse osisID='Phil.1.22'>Zůstanu-li naživu v tomto těle, znamená to pro mě plodnou práci. Proto nevím, čemu dát přednost,</verse>
+        <verse osisID='Phil.1.23'>neboť mě přitahuje obojí. Mám touhu odejít a být s Kristem, což je zdaleka nejlepší;</verse>
+        <verse osisID='Phil.1.24'>zůstat v tomto těle je ale potřebnější kvůli vám.</verse>
+        <verse osisID='Phil.1.25'>Proto vím jistě, že tu ještě pobudu. Kvůli vašemu prospěchu a radosti ve víře tu s vámi všemi zůstanu,</verse>
+        <verse osisID='Phil.1.26'>aby vaše chlouba v Kristu Ježíši díky mně ještě vzrostla, až se k vám vrátím.</verse>
+        <verse osisID='Phil.1.27'>Jen prosím, abyste svým jednáním dělali čest Kristovu evangeliu. Když k vám přijdu, rád bych viděl (a když nepřijdu, alespoň o vás slyšel), že pevně stojíte v jednom duchu a že společně jako jedna duše vedete zápas o víru evangelia.</verse>
+        <verse osisID='Phil.1.28'>Nedejte se nijak vystrašit svými protivníky; to jim bude jasným znamením záhuby, ale vám záchrany, a to od Boha.</verse>
+        <verse osisID='Phil.1.29'>Bylo vám totiž dopřáno, abyste v Krista nejen věřili, ale také pro něho trpěli.</verse>
+        <verse osisID='Phil.1.30'>Svádíte stejný boj, jaký jste viděli u mě, a jak slyšíte, vedu jej i nadále.</verse>
+      </chapter>
+      <chapter osisID='Phil.2'>
+        <verse osisID='Phil.2.1'>Je-li v Kristu nějaké povzbuzení, nějaké potěšení lásky, nějaké společenství Ducha, nějaký soucit a milosrdenství,</verse>
+        <verse osisID='Phil.2.2'>pak mi prosím udělejte radost: mějte ke všem stejný ohled, stejnou lásku, jednu duši, jednu mysl.</verse>
+        <verse osisID='Phil.2.3'>Nikdy se nedejte vést soupeřivostí nebo ješitností, ale raději žijte v pokoře: važte si druhých víc než sebe.</verse>
+        <verse osisID='Phil.2.4'>Ať si každý nehledí jen sebe, ale také druhých.</verse>
+        <verse osisID='Phil.2.5'>Smýšlejte tak, jak smýšlel Kristus Ježíš:</verse>
+        <verse osisID='Phil.2.6'>Ačkoli sdílel Boží podstatu, na své rovnosti s ním netrval.</verse>
+        <verse osisID='Phil.2.7'>Místo toho se vzdal sám sebe: přijal podstatu služebníka, vzal na sebe lidskou podobu.</verse>
+        <verse osisID='Phil.2.8'>Ocitl se v těle jako člověk, ponížil se a byl poslušný, a to až k smrti - k smrti na kříži!</verse>
+        <verse osisID='Phil.2.9'>Proto jej Bůh povýšil nade všechno, jméno nad každé jméno mu daroval,</verse>
+        <verse osisID='Phil.2.10'>aby před jménem Ježíš kleklo každé koleno na nebi, na zemi i pod zemí</verse>
+        <verse osisID='Phil.2.11'>a každý jazyk aby ke slávě Boha Otce vyznal, že Ježíš Kristus je Pán.</verse>
+        <verse osisID='Phil.2.12'>Proto, moji milovaní, jako jste byli vždycky poslušní, když jsem byl s vámi, buďte mnohem spíše poslušní i teď, když jsem pryč. S posvátnou úctou uvádějte svou spásu ve skutek.</verse>
+        <verse osisID='Phil.2.13'>Bůh sám totiž ve vás působí, abyste nejen chtěli, ale i dělali, co se mu líbí!</verse>
+        <verse osisID='Phil.2.14'>Všechno dělejte bez reptání a dohadování,</verse>
+        <verse osisID='Phil.2.15'>abyste byli nezkažení a nevinní jako neposkvrněné Boží děti uprostřed pokřiveného a zvráceného pokolení, ve kterém záříte jako světla ve světě.</verse>
+        <verse osisID='Phil.2.16'>Pevně se držte Slova života, abych v Kristův den mohl být hrdý, že můj běh a moje námaha nebyly zbytečné.</verse>
+        <verse osisID='Phil.2.17'>Mám-li však svou oběť a službu Bohu, totiž vaši víru, skropit svou krví, raduji se - raduji se s vámi všemi.</verse>
+        <verse osisID='Phil.2.18'>Stejně tak se radujte i vy - radujte se se mnou.</verse>
+        <verse osisID='Phil.2.19'>Mám v Pánu Ježíši naději, že k vám brzy budu moci poslat Timotea, abych se také já potěšil zprávami o vás.</verse>
+        <verse osisID='Phil.2.20'>Nemám nikoho, jako je on, kdo by měl o vás tak opravdovou starost.</verse>
+        <verse osisID='Phil.2.21'>Všichni si totiž hledí jen svého, a ne toho, co je Ježíše Krista.</verse>
+        <verse osisID='Phil.2.22'>O něm ale víte, jak se osvědčil: pomáhal mi ve službě evangelia jako syn otci.</verse>
+        <verse osisID='Phil.2.23'>Doufám, že ho k vám pošlu, jakmile se dozvím, co se mnou bude.</verse>
+        <verse osisID='Phil.2.24'>Spoléhám ovšem v Pánu na to, že k vám brzy přijdu i sám.</verse>
+        <verse osisID='Phil.2.25'>Mezitím však pokládám za potřebné poslat k vám Epafrodita, svého bratra, spolupracovníka a spolubojovníka, kterého jste ke mně vyslali, aby se staral o mé potřeby.</verse>
+        <verse osisID='Phil.2.26'>Tesknil po vás všech a trápil se, že jste se doslechli o jeho nemoci.</verse>
+        <verse osisID='Phil.2.27'>Ano, byl nemocný až na smrt, ale Bůh se nad ním smiloval, a nejen nad ním, ale i nade mnou, abych neměl zármutek na zármutek.</verse>
+        <verse osisID='Phil.2.28'>Posílám ho bezodkladně; vám udělá radost, že ho zase uvidíte, a mně se uleví.</verse>
+        <verse osisID='Phil.2.29'>Přivítejte ho v Pánu s patřičnou radostí a takových, jako je on, si važte.</verse>
+        <verse osisID='Phil.2.30'>Vždyť málem umřel pro Kristovo dílo; dal v sázku vlastní život, aby mi posloužil za vás za všechny.</verse>
+      </chapter>
+      <chapter osisID='Phil.3'>
+        <verse osisID='Phil.3.1'>Dále pak, bratři moji, radujte se v Pánu. Psát vám znovu stále totéž mi není nijak zatěžko a pro vás to znamená jistotu.</verse>
+        <verse osisID='Phil.3.2'>Dejte si pozor na ty psy, dejte si pozor na ty zločince, dejte si pozor na ty řezníky!</verse>
+        <verse osisID='Phil.3.3'>Obřízku v pravém smyslu máme totiž my, kdo sloužíme Bohu duchem, chlubíme se Kristem Ježíšem a nespoléháme na tělo.</verse>
+        <verse osisID='Phil.3.4'>Vždyť právě já bych mohl spoléhat na tělo. Zdá-li se někomu, že může spoléhat na tělo, já bych mohl mnohem spíše:</verse>
+        <verse osisID='Phil.3.5'>obřezán osmého dne, z rodu Izraelova, z pokolení Benjamínova, Hebrej z Hebrejů, co do Zákona farizeus,</verse>
+        <verse osisID='Phil.3.6'>co do horlivosti pronásledovatel církve, co do spravedlnosti Zákona jsem byl bez chyby.</verse>
+        <verse osisID='Phil.3.7'>Cokoli však pro mě bylo ziskem, to teď pro Krista pokládám za ztrátu.</verse>
+        <verse osisID='Phil.3.8'>A vůbec všechno pokládám za ztrátu vzhledem k té nevýslovné hodnotě poznání Krista Ježíše, mého Pána. Pro něj jsem to všechno ztratil a pokládám to za hnůj, abych získal Krista!</verse>
+        <verse osisID='Phil.3.9'>V něm se ocitám bez vlastní spravedlnosti založené na Zákoně, ale zato s tou, která vyplývá z víry v Krista, s tou spravedlností, jež přichází od Boha a zakládá se na víře.</verse>
+        <verse osisID='Phil.3.10'>Chci ho znát, znát moc jeho vzkříšení i účast na jeho utrpení! Chci se s ním ztotožnit i v jeho smrti,</verse>
+        <verse osisID='Phil.3.11'>abych, ať už jakkoli, dospěl ke vzkříšení z mrtvých.</verse>
+        <verse osisID='Phil.3.12'>Ne že bych už toho dosáhl anebo už byl dokonalý, ale ženu se vpřed, abych přece jen uchvátil to, k čemu jsem byl uchvácen Kristem Ježíšem.</verse>
+        <verse osisID='Phil.3.13'>Nemyslím si, bratři, že bych to už získal, ale jde mi jen o jedno: zapomínaje na to, co je za mnou, vztahuji se k tomu, co je přede mnou.</verse>
+        <verse osisID='Phil.3.14'>Ženu se k cíli, k vítězné odměně Božího nebeského povolání v Kristu Ježíši.</verse>
+        <verse osisID='Phil.3.15'>Všichni, kdo jsme dospělí, tedy sdílejme tento postoj. Pokud v nějakém ohledu smýšlíte jinak, Bůh vám zjeví i to.</verse>
+        <verse osisID='Phil.3.16'>K čemu jsme ale už došli, toho se držme.</verse>
+        <verse osisID='Phil.3.17'>Bratři, následujte společně můj příklad a všímejte si těch, kdo žijí podle našeho vzoru.</verse>
+        <verse osisID='Phil.3.18'>Mnozí totiž žijí jako nepřátelé Kristova kříže; často jsem vám o nich říkal a nyní vám to s pláčem opakuji.</verse>
+        <verse osisID='Phil.3.19'>Jejich konec je záhuba, jejich bůh břicho a jejich sláva v jejich hanebnostech. Takoví myslí jen na pozemské věci,</verse>
+        <verse osisID='Phil.3.20'>my ale máme občanství v nebi, odkud očekáváme Spasitele - Pána Ježíše Krista.</verse>
+        <verse osisID='Phil.3.21'>Ten promění naše ubohé tělo do podoby jeho slavného těla, a to mocí, kterou je schopen podmanit si vše.</verse>
+      </chapter>
+      <chapter osisID='Phil.4'>
+        <verse osisID='Phil.4.1'>Jak vás miluji, jak po vás toužím, bratři moji! Jste mou radostí a korunou! Takto tedy stůjte v Pánu, milovaní.</verse>
+        <verse osisID='Phil.4.2'>Prosím Evodii a prosím Syntychu, aby měly stejné smýšlení v Pánu.</verse>
+        <verse osisID='Phil.4.3'>Ano, prosím i tebe, věrný spojenče, abys jim pomáhal. Bojovaly přece za evangelium spolu se mnou, s Klementem a s mými dalšími spolupracovníky, jejichž jména jsou v knize života.</verse>
+        <verse osisID='Phil.4.4'>Radujte se v Pánu vždycky; znovu říkám: Radujte se!</verse>
+        <verse osisID='Phil.4.5'>Všichni lidé ať znají vaši vlídnost. Pán je blízko.</verse>
+        <verse osisID='Phil.4.6'>O nic nemějte starost, ale za všechno se modlete. O své potřeby proste s vděčností Boha,</verse>
+        <verse osisID='Phil.4.7'>a Boží pokoj přesahující všechno chápání bude střežit vaše srdce i mysl v Kristu Ježíši.</verse>
+        <verse osisID='Phil.4.8'>Závěrem, bratři, cokoli je pravdivé, ušlechtilé, spravedlivé, čisté, milé, cokoli má dobrou pověst, je-li nějaká ctnost a nějaká chvála - o tom přemýšlejte.</verse>
+        <verse osisID='Phil.4.9'>Čemu jste se naučili a přijali, co jste slyšeli a viděli na mně, to dělejte a Bůh pokoje bude s vámi.</verse>
+        <verse osisID='Phil.4.10'>Udělalo mi v Pánu velikou radost, že váš zájem o mě konečně znovu vzklíčil. Zájem jste měli už dříve, ale chyběla příležitost.</verse>
+        <verse osisID='Phil.4.11'>Neříkám to proto, že bych trpěl nedostatkem; naučil jsem se totiž být za všech okolností spokojen.</verse>
+        <verse osisID='Phil.4.12'>Umím se uskromnit a umím užívat hojnost. Do všeho jsem v každém ohledu zasvěcen: být sytý i hladový, mít nadbytek i nedostatek.</verse>
+        <verse osisID='Phil.4.13'>Všechno mohu v Kristu, který mě posiluje.</verse>
+        <verse osisID='Phil.4.14'>Zachovali jste se ale krásně, že jste mi pomohli v tísni.</verse>
+        <verse osisID='Phil.4.15'>Vy Filipští sami víte, jak to bylo v počátcích evangelia, když jsem se vydal na cestu z Makedonie. Žádná církev se nepodílela na mých výdajích a příjmech, jen vy jediní.</verse>
+        <verse osisID='Phil.4.16'>I do Tesaloniky jste mi vícekrát poslali na mé potřeby.</verse>
+        <verse osisID='Phil.4.17'>Neříkám to proto, že bych toužil po darech; toužím ale, aby rostl zisk, který se připisuje na váš účet.</verse>
+        <verse osisID='Phil.4.18'>Potvrzuji, že jsem vše dostal a ještě mi zbývá; mé potřeby jsou naplněny, když jsem od Epafrodita přijal, co jste poslali - je to líbezná vůně, oběť, která je Bohu vzácná a příjemná.</verse>
+        <verse osisID='Phil.4.19'>Můj Bůh pak podle svého bohatství slavně naplní i každou vaši potřebu v Kristu Ježíši.</verse>
+        <verse osisID='Phil.4.20'>Našemu Bohu a Otci buď i sláva na věky věků! Amen.</verse>
+        <verse osisID='Phil.4.21'>Pozdravte všechny svaté v Kristu Ježíši. Pozdravují vás bratři, kteří jsou tu se mnou.</verse>
+        <verse osisID='Phil.4.22'>Pozdravují vás všichni svatí, zvláště ti z císařova dvora.</verse>
+        <verse osisID='Phil.4.23'>Milost Pána Ježíše Krista s vaším duchem.</verse>
+      </chapter>
+    </div></osisText>
+</osis>

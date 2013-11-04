@@ -1,0 +1,365 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace'>
+  <osisText osisRefWork='Bible' osisIDWork='Azeri' xml:lang='XX'>
+    <header>
+      <revisionDesc>
+        <date>2012-01-07</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='Azeri'>
+        <title>Description_en=Southern Azeri Translation</title>
+        <contributor/>
+        <creator>Mod2Zef (6)</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject/>
+        <date>2012-01-07</date>
+        <description>About_en=Southern Azeri Translation</description>
+        <publisher/>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>Azeri</identifier>
+        <source>no entry TextSource in sword.conf found</source>
+        <language type='IETF'>XX</language>
+        <relation/>
+        <coverage>provide the bible to the nations of the world</coverage>
+        <rights>Copyrighted; Permission to distribute granted to CrossWire</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='Eccl'>
+      <chapter osisID='Eccl.1'>
+        <verse osisID='Eccl.1.1'/>
+        <verse osisID='Eccl.1.2'/>
+        <verse osisID='Eccl.1.3'/>
+        <verse osisID='Eccl.1.4'/>
+        <verse osisID='Eccl.1.5'/>
+        <verse osisID='Eccl.1.6'/>
+        <verse osisID='Eccl.1.7'/>
+        <verse osisID='Eccl.1.8'/>
+        <verse osisID='Eccl.1.9'/>
+        <verse osisID='Eccl.1.10'/>
+        <verse osisID='Eccl.1.11'/>
+        <verse osisID='Eccl.1.12'>
+          من واعئظ، ائسرايئل اوستونه اورشلئمده پادشاه ائدئم.</verse>
+        <verse osisID='Eccl.1.13'>اوره‌يئمي بونا قويدوم کي، بوتون گؤيون آلتيندا عمل ادئلنلري حئکمتله تفتئش ادئب آراشديريم. تاري ائنسانلارا نه دردلي بئر وظئفه ورئب کي، اونون آلتيندا زحمت چکسئن!</verse>
+        <verse osisID='Eccl.1.14'>گون آلتيندا ادئلن بوتون ائشلري گؤردوم، و باخ، هاميسي باطئلدئر؛ يل دالينجا قاچماقدير.  </verse>
+        <verse osisID='Eccl.1.15'/>
+        <verse osisID='Eccl.1.16'>
+          قلبئمده ددئم: "باخ، من بؤيوک بئر آدام اولموشام و مندن قاباق اورشلئمده اولان پادشاهلارين هاميسيندان چوخ حئکمت آرتيرميشام. اوره‌يئم چوخ حئکمت و معرئفت گؤروب."</verse>
+        <verse osisID='Eccl.1.17'>سونرا، اوره‌يئمي بونا قويدوم کي، حئکمتي آنلاييم، دلئلئک و سفه‌لئيي بئلئم. و بئلدئم کي، بو دا يل دالينجا قاچماقدير.  </verse>
+        <verse osisID='Eccl.1.18'/>
+      </chapter>
+      <chapter osisID='Eccl.2'>
+        <verse osisID='Eccl.2.1'>
+          اوره‌يئمده فئکئرلَشدئم: "گل ائندي، سني لذّتله ائمتاحان ادئم، کفه باخ." و گؤردوم کي، بو دا باطئلدئر.</verse>
+        <verse osisID='Eccl.2.2'>گولمک حاقّيندا ددئم: "دلئلئکدئر!" و لذّت حاقّيندا ددئم: "نه فايداسي وار؟"  </verse>
+        <verse osisID='Eccl.2.3'>
+          اوره‌يئمده بونو آراشديرديم کي، نجه بدنئمي شرابلا شادلانديريم و نجه عاغيلسيزليغي اَله گتئرئم. اوره‌يئم حله ده مني حئکمتله هئدايت ادئردي. ائسته‌يئردئم گؤروم گؤيون آلتيندا ائنسانلار اوچون اونلارين بو نچه گون عؤمورلرئنده دَيَرلي اولان نه وار.</verse>
+        <verse osisID='Eccl.2.4'>بؤيوک ائشلر اتدئم: اؤزومه اِولر تئکدئم، اؤزومه اوزوم باغلاري سالديم،</verse>
+        <verse osisID='Eccl.2.5'>اؤزومه باغچالار و باغلار دوزلتدئم و اونلاردا هر جور مئيوه آغاجي اَکدئم.</verse>
+        <verse osisID='Eccl.2.6'>اؤزومه سو حوووضلاري قاييرديم کي، مشه‌ده بئتن آغاجلاري سووارسين.</verse>
+        <verse osisID='Eccl.2.7'>نؤکرلر و کنئزلر آلديم، اِوئمده دوغولان قوللاريم دا وار ائدي. هم ده مال-حيوانيم و سورولرئم، او قدر کي، بوتون مندن ائره‌لي اورشلئمده اولانلارينکيندان چوخ ائدي.</verse>
+        <verse osisID='Eccl.2.8'>اؤزومه قيزيل و گوموش، پادشاهلار و وئلايتلرئن خزئنه‌لرئني ده ييغديم. اؤزومه کئشي و آرواد خانَنده‌لر آلديم، اؤزومه کئشئلرئن لذّت آلديغي حرملري ده چوخالتديم.</verse>
+        <verse osisID='Eccl.2.9'>بلجه بؤيودوم و بوتون مندن ائره‌لي اورشلئمده اولانلاردان داها بؤيوک اولدوم. حئکمتئم ده يانيمدا قالدي.  </verse>
+        <verse osisID='Eccl.2.10'/>
+        <verse osisID='Eccl.2.11'/>
+        <verse osisID='Eccl.2.12'/>
+        <verse osisID='Eccl.2.13'/>
+        <verse osisID='Eccl.2.14'/>
+        <verse osisID='Eccl.2.15'/>
+        <verse osisID='Eccl.2.16'/>
+        <verse osisID='Eccl.2.17'/>
+        <verse osisID='Eccl.2.18'>
+          بله اولدو کي، گون آلتيندا چکدئيئم زحمتلرئن بوتون ثمره‌سئندن نئفرت اتدئم، چونکي اونو مندن سونرا گلن آداما بوراخمالي‌يام.</verse>
+        <verse osisID='Eccl.2.19'>و کئم بئلئر کي، او، حئکمتلي بئر آدام اولاجاق، يوخسا عاغيلسيزين بئري؟ لاکئن هر حالدا، گون آلتيندا حئکمتلي رفتار ادئب چکدئيئم بوتون زحمتلرئن ثمره‌سئني اَلي آلتينا آلاجاق. بو دا باطئلدئر.</verse>
+        <verse osisID='Eccl.2.20'>اونا گؤره ده اوره‌يئم گون آلتيندا چکدئيئم بوتون مشقّتلردن اومئدئني ائتئردي.</verse>
+        <verse osisID='Eccl.2.21'>آدام وار کي، حئکمتله، معرئفتله، مهارتله زحمت چکئب، سونرا دا پاييني اونون اوچون زحمت چکمه‌مئش بئر آداما بوراخير. بو دا باطئلدئر، بؤيوک بئر درددئر.</verse>
+        <verse osisID='Eccl.2.22'>چونکي آدامين گون آلتيندا چکدئيي بوتون زحمتئندن، اوره‌يئنئن آرزو اتدئيئندن اونا نه فايدا وار؟</verse>
+        <verse osisID='Eccl.2.23'>هامي گونلري آنجاق درددئر، ائشلري آنجاق کَدَردئر. حتّا گجه بله اوره‌يي راحاتلامير. بو دا باطئلدئر.  </verse>
+        <verse osisID='Eccl.2.24'>
+          آدام اوچون داها ياخشي بئر شي نه وار؟ مگر بو کي، ييئب ائچسئن و چکدئيي زحمتئندن جانينا کِف قازانسين. گؤردوم کي، بو دا تاري طرفئندن گلئر.</verse>
+        <verse osisID='Eccl.2.25'>چونکي مندن باشقا کئم يئيه بئلر؟ کئم کف اده‌بئلر؟</verse>
+        <verse osisID='Eccl.2.26'>چونکي نظرئنده ياخشي اولان آداما، تاري حئکمت، معرئفت، و شادليق ورئر، آمّا گوناهکارلارا ييغماق و آنبار اتمک زحمتئني. اِله کي، اونلاري تارينين نظرئنده ياخشي اولانا ورسئن. بو دا باطئلدئر، يل دالينجا قاچماقدير.  </verse>
+      </chapter>
+      <chapter osisID='Eccl.3'>
+        <verse osisID='Eccl.3.1'/>
+        <verse osisID='Eccl.3.2'/>
+        <verse osisID='Eccl.3.3'/>
+        <verse osisID='Eccl.3.4'/>
+        <verse osisID='Eccl.3.5'/>
+        <verse osisID='Eccl.3.6'/>
+        <verse osisID='Eccl.3.7'/>
+        <verse osisID='Eccl.3.8'/>
+        <verse osisID='Eccl.3.9'>
+          ائشله‌ين آداما زحمت چکدئيي ائشدن نه فايدا وار؟</verse>
+        <verse osisID='Eccl.3.10'>گؤرموشم کي، بو ائشي تاري ائنسانلارا ورئب کي، اوستونده زحمت چکسئنلر.</verse>
+        <verse osisID='Eccl.3.11'>او هر شيي اؤز واختيندا گؤزل ياراديب. ابدئيّتي ده ائنسانلارين اوره‌يئنده قويوب. آمّا اِله ادئب کي، ائنسان تارينين اتدئيي ائشئني اَوّلئندن آخيرينا قدر آنلايا بئلمه‌سئن.</verse>
+        <verse osisID='Eccl.3.12'>بئلئرم کي، اونلار اوچون شادليق اتمکدن و عؤمورلري اولدوقجا ياخشيليق اتمکدن داها ياخشي بئر شي يوخدور.</verse>
+        <verse osisID='Eccl.3.13'>هم ده هر کسئن ييئب ائچمه‌يي و چکدئيي بوتون زحمتلرئندن راضي اولماغي تارينين هدئيّه‌سي‌دئر.</verse>
+        <verse osisID='Eccl.3.14'>بئلئرم کي، تارينين اتدئيي هر ائش ابده کئمي دورور؛ اونا نه آرتيرماق اولار، نه ده اوندان اسکئلتمک. تاري بونو اونون اوچون ادئر کي، ائنسانلار اوندان قورخسونلار.  </verse>
+        <verse osisID='Eccl.3.15'/>
+        <verse osisID='Eccl.3.16'/>
+        <verse osisID='Eccl.3.17'/>
+        <verse osisID='Eccl.3.18'>
+          ائنسانلار حاقّيندا اوره‌يئمده فئکئرلَشدئم: "تاري اونلاري ائمتاحان ادئر کي، اؤزلرئنئن آنجاق حيوان اولدوقلاريني گؤرسونلر."</verse>
+        <verse osisID='Eccl.3.19'>چونکي ائنسانلارين باشينا گلن، حيوانلارين باشينا دا گلئر؛ ائکئسئنئن ده آخيري بئردئر. نجه کي، بو اؤلور، او بئري ده اِله اؤلور. ائکئسئنئن ده نفسي بئردئر و ائنسان حيواندان هچ ده اوستون ديئل، چونکي هاميسي باطئلدئر.</verse>
+        <verse osisID='Eccl.3.20'>هاميسي بئر يره گدئر؛ هاميسي تورپاقدان گلئب، تورپاغا دا دؤنور.</verse>
+        <verse osisID='Eccl.3.21'>کئم بئلئر کي، ائنسانلارين روحو يوخارييا چيخير و حيوانلارين روحو آشاغييا، ير آلتينا اِنئر.  </verse>
+        <verse osisID='Eccl.3.22'/>
+      </chapter>
+      <chapter osisID='Eccl.4'>
+        <verse osisID='Eccl.4.1'/>
+        <verse osisID='Eccl.4.2'/>
+        <verse osisID='Eccl.4.3'/>
+        <verse osisID='Eccl.4.4'/>
+        <verse osisID='Eccl.4.5'/>
+        <verse osisID='Eccl.4.6'/>
+        <verse osisID='Eccl.4.7'>گئنه گون آلتيندا اولان باطئل بئر شيي گؤردوم:</verse>
+        <verse osisID='Eccl.4.8'/>
+        <verse osisID='Eccl.4.9'/>
+        <verse osisID='Eccl.4.10'/>
+        <verse osisID='Eccl.4.11'/>
+        <verse osisID='Eccl.4.12'/>
+        <verse osisID='Eccl.4.13'>
+          فاغير و حئکمتلي بئر جاوان، ائخطار قبول اتمه‌ين قوجا و سَفِه بئر پادشاهدان ياخشي‌دير.</verse>
+        <verse osisID='Eccl.4.14'>چونکي او جاوان بو اؤلکه‌ده يوخسوللوق ائچئنده دوغولسا دا، زئندانا دوشسه ده، چيخيب پادشاه اولا بئلر.</verse>
+        <verse osisID='Eccl.4.15'>گؤردوم کي، گون آلتيندا گزن بوتون ياشايانلار، پادشاهين يرئنه اوتوران بو جاوانين آردينجا گدئرلر.</verse>
+        <verse osisID='Eccl.4.16'>اونون باشينا ييغيلان بوتون خالقين سايي-حسابي يوخ ائدي. لاکئن سونرا گلن نسئل‌لر اوندان سِوئنميه‌جکلر. بو دا باطئلدئر، يل دالينجا قاچماقدير.  </verse>
+      </chapter>
+      <chapter osisID='Eccl.5'>
+        <verse osisID='Eccl.5.1'/>
+        <verse osisID='Eccl.5.2'/>
+        <verse osisID='Eccl.5.3'/>
+        <verse osisID='Eccl.5.4'>
+          تارييا نذئر اتدئيئن زامان، اونو يرئنه يتئرمکده يوبانما، چونکي او، سَفِهلردن خوشلانماز. نذئر اتدئيئني يرئنه يتئر.</verse>
+        <verse osisID='Eccl.5.5'>نذئر اتمه‌مه‌يئن، نذئر ادئب اونو يرئنه يتئرمه‌مه‌يئندن داها ياخشي‌دير.  </verse>
+        <verse osisID='Eccl.5.6'>
+          قويما سؤزلرئن سني گوناها باتيرسين. سؤز گتئره‌نه ده دمه کي، "اتدئيئم نذئر سهو ائدي." نه اوچون تاري سنئن سؤزونله قضبلنسئن و سنئن اَللرئنئن ائشئني محو اتسئن؟</verse>
+        <verse osisID='Eccl.5.7'>چونکي رؤيالارين چوخلوغوندا و سؤزلرئن چوخلوغوندا باطئل شيلر چوخ اولار. سن آنجاق تاريدان قورخ.  </verse>
+        <verse osisID='Eccl.5.8'>
+          اگر گؤرورسن کي، بئر وئلايتده فاغيرلارا ظولم ادئلئر، عدالت و صالحلئک آياق آلتيندا تاپدالانير، گؤردويونه تعجّوب اتمه. چونکي هر منصب صاحئبئنه اؤزوندن اوستون بئر نظارتچي قويولوب و اونلارين باشيندا دا اؤزلرئندن اوستون اولانلار وار.</verse>
+        <verse osisID='Eccl.5.9'>زَمئنئن سورولمه‌سئني ائسته‌يَن بئر پادشاه، اؤلکه اوچون هر باخيمدان فايدالي‌دير.  </verse>
+        <verse osisID='Eccl.5.10'/>
+        <verse osisID='Eccl.5.11'/>
+        <verse osisID='Eccl.5.12'/>
+        <verse osisID='Eccl.5.13'/>
+        <verse osisID='Eccl.5.14'/>
+        <verse osisID='Eccl.5.15'/>
+        <verse osisID='Eccl.5.16'/>
+        <verse osisID='Eccl.5.17'/>
+        <verse osisID='Eccl.5.18'>
+          باخ، ائنسان اوچون منئم گؤردويوم ياخشي و گؤزل شي بودور کي، يِسئن، ائچسئن، و تارينين اونا وردئيي نچه گون عؤمرونده، گون آلتيندا چکدئيي بوتون زحمتلرئندن کف اتسئن؛ چونکي اونون پايي بودور.</verse>
+        <verse osisID='Eccl.5.19'>هم ده، تاري هر کسه ثروت و دؤولت ورئب، اونا بو قودرتي ده ورئب کي، اونلاردان يِسئن، پاييني آلسين و زحمتئندن کف اتسئن؛ بو تارينين هدئيّه‌سي‌دئر.</verse>
+        <verse osisID='Eccl.5.20'>اونا گؤره ده بله ائنسان عؤمرونون گونلرئني چوخ يادا سالماز. چونکي تاري اونو اوره‌يئنئن سوئنجي ائله مشغول ساخلايير.  </verse>
+      </chapter>
+      <chapter osisID='Eccl.6'>
+        <verse osisID='Eccl.6.1'>گون آلتيندا گؤردويوم بئر پئسلئک وار و ائنسانلار آراسيندا چوخ ياييليب:</verse>
+        <verse osisID='Eccl.6.2'>آدام وار کي، تاري اونا وار-دؤولت و عئزّت ورئب، اله کي، آرزو اتدئيي هر شيدن جاني اوچون اَسکئيي يوخدور، آنجاق اونا بو شيلردن ييئب-ائچه‌يه ائمکان ورمئر. ياد بئر آدام اونون ماليني يِيئر. بو دا باطئلدئر، يامان بئر درددئر.  </verse>
+        <verse osisID='Eccl.6.3'>
+          بئر آدام يوز اوشاغين آتاسي اولوب چوخ ائل‌لر ياشاسا دا، اوزون عؤمرونون عوضئنده جاني ياخشيليقلا دويماييب، حؤرمتله دفن اولونماسا، منجه دوشموش اوشاق اوندان ياخشي‌دير.</verse>
+        <verse osisID='Eccl.6.4'>چونکي بله اوشاق بوش يره دوغولور، قارانليق ائچئنده ائتئب-گدئر، هچ آدي دا چکئلمئر.</verse>
+        <verse osisID='Eccl.6.5'>گرچي نه گون گؤروب نه ده بئر شي بئلئب، لاکئن بو اوشاغين راحاتليغي او آدامدان داها چوخدور.</verse>
+        <verse osisID='Eccl.6.6'>حتّا اگر ائکي دفه مئن ائل ياشاسا دا، ياخشي شيلردن کف اتمه‌يي بئلمئر. مگر هر ائکئسي ده بئر يره گتمئر؟  </verse>
+        <verse osisID='Eccl.6.7'/>
+        <verse osisID='Eccl.6.8'/>
+        <verse osisID='Eccl.6.9'/>
+        <verse osisID='Eccl.6.10'/>
+        <verse osisID='Eccl.6.11'/>
+        <verse osisID='Eccl.6.12'/>
+      </chapter>
+      <chapter osisID='Eccl.7'>
+        <verse osisID='Eccl.7.1'/>
+        <verse osisID='Eccl.7.2'/>
+        <verse osisID='Eccl.7.3'/>
+        <verse osisID='Eccl.7.4'/>
+        <verse osisID='Eccl.7.5'/>
+        <verse osisID='Eccl.7.6'/>
+        <verse osisID='Eccl.7.7'/>
+        <verse osisID='Eccl.7.8'/>
+        <verse osisID='Eccl.7.9'/>
+        <verse osisID='Eccl.7.10'/>
+        <verse osisID='Eccl.7.11'/>
+        <verse osisID='Eccl.7.12'/>
+        <verse osisID='Eccl.7.13'/>
+        <verse osisID='Eccl.7.14'/>
+        <verse osisID='Eccl.7.15'/>
+        <verse osisID='Eccl.7.16'/>
+        <verse osisID='Eccl.7.17'/>
+        <verse osisID='Eccl.7.18'/>
+        <verse osisID='Eccl.7.19'/>
+        <verse osisID='Eccl.7.20'/>
+        <verse osisID='Eccl.7.21'/>
+        <verse osisID='Eccl.7.22'/>
+        <verse osisID='Eccl.7.23'/>
+        <verse osisID='Eccl.7.24'/>
+        <verse osisID='Eccl.7.25'/>
+        <verse osisID='Eccl.7.26'/>
+        <verse osisID='Eccl.7.27'/>
+        <verse osisID='Eccl.7.28'/>
+        <verse osisID='Eccl.7.29'/>
+      </chapter>
+      <chapter osisID='Eccl.8'>
+        <verse osisID='Eccl.8.1'>حئکمتلي آدام کئمي کئم وار؟ </verse>
+        <verse osisID='Eccl.8.2'>
+          سنه نصئحت ادئرم: پادشاهين حؤکمونو تارييا اتدئيئن آندين خاطئرئنه ساخلا.</verse>
+        <verse osisID='Eccl.8.3'>اونون حوضوروندان چيخماغا تَلَسمه. پئس ائشئن اوستونده دورما، چونکي او، ائسته‌دئيي هر شيي اده بئلر.  </verse>
+        <verse osisID='Eccl.8.4'/>
+        <verse osisID='Eccl.8.5'/>
+        <verse osisID='Eccl.8.6'/>
+        <verse osisID='Eccl.8.7'/>
+        <verse osisID='Eccl.8.8'/>
+        <verse osisID='Eccl.8.9'/>
+        <verse osisID='Eccl.8.10'>
+          سونرا پئس آداملارين دفنئني ده گؤردوم. او آداملار کي، موقدّس يره گلئب گِدَردئلر و بونو اتدئکلري هر يرده، ياشاديقلاري شهرئن خالقي طرفئندن تَعرئفلَنَردئلر. بو دا باطئلدئر.</verse>
+        <verse osisID='Eccl.8.11'>پئس ائشئن جزاسي تِز ورئلمه‌دئيئنه گؤره، ائنسانلارين اوره‌يي پئسلئک اتميه جسارت تاپير.</verse>
+        <verse osisID='Eccl.8.12'>گرچي گوناهکار آدام يوز دفه پئسلئک ادئب حياتيني اوزادير، لاکئن يقئن بئلئرم کي، تاريدان قورخانلارين، اونون حوضوروندا حؤرمتله دورانلارين خيرئنه اولاجاقدير.</verse>
+        <verse osisID='Eccl.8.13'>آمّا پئس آداما ياخشيليق اولماياجاق و اونون گونلري ده کؤلگه اوزالان کئمي اوزاديلماياجاقدير، چونکي تارينين حوضوروندا حؤرمتله دورمور.  </verse>
+        <verse osisID='Eccl.8.14'/>
+        <verse osisID='Eccl.8.15'/>
+        <verse osisID='Eccl.8.16'>
+          او زامان کي، اوره‌يئمي حئکمتي بئلميه قويدوم، اله کي، ير اوزونده ادئلن ائشلري گؤروم. گؤروم کي، نجه گجه-گوندوز آدامين گؤزلرئنه يوخو گلمئر.</verse>
+        <verse osisID='Eccl.8.17'>او زامان تارينين بوتون ائشلرئني گؤردوم. گؤردوم کي، ائنسان گون آلتيندا ادئلن ائشي آنلايا بئلمز. نه قدر آختارماغا چاليشسا دا، گئنه اونو آنلاماياجاقدير. حئکمتلي بئر آدام دا اونو بئلمه‌يئني ائدّئعا اتسه، گئنه اونو تاپا بئلميه‌جکدئر.  </verse>
+      </chapter>
+      <chapter osisID='Eccl.9'>
+        <verse osisID='Eccl.9.1'>
+          بلجه بونلارين هاميسيني اوره‌يئمده آراشديريب بو نتئجه‌يه گلدئم: صالحلر و حئکمتلئلر و اونلارين ائشلري تارينين اَلئنده‌دئر. ائستر سِوگي اولسون ائستر نئفرت، ائنسان قاباغينا نه چيخاجاغيني بئلمز.</verse>
+        <verse osisID='Eccl.9.2'>چونکي هامينين باشينا گلن احوالات بئردئر؛ صالحلرئن و پئسلرئن، ياخشي‌لارين و يامانلارين، طاهئرلرئن و نجئسلرئن، قوربان تقدئم ادنلرئن و قوربان تقدئم اتمه‌ينلرئن. نجه ياخشي‌لارادير، اله ده گوناهکارلارادير؛ آند ائچَنلره ده آند ائچمکدن قورخانلارا کئمي‌دئر.</verse>
+        <verse osisID='Eccl.9.3'>گون آلتيندا يرئنه يتئرئلن بوتون شيلرئن پئسلئيي بوندادير کي، هاميسينا راست گلن قدر بئردئر. دوغرودان دا کي، ائنسانلارين اوره‌يي پئسلئکله دولودور: نه قدر کي، ياشاييرلار، دَلئلئک اورَکلرئنده وار و اوندان سونرا اؤلولرئن يانينا گدئرلر.</verse>
+        <verse osisID='Eccl.9.4'>آمّا دئرئلر جاماعاتينا قوشولانين اومئدي وار، چونکي دئري بئر ائت اؤلو بئر شئردن ياخشي‌دير.  </verse>
+        <verse osisID='Eccl.9.5'/>
+        <verse osisID='Eccl.9.6'/>
+        <verse osisID='Eccl.9.7'/>
+        <verse osisID='Eccl.9.8'/>
+        <verse osisID='Eccl.9.9'>
+          باطئل عؤمرونون بوتون گونلرئنده، سِودئيئن آروادلا خوش بئر حيات کچئرت؛ او عؤمرونده، تارينين گون آلتيندا سنه وردئيي بوتون باطئل گونلرئنده. چونکي حياتينين پايي، گون آلتيندا چکدئيئن زحمتئن پايي اودور.</verse>
+        <verse osisID='Eccl.9.10'>اَللرئنئن اتميه تاپديغي هر شيي بوتون قووّتئنله ات؛ چونکي گده‌جيئن قبئرده نه ائش وار، نه دوشونجه، نه معرئفت وار نه ده حئکمت.  </verse>
+        <verse osisID='Eccl.9.11'/>
+        <verse osisID='Eccl.9.12'/>
+        <verse osisID='Eccl.9.13'>
+          گون آلتيندا بله بئر حئکمت ده گؤردوم و منه چوخ تأثئر اتدي:</verse>
+        <verse osisID='Eccl.9.14'>کئچئک بئر شهر وار ائدي، ائچئنده آز آدام. بؤيوک بئر پادشاه اونون ضئدّئنه قالخيب اونو آرايا سالدي و اونون اطرافينا بؤيوک تله‌لر تئکدي.</verse>
+        <verse osisID='Eccl.9.15'>اورادا فاغير آمّا حئکمتلي بئر آدام ياشاييردي و او، حئکمتي ائله شهري خئلاص اتدي. لاکئن هچ کس بو فاغير آدامي خاطيرلامادي.  </verse>
+        <verse osisID='Eccl.9.16'/>
+        <verse osisID='Eccl.9.17'/>
+        <verse osisID='Eccl.9.18'/>
+      </chapter>
+      <chapter osisID='Eccl.10'>
+        <verse osisID='Eccl.10.1'>اؤلو مئلچکلر عطّارين ياغيني قوخودوب خاراب اِدَر، </verse>
+        <verse osisID='Eccl.10.2'>
+         لاکئن سَفِهئن اوره‌يي اَيرئلئيه.</verse>
+        <verse osisID='Eccl.10.3'>عاغيلسيز بئر آدام، حتّا گتدئيي يولدا دا عاغلي آزدير  و هامييا عاغيلسيز اولدوغونو گؤرسدر.</verse>
+        <verse osisID='Eccl.10.4'>اگر حاکئمئن قضبي سنئن اوستونه قالخسا، </verse>
+        <verse osisID='Eccl.10.5'/>
+        <verse osisID='Eccl.10.6'/>
+        <verse osisID='Eccl.10.7'/>
+        <verse osisID='Eccl.10.8'/>
+        <verse osisID='Eccl.10.9'/>
+        <verse osisID='Eccl.10.10'/>
+        <verse osisID='Eccl.10.11'/>
+        <verse osisID='Eccl.10.12'/>
+        <verse osisID='Eccl.10.13'/>
+        <verse osisID='Eccl.10.14'/>
+        <verse osisID='Eccl.10.15'/>
+        <verse osisID='Eccl.10.16'/>
+        <verse osisID='Eccl.10.17'/>
+        <verse osisID='Eccl.10.18'/>
+        <verse osisID='Eccl.10.19'/>
+        <verse osisID='Eccl.10.20'/>
+      </chapter>
+      <chapter osisID='Eccl.11'>
+        <verse osisID='Eccl.11.1'>چؤره‌يئني سولار اوستونه آت، </verse>
+        <verse osisID='Eccl.11.2'/>
+        <verse osisID='Eccl.11.3'/>
+        <verse osisID='Eccl.11.4'/>
+        <verse osisID='Eccl.11.5'/>
+        <verse osisID='Eccl.11.6'/>
+        <verse osisID='Eccl.11.7'/>
+        <verse osisID='Eccl.11.8'/>
+        <verse osisID='Eccl.11.9'/>
+        <verse osisID='Eccl.11.10'/>
+      </chapter>
+      <chapter osisID='Eccl.12'>
+        <verse osisID='Eccl.12.1'>جاوانليق گونلرئنده سني ياراداني خاطيرلا؛ </verse>
+        <verse osisID='Eccl.12.2'/>
+        <verse osisID='Eccl.12.3'/>
+        <verse osisID='Eccl.12.4'/>
+        <verse osisID='Eccl.12.5'/>
+        <verse osisID='Eccl.12.6'/>
+        <verse osisID='Eccl.12.7'/>
+        <verse osisID='Eccl.12.8'/>
+        <verse osisID='Eccl.12.9'>
+          بوندان علاوه، او واعئظ، حئکمتلي اولدوغو اوچون آداملارا معرئفت اؤيرَتمه‌يئنه داوام وردی. بلی، او دَيَرله‌دي، آختاردي و بئر چوخ مثل ترتئب اتدي.</verse>
+        <verse osisID='Eccl.12.10'>او واعئظ مقبول سؤزلري تاپماق اوچون تفتئش اتدي و اونون يازديقلاري دوزدور؛ حقئقتئن سؤزلري‌دئر.  </verse>
+        <verse osisID='Eccl.12.11'/>
+        <verse osisID='Eccl.12.12'/>
+        <verse osisID='Eccl.12.13'/>
+        <verse osisID='Eccl.12.14'/>
+      </chapter>
+    </div></osisText>
+</osis>

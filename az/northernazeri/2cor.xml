@@ -1,0 +1,385 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace'>
+  <osisText osisIDWork='NorthernAzeri' osisRefWork='Bible' xml:lang='az'>
+    <header>
+      <revisionDesc>
+        <date>2012-01-07</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='NorthernAzeri'>
+        <title>Northern Azeri Translation</title>
+        <contributor/>
+        <creator>Mod2Zef (6)</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject/>
+        <date>2012-01-07</date>
+        <description>Northern Azeri Translation</description>
+        <publisher/>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>NorthernAzeri</identifier>
+        <source>no entry TextSource in sword.conf found</source>
+        <language type='IETF'>az</language>
+        <relation/>
+        <coverage>provide the bible to the nations of the world</coverage>
+        <rights>Copyrighted Kutsul Kitab; Permission to distribute granted to CrossWire</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='2Cor'>
+      <chapter osisID='2Cor.1'>
+        <verse osisID='2Cor.1.1'>Allahın iradəsi ilə Məsih İsanın həvarisi mən Paul və Timotey qardaşdan Allahın Korinfdə olan cəmiyyətinə və bütün Axayyadakı müqəddəslərə salam!</verse>
+        <verse osisID='2Cor.1.2'>Atamız Allahdan və Rəbb İsa Məsihdən sizə lütf və sülh olsun! </verse>
+        <verse osisID='2Cor.1.3'>Rəbbimiz İsa Məsihin Allahına – Atasına alqış olsun! O, rəhmli Ata və hər cür təsəlli verən Allahdır.</verse>
+        <verse osisID='2Cor.1.4'>Çəkdiyimiz hər bir əziyyətdə O bizə təsəlli verir ki, biz də Allahdan aldığımız təsəlli ilə hər cür əziyyət çəkənlərə təsəlli verə bilək.</verse>
+        <verse osisID='2Cor.1.5'>Çünki Məsihin əzablarını necə böyük həcmdə çəkiriksə, Məsih vasitəsilə o cür böyük təsəlli də tapırıq.</verse>
+        <verse osisID='2Cor.1.6'>Əziyyət çəkiriksə, bu sizə təsəlli və xilas gətirir. Təsəlli tapırıqsa, bu da bizim kimi çəkdiyiniz əzablara dözəsiniz deyə sizə güc verən bir təsəlli almanız üçündür.</verse>
+        <verse osisID='2Cor.1.7'>Sizinlə bağlı ümidimiz sarsılmaz. Çünki əzablarımıza şərik olduğunuz kimi təsəllimizə də şərik olduğunuzu bilirik. </verse>
+        <verse osisID='2Cor.1.8'>Ey qardaşlar, Asiya vilayətində çəkdiyimiz əziyyətlərdən bixəbər olmağınızı istəmirəm. Gücümüzdən daha artıq bir yük altında qaldıq. Hətta yaşamaqdan belə, ümidimizi kəsmişdik.</verse>
+        <verse osisID='2Cor.1.9'>Daxilən hiss etdik ki, ölümə məhkum olmuşuq. Amma bu özümüzə deyil, ölüləri dirildən Allaha güvənməyimiz üçün başımıza gəldi.</verse>
+        <verse osisID='2Cor.1.10'>Allah bizi belə bir böyük ölüm təhlükəsindən qurtardı və qurtarmaqda davam edəcək. Ümidimizi Ona bağlamışıq</verse>
+        <verse osisID='2Cor.1.11'>və siz də dualarınızla bizə kömək etdikcə bizi yenə qurtaracaq. Belə ki bir çox insanın etdiyi dua nəticəsində bizə verdiyi ənamdan ötrü qoy çoxları bizim üçün Allaha şükür etsin. </verse>
+        <verse osisID='2Cor.1.12'>Vicdanımız da şahiddir ki, dünyaya, xüsusən sizə görə bəşəri müdrikliklə deyil, Allahın lütfü ilə, Allahdan gələn səxavət və səmimiyyətlə həyat sürmüşük. Biz buna görə fəxr edirik.</verse>
+        <verse osisID='2Cor.1.13'>Biz elə bir şey yazmırıq ki, siz oxuyub başa düşə bilməyəsiniz. Hələlik bizi bir az başa düşmüsünüz. Rəbbimiz İsa Məsihin günündə bizim fəxrimiz siz olduğunuz kimi sizin də fəxriniz biz olacağıq. Ümidvaram ki, bunu tamam başa düşəcəksiniz. </verse>
+        <verse osisID='2Cor.1.14'>Biz elə bir şey yazmırıq ki, siz oxuyub başa düşə bilməyəsiniz. Hələlik bizi bir az başa düşmüsünüz. Rəbbimiz İsa Məsihin günündə bizim fəxrimiz siz olduğunuz kimi sizin də fəxriniz biz olacağıq. Ümidvaram ki, bunu tamam başa düşəcəksiniz. </verse>
+        <verse osisID='2Cor.1.15'>Buna əmin olub əvvəlcə yanınıza gəlmək niyyətində idim ki, ikiqat xeyir tapasınız.</verse>
+        <verse osisID='2Cor.1.16'>Həm Makedoniyaya gedəndə, həm də Makedoniyadan qayıdanda yanınıza gəlmək niyyətində oldum. Bundan sonra siz məni Yəhudeyaya yola salmalı idiniz.</verse>
+        <verse osisID='2Cor.1.17'>Bu niyyətdə olanda görəsən qərarsız idimmi? Ya da niyyətlərim cismani təbiətimdən doğur ki, gah «bəli, bəli», gah da «xeyr, xeyr» deyim?</verse>
+        <verse osisID='2Cor.1.18'>Allahın sədaqətinə and olsun ki, sizə çatdırdığımız xəbər gah «bəli», gah da «xeyr» deyil.</verse>
+        <verse osisID='2Cor.1.19'>Sila və Timoteylə birlikdə sizə vəz etdiyimiz Allahın Oğlu İsa Məsih həm «bəli», həm də «xeyr» deyil. Onda yalnız «bəli» var.</verse>
+        <verse osisID='2Cor.1.20'>Çünki Allahın bütün vədləri İsa Məsihdə «bəli»dir. Buna görə Allahın izzəti üçün Məsih vasitəsilə «Amin» deyirik.</verse>
+        <verse osisID='2Cor.1.21'>Bizi sizlərlə birlikdə Məsihə möhkəm bağlayan və bizi məsh edən Allahdır.</verse>
+        <verse osisID='2Cor.1.22'>O bizi möhürlədi və Ruhunu qəlbimizdə girov qoydu. </verse>
+        <verse osisID='2Cor.1.23'>Allah şahidimdir, canıma and olsun ki, indiyədək sizə qıymadığım üçün Korinfə gəlmədim.</verse>
+        <verse osisID='2Cor.1.24'>İmanınıza ağalıq etmək istəmirik, sevinməniz üçün sizinlə birgə çalışırıq. Çünki imanda dönməz dayanmısınız.  </verse>
+      </chapter>
+      <chapter osisID='2Cor.2'>
+        <verse osisID='2Cor.2.1'>Mən sizi kədərləndirməmək üçün qərara aldım ki, yenə yanınıza gəlməyim.</verse>
+        <verse osisID='2Cor.2.2'>Çünki sizi kədərləndirsəm, kədərləndirdiyim sizlərdən başqa məni kim şadlandıracaq?</verse>
+        <verse osisID='2Cor.2.3'>Bunu yazmışdım ki, gəldiyim zaman məni sevindirəsi insanlar kədərləndirməsin. Hamınıza inanıram ki, mənim sevincim hər birinizin sevincidir.</verse>
+        <verse osisID='2Cor.2.4'>Kədərləndirmək üçün deyil, sizə bəslədiyim hədsiz məhəbbəti dərk edəsiniz deyə sizə böyük əziyyət, ürək ağrısı və göz yaşları içində yazdım. </verse>
+        <verse osisID='2Cor.2.5'>Əgər kimsə kədər gətiribsə, şişirtmədən deyim ki, mənə deyil, haradasa hamınıza kədər gətirib.</verse>
+        <verse osisID='2Cor.2.6'>Beləsinə ictimaiyyətin verdiyi bu cəza bəsdir.</verse>
+        <verse osisID='2Cor.2.7'>Hədsiz kədərə qərq olmasın deyə yaxşı olar ki, o insanı indi bağışlayasınız və təsəlli verəsiniz.</verse>
+        <verse osisID='2Cor.2.8'>Buna görə sizdən xahiş edirəm ki, yenidən ona məhəbbət göstərin.</verse>
+        <verse osisID='2Cor.2.9'>Bunu da sizə yazdım ki, hər vəziyyətdə sizin itaətli olmağınızı yoxlayım.</verse>
+        <verse osisID='2Cor.2.10'>Kimi bağışlasanız, mən də bağışlayaram. Əgər mən bir şeyi bağışlamışamsa, Məsihin hüzurunda sizin xeyriniz üçün bağışlamışam ki,</verse>
+        <verse osisID='2Cor.2.11'>Şeytan bizdən mənfəət qazanmasın. Çünki onun niyyətlərindən xəbərsiz deyilik. </verse>
+        <verse osisID='2Cor.2.12'>Məsihin Müjdəsini yaymaq məqsədi ilə Troasa gələndə Rəbdən mənim üçün bir qapı açıldı.</verse>
+        <verse osisID='2Cor.2.13'>Amma qardaşım Titi orada tapmayanda ürəyim narahat oldu. Ona görə oradakılarla xudahafizləşib Makedoniyaya gəldim. </verse>
+        <verse osisID='2Cor.2.14'>Bizi həmişə Məsihin zəfər təntənəsində addımladan, Onu tanımaqdan yaranan ətri bizim vasitəmizlə hər tərəfə yayan Allaha şükür olsun!</verse>
+        <verse osisID='2Cor.2.15'>Çünki biz həm xilas, həm də həlak olanlar arasında Allaha xoş olan Məsih ətriyik.</verse>
+        <verse osisID='2Cor.2.16'>Həlak olanlar üçün ölümə aparan ölüm qoxusu, xilas olanlar üçünsə həyata aparan həyat ətriyik. Belə bir iş üçün kim yararlıdır?</verse>
+        <verse osisID='2Cor.2.17'>Axı biz çoxları kimi Allah kəlamının alverçiləri deyilik; əksinə, Allah tərəfindən göndərilib Allahın hüzurunda, Məsihdə olaraq səmimi qəlbdən danışırıq.  </verse>
+      </chapter>
+      <chapter osisID='2Cor.3'>
+        <verse osisID='2Cor.3.1'>Özümüz barədə yenə zəmanət veririkmi? Yoxsa bəziləri kimi sizə yazılan və yaxud sizin yazdığınız zəmanət məktublarına ehtiyacımız var?</verse>
+        <verse osisID='2Cor.3.2'>Bütün insanların tanıdığı, oxuduğu, ürəklərimizə yazılmış məktubumuz sizsiniz.</verse>
+        <verse osisID='2Cor.3.3'>Xidmətimizin nəticəsi olan bir Məsih məktubu olduğunuz aydın görünür; bu məktub mürəkkəblə yox, var olan Allahın Ruhu ilə daş lövhələrə deyil, ət ürəklərə yazılıb.</verse>
+        <verse osisID='2Cor.3.4'>Məsih sayəsində Allah hüzurunda belə etibarımız var.</verse>
+        <verse osisID='2Cor.3.5'>Özümüzdən yaranan qabiliyyətimiz yoxdur və bunu iddia da edə bilmərik. Bizə qabiliyyət verən Allahdır.</verse>
+        <verse osisID='2Cor.3.6'>O bizi Yeni Əhdin xidmətçiləri olmaq üçün qabiliyyətli etdi. Bu Yeni Əhd yazılı Qanuna deyil, Ruha əsaslanır. Çünki yazılı Qanun öldürür, Ruh isə həyat verir. </verse>
+        <verse osisID='2Cor.3.7'>Ölümlə nəticələnən xidmət, yəni daş lövhələr üzərində həkk olunan yazılı Qanun elə ehtişamla gəldi ki, Musanın üzündən parlayan ehtişam ötəri olduğu halda İsrail övladları onun üzünə baxa bilmirdilər.</verse>
+        <verse osisID='2Cor.3.8'>Onda Ruha əsaslanan xidmət daha da ehtişamlı olmazmı?</verse>
+        <verse osisID='2Cor.3.9'>Əgər insanı məhkum edən xidmətin ehtişamı varsa, salehlik qazandıran xidmətin ehtişamı nə qədər çoxdur.</verse>
+        <verse osisID='2Cor.3.10'>Çünki əvvəllər ehtişamlı olanın indi hədsiz ehtişamı olanla müqayisədə ehtişamı yoxdur.</verse>
+        <verse osisID='2Cor.3.11'>Əgər ötəri olan ehtişamla gəldisə, daimi olanın ehtişamı daha da böyükdür. </verse>
+        <verse osisID='2Cor.3.12'>Belə bir ümidə sahib olduğumuz üçün böyük cəsarətlə danışa bilərik.</verse>
+        <verse osisID='2Cor.3.13'>İsrail övladları onun üzündəki ötəri ehtişamın keçib-getməsinə baxmasın deyə üzünə niqab çəkən Musa kimi deyilik.</verse>
+        <verse osisID='2Cor.3.14'>İsrail övladları fikirlərində inadkar oldu. Bu günə qədər Köhnə Əhd oxunarkən onları eyni niqab qapayır, açılmır, çünki bu yalnız Məsih vasitəsilə götürülür.</verse>
+        <verse osisID='2Cor.3.15'>Hətta bu günə qədər Musanın Yazıları nə vaxt oxunursa, onların ürəklərini bir niqab qapayır.</verse>
+        <verse osisID='2Cor.3.16'>Amma kim Rəbbə tərəf dönürsə, o vaxt niqab aradan qaldırılır.</verse>
+        <verse osisID='2Cor.3.17'>Rəbb Ruhdur, Rəbbin Ruhu haradadırsa, azadlıq da oradadır.</verse>
+        <verse osisID='2Cor.3.18'>Biz hamımız niqabsız üzdə Rəbbin ehtişamını əks etdirərək Rəbbin surətində dəyişilirik. Ruh olan Rəbdən yaranan bu ehtişam get-gedə bizdə görünməyə başlayır.  </verse>
+      </chapter>
+      <chapter osisID='2Cor.4'>
+        <verse osisID='2Cor.4.1'>
+          Beləliklə, bizə verilən mərhəmətlə bu xidmətə təyin olunduğumuz üçün ümidimizi itirmirik.</verse>
+        <verse osisID='2Cor.4.2'>Xəcalət gətirən gizli yolları rədd etmişik. Hiylə işlətmirik, Allahın sözünü təhrif etmirik, amma həqiqəti açıq elan etməklə Allahın önündə, hər insanın vicdanı qarşısında özümüz barədə zəmanət veririk.</verse>
+        <verse osisID='2Cor.4.3'>Əgər yaydığımız Müjdə qapalıdırsa, yalnız həlak olanlar üçün qapalıdır.</verse>
+        <verse osisID='2Cor.4.4'>Onları bu dövrün allahı korazehin etdi ki, Allahın surəti olan Məsihin ehtişamlı Müjdəsinin işığı imansızların üzərinə doğmasın.</verse>
+        <verse osisID='2Cor.4.5'>Biz özümüzü yox, İsa Məsihi Rəbb olaraq vəz edirik. Özümüzü isə İsa naminə qullarınız olaraq təqdim edirik.</verse>
+        <verse osisID='2Cor.4.6'>Çünki «zülmətdən işıq parlayacaq» deyən Allah ürəyimizə nur saçdı ki, İsa Məsihin üzündən saçan Öz ehtişamını tanımağımızdan doğan nuru bizə versin. </verse>
+        <verse osisID='2Cor.4.7'>Üstün qüvvənin bizdən yaranmadığı, Allaha aid olduğu bilinsin deyə bu xəzinəni saxsı qablarda saxlayırıq.</verse>
+        <verse osisID='2Cor.4.8'>Hər tərəfdən əziyyət çəkirik, amma əzilmirik. Çaşqınlıq içindəyik, lakin çarəsiz deyilik.</verse>
+        <verse osisID='2Cor.4.9'>Təqib olunuruq, amma tərk edilmirik. Yıxıdılırıq, amma yox olmuruq.</verse>
+        <verse osisID='2Cor.4.10'>İsanın ölümünü bədənimizdə həmişə daşıyırıq ki, Onun həyatı bədənimizdə aydın görünsün.</verse>
+        <verse osisID='2Cor.4.11'>Çünki İsanın həyatı fani cismimizdə aydın görünsün deyə biz yaşaya-yaşaya İsa üçün həmişə ölümə təslim edilirik.</verse>
+        <verse osisID='2Cor.4.12'>Beləliklə, ölüm bizdə, həyat isə sizdə fəaliyyət göstərir.</verse>
+        <verse osisID='2Cor.4.13'>«İman etdim, buna görə danışdım»  deyə yazıldığı üçün eyni iman ruhuna sahib olaraq biz də iman edir və buna görə danışırıq.</verse>
+        <verse osisID='2Cor.4.14'>Çünki bilirik ki, Rəbb İsanı dirildən Allah bizi də İsa ilə birlikdə dirildib sizinlə birgə Öz hüzuruna çıxaracaq.</verse>
+        <verse osisID='2Cor.4.15'>Bütün bunlar sizə görədir. Belə ki Allahın lütfü çoxalıb daha çox insana ehsan olunsun və Onun izzəti üçün daha çox şükür edilsin. </verse>
+        <verse osisID='2Cor.4.16'>Buna görə biz ümidimizi itirmirik. Zahirimiz get-gedə xarab olsa da, daxilimiz gündən-günə təzələnir.</verse>
+        <verse osisID='2Cor.4.17'>Çünki müvəqqəti, yüngül əziyyətlərimiz bizə heç bir şeylə müqayisə edilməz dərəcədə böyük və əbədi izzət qazandırır.</verse>
+        <verse osisID='2Cor.4.18'>Gözlərimizi görünən şeylərə deyil, görünməyən şeylərə dikirik. Çünki görünənlər gəldi-gedər, görünməyənlərsə əbədidir.  </verse>
+      </chapter>
+      <chapter osisID='2Cor.5'>
+        <verse osisID='2Cor.5.1'>Bilirik ki, sığındığımız bu dünyəvi çadır dağılarsa, göylərdə Allahın bizə verdiyi binamız, əllə tikilməyən əbədi bir evimiz var.</verse>
+        <verse osisID='2Cor.5.2'>İndi isə səmavi məskənimiz üstümüzü örtsün deyə həsrət çəkərək inləyirik.</verse>
+        <verse osisID='2Cor.5.3'>Soyunuruqsa da, lüt-üryan qalmarıq.</verse>
+        <verse osisID='2Cor.5.4'>Bu dünyəvi çadırda ikən hamımız ağır yük altında inləyirik. Çünki soyunmamızı deyil, üstümüzün örtülməsini istəyirik ki, həyat fani şeyləri yeyib-udsun.</verse>
+        <verse osisID='2Cor.5.5'>Bizi məhz bunun üçün hazırlaşdıran Allahdır. O, Ruhunu bizə girov verdi.</verse>
+        <verse osisID='2Cor.5.6'>Buna görə həmişə arxayınlığımız var, həm də bilirik ki, bu bədəndə məskunlaşdıqca Rəbdən uzağıq.</verse>
+        <verse osisID='2Cor.5.7'>Gözlə görünənə deyil, imana görə həyat sürürük.</verse>
+        <verse osisID='2Cor.5.8'>Əlbəttə, arxayınlığımız var və bu bədəndən uzaqlaşıb Rəbbimizin yanında məskunlaşmağı üstün tuturuq.</verse>
+        <verse osisID='2Cor.5.9'>Buna görə bədəndə məskun və yaxud bədəndən uzaq olmağımıza baxmayaraq, məqsədimiz Rəbbi razı salmaqdır.</verse>
+        <verse osisID='2Cor.5.10'>Çünki hər birimiz bu bədəndə olanda etdiyimiz əməllər pis də olsa, yaxşı da olsa, onların əvəzini almaq üçün Məsihin hökm kürsüsü önünə çıxmalıyıq. </verse>
+        <verse osisID='2Cor.5.11'>Demək, Rəbdən qorxmanın nə olduğunu anladığımız üçün insanları inandırmağa çalışırıq. Allaha bizim kim olduğumuz aşkardır və ümidvaram ki, sizin vicdanınıza da aşkardır.</verse>
+        <verse osisID='2Cor.5.12'>Sizə özümüz barədə yenə zəmanət vermək istəmirik, amma ürəkləri ilə deyil, zahiri görünüşləri ilə öyünənlərə cavab verə biləsiniz deyə bizimlə fəxr etməniz üçün sizə imkan yaradırıq.</verse>
+        <verse osisID='2Cor.5.13'>Əgər ağlımızı itirmişiksə, bu, Allah üçündür, yox, əgər ağlımız başımızdadırsa, bu sizin üçündür.</verse>
+        <verse osisID='2Cor.5.14'>Bizi məcbur edən Məsihin məhəbbətidir və bu qənaətə gəlmişik ki, bir Nəfər hamı üçün öldüyünə görə hamı öldü.</verse>
+        <verse osisID='2Cor.5.15'>Bəli, O hər kəs uğrunda öldü ki, qoy yaşayanlar artıq özləri üçün deyil, onlar uğrunda Ölüb-Dirilən üçün yaşasınlar. </verse>
+        <verse osisID='2Cor.5.16'>Bunun nəticəsində də biz artıq heç kimi bəşəri nöqteyi-nəzərdən tanımırıq. Nə vaxtsa Məsihi bəşəri nöqteyi-nəzərdən tanısaq da, indi Onu elə tanımırıq.</verse>
+        <verse osisID='2Cor.5.17'>Deməli, kim Məsihdədirsə, yeni yaradılışdır, köhnə şeylər keçib-getdi, təzə şeylər gəldi.</verse>
+        <verse osisID='2Cor.5.18'>Bunların hamısı Allahdandır. O, Məsih vasitəsilə bizi Özü ilə barışdırdı və bizə barışdırma xidmətini verdi.</verse>
+        <verse osisID='2Cor.5.19'>Belə ki Allah insanların təqsirlərini onların əleyhinə qoymayaraq dünyanı Məsihdə Özü ilə barışdırmaqda idi. Barışdırma sözünü də bizə əmanət etdi.</verse>
+        <verse osisID='2Cor.5.20'>Beləliklə, biz Məsihin nümayəndələriyik, sanki Allah bizim vasitəmizlə rica edir. Məsihin adı ilə yalvarırıq ki, Allahla barışın.</verse>
+        <verse osisID='2Cor.5.21'>Günahla əlaqəsi olmayan Məsihi Allah bizim uğrumuzda günah qurbanı verdi ki, biz Onda Allahın salehliyinə nail olaq.  </verse>
+      </chapter>
+      <chapter osisID='2Cor.6'>
+        <verse osisID='2Cor.6.1'>Buna görə Allahla birgə işləyən bizlər rica edirik ki, Onun lütfünü boş yerə qəbul etməyəsiniz.</verse>
+        <verse osisID='2Cor.6.2'>Çünki O deyir:  «Münasib vaxtda səni eşitdim,Xilas günü sənə kömək etdim».  Budur, indi münasib vaxt, budur, indi xilas günü. </verse>
+        <verse osisID='2Cor.6.3'>Xidmətimiz etibardan düşməsin deyə heç kimi büdrədən bir şey etmirik.</verse>
+        <verse osisID='2Cor.6.4'>Əksinə, Allahın xidmətçisi olaraq hər şeydə özümüz barədə zəmanət veririk; hədsiz dözümdə, əziyyətlərdə, ehtiyaclarda, sıxıntılarda,</verse>
+        <verse osisID='2Cor.6.5'>döyüləndə, həbslərdə, qarışıqlıqlarda, zəhmətdə, yuxusuz qalanda, aclıqlarda,</verse>
+        <verse osisID='2Cor.6.6'>pak yaşayanda, bilikdə, səbirdə, xeyirxahlıqda, Müqəddəs Ruhda, riyasız məhəbbətdə,</verse>
+        <verse osisID='2Cor.6.7'>həqiqəti elan edəndə, Allahın qüvvəsində, həm sağ, həm də sol əllərimizdə salehlik silahları ilə,</verse>
+        <verse osisID='2Cor.6.8'>gah ucalıb gah alçalaraq təhqir olunanda, təriflənəndə özümüz özümüzə zamin dururuq. Bizi yalançı sayırlar, amma biz doğruçuyuq.</verse>
+        <verse osisID='2Cor.6.9'>Sanki naməlumuq, amma tanınırıq. Elə bil ölümün ağzındayıq, amma hələ yaşayırıq. Elə bil cəza çəkirik, amma öldürülmürük.</verse>
+        <verse osisID='2Cor.6.10'>Sanki kədər içindəyik, əslində həmişə sevinirik. Yoxsul sayılırıq, amma çoxlarını varlandırırıq. Elə bil heç nəyimiz yoxdur, amma hər şeyə sahibik. </verse>
+        <verse osisID='2Cor.6.11'>Ey Korinflilər, sizinlə açıq danışırıq, sizə ürəyimizi açmışıq.</verse>
+        <verse osisID='2Cor.6.12'>Bizimlə yaxın münasibətinizə mane olan biz deyilik, bu maneə sizin daxili hisslərinizdədir.</verse>
+        <verse osisID='2Cor.6.13'>Buna cavab olaraq, sizə övladlarım kimi deyirəm: siz də ürəyinizi açın. </verse>
+        <verse osisID='2Cor.6.14'>İmansızlarla eyni boyunduruğa girməyin. Çünki salehliklə qanunsuzluğun nə şərikliyi var? İşıqla qaranlığın ortaq nəyi var?</verse>
+        <verse osisID='2Cor.6.15'>Məsihlə Belialın nə uyğunluğu var? Yaxud imanlı ilə imansızın ümumi nəyi var?</verse>
+        <verse osisID='2Cor.6.16'>Allahın məbədi ilə bütlərin sazişi ola bilərmi? Çünki biz var olan Allahın məbədiyik. Belə ki Allah demişdi:  «Mən aralarında yaşayıb-dolanacağam,Onların Allahı olacağam,Onlar da Mənim xalqım olacaq».</verse>
+        <verse osisID='2Cor.6.17'>Ona görə «aralarından çıxıb ayrılın»Rəbb belə deyir,«Murdar şeylərə toxunmayın»;«Mən də sizi qəbul edəcəyəm».</verse>
+        <verse osisID='2Cor.6.18'>«Mən sizə Ata olacağam,Siz də Mənə oğullar və qızlar olacaqsınız»Külli-İxtiyar Rəbb belə deyir. </verse>
+      </chapter>
+      <chapter osisID='2Cor.7'>
+        <verse osisID='2Cor.7.1'>Sevimlilər, bu vədlərə malik olduğumuza görə Allahdan qorxub kamil müqəddəsliyə çataraq bizi cisimdə və ruhda murdarlayan hər şeydən özümüzü təmizləyək.   </verse>
+        <verse osisID='2Cor.7.2'>Ürəyinizdə bizim üçün yer ayırın. Biz heç kimə haqsızlıq etməmişik, heç kimə zərər verməmişik, heç kimi istismar etməmişik.</verse>
+        <verse osisID='2Cor.7.3'>Sözlərimlə sizi məhkum etmək istəmirəm, çünki əvvəlcədən dediyim kimi ürəyimizdə elə bir yeriniz var ki, ölsək də, yaşasaq da sizinlə bir olacağıq.</verse>
+        <verse osisID='2Cor.7.4'>Sizə çox etibar edirəm, sizinlə çox fəxr edirəm. Nə cür əziyyət çəksək belə, təsəllim bol, sevincim hədsizdir. </verse>
+        <verse osisID='2Cor.7.5'>Makedoniyaya gələndə də cismən dinclik tapmadıq. Hər tərəfdən əziyyət çəkirdik. Bayırda çəkişmələr, daxildə qorxular var idi.</verse>
+        <verse osisID='2Cor.7.6'>Lakin məzlumlara təsəlli verən Allah Titin gəlişi ilə bizə təsəlli verdi.</verse>
+        <verse osisID='2Cor.7.7'>Ancaq Titin gəlişindən deyil, sizin ona verdiyiniz təsəllidən də təsəlli aldıq. Çünki Tit dedi ki, siz məndən ötrü darıxır, dərd və qeyrət çəkirsiniz. Buna görə sevincim daha da artdı. </verse>
+        <verse osisID='2Cor.7.8'>Məktubumla sizi kədərləndirdimsə də, buna görə peşman deyiləm. Əslində məktubumla sizi bir anlıq da olsa kədərləndirdiyim üçün peşman olmuşdum.</verse>
+        <verse osisID='2Cor.7.9'>Amma indi kədərinizə görə yox, bu kədər hissinin sizin tövbə etmənizə səbəb olduğu üçün sevinirəm. Allah istəyən tərzdə kədərləndiniz, buna görə də bizdən heç bir şeydə ziyan görmədiniz.</verse>
+        <verse osisID='2Cor.7.10'>Allah istəyən tərzdə olan kədər insanda tövbə yaradıb onu xilasa aparır və bunda peşmançılıq yoxdur. Dünyanın kədəri isə ölüm yaradır.</verse>
+        <verse osisID='2Cor.7.11'>Baxın Allah istəyən tərzdə çəkdiyiniz bu kədər sizdə nə qədər böyük cəhd, təmizə çıxmaq arzusu, qəzəb, qorxu, həsrət, qeyrət, ədalətpərvərlik yaratdı. Bu işdə hər cəhətdən saf olduğunuz barədə zəmanət verdiniz.</verse>
+        <verse osisID='2Cor.7.12'>Sizə o məktubu yazanda haqsızlıq edənə yaxud haqsızlığa məruz qalana görə yazmadım. Bizim üçün etdiyiniz cəhdi Allah önündə aydın görməniz üçün yazdım.</verse>
+        <verse osisID='2Cor.7.13'>Bütün bunlardan təsəlli alırıq.  Buna əlavə olaraq Titin sevinci bizi daha da sevindirdi. Hamınız onun ruhunu təzələdiniz.</verse>
+        <verse osisID='2Cor.7.14'>Mən onun qarşısında sizinlə fəxr etmişdim, siz də məni utandırmadınız. Sizə dediyimiz hər şey necə doğru idisə, Titin qarşısında sizinlə fəxr etməyimiz də doğru çıxdı.</verse>
+        <verse osisID='2Cor.7.15'>Hamınızın itaətli olduğunuzu, onu necə qorxu və lərzə ilə qəbul etdiyinizi yada saldıqca sizə olan sevgisi daha da artır.</verse>
+        <verse osisID='2Cor.7.16'>Sizə hər işdə etibar edə bildiyim üçün sevinirəm.  </verse>
+      </chapter>
+      <chapter osisID='2Cor.8'>
+        <verse osisID='2Cor.8.1'>
+           Qardaşlar, sizə bildirmək istəyirik ki, Makedoniyadakı cəmiyyətlərə verilən Allahın lütfü nə etdi:</verse>
+        <verse osisID='2Cor.8.2'>onlar böyük əziyyətlərlə sınananda coşğun sevincləri hədsiz yoxsul olduqları halda zəngin səxavət göstərmələri ilə aşıb-daşdı.</verse>
+        <verse osisID='2Cor.8.3'>Mən şahidəm ki, onlar bunu bacardıqları qədər, hətta artıqlaması ilə, könüllü surətdə etdilər.</verse>
+        <verse osisID='2Cor.8.4'>Bizə yalvara-yalvara müqəddəslərə yardım işinə şərik olmaq lütfünə nail olmaq istədilər.</verse>
+        <verse osisID='2Cor.8.5'>Bu, gözlədiyimizdən də artıq oldu, çünki onlar özlərini əvvəlcə Rəbbə, sonra Allahın iradəsi ilə bizə həsr etdilər.</verse>
+        <verse osisID='2Cor.8.6'>Ona görə Titdən xahiş etdik ki, onun başladığı bu xeyriyyə işini sizin aranızda başa çatdırsın.</verse>
+        <verse osisID='2Cor.8.7'>Sizsə hər şeydə – imanda, sözdə, bilikdə, hər cür cəhddə, sizə göstərdiyimiz məhəbbətdə zəngin olduğunuz kimi bu xeyriyyəçilikdə də zəngin olun. </verse>
+        <verse osisID='2Cor.8.8'>Mən bunları əmr edərək demirəm, lakin başqalarının cəhdi ilə müqayisədə sizin məhəbbətinizin həqiqiliyini sınaqdan keçirərək deyirəm.</verse>
+        <verse osisID='2Cor.8.9'>Rəbbimiz İsa Məsihin lütfündən xəbərdarsınız: siz Onun yoxsulluğu vasitəsilə varlı olasınız deyə Özü varlı olduğu halda sizin uğrunuzda yoxsullaşdı.</verse>
+        <verse osisID='2Cor.8.10'>Bu barədə sizə məsləhət verirəm. Siz keçən il bu işi nəinki gördünüz, hətta təşəbbüskarı oldunuz. Öz xeyriniz üçün</verse>
+        <verse osisID='2Cor.8.11'>indi bu işi başa çatdırın. Buna həvəsiniz necə idisə, imkan daxilində bunu elə də başa çatdırın.</verse>
+        <verse osisID='2Cor.8.12'>Çünki insanın həvəsi varsa, verdiyi yardım imkanı çatmadığı qədər yox, imkanına görə məqbul sayılır.</verse>
+        <verse osisID='2Cor.8.13'>Sizi əziyyətə salıb başqalarına rahatlıq vermək deyil, bərabərlik istəyirik.</verse>
+        <verse osisID='2Cor.8.14'>İndi sizin əlavə vəsaitiniz qoy onların ehtiyaclarını ödəsin ki, lazım olanda onların vəsaiti də sizin ehtiyacınızı ödəsin. Beləcə qoy bərabərlik olsun.</verse>
+        <verse osisID='2Cor.8.15'>Necə ki yazılıb: «Çox yığanın artığı, az yığanın əskiyi olmadı». </verse>
+        <verse osisID='2Cor.8.16'>Titin ürəyində sizin üçün eyni cəhdi oyadan Allaha şükür olsun!</verse>
+        <verse osisID='2Cor.8.17'>Çünki Tit bizim xahişimizi qəbul etməklə kifayətlənmədi, böyük cəhd göstərərək könüllü surətdə sizin yanınıza gəlir.</verse>
+        <verse osisID='2Cor.8.18'>Müjdəni yaydığına görə bütün cəmiyyətlərdə təriflənən bir qardaşı da onunla birgə yanınıza göndəririk.</verse>
+        <verse osisID='2Cor.8.19'>Həmçinin o, Rəbbi izzətləndirmək və yardım etməyə həvəsli olduğumuzu göstərmək üçün apardığımız bu xeyriyyə işində yol yoldaşımız olmaq məqsədi ilə cəmiyyətlər tərəfindən seçildi.</verse>
+        <verse osisID='2Cor.8.20'>Bu bol olan nəzir-niyazla əlaqədar xidmətimizdə heç kim bizdə səhv tutmasın deyə diqqət göstəririk.</verse>
+        <verse osisID='2Cor.8.21'>Çünki məqsədimiz yalnız Rəbbin gözündə deyil, insanların da gözündə doğru sayılan işləri görməkdir.</verse>
+        <verse osisID='2Cor.8.22'>Çox işdə dəfələrlə sınaqdan keçirib cəhdini gördüyümüz, indi sizə bəslədiyi böyük etibar sayəsində daha da cəhd göstərən başqa qardaşımızı da onlarla bərabər göndəririk.</verse>
+        <verse osisID='2Cor.8.23'>Titə gəlincə, o mənim şərikim, sizlərin arasında çalışan əməkdaşım, qardaşlarımızsa Məsihin izzəti üçün cəmiyyətlərin elçiləridir.</verse>
+        <verse osisID='2Cor.8.24'>Buna görə də cəmiyyətlərin qarşısında məhəbbətinizi və sizinlə fəxr etməyimizin səbəbini onlara sübut edin.  </verse>
+      </chapter>
+      <chapter osisID='2Cor.9'>
+        <verse osisID='2Cor.9.1'>
+          Müqəddəslərə göstəriləcək yardımla əlaqədar sizə yazmağıma ehtiyac yoxdur.</verse>
+        <verse osisID='2Cor.9.2'>Çünki yardım etməyə həvəsiniz olduğunu bilirəm. Axayyada olan sizlərin keçən ildən bəri hazırlıqlı olduğunuzu söyləyərək Makedoniyalılar qarşısında fəxr etməkdəyəm. Sizin səyiniz onların çoxunu hərəkətə gətirdi.</verse>
+        <verse osisID='2Cor.9.3'>Sizinlə etdiyimiz fəxr bu işdə boşa çıxmasın deyə qardaşları yanınıza göndərirəm və dediyim kimi gərək hazır olasınız.</verse>
+        <verse osisID='2Cor.9.4'>Belə ki bəzi Makedoniyalılar mənimlə gəlib sizin hazır olmadığınızı görərsə, sizə etibar etdiyimizə görə nə biz utanaq, nə də siz.</verse>
+        <verse osisID='2Cor.9.5'>Ona görə də mən qardaşlardan xahiş etməyə ehtiyac duyuram ki, məndən əvvəl yanınıza gəlib vəd edilmiş bol bəxşişlərinizi qabaqcadan hazır etsinlər. Qoy bu bəxşişlər istismarçılıqla yox, könüllü surətdə hazır olsun. </verse>
+        <verse osisID='2Cor.9.6'>Yadda saxlayın: az əkən az, bol-bol əkən bol-bol biçəcək.</verse>
+        <verse osisID='2Cor.9.7'>Könülsüz yaxud məcburi yox, hər kəs ürəyinin niyyətinə görə pay versin. Çünki Allah sevinə-sevinə pay verən adamı sevir.</verse>
+        <verse osisID='2Cor.9.8'>Allah sizə hər bir neməti bol-bol verə bilər. Belə ki hər bir şeyə həmişə, hərtərəfli, kifayət qədər sahib olmaqla hər yaxşı əməl üçün bol-bol imkanınız olsun.</verse>
+        <verse osisID='2Cor.9.9'>Necə ki yazılıb:  «Səpələyər, fəqirlərə paylayar,Salehliyi əbədi qalar».</verse>
+        <verse osisID='2Cor.9.10'>Əkinçiyə toxum və yemək üçün çörək ehtiyatı verən Allah sizin də əkin ehtiyatınızı çoxaldacaq və salehliyinizin bəhrəsini artıracaq.</verse>
+        <verse osisID='2Cor.9.11'>Hər tərəfli səxavətli olmanız üçün hər baxımdan varlandırılacaqsınız. Səxavətiniz bizim vasitəmizlə Allaha şükür etməyə səbəb olacaq.</verse>
+        <verse osisID='2Cor.9.12'>Çünki etdiyiniz bu xidmət yalnız müqəddəslərin ehtiyaclarını ödəməklə kifayətlənmir, həm də Allaha edilən çox şükürlərlə aşıb-daşır.</verse>
+        <verse osisID='2Cor.9.13'>Bu xidmətlə sübut etdiyiniz kimi, iqrar etdiyiniz Məsihin Müjdəsinə itaət göstərdiyinizə, onlara və hamıya səxavətlə yardım göndərdiyinizə görə Allahı izzətləndirirlər.</verse>
+        <verse osisID='2Cor.9.14'>Allahın sizə bəxş etdiyi hədsiz lütfə görə hər birinizin həsrətini çəkərək sizin üçün dua edirlər.</verse>
+        <verse osisID='2Cor.9.15'>Allahın sözlə ifadə oluna bilməyən bəxşişinə görə Ona şükür olsun!  </verse>
+      </chapter>
+      <chapter osisID='2Cor.10'>
+        <verse osisID='2Cor.10.1'>
+          Yanınızda ürkək, lakin sizdən uzaq ikən cürətli olan mən Paul Məsihdən gələn həlimlik və mülayimliklə sizdən xahiş edir,</verse>
+        <verse osisID='2Cor.10.2'>yalvarıram: yanınıza gələndə məni vadar etməyin ki, bizi cismani təbiətə görə həyat sürən insanlar zənn edən bəzi adamlara göstərməyi vacib saydığım cürəti sizə də göstərim.</verse>
+        <verse osisID='2Cor.10.3'>Çünki cismən həyat sürsək də, cismani təbiətə görə döyüş aparmırıq.</verse>
+        <verse osisID='2Cor.10.4'>Ona görə ki döyüş silahlarımız cisimdən düzəldilən silahlar deyil, qalaları dağıdan ilahi qüvvəyə malik silahlardır. Nəzəriyyələri,</verse>
+        <verse osisID='2Cor.10.5'>Allah barədə biliyə qarşı çıxan hər bir səddi yıxıb hər bir düşüncəni əsir edərək Məsihə itaət etdiririk.</verse>
+        <verse osisID='2Cor.10.6'>Siz Məsihə tamamilə itaət edəndə hər cür itaətsizliyi cəzalandırmağa hazır olacağıq. </verse>
+        <verse osisID='2Cor.10.7'>Göz qabağında olanlara baxın. Kim Məsihə aid olduğuna arxalanırsa, yadda saxlasın ki, onun qədər biz də Məsihə aidik.</verse>
+        <verse osisID='2Cor.10.8'>Sizi yıxmaq üçün deyil, inkişaf etdirmək üçün Rəbbin bizə verdiyi səlahiyyətə görə bir az artıq öyünsəm də, utanmaram.</verse>
+        <verse osisID='2Cor.10.9'>Elə görünmək istəmirəm ki, məktublarımla sizi qorxuduram.</verse>
+        <verse osisID='2Cor.10.10'>Mənim barəmdə deyirlər ki, «onun məktubları ciddi və təsirlidir, özünü görəndə isə zəhmsiz, nitqi də heçdir».</verse>
+        <verse osisID='2Cor.10.11'>Kim bunu düşünürsə, qoy bilsin ki, uzaqda olanda məktublarımızla dediklərimizə yanınızda olanda da əməl edirik. </verse>
+        <verse osisID='2Cor.10.12'>Öz-özü barədə zəmanət verən bəzi adamlarla özümüzü bərabər saymağa və yaxud da müqayisə etməyə sözsüz ki cəsarət etmirik. Özlərini öz arşınları ilə ölçə-ölçə, həmçinin özlərini özləri ilə müqayisə edə-edə onlar dərrakələrini itirdilər.</verse>
+        <verse osisID='2Cor.10.13'>Biz isə hədsiz öyünməyəcəyik. Öyünməyimiz Allahın bizə verdiyi, sizin də daxil olduğunuz iş dairəsinin həddini aşmayacaq.</verse>
+        <verse osisID='2Cor.10.14'>Sizə yetişməyənlər kimi uzaqlara getmirik. Çünki Məsihin Müjdəsini sizə çatdıran bizik.</verse>
+        <verse osisID='2Cor.10.15'>Başqalarının əməyi ilə öyünüb həddimizi aşmırıq. Ümidvarıq ki, imanınız böyüdükcə aranızda işimizin əhatə dairəsi daha da genişlənəcək.</verse>
+        <verse osisID='2Cor.10.16'>Beləcə başqasının işinin əhatə dairəsində olan nailiyyətlərlə öyünmədən Müjdəni sizin o tayınızdakı diyarlarda da yaya biləcəyik.</verse>
+        <verse osisID='2Cor.10.17'>«Öyünən Rəbdə öyünsün».</verse>
+        <verse osisID='2Cor.10.18'>Çünki özü barədə zəmanət verən insan yox, barəsində Rəbbin zəmanət verdiyi insan sınaqdan keçmiş olur.  </verse>
+      </chapter>
+      <chapter osisID='2Cor.11'>
+        <verse osisID='2Cor.11.1'>
+          Ümidvaram ki, mənim bir qədər ağılsızlığıma da dözəcəksiniz. Bəli, mənə bir qədər dözün.</verse>
+        <verse osisID='2Cor.11.2'>Sizə görə ilahi bir qısqanclıq hiss edirəm. Çünki sizlər sanki bakirə qızsınız və sizi bir Oğlana, yəni Məsihə nişanlayıb təqdim etmişəm.</verse>
+        <verse osisID='2Cor.11.3'>Amma qorxuram ki, ilanın hiyləgərliyi ilə Həvvanı aldatması kimi düşüncələrinizin pozulub Məsihə olan səmimi və pak həsr olunmasından azasınız.</verse>
+        <verse osisID='2Cor.11.4'>Çünki əgər kimsə yanınıza gəlib bizim vəz etdiyimiz İsadan başqa bir İsanı təbliğ edirsə, aldığınızdan fərqli bir ruh alırsınızsa və yaxud qəbul etdiyinizdən fərqli bir müjdəni qəbul edirsinizsə, siz buna necə də məmnuniyyətlə dözürsünüz.</verse>
+        <verse osisID='2Cor.11.5'>Zənnimcə bu «böyük həvarilər»dən mən heç də geri qalmıram.</verse>
+        <verse osisID='2Cor.11.6'>Natiqlik məharətim olmasa da, bilikdə məharətsiz deyiləm. Bunu sizə hər vəziyyətdə hər tərəfli göstərdik. </verse>
+        <verse osisID='2Cor.11.7'>Ucalmanız üçün özümü aşağı tutaraq Allah Müjdəsini müftə yaymaqla günah işlətdimmi?</verse>
+        <verse osisID='2Cor.11.8'>Sizə xidmət etmək üçün başqa cəmiyyətlərdən təminat alaraq sanki onları soydum.</verse>
+        <verse osisID='2Cor.11.9'>Yanınızda olarkən ehtiyacım olduğu halda heç birinizə yük olmadım. Çünki Makedoniyadan gələn qardaşlar ehtiyacımı tamamilə ödədilər. Sizə yük olmaqdan özümü saxladım və gələcəkdə də özümü saxlayacağam.</verse>
+        <verse osisID='2Cor.11.10'>Məndə olan Məsihin həqiqətinə and olsun! Axayya vilayətində heç kim məni susdura bilməz ki, buna öyünməyim.</verse>
+        <verse osisID='2Cor.11.11'>Niyə? Sizi sevmədiyimə görəmi? Allah bilir ki, sevirəm. </verse>
+        <verse osisID='2Cor.11.12'>Özlərini bizimlə bərabər sayaraq öyünənlər buna əsas axtarır. Mən etdiyimi edəcəyəm ki, onların əsasını kəsim.</verse>
+        <verse osisID='2Cor.11.13'>Çünki bunlar saxta həvari, Məsih həvarisinin cildinə girən fırıldaqçılardır.</verse>
+        <verse osisID='2Cor.11.14'>Buna heyrətlənmək lazım deyil, çünki Şeytan da işıq mələyi cildinə girir.</verse>
+        <verse osisID='2Cor.11.15'>Şeytana xidmət edənlərin salehlik xidmətçilərinin cildinə girməsi qəribə deyil. Onların aqibəti əməllərinə görə olacaq. </verse>
+        <verse osisID='2Cor.11.16'>Yenə deyirəm, qoy heç kim məni ağılsız saymasın. Elədirsə, məni ağılsız kimi qəbul edin, qoy mən də bir az öyünüm.</verse>
+        <verse osisID='2Cor.11.17'>Dediklərimi Rəbbin sözü kimi yox, öyünə-öyünə özünə güvənən ağılsız adam kimi deyirəm.</verse>
+        <verse osisID='2Cor.11.18'>Madam ki bir çoxları cismani təbiətlərinə görə öyünürlər, mən də öyünəcəyəm.</verse>
+        <verse osisID='2Cor.11.19'>Siz ağıllı olduğunuz üçün ağılsızlara necə də sevinclə dözürsünüz.</verse>
+        <verse osisID='2Cor.11.20'>Belə ki sizi kölə edənlərə, istismar edənlərə, sizdən faydalananlara, özünü üstün sayanlara, hətta sifətinizə şillə vuranlara dözürsünüz.</verse>
+        <verse osisID='2Cor.11.21'>Utanaraq qəbul edirəm ki, buna gücümüz çatmır!  Kimin bir şeylə öyünməyə cəsarəti varsa, bir ağılsız kimi deyirəm ki, mənim də ona cəsarətim var.</verse>
+        <verse osisID='2Cor.11.22'>Onlar İbranilərdirmi? Mən də İbraniyəm. Onlar İsraillilərdirmi? Mən də İsrailliyəm. Onlar İbrahimin nəslindəndirmi? Mən də İbrahimin nəslindənəm.</verse>
+        <verse osisID='2Cor.11.23'>Onlar Məsihin xidmətçiləridirmi? Dəli kimi deyirəm ki, Onun daha böyük xidmətçisi mənəm, çünki zəhmətim daha çox olub, həbsə düşməyim daha çoxdur, döyülməyimin sayı-hesabı yoxdur, dəfələrlə ölümlə üz-üzə gəlmişəm.</verse>
+        <verse osisID='2Cor.11.24'>Beş dəfə Yəhudilərdən otuz doqquz qırmanc yemişəm,</verse>
+        <verse osisID='2Cor.11.25'>üç dəfə dəyənəklə döyülmüşəm, bir dəfə məni daşqalaq etdilər, üç dəfə gəmi qəzasına düşdüm və bir gün gecə-gündüz ucsuz-bucaqsız dənizdə qaldım.</verse>
+        <verse osisID='2Cor.11.26'>Tez-tez səyahətdə olduğum müddətdə çaylarda təhlükəyə, quldurlar arasında təhlükəyə, soydaşlarım arasında təhlükəyə, başqa millətlər arasında təhlükəyə, şəhərdə təhlükəyə, çöldə təhlükəyə, dənizdə təhlükəyə, saxta qardaşlar arasında təhlükəyə məruz qaldım.</verse>
+        <verse osisID='2Cor.11.27'>Zəhmət və əmək çəkdim, dəfələrlə yuxusuz qaldım. Aclığın, susuzluğun dadını gördüm. Çox vaxt yemək, soyuqda paltar tapmadım.</verse>
+        <verse osisID='2Cor.11.28'>Bunlarla yanaşı bütün cəmiyyətlər üçün hər gün çəkdiyim qayğının yükü boynumdadır.</verse>
+        <verse osisID='2Cor.11.29'>Kimsə zəif olanda mən də zəif olmadımmı? Kimsə büdrəyəndə mən alışıb-yanmadımmı? </verse>
+        <verse osisID='2Cor.11.30'>Öyünməliyəmsə, zəifliyimi göstərən şeylərlə öyünəcəyəm.</verse>
+        <verse osisID='2Cor.11.31'>Rəbb İsanın əbədi alqışlanan Allah və Atasına and olsun ki, yalan demirəm.</verse>
+        <verse osisID='2Cor.11.32'>Dəməşqdə padşah Aretanın valisi məni tutmaq üçün şəhəri nəzarət altına almışdı.</verse>
+        <verse osisID='2Cor.11.33'>Amma mən səbət içində şəhər divarlarının pəncərələrinin birindən yerə sallandım və onun əlindən qaçdım.  </verse>
+      </chapter>
+      <chapter osisID='2Cor.12'>
+        <verse osisID='2Cor.12.1'>Faydalı olmasa da, öyünməliyəm. İndi Rəbdən gələn görüntülərə və vəhylərə keçirəm.</verse>
+        <verse osisID='2Cor.12.2'>Məsihdə olaraq on dörd il bundan əvvəl – bədəndəmi, yoxsa bədəndən xaricmi, mən bilmirəm, Allah bilir – götürülüb göyün üçüncü qatına aparılan bir insanı tanıyıram.</verse>
+        <verse osisID='2Cor.12.3'>Bilirəm ki, bu adam – bədəndəmi, yoxsa bədəndən kənarmı, mən bilmirəm, Allah bilir –</verse>
+        <verse osisID='2Cor.12.4'>cənnətə aparılıb orada dillə ifadə olunmayan, insanın danışması qadağan olunan sözlər eşitdi.</verse>
+        <verse osisID='2Cor.12.5'>Belə birisi ilə öyünəcəyəm, amma özümlə əlaqədar olaraq zəifliyimdən başqa bir şeylə öyünməyəcəyəm.</verse>
+        <verse osisID='2Cor.12.6'>Öyünmək istəsəm belə, ağılsız olmayacağam. Çünki həqiqəti deyəcəyəm. Amma heç kim məni görüb eşitdiyindən artıq bir şəxs saymasın deyə öyünməkdən çəkinirəm. </verse>
+        <verse osisID='2Cor.12.7'>Aldığım vəhylərin üstünlüyü ilə qürurlanmayım deyə cismim üçün bir tikan, yəni mənə əzab vermək üçün Şeytanın bir elçisi göndərildi ki, qürurlanmayım.</verse>
+        <verse osisID='2Cor.12.8'>Bunun məndən uzaq olması üçün üç dəfə Rəbbə yalvardım.</verse>
+        <verse osisID='2Cor.12.9'>Amma O mənə dedi: «Lütfüm sənə kifayətdir, çünki zəiflik olanda qüvvə tam olur». Məsihin qüvvəsi məndə məskən salsın deyə zəifliklərimlə daha çox sevinə-sevinə öyünəcəyəm.</verse>
+        <verse osisID='2Cor.12.10'>Ona görə də Məsih uğrunda zəifliklərə, təhqirlərə, ehtiyaclara, təqiblərə və sıxıntılara məmnuniyyətlə dözürəm, çünki mən zəifləyəndə qüvvətlənirəm. </verse>
+        <verse osisID='2Cor.12.11'>Mən ağılsızlaşdım, çünki siz məni vadar etdiniz. Amma siz mənim barəmdə zəmanət verməli idiniz. Çünki özüm bir şey olmasam da, həmin «böyük həvarilər»dən heç də geri qalmıram.</verse>
+        <verse osisID='2Cor.12.12'>Həvariliyimin nişanələri aranızda əlamətlər, xariqələr və möcüzələr vasitəsilə, böyük dözümlülüklə göstərildi.</verse>
+        <verse osisID='2Cor.12.13'>Mən sizə yük olmadım, bundan başqa sizin digər cəmiyyətlərdən nə əskiyiniz var? Bu haqsızlığımı bağışlayın! </verse>
+        <verse osisID='2Cor.12.14'>Budur, üçüncü dəfə yanınıza gəlməyə hazıram. Sizə yük olmayacağam, çünki sizdən heç nə istəmirəm, yalnız sizi istəyirəm. Axı övladların ata-ana üçün deyil, ata-ananın övladları üçün ehtiyat görməsi doğru sayılır.</verse>
+        <verse osisID='2Cor.12.15'>Mən də sizin həyatınız uğrunda sevinə-sevinə malımdan və canımdan keçəcəyəm. Sizi daha da çox sevsəm, daha az seviləcəyəmmi?</verse>
+        <verse osisID='2Cor.12.16'>Qoy belə olsun. Düşünürsünüz ki, mən sizə ağır yük olmadım, amma çoxbilmiş olduğuma görə sizi fənd işlədərək aldatdım.</verse>
+        <verse osisID='2Cor.12.17'>Yanınıza göndərdiyim adamlardan hansı biri ilə sizi istismar etdim?</verse>
+        <verse osisID='2Cor.12.18'>Titi yanınıza gəlmək həvəsinə saldım və o biri qardaşı da onunla göndərdim. Tit mənə görə sizi istismar etmədi, elə deyilmi? Eyni ruhda həyat sürmədikmi? Eyni izlə getmədikmi? </verse>
+        <verse osisID='2Cor.12.19'>Bu vaxta qədər qarşınızda özümüzü müdafiə etdiyimizi düşünürsünüzmü? Allahın qarşısında, Məsihdə olaraq danışırıq. Sevimlilər, etdiyimiz hər şey sizin inkişafınız üçündür.</verse>
+        <verse osisID='2Cor.12.20'>Qorxuram ki, gəlişimdə sizi istədiyim vəziyyətdə tapmayım, siz də istədiyinizi məndə tapmayasınız və aranızda münaqişə, qısqanclıq, hiddət, özünü göstərmə, böhtan, qeybət, lovğalıq, qarışıqlıq tapam.</verse>
+        <verse osisID='2Cor.12.21'>Bu da məni qorxudur ki, yanınıza gələndə Allahım məni sizin qarşınızda aşağı tutacaq: əvvəllər günah işlədərək batdıqları murdarlıq, əxlaqsızlıq və pozğunluqdan tövbə etməyən bir çox adamlar üçün yas tutacağam.  </verse>
+      </chapter>
+      <chapter osisID='2Cor.13'>
+        <verse osisID='2Cor.13.1'>
+           Bu, yanınıza üçüncü gəlişim olacaq. «Hər iddia iki yaxud üç şahidin sözü ilə təsdiq edilsin».</verse>
+        <verse osisID='2Cor.13.2'>İkinci dəfə yanınızda olanda keçmişdə günah işlədənlərə xəbər verdiyim kimi indi uzaqda olanda da onların və başqalarının hamısına xəbərdarlıq edirəm ki, yenə yanınıza gələndə onların heç birini cəzasız qoymayacağam.</verse>
+        <verse osisID='2Cor.13.3'>Məsihin mənim vasitəmlə danışdığına dair istədiyiniz sübut budur. Məsih aranızda zəifliklə deyil, qüdrətlə fəaliyyət göstərir.</verse>
+        <verse osisID='2Cor.13.4'>Çünki O, zəiflik içində çarmıxa çəkildiyi halda Allahın qüdrəti ilə yaşayır. Biz də Onda zəifik, amma sizin xeyriniz üçün Onunla bərabər Allahın qüdrəti ilə yaşayacağıq. </verse>
+        <verse osisID='2Cor.13.5'>Özünüzü yoxlayın və iman yolunda olub-olmadığınızı bilmək üçün sınaqdan keçirin. İsa Məsihin daxilinizdə olduğunu başa düşmürsünüzmü? Yoxsa sınaqdan keçmirsiniz?</verse>
+        <verse osisID='2Cor.13.6'>Ümidvaram, bizim sınaqdan keçdiyimizi başa düşəcəksiniz.</verse>
+        <verse osisID='2Cor.13.7'>Allaha dua edirik ki, pis iş görməyəsiniz; bu bizim sınaqdan keçməyimizi göstərmək üçün deyil, sınaqdan keçməyənlər kimi olsaq da, sizin yaxşılıq etməniz üçündür.</verse>
+        <verse osisID='2Cor.13.8'>Çünki həqiqətə qarşı heç nə edə bilmərik, nə etsək, həqiqət uğrunda edirik.</verse>
+        <verse osisID='2Cor.13.9'>Biz zəif, sizsə güclü olanda sevinirik. Bərpa olmanız üçün dua edirik.</verse>
+        <verse osisID='2Cor.13.10'>Bunları sizə uzaqdan yazıram ki, yanınızda olanda Rəbbin yıxmaq üçün deyil, inkişaf etdirmək üçün mənə verdiyi səlahiyyəti sərt şəkildə istifadə etməyə məcbur olmayım. </verse>
+        <verse osisID='2Cor.13.11'>Nəhayət, ey qardaşlar, sevinin. Bərpa olunun, təsəlli tapın, həmfikir olun, sülh içində ömür sürün. Məhəbbət və sülh qaynağı olan Allah sizinlə olacaq.</verse>
+        <verse osisID='2Cor.13.12'>Bir-birinizi müqəddəs öpüşlə salamlayın. Bütün müqəddəslər sizə salam göndərir.</verse>
+        <verse osisID='2Cor.13.13'>Rəbb İsa Məsihin lütfü, Allahın məhəbbəti və Müqəddəs Ruhun şərikliyi hamınıza yar olsun!  </verse>
+      </chapter>
+    </div></osisText>
+</osis>

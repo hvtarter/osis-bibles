@@ -1,0 +1,212 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace'>
+  <osisText osisRefWork='Bible' osisIDWork='CzeB21' xml:lang='cs'>
+    <header>
+      <revisionDesc>
+        <date>2010-02-26</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='CzeB21'>
+        <title>Czech Bible, Překlad 21. století</title>
+        <contributor/>
+        <creator>Mod2Zef (4)</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject/>
+        <date>2009-07-31</date>
+        <description>Bible, Překlad 21. století  vedoucí projektu Alexandr Flek  odborná spolupráce Jiří Hedánek, Pavel Hoffman, Zdeněk Sýkora  Přeloženo z hebrejštiny, aramejštiny, řečtiny  Vydání první  (c) 2009 Biblion, o. s.  www.bible21.org  www.bible21.cz   Překlad 21. století přináší nadčasové poselství Bible v současné, čtivé češtině. Usiluje o maximální věrnost původním hebrejským, aramejským a řeckým textům, zároveň však chce oslovit dnešní čtenáře, ať už jsou zvyklí čerpat z této knihy inspiraci pro každý den, anebo ji otevírají poprvé.</description>
+        <publisher/>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>CzeB21</identifier>
+        <source>no entry TextSource in sword.conf found</source>
+        <language type='IETF'>cs</language>
+        <relation/>
+        <coverage>provide the bible to the nations of the world</coverage>
+        <rights>Copyrighted; Permission to distribute granted to CrossWire</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='1Pet'>
+      <chapter osisID='1Pet.1'>
+        <verse osisID='1Pet.1.1'>Petr, apoštol Ježíše Krista, přistěhovalcům rozptýleným v Pontu, Galacii, Kappadokii, Asii a Bitynii,</verse>
+        <verse osisID='1Pet.1.2'>vyvoleným prozřetelností Boha Otce skrze posvěcení Ducha k poslušnosti a skropení krví Ježíše Krista: Milost vám a hojný pokoj.</verse>
+        <verse osisID='1Pet.1.3'>Požehnán buď Bůh a Otec našeho Pána Ježíše Krista, který nám ve svém velikém milosrdenství daroval nový život, když vzkřísil Ježíše Krista z mrtvých. Povolal nás k živé naději,</verse>
+        <verse osisID='1Pet.1.4'>k nepomíjivému, neposkvrněnému a nevadnoucímu dědictví, které vás čeká v nebi,</verse>
+        <verse osisID='1Pet.1.5'>zatímco vás Boží moc skrze víru opatruje ke spáse, která se zjeví na konci času.</verse>
+        <verse osisID='1Pet.1.6'>Proto se radujte, i kdybyste teď museli nakrátko snášet různé zkoušky.</verse>
+        <verse osisID='1Pet.1.7'>I pomíjivé zlato se přece zkouší ohněm - vaše víra je ale mnohem vzácnější, a když se ukáže její ryzost, bude vám to ke chvále, cti a slávě v den zjevení Ježíše Krista.</verse>
+        <verse osisID='1Pet.1.8'>Nikdy jste ho neviděli, a přece ho milujete. Ani teď ho ještě nevidíte, a přece v něj věříte. Radujte se tedy nevýslovnou, velkolepou radostí,</verse>
+        <verse osisID='1Pet.1.9'>protože dosahujete cíle své víry - spásy duší.</verse>
+        <verse osisID='1Pet.1.10'>Tuto spásu se pečlivě a pilně snažili vystihnout proroci, když prorokovali o milosti připravené pro vás.</verse>
+        <verse osisID='1Pet.1.11'>Pídili se po tom, na koho a na kdy jim ukazoval Kristův Duch, který byl v nich a předpovídal Mesiášovo utrpení a následnou slávu.</verse>
+        <verse osisID='1Pet.1.12'>Bylo jim zjeveno, že ne sobě, ale vám tím zprostředkují poselství, které vám teď přinesli ti, kdo vám kázali evangelium v Duchu svatém seslaném z nebe. Tyto věci by rádi zahlédli sami andělé!</verse>
+        <verse osisID='1Pet.1.13'>S odhodlanou myslí a ve vší střízlivosti se proto spolehněte na milost, kterou vám přinese zjevení Ježíše Krista.</verse>
+        <verse osisID='1Pet.1.14'>Poslouchejte Boha jako jeho děti; nepoddávejte se choutkám, které vás ovládaly v době vaší nevědomosti.</verse>
+        <verse osisID='1Pet.1.15'>Ten, který vás povolal, je svatý - právě tak buďte svatí v celém svém životě i vy.</verse>
+        <verse osisID='1Pet.1.16'>Je přece psáno: "Buďte svatí, neboť já jsem svatý."</verse>
+        <verse osisID='1Pet.1.17'>Bůh nikomu nestraní, ale každého soudí podle jeho skutků. Jestliže jej nazýváte svým Otcem, hleďte, abyste svůj dočasný pobyt zde prožili v posvátné úctě.</verse>
+        <verse osisID='1Pet.1.18'>Víte přece, čím jste byli vykoupeni ze svého marného životního způsobu, zděděného po předcích - nebylo to pomíjivými věcmi, stříbrem ani zlatem,</verse>
+        <verse osisID='1Pet.1.19'>ale vzácnou krví Kristovou! Ten byl jako beránek bez vady a poskvrny</verse>
+        <verse osisID='1Pet.1.20'>předem vybrán už před stvořením světa, ale teď na konci časů byl zjeven kvůli vám.</verse>
+        <verse osisID='1Pet.1.21'>Díky němu věříte v Boha, který ho vzkřísil z mrtvých a oslavil jej, aby tak vaše víra a naděje směřovala k Bohu.</verse>
+        <verse osisID='1Pet.1.22'>Když jste poslušností pravdě očistili své duše k nepředstírané bratrské lásce, milujte vroucně jedni druhé z čistého srdce.</verse>
+        <verse osisID='1Pet.1.23'>Nejste přece znovuzrozeni z pomíjivého semene, ale z nepomíjivého, skrze živé a trvalé Boží slovo.</verse>
+        <verse osisID='1Pet.1.24'>Vždyť: "Každý člověk je jako tráva, všechna jeho sláva jako polní květ. Usychá tráva, kvítí uvadá,</verse>
+        <verse osisID='1Pet.1.25'>slovo Hospodinovo však věky přetrvá." A to slovo je evangelium, které vám bylo zvěstováno.</verse>
+      </chapter>
+      <chapter osisID='1Pet.2'>
+        <verse osisID='1Pet.2.1'>Odhoďte proto všechnu zlobu, každou lest, pokrytectví, závist i všechno pomlouvání</verse>
+        <verse osisID='1Pet.2.2'>a jako čerství novorozenci se dožadujte neředěného mléka Božího slova, abyste jím rostli ke spáse -</verse>
+        <verse osisID='1Pet.2.3'>pokud jste ovšem okusili, jak laskavý je Pán.</verse>
+        <verse osisID='1Pet.2.4'>Když přicházíte k němu, k živému kameni zavrženému lidmi, ale vyvolenému a vzácnému před Bohem,</verse>
+        <verse osisID='1Pet.2.5'>sami se stáváte živými kameny ve stavbě duchovního chrámu a svatým kněžstvem přinášejícím duchovní oběti přijatelné před Bohem díky Ježíši Kristu.</verse>
+        <verse osisID='1Pet.2.6'>V Písmu přece stojí: "Hle, pokládám na Sionu úhelný kámen vyvolený a vzácný, a kdokoli věří v něj, se jistě nezklame."</verse>
+        <verse osisID='1Pet.2.7'>Pro vás věřící je tedy vzácný, ale pro nevěřící je to "Kámen staviteli zavržený, jenž se stal kamenem úhelným,"</verse>
+        <verse osisID='1Pet.2.8'>a také "Kámen úrazu a skála pohoršení." To platí pro ty, kdo se nad Slovem urážejí a odmítají je, což se stalo jejich údělem.</verse>
+        <verse osisID='1Pet.2.9'>Vy jste však vyvolený rod, královské kněžstvo, svatý národ, lid získaný do vlastnictví, abyste hlásali ctnosti Toho, který vás povolal ze tmy do svého podivuhodného světla.</verse>
+        <verse osisID='1Pet.2.10'>Kdysi jste ani nebyli lidem, ale teď jste lid Boží; nedocházeli jste milosrdenství, ale teď jste milosrdenství došli.</verse>
+        <verse osisID='1Pet.2.11'>Milovaní, jsme tu jen cizinci a přistěhovalci, a tak vás vyzývám: Zdržujte se tělesných žádostí, jež ohrožují duši,</verse>
+        <verse osisID='1Pet.2.12'>a veďte mezi pohany poctivý život. Místo aby vás pomlouvali jako zločince, ať raději oslavují Boha v den navštívení, protože viděli vaše dobré skutky.</verse>
+        <verse osisID='1Pet.2.13'>Kvůli Pánu se podřizujte veškerému lidskému zřízení, ať už císaři jakožto hlavě státu</verse>
+        <verse osisID='1Pet.2.14'>nebo těm, které pověřil trestat zločince a odměňovat ty, kdo jednají dobře.</verse>
+        <verse osisID='1Pet.2.15'>Vždyť Boží vůle je, abyste svým dobrým jednáním umlčovali hloupé řeči nevědomých.</verse>
+        <verse osisID='1Pet.2.16'>Žijte jako svobodní lidé, ne ovšem jako ti, kdo údajnou svobodou zastírají vlastní špatnost, ale jako Boží služebníci.</verse>
+        <verse osisID='1Pet.2.17'>Všechny ctěte, sourozence milujte, před Bohem mějte bázeň, k císaři úctu.</verse>
+        <verse osisID='1Pet.2.18'>Služebníci, s nejvyšší vážností se podřizujte svým pánům - nejenom dobrým a vlídným, ale i zlým.</verse>
+        <verse osisID='1Pet.2.19'>Když někdo nevinně trpí kvůli zbožnému svědomí, zaslouží si chválu.</verse>
+        <verse osisID='1Pet.2.20'>Co je ale záslužného na tom, když budete biti za vlastní chyby? Trpíte-li ovšem kvůli dobrým činům, je to před Bohem vzácné.</verse>
+        <verse osisID='1Pet.2.21'>Vždyť právě k tomu vás povolal! Sám Kristus trpěl za vás, a tak vám dal příklad, abyste šli v jeho šlépějích:</verse>
+        <verse osisID='1Pet.2.22'>"On se nikdy nedopustil hříchu a v ústech neměl žádnou lest."</verse>
+        <verse osisID='1Pet.2.23'>Když ho uráželi, neodpovídal, když trpěl, nehrozil, ale ponechával vše Tomu, který soudí spravedlivě.</verse>
+        <verse osisID='1Pet.2.24'>On sám na svém těle vzal naše hříchy na kříž, abychom zemřeli hříchům a ožili spravedlnosti. Jeho rány vás uzdravily!</verse>
+        <verse osisID='1Pet.2.25'>Byli jste přece jako bloudící ovce, ale teď jste se vrátili k Pastýři a Strážci svých duší.</verse>
+      </chapter>
+      <chapter osisID='1Pet.3'>
+        <verse osisID='1Pet.3.1'>Vy, ženy, se podřizujte svým manželům. Někteří z nich odmítají Slovo, ale mohou být získáni beze slov jednáním svých žen,</verse>
+        <verse osisID='1Pet.3.2'>když uvidí, jak čistý a uctivý život vedete.</verse>
+        <verse osisID='1Pet.3.3'>Vaše krása nespočívá ve vnějších věcech - v okázalých účesech, zlatých špercích a nádherných šatech -</verse>
+        <verse osisID='1Pet.3.4'>ale ve vašem srdci. Ozdobte své nitro nepomíjivou krásou krotkého a pokojného ducha, který je před Bohem velmi vzácný.</verse>
+        <verse osisID='1Pet.3.5'>Tuto krásu mívaly kdysi ony svaté ženy, které doufaly v Boha. Podřizovaly se svým manželům,</verse>
+        <verse osisID='1Pet.3.6'>tak jako Sára poslouchala Abrahama a mluvila o něm jako o svém pánu. I vy jste jejími dcerami, když jednáte dobře a nedáte se ničím zastrašit.</verse>
+        <verse osisID='1Pet.3.7'>A vy, muži, mějte ke svým manželkám porozumění. Prokazujte jim úctu jakožto slabšímu pohlaví a jako spoludědičkám daru života, aby vašim modlitbám nestálo nic v cestě.</verse>
+        <verse osisID='1Pet.3.8'>Konečně, buďte všichni svorní, soucitní, plní bratrské lásky, milosrdní a skromní.</verse>
+        <verse osisID='1Pet.3.9'>Neodplácejte zlo zlem ani zlořečení zlořečením, ale naopak žehnejte. K tomu jste přece povoláni a za to máte obdržet požehnání.</verse>
+        <verse osisID='1Pet.3.10'>Vždyť: "Chce někdo prožít šťastný život, chce někdo okusit dobré dny? Takový ať chrání svůj jazyk před zlem, v jeho ústech ať není žádná lest.</verse>
+        <verse osisID='1Pet.3.11'>Ať odmítá zlo a koná dobro, usiluje o pokoj a nechá se jím vést.</verse>
+        <verse osisID='1Pet.3.12'>Hospodinovy oči hledí ke spravedlivým, uši naklání k jejich modlitbám, Hospodinova tvář je ale obrácená proti pachatelům zla."</verse>
+        <verse osisID='1Pet.3.13'>Kdo by vám ublížil, když budete horlivě konat dobro?</verse>
+        <verse osisID='1Pet.3.14'>I kdybyste však měli pro spravedlnost trpět, blaze vám. "Nemějte strach z toho, čím vás straší, nenechte se tím vylekat."</verse>
+        <verse osisID='1Pet.3.15'>Zasvěťte svá srdce Pánu Kristu a buďte připraveni podat odpověď každému, kdo se vás zeptá na důvod vaší naděje.</verse>
+        <verse osisID='1Pet.3.16'>Vždy ovšem s vlídností a úctou a s dobrým svědomím, aby se ti, kdo vás pomlouvají, zastyděli, že napadali váš poctivý život v Kristu.</verse>
+        <verse osisID='1Pet.3.17'>Je-li však Boží vůlí, abyste trpěli, je lepší trpět za dobré činy nežli za zlé.</verse>
+        <verse osisID='1Pet.3.18'>Vždyť i Kristus, sám spravedlivý, jednou trpěl za hříchy nespravedlivých, aby vás přivedl k Bohu. V těle podstoupil smrt, ale v Duchu dostal život.</verse>
+        <verse osisID='1Pet.3.19'>Tehdy přišel kázat duchům v žaláři -</verse>
+        <verse osisID='1Pet.3.20'>těm, kteří kdysi za Noemových dnů nechtěli uposlechnout, zatímco Bůh trpělivě čekal, než se postaví archa, v níž se skrze vodu zachránilo jen několik (totiž osm) duší.</verse>
+        <verse osisID='1Pet.3.21'>Naplněním tohoto předobrazu je křest, který nám teď přináší záchranu - nejde o omytí tělesné špíny, ale o závazek dobrého svědomí před Bohem - skrze vzkříšení Ježíše Krista,</verse>
+        <verse osisID='1Pet.3.22'>který odešel do nebe a je po Boží pravici, kde jsou mu poddáni andělé, vlády i moci.</verse>
+      </chapter>
+      <chapter osisID='1Pet.4'>
+        <verse osisID='1Pet.4.1'>I Kristus podstoupil tělesné utrpení, a tak se stejným odhodláním vyzbrojte i vy. Kdo trpěl na těle, skoncoval s hříchem,</verse>
+        <verse osisID='1Pet.4.2'>takže zbytek svého života v těle už nevěnuje lidským tužbám, ale Boží vůli.</verse>
+        <verse osisID='1Pet.4.3'>Už máme dost toho marnění času, v jakém si libují pohané: života v nestydatých vášních, v opilství, obžerství, v pitkách a v nechutné modloslužbě.</verse>
+        <verse osisID='1Pet.4.4'>Když už se s nimi nevrháte do bezbřehé prostopášnosti, je jim to divné a pomlouvají vás.</verse>
+        <verse osisID='1Pet.4.5'>Jednou však musí složit účty Tomu, který je připraven soudit živé i mrtvé.</verse>
+        <verse osisID='1Pet.4.6'>Proto bylo evangelium zvěstováno i těm, kdo jsou už mrtví - ačkoli byli jako lidé v těle odsouzeni, v Duchu jsou živí u Boha.</verse>
+        <verse osisID='1Pet.4.7'>Všemu nadešel konec. Proto se vzpamatujte a probuďte se k modlitbám,</verse>
+        <verse osisID='1Pet.4.8'>především si ale zachovejte vzájemnou lásku, vždyť "láska přikryje množství hříchů."</verse>
+        <verse osisID='1Pet.4.9'>Projevujte si navzájem pohostinnost se vší ochotou.</verse>
+        <verse osisID='1Pet.4.10'>Každý z vás dostal nějaký dar, a tak si jimi navzájem služte jako dobří správci rozmanité Boží milosti.</verse>
+        <verse osisID='1Pet.4.11'>Když někdo mluví, ať jsou to Boží slova; když někdo slouží, ať je to v síle, kterou dává Bůh, aby byl Bůh vždy oslavován skrze Ježíše Krista, jemuž patří sláva i moc na věky věků! Amen.</verse>
+        <verse osisID='1Pet.4.12'>Milovaní, nedivte se té zkoušce ohněm, jež na vás přišla - není to přece nic divného.</verse>
+        <verse osisID='1Pet.4.13'>Spíše se radujte, že máte podíl na Kristově utrpení, vždyť až se zjeví jeho sláva, budete jásat radostí!</verse>
+        <verse osisID='1Pet.4.14'>Když nesete urážky pro Kristovo jméno, blaze vám, neboť na vás spočívá Duch slávy, Duch Boží.</verse>
+        <verse osisID='1Pet.4.15'>Ať nikdo z vás netrpí jako vrah, zloděj, zločinec nebo udavač.</verse>
+        <verse osisID='1Pet.4.16'>Trpí-li však jako křesťan, ať se za to nestydí, ale chválí za to jméno Boha.</verse>
+        <verse osisID='1Pet.4.17'>Přišel čas soudu a první na řadě je Boží dům. Je-li to, co se děje nám, teprve začátek, jaký konec čeká ty, kdo odmítají Boží evangelium?</verse>
+        <verse osisID='1Pet.4.18'>"Je-li spravedlivý stěží spasen, co bude s bezbožným a hříšníkem?"</verse>
+        <verse osisID='1Pet.4.19'>Ať proto ti, kdo trpí podle Boží vůle, svěřují své duše věrnému Stvořiteli a pokračují v dobrém jednání.</verse>
+      </chapter>
+      <chapter osisID='1Pet.5'>
+        <verse osisID='1Pet.5.1'>Starší mezi vámi prosím jako váš spolustarší, svědek Kristových utrpení a účastník slávy, která bude zjevena:</verse>
+        <verse osisID='1Pet.5.2'>Paste Boží stádo, které je u vás, a bděte nad ním - ne z povinnosti, ale dobrovolně, jak se to Bohu líbí, ne kvůli prospěchu, ale nezištně.</verse>
+        <verse osisID='1Pet.5.3'>Nepanujte nad svěřeným stádem, ale jděte mu příkladem,</verse>
+        <verse osisID='1Pet.5.4'>abyste, až se ukáže ten nejvyšší Pastýř, přijali nevadnoucí věnec slávy.</verse>
+        <verse osisID='1Pet.5.5'>Vy, mladší, se podřizujte starším a všichni se oblékněte pokorou vůči sobě navzájem, vždyť "Bůh se staví proti pyšným, pokorné ale zahrne milostí."</verse>
+        <verse osisID='1Pet.5.6'>Pokořte se tedy pod mocnou Boží ruku, a on vás v pravý čas povýší.</verse>
+        <verse osisID='1Pet.5.7'>Všechnu svou starost svěřte jemu, vždyť jemu na vás záleží.</verse>
+        <verse osisID='1Pet.5.8'>Probuďte se, mějte se na pozoru! Váš protivník ďábel chodí kolem jako řvoucí lev a hledá kořist.</verse>
+        <verse osisID='1Pet.5.9'>Postavte se mu jakožto silní ve víře a vězte, že stejné utrpení zakoušejí vaši bratři po celém světě.</verse>
+        <verse osisID='1Pet.5.10'>Když projdete tímto krátkým utrpením, Bůh veškeré milosti, který vás v Kristu Ježíši povolal do své věčné slávy, vás obnoví, upevní, posílí a ukotví.</verse>
+        <verse osisID='1Pet.5.11'>Jemu náleží moc navěky! Amen.</verse>
+        <verse osisID='1Pet.5.12'>S pomocí Silvana, kterého považuji za věrného bratra, jsem vám napsal tento krátký list, abych vás povzbudil a ujistil vás, že toto je pravá Boží milost. Stůjte v ní pevně.</verse>
+        <verse osisID='1Pet.5.13'>Pozdravuje vás vaše spoluvyvolená církev v Babylonu a Marek, můj syn.</verse>
+        <verse osisID='1Pet.5.14'>Pozdravte se navzájem polibkem lásky. Pokoj vám všem, kdo jste v Kristu.</verse>
+      </chapter>
+    </div></osisText>
+</osis>

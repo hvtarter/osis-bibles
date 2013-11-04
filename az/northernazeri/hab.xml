@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace'>
+  <osisText osisIDWork='NorthernAzeri' osisRefWork='Bible' xml:lang='az'>
+    <header>
+      <revisionDesc>
+        <date>2012-01-07</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='NorthernAzeri'>
+        <title>Northern Azeri Translation</title>
+        <contributor/>
+        <creator>Mod2Zef (6)</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject/>
+        <date>2012-01-07</date>
+        <description>Northern Azeri Translation</description>
+        <publisher/>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>NorthernAzeri</identifier>
+        <source>no entry TextSource in sword.conf found</source>
+        <language type='IETF'>az</language>
+        <relation/>
+        <coverage>provide the bible to the nations of the world</coverage>
+        <rights>Copyrighted Kutsul Kitab; Permission to distribute granted to CrossWire</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='Hab'>
+      <chapter osisID='Hab.1'>
+        <verse osisID='Hab.1.1'>Habaqquq peyğəmbərə görüntü ilə nazil olan xəbərdarlıq. </verse>
+        <verse osisID='Hab.1.2'>Ya Rəbb, nə vaxta qədər Səni imdada çağıracağam?Sənsə eşitmirsən.«Zorakılıq var!» deyə Sənə fəryad edirəm,Lakin bizi qurtarmırsan.</verse>
+        <verse osisID='Hab.1.3'>Niyə mənə şər göstərirsən,Özün də haqsızlığa baxırsan?Hara nəzər salsam,Orada soyğunçuluq və zorakılıq var,Davaların, çəkişmələrin sonu yoxdur.</verse>
+        <verse osisID='Hab.1.4'>Buna görə qanun qüvvədən düşdü,Ədalətə üstünlük verilmir.Pis adamlar salehləri dövrəyə alır,Ona görə ədalət təhrif olunur.</verse>
+        <verse osisID='Hab.1.5'>Baxın o biri millətlərə,Gördüklərinizə təəccüblənərək mat qalın.Sizin vaxtınızda elə işlər görəcəyəm ki,Bunu sizə danışsalar, inanmazsınız.</verse>
+        <verse osisID='Hab.1.6'>Budur, Mən amansız və qəddar milləti –Dünyanın dörd tərəfinə yüyürən,Özgə məskənləri zəbt edənXaldeyliləri qaldırıram.</verse>
+        <verse osisID='Hab.1.7'>Onlar dəhşətli və qorxuncdur,Ədalət və şərəf yalnız onlar deyəndir.</verse>
+        <verse osisID='Hab.1.8'>Atları bəbirdən çevik,Özləri isə ac qurddan daha azğındır,Süvariləri yeri deşərək uzaqdan gəlir,Şikarını yeməyə cuman qartal kimi şığıyır.</verse>
+        <verse osisID='Hab.1.9'>Onların hamısı zorakılıq üçün gəlir,Hamısı bir nəfər kimi irəliyə üz tutur,Əsirləri qum kimi yığırlar.</verse>
+        <verse osisID='Hab.1.10'>Padşahlara rişxənd edirlər,Hökmdarlara gülürlər.Hər qalalı şəhərə lağ edirlər,Oraya torpaq qalağı töküb ələ keçirirlər.</verse>
+        <verse osisID='Hab.1.11'>Onlar yel kimi keçib-gedir.Qüvvələrini özlərinə allah edən bu adamlarTəqsirkar sayılacaq.</verse>
+        <verse osisID='Hab.1.12'>Əzəldən bəri var olan Sən deyilsənmi?Ya Rəbb, Allahım, Müqəddəs Olanım,Biz ölməyəcəyik.Ya Rəbb, məhkum etmək üçün onları təyin etdin.Ey Qayamız, bizi cəzalandırma hökmünü onlara verdin.</verse>
+        <verse osisID='Hab.1.13'>Sənin gözlərin çox təmizdir,Şəri görən gözün yoxdur,Pis əməllərə dözə bilmirsən.Bəs xəyanətkarlara necə baxa bilirsən?Pis özündən daha salehin başını yeyəndəAxı niyə susursan?</verse>
+        <verse osisID='Hab.1.14'>Sən insanları sanki dəniz balıqlarına,Başçıları olmayan sürünən canlılara çevirdin.</verse>
+        <verse osisID='Hab.1.15'>O onların hamısını qarmaqla çəkir,Torla çıxarır, ağlarına yığır,Buna sevinib-şadlanır.</verse>
+        <verse osisID='Hab.1.16'>Buna görə torları üçün qurban kəsir,Ağları üçün buxur yandırır,Axı o bu torlarlaBol və ləzzətli yemək əldə edir.</verse>
+        <verse osisID='Hab.1.17'>Torunu durmadan boşaltmağa,Millətləri amansızcasına qırmağa davam edəcəkmi?</verse>
+      </chapter>
+      <chapter osisID='Hab.2'>
+        <verse osisID='Hab.2.1'>Keşiyimdə duracağam,Gözətçi qülləsində dayanacağam.Baxım Rəbb mənə nə deyəcək,Görüm şikayətlərimə nə cavab verəcək?</verse>
+        <verse osisID='Hab.2.2'>Rəbb mənə belə cavab verdi:«Görüntünü yaz, lövhələrdə açıqla ki,Qoy hər kəs tez onu oxuya bilsin.</verse>
+        <verse osisID='Hab.2.3'>Çünki bu görüntü müəyyən vaxt üçündür,Başa çatmağa tələsir və yalan deyil.Gecikmiş kimi görünsə də, gözləyin,Hökmən gələcək, gecikməyəcək.</verse>
+        <verse osisID='Hab.2.4'>Bax, bu adam məğrurdur, köksündəki ürəyi düz deyil,Amma saleh adam imanı ilə yaşayacaq.</verse>
+        <verse osisID='Hab.2.5'>Həm də bu məğruru şərab aldadır,Bu təkəbbürlü adam sakit durmaz,Acgözlüyünü ölülər diyarı kimi genişləndirir,Ölüm kimi heç doymaz.Bütün millətləri özü üçün toplayar,Bütün xalqları özü üçün əsir alar.</verse>
+        <verse osisID='Hab.2.6'>Amma bütün bu əsir alınanlarOnu lağa qoyacaqlar,İstehzalı müəmmalarla deyəcəklər:“Özünə aid olmayanı ələ keçirənin,Xərac alıb varlananın vay halına!Bu nə vaxta qədər davam edəcək?”</verse>
+        <verse osisID='Hab.2.7'>Sənə xərac verənlər bir günQəflətən qiyam etməzmi?Oyanıb sizi qorxutmazmı?Budur, o vaxt onlara qənimət olacaqsan.</verse>
+        <verse osisID='Hab.2.8'>Bir çox milləti soyduğun üçünXalqlardan sağ qalanlar səni də soyacaq.Çünki insan qanı tökdün,Ölkələrə və şəhərlərə,Orada yaşayan hər kəsə zorakılıq etdin.</verse>
+        <verse osisID='Hab.2.9'>Evini haram qazancla dolduranın,Fəlakətdən qaçmaq üçünYuvasını yüksək yerdə quranın vay halına!</verse>
+        <verse osisID='Hab.2.10'>Sən çox xalqları qırmaqlaÖz evini rüsvay etdin,Öz həyatına günah gətirdin!</verse>
+        <verse osisID='Hab.2.11'>Belə ki divar daşları bu barədə fəryad qoparacaq,Taxta tirlər əks-səda verəcək!</verse>
+        <verse osisID='Hab.2.12'>Şəhəri qanlarla tikənin,Kəndi haqsızlıqla quranın vay halına!</verse>
+        <verse osisID='Hab.2.13'>Xalqlar odda yandırılmaq üçün zəhmət çəkir,Ümmətlər boş yerə özünü yorur.Bu, Ordular Rəbbindən deyilmi?</verse>
+        <verse osisID='Hab.2.14'>Çünki sular dənizi bürüdüyü kimiDünya Rəbbin izzətinin biliyi ilə doldurulacaq.</verse>
+        <verse osisID='Hab.2.15'>Qonşuların çılpaq bədənlərinə tamaşa etmək üçünOnlara şərab içirdib sərxoş edənin,İçkiyə zəhrimar qatanın vay halına!</verse>
+        <verse osisID='Hab.2.16'>Hörmət əvəzinə xəcalətlə doyacaqsan,Sən də iç, çılpaqlığını göstər;Rəbbin sağ əlindəki camSənin üzərində fırlanacaq.Rüsvayçılıq hörmətin üzərinə gələcək.</verse>
+        <verse osisID='Hab.2.17'>Livanda etdiyin zorakılıq öz başına gələcək,Heyvanların qırğını səni dəhşətə gətirəcək;Çünki insan qanı tökdün,Ölkələrə və şəhərlərə,Orada yaşayan hər kəsə zorakılıq etdin.</verse>
+        <verse osisID='Hab.2.18'>Sənətkarın oyduğu yonma ya tökmə bütünYalan öyrətməkdən başqa nə xeyri var?Bütü düzəldən sənətkar öz işinə güvənir,Amma onun düzəltdiyiDilsiz bütdən başqa nədir ki?</verse>
+        <verse osisID='Hab.2.19'>Taxtaya “Oyan!”, dilsiz daşa “Qalx!”Deyən insanın vay halına!Büt yol göstərə bilərmi?Budur o, qızılla, gümüşlə örtülüb,Daxilində isə həyat nəfəsi yoxdur.</verse>
+        <verse osisID='Hab.2.20'>Lakin Rəbb müqəddəs məbədindədir,Qoy bütün dünya Onun önündə sussun!»</verse>
+      </chapter>
+      <chapter osisID='Hab.3'>
+        <verse osisID='Hab.3.1'>Peyğəmbər Habaqququn duası,Şiqqayonlar  kökü üstündə.</verse>
+        <verse osisID='Hab.3.2'>Ya Rəbb, Sənin şöhrətin haqqında eşitdim,Ya Rəbb, gördüyün işlərə görə qorxdum.Bizim vaxtımızda da eyni işlər gör,Bizim dövrümüzdə bunları bildir!Qəzəblənəndə mərhəmətini xatırla!</verse>
+        <verse osisID='Hab.3.3'>Allah Temandan,Müqəddəs Olan Paran dağından gəldi.SelaEhtişamı göyü bürüdü,Yer üzü Ona edilən həmd-sənalarla doldu.</verse>
+        <verse osisID='Hab.3.4'>Cah-calalı günəş tək parıldayır,Əlindən nur tökülür,Qüdrəti əlində gizli saxlanılıb.</verse>
+        <verse osisID='Hab.3.5'>Vəba Onun önündə gedir,Ölümcül xəstəlik arxasınca gəlir.</verse>
+        <verse osisID='Hab.3.6'>O durdu, yeri tərpətdi,Baxdı, millətləri sarsıtdı,Qədim dağlar dağıldı,Əzəldən qalan təpələr ona baş əydi.Allahın yolu əbədidir.</verse>
+        <verse osisID='Hab.3.7'>Gördüm ki, Kuşan çadırları əziyyət altındadır,Midyan çadırlarının pərdələri lərzəyə gəldi.</verse>
+        <verse osisID='Hab.3.8'>Ya Rəbb, məgər SənÇaylara qarşı qəzəblənmisən?Acığın irmaqlara qarşıdırmı?Yoxsa dənizə qarşı hiddətlənmisən?Axı atlarına, müzəffər döyüş arabalarına minmisən?</verse>
+        <verse osisID='Hab.3.9'>Yayını açdın,Oxdanını oxlarla doldurdun.SelaYer üzünü çaylarla yardın.</verse>
+        <verse osisID='Hab.3.10'>Səni görüb dağlar lərzəyə gəldi,Sellər hər yanı süpürüb axdı,Dərinliklər gurladı, dalğalar qalxdı.</verse>
+        <verse osisID='Hab.3.11'>Uçan oxlarının qığılcımından,İşıldayan nizənin parıltısındanGünəş və ay yerlərində durdu.</verse>
+        <verse osisID='Hab.3.12'>Yer üzündə qəzəb içində gəzdin,Millətləri hiddətlə tapdaladın.</verse>
+        <verse osisID='Hab.3.13'>Sən Öz xalqının qurtulması üçün,Məsh etdiyinin xilası üçün çıxdın,Şər nəslin başçısını əzdin,Təpədən dırnağa qədər onu soydun.Sela</verse>
+        <verse osisID='Hab.3.14'>Cəngavərləri fırtına təkBizi dağıtmağa gələndəOnların başını öz nizələri ilə deşdin.Onlar gizlənən zavallılarıMəhv edənlər kimi sevinərdi.</verse>
+        <verse osisID='Hab.3.15'>Sən Öz atlarınla dənizi tapdaladın,Coşğun suları köpüklətdin.</verse>
+        <verse osisID='Hab.3.16'>Eşitdim və varlığım lərzəyə gəldi,Səsindən dodaqlarım əsdi.Çürüklük sümüklərimə girdi,Dizlərim titrədi.Amma bizə hücum edən xalqınFəlakətə düşdüyü günü səbirlə gözləyəcəyəm.</verse>
+        <verse osisID='Hab.3.17'>Əncir ağacı tumurcuqlanmasa da,Meynələr bar gətirməsə də,Zeytun ağaclarına çəkdiyim zəhmət boşa çıxsa da,Tarlalar məhsul yetişdirməsə də,Qoyun-keçi ağıllarda,Mal-qara tövlələrdə yox olsa da,</verse>
+        <verse osisID='Hab.3.18'>Mən yenə Rəbdə sevinc tapacağam.Xilasımın Allahı ilə şadlıqdan coşacağam!</verse>
+        <verse osisID='Hab.3.19'>Xudavənd Rəbb mənim qüvvətimdir,Ayaqlarımı marallar kimi çevik edir,Zirvələrimdə məni gəzdirir.  Musiqi rəhbəri üçün: simli alətlərin müşayiəti ilə.</verse>
+      </chapter>
+    </div></osisText>
+</osis>

@@ -1,0 +1,222 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace'>
+  <osisText osisRefWork='Bible' osisIDWork='CzeB21' xml:lang='cs'>
+    <header>
+      <revisionDesc>
+        <date>2010-02-26</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='CzeB21'>
+        <title>Czech Bible, Překlad 21. století</title>
+        <contributor/>
+        <creator>Mod2Zef (4)</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject/>
+        <date>2009-07-31</date>
+        <description>Bible, Překlad 21. století  vedoucí projektu Alexandr Flek  odborná spolupráce Jiří Hedánek, Pavel Hoffman, Zdeněk Sýkora  Přeloženo z hebrejštiny, aramejštiny, řečtiny  Vydání první  (c) 2009 Biblion, o. s.  www.bible21.org  www.bible21.cz   Překlad 21. století přináší nadčasové poselství Bible v současné, čtivé češtině. Usiluje o maximální věrnost původním hebrejským, aramejským a řeckým textům, zároveň však chce oslovit dnešní čtenáře, ať už jsou zvyklí čerpat z této knihy inspiraci pro každý den, anebo ji otevírají poprvé.</description>
+        <publisher/>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>CzeB21</identifier>
+        <source>no entry TextSource in sword.conf found</source>
+        <language type='IETF'>cs</language>
+        <relation/>
+        <coverage>provide the bible to the nations of the world</coverage>
+        <rights>Copyrighted; Permission to distribute granted to CrossWire</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='1Tim'>
+      <chapter osisID='1Tim.1'>
+        <verse osisID='1Tim.1.1'>Pavel, apoštol Krista Ježíše z pověření Boha, našeho Spasitele, a Krista Ježíše, naší naděje,</verse>
+        <verse osisID='1Tim.1.2'>Timoteovi, vlastnímu synu ve víře: Milost, milosrdenství a pokoj od Boha Otce a od Krista Ježíše, našeho Pána.</verse>
+        <verse osisID='1Tim.1.3'>Jak jsem tě už prosil cestou do Makedonie, zůstaň v Efesu a zakaž jistým lidem šířit odlišná učení.</verse>
+        <verse osisID='1Tim.1.4'>Ať už se přestanou zabývat bájemi a nekonečnými rodokmeny, které vedou jen k dohadování namísto naplňování Božího záměru ve víře.</verse>
+        <verse osisID='1Tim.1.5'>Cílem přikázání je přece láska z čistého srdce, z dobrého svědomí a z upřímné víry.</verse>
+        <verse osisID='1Tim.1.6'>Někteří ale z této cesty zbloudili a uchýlili se k prázdnému tlachání.</verse>
+        <verse osisID='1Tim.1.7'>Chtěli by být učiteli Zákona, přitom ale vůbec nechápou, co říkají ani na čem trvají.</verse>
+        <verse osisID='1Tim.1.8'>Víme, že Zákon je dobrý, pokud se dobře užívá.</verse>
+        <verse osisID='1Tim.1.9'>Je třeba mít na paměti, že Zákon není určen pro spravedlivého. Vztahuje se na zločince a buřiče, na bezbožné a hříšné, na bezvěrce, na ty, kterým není nic svaté, na otcovrahy, matkovrahy a vrahy vůbec,</verse>
+        <verse osisID='1Tim.1.10'>na smilníky, zvrhlíky, obchodníky s lidmi, na lháře, křivopřísežníky a na všechno ostatní, co je v rozporu se zdravým učením</verse>
+        <verse osisID='1Tim.1.11'>podle slavného evangelia požehnaného Boha, které mi bylo svěřeno.</verse>
+        <verse osisID='1Tim.1.12'>Jsem vděčný Tomu, který mě zmocnil - Kristu Ježíši, našemu Pánu - že mě poctil tou výsadou, abych mu mohl sloužit.</verse>
+        <verse osisID='1Tim.1.13'>Předtím jsem byl rouhač, pronásledovatel a tyran, ale Bůh se nade mnou smiloval, neboť jsem ve své nevíře nevěděl, co dělám.</verse>
+        <verse osisID='1Tim.1.14'>Náš Pán mě pak ve své nesmírné milosti zahrnul vírou a láskou, která je v Kristu Ježíši.</verse>
+        <verse osisID='1Tim.1.15'>Je to jistá pravda - kéž by ji každý přijal: Kristus Ježíš přišel na svět, aby spasil hříšníky. Já jsem z nich nejhorší,</verse>
+        <verse osisID='1Tim.1.16'>ale proto se nade mnou Bůh smiloval, aby Kristus Ježíš na mně nejhorším ukázal svou bezmeznou trpělivost pro příklad těm, kdo v něho mají uvěřit k věčnému životu.</verse>
+        <verse osisID='1Tim.1.17'>Králi věků, nesmrtelnému, neviditelnému, jedinému Bohu buď čest a sláva na věky věků! Amen.</verse>
+        <verse osisID='1Tim.1.18'>Timoteji, synu, dávám ti tyto pokyny v souladu s proroctvími, jež o tobě zazněla. S jejich pomocí bojuj dobrý boj;</verse>
+        <verse osisID='1Tim.1.19'>uchovej si víru a dobré svědomí, které někteří zahodili, a proto ztroskotali ve víře.</verse>
+        <verse osisID='1Tim.1.20'>Mezi nimi je i Hymenaios a Alexandr, které jsem vydal satanovi, aby se odnaučili rouhat.</verse>
+      </chapter>
+      <chapter osisID='1Tim.2'>
+        <verse osisID='1Tim.2.1'>Především prosím, aby se konaly prosby, modlitby, přímluvy a díkůvzdání za všechny lidi,</verse>
+        <verse osisID='1Tim.2.2'>za krále i za všechny vysoko postavené, abychom mohli vést klidný a pokojný život ve vší zbožnosti a počestnosti.</verse>
+        <verse osisID='1Tim.2.3'>Tak je to správné a milé našemu Spasiteli Bohu,</verse>
+        <verse osisID='1Tim.2.4'>který chce, aby všichni lidé byli spaseni a došli k poznání pravdy.</verse>
+        <verse osisID='1Tim.2.5'>Je přece jediný Bůh a jediný prostředník mezi Bohem a lidmi, člověk Kristus Ježíš,</verse>
+        <verse osisID='1Tim.2.6'>který dal sám sebe jako výkupné za všechny lidi. Toto svědectví přišlo v pravý čas,</verse>
+        <verse osisID='1Tim.2.7'>a právě proto jsem byl určen za kazatele a apoštola (říkám pravdu, nelžu), za učitele pohanů ve víře a pravdě.</verse>
+        <verse osisID='1Tim.2.8'>Kdekoli se sejdete k modlitbě, chci, aby muži zvedali ruce ve svatosti, bez hněvu a dohadování.</verse>
+        <verse osisID='1Tim.2.9'>Pokud jde o ženy, ať se zdobí upraveným oděvem, cudně a rozumně, ne nápadnými účesy, zlatem, perlami nebo drahými róbami,</verse>
+        <verse osisID='1Tim.2.10'>ale dobrými skutky, jak se sluší na ženy, které se hlásí ke zbožnosti.</verse>
+        <verse osisID='1Tim.2.11'>Žena ať přijímá vyučování tiše a s veškerou poslušností.</verse>
+        <verse osisID='1Tim.2.12'>Nestrpím, aby žena poučovala nebo sekýrovala manžela. Ať je raději tiše,</verse>
+        <verse osisID='1Tim.2.13'>vždyť první byl stvořen Adam, teprve potom Eva.</verse>
+        <verse osisID='1Tim.2.14'>A nebyl to Adam, kdo se nechal svést, ale jeho žena byla svedena a padla do hříchu.</verse>
+        <verse osisID='1Tim.2.15'>V jejím mateřství je ovšem záchrana - její i všech těch, kdo vedou rozumný život ve víře, lásce a svatosti.</verse>
+      </chapter>
+      <chapter osisID='1Tim.3'>
+        <verse osisID='1Tim.3.1'>Je pravda, že kdo chce spravovat církev, má zájem o krásnou práci.</verse>
+        <verse osisID='1Tim.3.2'>Správce však musí být bezúhonný: věrný manžel, střídmý, rozvážný, pořádný, pohostinný a schopný učit.</verse>
+        <verse osisID='1Tim.3.3'>Nesmí to být opilec ani hrubián, ale vlídný, snášenlivý a nezištný člověk,</verse>
+        <verse osisID='1Tim.3.4'>který se dobře stará o rodinu a má poslušné a dobře vychované děti.</verse>
+        <verse osisID='1Tim.3.5'>(Když se někdo neumí postarat o vlastní rodinu, jak by mohl pečovat o Boží církev?)</verse>
+        <verse osisID='1Tim.3.6'>Nesmí to být nováček, aby nadut pýchou neupadl do ďáblova odsouzení.</verse>
+        <verse osisID='1Tim.3.7'>Musí mít dobrou pověst i mimo církev, aby neupadl do pomluv a do ďáblovy pasti.</verse>
+        <verse osisID='1Tim.3.8'>Služebníci v církvi ať jsou právě tak ušlechtilí: žádní pokrytci, opilci nebo prospěcháři,</verse>
+        <verse osisID='1Tim.3.9'>ale lidé, jejichž tajemství víry je v čistém svědomí.</verse>
+        <verse osisID='1Tim.3.10'>Ať jsou také nejdříve vyzkoušeni, a když se osvědčí, ať potom slouží.</verse>
+        <verse osisID='1Tim.3.11'>Jejich ženy ať jsou právě tak ušlechtilé, ne klevetivé, ale střídmé a naprosto věrné.</verse>
+        <verse osisID='1Tim.3.12'>Služebníci musí být věrní manželé, kteří se dobře starají o své děti a rodiny.</verse>
+        <verse osisID='1Tim.3.13'>Ti, kdo se ve službě osvědčí, totiž získávají dobré postavení a významný hlas, pokud jde o víru v Krista Ježíše.</verse>
+        <verse osisID='1Tim.3.14'>Toto ti píšu v naději, že k tobě brzy přijdu.</verse>
+        <verse osisID='1Tim.3.15'>Kdybych se ale zdržel, chci, abys věděl, jak je třeba si počínat v Božím domě, což je církev živého Boha, pilíř a základna pravdy.</verse>
+        <verse osisID='1Tim.3.16'>Tajemství zbožnosti je bezesporu veliké: On byl zjeven v těle, ospravedlněn v Duchu, ukázán andělům, zvěstován pohanům, vírou přijat ve světě a vyzvednut do slávy.</verse>
+      </chapter>
+      <chapter osisID='1Tim.4'>
+        <verse osisID='1Tim.4.1'>Duch říká jasně, že v posledních časech někteří lidé opustí víru, aby následovali bludné duchy a démonické nauky.</verse>
+        <verse osisID='1Tim.4.2'>Prolhaní pokrytci s cejchovaným svědomím</verse>
+        <verse osisID='1Tim.4.3'>budou lidi zrazovat od manželství a zakazovat jim jíst, co Bůh stvořil. Ti, kdo věří a znají pravdu, to však mají požívat s vděčností,</verse>
+        <verse osisID='1Tim.4.4'>neboť vše, co Bůh stvořil, je dobré a nic, co se přijímá s díkůvzdáním, není třeba odmítat;</verse>
+        <verse osisID='1Tim.4.5'>posvěcuje se to Božím slovem a modlitbou.</verse>
+        <verse osisID='1Tim.4.6'>Když budeš tyto věci připomínat sourozencům, budeš dobrý služebník Krista Ježíše, odkojený slovy víry a správného učení, které sis osvojil.</verse>
+        <verse osisID='1Tim.4.7'>Světské babské báje odmítej a raději se cvič ve zbožnosti.</verse>
+        <verse osisID='1Tim.4.8'>Tělesné cvičení má skrovný užitek, ale zbožnost je užitečná v každém ohledu, neboť má zaslíbení nynějšího života i toho budoucího.</verse>
+        <verse osisID='1Tim.4.9'>Kéž by každý přijal tuto pravdu.</verse>
+        <verse osisID='1Tim.4.10'>Proto se tak namáháme a svádíme takový boj, že máme naději v živém Bohu, který je Spasitelem všech lidí, a zvláště věřících.</verse>
+        <verse osisID='1Tim.4.11'>To jim předávej a uč.</verse>
+        <verse osisID='1Tim.4.12'>Nikdo ať tě nepodceňuje pro tvé mládí. Naopak, buď pro věřící příkladem ve slovu i skutku, v lásce, víře a čistotě.</verse>
+        <verse osisID='1Tim.4.13'>Než přijdu, věnuj se předčítání, kázání a vyučování.</verse>
+        <verse osisID='1Tim.4.14'>Nezanedbávej dar, který je v tobě; byl ti dán skrze proroctví a vkládání rukou staršovstva.</verse>
+        <verse osisID='1Tim.4.15'>O tom přemýšlej, v tom zůstávej, a všichni uvidí, jak rosteš.</verse>
+        <verse osisID='1Tim.4.16'>Všímej si sebe a svého učení. Pokračuj v tom, a tvá vytrvalost přinese spásu tobě i těm, kdo tě poslouchají.</verse>
+      </chapter>
+      <chapter osisID='1Tim.5'>
+        <verse osisID='1Tim.5.1'>Staršího nekárej, ale domlouvej mu jako otci, mladším jako bratrům,</verse>
+        <verse osisID='1Tim.5.2'>starším ženám jako matkám, mladším jako sestrám, ve vší čistotě.</verse>
+        <verse osisID='1Tim.5.3'>Prokazuj úctu osamělým vdovám.</verse>
+        <verse osisID='1Tim.5.4'>Pokud má vdova děti nebo vnuky, musejí se učit prokazovat zbožnost především vůči vlastní rodině a oplácet péči svým rodičům. Tak se to Bohu líbí.</verse>
+        <verse osisID='1Tim.5.5'>Skutečně opuštěná vdova spoléhá na Boha a dnem i nocí setrvává v prosbách a modlitbách.</verse>
+        <verse osisID='1Tim.5.6'>Ta, která si užívá, je ale mrtvá zaživa.</verse>
+        <verse osisID='1Tim.5.7'>Také toto jim klaď na srdce, ať jsou bezúhonné.</verse>
+        <verse osisID='1Tim.5.8'>Kdo se nestará o své blízké, a zvláště o vlastní rodinu, zapřel víru a je horší než nevěřící.</verse>
+        <verse osisID='1Tim.5.9'>Mezi vdovy v péči církve ať je zahrnuta nejméně šedesátiletá, pokud byla věrnou manželkou,</verse>
+        <verse osisID='1Tim.5.10'>je známá dobrými skutky, vychovala děti, přijímala hosty, myla nohy svatým, pomáhala souženým a věnovala se každému dobrému dílu.</verse>
+        <verse osisID='1Tim.5.11'>Mladší vdovy ale započítat odmítej. Když je smyslnost odvede od Krista, budou se chtít vdát</verse>
+        <verse osisID='1Tim.5.12'>a trestuhodně poruší svůj původní slib věrnosti.</verse>
+        <verse osisID='1Tim.5.13'>Také by se učily marnit čas chozením po domech; a nejen marnit čas, ale klevetit, plést se do cizích věcí a říkat, co se nepatří.</verse>
+        <verse osisID='1Tim.5.14'>Proto bych rád, aby se mladší vdovy vdávaly, rodily děti, vedly domácnost a nedávaly nepříteli žádnou příležitost k pomluvám.</verse>
+        <verse osisID='1Tim.5.15'>Některé se už totiž odvrátily za satanem.</verse>
+        <verse osisID='1Tim.5.16'>Jestliže má někdo věřící v příbuzenstvu vdovy, ať se o ně stará. Církev tak nebude přetížena a bude se moci postarat o vdovy, které jsou osamělé.</verse>
+        <verse osisID='1Tim.5.17'>Starší, kteří se dobře starají o církev, si zaslouží dvojnásobné uznání, zvláště ti, kdo mají namáhavou službu kázání a vyučování.</verse>
+        <verse osisID='1Tim.5.18'>Písmo přece říká: "Mlátícímu dobytčeti nedávej náhubek," a jinde: "Dělník si zaslouží svou mzdu."</verse>
+        <verse osisID='1Tim.5.19'>Obvinění proti staršímu nepřijímej, jedině když s ním přijdou dva nebo tři svědkové.</verse>
+        <verse osisID='1Tim.5.20'>Ty, kteří hřeší, kárej přede všemi, aby i ostatní měli bázeň.</verse>
+        <verse osisID='1Tim.5.21'>Zapřísahám tě před Bohem, před Kristem Ježíšem i vyvolenými anděly, abys tyto věci dodržoval bez předsudků a nikdy se nechoval předpojatě.</verse>
+        <verse osisID='1Tim.5.22'>Na nikoho nevkládej ruce ukvapeně a neměj účast na cizích hříších; zachovávej si čistotu.</verse>
+        <verse osisID='1Tim.5.23'>Nepij už samotnou vodu, ale s ohledem na svůj žaludek a své časté nemoci užívej trochu vína.</verse>
+        <verse osisID='1Tim.5.24'>Hříchy některých lidí jsou zjevné, ještě než přijde soud; hříchy jiných ale až potom.</verse>
+        <verse osisID='1Tim.5.25'>Stejně tak i dobré skutky; některé jsou zjevné a ty ostatní nezůstanou skryty.</verse>
+      </chapter>
+      <chapter osisID='1Tim.6'>
+        <verse osisID='1Tim.6.1'>Všichni, kdo nosí otrocké jho, ať prokazují svým pánům veškerou úctu, aby Boží jméno a učení nemělo špatnou pověst.</verse>
+        <verse osisID='1Tim.6.2'>Mají-li za pány věřící, ať je jakožto bratry nectí o nic méně. Naopak, ať slouží tím lépe, neboť jejich dobrá práce přinese užitek věřícím a milovaným.Těmto věcem vyučuj a na nich trvej.</verse>
+        <verse osisID='1Tim.6.3'>Učí-li někdo odlišně a nesouhlasí se zdravými slovy našeho Pána Ježíše Krista a tímto zbožným učením,</verse>
+        <verse osisID='1Tim.6.4'>je nadut pýchou a ničemu nerozumí. Libuje si jen v hádkách a slovních potyčkách, které jsou zdrojem nevraživosti, neshod, urážek, zlých domněnek</verse>
+        <verse osisID='1Tim.6.5'>a neustálých třenic. Tito lidé s porušenou myslí a zbavení pravdy se domnívají, že zbožnost je zdrojem zisku.</verse>
+        <verse osisID='1Tim.6.6'>Opravdu velikým ziskem je ovšem zbožnost, která umí být spokojená s tím, co má.</verse>
+        <verse osisID='1Tim.6.7'>Nic jsme na svět nepřinesli a nic si také neodneseme.</verse>
+        <verse osisID='1Tim.6.8'>Máme-li tedy jídlo a oděv, můžeme být spokojeni.</verse>
+        <verse osisID='1Tim.6.9'>Ti, kdo touží zbohatnout, upadají do pasti pokušení a do mnoha pošetilých a škodlivých tužeb stahujících lidi do zkázy a záhuby.</verse>
+        <verse osisID='1Tim.6.10'>Láska k penězům je totiž kořenem všeho zla; v honbě za nimi někteří zbloudili z cesty víry a sami si způsobili nesčetná muka.</verse>
+        <verse osisID='1Tim.6.11'>Ty ale jako Boží člověk od takových věcí utíkej a následuj spravedlnost, zbožnost, víru, lásku, trpělivost a mírnost.</verse>
+        <verse osisID='1Tim.6.12'>Bojuj ten dobrý boj víry. Chop se věčného života, k němuž jsi povolán a k němuž ses přihlásil jasným vyznáním před mnoha svědky.</verse>
+        <verse osisID='1Tim.6.13'>Před Bohem, který všemu dává život, a před Kristem Ježíšem, který pronesl jasné vyznání před Pontským Pilátem, ti kladu na srdce,</verse>
+        <verse osisID='1Tim.6.14'>abys toto přikázání zachovával bez poskvrny. Zůstaň bez úhony až do příchodu našeho Pána Ježíše Krista,</verse>
+        <verse osisID='1Tim.6.15'>který nastane v pravý čas, jenž určí ten požehnaný a jediný Vládce, Král kralujících a Pán panujících,</verse>
+        <verse osisID='1Tim.6.16'>který jediný má nesmrtelnost a přebývá v nepřístupném světle, kterého nikdo z lidí neviděl ani vidět nemůže a kterému patří čest a věčná moc. Amen.</verse>
+        <verse osisID='1Tim.6.17'>Těm, kdo jsou v tomto světě bohatí, klaď na srdce, ať nejsou domýšliví. Ať nespoléhají na nejisté bohatství, ale na Boha, který nám dává hojnost všeho k užívání.</verse>
+        <verse osisID='1Tim.6.18'>Ať se věnují dobročinnosti, bohatnou v dobrých skutcích, jsou štědří a dělí se s ostatními.</verse>
+        <verse osisID='1Tim.6.19'>Tak si nastřádají dobrý základ pro budoucnost a chopí se opravdového života.</verse>
+        <verse osisID='1Tim.6.20'>Timoteji, opatruj, co ti bylo svěřeno. Vyhýbej se světským tlachům a rozporům toho, co je mylně nazýváno "poznáním".</verse>
+        <verse osisID='1Tim.6.21'>Ti, kdo se stali jeho vyznavači, zbloudili ve víře. Milost s vámi.</verse>
+      </chapter>
+    </div></osisText>
+</osis>

@@ -1,0 +1,1249 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace'>
+  <osisText osisIDWork='NorthernAzeri' osisRefWork='Bible' xml:lang='az'>
+    <header>
+      <revisionDesc>
+        <date>2012-01-07</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='NorthernAzeri'>
+        <title>Northern Azeri Translation</title>
+        <contributor/>
+        <creator>Mod2Zef (6)</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject/>
+        <date>2012-01-07</date>
+        <description>Northern Azeri Translation</description>
+        <publisher/>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>NorthernAzeri</identifier>
+        <source>no entry TextSource in sword.conf found</source>
+        <language type='IETF'>az</language>
+        <relation/>
+        <coverage>provide the bible to the nations of the world</coverage>
+        <rights>Copyrighted Kutsul Kitab; Permission to distribute granted to CrossWire</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='Matt'>
+      <chapter osisID='Matt.1'>
+        <verse osisID='Matt.1.1'/>
+        <verse osisID='Matt.1.2'>İbrahimdən İshaq törədi. İshaqdan Yaqub törədi. Yaqubdan Yəhuda və onun qardaşları törədi.</verse>
+        <verse osisID='Matt.1.3'>Yəhudadan Tamarın doğduğu Peres və Zerah törədi. Peresdən Xesron törədi. Xesrondan Ram törədi.</verse>
+        <verse osisID='Matt.1.4'>Ramdan Amminadav törədi. Amminadavdan Naxşon törədi. Naxşondan Salmon törədi.</verse>
+        <verse osisID='Matt.1.5'>Salmondan Raxavın doğduğu Boaz törədi. Boazdan Rutun doğduğu Oved törədi. Oveddən Yessey törədi.</verse>
+        <verse osisID='Matt.1.6'>Yesseydən padşah Davud törədi.  Davuddan Uriyanın arvadının doğduğu Süleyman törədi.</verse>
+        <verse osisID='Matt.1.7'>Süleymandan Rexavam törədi. Rexavamdan Aviya törədi. Aviyadan Asa törədi.</verse>
+        <verse osisID='Matt.1.8'>Asadan Yehoşafat törədi. Yehoşafatdan Yehoram törədi. Yehoramdan Uzziya törədi.</verse>
+        <verse osisID='Matt.1.9'>Uzziyadan Yotam törədi. Yotamdan Axaz törədi. Axazdan Xizqiya törədi.</verse>
+        <verse osisID='Matt.1.10'>Xizqiyadan Menaşşe törədi. Menaşşedən Amon törədi. Amondan Yoşiya törədi.</verse>
+        <verse osisID='Matt.1.11'>Babil sürgünü zamanı Yoşiyadan Yekonya və onun qardaşları törədi. </verse>
+        <verse osisID='Matt.1.12'>Babil sürgünündən sonra Yekonyadan Şealtiel törədi. Şealtieldən Zerubbabil törədi.</verse>
+        <verse osisID='Matt.1.13'>Zerubbabildən Avihud törədi. Avihuddan Elyaqim törədi. Elyaqimdən Azur törədi.</verse>
+        <verse osisID='Matt.1.14'>Azurdan Sadoq törədi. Sadoqdan Yaxin törədi. Yaxindən Elihud törədi.</verse>
+        <verse osisID='Matt.1.15'>Elihuddan Eleazar törədi. Eleazardan Mattan törədi. Mattandan Yaqub törədi.</verse>
+        <verse osisID='Matt.1.16'>Yaqubdan Məryəmin əri Yusif törədi. Məryəmdən də Məsih adlanan İsa doğuldu. </verse>
+        <verse osisID='Matt.1.17'>Beləliklə, İbrahimdən Davuda qədər olan bütün nəsillər on dörd nəsildir, Davuddan Babil sürgününə qədər on dörd nəsildir, Babil sürgünündən Məsihə qədər də on dörd nəsildir. </verse>
+        <verse osisID='Matt.1.18'>İsa Məsihin doğulması belə oldu. Anası Məryəm Yusifə nişanlanmışdı. Amma birlikdə olmalarından əvvəl Məryəmin Müqəddəs Ruhdan hamilə olduğu aşkar oldu.</verse>
+        <verse osisID='Matt.1.19'>Onun nişanlısı Yusif saleh bir adam idi və Məryəmi camaat arasında rüsvay etmək istəməyərək gizlicə boşamaq niyyətinə düşdü.</verse>
+        <verse osisID='Matt.1.20'>Amma belə düşündüyü halda Rəbbin bir mələyi röyada ona görünüb dedi: «Davud oğlu Yusif! Məryəmi özünə arvad etməkdən qorxma, çünki onun bətnindəki körpə Müqəddəs Ruhdandır.</verse>
+        <verse osisID='Matt.1.21'>Məryəm bir Oğul doğacaq və Onun adını İsa qoy, çünki O Öz xalqını günahlarından xilas edəcək». </verse>
+        <verse osisID='Matt.1.22'>Bütün bunlar Rəbbin peyğəmbər vasitəsilə söylədiyi bu söz yerinə yetsin deyə baş verdi: </verse>
+        <verse osisID='Matt.1.23'>«Budur, bakirə qız hamilə olub Oğlan doğacaq, adını İmmanuel qoyacaqlar». «İmmanuel» «Allah bizimlədir» deməkdir. </verse>
+        <verse osisID='Matt.1.24'>Yusif yuxudan oyananda Rəbbin mələyinin buyurduğu kimi etdi və arvadını qəbul etdi.</verse>
+        <verse osisID='Matt.1.25'>Amma Məryəm bir Oğul doğana qədər Yusif onunla yaxınlıq etmədi. Doğulan Körpənin adını İsa qoydu.  </verse>
+      </chapter>
+      <chapter osisID='Matt.2'>
+        <verse osisID='Matt.2.1'>
+          İsa padşah Hirodun dövründə Yəhudeyanın Bet-Lexem şəhərində anadan olduqda müdrik adamlar şərqdən Yerusəlimə gəlib</verse>
+        <verse osisID='Matt.2.2'>dedilər: «Yəhudilərin anadan olmuş Padşahı haradadır? Şərqdə Onun ulduzunu gördük və Ona səcdə qılmağa gəldik».</verse>
+        <verse osisID='Matt.2.3'>Padşah Hirod bunu eşitdikdə özü və bütün Yerusəlim xalqı təlaşa düşdü.</verse>
+        <verse osisID='Matt.2.4'>Hirod xalqın bütün başçı kahinlərini və ilahiyyatçılarını toplayaraq onlardan Məsihin harada doğulduğunu soruşdu.</verse>
+        <verse osisID='Matt.2.5'>«Yəhudeyanın Bet-Lexem şəhərində» dedilər. «Çünki peyğəmbər vasitəsilə belə yazılıb:</verse>
+        <verse osisID='Matt.2.6'>“Ey Yəhuda torpağındakı Bet-Lexem, sənYəhuda hökmdarları arasında ən kiçik deyilsən,Çünki xalqım İsrailə çoban olanHökmdar səndən çıxacaq”». </verse>
+        <verse osisID='Matt.2.7'>Onda Hirod müdrik adamları gizlicə çağırıb onlardan ulduzun göründüyü dəqiq vaxtı öyrəndi.</verse>
+        <verse osisID='Matt.2.8'>«Gedin, Körpəni diqqətlə axtarın, tapan kimi mənə xəbər verin ki, mən də gedib Ona səcdə qılım» deyərək onları Bet-Lexemə göndərdi.</verse>
+        <verse osisID='Matt.2.9'>Onlar padşahı dinlədikdən sonra yola düşdülər. O vaxt şərqdə gördükləri ulduz onlara yol göstərirdi. O, Körpənin olduğu yerin üzərinə çatdıqda dayandı.</verse>
+        <verse osisID='Matt.2.10'>Onlar ulduzu gördükləri vaxt çox sevindilər.</verse>
+        <verse osisID='Matt.2.11'>Evə girib Körpəni anası Məryəmlə birlikdə gördülər və yerə qapanaraq Ona səcdə qıldılar. Xəzinələrini açıb Ona hədiyyələri – qızıl, kündür və mirranı təqdim etdilər.</verse>
+        <verse osisID='Matt.2.12'>Sonra röyada Hirodun yanına qayıtmamaq üçün xəbərdarlıq aldıqlarına görə başqa yolla öz ölkələrinə getdilər. </verse>
+        <verse osisID='Matt.2.13'>Müdrik adamlar yola düşəndən sonra Rəbbin bir mələyi Yusifə röyada görünərək dedi: «Qalx, Körpə ilə anasını götür, Misirə qaç. Mən sənə xəbər verənə qədər orada qal. Çünki Hirod Körpəni öldürmək üçün axtarmağa başlayır».</verse>
+        <verse osisID='Matt.2.14'>Beləliklə, Yusif qalxdı, həmin gecə Körpə ilə anasını götürüb Misirə yollandı.</verse>
+        <verse osisID='Matt.2.15'>Hirod ölənə qədər orada qaldı. Bu, Rəbbin peyğəmbər vasitəsilə söylədiyi söz yerinə yetsin deyə baş verdi:  «Öz Oğlumu Misirdən çağırdım». </verse>
+        <verse osisID='Matt.2.16'>Hirod müdrik adamlar tərəfindən axmaq yerinə qoyulduğunu görəndə çox hiddətləndi. O, müdrik adamlardan öyrəndiyi vaxta görə Bet-Lexem və onun ətrafında yaşayan iki və iki yaşdan aşağı körpə oğlan uşaqlarını öldürtdü.</verse>
+        <verse osisID='Matt.2.17'>Beləliklə, Yeremya peyğəmbər vasitəsilə söylənən bu söz yerinə yetdi:</verse>
+        <verse osisID='Matt.2.18'>«Ramada bir səs eşidildi,Ağlaşma və böyük fəryad səsləri!Rəhilə uşaqları üçün ağlayır,Təsəlli istəmir.Çünki onlar daha yoxdur». </verse>
+        <verse osisID='Matt.2.19'>Hirod öləndən sonra Rəbbin bir mələyi Misirdə Yusifə röyada görünüb</verse>
+        <verse osisID='Matt.2.20'>dedi: «Qalx, Körpə ilə anasını götür, İsrail ölkəsinə qayıt. Çünki Körpənin canını almaq istəyənlər öldü».</verse>
+        <verse osisID='Matt.2.21'>Yusif qalxdı, Körpə ilə anasını götürüb İsrail ölkəsinə qayıtdı.</verse>
+        <verse osisID='Matt.2.22'>Amma Arxelanın öz atası Hirodun yerinə Yəhudeya padşahı olduğunu eşidəndə oraya getməyə qorxdu. Röyada xəbərdarlıq alaraq Qalileya bölgəsinə getdi.</verse>
+        <verse osisID='Matt.2.23'>Gəlib Nazaret deyilən şəhərdə məskən saldı. Bu, peyğəmbərlər vasitəsilə söylənən «Ona Nazaretli deyiləcək» sözü yerinə yetsin deyə baş verdi.  </verse>
+      </chapter>
+      <chapter osisID='Matt.3'>
+        <verse osisID='Matt.3.1'>
+           O günlərdə Vəftizçi Yəhya Yəhudeya çölündə vəz edərək meydana çıxdı.</verse>
+        <verse osisID='Matt.3.2'>O belə deyirdi: «Tövbə edin! Çünki Səmavi Padşahlıq yaxınlaşıb».</verse>
+        <verse osisID='Matt.3.3'>Bu o adamdır ki, Yeşaya peyğəmbər onun barəsində demişdi:  «Səhrada nida edənin səsi gəlir:“Rəbbin yolunu hazırlayın,Onun keçəcəyi yerləri düz edin”».</verse>
+        <verse osisID='Matt.3.4'>Yəhya dəvə yunundan paltar geymiş, belinə dəri qurşaq bağlamışdı, yeməyi çəyirtkə və çöl balı idi.</verse>
+        <verse osisID='Matt.3.5'>Yerusəlim sakinləri, bütün Yəhudeya diyarından olanlar və İordan ətrafında yaşayanlar Yəhyanın yanına gəlirdi.</verse>
+        <verse osisID='Matt.3.6'>Onlar günahlarını etiraf edərək onun tərəfindən İordan çayında vəftiz olunurdu. </verse>
+        <verse osisID='Matt.3.7'>Fariseylər və sadukeylərdən çoxunun vəftiz olmaq üçün onun yanına gəldiyini görən Yəhya onlara belə dedi: «Ey gürzələr nəsli! Üzərinizə gələn qəzəbdən canınızı qurtarmağı sizin beyninizə kim yeridib?</verse>
+        <verse osisID='Matt.3.8'>İndi isə tövbəyə layiq bəhrə verin.</verse>
+        <verse osisID='Matt.3.9'>Ürəyinizdə “atamız İbrahimdir” deyə düşünməyin. Mən sizə deyirəm: Allah bu daşlardan İbrahimə övlad yaratmağa qadirdir.</verse>
+        <verse osisID='Matt.3.10'>Artıq balta ağacların dibində yatır. Beləliklə, yaxşı bəhrə verməyən hər ağac kəsilir və oda atılır. </verse>
+        <verse osisID='Matt.3.11'>Mən sizi tövbəniz üçün su ilə vəftiz edirəm, amma məndən sonra Gələn məndən daha qüdrətlidir. Mən Onun çarıqlarını daşımağa belə, layiq deyiləm. O sizi Müqəddəs Ruhla və odla vəftiz edəcək.</verse>
+        <verse osisID='Matt.3.12'>Onun kürəyi əlindədir və xırmanını sovuracaq, Öz taxılını anbara toplayacaq. Küləşi isə sönməz odda yandıracaq». </verse>
+        <verse osisID='Matt.3.13'>O vaxt İsa Yəhya tərəfindən vəftiz olmaq üçün Qalileyadan İordan çayına, Yəhyanın yanına gəldi.</verse>
+        <verse osisID='Matt.3.14'>Yəhya Ona mane olmaq istəyərək dedi: «Sən Məni vəftiz etməlisən, Sən niyə mənim yanıma gəlirsən?»</verse>
+        <verse osisID='Matt.3.15'>İsa ona cavab verdi: «Hələlik buna razı ol. Çünki biz salehlik işini beləcə yerinə yetirməliyik». Onda Yəhya razı oldu.</verse>
+        <verse osisID='Matt.3.16'>İsa vəftiz olunan kimi sudan çıxdı. O vaxt göylər yarıldı və Allahın Ruhunun göyərçin kimi endiyini və Öz üzərinə qonduğunu gördü.</verse>
+        <verse osisID='Matt.3.17'>Göylərdən bir səda gəldi: «Bu Mənim sevimli Oğlumdur, Ondan razıyam».  </verse>
+      </chapter>
+      <chapter osisID='Matt.4'>
+        <verse osisID='Matt.4.1'>
+           Bundan sonra İsa iblis tərəfindən sınağa çəkilmək üçün Ruh tərəfindən səhraya aparıldı.</verse>
+        <verse osisID='Matt.4.2'>İsa qırx gün-qırx gecə oruc tutandan sonra acdı.</verse>
+        <verse osisID='Matt.4.3'>O zaman sınağaçəkən yaxınlaşıb Ona dedi: «Əgər Sən Allahın Oğlusansa, bu daşlara əmr et ki, çörəyə dönsün».</verse>
+        <verse osisID='Matt.4.4'>İsa ona belə cavab verdi: «“İnsan yalnız çörəklə deyil, Allahın ağzından çıxan hər kəlmə ilə yaşayar” deyə yazılmışdır». </verse>
+        <verse osisID='Matt.4.5'>Sonra iblis Onu müqəddəs şəhərə gətirdi və məbədin qülləsinə qoyub</verse>
+        <verse osisID='Matt.4.6'>dedi: «Əgər Sən Allahın Oğlusansa, Özünü aşağı at. Axı  “Allah Sənə görə mələklərinə əmr edər ki,Səni əlləri üstündə aparsınlar,Ayağın bir daşa dəyməsin”  deyə yazılmışdır».</verse>
+        <verse osisID='Matt.4.7'>İsa ona dedi: «“Allahın Rəbbi sınama” deyə də yazılmışdır». </verse>
+        <verse osisID='Matt.4.8'>İblis yenə İsanı çox yüksək bir dağa çıxartdı. Ona dünyanın bütün padşahlıqlarını və şan-şöhrətini göstərib dedi:</verse>
+        <verse osisID='Matt.4.9'>«Əgər Sən yerə qapanıb mənə səcdə etsən, bütün bu şeyləri Sənə verəcəyəm».</verse>
+        <verse osisID='Matt.4.10'>İsa dedi: «Rədd ol, Şeytan! “Allahın Rəbbə səcdə et və yalnız Ona ibadət et” deyə yazılmışdır». </verse>
+        <verse osisID='Matt.4.11'>Bundan sonra iblis İsanı tərk etdi və mələklər gəlib Ona xidmət edirdi. </verse>
+        <verse osisID='Matt.4.12'>İsa Yəhyanın həbs olunduğunu eşitdikdə Qalileyaya qayıtdı.</verse>
+        <verse osisID='Matt.4.13'>Nazaretdən çıxıb Zevulun və Naftali bölgəsində, Qalileya gölü kənarında yerləşən Kefernahumda məskən saldı.</verse>
+        <verse osisID='Matt.4.14'>Bu, Yeşaya peyğəmbər vasitəsilə söylənən həmin söz yerinə yetsin deyə baş verdi:</verse>
+        <verse osisID='Matt.4.15'>«Zevulun və Naftali bölgələri,Dənizkənarı yol,İordan çayının o biri tayı,Müxtəlif millətlər yaşayan Qalileya –</verse>
+        <verse osisID='Matt.4.16'>Zülmətdə yaşayan xalqMöhtəşəm bir işıq gördü.Ölüm kölgəsi diyarında məskunlaşanların üzərinəNur doğdu».</verse>
+        <verse osisID='Matt.4.17'>O vaxtdan İsa vəz edib belə deməyə başladı: «Tövbə edin! Çünki Səmavi Padşahlıq yaxınlaşıb». </verse>
+        <verse osisID='Matt.4.18'>İsa Qalileya gölünün sahilində gəzərkən suya tor atan iki qardaşı – Peter adlanan Şimonu və qardaşı Andreyi gördü. Bu adamlar balıqçı idi.</verse>
+        <verse osisID='Matt.4.19'>İsa onlara dedi: «Ardımca gəlin, Mən sizi elə balıqçı edəcəyəm ki, insan tutacaqsınız».</verse>
+        <verse osisID='Matt.4.20'>Onlar dərhal torları kənara atıb Onun ardınca getdilər.</verse>
+        <verse osisID='Matt.4.21'>İsa oradan irəli gedib başqa iki qardaşı – Zavday oğlu Yaqubu və qardaşı Yəhyanı gördü. Onlar ataları Zavdayla birlikdə qayıqda torlarını düzəldirdilər. İsa onları çağırdı.</verse>
+        <verse osisID='Matt.4.22'>Onlar da dərhal qayığı və atalarını qoyub Onun ardınca getdilər. </verse>
+        <verse osisID='Matt.4.23'>İsa bütün Qalileyanı gəzir, onların sinaqoqlarında öyrədir, Səmavi Padşahlığın Müjdəsini vəz edir, xalq arasında hər cür xəstəliyə və hər cür naxoşluğa şəfa verirdi.</verse>
+        <verse osisID='Matt.4.24'>Onun haqqındakı xəbər bütün Suriyaya yayıldı. Ona görə də İsanın yanına hər cür xəstəlik və iztirab çəkənləri, cinlərə tutulmuşları, epileptikləri və iflicləri gətirdilər. O da onlara şəfa verdi.</verse>
+        <verse osisID='Matt.4.25'>Qalileyadan, Dekapolis bölgəsindən, Yerusəlimdən, Yəhudeyadan və İordan çayının o biri tayından böyük izdihamlar İsanın ardınca gedirdi.  </verse>
+      </chapter>
+      <chapter osisID='Matt.5'>
+        <verse osisID='Matt.5.1'>
+          İsa izdihamı görüb dağa çıxdı. Oturan kimi şagirdləri Onun yanına gəldi.</verse>
+        <verse osisID='Matt.5.2'>İsa danışmağa başlayıb onları öyrədərək dedi: </verse>
+        <verse osisID='Matt.5.3'>«Nə bəxtiyardır ruhən yoxsullar!Çünki Səmavi Padşahlıq onlarındır.</verse>
+        <verse osisID='Matt.5.4'>Nə bəxtiyardır yaslı olanlar!Çünki onlar təsəlli tapacaq.</verse>
+        <verse osisID='Matt.5.5'>Nə bəxtiyardır həlimlər!Çünki onlar yer üzünü irs alacaq.</verse>
+        <verse osisID='Matt.5.6'>Nə bəxtiyardır salehlik üçün acıb-susayanlar!Çünki onlar doyacaq.</verse>
+        <verse osisID='Matt.5.7'>Nə bəxtiyardır mərhəmətli olanlar!Çünki onlara mərhəmət ediləcək.</verse>
+        <verse osisID='Matt.5.8'>Nə bəxtiyardır ürəyi təmiz olanlar!Çünki onlar Allahı görəcək.</verse>
+        <verse osisID='Matt.5.9'>Nə bəxtiyardır sülhyaradanlar!Çünki onlar Allahın övladları adlanacaq.</verse>
+        <verse osisID='Matt.5.10'>Nə bəxtiyardır salehlik uğrunda təqib edilənlər!Çünki Səmavi Padşahlıq onlarındır. </verse>
+        <verse osisID='Matt.5.11'>İnsanlar Mənə görə sizi təhqir edib təqib edəndə, yalan söyləyib sizə hər cür böhtan atanda siz nə bəxtiyarsınız!</verse>
+        <verse osisID='Matt.5.12'>Sevinin və şadlanın! Çünki göylərdə mükafatınız böyükdür. Axı sizdən qabaq gələn peyğəmbərləri də belə təqib ediblər. </verse>
+        <verse osisID='Matt.5.13'>Siz yer üzünün duzusunuz. Amma duz öz dadını itirərsə, nə ilə duzlanar? Artıq çölə atılıb insanlar tərəfindən tapdalanmaqdan başqa bir şeyə yaramaz. </verse>
+        <verse osisID='Matt.5.14'>Siz dünyanın nurusunuz. Dağın zirvəsində qurulan şəhər gizli qala bilməz.</verse>
+        <verse osisID='Matt.5.15'>Heç kim çırağı yandırıb qabın altına qoymaz. Əksinə, çıraqdana qoyar ki, evdəkilərin hamısını işıqlandırsın.</verse>
+        <verse osisID='Matt.5.16'>Eləcə də sizin nurunuz insanların qarşısında elə parlasın ki, onlar xeyirxah işlərinizi görüb göylərdə olan Atanızı izzətləndirsinlər. </verse>
+        <verse osisID='Matt.5.17'>Sanmayın ki, Mən Qanun və Peyğəmbərlərin sözlərini ləğv etmək üçün gəldim. Mən onları ləğv etmək üçün yox, yerinə yetirmək üçün gəldim.</verse>
+        <verse osisID='Matt.5.18'>Sizə doğrusunu deyirəm: göy və yer keçib getmədən, hər şey icra olmadan Qanundan ən kiçik bir hərf və ya bir nöqtə belə, yox olmayacaq.</verse>
+        <verse osisID='Matt.5.19'>Beləliklə, bu əmrlərdən ən kiçiyindən birini kim pozarsa və başqalarına da bu cür öyrədərsə, Səmavi Padşahlıqda ən kiçik sayılacaq. Amma kim bu əmrləri yerinə yetirər və başqalarına da öyrədərsə, Səmavi Padşahlıqda böyük sayılacaq.</verse>
+        <verse osisID='Matt.5.20'>Sizə bunu deyirəm: əgər sizin salehliyiniz ilahiyyatçılarla fariseylərin salehliyindən artıq olmasa, Səmavi Padşahlığa əsla girə bilməzsiniz. </verse>
+        <verse osisID='Matt.5.21'>Siz qədim zamanlarda adamlara “Qətl etmə, kim qətl edərsə, mühakiməyə məruz qalacaq” deyildiyini eşitmisiniz.</verse>
+        <verse osisID='Matt.5.22'>Mənsə sizə deyirəm ki, qardaşına hirslənən hər kəs mühakiməyə məruz qalacaq. Kim qardaşına “axmaq” deyərsə, Ali Şuranın hökmünə məruz qalacaq. Kim qardaşına “səfeh” deyərsə, cəhənnəm oduna məruz qalacaq.</verse>
+        <verse osisID='Matt.5.23'>Buna görə də qurbangah qarşısına qurbanını gətirdiyin zaman yadına düşsə ki, qardaşının sənə qarşı bir şikayəti var,</verse>
+        <verse osisID='Matt.5.24'>qurbanını qurbangahın qarşısında qoy, get, əvvəlcə qardaşınla barış və ondan sonra gəl, qurbanını təqdim et.</verse>
+        <verse osisID='Matt.5.25'>Səni ittiham edənlə yolda ikən tez razılaş ki, o səni hakimə, hakim də səni mühafizəçiyə verməsin və zindana atılmayasan.</verse>
+        <verse osisID='Matt.5.26'>Sənə doğrusunu deyirəm: axırıncı qəpik-quruşunu verməyincə oradan əsla çıxmayacaqsan. </verse>
+        <verse osisID='Matt.5.27'>“Zina etmə” deyildiyini eşitmisiniz.</verse>
+        <verse osisID='Matt.5.28'>Mənsə sizə deyirəm ki, qadına şəhvətlə baxan hər adam artıq ürəyində onunla zina etmiş olur.</verse>
+        <verse osisID='Matt.5.29'>Əgər sağ gözün səni pis yola çəkərsə, onu çıxar at. Çünki sənin üçün bədən üzvlərindən birinin məhv olması bütün bədəninin cəhənnəmə atılmasından yaxşıdır.</verse>
+        <verse osisID='Matt.5.30'>Əgər sağ əlin səni pis yola çəkərsə, onu kəs at. Çünki sənin üçün bədən üzvlərindən birinin məhv olması bütün bədəninin cəhənnəmə düşməsindən yaxşıdır. </verse>
+        <verse osisID='Matt.5.31'>“Kim arvadını boşayarsa, ona talaq kağızı versin” deyilmişdir.</verse>
+        <verse osisID='Matt.5.32'>Mənsə sizə deyirəm ki, cinsi əxlaqsızlıqdan başqa bir səbəbə görə arvadını boşayan hər kəs onu zinaya sövq edir. Boşanmış qadınla evlənən də zina edir. </verse>
+        <verse osisID='Matt.5.33'>Yenə qədim zamanlarda adamlara “Yalandan and içmə, amma andlarını Rəbbin önündə yerinə yetir” deyildiyini eşitmisiniz.</verse>
+        <verse osisID='Matt.5.34'>Mənsə sizə deyirəm ki, heç and içmə, nə göyə, çünki o, Allahın taxtıdır;</verse>
+        <verse osisID='Matt.5.35'>nə yerə, çünki yer Onun ayaqlarının altındakı kətildir; nə də Yerusəlimə, çünki ora böyük Padşahın şəhəridir.</verse>
+        <verse osisID='Matt.5.36'>Başına da and içmə, çünki sən hətta bir dənə saçı belə, ağ və ya qara edə bilməzsən.</verse>
+        <verse osisID='Matt.5.37'>Ancaq sözünüzdə “bəli”niz bəli, “xeyr”iniz xeyr olsun. Bundan qalanı şər olandandır. </verse>
+        <verse osisID='Matt.5.38'>“Göz əvəzinə göz, diş əvəzinə diş” deyildiyini eşitmisiniz.</verse>
+        <verse osisID='Matt.5.39'>Mənsə sizə deyirəm ki, pis adama qarşı durma. Əksinə, sağ üzünə şillə vurana o birini də çevir.</verse>
+        <verse osisID='Matt.5.40'>Səni məhkəməyə verib köynəyini götürmək istəyənə üst paltarını da ver.</verse>
+        <verse osisID='Matt.5.41'>Kim səni min addım yol getməyə məcbur edirsə, sən onunla iki min addım yol get.</verse>
+        <verse osisID='Matt.5.42'>Səndən bir şey diləyənə ver, səndən borc istəyəni geri qaytarma. </verse>
+        <verse osisID='Matt.5.43'>“Qonşunu sev və düşməninə nifrət et” deyildiyini eşitmisiniz.</verse>
+        <verse osisID='Matt.5.44'>Mənsə sizə deyirəm ki, düşmənlərinizi sevin, sizi təqib edənlər üçün dua edin.</verse>
+        <verse osisID='Matt.5.45'>Belə ki siz göylərdə olan Atanızın övladları olasınız. Çünki O, günəşini həm pislərin, həm yaxşıların üzərinə doğurur, yağışını da həm salehlərin, həm də saleh olmayanların üzərinə yağdırır.</verse>
+        <verse osisID='Matt.5.46'>Əgər sizi sevənləri sevirsinizsə, nə mükafatınız olacaq? Vergiyığanlar da belə etmirmi?</verse>
+        <verse osisID='Matt.5.47'>Əgər yalnız qardaşlarınızı salamlayırsınızsa, başqalarından artıq nə etmiş olursunuz? Bütpərəstlər də belə etmirmi?</verse>
+        <verse osisID='Matt.5.48'>Ona görə də Səmavi Atanız kamil olduğu kimi siz də kamil olun.  </verse>
+      </chapter>
+      <chapter osisID='Matt.6'>
+        <verse osisID='Matt.6.1'/>
+        <verse osisID='Matt.6.2'>Ona görə də sədəqə verdiyin zaman önündə şeypur səsi ilə car çəkmə. Çünki adamlar onları izzətləndirsin deyə ikiüzlülər sinaqoqlarda və küçələrdə belə edirlər. Sizə doğrusunu deyirəm: onlar mükafatlarını alıblar.</verse>
+        <verse osisID='Matt.6.3'>Amma sən sədəqə verdiyin zaman sol əlin sağ əlinin nə etdiyini bilməsin.</verse>
+        <verse osisID='Matt.6.4'>Belə ki verdiyin sədəqə gizli qalsın. Gizlində olanı görən Atan səni mükafatlandıracaq. </verse>
+        <verse osisID='Matt.6.5'>Dua etdiyiniz zaman da ikiüzlülər kimi olmayın. Çünki belələri adamlar onları görsün deyə sinaqoqlarda və küçə tinlərində durub dua etməyi sevirlər. Sizə doğrusunu deyirəm: onlar mükafatlarını alıblar.</verse>
+        <verse osisID='Matt.6.6'>Amma sən dua etdiyin zaman öz otağına gir və qapını örtüb gizlində olan Atana dua et. Gizlində olanı görən Atan səni mükafatlandıracaq. </verse>
+        <verse osisID='Matt.6.7'>Dua edəndə bütpərəstlər kimi boşboğazlıq etməyin. Çünki onlar düşünür ki, çox söz söyləməklə eşidiləcəklər.</verse>
+        <verse osisID='Matt.6.8'>Siz onlara bənzəməyin! Çünki Atanız nələrə ehtiyacınız olduğunu siz Ondan diləməzdən əvvəl bilir. </verse>
+        <verse osisID='Matt.6.9'>Buna görə siz belə dua edin:  “Göylərdə olan Atamız,Adın müqəddəs tutulsun,</verse>
+        <verse osisID='Matt.6.10'>Padşahlığın gəlsin,Göydə olduğu kimiYerdə də Sənin iradən olsun.</verse>
+        <verse osisID='Matt.6.11'>Gündəlik çörəyimizi bizə bu gün ver.</verse>
+        <verse osisID='Matt.6.12'>Bizə borclu olanları bağışladığımız kimiBizim borclarımızı da bağışla.</verse>
+        <verse osisID='Matt.6.13'>Bizi sınağa çəkmə,Lakin bizi şər olandan xilas et.Çünki padşahlıq, qüdrət və izzətƏbədi olaraq Sənindir. Amin.”</verse>
+        <verse osisID='Matt.6.14'>Əgər başqa insanların təqsirlərini bağışlasanız, Səmavi Atanız da sizi bağışlayar.</verse>
+        <verse osisID='Matt.6.15'>Amma siz başqa insanları bağışlamasanız, Atanız da sizin təqsirlərinizi bağışlamaz. </verse>
+        <verse osisID='Matt.6.16'>Oruc tutduğunuz zaman ikiüzlülər kimi qaşqabaqlı gəzməyin. Onlar oruc tutduqlarını insanlara göstərmək üçün üzlərini tutqun hala salırlar. Sizə doğrusunu deyirəm: onlar mükafatlarını alıblar.</verse>
+        <verse osisID='Matt.6.17'>Amma sən oruc tutanda başına yağ çək və üzünü yu.</verse>
+        <verse osisID='Matt.6.18'>Belə ki insanlara deyil, gizlində olan Atana oruclu görünəsən. Gizlində olanı görən Atan səni mükafatlandıracaq. </verse>
+        <verse osisID='Matt.6.19'>Yer üzündə özünüzə xəzinələr yığmayın. Orada güvə və pas onları məhv edər ya da oğrular girib oğurlayar.</verse>
+        <verse osisID='Matt.6.20'>Bunun yerinə özünüzə göydə xəzinələr yığın. Orada nə güvə, nə pas onları məhv edər, nə də oğrular girib oğurlayar.</verse>
+        <verse osisID='Matt.6.21'>Çünki xəzinən haradadırsa, ürəyin də orada olacaq. </verse>
+        <verse osisID='Matt.6.22'>Bədənin çırağı gözdür. Əgər gözün sağlam olarsa, bütün bədənin də nurlu olacaq.</verse>
+        <verse osisID='Matt.6.23'>Yox, əgər gözün zəif görərsə, bütün bədənin qaranlıq olacaq. Əgər səndəki “nur” qaranlıqdırsa, zülmət nə qədər böyükdür! </verse>
+        <verse osisID='Matt.6.24'>Heç kim iki ağaya qulluq edə bilməz. Çünki ya birinə nifrət edib o birisini sevəcək ya da birinə bağlı qalıb o birisinə xor baxacaq. Siz həm Allaha, həm də sərvətə qulluq edə bilməzsiniz. </verse>
+        <verse osisID='Matt.6.25'>Buna görə sizə deyirəm: “Nə yeyəcəyik?” və ya “Nə içəcəyik?” deyə canınız üçün, “Nə geyinəcəyik?” deyə bədəniniz üçün qayğı çəkməyin. Can yeməkdən, bədən isə geyinməkdən daha vacib deyilmi?</verse>
+        <verse osisID='Matt.6.26'>Göydə uçan quşlara baxın: onlar nə əkir, nə biçir, nə də anbarlarda saxlayır. Amma Səmavi Atanız onları yedizdirir. Siz onlardan daha qiymətli deyilsinizmi?</verse>
+        <verse osisID='Matt.6.27'>Hansı biriniz qayğı çəkməklə ömrünü bir anlıq belə, uzada bilər?</verse>
+        <verse osisID='Matt.6.28'>Nəyə görə geyim üçün qayğı çəkirsiniz? Görün çöl zanbaqları necə böyüyür: onlar nə zəhmət çəkir, nə də ip əyirir.</verse>
+        <verse osisID='Matt.6.29'>Lakin sizə bunu deyirəm ki, bütün cah-calalı içində olan Süleyman belə, bunlardan biri kimi geyinməmişdi.</verse>
+        <verse osisID='Matt.6.30'>Ey imanı az olanlar, bu gün olub sabah ocağa atılan çöl otunu Allah belə geyindirirsə, sizi geyindirəcəyi daha da yəqin deyilmi?</verse>
+        <verse osisID='Matt.6.31'>Beləliklə, “Nə yeyəcəyik?”, “Nə içəcəyik?” və ya “Nə geyəcəyik?” deyə qayğı çəkməyin.</verse>
+        <verse osisID='Matt.6.32'>Çünki bütpərəstlər bütün bu şeyləri axtarırlar. Doğrudan da, Səmavi Atanız bütün bunlara ehtiyacınız olduğunu bilir.</verse>
+        <verse osisID='Matt.6.33'>Ona görə də siz əvvəlcə Allahın Padşahlığını və Onun salehliyini axtarın. Onda bunların hamısı sizə əlavə olaraq veriləcək.</verse>
+        <verse osisID='Matt.6.34'>Beləliklə, sabahın qayğısını çəkməyin. Çünki sabahkı gün özü üçün qayğı çəkəcək. Hər günün öz yamanlığı kifayətdir!  </verse>
+      </chapter>
+      <chapter osisID='Matt.7'>
+        <verse osisID='Matt.7.1'>
+          Mühakimə etməyin ki, siz də mühakimə olunmayasınız.</verse>
+        <verse osisID='Matt.7.2'>Çünki hansı hökmlə mühakimə etsəniz, onunla da mühakimə olunacaqsınız. Siz hansı ölçü ilə ölçsəniz, sizin üçün də eyni ölçü ilə ölçüləcək.</verse>
+        <verse osisID='Matt.7.3'>Sən nə üçün qardaşının gözündə çöpü görürsən, amma öz gözündəki tiri seçmirsən?</verse>
+        <verse osisID='Matt.7.4'>Öz gözündə tir ola-ola qardaşına necə deyə bilərsən: “Qoy gözündəki çöpü çıxarım!”</verse>
+        <verse osisID='Matt.7.5'>Ey ikiüzlü, əvvəlcə öz gözündən tiri çıxar, onda aydın görərsən ki, qardaşının gözündəki çöpü necə çıxarmaq olar. </verse>
+        <verse osisID='Matt.7.6'>Müqəddəs olanı itlərə verməyin və mirvarilərinizi donuzlara atmayın; yoxsa bunları ayaqları ilə tapdalayarlar və dönüb sizi parçalayarlar. </verse>
+        <verse osisID='Matt.7.7'>Diləyin, sizə veriləcək, axtarın, tapacaqsınız, qapını döyün və sizə açılacaq.</verse>
+        <verse osisID='Matt.7.8'>Çünki hər diləyən alar, axtaran tapar, qapı döyənə açılar.</verse>
+        <verse osisID='Matt.7.9'>Aranızdan kimsə oğlu ondan çörək diləsə, ona daş verərmi?</verse>
+        <verse osisID='Matt.7.10'>Ya da balıq diləsə, ona ilan verərmi?</verse>
+        <verse osisID='Matt.7.11'>Beləliklə, siz pis olduğunuz halda öz övladlarınıza yaxşı hədiyyələr verməyi bilirsinizsə, göylərdə olan Atanızın Ondan diləyənlərə gözəl hədiyyələr verəcəyi nə qədər yəqindir! </verse>
+        <verse osisID='Matt.7.12'>İnsanların sizinlə necə rəftar etməsini istəyirsinizsə, siz də onlarla elə rəftar edin. Çünki Qanun və Peyğəmbərlərin söylədiyi də elə budur. </verse>
+        <verse osisID='Matt.7.13'>Dar qapıdan girin. Çünki həlaka aparan qapı geniş və yolu enlidir. Bu qapıdan girənlər çoxdur.</verse>
+        <verse osisID='Matt.7.14'>Amma həyata aparan qapı dar və yolu ensizdir, onu tapanlar azdır. </verse>
+        <verse osisID='Matt.7.15'>Yalançı peyğəmbərlərdən özünüzü gözləyin! Onlar yanınıza quzu cildində gələrlər, amma daxilən yırtıcı qurddurlar.</verse>
+        <verse osisID='Matt.7.16'>Onları bəhrələrindən tanıyacaqsınız. Qaratikandan üzüm yaxud qanqaldan əncir yığılarmı?</verse>
+        <verse osisID='Matt.7.17'>Beləcə də hər yaxşı ağac yaxşı bəhrə, pis ağac isə pis bəhrə verər.</verse>
+        <verse osisID='Matt.7.18'>Yaxşı ağac pis bəhrə verə bilməz, pis ağac da yaxşı bəhrə verə bilməz.</verse>
+        <verse osisID='Matt.7.19'>Yaxşı bəhrə verməyən hər ağac kəsilər və oda atılar.</verse>
+        <verse osisID='Matt.7.20'>Beləliklə, yalançı peyğəmbərləri bəhrələrindən tanıyacaqsınız. </verse>
+        <verse osisID='Matt.7.21'>Mənə “ya Rəbb, ya Rəbb” deyən hər kəs Səmavi Padşahlığa girməyəcək; lakin göylərdə olan Atamın iradəsini yerinə yetirən oraya girəcək.</verse>
+        <verse osisID='Matt.7.22'>O gün bir çoxları Mənə deyəcək: “Ya Rəbb, ya Rəbb, biz Sənin adınla peyğəmbərlik etmirdikmi? Sənin adınla cinləri qovmurduqmu? Sənin adınla bir çox möcüzələr yaratmırdıqmı?”</verse>
+        <verse osisID='Matt.7.23'>Onda Mən onlara bəyan edəcəyəm: “Ey qanunsuzluq edənlər, Mən sizi heç vaxt tanımamışam, Məndən uzaq olun!” </verse>
+        <verse osisID='Matt.7.24'>Beləliklə, bu sözlərimi eşidib onlara əməl edən hər kəs öz evini qaya üzərində quran ağıllı adama bənzəyir.</verse>
+        <verse osisID='Matt.7.25'>Yağış yağar, sellər gələr, yellər əsər və o evə hücum edər. Amma ev uçmaz, çünki təməli qaya üzərində qurulub.</verse>
+        <verse osisID='Matt.7.26'>Bu sözlərimi eşidib onlara əməl etməyən hər kəs isə öz evini qum üzərində tikən ağılsız adama bənzəyir.</verse>
+        <verse osisID='Matt.7.27'>Yağış yağar, sellər gələr, yellər əsər və o evə hücum edər. Ev uçar və onun yıxılması bir müsibət olar». </verse>
+        <verse osisID='Matt.7.28'>İsa bu sözləri bitirəndə xalq Onun təliminə təəccübləndi,</verse>
+        <verse osisID='Matt.7.29'>çünki onlara öz ilahiyyatçıları kimi deyil, səlahiyyət sahibi kimi təlim öyrədirdi.  </verse>
+      </chapter>
+      <chapter osisID='Matt.8'>
+        <verse osisID='Matt.8.1'>
+          İsa dağdan endiyi zaman böyük bir izdiham Onun ardınca getdi.</verse>
+        <verse osisID='Matt.8.2'>Bu zaman cüzamlı bir adam yaxınlaşıb «ya Rəbb, əgər istəsən, məni pak edə bilərsən» deyərək Ona səcdə qıldı.</verse>
+        <verse osisID='Matt.8.3'>İsa əlini uzadıb ona toxundu və dedi: «İstəyirəm, pak ol!» Dərhal bu adam cüzamdan pak oldu.</verse>
+        <verse osisID='Matt.8.4'>İsa ona dedi: «Bax heç kəsə bir söz demə, amma get, özünü kahinə göstər. Hər kəsə şəhadət olsun deyə Musanın buyurduğu təqdimi apar». </verse>
+        <verse osisID='Matt.8.5'>İsa Kefernahuma girərkən bir yüzbaşı Ona yaxınlaşıb yalvardı:</verse>
+        <verse osisID='Matt.8.6'>«Ya Rəbb, xidmətçim iflic olub evdə yatır, çox iztirab çəkir».</verse>
+        <verse osisID='Matt.8.7'>İsa ona dedi: «Mən gəlib ona şəfa verəcəyəm».</verse>
+        <verse osisID='Matt.8.8'>Yüzbaşı cavab verərək dedi: «Ya Rəbb, mən layiq deyiləm ki, Sən mənim evimə girəsən. Ancaq bir söz söylə, onda xidmətçim sağalacaq.</verse>
+        <verse osisID='Matt.8.9'>Çünki mən də tabeçilik altında olan bir adamam, mənim də tabeçiliyimdə əsgərlər var. Birinə “Get!” deyirəm, o gedir, digərinə isə “Gəl!” deyirəm, o da gəlir. Quluma “Bunu et!” deyirəm, o da edir».</verse>
+        <verse osisID='Matt.8.10'>Bunu eşidən İsa heyrət etdi. O ardınca gələn xalqa dedi: «Sizə doğrusunu deyirəm: İsraildə heç kimdə belə böyük iman görmədim.</verse>
+        <verse osisID='Matt.8.11'>Sizə deyirəm ki, şərqdən və qərbdən bir çoxu gələcək və Səmavi Padşahlıqda İbrahimlə, İshaqla və Yaqubla bir süfrəyə oturacaq.</verse>
+        <verse osisID='Matt.8.12'>Amma bu padşahlığın əsl övladları isə qaranlıq çölə atılacaq. Orada ağlaşma və diş qıcırtısı olacaq».</verse>
+        <verse osisID='Matt.8.13'>Sonra İsa yüzbaşıya dedi: «Get, qoy sənin imanına görə olsun». Yüzbaşının xidmətçisi də o saat sağaldı. </verse>
+        <verse osisID='Matt.8.14'>İsa Peterin evinə gəldi. Onun qayınanasının qızdırma içində yatdığını gördü.</verse>
+        <verse osisID='Matt.8.15'>İsa onun əlinə toxundu və qadının qızdırması düşdü. Qadın qalxıb İsaya xidmət etməyə başladı. </verse>
+        <verse osisID='Matt.8.16'>Axşam olduqda isə cinə tutulmuş bir çox adamı İsanın yanına gətirdilər. O, sözlə ruhları çıxartdı və xəstələrin hamısına şəfa verdi.</verse>
+        <verse osisID='Matt.8.17'>Bu, Yeşaya peyğəmbər vasitəsilə söylənən bu sözlər yerinə yetsin deyə baş verdi:  «Bizim xəstəliklərimizi O çəkdi,Naxoşluqlarımızı Öz üzərinə götürdü». </verse>
+        <verse osisID='Matt.8.18'>İsa ətrafında izdihamı gördükdə əmr verdi ki, o biri sahilə keçsin.</verse>
+        <verse osisID='Matt.8.19'>Bu zaman bir ilahiyyatçı Ona yaxınlaşıb dedi: «Müəllim! Sən hara getsən, Sənin ardınca gedəcəyəm».</verse>
+        <verse osisID='Matt.8.20'>İsa ona dedi: «Tülkülərin də yuvası, göydə uçan quşların da yuvası var. Amma Bəşər Oğlunun başını qoymağa belə, yeri yoxdur». </verse>
+        <verse osisID='Matt.8.21'>Şagirdlərindən bir başqası İsaya dedi: «Ya Rəbb, mənə icazə ver, əvvəlcə gedim, atamı dəfn edim».</verse>
+        <verse osisID='Matt.8.22'>İsa ona dedi: «Ardımca gəl. Qoy ölülər öz ölülərini dəfn etsin». </verse>
+        <verse osisID='Matt.8.23'>İsa qayığa mindiyi zaman şagirdləri də Onun ardınca getdi.</verse>
+        <verse osisID='Matt.8.24'>Göldə elə böyük tufan qopdu ki, qayıq dalğalarla örtüldü. Amma İsa yatırdı.</verse>
+        <verse osisID='Matt.8.25'>Şagirdlər yaxınlaşıb İsanı oyadaraq dedilər: «Ya Rəbb, bizi xilas et, biz həlak oluruq!»</verse>
+        <verse osisID='Matt.8.26'>İsa onlara «Ey imanı az olanlar, niyə qorxursunuz?» dedi. Sonra durub küləklərə və gölə qadağan etdi, onda dərin sükut çökdü.</verse>
+        <verse osisID='Matt.8.27'>Onlar heyrət içində qalıb dedilər: «Bu necə bir Adamdır ki, küləklər də, göl də Ona itaət edir?» </verse>
+        <verse osisID='Matt.8.28'>İsa o biri sahildə yerləşən Qadaralıların diyarına gəldiyi zaman qəbir mağaralarından çıxan cinə tutulmuş iki nəfər Onunla qarşılaşdı. Onlar elə təhlükəli idi ki, heç kim o yoldan keçə bilmirdi.</verse>
+        <verse osisID='Matt.8.29'>Budur, onlar bağırdılar: «Ey Allahın Oğlu, bizdən nə istəyirsən? Buraya vaxtından əvvəl bizə iztirab verməyəmi gəlmisən?»</verse>
+        <verse osisID='Matt.8.30'>Onlardan uzaqda böyük bir donuz sürüsü otlayırdı.</verse>
+        <verse osisID='Matt.8.31'>Cinlər İsaya yalvardılar: «Bizi qovacaqsansa, bu donuz sürüsünə göndər».</verse>
+        <verse osisID='Matt.8.32'>İsa onlara «Gedin!» dedi. Cinlər də adamlardan çıxıb donuzların içinə girdi. Beləliklə, bütün sürü uçurumdan aşağı, gölə atılıb suda boğuldu.</verse>
+        <verse osisID='Matt.8.33'>Donuz otaranlar isə qaçdılar, şəhərə gəlib hər şeyi və cinə tutulmuş adamların başına gələn əhvalatı xəbər verdilər.</verse>
+        <verse osisID='Matt.8.34'>Bundan sonra bütün şəhər əhalisi İsanı qarşılamağa çıxdı. İsanı görəndə Ona yalvardılar ki, onların bölgəsindən çıxsın.  </verse>
+      </chapter>
+      <chapter osisID='Matt.9'>
+        <verse osisID='Matt.9.1'>
+          İsa qayığa minərək gölü keçdi və Öz şəhərinə gəldi.</verse>
+        <verse osisID='Matt.9.2'>Onun yanına yataqda yatan bir iflic adamı gətirdilər. İsa onların imanını görəndə iflic olan adama dedi: «Cəsarətli ol, oğlum, günahların bağışlandı».</verse>
+        <verse osisID='Matt.9.3'>Onda bəzi ilahiyyatçılar öz-özünə dedilər: «Bu Adam küfr danışır».</verse>
+        <verse osisID='Matt.9.4'>Onların nə düşündüklərini görərək İsa dedi: «Niyə ürəyinizdə pis şeylər fikirləşirsiniz?</verse>
+        <verse osisID='Matt.9.5'>Bax hansı daha asandır? “Günahların bağışlandı” deməkmi, yoxsa “Qalx, yeri!” demək?</verse>
+        <verse osisID='Matt.9.6'>Lakin siz bilin ki, Bəşər Oğlunun yer üzündə günahları bağışlamaq səlahiyyəti var» və onda iflicə dedi: «Qalx, yatağını götür və evinə get!»</verse>
+        <verse osisID='Matt.9.7'>Xəstə qalxıb evinə getdi.</verse>
+        <verse osisID='Matt.9.8'>Xalq bunu gördükdə qorxdu və insanlara bu cür səlahiyyət verən Allahı izzətləndirdi. </verse>
+        <verse osisID='Matt.9.9'>İsa oradan keçəndə vergi yığılan yerdə oturan Matta adlı bir adamı görüb ona dedi: «Ardımca gəl». O da durub İsanın ardınca getdi. </verse>
+        <verse osisID='Matt.9.10'>İsa evdə süfrəyə oturanda bir çox vergiyığanlarla günahkarlar gəlib Onunla və şagirdləri ilə birgə oturdular.</verse>
+        <verse osisID='Matt.9.11'>Fariseylər bunu gördükdə Onun şagirdlərinə dedilər: «Niyə Müəlliminiz vergiyığanlar və günahkarlarla birgə yemək yeyir?»</verse>
+        <verse osisID='Matt.9.12'>Amma İsa bunu eşidəndə dedi: «Sağlamların deyil, xəstələrin həkimə ehtiyacı var.</verse>
+        <verse osisID='Matt.9.13'>Gedin və “Mən qurban deyil, mərhəmət istəyirəm” sözünün mənasını öyrənin. Çünki Mən salehləri deyil, günahkarları çağırmaq üçün gəlmişəm». </verse>
+        <verse osisID='Matt.9.14'>O zaman Yəhyanın şagirdləri İsanın yanına gəlib dedilər: «Nə üçün biz və fariseylər çox oruc tuturuq, amma Sənin şagirdlərin oruc tutmur?»</verse>
+        <verse osisID='Matt.9.15'>İsa onlara cavab verdi: «Bəy yanlarında olanda sağdışı və soldışı yas tuta bilərmi? Lakin bəyin onların arasından aparılacağı günlər gələcək və o zaman oruc tutacaqlar. </verse>
+        <verse osisID='Matt.9.16'>Heç kim köhnə paltara təzə parçadan yamaq vurmaz. Çünki təzə yamaq köhnə paltardan qopar və yırtıq daha pis olar.</verse>
+        <verse osisID='Matt.9.17'>Eləcə də təzə şərabı köhnə tuluqlara doldurmazlar. Yoxsa tuluqlar partlayar, şərab tökülər, tuluqlar da zay olar. Təzə şərab təzə tuluqlara doldurular; onda hər ikisi qorunar». </verse>
+        <verse osisID='Matt.9.18'>Bu şeyləri onlara söyləyərkən bir rəis gəldi və Ona səcdə qılaraq dedi: «Qızım indi ölür, amma gəlib əlini onun üstünə qoysan, yaşayacaq».</verse>
+        <verse osisID='Matt.9.19'>İsa qalxıb şagirdləri ilə onun ardınca getdi. </verse>
+        <verse osisID='Matt.9.20'>Həmin vaxt on iki il qanaxma xəstəliyinə tutulan bir qadın İsanın arxasından gəlib Onun paltarının ətəyinə toxundu.</verse>
+        <verse osisID='Matt.9.21'>Çünki öz-özünə deyirdi: «Heç olmasa paltarına toxunsam, sağalaram».</verse>
+        <verse osisID='Matt.9.22'>İsa da dönüb onu görərək dedi: «Cəsarətli ol, qızım, imanın səni xilas etdi». Qadın o saat sağaldı. </verse>
+        <verse osisID='Matt.9.23'>İsa rəisin evinə gələndə tütək çalanları və qarışıqlıq salan izdihamı gördü</verse>
+        <verse osisID='Matt.9.24'>və dedi: «Çəkilin buradan, çünki qız ölməyib, sadəcə olaraq yatıb». Onlar İsaya güldülər.</verse>
+        <verse osisID='Matt.9.25'>Amma camaat çölə çıxarılanda İsa içəri girdi və qızın əlindən tutdu; qız da ayağa qalxdı.</verse>
+        <verse osisID='Matt.9.26'>Bu xəbər o torpağın hər tərəfinə yayıldı. </verse>
+        <verse osisID='Matt.9.27'>İsa oradan keçərkən iki kor adam Onun ardınca gələrək qışqırırdı: «Ey Davud Oğlu! Bizə rəhm elə!»</verse>
+        <verse osisID='Matt.9.28'>Evə girdikdə korlar Onun yanına gəldilər. İsa onlara dedi: «Bunu etməyə qadir olduğuma inanırsınızmı?» Kor adamlar Ona dedilər: «Bəli, ya Rəbb».</verse>
+        <verse osisID='Matt.9.29'>O zaman İsa onların gözlərinə toxunaraq dedi: «Sizə imanınıza görə olsun».</verse>
+        <verse osisID='Matt.9.30'>Onların gözləri açıldı. İsa «baxın heç kim bu barədə bilməsin» deyə onlara ciddi tapşırdı.</verse>
+        <verse osisID='Matt.9.31'>Onlar isə çıxıb Onun haqqındakı xəbəri o torpağın hər tərəfinə yaydılar. </verse>
+        <verse osisID='Matt.9.32'>Onlar çıxarkən cinə tutulmuş lal bir adamı İsanın yanına gətirdilər.</verse>
+        <verse osisID='Matt.9.33'>Cin qovulandan sonra lal danışmağa başladı. Xalq heyrətlənərək dedi: «İsraildə heç vaxt belə bir şey baş verməmişdi».</verse>
+        <verse osisID='Matt.9.34'>Lakin fariseylər deyirdilər: «O, cinlərin başçısının gücü ilə cinləri qovur». </verse>
+        <verse osisID='Matt.9.35'>İsa bütün şəhər və kəndləri gəzib-dolaşaraq onların sinaqoqlarında təlim öyrədir, Səmavi Padşahlığın Müjdəsini vəz edir, hər cür xəstəliyə və hər cür naxoşluğa şəfa verirdi.</verse>
+        <verse osisID='Matt.9.36'>Lakin izdihamı görəndə İsanın onlara rəhmi gəldi, çünki çobansız qoyunlar kimi taqətsiz və çarəsiz idilər.</verse>
+        <verse osisID='Matt.9.37'>O zaman İsa şagirdlərinə dedi: «Məhsul çoxdur, işçilərsə azdır.</verse>
+        <verse osisID='Matt.9.38'>Buna görə də məhsulun Sahibinə yalvarın ki, Öz məhsulunu yığmaq üçün işçilər göndərsin».  </verse>
+      </chapter>
+      <chapter osisID='Matt.10'>
+        <verse osisID='Matt.10.1'>
+          İsa On İki şagirdini yanına çağırıb onlara natəmiz ruhlar üzərində səlahiyyət verdi ki, bunları qovsunlar, hər cür xəstəliyə və hər cür naxoşluğa şəfa versinlər.</verse>
+        <verse osisID='Matt.10.2'>Bu On İki həvarinin adları belədir: birincisi Peter adlanan Şimon və onun qardaşı Andrey, Zavday oğlu Yaqub və qardaşı Yəhya,</verse>
+        <verse osisID='Matt.10.3'>Filip və Bartalmay, Tomas və vergiyığan Matta, Halfay oğlu Yaqub və Tadday,</verse>
+        <verse osisID='Matt.10.4'>Kənançı Şimon və İsaya xəyanət edən Yəhuda İskaryot. </verse>
+        <verse osisID='Matt.10.5'>İsa həmin on iki nəfəri belə əmrlə göndərdi: «Başqa millətlərin arasına getməyin və Samariyalıların heç bir şəhərinə girməyin,</verse>
+        <verse osisID='Matt.10.6'>amma İsrail xalqının itmiş qoyunlarının yanına gedin.</verse>
+        <verse osisID='Matt.10.7'>Getdiyiniz yerlərdə “Səmavi Padşahlıq yaxınlaşıb” deyə vəz edin.</verse>
+        <verse osisID='Matt.10.8'>Xəstələrə şəfa verin, ölüləri dirildin, cüzamlıları pak edin, cinləri çıxarın. Müftə aldınız, müftə verin.</verse>
+        <verse osisID='Matt.10.9'>Qurşağınızda nə qızıl, nə gümüş, nə də mis götürün.</verse>
+        <verse osisID='Matt.10.10'>Yol üçün nə torba, nə iki köynək, nə çarıq, nə də əsa götürün. Çünki işçi öz azuqəsinə layiqdir.</verse>
+        <verse osisID='Matt.10.11'>Hansı şəhərə ya kəndə girsəniz, orada ləyaqətli kimdirsə, axtarın və yola çıxanacan onun evində qalın.</verse>
+        <verse osisID='Matt.10.12'>O evə girərkən ev sakinlərini salamlayın.</verse>
+        <verse osisID='Matt.10.13'>Əgər ev layiqdirsə, əmin-amanlığınız onun üzərinə gəlsin; layiq deyilsə, əmin-amanlığınız özünüzə qayıtsın.</verse>
+        <verse osisID='Matt.10.14'>Kim sizi qəbul etməyib sözlərinizi dinləməzsə, o evdən və ya şəhərdən çıxarkən ayaqlarınızın tozunu çırpın.</verse>
+        <verse osisID='Matt.10.15'>Sizə doğrusunu deyirəm: qiyamət günü Sodom və Homorra diyarının halı o şəhərin halından daha asan olacaq. </verse>
+        <verse osisID='Matt.10.16'>Budur, sizi qurdlar arasına quzular kimi göndərirəm. Ona görə də ilan kimi müdrik və göyərçin kimi məsum olun.</verse>
+        <verse osisID='Matt.10.17'>İnsanlardan özünüzü gözləyin. Çünki onlar sizi məhkəmələrə çəkəcək, sinaqoqlarında qamçılayacaqlar.</verse>
+        <verse osisID='Matt.10.18'>Onlara və millətlərə şəhadət etmək üçün siz Mənə görə valilərin və padşahların qarşısına aparılacaqsınız.</verse>
+        <verse osisID='Matt.10.19'>Onlar sizi təslim edəndə necə və ya nə deyəcəyiniz barədə qayğı çəkməyin. Nə deyəcəyiniz həmin vaxt sizə bildiriləcək,</verse>
+        <verse osisID='Matt.10.20'>çünki danışan siz yox, sizdə danışan Atanızın Ruhudur.</verse>
+        <verse osisID='Matt.10.21'>Qardaş qardaşı, ata övladını ölümə təslim edəcək. Övladlar ata-anasına qarşı çıxıb onları edam etdirəcək.</verse>
+        <verse osisID='Matt.10.22'>Mənim adıma görə hamı sizə nifrət edəcək. Amma axıracan dözən xilas olacaq.</verse>
+        <verse osisID='Matt.10.23'>Sizi bir şəhərdə təqib edəndə başqasına qaçın. Çünki sizə doğrusunu deyirəm: siz İsrail şəhərlərini dolaşıb-qurtarmamış Bəşər Oğlu gələcək. </verse>
+        <verse osisID='Matt.10.24'>Şagird müəllimindən, qul da ağasından üstün deyil.</verse>
+        <verse osisID='Matt.10.25'>Şagirdin öz müəllimi, qulun isə öz ağası kimi olması ona kifayətdir. Əgər ev sahibinə Baal-Zevul dedilərsə, onun ailə üzvlərinə bundan nə qədər artıq deyəcəklər! </verse>
+        <verse osisID='Matt.10.26'>Beləliklə, onlardan qorxmayın. Çünki elə örtülü bir şey yoxdur ki, aşkara çıxmayacaq və elə gizli bir şey yoxdur ki, bilinməyəcək.</verse>
+        <verse osisID='Matt.10.27'>Sizə qaranlıqda dediklərimi gün işığında söyləyin və qulağınıza pıçıldananı damlardan bəyan edin.</verse>
+        <verse osisID='Matt.10.28'>Bədəni öldürüb canı öldürə bilməyənlərdən qorxmayın. Həm canı, həm bədəni cəhənnəmdə məhv edə bilən Allahdan qorxun.</verse>
+        <verse osisID='Matt.10.29'>İki sərçə bir qara pula satılmırmı? Onlardan biri belə, Atanızın izni olmadan yerə düşməz.</verse>
+        <verse osisID='Matt.10.30'>Sizin başınızdakı saçlar belə, sayılıb.</verse>
+        <verse osisID='Matt.10.31'>Ona görə də qorxmayın, siz saysız-hesabsız sərçədən daha dəyərlisiniz. </verse>
+        <verse osisID='Matt.10.32'>İnsanlar qarşısında Məni iqrar edən hər kəsi Mən də göylərdə olan Atamın qarşısında iqrar edəcəyəm.</verse>
+        <verse osisID='Matt.10.33'>Amma kim insanlar qarşısında Məni inkar etsə, Mən də onu göylərdə olan Atamın qarşısında inkar edəcəyəm. </verse>
+        <verse osisID='Matt.10.34'>Düşünməyin ki, yer üzünə sülh gətirməyə gəlmişəm. Mən sülh deyil, qılınc gətirməyə gəlmişəm.</verse>
+        <verse osisID='Matt.10.35'>Çünki Mən oğulu atasından, qızı anasından, gəlini də qayınanasından ayırmağa gəlmişəm.</verse>
+        <verse osisID='Matt.10.36'>“İnsanın düşməni öz ev əhli olacaq”.</verse>
+        <verse osisID='Matt.10.37'>Atasını ya anasını Məndən artıq sevən kəs Mənə layiq deyil. Oğlunu ya qızını Məndən artıq sevən də Mənə layiq deyil.</verse>
+        <verse osisID='Matt.10.38'>Çarmıxını götürüb ardımca gəlməyən kəs də Mənə layiq deyil.</verse>
+        <verse osisID='Matt.10.39'>Canını qoruyan kəs onu itirəcək, Mənim uğrumda canını itirənsə onu qoruyacaq. </verse>
+        <verse osisID='Matt.10.40'>Sizi qəbul edən kəs Məni qəbul edər. Məni qəbul edən də Məni Göndərəni qəbul edər.</verse>
+        <verse osisID='Matt.10.41'>Peyğəmbəri peyğəmbər olduğu üçün qəbul edən kəs peyğəmbərə layiq bir mükafat alacaq. Salehi saleh olduğu üçün qəbul edən də salehə layiq bir mükafat alacaq.</verse>
+        <verse osisID='Matt.10.42'>Kim bu kiçiklərdən birinə şagird olduğu üçün hətta bir kasa soyuq su içirdərsə, sizə doğrusunu deyirəm: mükafatsız qalmayacaq».  </verse>
+      </chapter>
+      <chapter osisID='Matt.11'>
+        <verse osisID='Matt.11.1'/>
+        <verse osisID='Matt.11.2'>Yəhya isə Məsihin işlərini zindanda eşidərək öz şagirdlərini göndərib</verse>
+        <verse osisID='Matt.11.3'>Ondan soruşdu: «Gəlməli Olan Sənsənmi, yoxsa başqasını gözləyək?»</verse>
+        <verse osisID='Matt.11.4'>İsa onlara belə cavab verdi: «Gedin, eşidib gördüklərinizi Yəhyaya bildirin:</verse>
+        <verse osisID='Matt.11.5'>korlar görür, axsaqlar yeriyir, cüzamlılar pak olur, karlar eşidir, ölülər dirilir və yoxsullara Müjdə yayılır.</verse>
+        <verse osisID='Matt.11.6'>Kim Mənə görə büdrəməsə, nə bəxtiyardır!» </verse>
+        <verse osisID='Matt.11.7'>Onlar gedərkən İsa camaata Yəhya haqqında danışmağa başladı: «Çölə nəyə baxmağa getmişdiniz? Küləyin sarsıtdığı qamışamı?</verse>
+        <verse osisID='Matt.11.8'>Bəs onda nəyə baxmağa getmişdiniz? Nəfis toxunmuş paltar geymiş bir adamamı? Amma nəfis toxunmuş paltar geyənlər padşahların saraylarında qalır.</verse>
+        <verse osisID='Matt.11.9'>Bəs onda nəyə baxmağa getmişdiniz? Bir peyğəmbərəmi? Bəli, sizə deyirəm, hətta peyğəmbərdən də üstün birinə.</verse>
+        <verse osisID='Matt.11.10'>Bu o adamdır ki, onun haqqında yazılıb:  “Budur, Sənin önündə Öz elçimi göndərirəm,O Sənin qabağında yolunu hazırlayacaq”.</verse>
+        <verse osisID='Matt.11.11'>Sizə doğrusunu deyirəm: qadından doğulanlar arasında Vəftizçi Yəhyadan daha üstün olan meydana çıxmayıb. Amma Səmavi Padşahlıqda ən kiçik olan ondan üstündür.</verse>
+        <verse osisID='Matt.11.12'>Vəftizçi Yəhyanın günlərindən indiyə qədər Səmavi Padşahlıq zorla alınır və zor işlədənlər onu ələ keçirir.</verse>
+        <verse osisID='Matt.11.13'>Çünki bütün Peyğəmbərlər və Qanun Yəhyaya qədər peyğəmbərlik etdi.</verse>
+        <verse osisID='Matt.11.14'>Əgər onu qəbul etmək istəyirsinizsə, gəlməli olan İlyas odur.</verse>
+        <verse osisID='Matt.11.15'>Qulağı olan eşitsin! </verse>
+        <verse osisID='Matt.11.16'>Bəs bu nəsli nəyə bənzədim? O, bazar meydanlarında oturan və  “Biz sizə tütək çaldıq, sizsə oynamadınız.Biz mərsiyələr oxuduq, sizsə matəm tutmadınız”  deyib başqalarını səsləyən uşaqlara bənzəyir.</verse>
+        <verse osisID='Matt.11.17'>Bəs bu nəsli nəyə bənzədim? O, bazar meydanlarında oturan və  “Biz sizə tütək çaldıq, sizsə oynamadınız.Biz mərsiyələr oxuduq, sizsə matəm tutmadınız”  deyib başqalarını səsləyən uşaqlara bənzəyir.</verse>
+        <verse osisID='Matt.11.18'>Çünki Yəhya gəldikdə nə çörək yeyir, nə şərab içirdi və onlar deyirlər: “O, cinə tutulmuşdur”.</verse>
+        <verse osisID='Matt.11.19'>Bəşər Oğlu gəldikdə yeyib-içdi və onlar deyirlər: “Bu qarınqulu və əyyaş adama baxın! Vergiyığanlara və günahkarlara dost oldu!” Amma hikmət öz əməlləri ilə təsdiq olunur». </verse>
+        <verse osisID='Matt.11.20'>Onda İsa bir çox möcüzələr göstərdiyi şəhərləri tövbə etmədikləri üçün məzəmmət etməyə başladı.</verse>
+        <verse osisID='Matt.11.21'>«Vay halına, ey Korazin! Vay halına, ey Bet-Sayda! Sizdə baş vermiş möcüzələr Sur və Sidonda olsaydı, onlar çoxdan çul geyinib külün üstündə oturaraq tövbə edərdilər.</verse>
+        <verse osisID='Matt.11.22'>Amma sizə deyirəm: qiyamət günü Sur və Sidonun halı sizinkindən daha asan olacaq.</verse>
+        <verse osisID='Matt.11.23'>Sən, ey Kefernahum, göyə qədər ucalacaqsanmı? Ölülər diyarına qədər enəcəksən. Çünki səndə baş vermiş möcüzələr Sodomda olsaydı, o bu günə qədər durardı.</verse>
+        <verse osisID='Matt.11.24'>Ancaq Mən sizə deyirəm: qiyamət günü Sodom diyarının halı səninkindən daha asan olacaq». </verse>
+        <verse osisID='Matt.11.25'>O vaxt İsa davam edərək dedi: «Ey yerin-göyün Sahibi olan Ata! Səndən razıyam ki, bu şeyləri müdrik və dərrakəli adamlardan gizlədib körpələrə agah etdin.</verse>
+        <verse osisID='Matt.11.26'>Bəli, Ata! Çünki bu Sənin xoş niyyətin idi.</verse>
+        <verse osisID='Matt.11.27'>Atam tərəfindən hər şey Mənim ixtiyarıma verildi. Oğulu Atadan başqa heç kəs tanımaz. Atanı da Oğuldan və Oğulun agah etmək istədiyi şəxsdən başqa heç kəs tanımaz. </verse>
+        <verse osisID='Matt.11.28'>Ey bütün yorğunlar və yükləri ağır olanlar, Mənim yanıma gəlin, Mən sizə rahatlıq verərəm.</verse>
+        <verse osisID='Matt.11.29'>Mənim boyunduruğumu üzərinizə götürün və Məndən öyrənin. Çünki Mən həlim və qəlbən itaətkaram. Bununla canınıza rahatlıq taparsınız.</verse>
+        <verse osisID='Matt.11.30'>Çünki Mənim boyunduruğum rahat və yüküm yüngüldür».  </verse>
+      </chapter>
+      <chapter osisID='Matt.12'>
+        <verse osisID='Matt.12.1'>
+           O vaxtlar İsa bir Şənbə günü taxıl zəmiləri arasından keçirdi. Şagirdləri ac idi və sünbülləri qırıb yeməyə başladılar.</verse>
+        <verse osisID='Matt.12.2'>Fariseylər bunu görüb Ona dedilər: «Budur, şagirdlərin Şənbə günü qadağan olunan işləri görürlər».</verse>
+        <verse osisID='Matt.12.3'>İsa onlara dedi: «Davud və yanındakılar ac olanda nə etdiklərini oxumamısınızmı?</verse>
+        <verse osisID='Matt.12.4'>O, Allahın evinə girdi; ona və yanındakılara deyil, yalnız kahinlərə yeməyə icazə verilən təqdis çörəklərini yedilər.</verse>
+        <verse osisID='Matt.12.5'>Eləcə də Qanunda oxumamısınız ki, kahinlər məbəddə Şənbəni pozurlar, lakin təqsirsiz sayılırlar?</verse>
+        <verse osisID='Matt.12.6'>Amma sizə deyirəm ki, məbəddən daha üstün Olan buradadır.</verse>
+        <verse osisID='Matt.12.7'>Əgər siz “Mən qurban deyil, mərhəmət istəyirəm” sözünün mənasını bilsəydiniz, təqsirsizləri məhkum etməzdiniz.</verse>
+        <verse osisID='Matt.12.8'>Ona görə ki Bəşər Oğlu Şənbə gününün Sahibidir». </verse>
+        <verse osisID='Matt.12.9'>İsa oradan ayrılıb onların sinaqoquna girdi.</verse>
+        <verse osisID='Matt.12.10'>Budur, orada əli qurumuş bir adam var idi. Bəzi adamlar İsanı ittiham etmək məqsədi ilə «Şənbə günü şəfa verməyə icazə varmı?» deyə soruşdular.</verse>
+        <verse osisID='Matt.12.11'>İsa onlara belə cavab verdi: «Hansınızın bir qoyunu olarsa və qoyun Şənbə günü çuxura düşərsə, onu tutub çıxartmaz?</verse>
+        <verse osisID='Matt.12.12'>İnsan qoyundan nə qədər dəyərlidir! Beləliklə, Şənbə günü xeyirxah iş görməyə icazə var».</verse>
+        <verse osisID='Matt.12.13'>Sonra İsa adama dedi: «Əlini uzat!» O, əlini uzatdı və əli əvvəlki halına qayıdıb o biri əli kimi sağlam oldu.</verse>
+        <verse osisID='Matt.12.14'>Fariseylər çıxıb İsanı necə məhv etmək barədə məsləhətləşdilər. </verse>
+        <verse osisID='Matt.12.15'>İsa bunu bilib oradan uzaqlaşdı. Böyük bir izdiham Onun ardınca getdi və İsa onların hamısına şəfa verdi.</verse>
+        <verse osisID='Matt.12.16'>Amma onlara qadağan etdi ki, Onun kim olduğunu deməsinlər.</verse>
+        <verse osisID='Matt.12.17'>Bu, Yeşaya peyğəmbər vasitəsilə söylənən həmin söz yerinə yetsin deyə baş verdi:</verse>
+        <verse osisID='Matt.12.18'>«Budur, Mənim seçdiyim Qulum!Mənə sevimlidir, könlüm Ondan razıdır.Mən Öz Ruhumu Onun üzərinə qoyacağam.O, millətlərə ədalət elan edəcək.</verse>
+        <verse osisID='Matt.12.19'>O nə mübahisə, nə də fəryad edəcək.Küçələrdə heç kim Onun səsini eşitməyəcək.</verse>
+        <verse osisID='Matt.12.20'>Ədaləti zəfərə çatdırana qədərƏzilmiş qamışı qırmayacaq,Tüstülənən piltəni söndürməyəcək.</verse>
+        <verse osisID='Matt.12.21'>Millətlər Onun adına ümid bağlayacaq». </verse>
+        <verse osisID='Matt.12.22'>Ondan sonra İsanın yanına cinə tutulmuş kor və lal bir adamı gətirdilər. İsa ona şəfa verdi. Beləcə o danışmağa və görməyə başladı.</verse>
+        <verse osisID='Matt.12.23'>Bütün xalq «Bu, Davudun Oğlu deyilmi?» deyə mat qaldı.</verse>
+        <verse osisID='Matt.12.24'>Lakin fariseylər bunu eşitdikdə dedilər: «Bu Adam ancaq cinlərin başçısı Baal-Zevulun gücü ilə cinləri qovur». </verse>
+        <verse osisID='Matt.12.25'>Fariseylərin nə düşündüklərini bilən İsa onlara dedi: «Öz daxilindən bölünmüş hər padşahlıq viran qalar və öz daxilindən bölünmüş hər şəhər yaxud ev davam gətirməz.</verse>
+        <verse osisID='Matt.12.26'>Əgər Şeytan Şeytanı qovarsa, özü daxilindən bölünmüş olur. Bu vəziyyətdə onun padşahlığı necə davam gətirər?</verse>
+        <verse osisID='Matt.12.27'>Əgər Mən cinləri Baal-Zevulun gücü ilə qovuramsa, bəs sizin adamlarınız kimin gücü ilə qovur? Buna görə də onlar sizin hakimləriniz olacaq.</verse>
+        <verse osisID='Matt.12.28'>Lakin Mən cinləri Allahın Ruhu ilə qovuramsa, deməli, Allahın Padşahlığı üzərinizə gəlib.</verse>
+        <verse osisID='Matt.12.29'>Bir kimsə güclü adamın evinə girib əvvəlcə onun əl-qolunu bağlamadan onun malını necə qarət edə bilər? Gərək o adamın əvvəlcə əl-qolunu bağlasın, sonra evini qarət etsin.</verse>
+        <verse osisID='Matt.12.30'>Mənimlə olmayan Mənə qarşıdır və Mənimlə yığmayan dağıdır. </verse>
+        <verse osisID='Matt.12.31'>Buna görə sizə deyirəm: hər bir günah və hər bir küfr insanlara bağışlanacaq; amma Ruha qarşı küfr bağışlanmayacaq.</verse>
+        <verse osisID='Matt.12.32'>Kim Bəşər Oğluna qarşı söz söyləyərsə, bağışlanacaq; amma kim Müqəddəs Ruha qarşı söyləyərsə, nə bu dövrdə bağışlanacaq, nə də gələcək dövrdə. </verse>
+        <verse osisID='Matt.12.33'>Ya ağaca yaxşı, bəhrəsinə də yaxşı deyin yaxud ağaca pis, bəhrəsinə də pis deyin; çünki ağac bəhrəsindən tanınır.</verse>
+        <verse osisID='Matt.12.34'>Ey gürzələr nəsli, siz pis olduğunuz halda necə yaxşı şeylər söyləyə bilərsiniz? Çünki ürək doluluğundan ağız danışar.</verse>
+        <verse osisID='Matt.12.35'>Yaxşı adam yaxşılıq xəzinəsindən yaxşı şeylər çıxarır, pis adam isə pislik xəzinəsindən pis şeylər çıxarır.</verse>
+        <verse osisID='Matt.12.36'>Mən sizə deyirəm: insanlar söylədikləri hər boş söz üçün qiyamət günü hesab verəcəklər.</verse>
+        <verse osisID='Matt.12.37'>Çünki öz sözlərinə görə haqq qazanacaqsan və öz sözlərinə görə məhkum olunacaqsan». </verse>
+        <verse osisID='Matt.12.38'>O zaman bəzi ilahiyyatçılar və fariseylər İsaya dedilər: «Müəllim, Səndən bir əlamət görmək istəyirik».</verse>
+        <verse osisID='Matt.12.39'>İsa onlara belə cavab verdi: «Pis və vəfasız nəsil bir əlamət axtarır. Amma ona Yunus peyğəmbərin əlamətindən başqa heç bir əlamət verilməyəcək.</verse>
+        <verse osisID='Matt.12.40'>Çünki Yunus üç gün-üç gecə nəhəng balığın qarnında necə qalmışdısa, Bəşər Oğlu da üç gün-üç gecə yerin bağrında elə qalacaq.</verse>
+        <verse osisID='Matt.12.41'>Nineva xalqı qiyamət günündə bu nəsillə birgə qalxıb onu məhkum edəcək. Çünki onlar Yunusun vəzinə görə tövbə etmişdilər. Budur, Yunusdan daha böyük Olan buradadır.</verse>
+        <verse osisID='Matt.12.42'>Cənub mələkəsi qiyamət günündə bu nəsillə birgə qalxıb onu məhkum edəcək. Çünki mələkə Süleymanın hikmətli sözlərini dinləmək üçün yer üzünün ucqarlarından gəlmişdi. Budur, Süleymandan daha böyük Olan buradadır. </verse>
+        <verse osisID='Matt.12.43'>Natəmiz ruh adamdan çıxdıqdan sonra quraq yerlərdə dolaşar, rahatlıq axtarar, lakin tapmaz.</verse>
+        <verse osisID='Matt.12.44'>O zaman deyər: “Çıxdığım evə dönüm”. Evə qayıdanda onu boş, süpürülmüş və səliqə-sahman içində görər.</verse>
+        <verse osisID='Matt.12.45'>Bu vaxt o gedib özündən daha betər yeddi başqa ruhu özü ilə götürər. Onlar da oraya girib məskunlaşar. Onda bu adamın axırı əvvəlkindən daha pis olar. Bu pis nəslin də başına belə iş gələcək». </verse>
+        <verse osisID='Matt.12.46'>İsa camaatla söhbət edəndə anası və qardaşları bayırda durub Onunla danışmaq istəyirdilər.</verse>
+        <verse osisID='Matt.12.47'>Bir nəfər İsaya dedi: «Budur, anan və qardaşların bayırda dayanıb Səninlə danışmaq istəyirlər».</verse>
+        <verse osisID='Matt.12.48'>Amma İsa bu sözü söyləyənə cavab verib dedi: «Mənim anam və qardaşlarım kimlərdir?»</verse>
+        <verse osisID='Matt.12.49'>Əlini şagirdlərinə doğru uzadaraq dedi: «Mənim anam və qardaşlarım bunlardır.</verse>
+        <verse osisID='Matt.12.50'>Çünki kim göylərdə olan Atamın iradəsini yerinə yetirirsə, Mənim qardaşım, bacım və anam odur».  </verse>
+      </chapter>
+      <chapter osisID='Matt.13'>
+        <verse osisID='Matt.13.1'>
+          O gün İsa evdən çıxdı və gedib göl kənarında oturdu.</verse>
+        <verse osisID='Matt.13.2'>Yanına elə böyük izdiham toplaşdı ki, Özü bir qayığa minib oturdu və bütün izdiham sahildə durdu.</verse>
+        <verse osisID='Matt.13.3'>İsa onlara məsəllərlə bir çox şey öyrədərək dedi: «Bir əkinçi toxum səpməyə çıxdı.</verse>
+        <verse osisID='Matt.13.4'>Səpin zamanı toxumlardan bəzisi yol kənarına düşdü və quşlar gəlib onları dənlədi.</verse>
+        <verse osisID='Matt.13.5'>Bəzisi torpağı çox olmayan daş-kəsəkli yerlərə düşdü. Torpağı dərin olmadığına görə tez cücərdi.</verse>
+        <verse osisID='Matt.13.6'>Lakin günəş doğanda qarsalandı və kökləri olmadığına görə qurudu.</verse>
+        <verse osisID='Matt.13.7'>Bəzisi tikanlar arasına düşdü. Tikanlar böyüyüb onları boğdu.</verse>
+        <verse osisID='Matt.13.8'>Başqaları isə münbit torpağa düşdü. Bəzisi yüz, bəzisi altmış, bəzisi otuz qat səmərə verdi.</verse>
+        <verse osisID='Matt.13.9'>Qulağı olan eşitsin!» </verse>
+        <verse osisID='Matt.13.10'>Şagirdlər İsaya yaxınlaşıb dedilər: «Nə üçün onlara məsəllərlə danışırsan?»</verse>
+        <verse osisID='Matt.13.11'>O isə onlara belə cavab verdi: «Səmavi Padşahlığın sirlərini bilmə qabiliyyəti sizə verilmişdir, lakin onlara verilməmişdir.</verse>
+        <verse osisID='Matt.13.12'>Çünki kimin varıdırsa, ona daha çox veriləcək və o, bolluq içində olacaq. Amma kimin yoxudursa, əlində olan da ondan alınacaq.</verse>
+        <verse osisID='Matt.13.13'>Mənim onlarla məsəllərlə danışmağımın məqsədi budur ki, “gördükləri halda görməzlər, eşitdikləri halda eşitməzlər və anlamazlar”.</verse>
+        <verse osisID='Matt.13.14'>Yeşaya peyğəmbərin onlar üçün dediyi bu sözlər yerinə yetir:  “Eşitdikcə eşidəcəksiniz, amma anlamayacaqsınız,Gördükcə görəcəksiniz, amma qanmayacaqsınız.</verse>
+        <verse osisID='Matt.13.15'>Çünki bu xalqın ürəyi kütləşdi,Qulaqları ağır eşitdi,Gözlərini yumdular ki,Gözləri ilə görməsinlər,Qulaqları ilə eşitməsinlər,Ürəkləri ilə anlamasınlarVə Mənə sarı dönməsinlər ki,Mən onlara şəfa verim”.</verse>
+        <verse osisID='Matt.13.16'>Amma sizin gözləriniz nə bəxtiyardır, çünki görür və qulaqlarınız nə bəxtiyardır, çünki eşidir!</verse>
+        <verse osisID='Matt.13.17'>Sizə doğrusunu deyirəm: bir çox peyğəmbərlər və saleh adamlar sizin gördüklərinizi görməyi arzuladılar, amma görmədilər, eşitdiklərinizi eşitməyi arzuladılar, amma eşitmədilər. </verse>
+        <verse osisID='Matt.13.18'>İndi əkinçi barədə məsəlin izahını dinləyin:</verse>
+        <verse osisID='Matt.13.19'>kim Səmavi Padşahlıqla bağlı kəlamı eşidib anlamırsa, şər olan gəlib onun ürəyində səpilmiş olanı oğurlayır. Yol kənarına səpilən toxum budur.</verse>
+        <verse osisID='Matt.13.20'>Daş-kəsəkli yerlərə səpilən isə kəlamı eşidir və dərhal sevinclə qəbul edir.</verse>
+        <verse osisID='Matt.13.21'>Lakin onda kök olmadığına görə dözümü az olur, kəlama görə əziyyət və təqibə məruz qalan kimi yıxılır.</verse>
+        <verse osisID='Matt.13.22'>Tikanlar arasına səpilən odur ki, kəlamı eşidir, lakin bu dövrün qayğıları və var-dövlətin aldadıcılığı kəlamı boğur və kəlam barsız olur.</verse>
+        <verse osisID='Matt.13.23'>Münbit torpağa səpilənsə odur ki, kəlamı eşidir, anlayır və doğrudan da, səmərə – bəzisi yüz, bəzisi altmış, bəzisi otuz qat səmərə verir». </verse>
+        <verse osisID='Matt.13.24'>İsa onlara başqa bir məsəl də çəkdi: «Səmavi Padşahlıq tarlasına yaxşı toxum səpmiş bir adama bənzəyir.</verse>
+        <verse osisID='Matt.13.25'>Adamlar yatanda onun düşməni gəlib buğdaların arasına dəlicə səpib getdi.</verse>
+        <verse osisID='Matt.13.26'>Buğda böyüyüb bəhrə verəndə dəlicələr də göründü.</verse>
+        <verse osisID='Matt.13.27'>Ev sahibinin qulları gəlib ona belə dedilər: “Ağa, sən tarlana yaxşı toxum səpmədinmi? Bəs bu dəlicə haradan əmələ gəldi?”</verse>
+        <verse osisID='Matt.13.28'>O isə qullara dedi: “Bunu düşmən etmişdir”. Qullar da ona dedilər: “İstəyirsənmi gedib onları çıxaraq?”</verse>
+        <verse osisID='Matt.13.29'>O dedi: “Yox, çünki dəlicələri çıxararkən onlarla birgə buğdanı da qopararsınız.</verse>
+        <verse osisID='Matt.13.30'>Qoy biçinə qədər hər ikisi birlikdə böyüsün. Biçin vaxtı mən biçinçilərə deyəcəyəm: ‹Əvvəlcə dəlicələri toplayın və yandırmaq üçün onlardan dərz bağlayın, buğdanı isə anbarlarıma toplayın›”». </verse>
+        <verse osisID='Matt.13.31'>İsa onlara başqa bir məsəl də danışaraq dedi: «Səmavi Padşahlıq bir adamın götürüb öz tarlasında səpdiyi xardal toxumuna bənzəyir.</verse>
+        <verse osisID='Matt.13.32'>Xardal toxumu bütün toxumların ən kiçiyi olsa da, böyüdükdə bütün bostan bitkilərindən hündür, lap ağac boyda olur. Belə ki göydə uçan quşlar gəlib onun budaqlarında yuva qurur». </verse>
+        <verse osisID='Matt.13.33'>İsa onlara başqa bir məsəl də söylədi: «Səmavi Padşahlıq xəmir mayasına bənzəyir. Qadın onu götürüb üç kisə una qarışdırıb bütün xəmir acıyanadək saxlayır». </verse>
+        <verse osisID='Matt.13.34'>İsa bütün bu şeyləri xalqa məsəllərlə söyləyirdi və onlara məsəlsiz heç bir şey söyləməzdi ki,</verse>
+        <verse osisID='Matt.13.35'>peyğəmbər vasitəsilə söylənən bu söz yerinə yetsin:  «Ağzımı məsəllərlə açacağam,Dünya yaranandan bəriGizli qalan şeyləri bəyan edəcəyəm». </verse>
+        <verse osisID='Matt.13.36'>O zaman İsa xalqdan ayrılıb evə girdi. Şagirdləri Onun yanına gəlib dedilər: «Tarladakı dəlicələr məsəlini bizə izah et».</verse>
+        <verse osisID='Matt.13.37'>Cavabında İsa dedi: «Yaxşı toxumu səpən Bəşər Oğludur.</verse>
+        <verse osisID='Matt.13.38'>Tarla isə dünyadır. Yaxşı toxum Padşahlığın övladlarıdır. Dəlicə isə şər olanın övladlarıdır.</verse>
+        <verse osisID='Matt.13.39'>Dəlicələri səpmiş olan düşmən iblisdir. Biçin dövrün sonudur və biçinçilər isə mələklərdir.</verse>
+        <verse osisID='Matt.13.40'>Dəlicələr toplanıb alovla yandırıldığı kimi bu dövrün sonunda da belə olacaq.</verse>
+        <verse osisID='Matt.13.41'>Bəşər Oğlu mələklərini göndərəcək, onlar da pis yola çəkən bütün şeyləri və qanunsuzluq edənləri Onun Padşahlığından toplayacaq</verse>
+        <verse osisID='Matt.13.42'>və onları odlu sobaya atacaqlar. Orada ağlaşma və diş qıcırtısı olacaq.</verse>
+        <verse osisID='Matt.13.43'>O zaman salehlər özlərinin Atasının Padşahlığında günəş kimi parlayacaqlar. Qulağı olan eşitsin! </verse>
+        <verse osisID='Matt.13.44'>Səmavi Padşahlıq tarlada gizlədilən bir dəfinəyə bənzəyir. Tapan adam onu gizlətdi, sevinclə gedib bütün varını satdı və o tarlanı satın aldı. </verse>
+        <verse osisID='Matt.13.45'>Yenə Səmavi Padşahlıq gözəl mirvarilər axtaran bir tacirə bənzəyir.</verse>
+        <verse osisID='Matt.13.46'>O, çox dəyərli olan bir mirvari tapanda gedib bütün varını satdı və onu satın aldı. </verse>
+        <verse osisID='Matt.13.47'>Yenə Səmavi Padşahlıq dənizə atılan və hər cür balıq tutan bir tora bənzəyir.</verse>
+        <verse osisID='Matt.13.48'>Tor dolduğu zaman onu sahilə çəkdilər və oturub yaxşılarını qablara yığdılar, pisləri isə kənara atdılar.</verse>
+        <verse osisID='Matt.13.49'>Bu dövrün sonunda da belə olacaq. Mələklər gəlib pisləri salehlərin arasından kənar edəcəklər.</verse>
+        <verse osisID='Matt.13.50'>Sonra onları odlu sobaya atacaqlar. Orada ağlaşma və diş qıcırtısı olacaq». </verse>
+        <verse osisID='Matt.13.51'>İsa «Bütün bunları anladınızmı?» deyə soruşdu. Onlar İsaya «bəli, ya Rəbb» dedilər.</verse>
+        <verse osisID='Matt.13.52'>İsa da onlara dedi: «Ona görə də Səmavi Padşahlıq üçün şagirdlik etmiş hər ilahiyyatçı xəzinəsindən təzə və köhnə şeylər çıxaran ev sahibinə bənzəyir». </verse>
+        <verse osisID='Matt.13.53'>İsa bu məsəlləri bitirəndən sonra oradan ayrıldı.</verse>
+        <verse osisID='Matt.13.54'>Öz doğma yurduna gələrək oradakı sinaqoqda xalqı öyrətməyə başladı. Camaat təəccüblənərək dedi: «Bu Adamda belə hikmət, belə möcüzələr yaradan qüvvə haradandır?</verse>
+        <verse osisID='Matt.13.55'>Bu, dülgərin Oğlu deyilmi? Anasının adı Məryəm deyilmi? Yaqub, Yusif, Şimon və Yəhuda Onun qardaşları deyilmi?</verse>
+        <verse osisID='Matt.13.56'>Bütün bacıları aramızda yaşamırmı? Bəs onda bu Adama bütün bu şeylər haradandır?»</verse>
+        <verse osisID='Matt.13.57'>Onların İsaya acığı tutdu. Amma İsa onlara dedi: «Bir peyğəmbərə öz yurdundan və öz evindən başqa heç bir yerdə xor baxmazlar».</verse>
+        <verse osisID='Matt.13.58'>İsa onların imansızlığı üzündən orada çox möcüzə yaratmadı.  </verse>
+      </chapter>
+      <chapter osisID='Matt.14'>
+        <verse osisID='Matt.14.1'>
+           O vaxt İsa barədə olan xəbərləri hökmdar Hirod eşitdi.</verse>
+        <verse osisID='Matt.14.2'>Nökərlərinə dedi: «Bu, Vəftizçi Yəhyadır. O, ölülər arasından dirilib. Buna görə də O, möcüzələr yaradır». </verse>
+        <verse osisID='Matt.14.3'>Hirod qardaşı Filipin arvadı Hirodiyaya görə Yəhyanı tutduraraq qollarını qandalladıb zindana saldırmışdı.</verse>
+        <verse osisID='Matt.14.4'>Çünki Yəhya Hiroda demişdi: «Hirodiyanı almaq sənə qadağandır».</verse>
+        <verse osisID='Matt.14.5'>Hirod Yəhyanı öldürmək istəyirdi, amma camaatdan qorxurdu. Çünki camaat Yəhyanı peyğəmbər sayırdı. </verse>
+        <verse osisID='Matt.14.6'>Hirodun ad günü qeyd ediləndə Hirodiyanın qızı ortaya çıxıb rəqs etməyə başladı. Bu, Hirodun xoşuna gəldi.</verse>
+        <verse osisID='Matt.14.7'>O and içib bəyan etdi ki, qız nə istəsə, ona verəcək.</verse>
+        <verse osisID='Matt.14.8'>Qız isə anasının təhriki ilə dedi: «Vəftizçi Yəhyanın başını burada bir sini içində mənə ver».</verse>
+        <verse osisID='Matt.14.9'>Padşahı kədər bürüdü, amma içdiyi andlara və qonaqlara görə əmr etdi ki, ona istədiyini versinlər.</verse>
+        <verse osisID='Matt.14.10'>Beləliklə, zindanda Yəhyanın boynunu vurdurdu.</verse>
+        <verse osisID='Matt.14.11'>Onun başı bir sini içində gətirilib qıza verildi. Qız da anasına apardı.</verse>
+        <verse osisID='Matt.14.12'>Yəhyanın şagirdləri gəlib onun cəsədini götürdülər. Onu basdırdılar və gəlib İsaya bu barədə xəbər verdilər. </verse>
+        <verse osisID='Matt.14.13'>İsa bunu eşidib qayığa minərək təkbaşına oradan kimsəsiz bir yerə çəkildi. Bunu eşidən camaat şəhərlərdən piyada Onun ardınca getdi.</verse>
+        <verse osisID='Matt.14.14'>İsa sahilə düşəndə böyük bir izdiham gördü, onlara rəhmi gəldi və xəstələrinə şəfa verdi. </verse>
+        <verse osisID='Matt.14.15'>Axşama yaxın şagirdlər Onun yanına gəlib dedilər: «Bura çöllükdür, vaxt da gecdir. Camaatı burax, qoy gedib kəndlərdən özlərinə yemək alsınlar».</verse>
+        <verse osisID='Matt.14.16'>Amma İsa onlara dedi: «Getməklərinə ehtiyac yoxdur. Onlara yeməyi siz verin».</verse>
+        <verse osisID='Matt.14.17'>Şagirdlər İsaya dedilər: «Burada beş çörək və iki balıqdan başqa bir şeyimiz yoxdur».</verse>
+        <verse osisID='Matt.14.18'>İsa «onları buraya, Mənə gətirin» dedi.</verse>
+        <verse osisID='Matt.14.19'>Camaata əmr etdi ki, otların üstündə otursunlar. İsa beş çörəyi və iki balığı götürüb göyə baxaraq şükür duası etdi. Sonra çörəyi bölüb şagirdlərə verdi. Şagirdlər də camaata payladılar.</verse>
+        <verse osisID='Matt.14.20'>Hamı yeyib-doydu. Artıq qalan hissələrdən on iki dolu zənbil yığdılar.</verse>
+        <verse osisID='Matt.14.21'>Yemək yeyən adamların sayı qadınlar və uşaqlardan başqa, beş min nəfərə yaxın idi. </verse>
+        <verse osisID='Matt.14.22'>Bundan dərhal sonra İsa camaatı evlərinə göndərərkən şagirdlərini də məcbur etdi ki, qayığa minib Özündən əvvəl o biri sahilə keçsinlər.</verse>
+        <verse osisID='Matt.14.23'>İsa camaatı göndərəndən sonra dua etmək üçün tək-tənha dağa çıxdı. Axşam olanda orada tək idi.</verse>
+        <verse osisID='Matt.14.24'>Qayıq isə artıq qurudan çox stadi uzaqda idi və külək onlara qarşı olduğundan dalğalar qayığa zərbələr endirirdi.</verse>
+        <verse osisID='Matt.14.25'>Gecənin dördüncü növbəsi İsa gölün üstü ilə yeriyərək onların yanına gəldi.</verse>
+        <verse osisID='Matt.14.26'>Şagirdlər isə İsanın gölün üstü ilə yeridiyini görəndə «Bu bir kabusdur!» deyərək lərzəyə düşdülər və qorxudan qışqırdılar.</verse>
+        <verse osisID='Matt.14.27'>Lakin bu anda İsa onlara müraciət edib dedi: «Cəsarətli olun, Mənəm, qorxmayın!»</verse>
+        <verse osisID='Matt.14.28'>Peter cavabında Ona dedi: «Ya Rəbb, əgər Sənsənsə, mənə əmr et ki, suların üstü ilə yanına gəlim».</verse>
+        <verse osisID='Matt.14.29'>İsa «Gəl!» dedi. Peter də qayıqdan çıxıb suların üstü ilə yeridi və İsaya tərəf getdi.</verse>
+        <verse osisID='Matt.14.30'>Amma küləyin güclü əsdiyini görəndə qorxdu və batmağa başladı. «Ya Rəbb, məni xilas et!» deyə qışqırdı.</verse>
+        <verse osisID='Matt.14.31'>İsa o anda əlini uzadıb onu tutdu və dedi: «Ey imanı az olan adam, nə üçün şübhə etdin?»</verse>
+        <verse osisID='Matt.14.32'>Onlar qayığa mindikləri zaman külək sakitləşdi.</verse>
+        <verse osisID='Matt.14.33'>Qayıqda olanlar «Doğrudan da, Sən Allahın Oğlusan!» deyə Ona səcdə qıldılar. </verse>
+        <verse osisID='Matt.14.34'>İsa və şagirdlər gölü keçib Ginesar sahilinə çatdılar.</verse>
+        <verse osisID='Matt.14.35'>O yerin adamları İsanı tanıdıqları zaman ətrafdakı hər yerə xəbər yaydılar. Bütün xəstələri Onun yanına gətirdilər.</verse>
+        <verse osisID='Matt.14.36'>Xəstələr heç olmasa İsanın paltarının ətəyinə toxunmaq üçün yalvarırdılar. Ona toxunanların hamısı sağaldı.  </verse>
+      </chapter>
+      <chapter osisID='Matt.15'>
+        <verse osisID='Matt.15.1'>
+          Onda Yerusəlimdən fariseylər və ilahiyyatçılar İsanın yanına gəlib dedilər:</verse>
+        <verse osisID='Matt.15.2'>«Nə üçün şagirdlərin ağsaqqallardan qalan adət-ənənəni pozur və çörək yedikləri zaman əllərini yumurlar?»</verse>
+        <verse osisID='Matt.15.3'>İsa cavabında onlara dedi: «Bəs siz nə üçün öz adət-ənənəniz naminə Allahın əmrini pozursunuz?</verse>
+        <verse osisID='Matt.15.4'>Çünki Allah belə əmr etdi: “Ata-anana hörmət et” və “Atasını yaxud anasını söyən adam öldürülməlidir”.</verse>
+        <verse osisID='Matt.15.5'>Sizsə deyirsiniz: “Kim atasına yaxud anasına ‹məndən umduğun yardım Allaha həsr olundu› desə,</verse>
+        <verse osisID='Matt.15.6'>onda atasına hörmət etməyə bilər”. Beləliklə, siz öz adət-ənənəniz naminə Allahın kəlamını heç edirsiniz.</verse>
+        <verse osisID='Matt.15.7'>Ey ikiüzlülər! Yeşaya peyğəmbər sizin üçün nə yaxşı söyləyib! O demişdir:</verse>
+        <verse osisID='Matt.15.8'>“Bu xalq dodaqları ilə Mənə hörmət edir,Amma qəlbləri Məndən uzaqdır.</verse>
+        <verse osisID='Matt.15.9'>Boş yerə Mənə səcdə edirlər,İnsan əmrlərindən çıxardıqları təlimləri öyrədirlər”». </verse>
+        <verse osisID='Matt.15.10'>İsa camaatı yanına çağırıb onlara dedi: «Qulaq asın və dərk edin.</verse>
+        <verse osisID='Matt.15.11'>Ağıza daxil olan şey insanı murdar etməz, amma insanı murdar edən ağızdan çıxan şeydir».</verse>
+        <verse osisID='Matt.15.12'>O zaman şagirdlər gəlib Ona dedilər: «Bilirsənmi fariseylər bu sözü eşitdikdə incidilər».</verse>
+        <verse osisID='Matt.15.13'>Amma İsa cavab verib dedi: «Səmavi Atamın əkmədiyi hər bitki kökündən qoparılacaq.</verse>
+        <verse osisID='Matt.15.14'>Onları buraxın. Onlar korların kor rəhbərləridir. Əgər kor koru aparsa, ikisi də çuxura düşər». </verse>
+        <verse osisID='Matt.15.15'>Peter Ona cavab verərək dedi: «Bu məsəli bizə izah et».</verse>
+        <verse osisID='Matt.15.16'>İsa dedi: «Siz də hələ dərk etməmisiniz?</verse>
+        <verse osisID='Matt.15.17'>Başa düşmürsünüz ki, ağıza girən hər şey qarına gedir və ifraz olunur?</verse>
+        <verse osisID='Matt.15.18'>Ağızdan çıxan şeylərsə ürəkdən çıxar, bunlar da insanı murdar edər.</verse>
+        <verse osisID='Matt.15.19'>Çünki ürəkdən pis fikirlər, qatillik, zinakarlıq, cinsi əxlaqsızlıq, oğurluq, yalançı şahidlik və küfr çıxar.</verse>
+        <verse osisID='Matt.15.20'>İnsanı murdar edən şeylər bunlardır. Yuyulmamış əllərlə yemək isə insanı murdar etməz». </verse>
+        <verse osisID='Matt.15.21'>İsa oradan çıxıb Sur və Sidon bölgələrinə çəkildi.</verse>
+        <verse osisID='Matt.15.22'>Budur, Kənanlı bir qadın o diyardan çıxıb «ya Rəbb, ey Davud Oğlu, mənə rəhm elə. Qızım ağır bir halda cinə tutulub» deyə çığırırdı.</verse>
+        <verse osisID='Matt.15.23'>İsa cavabında ona bir söz belə, demədi. Şagirdləri yaxınlaşıb «onu burax, çünki arxamızca çığırır» deyərək İsaya yalvardılar.</verse>
+        <verse osisID='Matt.15.24'>Amma İsa cavab verib dedi: «Mən yalnız İsrail xalqının itmiş qoyunlarının yanına göndərilmişəm».</verse>
+        <verse osisID='Matt.15.25'>Qadınsa yaxınlaşdı və Ona səcdə qılıb dedi: «Ya Rəbb, mənə imdad et».</verse>
+        <verse osisID='Matt.15.26'>İsa cavab verib dedi: «Uşaqların çörəyini götürüb itlərə atmaq düzgün olmaz».</verse>
+        <verse osisID='Matt.15.27'>Qadın dedi: «Haqlısan, ya Rəbb! Amma itlər də sahiblərinin süfrəsindən düşən qırıntılardan yeyir».</verse>
+        <verse osisID='Matt.15.28'>O zaman İsa cavab verib qadına dedi: «Ey qadın! İmanın böyükdür; sənə istədiyin kimi olsun». Onun qızı o saatda sağaldı. </verse>
+        <verse osisID='Matt.15.29'>İsa oradan çıxıb Qalileya gölünün sahilindən keçdi və dağın başına çıxıb orada oturdu.</verse>
+        <verse osisID='Matt.15.30'>Onun yanına böyük bir izdiham gəldi və özləri ilə birlikdə topallar, korlar, şikəstlər, lallar və daha başqa bir çoxunu gətirdilər. Onları İsanın ayaqları yanına qoydular və İsa onlara şəfa verdi.</verse>
+        <verse osisID='Matt.15.31'>Xalq görəndə ki lallar danışır, şikəstlər sağalır, topallar yeriyir və korlar görür, heyrətləndi və İsrailin Allahını izzətləndirdi. </verse>
+        <verse osisID='Matt.15.32'>İsa şagirdlərini yanına çağırıb dedi: «Bu camaata yazığım gəlir, çünki üç gündür ki, yanımdadırlar və yeməyə heç nələri yoxdur. Onları evlərinə ac yola salmaq istəmirəm ki, yolda taqətdən düşməsinlər».</verse>
+        <verse osisID='Matt.15.33'>Şagirdlər Ona dedilər: «Bu çöllükdə bu qədər camaatı doydurmaq üçün çörəyi haradan tapaq?»</verse>
+        <verse osisID='Matt.15.34'>İsa onlardan soruşdu: «Neçə çörəyiniz var?» Onlar dedilər: «Yeddi və bir az da kiçik balığımız var».</verse>
+        <verse osisID='Matt.15.35'>Onda İsa camaata əmr etdi ki, yerə otursunlar.</verse>
+        <verse osisID='Matt.15.36'>Yeddi çörəklə balıqları götürdü və şükür edərək bölüb şagirdlərə, şagirdlər də camaata verdi.</verse>
+        <verse osisID='Matt.15.37'>Hamı yeyib-doydu. Artıq qalan hissələri yığdılar, yeddi səbət doldu.</verse>
+        <verse osisID='Matt.15.38'>Yemək yeyən adamların sayı isə qadınlar və uşaqlardan başqa, dörd min nəfər idi.</verse>
+        <verse osisID='Matt.15.39'>İsa camaatı buraxıb qayığa minərək Məcdəl bölgəsinə getdi.  </verse>
+      </chapter>
+      <chapter osisID='Matt.16'>
+        <verse osisID='Matt.16.1'>
+           Fariseylər və sadukeylər yaxınlaşıb İsanı sınamaq üçün xahiş etdilər ki, onlara göydən gələn bir əlamət göstərsin.</verse>
+        <verse osisID='Matt.16.2'>Amma İsa onlara cavab verdi: «Axşam olanda siz: “Hava yaxşı olacaq, çünki göy qırmızıdır”,</verse>
+        <verse osisID='Matt.16.3'>səhər çağı “bu gün fırtına qopacaq, çünki göy qırmızıdır, tutqundur” deyirsiniz. Göyün görünüşünü seçə bilirsiniz, ancaq zamanın əlamətlərini seçə bilmirsiniz?</verse>
+        <verse osisID='Matt.16.4'>Pis və vəfasız nəsil bir əlamət axtarır. Amma ona Yunusun əlamətindən başqa heç bir əlamət verilməyəcək». İsa onları tərk edib getdi. </verse>
+        <verse osisID='Matt.16.5'>Şagirdlər o taya keçəndə çörək götürməyi yaddan çıxarmışdılar.</verse>
+        <verse osisID='Matt.16.6'>İsa onlara dedi: «Ehtiyatlı olun! Fariseylərin və sadukeylərin mayasından özünüzü gözləyin».</verse>
+        <verse osisID='Matt.16.7'>Şagirdlər isə öz aralarında danışıb deyirdilər: «Bunu çörək götürmədiyimiz üçün deyir».</verse>
+        <verse osisID='Matt.16.8'>İsa bunu bilərək dedi: «Ey imanı az olanlar! Nə üçün çörəyinizin yoxluğundan danışırsınız?</verse>
+        <verse osisID='Matt.16.9'>Hələ dərk etmirsinizmi? Beş min nəfər üçün beş çörəyi və neçə zənbil yığdığınızı xatırlamırsınızmı?</verse>
+        <verse osisID='Matt.16.10'>Dörd min nəfər üçün yeddi çörəyi və neçə səbət yığdığınızı da xatırlamırsınızmı?</verse>
+        <verse osisID='Matt.16.11'>Necə anlaya bilmirsiniz ki, Mən sizinlə danışanda çörəyi nəzərdə tutmamışdım? Fariseylərin və sadukeylərin mayasından özünüzü gözləyin».</verse>
+        <verse osisID='Matt.16.12'>O zaman onlar anladılar ki, İsa çörək mayasından yox, fariseylərin və sadukeylərin təlimindən qorunmağı nəzərdə tutmuşdu. </verse>
+        <verse osisID='Matt.16.13'>İsa Filip Qeysəriyyəsi bölgəsinə gəldiyi zaman Öz şagirdlərindən soruşdu: «Adamların dediyinə görə Bəşər Oğlu kimdir?»</verse>
+        <verse osisID='Matt.16.14'>Onlar da dedilər: «Bəziləri Vəftizçi Yəhya, başqaları İlyas, digərləri isə deyirlər ki, Yeremya yaxud peyğəmbərlərdən biridir».</verse>
+        <verse osisID='Matt.16.15'>İsa onlara dedi: «Bəs siz nə deyirsiniz? Sizcə Mən kiməm?»</verse>
+        <verse osisID='Matt.16.16'>Şimon Peter cavab verdi: «Sən var olan Allahın Oğlu Məsihsən».</verse>
+        <verse osisID='Matt.16.17'>İsa ona cavab verib dedi: «Nə bəxtiyarsan, ey Yunus oğlu Şimon! Çünki bunu sənə bildirən ət və qan deyil, göylərdə olan Atamdır.</verse>
+        <verse osisID='Matt.16.18'>Mən sənə deyirəm ki, sən Petersən və Mən cəmiyyətimi bu Qayanın üzərində quracağam. Ölülər diyarının qapıları ona qalib gələ bilməyəcək.</verse>
+        <verse osisID='Matt.16.19'>Səmavi Padşahlığın açarlarını sənə verəcəyəm. Yer üzündə bağlayacağın hər şey göylərdə bağlanmış olacaq və yer üzündə açacağın hər şey göylərdə açılmış olacaq».</verse>
+        <verse osisID='Matt.16.20'>Bu sözlərdən sonra İsa şagirdlərə qadağan etdi ki, Onun Məsih olduğunu heç kəsə danışmasınlar. </verse>
+        <verse osisID='Matt.16.21'>Bundan sonra İsa şagirdlərinə danışmağa başladı ki, Özü Yerusəlimə getməli, ağsaqqallar, başçı kahinlər və ilahiyyatçılar tərəfindən çox əzab çəkməli, öldürülməli və üçüncü gün dirilməlidir.</verse>
+        <verse osisID='Matt.16.22'>Peter Onu bir kənara çəkib etiraz etməyə başladı: «Ya Rəbb, Özünə yazığın gəlsin! Bu əsla Sənin başına gəlməyəcək!»</verse>
+        <verse osisID='Matt.16.23'>Amma İsa dönüb Peterə dedi: «Çəkil qarşımdan, Şeytan! Sən Mənə mane olursan. Sən Allahın işləri haqqında deyil, insan əməlləri barəsində fikirləşirsən». </verse>
+        <verse osisID='Matt.16.24'>Sonra İsa şagirdlərinə dedi: «Əgər bir kəs Mənim ardımca gəlmək istəyirsə, özündən imtina etsin və çarmıxını götürüb ardımca gəlsin.</verse>
+        <verse osisID='Matt.16.25'>Kim canını xilas etmək istəyirsə, onu itirəcək, amma kim Mənə görə canını itirirsə, onu qoruyacaq.</verse>
+        <verse osisID='Matt.16.26'>İnsan bütün dünyanı qazanıb canını itirərsə, ona nə xeyri var? Yaxud insan öz canının əvəzinə nə verə bilər?</verse>
+        <verse osisID='Matt.16.27'>Çünki Bəşər Oğlu Atasının izzəti içində Öz mələkləri ilə gələcək və o zaman hər kəsə öz əməlinə görə əvəzini verəcək.</verse>
+        <verse osisID='Matt.16.28'>Sizə doğrusunu deyirəm: burada duranlardan bəzisi Bəşər Oğlunun Padşahlığı ilə gəldiyini görmədən ölməyəcək».  </verse>
+      </chapter>
+      <chapter osisID='Matt.17'>
+        <verse osisID='Matt.17.1'>
+           Altı gündən sonra İsa Özü ilə yalnız Peter, Yaqub və qardaşı Yəhyanı götürüb hündür bir dağa çıxdı.</verse>
+        <verse osisID='Matt.17.2'>Onların qarşısında görünüşü dəyişdi. Üzü günəş kimi parladı və libası işıq kimi ağ oldu.</verse>
+        <verse osisID='Matt.17.3'>O an Musa və İlyas onlara göründü. Onlar İsa ilə söhbət edirdi.</verse>
+        <verse osisID='Matt.17.4'>Peter sözə başlayıb İsaya dedi: «Ya Rəbb! Nə yaxşı ki biz buradayıq. Əgər istəyirsənsə, burada üç çardaq qurum – biri Sənin, biri Musa, biri də İlyas üçün».</verse>
+        <verse osisID='Matt.17.5'>Peter hələ danışan zaman parlaq bir bulud onların üzərinə kölgə saldı. Budur, buluddan bir səs gəldi: «Bu Mənim sevimli Oğlumdur, Ondan razıyam, Ona qulaq asın!»</verse>
+        <verse osisID='Matt.17.6'>Şagirdlər bunu eşidəndə üzüstə yerə qapandılar və onları böyük dəhşət bürüdü.</verse>
+        <verse osisID='Matt.17.7'>İsa gəlib onlara toxunaraq «Qalxın, qorxmayın!» dedi.</verse>
+        <verse osisID='Matt.17.8'>Onlar da başlarını qaldıranda İsadan başqa kimsəni görmədilər. </verse>
+        <verse osisID='Matt.17.9'>Dağdan enərkən İsa şagirdlərinə əmr etdi: «Bəşər Oğlu ölülər arasından dirilənə qədər gördüyünüzü heç kimə söyləməyin».</verse>
+        <verse osisID='Matt.17.10'>Şagirdlər Ondan soruşdular: «Elə isə, niyə ilahiyyatçılar deyirlər ki, əvvəlcə İlyas gəlməlidir?»</verse>
+        <verse osisID='Matt.17.11'>İsa onlara cavab verdi: «Düzdür, İlyas gəlib hər şeyi yoluna qoymalıdır.</verse>
+        <verse osisID='Matt.17.12'>Lakin sizə deyirəm: artıq İlyas gəldi və onu tanımadılar, lakin nə istədilərsə, onun başına gətirdilər. Eyni cür Bəşər Oğlu da onların əlindən əzab çəkəcək».</verse>
+        <verse osisID='Matt.17.13'>Şagirdlər o zaman başa düşdülər ki, İsa onlara bu sözləri Vəftizçi Yəhya haqqında söyləyirdi. </verse>
+        <verse osisID='Matt.17.14'>Onlar xalqın yanına gələndə bir adam gəlib İsanın qarşısında diz çökərək dedi:</verse>
+        <verse osisID='Matt.17.15'>«Ya Rəbb! Oğluma rəhm elə, çünki o, epileptikdir və çox əzab çəkir. Tez-tez gah oda, gah da suya düşür.</verse>
+        <verse osisID='Matt.17.16'>Onu Sənin şagirdlərinin yanına gətirdim, lakin ona şəfa verə bilmədilər».</verse>
+        <verse osisID='Matt.17.17'>İsa cavab verərək dedi: «Ey imansız və yolunu azmış nəsil! Nə vaxta qədər sizinlə olacağam? Nə vaxta qədər sizə dözəcəyəm? Uşağı buraya, yanıma gətirin».</verse>
+        <verse osisID='Matt.17.18'>İsa cinə qadağan etdi və cin uşaqdan çıxdı. Oğlan o saatda şəfa tapdı. </verse>
+        <verse osisID='Matt.17.19'>O zaman şagirdlər İsaya təklikdə yaxınlaşıb dedilər: «Nə üçün biz o ruhu qova bilmədik?»</verse>
+        <verse osisID='Matt.17.20'>İsa da onlara dedi: «İmanınız az olduğu üçün. Çünki sizə doğrusunu deyirəm: bir xardal toxumu qədər imanınız olarsa və siz bu dağa “buradan oraya köç” desəniz, o köçər və sizin üçün mümkün olmayan heç bir şey olmaz».</verse>
+        <verse osisID='Matt.17.21'/>
+        <verse osisID='Matt.17.22'>Qalileyada yığılarkən İsa şagirdlərə dedi: «Bəşər Oğlu insan əllərinə təslim ediləcək</verse>
+        <verse osisID='Matt.17.23'>və Onu öldürəcəklər, amma O, üçüncü gün diriləcək». Onlar çox kədərləndilər. </verse>
+        <verse osisID='Matt.17.24'>Kefernahuma gəldikləri zaman məbəd vergisini yığanlar Peterə yaxınlaşıb dedilər: «Sizin Müəlliminiz vergi ödəmirmi?»</verse>
+        <verse osisID='Matt.17.25'>Peter «ödəyir» dedi. Evə gələndə İsa onu qabaqlayaraq dedi: «Şimon! Sən necə düşünürsən? Yerin hökmdarları gömrük və yaxud vergini kimdən alırlar? Öz övladlarındanmı, yoxsa kənar adamlardan?»</verse>
+        <verse osisID='Matt.17.26'>Peter Ona «kənar adamlardan» söylədikdə İsa ona dedi: «Belə isə, övladlar sərbəstdir.</verse>
+        <verse osisID='Matt.17.27'>Lakin bu adamları incitməyək deyə gölə get, tilov at və tilova düşən ilk balığı götür. Onun ağzını açanda bir gümüş pul tapacaqsan. Onu götür, həm Mənim, həm də öz əvəzinə ver».  </verse>
+      </chapter>
+      <chapter osisID='Matt.18'>
+        <verse osisID='Matt.18.1'>
+           Həmin vaxt şagirdlər İsanın yanına gəlib dedilər: «Səmavi Padşahlıqda ən böyük kimdir?»</verse>
+        <verse osisID='Matt.18.2'>İsa yanına bir balaca uşaq çağırıb onu şagirdlərin arasına qoydu.</verse>
+        <verse osisID='Matt.18.3'>O dedi: «Sizə doğrusunu deyirəm: əgər siz yolunuzdan dönüb uşaqlar kimi olmasanız, Səmavi Padşahlığa əsla daxil ola bilməzsiniz.</verse>
+        <verse osisID='Matt.18.4'>Beləliklə, kim bu uşaq kimi özünü aşağı tutarsa, Səmavi Padşahlıqda ən böyük odur.</verse>
+        <verse osisID='Matt.18.5'>Kim Mənim adımla belə bir uşağı qəbul edərsə, Məni qəbul edər. </verse>
+        <verse osisID='Matt.18.6'>Amma kim Mənə iman edən bu kiçiklərdən birini pis yola çəkərsə, öz boynuna böyük bir dəyirman daşı asıb dənizin dibinə atılaraq boğulmaq onun üçün daha yaxşı olar.</verse>
+        <verse osisID='Matt.18.7'>İnsanları pis yola çəkən şeylər üçün vay bu dünyanın halına! Belə şeylərin gəlməsi qarşısıalınmazdır, amma vay o adamın halına ki, bunlar onun vasitəsilə gəlir!</verse>
+        <verse osisID='Matt.18.8'>Əgər əlin və ya ayağın səni pis yola çəkərsə, onu kəs at. Sənin əbədi həyata şikəst və ya topal daxil olmağın iki əl və iki ayaqla əbədi oda atılmağından yaxşıdır.</verse>
+        <verse osisID='Matt.18.9'>Əgər gözün səni pis yola çəkərsə, onu çıxarıb at. Sənin tək gözlə əbədi həyata daxil olmağın iki gözlə cəhənnəm oduna atılmağından yaxşıdır. </verse>
+        <verse osisID='Matt.18.10'>Bu kiçiklərdən birinə belə, xor baxmaqdan çəkinin. Çünki sizə deyirəm: onların səmadakı mələkləri göylərdə olan Atamın üzünü daima görür.</verse>
+        <verse osisID='Matt.18.11'/>
+        <verse osisID='Matt.18.12'>Siz necə deyirsiniz? Bir adamın yüz qoyunu varsa və onlardan biri yolunu azarsa, doxsan doqquzunu dağlarda qoyub yolunu azan qoyunu axtarmağa getməzmi?</verse>
+        <verse osisID='Matt.18.13'>Sizə doğrusunu deyirəm: əgər onu tapa bilərsə, yolunu azmayan doxsan doqquz qoyun üçün sevindiyindən artıq onun üçün sevinər.</verse>
+        <verse osisID='Matt.18.14'>Beləcə bu kiçiklərdən birinin belə, həlak olması göylərdə olan Atanızın iradəsi deyil. </verse>
+        <verse osisID='Matt.18.15'>Əgər qardaşın sənə qarşı günah işlədərsə, get, onun günahını ona göstər. Qoy hər şey yalnız ikinizin arasında qalsın. O sənə qulaq asarsa, qardaşını qazandın.</verse>
+        <verse osisID='Matt.18.16'>Amma qulaq asmazsa, özünlə bir və ya iki nəfər götür ki, “hər iddia iki yaxud üç şahidin sözü ilə təsdiq edilsin”.</verse>
+        <verse osisID='Matt.18.17'>Əgər o bu adamların da sözünə qulaq asmaq istəməsə, vəziyyəti imanlılar cəmiyyətinə bildir. Əgər cəmiyyətin də sözünə qulaq asmaq istəməsə, onu bir bütpərəst və vergiyığan hesab et. </verse>
+        <verse osisID='Matt.18.18'>Sizə doğrusunu deyirəm: yer üzündə bağlayacağınız hər şey göydə bağlanmış olacaq və yer üzündə açacağınız hər şey göydə açılmış olacaq.</verse>
+        <verse osisID='Matt.18.19'>Yenə sizə doğrusunu deyirəm: yer üzündə sizlərdən iki nəfər diləyəcəkləri hər hansı bir şey üçün razılığa gələrsə, göylərdə olan Atam onların istəklərini yerinə yetirəcək.</verse>
+        <verse osisID='Matt.18.20'>Çünki harada iki və ya üç nəfər Mənim adımla yığılarsa, Mən də orada, onların arasındayam». </verse>
+        <verse osisID='Matt.18.21'>O zaman Peter gəlib İsaya dedi: «Ya Rəbb! Qardaşım mənə qarşı günah işlədərsə, neçə dəfə mən onu bağışlamalıyam? Yeddi dəfəmi?»</verse>
+        <verse osisID='Matt.18.22'>İsa ona dedi: «Sənə deyirəm: yeddi dəfə yox, yetmiş dəfə yeddi. </verse>
+        <verse osisID='Matt.18.23'>Ona görə də Səmavi Padşahlıq öz qulları ilə hesablaşmaq istəyən bir padşaha bənzəyir.</verse>
+        <verse osisID='Matt.18.24'>Hesablaşmağa başladığı zaman onun yanına on min talant borcu olan biri gətirildi.</verse>
+        <verse osisID='Matt.18.25'>Amma onun ödəməyə bir şeyi olmadığı üçün ağası əmr etdi ki, özü, arvadı, uşaqları və bütün malı satılaraq borcunu ödəsin.</verse>
+        <verse osisID='Matt.18.26'>Elə bu vaxt qul yerə qapanıb ona səcdə edərək dedi: “Səbir et! Mən hamısını ödəyəcəyəm”.</verse>
+        <verse osisID='Matt.18.27'>Ağasının o qula rəhmi gəldi, onu buraxdı və borcunu bağışladı. </verse>
+        <verse osisID='Matt.18.28'>Amma o qul kənara çıxıb ona yüz dinar borclu olan bir yoldaşını tapdı. Onu yaxaladı və “Borcunu ödə!” deyərək boğmağa başladı.</verse>
+        <verse osisID='Matt.18.29'>Yoldaşı yerə qapanıb ona “səbir et, borcunu ödəyəcəyəm” deyə yalvardı.</verse>
+        <verse osisID='Matt.18.30'>O isə istəmədi. Gedib borcunu ödəyənə qədər onu zindana saldırdı.</verse>
+        <verse osisID='Matt.18.31'>Ağanın digər qulları baş verən hadisəni görəndə çox kədərləndilər və gedib bütün olanı ağalarına nəql etdilər. </verse>
+        <verse osisID='Matt.18.32'>Onda ağa o qulu yanına çağırıb dedi: “Ey pis qul, bütün o borcu sənə bağışladım, çünki mənə yalvardın.</verse>
+        <verse osisID='Matt.18.33'>Mən sənə mərhəmət etdiyim kimi sən də yoldaşına mərhəmət etməli deyildinmi?”</verse>
+        <verse osisID='Matt.18.34'>Ağası qəzəblənib bütün borcunu ödəyənə qədər onu işgəncə verənlərə təslim etdi.</verse>
+        <verse osisID='Matt.18.35'>Hər biriniz qardaşlarınızı ürəkdən bağışlamasanız, Səmavi Atam da sizə elə edər».  </verse>
+      </chapter>
+      <chapter osisID='Matt.19'>
+        <verse osisID='Matt.19.1'>
+          İsa söhbətini bitirdikdən sonra Qalileyadan çıxıb Yəhudeyanın İordan çayının o biri tayında yerləşən bölgəsinə getdi.</verse>
+        <verse osisID='Matt.19.2'>Böyük bir izdiham Onun ardınca gəldi. İsa orada onlara şəfa verdi. </verse>
+        <verse osisID='Matt.19.3'>Bəzi fariseylər İsanın yanına gəlib Onu sınamaq üçün belə bir sual verdilər: «İnsanın öz arvadını hər səbəbə görə boşamağa icazəsi varmı?»</verse>
+        <verse osisID='Matt.19.4'>İsa cavab verib dedi: «Oxumamısınız ki, Yaradan başlanğıcdan “onları kişi və qadın olaraq yaratdı” və dedi:</verse>
+        <verse osisID='Matt.19.5'>“Buna görə də kişi ata-anasını tərk edib arvadına qovuşacaq və ikisi bir bədən olacaq”?</verse>
+        <verse osisID='Matt.19.6'>Artıq onlar iki deyil, bir bədəndir. Buna görə də qoy Allahın birləşdirdiyini insan ayırmasın».</verse>
+        <verse osisID='Matt.19.7'>Fariseylər İsaya belə dedilər: «Onda Musa nə üçün bir talaq kağızı verərək arvadını boşamağı əmr etdi?»</verse>
+        <verse osisID='Matt.19.8'>İsa onlara dedi: «Ürəyinizin inadkar olduğuna görə Musa arvadlarınızı boşamağınıza icazə verdi. Amma başlanğıcdan belə deyildi.</verse>
+        <verse osisID='Matt.19.9'>Mənsə sizə deyirəm ki, cinsi əxlaqsızlıqdan başqa, hər hansı bir səbəbə görə arvadını boşayıb başqası ilə evlənən kəs zina edir». </verse>
+        <verse osisID='Matt.19.10'>Şagirdləri İsaya dedilər: «Əgər ərlə arvad arasındakı münasibət belə isə, deməli, evlənməmək daha yaxşıdır».</verse>
+        <verse osisID='Matt.19.11'>Amma İsa onlara dedi: «Hər adam bu sözü qəbul edə bilməz, ancaq bu qabiliyyətin verildiyi adamlar qəbul edə bilər.</verse>
+        <verse osisID='Matt.19.12'>Çünki elələri var ki, anadangəlmə xədimdir, elələri var ki, insanlar tərəfindən xədim ediliblər, elələri də var ki, Səmavi Padşahlıq uğrunda özlərini xədim sayırlar. Bunu qəbul edə bilən qəbul etsin». </verse>
+        <verse osisID='Matt.19.13'>O zaman uşaqlar İsanın yanına gətirildi ki, İsa onların üzərinə əllərini qoyub dua etsin. Şagirdlər isə onlara qadağan etdilər.</verse>
+        <verse osisID='Matt.19.14'>Amma İsa dedi: «Uşaqları buraxın, qoy Mənim yanıma gəlsinlər! Onlara mane olmayın! Çünki Səmavi Padşahlıq belələrinə məxsusdur».</verse>
+        <verse osisID='Matt.19.15'>İsa onların üzərinə əllərini qoyub oradan getdi. </verse>
+        <verse osisID='Matt.19.16'>Bir adam İsanın yanına gəlib dedi: «Müəllim, mən nə yaxşılıq etməliyəm ki, əbədi həyata malik olum?»</verse>
+        <verse osisID='Matt.19.17'>İsa ona dedi: «Nə üçün Məndən yaxşılıq barəsində soruşursan? Yaxşı olan tək Biri vardır. Əgər sən əbədi həyata qovuşmaq istəyirsənsə, Onun əmrlərinə riayət et».</verse>
+        <verse osisID='Matt.19.18'>O adam İsadan «Hansı əmrlərə?» deyə soruşdu. İsa da dedi: «“Qətl etmə. Zina etmə. Oğurluq etmə. Yalandan şahidlik etmə.</verse>
+        <verse osisID='Matt.19.19'>Ata-anana hörmət et”. Həmçinin “qonşunu özün kimi sev”». </verse>
+        <verse osisID='Matt.19.20'>Cavan adam İsaya dedi: «Bunların hamısına riayət etmişəm, daha nəyim çatışmır?»</verse>
+        <verse osisID='Matt.19.21'>İsa ona dedi: «Əgər kamil olmaq istəyirsənsə, get, əmlakını sat və yoxsullara payla. Onda göylərdə xəzinən olacaq. Sonra qayıt, Mənim ardımca gəl».</verse>
+        <verse osisID='Matt.19.22'>Lakin cavan adam bu sözü eşitdikdə kədərlənib getdi, çünki var-dövləti çox idi. </verse>
+        <verse osisID='Matt.19.23'>İsa şagirdlərinə dedi: «Sizə doğrusunu deyirəm: varlı adamın Səmavi Padşahlığa daxil olması çətindir.</verse>
+        <verse osisID='Matt.19.24'>Yenə sizə deyirəm ki, dəvənin iynə gözündən keçməsi varlı adamın Allahın Padşahlığına daxil olmasından asandır».</verse>
+        <verse osisID='Matt.19.25'>Bunu eşidən şagirdlər çox təəccüblənərək dedilər: «Elə isə, kim xilas ola bilər?»</verse>
+        <verse osisID='Matt.19.26'>İsa onlara baxıb dedi: «Bu, insanlar üçün qeyri-mümkündür, amma Allah üçün hər şey mümkündür». </verse>
+        <verse osisID='Matt.19.27'>Bundan sonra Peter cavab verərək Ona dedi: «Bax biz hər şeyi qoyub Sənin ardınca gəlmişik, əvəzində nəyimiz olacaq?»</verse>
+        <verse osisID='Matt.19.28'>İsa onlara dedi: «Sizə doğrusunu deyirəm: hər şey yeniləşəndə, Bəşər Oğlu izzətli taxtına oturanda Mənim ardımca gələn sizlər də İsrailin on iki qəbiləsinə hökm etmək üçün on iki taxt üzərində oturacaqsınız.</verse>
+        <verse osisID='Matt.19.29'>Mənim adım uğrunda ya evlərini ya qardaşlarını ya bacılarını ya atasını ya anasını ya uşaqlarını və yaxud tarlalarını atan hər kəs bundan yüz dəfə artıq alacaq və əbədi həyatı da irs olaraq alacaq.</verse>
+        <verse osisID='Matt.19.30'>Amma birinci olanların çoxu axırıncı, axırıncı olanlarsa birinci olacaq.  </verse>
+      </chapter>
+      <chapter osisID='Matt.20'>
+        <verse osisID='Matt.20.1'>
+          Səmavi Padşahlıq səhər erkən durub öz üzüm bağı üçün işçi tutmağa çıxan ev sahibinə bənzəyir.</verse>
+        <verse osisID='Matt.20.2'>O, işçilərlə günü bir dinara razılaşıb onları üzüm bağına göndərdi.</verse>
+        <verse osisID='Matt.20.3'>Üçüncü saat radələrində çıxıb meydanda işsiz durmuş adamları gördü.</verse>
+        <verse osisID='Matt.20.4'>Onlara da dedi: “Siz də üzüm bağına gedin və haqqınızı düz verərəm”.</verse>
+        <verse osisID='Matt.20.5'>Onlar da bağa getdilər. Altıncı və doqquzuncu saat radələrində yenə çıxıb belə etdi.</verse>
+        <verse osisID='Matt.20.6'>On birinci saat radələrində çıxdı və orada duran başqalarını tapıb onlara dedi: “Nə üçün bütün günü burada işsiz durursunuz?”</verse>
+        <verse osisID='Matt.20.7'>“Çünki heç kim bizə iş vermədi” dedilər. Onlara “siz də üzüm bağına gedin” dedi. </verse>
+        <verse osisID='Matt.20.8'>Axşam olanda bağ sahibi öz nəzarətçisinə dedi: “İşçiləri çağır və axırıncılardan başlayaraq birincilərə kimi muzdlarını ver”.</verse>
+        <verse osisID='Matt.20.9'>On birinci saat radələrində işə gələnlər adambaşına bir dinar aldılar.</verse>
+        <verse osisID='Matt.20.10'>Birinci gələnlərsə daha çox alacaqlarını düşündülər, lakin onlar da adambaşına bir dinar aldılar.</verse>
+        <verse osisID='Matt.20.11'>Pullarını aldıqları zaman ev sahibinə şikayət edərək dedilər:</verse>
+        <verse osisID='Matt.20.12'>“Bu ən axırıncılar cəmi bir saat işlədilər və sən onları günün ağırlığını və qızmar istisini çəkən bizlərlə bir tutdun”.</verse>
+        <verse osisID='Matt.20.13'>O isə onlardan birinə cavab verib dedi: “Dostum, axı mən sənə haqsızlıq etmədim, sən mənimlə bir dinara razılaşmadınmı?</verse>
+        <verse osisID='Matt.20.14'>Haqqını al, get! Axırıncıya da sənə verdiyim qədər vermək istəyirəm.</verse>
+        <verse osisID='Matt.20.15'>Öz pulumla istədiyimi etməyə ixtiyarım yoxdurmu? Sən mənim comərdliyimə qısqanırsan?”</verse>
+        <verse osisID='Matt.20.16'>Beləcə də axırıncılar birinci, birincilər isə axırıncı olacaq». </verse>
+        <verse osisID='Matt.20.17'>İsa Yerusəlimə gedərkən yolda On İki şagirdi kənara çağırıb ayrıca onlara dedi:</verse>
+        <verse osisID='Matt.20.18'>«Bax Yerusəlimə qalxırıq, Bəşər Oğlu başçı kahinlərə və ilahiyyatçılara təslim olunacaq. Onu ölümə məhkum edəcəklər;</verse>
+        <verse osisID='Matt.20.19'>ələ salaraq qamçılayıb çarmıxa çəksinlər deyə başqa millətlərə təslim edəcəklər. O, üçüncü gün diriləcək». </verse>
+        <verse osisID='Matt.20.20'>O zaman Zavday oğullarının anası oğulları ilə birlikdə İsaya yaxınlaşıb səcdə qılaraq Ondan nə isə dilədi.</verse>
+        <verse osisID='Matt.20.21'>İsa qadından «Sən nə istəyirsən?» deyə soruşdu. Qadın Ona dedi: «Əmr et ki, mənim bu iki oğlum Sənin Padşahlığında biri sağında, biri solunda otursun».</verse>
+        <verse osisID='Matt.20.22'>Amma İsa cavab verib dedi: «Nə dilədiyinizi özünüz də bilmirsiniz. Mənim içəcəyim kasadan siz də içə bilərsinizmi?» Onlar dedilər: «Bilərik».</verse>
+        <verse osisID='Matt.20.23'>İsa onlara dedi: «Mənim içəcəyim kasadan içəcəksiniz. Amma sağımda və yaxud solumda oturmağa izin vermək Məndən asılı deyil. Atam oranı kimlər üçün hazırlayıbsa, onlara veriləcək». </verse>
+        <verse osisID='Matt.20.24'>Bunu eşidən on şagirdin iki qardaşa acığı tutdu.</verse>
+        <verse osisID='Matt.20.25'>İsa şagirdləri yanına çağırıb dedi: «Bilirsiniz ki, millətlərin rəhbərləri onların üzərində hökmranlıq, əyanları da onlara ağalıq edir.</verse>
+        <verse osisID='Matt.20.26'>Sizin aranızda isə qoy belə olmasın. Sizlərdən böyük olmaq istəyən xidmətçiniz olsun.</verse>
+        <verse osisID='Matt.20.27'>Aranızda kim birinci olmaq istəsə, başqalarının qulu olsun.</verse>
+        <verse osisID='Matt.20.28'>Beləcə Bəşər Oğlu gəlmədi ki, Ona xidmət etsinlər, gəldi ki, Özü xidmət etsin və çoxlarını satın almaq üçün Öz canını fidyə versin». </verse>
+        <verse osisID='Matt.20.29'>İsa şagirdləri ilə Yerixodan çıxarkən böyük bir izdiham Onun ardınca getdi.</verse>
+        <verse osisID='Matt.20.30'>Yol kənarında oturan iki kor adam İsanın oradan keçdiyini eşitdikdə «Ya Rəbb, ey Davud Oğlu! Bizə rəhm elə!» deyə bağırdı.</verse>
+        <verse osisID='Matt.20.31'>Camaat onlara qadağan edib susdurmaq istədisə də, onlar «Ya Rəbb, ey Davud Oğlu! Bizə rəhm elə!» deyə daha ucadan bağırdılar.</verse>
+        <verse osisID='Matt.20.32'>İsa dayanıb onları çağırdı və onlardan soruşdu: «Nə istəyirsiniz, sizin üçün edim?»</verse>
+        <verse osisID='Matt.20.33'>Onlar dedilər: «Ya Rəbb, gözlərimiz açılsın».</verse>
+        <verse osisID='Matt.20.34'>İsanın onlara rəhmi gəldi, gözlərinə toxundu. Həmin an onların gözləri açıldı və İsanın ardınca getdilər.  </verse>
+      </chapter>
+      <chapter osisID='Matt.21'>
+        <verse osisID='Matt.21.1'>
+          Yerusəlimə yaxınlaşıb Zeytun dağının yamacındakı Bet-Faqeyə gəldikləri zaman İsa iki şagirdi göndərərək</verse>
+        <verse osisID='Matt.21.2'>onlara dedi: «Qarşınızdakı kəndə gedin. Dərhal orada bağlanmış bir eşşəklə bir sıpa tapacaqsınız. Onları açıb Mənə gətirin.</verse>
+        <verse osisID='Matt.21.3'>Kim sizə bir şey desə, ona “bunlar Rəbbə lazımdır, tezliklə onları geri göndərəcək” deyərsiniz».</verse>
+        <verse osisID='Matt.21.4'>Bunlar da peyğəmbər vasitəsilə söylənən bu söz yerinə yetsin deyə baş verdi:</verse>
+        <verse osisID='Matt.21.5'>«Sion qızına deyin ki,“Bax Padşahın sənə tərəf gəlir;O itaətkardır və bir eşşəyə –Eşşəyin balası olan sıpaya minib gəlir”». </verse>
+        <verse osisID='Matt.21.6'>Şagirdlər gedib İsanın əmr etdiyi kimi etdilər.</verse>
+        <verse osisID='Matt.21.7'>Eşşəklə sıpanı gətirib üzərlərinə paltarlarını qoydular və İsa sıpanın belinə mindi.</verse>
+        <verse osisID='Matt.21.8'>Camaatın çoxu öz paltarlarını yola sərdi. Bəzisi də ağaclardan budaqlar kəsib yola döşədi.</verse>
+        <verse osisID='Matt.21.9'>İsanın önündə gedən və ardınca gələn xalq belə nida edirdi:  «Davud Oğluna hosanna!Rəbbin ismi ilə Gələnə alqış olsun!Ən ucalarda hosanna!» </verse>
+        <verse osisID='Matt.21.10'>İsa Yerusəlimə daxil olanda bütün şəhər «Bu Kimdir?» deyərək sarsıldı.</verse>
+        <verse osisID='Matt.21.11'>Camaat isə deyirdi: «Bu, Qalileyanın Nazaret şəhərindən olan İsa Peyğəmbərdir». </verse>
+        <verse osisID='Matt.21.12'>İsa məbədə girib orada alver edənlərin hamısını qovdu. Sərrafların masalarını və göyərçin satanların kürsülərini çevirdi.</verse>
+        <verse osisID='Matt.21.13'>Onlara belə dedi:  «“Mənim evim dua evi adlandırılacaq”  deyə yazılıb. Amma siz onu “quldur yuvasına” çevirmisiniz!» </verse>
+        <verse osisID='Matt.21.14'>İsa məbəddə Onun yanına gələn korlara və axsaqlara şəfa verdi.</verse>
+        <verse osisID='Matt.21.15'>Lakin başçı kahinlər və ilahiyyatçılar Onun etdiyi heyrətamiz işləri və məbəddə «Davud Oğluna hosanna!» deyə bağıran uşaqları gördükdə acıqlandılar</verse>
+        <verse osisID='Matt.21.16'>və Ona dedilər: «Bunların nə söylədiyini eşidirsənmi?» İsa da onlara dedi: «Bəli.  “Körpələrin və çağaların ağzındanKamil həmd aldın”  sözünü heç oxumamısınızmı?»</verse>
+        <verse osisID='Matt.21.17'>İsa onları tərk edib şəhərdən çıxdı. Bet-Anyaya gedib orada gecələdi. </verse>
+        <verse osisID='Matt.21.18'>Səhəri gün İsa şəhərə qayıdanda acmışdı.</verse>
+        <verse osisID='Matt.21.19'>Yol kənarında bir əncir ağacı gördü və ona yaxınlaşdı. Amma ağacda yarpaqdan başqa bir şey tapmadı. İsa ona dedi: «Qoy bir daha sənin meyvən çıxmasın». Əncir ağacı o anda qurudu.</verse>
+        <verse osisID='Matt.21.20'>Şagirdlər bunu gördükdə «Əncir ağacı bir anda necə qurudu?» deyərək heyrətləndilər.</verse>
+        <verse osisID='Matt.21.21'>İsa cavab verib onlara dedi: «Sizə doğrusunu deyirəm: əgər imanınız olub şübhə etməsəniz, nəinki əncir ağacının başına gətirilən şeyi edərsiniz, hətta bu dağa “Qalx, dənizə atıl!” desəniz, elə də olacaq.</verse>
+        <verse osisID='Matt.21.22'>İmanla dua edərək hər nə diləsəniz, alacaqsınız». </verse>
+        <verse osisID='Matt.21.23'>İsa məbədə gəlib təlim öyrədərkən başçı kahinlər və xalqın ağsaqqalları Ona yaxınlaşıb dedilər: «Sən bu işləri hansı səlahiyyətlə edirsən? Sənə bu səlahiyyəti kim verib?»</verse>
+        <verse osisID='Matt.21.24'>İsa onlara belə cavab verdi: «Mən də sizə bir sual verəcəyəm; onu Mənə desəniz, Mən də bunları hansı səlahiyyətlə etdiyimi sizə deyərəm.</verse>
+        <verse osisID='Matt.21.25'>Yəhyanın vəftizi haradan idi? Göydən idi, yoxsa insanlardan?» Onlarsa aralarında müzakirə edərək belə dedilər: «Əgər desək “göydən”, “Bəs nə üçün ona inanmadınız?” deyəcək.</verse>
+        <verse osisID='Matt.21.26'>Amma desək “insanlardan”, camaatdan qorxuruq, çünki hamı Yəhyanı peyğəmbər sayır».</verse>
+        <verse osisID='Matt.21.27'>Cavabında İsaya dedilər: «Bilmirik». İsa da onlara dedi: «Bunları hansı səlahiyyətlə etdiyimi Mən də sizə demirəm. </verse>
+        <verse osisID='Matt.21.28'>Bəs siz necə düşünürsünüz? Bir adamın iki oğlu vardı. Gəlib birincisinə “oğlum, bu gün get üzüm bağımda işlə” dedi.</verse>
+        <verse osisID='Matt.21.29'>O da cavab verib “istəmirəm” dedi. Lakin sonra peşman olub getdi.</verse>
+        <verse osisID='Matt.21.30'>Həmin adam ikincisinə yaxınlaşıb yenə eyni sözü söylədi. O cavab verib “Gedirəm, ağam!” dedi, amma getmədi.</verse>
+        <verse osisID='Matt.21.31'>Bu iki nəfərdən hansı atasının istəyini yerinə yetirdi?» Onlar «birincisi» dedilər. İsa onlara dedi: «Sizə doğrusunu deyirəm: vergiyığanlar və fahişələr Allahın Padşahlığına sizdən qabaq girirlər.</verse>
+        <verse osisID='Matt.21.32'>Çünki Yəhya sizin yanınıza salehlik yolunu göstərməyə gəldi. Sizsə ona inanmadınız, amma vergiyığanlar və fahişələr ona inandılar. Siz bunu gördükdən sonra da peşman olub ona inanmadınız. </verse>
+        <verse osisID='Matt.21.33'>Başqa bir məsəli dinləyin: Ev sahibi olan bir adam var idi. Üzüm bağı saldı, oranın ətrafına çəpər çəkdi. İçində yer qazaraq üzümsıxan düzəltdi, nəzarət qülləsi tikdi. Sonra isə bağı bağbanlara icarəyə verərək başqa ölkəyə getdi.</verse>
+        <verse osisID='Matt.21.34'>Məhsul vaxtı çatanda məhsulunu almaq üçün qullarını bağbanların yanına göndərdi.</verse>
+        <verse osisID='Matt.21.35'>Lakin bağbanlar onun qullarını tutub kimini döydülər, kimini öldürdülər, kimini də daşqalaq etdilər.</verse>
+        <verse osisID='Matt.21.36'>Bağ sahibi yenə əvvəlkindən daha çox başqa qullar göndərdi. Bağbanlar onlarla da əvvəlki kimi etdilər.</verse>
+        <verse osisID='Matt.21.37'>“Oğluma hörmət edərlər” deyərək axırda öz oğlunu onların yanına göndərdi.</verse>
+        <verse osisID='Matt.21.38'>Bağbanlarsa oğulu görəndə öz aralarında dedilər: “Varis budur. Gəlin onu öldürək və miras bizə qalsın”.</verse>
+        <verse osisID='Matt.21.39'>Beləcə onu tutub bağdan kənara çıxararaq öldürdülər.</verse>
+        <verse osisID='Matt.21.40'>Beləliklə, bağın sahibi gəldikdə bu bağbanlara nə edəcək?»</verse>
+        <verse osisID='Matt.21.41'>Onlar İsaya dedilər: «Bu xainləri dəhşətli şəkildə həlak edəcək, üzüm bağını isə başqa bağbanlara icarəyə verəcək ki, onlar məhsulu öz vaxtında ona versinlər». </verse>
+        <verse osisID='Matt.21.42'>İsa onlara dedi: «Məgər siz Müqəddəs Yazılarda bunu heç oxumamısınız?  “Bənnaların rədd etdiyi daşGuşədaşı olub.Bu, Rəbbin işi idi,Gözümüzdə xariqəli bir işdir”.</verse>
+        <verse osisID='Matt.21.43'>Buna görə sizə deyirəm: Allahın Padşahlığı sizdən alınıb onun məhsullarını yetişdirəcək bir millətə veriləcək.</verse>
+        <verse osisID='Matt.21.44'>Bu daşın üstünə yıxılan kəs parçalanacaq, daş isə kimin üzərinə düşərsə, onu əzəcək». </verse>
+        <verse osisID='Matt.21.45'>Başçı kahinlər və fariseylər Onun məsəllərini eşitdikdə bu sözləri onlar üçün dediyini başa düşdülər.</verse>
+        <verse osisID='Matt.21.46'>Ona görə də Onu tutmaq üçün yol axtarırdılar, lakin camaatdan qorxdular, çünki camaat İsanı peyğəmbər hesab edirdi.  </verse>
+      </chapter>
+      <chapter osisID='Matt.22'>
+        <verse osisID='Matt.22.1'>
+          İsa yenə onlara məsəllərlə xitab edərək dedi:</verse>
+        <verse osisID='Matt.22.2'>«Səmavi Padşahlıq oğluna toy ziyafəti verən bir padşaha bənzəyir.</verse>
+        <verse osisID='Matt.22.3'>O, toy ziyafətinə dəvət olunanları çağırmaq üçün qullarını göndərdi. Lakin onlar gəlmək istəmədi.</verse>
+        <verse osisID='Matt.22.4'>Bir daha başqa qulları göndərərək onlara dedi: “Dəvət olunanlara deyin ki, budur, mən ziyafətimi hazırladım, öküzlərim və bəslənmiş heyvanlarım kəsilib, hər şey hazırdır, toy ziyafətinə gəlin!”</verse>
+        <verse osisID='Matt.22.5'>Amma dəvət olunanlar etinasızlıq göstərərək kimi tarlasına, kimi ticarətinə getdi.</verse>
+        <verse osisID='Matt.22.6'>O biriləri isə onun qullarını tutub təhqir etdilər və öldürdülər.</verse>
+        <verse osisID='Matt.22.7'>Padşah bundan xəbər tutaraq qəzəbləndi. Öz qoşunlarını göndərib o qatilləri məhv etdi, şəhərlərini isə yandırdı.</verse>
+        <verse osisID='Matt.22.8'>Onda qullarına dedi: “Toy ziyafəti hazırdır, fəqət dəvət olunanlar buna layiq deyil.</verse>
+        <verse osisID='Matt.22.9'>Beləliklə, yolayrıclarına gedin və kimi tapsanız, toy ziyafətinə dəvət edin”.</verse>
+        <verse osisID='Matt.22.10'>Həmin qullar yollara çıxdılar. Pis-yaxşı kimi tapdılarsa, hamısını topladılar. Toy məclisi qonaqlarla doldu. </verse>
+        <verse osisID='Matt.22.11'>Padşah qonaqlara baxmaq üçün girdikdə orada toy libası geyməmiş bir nəfəri gördü,</verse>
+        <verse osisID='Matt.22.12'>ona dedi: “Dostum! Sən toy libası geyməmiş buraya necə girdin?” O isə susdu.</verse>
+        <verse osisID='Matt.22.13'>O zaman padşah xidmətçilərə dedi: “Onun əllərini, ayaqlarını bağlayın və qaranlıq çölə atın! Orada ağlaşma və diş qıcırtısı olacaq”.</verse>
+        <verse osisID='Matt.22.14'>Çünki dəvət edilmiş çox, seçilmiş isə azdır». </verse>
+        <verse osisID='Matt.22.15'>O zaman fariseylər gedib məsləhətləşirdilər ki, Onu söz üstündə necə tutsunlar.</verse>
+        <verse osisID='Matt.22.16'>Onlar hirodçularla birgə öz şagirdlərini İsanın yanına göndərib dedilər: «Müəllim, biz bilirik ki, Sən etibarlı adamsan, Allahın yolunu həqiqətə görə öyrədirsən və heç kimə tərəfkeşlik etmirsən. Çünki insanlar arasında fərq qoymursan.</verse>
+        <verse osisID='Matt.22.17'>İndi bizə de görək, Səncə bizim üçün qeysərə vergi verməyə icazə var ya yox?»</verse>
+        <verse osisID='Matt.22.18'>Amma İsa onların pis niyyətini bilərək dedi: «Ey ikiüzlülər, Məni niyə sınağa çəkirsiniz?</verse>
+        <verse osisID='Matt.22.19'>Vergi verdiyiniz sikkəni Mənə göstərin». Onlar da Ona bir dinar gətirdilər.</verse>
+        <verse osisID='Matt.22.20'>İsa onlara dedi: «Sikkənin üstündəki bu təsvir və yazı kimindir?»</verse>
+        <verse osisID='Matt.22.21'>Ona dedilər: «Qeysərin». O vaxt İsa onlara dedi: «Elə isə, qeysərin haqqını qeysərə, Allahın haqqını Allaha verin».</verse>
+        <verse osisID='Matt.22.22'>Bunu eşitdikləri zaman heyrətləndilər və İsanı tərk edib getdilər. </verse>
+        <verse osisID='Matt.22.23'>Həmin gün dirilmənin olmadığını iddia edən bəzi sadukeylər İsanın yanına gəlib soruşdular:</verse>
+        <verse osisID='Matt.22.24'>«Müəllim, Musa belə demişdir: “Əgər bir adam övladsız ölsə, qardaşı onun dul qalmış arvadını alıb ölən qardaşın nəslini davam etdirsin”.</verse>
+        <verse osisID='Matt.22.25'>Aramızda yeddi qardaş var idi. Birincisi bir arvad aldı və öldü. Uşağı olmadığından arvadı ilə qardaşı evləndi.</verse>
+        <verse osisID='Matt.22.26'>İkincisi və üçüncüsü, hətta yeddincisinə qədər eləcə öldü.</verse>
+        <verse osisID='Matt.22.27'>Hamısından sonra bu qadın da öldü.</verse>
+        <verse osisID='Matt.22.28'>İndi ölülər diriləndə bu qadın o yeddi nəfərdən hansının arvadı olacaq? Çünki hamısı bu qadını almışdı». </verse>
+        <verse osisID='Matt.22.29'>İsa onlara cavab verib dedi: «Müqəddəs Yazıları və Allahın qüdrətini bilmədiyinizə görə yanılırsınız.</verse>
+        <verse osisID='Matt.22.30'>Ona görə ki ölülər diriləndə insanlar nə evlənir, nə də ərə gedirlər. Ancaq səmadakı mələklər kimi olurlar.</verse>
+        <verse osisID='Matt.22.31'>Bəs ölülərin dirilməsinə gəlincə, Allah tərəfindən sizə “Mən İbrahimin Allahı, İshaqın Allahı və Yaqubun Allahıyam” deyə söylənən sözü oxumamısınızmı? Allah ölülərin deyil, dirilərin Allahıdır».</verse>
+        <verse osisID='Matt.22.32'>Bəs ölülərin dirilməsinə gəlincə, Allah tərəfindən sizə “Mən İbrahimin Allahı, İshaqın Allahı və Yaqubun Allahıyam” deyə söylənən sözü oxumamısınızmı? Allah ölülərin deyil, dirilərin Allahıdır».</verse>
+        <verse osisID='Matt.22.33'>Bunları eşidən camaat Onun təliminə təəccüblənirdi. </verse>
+        <verse osisID='Matt.22.34'>Fariseylər İsanın sadukeyləri susdurduğunu eşidəndə bir yerə toplaşdılar.</verse>
+        <verse osisID='Matt.22.35'>Onlardan biri olan qanunşünas İsanı sınamaq məqsədi ilə Ondan bunu soruşdu:</verse>
+        <verse osisID='Matt.22.36'>«Müəllim, Qanunda ən böyük əmr hansıdır?»</verse>
+        <verse osisID='Matt.22.37'>İsa ona dedi: «“Allahın Rəbbi bütün qəlbinlə, bütün varlığınla və bütün düşüncənlə sev”.</verse>
+        <verse osisID='Matt.22.38'>Bu, böyük və əsas əmrdir.</verse>
+        <verse osisID='Matt.22.39'>Buna bənzəyən ikincisi budur: “Qonşunu özün kimi sev”.</verse>
+        <verse osisID='Matt.22.40'>Bütün Qanun və Peyğəmbərlərin sözləri bu iki əmrə əsaslanır». </verse>
+        <verse osisID='Matt.22.41'>Fariseylər toplaşdıqda İsa onlardan bunu soruşdu:</verse>
+        <verse osisID='Matt.22.42'>«Məsih haqqında nə düşünürsünüz? O kimin Oğludur?» Onlar da İsaya «Davudun Oğlu» dedilər.</verse>
+        <verse osisID='Matt.22.43'>İsa onlara dedi: «Elə isə, nə üçün Davud Ruh vasitəsilə Ona “Ağa” deyə müraciət edir?</verse>
+        <verse osisID='Matt.22.44'>“Rəbb mənim Ağama dedi:‹Mən düşmənlərini ayaqlarının altına salanadəkSağımda otur›”  deyib.</verse>
+        <verse osisID='Matt.22.45'>Əgər Davud Ona “Ağa” deyə müraciət edirsə, O necə Davudun oğlu ola bilər?»</verse>
+        <verse osisID='Matt.22.46'>Bunun cavabında İsaya kimsə bir söz deyə bilmədi. O gündən sonra artıq heç kim Ondan bir şey soruşmağa cəsarət etmədi.  </verse>
+      </chapter>
+      <chapter osisID='Matt.23'>
+        <verse osisID='Matt.23.1'>
+          Bundan sonra İsa camaata və şagirdlərinə müraciət edib</verse>
+        <verse osisID='Matt.23.2'>dedi: «İlahiyyatçılar və fariseylər Musanın kürsüsündə oturmuşlar.</verse>
+        <verse osisID='Matt.23.3'>Buna görə də sizə əmr etdikləri hər şeyə riayət və əməl edin. Amma onların etdiklərini etməyin, çünki söyləyərlər, amma riayət etməzlər.</verse>
+        <verse osisID='Matt.23.4'>Ağır və çətin daşına bilən yükləri bağlayıb insanların çiyninə yükləyərlər, özləri isə bu yükləri daşımaq üçün barmaqlarını belə, tərpətmək istəməzlər.</verse>
+        <verse osisID='Matt.23.5'>Onlar öz əməllərinin hamısını insanlar görsün deyə edərlər. Çünki onlar dua qutucuqlarını genişləndirib geyimlərinin qotazlarını uzadarlar.</verse>
+        <verse osisID='Matt.23.6'>Ziyafətlərdə yuxarı başı və sinaqoqlarda baş kürsüləri tutmağı,</verse>
+        <verse osisID='Matt.23.7'>bazar meydanlarında salam almağı, insanların onlara “Rabbi!” deyə xitab etməsini sevərlər. </verse>
+        <verse osisID='Matt.23.8'>Amma kimsə sizi “Rabbi” deyə çağırmasın. Çünki sizin bir Müəlliminiz var. Siz hamınızsa qardaşsınız.</verse>
+        <verse osisID='Matt.23.9'>Yer üzündə kimsəyə “ata” deməyin. Çünki bir Atanız var, O da Səmavi Atadır.</verse>
+        <verse osisID='Matt.23.10'>Kimsə sizə “rəhbər” deməsin. Çünki bir Rəhbəriniz var, O da Məsihdir.</verse>
+        <verse osisID='Matt.23.11'>Aranızda ən böyük olan xidmətçiniz olsun.</verse>
+        <verse osisID='Matt.23.12'>Kim özünü yüksəldərsə, aşağı tutulacaq və kim özünü aşağı tutarsa, yüksəldiləcək. </verse>
+        <verse osisID='Matt.23.13'>Vay halınıza, ey ilahiyyatçılar və fariseylər – ikiüzlülər! Çünki siz Səmavi Padşahlığı insanların üzünə qapayırsınız. Nə özünüz girirsiniz, nə də girmək istəyənləri buraxırsınız.</verse>
+        <verse osisID='Matt.23.14'/>
+        <verse osisID='Matt.23.15'>Vay halınıza, ey ilahiyyatçılar və fariseylər – ikiüzlülər! Çünki siz dənizi və qurunu dolaşırsınız ki, bir nəfəri dinə gətirəsiniz. Dinə gətirdikdə isə onu özünüzdən ikiqat artıq cəhənnəmlik edirsiniz. </verse>
+        <verse osisID='Matt.23.16'>Vay halınıza, ey kor rəhbərlər! Deyirsiniz ki, “kim məbədə and içirsə, əhəmiyyətli bir şey deyil, lakin kim məbədin qızılına and içirsə, öz andına borcludur”.</verse>
+        <verse osisID='Matt.23.17'>Ey ağılsızlar və korlar! Hansı daha böyükdür? Qızılmı, yoxsa qızılı təqdis edən məbədmi?</verse>
+        <verse osisID='Matt.23.18'>Yenə də deyirsiniz ki, “kim qurbangaha and içirsə, əhəmiyyətli bir şey deyil; lakin qurbangah üzərindəki qurbana and içən öz andını yerinə yetirməlidir”.</verse>
+        <verse osisID='Matt.23.19'>Ey korlar! Hansı daha böyükdür? Qurbanmı, yoxsa qurbanı təqdis edən qurbangahmı?</verse>
+        <verse osisID='Matt.23.20'>Beləliklə, qurbangaha and içən kəs ona və onun üstündə olan bütün şeylərə and içir.</verse>
+        <verse osisID='Matt.23.21'>Məbədə and içən kəs ona və içində Yaşayana and içir.</verse>
+        <verse osisID='Matt.23.22'>Göyə and içən kəs də Allahın taxtına və taxtda Oturana and içir. </verse>
+        <verse osisID='Matt.23.23'>Vay halınıza, ey ilahiyyatçılar və fariseylər – ikiüzlülər! Çünki siz nanə, şüyüd və zirənin onda birini verirsiniz, lakin Qanunun daha vacib işlərini, ədaləti, mərhəməti və imanı atırsınız. Amma onda biri verməklə yanaşı bunları da yerinə yetirməli idiniz.</verse>
+        <verse osisID='Matt.23.24'>Ey kor rəhbərlər! Ağcaqanadı süzgəclə çıxarır, dəvəni isə udursunuz! </verse>
+        <verse osisID='Matt.23.25'>Vay halınıza, ey ilahiyyatçılar və fariseylər – ikiüzlülər! Çünki siz kasanın və boşqabın bayır tərəfini təmizləyirsiniz, lakin onların daxili soyğunçuluq və pozğunluqla doludur.</verse>
+        <verse osisID='Matt.23.26'>Sən, ey kor farisey! Əvvəlcə kasanın daxilini təmizlə ki, bayır tərəfi də təmiz olsun! </verse>
+        <verse osisID='Matt.23.27'>Vay halınıza, ey ilahiyyatçılar və fariseylər – ikiüzlülər! Çünki siz ağardılmış məqbərələrə bənzəyirsiniz: onların bayır tərəfi gözəl görünür, daxili isə ölü sümükləri və hər cür murdarlıqla doludur.</verse>
+        <verse osisID='Matt.23.28'>Siz də zahirən insanlara saleh görünürsünüz, daxilən isə ikiüzlülük və qanunsuzluqla dolusunuz. </verse>
+        <verse osisID='Matt.23.29'>Vay halınıza, ey ilahiyyatçılar və fariseylər – ikiüzlülər! Çünki siz peyğəmbərlərə məqbərələr tikirsiniz, salehlərin abidələrini bəzəyirsiniz.</verse>
+        <verse osisID='Matt.23.30'>“Biz ata-babalarımızın yaşadığı günlərdə yaşasaydıq, peyğəmbərlərin qanını tökməkdə onlarla şərik olmazdıq” deyirsiniz.</verse>
+        <verse osisID='Matt.23.31'>Beləliklə, peyğəmbərləri öldürənlərin övladları olduğunuza özünüz şəhadət edirsiniz.</verse>
+        <verse osisID='Matt.23.32'>Elə isə, ata-babalarınızın başladığı işi başa çatdırın!</verse>
+        <verse osisID='Matt.23.33'>Siz ey ilanlar, gürzələr nəsli! Cəhənnəmə məhkum edilməkdən necə qaçacaqsınız? </verse>
+        <verse osisID='Matt.23.34'>Ona görə də Mən sizə peyğəmbərlər, müdrik adamlar və ilahiyyatçılar göndərirəm. Siz onlardan bəzisini öldürəcək və çarmıxa çəkəcəksiniz. Bəzisini sinaqoqlarınızda qamçılayacaq və şəhərdən şəhərə qovacaqsınız;</verse>
+        <verse osisID='Matt.23.35'>belə ki saleh olan Habilin qanından tutmuş məbədlə qurbangahın arasında öldürdüyünüz Berekya oğlu Zəkəriyyənin qanına qədər yer üzündə tökülən bütün saleh adamların qanı üçün məsuliyyət daşıyasınız.</verse>
+        <verse osisID='Matt.23.36'>Sizə doğrusunu deyirəm: bütün bu şeylər üçün bu nəsil məsuliyyət daşıyacaq. </verse>
+        <verse osisID='Matt.23.37'>Ey Yerusəlim, Yerusəlim! Peyğəmbərləri öldürən və ora göndərilənləri daşqalaq edən şəhər! Toyuq cücələrini qanadları altına yığan kimi Mən də dəfələrlə sənin övladlarını yığmaq istədim, sizsə istəmədiniz!</verse>
+        <verse osisID='Matt.23.38'>Baxın, eviniz viran qalır.</verse>
+        <verse osisID='Matt.23.39'>Çünki Mən sizə bunu deyirəm:  “Rəbbin ismi ilə Gələnə alqış olsun!”  deyənə qədər Məni bir daha görməyəcəksiniz».  </verse>
+      </chapter>
+      <chapter osisID='Matt.24'>
+        <verse osisID='Matt.24.1'>
+          İsa məbəddən çıxıb gedərkən şagirdləri məbədin binalarını Ona göstərmək üçün yanına gəldilər.</verse>
+        <verse osisID='Matt.24.2'>İsa onlara cavab verib dedi: «Bütün bunları görürsünüzmü? Sizə doğrusunu deyirəm: onların daşı daş üstündə qalmayacaq, hamısı yerlə yeksan olacaq». </verse>
+        <verse osisID='Matt.24.3'>İsa Zeytun dağında oturanda şagirdlər ayrılıqda Onun yanına gəlib dedilər: «Bizə söylə, bu dediklərin nə vaxt baş verəcək? Sənin zühurun və dövrün sonuna hansı əlamətlər olacaq?»</verse>
+        <verse osisID='Matt.24.4'>İsa onlara cavab verib dedi: «Ehtiyatlı olun, qoy sizi heç kim aldatmasın.</verse>
+        <verse osisID='Matt.24.5'>Çünki Mənim adımla çox adam gəlib “Məsih mənəm” deyərək çoxlarını aldadacaq.</verse>
+        <verse osisID='Matt.24.6'>Siz müharibələr və müharibə xəbərləri eşidəcəksiniz. Amma təlaşa düşməyin. Bunlar baş verməlidir, amma bu hələ hər şeyin axırı deyil.</verse>
+        <verse osisID='Matt.24.7'>Çünki millət millətə, padşahlıq padşahlığa qarşı çıxacaq. Yerbəyer aclıq və zəlzələlər olacaq.</verse>
+        <verse osisID='Matt.24.8'>Bütün bunlar sanki doğuş ağrılarının başlanğıcıdır. </verse>
+        <verse osisID='Matt.24.9'>O zaman sizi əziyyətə təslim edib öldürəcəklər. Mənim adıma görə bütün millətlər sizə nifrət edəcək.</verse>
+        <verse osisID='Matt.24.10'>Onda bir çoxu imandan büdrəyərək bir-birini təslim edəcək və bir-birinə nifrət edəcək.</verse>
+        <verse osisID='Matt.24.11'>Bir çox yalançı peyğəmbər törəyib çox adamı aldadacaq.</verse>
+        <verse osisID='Matt.24.12'>Qanunsuzluq çoxaldığı üçün bir çoxunun məhəbbəti soyuyacaq.</verse>
+        <verse osisID='Matt.24.13'>Amma axıracan dözən xilas olacaq.</verse>
+        <verse osisID='Matt.24.14'>Səmavi Padşahlığın bu Müjdəsi bütün millətlərə şəhadət olmaq üçün bütün dünyada vəz ediləcək. O zaman hər şeyin axırı gələcək. </verse>
+        <verse osisID='Matt.24.15'>Beləliklə, Daniel peyğəmbərin bəhs etdiyi viranəlik gətirən iyrənc şeyin Müqəddəs məkanda qoyulduğunu gördüyünüz zaman – qoy oxuyan bunu anlasın –</verse>
+        <verse osisID='Matt.24.16'>Yəhudeyada olanlar dağlara qaçsın.</verse>
+        <verse osisID='Matt.24.17'>Damda olan evindəki əşyaları götürmək üçün aşağı enməsin.</verse>
+        <verse osisID='Matt.24.18'>Tarlada olan üst paltarını götürmək üçün geri qayıtmasın.</verse>
+        <verse osisID='Matt.24.19'>Həmin günlər hamilələrin və körpə əmizdirənlərin vay halına!</verse>
+        <verse osisID='Matt.24.20'>Dua edin ki, qaçmağınız qış fəslində və ya Şənbə günündə baş verməsin.</verse>
+        <verse osisID='Matt.24.21'>Çünki o vaxt elə dəhşətli əzab-əziyyət olacaq ki, dünyanın başlanğıcından indiyə qədər beləsi olmayıb və heç olmayacaq da.</verse>
+        <verse osisID='Matt.24.22'>Əgər o günlər qısaldılmasaydı, heç bir insan xilas ola bilməzdi. Amma seçilmişlərə görə o günlər qısaldılacaq. </verse>
+        <verse osisID='Matt.24.23'>O zaman əgər kimsə sizə desə ki, “bax, Məsih buradadır” yaxud da “oradadır”, inanmayın.</verse>
+        <verse osisID='Matt.24.24'>Çünki yalançı məsihlər və yalançı peyğəmbərlər törəyəcək. Onlar böyük əlamətlər və xariqələr göstərəcəklər ki, imkan taparlarsa, seçilmişləri də aldatsınlar.</verse>
+        <verse osisID='Matt.24.25'>Bax Mən sizə əvvəlcədən söyləmişəm.</verse>
+        <verse osisID='Matt.24.26'>Ona görə sizə “bax, O çöldədir” desələr də, çıxmayın. “Bax, O daxili otaqlardadır” desələr də, inanmayın.</verse>
+        <verse osisID='Matt.24.27'>Çünki şimşək şərqdə çaxıb qərbdə belə, göründüyü kimi Bəşər Oğlunun zühuru da elə olacaq.</verse>
+        <verse osisID='Matt.24.28'>Leş haradadırsa, kərkəslər də orada toplaşar. </verse>
+        <verse osisID='Matt.24.29'>Amma o günlərin əzab-əziyyətindən dərhal sonra  Günəş tutulacaq,Ay nurunu saçmayacaq,Ulduzlar göydən töküləcək,Səma cisimləri lərzəyə gələcək.</verse>
+        <verse osisID='Matt.24.30'>O zaman Bəşər Oğlunun əlaməti göydə görünəcək. O vaxt yer üzünün bütün tayfaları şivən qoparacaq və Bəşər Oğlunun göyün buludları üzərində qüdrət və böyük izzətlə gəldiyini görəcək.</verse>
+        <verse osisID='Matt.24.31'>O, mələklərini uca şeypur səsi ilə göndərəcək. Mələklər də göylərin bir ucundan o biri ucuna qədər dörd külək istiqamətindən Onun seçdiklərini toplayacaq. </verse>
+        <verse osisID='Matt.24.32'>Əncir ağacından ibrət alın: onun budağı cücərib yarpaqlananda bilirsiniz ki, yay fəsli artıq yaxındır.</verse>
+        <verse osisID='Matt.24.33'>Eləcə siz də bütün bu şeyləri görəndə bilin ki, Bəşər Oğlu yaxındadır, lap qapıdadır.</verse>
+        <verse osisID='Matt.24.34'>Sizə doğrusunu deyirəm: bu nəsil ömrünü sona çatdırmazdan əvvəl bütün bunlar baş verəcək.</verse>
+        <verse osisID='Matt.24.35'>Yer və göy keçib gedəcək, amma Mənim sözlərim əsla keçib getməyəcək. </verse>
+        <verse osisID='Matt.24.36'>Lakin o günü və o saatı nə göylərin mələkləri, nə də Oğul bilir. Atadan başqa heç kim bilmir.</verse>
+        <verse osisID='Matt.24.37'>Nuhun günləri necə idisə, Bəşər Oğlunun zühuru da elə olacaq.</verse>
+        <verse osisID='Matt.24.38'>Daşqından əvvəlki həmin günlərdə, Nuhun gəmiyə girdiyi günə qədər insanlar yeyib-içir, evlənir, ərə gedirdi.</verse>
+        <verse osisID='Matt.24.39'>Daşqın gəlib hamısını aparana qədər bixəbər idilər. Bəşər Oğlunun zühuru da belə olacaq.</verse>
+        <verse osisID='Matt.24.40'>O zaman tarladakı iki nəfərdən biri götürüləcək, o biri isə qalacaq.</verse>
+        <verse osisID='Matt.24.41'>Dəyirmanda dən üyüdən iki qadından biri götürüləcək, o biri isə qalacaq. </verse>
+        <verse osisID='Matt.24.42'>Ona görə də oyaq olun. Çünki Rəbbinizin hansı gün gələcəyini bilmirsiniz.</verse>
+        <verse osisID='Matt.24.43'>Amma bunu bilin ki, əgər evin yiyəsi oğrunun gecə hansı saatda gələcəyini bilsəydi, oyaq qalıb evinin yarılmasına imkan verməzdi.</verse>
+        <verse osisID='Matt.24.44'>Buna görə siz də hazır olun, çünki Bəşər Oğlu gözləmədiyiniz vaxt gələcək. </verse>
+        <verse osisID='Matt.24.45'>Vaxtlı-vaxtında onlara yemək vermək üçün ağasının öz nökərləri üzərinə qoyduğu sadiq və ağıllı qul kimdir?</verse>
+        <verse osisID='Matt.24.46'>Nə bəxtiyardır o qul ki, ağası evinə qayıdanda onu iş başında görür!</verse>
+        <verse osisID='Matt.24.47'>Sizə doğrusunu deyirəm: ağası bu qula bütün əmlakı üzərində idarəçiliyi tapşıracaq.</verse>
+        <verse osisID='Matt.24.48'>Amma həmin qul pis olub ürəyində “ağam gec gələcək” deyərsə,</verse>
+        <verse osisID='Matt.24.49'>öz yoldaşlarını döyməyə və əyyaşlarla yeyib-içməyə başlayarsa,</verse>
+        <verse osisID='Matt.24.50'>o qulun ağası onun gözləmədiyi gün və ağlına gəlmədiyi vaxt gələcək,</verse>
+        <verse osisID='Matt.24.51'>ona ağır cəza verəcək və onu ikiüzlülərlə bir yerdə saxlayacaq. Orada ağlaşma və diş qıcırtısı olacaq.  </verse>
+      </chapter>
+      <chapter osisID='Matt.25'>
+        <verse osisID='Matt.25.1'>
+           O zaman Səmavi Padşahlıq çıraqlarını götürüb bəyin qarşısına çıxan on qıza bənzəyəcək.</verse>
+        <verse osisID='Matt.25.2'>Onlardan beşi ağıllı, beşi isə ağılsız idi.</verse>
+        <verse osisID='Matt.25.3'>Ağılsızlar özləri ilə çıraqlarını götürmüşdü, amma yağ götürməmişdi.</verse>
+        <verse osisID='Matt.25.4'>Ağıllılarsa çıraqları ilə birgə qablarda yağ da götürmüşdü.</verse>
+        <verse osisID='Matt.25.5'>Lakin bəy gecikdiyindən hamısını yuxu basdı və onlar yatdı.</verse>
+        <verse osisID='Matt.25.6'>Amma gecə yarısı bir qışqırıq qopdu: “Budur, bəy gəlir, onu qarşılamağa çıxın!”</verse>
+        <verse osisID='Matt.25.7'>O zaman o qızların hamısı durub öz çıraqlarını düzəltdilər.</verse>
+        <verse osisID='Matt.25.8'>Ağılsızlar ağıllılara dedi: “Yağınızdan bizə də verin, çünki çıraqlarımız sönür”.</verse>
+        <verse osisID='Matt.25.9'>Ağıllılarsa cavab verib dedilər: “Belə olmasın ki, yağ nə bizə çatsın, nə sizə. Yaxşısı budur ki, gedib satıcılardan alasınız”.</verse>
+        <verse osisID='Matt.25.10'>Onlar yağ satın almağa getdikləri zaman bəy gəldi. Hazır olanlar onunla toy məclisinə girdilər və qapı bağlandı.</verse>
+        <verse osisID='Matt.25.11'>O biri qızlar da sonradan gəlib “Ağa! Ağa! Qapını bizə aç!” dedilər.</verse>
+        <verse osisID='Matt.25.12'>O isə cavab verib dedi: “Sizə doğrusunu deyirəm: sizi tanımıram”.</verse>
+        <verse osisID='Matt.25.13'>Beləliklə, oyaq olun. Çünki siz nə günü, nə də saatı bilirsiniz. </verse>
+        <verse osisID='Matt.25.14'>Səmavi Padşahlıq səyahətə çıxan bir adama bənzəyir. O, qullarını çağırıb əmlakını onlara əmanət etdi.</verse>
+        <verse osisID='Matt.25.15'>O hər birinə öz qabiliyyətinə görə – birinə beş, birinə iki, birinə də bir talant verdi və yola düşdü.</verse>
+        <verse osisID='Matt.25.16'>Beş talant alan dərhal gedib bunları sərmayəyə qoydu, daha beş talant qazandı.</verse>
+        <verse osisID='Matt.25.17'>İki talant alan da beləcə daha iki talant qazandı.</verse>
+        <verse osisID='Matt.25.18'>Bir talant alansa gedib torpağı qazdı və ağasının pulunu gizlətdi. </verse>
+        <verse osisID='Matt.25.19'>Uzun zamandan sonra həmin qulların ağası gəldi və onlardan hesabat tələb etdi.</verse>
+        <verse osisID='Matt.25.20'>Beş talant alan gəlib daha beş talant gətirərək dedi: “Ağa, sən mənə beş talant əmanət etdin. Budur, mən daha beş talant qazandım”.</verse>
+        <verse osisID='Matt.25.21'>Ağası ona dedi: “Afərin, yaxşı və sadiq qulum! Sən xırda işlərdə sadiq oldun, səni böyük işlər üzərinə qoyacağam. Ağanın sevincinə şərik ol!” </verse>
+        <verse osisID='Matt.25.22'>İki talant alan da gəlib dedi: “Ağa, mənə iki talant əmanət etdin. Budur, mən daha iki talant qazandım”.</verse>
+        <verse osisID='Matt.25.23'>Ağası ona dedi: “Afərin, yaxşı və sadiq qulum! Sən xırda işlərdə sadiq oldun, səni böyük işlər üzərinə qoyacağam. Ağanın sevincinə şərik ol!” </verse>
+        <verse osisID='Matt.25.24'>Bir talant alan da gəlib dedi: “Ağa, sənin sərt bir adam olduğunu bilirdim. Əkmədiyin yerdən biçərsən, səpmədiyin yerdən yığarsan.</verse>
+        <verse osisID='Matt.25.25'>Ona görə qorxdum, gedib sənin talantını torpaqda gizlətdim. Buyur, öz malını geri götür!”</verse>
+        <verse osisID='Matt.25.26'>Ağası isə cavab verib ona dedi: “Pis və tənbəl qul! Mənim əkmədiyim yerdən biçdiyimi və səpmədiyim yerdən yığdığımı bilirdinmi?</verse>
+        <verse osisID='Matt.25.27'>Onda gərək mənim pulumu sərraflara verəydin ki, mən qayıdanda onu faizlə geri alım.</verse>
+        <verse osisID='Matt.25.28'>İndi əlindəki talantı ondan alın və on talantı olana verin!</verse>
+        <verse osisID='Matt.25.29'>Çünki kimin varıdırsa, daha çox veriləcək və o, bolluq içində olacaq, kimin yoxudursa, əlində olan da ondan alınacaq.</verse>
+        <verse osisID='Matt.25.30'>Yaramaz qulu isə qaranlıq çölə atın. Orada ağlaşma və diş qıcırtısı olacaq”. </verse>
+        <verse osisID='Matt.25.31'>Bəşər Oğlu bütün mələklərlə birlikdə izzəti ilə gələn zaman Öz izzətli taxtına oturacaq.</verse>
+        <verse osisID='Matt.25.32'>Bütün millətlər Onun önündə toplaşacaq, O da qoyunları keçilərdən ayıran bir çoban kimi onları bir-birindən ayıracaq.</verse>
+        <verse osisID='Matt.25.33'>Qoyunları sağına, keçiləri isə soluna qoyacaq. </verse>
+        <verse osisID='Matt.25.34'>O zaman Padşah sağındakılara deyəcək: “Ey sizlər, Atamın xeyir-dua verdiyi adamlar! Gəlin, dünya yaranandan bəri sizin üçün hazırlanmış olan Padşahlığı irs alın.</verse>
+        <verse osisID='Matt.25.35'>Çünki ac idim, Mənə yemək verdiniz; susamışdım, Mənə su verdiniz; qərib idim, Məni qəbul etdiniz;</verse>
+        <verse osisID='Matt.25.36'>çılpaq idim, Məni geyindirdiniz; xəstə idim, qayğımı çəkdiniz; zindanda idim, yanıma gəldiniz”.</verse>
+        <verse osisID='Matt.25.37'>Onda salehlər Ona cavab verib deyəcəklər: “Ya Rəbb, biz Səni nə vaxt ac görüb yemək verdik və ya susamış görüb su verdik?</verse>
+        <verse osisID='Matt.25.38'>Nə vaxt Səni qərib görüb qəbul etdik və ya çılpaq görüb geyindirdik?</verse>
+        <verse osisID='Matt.25.39'>Nə vaxt Səni xəstə və ya zindanda görüb yanına gəldik?”</verse>
+        <verse osisID='Matt.25.40'>Padşah da cavab verib onlara deyəcək: “Sizə doğrusunu deyirəm: siz bu ən kiçik qardaşlarımdan birinə etdiyinizi Mənə etmiş oldunuz”. </verse>
+        <verse osisID='Matt.25.41'>O zaman solundakılara deyəcək: “Ey lənətə gəlmişlər, çəkilin önümdən! İblislə onun mələklərinə hazırlanmış olan əbədi oda yollanın!</verse>
+        <verse osisID='Matt.25.42'>Çünki ac idim, Mənə yemək vermədiniz; susamışdım, Mənə su vermədiniz;</verse>
+        <verse osisID='Matt.25.43'>qərib idim, Məni qəbul etmədiniz; çılpaq idim, Məni geyindirmədiniz; xəstə və zindanda idim, qayğımı çəkmədiniz”.</verse>
+        <verse osisID='Matt.25.44'>Onda onlar da cavab verib deyəcəklər: “Ya Rəbb, Səni nə vaxt ac, susamış, qərib, çılpaq, xəstə və yaxud zindanda gördük ki, Sənə xidmət etmədik?”</verse>
+        <verse osisID='Matt.25.45'>O zaman onlara cavab verib deyəcək: “Sizə doğrusunu deyirəm: siz bu ən kiçiklərdən birinə etmədiyinizi Mənə etməmiş oldunuz”.</verse>
+        <verse osisID='Matt.25.46'>Bunlar əbədi əzaba, salehlərsə əbədi həyata gedəcək».  </verse>
+      </chapter>
+      <chapter osisID='Matt.26'>
+        <verse osisID='Matt.26.1'>
+           İsa bütün bu sözləri bitirəndən sonra şagirdlərinə dedi:</verse>
+        <verse osisID='Matt.26.2'>«İki gün sonra Pasxa bayramı olacağını bilirsiniz. Bəşər Oğlu çarmıxa çəkilmək üçün təslim ediləcək». </verse>
+        <verse osisID='Matt.26.3'>O zaman başçı kahinlər və xalqın ağsaqqalları Qayafa adlı baş kahinin həyətinə toplaşdılar.</verse>
+        <verse osisID='Matt.26.4'>İsanı hiylə ilə tutub öldürmək üçün sui-qəsd hazırladılar.</verse>
+        <verse osisID='Matt.26.5'>Amma deyirdilər: «Bunu bayramda etməyək, yoxsa xalq arasında qarışıqlıq düşər». </verse>
+        <verse osisID='Matt.26.6'>İsa Bet-Anyada cüzamlı Şimonun evində ikən</verse>
+        <verse osisID='Matt.26.7'>bir qadın Onun yanına gəldi və qadının əlində içində çox bahalı ətirli yağ olan ağ mərmər qab var idi. İsa süfrəyə oturanda qadın yağı Onun başına tökdü.</verse>
+        <verse osisID='Matt.26.8'>Şagirdlər bunu gördükdə acıqlanıb dedilər: «Bu israfçılıq nə üçündür?</verse>
+        <verse osisID='Matt.26.9'>Axı bu ətiri baha qiymətə satıb pulunu yoxsullara vermək olardı».</verse>
+        <verse osisID='Matt.26.10'>Lakin İsa bunu bilərək dedi: «Niyə qadını incidirsiniz? O Mənim üçün gözəl bir iş gördü.</verse>
+        <verse osisID='Matt.26.11'>Yoxsullar həmişə sizin yanınızdadır, Mənsə həmişə yanınızda olmayacağam.</verse>
+        <verse osisID='Matt.26.12'>Qadın bu ətiri Mənim bədənimə tökməklə Məni dəfn üçün hazırladı.</verse>
+        <verse osisID='Matt.26.13'>Sizə doğrusunu deyirəm: dünyanın hansı yerində Müjdə vəz edilərsə, bu qadının etdiyi iş də danışılacaq ki, o yada salınsın». </verse>
+        <verse osisID='Matt.26.14'>O zaman On İki şagirddən Yəhuda İskaryot adlı biri başçı kahinlərin yanına gedib dedi:</verse>
+        <verse osisID='Matt.26.15'>«Onu sizə təslim etsəm, mənə nə verərsiniz?» Onlar da Yəhudaya otuz gümüş təklif etdilər.</verse>
+        <verse osisID='Matt.26.16'>O vaxtdan Yəhuda İsanı təslim etmək üçün fürsət axtarmağa başladı. </verse>
+        <verse osisID='Matt.26.17'>Mayasız Çörək bayramının ilk günü şagirdlər İsanın yanına gəlib dedilər: «Sənin Pasxa yeməyin üçün harada hazırlıq görməyimizi istəyirsən?»</verse>
+        <verse osisID='Matt.26.18'>O da cavab verdi: «Şəhərə girib filankəsin yanına gedin və ona deyin: “Müəllim deyir: ‹Vaxtım yaxınlaşdı, şagirdlərimlə birgə Pasxanı sənin evində keçirəcəyəm›”».</verse>
+        <verse osisID='Matt.26.19'>Şagirdlər İsanın əmrini yerinə yetirərək Pasxa yeməyi üçün hazırlıq etdilər. </verse>
+        <verse osisID='Matt.26.20'>Axşam düşəndə İsa On İki şagirdi ilə birgə süfrəyə oturdu.</verse>
+        <verse osisID='Matt.26.21'>Onlar yemək yeyərkən İsa dedi: «Sizə doğrusunu deyirəm: sizlərdən biri Mənə xəyanət edəcək».</verse>
+        <verse osisID='Matt.26.22'>Onlar çox kədərlənib bir-bir Ondan soruşdular: «Ya Rəbb, mən deyiləm ki?»</verse>
+        <verse osisID='Matt.26.23'>O cavab verib dedi: «Mənimlə birlikdə əlini qaba batıran Mənə xəyanət edəcək.</verse>
+        <verse osisID='Matt.26.24'>Bəşər Oğlu Özü barəsində yazıldığı kimi gedir. Amma vay o adamın halına ki, Bəşər Oğluna xəyanət edir! O adam heç doğulmasaydı, onun üçün daha yaxşı olardı».</verse>
+        <verse osisID='Matt.26.25'>Ona xəyanət edən Yəhuda «Rabbi, mən deyiləm ki?» deyə soruşdu. İsa da ona «sən dediyin kimidir» dedi. </verse>
+        <verse osisID='Matt.26.26'>Onlar yeyəndə İsa çörək götürdü, şükür duası edib onu böldü və şagirdlərə verərək dedi: «Alın, yeyin! Bu Mənim bədənimdir».</verse>
+        <verse osisID='Matt.26.27'>Sonra bir kasa götürdü və şükür edib onu da şagirdlərə verərək dedi: «Bundan hamınız için!</verse>
+        <verse osisID='Matt.26.28'>Çünki bu, Əhdin bağlanması və günahların bağışlanması üçün çoxları uğrunda axıdılan Mənim qanımdır.</verse>
+        <verse osisID='Matt.26.29'>Mən sizə deyirəm: Atamın Padşahlığında sizinlə birlikdə təzəsini içəcəyim günə qədər üzüm ağacının bu məhsulundan əsla içməyəcəyəm». </verse>
+        <verse osisID='Matt.26.30'>Onlar ilahi oxuyandan sonra çıxdılar və Zeytun dağına tərəf getdilər. </verse>
+        <verse osisID='Matt.26.31'>Onda İsa şagirdlərinə dedi: «Bu gecə hamınız Məni atıb gedəcəksiniz, çünki belə yazılıb:  “Çobanı vuracağam,Sürünün qoyunları pərən-pərən olacaq”.</verse>
+        <verse osisID='Matt.26.32'>Amma Mən diriləndən sonra sizdən qabaq Qalileyaya gedəcəyəm».</verse>
+        <verse osisID='Matt.26.33'>Peter Ona cavab verib dedi: «Hamı Səni atıb getsə də, mən əsla atıb getməyəcəyəm».</verse>
+        <verse osisID='Matt.26.34'>İsa ona dedi: «Sənə doğrusunu deyirəm: bu gecə xoruz banlamazdan əvvəl sən Məni üç dəfə inkar edəcəksən».</verse>
+        <verse osisID='Matt.26.35'>Peter Ona dedi: «Əgər Səninlə birlikdə ölməyim lazım olsa belə, Səni əsla inkar etməyəcəyəm». Bütün şagirdlər də belə dedilər. </verse>
+        <verse osisID='Matt.26.36'>Sonra İsa şagirdlərlə birlikdə Getsemani adlanan bir yerə gəldi və onlara dedi: «Mən oraya gedib dua edərkən siz burada oturub-qalın».</verse>
+        <verse osisID='Matt.26.37'>O, Peter ilə Zavdayın iki oğlunu Özü ilə apardı. Özündə bir kədər və narahatlıq hiss etməyə başladı.</verse>
+        <verse osisID='Matt.26.38'>Onlara belə dedi: «Ürəyimi elə dərin kədər bürüyüb, az qalır ki, ölüm. Burada qalın və Mənimlə birlikdə oyaq olun». </verse>
+        <verse osisID='Matt.26.39'>İsa bir qədər irəli getdi və üzüstə yerə qapanıb dua etdi: «Ey Atam, mümkündürsə, qoy bu kasa Məndən yan keçsin. Amma Mənim yox, Sənin iradən olsun».</verse>
+        <verse osisID='Matt.26.40'>İsa şagirdlərin yanına qayıdıb gördü ki, onlar yatıb. O, Peteri səslədi: «Məgər Mənimlə birlikdə bir saat oyaq qala bilməzdinizmi?</verse>
+        <verse osisID='Matt.26.41'>Oyaq durub dua edin ki, sınağa düşməyəsiniz. Ruh həvəsli, cisim isə gücsüzdür».</verse>
+        <verse osisID='Matt.26.42'>İsa yenə ikinci dəfə uzaqlaşdı və dua etdi: «Ey Atam, əgər Mən içmədən bu kasanın keçməsi mümkün deyilsə, qoy Sənin iradən olsun». </verse>
+        <verse osisID='Matt.26.43'>İsa qayıdanda gördü ki, onlar yenə yatıb. Çünki onların gözləri yumulurdu.</verse>
+        <verse osisID='Matt.26.44'>Onları tərk edib təkrarən uzaqlaşdı, yenə eyni sözlərlə üçüncü dəfə dua etdi.</verse>
+        <verse osisID='Matt.26.45'>Sonra İsa şagirdlərin yanına qayıdıb onlara dedi: «Hələ də yatıb dincəlirsiniz? Budur, vaxt yaxınlaşıb və Bəşər Oğlu günahkarların əlinə təslim olunur.</verse>
+        <verse osisID='Matt.26.46'>Qalxın gedək. Budur, Mənə xəyanət edən gəlir!» </verse>
+        <verse osisID='Matt.26.47'>İsa hələ danışarkən On İki şagirddən biri olan Yəhuda gəldi. Onun yanında başçı kahinlərin və xalqın ağsaqqallarının göndərdiyi əli qılınclı və dəyənəkli böyük bir dəstə adam var idi.</verse>
+        <verse osisID='Matt.26.48'>İsaya xəyanət edən Yəhuda onlara işarə ilə bildirib demişdi: «Kimi öpsəm, İsa Odur, Onu tutun».</verse>
+        <verse osisID='Matt.26.49'>O anda İsaya yaxınlaşıb «Salam, Rabbi!» deyərək Onu öpdü.</verse>
+        <verse osisID='Matt.26.50'>İsa da ona «Dostum, nə üçün gəlmisən?» dedi. Elə bu vaxt İsaya yaxınlaşıb əl ataraq Onu tutdular.</verse>
+        <verse osisID='Matt.26.51'>Onda İsa ilə birlikdə olanlardan biri əl atıb qılıncını çəkdi və baş kahinin qulunu vurub qulağını qopartdı.</verse>
+        <verse osisID='Matt.26.52'>İsa ona dedi: «Qılıncını yerinə qoy, çünki qılınc çəkənlərin hamısı qılıncla məhv olacaq.</verse>
+        <verse osisID='Matt.26.53'>Yoxsa elə düşünürsən ki, Atamdan yardım istəyə bilmərəm? İstəsəm, dərhal Mənə on iki legiondan artıq mələk göndərər.</verse>
+        <verse osisID='Matt.26.54'>“Bunların olması gərəkdir” deyən Müqəddəs Yazılar onda bəs necə yerinə yetərdi?» </verse>
+        <verse osisID='Matt.26.55'>Həmin vaxt İsa camaata dedi: «Nə üçün quldur üstünə gələn kimi qılınc və dəyənəklərlə Məni tutmağa gəlmisiniz? Hər gün məbəddə oturub təlim verirdim, heç Məni tutmadınız.</verse>
+        <verse osisID='Matt.26.56'>Amma bunların hamısı peyğəmbərlərin Yazıları yerinə yetsin deyə baş verdi». Onda bütün şagirdlər İsanı atıb qaçdılar. </verse>
+        <verse osisID='Matt.26.57'>İsanı həbs edənlər Onu baş kahin Qayafanın yanına gətirdilər. İlahiyyatçılar və ağsaqqallar da oraya toplaşdı.</verse>
+        <verse osisID='Matt.26.58'>Peter uzaqdan baş kahinin həyətinə qədər İsanın ardınca gedirdi, sonu görmək üçün içəri girib mühafizəçilərlə birgə oturdu. </verse>
+        <verse osisID='Matt.26.59'>Başçı kahinlər və Ali Şuranın hamısı İsanı edam etmək üçün Onun əleyhinə yalançı şahidlik ifadəsi axtarırdılar.</verse>
+        <verse osisID='Matt.26.60'>Çoxlu yalançı şahid gəldi, lakin yenə də axtardıqlarını tapmadılar. Axırda iki şahid gəlib</verse>
+        <verse osisID='Matt.26.61'>dedi: «Bu Adam dedi: “Mən Allahın məbədini dağıdıb üç gün ərzində tikə bilərəm”». </verse>
+        <verse osisID='Matt.26.62'>Baş kahin ayağa qalxıb İsaya dedi: «Sənin heç cavabın yoxdur? Onlar Sənin əleyhinə bu nə ifadədir verirlər?»</verse>
+        <verse osisID='Matt.26.63'>Amma İsa susmaqda davam etdi. Baş kahin isə Ona dedi: «Səni var olan Allaha and etdirirəm, bizə de, Allahın Oğlu Məsih Sənsənmi?»</verse>
+        <verse osisID='Matt.26.64'>İsa da ona dedi: «Sənin dediyin kimidir. Hətta sizə deyirəm: bundan sonra Bəşər Oğlunun Qüdrətli Olanın sağında oturduğunu və göyün buludları üzərində gəldiyini görəcəksiniz».</verse>
+        <verse osisID='Matt.26.65'>Onda baş kahin əynindəki paltarını cırıb dedi: «O, Allaha küfr etdi! Artıq şahidlərə nə ehtiyacımız var? Elə indi Onun küfr söylədiyini eşitdiniz!</verse>
+        <verse osisID='Matt.26.66'>Bəs buna nə deyirsiniz?» Onlar cavab verib dedilər: «O, ölüm cəzasına layiqdir». </verse>
+        <verse osisID='Matt.26.67'>Elə bu vaxt İsanın üzünə tüpürüb yumruq vurdular. Bəziləri də Ona şillə vuraraq</verse>
+        <verse osisID='Matt.26.68'>dedilər: «Ey Məsih, bizə peyğəmbərlik elə görək, Səni vuran kimdir?» </verse>
+        <verse osisID='Matt.26.69'>Peter isə bayırda, həyətdə oturmuşdu. Bir qarabaş ona yaxınlaşıb dedi: «Sən də Qalileyalı İsa ilə birlikdə idin».</verse>
+        <verse osisID='Matt.26.70'>Amma Peter hamının qarşısında inkar edərək dedi: «Bilmirəm, sən nə danışırsan».</verse>
+        <verse osisID='Matt.26.71'>Sonra darvazaya gələndə başqa bir qarabaş onu görüb oradakılara dedi: «Bu adam Nazaretli İsa ilə birlikdə idi».</verse>
+        <verse osisID='Matt.26.72'>Peter yenə inkar edib and içdi: «Mən o Adamı tanımıram».</verse>
+        <verse osisID='Matt.26.73'>Bir az sonra orada duranlar gəlib Peterə dedilər: «Doğrudan da, sən də onlardansan, çünki nitqin səni ifşa edir».</verse>
+        <verse osisID='Matt.26.74'>Peter özünü qarğıyıb and içərək dedi: «O Adamı tanımıram».  Həmin anda xoruz banladı.</verse>
+        <verse osisID='Matt.26.75'>Peter İsanın «xoruz banlamazdan əvvəl sən Məni üç dəfə inkar edəcəksən» dediyi sözü yadına saldı. Ona görə oradan çıxıb hönkür-hönkür ağladı.  </verse>
+      </chapter>
+      <chapter osisID='Matt.27'>
+        <verse osisID='Matt.27.1'>
+          Səhər açılanda bütün başçı kahinlərlə xalqın ağsaqqalları İsanı edam etmək üçün məşvərət etdilər.</verse>
+        <verse osisID='Matt.27.2'>İsanın əl-qolunu bağlayaraq vali Pilatın yanına aparıb ona təslim etdilər. </verse>
+        <verse osisID='Matt.27.3'>O zaman İsaya xəyanət edən Yəhuda Onun məhkum edildiyini görəndə peşman oldu. Otuz gümüşü başçı kahinlərə və ağsaqqallara geri gətirib</verse>
+        <verse osisID='Matt.27.4'>«mən təqsirsiz qanı təslim etməklə günah işlətdim» dedi. Onlarsa ona «Bundan bizə nə? Özün bilərsən» dedilər.</verse>
+        <verse osisID='Matt.27.5'>Yəhuda gümüş pulları məbədin içinə atıb oradan çıxdı, gedib özünü asdı. </verse>
+        <verse osisID='Matt.27.6'>Başçı kahinlər gümüş pulları götürüb dedilər: «Madam ki qan bahasıdır, bu gümüş pulları məbədin xəzinəsinə qoymağa icazəmiz yoxdur».</verse>
+        <verse osisID='Matt.27.7'>Öz aralarında məşvərət keçirərək o pulla yadelliləri dəfn etmək üçün dulusçunun tarlasını satın aldılar.</verse>
+        <verse osisID='Matt.27.8'>Buna görə o tarlaya bu günə qədər «Qan tarlası» deyilir.</verse>
+        <verse osisID='Matt.27.9'>Beləcə Yeremya peyğəmbər vasitəsilə söylənən bu söz yerinə yetdi:  «İsrail övladlarının qiymətləndirdiyi Adamın dəyərini – otuz gümüşü aldılar</verse>
+        <verse osisID='Matt.27.10'>və Rəbbin mənə buyurduğu kimi dulusçunun tarlası üçün verdilər». </verse>
+        <verse osisID='Matt.27.11'>İsa valinin önündə dayanmışdı. Vali Ondan «Yəhudilərin Padşahı Sənsənmi?» deyə soruşdu. İsa da ona dedi: «Sənin dediyin kimidir».</verse>
+        <verse osisID='Matt.27.12'>Başçı kahinlər və ağsaqqallar Onu ittiham etdikləri vaxt İsa heç bir cavab vermədi.</verse>
+        <verse osisID='Matt.27.13'>Onda Pilat Ona dedi: «Sənin əleyhinə edilən bu qədər şəhadəti eşitmirsənmi?»</verse>
+        <verse osisID='Matt.27.14'>İsa onun heç bir sözünə cavab vermədi. Vali buna çox heyrətləndi. </verse>
+        <verse osisID='Matt.27.15'>Hər Pasxa bayramında valinin xalqın istədiyi bir məhbusu azad etməsi adət idi.</verse>
+        <verse osisID='Matt.27.16'>O günlərdə Barabba adlı məşhur bir məhbus həbsdə saxlanılırdı.</verse>
+        <verse osisID='Matt.27.17'>Beləliklə, onlar bir yerə toplaşdıqları vaxt Pilat onlardan soruşdu: «Sizin üçün kimi azad etməyimi istəyirsiniz? Barabbanı, yoxsa Məsih deyilən İsanı?»</verse>
+        <verse osisID='Matt.27.18'>Çünki bilirdi ki, onlar İsanı paxıllıqdan təslim etmişdilər. </verse>
+        <verse osisID='Matt.27.19'>Pilat hökm kürsüsündə oturarkən arvadı «o saleh Adamla sənin heç bir işin olmasın, çünki bu gün röyada Ona görə çox əzablar çəkmişəm» deyə xəbər göndərdi. </verse>
+        <verse osisID='Matt.27.20'>Başçı kahinlər və ağsaqqallarsa xalqı təhrik edirdilər ki, Barabbanın azad olmasını, İsanınsa ölümünü istəsinlər.</verse>
+        <verse osisID='Matt.27.21'>Vali onlardan soruşdu: «İkisindən hansını sizin üçün azad etməyimi istəyirsiniz?» Onlar da «Barabbanı» dedilər.</verse>
+        <verse osisID='Matt.27.22'>Pilat onlara «Elə isə Məsih deyilən İsaya nə edim?» dedi. Onların hamısı «Çarmıxa çəkilsin!» dedilər.</verse>
+        <verse osisID='Matt.27.23'>Vali «Axı O nə pislik edib?» deyə soruşdu. Onlarsa «Çarmıxa çəkilsin!» deyə daha ucadan bağırdılar. </verse>
+        <verse osisID='Matt.27.24'>Pilat əlindən heç bir şeyin gəlmədiyini və əksinə, iğtişaşın gücləndiyini görərək su götürüb xalqın önündə əllərini yudu və belə dedi: «Mən bu Adamın qanı üçün təqsirkar deyiləm, qoy sizin boynunuzda qalsın».</verse>
+        <verse osisID='Matt.27.25'>Bütün xalq cavab verib dedi: «Onun qanının məsuliyyəti bizim və övladlarımızın üzərinə olsun!»</verse>
+        <verse osisID='Matt.27.26'>Onda Pilat onlar üçün Barabbanı azad etdi. İsanı isə qamçılatdıqdan sonra çarmıxa çəkilməyə təslim etdi. </verse>
+        <verse osisID='Matt.27.27'>Sonra valinin əsgərləri İsanı vali sarayına apardılar. Bütün alayı Onun başına topladılar.</verse>
+        <verse osisID='Matt.27.28'>Onu soyundurub al rəngli xalat geyindirdilər.</verse>
+        <verse osisID='Matt.27.29'>Tikanlardan bir tac hörüb başına qoydular, sağ əlinə də bir qamış verdilər. Önündə diz çöküb «Yəhudilərin Padşahı sağ olsun!» deyərək Onu ələ saldılar.</verse>
+        <verse osisID='Matt.27.30'>Ona tüpürdülər, qamışı götürüb başına vurdular.</verse>
+        <verse osisID='Matt.27.31'>Onu ələ salandan sonra xalatı əynindən çıxarıb Öz paltarını geyindirdilər. Sonra Onu çarmıxa çəkməyə apardılar. </verse>
+        <verse osisID='Matt.27.32'>Bayıra çıxanda Şimon adlı Kirenalı bir adamla rastlaşdılar. Onu İsanın çarmıxını daşımağa məcbur etdilər. </verse>
+        <verse osisID='Matt.27.33'>Qolqota, yəni «Kəllə yeri» adlanan yerə gələndə</verse>
+        <verse osisID='Matt.27.34'>Ona içməyə ödlə qarışıq şərab verdilər. İsa onu daddıqda içmək istəmədi.</verse>
+        <verse osisID='Matt.27.35'>Əsgərlər Onu çarmıxa çəkdilər və püşk ataraq paltarlarını aralarında bölüşdürdülər.</verse>
+        <verse osisID='Matt.27.36'>Sonra orada oturub Onun keşiyini çəkdilər.</verse>
+        <verse osisID='Matt.27.37'>Başı üzərinə «Yəhudilərin Padşahı İsa budur» ittihamını yazıb qoydular.</verse>
+        <verse osisID='Matt.27.38'>O zaman İsa ilə birlikdə biri sağında, biri də solunda iki quldur da çarmıxa çəkildi. </verse>
+        <verse osisID='Matt.27.39'>Gəlib-keçənlər başlarını yırğalayıb Ona böhtan ataraq</verse>
+        <verse osisID='Matt.27.40'>«Ey məbədi dağıdıb üç gündə tikən! Əgər Allahın Oğlusansa, Özünü xilas et və çarmıxdan düş!» deyirdilər.</verse>
+        <verse osisID='Matt.27.41'>Başçı kahinlər də ilahiyyatçılar və ağsaqqallarla birgə eyni şəkildə İsanı ələ salaraq deyirdilər:</verse>
+        <verse osisID='Matt.27.42'>«Başqalarını xilas edirdi, amma Özünü xilas edə bilmir! İsrailin Padşahıdır, qoy indi çarmıxdan düşsün və biz də Ona iman edək.</verse>
+        <verse osisID='Matt.27.43'>Allaha güvənirdi. Allah Onu sevirsə, qoy indi xilas etsin! Çünki “Mən Allahın Oğluyam” dedi».</verse>
+        <verse osisID='Matt.27.44'>İsa ilə birlikdə çarmıxa çəkilən quldurlar da Onu təhqir edirdilər. </verse>
+        <verse osisID='Matt.27.45'>Altıncı saatdan doqquzuncu saata qədər bütün yer üzünə qaranlıq çökdü.</verse>
+        <verse osisID='Matt.27.46'>Doqquzuncu saata yaxın İsa uca səslə nida edərək dedi:  «Eli, Eli, lema şavaqtani?»  Bu «Ey Allahım, Allahım, niyə Məni tərk etdin?» deməkdir.</verse>
+        <verse osisID='Matt.27.47'>Orada dayananların bəzisi bunu eşidərkən dedilər: «Bu Adam İlyası çağırır».</verse>
+        <verse osisID='Matt.27.48'>Aralarından biri dərhal qaçıb bir süngər gətirdi, şərab sirkəsinə batırıb bir qamışın ucuna keçirərək İsaya verdi ki, içsin.</verse>
+        <verse osisID='Matt.27.49'>O biriləri isə dedilər: «Onu rahat burax, görək İlyas gəlib Onu xilas edəcəkmi?»</verse>
+        <verse osisID='Matt.27.50'>İsa yenə uca səslə qışqırıb ruhunu tapşırdı. </verse>
+        <verse osisID='Matt.27.51'>O anda məbədin pərdəsi yuxarıdan aşağıya qədər iki yerə parçalandı. Yer sarsıldı, qayalar yarıldı.</verse>
+        <verse osisID='Matt.27.52'>Qəbirlər açıldı, vəfat etmiş bir çox müqəddəsin cəsədi dirildi.</verse>
+        <verse osisID='Matt.27.53'>Onlar İsanın dirilməsindən sonra qəbirlərdən çıxıb müqəddəs şəhərə girdilər və bir çox insana göründülər. </verse>
+        <verse osisID='Matt.27.54'>İsaya nəzarət edən yüzbaşı və onunla birlikdə olan əsgərlər zəlzələni və baş verən şeyləri gördükdə «doğrudan da, bu Adam Allahın Oğlu idi» deyərək dəhşətə düşdülər. </verse>
+        <verse osisID='Matt.27.55'>Orada olub-keçənlərə uzaqdan baxan bir çox qadın var idi ki, xidmət etmək üçün Qalileyadan İsanın ardınca gəlmişdilər.</verse>
+        <verse osisID='Matt.27.56'>Məcdəlli Məryəm, Yaqub ilə Yusifin anası Məryəm və Zavdayın oğullarının anası da onların arasında idi. </verse>
+        <verse osisID='Matt.27.57'>Axşam düşəndə İsanın şagirdi olmuş varlı bir adam – Yusif adlı bir Arimateyalı gəldi.</verse>
+        <verse osisID='Matt.27.58'>O, Pilatın yanına gedib İsanın cəsədini istədi. Pilat da cəsədin ona verilməsini əmr etdi.</verse>
+        <verse osisID='Matt.27.59'>Yusif cəsədi alıb təmiz bir kəfənə bükdü.</verse>
+        <verse osisID='Matt.27.60'>Onu qaya içində qazdığı öz yeni qəbrinə qoydu və qəbirin ağzına bir iri daş yuvarlayıb getdi.</verse>
+        <verse osisID='Matt.27.61'>Məcdəlli Məryəm və o biri Məryəm orada, qəbirin qarşısında oturmuşdular. </verse>
+        <verse osisID='Matt.27.62'>Ertəsi gün, yəni Hazırlıq günündən sonrakı gün başçı kahinlərlə fariseylər Pilatın yanına toplaşıb</verse>
+        <verse osisID='Matt.27.63'>dedilər: «Ağa, biz xatırlayırıq ki, o yalançı hələ sağ ikən “üç gün sonra diriləcəyəm” demişdi.</verse>
+        <verse osisID='Matt.27.64'>Ona görə də əmr et ki, üçüncü günə qədər qəbirin təhlükəsizliyi qorunsun. Yoxsa şagirdləri gəlib Onu oğurlayar və xalqa “O, ölülər arasından dirildi” deyərlər. Axırıncı yalan birincisindən daha pis olar».</verse>
+        <verse osisID='Matt.27.65'>Pilat onlara dedi: «Bir dəstə keşikçi götürün, gedin, bacardığınız kimi qəbirin təhlükəsizliyini qoruyun».</verse>
+        <verse osisID='Matt.27.66'>Onlar gedib qəbirin qarşısında keşikçi dəstəsi qoydular və qəbir daşına möhür basdılar. Beləliklə, qəbirin təhlükəsizliyi qorundu.  </verse>
+      </chapter>
+      <chapter osisID='Matt.28'>
+        <verse osisID='Matt.28.1'>
+          Şənbə günü keçəndən sonra, həftənin ilk günü səhər dan yeri ağaranda Məcdəlli Məryəm və o biri Məryəm qəbiri görməyə gəldilər.</verse>
+        <verse osisID='Matt.28.2'>Budur, böyük bir zəlzələ oldu. Çünki Rəbbin bir mələyi göydən enib gələrək daşı bir tərəfə yuvarladı və üzərində oturdu.</verse>
+        <verse osisID='Matt.28.3'>Onun görünüşü şimşək kimi, paltarı isə qar kimi ağ idi.</verse>
+        <verse osisID='Matt.28.4'>Keşikçilər qorxudan titrəyib ölü kimi oldular.</verse>
+        <verse osisID='Matt.28.5'>Mələk qadınlara müraciət edərək dedi: «Siz qorxmayın! Çarmıxa çəkilmiş İsanı axtardığınızı bilirəm.</verse>
+        <verse osisID='Matt.28.6'>O burada yoxdur, dediyi kimi dirilmişdir! Gəlin, Onun yatdığı yeri görün.</verse>
+        <verse osisID='Matt.28.7'>Tez gedin, Onun şagirdlərinə belə söyləyin: “İsa ölülər arasından dirildi. Qalileyaya sizdən qabaq gedir. Onu orada görəcəksiniz”. Budur, mən sizə xəbər verdim». </verse>
+        <verse osisID='Matt.28.8'>Qadınlar qorxu və böyük sevinclə dərhal qəbirdən çıxdılar. Onun şagirdlərinə xəbər verməyə qaçdılar.</verse>
+        <verse osisID='Matt.28.9'>Amma budur, İsa «Sizə salam!» deyə onların qarşısına çıxdı. Onlar da yaxınlaşıb İsanın ayaqlarına sarılaraq Ona səcdə qıldılar.</verse>
+        <verse osisID='Matt.28.10'>İsa onlara dedi: «Qorxmayın! Gedin, qardaşlarıma xəbər verin ki, Qalileyaya getsinlər. Məni orada görəcəklər». </verse>
+        <verse osisID='Matt.28.11'>Qadınlar hələ yolda ikən keşikçilərdən bəzisi şəhərə gəlib baş verən bütün şeyləri başçı kahinlərə bildirdilər.</verse>
+        <verse osisID='Matt.28.12'>Onlar ağsaqqallarla toplaşıb məşvərət keçirdikdən sonra əsgərlərə çoxlu pul verib dedilər:</verse>
+        <verse osisID='Matt.28.13'>«Deyərsiniz ki, şagirdləri gecə biz yatanda gəlib Onu oğurlayıblar.</verse>
+        <verse osisID='Matt.28.14'>Əgər bu xəbər valinin qulağına gedib çatsa, biz onu inandırarıq, sizi də bəladan qurtararıq».</verse>
+        <verse osisID='Matt.28.15'>Beləliklə, əsgərlər pulu alıb tapşırıldığı kimi etdilər. Bu söz bu günə kimi Yəhudilər arasında yayılmışdır. </verse>
+        <verse osisID='Matt.28.16'>On Bir şagird Qalileyaya, İsanın onlara təyin etdiyi dağa getdi.</verse>
+        <verse osisID='Matt.28.17'>İsanı gördükdə Ona səcdə qıldılar. Bəzisi isə şübhə etdi.</verse>
+        <verse osisID='Matt.28.18'>İsa yaxınlaşıb onlara dedi: «Göydə və yer üzündə bütün səlahiyyət Mənə verilmişdir.</verse>
+        <verse osisID='Matt.28.19'>Beləliklə, gedin, bütün millətləri Mənim şagirdim edin; onları Ata, Oğul və Müqəddəs Ruh adı ilə vəftiz edin;</verse>
+        <verse osisID='Matt.28.20'>sizə əmr etdiyim hər şeyə riayət etməyi onlara öyrədin. Budur, Mən dövrün sonuna qədər hər gün sizinləyəm».  </verse>
+      </chapter>
+    </div></osisText>
+</osis>

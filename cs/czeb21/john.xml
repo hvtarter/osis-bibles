@@ -1,0 +1,1017 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace'>
+  <osisText osisRefWork='Bible' osisIDWork='CzeB21' xml:lang='cs'>
+    <header>
+      <revisionDesc>
+        <date>2010-02-26</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='CzeB21'>
+        <title>Czech Bible, Překlad 21. století</title>
+        <contributor/>
+        <creator>Mod2Zef (4)</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject/>
+        <date>2009-07-31</date>
+        <description>Bible, Překlad 21. století  vedoucí projektu Alexandr Flek  odborná spolupráce Jiří Hedánek, Pavel Hoffman, Zdeněk Sýkora  Přeloženo z hebrejštiny, aramejštiny, řečtiny  Vydání první  (c) 2009 Biblion, o. s.  www.bible21.org  www.bible21.cz   Překlad 21. století přináší nadčasové poselství Bible v současné, čtivé češtině. Usiluje o maximální věrnost původním hebrejským, aramejským a řeckým textům, zároveň však chce oslovit dnešní čtenáře, ať už jsou zvyklí čerpat z této knihy inspiraci pro každý den, anebo ji otevírají poprvé.</description>
+        <publisher/>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>CzeB21</identifier>
+        <source>no entry TextSource in sword.conf found</source>
+        <language type='IETF'>cs</language>
+        <relation/>
+        <coverage>provide the bible to the nations of the world</coverage>
+        <rights>Copyrighted; Permission to distribute granted to CrossWire</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='John'>
+      <chapter osisID='John.1'>
+        <verse osisID='John.1.1'>Na počátku bylo Slovo a to Slovo bylo u Boha a to Slovo bylo Bůh.</verse>
+        <verse osisID='John.1.2'>To bylo na počátku u Boha.</verse>
+        <verse osisID='John.1.3'>Všechno povstalo skrze něj a bez něj nepovstalo nic, co je.</verse>
+        <verse osisID='John.1.4'>V něm byl život a ten život byl světlem lidí.</verse>
+        <verse osisID='John.1.5'>A to světlo svítí ve tmě a tma je nepohltila.</verse>
+        <verse osisID='John.1.6'>Od Boha byl poslán člověk jménem Jan.</verse>
+        <verse osisID='John.1.7'>Přišel kvůli svědectví, svědčit o tom Světle, aby všichni uvěřili skrze něj.</verse>
+        <verse osisID='John.1.8'>On nebyl to Světlo, ale přišel, aby o Světle vydal svědectví.</verse>
+        <verse osisID='John.1.9'>Tento byl to pravé Světlo osvěcující každého člověka přicházejícího na svět:</verse>
+        <verse osisID='John.1.10'>Byl na světě a svět povstal skrze něj, ale svět ho nepoznal.</verse>
+        <verse osisID='John.1.11'>Přišel do svého vlastního, ale jeho vlastní ho nepřijali.</verse>
+        <verse osisID='John.1.12'>Ale těm, kteří ho přijali, dal právo být Božími dětmi - všem těm, kdo věří v jeho jméno.</verse>
+        <verse osisID='John.1.13'>Takoví nejsou narozeni z krve, ani z vůle těla, ani z vůle muže, ale z Boha.</verse>
+        <verse osisID='John.1.14'>To Slovo se stalo tělem a přišlo žít mezi nás. Spatřili jsme jeho slávu, slávu, jakou má od Otce jednorozený Syn, plný milosti a pravdy.</verse>
+        <verse osisID='John.1.15'>Jan o něm vydával svědectví a volal: "Toto je ten, o němž jsem řekl: Ten, který přichází za mnou, je přede mnou, neboť byl dříve než já."</verse>
+        <verse osisID='John.1.16'>Z jeho plnosti jsme všichni přijali, a sice milost za milost.</verse>
+        <verse osisID='John.1.17'>Zákon byl vydán skrze Mojžíše, milost a pravda však přišla skrze Mesiáše Ježíše.</verse>
+        <verse osisID='John.1.18'>Boha nikdy nikdo neviděl; jednorozený Syn, který je v Otcově náručí, ten jej vylíčil.</verse>
+        <verse osisID='John.1.19'>Toto je Janovo svědectví, když židovští představení poslali z Jeruzaléma kněze a levity s otázkou: "Kdo jsi?"</verse>
+        <verse osisID='John.1.20'>Neodmítl jim přímou odpověď. "Já nejsem Mesiáš," prohlásil.</verse>
+        <verse osisID='John.1.21'>"Kdo tedy jsi?" zeptali se ho. "Eliáš?" Řekl: "Nejsem." "Jsi ten Prorok?" Odpověděl: "Ne."</verse>
+        <verse osisID='John.1.22'>Řekli mu tedy: "Kdo jsi? Ať můžeme dát odpověď těm, kteří nás poslali. Co o sobě říkáš?"</verse>
+        <verse osisID='John.1.23'>Odpověděl jim slovy proroka Izaiáše: "Jsem ‚hlas volajícího na poušti: Vyrovnejte Pánovu cestu!'"</verse>
+        <verse osisID='John.1.24'>Ti vyslanci patřili k farizeům.</verse>
+        <verse osisID='John.1.25'>Zeptali se ho: "Proč tedy křtíš, když nejsi Mesiáš ani Eliáš ani ten Prorok?"</verse>
+        <verse osisID='John.1.26'>"Já křtím vodou," odpověděl Jan, "ale mezi vámi už povstal někdo, koho neznáte.</verse>
+        <verse osisID='John.1.27'>To je ten, který přichází po mně. Jemu nejsem hoden ani rozvázat řemínek sandálu."</verse>
+        <verse osisID='John.1.28'>Toto se stalo v Betanii za Jordánem, kde Jan křtil.</verse>
+        <verse osisID='John.1.29'>Druhého dne Jan uviděl Ježíše, jak přichází k němu, a řekl: "Hle, Beránek Boží, který snímá hřích světa!</verse>
+        <verse osisID='John.1.30'>To je ten, o němž jsem řekl: Po mně přichází muž, který je přede mnou, neboť byl dříve než já.</verse>
+        <verse osisID='John.1.31'>Já jsem ho neznal, ale přišel jsem křtít vodou proto, aby byl zjeven Izraeli."</verse>
+        <verse osisID='John.1.32'>Jan vydal svědectví: "Viděl jsem Ducha, jak sestoupil z nebe jako holubice a zůstal na něm.</verse>
+        <verse osisID='John.1.33'>Já jsem ho neznal, ale Ten, který mě poslal křtít vodou, mi řekl: ‚Na koho spatříš sestoupit Ducha a zůstat na něm, to je ten, který křtí Duchem svatým.'</verse>
+        <verse osisID='John.1.34'>Já jsem to viděl a vydávám svědectví, že on je Boží Syn."</verse>
+        <verse osisID='John.1.35'>Druhého dne tam Jan znovu stál se dvěma ze svých učedníků.</verse>
+        <verse osisID='John.1.36'>Když uviděl Ježíše, jak prochází kolem, řekl: "Hle, Beránek Boží!"</verse>
+        <verse osisID='John.1.37'>Jakmile ti dva učedníci uslyšeli, co říká, odešli za Ježíšem.</verse>
+        <verse osisID='John.1.38'>Ježíš se obrátil a uviděl, jak jdou za ním. "Co hledáte?" zeptal se jich. Řekli mu: "Rabbi" (což se překládá: Učiteli), "kde bydlíš?"</verse>
+        <verse osisID='John.1.39'>"Pojďte se podívat," odpověděl jim. A tak se šli podívat, kde bydlí, a toho dne už u něj zůstali. Bylo to kolem čtvrté odpoledne.</verse>
+        <verse osisID='John.1.40'>Jeden z těch dvou, kteří to od Jana slyšeli a následovali ho, byl Ondřej, bratr Šimona Petra.</verse>
+        <verse osisID='John.1.41'>Ten jako první nalezl svého bratra Šimona. Řekl mu: "Našli jsme Mesiáše!" (což je v překladu Kristus)</verse>
+        <verse osisID='John.1.42'>a přivedl ho k Ježíši. Ježíš se na něj podíval a řekl: "Ty jsi Šimon, syn Janův. Budeš se jmenovat Kéfa" (což se překládá Petr).</verse>
+        <verse osisID='John.1.43'>Dalšího dne se Ježíš chtěl vydat do Galileje. Našel Filipa a řekl mu: "Pojď za mnou."</verse>
+        <verse osisID='John.1.44'>(Filip byl z Betsaidy, města Ondřejova a Petrova.)</verse>
+        <verse osisID='John.1.45'>Filip našel Natanaela a řekl mu: "Našli jsme toho, o kterém psal Mojžíš v Zákoně a proroci - Ježíše, syna Josefova z Nazaretu!"</verse>
+        <verse osisID='John.1.46'>"Co dobrého může být z Nazaretu?" opáčil Natanael. "Pojď se podívat," řekl mu Filip.</verse>
+        <verse osisID='John.1.47'>Když Ježíš uviděl Natanaela, jak jde k němu, řekl o něm: "Hle, opravdový Izraelita, v němž není žádná lest!"</verse>
+        <verse osisID='John.1.48'>"Odkud mě znáš?" zeptal se Natanael. "Viděl jsem tě pod fíkovníkem," řekl mu Ježíš, "ještě než tě Filip zavolal."</verse>
+        <verse osisID='John.1.49'>"Rabbi!" zvolal Natanael, "Ty jsi Boží Syn, ty jsi král Izraele!"</verse>
+        <verse osisID='John.1.50'>Ježíš mu odpověděl: "Věříš proto, že jsem ti řekl: Viděl jsem tě pod fíkovníkem? Uvidíš ještě větší věci."</verse>
+        <verse osisID='John.1.51'>A dodal: "Amen, amen, říkám vám: Uvidíte otevřené nebe a Boží anděly, jak vystupují a sestupují na Syna člověka."</verse>
+      </chapter>
+      <chapter osisID='John.2'>
+        <verse osisID='John.2.1'>Třetího dne se v Káně Galilejské konala svatba. Byla tam i Ježíšova matka</verse>
+        <verse osisID='John.2.2'>a na svatbu byl pozván také Ježíš a jeho učedníci.</verse>
+        <verse osisID='John.2.3'>Když začalo docházet víno, Ježíšova matka mu řekla: "Nemají víno."</verse>
+        <verse osisID='John.2.4'>"Ženo, co ode mě chceš?" odpověděl jí Ježíš. "Má chvíle ještě nepřišla."</verse>
+        <verse osisID='John.2.5'>Jeho matka pak řekla služebníkům: "Udělejte, cokoli vám řekne."</verse>
+        <verse osisID='John.2.6'>Stálo tam šest kamenných nádob na vodu k židovskému očišťování, každá o obsahu dvou nebo tří měr.</verse>
+        <verse osisID='John.2.7'>Ježíš řekl služebníkům: "Naplňte ty nádoby vodou." Když je naplnili až po okraj,</verse>
+        <verse osisID='John.2.8'>řekl jim: "Teď nalévejte a doneste vrchnímu správci svatby." A tak to udělali.</verse>
+        <verse osisID='John.2.9'>Jakmile vrchní správce svatby okusil tu vodu, z níž se stalo víno (a nevěděl, odkud je, ale služebníci, kteří tu vodu nalévali, věděli), zavolal ten vrchní správce ženicha</verse>
+        <verse osisID='John.2.10'>a řekl mu: "Každý člověk podává nejdříve nejlepší víno, a když jsou hosté opilí, podává to horší. Ty jsi zachoval nejlepší víno až do konce."</verse>
+        <verse osisID='John.2.11'>Toto Ježíš udělal v Káně Galilejské jako počátek svých zázraků. Tehdy zjevil svou slávu a jeho učedníci v něj uvěřili.</verse>
+        <verse osisID='John.2.12'>Potom sestoupil spolu se svou matkou, bratry i učedníky do Kafarnaum, kde se několik dní zdrželi.</verse>
+        <verse osisID='John.2.13'>Blížily se židovské Velikonoce, a tak se Ježíš vydal na cestu do Jeruzaléma.</verse>
+        <verse osisID='John.2.14'>V chrámu nalezl prodavače volů, ovcí a holubic a směnárníky sedící za stoly.</verse>
+        <verse osisID='John.2.15'>Tehdy si z provazů upletl bič a všechny z chrámu vyhnal i s ovcemi a voly. Směnárníkům rozházel peníze a zpřevracel stoly</verse>
+        <verse osisID='John.2.16'>a prodavačům holubic řekl: "Odneste to odsud! Nedělejte z domu mého Otce tržiště!"</verse>
+        <verse osisID='John.2.17'>(Jeho učedníci si tehdy vzpomněli, že je psáno: "Horlivost pro tvůj dům mě pohltí.")</verse>
+        <verse osisID='John.2.18'>Židé mu na to řekli: "Jaký zázrak nám ukážeš, když děláš tyto věci?"</verse>
+        <verse osisID='John.2.19'>"Zbořte tento chrám," odpověděl Ježíš, "a za tři dny ho postavím."</verse>
+        <verse osisID='John.2.20'>"Ten chrám se stavěl čtyřicet šest let!" řekli na to Židé. "A ty ho postavíš za tři dny?"</verse>
+        <verse osisID='John.2.21'>(On ale mluvil o chrámu svého těla.</verse>
+        <verse osisID='John.2.22'>Když byl potom vzkříšen z mrtvých, jeho učedníci si vzpomněli, že to říkal, a uvěřili Písmu i Ježíšově slovu.)</verse>
+        <verse osisID='John.2.23'>Když byl o Velikonocích v Jeruzalémě, mnozí během toho svátku uvěřili v jeho jméno, neboť viděli zázraky, které dělal.</verse>
+        <verse osisID='John.2.24'>Ježíš se jim ale nesvěřoval, protože všechny znal.</verse>
+        <verse osisID='John.2.25'>Nepotřeboval, aby někdo vydával o člověku svědectví, neboť sám věděl, co je v člověku.</verse>
+      </chapter>
+      <chapter osisID='John.3'>
+        <verse osisID='John.3.1'>Mezi farizeji byl člověk jménem Nikodém, židovský hodnostář.</verse>
+        <verse osisID='John.3.2'>Přišel za Ježíšem v noci a řekl mu: "Rabbi, víme, že jsi přišel jako učitel od Boha. Nikdo přece nemůže dělat zázraky, které děláš ty, není-li Bůh s ním."</verse>
+        <verse osisID='John.3.3'>Ježíš mu odpověděl: "Amen, amen, říkám ti: Pokud se někdo nenarodí znovu, nemůže spatřit Boží království."</verse>
+        <verse osisID='John.3.4'>"Jak se může člověk narodit, když je starý?" řekl na to Nikodém. "Může se snad vrátit do matčina lůna a podruhé se narodit?"</verse>
+        <verse osisID='John.3.5'>Ježíš mu odpověděl: "Amen, amen, říkám ti: Kdo se nenarodí z vody a z Ducha, nemůže vejít do Božího království.</verse>
+        <verse osisID='John.3.6'>Co se narodilo z těla, je tělo; co se narodilo z Ducha, je duch.</verse>
+        <verse osisID='John.3.7'>Nediv se, že jsem ti řekl: Musíte se znovu narodit.</verse>
+        <verse osisID='John.3.8'>Vítr vane, kam chce, a slyšíš jeho hlas, ale nevíš, odkud přichází a kam jde. Tak je to s každým, kdo se narodil z Ducha."</verse>
+        <verse osisID='John.3.9'>"Jak se to může stát?" zeptal se Nikodém.</verse>
+        <verse osisID='John.3.10'>"Ty jsi učitel Izraele, a nevíš to?" odpověděl mu Ježíš.</verse>
+        <verse osisID='John.3.11'>"Amen, amen, říkám ti, že mluvíme o tom, co známe, a svědčíme o tom, co jsme viděli, ale naše svědectví nepřijímáte.</verse>
+        <verse osisID='John.3.12'>Jestliže nevěříte, když jsem vám říkal pozemské věci, jak uvěříte, budu-li vám říkat nebeské?</verse>
+        <verse osisID='John.3.13'>Nikdo nevystoupil do nebe, jedině ten, který sestoupil z nebe, Syn člověka.</verse>
+        <verse osisID='John.3.14'>Jako Mojžíš vyzdvihl hada na poušti, tak musí být vyzdvižen Syn člověka,</verse>
+        <verse osisID='John.3.15'>aby každý, kdo věří v něj, měl věčný život."</verse>
+        <verse osisID='John.3.16'>Neboť Bůh tak miloval svět, že dal svého jednorozeného Syna, aby žádný, kdo v něj věří, nezahynul, ale měl věčný život.</verse>
+        <verse osisID='John.3.17'>Bůh neposlal svého Syna na svět, aby svět odsoudil, ale aby svět byl skrze něj spasen.</verse>
+        <verse osisID='John.3.18'>Kdo v něho věří, nebude souzen, ale kdo nevěří, je už odsouzen, protože neuvěřil ve jméno jednorozeného Božího Syna.</verse>
+        <verse osisID='John.3.19'>A toto je ten soud, že světlo přišlo na svět, ale lidé si více než světlo oblíbili tmu, protože jejich skutky byly zlé.</verse>
+        <verse osisID='John.3.20'>Každý, kdo koná zlo, nenávidí světlo a nepřichází ke světlu, aby jeho skutky nebyly odhaleny.</verse>
+        <verse osisID='John.3.21'>Kdo ale koná pravdu, přichází ke světlu, aby se ukázalo, že jeho skutky byly vykonány v Bohu.</verse>
+        <verse osisID='John.3.22'>Potom Ježíš přišel se svými učedníky do judské země a tam s nimi pobýval a křtil.</verse>
+        <verse osisID='John.3.23'>Jan také křtil v Ainonu poblíž Salimu, protože tam bylo hodně vody. A lidé přicházeli a nechávali se křtít.</verse>
+        <verse osisID='John.3.24'>(Jan totiž ještě nebyl vsazen do žaláře.)</verse>
+        <verse osisID='John.3.25'>Tehdy mezi Janovými učedníky a jistým Židem došlo ke sporu ohledně očišťování.</verse>
+        <verse osisID='John.3.26'>Přišli tedy k Janovi a řekli mu: "Rabbi, pohleď, ten, který byl s tebou za Jordánem, ten, o němž jsi vydal svědectví, teď křtí a všichni přicházejí k němu!"</verse>
+        <verse osisID='John.3.27'>Jan odpověděl: "Člověk nemůže přijmout nic, není-li mu to dáno z nebe.</verse>
+        <verse osisID='John.3.28'>Vy sami jste mi svědky, že jsem řekl: Já nejsem Mesiáš, ale jsem poslán před ním.</verse>
+        <verse osisID='John.3.29'>Kdo má nevěstu, je ženich, ale přítel ženicha, který stojí a slyší ho, se z ženichova hlasu velmi raduje. Tato má radost se tedy naplnila.</verse>
+        <verse osisID='John.3.30'>On musí růst a já se menšit."</verse>
+        <verse osisID='John.3.31'>Kdo přichází shůry, je nade všechny; kdo je ze země, je pozemský a mluví pozemské věci. Ten, který přišel z nebe, je nade všechny.</verse>
+        <verse osisID='John.3.32'>Svědčí o tom, co viděl a slyšel, ale jeho svědectví nikdo nepřijímá.</verse>
+        <verse osisID='John.3.33'>Kdo přijímá jeho svědectví, zpečetil to, že Bůh je pravdomluvný.</verse>
+        <verse osisID='John.3.34'>Ten, kterého poslal Bůh, mluví Boží slova, neboť Bůh dává Ducha bez omezení.</verse>
+        <verse osisID='John.3.35'>Otec miluje Syna a všechno dal do jeho rukou.</verse>
+        <verse osisID='John.3.36'>Kdo věří v Syna, má věčný život; kdo Synu nevěří, nespatří život, ale zůstává na něm Boží hněv.</verse>
+      </chapter>
+      <chapter osisID='John.4'>
+        <verse osisID='John.4.1'>Když se Ježíš dozvěděl, že farizeové slyšeli: "Ježíš získává a křtí více učedníků než Jan"</verse>
+        <verse osisID='John.4.2'>(ačkoli Ježíš sám nekřtil, ale jeho učedníci),</verse>
+        <verse osisID='John.4.3'>opustil Judsko a vrátil se do Galileje.</verse>
+        <verse osisID='John.4.4'>Musel však projít Samařím.</verse>
+        <verse osisID='John.4.5'>Dorazil k samařskému městu zvanému Sychar, blízko pozemku, který kdysi dal Jákob svému synu Josefovi.</verse>
+        <verse osisID='John.4.6'>Dosud tam byla Jákobova studna a Ježíš, unaven cestou, se u ní posadil. Bylo okolo poledne.</verse>
+        <verse osisID='John.4.7'>Když jedna žena ze Samaří přišla načerpat vodu, Ježíš ji požádal: "Dej mi napít."</verse>
+        <verse osisID='John.4.8'>(Jeho učedníci totiž odešli do města nakoupit jídlo.)</verse>
+        <verse osisID='John.4.9'>Samařská žena se ho zeptala: "Jak to, že ty, Žid, žádáš mě, Samaritánku, o nápoj?" (Židé se totiž se Samaritány nestýkají.)</verse>
+        <verse osisID='John.4.10'>Ježíš jí odpověděl: "Kdybys znala ten Boží dar, a kdo je ten, který ti říká: ‚Dej mi napít,' žádala bys ty jeho, a dal by ti živou vodu."</verse>
+        <verse osisID='John.4.11'>"Pane, nemáš ani, čím bys čerpal," namítla žena, "a studna je hluboká. Odkud vezmeš tu živou vodu?</verse>
+        <verse osisID='John.4.12'>Jsi snad větší než náš otec Jákob, který nám tu studnu dal? On sám z ní pil, i jeho synové a jeho dobytek."</verse>
+        <verse osisID='John.4.13'>"Každý, kdo pije tuto vodu, bude znovu žíznit," odpověděl Ježíš.</verse>
+        <verse osisID='John.4.14'>"Kdo se však napije vody, kterou mu dám já, nebude žíznit už nikdy. Voda, kterou mu dám, se v něm stane pramenem vody tryskající k věčnému životu."</verse>
+        <verse osisID='John.4.15'>"Pane, dej mi tu vodu," řekla žena, "ať už nežízním a nemusím sem chodit čerpat."</verse>
+        <verse osisID='John.4.16'>"Jdi, zavolej svého muže a přijď sem," řekl jí Ježíš.</verse>
+        <verse osisID='John.4.17'>"Nemám muže," odpověděla žena. "To jsi řekla pravdu, že nemáš muže," řekl jí Ježíš.</verse>
+        <verse osisID='John.4.18'>"Měla jsi totiž pět mužů a ten, kterého máš teď, není tvůj muž. To jsi řekla pravdu."</verse>
+        <verse osisID='John.4.19'>"Pane, vidím, že jsi prorok," odpověděla žena.</verse>
+        <verse osisID='John.4.20'>"Naši otcové uctívali Boha na této hoře, vy ale říkáte, že místo, kde se má uctívat, je v Jeruzalémě."</verse>
+        <verse osisID='John.4.21'>"Ženo," řekl jí Ježíš, "věř mi, že přichází chvíle, kdy nebudete uctívat Otce ani na této hoře, ani v Jeruzalémě.</verse>
+        <verse osisID='John.4.22'>Vy ani nevíte, koho uctíváte; my víme, koho uctíváme, protože spása vyjde z Židů.</verse>
+        <verse osisID='John.4.23'>Přichází chvíle, a už je tu, kdy praví ctitelé budou uctívat Otce v duchu a v pravdě. Takové totiž Otec hledá, aby ho uctívali.</verse>
+        <verse osisID='John.4.24'>Bůh je Duch a ti, kdo ho uctívají, ho musí uctívat v duchu a v pravdě."</verse>
+        <verse osisID='John.4.25'>Žena odpověděla: "Vím, že přijde Mesiáš" (který je nazýván Kristus). "Až přijde, vysvětlí nám všechno."</verse>
+        <verse osisID='John.4.26'>"To jsem já," řekl jí Ježíš; "ten, kdo s tebou mluví!"</verse>
+        <verse osisID='John.4.27'>Vtom přišli jeho učedníci. Překvapilo je, že mluví se ženou, ale žádný neřekl: "Co jí chceš?" anebo: "Proč s ní mluvíš?"</verse>
+        <verse osisID='John.4.28'>Žena tam nechala svůj džbán, odešla do města a řekla lidem:</verse>
+        <verse osisID='John.4.29'>"Pojďte se podívat na člověka, který mi řekl všechno, co jsem udělala. Není to snad Mesiáš?"</verse>
+        <verse osisID='John.4.30'>Vyšli tedy z města a šli k němu.</verse>
+        <verse osisID='John.4.31'>Mezitím ho učedníci prosili: "Rabbi, najez se!"</verse>
+        <verse osisID='John.4.32'>On jim však řekl: "Mě sytí pokrm, který vy neznáte."</verse>
+        <verse osisID='John.4.33'>Učedníci se jeden druhého ptali: "Přinesl mu snad někdo jídlo?"</verse>
+        <verse osisID='John.4.34'>"Můj pokrm," řekl jim Ježíš, "je konat vůli Toho, který mě poslal, a dokončit jeho dílo.</verse>
+        <verse osisID='John.4.35'>Neříkáte snad, že do sklizně zbývají ještě čtyři měsíce? Hle, říkám vám: Pozvedněte oči a podívejte se na lány, že se už bělají ke žni!</verse>
+        <verse osisID='John.4.36'>Ten, kdo žne, získává odplatu a shromažďuje úrodu k věčnému životu, aby se společně radoval rozsévač i žnec.</verse>
+        <verse osisID='John.4.37'>V tom je pravdivé to rčení, že ‚jeden rozsívá a jiný žne'.</verse>
+        <verse osisID='John.4.38'>Já jsem vás poslal sklízet, na čem jste sami nepracovali. Pracovali jiní a vy jste vstoupili do jejich práce."</verse>
+        <verse osisID='John.4.39'>Díky slovům té ženy, která svědčila: "Řekl mi všechno, co jsem udělala," v něj mnozí Samaritáni z toho města uvěřili.</verse>
+        <verse osisID='John.4.40'>Když k němu ti Samaritáni přišli, prosili ho, aby u nich zůstal. Zůstal tam tedy dva dny</verse>
+        <verse osisID='John.4.41'>a díky jeho slovu jich uvěřilo ještě mnohem více.</verse>
+        <verse osisID='John.4.42'>Té ženě pak řekli: "Už nevěříme jen díky tvým slovům; sami jsme ho slyšeli a víme, že to je opravdu Spasitel světa."</verse>
+        <verse osisID='John.4.43'>Po dvou dnech pak odtud odešel do Galileje.</verse>
+        <verse osisID='John.4.44'>Sám Ježíš měl totiž dosvědčit, že prorok není ve své vlasti v úctě.</verse>
+        <verse osisID='John.4.45'>Když přišel do Galileje, Galilejci ho vítali, neboť byli o svátcích v Jeruzalémě a viděli všechno, co tam dělal.</verse>
+        <verse osisID='John.4.46'>Znovu se vrátil do Kány Galilejské, kde proměnil vodu ve víno. Byl tam právě jeden královský úředník, jehož syn byl v Kafarnaum nemocný.</verse>
+        <verse osisID='John.4.47'>Když uslyšel, že Ježíš přišel z Judska do Galileje, šel k němu a prosil ho, aby šel jeho syna uzdravit, protože už umíral.</verse>
+        <verse osisID='John.4.48'>"Dokud neuvidíte divy a zázraky, neuvěříte," řekl mu Ježíš.</verse>
+        <verse osisID='John.4.49'>"Pane, pojď, než mé dítě umře!" naléhal královský úředník.</verse>
+        <verse osisID='John.4.50'>Ježíš mu řekl: "Jdi, tvůj syn žije." Ten člověk uvěřil slovu, které mu Ježíš řekl, a šel.</verse>
+        <verse osisID='John.4.51'>Na cestě se s ním setkali jeho služebníci a oznamovali mu: "Tvůj syn žije!"</verse>
+        <verse osisID='John.4.52'>Vyptal se jich tedy, odkdy se mu udělalo lépe. Odpověděli: "Horečka ho opustila včera hodinu po poledni."</verse>
+        <verse osisID='John.4.53'>Otec poznal, že to bylo ve chvíli, kdy mu Ježíš řekl: "Tvůj syn žije." Tehdy uvěřil on i celý jeho dům.</verse>
+        <verse osisID='John.4.54'>Tak Ježíš po svém návratu z Judska vykonal v Galileji už druhý zázrak.</verse>
+      </chapter>
+      <chapter osisID='John.5'>
+        <verse osisID='John.5.1'>Potom byl další židovský svátek, a tak se Ježíš vydal do Jeruzaléma.</verse>
+        <verse osisID='John.5.2'>V Jeruzalémě je u Ovčí brány rybník hebrejsky zvaný Bethesda, u něhož je pět sloupořadí.</verse>
+        <verse osisID='John.5.3'>[4] Ležela tam spousta nemocných, slepých, chromých a ochrnutých.</verse>
+        <verse osisID='John.5.5'>Byl mezi nimi jeden člověk, nemocný už třicet osm let.</verse>
+        <verse osisID='John.5.6'>Ježíš viděl, jak tam leží, a poznal, že je už dlouho nemocen. "Chceš být uzdraven?" zeptal se ho.</verse>
+        <verse osisID='John.5.7'>"Pane, nemám nikoho, kdo by mě snesl do rybníka, když se zvíří voda," odpověděl mu nemocný. "Když tam zamířím, někdo mě předstihne."</verse>
+        <verse osisID='John.5.8'>"Vstaň, vezmi si lehátko a choď!" řekl mu Ježíš.</verse>
+        <verse osisID='John.5.9'>A ten člověk byl ihned uzdraven, vzal své lehátko a začal chodit. Ten den však byla sobota.</verse>
+        <verse osisID='John.5.10'>Židovští představení tedy uzdraveného napomínali: "Je sobota, nesmíš nosit lehátko!"</verse>
+        <verse osisID='John.5.11'>On jim však odpověděl: "Ten, kdo mě uzdravil, mi řekl: ‚Vezmi si lehátko a choď.'"</verse>
+        <verse osisID='John.5.12'>"Kdo ti mohl říci: ‚Vezmi si lehátko a choď'?!" ptali se ho.</verse>
+        <verse osisID='John.5.13'>To ovšem ten uzdravený nevěděl; Ježíš se totiž vmísil do okolního davu.</verse>
+        <verse osisID='John.5.14'>Potom ho Ježíš nalezl v chrámě a řekl mu: "Pohleď, jsi uzdraven. Už nehřeš, ať se ti nepřihodí něco horšího."</verse>
+        <verse osisID='John.5.15'>Ten člověk pak odešel a oznámil židovským představeným, že ho uzdravil Ježíš.</verse>
+        <verse osisID='John.5.16'>Židovští představení tedy začali Ježíše pronásledovat, protože to udělal v sobotu.</verse>
+        <verse osisID='John.5.17'>Ježíš jim odpověděl: "Můj Otec pracuje i dnes; proto pracuji i já."</verse>
+        <verse osisID='John.5.18'>A kvůli tomu ho chtěli zabít ještě více, neboť nejenom rušil sobotu, ale ještě nazýval Boha svým vlastním Otcem, a tak se dělal rovným Bohu.</verse>
+        <verse osisID='John.5.19'>Ježíš jim odpověděl: "Amen, amen, říkám vám: Syn nemůže sám od sebe dělat nic, jedině to, co vidí dělat Otce. Cokoli dělá on, to podobně dělá i Syn.</verse>
+        <verse osisID='John.5.20'>Otec miluje Syna a ukazuje mu všechno, co sám dělá; a ukáže mu ještě větší skutky, abyste jen žasli.</verse>
+        <verse osisID='John.5.21'>Neboť jako Otec křísí mrtvé a dává život, tak i Syn dává život těm, kterým chce.</verse>
+        <verse osisID='John.5.22'>Otec nikoho nesoudí, ale svěřil veškerý soud Synu,</verse>
+        <verse osisID='John.5.23'>aby všichni ctili Syna, jako ctí Otce. Kdo nectí Syna, nectí ani Otce, který ho poslal.</verse>
+        <verse osisID='John.5.24'>Amen, amen, říkám vám: Kdo slyší mé slovo a věří Tomu, který mě poslal, má věčný život a nepřijde na soud, ale již přešel ze smrti do života.</verse>
+        <verse osisID='John.5.25'>Amen, amen, říkám vám: Přichází chvíle, a už je tu, kdy mrtví uslyší hlas Božího Syna a ti, kteří uslyší, budou žít.</verse>
+        <verse osisID='John.5.26'>Jako má Otec život sám v sobě, tak dal i Synu, aby měl život sám v sobě,</verse>
+        <verse osisID='John.5.27'>a dal mu také pravomoc konat soud, protože je Syn člověka.</verse>
+        <verse osisID='John.5.28'>Nedivte se tomu; přichází totiž chvíle, kdy všichni, kteří jsou v hrobech, uslyší jeho hlas</verse>
+        <verse osisID='John.5.29'>a vyjdou - ti, kdo konali dobro, budou vzkříšeni k životu, ale ti, kdo konali zlo, budou vzkříšeni k soudu.</verse>
+        <verse osisID='John.5.30'>Sám od sebe nemohu dělat nic. Jak slyším, tak soudím a můj soud je spravedlivý, protože nehledám svou vůli, ale vůli Toho, který mě poslal.</verse>
+        <verse osisID='John.5.31'>Svědčím-li sám o sobě, mé svědectví není pravé.</verse>
+        <verse osisID='John.5.32'>Svědčí však o mně někdo jiný a vím, že jeho svědectví o mně je pravdivé.</verse>
+        <verse osisID='John.5.33'>Poslali jste k Janovi a ten vydal svědectví pravdě.</verse>
+        <verse osisID='John.5.34'>Já ovšem nepřijímám svědectví od člověka, ale toto říkám pro vaši záchranu.</verse>
+        <verse osisID='John.5.35'>On byl hořící a zářící lampou, vy jste se však chtěli v jeho světle poradovat jen na čas.</verse>
+        <verse osisID='John.5.36'>Mám ale větší svědectví než Janovo: skutky, které mi dal Otec, abych je vykonal. Samotné skutky, které dělám, o mně svědčí, že mě poslal Otec.</verse>
+        <verse osisID='John.5.37'>A sám Otec, který mě poslal, o mně vydal svědectví. Vy jste ale nikdy neslyšeli jeho hlas a neviděli jeho tvář.</verse>
+        <verse osisID='John.5.38'>Jeho slovo ve vás nezůstává, neboť nevěříte tomu, kterého on poslal.</verse>
+        <verse osisID='John.5.39'>Zkoumáte Písma, neboť se domníváte, že v nich máte věčný život, a ta svědčí o mně.</verse>
+        <verse osisID='John.5.40'>Nechcete ale ke mně přijít, abyste měli život.</verse>
+        <verse osisID='John.5.41'>Nepřijímám chválu od lidí,</verse>
+        <verse osisID='John.5.42'>ale poznal jsem, že v sobě nemáte Boží lásku.</verse>
+        <verse osisID='John.5.43'>Já jsem přišel ve jménu svého Otce, a nepřijímáte mě. Kdyby jiný přišel ve svém vlastním jménu, toho přijmete.</verse>
+        <verse osisID='John.5.44'>Jak byste vůbec mohli uvěřit? Přijímáte chválu jedni od druhých, ale chválu, která je od samotného Boha, nehledáte.</verse>
+        <verse osisID='John.5.45'>Nemyslete si, že já vás budu žalovat před Otcem. Ten, kdo na vás žaluje, je Mojžíš, v něhož doufáte.</verse>
+        <verse osisID='John.5.46'>Kdybyste věřili Mojžíšovi, věřili byste i mně, neboť on psal o mně.</verse>
+        <verse osisID='John.5.47'>Když ale nevěříte jeho spisům, jak uvěříte mým slovům?"</verse>
+      </chapter>
+      <chapter osisID='John.6'>
+        <verse osisID='John.6.1'>Ježíš potom odešel za Galilejské (neboli Tiberiadské) jezero</verse>
+        <verse osisID='John.6.2'>a šel za ním veliký zástup, protože viděli zázraky, které konal na nemocných.</verse>
+        <verse osisID='John.6.3'>Ježíš vystoupil na horu a posadil se tam se svými učedníky.</verse>
+        <verse osisID='John.6.4'>Blížily se židovské svátky Velikonoc.</verse>
+        <verse osisID='John.6.5'>Ježíš pozvedl oči, a když uviděl, že za ním jde takový zástup, zeptal se Filipa: "Kde nakoupíme chleby, aby se ti lidé najedli?"</verse>
+        <verse osisID='John.6.6'>(To ovšem řekl, aby ho vyzkoušel, neboť sám věděl, co má udělat.)</verse>
+        <verse osisID='John.6.7'>Filip mu odpověděl: "Nestačilo by nám chleba ani za dvě stě denárů, aby se na každého dostalo aspoň trochu!"</verse>
+        <verse osisID='John.6.8'>Jeden z jeho učedníků, Ondřej, bratr Šimona Petra, mu řekl:</verse>
+        <verse osisID='John.6.9'>"Je tu jeden chlapec, který má pět ječných chlebů a dvě rybky. Ale co je to pro tolik lidí?"</verse>
+        <verse osisID='John.6.10'>Ježíš však řekl: "Zařiďte, ať se lidé posadí." Na tom místě bylo hodně trávy, a tak se posadili v počtu asi pěti tisíc mužů.</verse>
+        <verse osisID='John.6.11'>Ježíš vzal ty chleby, vzdal díky a rozdával sedícím; také ryb rozdal, kolik jen chtěli.</verse>
+        <verse osisID='John.6.12'>Když se nasytili, řekl svým učedníkům: "Posbírejte zbylé nalámané kousky, ať se nic neztratí."</verse>
+        <verse osisID='John.6.13'>Sebrali je tedy a naplnili dvanáct košů kousky z těch pěti ječných chlebů, které zbyly po těch, kdo jedli.</verse>
+        <verse osisID='John.6.14'>Když lidé viděli, jaký zázrak udělal, říkali: "Je to opravdu ten Prorok, který měl přijít na svět!"</verse>
+        <verse osisID='John.6.15'>Ježíš poznal, že se chystají přijít a vzít ho, aby ho udělali králem, a tak se o samotě vrátil na horu.</verse>
+        <verse osisID='John.6.16'>Večer jeho učedníci sešli dolů k jezeru,</verse>
+        <verse osisID='John.6.17'>nastoupili na loď a plavili se na druhý břeh do Kafarnaum. Ačkoli se už setmělo, Ježíš k nim nepřišel.</verse>
+        <verse osisID='John.6.18'>Jezero se začalo vzdouvat silným větrem.</verse>
+        <verse osisID='John.6.19'>Když odpluli asi pětadvacet nebo třicet honů, spatřili Ježíše, jak kráčí po hladině a blíží se k lodi. Vyděsili se,</verse>
+        <verse osisID='John.6.20'>ale on jim řekl: "To jsem já, nebojte se!"</verse>
+        <verse osisID='John.6.21'>Tehdy ho ochotně vzali na loď, a ta se hned ocitla u břehu, k němuž pluli.</verse>
+        <verse osisID='John.6.22'>Druhého dne si zástup, který zůstal na protějším břehu jezera, uvědomil, že tam byla jen jediná loďka a že Ježíš na ni nenastoupil se svými učedníky, ale ti odpluli sami.</verse>
+        <verse osisID='John.6.23'>(Od Tiberiady ovšem připluly jiné loďky blízko k tomu místu, kde jedli chléb, když Pán vzdal díky.)</verse>
+        <verse osisID='John.6.24'>Když tedy zástup uviděl, že tam Ježíš ani jeho učedníci nejsou, nastoupili i oni do loděk a přijeli do Kafarnaum, kde hledali Ježíše.</verse>
+        <verse osisID='John.6.25'>Když ho pak našli na druhém břehu jezera, ptali se ho: "Rabbi, kdy ses sem dostal?"</verse>
+        <verse osisID='John.6.26'>Ježíš jim odpověděl: "Amen, amen, říkám vám: Nehledáte mě proto, že jste viděli zázraky, ale že jste jedli ty chleby a byli jste nasyceni.</verse>
+        <verse osisID='John.6.27'>Neusilujte o pomíjející pokrm, ale o pokrm, který zůstává k věčnému životu, který vám dá Syn člověka. Na něj totiž Bůh Otec vtiskl svou pečeť."</verse>
+        <verse osisID='John.6.28'>"Co máme dělat, abychom konali Boží skutky?" zeptali se ho.</verse>
+        <verse osisID='John.6.29'>Ježíš jim odpověděl: "Toto je ten Boží skutek - abyste věřili v toho, kterého on poslal."</verse>
+        <verse osisID='John.6.30'>"Jaký zázrak uděláš, abychom ho viděli a uvěřili ti?" zeptali se ho. "Co děláš?</verse>
+        <verse osisID='John.6.31'>Naši otcové jedli na poušti manu, jak je psáno: ‚Dal jim jíst chléb z nebe.'"</verse>
+        <verse osisID='John.6.32'>Ježíš jim odpověděl: "Amen, amen, říkám vám: Ten chléb z nebe vám nedal Mojžíš. Můj Otec vám dává ten pravý chléb z nebe.</verse>
+        <verse osisID='John.6.33'>Boží chléb je ten, který sestupuje z nebe a dává život světu."</verse>
+        <verse osisID='John.6.34'>"Pane, dávej nám ten chléb vždycky," řekli mu.</verse>
+        <verse osisID='John.6.35'>Ježíš jim odpověděl: "Já jsem chléb života. Kdo přichází ke mně, nebude nikdy hladovět; kdo věří ve mě, nebude nikdy žíznit.</verse>
+        <verse osisID='John.6.36'>Ale jak jsem vám řekl: I když jste mě viděli, nevěříte.</verse>
+        <verse osisID='John.6.37'>Všichni, které mi Otec dává, přijdou ke mně; a toho, kdo ke mně přichází, jistě nevyženu ven.</verse>
+        <verse osisID='John.6.38'>Sestoupil jsem z nebe, ne abych konal svou vůli, ale vůli Toho, který mě poslal.</verse>
+        <verse osisID='John.6.39'>A toto je vůle Toho, který mě poslal - abych nikoho z těch, které mi dal, neztratil, ale vzkřísil je v poslední den.</verse>
+        <verse osisID='John.6.40'>Neboť toto je vůle mého Otce, který mě poslal - aby každý, kdo vidí Syna a věří v něho, měl věčný život. A já ho vzkřísím v poslední den."</verse>
+        <verse osisID='John.6.41'>Židé pak na něj reptali, že řekl: "Já jsem ten chléb, který sestoupil z nebe."</verse>
+        <verse osisID='John.6.42'>Říkali: "Není to snad ten Ježíš, syn Josefův? Jeho otce i matku známe; jak tedy může říkat: ‚Sestoupil jsem z nebe'?"</verse>
+        <verse osisID='John.6.43'>"Přestaňte spolu reptat!" odpověděl jim Ježíš.</verse>
+        <verse osisID='John.6.44'>"Nikdo ke mně nemůže přijít, pokud ho nepřitáhne můj Otec, který mě poslal; já ho pak vzkřísím v poslední den.</verse>
+        <verse osisID='John.6.45'>V Prorocích je psáno: ‚A budou všichni vyučeni od Boha.' Každý, kdo slyší Otce a učí se od něj, přichází ke mně.</verse>
+        <verse osisID='John.6.46'>Ne že by někdo viděl Otce; jediný, kdo viděl Otce, je ten, který je od Boha.</verse>
+        <verse osisID='John.6.47'>Amen, amen, říkám vám: Kdo věří, má věčný život.</verse>
+        <verse osisID='John.6.48'>Já jsem chléb života.</verse>
+        <verse osisID='John.6.49'>Vaši otcové jedli na poušti manu, a zemřeli.</verse>
+        <verse osisID='John.6.50'>Toto je ten chléb sestupující z nebe, aby ten, kdo z něj jí, nezemřel.</verse>
+        <verse osisID='John.6.51'>Já jsem ten živý chléb, který sestoupil z nebe. Kdokoli by ten chléb jedl, bude žít navěky. Chléb, který dám já, je mé tělo, které dám za život světa."</verse>
+        <verse osisID='John.6.52'>Židé se mezi sebou začali hádat: "Jak nám tenhle může dát jíst své tělo?"</verse>
+        <verse osisID='John.6.53'>Ježíš jim ale řekl: "Amen, amen, říkám vám: Nebudete-li jíst tělo Syna člověka a pít jeho krev, nemáte v sobě život.</verse>
+        <verse osisID='John.6.54'>Kdo jí mé tělo a pije mou krev, má věčný život a já ho vzkřísím v poslední den.</verse>
+        <verse osisID='John.6.55'>Mé tělo je opravdu pokrm a má krev je opravdu nápoj.</verse>
+        <verse osisID='John.6.56'>Kdo jí mé tělo a pije mou krev, zůstává ve mně a já v něm.</verse>
+        <verse osisID='John.6.57'>Jako mě poslal živý Otec a já žiji skrze Otce, tak ten, kdo jí mne, bude žít skrze mě.</verse>
+        <verse osisID='John.6.58'>Toto je ten chléb, který sestoupil z nebe. Ne jako když otcové jedli manu, a zemřeli. Kdo jí tento chléb, bude žít navěky."</verse>
+        <verse osisID='John.6.59'>Toto vše řekl, když učil v synagoze v Kafarnaum.</verse>
+        <verse osisID='John.6.60'>Mnozí z jeho učedníků, kteří to slyšeli, si tehdy řekli: "To jsou těžká slova. Kdo to může poslouchat?"</verse>
+        <verse osisID='John.6.61'>Ježíš v nitru poznal, že jeho učedníci kvůli tomu reptají, a tak jim řekl: "Tohle vás uráží?</verse>
+        <verse osisID='John.6.62'>A co kdybyste viděli Syna člověka vystupovat tam, kde byl dříve?</verse>
+        <verse osisID='John.6.63'>Duch je ten, kdo dává život; tělo nedokáže nic. Slova, která vám mluvím, jsou Duch a jsou život.</verse>
+        <verse osisID='John.6.64'>Někteří z vás ale nevěří." (Ježíš totiž od počátku věděl, kteří nevěřili a kdo ho zradí.)</verse>
+        <verse osisID='John.6.65'>Potom dodal: "Proto jsem vám řekl, že ke mně nikdo nemůže přijít, není-li mu to dáno od Otce."</verse>
+        <verse osisID='John.6.66'>Mnozí z jeho učedníků kvůli tomu odešli a už s ním nechtěli nic mít.</verse>
+        <verse osisID='John.6.67'>"Chcete odejít i vy?" zeptal se Ježíš tehdy svých Dvanácti.</verse>
+        <verse osisID='John.6.68'>"Pane, ke komu bychom šli?" odpověděl mu Šimon Petr. "Ty máš slova věčného života</verse>
+        <verse osisID='John.6.69'>a my jsme uvěřili a poznali, že ty jsi ten Svatý Boží!"</verse>
+        <verse osisID='John.6.70'>"Vyvolil jsem si vás dvanáct," řekl jim na to Ježíš; "jeden z vás je ale ďábel."</verse>
+        <verse osisID='John.6.71'>A to řekl o Jidáši, synu Šimona Iškariotského. Ten ho měl zradit, ačkoli byl jedním z Dvanácti.</verse>
+      </chapter>
+      <chapter osisID='John.7'>
+        <verse osisID='John.7.1'>Potom Ježíš chodil po Galileji. Nechtěl se totiž zdržovat v Judsku, protože ho židovští představení chtěli zabít.</verse>
+        <verse osisID='John.7.2'>Blížila se židovská Slavnost stánků,</verse>
+        <verse osisID='John.7.3'>a tak mu jeho bratři řekli: "Odejdi odsud a vydej se do Judska, ať i tvoji učedníci vidí, jaké skutky děláš.</verse>
+        <verse osisID='John.7.4'>Nikdo, kdo chce být známý, přece nedělá nic v skrytu. Když děláš takové věci, ukaž se světu!"</verse>
+        <verse osisID='John.7.5'>Ani jeho bratři v něj totiž nevěřili.</verse>
+        <verse osisID='John.7.6'>Ježíš jim odpověděl: "Pro vás je vždycky vhodný čas, ale můj čas ještě nepřišel.</verse>
+        <verse osisID='John.7.7'>Vás nemá svět proč nenávidět, ale mě nenávidí, protože o něm vydávám svědectví, že jeho skutky jsou zlé.</verse>
+        <verse osisID='John.7.8'>Jděte na slavnost sami. Já tam nejdu; můj čas se ještě nenaplnil."</verse>
+        <verse osisID='John.7.9'>To jim řekl a zůstal v Galileji.</verse>
+        <verse osisID='John.7.10'>Později, když jeho bratři odešli, vydal se na slavnost i on, ale ne zjevně, spíše potají.</verse>
+        <verse osisID='John.7.11'>Židovští představení už ho na slavnosti hledali. "Kde je?" vyptávali se.</verse>
+        <verse osisID='John.7.12'>V lidu se o něm vedlo mnoho řečí; někteří říkali: "Je dobrý!" a jiní zas: "Není! Jen obluzuje lidi!"</verse>
+        <verse osisID='John.7.13'>Kvůli strachu z představených však o něm nikdo nemluvil otevřeně.</verse>
+        <verse osisID='John.7.14'>Asi v polovině svátku Ježíš vešel do chrámu a začal učit.</verse>
+        <verse osisID='John.7.15'>Židé jen žasli: "Jak to, že zná Písma, když se neučil?"</verse>
+        <verse osisID='John.7.16'>Ježíš jim odpověděl: "Mé učení není mé, ale Toho, který mě poslal.</verse>
+        <verse osisID='John.7.17'>Bude-li někdo chtít konat jeho vůli, pozná, je-li to učení z Boha, nebo zda mluvím sám od sebe.</verse>
+        <verse osisID='John.7.18'>Kdo mluví sám od sebe, hledá svou vlastní slávu. Kdo ale hledá slávu Toho, který ho poslal, ten je pravdomluvný a není na něm nic špatného.</verse>
+        <verse osisID='John.7.19'>Mojžíš vám dal Zákon, že? Přitom nikdo z vás Zákon neplní. Proč mě chcete zabít?"</verse>
+        <verse osisID='John.7.20'>"Jsi posedlý!" odpověděl mu zástup. "Kdo tě chce zabít?"</verse>
+        <verse osisID='John.7.21'>Ježíš jim odpověděl: "Udělal jsem jeden skutek a všichni se divíte.</verse>
+        <verse osisID='John.7.22'>Mojžíš vám vydal obřízku (ačkoli nepochází od Mojžíše, ale od otců) a v sobotu obřezáváte člověka.</verse>
+        <verse osisID='John.7.23'>Může-li člověk v sobotu přijímat obřízku a neporušovat tím Mojžíšův Zákon, proč se na mě hněváte, že jsem v sobotu uzdravil celého člověka?</verse>
+        <verse osisID='John.7.24'>Nesuďte podle zdání, suďte spravedlivým soudem."</verse>
+        <verse osisID='John.7.25'>Někteří z Jeruzalémských začali říkat: "Není to snad ten, kterého chtějí zabít?</verse>
+        <verse osisID='John.7.26'>Podívejte se, mluví svobodně a nikdo nic nenamítá. Že by hodnostáři přece jen poznali, že je to Mesiáš?</verse>
+        <verse osisID='John.7.27'>Jenže o tomto víme, odkud je, ale až přijde Mesiáš, nikdo nebude vědět, odkud je."</verse>
+        <verse osisID='John.7.28'>Ježíš, který zatím vyučoval v chrámě, tehdy zvolal: "Znáte mě a také víte, odkud jsem. Nepřišel jsem ale sám od sebe. Ten, který mě poslal, je pravdomluvný. Vy ho neznáte,</verse>
+        <verse osisID='John.7.29'>ale já ho znám, neboť jsem od něj a on mě poslal."</verse>
+        <verse osisID='John.7.30'>Chtěli ho za to zatknout, ale nikdo na něj nevztáhl ruku, neboť ještě nepřišla jeho chvíle.</verse>
+        <verse osisID='John.7.31'>Mnozí ze zástupu v něj ale uvěřili. "Až přijde Mesiáš," říkali, "udělá snad více zázraků než on?"</verse>
+        <verse osisID='John.7.32'>Jakmile farizeové uslyšeli, že zástup o něm vede takové řeči, společně s vrchními kněžími na něj poslali chrámovou stráž, aby ho zatkli.</verse>
+        <verse osisID='John.7.33'>Ježíš jim řekl: "Ještě na kratičko jsem s vámi; potom odejdu k Tomu, který mě poslal.</verse>
+        <verse osisID='John.7.34'>Budete mě hledat, ale nenajdete. Tam, kde jsem, se nedostanete."</verse>
+        <verse osisID='John.7.35'>"Kam se chystá jít, že ho nenajdeme?" ptali se Židé mezi sebou. "Půjde snad do řecké diaspory učit Řeky?</verse>
+        <verse osisID='John.7.36'>Co tím myslel, když řekl: ‚Budete mě hledat, ale nenajdete. Tam, kde jsem, se nedostanete'?"</verse>
+        <verse osisID='John.7.37'>V poslední den, když svátek vrcholil, Ježíš vstal a zvolal: "Kdo má žízeň, pojď ke mně a pij!</verse>
+        <verse osisID='John.7.38'>Kdo věří ve mne, z jeho nitra potečou řeky živé vody, jak praví Písmo."</verse>
+        <verse osisID='John.7.39'>(A to řekl o Duchu, kterého měli přijmout věřící v něho; neboť Duch ještě nebyl dán, protože Ježíš ještě nebyl oslaven.)</verse>
+        <verse osisID='John.7.40'>Jakmile to uslyšeli, mnozí v zástupu říkali: "Je to opravdu ten Prorok."</verse>
+        <verse osisID='John.7.41'>Někteří říkali: "Je to Mesiáš!" A další: "Přijde snad Mesiáš z Galileje?</verse>
+        <verse osisID='John.7.42'>Neříká Písmo, že Mesiáš přijde ze semene Davidova, z Betléma, městečka, kde bydlel David?"</verse>
+        <verse osisID='John.7.43'>Zástup se kvůli němu rozdělil na dva tábory.</verse>
+        <verse osisID='John.7.44'>Někteří se ho chtěli chopit, ale nikdo na něj nevztáhl ruku.</verse>
+        <verse osisID='John.7.45'>Strážní se tehdy vrátili k farizeům a vrchním kněžím. Ti se ptali: "Jak to, že jste ho nepřivedli?"</verse>
+        <verse osisID='John.7.46'>Strážní odpověděli: "Takhle nikdy nikdo nemluvil!"</verse>
+        <verse osisID='John.7.47'>"Snad jste se také nenechali obloudit?" osopili se na ně farizeové.</verse>
+        <verse osisID='John.7.48'>"Uvěřil v něj snad někdo z hodnostářů nebo z farizeů?</verse>
+        <verse osisID='John.7.49'>Jenom ten proklatý dav, co nezná Zákon!"</verse>
+        <verse osisID='John.7.50'>Jeden z nich, Nikodém (který ho předtím navštívil), jim ale řekl:</verse>
+        <verse osisID='John.7.51'>"Copak náš Zákon někoho soudí, aniž by byl nejdříve vyslechnut a zjistilo se, co udělal?"</verse>
+        <verse osisID='John.7.52'>"Snad nejsi také z Galileje?" odpověděli mu. "Studuj a uvidíš, že z Galileje žádný prorok nepovstal!"</verse>
+        <verse osisID='John.7.53'>Každý se pak vrátil domů,</verse>
+      </chapter>
+      <chapter osisID='John.8'>
+        <verse osisID='John.8.1'>ale Ježíš odešel na Olivetskou horu.</verse>
+        <verse osisID='John.8.2'>Za úsvitu se pak vrátil do chrámu, kam se k němu scházel všechen lid. Posadil se tedy a učil je.</verse>
+        <verse osisID='John.8.3'>Znalci Písma a farizeové tehdy přivedli ženu přistiženou při cizoložství. Postavili ji doprostřed</verse>
+        <verse osisID='John.8.4'>se slovy: "Mistře, tato žena byla přistižena při činu, když cizoložila.</verse>
+        <verse osisID='John.8.5'>Mojžíš nám v Zákoně přikázal takové kamenovat. Co říkáš ty?"</verse>
+        <verse osisID='John.8.6'>Těmi slovy ho pokoušeli, aby ho mohli obžalovat. Ježíš se sklonil a psal prstem po zemi.</verse>
+        <verse osisID='John.8.7'>Když se ho však nepřestávali ptát, zvedl se a řekl jim: "Kdo z vás je bez hříchu, ať po ní první hodí kamenem."</verse>
+        <verse osisID='John.8.8'>A opět se sklonil a psal po zemi.</verse>
+        <verse osisID='John.8.9'>Když to uslyšeli, začali se jeden po druhém vytrácet, počínaje od nejstarších. Nakonec tam Ježíš zůstal sám s tou ženou stojící uprostřed.</verse>
+        <verse osisID='John.8.10'>Ježíš se zvedl a zeptal se jí: "Kde jsou tvoji žalobci, ženo? Nikdo tě neodsoudil?"</verse>
+        <verse osisID='John.8.11'>"Nikdo, Pane," odpověděla. "Ani já tě neodsuzuji," řekl jí Ježíš. "Jdi a už nehřeš."</verse>
+        <verse osisID='John.8.12'>Ježíš k nim pak znovu promluvil: "Já jsem světlo světa. Kdo mě následuje, nebude už chodit v temnotě, ale bude mít světlo života."</verse>
+        <verse osisID='John.8.13'>Farizeové mu namítli: "Svědčíš sám o sobě, tvé svědectví neplatí."</verse>
+        <verse osisID='John.8.14'>Ježíš jim odpověděl: "Ačkoli svědčím sám o sobě, mé svědectví platí, neboť vím, odkud jsem přišel a kam jdu. Vy však nevíte, odkud přicházím ani kam jdu.</verse>
+        <verse osisID='John.8.15'>Vy soudíte tělesně, já nesoudím nikoho.</verse>
+        <verse osisID='John.8.16'>A i kdybych soudil, můj soud je pravdivý, neboť nejsem sám, ale je se mnou Otec, který mě poslal.</verse>
+        <verse osisID='John.8.17'>Ve vašem Zákoně je psáno, že svědectví dvou lidí je pravé.</verse>
+        <verse osisID='John.8.18'>Svědčím sám o sobě a svědčí o mně Otec, který mě poslal."</verse>
+        <verse osisID='John.8.19'>Říkali mu tedy: "Kde je ten tvůj otec?" Ježíš odpověděl: "Neznáte mě ani mého Otce. Kdybyste mě znali, znali byste i mého Otce."</verse>
+        <verse osisID='John.8.20'>Tato slova říkal u pokladnice, když učil v chrámě, ale nikdo ho nezatkl, neboť jeho chvíle ještě nepřišla.</verse>
+        <verse osisID='John.8.21'>Ježíš k nim znovu promluvil: "Já odcházím. Budete mě hledat, dokud nezemřete ve svém hříchu. Jdu tam, kam vy nemůžete."</verse>
+        <verse osisID='John.8.22'>Židé na to říkali: "To se snad chce zabít, že říká: ‚Jdu tam, kam vy nemůžete'?"</verse>
+        <verse osisID='John.8.23'>Odpověděl jim: "Vy jste zdola, já jsem shora. Vy jste z tohoto světa, já nejsem z tohoto světa.</verse>
+        <verse osisID='John.8.24'>Proto jsem vám řekl, že zemřete ve svých hříších. Nebudete-li věřit, že ‚já jsem,' zemřete ve svých hříších."</verse>
+        <verse osisID='John.8.25'>"A kdo jsi?" zeptali se ho. "Říkám vám to už od začátku," odpověděl jim Ježíš.</verse>
+        <verse osisID='John.8.26'>"Mám o vás mnoho co říci a soudit. Ten, který mě poslal, je ovšem pravdomluvný a já říkám světu, co jsem slyšel od něj."</verse>
+        <verse osisID='John.8.27'>Nepochopili však, že s nimi mluvil o Otci.</verse>
+        <verse osisID='John.8.28'>Proto jim Ježíš řekl: "Až vyzdvihnete Syna člověka, tehdy poznáte, kdo jsem. Nic nedělám sám od sebe, ale mluvím, jak mě naučil Otec.</verse>
+        <verse osisID='John.8.29'>Ten, který mě poslal, je se mnou. On mě nenechal samotného, neboť vždycky dělám, co se mu líbí."</verse>
+        <verse osisID='John.8.30'>A při těch slovech v něj mnozí uvěřili.</verse>
+        <verse osisID='John.8.31'>Židům, kteří mu uvěřili, Ježíš řekl: "Když zůstanete v mém slově, budete opravdu mými učedníky.</verse>
+        <verse osisID='John.8.32'>Poznáte pravdu a pravda vás vysvobodí."</verse>
+        <verse osisID='John.8.33'>"Jsme Abrahamovo símě!" ohradili se. "Nikdy jsme nikomu neotročili. Jak můžeš říkat: ‚Budete svobodní'?"</verse>
+        <verse osisID='John.8.34'>Ježíš jim odpověděl: "Amen, amen, říkám vám, že každý, kdo hřeší, je otrokem hříchu.</verse>
+        <verse osisID='John.8.35'>A otrok nezůstává v domě navždy, navždy zůstává syn.</verse>
+        <verse osisID='John.8.36'>Když vás Syn vysvobodí, budete opravdu svobodní.</verse>
+        <verse osisID='John.8.37'>Vím, že jste Abrahamovo símě, ale chcete mě zabít, protože mé slovo u vás nemá místo.</verse>
+        <verse osisID='John.8.38'>Já mluvím o tom, co jsem viděl u svého Otce; vy zase děláte, co jste slyšeli od svého otce."</verse>
+        <verse osisID='John.8.39'>"Náš otec je Abraham," odpověděli mu. "Kdybyste byli děti Abrahama," řekl jim Ježíš, "dělali byste Abrahamovy skutky.</verse>
+        <verse osisID='John.8.40'>Vy mě ale chcete zabít - člověka, který vám pověděl pravdu, kterou slyšel od Boha. To Abraham nedělal.</verse>
+        <verse osisID='John.8.41'>Vy děláte skutky svého otce." "My jsme se nenarodili ze smilstva," odpověděli. "Máme jednoho Otce, Boha!"</verse>
+        <verse osisID='John.8.42'>Ježíš jim řekl: "Kdyby byl vaším Otcem Bůh, milovali byste mě, protože jsem vyšel z Boha a od něj přicházím. Nepřišel jsem sám od sebe, to on mě poslal.</verse>
+        <verse osisID='John.8.43'>Proč nerozumíte mé řeči? Nemůžete mé slovo ani slyšet!</verse>
+        <verse osisID='John.8.44'>Váš otec je ďábel a vy chcete plnit touhy svého otce. Od počátku to byl vrah a nestál v pravdě, protože v něm pravda není. Když mluví lež, mluví, jak je mu vlastní, neboť je lhář a otec lži.</verse>
+        <verse osisID='John.8.45'>Ale protože já říkám pravdu, nevěříte mi.</verse>
+        <verse osisID='John.8.46'>Kdo z vás mě usvědčí z hříchu? A když říkám pravdu, proč mi nevěříte?</verse>
+        <verse osisID='John.8.47'>Kdo je z Boha, slyší Boží slova. Vy neslyšíte proto, že nejste z Boha."</verse>
+        <verse osisID='John.8.48'>Židé mu odpověděli: "Neříkáme správně, že jsi posedlý Samaritán?"</verse>
+        <verse osisID='John.8.49'>"Nejsem posedlý," odpověděl Ježíš. "Jen ctím svého Otce, ale vy mnou pohrdáte.</verse>
+        <verse osisID='John.8.50'>Já však nehledám svoji slávu; je tu někdo jiný, který ji hledá a soudí.</verse>
+        <verse osisID='John.8.51'>Amen, amen, říkám vám: Kdokoli zachová mé slovo, navěky nespatří smrt."</verse>
+        <verse osisID='John.8.52'>"Teď víme jistě, že jsi posedlý!" řekli mu Židé. "Abraham zemřel, stejně tak proroci, a ty říkáš: ‚Kdokoli zachová mé slovo, navěky nezakusí smrt.'</verse>
+        <verse osisID='John.8.53'>Jsi snad větší než náš otec Abraham? Ten zemřel! I proroci zemřeli! Koho ze sebe děláš?"</verse>
+        <verse osisID='John.8.54'>Ježíš odpověděl: "Chválím-li sám sebe, má chvála nic neznamená. Ten, kdo mě chválí, je můj Otec, kterého vy nazýváte svým Bohem,</verse>
+        <verse osisID='John.8.55'>ale neznáte ho. Já ho znám. Kdybych řekl, že ho neznám, byl bych podobný vám, lhář. Ale znám ho a zachovávám jeho slovo.</verse>
+        <verse osisID='John.8.56'>Abraham se těšil, že uvidí můj den; uviděl ho a zaradoval se."</verse>
+        <verse osisID='John.8.57'>"Ještě ti není padesát let, a viděl jsi Abrahama?" řekli mu na to Židé.</verse>
+        <verse osisID='John.8.58'>Ježíš odpověděl: "Amen, amen, říkám vám: Dříve než byl Abraham, já jsem."</verse>
+        <verse osisID='John.8.59'>Tehdy vzali kamení a chtěli ho ukamenovat. Ježíš se ale skryl a opustil chrám.</verse>
+      </chapter>
+      <chapter osisID='John.9'>
+        <verse osisID='John.9.1'>Když procházel kolem, všiml si člověka slepého od narození.</verse>
+        <verse osisID='John.9.2'>Jeho učedníci se ho zeptali: "Rabbi, kdo zhřešil: on, nebo jeho rodiče, že se narodil slepý?"</verse>
+        <verse osisID='John.9.3'>Ježíš odpověděl: "Nejde o to, zda zhřešil on, nebo jeho rodiče, ale aby na něm byly zjeveny Boží skutky.</verse>
+        <verse osisID='John.9.4'>Já musím dělat skutky Toho, který mě poslal, dokud je den. Přichází noc, kdy nikdo nebude moci pracovat.</verse>
+        <verse osisID='John.9.5'>Dokud jsem na světě, jsem světlo světa."</verse>
+        <verse osisID='John.9.6'>Když to řekl, plivl na zem, udělal ze sliny bláto a pomazal mu jím oči.</verse>
+        <verse osisID='John.9.7'>Potom mu řekl: "Jdi se umýt do rybníka Siloe" (což se překládá Poslaný). Odešel tedy a umyl se, a když přišel, viděl.</verse>
+        <verse osisID='John.9.8'>Sousedé a ti, kdo ho dříve vídali žebrat, tedy řekli: "Není to snad ten, který tu sedával a žebral?"</verse>
+        <verse osisID='John.9.9'>Někteří říkali, že je to on, a jiní, že je mu jen podobný. On ale říkal: "Jsem to já!"</verse>
+        <verse osisID='John.9.10'>"Jak se ti otevřely oči?" ptali se ho.</verse>
+        <verse osisID='John.9.11'>Odpověděl: "Člověk jménem Ježíš udělal bláto, pomazal mi oči a řekl mi: ‚Jdi se umýt k rybníku Siloe.' A když jsem odešel a umyl se, prohlédl jsem."</verse>
+        <verse osisID='John.9.12'>"Kde ten člověk je?" ptali se. "Nevím," odpověděl.</verse>
+        <verse osisID='John.9.13'>A tak toho bývalého slepce přivedli k farizeům.</verse>
+        <verse osisID='John.9.14'>Toho dne, kdy Ježíš udělal bláto a otevřel mu oči, totiž byla sobota.</verse>
+        <verse osisID='John.9.15'>Farizeové ho znovu zpovídali, jak prohlédl. "Položil mi na oči bláto, umyl jsem se a vidím," odpověděl jim.</verse>
+        <verse osisID='John.9.16'>"Ten člověk není od Boha, vždyť nedodržuje sobotu!" říkali někteří z farizeů. Jiní zas říkali: "Jak by takové zázraky mohl dělat hříšník?" A tak se rozdělili na dva tábory.</verse>
+        <verse osisID='John.9.17'>Pak se toho slepce znovu zeptali: "Kdo to podle tebe je, že ti otevřel oči?" "Je to prorok," odpověděl.</verse>
+        <verse osisID='John.9.18'>Židovští představení mu ale nechtěli věřit, že býval slepý a prohlédl. Proto si zavolali jeho rodiče.</verse>
+        <verse osisID='John.9.19'>"Je tohle váš syn? Tvrdíte, že se narodil slepý?" ptali se jich. "A jak to, že teď vidí?"</verse>
+        <verse osisID='John.9.20'>"Víme, že je to náš syn a že se narodil slepý," odpověděli jeho rodiče.</verse>
+        <verse osisID='John.9.21'>"Jak to, že teď vidí, ale nevíme. Nevíme, kdo mu otevřel oči. Ptejte se jeho, je přece dospělý, může mluvit sám za sebe."</verse>
+        <verse osisID='John.9.22'>(Jeho rodiče to řekli, protože se báli židovských představených. Ti se už totiž dohodli, že kdokoli ho vyzná jako Mesiáše, bude vyobcován ze synagogy.</verse>
+        <verse osisID='John.9.23'>Proto jeho rodiče řekli: "Je dospělý, ptejte se jeho.")</verse>
+        <verse osisID='John.9.24'>A tak toho bývalého slepce zavolali podruhé a řekli mu: "Vyznej před Bohem pravdu! Jsme si jistí, že je to hříšník."</verse>
+        <verse osisID='John.9.25'>"Jestli je to hříšník, nevím," odpověděl jim. "Vím jen, že jsem byl slepý a teď vidím."</verse>
+        <verse osisID='John.9.26'>A tak ho vyslýchali dál: "Co ti udělal? Jak ti otevřel oči?"</verse>
+        <verse osisID='John.9.27'>"Už jsem vám to řekl," odpověděl jim. "Copak jste to neslyšeli? Proč to chcete slyšet znovu? Chcete se také stát jeho učedníky?"</verse>
+        <verse osisID='John.9.28'>Tehdy mu začali spílat: "Sám jsi jeho učedník! My jsme Mojžíšovi učedníci!</verse>
+        <verse osisID='John.9.29'>Víme, že k Mojžíšovi mluvil Bůh, ale o tomhle nevíme, co je zač."</verse>
+        <verse osisID='John.9.30'>"To je právě divné," odpověděl jim ten člověk. "Vy nevíte, co je zač, a přitom mi otevřel oči.</verse>
+        <verse osisID='John.9.31'>Víme přece, že Bůh hříšníky neslyší; slyší jen toho, kdo Boha ctí a koná jeho vůli.</verse>
+        <verse osisID='John.9.32'>Jaktěživ nikdo neslyšel, že by někdo otevřel oči slepě narozeného.</verse>
+        <verse osisID='John.9.33'>Kdyby ten člověk nebyl od Boha, nic takového by nedokázal."</verse>
+        <verse osisID='John.9.34'>Odpověděli mu: "Narodil ses plný hříchu, a chceš nás poučovat?" A s tím ho vyhnali.</verse>
+        <verse osisID='John.9.35'>Když se Ježíš doslechl, že ho vyhnali, našel ho a zeptal se: "Věříš v Syna člověka?"</verse>
+        <verse osisID='John.9.36'>"Pane," odpověděl, "kdo to je, abych v něj mohl věřit?"</verse>
+        <verse osisID='John.9.37'>"Už jsi ho viděl," řekl mu Ježíš. "Je to ten, který s tebou mluví."</verse>
+        <verse osisID='John.9.38'>"Věřím, Pane!" zvolal a padl před ním na kolena.</verse>
+        <verse osisID='John.9.39'>Tehdy Ježíš řekl: "Přišel jsem na tento svět kvůli soudu: aby slepí viděli a vidoucí oslepli."</verse>
+        <verse osisID='John.9.40'>Když to uslyšeli někteří z farizeů stojících poblíž, řekli mu: "Cože? Jsme snad i my slepí?"</verse>
+        <verse osisID='John.9.41'>"Kdybyste byli slepí, neměli byste hřích," odpověděl jim Ježíš. "Vy ale říkáte: ‚Vidíme,' a tak váš hřích trvá."</verse>
+      </chapter>
+      <chapter osisID='John.10'>
+        <verse osisID='John.10.1'>"Amen, amen, říkám vám: Kdo nevchází do ovčince dveřmi, ale vniká jinudy, je zloděj a lupič,</verse>
+        <verse osisID='John.10.2'>kdo ale vchází dveřmi, to je pastýř ovcí</verse>
+        <verse osisID='John.10.3'>a tomu vrátný otvírá. Ovce slyší jeho hlas a on své ovce volá jménem a vyvádí je.</verse>
+        <verse osisID='John.10.4'>Když je všechny vypustí, jde před nimi a ovce jdou za ním, neboť znají jeho hlas.</verse>
+        <verse osisID='John.10.5'>Za cizím nikdy nepůjdou, ale utečou od něj, neboť neznají hlas cizích."</verse>
+        <verse osisID='John.10.6'>Ježíš jim to řekl obrazně, ale oni nepochopili, co jim tím chtěl říci.</verse>
+        <verse osisID='John.10.7'>Ježíš k nim tedy znovu promluvil: "Amen, amen, říkám vám: Já jsem dveře ovcí.</verse>
+        <verse osisID='John.10.8'>Všichni, kolik jich přišlo přede mnou, jsou zloději a lupiči, ale ovce je neposlechly.</verse>
+        <verse osisID='John.10.9'>Já jsem dveře. Kdokoli vejde skrze mne, bude spasen a bude vcházet i vycházet a nalezne pastvu.</verse>
+        <verse osisID='John.10.10'>Zloděj přichází, jen aby kradl, zabíjel a ničil; já jsem přišel, aby měly život - život v plnosti.</verse>
+        <verse osisID='John.10.11'>Já jsem dobrý pastýř. Dobrý pastýř za ovce pokládá svůj život.</verse>
+        <verse osisID='John.10.12'>Nádeník ale není pastýř a ovce mu nepatří; když vidí přicházet vlka, opouští ovce a utíká. Když se pak vlk vrhá na ovce a rozhání je,</verse>
+        <verse osisID='John.10.13'>nádeník utíká, protože je nádeník a na ovcích mu nezáleží.</verse>
+        <verse osisID='John.10.14'>Já jsem dobrý pastýř. Znám své ovce a mé ovce znají mě,</verse>
+        <verse osisID='John.10.15'>jako mě zná Otec a já znám Otce; a pokládám svůj život za ovce.</verse>
+        <verse osisID='John.10.16'>Mám však i jiné ovce, které nejsou z tohoto ovčince. I ty musím přivést. Uslyší můj hlas, a tehdy bude jedno stádo a jeden pastýř.</verse>
+        <verse osisID='John.10.17'>Otec mě miluje, protože pokládám svůj život, abych ho zase přijal.</verse>
+        <verse osisID='John.10.18'>Nikdo mi ho nebere, sám ho pokládám. Mám moc ho položit a mám moc ho zase přijmout. Takový příkaz jsem přijal od svého Otce."</verse>
+        <verse osisID='John.10.19'>Kvůli těm slovům se mezi Židy strhla hádka.</verse>
+        <verse osisID='John.10.20'>Mnozí z nich říkali: "Je posedlý démonem a blázní! Co ho posloucháte?"</verse>
+        <verse osisID='John.10.21'>Jiní říkali: "Posedlý člověk takhle nemluví. Může snad démon otvírat oči slepým?"</verse>
+        <verse osisID='John.10.22'>Přišla zima a v Jeruzalémě se konal svátek Zasvěcení chrámu.</verse>
+        <verse osisID='John.10.23'>Ježíš se procházel v chrámě, v Šalomounově sloupoví.</verse>
+        <verse osisID='John.10.24'>Tam ho obstoupili Židé se slovy: "Jak dlouho nás budeš napínat? Jestli jsi Mesiáš, řekni nám to jasně."</verse>
+        <verse osisID='John.10.25'>"Řekl jsem vám to, a nevěříte," odpověděl jim Ježíš. "Skutky, které dělám ve jménu svého Otce, o mně vydávají svědectví.</verse>
+        <verse osisID='John.10.26'>Vy ale nevěříte, protože nejste z mých ovcí.</verse>
+        <verse osisID='John.10.27'>Mé ovce slyší můj hlas a já je znám a následují mě.</verse>
+        <verse osisID='John.10.28'>Já jim dávám věčný život a nezahynou navěky a z mé ruky je nikdo nevyrve.</verse>
+        <verse osisID='John.10.29'>Můj Otec, který mi je dal, je větší nade všechny a nikdo je nemůže vyrvat z ruky mého Otce.</verse>
+        <verse osisID='John.10.30'>Já a Otec jsme jedno."</verse>
+        <verse osisID='John.10.31'>Židé tedy znovu vzali kamení, aby ho ukamenovali.</verse>
+        <verse osisID='John.10.32'>Ježíš jim řekl: "Ukázal jsem vám mnoho dobrých skutků od Otce. Za který z nich mě chcete kamenovat?"</verse>
+        <verse osisID='John.10.33'>"Nechceme tě kamenovat za dobrý skutek, ale za rouhání," odpověděli mu Židé. "Jsi člověk, a děláš ze sebe Boha!"</verse>
+        <verse osisID='John.10.34'>Ježíš odvětil: "Není ve vašem Zákoně psáno: ‚Řekl jsem: Jste bohové'?</verse>
+        <verse osisID='John.10.35'>Jestliže ty, kteří dostali Boží slovo, nazval bohy - a Písmo nemůže být zrušeno -</verse>
+        <verse osisID='John.10.36'>proč mě, kterého Otec posvětil a poslal na svět, obviňujete z rouhání, když jsem řekl: ‚Jsem Boží Syn'?</verse>
+        <verse osisID='John.10.37'>Nedělám-li skutky svého Otce, nevěřte mi.</verse>
+        <verse osisID='John.10.38'>Pokud je však dělám, i kdybyste nevěřili mně, věřte těm skutkům, abyste poznali a věděli, že Otec je ve mně a já v něm."</verse>
+        <verse osisID='John.10.39'>Chtěli ho tedy opět zatknout, ale unikl jim z rukou.</verse>
+        <verse osisID='John.10.40'>Vrátil se zpátky za Jordán, na místo, kde dříve křtil Jan, a zůstal tam.</verse>
+        <verse osisID='John.10.41'>Přicházelo tam za ním mnoho lidí. Říkali: "Jan sice neudělal žádný zázrak, ale všechno, co řekl o tomhle muži, byla pravda."</verse>
+        <verse osisID='John.10.42'>A mnozí tam v něho uvěřili.</verse>
+      </chapter>
+      <chapter osisID='John.11'>
+        <verse osisID='John.11.1'>Nějaký Lazar z Betanie, městečka Marie a její sestry Marty, onemocněl.</verse>
+        <verse osisID='John.11.2'>To byla ta Marie, která pomazala Pána mastí a vytřela mu nohy svými vlasy; její bratr Lazar byl nemocný.</verse>
+        <verse osisID='John.11.3'>Sestry vzkázaly Ježíšovi: "Pane, ten, koho máš tak rád, je nemocný."</verse>
+        <verse osisID='John.11.4'>Když to Ježíš uslyšel, řekl: "Ta nemoc není k smrti, ale k Boží slávě, aby skrze ni byl oslaven Boží Syn."</verse>
+        <verse osisID='John.11.5'>Ježíš miloval Martu i její sestru i Lazara.</verse>
+        <verse osisID='John.11.6'>Když uslyšel, že Lazar onemocněl, zůstal ještě dva dny tam, kde byl.</verse>
+        <verse osisID='John.11.7'>Potom řekl svým učedníkům: "Pojďme znovu do Judska."</verse>
+        <verse osisID='John.11.8'>"Rabbi," řekli mu učedníci, "Židé tě posledně chtěli ukamenovat! Ty tam chceš jít znovu?"</verse>
+        <verse osisID='John.11.9'>Ježíš odpověděl: "Nemá den dvanáct hodin? Kdo chodí ve dne, neklopýtá, protože vidí světlo tohoto světa.</verse>
+        <verse osisID='John.11.10'>Kdo ale chodí v noci, klopýtá, protože nemá světlo."</verse>
+        <verse osisID='John.11.11'>A po těch slovech dodal: "Náš přítel Lazar usnul. Půjdu ho probudit."</verse>
+        <verse osisID='John.11.12'>"Spánek mu prospěje, Pane," řekli mu na to učedníci.</verse>
+        <verse osisID='John.11.13'>Ježíš mluvil o jeho smrti, ale oni si mysleli, že mluví o obyčejném spánku.</verse>
+        <verse osisID='John.11.14'>Proto jim Ježíš řekl jasně: "Lazar zemřel.</verse>
+        <verse osisID='John.11.15'>A kvůli vám jsem rád, že jsem tam nebyl, abyste uvěřili. Ale pojďme k němu."</verse>
+        <verse osisID='John.11.16'>Tomáš zvaný Dvojče tehdy ostatním učedníkům řekl: "Pojďme také, ať zemřeme s ním."</verse>
+        <verse osisID='John.11.17'>Ježíš dorazil čtyři dny po Lazarově pohřbu.</verse>
+        <verse osisID='John.11.18'>Betanie byla blízko Jeruzaléma, asi patnáct honů,</verse>
+        <verse osisID='John.11.19'>a mnozí Židé přišli Martu a Marii utěšit ve smutku nad jejich bratrem.</verse>
+        <verse osisID='John.11.20'>Jakmile Marta uslyšela, že přichází Ježíš, vyšla mu naproti, ale Marie zůstala doma.</verse>
+        <verse osisID='John.11.21'>"Pane, kdybys tu byl, můj bratr by nezemřel!" řekla mu Marta.</verse>
+        <verse osisID='John.11.22'>"I teď ale vím, že o cokoli Boha požádáš, to ti Bůh dá."</verse>
+        <verse osisID='John.11.23'>"Tvůj bratr vstane," řekl jí Ježíš.</verse>
+        <verse osisID='John.11.24'>"Vím, že vstane - při vzkříšení v poslední den," odpověděla Marta.</verse>
+        <verse osisID='John.11.25'>"Já jsem vzkříšení i život," řekl jí Ježíš. "Kdo věří ve mě, i kdyby zemřel, bude žít.</verse>
+        <verse osisID='John.11.26'>A každý, kdo žije a věří ve mě, nezemře navěky. Věříš tomu?"</verse>
+        <verse osisID='John.11.27'>"Ano, Pane," odpověděla. "Já jsem uvěřila, že ty jsi Mesiáš, Boží Syn, který má přijít na svět."</verse>
+        <verse osisID='John.11.28'>A když to řekla, odešla a tajně zavolala svou sestru Marii: "Mistr je tu a volá tě."</verse>
+        <verse osisID='John.11.29'>Ta, jakmile to uslyšela, rychle vstala a šla k němu.</verse>
+        <verse osisID='John.11.30'>(Ježíš ještě nepřišel do vesnice, ale byl na tom místě, kam mu vyšla naproti Marta.)</verse>
+        <verse osisID='John.11.31'>Židé, kteří byli s Marií v domě a utěšovali ji, uviděli, že rychle vstala a šla ven, a tak se k ní přidali. Mysleli si: "Jde plakat k hrobu."</verse>
+        <verse osisID='John.11.32'>Jakmile Marie přišla na místo, kde byl Ježíš, a spatřila ho, padla mu k nohám se slovy: "Pane, kdybys tu byl, můj bratr by nezemřel."</verse>
+        <verse osisID='John.11.33'>Ježíš uviděl, jak pláče a jak pláčou Židé, kteří přišli s ní. Hluboce pohnut v duchu a rozrušen</verse>
+        <verse osisID='John.11.34'>se zeptal: "Kam jste ho položili?" "Pojď se podívat, Pane," řekli mu.</verse>
+        <verse osisID='John.11.35'>Ježíš se rozplakal.</verse>
+        <verse osisID='John.11.36'>"Podívejte, jak ho měl rád!" řekli Židé.</verse>
+        <verse osisID='John.11.37'>Někteří ale namítli: "Když otevřel oči slepého, nemohl se postarat, aby tenhle člověk nezemřel?"</verse>
+        <verse osisID='John.11.38'>V hlubokém rozrušení přišel Ježíš až k hrobu. Byla to jeskyně zavalená kamenem.</verse>
+        <verse osisID='John.11.39'>"Odvalte ten kámen," řekl Ježíš. "Pane, už zapáchá," namítla Marta, sestra mrtvého. "Vždyť je v hrobě čtvrtý den!"</verse>
+        <verse osisID='John.11.40'>"Neřekl jsem ti, že když budeš věřit, uvidíš Boží slávu?" odpověděl jí Ježíš.</verse>
+        <verse osisID='John.11.41'>Když pak odstranili kámen od hrobu, Ježíš pozvedl oči a řekl: "Otče, děkuji ti, že jsi mě vyslyšel.</verse>
+        <verse osisID='John.11.42'>Já vím, že mě vždycky slyšíš, ale říkám to kvůli zástupu, který stojí kolem, aby uvěřili, že jsi mě poslal."</verse>
+        <verse osisID='John.11.43'>Jakmile to dořekl, zvolal mocným hlasem: "Lazare, pojď ven!"</verse>
+        <verse osisID='John.11.44'>A ten, který zemřel, vyšel ven. Ruce i nohy měl svázané plátny a tvář měl ovinutou rouškou. "Rozvažte ho a nechte ho jít," řekl jim Ježíš.</verse>
+        <verse osisID='John.11.45'>Mnozí z těch Židů, kteří přišli k Marii a viděli, co Ježíš udělal, v něj tehdy uvěřili.</verse>
+        <verse osisID='John.11.46'>Někteří však odešli k farizeům a pověděli jim, co Ježíš udělal.</verse>
+        <verse osisID='John.11.47'>Vrchní kněží a farizeové shromáždili Veleradu. "Co budeme dělat?" říkali. "Ten člověk dělá spoustu zázraků!</verse>
+        <verse osisID='John.11.48'>Když ho necháme, všichni v něj uvěří! Přijdou Římané a připraví nás o toto posvátné místo i o národ!"</verse>
+        <verse osisID='John.11.49'>Jeden z nich, Kaifáš, který byl toho roku veleknězem, jim řekl: "Vy nic nevíte!</verse>
+        <verse osisID='John.11.50'>Nechápete, že je pro nás lepší, aby jeden člověk zemřel za lid, než aby celý tento národ zahynul?!"</verse>
+        <verse osisID='John.11.51'>(To však neřekl sám od sebe, ale protože byl toho roku veleknězem, prorokoval, že Ježíš má zemřít za tento národ.</verse>
+        <verse osisID='John.11.52'>A nejen za tento národ, ale také aby shromáždil rozptýlené Boží děti v jedno.)</verse>
+        <verse osisID='John.11.53'>Od toho dne tedy byli rozhodnuti, že ho zabijí.</verse>
+        <verse osisID='John.11.54'>Ježíš proto už nechodil mezi Židy veřejně, ale odešel odtud do kraje poblíž pouště, do města jménem Efraim, a tam pobýval s učedníky.</verse>
+        <verse osisID='John.11.55'>Blížily se židovské Velikonoce. Mnozí z toho kraje putovali na Velikonoce vzhůru do Jeruzaléma, aby se očistili.</verse>
+        <verse osisID='John.11.56'>Hledali tam Ježíše, a když stáli v chrámu, povídali si mezi sebou: "Co myslíte? Že by nepřišel na svátek?"</verse>
+        <verse osisID='John.11.57'>Vrchní kněží a farizeové však vydali nařízení, že pokud se někdo dozví, kde je, musí to oznámit, aby ho mohli zatknout.</verse>
+      </chapter>
+      <chapter osisID='John.12'>
+        <verse osisID='John.12.1'>Šest dní před Velikonocemi přišel Ježíš do Betanie, kde bydlel Lazar, kterého Ježíš vzkřísil z mrtvých.</verse>
+        <verse osisID='John.12.2'>Tam mu připravili večeři. Marta je obsluhovala a Lazar byl jedním z těch, kdo s ním stolovali.</verse>
+        <verse osisID='John.12.3'>Marie tehdy vzala libru velmi drahé masti z pravého nardu, pomazala Ježíšovy nohy a vytřela je svými vlasy. Dům se naplnil vůní té masti.</verse>
+        <verse osisID='John.12.4'>Jeden z jeho učedníků, Jidáš Iškariotský, který ho měl zradit, řekl:</verse>
+        <verse osisID='John.12.5'>"Proč se ta mast neprodala za tři sta denárů? Mohlo se to rozdat chudým!"</verse>
+        <verse osisID='John.12.6'>To však neřekl proto, že by měl starost o chudé, ale že byl zloděj. Měl totiž na starosti společnou pokladnu a z toho, co se do ní dávalo, si bral pro sebe.</verse>
+        <verse osisID='John.12.7'>Ježíš odpověděl: "Nech ji, tu mast schovávala pro den mého pohřbu.</verse>
+        <verse osisID='John.12.8'>Chudé tu budete mít vždycky, ale mě vždycky mít nebudete."</verse>
+        <verse osisID='John.12.9'>Veliké množství Židů se dozvědělo, že Ježíš je tam, a tak přišli - nejen kvůli němu, ale také aby viděli Lazara, kterého vzkřísil z mrtvých.</verse>
+        <verse osisID='John.12.10'>Vrchní kněží se proto rozhodli zabít i Lazara.</verse>
+        <verse osisID='John.12.11'>Mnozí Židé totiž kvůli němu odcházeli a uvěřili v Ježíše.</verse>
+        <verse osisID='John.12.12'>Nazítří onen veliký zástup lidí, kteří přišli na svátky, uslyšel, že Ježíš přichází do Jeruzaléma.</verse>
+        <verse osisID='John.12.13'>Vzali palmové větve, vyšli mu naproti a volali: "Hosana!" "Požehnaný, jenž přichází v Hospodinově jménu!" "Ať žije král Izraele!"</verse>
+        <verse osisID='John.12.14'>Ježíš nalezl oslátko a vsedl na ně, jak je psáno:</verse>
+        <verse osisID='John.12.15'>"Neboj se, Dcero sionská! Hle, tvůj král přichází sedící na oslátku."</verse>
+        <verse osisID='John.12.16'>Jeho učedníci tomu nejdříve nerozuměli, ale když byl Ježíš oslaven, tehdy si vzpomněli, že to o něm bylo psáno a že se to na něm vyplnilo.</verse>
+        <verse osisID='John.12.17'>Zástup, který byl s ním, vydával svědectví, že zavolal Lazara z hrobu a vzkřísil ho z mrtvých.</verse>
+        <verse osisID='John.12.18'>Když slyšeli, že udělal ten zázrak, vyšli mu lidé naproti v celých zástupech.</verse>
+        <verse osisID='John.12.19'>Farizeové tehdy jedni druhým říkali: "Vidíte? Nic nezmůžete! Celý svět jde za ním!"</verse>
+        <verse osisID='John.12.20'>Někteří z těch, kdo se přišli o tom svátku modlit, byli Řekové.</verse>
+        <verse osisID='John.12.21'>Přišli za Filipem, který byl z galilejské Betsaidy, a prosili ho: "Pane, chtěli bychom vidět Ježíše."</verse>
+        <verse osisID='John.12.22'>Filip o tom šel říci Ondřejovi a společně to pak řekli Ježíšovi.</verse>
+        <verse osisID='John.12.23'>Ježíš jim odpověděl: "Přišla chvíle, kdy má být Syn člověka oslaven.</verse>
+        <verse osisID='John.12.24'>Amen, amen, říkám vám: Pokud zrno pšenice nepadne do země a nezemře, zůstane samo. Pokud však zemře, přinese hojnou úrodu.</verse>
+        <verse osisID='John.12.25'>Kdo lpí na svém životě, ten jej ztratí. Kdo na svém životě v tomto světě nelpí, uchrání jej k věčnému životu.</verse>
+        <verse osisID='John.12.26'>Kdo mi chce sloužit, ať mě následuje; tam, kde jsem já, bude i můj služebník. Kdokoli mi slouží, toho Otec poctí.</verse>
+        <verse osisID='John.12.27'>Jsem teď sevřen úzkostí a co mám říci? ‚Otče, vysvoboď mě z této chvíle'? Ale proto jsem přišel, pro tuto chvíli.</verse>
+        <verse osisID='John.12.28'>Otče, oslav své jméno!" Tehdy z nebe zazněl hlas: "Oslavil jsem a ještě oslavím."</verse>
+        <verse osisID='John.12.29'>Zástup, který tam stál a slyšel to, řekl: "Zahřmělo." Někteří ale říkali: "Mluvil k němu anděl."</verse>
+        <verse osisID='John.12.30'>Ježíš na to odpověděl: "Ten hlas nezazněl kvůli mně, ale kvůli vám.</verse>
+        <verse osisID='John.12.31'>Nyní se koná soud nad tímto světem, nyní bude vládce tohoto světa vyvržen ven.</verse>
+        <verse osisID='John.12.32'>A já, až budu vyzdvižen od země, potáhnu všechny k sobě."</verse>
+        <verse osisID='John.12.33'>(Těmito slovy naznačil, jakou smrtí má zemřít.)</verse>
+        <verse osisID='John.12.34'>Zástup mu odpověděl: "My jsme slyšeli ze Zákona, že Mesiáš tu zůstane navěky. Proč tedy říkáš, že Syn člověka musí být vyzdvižen? Kdo je ten Syn člověka?"</verse>
+        <verse osisID='John.12.35'>Ježíš jim řekl: "Ještě na kratičko je světlo s vámi. Choďte, dokud máte světlo, ať vás nezachvátí tma. Kdo totiž chodí ve tmě, neví, kam jde.</verse>
+        <verse osisID='John.12.36'>Dokud máte světlo, věřte ve světlo, abyste byli syny světla." Když to Ježíš pověděl, odešel a skryl se před nimi.</verse>
+        <verse osisID='John.12.37'>Ačkoli před nimi udělal tolik zázraků, přece v něj neuvěřili.</verse>
+        <verse osisID='John.12.38'>Tak se naplnilo slovo proroka Izaiáše: "Kdo, Hospodine, uvěřil naší zprávě? Komu se Hospodinova paže zjevila?"</verse>
+        <verse osisID='John.12.39'>Proto nemohli věřit, neboť Izaiáš ještě řekl:</verse>
+        <verse osisID='John.12.40'>"Oslepil jejich oči a zatvrdil jejich srdce, aby očima neuviděli a srdcem nepochopili a neobrátili se, abych je nemohl uzdravit."</verse>
+        <verse osisID='John.12.41'>To řekl Izaiáš, když zahlédl jeho slávu a mluvil o něm.</verse>
+        <verse osisID='John.12.42'>Přesto však v něho uvěřili i mnozí z hodnostářů, ale kvůli farizeům ho nevyznávali, aby nebyli vyobcováni ze synagogy.</verse>
+        <verse osisID='John.12.43'>Milovali totiž lidskou slávu více než slávu Boží.</verse>
+        <verse osisID='John.12.44'>Ježíš volal: "Kdo věří ve mne, věří ne ve mne, ale v Toho, který mě poslal.</verse>
+        <verse osisID='John.12.45'>Kdo vidí mě, vidí Toho, který mě poslal.</verse>
+        <verse osisID='John.12.46'>Já, světlo, jsem přišel na svět, aby žádný, kdo ve mne věří, nezůstal ve tmě.</verse>
+        <verse osisID='John.12.47'>Slyší-li někdo má slova a neplní je, já ho nesoudím; nepřišel jsem totiž, abych soudil svět, ale abych svět spasil.</verse>
+        <verse osisID='John.12.48'>Kdo mě odmítá a nepřijímá moje slova, má, kdo by ho soudil. V poslední den jej bude soudit slovo, které jsem mluvil.</verse>
+        <verse osisID='John.12.49'>Nemluvil jsem totiž sám od sebe, ale Otec, který mě poslal, ten mi dal přikázání, co mám říkat a co mluvit.</verse>
+        <verse osisID='John.12.50'>A vím, že jeho přikázání je věčný život. Co mluvím, tedy mluvím tak, jak mi řekl Otec."</verse>
+      </chapter>
+      <chapter osisID='John.13'>
+        <verse osisID='John.13.1'>Před Velikonočními svátky už Ježíš věděl, že přišla jeho chvíle, aby odešel z tohoto světa k Otci. Miloval své druhy na tomto světě, miloval je až do konce.</verse>
+        <verse osisID='John.13.2'>Ještě před večeří ďábel vnukl do srdce Jidáše, syna Šimona Iškariotského, že ho má zradit.</verse>
+        <verse osisID='John.13.3'>Ježíš, vědom si toho, že mu Otec dal všechno do rukou a že vyšel od Boha a jde k Bohu,</verse>
+        <verse osisID='John.13.4'>vstal od večeře, odložil plášť a opásal se ručníkem.</verse>
+        <verse osisID='John.13.5'>Nalil vodu do umyvadla a začal učedníkům umývat nohy a utírat je ručníkem, jímž byl přepásán.</verse>
+        <verse osisID='John.13.6'>Když přistoupil k Šimonu Petrovi, ten mu řekl: "Pane, ty mi chceš mýt nohy?!"</verse>
+        <verse osisID='John.13.7'>"Teď ještě nechápeš, co dělám," odpověděl mu Ježíš, "ale později porozumíš."</verse>
+        <verse osisID='John.13.8'>"Ty mi přece nemůžeš mýt nohy!" namítal Petr. "Když tě neumyji, nebudeš mít se mnou nic společného," odpověděl Ježíš.</verse>
+        <verse osisID='John.13.9'>"Pane!" zvolal Šimon Petr. "Nemyj mi jen nohy, ale i ruce a hlavu!"</verse>
+        <verse osisID='John.13.10'>Ježíš mu řekl: "Kdo je vykoupán, potřebuje umýt jen nohy, neboť je celý čistý. I vy jste čistí, ale ne všichni."</verse>
+        <verse osisID='John.13.11'>(Věděl totiž o svém zrádci, proto řekl: "Ne všichni jste čistí.")</verse>
+        <verse osisID='John.13.12'>Když jim umyl nohy, znovu se oblékl, posadil se zpět za stůl a řekl jim: "Chápete, co jsem vám udělal?</verse>
+        <verse osisID='John.13.13'>Nazýváte mě Mistrem a Pánem a máte pravdu, neboť jím jsem.</verse>
+        <verse osisID='John.13.14'>Když jsem však já, váš Pán a Mistr, umyl nohy vám, máte i vy mýt nohy jeden druhému.</verse>
+        <verse osisID='John.13.15'>Dal jsem vám příklad, abyste se chovali, jako jsem se já zachoval k vám.</verse>
+        <verse osisID='John.13.16'>Amen, amen, říkám vám: Služebník není větší než jeho pán a posel není větší než ten, kdo ho poslal.</verse>
+        <verse osisID='John.13.17'>Teď to víte; blaze vám, když se tím budete řídit.</verse>
+        <verse osisID='John.13.18'>Nemluvím o vás všech. Já vím, které jsem vyvolil; ať se ale naplní Písmo: ‚Ten, který jí se mnou chléb, pozvedl patu proti mně.'</verse>
+        <verse osisID='John.13.19'>Říkám vám to už teď, předtím než se to stane, abyste, až se to stane, uvěřili, že já jsem.</verse>
+        <verse osisID='John.13.20'>Amen, amen, říkám vám: Kdo přijímá mého posla, přijímá mě; a kdo přijímá mě, přijímá Toho, který mě poslal."</verse>
+        <verse osisID='John.13.21'>Po těchto slovech Ježíš hluboce rozrušen prohlásil: "Amen, amen, říkám vám, že jeden z vás mě zradí."</verse>
+        <verse osisID='John.13.22'>Učedníci se začali rozhlížet jeden po druhém, netušíce, o kom to mluví.</verse>
+        <verse osisID='John.13.23'>Jeden z jeho učedníků, ten, kterého Ježíš miloval, ležel u stolu po Ježíšově boku.</verse>
+        <verse osisID='John.13.24'>Šimon Petr mu naznačil, ať se zeptá, o kom to mluvil.</verse>
+        <verse osisID='John.13.25'>Objal ho tedy a zeptal se: "Pane, kdo to je?"</verse>
+        <verse osisID='John.13.26'>"Ten, komu podám namočené sousto," odpověděl Ježíš. Namočil sousto a podal je Jidášovi, synu Šimona Iškariotského.</verse>
+        <verse osisID='John.13.27'>A hned po tom soustu vešel do Jidáše satan. "Co děláš, dělej rychle," řekl mu Ježíš.</verse>
+        <verse osisID='John.13.28'>Nikdo ze stolujících ale nerozuměl, proč mu to řekl.</verse>
+        <verse osisID='John.13.29'>Jidáš měl na starosti pokladnu, a tak si někteří mysleli, že mu Ježíš řekl, ať nakoupí, co je potřeba na svátek, nebo ať dá nějaké peníze chudým.</verse>
+        <verse osisID='John.13.30'>Jidáš vzal to sousto a hned vyšel ven. Byla noc.</verse>
+        <verse osisID='John.13.31'>Po jeho odchodu Ježíš řekl: "Syn člověka je teď oslaven a Bůh je oslaven v něm.</verse>
+        <verse osisID='John.13.32'>A protože je Bůh oslaven v něm, Bůh ho také oslaví sám v sobě, a to hned.</verse>
+        <verse osisID='John.13.33'>Moji drazí, ještě na kratičko jsem s vámi. Budete mě hledat, ale říkám vám, co jsem už řekl Židům: ‚Jdu tam, kam vy nemůžete.'</verse>
+        <verse osisID='John.13.34'>Dávám vám nové přikázání: Milujte jedni druhé. Milujte jedni druhé, jako jsem já miloval vás.</verse>
+        <verse osisID='John.13.35'>Podle toho všichni poznají, že jste moji učedníci, když budete mít lásku jedni k druhým."</verse>
+        <verse osisID='John.13.36'>Šimon Petr se ho zeptal: "Pane, kam jdeš?" "Tam, kam jdu, teď za mnou nemůžeš," odpověděl mu Ježíš, "ale přijdeš za mnou později."</verse>
+        <verse osisID='John.13.37'>"Pane, proč za tebou nemohu teď?" ptal se Petr. "Položím za tebe život!"</verse>
+        <verse osisID='John.13.38'>"Položíš za mě život?" opáčil Ježíš. "Amen, amen, říkám ti: Než zakokrhá kohout, třikrát mě zapřeš."</verse>
+      </chapter>
+      <chapter osisID='John.14'>
+        <verse osisID='John.14.1'>"Nermuťte se v srdcích. Věříte v Boha, věřte i ve mne.</verse>
+        <verse osisID='John.14.2'>V domě mého Otce je mnoho pokojů. Kdyby to tak nebylo, řekl bych vám to.</verse>
+        <verse osisID='John.14.3'>Jdu, abych vám připravil místo. Až odejdu a připravím vám místo, zase přijdu a vezmu vás k sobě, abyste i vy byli tam, kde jsem já.</verse>
+        <verse osisID='John.14.4'>Víte, kam jdu, a cestu znáte."</verse>
+        <verse osisID='John.14.5'>"Pane, nevíme, kam jdeš," přerušil ho Tomáš. "A jak můžeme znát cestu?"</verse>
+        <verse osisID='John.14.6'>"Já jsem ta cesta, pravda a život," odpověděl Ježíš. "Nikdo nepřichází k Otci než skrze mne.</verse>
+        <verse osisID='John.14.7'>Kdybyste mě znali, znali byste i mého Otce. Od nynějška už ho znáte a viděli jste ho!"</verse>
+        <verse osisID='John.14.8'>"Pane," řekl mu Filip, "stačí, když nám ukážeš Otce."</verse>
+        <verse osisID='John.14.9'>"Filipe," odvětil Ježíš, "tak dlouho jsem s vámi a nepoznal jsi mě? Kdo viděl mě, viděl Otce. Jak můžeš říkat: ‚Ukaž nám Otce'?</verse>
+        <verse osisID='John.14.10'>Nevěříš, že já jsem v Otci a Otec ve mně? Slova, která vám říkám, neříkám sám od sebe. To Otec, který ve mně přebývá, on působí ty skutky.</verse>
+        <verse osisID='John.14.11'>Věřte mi, že já jsem v Otci a Otec ve mně, už jen kvůli těm skutkům věřte.</verse>
+        <verse osisID='John.14.12'>Amen, amen, říkám vám: Kdo věří ve mne, bude dělat skutky, které dělám já. A bude dělat ještě větší skutky, neboť odcházím k Otci.</verse>
+        <verse osisID='John.14.13'>O cokoli poprosíte v mém jménu, to udělám, aby byl Otec oslaven v Synu.</verse>
+        <verse osisID='John.14.14'>Když mě budete o něco prosit v mém jménu, já to udělám."</verse>
+        <verse osisID='John.14.15'>"Jestliže mě milujete, zachovávejte má přikázání.</verse>
+        <verse osisID='John.14.16'>Já pak požádám Otce a dá vám jiného Utěšitele, aby s vámi zůstal navěky,</verse>
+        <verse osisID='John.14.17'>totiž Ducha pravdy, jehož svět nemůže přijmout, neboť ho nevidí a nezná. Vy ho však znáte, neboť žije u vás a bude ve vás.</verse>
+        <verse osisID='John.14.18'>Nenechám vás jako sirotky, přijdu k vám.</verse>
+        <verse osisID='John.14.19'>Ještě kratičko a svět mě neuvidí, ale vy mě uvidíte. Protože já žiji, budete žít i vy.</verse>
+        <verse osisID='John.14.20'>V ten den poznáte, že já jsem ve svém Otci a vy ve mně a já ve vás.</verse>
+        <verse osisID='John.14.21'>Kdo přijal má přikázání a zachovává je, ten mě miluje. A kdo mě miluje, bude milován mým Otcem a já ho budu milovat a dám se mu poznat."</verse>
+        <verse osisID='John.14.22'>Juda (ne ten Iškariotský) mu řekl: "Pane, proč se chceš dát poznat nám, a ne světu?"</verse>
+        <verse osisID='John.14.23'>Ježíš mu odpověděl: "Kdo mě miluje, bude zachovávat mé slovo; můj Otec ho bude milovat a přijdeme k němu a budeme žít s ním.</verse>
+        <verse osisID='John.14.24'>Kdo mě nemiluje, nezachová moje slova. A slovo, které slyšíte, není mé, ale Toho, který mě poslal, Otcovo.</verse>
+        <verse osisID='John.14.25'>To vše jsem vám říkal, dokud jsem žil u vás.</verse>
+        <verse osisID='John.14.26'>Avšak Utěšitel, ten Duch svatý, kterého Otec pošle v mém jménu, ten vás naučí všemu a připomene vám všechno, co jsem vám řekl.</verse>
+        <verse osisID='John.14.27'>Odkazuji vám pokoj, svůj pokoj vám dávám; já dávám jinak, než jak dává svět. Nermuťte se v srdcích a nemějte strach.</verse>
+        <verse osisID='John.14.28'>Slyšeli jste mě říci: ‚Odcházím a zase k vám přijdu.' Kdybyste mě milovali, byli byste rádi, že jdu k Otci, neboť můj Otec je větší než já.</verse>
+        <verse osisID='John.14.29'>Řekl jsem vám to teď, předtím než se to stane, abyste, až se to stane, uvěřili.</verse>
+        <verse osisID='John.14.30'>Už s vámi nebudu dlouho mluvit, neboť přichází vládce tohoto světa. Nemá na mně nic,</verse>
+        <verse osisID='John.14.31'>ale přichází, aby svět poznal, že miluji Otce a že jednám, jak mi Otec přikázal. Vstaňte, pojďme odsud."</verse>
+      </chapter>
+      <chapter osisID='John.15'>
+        <verse osisID='John.15.1'>"Já jsem ušlechtilá réva a můj Otec je vinař.</verse>
+        <verse osisID='John.15.2'>Každou ratolest, která ve mně nenese ovoce, odřezává, a každou, která nese ovoce, čistí, aby nesla více ovoce.</verse>
+        <verse osisID='John.15.3'>Vy jste již čistí díky slovu, které jsem k vám mluvil.</verse>
+        <verse osisID='John.15.4'>Zůstaňte ve mně a já ve vás. Jako ratolest nemůže nést ovoce sama od sebe, pokud nezůstane ve kmeni, tak ani vy, pokud nezůstanete ve mně.</verse>
+        <verse osisID='John.15.5'>Já jsem vinná réva a vy ratolesti. Kdo zůstává ve mně a já v něm, ten nese mnoho ovoce; beze mě nedokážete nic.</verse>
+        <verse osisID='John.15.6'>Jestliže někdo nezůstane ve mně, bude odhozen pryč jako ratolest a uschne. Pak budou posbírány, hozeny na oheň a shoří.</verse>
+        <verse osisID='John.15.7'>Jestliže zůstanete ve mně a má slova zůstanou ve vás, proste, o cokoli chcete, a stane se vám to.</verse>
+        <verse osisID='John.15.8'>Když ponesete hojné ovoce, bude tím oslaven můj Otec a budete moji učedníci.</verse>
+        <verse osisID='John.15.9'>Jako Otec miloval mě, tak jsem i já miloval vás. Zůstaňte v mé lásce.</verse>
+        <verse osisID='John.15.10'>Zachováte-li má přikázání, zůstanete v mé lásce, tak jako jsem já zachoval přikázání svého Otce a zůstávám v jeho lásce.</verse>
+        <verse osisID='John.15.11'>Toto jsem vám pověděl, aby má radost byla ve vás a vaše radost aby byla dokonalá.</verse>
+        <verse osisID='John.15.12'>Toto je mé přikázání: Milujte jedni druhé, jako jsem já miloval vás.</verse>
+        <verse osisID='John.15.13'>Nikdo nemá větší lásku než ten, kdo položí život za své přátele.</verse>
+        <verse osisID='John.15.14'>Vy jste moji přátelé, děláte-li, co vám přikazuji.</verse>
+        <verse osisID='John.15.15'>Nebudu vás už nazývat služebníky, neboť služebník neví, co dělá jeho pán. Vás jsem ale nazval přáteli, neboť jsem vám předal všechno, co jsem slyšel od svého Otce.</verse>
+        <verse osisID='John.15.16'>Já jsem si vybral vás, ne vy mě. Ustanovil jsem vás, abyste šli a nesli ovoce a vaše ovoce aby zůstalo; aby vám Otec dal, o cokoli ho poprosíte v mém jménu.</verse>
+        <verse osisID='John.15.17'>Toto vám přikazuji: Milujte jedni druhé."</verse>
+        <verse osisID='John.15.18'>"Když vás bude svět nenávidět, vězte, že mě nenáviděl dříve než vás.</verse>
+        <verse osisID='John.15.19'>Kdybyste patřili světu, svět by miloval, co je jeho. Vy však světu nepatříte, neboť jsem vás ze světa vyvolil, a proto vás svět nenávidí.</verse>
+        <verse osisID='John.15.20'>Pamatujte na má slova: Služebník není větší než jeho pán. Jestliže pronásledovali mě, budou pronásledovat i vás; jestliže zachovali mé slovo, zachovají i vaše.</verse>
+        <verse osisID='John.15.21'>To všechno vám ale udělají kvůli mému jménu, neboť neznají Toho, který mě poslal.</verse>
+        <verse osisID='John.15.22'>Kdybych nepřišel a nemluvil k nim, neměli by hřích, teď ale pro svůj hřích nemají výmluvu.</verse>
+        <verse osisID='John.15.23'>Kdo nenávidí mě, nenávidí i mého Otce.</verse>
+        <verse osisID='John.15.24'>Kdybych mezi nimi nedělal skutky, které neudělal nikdo jiný, neměli by hřích. Teď ale viděli, a nenáviděli - jak mě, tak mého Otce.</verse>
+        <verse osisID='John.15.25'>Ale to vše se děje, aby se naplnilo, co je psáno v jejich Zákoně: ‚Nenáviděli mě bez příčiny.'</verse>
+        <verse osisID='John.15.26'>Až přijde ten Utěšitel, kterého vám pošlu od Otce, totiž Duch pravdy, který vychází z Otce, ten o mně bude vydávat svědectví.</verse>
+        <verse osisID='John.15.27'>A vy také vydávejte svědectví, protože jste od počátku se mnou.</verse>
+      </chapter>
+      <chapter osisID='John.16'>
+        <verse osisID='John.16.1'>Toto jsem vám pověděl, abyste se nenechali svést.</verse>
+        <verse osisID='John.16.2'>Vyobcují vás ze shromáždění. Ano, přichází doba, kdy každý, kdo vás bude zabíjet, si bude myslet, že tím slouží Bohu.</verse>
+        <verse osisID='John.16.3'>Budou to dělat, protože nepoznali Otce ani mě.</verse>
+        <verse osisID='John.16.4'>Předpověděl jsem vám to, abyste si v té době vzpomněli, že jsem vám to řekl. Zpočátku jsem vám to neříkal, protože jsem byl s vámi."</verse>
+        <verse osisID='John.16.5'>"Teď odcházím k Tomu, který mě poslal, a nikdo z vás se mě neptá: ‚Kam jdeš?'</verse>
+        <verse osisID='John.16.6'>Kvůli tomu, co jsem vám řekl, naplnil vaše srdce zármutek.</verse>
+        <verse osisID='John.16.7'>Říkám vám ale pravdu: Je pro vás lepší, abych odešel. Když neodejdu, nepřijde k vám Utěšitel; když ale odejdu, pošlu ho k vám.</verse>
+        <verse osisID='John.16.8'>Až přijde, odhalí světu, v čem je hřích, spravedlnost a soud.</verse>
+        <verse osisID='John.16.9'>Hřích, že nevěří ve mne;</verse>
+        <verse osisID='John.16.10'>spravedlnost, že jdu k Otci a už mě neuvidíte;</verse>
+        <verse osisID='John.16.11'>a soud, že vládce tohoto světa je již odsouzen.</verse>
+        <verse osisID='John.16.12'>Ještě vám mám mnoho co říci, ale teď to nemůžete unést.</verse>
+        <verse osisID='John.16.13'>Až ale přijde on, Duch pravdy, uvede vás do veškeré pravdy. Nebude totiž mluvit sám od sebe, ale řekne vše, co uslyší - oznámí vám i věci budoucí.</verse>
+        <verse osisID='John.16.14'>On mě oslaví, neboť vám oznámí, co přijme ode mě.</verse>
+        <verse osisID='John.16.15'>Všechno, co má Otec, je mé. Proto jsem řekl, že vám oznámí, co přijme ode mě.</verse>
+        <verse osisID='John.16.16'>Za okamžik mě už neuvidíte a za další okamžik mě znovu spatříte."</verse>
+        <verse osisID='John.16.17'>Někteří z jeho učedníků se začali jeden druhého ptát: "Co tím chce říci? Prý: ‚Za okamžik mě už neuvidíte a za další okamžik mě spatříte' a: ‚Odcházím k Otci.'</verse>
+        <verse osisID='John.16.18'>Co tím myslí, když říká: ‚Za okamžik'? Nevíme, o čem mluví."</verse>
+        <verse osisID='John.16.19'>Ježíš poznal, že se ho chtěli zeptat, a tak jim řekl: "Dohadujete se o tom, že jsem řekl: ‚Za okamžik mě už neuvidíte a za další okamžik mě spatříte'?</verse>
+        <verse osisID='John.16.20'>Amen, amen, říkám vám, že budete plakat a naříkat, ale svět se bude radovat. Budete se trápit, ale vaše úzkost se obrátí v radost.</verse>
+        <verse osisID='John.16.21'>Když žena rodí, zakouší úzkost, protože přišla její chvilka. Poté, co porodí děťátko, ale na trápení zapomene pro radost, že se na svět narodil člověk.</verse>
+        <verse osisID='John.16.22'>I vy teď zakoušíte úzkost, ale až se znovu uvidíme, vaše srdce bude jásat radostí a tu radost vám nikdo nevezme.</verse>
+        <verse osisID='John.16.23'>V ten den se mě nebudete ptát na nic. Amen, amen, říkám vám, že o cokoli poprosíte Otce v mém jménu, to vám dá.</verse>
+        <verse osisID='John.16.24'>Až dosud jste v mém jménu o nic neprosili. Proste a dostanete, a vaše radost bude dokonalá.</verse>
+        <verse osisID='John.16.25'>Dosud jsem k vám mluvil obrazně. Přichází chvíle, kdy k vám už nebudu o Otci mluvit obrazně, ale otevřeně.</verse>
+        <verse osisID='John.16.26'>V ten den budete prosit v mém jménu a neříkám, že budu prosit Otce za vás.</verse>
+        <verse osisID='John.16.27'>Sám Otec vás totiž miluje, protože jste milovali mě a uvěřili jste, že jsem vyšel od Boha.</verse>
+        <verse osisID='John.16.28'>Vyšel jsem od Otce a přišel jsem na svět. Teď zase opouštím svět a jdu k Otci."</verse>
+        <verse osisID='John.16.29'>Jeho učedníci mu řekli: "Hle, teď už nemluvíš obrazně, ale otevřeně!</verse>
+        <verse osisID='John.16.30'>Teď víme, že víš všechno a není třeba, aby se tě někdo vyptával. Teď věříme, že jsi vyšel od Boha."</verse>
+        <verse osisID='John.16.31'>"Teď věříte?" opáčil Ježíš.</verse>
+        <verse osisID='John.16.32'>"Hle, přichází chvíle, a už přišla, kdy se rozprchnete každý svou cestou. Necháte mě samotného, ale nejsem sám, protože je se mnou Otec.</verse>
+        <verse osisID='John.16.33'>Toto vše jsem vám pověděl, abyste ve mně nalezli pokoj. Na světě zakoušíte soužení, ale buďte stateční - já jsem přemohl svět."</verse>
+      </chapter>
+      <chapter osisID='John.17'>
+        <verse osisID='John.17.1'>Když to Ježíš pověděl, zvedl oči k nebi a řekl: "Otče, přišla ta chvíle - oslav svého Syna, aby Syn oslavil tebe.</verse>
+        <verse osisID='John.17.2'>Dal jsi mu právo na všechny lidi, aby všem, které jsi mu svěřil, daroval věčný život.</verse>
+        <verse osisID='John.17.3'>A to je ten věčný život - aby poznali tebe, jediného pravého Boha, a toho, jehož jsi poslal, Ježíše Krista.</verse>
+        <verse osisID='John.17.4'>Zjevil jsem tvou slávu na zemi; dílo, jež jsi mi svěřil, jsem vykonal.</verse>
+        <verse osisID='John.17.5'>Nyní mě, Otče, uveď k sobě do slávy, kterou jsem u tebe měl předtím, než byl svět.</verse>
+        <verse osisID='John.17.6'>Zjevil jsem tvé jméno lidem, které jsi mi dal ze světa. Byli tvoji a dal jsi je mně. Zachovali tvé slovo</verse>
+        <verse osisID='John.17.7'>a nyní poznali, že všechno, co jsi mi dal, pochází od tebe.</verse>
+        <verse osisID='John.17.8'>Slova, jež jsi mi svěřil, jsem předal jim a oni je přijali. Skutečně poznali, že jsem vyšel od tebe, a uvěřili, že jsi mě poslal.</verse>
+        <verse osisID='John.17.9'>Prosím za ně. Neprosím za svět, ale za ty, jež jsi mi dal, neboť jsou tvoji.</verse>
+        <verse osisID='John.17.10'>Všechno mé je tvé a co je tvé, je mé. Má sláva je v nich.</verse>
+        <verse osisID='John.17.11'>Já už nejsem na světě, ale oni jsou na světě a já jdu k tobě. Svatý Otče, zachovej je ve svém jménu, které jsi mi dal, aby byli jedno jako my.</verse>
+        <verse osisID='John.17.12'>Dokud jsem byl s nimi, zachovával jsem je ve tvém jménu, které jsi mi dal. Chránil jsem je a nikdo z nich nezahynul, kromě onoho syna zatracení, aby se naplnilo Písmo.</verse>
+        <verse osisID='John.17.13'>Teď ale jdu k tobě a toto říkám na světě, aby má radost v nich byla dokonalá.</verse>
+        <verse osisID='John.17.14'>Dal jsem jim tvé slovo a svět je začal nenávidět, protože nepatří světu, jako ani já nepatřím světu.</verse>
+        <verse osisID='John.17.15'>Neprosím, abys je vzal ze světa, ale abys je uchránil před zlým.</verse>
+        <verse osisID='John.17.16'>Nepatří světu, jako ani já nepatřím světu.</verse>
+        <verse osisID='John.17.17'>Posvěť je pravdou; tvé slovo je pravda.</verse>
+        <verse osisID='John.17.18'>Jako jsi poslal na svět mě, tak jsem já poslal na svět je.</verse>
+        <verse osisID='John.17.19'>Posvěcuji sám sebe za ně, aby i oni byli posvěceni pravdou.</verse>
+        <verse osisID='John.17.20'>Neprosím ale jen za ně. Prosím i za ty, kteří ve mě uvěří skrze jejich slovo.</verse>
+        <verse osisID='John.17.21'>Ať jsou všichni jedno, jako ty, Otče, ve mně a já v tobě; ať jsou i oni jedno v nás, aby svět věřil, že jsi mě poslal.</verse>
+        <verse osisID='John.17.22'>Dal jsem jim slávu, kterou jsi dal mně, aby byli jedno, jako my jsme jedno.</verse>
+        <verse osisID='John.17.23'>Já v nich a ty ve mně, aby byli dokonale jedno a aby svět poznal, že jsi mě poslal a že jsi je miloval, jako jsi miloval mě.</verse>
+        <verse osisID='John.17.24'>Otče, chci, aby ti, jež jsi mi dal, byli se mnou tam, kde jsem já, aby viděli slávu, kterou jsi mi dal, neboť jsi mě miloval před stvořením světa.</verse>
+        <verse osisID='John.17.25'>Spravedlivý Otče, svět tě nezná, ale já tě znám. Tihle poznali, že jsi mě poslal,</verse>
+        <verse osisID='John.17.26'>a já jsem jim dal poznat tvé jméno a ještě dám, aby láska, kterou jsi mě miloval, byla v nich a já v nich."</verse>
+      </chapter>
+      <chapter osisID='John.18'>
+        <verse osisID='John.18.1'>Když to Ježíš dořekl, odešel se svými učedníky za potok Kedron, kde byla zahrada; do té se svými učedníky vešel.</verse>
+        <verse osisID='John.18.2'>To místo však znal i jeho zrádce Jidáš, protože se tam Ježíš s učedníky často scházel.</verse>
+        <verse osisID='John.18.3'>Jidáš vzal s sebou oddíl vojáků a chrámovou stráž od vrchních kněží a farizeů a přišli tam s lucernami, pochodněmi a zbraněmi.</verse>
+        <verse osisID='John.18.4'>Ježíš, vědom si všeho, co jej čekalo, jim vyšel vstříc se slovy: "Koho hledáte?"</verse>
+        <verse osisID='John.18.5'>"Ježíše Nazaretského!" odpověděli. "To jsem já," řekl jim (a jeho zrádce Jidáš stál mezi nimi).</verse>
+        <verse osisID='John.18.6'>Jakmile jim Ježíš řekl: "To jsem já," ucouvli a padli k zemi.</verse>
+        <verse osisID='John.18.7'>"Koho hledáte?" zeptal se jich znovu. "Ježíše Nazaretského!" opakovali.</verse>
+        <verse osisID='John.18.8'>"Už jsem vám řekl, že to jsem já," odpověděl Ježíš. "Když hledáte mě, nechte ostatní odejít."</verse>
+        <verse osisID='John.18.9'>(To řekl, aby splnil své slovo: "Z těch, které jsi mi dal, jsem neztratil nikoho.")</verse>
+        <verse osisID='John.18.10'>Tehdy Šimon Petr vytasil meč, který měl s sebou, zasáhl veleknězova sluhu a usekl mu pravé ucho. Ten sluha se jmenoval Malchus.</verse>
+        <verse osisID='John.18.11'>"Vrať ten meč do pochvy," řekl Ježíš Petrovi. "Nemám snad pít kalich, který mi dal Otec?"</verse>
+        <verse osisID='John.18.12'>Oddíl s velitelem a s židovskou stráží tehdy Ježíše zatkli a spoutali.</verse>
+        <verse osisID='John.18.13'>Přivedli ho nejdříve k Annášovi. Byl totiž tchánem Kaifáše, který byl toho roku veleknězem.</verse>
+        <verse osisID='John.18.14'>(To byl ten Kaifáš, který židovským představeným poradil, že je lepší, aby jeden člověk zemřel za lid.)</verse>
+        <verse osisID='John.18.15'>Petr s dalším učedníkem šli za Ježíšem. Onen učedník se znal s veleknězem, a tak mohl jít za Ježíšem do veleknězova dvora.</verse>
+        <verse osisID='John.18.16'>Petr ale zůstal venku u dveří. Onen druhý učedník, který se znal s veleknězem, tedy vyšel, promluvil s vrátnou a uvedl Petra dovnitř.</verse>
+        <verse osisID='John.18.17'>Vrátná se Petra zeptala: "Nepatříš také k jeho učedníkům?" "Nepatřím," řekl.</verse>
+        <verse osisID='John.18.18'>Protože bylo chladno, otroci a strážní rozdělali oheň. Stáli okolo a ohřívali se. Petr tam stál a ohříval se s nimi.</verse>
+        <verse osisID='John.18.19'>Velekněz Ježíše vyslýchal ohledně jeho učedníků a jeho učení.</verse>
+        <verse osisID='John.18.20'>Ježíš mu odpověděl: "Mluvil jsem ke světu veřejně. Vždycky jsem učil v synagogách nebo v chrámě, kde se scházejí všichni Židé; nic jsem neříkal potají.</verse>
+        <verse osisID='John.18.21'>Proč se ptáš mě? Zeptej se těch, kdo mě slyšeli mluvit. Ti vědí, co jsem říkal."</verse>
+        <verse osisID='John.18.22'>Když to řekl, jeden z kolemstojících strážných udeřil Ježíše do tváře: "Takhle se odpovídá veleknězi?"</verse>
+        <verse osisID='John.18.23'>"Jestli jsem řekl něco špatného, dokaž to," odpověděl mu Ježíš. "Jestli ne, tak proč mě biješ?"</verse>
+        <verse osisID='John.18.24'>Annáš ho tedy poslal v poutech k veleknězi Kaifášovi.</verse>
+        <verse osisID='John.18.25'>Šimon Petr zatím stál u ohně a ohříval se. Zeptali se ho: "Nepatříš snad k jeho učedníkům?" "Nepatřím," zapřel Petr.</verse>
+        <verse osisID='John.18.26'>Jeden z veleknězových sluhů, příbuzný toho, jemuž Petr usekl ucho, na to řekl: "Copak jsem tě s ním neviděl tam v zahradě?"</verse>
+        <verse osisID='John.18.27'>Petr ho však znovu zapřel. Vtom zakokrhal kohout.</verse>
+        <verse osisID='John.18.28'>Ježíše zatím vedli od Kaifáše do prokurátorova paláce. Právě svítalo. Sami ovšem do paláce nevešli, aby se neposkvrnili před Hodem beránka,</verse>
+        <verse osisID='John.18.29'>a tak Pilát vyšel k nim. "Z čeho tohoto muže viníte?" ptal se.</verse>
+        <verse osisID='John.18.30'>"Kdyby to nebyl zločinec, nevodili bychom ho k tobě," odpověděli.</verse>
+        <verse osisID='John.18.31'>"Nechte si ho," řekl jim Pilát. "Suďte ho podle vlastního zákona." "My nesmíme nikoho popravit," odpověděli židovští představení.</verse>
+        <verse osisID='John.18.32'>(Tak se naplnila Ježíšova slova, jimiž naznačoval, jakou smrtí má zemřít.)</verse>
+        <verse osisID='John.18.33'>Pilát se vrátil do paláce a zavolal si Ježíše. "Tak ty jsi židovský král?" zeptal se ho.</verse>
+        <verse osisID='John.18.34'>Ježíš odpověděl: "Říkáš to sám od sebe, nebo ti to o mně řekli?"</verse>
+        <verse osisID='John.18.35'>"Jsem snad Žid?" řekl Pilát. "Tvůj národ a vrchní kněží mi tě vydali. Co jsi udělal?"</verse>
+        <verse osisID='John.18.36'>"Mé království není z tohoto světa," odpověděl Ježíš. "Kdyby mé království bylo z tohoto světa, moji služebníci by bojovali, abych nebyl vydán židovským vůdcům. Mé království ale není odsud."</verse>
+        <verse osisID='John.18.37'>"Takže jsi král?" zeptal se ho Pilát. "Sám říkáš, že jsem král," odpověděl Ježíš. "Narodil jsem se a přišel jsem na svět, abych vydal svědectví pravdě. Každý, kdo patří pravdě, mě poslouchá."</verse>
+        <verse osisID='John.18.38'>"Co je pravda?" odtušil Pilát. Po těch slovech vyšel znovu ven k Židům. "Podle mě je nevinný," řekl jim.</verse>
+        <verse osisID='John.18.39'>"Jak je tu zvykem, měl bych na Velikonoce propustit jednoho vězně. Chcete, abych propustil židovského krále?"</verse>
+        <verse osisID='John.18.40'>Tehdy začali křičet: "Toho ne! Pusť Barabáše!" (A ten Barabáš byl zločinec.)</verse>
+      </chapter>
+      <chapter osisID='John.19'>
+        <verse osisID='John.19.1'>Pilát tehdy Ježíše vzal a nechal ho zbičovat.</verse>
+        <verse osisID='John.19.2'>Vojáci upletli trnovou korunu a narazili mu ji na hlavu. Navlékli mu purpurový plášť</verse>
+        <verse osisID='John.19.3'>a s voláním: "Ať žije židovský král!" jej tloukli holemi.</verse>
+        <verse osisID='John.19.4'>Pilát pak znovu vyšel ven. "Hle, vedu ho ven k vám," řekl jim. "Vězte, že podle mě je nevinný."</verse>
+        <verse osisID='John.19.5'>Ježíš vyšel ven s trnovou korunou a v purpurovém plášti. "Hle, člověk!" řekl jim Pilát.</verse>
+        <verse osisID='John.19.6'>"Ukřižovat, ukřižovat!" vykřikli vrchní kněží a strážní, jakmile ho uviděli. "Ukřižujte si ho sami," řekl jim Pilát. "Podle mě je nevinný."</verse>
+        <verse osisID='John.19.7'>Židé mu odpověděli: "My máme zákon a podle našeho zákona musí zemřít, protože ze sebe dělal Božího Syna."</verse>
+        <verse osisID='John.19.8'>Když Pilát uslyšel ta slova, dostal ještě větší strach.</verse>
+        <verse osisID='John.19.9'>Vrátil se zpět do paláce a ptal se Ježíše: "Odkud jsi?" Ježíš neodpovídal.</verse>
+        <verse osisID='John.19.10'>"Nemluvíš se mnou?" naléhal Pilát. "Nevíš, že mám moc tě ukřižovat, anebo tě propustit?"</verse>
+        <verse osisID='John.19.11'>Tehdy Ježíš odpověděl: "Neměl bys nade mnou žádnou moc, kdyby ti nebyla dána shůry. Ten, kdo mě tobě vydal, má proto větší hřích."</verse>
+        <verse osisID='John.19.12'>Pilát se ho pak znovu pokoušel propustit, ale Židé křičeli: "Jestli ho propustíš, nejsi císařův přítel! Kdokoli se dělá králem, protiví se císaři!"</verse>
+        <verse osisID='John.19.13'>Když Pilát uslyšel ta slova, vyvedl Ježíše ven a zasedl k soudu na místě zvaném Dlažba, hebrejsky Gabata.</verse>
+        <verse osisID='John.19.14'>Bylo to v den příprav před svátkem Velikonoc, kolem poledne. "Hle, váš král," řekl Pilát Židům.</verse>
+        <verse osisID='John.19.15'>Ti však začali křičet: "Pryč s ním! Pryč s ním! Ukřižuj ho!" "Mám ukřižovat vašeho krále?" ptal se Pilát. "Nemáme krále kromě císaře!" odpověděli vrchní kněží.</verse>
+        <verse osisID='John.19.16'>Tehdy jim Ježíše vydal k ukřižování. Chopili se ho vojáci.</verse>
+        <verse osisID='John.19.17'>Ježíš nesl svůj kříž až na místo jménem Lebka, hebrejsky zvané Golgota.</verse>
+        <verse osisID='John.19.18'>Tam ho ukřižovali a s ním dva jiné z obou stran a Ježíše uprostřed.</verse>
+        <verse osisID='John.19.19'>Pilát dal napsat a připevnit na kříž nápis tohoto znění: JEŽÍŠ NAZARETSKÝ, ŽIDOVSKÝ KRÁL.</verse>
+        <verse osisID='John.19.20'>Ten nápis četlo mnoho Židů, neboť místo, kde byl Ježíš ukřižován, leželo poblíž města. A bylo to napsáno hebrejsky, řecky a latinsky.</verse>
+        <verse osisID='John.19.21'>Židovští vrchní kněží Pilátovi namítali: "Nepiš ‚Židovský král', ale ‚Tento říkal: Jsem židovský král.'"</verse>
+        <verse osisID='John.19.22'>"Co jsem napsal, to jsem napsal," odpověděl Pilát.</verse>
+        <verse osisID='John.19.23'>Když vojáci Ježíše ukřižovali, vzali jeho šaty a rozpárali je na čtyři díly, pro každého vojáka jeden. Vzali mu i košili, a když zjistili, že je beze švů, odshora dolů utkaná vcelku,</verse>
+        <verse osisID='John.19.24'>řekli si spolu: "Netrhejme ji, raději losujme, komu připadne." Když to ti vojáci udělali, naplnilo se Písmo, jež říká: "Rozdělili si mé šaty, o mé roucho házeli los."</verse>
+        <verse osisID='John.19.25'>U Ježíšova kříže stála i jeho matka a sestra jeho matky, Marie Kleofášova a Marie Magdaléna.</verse>
+        <verse osisID='John.19.26'>Když Ježíš uviděl matku a učedníka, kterého miloval, jak tam stojí, řekl své matce: "Ženo, hle, tvůj syn."</verse>
+        <verse osisID='John.19.27'>Potom řekl tomu učedníkovi: "Hle, tvá matka." A ten učedník ji od té chvíle přijal k sobě.</verse>
+        <verse osisID='John.19.28'>Když potom Ježíš věděl, že je již všechno dokonáno, řekl, aby se naplnilo Písmo: "Žízním!"</verse>
+        <verse osisID='John.19.29'>Stála tam nádoba plná octa. Naplnili tedy houbu octem, nasadili na yzop a podali mu ji k ústům.</verse>
+        <verse osisID='John.19.30'>Když Ježíš okusil ocet, řekl: "Je dokonáno!" Sklonil hlavu a odevzdal ducha.</verse>
+        <verse osisID='John.19.31'>Bylo to v den příprav na obzvlášť významnou sobotu. Židovští představení nechtěli, aby těla zůstala na křížích až do soboty, a tak požádali Piláta, aby odsouzeným nechal zlámat nohy a dal je sejmout z křížů.</verse>
+        <verse osisID='John.19.32'>A tak přišli vojáci a zlámali nohy jednomu i druhému, kteří byli ukřižováni s ním.</verse>
+        <verse osisID='John.19.33'>Když ale přišli k Ježíši a uviděli, že je již mrtev, nelámali mu nohy.</verse>
+        <verse osisID='John.19.34'>Jeden z vojáků mu probodl bok kopím a hned vyšla krev a voda.</verse>
+        <verse osisID='John.19.35'>Ten, který to viděl, vydává svědectví a jeho svědectví je pravdivé. On ví, že říká pravdu, abyste vy uvěřili.</verse>
+        <verse osisID='John.19.36'>Toto se stalo, aby se naplnilo Písmo: "Nezlámou mu jedinou kost."</verse>
+        <verse osisID='John.19.37'>A jiné místo v Písmu říká: "Uvidí, koho probodli."</verse>
+        <verse osisID='John.19.38'>Josef z Arimatie (který byl Ježíšův učedník, ale tajný, kvůli strachu z židovských představených) pak požádal Piláta, aby mohl sejmout Ježíšovo tělo z kříže. Pilát svolil, a tak přišel a sňal Ježíšovo tělo.</verse>
+        <verse osisID='John.19.39'>Přišel i Nikodém (který kdysi přišel za Ježíšem v noci) a přinesl směs myrhy a aloe, okolo sta liber.</verse>
+        <verse osisID='John.19.40'>Vzali Ježíšovo tělo a podle židovského pohřebního zvyku je zavinuli do pláten s těmi vonnými mastmi.</verse>
+        <verse osisID='John.19.41'>Poblíž místa jeho ukřižování byla zahrada a v té zahradě nový hrob, v němž ještě nebyl nikdo pochován.</verse>
+        <verse osisID='John.19.42'>A protože byl židovský den příprav, pochovali Ježíše do toho hrobu, neboť byl blízko.</verse>
+      </chapter>
+      <chapter osisID='John.20'>
+        <verse osisID='John.20.1'>Ráno prvního dne v týdnu šla Marie Magdaléna ještě za tmy k hrobu. Když uviděla kámen odvalený od hrobu,</verse>
+        <verse osisID='John.20.2'>běžela k Šimonu Petrovi a k dalšímu učedníkovi, kterého měl Ježíš rád, a řekla jim: "Vzali Pána z hrobu a nevíme, kam ho dali!"</verse>
+        <verse osisID='John.20.3'>Petr se zvedl a spolu s tím druhým učedníkem vyrazili k hrobu.</verse>
+        <verse osisID='John.20.4'>Běželi společně, ale ten druhý učedník Petra předběhl a dorazil k hrobu první.</verse>
+        <verse osisID='John.20.5'>Naklonil se dovnitř, spatřil ležící plátna, ale dovnitř nešel.</verse>
+        <verse osisID='John.20.6'>Po něm dorazil Šimon Petr. Vešel do hrobu a spatřil ležící plátna.</verse>
+        <verse osisID='John.20.7'>Rouška, která mu přikrývala hlavu, však nebyla mezi plátny; ležela svinutá zvlášť.</verse>
+        <verse osisID='John.20.8'>Když potom vešel i ten druhý učedník, který dorazil k hrobu jako první, uviděl a uvěřil.</verse>
+        <verse osisID='John.20.9'>(Ještě totiž nerozuměli Písmu, svědčícímu, že musí vstát z mrtvých.)</verse>
+        <verse osisID='John.20.10'>A tak se ti učedníci vrátili zpět.</verse>
+        <verse osisID='John.20.11'>Marie ale zůstala venku u hrobu a plakala. V pláči se naklonila do hrobu</verse>
+        <verse osisID='John.20.12'>a na místě, kde předtím leželo Ježíšovo tělo, uviděla sedět dva anděly v bílém rouchu, jednoho u hlavy a druhého u nohou.</verse>
+        <verse osisID='John.20.13'>"Proč pláčeš, ženo?" zeptali se jí. "Vzali mého Pána a nevím, kam ho dali," odpověděla.</verse>
+        <verse osisID='John.20.14'>Po těch slovech se obrátila a uviděla tam stát Ježíše (nevěděla ale, že je to on).</verse>
+        <verse osisID='John.20.15'>"Proč pláčeš, ženo?" zeptal se jí Ježíš. "Koho hledáš?" V domnění, že je to zahradník, odpověděla: "Pane, jestli jsi ho odnesl ty, řekni mi, kam jsi ho dal, ať si ho mohu odnést."</verse>
+        <verse osisID='John.20.16'>"Marie!" řekl jí Ježíš. Obrátila se a zvolala hebrejsky: "Rabboni!" (což znamená "Učiteli").</verse>
+        <verse osisID='John.20.17'>"Nedrž mě," řekl jí Ježíš. "Ještě jsem nevystoupil ke svému Otci. Jdi ale k mým bratrům a vyřiď jim: ‚Vystupuji ke svému Otci a k vašemu Otci, ke svému Bohu a k vašemu Bohu.'"</verse>
+        <verse osisID='John.20.18'>Marie Magdaléna pak šla a zvěstovala učedníkům, že viděla Pána a co jí řekl.</verse>
+        <verse osisID='John.20.19'>Večer téhož dne, onoho prvního dne v týdnu, se učedníci kvůli strachu z židovských představených sešli za zavřenými dveřmi. Vtom přišel Ježíš, postavil se doprostřed a řekl jim: "Pokoj vám."</verse>
+        <verse osisID='John.20.20'>Po těch slovech jim ukázal své ruce i bok. Učedníci byli šťastní, že vidí Pána.</verse>
+        <verse osisID='John.20.21'>"Pokoj vám," opakoval Ježíš. "Jako mě poslal Otec, i já posílám vás."</verse>
+        <verse osisID='John.20.22'>Po těch slovech na ně dechl a řekl jim: "Přijměte Ducha svatého.</verse>
+        <verse osisID='John.20.23'>Komu odpustíte hříchy, tomu jsou odpuštěny; komu je zadržíte, tomu jsou zadrženy."</verse>
+        <verse osisID='John.20.24'>Když tehdy mezi ně Ježíš přišel, jeden z Dvanácti, Tomáš zvaný Dvojče, tam nebyl.</verse>
+        <verse osisID='John.20.25'>Ostatní učedníci mu říkali: "Viděli jsme Pána!" "Dokud neuvidím stopu hřebů v jeho rukou," odpověděl jim, "dokud prstem nesáhnu tam, kde byly hřeby, dokud nevložím ruku do jeho boku, nikdy neuvěřím."</verse>
+        <verse osisID='John.20.26'>O týden později byli jeho učedníci znovu uvnitř a Tomáš s nimi. Dveře byly zavřené, ale Ježíš přišel a postavil se doprostřed se slovy: "Pokoj vám."</verse>
+        <verse osisID='John.20.27'>Potom řekl Tomášovi: "Polož sem prst. Podívej se na mé ruce. Natáhni ruku a vlož mi ji do boku. Přestaň být nevěřící a začni věřit."</verse>
+        <verse osisID='John.20.28'>"Můj Pán a můj Bůh!" zvolal Tomáš.</verse>
+        <verse osisID='John.20.29'>"Uvěřil jsi, protože jsi mě viděl," řekl mu Ježíš. "Blaze těm, kteří neviděli, a uvěřili."</verse>
+        <verse osisID='John.20.30'>Ježíš ovšem před svými učedníky udělal i mnoho jiných zázraků, které v této knize nejsou zapsány.</verse>
+        <verse osisID='John.20.31'>Tyto jsou ale zapsány, abyste uvěřili, že Ježíš je Mesiáš, Boží Syn, a abyste skrze víru měli život v jeho jménu.</verse>
+      </chapter>
+      <chapter osisID='John.21'>
+        <verse osisID='John.21.1'>Potom se Ježíš znovu ukázal učedníkům u Tiberiadského jezera. Stalo se to takto:</verse>
+        <verse osisID='John.21.2'>Šimon Petr, Tomáš zvaný Dvojče, Natanael z Kány Galilejské, synové Zebedeovi a další dva jeho učedníci byli spolu.</verse>
+        <verse osisID='John.21.3'>"Jdu na ryby," řekl jim Šimon Petr. "Půjdeme s tebou," odpověděli. A tak šli a nastoupili na loď. Té noci ale nic nechytili.</verse>
+        <verse osisID='John.21.4'>Za svítání stál na břehu Ježíš (učedníci ale nevěděli, že je to on).</verse>
+        <verse osisID='John.21.5'>"Nemáte něco k jídlu, hoši?" zavolal na ně. "Nemáme," odpověděli.</verse>
+        <verse osisID='John.21.6'>"Hoďte síť napravo od lodi a něco najdete," řekl jim. Hodili tedy síť a už ji ani nemohli utáhnout, kolik v ní bylo ryb.</verse>
+        <verse osisID='John.21.7'>Učedník, kterého Ježíš miloval, tehdy řekl Petrovi: "To je Pán!" Jakmile Šimon Petr uslyšel, že je to Pán, oblékl si plášť (protože byl svlečený) a vrhl se do vody.</verse>
+        <verse osisID='John.21.8'>Ostatní učedníci pak připluli s lodí (nebyli totiž daleko od břehu, jen asi dvě stě loket) a táhli tu síť s rybami.</verse>
+        <verse osisID='John.21.9'>Když vystoupili na břeh, uviděli rozdělaný oheň a na něm rybu a chléb.</verse>
+        <verse osisID='John.21.10'>Ježíš jim řekl: "Přineste trochu ryb, které jste teď nalovili."</verse>
+        <verse osisID='John.21.11'>Šimon Petr tedy šel a vytáhl na břeh plnou síť - 153 velkých ryb! A přestože jich bylo tolik, síť se neroztrhla.</verse>
+        <verse osisID='John.21.12'>"Pojďte snídat," řekl jim Ježíš. Nikdo z učedníků se ho neodvážil zeptat: "Kdo jsi?" protože věděli, že je to Pán.</verse>
+        <verse osisID='John.21.13'>Ježíš přistoupil, vzal chléb a podával jim ho a podobně i rybu.</verse>
+        <verse osisID='John.21.14'>Tak se Ježíš už potřetí po svém zmrtvýchvstání ukázal učedníkům.</verse>
+        <verse osisID='John.21.15'>Po snídani se Ježíš zeptal Šimona Petra: "Šimone Janův, miluješ mě více než oni?" "Ano, Pane," odpověděl mu. "Ty víš, že tě mám rád." Ježíš mu na to řekl: "Pas mé beránky."</verse>
+        <verse osisID='John.21.16'>Potom se ho zeptal podruhé: "Šimone Janův, miluješ mě?" "Ano, Pane," odpověděl mu. "Ty víš, že tě mám rád." Tehdy mu Ježíš řekl: "Pečuj o mé ovce."</verse>
+        <verse osisID='John.21.17'>Potom se ho zeptal potřetí: "Šimone Janův, máš mě rád?" Petr se zarmoutil, že se ho Ježíš potřetí zeptal: "Máš mě rád?" Odpověděl mu: "Pane, ty víš všechno. Ty víš, že tě mám rád." Ježíš mu na to řekl: "Pas mé ovce.</verse>
+        <verse osisID='John.21.18'>Amen, amen, říkám ti: Když jsi byl mladší, oblékal ses a chodils, kam jsi chtěl. Až zestárneš, rozpřáhneš ruce, oblékne tě jiný a povede tě, kam nechceš."</verse>
+        <verse osisID='John.21.19'>(To řekl, aby mu naznačil, jakou smrtí oslaví Boha.) Po těch slovech mu řekl: "Následuj mě."</verse>
+        <verse osisID='John.21.20'>Petr se otočil a uviděl za sebou jít učedníka, kterého Ježíš miloval. (Byl to ten, který ho tehdy při večeři objal a zeptal se: "Pane, kdo tě zradí?")</verse>
+        <verse osisID='John.21.21'>Když ho Petr uviděl, zeptal se Ježíše: "Pane, a co on?"</verse>
+        <verse osisID='John.21.22'>Ježíš mu řekl: "Jestli ho tu chci nechat, dokud nepřijdu, co je ti po tom? Ty mě následuj."</verse>
+        <verse osisID='John.21.23'>Mezi bratry se pak rozneslo, že ten učedník nezemře. Ježíš mu však neřekl, že nezemře, ale: "Jestli ho tu chci nechat, dokud nepřijdu, co je ti po tom?"</verse>
+        <verse osisID='John.21.24'>To je ten učedník, který vydává svědectví o těchto věcech a zapsal je; a víme, že jeho svědectví je pravdivé.</verse>
+        <verse osisID='John.21.25'>Ježíš ovšem udělal i mnoho jiných věcí. Kdyby měly být všechny jednotlivě vypsány, mám za to, že by bylo napsáno tolik knih, že by se ani nevešly na svět.</verse>
+      </chapter>
+    </div></osisText>
+</osis>

@@ -1,0 +1,818 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace'>
+  <osisText osisIDWork='NorthernAzeri' osisRefWork='Bible' xml:lang='az'>
+    <header>
+      <revisionDesc>
+        <date>2012-01-07</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='NorthernAzeri'>
+        <title>Northern Azeri Translation</title>
+        <contributor/>
+        <creator>Mod2Zef (6)</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject/>
+        <date>2012-01-07</date>
+        <description>Northern Azeri Translation</description>
+        <publisher/>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>NorthernAzeri</identifier>
+        <source>no entry TextSource in sword.conf found</source>
+        <language type='IETF'>az</language>
+        <relation/>
+        <coverage>provide the bible to the nations of the world</coverage>
+        <rights>Copyrighted Kutsul Kitab; Permission to distribute granted to CrossWire</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='Mark'>
+      <chapter osisID='Mark.1'>
+        <verse osisID='Mark.1.1'/>
+        <verse osisID='Mark.1.2'>Yeşaya peyğəmbərin kitabında belə yazılıb:  «Budur, Sənin önündə Öz elçimi göndərirəm.O Sənin yolunu hazırlayacaq.</verse>
+        <verse osisID='Mark.1.3'>Səhrada nida edənin səsi gəlir:“Rəbbin yolunu hazırlayın,Onun keçəcəyi yerləri düz edin”».</verse>
+        <verse osisID='Mark.1.4'>Yazıldığı kimi vəftiz edən Yəhya çöldə meydana çıxdı. O, insanların günahlarının bağışlanması üçün onların tövbə edib vəftiz olunmasını vəz edirdi.</verse>
+        <verse osisID='Mark.1.5'>Bütün Yəhudeya diyarından olanlar və Yerusəlim sakinlərinin hamısı onun yanına gəlirdi. Onlar günahlarını etiraf edərək onun tərəfindən İordan çayında vəftiz olunurdular.</verse>
+        <verse osisID='Mark.1.6'>Yəhya dəvə yunundan paltar geymiş, belinə dəri qurşaq bağlamışdı, çəyirtkə və çöl balı yeyirdi. </verse>
+        <verse osisID='Mark.1.7'>Yəhya belə vəz edirdi: «Məndən sonra məndən daha Qüdrətlisi gəlir. Mən əyilib Onun çarıqlarının bağını açmağa belə, layiq deyiləm.</verse>
+        <verse osisID='Mark.1.8'>Mən sizi su ilə vəftiz etdim, amma O sizi Müqəddəs Ruhla vəftiz edəcək». </verse>
+        <verse osisID='Mark.1.9'>O günlərdə İsa Qalileyanın Nazaret şəhərindən gəlib Yəhya tərəfindən İordan çayında vəftiz olundu.</verse>
+        <verse osisID='Mark.1.10'>İsa sudan çıxan kimi göylərin yarıldığını və Ruhun göyərçin kimi Öz üzərinə endiyini gördü.</verse>
+        <verse osisID='Mark.1.11'>Göylərdən bir səda gəldi: «Sən Mənim sevimli Oğlumsan, Səndən razıyam». </verse>
+        <verse osisID='Mark.1.12'>Ruh dərhal İsanı səhraya çəkib-apardı.</verse>
+        <verse osisID='Mark.1.13'>O, səhrada qırx gün qaldı və bu müddət ərzində Şeytan tərəfindən sınağa çəkildi. İsa vəhşi heyvanlar arasında idi və mələklər Ona xidmət edirdi. </verse>
+        <verse osisID='Mark.1.14'>Yəhya həbs olunandan sonra İsa Qalileyaya gəlib Allahın Müjdəsinivəz edirdi:</verse>
+        <verse osisID='Mark.1.15'>«Vaxt yetişib, Allahın Padşahlığı yaxınlaşıb. Tövbə edin və Müjdəyə inanın». </verse>
+        <verse osisID='Mark.1.16'>İsa Qalileya gölünün sahilindən keçərkən suya tor atan Şimonu və qardaşı Andreyi gördü. Bu adamlar balıqçı idi.</verse>
+        <verse osisID='Mark.1.17'>İsa onlara dedi: «Ardımca gəlin, Mən sizi elə balıqçı edəcəyəm ki, insan tutacaqsınız».</verse>
+        <verse osisID='Mark.1.18'>Onlar dərhal torları kənara atıb Onun ardınca getdilər.</verse>
+        <verse osisID='Mark.1.19'>İsa bir az irəli gedib Zavday oğlu Yaqubu və qardaşı Yəhyanı gördü. Onlar qayıqda torlarını düzəldirdilər.</verse>
+        <verse osisID='Mark.1.20'>İsa dərhal onları çağırdı. Onlar da qayıqda olan ataları Zavdayı və muzdlu işçiləri qoyub Onun ardınca getdilər. </verse>
+        <verse osisID='Mark.1.21'>Onlar Kefernahuma gəldilər. Şənbə günü İsa sinaqoqa girib təlim öyrətməyə başladı.</verse>
+        <verse osisID='Mark.1.22'>Onun təliminə təəccüblənirdilər, çünki onlara ilahiyyatçılar kimi deyil, səlahiyyət sahibi kimi təlim öyrədirdi.</verse>
+        <verse osisID='Mark.1.23'>Həmin vaxt onların sinaqoqunda natəmiz ruha tutulmuş bir nəfər var idi. O çığırdı:</verse>
+        <verse osisID='Mark.1.24'>«Ey Nazaretli İsa, bizdən nə istəyirsən? Bizi məhv etməyəmi gəlmisən? Mən bilirəm, Sən Kimsən: Allahın Müqəddəsisən!»</verse>
+        <verse osisID='Mark.1.25'>Amma İsa ona qadağan edib dedi: «Sus və bu adamdan çıx!»</verse>
+        <verse osisID='Mark.1.26'>Natəmiz ruh bu adamı sarsıdıb bərkdən çığıraraq ondan çıxdı.</verse>
+        <verse osisID='Mark.1.27'>Hamını heyrət bürüdü və onlar bir-birindən soruşdular: «Bu nədir? Səlahiyyətli yeni bir təlimdir! O, natəmiz ruhlara belə, əmr edir və bunlar da Ona itaət edirlər».</verse>
+        <verse osisID='Mark.1.28'>İsa haqqında xəbər dərhal Qalileya bölgəsinin hər tərəfinə yayıldı. </verse>
+        <verse osisID='Mark.1.29'>Onlar sinaqoqdan çıxan kimi Yaqub və Yəhya ilə birgə Şimon və Andreyin evinə getdilər.</verse>
+        <verse osisID='Mark.1.30'>Şimonun qayınanası qızdırma içində yatırdı. Bunu dərhal İsaya xəbər verdilər.</verse>
+        <verse osisID='Mark.1.31'>İsa xəstənin yanına gəlib əlindən tutaraq onu qaldırdı və qadının qızdırması düşdü. Qadın onlara xidmət etməyə başladı. </verse>
+        <verse osisID='Mark.1.32'>Axşam gün batanda bütün xəstələri və cinə tutulmuşları İsanın yanına gətirdilər.</verse>
+        <verse osisID='Mark.1.33'>Bütün şəhər əhalisi qapının yanına yığıldı.</verse>
+        <verse osisID='Mark.1.34'>İsa müxtəlif xəstəliyə tutulan çox adama şəfa verdi və bir çox cinləri qovdu. Amma cinlərə danışmağa izin vermədi, çünki onlar İsanın Kim olduğunu bilirdilər. </verse>
+        <verse osisID='Mark.1.35'>Səhər alaqaranlıqda İsa qalxıb evdən çıxdı və kimsəsiz bir yerə gedib orada dua etdi.</verse>
+        <verse osisID='Mark.1.36'>Şimon və onun yanındakılar İsanın ardınca düşdülər.</verse>
+        <verse osisID='Mark.1.37'>Onu tapıb dedilər: «Hamı Səni axtarır».</verse>
+        <verse osisID='Mark.1.38'>İsa onlara dedi: «Gəlin başqa yerlərə – ətrafdakı şəhərlərə gedək və orada da vəz edim, çünki Mən bunun üçün gəlmişəm».</verse>
+        <verse osisID='Mark.1.39'>Beləliklə, İsa onların sinaqoqlarında vəz edərək və cinləri qovaraq bütün Qalileyanı gəzib-dolaşdı. </verse>
+        <verse osisID='Mark.1.40'>Bir gün cüzamlı bir adam İsanın yanına gəldi və diz çöküb yalvardı: «Əgər istəsən, məni pak edə bilərsən».</verse>
+        <verse osisID='Mark.1.41'>İsanın ona rəhmi gəldi. Əlini uzadıb ona toxundu və dedi: «İstəyirəm, pak ol!»</verse>
+        <verse osisID='Mark.1.42'>Dərhal bu adam cüzamdan sağalıb pak oldu,</verse>
+        <verse osisID='Mark.1.43'>İsa o an onu yola salıb ciddi tapşıraraq</verse>
+        <verse osisID='Mark.1.44'>belə dedi: «Bax heç kəsə bir söz demə, lakin get, özünü kahinə göstər. Hər kəsə şəhadət olsun deyə cüzamdan paklandığın üçün Musanın buyurduğu təqdimləri apar».</verse>
+        <verse osisID='Mark.1.45'>Lakin o çıxıb bu sözü vəz edərək hər yanda yaymağa başladı. Ona görə də İsa artıq heç bir şəhərə açıq girə bilmirdi, amma kənarda, kimsəsiz yerlərdə qalır və adamlar hər tərəfdən Onun yanına gəlirdi.  </verse>
+      </chapter>
+      <chapter osisID='Mark.2'>
+        <verse osisID='Mark.2.1'>
+          Bir neçə gün sonra İsa yenə Kefernahuma gələndə Onun evdə olma xəbəri yayıldı.</verse>
+        <verse osisID='Mark.2.2'>O qədər çox adam yığıldı ki, qapının yanında durmağa belə, yer qalmamışdı. İsa onlara kəlamı vəz edirdi.</verse>
+        <verse osisID='Mark.2.3'>Adamlar dörd nəfərin daşıdığı bir iflici Onun yanına gətirdilər.</verse>
+        <verse osisID='Mark.2.4'>Amma böyük izdihama görə onu İsaya yaxın gətirə bilmədilər. Ona görə də İsa olan evin damını söküb yer açandan sonra iflici yatdığı döşəklə birgə aşağı endirdilər.</verse>
+        <verse osisID='Mark.2.5'>İsa onların imanını görəndə iflic olan adama dedi: «Oğlum, günahların bağışlandı».</verse>
+        <verse osisID='Mark.2.6'>Lakin orada oturan bəzi ilahiyyatçılar ürəklərində belə düşündülər:</verse>
+        <verse osisID='Mark.2.7'>«Bu Adam niyə belə danışır? Bu ki küfrdür! Tək Allahdan başqa günahları kim bağışlaya bilər?»</verse>
+        <verse osisID='Mark.2.8'>İsa dərhal onların ürəyində nə fikirləşdiyini ruhən dərk edib dedi: «Niyə ürəyinizdə belə düşünürsünüz?</verse>
+        <verse osisID='Mark.2.9'>Bax hansı daha asandır? İflicə “günahların bağışlandı” deməkmi, yoxsa “Qalx, döşəyini götür və yeri!” demək?</verse>
+        <verse osisID='Mark.2.10'>Lakin siz bilin ki, Bəşər Oğlunun yer üzündə günahları bağışlamaq səlahiyyəti var» və iflicə dedi:</verse>
+        <verse osisID='Mark.2.11'>«Sənə deyirəm, qalx, döşəyini götür və evinə get!»</verse>
+        <verse osisID='Mark.2.12'>Xəstə qalxdı və dərhal döşəyini götürərək hamının qarşısında çıxıb getdi. Hamı mat qaldı və Allahı izzətləndirib dedi: «Biz heç vaxt belə şey görməmişik». </verse>
+        <verse osisID='Mark.2.13'>İsa yenə gölün sahilinə çıxdı. Bütün izdiham Onun yanına toplaşdı və O, camaata təlim öyrədirdi.</verse>
+        <verse osisID='Mark.2.14'>Yolu keçəndə vergi yığılan yerdə oturan Halfay oğlu Levini görüb ona dedi: «Ardımca gəl». O da durub İsanın ardınca getdi. </verse>
+        <verse osisID='Mark.2.15'>İsa Levinin evində süfrəyə oturanda bir çox vergiyığanlarla günahkarlar gəlib Onunla və şagirdləri ilə birgə oturdular. Çünki İsanın ardınca gedənlər çox idi.</verse>
+        <verse osisID='Mark.2.16'>Fariseylərdən olan ilahiyyatçılar İsanın günahkarlar və vergiyığanlarla birgə yemək yediyini görüb Onun şagirdlərinə dedilər: «O niyə vergiyığanlar və günahkarlarla birgə yemək yeyir?»</verse>
+        <verse osisID='Mark.2.17'>İsa bunu eşidəndə onlara dedi: «Sağlamların deyil, xəstələrin həkimə ehtiyacı var. Mən salehləri deyil, günahkarları çağırmaq üçün gəlmişəm». </verse>
+        <verse osisID='Mark.2.18'>Yəhyanın şagirdləri və fariseylər oruc tuturdular. Bəzi adamlar İsanın yanına gəlib soruşdular: «Nə üçün Yəhyanın şagirdləri və fariseylərin şagirdləri oruc tutur, amma Sənin şagirdlərin oruc tutmur?»</verse>
+        <verse osisID='Mark.2.19'>İsa onlara cavab verdi: «Bəy yanlarında olanda sağdışı və soldışı oruc tutarmı? Nə qədər ki bəy onların yanındadır, onlar oruc tutmazlar.</verse>
+        <verse osisID='Mark.2.20'>Lakin bəyin onların arasından aparılacağı günlər gələcək və o zaman oruc tutacaqlar. </verse>
+        <verse osisID='Mark.2.21'>Heç kim köhnə paltara təzə parçadan yamaq vurmaz. Yoxsa təzə yamaq köhnə paltardan qopar və yırtıq daha pis olar.</verse>
+        <verse osisID='Mark.2.22'>Heç kim təzə şərabı köhnə tuluqlara doldurmaz. Yoxsa şərab tuluqları partladar, həm şərab, həm də tuluqlar zay olar. Təzə şərab təzə tuluqlara doldurulmalıdır». </verse>
+        <verse osisID='Mark.2.23'>Bir Şənbə günü İsa taxıl zəmiləri arasından keçirdi. Şagirdləri yoldan keçərkən sünbülləri qırmağa başladılar.</verse>
+        <verse osisID='Mark.2.24'>Fariseylər Ona dedilər: «Bəs niyə onlar Şənbə günü qadağan olunan işləri görürlər?»</verse>
+        <verse osisID='Mark.2.25'>İsa onlara dedi: «Davud və yanındakılar ac və möhtac olanda nə etdiklərini heç oxumamısınızmı?</verse>
+        <verse osisID='Mark.2.26'>O, baş kahin Evyatarın dövründə Allahın evinə girdi; kahinlərdən başqa heç kəsə yeməyə icazə verilməyən təqdis çörəklərini yedi, yanındakılara da verdi».</verse>
+        <verse osisID='Mark.2.27'>Sonra İsa onlara dedi: «İnsan Şənbə günü üçün deyil, Şənbə günü insan üçün yaradılıb.</verse>
+        <verse osisID='Mark.2.28'>Bax Bəşər Oğlu Şənbə gününün də Sahibidir».  </verse>
+      </chapter>
+      <chapter osisID='Mark.3'>
+        <verse osisID='Mark.3.1'>
+          İsa yenə də sinaqoqa girdi. Orada əli qurumuş bir adam var idi.</verse>
+        <verse osisID='Mark.3.2'>Bəzi adamlar İsanı ittiham etmək məqsədi ilə Ona göz qoyurdular ki, görsünlər, bu adama Şənbə günü şəfa verəcək ya yox.</verse>
+        <verse osisID='Mark.3.3'>İsa əli qurumuş adama dedi: «Qabağa çıx!»</verse>
+        <verse osisID='Mark.3.4'>Sonra İsa onlara dedi: «Hansına icazə var, Şənbə günü yaxşılıq, yoxsa pislik etməyə, kiminsə canını xilas etməyə, yoxsa öldürməyə?» Onlarsa susurdu.</verse>
+        <verse osisID='Mark.3.5'>İsa ətrafındakılara qəzəblə baxdı və onların inadkar ürəkli olduqlarına görə kədərlənib o adama dedi: «Əlini uzat!» O, əlini uzatdı və əli əvvəlki halına qayıtdı.</verse>
+        <verse osisID='Mark.3.6'>Fariseylər çıxıb İsanı necə məhv etmək barədə dərhal hirodçularla məsləhətləşdilər. </verse>
+        <verse osisID='Mark.3.7'>İsa şagirdləri ilə birgə gölün bir tərəfinə çəkildi. Onun ardınca isə Qalileyadan böyük izdiham gəldi.</verse>
+        <verse osisID='Mark.3.8'>İsanın etdiklərini eşidəndə Onun yanına Yəhudeyadan, Yerusəlimdən, İdumeyadan, İordan çayının o biri tayından, Sur və Sidon bölgəsindən çoxlu adam gəldi.</verse>
+        <verse osisID='Mark.3.9'>İsa izdiham Onu sıxışdırmasın deyə şagirdlərindən xahiş etdi ki, Onun üçün bir qayıq hazırlasınlar.</verse>
+        <verse osisID='Mark.3.10'>Çünki O, çox adama şəfa vermişdi. Buna görə bütün xəstələr Ona toxunmaq üçün can atırdılar.</verse>
+        <verse osisID='Mark.3.11'>Natəmiz ruhlar İsanı görəndə önündə yerə sərilib ucadan çığırırdılar: «Sən Allahın Oğlusan!»</verse>
+        <verse osisID='Mark.3.12'>Lakin İsa onlara qadağan etdi ki, Onun kim olduğunu deməsinlər. </verse>
+        <verse osisID='Mark.3.13'>İsa dağa çıxaraq Özü istədiyi adamları yanına çağırdı və onlar yanına gəldilər.</verse>
+        <verse osisID='Mark.3.14'>İsa on iki nəfəri həvari adlandıraraq təyin etdi ki, bu adamlar Onun yanında olsun, həm də onları vəz etməyə göndərsin,</verse>
+        <verse osisID='Mark.3.15'>həmçinin cinləri qovmaq səlahiyyətinə malik olsunlar.</verse>
+        <verse osisID='Mark.3.16'>Beləliklə, İsa bu on iki nəfəri təyin etdi: Peter adlandırdığı Şimon,</verse>
+        <verse osisID='Mark.3.17'>Bene-Rageş, yəni «İldırım oğulları» adlandırdığı Zavday oğlu Yaqub və Yaqubun qardaşı Yəhya,</verse>
+        <verse osisID='Mark.3.18'>Andrey, Filip, Bartalmay, Matta, Tomas, Halfay oğlu Yaqub, Tadday, Kənançı Şimon</verse>
+        <verse osisID='Mark.3.19'>və İsaya xəyanət edən Yəhuda İskaryot. </verse>
+        <verse osisID='Mark.3.20'>Sonra İsa evə getdi. Yenə də izdiham yığıldığına görə onlar yeməyə belə, imkan tapa bilmədilər.</verse>
+        <verse osisID='Mark.3.21'>İsanın ailə üzvləri bu barədə eşidəndə Onu aparmağa gəldilər. Çünki fikirləşirdilər ki, O, ağlını itirib.</verse>
+        <verse osisID='Mark.3.22'>Yerusəlimdən gələn ilahiyyatçılar isə deyirdilər: «O, Baal-Zevula tutulub, cinlərin başçısının gücü ilə cinləri qovur». </verse>
+        <verse osisID='Mark.3.23'>İsa ilahiyyatçıları yanına çağırıb onlarla bu barədə məsəllərlə danışdı: «Şeytan Şeytanı necə qova bilər?</verse>
+        <verse osisID='Mark.3.24'>Əgər bir padşahlıq öz daxilindən bölünübsə, davam gətirməz.</verse>
+        <verse osisID='Mark.3.25'>Əgər bir ev öz daxilindən bölünübsə, davam gətirməz.</verse>
+        <verse osisID='Mark.3.26'>Şeytan da özünə qarşı qalxıb öz-özünə bölünübsə, davam gətirməz, yalnız axırı çatar.</verse>
+        <verse osisID='Mark.3.27'>Heç kim güclü adamın evinə girib əvvəlcə onun əl-qolunu bağlamadan malını qarət edə bilməz. Gərək o adamın əvvəlcə əl-qolunu bağlasın, sonra evini qarət etsin. </verse>
+        <verse osisID='Mark.3.28'>Sizə doğrusunu deyirəm: bütün günahlar və nə qədər küfr söylənərsə, bəşər övladlarına bağışlanacaq.</verse>
+        <verse osisID='Mark.3.29'>Lakin kim Müqəddəs Ruha küfr edərsə, heç vaxt bağışlanmayacaq və günahı boynunda əbədi qalacaq».</verse>
+        <verse osisID='Mark.3.30'>İsa bunu «Onda natəmiz ruh var» dediklərinə görə söylədi. </verse>
+        <verse osisID='Mark.3.31'>İsanın anası və qardaşları gəldi. Onlar bayırda durdular və İsanın yanına xəbər göndərib Onu çağırdılar.</verse>
+        <verse osisID='Mark.3.32'>Bir kütlə adam İsanın ətrafında oturmuşdu. Ona xəbər verdilər: «Budur, anan və bacı-qardaşların bayırda dayanıb Səni istəyirlər».</verse>
+        <verse osisID='Mark.3.33'>İsa onlara cavab verdi: «Mənim anam və qardaşlarım kimdir?»</verse>
+        <verse osisID='Mark.3.34'>Sonra ətrafında oturanlara baxaraq dedi: «Mənim anam və qardaşlarım bunlardır.</verse>
+        <verse osisID='Mark.3.35'>Çünki kim Allahın iradəsini yerinə yetirirsə, Mənim qardaşım, bacım və anam odur».  </verse>
+      </chapter>
+      <chapter osisID='Mark.4'>
+        <verse osisID='Mark.4.1'>
+           İsa gölün sahilində yenə xalqa təlim öyrətməyə başladı. Yanına elə böyük izdiham toplaşdı ki, Özü bir qayığa minib gölün içərisində oturdu. Bütün izdiham isə gölün sahilində dayanmışdı.</verse>
+        <verse osisID='Mark.4.2'>İsa onlara məsəllərlə bir çox şey öyrədərək Öz təlimində belə dedi:</verse>
+        <verse osisID='Mark.4.3'>«Qulaq asın: bir əkinçi toxum səpməyə çıxdı.</verse>
+        <verse osisID='Mark.4.4'>Səpin zamanı toxumlardan bəzisi yol kənarına düşdü və quşlar gəlib onları dənlədi.</verse>
+        <verse osisID='Mark.4.5'>Bəzisi torpağı çox olmayan daş-kəsəkli yerə düşdü. Torpağı dərin olmadığına görə tez cücərdi.</verse>
+        <verse osisID='Mark.4.6'>Lakin günəş doğanda qarsalandı və kökü olmadığına görə qurudu.</verse>
+        <verse osisID='Mark.4.7'>Bəzisi tikanlar arasına düşdü. Tikanlar böyüyüb onları boğdu və bu toxumlar bar vermədi.</verse>
+        <verse osisID='Mark.4.8'>Başqaları isə münbit torpağa düşdü. Ona görə də böyüyüb artdı və bəzisi otuz, bəzisi altmış, bəzisi də yüz qat səmərə verdi».</verse>
+        <verse osisID='Mark.4.9'>Daha sonra İsa dedi: «Eşitməyə qulağı olan eşitsin!» </verse>
+        <verse osisID='Mark.4.10'>İsa tək qalanda On İki şagird və ətrafında olanlar məsəllərin izahını soruşdular.</verse>
+        <verse osisID='Mark.4.11'>O onlara dedi: «Allahın Padşahlığının sirri sizə açılmışdır, amma kənarda olanlara hər şey məsəllərlə deyilir.</verse>
+        <verse osisID='Mark.4.12'>Belə ki  “Gördükcə görsünlər, amma qanmasınlar,Eşitdikcə eşitsinlər, amma anlamasınlar,Yoxsa onlar dönüb bağışlanar”». </verse>
+        <verse osisID='Mark.4.13'>İsa onlara dedi: «Siz bu məsəli anlamırsınızmı? Bəs bütün məsəlləri necə başa düşəcəksiniz?</verse>
+        <verse osisID='Mark.4.14'>Əkinçi Allahın kəlamını əkir.</verse>
+        <verse osisID='Mark.4.15'>Daxilinə kəlam əkilən bəzi insanlar yol kənarına düşən toxumlara bənzəyir. Bunlar kəlamı eşidəndə dərhal Şeytan gəlib əkilən kəlamı götürüb aparır.</verse>
+        <verse osisID='Mark.4.16'>Daş-kəsəkli yerlərə səpilən bunlardır: kəlamı eşidəndə dərhal sevinclə qəbul edirlər.</verse>
+        <verse osisID='Mark.4.17'>Lakin onlarda kök olmadığına görə dözümləri az olur, kəlama görə əziyyət və təqibə məruz qalan kimi yıxılırlar.</verse>
+        <verse osisID='Mark.4.18'>Tikanlar arasına səpilən başqaları isə bunlardır: kəlamı eşidirlər,</verse>
+        <verse osisID='Mark.4.19'>lakin bu dövrün qayğıları, var-dövlətin aldadıcılığı və başqa şeylərə olan ehtiraslar araya girib kəlamı boğur və kəlam barsız olur.</verse>
+        <verse osisID='Mark.4.20'>Münbit torpağa səpilənlərsə bunlardır: onlar kəlamı eşidib qəbul edir, bəzisi otuz, bəzisi altmış, bəzisi isə yüz qat səmərə verir». </verse>
+        <verse osisID='Mark.4.21'>İsa onlara dedi: «Çırağı qabın yaxud yatağın altına qoymaq üçünmü gətirirsiniz? O, çıraqdana qoymaq üçün deyilmi?</verse>
+        <verse osisID='Mark.4.22'>Elə gizli bir şey yoxdur ki, aşkara çıxmasın və elə örtülü bir şey yoxdur ki, aydın olmasın.</verse>
+        <verse osisID='Mark.4.23'>Eşitməyə qulağı olan eşitsin!» </verse>
+        <verse osisID='Mark.4.24'>İsa yenə onlara dedi: «Eşitdiyinizə diqqət edin: hansı ölçü ilə ölçsəniz, sizin üçün də eyni ölçü ilə ölçüləcək və daha artıq veriləcək.</verse>
+        <verse osisID='Mark.4.25'>Çünki kimin varıdırsa, ona daha çox veriləcək. Amma kimin yoxudursa, əlində olan da ondan alınacaq». </verse>
+        <verse osisID='Mark.4.26'>Sonra İsa dedi: «Allahın Padşahlığı torpağa toxum səpən əkinçiyə bənzəyir.</verse>
+        <verse osisID='Mark.4.27'>O, gecə yatır, gündüz qalxır. Toxum cücərib boy atır, amma əkinçi bunun necə baş verdiyini bilmir.</verse>
+        <verse osisID='Mark.4.28'>Torpaq özü bar gətirir. Əvvəl cücərti çıxır, sonra sünbül, daha sonra sünbülün dənləri iriləşib yetişir.</verse>
+        <verse osisID='Mark.4.29'>Məhsul yetişəndə əkinçi dərhal oraq vurur, çünki biçin vaxtı gəlmişdir». </verse>
+        <verse osisID='Mark.4.30'>Sonra İsa belə dedi: «Allahın Padşahlığını nəyə bənzədək? Onu hansı məsəllə göstərək?</verse>
+        <verse osisID='Mark.4.31'>O, xardal toxumuna bənzəyir ki, yer üzündə torpağa əkilən toxumların ən kiçiyi olsa da,</verse>
+        <verse osisID='Mark.4.32'>əkiləndən sonra böyüyüb bütün bostan bitkilərindən hündür olur. O qədər böyük qol-budaq atır ki, göydə uçan quşlar onun kölgəsində yuva qura bilər». </verse>
+        <verse osisID='Mark.4.33'>İsa xalqın başa düşəcəyi dərəcədə buna bənzər çoxlu məsəllərlə kəlam söyləyirdi;</verse>
+        <verse osisID='Mark.4.34'>onlara məsəlsiz söz deməzdi. Amma Öz şagirdləri ilə tək qalanda hər şeyi izah edirdi. </verse>
+        <verse osisID='Mark.4.35'>Həmin gün axşam düşəndə İsa şagirdlərinə dedi: «Gəlin o biri sahilə keçək».</verse>
+        <verse osisID='Mark.4.36'>Şagirdlər camaatdan ayrılaraq İsanı mindiyi qayıqla birgə apardılar; onun yanında başqa qayıqlar da var idi.</verse>
+        <verse osisID='Mark.4.37'>Bu vaxt böyük bir tufan qopdu. Dalğalar qayığa elə hücum çəkdi ki, su artıq onun içinə doldu.</verse>
+        <verse osisID='Mark.4.38'>İsa qayığın arxa tərəfində başını yastığa qoyub yatırdı. Şagirdlər Onu oyadaraq dedilər: «Müəllim! Axı biz həlak oluruq! Bu Səni narahat etmirmi?»</verse>
+        <verse osisID='Mark.4.39'>İsa durub küləyə qadağan etdi və gölə dedi: «Sus, sakit ol!» Külək dayandı və dərin sükut çökdü.</verse>
+        <verse osisID='Mark.4.40'>İsa onlara dedi: «Niyə qorxursunuz? Hələ imanınız yoxdurmu?»</verse>
+        <verse osisID='Mark.4.41'>Onlar dəhşətə düşüb bir-birindən soruşdular: «Bu Adam kimdir ki, külək də, göl də Ona itaət edir?»  </verse>
+      </chapter>
+      <chapter osisID='Mark.5'>
+        <verse osisID='Mark.5.1'>
+          Onlar gölün o biri sahilində yerləşən Gerasalıların diyarına getdilər.</verse>
+        <verse osisID='Mark.5.2'>İsa qayıqdan düşən kimi qəbir mağaralarından natəmiz ruha tutulmuş bir adam Onunla qarşılaşdı.</verse>
+        <verse osisID='Mark.5.3'>O, mağaralarda yaşayırdı və heç kim onu hətta zəncirləyərək saxlaya bilmirdi.</verse>
+        <verse osisID='Mark.5.4'>Neçə dəfə ona buxov, zəncir vurmuşdular, lakin o, zəncirləri qırmış, buxovları parçalamışdı. Heç kəsin onu sakit etməyə gücü çatmırdı.</verse>
+        <verse osisID='Mark.5.5'>Həmişə, gecə-gündüz qəbiristanlıqda, dağlarda çığırır və özünü daşlarla yaralayırdı.</verse>
+        <verse osisID='Mark.5.6'>O, İsanı uzaqdan görəndə qaçıb Ona səcdə qıldı,</verse>
+        <verse osisID='Mark.5.7'>bərkdən çığıraraq dedi: «Ey İsa, Allah-Taalanın Oğlu, məndən nə istəyirsən? Səni and verirəm Allaha, mənə iztirab vermə!»</verse>
+        <verse osisID='Mark.5.8'>Çünki İsa ona demişdi: «Ey natəmiz ruh, bu adamdan çıx!»</verse>
+        <verse osisID='Mark.5.9'>Sonra İsa ondan soruşdu: «Sənin adın nədir?» O cavab verdi: «Mənim adım Qoşundur, çünki biz çoxuq».</verse>
+        <verse osisID='Mark.5.10'>Ruhları bu diyardan qovmasın deyə o, İsaya çox yalvardı. </verse>
+        <verse osisID='Mark.5.11'>Orada – dağın yamacında böyük bir donuz sürüsü otlayırdı.</verse>
+        <verse osisID='Mark.5.12'>Natəmiz ruhlar İsaya yalvardılar: «Bizi donuzlara göndər ki, onların içinə girək».</verse>
+        <verse osisID='Mark.5.13'>İsa onlara izin verdi. Natəmiz ruhlar adamdan çıxıb donuzların içinə girdi. İki min baş heyvandan ibarət sürü də uçurumdan aşağı, gölə atılıb orada boğuldu. </verse>
+        <verse osisID='Mark.5.14'>Donuz otaranlar qaçıb bu xəbəri şəhər və kəndlərdə yaydılar. Camaat nə baş verdiyinə tamaşa etməyə gəldi.</verse>
+        <verse osisID='Mark.5.15'>Onlar İsanın yanına gəldilər, əvvəlcə bir qoşun cinə tutulmuş adamın geyinmiş və ağıllanmış oturduğunu görüb qorxuya düşdülər.</verse>
+        <verse osisID='Mark.5.16'>Hadisəni görənlər cinə tutulmuş adamın başına gələnlər və donuzlar haqqında camaata söylədilər.</verse>
+        <verse osisID='Mark.5.17'>İsaya yalvarmağa başladılar ki, onların bölgəsindən çıxsın.</verse>
+        <verse osisID='Mark.5.18'>İsa qayığa minəndə əvvəlcə cinə tutulmuş adam Ona yalvardı ki, İsanın yanında qalsın.</verse>
+        <verse osisID='Mark.5.19'>İsa ona izin vermədi, amma dedi: «Evinə, qohum-əqrəbanın yanına get, Rəbbin sənə etdiyi hər şeyi və sənə necə mərhəmət göstərdiyini onlara danış».</verse>
+        <verse osisID='Mark.5.20'>Bu adam da gedib İsanın ona etdiyi hər şeyi Dekapolis bölgəsində yaymağa başladı və hamı heyrətləndi. </verse>
+        <verse osisID='Mark.5.21'>İsa yenə qayıqla o biri sahilə keçəndə yanına böyük bir izdiham yığıldı. O, gölün sahilində idi.</verse>
+        <verse osisID='Mark.5.22'>Sinaqoq rəislərindən Yair adlı bir adam gəlib İsanı görəndə ayaqlarına düşdü.</verse>
+        <verse osisID='Mark.5.23'>Ona çox yalvarıb dedi: «Qızcığazım can üstündədir. Gəl əllərini onun üstünə qoy ki, sağalıb yaşasın».</verse>
+        <verse osisID='Mark.5.24'>İsa da onunla birlikdə getdi. Ardınca böyük bir izdiham gedərək hər tərəfdən Onu sıxışdırırdı. </verse>
+        <verse osisID='Mark.5.25'>Orada on iki il qanaxma xəstəliyinə tutulan bir qadın var idi.</verse>
+        <verse osisID='Mark.5.26'>O, neçə həkimin əlindən xeyli əzab çəkmiş, bütün varını buna sərf etsə də, vəziyyəti yaxşılaşmamış, daha da pisləşmişdi.</verse>
+        <verse osisID='Mark.5.27'>Bu qadın İsa haqqında eşidib izdihamın içindən keçərək Onun arxasından gəldi və Onun paltarına toxundu.</verse>
+        <verse osisID='Mark.5.28'>Çünki bu cür düşünürdü: «Heç olmasa paltarına toxunsam, sağalaram».</verse>
+        <verse osisID='Mark.5.29'>Dərhal onun qanaxması kəsildi və bildi ki, bədənindəki xəstəlikdən sağaldı.</verse>
+        <verse osisID='Mark.5.30'>İsa dərhal bildi ki, Ondan bir qüvvə çıxdı və izdihamın içində dönüb soruşdu: «Paltarıma toxunan kim idi?»</verse>
+        <verse osisID='Mark.5.31'>Şagirdləri Ona cavab verdilər: «Görürsən ki, izdiham Səni sıxışdırır. Necə soruşa bilərsən ki, Mənə toxunan kim idi?»</verse>
+        <verse osisID='Mark.5.32'>Bunu edəni görmək üçün İsa ətrafa baxdı.</verse>
+        <verse osisID='Mark.5.33'>Qadınsa özünə nə olduğunu bildi. Qorxudan titrəyərək gəlib İsanın ayağına düşdü və bütün həqiqəti Ona söylədi.</verse>
+        <verse osisID='Mark.5.34'>İsa da ona dedi: «Qızım, imanın səni xilas etdi. Arxayın get və xəstəliyindən sağal». </verse>
+        <verse osisID='Mark.5.35'>İsa hələ danışırdı ki, sinaqoq rəisinin evindən adamlar gəlib dedi: «Qızın öldü. Daha Müəllimi niyə narahat edirsən?»</verse>
+        <verse osisID='Mark.5.36'>Lakin İsa bu sözə məhəl qoymayaraq sinaqoq rəisinə dedi: «Qorxma, yalnız iman et!»</verse>
+        <verse osisID='Mark.5.37'>O, Peter, Yaqub və Yaqubun qardaşı Yəhyadan başqa heç kimi ardınca gəlməyə qoymadı.</verse>
+        <verse osisID='Mark.5.38'>Onlar sinaqoq rəisinin evinə gələndə İsa çox hay-küy, ağlaşıb nalə çəkənlər gördü.</verse>
+        <verse osisID='Mark.5.39'>İsa içəri girəndə onlara dedi: «Niyə hay-küy salıb ağlaşırsınız? Uşaq ölməyib, sadəcə olaraq yatıb».</verse>
+        <verse osisID='Mark.5.40'>Onlar İsaya güldülər. Belə olanda İsa hamını bayıra çıxarandan sonra uşağın ata-anasını, Özü ilə gələnləri götürüb uşaq olan yerə girdi.</verse>
+        <verse osisID='Mark.5.41'>İsa uşağın əlindən tutub dedi: «Talita qum!» Bunun mənası belədir: «Qızcığaz, sənə deyirəm: qalx!»</verse>
+        <verse osisID='Mark.5.42'>On iki yaşlı qız dərhal qalxıb gəzməyə başladı. O an oradakılar tamamilə mat qaldı.</verse>
+        <verse osisID='Mark.5.43'>İsa onlara qadağan etdi ki, bunu heç kəs bilməsin və sonra dedi ki, qıza yemək versinlər.  </verse>
+      </chapter>
+      <chapter osisID='Mark.6'>
+        <verse osisID='Mark.6.1'>
+          İsa oradan ayrılıb doğma yurduna gəldi. Şagirdləri də Onun ardınca gəlirdi.</verse>
+        <verse osisID='Mark.6.2'>Şənbə günü olanda O, sinaqoqda təlim öyrətməyə başladı. Onu dinləyən adamların çoxu təəccüblənərək dedi: «Bu Adamda belə şeylər haradandır? Bu necə hikmətdir, Ona verilib? Bu cür möcüzələr Onun əlindən necə gəlir?</verse>
+        <verse osisID='Mark.6.3'>Bu Adam həmin dülgər deyilmi? Məryəmin oğlu, Yaqubun, Yusifin, Yəhudanın və Şimonun qardaşı deyilmi? Onun bacıları burada – bizim aramızda yaşamırmı?» Onların İsaya acığı tutdu.</verse>
+        <verse osisID='Mark.6.4'>İsa onlara dedi: «Bir peyğəmbərə öz yurdundan, qohum-əqrəbaları arasından və öz evindən başqa heç bir yerdə xor baxmazlar».</verse>
+        <verse osisID='Mark.6.5'>Orada O heç bir möcüzə yarada bilmədi, yalnız bir neçə xəstənin üzərinə əl qoyub şəfa verdi.</verse>
+        <verse osisID='Mark.6.6'>İsa onların imansızlığına heyrət edirdi. Sonra ətraf kəndlərdə təlim öyrədərək oraları gəzib-dolaşdı. </verse>
+        <verse osisID='Mark.6.7'>İsa On İki şagirdi yanına çağırıb onları iki-iki göndərməyə başladı və onlara natəmiz ruhlar üzərində səlahiyyət verdi.</verse>
+        <verse osisID='Mark.6.8'>Onlara tapşırdı ki, yol üçün əsadan başqa heç nə – nə çörək, nə torba, nə də qurşaqlarında pul götürsünlər,</verse>
+        <verse osisID='Mark.6.9'>ayaqlarına səndəl geysələr də, əyinlərinə iki köynək geyinməsinlər.</verse>
+        <verse osisID='Mark.6.10'>İsa onlara dedi: «Harada bir evə girsəniz, çıxanacan orada qalın.</verse>
+        <verse osisID='Mark.6.11'>Harada sizi qəbul etməyib sizə qulaq asmaq istəməzlərsə, oradan ayrılarkən onlara qarşı şəhadət olsun deyə ayaqlarınızın tozunu çırpın».</verse>
+        <verse osisID='Mark.6.12'>Onlar da yola düşdülər və vəz edərək insanları tövbəyə çağırdılar.</verse>
+        <verse osisID='Mark.6.13'>Çoxlu cin çıxartdılar, yağla məsh edərək çox xəstəyə şəfa verdilər. </verse>
+        <verse osisID='Mark.6.14'>Padşah Hirod da olanları eşitdi, çünki İsanın adı tanınırdı. Adamlar deyirdilər: «Vəftiz edən Yəhya ölülər arasından dirilib. Buna görə də O, möcüzələr yaradır».</verse>
+        <verse osisID='Mark.6.15'>Digərləri isə deyirdilər: «Bu, İlyasdır». Bəziləri də deyirdi: «Keçmişdəki peyğəmbərlərdən birinə oxşar peyğəmbərdir».</verse>
+        <verse osisID='Mark.6.16'>Amma Hirod bunu eşidəndə dedi: «Bu, boynunu vurdurduğum Yəhyadır, dirilib!» </verse>
+        <verse osisID='Mark.6.17'>Hirod qardaşı Filipin arvadı Hirodiyaya görə Yəhyanı tutduraraq qollarını qandalladıb zindana saldırmışdı. Çünki Hirod Hirodiyanı özünə arvad olaraq almışdı</verse>
+        <verse osisID='Mark.6.18'>və Yəhya Hiroda demişdi: «Qardaşının arvadını almaq sənə qadağandır».</verse>
+        <verse osisID='Mark.6.19'>Hirodiya Yəhyaya qarşı kin saxlayıb onu öldürmək niyyətinə düşmüşdü, amma bunu edə bilmirdi.</verse>
+        <verse osisID='Mark.6.20'>Çünki Hirod Yəhyanın saleh və müqəddəs bir adam olduğunu bildiyinə görə ondan qorxub onu qoruyurdu. Hirod ona qulaq asanda çaşqınlığa düşdü, buna baxmayaraq, onu həvəslə dinləyirdi. </verse>
+        <verse osisID='Mark.6.21'>Bir gün Hirodiyanın əlinə yaxşı bir fürsət düşdü. Hirod ad günündə əyanlarına, minbaşılara və Qalileyanın nüfuzlu şəxslərinə ziyafət verdi.</verse>
+        <verse osisID='Mark.6.22'>Ziyafət zamanı Hirodiyanın qızı içəri daxil olub rəqs etdi. Bu, Hirodun və qonaqlarının xoşuna gəldi. Padşah qıza dedi: «Ürəyin istəyəni məndən dilə, mən də sənə verim».</verse>
+        <verse osisID='Mark.6.23'>Sonra möhkəm and içərək yenə dedi: «Məndən hər nə istəsən, hətta padşahlığımın yarısını belə, istəsən, sənə verəcəyəm».</verse>
+        <verse osisID='Mark.6.24'>Qız isə çıxıb anasından soruşdu: «Mən nə istəməliyəm?» O cavab verdi: «Vəftiz edən Yəhyanın başını».</verse>
+        <verse osisID='Mark.6.25'>Qız o saat padşahın yanına qaçdı və öz istəyini dedi: «İstəyirəm ki, Vəftizçi Yəhyanın başını dərhal bir sini içində mənə verəsən».</verse>
+        <verse osisID='Mark.6.26'>Padşahı dərin kədər bürüdü, amma içdiyi andlara və qonaqlara görə qızın sözünü yerə salmaq istəmədi.</verse>
+        <verse osisID='Mark.6.27'>Padşah dərhal bir cəllad göndərib Yəhyanın başını gətirməyi əmr etdi. Cəllad gedib zindanda Yəhyanın boynunu vurdu</verse>
+        <verse osisID='Mark.6.28'>və onun başını bir sini içində gətirib qıza verdi. Qız da onu anasına verdi.</verse>
+        <verse osisID='Mark.6.29'>Yəhyanın şagirdləri isə bunu eşidəndə gəlib onun cəsədini götürdülər və qəbirə qoydular. </verse>
+        <verse osisID='Mark.6.30'>Həvarilər İsanın yanına yığıldı və gördükləri işlər, öyrətdikləri təlim haqqında Ona nəql etdilər.</verse>
+        <verse osisID='Mark.6.31'>İsa onlara dedi: «Gəlin kimsəsiz yerdə bir az dincəlin». Çünki gəlib-gedən çox olduğundan yemək yeməyə belə, vaxt tapmırdılar. </verse>
+        <verse osisID='Mark.6.32'>Onlar da ayrılıb qayığa minərək hər biri təkbaşına kimsəsiz bir yerə getdilər.</verse>
+        <verse osisID='Mark.6.33'>Gedərkən camaat onları gördü və çoxu tanıdı; bütün şəhərlərdən axışıb piyada getdilər, onlardan qabaq oraya çatdılar.</verse>
+        <verse osisID='Mark.6.34'>İsa sahilə düşəndə böyük bir izdiham gördü və onlara rəhmi gəldi. Çünki onlar çobansız qoyunlara bənzəyirdi. İsa onlara çox şeylər haqqında təlim öyrətməyə başladı. </verse>
+        <verse osisID='Mark.6.35'>Vaxt keçirdi. Şagirdləri gəlib İsaya dedilər: «Bura çöllükdür, artıq gecdir.</verse>
+        <verse osisID='Mark.6.36'>Camaatı burax, qoy gedib ətrafdakı kənd və obalardan özlərinə bir şey alıb yesinlər».</verse>
+        <verse osisID='Mark.6.37'>Amma İsa onlara cavab verdi: «Onlara yeməyi siz verin». Şagirdlər İsaya dedilər: «Bəlkə gedib iki yüz dinarlıq çörək alaq və onlara verək ki, yesinlər?»</verse>
+        <verse osisID='Mark.6.38'>Amma İsa onlara dedi: «Gedin baxın, neçə çörəyiniz var?» Onlar da baxıb dedilər: «Beş çörəyimiz və iki balığımız var».</verse>
+        <verse osisID='Mark.6.39'>İsa onlara əmr etdi ki, camaatı dəstə-dəstə göy otların üstündə oturtsunlar.</verse>
+        <verse osisID='Mark.6.40'>Camaat yüz-yüz, əlli-əlli dəstə şəklində oturdu.</verse>
+        <verse osisID='Mark.6.41'>İsa beş çörəyi və iki balığı götürüb göyə baxaraq şükür duası etdi. Sonra çörəyi bölüb şagirdlərinə verdi ki, camaata paylasınlar. İki balığı da hamıya bölüşdürdü.</verse>
+        <verse osisID='Mark.6.42'>Hamı yeyib-doydu.</verse>
+        <verse osisID='Mark.6.43'>Artıq qalan çörək və balıq hissələrini yığdılar, on iki zənbil doldu.</verse>
+        <verse osisID='Mark.6.44'>Çörəkləri yeyən kişilərin sayı beş min nəfər idi. </verse>
+        <verse osisID='Mark.6.45'>Bundan dərhal sonra İsa camaatı evlərinə göndərərkən şagirdlərini də məcbur etdi ki, qayığa minib Özündən əvvəl o biri sahilə – Bet-Saydaya keçsinlər.</verse>
+        <verse osisID='Mark.6.46'>İsa camaatı yola salandan sonra dua etmək üçün dağa çıxdı.</verse>
+        <verse osisID='Mark.6.47'>Axşam olanda qayıq gölün ortasında idi. Amma İsa quruda tək dayanmışdı.</verse>
+        <verse osisID='Mark.6.48'>O gördü ki, şagirdləri güclə avar çəkir, çünki külək onlara qarşı əsirdi. Gecənin dördüncü növbəsi İsa gölün üstü ilə yeriyərək onların yanına gəldi və onları keçmək istədi.</verse>
+        <verse osisID='Mark.6.49'>Şagirdlərsə İsanın gölün üstü ilə yeridiyini görəndə Onu bir kabus bilib qışqırdılar.</verse>
+        <verse osisID='Mark.6.50'>Çünki hamı Onu görüb lərzəyə düşmüşdü. Lakin bu anda İsa onlara müraciət edib dedi: «Cəsarətli olun, Mənəm, qorxmayın!»</verse>
+        <verse osisID='Mark.6.51'>Qayığa minib onlara qoşuldu. Külək də sakitləşdi. Hamı tamamilə mat qaldı.</verse>
+        <verse osisID='Mark.6.52'>Çünki inadkar ürəkli olduqlarına görə çörəklə bağlı işi hələ də başa düşməmişdilər. </verse>
+        <verse osisID='Mark.6.53'>İsa və şagirdlər gölü keçib Ginesar sahilinə çatdılar və qayığı bağladılar.</verse>
+        <verse osisID='Mark.6.54'>Onlar qayıqdan düşən kimi camaat İsanı tanıdı</verse>
+        <verse osisID='Mark.6.55'>və qaçıb ətraf yerləri gəzib-dolaşdılar. İsanın harada olduğunu eşidəndə xəstələri yataqlar üstündə oraya gətirməyə başladılar.</verse>
+        <verse osisID='Mark.6.56'>İsanın getdiyi hər yerdə – kəndlərdə, şəhərlərdə, obalarda xəstələri gətirib meydanlara qoyurdular. Xəstələr heç olmasa İsanın paltarının ətəyinə toxunmaq üçün yalvarırdılar. Ona toxunanların hamısı sağalırdı.  </verse>
+      </chapter>
+      <chapter osisID='Mark.7'>
+        <verse osisID='Mark.7.1'>
+          Fariseylər və Yerusəlimdən gələn bəzi ilahiyyatçılar İsanın yanına yığıldı.</verse>
+        <verse osisID='Mark.7.2'>Onlar gördülər ki, İsanın şagirdlərindən bəzisi murdar əllərlə, yəni əllərini yumamış çörək yeyir.</verse>
+        <verse osisID='Mark.7.3'>Fariseylər və bütün Yəhudilər ağsaqqallardan qalan adət-ənənəyə əməl edərək əllərini yaxşı-yaxşı yumadan yemək yeməzlər.</verse>
+        <verse osisID='Mark.7.4'>Onlar bazardan gələndə yuyunmadan heç nə yeməzlər. Həmçinin bir sıra başqa adət-ənənələrə də əməl edərlər. Belə ki onlar kasaları, dolçaları, tunc qazanları və yataqları yuyub paklayarlar.</verse>
+        <verse osisID='Mark.7.5'>Fariseylər və ilahiyyatçılar İsadan soruşdular: «Nə üçün şagirdlərin ağsaqqallardan qalan adət-ənənəyə görə yaşamayaraq murdar əllərlə çörək yeyirlər?»</verse>
+        <verse osisID='Mark.7.6'>İsa onlara dedi: «Yeşaya peyğəmbər siz ikiüzlülər üçün nə yaxşı söyləyib! Yazıldığı kimi:  “Bu xalq dodaqları ilə Mənə hörmət edir,Amma qəlbləri Məndən uzaqdır.</verse>
+        <verse osisID='Mark.7.7'>Boş yerə Mənə səcdə edirlər,İnsan əmrlərindən çıxardıqları təlimləri öyrədirlər”.</verse>
+        <verse osisID='Mark.7.8'>Siz Allahın əmrini atıb insan adət-ənənəsini tutursunuz».</verse>
+        <verse osisID='Mark.7.9'>Sonra İsa onlara dedi: «Öz adət-ənənənizi bərqərar etmək üçün Allahın əmrini kənara atmağı necə də yaxşı bacarırsınız!</verse>
+        <verse osisID='Mark.7.10'>Çünki Musa belə əmr etdi: “Ata-anana hörmət et” və “Atasını yaxud anasını söyən adam öldürülməlidir”.</verse>
+        <verse osisID='Mark.7.11'>Sizsə deyirsiniz: “Bir adam atasına yaxud anasına ‹məndən umduğun yardım qurban oldu›, yəni ‹Allaha həsr olundu› desə”,</verse>
+        <verse osisID='Mark.7.12'>onda həmin adama izin vermirsiniz ki, ata-anasına yardım etsin.</verse>
+        <verse osisID='Mark.7.13'>Bununla da siz nəsildən-nəslə ötürdüyünüz adət-ənənənizlə Allahın kəlamını heç edirsiniz. Axı buna bənzər çox işlər görürsünüz». </verse>
+        <verse osisID='Mark.7.14'>İsa yenə camaatı yanına çağırıb onlara dedi: «Hamınız Mənə qulaq asın və dərk edin.</verse>
+        <verse osisID='Mark.7.15'>Kənardan insanın daxilinə girən şey insanı murdar edə bilməz. Amma insanı murdar edən şeylər daxilindən çıxanlardır».</verse>
+        <verse osisID='Mark.7.16'/>
+        <verse osisID='Mark.7.17'>İsa camaatdan ayrılıb evə gələndə şagirdləri bu məsəl barəsində Ondan soruşdular.</verse>
+        <verse osisID='Mark.7.18'>İsa onlara cavab verdi: «Siz də hələ dərk etməmisiniz? Başa düşmürsünüz ki, kənardan insanın daxilinə girən şey insanı murdar edə bilməz?</verse>
+        <verse osisID='Mark.7.19'>Çünki daxil olan şeylər onun ürəyinə deyil, qarnına gedir və ifraz olunur». İsa bununla bütün yeməklərin təmiz olduğunu bəyan etdi.</verse>
+        <verse osisID='Mark.7.20'>O, sözünə davam etdi: «İnsanı murdar edən insandan çıxandır.</verse>
+        <verse osisID='Mark.7.21'>Çünki insanların daxilindən, ürəyindən pis fikirlər, cinsi əxlaqsızlıq, oğurluq, qatillik,</verse>
+        <verse osisID='Mark.7.22'>zinakarlıq, tamahkarlıq, şər əməllər, hiylə, pozğunluq, paxıllıq, küfr, lovğalıq və ağılsızlıq çıxar.</verse>
+        <verse osisID='Mark.7.23'>Bütün bu pis işlər insan daxilindən çıxıb onu murdar edir». </verse>
+        <verse osisID='Mark.7.24'>İsa oradan ayrılıb Sur bölgəsinə getdi. O bir evə girdi və istəmədi ki, harada olduğunu bilən olsun. Amma bunu gizlədə bilmədi.</verse>
+        <verse osisID='Mark.7.25'>Bir qadının azyaşlı qızı natəmiz ruha tutulmuşdu. Qadın İsa haqqında xəbər tutan kimi gəlib Onun ayaqlarına düşdü.</verse>
+        <verse osisID='Mark.7.26'>Bu qadın Suriya Finikiyasında doğulmuş bir Yunan idi. O, İsaya yalvardı ki, qızından cini çıxartsın.</verse>
+        <verse osisID='Mark.7.27'>İsa ona dedi: «Qoy əvvəl uşaqlar doysun, çünki uşaqların çörəyini götürüb itlərə atmaq düzgün olmaz».</verse>
+        <verse osisID='Mark.7.28'>Qadınsa Ona cavab verdi: «Ya Rəbb, axı itlər də uşaqların süfrə altına tökdüyü qırıntılardan yeyir».</verse>
+        <verse osisID='Mark.7.29'>İsa qadına dedi: «Get, sənin bu sözünə görə cin qızını tərk etdi».</verse>
+        <verse osisID='Mark.7.30'>Qadın evinə gələndə gördü ki, qızı yatağında uzanıb və cin ondan çıxıb. </verse>
+        <verse osisID='Mark.7.31'>İsa yenə Sur bölgəsindən çıxdı, Sidonu keçdi və Dekapolis bölgəsindən keçərək Qalileya gölünə çatdı.</verse>
+        <verse osisID='Mark.7.32'>Bir kar və pəltək adamı İsanın yanına gətirdilər və yalvardılar ki, əlini onun üzərinə qoysun.</verse>
+        <verse osisID='Mark.7.33'>İsa həmin adamı camaatdan ayırıb başqa bir yerə apardı və barmaqlarını bu adamın qulaqlarına qoydu, tüpürüb onun dilinə toxundu.</verse>
+        <verse osisID='Mark.7.34'>Göyə baxdı, ah çəkərək ona dedi: «Effata!», yəni «Açıl!»</verse>
+        <verse osisID='Mark.7.35'>O anda bu adamın həm qulaqları açıldı, həm də dilinin bağlılığı düşdü və o aydın danışmağa başladı.</verse>
+        <verse osisID='Mark.7.36'>İsa bunu görənlərə qadağan etdi ki, bu barədə heç kimə heç nə deməsinlər. Lakin nə qədər çox qadağan etsə də, o qədər çox xəbər yaydılar.</verse>
+        <verse osisID='Mark.7.37'>Hamı hədsiz təəccüblənərək dedi: «Hər işin öhdəsindən yaxşı gəlir: həm karların qulağını, həm də lalların dilini açır».  </verse>
+      </chapter>
+      <chapter osisID='Mark.8'>
+        <verse osisID='Mark.8.1'>
+          O günlər yenə böyük izdiham toplaşdı. Onların yeməkləri olmadığı üçün İsa şagirdləri yanına çağırıb dedi:</verse>
+        <verse osisID='Mark.8.2'>«Bu camaata yazığım gəlir, çünki üç gündür ki, yanımdadırlar və yeməyə heç nələri yoxdur.</verse>
+        <verse osisID='Mark.8.3'>Əgər onları evlərinə ac yola salsam, yolda taqətdən düşərlər. Onların bəzisi uzaqdan gəlib».</verse>
+        <verse osisID='Mark.8.4'>Şagirdləri Ona cavab verdilər: «Kimsə bu çöllükdə haradan çörək tapa bilər ki, bu qədər insanı doydursun?»</verse>
+        <verse osisID='Mark.8.5'>İsa onlardan soruşdu: «Neçə çörəyiniz var?» Onlar dedilər: «Yeddi».</verse>
+        <verse osisID='Mark.8.6'>Onda İsa camaata əmr etdi ki, yerə otursunlar. Yeddi çörəyi götürdü və şükür edərək bölüb paylamaq üçün şagirdlərinə verdi. Şagirdlər də camaata payladı.</verse>
+        <verse osisID='Mark.8.7'>Onların bir neçə kiçik balığı da var idi və İsa şükür duası edəndən sonra bunları da paylamağı əmr etdi.</verse>
+        <verse osisID='Mark.8.8'>Camaat yeyib-doydu. Artıq qalan hissələri yığdılar, yeddi səbət doldu.</verse>
+        <verse osisID='Mark.8.9'>Orada dörd minə yaxın adam var idi. İsa onları yola saldı.</verse>
+        <verse osisID='Mark.8.10'>O, şagirdləri ilə birlikdə dərhal qayığa minib Dalmanuta bölgəsinə getdi. </verse>
+        <verse osisID='Mark.8.11'>Fariseylər İsanın yanına gəlib Onunla mübahisə etməyə başladılar. Onu sınamaq üçün istədilər ki, göydən gələn bir əlamət göstərsin.</verse>
+        <verse osisID='Mark.8.12'>O, ürəyində dərin bir ah çəkib dedi: «Niyə bu nəsil əlamət axtarır? Sizə doğrusunu deyirəm: bu nəslə heç bir əlamət verilməyəcək».</verse>
+        <verse osisID='Mark.8.13'>Sonra onları tərk edib yenə qayığa mindi və o biri sahilə tərəf üzdü. </verse>
+        <verse osisID='Mark.8.14'>Şagirdləri çörək götürməyi yaddan çıxarmışdılar. Qayıqda onların yalnız bir dənə çörəyi var idi.</verse>
+        <verse osisID='Mark.8.15'>İsa onlara xəbərdarlıq edərək dedi: «Ehtiyatlı olun, fariseylərin mayasından və Hirodun mayasından özünüzü gözləyin».</verse>
+        <verse osisID='Mark.8.16'>Şagirdlər isə öz aralarında danışıb deyirdilər: «Bunu çörəyimiz olmadığı üçün deyir».</verse>
+        <verse osisID='Mark.8.17'>İsa bunu bilərək onlara dedi: «Nə üçün çörəyinizin yoxluğundan danışırsınız? Hələ dərk etmirsinizmi, başa düşmürsünüzmü? Niyə ürəyiniz inadkardır?</verse>
+        <verse osisID='Mark.8.18'>Gözləriniz ola-ola görmürsünüzmü? Qulaqlarınız ola-ola eşitmirsinizmi? Məgər yadınızdan çıxıb?</verse>
+        <verse osisID='Mark.8.19'>Mən beş çörəyi beş min nəfərin arasında bölüb paylayanda yemək tikələrindən neçə zənbil doldurdunuz?» Onlar dedilər: «On iki».</verse>
+        <verse osisID='Mark.8.20'>«Yeddi çörəyi dörd min nəfərin arasında bölüb paylayanda çörək tikələrindən neçə səbət doldurdunuz?» Onlar dedilər: «Yeddi».</verse>
+        <verse osisID='Mark.8.21'>İsa onlara dedi: «Hələ başa düşməmisinizmi?» </verse>
+        <verse osisID='Mark.8.22'>Onlar Bet-Saydaya gəldilər. Bəzi adamlar İsanın yanına bir kor adam gətirdilər və İsa bu adama toxunsun deyə Ona yalvardılar.</verse>
+        <verse osisID='Mark.8.23'>İsa korun əlindən tutub kənddən kənara apardı. Sonra onun gözlərinə tüpürüb əllərini onun üzərinə qoydu və soruşdu: «Bir şey görürsənmi?»</verse>
+        <verse osisID='Mark.8.24'>Kor yuxarı baxıb dedi: «Adamlar görürəm, ağaclara oxşayır, amma yeriyirlər».</verse>
+        <verse osisID='Mark.8.25'>Onda İsa əllərini yenidən bu adamın gözlərinin üstünə qoydu. Kor adam gözlərini açıb baxdı. O şəfa tapdı və hər şeyi aydın görməyə başladı.</verse>
+        <verse osisID='Mark.8.26'>İsa onu evinə göndərdi və dedi: «Kəndə belə, girmə». </verse>
+        <verse osisID='Mark.8.27'>İsa şagirdləri ilə birgə Filip Qeysəriyyəsinin kəndlərinə tərəf yollandı. Yolda şagirdlərindən soruşdu: «Adamların dediyinə görə Mən kiməm?»</verse>
+        <verse osisID='Mark.8.28'>Şagirdləri Ona belə cavab verdilər: «Bəziləri Vəftizçi Yəhya, başqaları İlyas, digərləri isə deyirlər ki, peyğəmbərlərdən birisən».</verse>
+        <verse osisID='Mark.8.29'>İsa onlardan soruşdu: «Bəs siz nə deyirsiniz? Sizcə Mən kiməm?» Peter Ona cavab verdi: «Sən Məsihsən».</verse>
+        <verse osisID='Mark.8.30'>İsa şagirdlərinə qadağan etdi ki, Onun haqqında heç kəsə danışmasınlar. </verse>
+        <verse osisID='Mark.8.31'>İsa onlara təlim öyrətməyə başladı: «Bəşər Oğlu çox əzab çəkməli, ağsaqqallar, başçı kahinlər və ilahiyyatçılar tərəfindən rədd edilməli, öldürülməli və üç gündən sonra dirilməlidir».</verse>
+        <verse osisID='Mark.8.32'>İsa bu sözləri aydın deyirdi. Peter isə Onu bir kənara çəkib etiraz etməyə başladı.</verse>
+        <verse osisID='Mark.8.33'>Amma İsa dönüb şagirdlərinə baxdı və Peterə etiraz etdi: «Çəkil qarşımdan, Şeytan! Sən Allahın işləri haqqında deyil, insan əməlləri barəsində fikirləşirsən». </verse>
+        <verse osisID='Mark.8.34'>İsa şagirdləri ilə birgə camaatı da yanına çağırıb belə dedi: «Əgər bir kəs Mənim ardımca gəlmək istəyirsə, özündən imtina etsin və çarmıxını götürüb ardımca gəlsin.</verse>
+        <verse osisID='Mark.8.35'>Kim canını xilas etmək istəyirsə, onu itirəcək, amma kim Mənimlə Müjdə uğrunda canını itirirsə, onu xilas edəcək.</verse>
+        <verse osisID='Mark.8.36'>İnsana bütün dünyanı qazanıb canını itirməyinin nə xeyri var?</verse>
+        <verse osisID='Mark.8.37'>İnsan öz canının əvəzinə nə verə bilər?</verse>
+        <verse osisID='Mark.8.38'>Bu vəfasız və günahkar nəsil arasında kim Məndən və Mənim sözlərimdən utanarsa, Bəşər Oğlu da Atasının izzəti içində müqəddəs mələklərlə birgə gələndə o adamdan utanacaq».  </verse>
+      </chapter>
+      <chapter osisID='Mark.9'>
+        <verse osisID='Mark.9.1'>İsa onlara dedi: «Sizə doğrusunu deyirəm: burada duranlardan bəzisi Allahın Padşahlığının qüdrətli gəlişini görmədən ölməyəcək». </verse>
+        <verse osisID='Mark.9.2'>Altı gündən sonra İsa Özü ilə yalnız Peter, Yaqub və Yəhyanı götürüb hündür bir dağa çıxdı. Onların qarşısında görünüşü dəyişdi.</verse>
+        <verse osisID='Mark.9.3'>Onun libası göz qamaşdırıcı ağ rəng aldı. Yer üzündə heç bir paltar təmizləyən onu belə ağ edə bilməzdi.</verse>
+        <verse osisID='Mark.9.4'>O an İlyas və Musa onlara göründü. Onlar İsa ilə söhbət edirdi.</verse>
+        <verse osisID='Mark.9.5'>Peter sözə başlayıb İsaya dedi: «Rabbi! Nə yaxşı ki biz buradayıq. Gəl üç çardaq quraq, biri Sənin, biri Musa, biri də İlyas üçün».</verse>
+        <verse osisID='Mark.9.6'>O bilmirdi ki, nə desin, çünki onları dəhşət bürümüşdü.</verse>
+        <verse osisID='Mark.9.7'>Bu zaman bir bulud onların üzərinə kölgə saldı. Buluddan bir səs gəldi: «Bu Mənim sevimli Oğlumdur, Ona qulaq asın!»</verse>
+        <verse osisID='Mark.9.8'>Birdən ətrafa baxanda artıq yanlarında İsadan başqa kimsəni görmədilər. </verse>
+        <verse osisID='Mark.9.9'>Dağdan enərkən İsa şagirdlərinə qadağan etdi ki, Bəşər Oğlu ölülər arasından dirilənə qədər orada gördüklərini heç kimə deməsinlər.</verse>
+        <verse osisID='Mark.9.10'>Onlar da bu sözü ürəklərində saxladılar, amma bir-birlərindən soruşdular ki, ölülər arasından dirilmək nə deməkdir.</verse>
+        <verse osisID='Mark.9.11'>Ondan soruşdular: «Elə isə niyə ilahiyyatçılar deyirlər ki, əvvəlcə İlyas gəlməlidir?»</verse>
+        <verse osisID='Mark.9.12'>İsa onlara belə dedi: «Düzdür, əvvəlcə İlyas gəlib hər şeyi yoluna qoymalıdır. Bəs Bəşər Oğlu barəsində nə üçün yazılıb ki, O, çox əzab çəkib alçaldılmalıdır?</verse>
+        <verse osisID='Mark.9.13'>Lakin sizə deyirəm: artıq İlyas gəldi və haqqında yazıldığı kimi, nə istədilərsə, onun başına gətirdilər». </verse>
+        <verse osisID='Mark.9.14'>Onlar şagirdlərin yanına gələndə böyük bir izdihamın toplaşdığını və bir neçə ilahiyyatçının şagirdlərlə mübahisə etdiyini gördülər.</verse>
+        <verse osisID='Mark.9.15'>İsanı görən kimi bütün izdihamı heyrət bürüdü və qarşısına qaçıb Onu salamladılar.</verse>
+        <verse osisID='Mark.9.16'>İsa adamlardan soruşdu: «Onlarla nə barədə mübahisə edirsiniz?»</verse>
+        <verse osisID='Mark.9.17'>Camaat arasından biri Ona cavab verdi: «Müəllim! Mən Sənin yanına lallıq ruhuna tutulmuş oğlumu gətirmişəm.</verse>
+        <verse osisID='Mark.9.18'>Ruh onu harada tutursa, yerə çırpır, uşağın ağzı köpüklənir, dişlərini qıcıdır və qıc olur. Şagirdlərindən xahiş etdim ki, bu ruhu qovsunlar, amma bacarmadılar».</verse>
+        <verse osisID='Mark.9.19'>İsa da cavabında onlara dedi: «Ey imansız nəsil! Nə vaxta qədər sizinlə qalacağam? Nə vaxta qədər sizə dözəcəyəm? Uşağı yanıma gətirin!»</verse>
+        <verse osisID='Mark.9.20'>Uşağı Onun yanına gətirdilər və İsanı görən kimi ruh dərhal uşağı sarsıtdı. Uşaq yerə yıxılıb yuvarlanırdı və ağzından köpük daşırdı.</verse>
+        <verse osisID='Mark.9.21'>İsa onun atasından soruşdu: «Bu uşaq nə vaxtdan belə hala düşüb?» Uşağın atası dedi: «Körpəlikdən bəri.</verse>
+        <verse osisID='Mark.9.22'>Bu ruh onu həlak etmək üçün dəfələrlə oda və suya atıb. Amma bacarırsansa, bizə kömək et, bizə rəhmin gəlsin!»</verse>
+        <verse osisID='Mark.9.23'>İsa ona dedi: «“Bacarırsansa” nə sözdür? İman edən üçün hər şey mümkündür!»</verse>
+        <verse osisID='Mark.9.24'>Uşağın atası dərhal fəryad qopararaq dedi: «İman edirəm, kömək et ki, imansızlığım yox olsun!»</verse>
+        <verse osisID='Mark.9.25'>İsa camaatın qaçıb gəldiyini görəndə natəmiz ruha qadağan edib dedi: «Ey lallıq və karlıq ruhu, Mən sənə əmr edirəm, bu uşağın içindən çıx və bir daha ora girmə!»</verse>
+        <verse osisID='Mark.9.26'>Ruh çığırıb uşağı sarsıdaraq çıxdı. Uşaq ölü kimi düşdü və çoxları dedi: «O öldü!»</verse>
+        <verse osisID='Mark.9.27'>Lakin İsa uşağın əlindən tutub qaldırdı və o, ayağa qalxdı. </verse>
+        <verse osisID='Mark.9.28'>İsa evə girəndən sonra şagirdləri təklikdə Ondan soruşdular: «Bəs nə üçün biz o ruhu qova bilmədik?»</verse>
+        <verse osisID='Mark.9.29'>İsa onlara cavab verdi: «Bu cür ruhlar yalnız dua ilə çıxa bilər». </verse>
+        <verse osisID='Mark.9.30'>Onlar oranı tərk edib Qalileyadan keçirdilər. İsa istəmirdi ki, kimsə bundan xəbər tutsun.</verse>
+        <verse osisID='Mark.9.31'>Çünki şagirdlərinə təlim öyrədirdi. Onlara belə deyirdi: «Bəşər Oğlu insan əllərinə təslim ediləcək və Onu öldürəcəklər. Öldürüldükdən üç gün sonra O diriləcək».</verse>
+        <verse osisID='Mark.9.32'>Lakin şagirdlər bu sözü başa düşmədilər və Ondan soruşmaqdan da qorxurdular. </verse>
+        <verse osisID='Mark.9.33'>Onlar Kefernahuma gəldilər. İsa evdə olanda şagirdlərdən soruşdu: «Yol boyu nə barədə mübahisə edirdiniz?»</verse>
+        <verse osisID='Mark.9.34'>Heç kim dillənmədi, çünki yol boyu öz aralarında kimin ən böyük olması barədə mübahisə etmişdilər.</verse>
+        <verse osisID='Mark.9.35'>İsa oturub On İki şagirdi yanına çağıraraq dedi: «Əgər bir kəs birinci olmaq istəyirsə, hamıdan axırıncı və hamının xidmətçisi olsun».</verse>
+        <verse osisID='Mark.9.36'>O, balaca bir uşağı götürüb şagirdlərin arasına qoydu və sonra uşağı qucağına alıb onlara dedi:</verse>
+        <verse osisID='Mark.9.37'>«Kim Mənim adımla belə uşaqlardan birini qəbul edərsə, Məni qəbul edər. Kim Məni qəbul edərsə, Məni yox, Məni Göndərəni qəbul edər». </verse>
+        <verse osisID='Mark.9.38'>Yəhya Ona dedi: «Müəllim, biz Sənin adınla cinləri qovan bir nəfəri gördük, amma bizim ardımızca gəlmədiyinə görə ona mane olduq».</verse>
+        <verse osisID='Mark.9.39'>İsa onlara dedi: «Ona mane olmayın! Elə bir adam yoxdur ki, Mənim adımla möcüzə göstərsin və sonra Məni pisləsin.</verse>
+        <verse osisID='Mark.9.40'>Çünki əleyhimizə olmayan bizim tərəfimizdədir.</verse>
+        <verse osisID='Mark.9.41'>Məsihə məxsus olduğunuz üçün kim sizə bir kasa su içirdərsə, sizə doğrusunu deyirəm: mükafatsız qalmayacaq. </verse>
+        <verse osisID='Mark.9.42'>Kim Mənə iman edən bu kiçiklərdən birini pis yola çəkərsə, öz boynuna böyük bir dəyirman daşı asıb dənizə atılmaq onun üçün daha yaxşı olar.</verse>
+        <verse osisID='Mark.9.43'>Əgər əlin səni pis yola çəkərsə, onu kəs. Sənin əbədi həyata şikəst olaraq daxil olmağın iki əllə cəhənnəmə, sönməz oda düşməyindən yaxşıdır.</verse>
+        <verse osisID='Mark.9.45'>Əgər ayağın səni pis yola çəkərsə, onu kəs. Sənin əbədi həyata topal olaraq daxil olmağın iki ayaqla cəhənnəmə atılmağından yaxşıdır.</verse>
+        <verse osisID='Mark.9.47'>Əgər gözün səni pis yola çəkərsə, onu çıxart. Sənin tək gözlə Allahın Padşahlığına daxil olmağın iki gözlə cəhənnəmə atılmağından yaxşıdır.</verse>
+        <verse osisID='Mark.9.48'>Oradakıları gəmirən qurd ölmür və oranın yanar odu sönmür.</verse>
+        <verse osisID='Mark.9.49'>Çünki hamı odla duzlanacaq.</verse>
+        <verse osisID='Mark.9.50'>Duz yaxşı şeydir, amma əgər duz dadsız olarsa, ona nə ilə dad vermək olar? Qoy sizdə duz və aranızda da sülh olsun».  </verse>
+      </chapter>
+      <chapter osisID='Mark.10'>
+        <verse osisID='Mark.10.1'/>
+        <verse osisID='Mark.10.2'>Bəzi fariseylər İsanın yanına gəlib Onu sınamaq üçün belə bir sual verdilər: «Kişinin öz arvadını boşamağa icazəsi varmı?»</verse>
+        <verse osisID='Mark.10.3'>İsa onlara cavab verdi: «Musa sizə nə əmr etdi?»</verse>
+        <verse osisID='Mark.10.4'>Onlar dedi: «Musa kişiyə talaq kağızını yazıb arvadını boşamağa icazə verdi».</verse>
+        <verse osisID='Mark.10.5'>İsa da onlara belə dedi: «O bu əmri ürəyiniz inadkar olduğuna görə yazdı.</verse>
+        <verse osisID='Mark.10.6'>Allah yaradılışın başlanğıcından “onları kişi və qadın olaraq yaratdı”.</verse>
+        <verse osisID='Mark.10.7'>“Buna görə də kişi ata-anasını tərk edib arvadına qovuşacaq</verse>
+        <verse osisID='Mark.10.8'>və ikisi bir bədən olacaq”. Artıq onlar iki deyil, bir bədəndir.</verse>
+        <verse osisID='Mark.10.9'>Buna görə də qoy Allahın birləşdirdiyini insan ayırmasın». </verse>
+        <verse osisID='Mark.10.10'>Onlar evdə olarkən şagirdlər İsaya bu barədə yenə sual verdilər.</verse>
+        <verse osisID='Mark.10.11'>İsa onlara belə cavab verdi: «Arvadını boşayıb başqası ilə evlənən kəs arvadına münasibətdə zina edir.</verse>
+        <verse osisID='Mark.10.12'>Ərindən boşanıb başqasına gedən qadın da zina edir». </verse>
+        <verse osisID='Mark.10.13'>Adamlar uşaqları İsanın yanına gətirirdilər ki, İsa onlara toxunsun. Şagirdlərsə onlara qadağan etdilər.</verse>
+        <verse osisID='Mark.10.14'>Bunu görən İsa acıqlanaraq onlara dedi: «Uşaqları buraxın, qoy Mənim yanıma gəlsinlər! Onlara mane olmayın! Çünki Allahın Padşahlığı belələrinə məxsusdur.</verse>
+        <verse osisID='Mark.10.15'>Sizə doğrusunu deyirəm: kim Allahın Padşahlığını bir uşaq kimi qəbul etməsə, oraya əsla daxil ola bilməz».</verse>
+        <verse osisID='Mark.10.16'>Sonra uşaqları qucaqlayıb əllərini onların üzərinə qoydu və xeyir-dua verdi. </verse>
+        <verse osisID='Mark.10.17'>İsa yola çıxarkən bir nəfər qaça-qaça Onun yanına gəldi. Onun qarşısında diz çökərək soruşdu: «Ey yaxşı Müəllim, mən nə etməliyəm ki, əbədi həyatı irs olaraq alım?»</verse>
+        <verse osisID='Mark.10.18'>İsa ona dedi: «Mənə niyə yaxşı deyirsən? Tək Allahdan başqa yaxşısı yoxdur.</verse>
+        <verse osisID='Mark.10.19'>Onun əmrlərini bilirsən: “Qətl etmə. Zina etmə. Oğurluq etmə. Yalandan şahidlik etmə. Kimisə aldatma. Ata-anana hörmət et”».</verse>
+        <verse osisID='Mark.10.20'>Bu adamsa İsaya dedi: «Müəllim, bunların hamısına gəncliyimdən bəri riayət edirəm».</verse>
+        <verse osisID='Mark.10.21'>İsa ona məhəbbətlə baxaraq dedi: «Sənin bir şeyin çatışmır: get nəyin varsa, satıb yoxsullara payla. Onda göydə xəzinən olacaq. Sonra qayıt, Mənim ardımca gəl».</verse>
+        <verse osisID='Mark.10.22'>Bunu eşidən adam pərt oldu. Kədərlənib getdi, çünki var-dövləti çox idi. </verse>
+        <verse osisID='Mark.10.23'>İsa ətrafındakılara baxdı və şagirdlərinə dedi: «Var-dövləti olanların Allahın Padşahlığına daxil olması nə qədər çətindir!»</verse>
+        <verse osisID='Mark.10.24'>Onun sözlərindən şagirdləri heyrət bürüdü. Amma İsa yenə onlara cavab verib dedi: «Övladlarım, Allahın Padşahlığına daxil olmaq nə qədər çətindir!</verse>
+        <verse osisID='Mark.10.25'>Dəvənin iynə gözündən keçməsi varlı adamın Allahın Padşahlığına daxil olmasından asandır».</verse>
+        <verse osisID='Mark.10.26'>Onlar daha da təəccüblənərək bir-birlərinə dedilər: «Elə isə, kim xilas ola bilər?»</verse>
+        <verse osisID='Mark.10.27'>İsa onlara baxıb dedi: «Bu, insanlar üçün qeyri-mümkündür, amma Allah üçün yox. Çünki Allah üçün hər şey mümkündür». </verse>
+        <verse osisID='Mark.10.28'>Peter Ona belə deməyə başladı: «Bax biz hər şeyi qoyub Sənin ardınca gəlmişik».</verse>
+        <verse osisID='Mark.10.29'>İsa cavab verdi: «Sizə doğrusunu deyirəm: Mənimlə Müjdə uğrunda ya evini ya qardaşlarını ya bacılarını ya anasını ya atasını ya uşaqlarını və yaxud tarlalarını atan elə bir kəs yoxdur ki,</verse>
+        <verse osisID='Mark.10.30'>indi bu dövrdə çəkdiyi əzab-əziyyətlə birgə bundan yüz qat artıq evlər, qardaşlar, bacılar, analar, uşaqlar, tarlalar, gələcək dövrdə isə əbədi həyat almasın.</verse>
+        <verse osisID='Mark.10.31'>Amma birinci olanların çoxu axırıncı, axırıncı olanlarsa birinci olacaq». </verse>
+        <verse osisID='Mark.10.32'>Onlar yola çıxıb Yerusəlimə gedirdilər. İsa onların qabağında gedirdi. Şagirdləri isə heyrət bürümüşdü, Onun ardınca gələnlər qorxu içində idi. İsa On İki şagirdi yenə bir tərəfə çəkib başına gələcək hadisələr barədə danışmağa başladı:</verse>
+        <verse osisID='Mark.10.33'>«Bax Yerusəlimə qalxırıq, Bəşər Oğlu başçı kahinlərə və ilahiyyatçılara təslim olunacaq. Onu ölümə məhkum edib başqa millətlərə təslim edəcəklər.</verse>
+        <verse osisID='Mark.10.34'>Onlar Bəşər Oğlunu ələ salacaq, Ona tüpürəcək və qamçılayıb öldürəcəklər. O, üç gündən sonra diriləcək». </verse>
+        <verse osisID='Mark.10.35'>Zavdayın oğulları Yaqub və Yəhya Ona yaxınlaşıb dedilər: «Müəllim, istəyirik ki, dilədiyimizi bizim üçün edəsən».</verse>
+        <verse osisID='Mark.10.36'>İsa onlardan soruşdu: «Nə istəyirsiniz, sizin üçün edim?»</verse>
+        <verse osisID='Mark.10.37'>Onlar İsaya dedilər: «Sən izzətlənəndə qoy birimiz sağında, o birimiz solunda otursun».</verse>
+        <verse osisID='Mark.10.38'>Amma İsa onlara dedi: «Nə dilədiyinizi özünüz də bilmirsiniz. Mənim içdiyim kasadan siz də içə bilərsinizmi? Mənim vəftiz olduğum kimi siz də vəftiz ola bilərsinizmi?»</verse>
+        <verse osisID='Mark.10.39'>Onlar dedilər: «Bilərik». İsa onlara dedi: «Mənim içdiyim kasadan siz də içəcəksiniz, Mənim vəftiz olduğum kimi siz də vəftiz olacaqsınız.</verse>
+        <verse osisID='Mark.10.40'>Amma sağımda və yaxud solumda oturmağa izin vermək Məndən asılı deyil. Ora kimlər üçün hazırlanıbsa, onlara veriləcək». </verse>
+        <verse osisID='Mark.10.41'>Bunu eşidən on şagirdin Yaqubla Yəhyaya acığı tutmağa başladı.</verse>
+        <verse osisID='Mark.10.42'>Onda İsa şagirdləri yanına çağırıb dedi: «Bilirsiniz ki, millətlərin rəhbəri sayılanlar onların üzərində hökmranlıq, əyanları da onlara ağalıq edir.</verse>
+        <verse osisID='Mark.10.43'>Sizin aranızda isə qoy belə olmasın. Sizlərdən böyük olmaq istəyən xidmətçiniz olsun.</verse>
+        <verse osisID='Mark.10.44'>Aranızda birinci olmaq istəyən hamının qulu olsun.</verse>
+        <verse osisID='Mark.10.45'>Çünki Bəşər Oğlu gəlmədi ki, Ona xidmət etsinlər, gəldi ki, Özü xidmət etsin və çoxlarını satın almaq üçün Öz canını fidyə versin». </verse>
+        <verse osisID='Mark.10.46'>Sonra onlar Yerixoya gəldilər. İsa şagirdləri ilə birgə böyük izdihamla Yerixodan çıxanda Timay oğlu Bartimay adlı bir kor dilənçi yol kənarında oturmuşdu.</verse>
+        <verse osisID='Mark.10.47'>Nazaretli İsanın orada olduğunu eşitdikdə «Ey Davud Oğlu İsa! Mənə rəhm elə!» deyə bağırmağa başladı.</verse>
+        <verse osisID='Mark.10.48'>Çox adamsa ona qadağan edib susdurmaq istədisə də, o «Ey Davud Oğlu! Mənə rəhm elə!» deyə daha ucadan bağırdı.</verse>
+        <verse osisID='Mark.10.49'>İsa dayanıb dedi: «Onu çağırın». Onlar bu kor adamı çağıraraq dedilər: «Cəsarətli ol, qalx, O səni çağırır».</verse>
+        <verse osisID='Mark.10.50'>O, üst paltarını üstündən atdı və yerindən sıçrayaraq İsanın yanına gəldi.</verse>
+        <verse osisID='Mark.10.51'>İsa ondan soruşdu: «Nə istəyirsən, sənin üçün edim?» Kor adam Ona dedi: «Rabbuni, gözlərim açılsın».</verse>
+        <verse osisID='Mark.10.52'>İsa ona dedi: «Get, imanın səni xilas etdi». Həmin an bu adamın gözləri açıldı və o da İsanın ardınca getdi.  </verse>
+      </chapter>
+      <chapter osisID='Mark.11'>
+        <verse osisID='Mark.11.1'>
+          Onlar Yerusəlimə yaxınlaşarkən Zeytun dağının yamacındakı Bet-Faqe ilə Bet-Anyaya gəldikləri zaman İsa şagirdlərindən ikisini göndərərək</verse>
+        <verse osisID='Mark.11.2'>onlara dedi: «Qarşınızdakı kəndə gedin. Oraya girən kimi hələ heç kəsin minmədiyi, bağlanmış bir sıpa tapacaqsınız. Onu açıb buraya gətirin.</verse>
+        <verse osisID='Mark.11.3'>Kim sizdən soruşsa: “Bunu nə üçün edirsiniz?”, ona “bu sıpa Rəbbə lazımdır, tezliklə yerinə qaytaracaq” deyin». </verse>
+        <verse osisID='Mark.11.4'>Onlar getdilər. Küçədə bir evin qapısının kənarına bağlanmış sıpa tapıb onu açdılar.</verse>
+        <verse osisID='Mark.11.5'>Orada duran bəzi adamlar onlardan soruşdu: «Nə edirsiniz? Bu sıpanı nə üçün açırsınız?»</verse>
+        <verse osisID='Mark.11.6'>Şagirdlər İsanın dediklərini onlara təkrarlayanda o adamlar şagirdlərə imkan verdilər.</verse>
+        <verse osisID='Mark.11.7'>Onlar sıpanı İsanın yanına gətirdilər və öz paltarlarını sıpanın üstünə sərdilər. İsa sıpanın belinə mindi.</verse>
+        <verse osisID='Mark.11.8'>Bir çoxu paltarlarını, bəzisi də ətrafdakı ağaclardan kəsdikləri budaqları yola döşədi.</verse>
+        <verse osisID='Mark.11.9'>İsanın önündə gedənlər və ardınca gələnlər belə nida edirdilər:  «Hosanna!Rəbbin ismi ilə Gələnə alqış olsun!</verse>
+        <verse osisID='Mark.11.10'>Atamız Davudun gələn Padşahlığı xeyir-dualı olsun!Ən ucalarda hosanna!» </verse>
+        <verse osisID='Mark.11.11'>İsa Yerusəlimə daxil olub məbədə girdi. O hər şeyə nəzər saldı. Sonra On İki şagirdlə bərabər Bet-Anyaya getdi, çünki artıq gec idi. </verse>
+        <verse osisID='Mark.11.12'>Ertəsi gün onlar Bet-Anyadan çıxdılar. O zaman İsa acmışdı.</verse>
+        <verse osisID='Mark.11.13'>Uzaqda yarpaqlı bir əncir ağacı gördü və ağaca yaxınlaşdı ki, bəlkə onda meyvə tapar. Amma onun yanına gələndə ağacda yarpaqdan başqa bir şey tapmadı, çünki əncirin bar mövsümü deyildi.</verse>
+        <verse osisID='Mark.11.14'>Onda İsa ağaca dedi: «Qoy səndən bir daha heç kəs meyvə yeməsin!» Bunu şagirdləri də eşitdi. </verse>
+        <verse osisID='Mark.11.15'>Onlar Yerusəlimə gəldilər. İsa məbədə girib orada alver edənləri qovmağa başladı. Sərrafların masalarını və göyərçin satanların kürsülərini çevirdi,</verse>
+        <verse osisID='Mark.11.16'>heç kimi yük daşıyaraq məbəd həyətlərindən keçməyə qoymadı.</verse>
+        <verse osisID='Mark.11.17'>Onlara təlim öyrədərək dedi: «Məgər yazılmayıb ki,  “Mənim evim bütün xalqlar üçünDua evi adlandırılacaq”?  Amma siz onu “quldur yuvasına” çevirmisiniz!»</verse>
+        <verse osisID='Mark.11.18'>Bunu eşidən başçı kahinlər və ilahiyyatçılar İsanı öldürmək üçün yol axtarırdılar. Çünki bütün xalq Onun təliminə təəccübləndiyi üçün Ondan qorxurdular.</verse>
+        <verse osisID='Mark.11.19'>Axşam olanda İsa və şagirdləri şəhərdən kənara çıxdı. </verse>
+        <verse osisID='Mark.11.20'>Səhər erkən onlar əncir ağacının yanından keçəndə gördülər ki, ağac kökündən quruyub.</verse>
+        <verse osisID='Mark.11.21'>Hadisəni xatırlayan Peter İsaya dedi: «Rabbi, bax lənətlədiyin əncir ağacı quruyub».</verse>
+        <verse osisID='Mark.11.22'>İsa cavab verib onlara dedi: «Allaha imanınız olsun.</verse>
+        <verse osisID='Mark.11.23'>Sizə doğrusunu deyirəm: kim bu dağa “Qalx, dənizə atıl!” deyərsə və ürəyində şübhə etmədən dediyinin olacağına inanarsa, onun üçün ediləcək.</verse>
+        <verse osisID='Mark.11.24'>Buna görə sizə deyirəm: dua edib hər nə diləsəniz, inanın ki, artıq almısınız və istədiyiniz sizin üçün ediləcək.</verse>
+        <verse osisID='Mark.11.25'>Durub dua edəndə kimdən narazılığınız varsa, bağışlayın ki, göylərdə olan Atanız da təqsirlərinizi bağışlasın».</verse>
+        <verse osisID='Mark.11.26'/>
+        <verse osisID='Mark.11.27'>Onlar yenə Yerusəlimə gəldilər. İsa məbəddə gəzən zaman başçı kahinlər, ilahiyyatçılar və ağsaqqallar Ona yaxınlaşıb</verse>
+        <verse osisID='Mark.11.28'>dedilər: «Sən bu işləri hansı səlahiyyətlə edirsən? Bu işləri görmək üçün Sənə bu səlahiyyəti kim verib?»</verse>
+        <verse osisID='Mark.11.29'>İsa onlara belə cavab verdi: «Mən də sizə bir sual verəcəyəm; ona cavab versəniz, Mən də bunları hansı səlahiyyətlə etdiyimi sizə deyərəm.</verse>
+        <verse osisID='Mark.11.30'>Yəhyanın vəftizi göydən idimi, yoxsa insanlardan? Mənə cavab verin».</verse>
+        <verse osisID='Mark.11.31'>Onlarsa aralarında müzakirə edərək belə dedilər: «Əgər desək “göydən”, “Bəs nə üçün ona inanmadınız?” deyəcək.</verse>
+        <verse osisID='Mark.11.32'>Amma desək “insanlardan”?» O zaman xalqdan qorxurdular, çünki hamı Yəhyanı həqiqi peyğəmbər sayırdı.</verse>
+        <verse osisID='Mark.11.33'>Cavabında İsaya dedilər: «Bilmirik». İsa da onlara dedi: «Bunları hansı səlahiyyətlə etdiyimi Mən də sizə demirəm».  </verse>
+      </chapter>
+      <chapter osisID='Mark.12'>
+        <verse osisID='Mark.12.1'>
+           İsa məsəllər söyləyib onlarla danışmağa başladı: «Bir adam üzüm bağı saldı, oranın ətrafına çəpər çəkdi. İçində yer qazaraq üzümsıxan düzəltdi, nəzarət qülləsi tikdi. Sonra isə bağı bağbanlara icarəyə verərək başqa ölkəyə getdi.</verse>
+        <verse osisID='Mark.12.2'>Məhsul vaxtı çatanda bağbanların yanına bir qul göndərdi ki, üzüm bağının məhsulundan bir qədərini onlardan alsın.</verse>
+        <verse osisID='Mark.12.3'>Lakin bağbanlar qulu tutub döydülər və əliboş geri qaytardılar.</verse>
+        <verse osisID='Mark.12.4'>Bağ sahibi onların yanına yenə başqa bir qul göndərdi. Onun da başını vurub yardılar və biabır etdilər.</verse>
+        <verse osisID='Mark.12.5'>Başqasını göndərdi, onu isə öldürdülər. O, çox adam göndərdi, onlardan bəzisini döydülər, bəzisini isə öldürdülər.</verse>
+        <verse osisID='Mark.12.6'>Yanında ancaq bir nəfər qalmışdı ki, bu da onun sevimli oğlu idi. “Oğluma hörmət edərlər” deyərək axırda onu onların yanına göndərdi.</verse>
+        <verse osisID='Mark.12.7'>Bağbanlarsa bir-birlərinə dedilər: “Varis budur. Gəlin onu öldürək, onda miras bizə qalacaq”.</verse>
+        <verse osisID='Mark.12.8'>Beləcə onu tutub öldürdülər və bağdan kənara atdılar.</verse>
+        <verse osisID='Mark.12.9'>Beləliklə, bağ sahibi nə edəcək? Gəlib bağbanları həlak edəcək və bağı başqalarına verəcək.</verse>
+        <verse osisID='Mark.12.10'>Məgər siz bu Müqəddəs Yazını oxumamısınız?  “Bənnaların rədd etdiyi daşGuşədaşı olub.</verse>
+        <verse osisID='Mark.12.11'>Bu, Rəbbin işi idi,Gözümüzdə xariqəli bir işdir”». </verse>
+        <verse osisID='Mark.12.12'>Yəhudi rəhbərləri başa düşdülər ki, İsa bu məsəli onlar barədə söylədi. Ona görə də İsanı tutmaq üçün yol axtarırdılar, lakin camaatdan qorxdular. Beləcə Onu tərk edib getdilər. </verse>
+        <verse osisID='Mark.12.13'>Sonra İsanı dediyi sözlərlə tələyə salmaq üçün fariseylərdən və hirodçulardan bəzisini Onun yanına göndərdilər.</verse>
+        <verse osisID='Mark.12.14'>Onlar gəlib İsaya dedilər: «Müəllim, biz bilirik ki, Sən etibarlı adamsan və heç kimə tərəfkeşlik etmirsən. Çünki insanlar arasında fərq qoymursan və Allahın yolunu həqiqətə görə öyrədirsən. Bizim üçün qeysərə vergi verməyə icazə var ya yox? Biz vergi verək ya yox?»</verse>
+        <verse osisID='Mark.12.15'>Onların ikiüzlülüyünü bilən İsa dedi: «Məni niyə sınağa çəkirsiniz? Mənə bir dinar gətirin, baxım».</verse>
+        <verse osisID='Mark.12.16'>Onlar da gətirdilər. İsa soruşdu: «Sikkənin üstündəki bu təsvir və yazı kimindir?» Ona dedilər: «Qeysərin».</verse>
+        <verse osisID='Mark.12.17'>İsa onlara dedi: «Elə isə, qeysərin haqqını qeysərə, Allahın haqqını Allaha verin». Onlar İsanın sözlərinə heyrətləndilər. </verse>
+        <verse osisID='Mark.12.18'>Dirilmənin olmadığını iddia edən bəzi sadukeylər İsanın yanına gəlib soruşdular:</verse>
+        <verse osisID='Mark.12.19'>«Müəllim, Musa bizim üçün belə yazmışdır: “Əgər bir adamın qardaşı ölsə, arvadı dul qalsa, amma övladı olmazsa, o biri qardaş bu dul arvadı alıb ölən qardaşın nəslini davam etdirsin”.</verse>
+        <verse osisID='Mark.12.20'>Yeddi qardaş var idi. Birincisi bir arvad aldı, amma övladı olmadan öldü.</verse>
+        <verse osisID='Mark.12.21'>Bu arvadı ikinci qardaş aldı, o da özündən sonra övlad qoymadan öldü, üçüncüsü də,</verse>
+        <verse osisID='Mark.12.22'>hətta yeddincisinə qədər belə etdi, amma övladı olmadan öldü. Hamısından sonra bu qadın da öldü.</verse>
+        <verse osisID='Mark.12.23'>Qiyamət günündə, ölülər diriləndə bu qadın onlardan hansının arvadı olacaq? Çünki yeddi qardaşın yeddisi də bu qadını almışdı». </verse>
+        <verse osisID='Mark.12.24'>İsa onlara belə cavab verdi: «Nə Müqəddəs Yazıları, nə də Allahın qüdrətini bilirsiniz. Yanılmanıza səbəb bu deyilmi?</verse>
+        <verse osisID='Mark.12.25'>İnsanlar ölülər arasından diriləndə nə evlənir, nə də ərə gedirlər. Ancaq səmadakı mələklər kimi olurlar.</verse>
+        <verse osisID='Mark.12.26'>Bəs ölülərin dirildiyinə gəlincə, Musanın kitabındakı kolla bağlı əhvalatda Allahın necə ona “Mən İbrahimin Allahı, İshaqın Allahı və Yaqubun Allahıyam” dediyini oxumamısınızmı?</verse>
+        <verse osisID='Mark.12.27'>Allah ölülərin deyil, dirilərin Allahıdır. Beləliklə, siz çox yanılırsınız». </verse>
+        <verse osisID='Mark.12.28'>İlahiyyatçılardan biri gəlib onların mübahisələrinə qulaq asdı və İsanın onlara yaxşı cavab verdiyini görüb Ondan soruşdu: «Əmrlərin ən əsası hansıdır?»</verse>
+        <verse osisID='Mark.12.29'>İsa cavab verdi: «Əmrlərin ən əsası budur: “Dinlə, ey İsrail! Allahımız Rəbb yeganə Rəbdir.</verse>
+        <verse osisID='Mark.12.30'>Allahın Rəbbi bütün qəlbinlə, bütün varlığınla, bütün düşüncənlə və bütün gücünlə sev”.</verse>
+        <verse osisID='Mark.12.31'>İkincisi də budur: “Qonşunu özün kimi sev”. Bunlardan böyük əmr yoxdur».</verse>
+        <verse osisID='Mark.12.32'>İlahiyyatçı Ona dedi: «Müəllim, Sən nə yaxşı dedin, həqiqəti söylədin. Allah yeganədir, Ondan başqası yoxdur.</verse>
+        <verse osisID='Mark.12.33'>Onu bütün qəlbinlə, bütün ağlınla və bütün gücünlə sevmək, qonşunu da özün kimi sevmək yandırma qurbanlarının və başqa qurbanların hamısından daha vacibdir».</verse>
+        <verse osisID='Mark.12.34'>Dərrakəli cavab verdiyini görən İsa ona dedi: «Sən Allahın Padşahlığından uzaq deyilsən». Bundan sonra heç kim İsadan bir şey soruşmağa cəsarət etmədi. </verse>
+        <verse osisID='Mark.12.35'>İsa məbəddə təlim öyrədərək belə sual verdi: «Niyə ilahiyyatçılar Məsih Davudun Oğludur deyirlər?</verse>
+        <verse osisID='Mark.12.36'>Davud özü Müqəddəs Ruh vasitəsilə  “Rəbb mənim Ağama dedi:‹Mən düşmənlərini ayaqlarının altına salanadəkSağımda otur›”  deyib.</verse>
+        <verse osisID='Mark.12.37'>Davud özü Ona “Ağa” deyə müraciət edir. O necə Davudun oğlu ola bilər?» Böyük izdiham sevinclə Ona qulaq asırdı. </verse>
+        <verse osisID='Mark.12.38'>İsa təlim öyrədərək dedi: «İlahiyyatçılardan özünüzü qoruyun. Onlar uzun paltarlarda gəzməyi, bazar meydanlarında salam almağı,</verse>
+        <verse osisID='Mark.12.39'>sinaqoqlarda baş kürsüləri, ziyafətlərdə yuxarı başı tutmağı xoşlayarlar.</verse>
+        <verse osisID='Mark.12.40'>Onlar dul qadınların evlərini yeyib-dağıdar və özlərini göstərmək üçün uzun-uzadı dua edərlər. Bu adamların cəzası daha ağır olacaq». </verse>
+        <verse osisID='Mark.12.41'>İsa məbədin ianə qutusunun qarşısında oturub xalqın oraya necə pul atmasına baxırdı. Bir çox varlı adam oraya böyük məbləğdə pul atırdı.</verse>
+        <verse osisID='Mark.12.42'>Bir kasıb dul qadın da gəlib bir kodrant məbləğində iki lepton pul atdı.</verse>
+        <verse osisID='Mark.12.43'>İsa şagirdlərini yanına çağırıb onlara dedi: «Sizə doğrusunu deyirəm: bu kasıb dul qadın ianə qutusuna hamıdan çox pul atdı.</verse>
+        <verse osisID='Mark.12.44'>Çünki onların hamısı varlarının artıqlığından verdi, bu qadın isə kasıblığına baxmayaraq, dolanmaq üçün əlində nə varsa, hamısını verdi».  </verse>
+      </chapter>
+      <chapter osisID='Mark.13'>
+        <verse osisID='Mark.13.1'>
+          İsa məbəddən çıxarkən şagirdlərindən biri Ona dedi: «Müəllim, bax nə gözəl daşlar, nə gözəl binalardır!»</verse>
+        <verse osisID='Mark.13.2'>İsa ona dedi: «Bu böyük binaları görürsənmi? Onların daşı daş üstündə qalmayacaq, hamısı yerlə yeksan olacaq». </verse>
+        <verse osisID='Mark.13.3'>İsa məbədlə üzbəüz olan Zeytun dağında oturanda Peter, Yaqub, Yəhya və Andrey Ondan ayrılıqda soruşdu:</verse>
+        <verse osisID='Mark.13.4'>«Bizə söylə, bu dediklərin nə vaxt baş verəcək? Bunların hamısı başa çatmaq üzrə olanda hansı əlamətlər olacaq?»</verse>
+        <verse osisID='Mark.13.5'>İsa onlara cavab verməyə başladı: «Ehtiyatlı olun, qoy sizi heç kim aldatmasın.</verse>
+        <verse osisID='Mark.13.6'>Mənim adımla çox adam gəlib “mən Oyam” deyərək çoxlarını aldadacaq.</verse>
+        <verse osisID='Mark.13.7'>Müharibələr və müharibə xəbərləri eşidəndə təlaşa düşməyin. Bunlar baş verməlidir, amma bu hələ hər şeyin axırı deyil.</verse>
+        <verse osisID='Mark.13.8'>Çünki millət millətə, padşahlıq padşahlığa qarşı çıxacaq. Yerbəyer zəlzələlər və aclıq olacaq. Bunlar sanki doğuş ağrılarının başlanğıcıdır. </verse>
+        <verse osisID='Mark.13.9'>Amma siz ehtiyatlı olun. Adamlar sizi məhkəmələrə çəkəcək, sinaqoqlarda döyəcəklər. Onlara şəhadət etmək üçün siz Mənə görə valilərin və padşahların qarşısında duracaqsınız.</verse>
+        <verse osisID='Mark.13.10'>Əvvəlcə bütün millətlərə Müjdə vəz olunmalıdır.</verse>
+        <verse osisID='Mark.13.11'>Sizi aparıb məhkəməyə çəkəndə nə deyəcəyiniz barədə qabaqcadan qayğı çəkməyin, amma həmin vaxt sizə nə bildirilərsə, onu danışın. Çünki danışan siz yox, Müqəddəs Ruhdur.</verse>
+        <verse osisID='Mark.13.12'>Qardaş qardaşı, ata övladını ölümə təslim edəcək. Övladlar ata-anasına qarşı çıxıb onları edam etdirəcək.</verse>
+        <verse osisID='Mark.13.13'>Mənim adıma görə hamı sizə nifrət edəcək. Amma axıracan dözən xilas olacaq. </verse>
+        <verse osisID='Mark.13.14'>Viranəlik gətirən iyrənc şeyin heç olmamalı yerdə qoyulduğunu gördüyünüz zaman – qoy oxuyan bunu anlasın – Yəhudeyada olanlar dağlara qaçsın.</verse>
+        <verse osisID='Mark.13.15'>Damda olan evindən nə isə götürmək üçün aşağı enib evinə girməsin.</verse>
+        <verse osisID='Mark.13.16'>Tarlada olan üst paltarını götürmək üçün geri qayıtmasın.</verse>
+        <verse osisID='Mark.13.17'>Həmin günlər hamilələrin və körpə əmizdirənlərin vay halına!</verse>
+        <verse osisID='Mark.13.18'>Dua edin ki, bu hadisə qış fəslində baş verməsin.</verse>
+        <verse osisID='Mark.13.19'>Çünki o günlərdə elə bir əzab-əziyyət olacaq ki, Allahın yaratdığı bu kainatın başlanğıcından indiyə qədər beləsi olmayıb və heç olmayacaq da.</verse>
+        <verse osisID='Mark.13.20'>Əgər Rəbb o günləri qısaltmasaydı, heç bir insan xilas ola bilməzdi. Amma Rəbb seçilmişlərə – Öz seçdiyi insanlara görə o günləri qısaldıb. </verse>
+        <verse osisID='Mark.13.21'>O zaman əgər kimsə sizə desə ki, “bax, Məsih buradadır” yaxud da “bax, oradadır”, inanmayın.</verse>
+        <verse osisID='Mark.13.22'>Çünki yalançı məsihlər və yalançı peyğəmbərlər törəyəcək. Onlar əlamətlər və xariqələr göstərəcəklər ki, imkan taparlarsa, seçilmişləri də aldatsınlar.</verse>
+        <verse osisID='Mark.13.23'>Amma siz ehtiyatlı olun! Bax Mən sizə hər şeyi əvvəlcədən söyləmişəm. </verse>
+        <verse osisID='Mark.13.24'>Amma o günlərdə, o əzab-əziyyətdən sonra  Günəş tutulacaq,Ay nurunu saçmayacaq,</verse>
+        <verse osisID='Mark.13.25'>Ulduzlar göydən töküləcək,Səma cisimləri lərzəyə gələcək. </verse>
+        <verse osisID='Mark.13.26'>O zaman onlar Bəşər Oğlunun buludlar içində böyük qüdrət və izzətlə gəldiyini görəcək.</verse>
+        <verse osisID='Mark.13.27'>Onda Bəşər Oğlu mələklərini göndərəcək və yer üzünün ucundan göyün ucuna qədər dörd külək istiqamətindən Öz seçdiklərini toplayacaq. </verse>
+        <verse osisID='Mark.13.28'>Əncir ağacından ibrət alın: onun budağı cücərib yarpaqlananda bilirsiniz ki, yay fəsli artıq yaxındır.</verse>
+        <verse osisID='Mark.13.29'>Eləcə siz də bu şeylərin baş verdiyini görəndə bilin ki, Bəşər Oğlu yaxındadır, lap qapıdadır.</verse>
+        <verse osisID='Mark.13.30'>Sizə doğrusunu deyirəm: bu nəsil ömrünü sona çatdırmazdan əvvəl bütün bunlar baş verəcək.</verse>
+        <verse osisID='Mark.13.31'>Yer və göy keçib gedəcək, amma Mənim sözlərim əsla keçib getməyəcək. </verse>
+        <verse osisID='Mark.13.32'>Lakin o günü və o saatı nə səmadakı mələklər, nə də Oğul bilir. Atadan başqa heç kim bilmir.</verse>
+        <verse osisID='Mark.13.33'>Ehtiyatlı olun, oyaq olun. Çünki bilmirsiniz ki, o an nə vaxt gələcək.</verse>
+        <verse osisID='Mark.13.34'>Bu, səyahətə çıxan bir adama bənzəyir. Evindən ayrılarkən qullarına səlahiyyət verir və hərəsinə bir iş tapşırır. Qapı nəzarətçisinə də əmr edir ki, oyaq olsun.</verse>
+        <verse osisID='Mark.13.35'>Ona görə də oyaq olun. Çünki ev sahibinin nə vaxt – axşammı, gecə yarısımı, xoruz banlayandamı yaxud sübh tezdənmi gələcəyini bilmirsiniz.</verse>
+        <verse osisID='Mark.13.36'>Qoy o qəfil gəlib sizi yatan görməsin.</verse>
+        <verse osisID='Mark.13.37'>Sizə söylədiklərimi hamıya deyirəm, oyaq olun!»  </verse>
+      </chapter>
+      <chapter osisID='Mark.14'>
+        <verse osisID='Mark.14.1'>
+           Pasxa və Mayasız Çörək bayramına iki gün qalmışdı. Başçı kahinlər və ilahiyyatçılar İsanı hiylə ilə tutub öldürmək üçün bir yol axtarırdılar.</verse>
+        <verse osisID='Mark.14.2'>Onlar deyirdilər: «Bunu bayramda etməyək, yoxsa xalq arasında qarışıqlıq düşər». </verse>
+        <verse osisID='Mark.14.3'>İsa Bet-Anyada cüzamlı Şimonun evində süfrəyə oturanda bir qadın Onun yanına gəldi və qadının əlində içində çox bahalı xalis nard yağı olan ağ mərmər qab var idi. Qadın qabı sındıraraq yağı İsanın başına tökdü.</verse>
+        <verse osisID='Mark.14.4'>Bəziləri acıqlanıb bir-birlərinə dedilər: «Bu ətir niyə boş yerə israf olunur?</verse>
+        <verse osisID='Mark.14.5'>Axı bu ətiri üç yüz dinardan artıq qiymətə satıb pulunu yoxsullara vermək olardı». Onlar qadını danladılar.</verse>
+        <verse osisID='Mark.14.6'>Lakin İsa dedi: «Qadını rahat buraxın. Niyə onu incidirsiniz? O Mənim üçün gözəl bir iş gördü.</verse>
+        <verse osisID='Mark.14.7'>Yoxsullar həmişə sizin yanınızdadır, istədiyiniz vaxt onlara kömək edə bilərsiniz. Mənsə həmişə yanınızda olmayacağam.</verse>
+        <verse osisID='Mark.14.8'>Qadın bacardığını etdi. Mənim bədənimə dəfn üçün əvvəlcədən yağ çəkdi.</verse>
+        <verse osisID='Mark.14.9'>Sizə doğrusunu deyirəm: dünyanın hansı yerində Müjdə vəz edilərsə, bu qadının etdiyi bu iş də danışılacaq ki, o yada salınsın». </verse>
+        <verse osisID='Mark.14.10'>O zaman On İki şagirddən biri olan Yəhuda İskaryot İsanı başçı kahinlərə təslim etmək niyyəti ilə onların yanına getdi.</verse>
+        <verse osisID='Mark.14.11'>Başçı kahinlər bunu eşidərkən sevindilər və Yəhudaya pul verəcəklərini vəd etdilər. O da İsanı təslim etmək üçün fürsət axtarmağa başladı. </verse>
+        <verse osisID='Mark.14.12'>Pasxa quzusu qurban kəsildiyi Mayasız Çörək bayramının ilk günü şagirdləri İsadan soruşdular: «Sənin Pasxa yeməyin üçün haraya gedib hazırlıq görməyimizi istəyirsən?»</verse>
+        <verse osisID='Mark.14.13'>İsa da şagirdlərindən ikisini göndərdi və dedi: «Şəhərə girin, orada qarşınıza səhənglə su daşıyan bir nəfər çıxacaq. Onun ardınca gedin.</verse>
+        <verse osisID='Mark.14.14'>O hansı evə girərsə, oranın sahibinə deyin: “Müəllim deyir: ‹Şagirdlərimlə birgə Pasxa yeməyini yeyəcəyim qonaq otağım haradadır?›”</verse>
+        <verse osisID='Mark.14.15'>Ev sahibi sizə yuxarı mərtəbədə döşənib hazırlanmış böyük bir otaq göstərəcək. Orada bizim üçün hazırlıq işləri görün».</verse>
+        <verse osisID='Mark.14.16'>Şagirdlər yola çıxıb şəhərə getdilər. Hər şeyin Onun dediyi kimi olduğunu gördülər və Pasxa yeməyi üçün hazırlıq etdilər. </verse>
+        <verse osisID='Mark.14.17'>Axşam düşəndə İsa On İki şagirdi ilə birlikdə gəldi.</verse>
+        <verse osisID='Mark.14.18'>Onlar süfrəyə oturub yemək yeyərkən İsa dedi: «Sizə doğrusunu deyirəm: sizlərdən biri – Mənimlə yemək yeyən biri Mənə xəyanət edəcək».</verse>
+        <verse osisID='Mark.14.19'>Onlar kədərlənməyə başladılar və bir-bir Ondan soruşdular: «Mən deyiləm ki?»</verse>
+        <verse osisID='Mark.14.20'>İsa onlara dedi: «Siz On İki nəfərdən biridir. Mənimlə birlikdə çörəyini qaba batıran odur.</verse>
+        <verse osisID='Mark.14.21'>Bəşər Oğlu Özü barəsində yazıldığı kimi gedir. Amma vay o adamın halına ki, Bəşər Oğluna xəyanət edir! O adam heç doğulmasaydı, onun üçün daha yaxşı olardı». </verse>
+        <verse osisID='Mark.14.22'>Onlar yeyəndə İsa çörək götürdü, şükür duası edib onu böldü və şagirdlərə verərək dedi: «Alın! Bu Mənim bədənimdir».</verse>
+        <verse osisID='Mark.14.23'>Sonra bir kasa götürdü və şükür edib onu da şagirdlərə verdi və hamısı oradan içdi.</verse>
+        <verse osisID='Mark.14.24'>İsa onlara dedi: «Bu, Əhdin bağlanması üçün çoxları uğrunda axıdılan Mənim qanımdır.</verse>
+        <verse osisID='Mark.14.25'>Sizə doğrusunu deyirəm: Allahın Padşahlığında təzəsini içəcəyim günə qədər üzüm ağacının məhsulundan əsla içməyəcəyəm». </verse>
+        <verse osisID='Mark.14.26'>Onlar ilahi oxuyandan sonra çıxdılar və Zeytun dağına tərəf getdilər. </verse>
+        <verse osisID='Mark.14.27'>İsa şagirdlərinə dedi: «Hamınız Məni atıb gedəcəksiniz, çünki belə yazılıb:  “Çobanı vuracağam,Qoyunlar pərən-pərən olacaq”.</verse>
+        <verse osisID='Mark.14.28'>Amma Mən diriləndən sonra sizdən qabaq Qalileyaya gedəcəyəm».</verse>
+        <verse osisID='Mark.14.29'>Peter Ona dedi: «Hamı Səni atıb getsə də, mən belə etməyəcəyəm».</verse>
+        <verse osisID='Mark.14.30'>İsa ona dedi: «Sənə doğrusunu deyirəm: bu gün, bu gecə xoruz iki dəfə banlamazdan əvvəl sən Məni üç dəfə inkar edəcəksən».</verse>
+        <verse osisID='Mark.14.31'>Amma Peter daha qətiyyətlə danışdı: «Əgər Səninlə birlikdə ölməyim lazım olsa belə, Səni əsla inkar etməyəcəyəm». Bütün şagirdlər də belə dedilər. </verse>
+        <verse osisID='Mark.14.32'>Sonra Getsemani adlanan bir yerə gəldilər. İsa şagirdlərinə dedi: «Mən dua edərkən siz burada oturub-qalın».</verse>
+        <verse osisID='Mark.14.33'>O, Peteri, Yaqubu və Yəhyanı Özü ilə apardı. Özündə bir həyəcan və narahatlıq hiss etməyə başladı.</verse>
+        <verse osisID='Mark.14.34'>Onlara belə dedi: «Ürəyimi elə dərin kədər bürüyüb, az qalır ki, ölüm. Burada qalın və oyaq olun». </verse>
+        <verse osisID='Mark.14.35'>İsa bir qədər irəli getdi və üzüstə yerə qapanıb dua etdi ki, mümkündürsə, bu an Ondan yan keçsin.</verse>
+        <verse osisID='Mark.14.36'>O belə dedi: «Abba – Ata, Sənin üçün hər şey mümkündür. Bu kasanı Məndən uzaqlaşdır. Amma Mənim yox, Sənin iradən olsun».</verse>
+        <verse osisID='Mark.14.37'>İsa şagirdlərin yanına qayıdıb gördü ki, onlar yatıb. O, Peteri səslədi: «Şimon, yatmısan? Məgər bir saat oyaq qala bilməzdin?</verse>
+        <verse osisID='Mark.14.38'>Oyaq qalıb dua edin ki, sınağa düşməyəsiniz. Ruh həvəsli, cisimsə gücsüzdür».</verse>
+        <verse osisID='Mark.14.39'>İsa yenə oradan uzaqlaşdı və eyni sözləri təkrar edərək dua etdi. </verse>
+        <verse osisID='Mark.14.40'>Qayıdanda gördü ki, onlar yenə yatıb. Çünki onların gözləri yumulurdu. Bilmədilər ki, İsaya nə desinlər.</verse>
+        <verse osisID='Mark.14.41'>İsa üçüncü dəfə onların yanına qayıdıb dedi: «Hələ də yatıb dincəlirsiniz? Bəsdir! Vaxt yetişdi! Budur, Bəşər Oğlu günahkarların əlinə təslim olunur.</verse>
+        <verse osisID='Mark.14.42'>Qalxın gedək. Budur, Mənə xəyanət edən gəlir!» </verse>
+        <verse osisID='Mark.14.43'>İsa hələ danışarkən On İki şagirddən biri olan Yəhuda gəlib çıxdı. Onun yanında başçı kahinlərin, ilahiyyatçıların və ağsaqqalların göndərdiyi əli qılınclı və dəyənəkli bir dəstə adam var idi.</verse>
+        <verse osisID='Mark.14.44'>İsaya xəyanət edən Yəhuda onlara işarə ilə bildirib demişdi: «Kimi öpsəm, İsa Odur. Onu tutub möhkəm nəzarət altında aparın».</verse>
+        <verse osisID='Mark.14.45'>O anda İsaya yaxınlaşıb «Rabbi!» deyərək Onu öpdü.</verse>
+        <verse osisID='Mark.14.46'>Yanındakı adamlar əl atıb İsanı tutdular.</verse>
+        <verse osisID='Mark.14.47'>İsanın yanındakılardan biri qılınc çəkdi və baş kahinin qulunu vurub qulağını qopartdı. </verse>
+        <verse osisID='Mark.14.48'>İsa onlara dedi: «Nə üçün quldur üstünə gələn kimi qılınc və dəyənəklərlə Məni tutmağa gəlmisiniz?</verse>
+        <verse osisID='Mark.14.49'>Hər gün məbəddə sizin yan-yörənizdə təlim öyrədirdim, heç Məni tutmadınız. Amma qoy Müqəddəs Yazılar yerinə yetsin».</verse>
+        <verse osisID='Mark.14.50'>Onda hamı İsanı atıb qaçdı. </verse>
+        <verse osisID='Mark.14.51'>Çılpaq bədənini kətan örtüklə bürüyən bir gənc İsanın ardınca gedirdi. Əsgərlər onu yaxaladılar.</verse>
+        <verse osisID='Mark.14.52'>Amma o, kətan örtükdən sıyrılıb çılpaq qaçdı. </verse>
+        <verse osisID='Mark.14.53'>İsanı baş kahinin yanına gətirdilər. Başçı kahinlərin hamısı, ağsaqqallar və ilahiyyatçılar da oraya toplaşdı.</verse>
+        <verse osisID='Mark.14.54'>Peter uzaqdan baş kahinin həyətinə qədər İsanın ardınca gedirdi. O, mühafizəçilərlə birgə həyətdə, tonqalın ətrafında oturub qızınırdı. </verse>
+        <verse osisID='Mark.14.55'>Başçı kahinlər və Ali Şuranın hamısı İsanı edam etmək üçün Onun əleyhinə şahidlik ifadəsi axtarırdılar, amma tapa bilmirdilər.</verse>
+        <verse osisID='Mark.14.56'>Çoxları Onun əleyhinə yalançı şahidlik etdi, lakin ifadələri bir-birinə uyğun gəlmirdi.</verse>
+        <verse osisID='Mark.14.57'>Bəziləri qalxıb Onun əleyhinə yalançı şahidlik edərək dedilər:</verse>
+        <verse osisID='Mark.14.58'>«Biz Onun belə dediyini eşitdik: “Mən əllə qurulan bu məbədi dağıdıb üç gün ərzində əllə qurulmayan başqa bir məbəd tikəcəyəm”».</verse>
+        <verse osisID='Mark.14.59'>Amma onların da ifadələri bir-birinə uyğun gəlmirdi. </verse>
+        <verse osisID='Mark.14.60'>Baş kahin toplantı arasından ayağa qalxıb İsadan soruşdu: «Sənin heç cavabın yoxdur? Onlar Sənin əleyhinə bu nə ifadədir verirlər?»</verse>
+        <verse osisID='Mark.14.61'>Amma İsa susmaqda davam etdi, heç cavab vermədi. Baş kahin yenə Ondan soruşdu: «Xeyir-dua Sahibi Olanın Oğlu Məsih Sənsənmi?»</verse>
+        <verse osisID='Mark.14.62'>İsa ona dedi: «Mənəm! Siz Bəşər Oğlunun Qüdrətli Olanın sağında oturduğunu və göyün buludları ilə gəldiyini görəcəksiniz».</verse>
+        <verse osisID='Mark.14.63'>Onda baş kahin əynindəki paltarını cırıb dedi: «Artıq şahidlərə nə ehtiyacımız var?</verse>
+        <verse osisID='Mark.14.64'>Siz Onun küfr söylədiyini eşitdiniz! Bəs buna nə deyirsiniz?» Onların hamısı İsa üçün hökm verdi ki, O, ölüm cəzasına layiqdir. </verse>
+        <verse osisID='Mark.14.65'>Bəziləri Onun üstünə tüpürməyə, Onun gözlərini bağlayaraq yumruq vurmağa başladılar və dedilər: «Peyğəmbərlik elə görək!» Mühafizəçilər də tutub Ona şillə vurdular. </verse>
+        <verse osisID='Mark.14.66'>Peter aşağıda, həyətdə ikən baş kahinin qarabaşlarından biri gəldi.</verse>
+        <verse osisID='Mark.14.67'>Qızınmaqda olan Peteri görən kimi onu diqqətlə süzüb dedi: «Sən də Nazaretli İsa ilə birlikdə idin».</verse>
+        <verse osisID='Mark.14.68'>Amma Peter bunu inkar edərək dedi: «Bilmirəm və başa düşmürəm, sən nə danışırsan». O, bayır qapının önünə çıxdı və bu anda xoruz banladı.</verse>
+        <verse osisID='Mark.14.69'>Qarabaş Peteri görəndə yenə yanındakılara deməyə başladı: «Bu da onlardandır».</verse>
+        <verse osisID='Mark.14.70'>Peter yenə inkar etdi. Bir az sonra orada duranlar yenə ona dedilər: «Doğrudan da, sən onlardansan, çünki Qalileyalısan».</verse>
+        <verse osisID='Mark.14.71'>Peter isə özünü qarğıyıb and içərək dedi: «Dediyiniz o Adamı tanımıram». </verse>
+        <verse osisID='Mark.14.72'>Həmin anda xoruz ikinci dəfə banladı. Peter İsanın «xoruz iki dəfə banlamazdan əvvəl sən Məni üç dəfə inkar edəcəksən» dediyi sözü yadına saldı. Ona görə ağlamağa başladı.  </verse>
+      </chapter>
+      <chapter osisID='Mark.15'>
+        <verse osisID='Mark.15.1'>
+          Səhər erkən başçı kahinlər, ağsaqqallar, ilahiyyatçılar və Ali Şuranın hamısı dərhal məşvərət edəndən sonra İsanın əl-qolunu bağlayaraq Pilatın yanına aparıb ona təslim etdilər.</verse>
+        <verse osisID='Mark.15.2'>Pilat Ondan «Yəhudilərin Padşahı Sənsənmi?» deyə soruşdu. İsa cavabında ona dedi: «Sənin dediyin kimidir».</verse>
+        <verse osisID='Mark.15.3'>Başçı kahinlər Onu çox şeydə ittiham edirdilər.</verse>
+        <verse osisID='Mark.15.4'>Pilat Ondan yenə soruşdu: «Heç cavab verməyəcəksənmi? Gör Səni nə qədər ittiham edirlər!»</verse>
+        <verse osisID='Mark.15.5'>Amma İsa yenə də ona cavab vermədi. Pilat buna heyrətləndi. </verse>
+        <verse osisID='Mark.15.6'>Hər Pasxa bayramında Pilat xalqın xahişi ilə bir məhbusu azad edərdi.</verse>
+        <verse osisID='Mark.15.7'>Üsyan zamanı adam öldürən üsyançılarla birlikdə Barabba adlı bir nəfər də həbs olunmuşdu.</verse>
+        <verse osisID='Mark.15.8'>Xalq Pilatın yanına çıxıb ondan xahiş etməyə başladı ki, həmişəki kimi onların istəyini yerinə yetirsin.</verse>
+        <verse osisID='Mark.15.9'>Pilat onlara cavab verərək dedi: «İstəyirsiniz, sizin üçün Yəhudilərin Padşahını azad edim?»</verse>
+        <verse osisID='Mark.15.10'>Çünki başçı kahinlərin İsanı paxıllıqdan təslim etdiyini bilirdi.</verse>
+        <verse osisID='Mark.15.11'>Ancaq başçı kahinlər xalqı qızışdırdılar ki, İsanın yox, Barabbanın azad olmasını xahiş etsinlər. </verse>
+        <verse osisID='Mark.15.12'>Pilat yenə onlardan soruşaraq dedi: «Bəs nə istəyirsiniz? Yəhudilərin Padşahı dediyiniz bu Adama nə edim?»</verse>
+        <verse osisID='Mark.15.13'>«Onu çarmıxa çək!» deyə yenə bağırdılar.</verse>
+        <verse osisID='Mark.15.14'>Pilat «Axı O nə pislik edib?» deyə soruşdu. Onlarsa «Onu çarmıxa çək!» deyə daha ucadan bağırdılar.</verse>
+        <verse osisID='Mark.15.15'>Xalqı razı salmaq istəyən Pilat onlar üçün Barabbanı azad etdi. İsanı isə qamçılatdıqdan sonra çarmıxa çəkilməyə təslim etdi. </verse>
+        <verse osisID='Mark.15.16'>Əsgərlər İsanı həyətdən içəriyə, yəni vali sarayına apardılar. Bütün alayı topladılar.</verse>
+        <verse osisID='Mark.15.17'>Ona tünd qırmızı bir xalat geyindirdilər və tikanlardan bir tac hörüb başına qoydular.</verse>
+        <verse osisID='Mark.15.18'>«Yəhudilərin Padşahı sağ olsun!» deyərək İsanı salamlamağa başladılar.</verse>
+        <verse osisID='Mark.15.19'>Sonra qamışla Onun başına vurub Ona tüpürdülər və önündə diz çökərək səcdə qıldılar.</verse>
+        <verse osisID='Mark.15.20'>Onu ələ salandan sonra tünd qırmızı xalatı əynindən çıxarıb Öz paltarlarını geyindirdilər. Sonra Onu çarmıxa çəkmək üçün bayıra apardılar. </verse>
+        <verse osisID='Mark.15.21'>O vaxt Şimon adlı Kirenalı bir nəfər kənd yerindən gəlib oradan keçirdi. O, İsgəndər və Rufusun atasıdır. Onu İsanın çarmıxını daşımağa məcbur etdilər. </verse>
+        <verse osisID='Mark.15.22'>İsanı Qolqota adlanan yerə gətirdilər. «Qolqota» «Kəllə yeri» deməkdir.</verse>
+        <verse osisID='Mark.15.23'>Ona mirra ilə qarışıq şərab vermək istədilər, amma O imtina etdi.</verse>
+        <verse osisID='Mark.15.24'>İsanı çarmıxa çəkdilər. Paltarlarını isə «kimə nə düşdü-düşdü» deyə püşk ataraq aralarında bölüşdürdülər.</verse>
+        <verse osisID='Mark.15.25'>Üçüncü saat idi ki, İsanı çarmıxa çəkdilər.</verse>
+        <verse osisID='Mark.15.26'>Onun üzərində ittihamını göstərən belə yazı var idi: «Yəhudilərin Padşahı».</verse>
+        <verse osisID='Mark.15.27'>Onunla birlikdə biri sağında, biri də solunda iki qulduru da çarmıxa çəkdilər.</verse>
+        <verse osisID='Mark.15.28'/>
+        <verse osisID='Mark.15.29'>Gəlib-keçənlər başlarını yırğalayıb Ona böhtan ataraq «Nə oldu, ey məbədi dağıdıb üç gündə tikən!</verse>
+        <verse osisID='Mark.15.30'>İndi Özünü xilas et və çarmıxdan düş!» deyirdilər.</verse>
+        <verse osisID='Mark.15.31'>Başçı kahinlər də ilahiyyatçılarla birgə eyni şəkildə İsanı ələ salaraq bir-birlərinə deyirdilər: «Başqalarını xilas edirdi, amma Özünü xilas edə bilmir!</verse>
+        <verse osisID='Mark.15.32'>İsrailin Padşahı Məsih qoy indi çarmıxdan düşsün ki, biz də görüb iman edək». İsa ilə birlikdə çarmıxa çəkilənlər də Onu təhqir edirdilər. </verse>
+        <verse osisID='Mark.15.33'>Altıncı saatdan doqquzuncu saata qədər bütün yer üzünə qaranlıq çökdü.</verse>
+        <verse osisID='Mark.15.34'>Doqquzuncu saatda İsa uca səslə nida edərək dedi:  «Elohi, Elohi, lema şavaqtani?»  Bu «Ey Allahım, Allahım, niyə Məni tərk etdin?» deməkdir.</verse>
+        <verse osisID='Mark.15.35'>Orada dayananların bəzisi bunu eşidərkən dedi: «Baxın, İlyası çağırır».</verse>
+        <verse osisID='Mark.15.36'>Bir nəfər qaçıb bir süngəri şərab sirkəsi ilə doldurdu və bir qamışın ucuna keçirərək İsaya verdi ki, içsin və dedi: «Onu rahat buraxın, görək İlyas gəlib Onu çarmıxdan düşürəcəkmi?»</verse>
+        <verse osisID='Mark.15.37'>İsa uca səslə qışqırıb son nəfəsini verdi. </verse>
+        <verse osisID='Mark.15.38'>O anda məbədin pərdəsi yuxarıdan aşağıya qədər iki yerə parçalandı.</verse>
+        <verse osisID='Mark.15.39'>İsanın qarşısında duran yüzbaşı Onun son nəfəsini belə verdiyini gördükdə «doğrudan da, bu Adam Allahın Oğlu idi» dedi. </verse>
+        <verse osisID='Mark.15.40'>Olub-keçənlərə uzaqdan baxan qadınlar da var idi. Məcdəlli Məryəm, kiçik Yaqubun və Yusifin anası Məryəmlə Şalomit də onların arasında idi.</verse>
+        <verse osisID='Mark.15.41'>İsa hələ Qalileyada olanda bu qadınlar Onun ardınca getmiş və Ona xidmət etmişdilər. Onunla birgə Yerusəlimə gələn xeyli qadın da orada idi. </verse>
+        <verse osisID='Mark.15.42'>O gün Hazırlıq günü, yəni Şənbədən əvvəlki gün idi. Artıq axşam düşəndə</verse>
+        <verse osisID='Mark.15.43'>Ali Şuranın hörmətli üzvlərindən biri olan, Allahın Padşahlığını gözləyən Arimateyalı Yusif gəldi. O cəsarət edib Pilatın yanına getdi və İsanın cəsədini istədi.</verse>
+        <verse osisID='Mark.15.44'>Pilat İsanın belə tez ölməsinə heyrət etdi və yüzbaşını yanına çağırıb soruşdu: «O çoxdanmı ölüb?»</verse>
+        <verse osisID='Mark.15.45'>Yüzbaşıdan vəziyyəti öyrənəndən sonra cəsədi Yusifə verdi.</verse>
+        <verse osisID='Mark.15.46'>Yusif kəfən aldı, cəsədi çarmıxdan endirib kəfənə bükdü və qayada qazılmış qəbirə qoydu. O, qəbirin ağzına bir daş yuvarladı.</verse>
+        <verse osisID='Mark.15.47'>Məcdəlli Məryəm və Yusifin anası Məryəm baxıb cəsədin hara qoyulduğunu gördülər.  </verse>
+      </chapter>
+      <chapter osisID='Mark.16'>
+        <verse osisID='Mark.16.1'>
+          Şənbə günü keçəndən sonra Məcdəlli Məryəm, Yaqubun anası Məryəm və Şalomit ətirlər aldılar ki, gedib İsanın cəsədinə çəksinlər.</verse>
+        <verse osisID='Mark.16.2'>Həftənin ilk günü səhər tezdən, günəş doğanda onlar qəbirin yanına gəldilər.</verse>
+        <verse osisID='Mark.16.3'>Onlar bir-birlərinə deyirdilər: «Görəsən qəbirin ağzındakı daşı bizim üçün kim kənara yuvarlayacaq?»</verse>
+        <verse osisID='Mark.16.4'>Başlarını qaldırıb baxanda gördülər ki, daş kənara yuvarlanıb. Bu daş nəhəng idi.</verse>
+        <verse osisID='Mark.16.5'>Qəbirə girib sağ tərəfdə ağ xalat geyinmiş bir gəncin oturduğunu gördülər və heyrətə gəldilər.</verse>
+        <verse osisID='Mark.16.6'>Bu şəxs onlara dedi: «Siz heyrətlənməyin! Çarmıxa çəkilmiş Nazaretli İsanı axtarırsınız. O dirilmişdir! Burada yoxdur. Bax bu Onu qoyduqları yerdir.</verse>
+        <verse osisID='Mark.16.7'>İndi isə gedin, Onun şagirdlərinə və Peterə belə söyləyin: “İsa Qalileyaya sizdən qabaq gedir. Sizə dediyi kimi Onu orada görəcəksiniz”».</verse>
+        <verse osisID='Mark.16.8'>Qadınlar qəbirdən çıxıb qaçdılar. Onları bir lərzə bürümüşdü, mat qalmışdılar. Qorxularından heç kimə bir söz demirdilər. </verse>
+        <verse osisID='Mark.16.9'>İsa həftənin birinci günü səhər tezdən, diriləndən sonra əvvəlcə yeddi cin qovduğu Məcdəlli Məryəmə göründü.</verse>
+        <verse osisID='Mark.16.10'>Məryəm gedib İsanın yanında olub, indi isə yas tutaraq ağlayanlara xəbər verdi.</verse>
+        <verse osisID='Mark.16.11'>Amma onlar İsanın diri olduğunu və Məryəmə göründüyünü eşidərkən inanmadılar. </verse>
+        <verse osisID='Mark.16.12'>Bundan sonra İsa kənd yerinə gedən yoldan keçən onlardan ikisinə başqa surətdə göründü.</verse>
+        <verse osisID='Mark.16.13'>Onlar geri qayıdıb o birilərinə xəbər verdilər, amma o biriləri də bunlara inanmadılar. </verse>
+        <verse osisID='Mark.16.14'>Nəhayət, İsa süfrəyə oturan On Bir şagirdə göründü; onları imansızlıqlarına və ürəklərinin inadkar olduğuna görə məzəmmət etdi, çünki Onun diri olduğunu görənlərə inanmamışdılar.</verse>
+        <verse osisID='Mark.16.15'>İsa şagirdlərinə dedi: «Dünyanın hər tərəfinə gedin, bütün yaradılışa Müjdəni vəz edin.</verse>
+        <verse osisID='Mark.16.16'>İman edib vəftiz olan kəs xilas olacaq, iman etməyənsə məhkum olacaq.</verse>
+        <verse osisID='Mark.16.17'>İman edənləri isə bu əlamətlər müşayiət edəcək: Mənim adımla cinləri qovacaqlar, yeni dillərdə danışacaqlar,</verse>
+        <verse osisID='Mark.16.18'>ilanları əlləri ilə götürəcəklər, öldürücü zəhər içsələr belə, onlara təsir etməyəcək, əllərini xəstələrin üzərinə qoyacaq və onlar şəfa tapacaq». </verse>
+        <verse osisID='Mark.16.19'>Beləcə Rəbb İsa onlarla danışandan sonra göyə qaldırıldı və Allahın sağında oturdu.</verse>
+        <verse osisID='Mark.16.20'>Şagirdlərsə gedib hər yerdə Müjdəni vəz etdilər. Rəbb onlarla birgə işləyirdi, onları müşayiət edən əlamətlərlə kəlamı təsdiqləyirdi.  </verse>
+      </chapter>
+    </div></osisText>
+</osis>

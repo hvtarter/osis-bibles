@@ -1,0 +1,262 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace'>
+  <osisText osisIDWork='NorthernAzeri' osisRefWork='Bible' xml:lang='az'>
+    <header>
+      <revisionDesc>
+        <date>2012-01-07</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='NorthernAzeri'>
+        <title>Northern Azeri Translation</title>
+        <contributor/>
+        <creator>Mod2Zef (6)</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject/>
+        <date>2012-01-07</date>
+        <description>Northern Azeri Translation</description>
+        <publisher/>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>NorthernAzeri</identifier>
+        <source>no entry TextSource in sword.conf found</source>
+        <language type='IETF'>az</language>
+        <relation/>
+        <coverage>provide the bible to the nations of the world</coverage>
+        <rights>Copyrighted Kutsul Kitab; Permission to distribute granted to CrossWire</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='Lam'>
+      <chapter osisID='Lam.1'>
+        <verse osisID='Lam.1.1'>
+          Yerusəlim şəhəri necə də boş qalıb,  Bir zaman insanlarla dolu idi,İndi dul qadına bənzəyir –Millətlər arasında ulu sayılan,Ellər arasında mələkə olan,Bu şəhər nökərçilik edir.</verse>
+        <verse osisID='Lam.1.2'>Gecələr acı-acı ağlar,Göz yaşları ilə yanağı islanar,Məşuqlarının arasındanOna təsəlli verən yoxdur.Bütün dostları ona xəyanət etdi, düşmən oldu.</verse>
+        <verse osisID='Lam.1.3'>Yəhuda dərdə, ağır zillətə düşüb,İndi sürgünə gedir.O, millətlər arasında yaşayır,O torpaqlarda rahatlıq tapmır,Yəhuda bu iztiraba düşəndə,Təqibçilər ona çatdılar.</verse>
+        <verse osisID='Lam.1.4'>Siona gedən yollar yas tutur,Çünki bayramlarına gələn yoxdur,Buranın bütün darvazaları kimsəsiz qalıb,Kahinləri ah-zar edir.Bu şəhərin qızları əzab-əziyyət çəkir,Buranın aqibəti acıdır,</verse>
+        <verse osisID='Lam.1.5'>İndi düşmənlər bu şəhərin üstündə hökmrandır,Bu yağılar gör necə firavan yaşayır.Çox üsyankar olduqlarına görəRəbb onları bu zülmə saldı,Övladları düşmən önündə əsir aparıldı.</verse>
+        <verse osisID='Lam.1.6'>Sion qızının cah-calalı yox oldu,Onların başçıları otlaqsız maral kimi oldu,Onlar təqib edənlərin qarşısındanTaqətsiz qaçırlar.</verse>
+        <verse osisID='Lam.1.7'>Yerusəlim sıxıntı içində avara gəzərkənÖtən günlərdə olan bütün sərvətini xatırlayır,Xalqı düşmənlərinə təslim olanda köməyinə çatan yoxdur.Düşmənləri ona baxır,Yıxılmağına gülür.</verse>
+        <verse osisID='Lam.1.8'>Yerusəlim böyük günah işlətdi,Ona görə özünü murdar etdi.Yerusəlimə hörmət edənlərin hər biriİndi ona xor baxır,Çünki onu çılpaq görürlər,O da üzünü yana çevirib inləyir.</verse>
+        <verse osisID='Lam.1.9'>Ətəyində ləkələr qaldı,Sonunu düşünməz oldu,Ona görə qorxunc surətdə yıxıldı,Ona təsəlli verən yoxdur,Ya Rəbb, gör bu əzabımı,Çünki düşmən zəfər çaldı.</verse>
+        <verse osisID='Lam.1.10'>Onun bütün sərvətini talamaq üçünDüşmən əlini uzatdı.Göz önündəcə millətlər,Camaatın arasına girməsini qadağan etdiyinMüqəddəs məkanına soxuldu.</verse>
+        <verse osisID='Lam.1.11'>Oranın bütün xalqı zarıyır, çörək axtarır,Canlarını taqətə gətirmək üçünSərvətlərinin əvəzinə azuqə alır.«Ya Rəbb, indi bax, halımı gör,Bir səfilə dönmüşəm».</verse>
+        <verse osisID='Lam.1.12'>Ey yoldan keçənlərin hamısı,Bu iş sizin üçün boşdurmu?Baxın dərdimə, bunun kimisi varmı,Mənim başıma gətirilən dərd başqasında olarmı?Rəbb qəzəbdən alovlanandaBu dərdi başıma tökdü.</verse>
+        <verse osisID='Lam.1.13'>Yuxarıdan od göndərdi,Sümüklərimədək bu odu yeritdi.Ayaqlarım üçün tor qurdu,Məni geri qaytardı.Gün boyu məni yalqız qoydu, taqətdən saldı.</verse>
+        <verse osisID='Lam.1.14'>Xudavənd günahlarımı mənə boyunduruq etdi,Əli ilə bir-birinə hördü,Onları boynuma keçirtdi,Taqətimi tükəndirdi.Məni qarşısında dura bilmədiyimİnsanlara təslim etdi.</verse>
+        <verse osisID='Lam.1.15'>Məni müdafiə edən cəngavərlər vardı,Hamısı Xudavənd tərəfindən atıldı.Mənə qarşı bir ordu göndərdi,Seçmə igidlərimi qırıb tapdalatdı.Bakirə Yəhuda qızını üzümsıxanda əzdi.</verse>
+        <verse osisID='Lam.1.16'>Bunlar üçün ağlayıram,Gözlərimdən yaş axır.Təsəlli verən məndən uzaqdır,Məni dirçəldən uzaqdır.Övladlarım yalqız qalıb,Çünki düşmən zəfər çalıb.</verse>
+        <verse osisID='Lam.1.17'>Sion əl açıb,Amma ona təsəlli verən yoxdur.Rəbb Yaqub nəslinə qarşı bu əmrini verib:«Qoy qonşuları onun düşməni olsun,Çünki Yerusəlim onlar üçün murdar əskiyə çevrilib».</verse>
+        <verse osisID='Lam.1.18'>Rəbb adildir, mən isə əmrinə qarşı çıxdım,Ey bütün xalqlar, siz mənə qulaq asın!Mənim çəkdiyim bu dərdə baxın,Bakirə qızlarım, igidlərim sürgünə gedib.</verse>
+        <verse osisID='Lam.1.19'>Müttəfiqlərimi çağırdım,Lakin məni aldatdılar,Kahinlərim, ağsaqqallarım cana gəlmək üçünYemək axtardılar,Amma şəhərin içindəcə canlarını tapşırdılar.</verse>
+        <verse osisID='Lam.1.20'>Ya Rəbb, bax dara düşmüşəm,Canım əzabdan yanır.Çox üsyankarlıq etmişəm,Buna görə ürəyim üzülür.Bayırdakı qılınc məni övladsız qoyur,Ölüm evimi içəridən bəzəyir.</verse>
+        <verse osisID='Lam.1.21'>Necə ah-zar çəkdiyimi eşidiblər,Amma mənə təsəlli verən yoxdur,Düşmənlərim bu əziyyətimdən xəbər tutdu,Onlar başıma gələnlərə sevinir,Elan etdiyin günü yetir!Qoy onlar mənim vəziyyətimə düşsün.</verse>
+        <verse osisID='Lam.1.22'>Etdikləri pislikləri yada sal,Üsyankarlığıma görə mənə etdiyini onlara da et,Çox ah-nalə çəkirəm,Ürəyim taqətdən düşüb. </verse>
+      </chapter>
+      <chapter osisID='Lam.2'>
+        <verse osisID='Lam.2.1'>Xudavənd Sion qızına qəzəblənərkənOnu hər tərəfdən qara bulud aldı.İsrailin əzəmətini göydən yerə tulladı,Qəzəbləndiyi gün kətilini   xatirindən çıxardı.</verse>
+        <verse osisID='Lam.2.2'>Xudavənd aman vermədənYaqub nəslinin bütün məskənlərini dağıtdı,Qəzəbi ilə Yəhuda qızının qalalarını yıxdı,Padşahlığı, başçıları yerlə yeksan etdi.</verse>
+        <verse osisID='Lam.2.3'>Qızğın qəzəbi ilə İsrailin qüvvəsini kökündən kəsdi,Düşmən önündə onun üstündən sağ əlini götürdü.Sanki Yaqub nəslini hər tərəfdən oda saldıGöndərdiyi atəşlə yandırıb-yaxdı.</verse>
+        <verse osisID='Lam.2.4'>Düşmən kimi kamanının yayını dartdı,Yağı kimi sağ əlini qaldırdı,Gözə xoş görünənləri tamamilə öldürdü.Qəzəbini Sion qızının çadırına alov kimi tökdü.</verse>
+        <verse osisID='Lam.2.5'>Xudavənd İsraili uddu,Onunla düşmən kimi rəftar etdi.Bütün saraylarını yerlə yeksan etdi,Qalalarını viran qoydu,Yəhudanın fəryadını, fəğanını daha da artırdı.</verse>
+        <verse osisID='Lam.2.6'>Çardağını viranə bağlar tək qırıb tökdü,Görüş yerlərini xarabalığa çevirdi,Rəbb Siona bayram və Şənbə günlərini unutdurdu,Qəzəbi ilə padşahını, kahinini atdı.</verse>
+        <verse osisID='Lam.2.7'>Xudavənd qurbangahını rədd etdi,Müqəddəs məkanını tərk etdi.Saraylarının sədlərini düşmən əlinə keçirtdi,Onlar bayram günlərində olduğu kimiRəbbin məbədində haray qopardı.</verse>
+        <verse osisID='Lam.2.8'>Rəbb niyyət etdi ki,Sion qızının divarlarını dağıtsın.Ölçü ipini dartıb, dağıtmaq üçün ondan əl çəkməyəcək.Qala divarını, səddini, matəmə bürüyüb,Hamısı qüvvələrini itirib.</verse>
+        <verse osisID='Lam.2.9'>Onun darvazalarını yerə batırdı,Cəftələrini qırıb atdı,Padşahlarını, başçılarınıYad millətlərin arasına saldı,Qanuna əməl edilmir,Artıq peyğəmbərlərinə Rəbdən görüntü gəlmir.</verse>
+        <verse osisID='Lam.2.10'>Sion qızının ağsaqqalları susub-dinmir,Onlar toz-torpaq içində əyləşib,Başlarına toz töküb, çul geyib,Yerusəlimin bakirə qızları başlarını yerə dikib.</verse>
+        <verse osisID='Lam.2.11'>Ağlamaqdan gözlərimin nuru gedir,Canım əzabdan yanır.Əziz xalqım qırıldığına görə ürəyimdən qan axır.Çünki şəhər meydanlarındakıKörpələrin, uşaqların huşu başından çıxır.</verse>
+        <verse osisID='Lam.2.12'>Şəhər meydanlarında yaralılar kimi huşunu itirirlər,Ana qucağında can verirlər.Analarından soruşurlar:«Hanı çörək, hanı şərab?»</verse>
+        <verse osisID='Lam.2.13'>Ey Yerusəlim qızı, sənə nə deyim?Səni kimlə müqayisə edim?Ey bakirə Sion qızı, səni kimə bənzədim?Bununla mən sənə təsəlli verə bilim?Çünki yaran dəniz qədər dərindir,Sənə kim şəfa verə bilər?</verse>
+        <verse osisID='Lam.2.14'>Sənin üçün görülən görüntülər yalan oldu,Peyğəmbərlərin səni aldatdı.Firavanlığını sənə qaytarmaq üçünTəqsirlərini üzə çıxartmadılar,Amma bu peyğəmbərlər səni azdırdı,Sənin üçün yalandan görüntülər gördü.</verse>
+        <verse osisID='Lam.2.15'>Yoldan keçən bütün insanlarQarşında əl çalırlar,Başlarını yelləyib səni fitə basırlar.Yerusəlim qızına belə deyirlər:«Bütün dünyanın gözəllik və sevinc rəmzi olan şəhər budurmu?»</verse>
+        <verse osisID='Lam.2.16'>Bütün düşmənlərin səni ələ salır,Fitə basır, diş qıcıdır,«Onu udduq,Bu günün həsrətini çəkdik, axır ki bunu gördük» deyirlər.</verse>
+        <verse osisID='Lam.2.17'>Rəbb Öz iradəsini yerinə yetirdi,Qədim zamanlarda əmr etdiyi sözü həyata keçirtdi.Səni viran qoydu, aman vermədi,Düşmənlərini sənin halına sevindirdi,Yağılarını gücləndirdi.</verse>
+        <verse osisID='Lam.2.18'>Xalq Xudavəndə ürəkdən fəryad etdi,Ey Sion qızının divarı!Qoy gecə-gündüz sənin gözlərindən sel kimi yaş axsın,Dincəlmə, aç gözlərini, yumulmasın.</verse>
+        <verse osisID='Lam.2.19'>Qalx, gecə fəryad etməyə,Gecə növbələri başlayarkənXudavəndin hüzurunda qəlbini sular kimi açıb tök.Əllərini Ona aç, övladlarının sağ qalmasını dilə,Onlar hər tin başında acından huşunu itirir.</verse>
+        <verse osisID='Lam.2.20'>Ya Rəbb, indi bax, xalqının halını gör!Kiminlə belə rəftar etmisən?Analar uşaqlarını, əziz balalarınımı yesin?Kahinlər, peyğəmbərlər Xudavəndin Müqəddəs məkanındamı qətlə yetirilsin?</verse>
+        <verse osisID='Lam.2.21'>Gənclər, qocalar toz-torpaqda, küçələrdə yatır.Bakirə qızlarım, igidlərim qılıncdan keçirilir.Qəzəbləndiyin gün onları qətlə çatdırmısan,Aman vermədən qırmısan.</verse>
+        <verse osisID='Lam.2.22'>Qorxduqlarımı hər yandan çağırmısan,Elə bil bayrama dəvət etmisən.Rəbbin qəzəb günündə qaçıb-qurtulan olmadı,Onların arasından sağ qalan olmadı,Sevə-sevə övlad böyütmüşdüm,Onları düşmənim həlak etdi.</verse>
+      </chapter>
+      <chapter osisID='Lam.3'>
+        <verse osisID='Lam.3.1'>Rəbbin qəzəb dəyənəyindənMən əzab çəkirəm,</verse>
+        <verse osisID='Lam.3.2'>O məni apardı,İşıqda deyil, qaranlıqda gəzdirdi.</verse>
+        <verse osisID='Lam.3.3'>Bütün gün – dəfələrlə qaldırdığı əliMənə qarşıdır.</verse>
+        <verse osisID='Lam.3.4'>Ətimi, dərimi çürütdü,Sümüklərimi sındırdı.</verse>
+        <verse osisID='Lam.3.5'>Məni əzabla, cəfa ilə sarıdı,Mühasirəyə saldı.</verse>
+        <verse osisID='Lam.3.6'>Çoxdan ölüb-gedənlər kimiMəni zülmətdə yaşatdı.</verse>
+        <verse osisID='Lam.3.7'>Ətrafımı hər tərəfdən hasara aldı,Məni zəncirləyib, qaça bilmirəm.</verse>
+        <verse osisID='Lam.3.8'>Fəryad edib mən imdad istəyərkənO, duamın qarşısına sədd çəkdi.</verse>
+        <verse osisID='Lam.3.9'>Yonma daşlarla yollarımı kəsdi,Onları dolaşdırdı.</verse>
+        <verse osisID='Lam.3.10'>Mənə ayı kimi pusqu düzəldir,Gizlənib aslan kimi məni güdür.</verse>
+        <verse osisID='Lam.3.11'>Yoldan sürükləyib məni parçaladı,Çarəsiz hala saldı.</verse>
+        <verse osisID='Lam.3.12'>Kamanının yayını çəkdi,Məni Özü üçün bir hədəf etdi.</verse>
+        <verse osisID='Lam.3.13'>Çəkib oxdanından ox atdı,Böyrəyimə sapladı.</verse>
+        <verse osisID='Lam.3.14'>Gün boyu xalqımın gülüş hədəfinə döndüm,Məzhəkəli nəğmə ilə məni ələ salırlar.</verse>
+        <verse osisID='Lam.3.15'>O, acı otlardan mənə doyunca yedirtdi,Yovşan suyunu içirtdi.</verse>
+        <verse osisID='Lam.3.16'>Dişlərimi çınqılla qırdı,Kül içində məni diz çökdürtdü.</verse>
+        <verse osisID='Lam.3.17'>Salamatlıqdan canımı uzaq etdi,Yaxşılığı unutdum.</verse>
+        <verse osisID='Lam.3.18'>Dedim: «Üzərimdən əzəmətim getdi,Rəbdən ümidim kəsildi».</verse>
+        <verse osisID='Lam.3.19'>Əzabımı və sərgərdanlığımı,Acı yovşanı və zəhəri yada sal.</verse>
+        <verse osisID='Lam.3.20'>Daim onları xatırlayıram,Ona görə köksümdən ürəyim üzülür.</verse>
+        <verse osisID='Lam.3.21'>Amma bunları yada salarkənMəndə ümid yaranır.</verse>
+        <verse osisID='Lam.3.22'>Rəbbin məhəbbətinə görə məhv olmadıq,Çünki mərhəməti tükənməzdir.</verse>
+        <verse osisID='Lam.3.23'>Hər səhər bunlar təzələnir,Sənin sədaqətin böyükdür.</verse>
+        <verse osisID='Lam.3.24'>Öz-özümə deyirəm: «Rəbb mənim nəsibimdir»,Ona görə Rəbbə ümid bəsləyirəm.</verse>
+        <verse osisID='Lam.3.25'>Rəbb Ona güvənənlərə,Onu axtaran könüllərə xeyirxahdır.</verse>
+        <verse osisID='Lam.3.26'>Rəbbə ümid bəsləmək,Sakitcə bizə qurtuluş verməsini gözləmək nə yaxşıdır.</verse>
+        <verse osisID='Lam.3.27'>Yaxşı olar ki, insanBoyunduruğunu gənc yaşından daşısın.</verse>
+        <verse osisID='Lam.3.28'>Qoy susub tənha otursun,Axı Rəbb boynuna boyunduruq salıb.</verse>
+        <verse osisID='Lam.3.29'>Üzünü yerə sürtsün,Bəlkə hələ ümid var.</verse>
+        <verse osisID='Lam.3.30'>İzin versin, qoy sifətinə vursunlar,Qoy ona doyunca böhtan atsınlar.</verse>
+        <verse osisID='Lam.3.31'>Çünki Xudavənd əbədilikBizi Özündən kənar etməz.</verse>
+        <verse osisID='Lam.3.32'>Qəm-qüssə versə belə,Bol məhəbbətinə görə rəhmə gələr.</verse>
+        <verse osisID='Lam.3.33'>Çünki ürəkdən istəyərək bəşər övladlarına əzab verməz,Heç kimi kədərləndirməz.</verse>
+        <verse osisID='Lam.3.34'>Dünyadakı bütün əsirlərin ayaq altında əzilməsini,</verse>
+        <verse osisID='Lam.3.35'>Haqq-Taalanın hüzurunda insanınÖz haqlarından məhrum olmasını,</verse>
+        <verse osisID='Lam.3.36'>İnsanın ədalətdən məhrum olmasınıXudavənd heç görmürmü?</verse>
+        <verse osisID='Lam.3.37'>Xudavənd əmr verməsə,Kimin dediyi həyata keçər?</verse>
+        <verse osisID='Lam.3.38'>Həm xeyir, həm də şər,Haqq-Taalanın əmri ilə gələr.</verse>
+        <verse osisID='Lam.3.39'>Öz günahının cəzasındanSağ qalan insan niyə şikayətlənir?</verse>
+        <verse osisID='Lam.3.40'>Qoy yollarımıza diqqətlə baxaq,Rəbbə yenidən üz tutaq.</verse>
+        <verse osisID='Lam.3.41'>Göylərdəki Allaha əllərimizi,Həm də ürəklərimizi açaq.</verse>
+        <verse osisID='Lam.3.42'>Deyək: «Biz qanunsuzluq və üsyankarlıq etdik,Bunu bizə bağışlamadın».</verse>
+        <verse osisID='Lam.3.43'>Qəzəbə bürünmüsən, bizi təqib etmisən,Aman vermədən öldürmüsən.</verse>
+        <verse osisID='Lam.3.44'>Özünə buludlardan örtük çəkdin,Onların arasından dua keçmir.</verse>
+        <verse osisID='Lam.3.45'>Xalqlar arasındaBizi zibilə, tullantıya çevirmisən.</verse>
+        <verse osisID='Lam.3.46'>Bütün düşmənlərimizin bizə qarşıAğızları açıldı.</verse>
+        <verse osisID='Lam.3.47'>Dəhşət və çuxur,Məhv və qırğın birlikdə başımıza gəldi.</verse>
+        <verse osisID='Lam.3.48'>Qırılan əziz xalqıma görəGözlərimdən sel kimi yaş axdı.</verse>
+        <verse osisID='Lam.3.49'>Dinmədən, dayanmadanGözlərimdən yaş axacaq,</verse>
+        <verse osisID='Lam.3.50'>Rəbb göylərdən aşağıya baxana qədər,Olanları görənə qədər.</verse>
+        <verse osisID='Lam.3.51'>Şəhərimdəki hər qızın taleyini görərkənÜrəyimi kədər bürüyür.</verse>
+        <verse osisID='Lam.3.52'>Nahaq yerə mənə düşmən olanlarMəni quş tək ovladılar.</verse>
+        <verse osisID='Lam.3.53'>Quyuya salıb məni öldürmək istədilər,Daşqalaq etdilər.</verse>
+        <verse osisID='Lam.3.54'>Sular başımdan aşdı,Dedim: «Ömrüm sona çatdı».</verse>
+        <verse osisID='Lam.3.55'>Ya Rəbb, isminiO quyunun dibindən səslədim.</verse>
+        <verse osisID='Lam.3.56'>«Qulağını tıxama, fəryadımı dinlə» deyərkənSəsimi eşitdin.</verse>
+        <verse osisID='Lam.3.57'>Səni çağıranda yanıma gəldin,Mənə «qorxma» söylədin.</verse>
+        <verse osisID='Lam.3.58'>Ey Xudavənd, mənim əməlimə baxdın,Həyatımı satın aldın.</verse>
+        <verse osisID='Lam.3.59'>Ya Rəbb, başıma gətirdikləri şəri gördün,Bu iş barədə hökmünü ver.</verse>
+        <verse osisID='Lam.3.60'>Mənə bəslədikləri kini,Mənə qarşı qurulan fəndləri gördün.</verse>
+        <verse osisID='Lam.3.61'>Ya Rəbb, mənə etdikləri həqarəti eşitdin,Əleyhimə fənd qururlar.</verse>
+        <verse osisID='Lam.3.62'>Əleyhdarlarımın pıçıltısını,Gün boyu mənə qarşı mırıltısını eşitdin.</verse>
+        <verse osisID='Lam.3.63'>Onların oturuşuna-duruşuna bax,Onlara məzhəkə nəğməsi olmuşam.</verse>
+        <verse osisID='Lam.3.64'>Ya Rəbb, onların əllərinin əməllərinə görəƏvəzini verəcəksən.</verse>
+        <verse osisID='Lam.3.65'>Onların qəlbini inadkar et,Qoy lənətin onların üstünə gəlsin.</verse>
+        <verse osisID='Lam.3.66'>Ya Rəbb, qəzəbinlə onları qov,Səma altından məhv edib at!</verse>
+      </chapter>
+      <chapter osisID='Lam.4'>
+        <verse osisID='Lam.4.1'>Qızıl necə də tutqunlaşdı,Saf qızıl parıltıdan düşdü.Müqəddəs daşlarHər küçə başına dağılmışlar.</verse>
+        <verse osisID='Lam.4.2'>Sion övladları tərəziyə qoyulandaSaf qızıldan da qiymətli idi.İndi isə onlar saxsı qablara,Dulusçunun əl işinə bərabər olublar.</verse>
+        <verse osisID='Lam.4.3'>Çaqqallar belə, balalarına əmcək verir,Onları əmizdirir.Əziz xalqım isə insafı atır,Səhra dəvəquşularına oxşayır.</verse>
+        <verse osisID='Lam.4.4'>Südəmər körpənin diliSusuzluqdan damağına yapışır.Uşaqlar yemək istəyir, verən yoxdur.</verse>
+        <verse osisID='Lam.4.5'>Ən ləziz yeməkləri yeyənlərİndi küçələrdə taqətdən düşüblər.Al rəngli paltar geyib-böyüyənlərZibillikdə yatırlar.</verse>
+        <verse osisID='Lam.4.6'>Axı əziz xalqımın təqsiri  Sodomun günahını keçdi,Bu şəhər əl toxunmadanBir andaca yerlə yeksan oldu.</verse>
+        <verse osisID='Lam.4.7'>Yerusəlimin başçıları qardan da təmiz idi,Süddən də bəyaz idi,Vücudları qıpqırmızı yaqut kimi idi,Zahirən göy yaquta bənzəyirdi.</verse>
+        <verse osisID='Lam.4.8'>İndisə üzləri kömür kimi qaralıb,Küçələrdə heç birini tanımaq olmur,Onlar cılızlaşaraq bir sümük, bir də dəri qalıb,Ağac kimi quruyub.</verse>
+        <verse osisID='Lam.4.9'>Bu aclığın qurbanındansaQılınc qurbanı olan bəxtiyardır.Zəminin məhsulundan məhrum olmuşdular,Əriyən canlarında can qalmayıb.</verse>
+        <verse osisID='Lam.4.10'>Hətta ən qəlbiyumşaq qadınlar  Öz əlləri ilə balalarını bişirirdi.Əziz xalqım qırılarkənBalalarının ətini yeyirdi.</verse>
+        <verse osisID='Lam.4.11'>Rəbb hiddətini boşaltdı,Qızğın qəzəbini yağdırdı,Sionda alovunu alışdırdı,Onu təməlinədək yandırıb-yaxdı.</verse>
+        <verse osisID='Lam.4.12'>Dünyada heç bir padşah inanmazdı ki,Yerusəlimin darvazalarından keçibYağılar və düşmənlərBu şəhəri zəbt edər.</verse>
+        <verse osisID='Lam.4.13'>Bu iş şəhərdə salehlərin qanının tökülməsiPeyğəmbərlərin günahları, kahinlərin təqsirləri üzündən oldu,</verse>
+        <verse osisID='Lam.4.14'>Kor kimi küçələrdə dolanırdılar,Qanla murdar oldular,Onların libaslarına belə,Kimsə toxuna bilməz.</verse>
+        <verse osisID='Lam.4.15'>İnsanlar onlara qışqırır: «Ey murdarlar, rədd olun!İtilin buradan, bizə dəyməyin, rədd olun!»Onlar qaçqın, sərgərdan dolanarkənBaşqa millətlər deyir: «Bunlar burada qalmasın!»</verse>
+        <verse osisID='Lam.4.16'>Rəbb Özü onları pərən-pərən saldı,Onlara yenidən baxmaz,O daha kahinlərə hörmət etmir,Ağsaqqallara xeyirxahlıq göstərmir.</verse>
+        <verse osisID='Lam.4.17'>Hər an boş yerə yardım gözləməkdənGözlərimiz taqətdən düşdü,Bizi qurtara bilməyən millətiHey gözlədik, gəlmədi.</verse>
+        <verse osisID='Lam.4.18'>Ardımızca düşmən düşüb,Küçələrdə gəzə bilmirik.Sonumuz çatdı, günlərimiz bitdi,Aqibətimiz sona yetdi.</verse>
+        <verse osisID='Lam.4.19'>Bizi təqib edənlərGöylərdəki qartallardan sürətlidirlər,Dağlarda ardımızca düşdülər,Pusqu qurub səhrada gözlədilər.</verse>
+        <verse osisID='Lam.4.20'>Rəbbin məsh etdiyi, həyatımızın nəfəsiOnların xəndəklərində yaxalandı,Halbuki deyirdik: «Onun kölgəsindəMillətlərin içində yaşayacağıq».</verse>
+        <verse osisID='Lam.4.21'>Ey Us ölkəsində yaşayan Edom xalqı,Sevin, fərəhlən!Sən də bu kasadan içəcəksən,Sərxoş olub, çılpaq qalacaqsan.</verse>
+        <verse osisID='Lam.4.22'>Ey Sion qızı, təqsirinin cəzası sona çatdı,Rəbb səni bir daha sürgünə göndərməyəcək,Ey Edom xalqı, təqsirini cəzasına çatdıracaq,Günahlarını meydana çıxaracaq.</verse>
+      </chapter>
+      <chapter osisID='Lam.5'>
+        <verse osisID='Lam.5.1'>Ya Rəbb, başımıza gələni yada salGör bu xəcalətimizi, buna nəzər sal.</verse>
+        <verse osisID='Lam.5.2'>İrs torpağımız yadellilərin əlinə keçib,Evlərimiz əcnəbilərə verilib.</verse>
+        <verse osisID='Lam.5.3'>Atalarımız öldü, yetim qaldıq,Analarımız dul qaldı.</verse>
+        <verse osisID='Lam.5.4'>Suyumuzu pulla alıb içirik,Pulla odun almağa məcburuq.</verse>
+        <verse osisID='Lam.5.5'>Bizi qovub başımızdan basırlar,Yorulmuşuq, bizi rahat qoymurlar.</verse>
+        <verse osisID='Lam.5.6'>Doyunca çörək yemək üçünMisirə, Aşşura əl açmışıq.</verse>
+        <verse osisID='Lam.5.7'>Ata-babalarımız günah işlədərək keçib-getdi,Təqsirlərinin cəzası üstümüzə yükləndi.</verse>
+        <verse osisID='Lam.5.8'>Qullar bizə hökmran olub,Bizi onların əlindən qurtaran yoxdur.</verse>
+        <verse osisID='Lam.5.9'>Çöldəki qılınca görə,Canımız bahasına çörək qazanırıq.</verse>
+        <verse osisID='Lam.5.10'>Aclıq bizi yandırıb-yaxdığına görəDərimiz qaralıb, kürəyə bənzəyir.</verse>
+        <verse osisID='Lam.5.11'>Sionda qadınlar,Yəhuda şəhərlərindəki bakirə qızlar zorlanır.</verse>
+        <verse osisID='Lam.5.12'>Başçılar əllərindən asılıb,Ağsaqqallar hörmətdən düşüb.</verse>
+        <verse osisID='Lam.5.13'>Məcburiyyət qarşısında cavanlar əl dəyirmanını çəkir,Oğlanlar odun yükləri altında səndələyir.</verse>
+        <verse osisID='Lam.5.14'>Şəhər darvazasında ağsaqqallar oturmur,Gənclər çalğı alətlərində çalmır.</verse>
+        <verse osisID='Lam.5.15'>Ürəyimizdən şadlıq çəkilib,Oyunlarımız yasa çevrilib.</verse>
+        <verse osisID='Lam.5.16'>Başımızın tacı düşüb,Vay halımıza! Çünki günah işlətmişik.</verse>
+        <verse osisID='Lam.5.17'>Buna görə ürəklərimiz çəkilib,Gözlərimiz qaralıb,</verse>
+        <verse osisID='Lam.5.18'>Çünki Sion dağı viran qalıb,Üstündə tülkülər gəzib-dolaşır.</verse>
+        <verse osisID='Lam.5.19'>Sən isə, ya Rəbb, əbədi hökmransan,  Nəsildən-nəslə qədər taxtında oturacaqsan.</verse>
+        <verse osisID='Lam.5.20'>Uzun zamandan bəri niyə bizi bu qədər tərk etmisən?Niyə bizi bu qədər uzun müddətə tərk etmisən?</verse>
+        <verse osisID='Lam.5.21'>Ya Rəbb, bizi Özünə qaytar,Təzədən əvvəlki günlərimizə qayıdaq!</verse>
+        <verse osisID='Lam.5.22'>Yoxsa hüzurundan bizi tamamilə atmısan,Bizə qarşı hədsiz qəzəblənmisən?</verse>
+      </chapter>
+    </div></osisText>
+</osis>

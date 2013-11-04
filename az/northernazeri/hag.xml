@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace'>
+  <osisText osisIDWork='NorthernAzeri' osisRefWork='Bible' xml:lang='az'>
+    <header>
+      <revisionDesc>
+        <date>2012-01-07</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='NorthernAzeri'>
+        <title>Northern Azeri Translation</title>
+        <contributor/>
+        <creator>Mod2Zef (6)</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject/>
+        <date>2012-01-07</date>
+        <description>Northern Azeri Translation</description>
+        <publisher/>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>NorthernAzeri</identifier>
+        <source>no entry TextSource in sword.conf found</source>
+        <language type='IETF'>az</language>
+        <relation/>
+        <coverage>provide the bible to the nations of the world</coverage>
+        <rights>Copyrighted Kutsul Kitab; Permission to distribute granted to CrossWire</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='Hag'>
+      <chapter osisID='Hag.1'>
+        <verse osisID='Hag.1.1'>
+            Padşah Daranın hakimiyyətinin ikinci ili, altıncı ayın birində  Yəhuda valisi Şealtiel oğlu Zerubbabilə və baş kahin Yehosadaq oğlu Yeşuaya peyğəmbər Haqqay vasitəsilə Rəbbin bu sözü nazil oldu:</verse>
+        <verse osisID='Hag.1.2'>«Ordular Rəbbi belə deyir: “Bu xalq deyir ki, hələ Rəbbin məbədini qurmaq vaxtı çatmayıb”». </verse>
+        <verse osisID='Hag.1.3'>Rəbbin bu sözü peyğəmbər Haqqay vasitəsilə nazil oldu:</verse>
+        <verse osisID='Hag.1.4'>«Bu məbəd xaraba qaldığı haldaSizin üçün damı yaraşıqlı evlərinizdə oturmaq vaxtıdırmı?»</verse>
+        <verse osisID='Hag.1.5'>İndi isə Ordular Rəbbi belə deyir:«Həyat yollarınız haqqında yaxşı düşünün.</verse>
+        <verse osisID='Hag.1.6'>Çox əkdiniz, amma az götürdünüz.Yeyirsiniz, amma doymursunuz.İçirsiniz, amma susuzluğunuz yatmır.Geyinirsiniz, amma geyiminiz sizi isitmir.Məvacibiniz cırıq kisəyə qoyulur».</verse>
+        <verse osisID='Hag.1.7'>Ordular Rəbbi belə deyir:«Həyat yollarınız haqqında yaxşı düşünün.</verse>
+        <verse osisID='Hag.1.8'>İndi dağlara çıxıb ağac gətirin və məbədi qurun.Onda razı qalaram, izzətlənərəm».Bunu deyən Rəbdir.</verse>
+        <verse osisID='Hag.1.9'>Ordular Rəbbi belə bəyan edir:«Çox şey gözlədiniz, budur, az oldu.Az olanı da evə gətirəndə onları sovurdum.Nə üçün? Xaraba qalan məbədimə görə.Amma siz öz evləriniz üçün əlləşirsiniz.</verse>
+        <verse osisID='Hag.1.10'>Sizdən ötrü buna görə göylər şehini, yer də məhsulunu kəsdi.</verse>
+        <verse osisID='Hag.1.11'>Yerə, dağlara, taxıla, təzə şəraba, zeytun yağına,Torpağın yetirdiyi nemətlərə,Eləcə də insana, heyvana və əllərinizin bütün zəhmətinəMən quraqlıq elan etdim». </verse>
+        <verse osisID='Hag.1.12'>Şealtiel oğlu Zerubbabil ilə baş kahin Yehosadaq oğlu Yeşua və xalqın sağ qalanları özlərinin Allahı Rəbbin dediklərinə – peyğəmbər Haqqayın sözünə baxdılar. Çünki onu onların Allahı Rəbb göndərmişdi. Xalq Rəbdən qorxdu.</verse>
+        <verse osisID='Hag.1.13'>Rəbbin elçisi Haqqay Rəbbin müraciəti ilə xalqa belə dedi: «Rəbb deyir: “Mən sizinləyəm”».</verse>
+        <verse osisID='Hag.1.14'>Rəbb Yəhuda valisi Şealtiel oğlu Zerubbabili, baş kahin Yehosadaq oğlu Yeşuanı və xalqın sağ qalanlarını ruhlandırdı. Xalq yığılıb özlərinin Allahı olan Ordular Rəbbinin məbədində işləməyə başladı.</verse>
+        <verse osisID='Hag.1.15'>Bu hadisə padşah Daranın hakimiyyətinin ikinci ili, altıncı ayın iyirmi dördündə baş verdi.  </verse>
+      </chapter>
+      <chapter osisID='Hag.2'>
+        <verse osisID='Hag.2.1'>
+          Yeddinci ayın iyirmi birində peyğəmbər Haqqay vasitəsilə Rəbbin bu sözü nazil oldu:</verse>
+        <verse osisID='Hag.2.2'>«İndi Yəhuda valisi Şealtiel oğlu Zerubbabilə, baş kahin Yehosadaq oğlu Yeşuaya və xalqın sağ qalanlarına belə söylə:</verse>
+        <verse osisID='Hag.2.3'>“Sizin aranızda kim burada olan məbədin əvvəlki əzəmətini görmüşdür? İndi buranı necə görürsünüz? Gözünüz önündə sanki bir heçə çevrilməyibmi?”</verse>
+        <verse osisID='Hag.2.4'>Rəbb deyir: “İndi isə, ey Zerubbabil, qüvvətlən! Qüvvətlən, ey baş kahin olan Yehosadaq oğlu Yeşua! Ey bütün ölkə xalqı, qüvvətlənin və işləyin! Çünki Mən sizinləyəm”. Ordular Rəbbi belə bəyan edir:</verse>
+        <verse osisID='Hag.2.5'>“Misirdən çıxan zaman sizinlə bağladığım əhdə əsasən Ruhum aranızdadır. Qorxmayın!” </verse>
+        <verse osisID='Hag.2.6'>Budur, Ordular Rəbbi belə deyir: “Tezliklə Mən göyləri, yeri, dənizi, torpağı bir də lərzəyə gətirəcəyəm!</verse>
+        <verse osisID='Hag.2.7'>Bütün millətləri lərzəyə salacağam; bütün millətlərin var-dövləti gələcək və bu evi əzəmətlə dolduracağam”. Ordular Rəbbi belə deyir.</verse>
+        <verse osisID='Hag.2.8'>“Bütün qızıl-gümüş Mənimdir”. Ordular Rəbbi belə bəyan edir.</verse>
+        <verse osisID='Hag.2.9'>Ordular Rəbbi belə deyir: “İndiki məbədin əzəməti əvvəlkindən üstün olacaq. Bu yerə əmin-amanlıq verəcəyəm”. Ordular Rəbbi belə bəyan edir». </verse>
+        <verse osisID='Hag.2.10'>Daranın hakimiyyətinin ikinci ili, doqquzuncu ayın iyirmi dördündə Rəbbin sözü peyğəmbər Haqqaya nazil oldu.</verse>
+        <verse osisID='Hag.2.11'>Ordular Rəbbi belə deyir: «Qanun haqqında kahinlərə bir müraciət edin:</verse>
+        <verse osisID='Hag.2.12'>“Kimsə cübbəsinin ətəyində təqdis olunmuş ət gəzdirən zaman ətəyi ilə çörəyə, şorbaya, şəraba, zeytun yağına və yaxud hər hansı bir ərzağa toxunarsa, bunlar təqdis olunarmı?”» Kahinlər bu suala «xeyr» deyə cavab verdi.</verse>
+        <verse osisID='Hag.2.13'>Haqqay dedi: «Bəs ölü cəsədə toxunub murdarlanan bir adam həmin ərzaqlardan birinə toxunarsa, bu ərzaq murdar olarmı?» Kahinlər cavab verdi: «Murdar olar». </verse>
+        <verse osisID='Hag.2.14'>Haqqay sonra belə dedi: «Rəbb belə bəyan edir: “Bu xalq – bu millət Mənim gözümdə belədir. Onların hər əməli belədir. Mənə təqdim etdikləri hər şey murdardır.</verse>
+        <verse osisID='Hag.2.15'>İndi rica edirəm, bu gündən etibarən nə olacağını dərindən düşünün. Rəbbin məbədinin daşı daş üstünə qoyulmazdan əvvəl işləriniz necə gedirdi?</verse>
+        <verse osisID='Hag.2.16'>O zaman hər kim iyirmi kisə məhsul gözləyirdisə, on kisə olurdu. Şərab çənindən kim əlli qab şərab çəkmək istəyirdisə, iyirmi qablıq şərab tapırdı”.</verse>
+        <verse osisID='Hag.2.17'>Rəbb belə bəyan edir: “Özünüzü və əllərinizin bütün zəhmətini səmum küləyi, kif və dolu ilə vurdum. Yenə Mənə sarı dönmədiniz.</verse>
+        <verse osisID='Hag.2.18'>Rica edirəm, dərindən düşünün. Bu gün doqquzuncu ayın iyirmi dördündən – Rəbbin məbədinin təməli qoyulan gündən sonra nə baş verəcəyi barədə yaxşı düşünün.</verse>
+        <verse osisID='Hag.2.19'>Anbarda toxum qalıbmı? Məgər üzüm, əncir, nar, zeytun ağacı bar gətirməyib? Bu gündən etibarən sizə bərəkət verəcəyəm!”» </verse>
+        <verse osisID='Hag.2.20'>Rəbbin bu sözü Haqqaya ikinci dəfə ayın iyirmi dördündə nazil oldu:</verse>
+        <verse osisID='Hag.2.21'>«Yəhuda valisi Zerubbabilə belə de: “Mən göyləri və yeri lərzəyə gətirəcəyəm.</verse>
+        <verse osisID='Hag.2.22'>Padşahlıqların taxt-taclarını alt-üst edəcəyəm. Millətlərin padşahlıqlarının gücünü darmadağın edəcəyəm. Döyüş arabaları ilə sürücülərini aşıracağam, atlarla süvarilər yerə səriləcəklər. Hamı qardaş qılıncı ilə qırılacaq”». </verse>
+        <verse osisID='Hag.2.23'>Ordular Rəbbi bəyan edir: «Ey qulum Şealtiel oğlu Zerubbabil, o gün səni götürüb möhürlü üzük edəcəyəm, çünki səni seçdim». Rəbb bu sözləri dedi. Bu, Ordular Rəbbinin bəyanıdır.  </verse>
+      </chapter>
+    </div></osisText>
+</osis>

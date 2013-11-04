@@ -1,0 +1,190 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace'>
+  <osisText osisRefWork='Bible' osisIDWork='CzeB21' xml:lang='cs'>
+    <header>
+      <revisionDesc>
+        <date>2010-02-26</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='CzeB21'>
+        <title>Czech Bible, Překlad 21. století</title>
+        <contributor/>
+        <creator>Mod2Zef (4)</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject/>
+        <date>2009-07-31</date>
+        <description>Bible, Překlad 21. století  vedoucí projektu Alexandr Flek  odborná spolupráce Jiří Hedánek, Pavel Hoffman, Zdeněk Sýkora  Přeloženo z hebrejštiny, aramejštiny, řečtiny  Vydání první  (c) 2009 Biblion, o. s.  www.bible21.org  www.bible21.cz   Překlad 21. století přináší nadčasové poselství Bible v současné, čtivé češtině. Usiluje o maximální věrnost původním hebrejským, aramejským a řeckým textům, zároveň však chce oslovit dnešní čtenáře, ať už jsou zvyklí čerpat z této knihy inspiraci pro každý den, anebo ji otevírají poprvé.</description>
+        <publisher/>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>CzeB21</identifier>
+        <source>no entry TextSource in sword.conf found</source>
+        <language type='IETF'>cs</language>
+        <relation/>
+        <coverage>provide the bible to the nations of the world</coverage>
+        <rights>Copyrighted; Permission to distribute granted to CrossWire</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='Ruth'>
+      <chapter osisID='Ruth.1'>
+        <verse osisID='Ruth.1.1'>Za dnů, kdy rozhodovali soudcové, nastal v zemi hlad. Jeden muž z judského Betléma proto odešel, aby se svou manželkou a dvěma syny nějaký čas bydlel v moábském kraji.</verse>
+        <verse osisID='Ruth.1.2'>Ten muž se jmenoval Elimelech, jeho žena Noemi a jeho dva synové Machlon a Kiljon; byli to Efraimci z judského Betléma. Přišli do moábského kraje a bydleli tam.</verse>
+        <verse osisID='Ruth.1.3'>Elimelech, Noemin muž, pak zemřel a ona zůstala sama se dvěma syny.</verse>
+        <verse osisID='Ruth.1.4'>Ti si vzali moábské ženy; jedna se jmenovala Orpa a druhá Rút. Když tam bydleli asi deset let,</verse>
+        <verse osisID='Ruth.1.5'>zemřeli také Machlon a Kiljon. A tak ta žena zůstala sama, bez svých dvou synů a bez muže.</verse>
+        <verse osisID='Ruth.1.6'>Když se pak v moábském kraji dozvěděla, že Hospodin navštívil svůj lid a dal mu chléb, připravila se s oběma svými snachami k návratu.</verse>
+        <verse osisID='Ruth.1.7'>Noemi se svými snachami odešla z místa, kde žila, aby se vydala na cestu zpět do judské země.</verse>
+        <verse osisID='Ruth.1.8'>"Jděte," řekla tehdy oběma svým snachám, "vraťte se domů ke svým matkám. Kéž je k vám Hospodin laskav, jako jste vy byly laskavé k našim mrtvým i ke mně.</verse>
+        <verse osisID='Ruth.1.9'>Kéž vám oběma Hospodin dá nový domov a manžela." Políbila je na rozloučenou, ale ony se hlasitě rozplakaly.</verse>
+        <verse osisID='Ruth.1.10'>"Raději půjdeme s tebou k tvému lidu," říkaly.</verse>
+        <verse osisID='Ruth.1.11'>"Vraťte se, mé dcery," opakovala Noemi. "Proč byste chodily se mnou? Copak ještě mohu porodit syny, aby se stali vašimi manžely?</verse>
+        <verse osisID='Ruth.1.12'>Vraťte se, mé dcery, odejděte. Jsem už stará na vdávání. I kdybych si řekla, že mám ještě naději, i kdybych se ještě tuto noc vdala a porodila syny,</verse>
+        <verse osisID='Ruth.1.13'>copak byste čekaly, až vyrostou? Copak byste se kvůli tomu zdráhaly vdát? Ne, mé dcery, můj úděl je pro vás příliš trpký. Hospodinova ruka se obrátila proti mně!"</verse>
+        <verse osisID='Ruth.1.14'>Tehdy se rozplakaly ještě více. Orpa nakonec svou tchyni políbila a odešla, ale Rút se jí stále držela.</verse>
+        <verse osisID='Ruth.1.15'>"Pohleď, řekla jí Noemi, "tvá švagrová se vrací ke svému lidu a ke svým bohům. Vrať se s ní."</verse>
+        <verse osisID='Ruth.1.16'>Rút jí ale odpověděla: "Nenuť mě, abych tě opustila a odvrátila se od tebe. Kam půjdeš, půjdu, kde zůstaneš, tam budu. Tvůj lid bude mým lidem a tvůj Bůh mým Bohem.</verse>
+        <verse osisID='Ruth.1.17'>Kde zemřeš, tam zemřu a klesnu do hrobu. Toto ať mi učiní a přidá Hospodin: jen smrt mě s tebou rozdělí!"</verse>
+        <verse osisID='Ruth.1.18'>Když Noemi viděla, že se Rút pevně rozhodla jít s ní, přestala ji přemlouvat.</verse>
+        <verse osisID='Ruth.1.19'>A tak šly obě spolu, až došly k Betlému. Když dorazily do Betléma, nastal kvůli nim po celém městě rozruch. "To je přece Noemi!" říkaly ženy.</verse>
+        <verse osisID='Ruth.1.20'>Ona však odpověděla: "Neříkejte mi Noemi, Rozkoš má, ale spíš Mara, Zatrpklá - tak trpký úděl mi Všemohoucí dal!</verse>
+        <verse osisID='Ruth.1.21'>S plnou náručí jsem odcházela, Hospodin s prázdnou vrátil mě. Proč říkáte mi Noemi? Hospodin stojí proti mně, Všemohoucí mě sužuje!"</verse>
+        <verse osisID='Ruth.1.22'>Tak se tedy Noemi vrátila a s ní z moábského kraje přišla Moábka Rút, její snacha. Když dorazily do Betléma, začínala právě sklizeň ječmene.</verse>
+      </chapter>
+      <chapter osisID='Ruth.2'>
+        <verse osisID='Ruth.2.1'>Noemi měla příbuzného z manželovy strany, znamenitého muže z Elimelechova rodu; jmenoval se Boáz.</verse>
+        <verse osisID='Ruth.2.2'>Moábka Rút se jednou Noemi zeptala: "Mohla bych jít na pole sbírat klasy za někým, kdo mi to dovolí?" "Jdi, má dcero," odpověděla Noemi.</verse>
+        <verse osisID='Ruth.2.3'>Šla tedy, a když přišla na pole, paběrkovala za ženci. (A ten díl pole náhodou patřil tomu Boázovi z Elimelechova rodu.)</verse>
+        <verse osisID='Ruth.2.4'>Vtom z Betléma přišel Boáz. "Hospodin s vámi!" pozdravil žence. "Hospodin ti žehnej!" odpověděli mu.</verse>
+        <verse osisID='Ruth.2.5'>"Čí je ta dívka?" zeptal se Boáz svého služebníka, který měl na starosti žence.</verse>
+        <verse osisID='Ruth.2.6'>Služebník mu řekl: "To je ta mladá Moábka, která přišla s Noemi z moábského kraje.</verse>
+        <verse osisID='Ruth.2.7'>Ptala se: ‚Mohla bych jít za ženci a paběrkovat mezi snopy?' Co přišla, je na nohou, od rána až doteď, jen na chvilku si odpočala."</verse>
+        <verse osisID='Ruth.2.8'>Boáz tedy Rút oslovil: "Poslyš, dcero, nechoď paběrkovat na jiné pole. Neodcházej odsud, ale drž se u mých děveček.</verse>
+        <verse osisID='Ruth.2.9'>Sleduj, kde budou na poli sklízet, a choď za nimi. Služebníkům přikážu, ať se tě ani nedotknou. Když budeš mít žízeň, jdi k nádobám a napij se vody, kterou služebníci načerpali."</verse>
+        <verse osisID='Ruth.2.10'>Rút padla na tvář a poklonila se až k zemi se slovy: "Čemu vděčím za tu laskavost, že se ke mně znáš? Vždyť jsem cizinka."</verse>
+        <verse osisID='Ruth.2.11'>Boáz jí odpověděl: "Slyšel jsem, co všechno jsi po smrti svého muže udělala pro svou tchyni a že jsi opustila svého otce, matku i rodnou zem a odešla k lidu, který jsi předtím neznala.</verse>
+        <verse osisID='Ruth.2.12'>Kéž ti Hospodin za tvůj skutek odplatí! Kéž tě hojně odmění Hospodin, Bůh Izraele, pod jehož křídla ses přišla skrýt."</verse>
+        <verse osisID='Ruth.2.13'>"Jsi ke mně tak laskavý, pane," odvětila. "Potěšil jsi mě a mluvil jsi ke své služebnici přívětivě, přestože ani nepatřím k tvým služebným."</verse>
+        <verse osisID='Ruth.2.14'>Když pak přišel čas k jídlu, řekl jí Boáz: "Pojď sem, vezmi si chleba a namáčej si sousta ve víně." Přisedla si tedy k žencům, a když jí podal pražené zrní, jedla do sytosti a ještě jí zbylo.</verse>
+        <verse osisID='Ruth.2.15'>Potom šla znovu paběrkovat a Boáz svým služebníkům přikázal: "Nechte ji sbírat mezi snopy, nebraňte jí.</verse>
+        <verse osisID='Ruth.2.16'>Naopak, vytahujte klasy ze snopů a nechávejte je pro ni. Jen ať sbírá, neokřikujte ji!"</verse>
+        <verse osisID='Ruth.2.17'>A tak na tom poli paběrkovala až do večera. Co nasbírala, potom vymlátila a byla toho celá efa ječmene.</verse>
+        <verse osisID='Ruth.2.18'>Rút si jej odnesla do města a ukázala své tchyni, kolik toho nasbírala. Vzala také, co jí zbylo po jídle, a nabídla jí.</verse>
+        <verse osisID='Ruth.2.19'>"Kde jsi dnes sbírala?" zeptala se jí tchyně, "kde jsi to pracovala? Ať je požehnán, kdo se tě ujal!" "Pracovala jsem dnes u muže jménem Boáz." odpověděla Rút své tchyni.</verse>
+        <verse osisID='Ruth.2.20'>Na to Noemi řekla: "Hospodin mu žehnej! Neodmítl prokázat laskavost živým ani mrtvým!" A dodala: "Ten muž je jeden z našich blízkých příbuzných."</verse>
+        <verse osisID='Ruth.2.21'>Moábka Rút vyprávěla dál: "Řekl mi dokonce: ‚Drž se mých služebníků, dokud nesklidí celou moji úrodu.'"</verse>
+        <verse osisID='Ruth.2.22'>Noemi své snaše Rút odpověděla: "Dobře, že budeš chodit s jeho děvečkami, dcero. Na jiném poli by ti někdo mohl ublížit."</verse>
+        <verse osisID='Ruth.2.23'>Rút se tedy držela Boázových děveček a paběrkovala, dokud neskončila sklizeň ječmene a pšenice. A zůstávala dál se svou tchyní.</verse>
+      </chapter>
+      <chapter osisID='Ruth.3'>
+        <verse osisID='Ruth.3.1'>Její tchyně Noemi jí pak řekla: "Musím ti najít domov, má dcero, abys byla šťastná.</verse>
+        <verse osisID='Ruth.3.2'>Víš, že Boáz, s jehož děvečkami jsi pracovala, je náš příbuzný. Dnes večer bude na mlatě převívat ječmen.</verse>
+        <verse osisID='Ruth.3.3'>Vykoupej se, navoň se, vezmi si nejlepší šaty a jdi za ním na mlat. Nedávej mu ale o sobě vědět, dokud se nenají a nenapije.</verse>
+        <verse osisID='Ruth.3.4'>Až si půjde lehnout, všimni si, kde leží. Potom jdi, odkryj plášť po jeho boku a ulehni. On ti pak poví, co máš dělat."</verse>
+        <verse osisID='Ruth.3.5'>"Udělám všechno, co mi říkáš," odpověděla Rút.</verse>
+        <verse osisID='Ruth.3.6'>Odešla na mlat a udělala všechno, co jí tchyně poradila.</verse>
+        <verse osisID='Ruth.3.7'>Boáz pojedl, napil se a v dobré náladě si šel lehnout na kraj stohu. Tehdy se přikradla, odkryla plášť po jeho boku a ulehla.</verse>
+        <verse osisID='Ruth.3.8'>Uprostřed noci pak sebou ten muž trhl, převalil se - a hle, po boku mu leží žena!</verse>
+        <verse osisID='Ruth.3.9'>"Kdo jsi?" zeptal se. "Tvá služebnice Rút," odpověděla. "Přikryj svou služebnici křídlem svého pláště, vždyť jsi náš příbuzný."</verse>
+        <verse osisID='Ruth.3.10'>"Hospodin ti žehnej, dcero," řekl jí na to. "Teď jsi projevila ještě větší oddanost než předtím, neboť jsi nešla za mládenci - za chudými ani bohatými.</verse>
+        <verse osisID='Ruth.3.11'>Proto se neboj, dcero. Udělám pro tebe vše, co žádáš. Každý v mém městě přece ví, že jsi znamenitá žena.</verse>
+        <verse osisID='Ruth.3.12'>Ano, je pravda, že jsem příbuzný; je tu ale ještě bližší příbuzný než já.</verse>
+        <verse osisID='Ruth.3.13'>Zůstaň tu přes noc. Splní-li ti zítra příbuzenskou povinnost, budiž, ať tě vykoupí. Pokud ji ale nesplní, pak, jakože je živ Hospodin, vykoupím tě já. Spi až do rána."</verse>
+        <verse osisID='Ruth.3.14'>Spala tedy po jeho boku až do rána. Dříve než by kdo mohl rozeznat druhého, ale vstala, protože Boáz řekl: "Ať se nikdo nedozví, že na mlat přišla žena."</verse>
+        <verse osisID='Ruth.3.15'>Řekl jí také: "Nastav pláštěnku a podrž ji." A když ji nastavila, odměřil jí šest měr ječmene. Když jí je naložil, odešel do města.</verse>
+        <verse osisID='Ruth.3.16'>Když se Rút vrátila ke své tchyni, ta se zeptala: "Jak jsi pořídila, dcero?" A tak jí vyprávěla všechno, co pro ni ten muž udělal.</verse>
+        <verse osisID='Ruth.3.17'>Nakonec řekla: "Dal mi těchto šest měr ječmene se slovy: ‚Ať se ke své tchyni nevrátíš s prázdnou.'"</verse>
+        <verse osisID='Ruth.3.18'>"Počkej, dcero, uvidíš, jak to dopadne," řekla jí na to Noemi. "Ten muž nepoleví, dokud tu věc ještě dnes nedovede do konce!"</verse>
+      </chapter>
+      <chapter osisID='Ruth.4'>
+        <verse osisID='Ruth.4.1'>Boáz mezitím šel k městské bráně. Posadil se tam a hle - právě tudy šel onen příbuzný, o kterém předtím mluvil. Boáz mu řekl: "Pojď sem, příteli, posaď se." A tak přišel a posadil se.</verse>
+        <verse osisID='Ruth.4.2'>Potom Boáz pozval deset z městských stařešinů a řekl: "Posaďte se tu." A když se posadili,</verse>
+        <verse osisID='Ruth.4.3'>pověděl tomu příbuznému: "Noemi, která se vrátila z moábského kraje, chce postoupit nárok na díl pole, který patřil našemu bratru Elimelechovi.</verse>
+        <verse osisID='Ruth.4.4'>Řekl jsem si, že ti to dám vědět a navrhnu ti: Pořiď si ho před těmito přísedícími, před stařešiny mého lidu. Chceš-li to pole vykoupit, vykup je. Pokud je nevykoupíš, vyjádři se, ať to vím. Jsi totiž nejbližší příbuzný a já jsem hned po tobě." A on řekl: "Vykoupím je."</verse>
+        <verse osisID='Ruth.4.5'>Tehdy Boáz dodal: "V den, kdy od Noemi získáš nárok na to pole, získáš i Moábku Rút, vdovu po mrtvém, abys tomu mrtvému vzbudil dědice, který ponese jeho jméno."</verse>
+        <verse osisID='Ruth.4.6'>Načež ten příbuzný řekl: "Tak to ho vykoupit nemohu - vždyť bych ohrozil vlastní dědictví! Vykup to pole místo mě; já nemohu."</verse>
+        <verse osisID='Ruth.4.7'>(Za starodávna byl v Izraeli při výkupu a směně tento obyčej: Ke stvrzení každého jednání si člověk zul sandál a podal ho druhému. Tak se v Izraeli dávalo svědectví.)</verse>
+        <verse osisID='Ruth.4.8'>Ten příbuzný tedy Boázovi řekl: "Pořiď si ho sám," a zul si sandál.</verse>
+        <verse osisID='Ruth.4.9'>Boáz tehdy před stařešiny a vším lidem prohlásil: "Dnes jste svědkové, že jsem od Noemi získal všechno, co patřilo Elimelechovi, i všechno, co patřilo Kiljonovi a Machlonovi.</verse>
+        <verse osisID='Ruth.4.10'>Ano, i Moábku Rút, ženu po Machlonovi, jsem získal za manželku, abych mrtvému vzbudil dědice, aby jméno mrtvého nezmizelo z kruhu jeho bratrů a z brány jeho města. Dnes jste toho svědkové."</verse>
+        <verse osisID='Ruth.4.11'>Všechen lid, který byl v bráně, i stařešinové odpověděli: "Jsme svědkové. Kéž Hospodin dá, aby žena přicházející do tvého domu byla jako Ráchel a Léa, které společně zbudovaly dům Izraele! Buď úspěšný v Efratě, získej si jméno v Betlémě!</verse>
+        <verse osisID='Ruth.4.12'>Kéž ti Hospodin skrze tuto dívku dopřeje potomstvo, aby tvůj dům byl jako dům Perese, jehož porodila Támar Judovi!"</verse>
+        <verse osisID='Ruth.4.13'>Boáz si tedy Rút vzal a stala se jeho ženou. Miloval se s ní a Hospodin dal, že počala a porodila syna.</verse>
+        <verse osisID='Ruth.4.14'>Ženy tehdy řekly Noemi: "Požehnán buď Hospodin, který tě ode dneška nenechá bez příbuzného. Ať má v Izraeli jméno!</verse>
+        <verse osisID='Ruth.4.15'>On tě vrátí do života a ve stáří se o tebe postará. Porodila ho přece tvá milující snacha - a ta je ti vzácnější než sedm synů!"</verse>
+        <verse osisID='Ruth.4.16'>Noemi pak vzala dítě, položila si je na klín a byla mu chůvou.</verse>
+        <verse osisID='Ruth.4.17'>Sousedky říkaly: "Noemi se narodil syn!" a daly mu jméno - pojmenovaly ho Obéd, Služebník. Ten se stal otcem Davidova otce Jišaje.</verse>
+        <verse osisID='Ruth.4.18'>A toto jsou Peresova pokolení: Peres zplodil Checrona,</verse>
+        <verse osisID='Ruth.4.19'>Checron zplodil Rama, Ram zplodil Aminadaba,</verse>
+        <verse osisID='Ruth.4.20'>Aminadab zplodil Nachšona, Nachšon zplodil Salmona,</verse>
+        <verse osisID='Ruth.4.21'>Salmon zplodil Boáze, Boáz zplodil Obéda,</verse>
+        <verse osisID='Ruth.4.22'>Obéd zplodil Jišaje, Jišaj zplodil Davida.</verse>
+      </chapter>
+    </div></osisText>
+</osis>

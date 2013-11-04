@@ -1,0 +1,405 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace'>
+  <osisText osisIDWork='NorthernAzeri' osisRefWork='Bible' xml:lang='az'>
+    <header>
+      <revisionDesc>
+        <date>2012-01-07</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='NorthernAzeri'>
+        <title>Northern Azeri Translation</title>
+        <contributor/>
+        <creator>Mod2Zef (6)</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject/>
+        <date>2012-01-07</date>
+        <description>Northern Azeri Translation</description>
+        <publisher/>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>NorthernAzeri</identifier>
+        <source>no entry TextSource in sword.conf found</source>
+        <language type='IETF'>az</language>
+        <relation/>
+        <coverage>provide the bible to the nations of the world</coverage>
+        <rights>Copyrighted Kutsul Kitab; Permission to distribute granted to CrossWire</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='Ezra'>
+      <chapter osisID='Ezra.1'>
+        <verse osisID='Ezra.1.1'/>
+        <verse osisID='Ezra.1.2'>«Budur, Fars padşahı Kir belə deyir: “Göylərin Allahı Rəbb dünyanın bütün padşahlıqlarını mənə verdi və Yəhudanın Yerusəlim şəhərində Öz məbədini tikməyi mənə əmr etdi.</verse>
+        <verse osisID='Ezra.1.3'>Aranızda Onun xalqına mənsub olanların hamısına qoy Allahı yar olsun! Qoy onlar Yəhudanın Yerusəlim şəhərinə qalxsın və İsrailin Allahı Rəbbin məbədini tiksinlər. Yerusəlimdə səcdə qılınan Allah Odur.</verse>
+        <verse osisID='Ezra.1.4'>Sağ qalan İsraillilər hansı əhali arasında yaşayırsa, qoy onlar Yerusəlimdəki Allah evinə verəcəkləri könüllü ianələrdən başqa, qızıl-gümüş, əşya və heyvanlar verməklə bu adamlara kömək etsinlər”». </verse>
+        <verse osisID='Ezra.1.5'>Yəhuda, Binyamin qəbilələrinin nəsil başçıları, kahinlərlə Levililər, eləcə də Allahın ruhlandırdığı bütün adamlar Rəbbin Yerusəlimdəki məbədini tikmək üçün yola düşməyə hazırlaşdılar.</verse>
+        <verse osisID='Ezra.1.6'>Aralarında yaşadıqları yerli əhalinin hamısı verdikləri könüllü ianələrdən başqa, qızılla, gümüş qablarla, əşyalarla, heyvanlarla və qiymətli şeylərlə onlara kömək etdilər.</verse>
+        <verse osisID='Ezra.1.7'>Padşah Kir Navuxodonosorun Rəbbin Yerusəlimdəki məbədindən götürüb öz allahlarının məbədinə qoyduğu əşyaları çıxartdı.</verse>
+        <verse osisID='Ezra.1.8'>Fars padşahı Kir onları xəzinədar Mitredatın əli ilə oradan çıxardaraq hamısını sayıb Yəhuda rəhbəri Şeşbassara verdi.</verse>
+        <verse osisID='Ezra.1.9'>Onların sayı bu qədər idi: otuz qızıl ləyən, min gümüş ləyən, iyirmi doqquz bıçaq,</verse>
+        <verse osisID='Ezra.1.10'>otuz qızıl boşqab, bir-birinə oxşayan dörd yüz on gümüş boşqab və min ədəd də başqa qablar.</verse>
+        <verse osisID='Ezra.1.11'>Qızıl və gümüş əşyaların hamısı beş min dörd yüz ədəd idi. Sürgündə yaşayanlar Babildən Yerusəlimə qaytarılanda Şeşbassar bu əşyaların hamısını onlarla bərabər gətirdi.  </verse>
+      </chapter>
+      <chapter osisID='Ezra.2'>
+        <verse osisID='Ezra.2.1'/>
+        <verse osisID='Ezra.2.2'>Onlar Zerubbabil, Yeşua, Nehemya, Seraya, Reelaya, Mordokay, Bilşan, Mispar, Biqvay, Rexum, Baananın başçılığı ilə gəldilər. </verse>
+        <verse osisID='Ezra.2.3'>Paroş övladları – 2172 nəfər; </verse>
+        <verse osisID='Ezra.2.4'>Şefatya övladları – 372 nəfər; </verse>
+        <verse osisID='Ezra.2.5'>Arah övladları – 775 nəfər; </verse>
+        <verse osisID='Ezra.2.6'>Yeşua və Yoav nəslindən Paxat-Moav övladları – 2812 nəfər; </verse>
+        <verse osisID='Ezra.2.7'>Elam övladları – 1254 nəfər; </verse>
+        <verse osisID='Ezra.2.8'>Zattu övladları – 945 nəfər; </verse>
+        <verse osisID='Ezra.2.9'>Zakkay övladları – 760 nəfər; </verse>
+        <verse osisID='Ezra.2.10'>Bani övladları – 642 nəfər; </verse>
+        <verse osisID='Ezra.2.11'>Bevay övladları – 623 nəfər; </verse>
+        <verse osisID='Ezra.2.12'>Azqad övladları – 1222 nəfər; </verse>
+        <verse osisID='Ezra.2.13'>Adoniqam övladları – 666 nəfər; </verse>
+        <verse osisID='Ezra.2.14'>Biqvay övladları – 2056 nəfər; </verse>
+        <verse osisID='Ezra.2.15'>Adin övladları – 454 nəfər; </verse>
+        <verse osisID='Ezra.2.16'>Ater, yəni Xizqiya övladları – 98 nəfər; </verse>
+        <verse osisID='Ezra.2.17'>Besay övladları – 323 nəfər; </verse>
+        <verse osisID='Ezra.2.18'>Yora övladları – 112 nəfər; </verse>
+        <verse osisID='Ezra.2.19'>Xaşum övladları – 223 nəfər; </verse>
+        <verse osisID='Ezra.2.20'>Gibbar övladları – 95 nəfər; </verse>
+        <verse osisID='Ezra.2.21'>Bet-Lexem övladları – 123 nəfər; </verse>
+        <verse osisID='Ezra.2.22'>Netofa sakinləri – 56 nəfər; </verse>
+        <verse osisID='Ezra.2.23'>Anatot sakinləri – 128 nəfər; </verse>
+        <verse osisID='Ezra.2.24'>Azmavet övladları – 42 nəfər; </verse>
+        <verse osisID='Ezra.2.25'>Qiryat-Arim, Kefira və Beerot övladları – 743 nəfər; </verse>
+        <verse osisID='Ezra.2.26'>Rama və Geva övladları – 621 nəfər; </verse>
+        <verse osisID='Ezra.2.27'>Mikmas sakinləri – 122 nəfər; </verse>
+        <verse osisID='Ezra.2.28'>Bet-El və Ay sakinləri – 223 nəfər; </verse>
+        <verse osisID='Ezra.2.29'>Nevo övladları – 52 nəfər; </verse>
+        <verse osisID='Ezra.2.30'>Maqbiş övladları – 156 nəfər; </verse>
+        <verse osisID='Ezra.2.31'>Digər Elam övladları – 1254 nəfər; </verse>
+        <verse osisID='Ezra.2.32'>Xarim övladları – 320 nəfər; </verse>
+        <verse osisID='Ezra.2.33'>Lod, Xadid və Ono övladları – 725 nəfər; </verse>
+        <verse osisID='Ezra.2.34'>Yerixo övladları – 345 nəfər; </verse>
+        <verse osisID='Ezra.2.35'>Senaa övladları – 3630 nəfər. </verse>
+        <verse osisID='Ezra.2.36'>Kahinlər: </verse>
+        <verse osisID='Ezra.2.37'>İmmer övladları – 1052 nəfər; </verse>
+        <verse osisID='Ezra.2.38'>Paşxur övladları – 1247 nəfər; </verse>
+        <verse osisID='Ezra.2.39'>Xarim övladları – 1017 nəfər. </verse>
+        <verse osisID='Ezra.2.40'>Levililər: Hodavya nəslindən yaranan Yeşua və Qadmiel övladları – 74 nəfər. </verse>
+        <verse osisID='Ezra.2.41'>İlahiçilər: Asəf övladları – 128 nəfər. </verse>
+        <verse osisID='Ezra.2.42'>Məbəd qapıçıları: Şallum övladları, Ater övladları, Talmon övladları, Aqquv övladları, Xatita övladları və Şovay övladları ilə birlikdə 139 nəfər. </verse>
+        <verse osisID='Ezra.2.43'>Məbəd qulluqçuları: Sixa övladları, Xasufa övladları, Tabbaot övladları,</verse>
+        <verse osisID='Ezra.2.44'>Qeros övladları, Siaha övladları, Padon övladları,</verse>
+        <verse osisID='Ezra.2.45'>Levana övladları, Xaqava övladları, Aqquv övladları,</verse>
+        <verse osisID='Ezra.2.46'>Xaqav övladları, Şamlay övladları, Xanan övladları,</verse>
+        <verse osisID='Ezra.2.47'>Giddel övladları, Qaxar övladları, Reaya övladları,</verse>
+        <verse osisID='Ezra.2.48'>Resin övladları, Neqoda övladları, Qazzam övladları,</verse>
+        <verse osisID='Ezra.2.49'>Uzza övladları, Paseah övladları, Besay övladları,</verse>
+        <verse osisID='Ezra.2.50'>Asna övladları, Meunim övladları, Nefusim övladları,</verse>
+        <verse osisID='Ezra.2.51'>Baqbuq övladları, Xaqufa övladları, Xarxur övladları,</verse>
+        <verse osisID='Ezra.2.52'>Baslut övladları, Mexida övladları, Xarşa övladları,</verse>
+        <verse osisID='Ezra.2.53'>Barqos övladları, Sisra övladları, Tamax övladları,</verse>
+        <verse osisID='Ezra.2.54'>Nesiah övladları, Xatifa övladları. </verse>
+        <verse osisID='Ezra.2.55'>Süleymanın əyanlarının nəslindən: Sotay övladları, Hassoferet övladları, Peruda övladları,</verse>
+        <verse osisID='Ezra.2.56'>Yela övladları, Darqon övladları, Giddel övladları,</verse>
+        <verse osisID='Ezra.2.57'>Şefatya övladları, Xattil övladları, Pokeret-Hassevayim övladları, Ami övladları. </verse>
+        <verse osisID='Ezra.2.58'>Məbəd qulluqçuları ilə Süleymanın əyan qullarının övladları – cəmi 392 nəfər. </verse>
+        <verse osisID='Ezra.2.59'>Tel-Melahdan, Tel-Xarşadan, Keruvdan, Addondan, İmmerdən qayıdan, ancaq ailələrinin və nəsillərinin İsrail övladlarından olduğunu sübut edə bilməyənlər bunlardır:</verse>
+        <verse osisID='Ezra.2.60'>Delaya övladları, Toviya övladları, Neqoda övladları – 652 nəfər. </verse>
+        <verse osisID='Ezra.2.61'>Kahinlərin nəslindən: Xovaya övladları, Haqqos övladları, Gileadlı Barzillayın qızlarından arvad alıb qayınatasının adını götürən Barzillay övladları.</verse>
+        <verse osisID='Ezra.2.62'>Onlar nəsil şəcərəsini axtardılar, lakin öz adlarını tapa bilmədilər və buna görə murdar sayılaraq kahinlikdən çıxarıldılar.</verse>
+        <verse osisID='Ezra.2.63'>Yəhuda valisi onlara əmr edib belə dedi: «Urim və Tummimi işlədən bir kahin olmayınca onlar ən müqəddəs yeməklərdən yeməsin». </verse>
+        <verse osisID='Ezra.2.64'>Bütün camaat birlikdə 42 360 nəfər idi.</verse>
+        <verse osisID='Ezra.2.65'>Bundan başqa, 7337 nəfər kölə və kənizlər, 200 nəfər kişi və qadından ibarət ilahiçi var idi.</verse>
+        <verse osisID='Ezra.2.66'>Bu adamların 736 atı, 245 qatırı,</verse>
+        <verse osisID='Ezra.2.67'>435 dəvəsi, 6720 eşşəyi var idi. </verse>
+        <verse osisID='Ezra.2.68'>Rəbbin Yerusəlimdəki məbədinə gələn zaman bəzi nəsil başçıları Allahın evini öz yerində tikmək üçün könüllü ianələr verdilər.</verse>
+        <verse osisID='Ezra.2.69'>Bu iş üçün yığılan xəzinəyə imkan daxilində altmış bir min darik  qızıl, beş min mina gümüş və yüz kahin geyimi verdilər. </verse>
+        <verse osisID='Ezra.2.70'>Kahinlər, Levililər, xalqın bəziləri, ilahiçilər, məbəd qapıçıları və qulluqçuları öz şəhərlərində yerləşdilər. Beləliklə, İsraillilər isə öz şəhərlərində yerləşdilər.  </verse>
+      </chapter>
+      <chapter osisID='Ezra.3'>
+        <verse osisID='Ezra.3.1'>
+            Artıq İsraillilər öz şəhərlərində idi. Yeddinci ay çatanda xalq bir nəfər kimi Yerusəlimdə toplandı.</verse>
+        <verse osisID='Ezra.3.2'>Yosadaq oğlu Yeşua ilə kahin qardaşları və Şealtiel oğlu Zerubbabillə qardaşları İsrailin Allahının qurbangahını qurdular ki, Allah adamı Musanın Qanununda yazıldığı kimi üstündə yandırma qurbanları təqdim edilsin.</verse>
+        <verse osisID='Ezra.3.3'>Ətrafda yaşayan xalqlardan qorxmalarına baxmayaraq, qurbangahı əvvəlki bünövrə üzərində qurdular. Sonra onun üzərində səhər-axşam Rəbbə yandırma qurbanları təqdim etdilər.</verse>
+        <verse osisID='Ezra.3.4'>Yazıya görə Çardaqlar bayramı keçirdilər və qaydaya görə günbəgün müəyyən miqdarda gündəlik yandırma qurbanları təqdim etdilər.</verse>
+        <verse osisID='Ezra.3.5'>Sonra daimi yandırma qurbanları verdilər. Təzə Ay mərasimlərinin, eləcə də Rəbbin təqdis etdiyi bütün bayramların təqdimlərini və hamının könüllü olaraq Rəbbə etdiyi təqdimləri verdilər.</verse>
+        <verse osisID='Ezra.3.6'>Rəbbin məbədinin bünövrəsinin qoyulmamasına baxmayaraq, onlar yeddinci ayın birinci günündə Rəbbə yandırma qurbanları təqdim etməyə başladılar. </verse>
+        <verse osisID='Ezra.3.7'>Daşyonanlarla dülgərlərə pul verdilər. Fars padşahı Kirdən izin aldıqlarına görə Livandan dəniz yolu ilə Yafoya sidr ağacları gətirmələri üçün Sidonlularla Surlulara yemək-içmək və zeytun yağı verdilər. </verse>
+        <verse osisID='Ezra.3.8'>Allahın evinə, Yerusəlimə gəlişlərinin ikinci ilinin ikinci ayında Şealtiel oğlu Zerubbabil və Yosadaq oğlu Yeşua ilə digər qardaşları – kahinlər, Levililər, əsirlikdən Yerusəlimə qayıdanların hamısı işə başladılar. İyirmi və ondan yuxarı yaşda olan Levililəri Rəbbin məbədinin tikinti işinə nəzarətçi təyin etdilər.</verse>
+        <verse osisID='Ezra.3.9'>Levililərdən Yeşua və övladları ilə qardaşları, Hodavya  nəslindən törənən Qadmiellə övladları, Xenadad övladları, nəvələri və qardaşları Allahın evində işləyənlərə nəzarət etdilər.</verse>
+        <verse osisID='Ezra.3.10'>Bənnalar Rəbbin məbədinin təməlini qoyan zaman İsrail padşahı Davudun qoyduğu qaydaya əsasən kahinlər xüsusi libas geyinib əllərindəki kərənaylarla, Asəf övladlarından olan Levililərsə sinclərlə Rəbbə həmd etmək üçün öz yerlərini tutdular.</verse>
+        <verse osisID='Ezra.3.11'>Onlar Rəbbə həmd və şükür edib növbə ilə Onu tərənnüm edərək belə deyirdilər: «Rəbb yaxşıdır, çünki İsrailin üzərində məhəbbəti əbədidir». Onlar Rəbbə həmd edəndə bütün xalq ucadan qışqırdı, çünki Rəbb evinin bünövrəsi qoyulmuşdu.</verse>
+        <verse osisID='Ezra.3.12'>Əvvəlki məbədi görmüş bir çox qoca kahinlər, Levililər və nəsil başçıları məbədin bünövrəsinin qoyulduğunu görəndə hönkürüb ağladılar, bir çoxları isə sevincdən haray çəkdilər.</verse>
+        <verse osisID='Ezra.3.13'>Xalq gurultulu sevinc səsləri ilə ağlaşma səslərini bir-birindən ayıra bilmirdi, çünki onların gurultu ilə qopan haray səsləri uzaqlarda eşidilirdi.  </verse>
+      </chapter>
+      <chapter osisID='Ezra.4'>
+        <verse osisID='Ezra.4.1'>
+          Yəhudalıların və Binyaminlilərin düşmənləri eşitdilər ki, sürgündən qayıdanlar İsrailin Allahı Rəbb üçün məbəd tikirlər.</verse>
+        <verse osisID='Ezra.4.2'>Onlar Zerubbabilə və nəsil başçılarına yaxınlaşıb belə dedi: «Qoy biz də sizinlə bərabər bu məbədi tikək, çünki biz də sizin kimi Allahınıza sitayiş edirik. Bizi buraya gətirən Aşşur padşahı Esar-Xaddonun dövründən bəri sizin Allaha qurban təqdim edirik».</verse>
+        <verse osisID='Ezra.4.3'>Lakin Zerubbabil, Yeşua və İsrailin digər nəsil başçıları onlara belə dedilər: «Allahımızın evini qurmaq üçün sizin bizimlə heç bir ortaq işiniz yoxdur. Biz özümüz əlbir olaraq Fars padşahı Kirin əmrinə əsasən İsrailin Allahı Rəbbə məbəd tikəcəyik».</verse>
+        <verse osisID='Ezra.4.4'>Onda bu ölkənin xalqı Yəhuda xalqının əllərini işdən soyutmaqla tikinti işində onlara əziyyət verdi.</verse>
+        <verse osisID='Ezra.4.5'>Bu xalq Yəhudilərin məqsədlərini boşa çıxarmaq üçün Fars padşahları olan Kirin dövründən Daranın dövrünə qədər onlara qarşı çıxaraq özlərinə muzdla məsləhətçilər tutdu.</verse>
+        <verse osisID='Ezra.4.6'>Onlar Axaşveroş padşah olanda, onun hökmranlığının başlanğıcında Yəhuda və Yerusəlimdə yaşayanların əleyhinə bir ittiham məktubu yazdılar. </verse>
+        <verse osisID='Ezra.4.7'>Fars padşahı Artaxşastanın dövründə Bişlam Mitredat, Taveel və digər yoldaşları padşah Artaxşastaya məktub yazdı. Məktub Arami dilində yazılaraq tərcümə edildi. </verse>
+        <verse osisID='Ezra.4.8'>Sərkərdə Rexum və mirzə Şimşay padşah Artaxşastaya Yerusəlimi ittiham edən bir məktub yazdı.</verse>
+        <verse osisID='Ezra.4.9'>Sonra məktuba sərkərdə Rexumla mirzə Şimşay və qalan yoldaşları, hakimlər, əmirlər, qulluqçular, Farslar, Ereklilər, Babillilər, Şuşanlılar, yəni Elamlılar,</verse>
+        <verse osisID='Ezra.4.10'>böyük və şanlı Aşurbanipalın sürgün edib Samariya şəhərlərində və Fərat çayının qərb torpaqlarında yerləşdirdiyi başqa xalqlar imza qoydular. </verse>
+        <verse osisID='Ezra.4.11'>Padşah Artaxşastaya göndərdikləri məktubun surəti belədir: </verse>
+        <verse osisID='Ezra.4.12'>Padşaha məlum olsun ki, sizin yanınızdan qayıdan Yəhudilər bizim yanımıza – Yerusəlimə gəlib bu pis, üsyankar şəhəri bərpa edirlər. Divarları hörüb qurtardılar və binaların təməlini bərpa etdilər.</verse>
+        <verse osisID='Ezra.4.13'>Padşaha məlum edirik ki, əgər bu şəhər bərpa edilərsə, divarları hörülüb qurtararsa, onlar sənə vergi, xərac və gömrük verməyəcəklər. Bununla da padşahın gəlirinə böyük ziyan dəyəcək.</verse>
+        <verse osisID='Ezra.4.14'>Əgər indi bu sarayın duzu ilə dolanırıqsa, gözümüz önündə padşaha ziyan dəyməsini görmək bizə yaraşmaz. Ona görə də padşaha bu xəbəri göndərib belə məlum edirik:</verse>
+        <verse osisID='Ezra.4.15'>qoy ata-babalarının dəftərxanası axtarılsın. Qeyd kitablarında bu şəhər haqqında məlumat tapanda biləcəksiniz ki, bu şəhər həm üsyankar, həm də padşahlar və dövlətlər üçün zərərlidir. Qədimdən bəri oradan həmişə xəyanət törəyib və bunun üçün şəhər xarabaya çevrilib.</verse>
+        <verse osisID='Ezra.4.16'>Padşaha məlum edirik ki, əgər bu şəhər bərpa edilərsə və divarları tikilib qurtararsa, sənin Fərat çayının qərb torpaqlarında payın olmayacaq». </verse>
+        <verse osisID='Ezra.4.17'>Padşah belə cavab göndərdi: </verse>
+        <verse osisID='Ezra.4.18'>Bizə göndərdiyiniz məktub hüzurumda tərcümə edildi.</verse>
+        <verse osisID='Ezra.4.19'>Ona görə mən əmr verdim və əmrimə əsasən istintaq aparıldı. Bu şəhərin sakinlərinin qədimdən bəri padşahlara qarşı üsyan qaldırması təsdiq olundu. Üsyankarlıq və xəyanət bu şəhərin daxilindən baş qaldırıb.</verse>
+        <verse osisID='Ezra.4.20'>O zaman Yerusəlimi idarə edən qüdrətli padşahlar var idi. Fərat çayının qərbindəki bütün torpaqlar üzərində bu padşahlar hökmranlıq edirdilər. Buranın əhalisi isə onlara xərac, vergi və gömrük verirdi.</verse>
+        <verse osisID='Ezra.4.21'>İndi əmr verin, bu adamlar işi dayandırsınlar və mən əmr verənə qədər bu şəhəri bərpa etməsinlər.</verse>
+        <verse osisID='Ezra.4.22'>Bu işə etinasız yanaşmaqdan çəkinin. Niyə şər artıb padşahlığıma ziyan vursun?» </verse>
+        <verse osisID='Ezra.4.23'>Padşah Artaxşastanın məktubunun surəti Rexumla mirzə Şimşayın və yoldaşlarının qarşısında oxunanda onlar tələsik Yerusəlimə Yəhudilərin yanına getdilər. Onların işini zorla, güclə dayandırdılar.</verse>
+        <verse osisID='Ezra.4.24'>Beləliklə, Yerusəlimdəki Allah evinin tikinti işi dayandırıldı və bu iş Fars padşahı Daranın hökmranlığının ikinci ilinə qədər ləngidi.  </verse>
+      </chapter>
+      <chapter osisID='Ezra.5'>
+        <verse osisID='Ezra.5.1'>
+            Peyğəmbərlərdən peyğəmbər Haqqayla İddo oğlu Zəkəriyyə Yəhudada və Yerusəlimdə yaşayan Yəhudilərə İsrail Allahının adı ilə peyğəmbərlik etdi.</verse>
+        <verse osisID='Ezra.5.2'>O zaman Şealtiel oğlu Zerubbabil və Yosadaq oğlu Yeşua işə başlayaraq Yerusəlimdəki Allah evinin tikintisini davam etdirdilər. Allahın peyğəmbərləri də onlarla idi və onlara kömək etdi. </verse>
+        <verse osisID='Ezra.5.3'>O vaxtlar Fərat çayının qərb torpaqlarının valisi olan Tattenay, Şetar-Boznay və yoldaşları onların yanına gəlib dedi: «Bu məbədi bərpa etmək və tikintisini qurtarmaq üçün sizə kim icazə verib?»</verse>
+        <verse osisID='Ezra.5.4'>Onda biz onlara bu binanı tikənlərin adlarını bildirdik.</verse>
+        <verse osisID='Ezra.5.5'>Allahın nəzəri Yəhudi ağsaqqallarının üzərinə yönəlmişdi. Ona görə bu işin sorağı Daraya çatana və bu barədə məktubla cavab qayıdanadək onlar Yəhudilərin işini dayandırmadılar. </verse>
+        <verse osisID='Ezra.5.6'>Fərat çayının qərb torpaqlarının valisi Tattenay, Şetar-Boznay və yoldaşları, Fərat çayının qərb torpaqlarındakı məmurlar padşah Daraya bu surətdə məktub yolladı.</verse>
+        <verse osisID='Ezra.5.7'>Ona yolladıqları məktubda belə yazılmışdı: </verse>
+        <verse osisID='Ezra.5.8'>Padşaha məlum olsun ki, biz Yəhuda vilayətindəki böyük Allahın məbədinə getdik. Məbəd böyük daşlardan tikilmiş, divarların içərisinə dirəklər qoyulmuşdur. Bu iş səylə görülərək uğurla idarə edilir.</verse>
+        <verse osisID='Ezra.5.9'>O zaman oranın ağsaqqallarından soruşub belə dedik: “Bu məbədi bərpa etmək və tikintisini qurtarmaq üçün sizə kim icazə verib?”</verse>
+        <verse osisID='Ezra.5.10'>Həm də onlardan bu işin başçılarının adını soruşduq ki, bunları yazaraq sizə bildirək. </verse>
+        <verse osisID='Ezra.5.11'>Onlar bizə belə cavab verdilər:  “Biz göylərin və yerin Allahının qullarıyıq. Bundan bir çox il əvvəl tikilən məbədi bərpa edirik. Vaxtı ilə oranı İsrailin böyük padşahı tikib başa çatdırmışdı.</verse>
+        <verse osisID='Ezra.5.12'>Lakin atalarımız göylərin Allahını qəzəbləndirdiyi üçün Allah onları Babil padşahı Xaldeyli Navuxodonosora təslim etdi. O da bu məbədi xarabaya çevirdi və xalqını Babilə əsir apardı.</verse>
+        <verse osisID='Ezra.5.13'>Lakin Babil padşahı Kirin hakimiyyətinin birinci ilində padşah Kir Allah evinin bərpası üçün əmr verdi.</verse>
+        <verse osisID='Ezra.5.14'>Həmçinin Yerusəlimdəki Allah evindən Navuxodonosorun götürüb Babil məbədinə apardığı qızıl və gümüş qabları padşah Kir Babildəki məbəddən çıxartdı. Onları vali təyin etdiyi Şeşbassar adlı bir adama verərək dedi:</verse>
+        <verse osisID='Ezra.5.15'>‹Bu əşyaları götürüb get, Yerusəlimdəki məbədə qoy. Allahın evi qoy öz yerində bərpa olunsun›.</verse>
+        <verse osisID='Ezra.5.16'>O zaman həmin Şeşbassar gəlib Yerusəlimdəki Allah evinin təməlini qoydu. O zamandan indiyə qədər bu məbəd tikilir, lakin hələ tamamlanmayıb”. </verse>
+        <verse osisID='Ezra.5.17'>İndi padşahın xoşuna gələrsə, qoy Babil sarayındakı dəftərxana axtarılaraq Yerusəlimdəki Allah evinin bərpası üçün padşah Kirin verdiyi əmr üzə çıxarılsın. Sonra isə bu iş barədə padşah öz iradəsini bizə bildirsin».  </verse>
+      </chapter>
+      <chapter osisID='Ezra.6'>
+        <verse osisID='Ezra.6.1'>
+          O zaman padşah Daranın verdiyi əmrə əsasən Babil xəzinəsində olan dəftərxana axtarıldı.</verse>
+        <verse osisID='Ezra.6.2'>Midiya vilayətində olan Ekbatana qalasında bir tumar tapıldı. Bu tumarda belə qeyd edilmişdi: </verse>
+        <verse osisID='Ezra.6.3'>«Padşah Kirin hökmdarlığının birinci ilində Allahın Yerusəlimdəki məbədi barədə Kir belə əmr verib: “Bu məbəd – qurbanlar təqdim edilən bu yer əvvəlki bünövrəsi üzərində bərpa edilsin.</verse>
+        <verse osisID='Ezra.6.4'>Üç cərgə böyük daş, bir cərgə təzə dirək qoyulmaqla altmış qulac hündürlükdə və altmış qulac uzunluqda olsun. Bu işin bütün xərci padşah xəzinəsindən ödənilsin.</verse>
+        <verse osisID='Ezra.6.5'>Həm də Yerusəlimdəki Allah evindən Navuxodonosorun çıxarıb Babilə gətirdiyi qızıl və gümüş qablar geri qaytarılsın. Bunların hamısı öz yerinə, Yerusəlimdə olan məbədə aparılsın. Onları Allahın evinə qoyun”. </verse>
+        <verse osisID='Ezra.6.6'>Ona görə Fərat çayının qərb torpaqlarının valisi Tattenay, Şetar-Boznay və yoldaşları – Fərat çayının qərb torpaqlarındakı məmurlar qoy indi oradan uzaqlaşsın,</verse>
+        <verse osisID='Ezra.6.7'>Allah evinin işinə qarışmasınlar. Yəhudilərin valisi və Yəhudilərin ağsaqqalları Allahın evini öz yerində bərpa etsinlər.</verse>
+        <verse osisID='Ezra.6.8'>Mən əmr edirəm ki, Allahın bu evinin bərpasında Yəhudilərin bu ağsaqqallarına kömək edəsiniz, işlərinin dayandırılmaması üçün bu adamların xərci mütləq padşah xəzinəsindən, Fərat çayının qərb torpaqlarından yığılan vergilərdən ödənilsin.</verse>
+        <verse osisID='Ezra.6.9'>Göylərin Allahına yandırma qurbanları vermək üçün hər gün ehtiyaclarına görə cavan buğalar, qoç və quzular, Yerusəlimdəki kahinlərin istədiyi miqdarda buğda, duz, şərab, zeytun yağı əskik edilmədən onlara verilsin.</verse>
+        <verse osisID='Ezra.6.10'>Onlar göylərin Allahına xoş ətirli qurbanlar versinlər və buna görə padşahla övladları üçün dua etsinlər ki, canları sağ olsun.</verse>
+        <verse osisID='Ezra.6.11'>Əmr edirəm ki, bu fərmanı dəyişdirən adamın evindən bir dirək çıxarıb dik basdırılsın və həmin adam bu dirəkdən asılsın. Qoy belə ev xarabalığa çevrilsin.</verse>
+        <verse osisID='Ezra.6.12'>Bu məbədi isminə məskən edən Allah bu fərmanı dəyişdirməyə cəhd edən və Yerusəlimdəki məbədin dağılmasını istəyən hər padşahı və xalqı yox etsin. Mən Dara əmr edirəm, əmrim sözsüz yerinə yetirilsin». </verse>
+        <verse osisID='Ezra.6.13'>O zaman Fərat çayının qərb torpaqlarının valisi Tattenay, Şetar-Boznay və yoldaşları padşah Daranın göndərdiyi bu əmri alan kimi ona əməl etdilər.</verse>
+        <verse osisID='Ezra.6.14'>Yəhudilərin ağsaqqalları tikintini davam etdirdilər və peyğəmbər Haqqay ilə İddo oğlu Zəkəriyyənin peyğəmbərlik sözlərinə əsasən onların işləri uğurlu gedirdi. İsrail Allahının buyruğuna görə Fars padşahları Kir, Dara və Artaxşastanın əmri ilə məbədi tikib qurtardılar.</verse>
+        <verse osisID='Ezra.6.15'>Məbəd padşah Daranın hakimiyyətinin altıncı ili, Adar ayının üçündə başa çatdı. </verse>
+        <verse osisID='Ezra.6.16'>İsrail övladları – kahinlər, Levililər və sürgündən qayıdanların hamısı bu Allah evinin təqdis mərasimini sevinclə qeyd etdilər.</verse>
+        <verse osisID='Ezra.6.17'>Allahın evinin təqdisi üçün yüz buğa, iki yüz qoç, dörd yüz quzu və bütün İsrail üçün qəbilələrinin sayına görə günah qurbanı olaraq on iki təkə təqdim etdilər.</verse>
+        <verse osisID='Ezra.6.18'>Yerusəlimdə Allaha xidmət üçün Musanın Kitabında yazıldığı kimi kahinləri öz dəstələrində və Levililəri öz bölmələrində düzdülər. </verse>
+        <verse osisID='Ezra.6.19'>Sürgündən qayıdanlar Pasxa bayramını birinci ayın on dördündə keçirdilər.</verse>
+        <verse osisID='Ezra.6.20'>Çünki kahinlərlə Levililər bir nəfər kimi özlərini pak etdikləri üçün təmiz idilər. Levililər bütün sürgündən qayıdanlar üçün, kahin qardaşları və özləri üçün Pasxa qurbanı kəsdilər.</verse>
+        <verse osisID='Ezra.6.21'>Sürgündən qayıdan İsrail övladları və İsrailin Allahı Rəbbə sitayiş etmək üçün özlərini ətraf millətlərin murdarlığından təcrid edənlərin hamısı qurban əti yedilər.</verse>
+        <verse osisID='Ezra.6.22'>Yeddi gün sevinclə Mayasız Çörək bayramı keçirdilər, çünki onları sevindirən Rəbb idi. Rəbb İsrail Allahının evinin bərpasına kömək etmək üçün Aşşur padşahının ürəyində meyl yaratmışdı.  </verse>
+      </chapter>
+      <chapter osisID='Ezra.7'>
+        <verse osisID='Ezra.7.1'>
+          Bu işlərdən sonra Fars padşahı Artaxşastanın dövründə başçı kahin Harun oğlu Eleazar oğlu Pinxas oğlu Avişua oğlu</verse>
+        <verse osisID='Ezra.7.2'>Buqqi oğlu Uzzi oğlu</verse>
+        <verse osisID='Ezra.7.3'>Zerahya oğlu Merayot oğlu Azarya oğlu Amarya oğlu</verse>
+        <verse osisID='Ezra.7.4'>Axituv oğlu Sadoq oğlu Şallum oğlu</verse>
+        <verse osisID='Ezra.7.5'>Xilqiya oğlu Azarya oğlu Seraya oğlu Ezra Babildən çıxdı.</verse>
+        <verse osisID='Ezra.7.6'>Babildən gələn bu Ezra İsrailin Allahı Rəbbin Musaya verdiyi Qanunu yaxşı bilən ilahiyyatçı idi. Allahı Rəbbin əli onun üzərində olduğuna görə padşah Ezranın istədiyi hər bir şeyi vermişdi. </verse>
+        <verse osisID='Ezra.7.7'>Padşah Artaxşastanın hakimiyyətinin yeddinci ilində İsrail övladlarından, kahinlərdən, Levililərdən, ilahiçilərdən, məbəddəki qapıçılardan və qulluqçulardan bəziləri Yerusəlimə qayıtdı.</verse>
+        <verse osisID='Ezra.7.8'>Ezra Yerusəlimə çatanda Artaxşastanın hökmdarlığının yeddinci ilinin beşinci ayı idi.</verse>
+        <verse osisID='Ezra.7.9'>O, birinci ayın birinci günündə Babildən yola düşüb beşinci ayın birində Yerusəlimə çatdı, çünki Allahın mərhəmətli əli onun üzərində idi.</verse>
+        <verse osisID='Ezra.7.10'>Ezra özünü Rəbbin Qanununu tədqiq və tətbiq etməyə, İsraildə qayda-qanunları öyrətməyə həsr etmişdi. </verse>
+        <verse osisID='Ezra.7.11'>Rəbbin əmrlərini və İsrailə buyurduğu qanunları öyrədən ilahiyyatçı, kahin Ezraya padşah Artaxşasta bu məzmunda məktub vermişdi: </verse>
+        <verse osisID='Ezra.7.12'>«Padşahlar padşahı Artaxşastadan göylərin Allahının qanunlarını öyrədən kahin Ezraya bildiriş: </verse>
+        <verse osisID='Ezra.7.13'>İndi mən əmr edirəm ki, padşahlığımda olan İsrail xalqından, kahinlərdən, Levililərdən könüllü olaraq Yerusəlimə getmək istəyən hər kəs səninlə getsin.</verse>
+        <verse osisID='Ezra.7.14'>İndi sən padşahla yeddi məsləhətçisi tərəfindən əlində olan Allahın Qanununa əsasən Yəhuda və Yerusəlimdəki vəziyyəti öyrənmək üçün göndərilirsən.</verse>
+        <verse osisID='Ezra.7.15'>Yerusəlimi məskəni edən İsrailin Allahına padşah və məsləhətçilərinin könüllü təqdim etdikləri qızıl-gümüşü götür.</verse>
+        <verse osisID='Ezra.7.16'>Xalqın və kahinlərin İsrailin Allahının Yerusəlimdəki məbədinə könüllü surətdə verdikləri hədiyyələrlə bərabər Babil vilayətinin hər tərəfindən yığacağın qızıl-gümüşün hamısını götür.</verse>
+        <verse osisID='Ezra.7.17'>Sonra bu pulla tez buğalar, qoçlar, quzular, taxıl və şərab təqdimlərini alarsan. Onları Allahınızın Yerusəlimdəki məbədinin qurbangahında təqdim edərsiniz.</verse>
+        <verse osisID='Ezra.7.18'>Sən və qardaşların qızıl-gümüşün qalan hissəsini Allahın iradəsinə uyğun, istədiyin kimi istifadə edə bilərsiniz.</verse>
+        <verse osisID='Ezra.7.19'>Allahının məbədində ibadət zamanı işlətmək üçün sənə qaytarılan qabları isə Yerusəlim Allahının hüzurunda təhvil ver.</verse>
+        <verse osisID='Ezra.7.20'>Allahın məbədinə başqa nə lazım olarsa, sən onu padşah xəzinəsindən ödə. </verse>
+        <verse osisID='Ezra.7.21'>Mən padşah Artaxşasta Fərat çayının qərb torpaqlarının bütün xəzinədarlarına əmr edirəm ki, göylər Allahının Qanununun ilahiyyatçısı, kahin Ezranın hər istəyini diqqətlə yerinə yetirin.</verse>
+        <verse osisID='Ezra.7.22'>Yüz talanta qədər gümüş, yüz kora qədər buğda, yüz bata qədər şərab, yüz bata qədər zeytun yağı və istədikləri qədər duz verin.</verse>
+        <verse osisID='Ezra.7.23'>Göylərin Allahının məbədi üçün, bu Allah tərəfindən hər nə əmr olunarsa, yerli-yerində ona əməl edilsin. Niyə padşahın və övladlarının ölkəsi qəzəbə düçar olsun?</verse>
+        <verse osisID='Ezra.7.24'>Sizə bildiririk ki, kahinlərdən, Levililərdən, ilahiçilərdən, bu Allah evinin qapıçılarından, qulluqçularından, digər xidmətçilərindən xərac, vergi və gömrük istəməyə izin yoxdur. </verse>
+        <verse osisID='Ezra.7.25'>Sən Ezra Allahın sənə verdiyi müdrikliyə görə orada hakimlər və qazilər təyin et. Qoy onlar Fərat çayının qərbində olan bütün xalqa – sənin Allahının qanunlarını bilənlərin hamısına hökm etsinlər. Bilməyənləri də sən öyrətməlisən.</verse>
+        <verse osisID='Ezra.7.26'>Sənin Allahının qanununa və padşahın qanununa əməl etməyən adam mütləq ölüm, sürgün, əmlak müsadirəsi yaxud həbs cəzaları ilə cəzalansın». </verse>
+        <verse osisID='Ezra.7.27'>Atalarımızın Allahı Rəbbə alqış olsun ki, padşahın qəlbində Rəbbin Yerusəlimdə olan məbədinə belə hörmət göstərmək istəyini yaratdı.</verse>
+        <verse osisID='Ezra.7.28'>Rəbb padşahın, onun məsləhətçilərinin və bütün güclü rəislərinin mənə yaxşı münasibətini yaratdı. Üzərimdə olan Allahım Rəbbin əlindən qüvvət alaraq mənimlə bərabər getmək üçün İsrailin başçılarından bəzilərini yanıma topladım.  </verse>
+      </chapter>
+      <chapter osisID='Ezra.8'>
+        <verse osisID='Ezra.8.1'>
+          Artaxşastanın padşahlığı zamanı mənimlə bərabər Babildən gələn və adları qeyd edilmiş nəsil başçıları bunlardır:</verse>
+        <verse osisID='Ezra.8.2'>Pinxas övladlarından Gerşom, İtamar övladlarından Daniel, Davud övladlarından Xattuş,</verse>
+        <verse osisID='Ezra.8.3'>Şekanya nəslindən, Paroş övladlarından, Zəkəriyyə və onunla bir nəsildən qeydə alınan yüz əlli kişi.</verse>
+        <verse osisID='Ezra.8.4'>Paxat-Moav övladlarından Zerahya oğlu Elyehoenay və onunla bərabər iki yüz kişi.</verse>
+        <verse osisID='Ezra.8.5'>Şekanya övladlarından Yaxazielin oğlu və onunla bərabər üç yüz kişi.</verse>
+        <verse osisID='Ezra.8.6'>Adin övladlarından Yonatan oğlu Eved və onunla bərabər əlli kişi.</verse>
+        <verse osisID='Ezra.8.7'>Elam övladlarından Atalya oğlu Yeşaya və onunla bərabər yetmiş kişi.</verse>
+        <verse osisID='Ezra.8.8'>Şefatya övladlarından Mikael oğlu Zevadya və onunla bərabər səksən kişi.</verse>
+        <verse osisID='Ezra.8.9'>Yoav övladlarından Yexiel oğlu Avdiya və onunla bərabər iki yüz on səkkiz kişi.</verse>
+        <verse osisID='Ezra.8.10'>Şelomit övladlarından Yosifyanın oğlu və onunla bərabər yüz altmış kişi.</verse>
+        <verse osisID='Ezra.8.11'>Bevay övladlarından Bevay oğlu Zəkəriyyə və onunla bərabər iyirmi səkkiz kişi.</verse>
+        <verse osisID='Ezra.8.12'>Azqad övladlarından Haqqatan oğlu Yoxanan və onunla bərabər yüz on kişi.</verse>
+        <verse osisID='Ezra.8.13'>Adoniqamın Elifelet, Yeiel, Şemaya adlı sonuncu oğulları və onlarla bərabər altmış kişi.</verse>
+        <verse osisID='Ezra.8.14'>Biqvay övladlarından Utay, Zakkur və onlarla bərabər yetmiş kişi. </verse>
+        <verse osisID='Ezra.8.15'>Onları Ahavaya tərəf axan çayın yanına yığdım və üç gün orada qaldıq. Mən orada xalqla kahinləri yoxladım, lakin orada Levi övladlarından heç kimi tapa bilmədim.</verse>
+        <verse osisID='Ezra.8.16'>Başçılardan Eliezeri, Arieli, Şemayanı, Elnatanı, Yarivi, Elnatanı, Natanı, Zəkəriyyəni, Meşullamı, savadlılardan Yoyarivi və Elnatanı çağırtdırdım.</verse>
+        <verse osisID='Ezra.8.17'>Sonra onları Kasifya deyilən yerdə başçılıq edən İddonun yanına göndərdim. Allahımızın məbədinə xidmət edən adamları bizə gətirmək üçün Kasifya deyilən yerdə İddoya və məbəd qulluqçuları olan qardaşlarına nə deyəcəklərini öyrətdim.</verse>
+        <verse osisID='Ezra.8.18'>Allahımızın mərhəmətli əli üzərimizdə olduğuna görə İsrail oğlu Levi oğlu Maxli övladlarından zəkalı bir adam olan Şerevya ilə oğulları və soydaşlarından on səkkiz nəfəri,</verse>
+        <verse osisID='Ezra.8.19'>Haşavyanı, onunla bərabər Merari övladlarından Yeşayanı və qardaşları ilə onların övladlarından iyirmi nəfəri,</verse>
+        <verse osisID='Ezra.8.20'>Levililərə kömək etmək üçün Davudla başçılarının təyin etdikləri məbəd qulluqçularından iki yüz iyirmi nəfəri bizə gətirdilər. Onların hamısı adbaad qeyd olunmuşdu. </verse>
+        <verse osisID='Ezra.8.21'>Allahımızın qarşısında özümüzü aşağı tutub Ondan özümüz, övladlarımız və bütün malımız üçün təhlükəsiz yol diləməkdən ötrü Ahava çayı yanında oruc elan etdim.</verse>
+        <verse osisID='Ezra.8.22'>Çünki düşmənə qarşı yolda bizə kömək etmək üçün padşahdan əsgər və atlılar istəməyə utanırdım, həm də padşaha belə söyləmişdik: «Allahımızın əli yaxşılıq etmək üçün Ona etiqad edənlərin üzərindədir. Lakin Ondan dönənlərə Öz gücünü və qəzəbini göstərir».</verse>
+        <verse osisID='Ezra.8.23'>Elə buna görə də biz oruc tutub Allahımıza yalvardıq. O bizim duamızı qəbul etdi. </verse>
+        <verse osisID='Ezra.8.24'>Kahinlərin rəhbərləri arasından on iki nəfəri – Şerevya, Xaşavya ilə onların on nəfər soydaşını seçdim.</verse>
+        <verse osisID='Ezra.8.25'>Padşahın, məsləhətçilərinin, rəislərinin və orada olan bütün İsraillilərin Allahımızın məbədi üçün təqdim etdikləri qızıl və gümüşlə bərabər əşyaları da çəkib onlara verdim.</verse>
+        <verse osisID='Ezra.8.26'>Onların əlinə altı yüz əlli talant gümüş, yüz talant gümüş əşya, yüz talant qızıl,</verse>
+        <verse osisID='Ezra.8.27'>min dariklik dəyəri olan iyirmi qızıl boşqab və qızıl qədər qiymətli olan parlaq misdən iki gözəl qabı da çəkib verdim.</verse>
+        <verse osisID='Ezra.8.28'>Onlara dedim: «Siz Rəbbin müqəddəslərisiniz, bu əşyalar da müqəddəsdir. Bu qızılla gümüş atalarınızın Allahı Rəbbə edilən könüllü təqdimdir.</verse>
+        <verse osisID='Ezra.8.29'>Diqqətli olun! Onları kahinlərin rəhbərləri, Levililər və İsrailin nəsil başçıları qarşısında Yerusəlimdəki Rəbbin məbədinin otaqlarında çəkib təhvil verənə qədər qoruyun».</verse>
+        <verse osisID='Ezra.8.30'>Kahinlərlə Levililər çəkilmiş qızıl və gümüşlə qabları Yerusəlimə, Allahımızın məbədinə aparmaq üçün götürdülər. </verse>
+        <verse osisID='Ezra.8.31'>Yerusəlimə getmək üçün Ahava çayı sahilindən birinci ayın on ikinci günü köçdük. Allahımızın əli üzərimizdə idi və bizi düşmənin əlindən, yolumuzdakı pusqulardan qurtardı.</verse>
+        <verse osisID='Ezra.8.32'>Biz Yerusəlimə çatıb orada üç gün qaldıq.</verse>
+        <verse osisID='Ezra.8.33'>Dördüncü gün isə Allahımızın məbədində qızıl-gümüş əşyaları çəkib kahin Uriyanın oğlu Meremotun əlinə verdik. Pinxas oğlu Eleazar, habelə Levililərdən olan Yeşua oğlu Yozavad və Binnuy oğlu Noadya da onunla idi.</verse>
+        <verse osisID='Ezra.8.34'>Əşyaların hamısı sayla, çəki ilə təhvil veriləndə bütün çəki miqdarı yazıldı. </verse>
+        <verse osisID='Ezra.8.35'>Bütün İsrail üçün sürgündən qayıdanlar İsrailin Allahına yandırma qurbanı olaraq on iki buğa, doxsan altı qoç, yetmiş yeddi quzu və günah qurbanı olaraq on iki təkə təqdim etdilər. Bunların hamısı Rəbbə təqdim edilən yandırma qurbanları idi.</verse>
+        <verse osisID='Ezra.8.36'>Sonra onlar padşahın əmrlərini padşahın canişinlərinə və Fərat çayının qərb tərəfindəki valilərinə verdilər. Onlar da xalqa və Allahın evinə kömək etdilər.  </verse>
+      </chapter>
+      <chapter osisID='Ezra.9'>
+        <verse osisID='Ezra.9.1'>
+          Bu işlər qurtarandan sonra rəhbərlər mənə yaxınlaşıb dedilər: «Kahinlərlə Levililər daxil olmaqla İsrail xalqı ətraflarındakı xalqların – Kənanlıların, Xetlilərin, Perizlilərin, Yevusluların, Ammonluların, Moavlıların, Misirlilərin, Emorluların iyrənc adətlərinə uyub özlərini onlardan fərqləndirməyiblər.</verse>
+        <verse osisID='Ezra.9.2'>Belə ki onlar özlərinə və oğullarına ətraflarındakı xalqların qızlarından alıblar. Bununla müqəddəs xalq başqa xalqlarla qarışıb. Rəhbərlərlə məmurlar bu xəyanətə ilk yol açmışlar».</verse>
+        <verse osisID='Ezra.9.3'>Mən bu sözü eşidəndə paltarımla cübbəmi cırıb saç-saqqalımı yolaraq çarəsiz oturdum.</verse>
+        <verse osisID='Ezra.9.4'>Sürgündən qayıdanların bu xəyanətinə görə İsrail Allahının sözlərindən lərzəyə gələnlərin hamısı yanıma yığıldı. Mən axşam qurbanı təqdim edilənə qədər çaşqın-çaşqın oturdum. </verse>
+        <verse osisID='Ezra.9.5'>Axşam qurbanı vaxtı pərişan halda ayağa qalxdım. Paltarım və cübbəm cırıq idi. Dizüstə oturub əllərimi Allahım Rəbbə açıb</verse>
+        <verse osisID='Ezra.9.6'>belə dua etdim:  «Ey Allahım, utanıram! Üzümü Sənə – Allahıma qaldırmağa xəcalət çəkirəm, çünki təqsirlərimiz başımızdan aşıb, günahlarımız böyüyərək göylərə çatıb.</verse>
+        <verse osisID='Ezra.9.7'>Atalarımızın dövründən bu günə qədər böyük günah içindəyik. Ona görə də hər zaman bugünkü kimi biz, padşahlarımız, kahinlərimiz təqsirlərimiz üzündən yadelli padşahlara təslim edilib qılınca, əsirliyə, talana, rüsvayçılığa düçar olduq.</verse>
+        <verse osisID='Ezra.9.8'>İndi isə bizə Allahımız Rəbb tərəfindən ani olaraq mərhəmət göstərildi. Əsirlikdən qurtulub sağ qalan bir neçə adamı Allahımız bizim üçün saxladı. Müqəddəs məkanında bizə möhkəm bir yer verdi ki, gözümüzə nur versin, bizi köləlikdən qurtarıb bir az həyata qovuşdursun.</verse>
+        <verse osisID='Ezra.9.9'>Axı biz köləyik, lakin Allahımız bizi köləlikdə qoymadı. Bizi Allahımızın məbədini bərpa etmək, onun xarabalıqlarını abad etmək üçün Yəhuda ilə Yerusəlimdə özümüzə divar çəkməyə ruhlandırdı. Ona görə də Fars padşahlarının gözündə bizə qarşı lütf yaratdı. </verse>
+        <verse osisID='Ezra.9.10'>Ey Allahımız, daha nə deyə bilərik? Çünki Sənin əmrlərini tərk etmişdik.</verse>
+        <verse osisID='Ezra.9.11'>Sən əmrlərini qulların peyğəmbərlər vasitəsilə verib dedin: “Mülk olaraq almaq üçün getdiyiniz ölkə öz əhalisinin pozğunluğu ilə, oranı başdan-başa dolduran iyrənc adətləri və murdarlıqları ilə çirkaba batan ölkədir.</verse>
+        <verse osisID='Ezra.9.12'>Buna görə də nə qızlarınızı onların oğullarına verin, nə də qızlarından oğullarınıza alın. Əgər qüvvətli olmaq, bu torpağın nemətlərini yemək istəyirsinizsə, heç vaxt onların salamatlığı və firavanlığı üçün çalışmayın. Onda bu torpağı övladlarınıza irs olaraq əbədi saxlayarsınız”. </verse>
+        <verse osisID='Ezra.9.13'>Hər şey pis işlərimizdən və böyük günahlarımızdan ötrü başımıza gəldi, lakin, ey Allahımız, Sən bizi təqsirlərimizin layiq olduğundan az cəzalandırdın. Əsirlikdən qurtulub sağ qalan bir neçə adamı – bunları bizə verdin.</verse>
+        <verse osisID='Ezra.9.14'>Bundan sonra yenə əmrlərinimi pozaq? Belə iyrənc işlər görən xalqlarla qohummu olaq? Biz qurtarana, sağ qalıb qurtula bilməyənə qədər bizə qəzəblənməyəcəksənmi?</verse>
+        <verse osisID='Ezra.9.15'>Ey İsrailin Allahı Rəbb, Sən adilsən! Bugünkü kimi biz kiçik bir dəstə halında sağ qalmışıq. Budur, Sənin qarşında günah içindəyik və buna görə heç birimiz Sənin qarşında dayana bilmirik».  </verse>
+      </chapter>
+      <chapter osisID='Ezra.10'>
+        <verse osisID='Ezra.10.1'>
+          Ezra Allah evinin qarşısında ağlayıb yerə sərilərək dua və etiraf edərkən İsraillilərdən çox böyük bir camaat – kişilər, qadınlar və uşaqlar onun yanına yığıldı. Xalq da acı-acı ağlayırdı.</verse>
+        <verse osisID='Ezra.10.2'>Elam övladlarından Yexiel oğlu Şekanya Ezraya müraciət edib dedi: «Biz Allahımıza xəyanət edərək ətrafımızdakı xalqlardan yadelli arvadlar aldıq. Buna baxmayaraq, hələ də İsraillilərin ümidi var.</verse>
+        <verse osisID='Ezra.10.3'>Ağamızın və Allahımızın əmri üzərində əsənlərin məsləhətinə görə bütün belə arvadları və onlardan doğulanları ataq. Gəlin bunun üçün indi Allahımızla əhd bağlayaq. Qoy bu Qanuna görə edilsin.</verse>
+        <verse osisID='Ezra.10.4'>Qalx, çünki bu işin məsuliyyətini daşıyan sənsən və biz də səninləyik. Ürəkli ol, işə başla!» </verse>
+        <verse osisID='Ezra.10.5'>Ezra ayağa qalxdı. Kahinlərin rəhbərlərinə, Levililərə və digər İsraillilərə bu sözü yerinə yetirmələri üçün and içdirdi. Onlar da and içdilər.</verse>
+        <verse osisID='Ezra.10.6'>Ezra Allah evinin qarşısından ayrılıb Elyaşivin oğlu Yehoxananın otağına girdi. Gecəni orada keçirib nə çörək yedi, nə də su içdi, çünki sürgündən qayıdanların bu xəyanətinə görə yas tuturdu.</verse>
+        <verse osisID='Ezra.10.7'>Yəhudada və Yerusəlimdə sürgündən qayıdanların hamısına elan etdilər ki, Yerusəlimə yığılsınlar.</verse>
+        <verse osisID='Ezra.10.8'>Başçıların və ağsaqqalların məsləhətinə görə üç gün ərzində buraya gəlməyən hər adamın bütün əmlakı müsadirə ediləcək və özü də sürgündən qayıdan camaatın içərisindən çıxarılacaq. </verse>
+        <verse osisID='Ezra.10.9'>Yəhudanın və Binyaminin bütün adamları üç gün ərzində Yerusəlimə yığıldı. Bu doqquzuncu ayın iyirmisində oldu. Bütün xalq bu hadisədən, həm də yağışdan ötrü əsə-əsə Allah evinin qarşısında, meydanda oturdu.</verse>
+        <verse osisID='Ezra.10.10'>Kahin Ezra ayağa qalxıb onlara dedi: «Siz xəyanət etmisiniz. İsrailin günahını daha da artıraraq yadelli arvadlar almısınız.</verse>
+        <verse osisID='Ezra.10.11'>İndi atalarınızın Allahı Rəbbə öz günahlarınızı etiraf edin və Onun iradəsini yerinə yetirin. Ətrafınızdakı xalqlardan, yadelli arvadlardan ayrılın».</verse>
+        <verse osisID='Ezra.10.12'>Bütün camaat bərkdən cavab verib dedi: «Bəli, haqlısan, sənin sözlərinə əməl etmək bizim borcumuzdur.</verse>
+        <verse osisID='Ezra.10.13'>Amma yağış vaxtıdır, bayırda dayanmağa taqətimiz yoxdur, xalq isə çoxdur. Bu iş bir-iki günün işi deyil. Çünki belə əməllə günahımızı artırmışıq.</verse>
+        <verse osisID='Ezra.10.14'>Qoy bütün xalqı rəhbərlərimiz təmsil etsin. Bu işə görə Allahımızın coşan qəzəbi soyuyanadək şəhərlərimizdəki hər yadelli arvad alan şəxs şəhər ağsaqqalları və hakimlərlə bərabər təyin olunacaq vaxtda buraya gəlsin».</verse>
+        <verse osisID='Ezra.10.15'>Buna qarşı yalnız Asahel oğlu Yonatan və Tiqva oğlu Yaxzeya çıxdı. Meşullamla Levili Şabbetay da onlara kömək etdi. </verse>
+        <verse osisID='Ezra.10.16'>Sürgündən qayıdanlar bu sözə əməl etdi. Kahin Ezra hər nəsildən nəsil başçısını seçib hamısının adını bəyan etdi. Onuncu ayın birində isə oturub bu işi araşdırmağa başladılar.</verse>
+        <verse osisID='Ezra.10.17'>Onlar birinci ayın birinci gününə qədər yadelli arvad alanların hamısı barədə lazımi qərar çıxartdılar. </verse>
+        <verse osisID='Ezra.10.18'>Kahin övladları arasında yadelli arvad alanlardan bunlar tapıldı: Yosadaqın oğlu Yeşua övladlarından və qardaşlarından Maaseya Eliezer, Yariv və Gedalya.</verse>
+        <verse osisID='Ezra.10.19'>Onlar da arvadlarını boşayacaqlarına dair əlbir oldu və öz təqsirlərinə görə təqsir qurbanı olaraq bir qoç təqdim etdi.</verse>
+        <verse osisID='Ezra.10.20'>İmmer övladlarından Xanani və Zevadya,</verse>
+        <verse osisID='Ezra.10.21'>Xarim övladlarından Maaseya, Eliya, Şemaya, Yexiel, Uzziya,</verse>
+        <verse osisID='Ezra.10.22'>Paşxur övladlarından Elyoenay, Maaseya, İsmail, Netanel, Yozavad və Elasa; </verse>
+        <verse osisID='Ezra.10.23'>Levililərdən: Yozavad, Şimey, Qelaya, yəni Qelita, Petahya, Yəhuda və Eliezer; </verse>
+        <verse osisID='Ezra.10.24'>İlahiçilərdən: Elyaşiv, məbəd qapıçılarından Şallum, Telem və Uri; </verse>
+        <verse osisID='Ezra.10.25'>Digər İsraillilərdən – Paroş övladlarından Ramya, İzziya, Malkiya, Miyamin, Eleazar, Malkiya və Benaya;</verse>
+        <verse osisID='Ezra.10.26'>Elam övladlarından Mattanya, Zəkəriyyə, Yexiel, Avdi, Yeremot və Eliya;</verse>
+        <verse osisID='Ezra.10.27'>Zattu övladlarından Elyoenay, Elyaşiv, Mattanya, Yeremot, Zavad və Aziza;</verse>
+        <verse osisID='Ezra.10.28'>Bevay övladlarından Yehoxanan, Xananya, Zabbay, Atlay;</verse>
+        <verse osisID='Ezra.10.29'>Bani övladlarından Meşullam, Malluk, Adaya, Yaşuv, Şeal, Yeremot;</verse>
+        <verse osisID='Ezra.10.30'>Paxat-Moav övladlarından Adna, Kelal, Benaya, Maaseya, Mattanya, Besalel, Binnuy və Menaşşe;</verse>
+        <verse osisID='Ezra.10.31'>Xarim övladlarından Eliezer, İşşiya, Malkiya, Şemaya və Şimeon,</verse>
+        <verse osisID='Ezra.10.32'>Binyamin, Malluk, Şemarya;</verse>
+        <verse osisID='Ezra.10.33'>Xaşum övladlarından Mattenay, Mattata, Zavad, Elifelet, Yeremay, Menaşşe, Şimey;</verse>
+        <verse osisID='Ezra.10.34'>Bani övladlarından Maaday, Amram, Uel,</verse>
+        <verse osisID='Ezra.10.35'>Benaya, Bedeya, Keluhi,</verse>
+        <verse osisID='Ezra.10.36'>Vanya, Meremot, Elyaşiv,</verse>
+        <verse osisID='Ezra.10.37'>Mattanya, Mattenay, Yaasay,</verse>
+        <verse osisID='Ezra.10.38'>Bani, Binnuy, Şimey,</verse>
+        <verse osisID='Ezra.10.39'>Şelemya, Natan, Adaya,</verse>
+        <verse osisID='Ezra.10.40'>Maknadvay, Şaşay, Şaray,</verse>
+        <verse osisID='Ezra.10.41'>Azarel, Şelemya, Şemarya,</verse>
+        <verse osisID='Ezra.10.42'>Şallum, Amarya, Yusif;</verse>
+        <verse osisID='Ezra.10.43'>Nevo övladlarından Yeiel, Mattitya, Zavad, Zevina, Yadday, Yoel və Benaya. </verse>
+        <verse osisID='Ezra.10.44'>Bu adamların hamısı yadelli arvad almışdı və bəzilərinin bu arvadlardan uşaqları da var idi.  </verse>
+      </chapter>
+    </div></osisText>
+</osis>

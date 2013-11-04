@@ -1,0 +1,1035 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace'>
+  <osisText osisIDWork='NorthernAzeri' osisRefWork='Bible' xml:lang='az'>
+    <header>
+      <revisionDesc>
+        <date>2012-01-07</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='NorthernAzeri'>
+        <title>Northern Azeri Translation</title>
+        <contributor/>
+        <creator>Mod2Zef (6)</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject/>
+        <date>2012-01-07</date>
+        <description>Northern Azeri Translation</description>
+        <publisher/>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>NorthernAzeri</identifier>
+        <source>no entry TextSource in sword.conf found</source>
+        <language type='IETF'>az</language>
+        <relation/>
+        <coverage>provide the bible to the nations of the world</coverage>
+        <rights>Copyrighted Kutsul Kitab; Permission to distribute granted to CrossWire</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='Lev'>
+      <chapter osisID='Lev.1'>
+        <verse osisID='Lev.1.1'>
+          Rəbb Musanı Hüzur çadırından çağırıb belə dedi:</verse>
+        <verse osisID='Lev.1.2'>«İsrail övladlarına bəyan et və de: “Sizdən bir nəfər öz heyvanlarından Rəbbə qurban gətirəndə qoy qurbanlığı mal-qara yaxud qoyun-keçi olsun. </verse>
+        <verse osisID='Lev.1.3'>Əgər qurbanı bir baş mal-qaradan ibarət yandırma qurbanıdırsa, bu qüsursuz erkək heyvan olsun. Bu qurbanın Rəbbin hüzurunda məqbul olması üçün onu gətirən adam onu Hüzur çadırının girişinə gətirsin.</verse>
+        <verse osisID='Lev.1.4'>O adam əlini yandırma qurbanının başına qoysun ki, qurban özü üçün kəffarə kimi qəbul olunsun.</verse>
+        <verse osisID='Lev.1.5'>O, buğanı Rəbbin önündə kəssin. Harun nəslindən olan kahinlər qanı təqdim edərək Hüzur çadırının girişi yanındakı qurbangahın hər tərəfinə səpsinlər.</verse>
+        <verse osisID='Lev.1.6'>Sonra o adam yandırma qurbanının dərisini soyub qurbanı parça-parça doğrasın.</verse>
+        <verse osisID='Lev.1.7'>Kahin Harunun övladları qurbangahda od qalayıb üstünə odun düzsünlər.</verse>
+        <verse osisID='Lev.1.8'>Harun nəslindən olan kahinlər buğanın başını və piyini parça-parça doğranmış hissələrlə birlikdə qurbangahın odunları ilə qalanan od üstünə düzsünlər.</verse>
+        <verse osisID='Lev.1.9'>Qurbanın içalatı və budlarını isə o adam su ilə yusun. Kahin bunların hamısını qurbangahda tüstülədib yandırsın. Bu, yandırma qurbanı, Rəbbin xoşuna gələn ətir – yandırma təqdimidir. </verse>
+        <verse osisID='Lev.1.10'>Əgər kiminsə yandırma qurbanı qoyun-keçidən ibarətdirsə, qoy bu qüsursuz erkək heyvan olsun.</verse>
+        <verse osisID='Lev.1.11'>Onu qurbangahın şimal tərəfində, Rəbbin önündə kəssin; Harun nəslindən olan kahinlər isə heyvanın qanını qurbangahın hər tərəfinə səpsinlər.</verse>
+        <verse osisID='Lev.1.12'>Sonra o adam heyvanı parça-parça doğrasın, başını və piyini kəssin; xidmət edən kahin də qurbanı qurbangahın odunları ilə qalanan od üstünə düzsün.</verse>
+        <verse osisID='Lev.1.13'>İçalatı və budları isə o adam su ilə yusun. Kahin bunların hamısını təqdim edib qurbangahda tüstülədib yandırsın. Bu, yandırma qurbanı, Rəbbin xoşuna gələn ətirli təqdimdir. </verse>
+        <verse osisID='Lev.1.14'>Əgər kiminsə Rəbbə yandırma qurbanı quşdan ibarətdirsə, qoy qumru quşlarından yaxud göyərçinlərdən qurban gətirsin.</verse>
+        <verse osisID='Lev.1.15'>Kahin onu qurbangaha gətirsin, boynunu üzüb başını qurbangahda tüstülədib yandırsın; qanı isə qurbangahın yan tərəfindən axıdılsın.</verse>
+        <verse osisID='Lev.1.16'>Kahin quşun çinədanını lələkləri ilə çıxarıb qurbangahın şərq tərəfinə, küllüyə atsın.</verse>
+        <verse osisID='Lev.1.17'>Sonra o, qanadlarını tutaraq quşu yırtsın, amma iki yerə bölməsin. Bundan sonra kahin quşu qurbangahda odunla qalanan od üstündə tüstülədib yandırsın. Bu, yandırma qurbanı, Rəbbin xoşuna gələn ətir – yandırma təqdimidir.  </verse>
+      </chapter>
+      <chapter osisID='Lev.2'>
+        <verse osisID='Lev.2.1'>
+          Kimsə Rəbbə taxıl təqdimi gətirərsə, təqdimi narın un olsun, üstünə də zeytun yağı töküb kündür  qoysun.</verse>
+        <verse osisID='Lev.2.2'>Onu Harun nəslindən olan kahinlərə gətirsin. Sonra isə kahin bir ovuc unla yağ və kündürün hamısını götürərək qurbangahda xatirə təqdimi kimi tüstülədib yandırsın. Bu, Rəbbin xoşuna gələn ətir – yandırma təqdimidir.</verse>
+        <verse osisID='Lev.2.3'>Taxıl təqdiminin qalan hissəsi isə Harunla övladlarına məxsus olsun. Bu, Rəbb üçün verilən yandırma təqdimindən götürüldüyünə görə ən müqəddəsdir. </verse>
+        <verse osisID='Lev.2.4'>Təndirdə bişirilmiş taxıl təqdimi gətirəndə zeytun yağı ilə narın undan yoğrulmuş mayasız kökələr və üstünə zeytun yağı sürtülmüş mayasız qoğallar təqdim et. </verse>
+        <verse osisID='Lev.2.5'>Əgər təqdimin sacda bişmiş taxıl təqdimidirsə, onu narın undan, zeytun yağı ilə yoğrulmuş mayasız kökə kimi bişir.</verse>
+        <verse osisID='Lev.2.6'>Onu ov və üstünə zeytun yağı tök. Bu, taxıl təqdimidir. </verse>
+        <verse osisID='Lev.2.7'>Əgər təqdimin tavada bişən taxıl təqdimidirsə, onu narın undan zeytun yağı ilə hazırla. </verse>
+        <verse osisID='Lev.2.8'>Bu üsullarla hazırlanan taxıl təqdimini Rəbbin yanına gətir və kahinə təqdim et. O da təqdimini qurbangaha aparsın.</verse>
+        <verse osisID='Lev.2.9'>Kahin bu təqdimdən xatirə təqdimi kimi pay götürərək qurbangahda tüstülədib yandırsın. Bu, Rəbbin xoşuna gələn ətir – yandırma təqdimidir.</verse>
+        <verse osisID='Lev.2.10'>Taxıl təqdiminin qalan hissəsi isə Harunla övladlarına məxsus olsun. Bu, Rəbb üçün verilən yandırma təqdimindən götürüldüyü üçün ən müqəddəsdir. </verse>
+        <verse osisID='Lev.2.11'>Rəbbə gətirilən heç bir taxıl təqdimi mayalı xəmirdən hazırlanmasın. Tərkibində ya maya ya da bal olan təqdim Rəbb üçün yandırma təqdimi kimi tüstülədilib yandırılmasın.</verse>
+        <verse osisID='Lev.2.12'>Bunları ilk məhsul təqdimləri kimi Rəbbin yanına gətirin. Amma xoşa gələn ətir kimi qurbangahda təqdim olunmasın.</verse>
+        <verse osisID='Lev.2.13'>Taxıl təqdimlərinin hər birini duzla, onlardan Allahınla əhdinin duzunu əsirgəmə. Bütün təqdimlərini duzla. </verse>
+        <verse osisID='Lev.2.14'>Əgər sən Rəbbə nübarından taxıl təqdimini gətirsən, onda təzə taxılı odda qovurub yarmasını təqdim et.</verse>
+        <verse osisID='Lev.2.15'>Onun üstünə zeytun yağı və kündür qoy. Bu, taxıl təqdimidir.</verse>
+        <verse osisID='Lev.2.16'>Kahin bir az yarma və zeytun yağı götürərək bütün kündürlə xatirə təqdimi kimi tüstülədib yandırsın. Bu, Rəbb üçün verilən yandırma təqdimidir.  </verse>
+      </chapter>
+      <chapter osisID='Lev.3'>
+        <verse osisID='Lev.3.1'>
+          Əgər kimsə ünsiyyət qurbanı gətirsə və qurbanlıq heyvan mal-qaradandırsa, qoy o, Rəbbin hüzuruna qüsursuz erkək və ya dişi heyvan gətirsin.</verse>
+        <verse osisID='Lev.3.2'>Qoy adam əlini qurbanlığın başına qoyub Hüzur çadırının girişində kəssin və Harun nəslindən olan kahinlər qanı qurbangahın hər tərəfinə səpsinlər.</verse>
+        <verse osisID='Lev.3.3'>Qoy o adam ünsiyyət qurbanından bunları Rəbb üçün yandırma təqdimi kimi gətirsin: içalatı örtən piyi və üstündəki piyi,</verse>
+        <verse osisID='Lev.3.4'>belindəki hər iki böyrəyi, üstündəki piyi və qaraciyərin quyruğa bənzər hissəsini – bunları böyrəkləri ilə birgə çıxartsın.</verse>
+        <verse osisID='Lev.3.5'>Bunları Harun övladları qurbangahda odunlarla qalanan od üstündəki yandırma qurbanı ilə tüstülədib yandırsınlar. Bu, Rəbbin xoşuna gələn ətir – yandırma təqdimidir. </verse>
+        <verse osisID='Lev.3.6'>Əgər Rəbbə təqdim olunan ünsiyyət qurbanı qoyun-keçidəndirsə, qoy o, qüsursuz erkək və yaxud dişi heyvan gətirsin.</verse>
+        <verse osisID='Lev.3.7'>Əgər gətirdiyi qurban bir qoyundursa, qoy onu Rəbbin önündə belə təqdim etsin:</verse>
+        <verse osisID='Lev.3.8'>əlini qurbanın başına qoyub onu Hüzur çadırının qabağında kəssin, Harun övladları qanı qurbangahın hər tərəfinə səpsinlər.</verse>
+        <verse osisID='Lev.3.9'>Qoy o adam ünsiyyət qurbanından bunları Rəbb üçün yandırma təqdimi kimi gətirsin: onurğayadək kəsdiyi quyruğunu, içalatı örtən piyi və üstündəki bütün piyi</verse>
+        <verse osisID='Lev.3.10'>belindəki hər iki böyrəyini, üstündəki piyi və qaraciyərin quyruğa bənzər hissəsini – bunları böyrəkləri ilə birgə çıxartsın.</verse>
+        <verse osisID='Lev.3.11'>Bunları kahin qurbangahda tüstülədib yandırsın. Bu, Rəbb üçün yandırma təqdimi olaraq verilən paydır. </verse>
+        <verse osisID='Lev.3.12'>Əgər adamın qurbanlığı bir keçidirsə, qoy onu Rəbbin önündə belə təqdim etsin:</verse>
+        <verse osisID='Lev.3.13'>əlini heyvanın başına qoyub onu Hüzur çadırının qabağında kəssin. Harun övladları onun qanını qurbangahın hər tərəfinə səpsinlər.</verse>
+        <verse osisID='Lev.3.14'>Qoy o adam qurbandan bunları Rəbb üçün yandırma təqdimi kimi gətirsin: içalatı örtən piyi və üstündəki bütün piyi,</verse>
+        <verse osisID='Lev.3.15'>belindəki hər iki böyrəyini və üstündəki piyi, qaraciyərin quyruğa bənzər hissəsini – bunları böyrəkləri ilə birgə çıxartsın.</verse>
+        <verse osisID='Lev.3.16'>Kahin bunları qurbangah üstündə tüstülədib yandırsın. Bu, yemək – yandırma təqdimi, xoşa gələn ətirdir.  Bütün piy Rəbbə məxsusdur.</verse>
+        <verse osisID='Lev.3.17'>Bu bütün yaşadığınız yerlərdə nəsildən-nəslə sizin üçün əbədi qayda olsun: piyi də, qanı da yeməyin”».  </verse>
+      </chapter>
+      <chapter osisID='Lev.4'>
+        <verse osisID='Lev.4.1'>
+          Rəbb Musaya dedi:</verse>
+        <verse osisID='Lev.4.2'>«İsrail övladlarına belə de: “Əgər kimsə etməməli olduğu halda Rəbbin bütün əmrlərindən birini bilmədən pozarsa, qoy bunlara əməl etsin. </verse>
+        <verse osisID='Lev.4.3'>Əgər məsh edilmiş baş kahin günah işlədib xalqı da borclu etsə, o günaha görə Rəbbə günah qurbanı olaraq qüsursuz bir buğa təqdim etsin.</verse>
+        <verse osisID='Lev.4.4'>Buğanı Hüzur çadırının girişinə, Rəbbin hüzuruna gətirsin və əllərini heyvanın başına qoyub onu Rəbbin hüzurunda kəssin.</verse>
+        <verse osisID='Lev.4.5'>Sonra məsh edilmiş kahin buğanın qanından götürüb Hüzur çadırına gətirsin.</verse>
+        <verse osisID='Lev.4.6'>Kahin barmağını qana batıraraq Rəbbin hüzurunda Müqəddəs yerin pərdəsi qabağında yeddi dəfə çiləsin.</verse>
+        <verse osisID='Lev.4.7'>Sonra kahin Hüzur çadırında, Rəbbin önündə olan ətirli buxur qurbangahının buynuzlarına o qandan çəksin, buğanın qanının qalan hissəsini isə Hüzur çadırının girişindəki yandırma qurbanları üçün qurulan qurbangahın altlığına töksün.</verse>
+        <verse osisID='Lev.4.8'>Qoy sonra kahin günah qurbanı olan buğanın piyini bütövlükdə götürsün. İçalatı örtən piyi və üstündəki bütün piyi,</verse>
+        <verse osisID='Lev.4.9'>belindəki hər iki böyrəyi və üstündəki piyi, qaraciyərin quyruğa bənzər hissəsini – bunları böyrəkləri ilə birgə çıxartsın.</verse>
+        <verse osisID='Lev.4.10'>Bunların hamısı ünsiyyət qurbanı olan mal-qaradan götürüldüyü kimi götürülsün və həmin kahin onları yandırma qurbanları üçün qurulan qurbangahda tüstülədib yandırsın.</verse>
+        <verse osisID='Lev.4.11'>Buğanın dərisini, başından budlarına qədər bütün ətini – içalatını, bağırsaqlarını,</verse>
+        <verse osisID='Lev.4.12'>hər qalan hissəsini düşərgədən kənara çıxarıb kül tökülən pak bir yerə atsın və orada odunla yandırsın. </verse>
+        <verse osisID='Lev.4.13'>Əgər bütün İsrail icması bilmədən günah işlətsə, bu onların nəzərindən qaçsa və etməməli olduqları halda Rəbbin bütün əmrlərindən birini pozub təqsirkar olsalar,</verse>
+        <verse osisID='Lev.4.14'>işlədikləri günah aşkara çıxanda camaat günah qurbanı olaraq bir buğa götürüb Hüzur çadırının qabağına gətirsin.</verse>
+        <verse osisID='Lev.4.15'>İcmanın ağsaqqalları Rəbbin hüzurunda əllərini buğanın başına qoyub onu kəssinlər.</verse>
+        <verse osisID='Lev.4.16'>Sonra məsh edilmiş kahin buğanın qanından götürüb Hüzur çadırına gətirsin.</verse>
+        <verse osisID='Lev.4.17'>Kahin barmağını qana batırıb Rəbbin hüzurunda pərdənin qabağına yeddi dəfə çiləsin.</verse>
+        <verse osisID='Lev.4.18'>Sonra kahin Hüzur çadırında Rəbbin önündəki qurbangahın buynuzlarına o qanı çəksin və buğanın qanının qalan hissəsini isə Hüzur çadırının girişindəki yandırma qurbanları üçün qurulan qurbangahın altlığına töksün.</verse>
+        <verse osisID='Lev.4.19'>Sonra o heyvanın bütün piyini götürərək qurbangahda tüstülədib yandırsın;</verse>
+        <verse osisID='Lev.4.20'>günah qurbanı olan buğaya nə cür etsə, bu buğaya da eyni cür etsin. Bununla kahin xalq üçün kəffarə etsin ki, xalq bağışlansın.</verse>
+        <verse osisID='Lev.4.21'>Sonra kahin buğanı düşərgədən kənara çıxarıb əvvəlki buğanı yandıran kimi yandırsın. Bu, camaat üçün verilən günah qurbanıdır. </verse>
+        <verse osisID='Lev.4.22'>Başçılardan biri günah işlədərək etməməli olduğu halda Allahı Rəbbin bütün əmrlərindən birini pozub təqsirkar olsa,</verse>
+        <verse osisID='Lev.4.23'>işlətdiyi günah özünə aşkar olanda qoy qurban olaraq qüsursuz təkə gətirsin;</verse>
+        <verse osisID='Lev.4.24'>əlini təkənin başına qoyub onu Rəbbin hüzurunda – yandırma qurbanlar kəsilən yerdə onu kəssin. Bu, günah qurbanıdır.</verse>
+        <verse osisID='Lev.4.25'>Sonra kahin barmağı ilə günah qurbanının qanından bir az götürüb yandırma qurbanları üçün qurulan qurbangahın buynuzlarına çəksin. Qanın qalan hissəsini isə həmin qurbangahın altlığına töksün.</verse>
+        <verse osisID='Lev.4.26'>Sonra o heyvanın bütün piyini ünsiyyət qurbanının piyi kimi qurbangahda tüstülədib yandırsın. Bununla kahin o adam üçün günahını kəffarə etsin ki, o bağışlansın. </verse>
+        <verse osisID='Lev.4.27'>Əgər ölkə xalqından bir nəfər etməməli olduğu halda Rəbbin əmrlərindən birini pozaraq bilmədən günah işlədib bu günahda təqsirkar olsa,</verse>
+        <verse osisID='Lev.4.28'>işlətdiyi günah özünə aşkar olanda qoy o, günahına görə özü üçün qurban – qüsursuz dişi keçi gətirsin,</verse>
+        <verse osisID='Lev.4.29'>və əlini günah qurbanının başına qoyub bu qurbanı yandırma qurbanları kəsilən yerdə kəssin.</verse>
+        <verse osisID='Lev.4.30'>Sonra kahin barmağı ilə qurbanın qanından bir az götürüb yandırma qurbanları üçün qurulan qurbangahın buynuzlarına çəksin; qanın qalan hissəsini isə qurbangahın altlığına töksün.</verse>
+        <verse osisID='Lev.4.31'>Sonra heyvanın bütün piyini ünsiyyət qurbanının piyini çıxardığı kimi çıxarıb onu Rəbbin xoşuna gələn ətir kimi qurbangahda tüstülədib yandırın. Bununla kahin o adam üçün kəffarə etsin ki, o bağışlansın. </verse>
+        <verse osisID='Lev.4.32'>Əgər adam günah qurbanı olaraq qoyun gətirsə, qoy o qüsursuz dişi heyvan gətirsin</verse>
+        <verse osisID='Lev.4.33'>və əlini günah qurbanının başına qoysun və onu yandırma qurbanları kəsilən yerdə kəssin.</verse>
+        <verse osisID='Lev.4.34'>Sonra kahin öz barmağı ilə günah qurbanının qanından bir az götürüb yandırma qurbanları üçün qurulan qurbangahın buynuzlarına çəksin; qanın qalan hissəsini isə qurbangahın altlığına töksün.</verse>
+        <verse osisID='Lev.4.35'>Sonra o adam heyvanın bütün piyini ünsiyyət qurbanı olan qoyunun piyi kimi çıxarsın və kahin onu qurbangahda Rəbb üçün verilən yandırma təqdimi üzərində tüstülədib yandırsın. Bununla kahin o adam üçün işlətdiyi günahı kəffarə etsin ki, o bağışlansın.  </verse>
+      </chapter>
+      <chapter osisID='Lev.5'>
+        <verse osisID='Lev.5.1'>Günahın işləndiyini görərək yaxud bilərək şahidi olan adam and içdiriləndə bu barədə şəhadət etməsə, cəzasını çəkər.</verse>
+        <verse osisID='Lev.5.2'>Bilmədən hər hansı murdar bir əşyaya, çöl, ev ya da qaynaşan heyvanın leşinə toxunan hər kəs murdar və təqsirkar sayılır.</verse>
+        <verse osisID='Lev.5.3'>Birini murdarlayan ifrazata, insandan ifraz olan murdarlığa bilmədən toxunan kəs – nə cür murdarlıq olursa olsun – onu dərk edəndə təqsirkar sayılır.</verse>
+        <verse osisID='Lev.5.4'>Düşünmədən və bilmədən hər hansı bir ehtiyatsız andla pislik yaxud yaxşılıq etmək üçün and içən hər kəs bunu biləndə təqsirkar sayılır.</verse>
+        <verse osisID='Lev.5.5'>Bu adam bunlardan birinə görə təqsirini biləndə qoy günahını etiraf etsin</verse>
+        <verse osisID='Lev.5.6'>və o, günaha görə Rəbbin qarşısında təqsirini yumaq üçün sürüdən dişi qoyun ya da dişi keçi götürüb günah qurbanı olaraq gətirsin. Bununla kahin o adam üçün günahını kəffarə etsin. </verse>
+        <verse osisID='Lev.5.7'>Lakin əgər o adamın qoyun-keçi qurbanı kəsməyə gücü çatmırsa, günahına görə təqsirini yumaq üçün Rəbbə iki qumru quşu yaxud da iki göyərçin – biri günah qurbanı, digərini yandırma qurbanı olaraq gətirsin</verse>
+        <verse osisID='Lev.5.8'>və kahinə versin. Kahin əvvəl günah qurbanı olan quşu təqdim etsin: başını bədəndən ayırmadan boynunu üzsün</verse>
+        <verse osisID='Lev.5.9'>və günah qurbanının qanından qurbangahın bir tərəfinə çiləsin, qanın digər hissəsini isə qurbangahın altlığına töksün. Bu, günah qurbanıdır.</verse>
+        <verse osisID='Lev.5.10'>İkinci quş da qayda-qanuna uyğun olaraq yandırma qurbanı kimi təqdim olunsun. Bununla kahin o adam üçün işlətdiyi günahı kəffarə etsin ki, o bağışlansın. </verse>
+        <verse osisID='Lev.5.11'>Əgər o adamın hətta iki qumru quşuna və yaxud iki göyərçinə gücü çatmırsa, qoy işlətdiyi günah üçün narın undan efanın onda birini günah qurbanı kimi təqdim etsin. Lakin qoy onun üstünə nə zeytun yağı, nə də kündür qoymasın, çünki bu günah qurbanıdır.</verse>
+        <verse osisID='Lev.5.12'>Qoy bu adam onu kahinin yanına gətirsin. Kahin ondan xatirə təqdimi kimi bir ovuc götürüb qurbangahda Rəbb üçün verilən yandırma təqdimi üzərində tüstülətsin. Bu, günah qurbanıdır.</verse>
+        <verse osisID='Lev.5.13'>Bununla kahin o adam üçün işlətdiyi hər hansı bir günahı kəffarə etsin ki, o adam bağışlansın. Qalan hissə taxıl təqdimi kimi kahinə məxsus olsun”». </verse>
+        <verse osisID='Lev.5.14'>Rəbb Musaya dedi:</verse>
+        <verse osisID='Lev.5.15'>«Rəbbin müqəddəs şeylərinə etinasız yanaşıb bilmədən günah edən hər kəs təqsir qurbanı olaraq sürüdən qüsursuz bir qoç gətirsin. Bu təqsir qurbanı Müqəddəs yerdəki şekelə münasib gümüş şekellə qiymətləndirilməlidir.</verse>
+        <verse osisID='Lev.5.16'>Müqəddəs şeylərə vurduğu ziyanı da qoy o adam ödəsin və üstünə beşdə birini əlavə edərək kahinə versin; kahin onun üçün təqsir qurbanı olan qoçla kəffarə etsin ki, o bağışlansın. </verse>
+        <verse osisID='Lev.5.17'>Əgər bir nəfər günah işlədib etməməli olduğu halda Rəbbin bütün əmrlərindən birini pozarsa və bunu bilmədən edərsə, təqsirkar sayılıb cəzasını çəkməlidir.</verse>
+        <verse osisID='Lev.5.18'>Qoy o, kahinin yanına təqsir qurbanı olaraq sürüdən qüsursuz və dəyərli bir qoç gətirsin. Bununla kahin onun bilmədən törətdiyi günahı kəffarə etsin ki, o bağışlansın.</verse>
+        <verse osisID='Lev.5.19'>Bu, təqsir qurbanıdır. Həmin adam Rəbbin qarşısında təqsirkar olmuşdur».  </verse>
+      </chapter>
+      <chapter osisID='Lev.6'>
+        <verse osisID='Lev.6.1'>Rəbb Musaya dedi:</verse>
+        <verse osisID='Lev.6.2'>«Əgər bir şəxs günah edib Rəbbə xəyanət edərsə, özünə əmanət edilən, girov qoyulan yaxud oğurluq bir şey barəsində başqa bir adamı aldadarsa ya da ona haqsızlıq edərsə,</verse>
+        <verse osisID='Lev.6.3'>itmiş bir əşyanı tapıb yalan söylərsə, yalandan and içərsə, yəni insanların edə biləcəyi bu günahlardan birini edərsə,</verse>
+        <verse osisID='Lev.6.4'>o şəxs günah etmiş olur və təqsirkar sayılır. Oğurladığı ya da haqsızlıqla ələ keçirdiyi şeyi, özünə əmanət edilən ya da tapdığı itmiş əşyanı</verse>
+        <verse osisID='Lev.6.5'>yaxud barəsində yalandan and içdiyi şeyin üzərinə beşdə birini də əlavə edərək təqsir qurbanını gətirdiyi gün sahibinə geri qaytarsın.</verse>
+        <verse osisID='Lev.6.6'>Bu adam Rəbbin qarşısında təqsirini yumaq üçün kahinin yanına təqsir qurbanı olaraq sürüdən qüsursuz və dəyərli bir qoç gətirsin.</verse>
+        <verse osisID='Lev.6.7'>Bununla kahin günah edən adam üçün təqsirinə səbəb olduğu hər şeyi Rəbbin önündə kəffarə etsin ki, o bağışlansın». </verse>
+        <verse osisID='Lev.6.8'>Rəbb Musaya dedi:</verse>
+        <verse osisID='Lev.6.9'>«Harunla oğullarına əmr verib de: “Yandırma qurbanına aid olan təlimat budur. Yandırma qurbanı bütün gecə səhərə qədər qurbangahdakı odda qalsın, bu od isə qoy sönmədən yansın.</verse>
+        <verse osisID='Lev.6.10'>Qoy kahin kətan paltarını, kətan alt geyimini əyninə geyib qurbangahda yandırma qurbanını məhv edən oddan çıxan külü götürüb qurbangahın yanına qoysun.</verse>
+        <verse osisID='Lev.6.11'>Sonra kahin geyimini çıxarıb başqa paltar geyinsin və külü düşərgədən kənara çıxararaq pak bir yerə töksün.</verse>
+        <verse osisID='Lev.6.12'>Qoy od qurbangahda yansın və sönməsin. Hər səhər kahin odunla od qalayıb üstünə yandırma qurbanını düzsün və ünsiyyət qurbanlarının piyini tüstülədib yandırsın.</verse>
+        <verse osisID='Lev.6.13'>Qoy bu od qurbangahda daima yansın və sönməsin. </verse>
+        <verse osisID='Lev.6.14'>Taxıl təqdiminə aid olan təlimat budur. Harun övladları bunu Rəbbin hüzurunda qurbangahın qabağında təqdim etsinlər.</verse>
+        <verse osisID='Lev.6.15'>Qoy kahin bir ovuc taxıl təqdimini, narın un ilə zeytun yağını və üstündəki kündürün hamısını götürüb qurbangahda tüstülətsin. Bu, Rəbbin xoşuna gələn ətir – xatirə təqdimidir.</verse>
+        <verse osisID='Lev.6.16'>Təqdimin qalan hissəsini Harunla övladları yesin; onu müqəddəs bir yerdə – Hüzur çadırının həyətində mayasız çörək kimi yesinlər.</verse>
+        <verse osisID='Lev.6.17'>Bu, taxıldan maya ilə bişirilməsin. Bunu Mənə gətirilən yandırma təqdimlərindən kahinlərə düşən pay kimi verirəm. O, günah qurbanı və təqsir qurbanı kimi ən müqəddəsdir.</verse>
+        <verse osisID='Lev.6.18'>Harunun hər kişi övladı nəsildən-nəslə bunu yesin. Bu, Rəbbə gətirilən yandırma təqdimlərindən onlara verilən əbədi paydır. Bunlara toxunan hər şey müqəddəs sayılar”». </verse>
+        <verse osisID='Lev.6.19'>Rəbb Musaya dedi:</verse>
+        <verse osisID='Lev.6.20'>«Harunun məsh olunacağı gün Harunla oğullarının Rəbbə edəcəkləri təqdim budur: daimi taxıl təqdimi olaraq narın undan efanın onda birini – yarısı səhər, yarısı isə axşam,</verse>
+        <verse osisID='Lev.6.21'>zeytun yağı ilə qarışdırılmış, sacda bişmiş halda gətirsin və bu taxıl təqdimini parça-parça qırıb təqdim etsin. Bu, Rəbbin xoşuna gələn ətirdir.</verse>
+        <verse osisID='Lev.6.22'>Harun nəslindən yerinə keçən məsh edilmiş kahin onu belə də hazırlasın; bunu Rəbbə əbədi pay olaraq bütünlüklə tüstülədib yandırsın.</verse>
+        <verse osisID='Lev.6.23'>Kahinin gətirdiyi hər taxıl təqdimi bütünlüklə yandırılsın, o yeyilməməlidir». </verse>
+        <verse osisID='Lev.6.24'>Rəbb Musaya dedi:</verse>
+        <verse osisID='Lev.6.25'>«Harunla oğullarına belə de: “Günah qurbanına aid olan təlimat budur. Günah qurbanı yandırma qurbanı kəsilən yerdə – Rəbbin önündə kəsilsin. Bu qurban ən müqəddəsdir.</verse>
+        <verse osisID='Lev.6.26'>Günah qurbanını təqdim edən kahin onu müqəddəs bir yerdə – Hüzur çadırının həyətində yesin.</verse>
+        <verse osisID='Lev.6.27'>Onun ətinə toxunan hər bir şey müqəddəs sayılar; o qurbandan bir damla qan geyimlərə sıçrasa, o geyim müqəddəs bir yerdə yuyulsun.</verse>
+        <verse osisID='Lev.6.28'>Ətin bişirildiyi saxsı qab sındırılsın; əgər o, tunc qabda bişirilibsə, həmin qab təmizlənib su ilə yaxalansın.</verse>
+        <verse osisID='Lev.6.29'>Kahin nəslindən hər kişi onu yesin; o ən müqəddəsdir.</verse>
+        <verse osisID='Lev.6.30'>Lakin Müqəddəs yerdə günahı kəffarə etmək üçün qanından Hüzur çadırına gətirilən günah qurbanının hamısı yeyilməməlidir, qoy yandırılsın.  </verse>
+      </chapter>
+      <chapter osisID='Lev.7'>
+        <verse osisID='Lev.7.1'>
+          Təqsir qurbanına aid olan təlimat budur. O ən müqəddəsdir.</verse>
+        <verse osisID='Lev.7.2'>Təqsir qurbanı yandırma qurbanları kəsilən yerdə kəsilsin. Kahin onun qanını qurbangahın hər tərəfinə səpsin.</verse>
+        <verse osisID='Lev.7.3'>Onun bütün piyini təqdim etsin: quyruğunu, içalatı örtən piyi,</verse>
+        <verse osisID='Lev.7.4'>belindəki hər iki böyrəyini və üstündəki piyi, qaraciyərin quyruğa bənzər hissəsini – bunları böyrəkləri ilə birgə çıxartsın.</verse>
+        <verse osisID='Lev.7.5'>Qoy kahin bunu Rəbb üçün yandırma təqdimi olaraq qurbangahda tüstülədib yandırsın. Bu, təqsir qurbanıdır.</verse>
+        <verse osisID='Lev.7.6'>Ətini kahin nəslindən olan hər kişi yesin; bu ət müqəddəs bir yerdə yeyilsin, çünki o ən müqəddəsdir. </verse>
+        <verse osisID='Lev.7.7'>Günah qurbanına da, təqsir qurbanına da aid olan təlimat eynidir: qurbanın əti həmin qurbanla kəffarə edən kahinə məxsus olsun.</verse>
+        <verse osisID='Lev.7.8'>Bir adamın gətirdiyi yandırma qurbanının dərisi də həmin qurbanı təqdim edən kahinə məxsus olsun.</verse>
+        <verse osisID='Lev.7.9'>Təndirdə bişirilmiş hər taxıl təqdimi, tavada, sacda hazırlanan hər bir şey onu götürüb təqdim edən kahinə məxsus olsun.</verse>
+        <verse osisID='Lev.7.10'>Zeytun yağı ilə yoğrulmuş yaxud hər quru taxıl təqdimi isə bütün Harun övladları arasında bərabər paylara bölünsün. </verse>
+        <verse osisID='Lev.7.11'>Rəbbə təqdim olunan ünsiyyət qurbanına aid olan təlimat budur.</verse>
+        <verse osisID='Lev.7.12'>Əgər kimsə onu təşəkkür etmək üçün qurban gətirsə, onda o, zeytun yağı ilə yoğrulmuş mayasız kökələr, üstünə zeytun yağı sürtülmüş mayasız qoğallar və zeytun yağı ilə narın undan yoğrulmuş kökələr gətirsin.</verse>
+        <verse osisID='Lev.7.13'>Bundan əlavə, o, mayalı çörək kökələrini təşəkkür ifadə edən ünsiyyət qurbanı ilə təqdim olaraq gətirsin.</verse>
+        <verse osisID='Lev.7.14'>Bunların hər növündən birini Rəbbə qaldırılan pay kimi təqdim etsin. O, ünsiyyət qurbanının qanını səpən kahinə məxsus olsun.</verse>
+        <verse osisID='Lev.7.15'>Təşəkkür ifadə edən ünsiyyət qurbanının əti qurban kəsilən gün yeyilsin. O, səhərə qədər qalmamalıdır. </verse>
+        <verse osisID='Lev.7.16'>Əgər kimsə verdiyi əhdə görə yaxud könüllü təqdim olaraq qurban gətirərsə, qurbanın əti kəsildiyi gün yeyilsin, qalan hissəsi isə sabahkı gün yeyilə bilər,</verse>
+        <verse osisID='Lev.7.17'>lakin üçüncü günə qalan qurbanlıq əti yandırılsın.</verse>
+        <verse osisID='Lev.7.18'>Əgər ünsiyyət qurbanlarının ətindən üçüncü gün yeyilsə, o qurbanı gətirən adam qəbul olunmaz və qurban onun xeyrinə sayılmaz, bu ət iyrənc sayılar və onu yeyən adam cəzasını çəkər. </verse>
+        <verse osisID='Lev.7.19'>Murdar sayılan hər hansı bir şeyə toxunan ət yeyilməməli və yandırılmalıdır. Hər pak adam murdar ətdən başqa hər cür ət yeyə bilər;</verse>
+        <verse osisID='Lev.7.20'>murdar halda isə Rəbbə kəsilən ünsiyyət qurbanının ətini yeyən hər kəs xalqı arasından qovulsun.</verse>
+        <verse osisID='Lev.7.21'>Bir nəfər hər hansı murdar əşyaya, insandan ifraz olan murdarlığa yaxud murdar bir heyvana yaxud hər hansı iyrəndirici bir murdar şeyə toxunub sonra da Rəbbin ünsiyyət qurbanının ətindən yeyərsə, xalqı arasından qovulsun”». </verse>
+        <verse osisID='Lev.7.22'>Rəbb Musaya dedi:</verse>
+        <verse osisID='Lev.7.23'>«İsrail övladlarına belə de: “Mal-qara, qoyun və keçi piyini yeməyin.</verse>
+        <verse osisID='Lev.7.24'>Təbii yolla ölən yaxud parçalanıb ölən heyvanın piyini hər bir başqa iş üçün işlədə bilərsiniz, lakin onu qətiyyən yemək olmaz.</verse>
+        <verse osisID='Lev.7.25'>Rəbb üçün yandırma təqdimi olaraq verilən heyvanın piyindən yeyən hər kəs xalqı arasından qovulsun.</verse>
+        <verse osisID='Lev.7.26'>Bütün yaşadığınız yerlərdə heç vaxt quşların və heyvanların qanını yeməyin;</verse>
+        <verse osisID='Lev.7.27'>qan yeyən hər kəs xalqı arasından qovulsun”». </verse>
+        <verse osisID='Lev.7.28'>Rəbb Musaya dedi:</verse>
+        <verse osisID='Lev.7.29'>«İsrail övladlarına belə de: “Rəbbə ünsiyyət qurbanı təqdim edən şəxs onun bir hissəsini Rəbbin hüzuruna qurban gətirsin.</verse>
+        <verse osisID='Lev.7.30'>Onu öz əli ilə Rəbb üçün yandırma təqdimi olaraq gətirsin; heyvanın piyi ilə döş ətini gətirib Rəbbin hüzurunda yellətmə təqdimi versin.</verse>
+        <verse osisID='Lev.7.31'>Kahin piyi qurbangahda tüstülədib yandırsın; döş əti isə Harunla övladlarına məxsus olsun.</verse>
+        <verse osisID='Lev.7.32'>Ünsiyyət qurbanları olan heyvanlarınızın sağ budunu qaldırma təqdimi kimi kahinə verin;</verse>
+        <verse osisID='Lev.7.33'>həmin sağ bud ünsiyyət qurbanının qanını və piyini təqdim edən Harun övladlarının payı olsun”.</verse>
+        <verse osisID='Lev.7.34'>Çünki Mən yellədilən döş ətini və qaldırılan budu İsrail övladlarından, onların ünsiyyət qurbanlarından götürüb kahin Harunla övladlarına İsraillilərdən gələn əbədi pay kimi vermişəm.</verse>
+        <verse osisID='Lev.7.35'>Bu, Rəbbə kahinlik etmək üçün bunları təqdim etdiyi gün Rəbb üçün verilən yandırma təqdimlərindən Harunun və övladlarının payıdır;</verse>
+        <verse osisID='Lev.7.36'>Harunla övladları məsh olunduğu gün Rəbb əmr etmişdir ki, nəsildən-nəslə İsrail övladları bu əbədi payı onlara versinlər». </verse>
+        <verse osisID='Lev.7.37'>Bu, yandırma qurbanına, taxıl təqdiminə, günah qurbanına, təqsir qurbanına, təqdis təqdiminə və ünsiyyət qurbanına aid olan</verse>
+        <verse osisID='Lev.7.38'>Rəbbin Sina dağında Musaya əmr etdiyi təlimatdır. Rəbb bu təlimatı İsrail övladlarına Sina səhrasında qurbanlarını Ona təqdim etməklə əlaqədar əmr etdiyi gündə vermişdi.  </verse>
+      </chapter>
+      <chapter osisID='Lev.8'>
+        <verse osisID='Lev.8.1'>
+          Rəbb Musaya dedi:</verse>
+        <verse osisID='Lev.8.2'>«Harunla oğullarını, geyimlərini, məsh yağını və günah qurbanı kəsmək üçün bir buğa, iki qoç, bir səbət mayasız çörək götür.</verse>
+        <verse osisID='Lev.8.3'>Sonra bütün icmanı Hüzur çadırının girişinə topla». </verse>
+        <verse osisID='Lev.8.4'>Musa Rəbbin əmrinə əməl etdi. İcma Hüzur çadırının girişinə yığılanda</verse>
+        <verse osisID='Lev.8.5'>Musa onlara dedi: «Rəbbin əmr etdiyi budur». </verse>
+        <verse osisID='Lev.8.6'>Sonra Musa Harunla oğullarını irəli gətirib onları su ilə yuyundurdu.</verse>
+        <verse osisID='Lev.8.7'>Harunun əyninə xirqəsini geyindirib belinə qurşağını bağladı, üstündən cübbəsini geyindirdi və üstünə efodu qoydu. Efodun kəmərini belinə bağlayıb efodu özünə bərkitdi.</verse>
+        <verse osisID='Lev.8.8'>Efodun üstündən döşlüyünü, döşlüyündə isə Urim və Tummimi yerləşdirdi.</verse>
+        <verse osisID='Lev.8.9'>Onun başına çalmanı, çalmanın qabaq hissəsinə qızıl lövhəciyi olan müqəddəslik tacını qoydu. Rəbbin Musaya əmr etdiyi kimi oldu. </verse>
+        <verse osisID='Lev.8.10'>Musa məsh yağını götürüb məskəni və içindəki hər şeyi məsh edərək təqdis etdi.</verse>
+        <verse osisID='Lev.8.11'>Sonra məsh yağını qurbangaha yeddi dəfə çiləyib onunla bütün avadanlığını, ləyənlə altlığını da təqdis etmək üçün məsh etdi.</verse>
+        <verse osisID='Lev.8.12'>Musa bir az məsh yağı götürüb Harunun başına tökərək onu təqdis etmək üçün məsh etdi.</verse>
+        <verse osisID='Lev.8.13'>Sonra Musa Harunun oğullarını irəli gətirdi, onlara xirqə geyindirdi, bellərinə qurşaq bağladı və başlarına papaq qoydu. Rəbbin Musaya əmr etdiyi kimi oldu. </verse>
+        <verse osisID='Lev.8.14'>Bundan sonra Musa günah qurbanı üçün nəzərdə tutulmuş buğanı gətirdi. Harunla oğulları həmin buğanın başına əllərini qoydular.</verse>
+        <verse osisID='Lev.8.15'>Musa buğanı kəsdi, qanını götürüb barmağı ilə qurbangahın buynuzlarının ətrafına çəkərək qurbangahı pak etdi. Sonra qanın qalan hissəsini qurbangahın altlığına tökdü və murdarlığını kəffarə etmək üçün onu təqdis etdi.</verse>
+        <verse osisID='Lev.8.16'>Musa heyvanın içalatının üstündəki bütün piyi, qaraciyərin quyruğa bənzər hissəsini, hər iki böyrəklə piyini götürərək qurbangahda tüstülədib yandırdı.</verse>
+        <verse osisID='Lev.8.17'>Buğanı – dərisini, ətini və bağırsaqlarını düşərgənin kənarında yandırdı. Rəbbin Musaya əmr etdiyi kimi oldu. </verse>
+        <verse osisID='Lev.8.18'>Musa yandırma qurbanı üçün nəzərdə tutulmuş qoçu gətirdi. Harunla oğulları əllərini qoçun başına qoydular.</verse>
+        <verse osisID='Lev.8.19'>Musa qoçu kəsdi və qanını qurbangahın hər tərəfinə səpdi.</verse>
+        <verse osisID='Lev.8.20'>Qoçu parça-parça doğradı; Musa qoçun başını, parçalarını və piyini tüstülədib yandırdı.</verse>
+        <verse osisID='Lev.8.21'>Sonra içalatını və budlarını su ilə yudu və bütün qoçu qurbangahda tüstülədib yandırdı. Bu, yandırma qurbanı, Rəbbin xoşuna gələn ətir – yandırma təqdimi idi. Rəbbin Musaya əmr etdiyi kimi oldu. </verse>
+        <verse osisID='Lev.8.22'>Musa o biri qoçu – təqdis qoçunu gətirdi; Harun və oğulları əllərini qoçun başına qoydular.</verse>
+        <verse osisID='Lev.8.23'>Musa onu kəsdi; qanından bir az götürüb Harunun sağ qulağının mərcəyinə, sağ əlinin və sağ ayağının baş barmağına çəkdi.</verse>
+        <verse osisID='Lev.8.24'>Bundan sonra Musa Harunun oğullarını gətirib onların sağ qulaq mərcəklərinə, sağ əllərinin baş barmaqlarına və sağ ayaqlarının baş barmaqlarına qan çəkdi. Musa heyvanın qanını qurbangahın hər tərəfinə səpdi.</verse>
+        <verse osisID='Lev.8.25'>Sonra piyini, quyruğunu, içalatının üstündəki piyi, qaraciyərinin quyruğa bənzər hissəsini, hər iki böyrəklə piyini və sağ budunu götürdü.</verse>
+        <verse osisID='Lev.8.26'>Rəbbin önündə olan mayasız çörəklər səbətindən bir mayasız kökə, bir zeytun yağı ilə yoğrulmuş çörək kökəsi və bir qoğal götürüb piylə sağ budun üstünə qoydu.</verse>
+        <verse osisID='Lev.8.27'>O bunların hamısını Rəbbin hüzurunda yellətmə təqdimi üçün Harunun və oğullarının əllərinə verdi.</verse>
+        <verse osisID='Lev.8.28'>Sonra Musa həmin şeyləri onların əllərindən alıb qurbangahda yandırma qurbanı ilə birlikdə tüstülədib yandırdı. Bu, təqdis qurbanı, Rəbbin xoşuna gələn ətir – yandırma təqdimidir.</verse>
+        <verse osisID='Lev.8.29'>Musa döş ətini götürdü və onu Rəbbin hüzurunda yellədərək təqdim etdi. Bu, təqdis qurbanı olan qoçdan Musanın payı idi. Rəbbin Musaya əmr etdiyi kimi oldu. </verse>
+        <verse osisID='Lev.8.30'>Musa məsh yağını və qurbangahdakı qanı götürüb Haruna, onun geyimlərinə, oğullarına və geyimlərinə çilədi. Beləliklə, Harunu və onun geyimlərini, oğullarını və onların geyimlərini təqdis etdi. </verse>
+        <verse osisID='Lev.8.31'>Sonra Musa Harunla oğullarına dedi: «Əti Hüzur çadırının girişində qaynadın və “Harunla oğulları onu yesin” deyib əmr etdiyimə görə onu orada təqdis təqdimi üçün səbətdəki çörəklə yeyin.</verse>
+        <verse osisID='Lev.8.32'>Çörəyin və ətin qalan hissələrini yandırın.</verse>
+        <verse osisID='Lev.8.33'>Təqdis günləri başa çatana qədər yeddi gün Hüzur çadırının girişindən kənara çıxmayın; çünki vəzifəyə keçmə vaxtınız yeddi gün davam edəcək.</verse>
+        <verse osisID='Lev.8.34'>Bu gün edilən hər şeyi Rəbb kəffarəniz üçün əmr etdi.</verse>
+        <verse osisID='Lev.8.35'>Yeddi gün ərzində gecə-gündüz Hüzur çadırının girişində qalın və Rəbbin buyruğuna riayət edin ki, ölməyəsiniz. Mənə belə əmr verilib». </verse>
+        <verse osisID='Lev.8.36'>Harunla oğulları Rəbbin Musa vasitəsilə əmr etdiyi hər şeyə əməl etdilər.  </verse>
+      </chapter>
+      <chapter osisID='Lev.9'>
+        <verse osisID='Lev.9.1'>
+          Bundan səkkiz gün sonra Musa Harunla oğullarını və İsrail ağsaqqallarını yanına çağırıb</verse>
+        <verse osisID='Lev.9.2'>Haruna dedi: «Özün üçün günah qurbanı kimi qüsursuz bir erkək dana və yandırma qurbanı kimi qüsursuz bir qoç götür və Rəbbin hüzurunda təqdim et.</verse>
+        <verse osisID='Lev.9.3'>Sonra İsrail övladlarına de: “Günah qurbanı kimi bir təkə, yandırma qurbanı kimi birillik qüsursuz bir dana və birillik qüsursuz bir toğlu,</verse>
+        <verse osisID='Lev.9.4'>Rəbbin hüzurunda kəsilən ünsiyyət qurbanları kimi bir buğa, bir qoç və zeytun yağı ilə yoğrulmuş taxıl təqdimləri götürün. Çünki bu gün Rəbb sizə görünəcək”». </verse>
+        <verse osisID='Lev.9.5'>Musanın əmr etdiyi hər şey Hüzur çadırının önünə gətirildi. Sonra bütün icma yaxınlaşıb Rəbbin hüzurunda durdu.</verse>
+        <verse osisID='Lev.9.6'>Musa dedi: «Rəbb bu işi əmr etdi ki, siz əməl edəsiniz, onda Rəbbin izzəti sizə görünəcək».</verse>
+        <verse osisID='Lev.9.7'>Musa Haruna dedi: «Qurbangaha yaxınlaş və özün üçün günah qurbanı ilə yandırma qurbanını gətir. Həm özünün, həm də xalqının günahlarını bunlarla kəffarə et. Xalqın qurbanını da təqdim edərək onların günahını bununla kəffarə et. Rəbb əmr etdiyi kimi olsun». </verse>
+        <verse osisID='Lev.9.8'>Harun qurbangaha yaxınlaşıb özü üçün günah qurbanı olan dananı kəsdi.</verse>
+        <verse osisID='Lev.9.9'>Onun qanını Harunun oğulları atalarına təqdim etdilər. Harun barmağını qana batırıb qurbangahın buynuzlarına çəkdi; qanın qalan hissəsini isə qurbangahın altlığına tökdü.</verse>
+        <verse osisID='Lev.9.10'>Sonra günah qurbanının piyini, böyrəklərini, qaraciyərini, quyruğa bənzər hissəsini qurbangahda tüstülədib yandırdı. Rəbbin Musaya əmr etdiyi kimi oldu.</verse>
+        <verse osisID='Lev.9.11'>Qurbanın əti ilə dərisini düşərgənin kənarında yandırdı. </verse>
+        <verse osisID='Lev.9.12'>Bundan sonra Harun yandırma qurbanını kəsdi. Onun qanını Harunun oğulları atalarına gətirdilər; o da qanı qurbangahın hər tərəfinə səpdi.</verse>
+        <verse osisID='Lev.9.13'>Parça-parça kəsilən qurbanı və başını Haruna gətirdilər; o da onları qurbangahda tüstülədib yandırdı.</verse>
+        <verse osisID='Lev.9.14'>Qurbanın içalatı ilə budlarını yuyaraq qurbangahda yandırma qurbanı ilə birgə tüstülədib yandırdı. </verse>
+        <verse osisID='Lev.9.15'>Bundan sonra Harun xalqın qurbanını təqdim etdi. Xalq üçün günah qurbanı olan təkəni götürüb kəsdi; onu birinci günah qurbanı kimi gətirdi.</verse>
+        <verse osisID='Lev.9.16'>Yandırma qurbanı üçün heyvan gətirdi və onu qayda-qanuna uyğun olaraq təqdim etdi.</verse>
+        <verse osisID='Lev.9.17'>Sonra Harun taxıl təqdimini gətirdi. Səhər təqdim olunan yandırma qurbanından savayı ovuclarını taxıl təqdimi ilə doldurub qurbangahda tüstülədərək yandırdı. </verse>
+        <verse osisID='Lev.9.18'>Harun xalq üçün ünsiyyət qurbanı olan buğanı və qoçu kəsdi. Harunun oğulları bunların qanını atalarına gətirdilər; o da qanı qurbangahın hər tərəfinə səpdi.</verse>
+        <verse osisID='Lev.9.19'>Buğanın və qoçun piyini, quyruğunu, içalatı örtən piyini, böyrəklərini, qaraciyərinin quyruğa bənzər hissəsini götürüb</verse>
+        <verse osisID='Lev.9.20'>döş ətlərini üstünə qoydular. Harun da bu piyi qurbangahda tüstülədib yandırdı,</verse>
+        <verse osisID='Lev.9.21'>döş ətlərini isə sağ budları ilə birlikdə Rəbbin önündə yellədərək təqdim etdi. Rəbbin Musaya əmr etdiyi kimi oldu. </verse>
+        <verse osisID='Lev.9.22'>Harun günah qurbanını, yandırma qurbanını və ünsiyyət qurbanını gətirdikdən sonra əllərini xalqa doğru uzadıb onlara xeyir-dua verdi. Sonra o aşağı düşdü. </verse>
+        <verse osisID='Lev.9.23'>Musa ilə Harun Hüzur çadırına girdilər. Sonra onlar çıxıb birlikdə xalqa xeyir-dua verdilər. O vaxt Rəbbin izzəti bütün xalqa göründü</verse>
+        <verse osisID='Lev.9.24'>və Rəbbin hüzurundan od çıxıb qurbangahdakı yandırma qurbanı ilə piyi yandıraraq yox etdi. Bütün xalq bunu görərək sevincdən qışqırıb üzüstə yerə düşdü.  </verse>
+      </chapter>
+      <chapter osisID='Lev.10'>
+        <verse osisID='Lev.10.1'>
+          Harun oğulları Nadav və Avihu buxurdanlarını götürüb içinə közərmiş kömürlə buxur qoydular və Rəbbin önünə haram od gətirdilər. Belə təqdimi Rəbb əmr etməmişdi.</verse>
+        <verse osisID='Lev.10.2'>Rəbb hüzurundan od göndərib onları məhv etdi. Onlar Rəbbin hüzurunda öldülər.</verse>
+        <verse osisID='Lev.10.3'>Musa Haruna dedi: «Budur, Rəbb belə demişdir:  “Mənə yaxınlaşanlar Məni müqəddəs saysınlar;Bütün xalq məni izzətləndirsin”».  Harun isə susurdu. </verse>
+        <verse osisID='Lev.10.4'>Musa Harunun əmisi Uzzielin oğulları Mişaellə Elsafanı çağırıb dedi: «Yaxın gəlin və qardaşlarınızın cəsədlərini Müqəddəs yerin önündən düşərgənin kənarına aparıb qoyun».</verse>
+        <verse osisID='Lev.10.5'>Musa bu sözü deyən kimi onlar yaxınlaşdılar və cəsədləri xirqələri əynindəcə düşərgənin kənarına aparıb qoydular.</verse>
+        <verse osisID='Lev.10.6'>Musa Haruna və onun sağ qalan oğulları Eleazar və İtamara dedi: «Siz yas tutaraq saçlarınızı dağıtmayın, geyimlərinizi cırmayın. Yoxsa ölərsiniz və Rəbb bütün icmaya qəzəblənər. Ancaq bütün İsrailli soydaşlarınız Rəbbin yandırdığı adamların yasını tutsun.</verse>
+        <verse osisID='Lev.10.7'>Hüzur çadırının girişindən kənara çıxmayın, yoxsa ölərsiniz, çünki Rəbbin məsh yağı sizin üstünüzdədir». Onlar da Musanın dediyi kimi etdilər. </verse>
+        <verse osisID='Lev.10.8'>Rəbb Haruna dedi:</verse>
+        <verse osisID='Lev.10.9'>«Sən və övladların Hüzur çadırına nə şərab, nə də başqa kefləndirici içki içib girməyin, yoxsa ölərsiniz. Qoy bu, nəsildən-nəslə sizin üçün əbədi qayda olsun.</verse>
+        <verse osisID='Lev.10.10'>Müqəddəslə adi şeyləri ayırd edin, həm də pak və murdar şeylər arasında fərq qoyun.</verse>
+        <verse osisID='Lev.10.11'>Mənim Musa vasitəsilə bəyan etdiyim bütün qaydaları İsrail övladlarına öyrədin». </verse>
+        <verse osisID='Lev.10.12'>Musa Haruna və sağ qalan oğulları Eleazarla İtamara dedi: «Rəbb üçün verilən yandırma təqdimlərindən qalan taxıl təqdimini götürün və mayasız çörək bişirib qurbangahın yanında yeyin, çünki bu ən müqəddəsdir.</verse>
+        <verse osisID='Lev.10.13'>Onu müqəddəs bir yerdə yeyin, mənə verilmiş əmrə görə bu, Rəbb üçün verilən yandırma təqdimlərindən sənin və övladlarının payına düşür.</verse>
+        <verse osisID='Lev.10.14'>Yellədilən döş ətini və qaldırılan bud ətini isə sən, oğulların və qızların pak bir yerdə yeyin; çünki bunlar İsrail övladlarının ünsiyyət qurbanlarından sənin və övladlarının payı kimi ayrılıb.</verse>
+        <verse osisID='Lev.10.15'>Qaldırılan bud ətini və yellədilən döş ətini Rəbbin önündə yellətmək üçün yandırma təqdimi olan piylə birlikdə gətirin. Bu sizin və övladlarınızın əbədi payı olacaq. Rəbb belə əmr etmişdir». </verse>
+        <verse osisID='Lev.10.16'>Musa günah qurbanı olan təkəni axtardı. O isə yandırılmışdı. Musa Harunun sağ qalan oğullarına – Eleazara və İtamara qəzəblənib dedi:</verse>
+        <verse osisID='Lev.10.17'>«Siz nə üçün günah qurbanını müqəddəs sayılan yerdə yemədiniz? Çünki bu qurban ən müqəddəsdir və sizə verilib ki, onunla icmanın günahlarının cəzasını üzərindən götürüb onlar üçün Rəbbin önündə kəffarə edəsiniz.</verse>
+        <verse osisID='Lev.10.18'>Təkənin qanı içəri, Müqəddəs yerə gətirilmədi. Mən sizə əmr etdiyim kimi siz onun ətini mütləq Müqəddəs yerdə yeməli idiniz».</verse>
+        <verse osisID='Lev.10.19'>Harun Musaya dedi: «Bu gün günah qurbanı və yandırma qurbanı Rəbbin önündə təqdim olunmuşdur. Ancaq başıma belə iş gəldi. Əgər mən bu gün günah qurbanını yemiş olsaydım, o, Rəbbə məqbul olardımı?»</verse>
+        <verse osisID='Lev.10.20'>Musa bunu eşidib razılaşdı.  </verse>
+      </chapter>
+      <chapter osisID='Lev.11'>
+        <verse osisID='Lev.11.1'>
+          Rəbb Musa ilə Haruna belə dedi:</verse>
+        <verse osisID='Lev.11.2'>«İsrail övladlarına belə deyin: “Quruda yaşayan heyvanlardan belələrinin ətini yemək olar.</verse>
+        <verse osisID='Lev.11.3'>Hər hansı qoşadırnaqlı gövşəyən heyvanın ətini yeyə bilərsiniz.</verse>
+        <verse osisID='Lev.11.4'>Lakin gövşəyən yaxud qoşadırnaqlı heyvanlar içində bunları yeməyin: dəvə, çünki o gövşəsə də, qoşadırnaqlı deyil, buna görə də sizin üçün haramdır;</verse>
+        <verse osisID='Lev.11.5'>qayadovşanı, çünki o gövşəsə də qoşadırnaqlı deyil, buna görə də sizin üçün haramdır;</verse>
+        <verse osisID='Lev.11.6'>dovşan, çünki o gövşəsə də qoşadırnaqlı deyil, buna görə də sizin üçün haramdır;</verse>
+        <verse osisID='Lev.11.7'>donuz, çünki o qoşadırnaqlı olsa da, gövşəmir, buna görə də sizin üçün haramdır.</verse>
+        <verse osisID='Lev.11.8'>Onların nə ətini yeyin, nə də leşinə toxunun, onlar sizin üçün haramdır. </verse>
+        <verse osisID='Lev.11.9'>Sularda, dənizlərdə yaxud çaylarda yaşayan heyvanlardan üzgəcləri və pulcuqları olanların hamısını yeyə bilərsiniz.</verse>
+        <verse osisID='Lev.11.10'>Amma sularda, dənizlərdə yaxud çaylarda qaynaşan heyvanlardan üzgəcləri və pulcuqları olmayan hər canlı məxluq sizin üçün iyrənc olsun.</verse>
+        <verse osisID='Lev.11.11'>Onların ətini yeməyin və leşindən iyrənin; onlar sizin üçün iyrənc olsun.</verse>
+        <verse osisID='Lev.11.12'>Sularda üzgəcləri və pulcuqları olmayanların hamısı sizin üçün iyrənc olsun. </verse>
+        <verse osisID='Lev.11.13'>Quşlardan bunları iyrənc olduğuna görə yeməyin: qartal, keçələkərkəs, qaraquş,</verse>
+        <verse osisID='Lev.11.14'>çalağan, bütün şahin cinsindən olanlar,</verse>
+        <verse osisID='Lev.11.15'>bütün qarğa cinsindən olanlar,</verse>
+        <verse osisID='Lev.11.16'>dəvəquşu, bayquş, qağayı, bütün qırğı cinsindən olanlar,</verse>
+        <verse osisID='Lev.11.17'>yapalaq, qarabatdaq, böyük bayquş,</verse>
+        <verse osisID='Lev.11.18'>ağ bayquş, qutan, leş kərkəsi,</verse>
+        <verse osisID='Lev.11.19'>leylək, bütün vağ cinsindən olanlar, şanapipik, yarasa. </verse>
+        <verse osisID='Lev.11.20'>Dördayaqla gəzən, qanadlı qaynaşan heyvanların hamısı da sizin üçün iyrənc olsun.</verse>
+        <verse osisID='Lev.11.21'>Lakin dördayaqla gəzən, qanadlı qaynaşan heyvanlardan yerdə sıçramaq üçün oynaqlı ayaqları olanları yeyə bilərsiniz;</verse>
+        <verse osisID='Lev.11.22'>onlardan bütün çəyirtkə cinsindən olanları, bütün keçəl çəyirtkə cinsindən olanları, bütün sisək cinsindən olanları, bütün şala cırcıraması cinsindən olanları yemək olar.</verse>
+        <verse osisID='Lev.11.23'>Bütün digər dördayaqlı qanadlı qaynaşan heyvanlar isə sizin üçün iyrənc olsun. </verse>
+        <verse osisID='Lev.11.24'>Bu heyvanlardan siz özünüz murdar ola bilərsiniz. Hər kim onların leşinə toxunursa, axşama qədər murdar sayılsın.</verse>
+        <verse osisID='Lev.11.25'>Onların leşindən bir hissəsini daşıyan hər kəs də geyimlərini yusun; axşama qədər murdar sayılsın.</verse>
+        <verse osisID='Lev.11.26'>Qoşadırnağı olmayan yaxud gövşəməyən hər dırnaqlı heyvan sizin üçün murdar olsun. Onların leşinə toxunan hər kəs murdar sayılsın.</verse>
+        <verse osisID='Lev.11.27'>Pəncələri üstündə yeriyən dördayaqlı hər heyvan sizin üçün murdar olsun; onların leşinə toxunan hər kəs axşama qədər murdar sayılsın.</verse>
+        <verse osisID='Lev.11.28'>Onların leşini daşıyan geyimlərini yusun və axşama qədər murdar sayılsın. Bu heyvanlar sizin üçün murdar sayılsın. </verse>
+        <verse osisID='Lev.11.29'>Yerdə qaynaşan heyvanlar arasında sizin üçün murdar olan bunlardır: kor siçan, siçan, hər növ kərtənkələ,</verse>
+        <verse osisID='Lev.11.30'>gekkon, varan, kərtəncik, kələz, buqələmun.</verse>
+        <verse osisID='Lev.11.31'>Bunlar bütün qaynaşan heyvanlar arasında sizin üçün murdar olsun. Onların leşinə toxunan hər kəs axşamadək murdar sayılsın.</verse>
+        <verse osisID='Lev.11.32'>Onlardan birisinin leşi üstünə düşən hər şey murdar sayılsın. Hər taxta, parça, dəri yaxud giş əşya nə cür iş üçün işlənsə, suya salınsın. Axşama qədər murdar sayılsın, axşamdan sonra təmiz sayılsın.</verse>
+        <verse osisID='Lev.11.33'>Onlardan biri gil qabın içinə düşsə, onun içindəki hər şey murdar sayılsın və qab qırılsın.</verse>
+        <verse osisID='Lev.11.34'>Belə bir qabdan su xörəyin içinə tökülsə, o xörək murdarlanır. Bu cür qabın içində hər içki murdarlanır.</verse>
+        <verse osisID='Lev.11.35'>O heyvanlardan birinin leşi üstünə düşən hər bir şey murdar sayılsın. İstər təndir, istərsə də ocaq sökülsün, çünki murdarlanıb; onlar sizin üçün murdar olsun.</verse>
+        <verse osisID='Lev.11.36'>Ancaq su bulağı yaxud su anbarı pak sayılsın. Bu heyvanların leşinə toxunan hər kəs murdar sayılsın.</verse>
+        <verse osisID='Lev.11.37'>Bunlardan birinin leşi əkin üçün ayrılmış toxumun üstünə düşərsə, o toxum təmiz sayılsın.</verse>
+        <verse osisID='Lev.11.38'>Amma leş suya salınmış toxumun üstünə düşərsə, toxum sizin üçün murdar olsun. </verse>
+        <verse osisID='Lev.11.39'>Əti sizin üçün yeməli olan heyvanlardan biri ölərsə, leşinə toxunan adam axşama qədər murdar sayılsın.</verse>
+        <verse osisID='Lev.11.40'>O heyvanın leşindən yeyən adam geyimini yusun və axşama qədər murdar sayılsın. Leşini daşıyan adam da geyimləri yusun və axşama qədər murdar sayılsın. </verse>
+        <verse osisID='Lev.11.41'>Yer üzündə sürünən hər qaynaşan heyvan sizin üçün iyrənc olsun; onu yeməyin.</verse>
+        <verse osisID='Lev.11.42'>İstər qarnı üstündə, istər dörd ayağı ilə sürünən ya da yer üzündəki çoxayaqlı olan qaynaşan heyvanlardan yeməyin, çünki onlar iyrəncdir.</verse>
+        <verse osisID='Lev.11.43'>Qaynaşan heyvanların heç biri ilə özünüzü iyrənc edib murdarlamayın, çünki onlara görə siz murdar olarsınız. </verse>
+        <verse osisID='Lev.11.44'>Allahınız Rəbb Mənəm. Özünüzü təqdis edin və müqəddəs olun, çünki Mən müqəddəsəm; özünüzü yerdə sürünən heç bir qaynaşan heyvanla murdar etməyin.</verse>
+        <verse osisID='Lev.11.45'>Çünki Allahınız olmaq üçün sizi Misir torpağından çıxaran Rəbb Mənəm. Müqəddəs olun, çünki Mən müqəddəsəm”». </verse>
+        <verse osisID='Lev.11.46'>Heyvan, quş, sularda üzən hər cür canlı məxluq, yer üzündə qaynaşan hər cür heyvan haqqında təlimat budur.</verse>
+        <verse osisID='Lev.11.47'>Bununla pakla murdar şeylər arasında, yeyilən və yeyilməyən heyvanlar arasında fərq qoyulur.  </verse>
+      </chapter>
+      <chapter osisID='Lev.12'>
+        <verse osisID='Lev.12.1'>
+          Rəbb Musaya dedi:</verse>
+        <verse osisID='Lev.12.2'>«İsrail övladlarına belə de: “Hamilə olub oğlan uşağı doğan bir qadın aybaşı, murdarlıq dövründə olduğu kimi yeddi gün murdar sayılsın.</verse>
+        <verse osisID='Lev.12.3'>Səkkizinci gün uşaq sünnət olunsun.</verse>
+        <verse osisID='Lev.12.4'>Qadın qanaxmadan paklanmaq üçün daha otuz üç gün gözləsin. Bu paklanma dövrü bitənə qədər qadın heç bir müqəddəs şeyə toxunmamalı və Müqəddəs məkana yaxınlaşmamalıdır. </verse>
+        <verse osisID='Lev.12.5'>Əgər bir qadın qız uşağı doğarsa, aybaşı vaxtı kimi iki həftə murdar sayılsın və paklanmaq üçün əlavə olaraq altmış altı gün gözləsin. </verse>
+        <verse osisID='Lev.12.6'>Oğlan yaxud qız uşağı doğub paklanma müddəti bitəndə qadın Hüzur çadırının girişinə birillik toğlunu yandırma qurbanı kimi və göyərçin yaxud qumru quşunu kahinin yanına günah qurbanı kimi gətirsin.</verse>
+        <verse osisID='Lev.12.7'>Kahin bunları Rəbbin hüzurunda qurban gətirib, zahı qadın üçün kəffarə etsin ki, o qan axmasından pak olsun. Qız ya oğlan doğan zahı qadın üçün təlimat budur. </verse>
+        <verse osisID='Lev.12.8'>Əgər qadının toğlu gətirməyə gücü çatmırsa, onda birini yandırma qurbanı, o birini isə günah qurbanı olaraq iki qumru quşu yaxud iki göyərçin gətirsin. Bununla kahin həmin zahı üçün kəffarə etsin ki, o pak olsun”».  </verse>
+      </chapter>
+      <chapter osisID='Lev.13'>
+        <verse osisID='Lev.13.1'>
+          Rəbb Musaya və Haruna dedi:</verse>
+        <verse osisID='Lev.13.2'>«Bir adamın dərisində şiş yaxud səpki yaxud ləkə əmələ gəlib dəridə cüzam  kimi görünən bir əlaməti olarsa, qoy o adam kahin Harunun yaxud onun nəslindən olan kahinlərin birinin yanına gətirilsin.</verse>
+        <verse osisID='Lev.13.3'>Kahin dəridəki əlamətə baxsın. Əlamət üstündəki tükləri ağardıb dəridən dərin görünsə, bu, cüzamın bir əlamətidir. Kahin baxıb o adamı murdar elan etsin.</verse>
+        <verse osisID='Lev.13.4'>Əgər dərisindəki ləkə ağ olub dəridən dərin görünməsə və üstündəki tükləri ağartmasa, kahin azarlını yeddi gün müddətinə təcrid etsin.</verse>
+        <verse osisID='Lev.13.5'>Yeddinci gün kahin ona baxsın. Onun nəzərində əlamət yerində qalıb dərisinə yayılmayıbsa, kahin onu yenə də yeddi gün müddətinə təcrid etsin.</verse>
+        <verse osisID='Lev.13.6'>Yeddinci gün kahin yenə də ona baxsın. Əlamət dərisinə yayılmayıb, solubsa, kahin o adamı pak elan etsin. Bu azar dəri səpməsidir. Qoy o adam geyimlərini yusun, sonra pak sayılsın.</verse>
+        <verse osisID='Lev.13.7'>Lakin kahin ona baxıb pak saydıqdan sonra səpmə dərisinə yayılırsa, o yenə də özünü kahinə göstərsin.</verse>
+        <verse osisID='Lev.13.8'>Kahin yenə də ona baxsın, dərisindəki səpmə yayılıbsa, kahin o adamı murdar elan etsin. Bu cüzamdır. </verse>
+        <verse osisID='Lev.13.9'>Bir adamın dərisində cüzam əlaməti əmələ gələrsə, qoy o adam kahinin yanına gətirilsin.</verse>
+        <verse osisID='Lev.13.10'>Kahin ona baxsın, dəridəki tükləri ağardan xoralı ağ bir şiş varsa,</verse>
+        <verse osisID='Lev.13.11'>bu, bədəninin dərisində kök salmış cüzamdır. Kahin o adamı murdar elan etsin, amma təcrid etməsin, çünki o murdardır.</verse>
+        <verse osisID='Lev.13.12'>Əgər cüzam dəriyə yayılıb bütün bədəni bürüsə və əlamətin onu təpədən dırnağadək tutması kahinə görünsə,</verse>
+        <verse osisID='Lev.13.13'>qoy kahin diqqətlə baxsın. Cüzam bütün bədəni bürüyübsə, kahin azarlını pak elan etsin. Ağardığı üçün o adam pak sayılsın.</verse>
+        <verse osisID='Lev.13.14'>Lakin o adamda xoralanma görünsə o, murdar sayılsın.</verse>
+        <verse osisID='Lev.13.15'>Kahin o adama baxıb xoralanma görsə, onu murdar elan etsin. Xoralanma murdardır, o, cüzamdır.</verse>
+        <verse osisID='Lev.13.16'>Xoralanma sağalıb ağardığı halda o adam kahinin yanına getsin</verse>
+        <verse osisID='Lev.13.17'>və kahin ona baxsın; əlamət ağarıbsa, o adamı pak elan etsin, çünki o, pakdır. </verse>
+        <verse osisID='Lev.13.18'>Bir adamın dərisində çiban əmələ gəlib sağaldıqdan sonra</verse>
+        <verse osisID='Lev.13.19'>və yerində ağ şiş yaxud qırmızımtıl-ağ parlaq ləkə əmələ gələn halda bu əlamət kahinə göstərilsin.</verse>
+        <verse osisID='Lev.13.20'>Kahin ləkəyə baxsın, üstündəki tükləri ağarıb dəridən dərin görünsə, kahin o adamı murdar elan etsin. Bu, çibanla başlanan cüzamdır.</verse>
+        <verse osisID='Lev.13.21'>Əgər kahin baxıb görsə ki, ləkənin üstündəki ağ tüklər yoxdur və ləkə dəridən dərin deyil, solğundur, onda kahin azarlını yeddi gün müddətinə təcrid etsin.</verse>
+        <verse osisID='Lev.13.22'>Əgər dəridəki ləkə yayılırsa, kahin adamı murdar elan etsin. Çünki bu, əlamətdir.</verse>
+        <verse osisID='Lev.13.23'>Amma ləkə yerində qalıb yayılmayıbsa, bu, çibandan qalan çapıqdır. Kahin o adamı pak elan etsin. </verse>
+        <verse osisID='Lev.13.24'>Bir adamın dərisində olan yanıq yerində qırmızımtıl-ağ yaxud ağ parlaq ləkə əmələ gələrsə,</verse>
+        <verse osisID='Lev.13.25'>kahin ləkəyə baxsın, ləkə üstündəki tükləri ağardıb dəridən dərin görünsə, bu yanıqda başlanan cüzamdır. Kahin o adamı murdar elan etsin, çünki bu cüzamın əlamətidir.</verse>
+        <verse osisID='Lev.13.26'>Əgər kahin baxıb görsə ki, ləkənin üstündə ağ tüklər yoxdur və ləkə dəridən dərin olmayaraq solğun görünür, bu halda kahin azarlını yeddi gün müddətinə təcrid etsin.</verse>
+        <verse osisID='Lev.13.27'>Yeddinci gün kahin yenə azarlıya baxsın. Əgər ləkə dəriyə yayılıbsa, kahin o adamı murdar elan etsin; bu, cüzamın əlamətidir.</verse>
+        <verse osisID='Lev.13.28'>Amma ləkə yerində qalıb dərisində yayılmayıbsa və solubsa, bu, yanıqdan qalan şişdir; kahin o adamı pak elan etsin, çünki bu, yanıqdan qalan izdir. </verse>
+        <verse osisID='Lev.13.29'>Bir kişinin ya qadının başında ya çənəsində əlamət olanda</verse>
+        <verse osisID='Lev.13.30'>kahin ona baxsın. Əlamət dəridən dərin görünürsə və üstündəki tüklər sarı və nazikdirsə, kahin onu murdar elan etsin. Bu başda ya da çənədə iyrənc xəstəlik – qoturdur.</verse>
+        <verse osisID='Lev.13.31'>Kahin qotur əlamətinə baxsın. Əlamət dəridən dərin görünməyib üstündə qara tüklər olmayan halda kahin qotur adamı yeddi gün müddətinə təcrid etsin.</verse>
+        <verse osisID='Lev.13.32'>Kahin yeddinci gün yenə də əlamətə baxsın, qoturluq yayılmayıbsa, üstündəki tüklər saralmayıbsa, qoturluq da dəridən dərin görünmürsə,</verse>
+        <verse osisID='Lev.13.33'>qoy o adam qoturluq olan yerdən başqa bütün bədənini qırxsın. Sonra kahin onu yenə də yeddi gün müddətinə təcrid etsin.</verse>
+        <verse osisID='Lev.13.34'>Yeddinci gün kahin yenə də əlamətə baxsın. Əgər qotur dəriyə yayılmayıbsa və dəridən dərin görünməsə, kahin o adamı pak elan etsin. Qoy o adam geyimlərini yusun, sonra da pak sayılsın.</verse>
+        <verse osisID='Lev.13.35'>Lakin əgər kahin xəstəni pak saydıqdan sonra qoturluq dəriyə yayılırsa,</verse>
+        <verse osisID='Lev.13.36'>kahin ona təkrarən baxsın. Qoturluq dərisinə yayılıbsa, kahin üstündəki sarı tükün olub-olmamasına baxmasın. O adam murdar sayılsın.</verse>
+        <verse osisID='Lev.13.37'>Lakin kahinin nəzərində qoturluq yerində qalıbsa və üstündə qara tük əmələ gəlirsə, qotur keçir və onda o adam pak sayılsın, kahin onu pak elan etsin. </verse>
+        <verse osisID='Lev.13.38'>Bir kişinin yaxud qadının dərisində ağ parlaq ləkələr olarsa,</verse>
+        <verse osisID='Lev.13.39'>qoy kahin baxsın; dərisində donuq ağ ləkələr varsa, bu başlanan dəmrovdur. O adam pak sayılsın. </verse>
+        <verse osisID='Lev.13.40'>Başının təpəsində saçı tökülmüş kişi dazdır. O pak sayılsın.</verse>
+        <verse osisID='Lev.13.41'>Əgər alnından saçı tökülübsə, o adamın alnı açılmışdır və o pak sayılsın.</verse>
+        <verse osisID='Lev.13.42'>Lakin daz və yaxud alnı açılmış adamın saçı tökülən yerdən qırmızımtıl-ağ ləkə çıxarsa, bu həmin yerdə başlanan cüzamdır.</verse>
+        <verse osisID='Lev.13.43'>Kahin oraya baxsın, saçı tökülmüş yerdəki şiş qırmızımtıl-ağdırsa və cüzam kimi görünürsə,</verse>
+        <verse osisID='Lev.13.44'>o kişi iyrənc xəstəliyə tutulduğu üçün murdar sayılsın. Başındakı əlamətə görə kahin mütləq onu murdar elan etsin. </verse>
+        <verse osisID='Lev.13.45'>Belə iyrənc xəstəliyə tutulan adamın geyimləri cırıq, saçı isə dağınıq olmalıdır. O adam üzünün aşağı hissəsini örtüb “Murdaram! Murdaram!” deyə çığırsın.</verse>
+        <verse osisID='Lev.13.46'>Dərisində əlamət olduğu bütün müddət o murdar sayılsın. Murdarlığına görə düşərgədən kənarda tək yaşasın. </verse>
+        <verse osisID='Lev.13.47'>Üstündə iyrənc kif əlaməti olan hər cür parça: yun ya da kətan geyim</verse>
+        <verse osisID='Lev.13.48'>yaxud hər cür toxunma parça yaxud dəri və hər dəri məmulatı haqqında təlimat budur.</verse>
+        <verse osisID='Lev.13.49'>Ya geyimdə, dəridə ya da hər cür parçada, dəridən düzəlmiş hər bir əşyada əmələ gələn əlamət yaşıltəhər və ya qırmızımtıl olsa, bu, iyrənc kif əlamətidir. Qoy bu, kahinə göstərilsin.</verse>
+        <verse osisID='Lev.13.50'>Kahin ona baxıb, əşyanı yeddi gün müddətinə təcrid etsin.</verse>
+        <verse osisID='Lev.13.51'>Yeddinci gün yenə də ona baxıb görsə ki, geyimə, parçaya, dəriyə yaxud dəridən düzəlmiş məmulata əlamət yayılıb, bu əlamət təhlükəli iyrənc kifdir, murdar sayılsın.</verse>
+        <verse osisID='Lev.13.52'>Üstündə əlamət olan yun ya da kətan geyimi yaxud parçanı yaxud dəridən olan əşyanı kahin yandırsın. Bu, iyrənc təhlükəli kifdir, yandırılsın. </verse>
+        <verse osisID='Lev.13.53'>Amma əgər kahin baxıb görsə ki, geyimə, parçaya yaxud dəridən olan əşyaya əlamət yayılmayıb,</verse>
+        <verse osisID='Lev.13.54'>kahin əmr versin ki, üstündə əlamət olan hər şey yuyulsun. Sonra onu yenə də yeddi gün müddətinə təcrid etsin.</verse>
+        <verse osisID='Lev.13.55'>Əlamət yuyulduqdan sonra kahin yenə də o şeyə baxsın. Əlamət yayılmadığı halda görkəmini dəyişməyibsə, o şey murdar sayılsın. Əlamət istər ön, istərsə arxa tərəfindən olsun, onu yandırmalısınız.</verse>
+        <verse osisID='Lev.13.56'>Lakin kahin baxıb görsə ki, əlamət yuyulduqdan sonra rəngi solub, qoy onu geyimdən, dəridən yaxud parçadan qopartsın.</verse>
+        <verse osisID='Lev.13.57'>Əgər bundan sonra əlamət geyimdə, parçada yaxud dəri əşyada yenidən əmələ gələrsə, o əşyanın sahibi onu yandırsın.</verse>
+        <verse osisID='Lev.13.58'>Yuyulduqdan sonra əlamət üstündən yox olan paltar, parça yaxud dəri əşya yenə də yuyulub pak sayılsın. </verse>
+        <verse osisID='Lev.13.59'>Bu, yun və ya kətan geyimdə, hər toxunma parçada və dəridən olan hər əşyada əmələ gələn iyrənc kif əlamətinə əsasən onu pak ya murdar saymaq üçün təlimatdır».  </verse>
+      </chapter>
+      <chapter osisID='Lev.14'>
+        <verse osisID='Lev.14.1'>
+          Rəbb Musaya dedi:</verse>
+        <verse osisID='Lev.14.2'>«Dərisində cüzam olan adamın paklanması haqqında təlimat budur. Bu adam kahinin yanına gətirildikdə</verse>
+        <verse osisID='Lev.14.3'>kahin düşərgədən kənara çıxıb cüzama tutulan xəstəyə baxsın; onun dərisindəki əlamətlər sağalıbsa,</verse>
+        <verse osisID='Lev.14.4'>onda qoy kahin paklanan adam üçün iki pak diri quş, sidr ağacının budağı, al rəngli ip və züfa otu gətirməyi əmr etsin.</verse>
+        <verse osisID='Lev.14.5'>Kahinin buyurduğuna görə quşların biri saxsı qabda axar su üzərində kəsilsin.</verse>
+        <verse osisID='Lev.14.6'>Sonra kahin sağ qalan quşu, sidr ağacının budağını, al rəngli ipi və züfa otunu götürüb, axar suyun üzərində kəsilən quşun qanına batırsın.</verse>
+        <verse osisID='Lev.14.7'>Sonra qoy cüzamdan paklanan adamın üstünə yeddi dəfə qanı çiləyib onu pak elan etsin. Sağ qalan quşu çölə buraxsın.</verse>
+        <verse osisID='Lev.14.8'>Paklanan adam geyimlərini yusun, özünü bütünlüklə qırxsın, su ilə yuyunsun; sonra pak sayılsın və düşərgəyə girsin. Amma o, yeddi gün ərzində öz çadırından kənarda yaşasın.</verse>
+        <verse osisID='Lev.14.9'>Yeddinci gün o adam saçını, saqqalını, qaşlarını, bədənindəki bütün tüklərini qırxsın, geyimini yusun, bədənini su ilə yusun, sonra pak sayılsın. </verse>
+        <verse osisID='Lev.14.10'>Səkkizinci gün o adam qüsursuz iki erkək toğlu, birillik qüsursuz dişi toğlu, taxıl təqdimi olaraq bir efanın onda üç hissəsi miqdarında zeytun yağı ilə yoğrulmuş un və bir loq zeytun yağı gətirsin.</verse>
+        <verse osisID='Lev.14.11'>Paklanma mərasimi ilə məşğul olan kahin paklanan adamı və gətirdiyi təqdimləri Rəbbin hüzuruna – Hüzur çadırının girişinə gətirsin.</verse>
+        <verse osisID='Lev.14.12'>Kahin erkək toğluların birini götürüb zeytun yağı ilə təqsir qurbanı kimi təqdim etsin. Onları Rəbbin hüzurunda yellədərək təqdim etsin.</verse>
+        <verse osisID='Lev.14.13'>Toğlunu günah qurbanı və yandırma qurbanı kəsdiyi yerdə – müqəddəs sayılan yerdə kəssin; çünki günah qurbanı kimi təqsir qurbanı da kahinə aiddir. O qurban ən müqəddəsdir.</verse>
+        <verse osisID='Lev.14.14'>Sonra kahin təqsir qurbanının qanından bir az götürüb paklanan adamın sağ qulağının mərcəyinə, sağ əlinin və sağ ayağının baş barmağına çəksin.</verse>
+        <verse osisID='Lev.14.15'>Kahin bir az zeytun yağı götürüb sol ovcuna töksün və</verse>
+        <verse osisID='Lev.14.16'>sağ əlinin bir barmağını sol ovcundakı zeytun yağına batıraraq Rəbbin hüzurunda yeddi dəfə çiləsin.</verse>
+        <verse osisID='Lev.14.17'>Ovcunda qalan yağdan kahin paklanan adamın sağ qulaq mərcəyinə, sağ əlinə və sağ ayağının baş barmağına, yəni təqsir qurbanının qanından çəkdiyi yerlərə sürtsün.</verse>
+        <verse osisID='Lev.14.18'>Kahin ovcundakı yağın qalan hissəsini bu adamın başına çəkib bununla onun üçün Rəbbin önündə kəffarə etsin.</verse>
+        <verse osisID='Lev.14.19'>Bundan sonra kahin günah qurbanını kəssin. Bununla paklanan adam üçün murdarlığını kəffarə etsin. Sonra isə yandırma qurbanını kəsib</verse>
+        <verse osisID='Lev.14.20'>onunla taxıl təqdimini qurbangahda təqdim etsin. Beləcə kahin o adam üçün kəffarə etsin ki, o pak sayılsın. </verse>
+        <verse osisID='Lev.14.21'>Əgər o adam yoxsuldur və bu təqdimlərə gücü çatmırsa, özünün kəffarəsi üçün yellədilən təqsir qurbanı kimi bir erkək toğlu, taxıl təqdimi kimi zeytun yağı ilə yoğrulmuş onda bir efa narın unla bir loq zeytun yağı,</verse>
+        <verse osisID='Lev.14.22'>biri günah qurbanı, o biri yandırma qurbanı olaraq iki qumru quşu yaxud iki göyərçin götürsün. Bunlara gücü çatar.</verse>
+        <verse osisID='Lev.14.23'>Paklanmasının səkkizinci günü bu adam bunları kahinin yanına, Hüzur çadırının girişinə – Rəbbin hüzuruna gətirsin.</verse>
+        <verse osisID='Lev.14.24'>Kahin təqsir qurbanı olan toğlunu və bir loq zeytun yağını götürüb yelləmə təqdimi olaraq Rəbbin hüzurunda yelləsin və</verse>
+        <verse osisID='Lev.14.25'>təqsir qurbanı olan toğlunu kəssin. Sonra kahin təqsir qurbanının qanından bir az götürüb paklanan adamın sağ qulaq mərcəyinə və sağ əli ilə sağ ayağının baş barmaqlarına çəksin.</verse>
+        <verse osisID='Lev.14.26'>Kahin zeytun yağından bir az sol ovcuna töksün</verse>
+        <verse osisID='Lev.14.27'>və sağ əlinin bir barmağı ilə sol ovcundakı yağdan Rəbbin hüzurunda yeddi dəfə çiləsin.</verse>
+        <verse osisID='Lev.14.28'>Ovcundakı yağdan paklanan adamın sağ qulaq mərcəyinə, sağ əlinin və sağ ayağının baş barmağına, yəni təqsir qurbanının qanını çəkdiyi yerlərə çəksin.</verse>
+        <verse osisID='Lev.14.29'>Kahin ovcundakı yağın qalan hissəsini bu adamın başına çəksin. Bununla o adam üçün Rəbbin önündə kəffarə etsin.</verse>
+        <verse osisID='Lev.14.30'>Sonra bu adam gücü çatan qədər qumru quşlarından ya göyərçinlərdən birini təqdim etsin.</verse>
+        <verse osisID='Lev.14.31'>Gücü çatan qədər birini günah qurbanı kimi, o birisini isə taxıl təqdimi ilə birgə yandırma qurbanı kimi təqdim etsin. Beləcə kahin paklanan adam üçün Rəbbin önündə kəffarə etsin».</verse>
+        <verse osisID='Lev.14.32'>Bu, dərisində cüzamın əlaməti olub paklanmasına gücü çatmayan adam üçün təlimatdır. </verse>
+        <verse osisID='Lev.14.33'>Rəbb Musaya və Haruna dedi:</verse>
+        <verse osisID='Lev.14.34'>«Sizə mülk olaraq verəcəyim Kənan torpağına girəndən sonra Mən ölkənizdə olan bir evə iyrənc kif əlaməti göndərsəm,</verse>
+        <verse osisID='Lev.14.35'>qoy ev sahibi gedib kahinə “evimdə kifə bənzər bir şey görünüb” deyə xəbər versin.</verse>
+        <verse osisID='Lev.14.36'>Kahin kifə baxmazdan əvvəl evi boşaltmağı əmr etsin ki, evdə hər bir əşya murdar sayılmasın, sonra o evə baxmağa getsin.</verse>
+        <verse osisID='Lev.14.37'>Əlamətə baxsın: evin divarlarında yaşıltəhər yaxud qırmızımtıl, divarın səthindən dərin görünən ləkələr varsa,</verse>
+        <verse osisID='Lev.14.38'>kahin evdən çıxsın və onu bağlayıb yeddi gün müddətinə təcrid etsin.</verse>
+        <verse osisID='Lev.14.39'>Yeddinci gün kahin yenə də gəlib baxsın. Əlamət evin divarına yayılıbsa,</verse>
+        <verse osisID='Lev.14.40'>onda əmr etsin ki, kifli daşlar qoparılsın və şəhərdən kənara – murdar yerə atılsın.</verse>
+        <verse osisID='Lev.14.41'>Sonra evin içinin hər tərəfini qaşıyıb təmizləsinlər və qaşıdıqları malanı şəhərdən kənara – həmin murdar yerə töksünlər.</verse>
+        <verse osisID='Lev.14.42'>Qoparılmış daşların yerinə başqa daşları götürüb qoysunlar, sonra təzə mala götürüb evi malalasınlar. </verse>
+        <verse osisID='Lev.14.43'>Əgər daşları qopardıqdan və evi qaşıyıb malalayandan sonra yenə də evdə kif əlaməti əmələ gəlsə,</verse>
+        <verse osisID='Lev.14.44'>kahin gedib baxsın. Əlamət evə yayılıbsa, evdə olan təhlükəli, iyrənc kif budur və o murdar sayılsın.</verse>
+        <verse osisID='Lev.14.45'>Belə halda qoy ev sökülsün, onun daşları, taxtaları, bütün malası şəhərdən kənara – murdar yerə atılsın.</verse>
+        <verse osisID='Lev.14.46'>Ev bağlı olduğu vaxt ərzində evə girən hər bir adam axşama qədər murdar sayılsın.</verse>
+        <verse osisID='Lev.14.47'>O evdə yeyən yaxud yatan adam geyimlərini yusun. </verse>
+        <verse osisID='Lev.14.48'>Ev malalanandan sonra kahin gəlib evə baxanda görsə ki, əlamət evə yayılmayıb, o, evi pak elan etsin, çünki kif keçib gedib.</verse>
+        <verse osisID='Lev.14.49'>O, evi pak etmək üçün iki quş, sidr ağacının budağı, al rəngli ip və züfa otunu götürüb</verse>
+        <verse osisID='Lev.14.50'>quşların birini saxsı qabda axar su üzərində kəssin.</verse>
+        <verse osisID='Lev.14.51'>Sonra kahin sidr ağacının budağını, züfanı, al rəngli ipi və sağ qalan quşu götürüb kəsilən quşun qanına və axar suya batırsın, evə yeddi dəfə çiləyərək</verse>
+        <verse osisID='Lev.14.52'>quşun qanı, axar su, sağ qalan quş, sidr ağacının budağı, züfa otu və al rəngli iplə o evi pak etsin.</verse>
+        <verse osisID='Lev.14.53'>Qoy kahin sağ qalan quşu şəhərdən kənara – çölə buraxsın. Beləcə o evi kəffarə etsin ki, o pak sayılsın». </verse>
+        <verse osisID='Lev.14.54'>Bu, hər cür cüzam, qotur,</verse>
+        <verse osisID='Lev.14.55'>geyimlərdə və evlərdə əmələ gələn iyrənc kif,</verse>
+        <verse osisID='Lev.14.56'>şiş, səpki və ləkə,</verse>
+        <verse osisID='Lev.14.57'>belə cüzamın nə vaxt murdar, nə vaxt pak sayılması barədə müəyyən edən təlimatdır.  </verse>
+      </chapter>
+      <chapter osisID='Lev.15'>
+        <verse osisID='Lev.15.1'>
+          Rəbb Musaya və Haruna dedi:</verse>
+        <verse osisID='Lev.15.2'>«İsrail övladlarına belə deyin: “Bir nəfərin xəstəliyə görə bədən axıntısı olarsa, o murdar sayılsın.</verse>
+        <verse osisID='Lev.15.3'>Xəstəliyə görə bədən axıntısı istər sərbəst axsın, istərsə də qatılaşsın, o şəxs murdar sayılır.</verse>
+        <verse osisID='Lev.15.4'>Üstündə yatdığı hər yataq və oturduğu hər şey murdar sayılsın.</verse>
+        <verse osisID='Lev.15.5'>Kim onun yatağına toxunarsa, geyimini yusun, su ilə yuyunsun; sonra axşama qədər murdar sayılsın.</verse>
+        <verse osisID='Lev.15.6'>Xəstəliyə görə bədən axıntısı olan şəxs üstündə oturduğu əşyanın üstündə oturan hər kəs də geyimlərini yusun, su ilə yuyunsun, sonra axşama qədər murdar sayılsın.</verse>
+        <verse osisID='Lev.15.7'>Xəstəliyə görə bədən axıntısı olan şəxsin bədəninə toxunan hər kəs də geyimini yusun və özü su ilə yuyunsun, sonra axşama qədər murdar sayılsın.</verse>
+        <verse osisID='Lev.15.8'>Xəstəliyə görə bədən axıntısı olan şəxs pak adama tüpürsə, o adam geyimini yusun, su ilə yuyunsun. O, axşama qədər murdar sayılsın.</verse>
+        <verse osisID='Lev.15.9'>Xəstəliyə görə bədən axıntısı olan şəxsin mindiyi hər yəhər murdar sayılsın.</verse>
+        <verse osisID='Lev.15.10'>Onun altında olmuş hər şeyə toxunan hər kəs də geyimlərini yusun, su ilə yuyunsun, sonra axşama qədər murdar sayılsın; belə şey daşıyan hər kəs də geyimini yusun.</verse>
+        <verse osisID='Lev.15.11'>Xəstəliyə görə bədən axıntısı olan şəxs əllərini yumamış kimə toxunarsa, o adam geyimlərini yusun və su ilə yuyunsun, sonra axşama qədər murdar sayılsın.</verse>
+        <verse osisID='Lev.15.12'>Xəstəliyə görə bədən axıntısı olan şəxsin toxunduğu hər saxsı qab sındırılsın, taxta qab isə su ilə yuyulsun. </verse>
+        <verse osisID='Lev.15.13'>Bu adam öz axıntısı kəsildiyi halda paklanmaq üçün yeddi gün gözləsin, geyimini yusun, bədənini axar su ilə yusun, sonra pak sayılsın.</verse>
+        <verse osisID='Lev.15.14'>Səkkizinci gün iki qumru quşu ya iki göyərçin götürüb Rəbbin hüzuruna – Hüzur çadırının girişinə gəlsin və bunları kahinə versin.</verse>
+        <verse osisID='Lev.15.15'>Kahin quşların birini günah qurbanı, o birini isə yandırma qurbanı kimi təqdim etsin. Bunlarla kahin o şəxs üçün axıntısına görə Rəbbin önündə kəffarə etsin. </verse>
+        <verse osisID='Lev.15.16'>Toxumu tökülən hər kişi bütün bədənini su ilə yusun, sonra axşama qədər murdar sayılsın.</verse>
+        <verse osisID='Lev.15.17'>Üstünə toxum tökülüb bulaşan hər geyim ya da dəri əşya yuyulsun, sonra axşama qədər murdar sayılsın.</verse>
+        <verse osisID='Lev.15.18'>Kişi qadınla yaxınlıq edəndə toxumu tökülsə, hər ikisi su ilə yuyunsun. Sonra onlar axşama qədər murdar sayılsın. </verse>
+        <verse osisID='Lev.15.19'>Aybaşı vaxtı qanaxması olan hər qadın yeddi gün murdar sayılsın, ona toxunan hər kəs isə axşama qədər murdar sayılsın.</verse>
+        <verse osisID='Lev.15.20'>Aybaşı müddəti qadın nəyin üzərində uzanıb və yaxud otursa, hər şey murdar sayılsın.</verse>
+        <verse osisID='Lev.15.21'>O qadının yatağına toxunan hər kəs öz geyimlərini yusun, su ilə yuyunsun və axşama qədər murdar sayılsın.</verse>
+        <verse osisID='Lev.15.22'>O qadının oturduğu hər şeyə toxunan hər kəs də geyimlərini yusun, su ilə yuyunsun, sonra axşama qədər murdar sayılsın.</verse>
+        <verse osisID='Lev.15.23'>Əgər bir adam o qadının yatağına ya üstündə oturduğu şeyə toxunsa, o adam axşama qədər murdar sayılsın.</verse>
+        <verse osisID='Lev.15.24'>Əgər kişi qadınla yaxınlıq edən zaman qadın aybaşı görsə və kişi onunla bulaşsa, kişi də yeddi gün murdar sayılsın; kişinin yatdığı hər yataq da murdar sayılsın. </verse>
+        <verse osisID='Lev.15.25'>Bir qadının aybaşı vaxtından kənar ya da sonra neçə gün davam edən qanaxması olarsa, bütün bu axıntı müddəti aybaşı murdarlığı dövründəki kimi murdar sayılsın.</verse>
+        <verse osisID='Lev.15.26'>Bütün axıntı vaxtı aybaşı murdarlığı vaxtı kimi üstündə yatdığı yataq və oturduğu hər şey murdar sayılsın.</verse>
+        <verse osisID='Lev.15.27'>Onlara toxunan hər kəs də murdar sayılsın. Qoy o, geyimini yusun, su ilə yuyunsun və axşama qədər murdar sayılsın.</verse>
+        <verse osisID='Lev.15.28'>Əgər axıntısı kəsilsə, o qadın yeddi gün gözləsin, sonra pak sayılsın.</verse>
+        <verse osisID='Lev.15.29'>Səkkizinci gün həmin o qadın iki qumru quşu yaxud iki göyərçin götürüb Hüzur çadırının girişinə, kahinin yanına gətirsin.</verse>
+        <verse osisID='Lev.15.30'>Kahin quşların birini günah qurbanı, o birisini isə yandırma qurbanı kimi təqdim etsin. Bunlarla kahin bu qadın üçün axıntısının murdarlığını Rəbbin önündə kəffarə etsin. </verse>
+        <verse osisID='Lev.15.31'>Beləcə İsrail övladlarını öz murdarlığından ayırın ki, aralarında olan Mənim məskənimi murdarlığı ilə murdar edib ölməsinlər”». </verse>
+        <verse osisID='Lev.15.32'>Bu təlimat xəstəliyə görə bədən axıntısı olan adamlar üçün, toxumu tökülməklə murdarlanan hər kişi üçün,</verse>
+        <verse osisID='Lev.15.33'>aybaşı olub murdarlanan hər qadın üçün, axıntı növünə görə olan hər kişi və hər qadın üçün, murdar qadınla yaxınlıq edən hər kişi üçündür.  </verse>
+      </chapter>
+      <chapter osisID='Lev.16'>
+        <verse osisID='Lev.16.1'>
+            Harunun iki oğlu Rəbbin hüzuruna yaxınlaşıb öləndən sonra Rəbb Musaya dedi:</verse>
+        <verse osisID='Lev.16.2'>«Qardaşın Haruna söylə ki, istənilən vaxt pərdənin iç tərəfindəki Müqəddəs yerə, sandıq üzərindəki kəffarə qapağının önünə keçməsin ki, özü ölməsin, çünki Mən kəffarə qapağının üzərindəki buludda zahir oluram.</verse>
+        <verse osisID='Lev.16.3'>Buna görə Harun Müqəddəs yerə yalnız belə girə bilər: günah qurbanı üçün bir buğa və yandırma qurbanı üçün bir qoç götürsün;</verse>
+        <verse osisID='Lev.16.4'>müqəddəs kətan xirqə geysin, əynində kətan alt paltarı da olsun, belinə kətan qurşaq bağlasın, başına çalma qoysun. Bunlar müqəddəs geyimlərdir. Qoy Harun əvvəl bədənini su ilə yusun, sonra onları geysin.</verse>
+        <verse osisID='Lev.16.5'>İsrail övladlarının icmasından günah qurbanı iki təkə və yandırma qurbanı üçün bir qoç götürsün. </verse>
+        <verse osisID='Lev.16.6'>Harun özü üçün günah qurbanı olan buğanı təqdim etsin. Bununla həm özü, həm də ailəsi üçün günahını kəffarə etsin.</verse>
+        <verse osisID='Lev.16.7'>Sonra Harun iki təkəni götürüb Rəbbin önündə Hüzur çadırının girişində saxlasın.</verse>
+        <verse osisID='Lev.16.8'>Harun bu təkələrdən birini Rəbb üçün, o birisini Azazel  üçün püşklə seçsin.</verse>
+        <verse osisID='Lev.16.9'>Sonra Harun püşklə Rəbbə məxsus olan təkəni günah qurbanı olaraq təqdim etsin.</verse>
+        <verse osisID='Lev.16.10'>Püşklə Azazel olmaq üçün seçilən təkəni isə Rəbbin önündə diri saxlasın ki, onu sonra Azazel olaraq çölə göndərib onunla kəffarə etsin. </verse>
+        <verse osisID='Lev.16.11'>Harun özü ilə ailəsi üçün kəffarə edən günah qurbanını – buğanı kəssin.</verse>
+        <verse osisID='Lev.16.12'>Rəbbin hüzurundan, qurbangahdan gətirilən közərmiş kömürlə dolmuş bir buxurdan götürüb, iki ovuc dolu narın əzilən xoş ətirli buxurla pərdənin iç tərəfinə keçsin.</verse>
+        <verse osisID='Lev.16.13'>Rəbbin hüzurunda buxuru oda qoysun. Beləcə buxur tüstüsü bulud ilə Şəhadət sandığının üzərində olan kəffarə qapağını örtsün ki, özü ölməsin.</verse>
+        <verse osisID='Lev.16.14'>Buğanın qanından götürüb barmağı ilə qapağın ön tərəfinə – qapağın qarşısına da yeddi dəfə çiləsin. </verse>
+        <verse osisID='Lev.16.15'>Sonra xalq üçün günah qurbanı olan təkəni kəssin və onun qanını pərdənin iç tərəfinə gətirib qanını buğanın qanı kimi kəffarə qapağının ön tərəfinə və qarşısına çiləsin.</verse>
+        <verse osisID='Lev.16.16'>Bununla Harun İsrail övladlarının murdarlığına, qanunsuzluğuna və bütün günahlarına görə Müqəddəs yer üçün kəffarə etsin; murdar xalqın arasında yerləşdiyinə görə Hüzur çadırı üçün belə etsin.</verse>
+        <verse osisID='Lev.16.17'>Müqəddəs yerdə kəffarə etməyə girəndən çıxana qədər Hüzur çadırında da heç kim olmasın. Harun özü, ailəsi və bütün İsrail camaatı üçün kəffarə edib</verse>
+        <verse osisID='Lev.16.18'>çıxsın, sonra Rəbbin önündə olan qurbangaha gedib onun üçün kəffarə etsin; buğanın və təkənin qanından götürüb qurbangahın buynuzlarının ətrafına çəksin.</verse>
+        <verse osisID='Lev.16.19'>Harun qurbangahın üstünə barmağı ilə yeddi dəfə qan çiləsin. Beləcə onu İsrail övladlarının murdarlığından pak edib təqdis edin. </verse>
+        <verse osisID='Lev.16.20'>Qoy Harun Müqəddəs yeri, Hüzur çadırını, qurbangahı kəffarə edib qurtarandan sonra sağ qalan təkəni gətirsin</verse>
+        <verse osisID='Lev.16.21'>və iki əlini o təkənin başına qoyub İsraillilərin bütün qanunsuzluğundan və günahlarından ötrü qazandığı cəzanın hamısını onun üzərində etiraf etsin və təkənin başına ötürsün. Sonra bu iş üçün təyin olunan bir adamın vasitəsilə çöldə yola salınsın.</verse>
+        <verse osisID='Lev.16.22'>Təkə onların bütün cəzasını öz üzərində ayaq dəyməmiş torpağa aparsın. O adam təkəni çöldə yola salsın. </verse>
+        <verse osisID='Lev.16.23'>Harun Hüzur çadırına girsin və Müqəddəs yerə girən zaman geymiş olduğu kətan geyimi çıxarıb orada qoysun.</verse>
+        <verse osisID='Lev.16.24'>Müqəddəs bir yerdə bədənini su ilə yusun və öz geyimini geysin. Oradan çıxıb öz yandırma qurbanını və xalqın yandırma qurbanını təqdim etsin.</verse>
+        <verse osisID='Lev.16.25'>Günah qurbanının piyini də qurbangahda tüstülədib yandırsın.</verse>
+        <verse osisID='Lev.16.26'>Azazel olan təkəni yola salan adam da geyimini və bədənini su ilə yusun, sonra düşərgəyə girsin.</verse>
+        <verse osisID='Lev.16.27'>Müqəddəs yerdə kəffarə etmək üçün qanı oraya gətirilən günah qurbanı olan buğa ilə təkənin dəri, ət və bağırsaqları düşərgənin kənarına aparılıb yandırılsın.</verse>
+        <verse osisID='Lev.16.28'>Onları yandıran adam geyimini, bədənini su ilə yusun, ondan sonra düşərgəyə girsin. </verse>
+        <verse osisID='Lev.16.29'>Bu sizin üçün əbədi bir qayda olsun. Yeddinci ayın onuncu günündə özünüzü hər şeydən məhrum edib heç bir iş görməyin; həm yerliləriniz, həm də aranızda yaşayan yadellilər belə etsin.</verse>
+        <verse osisID='Lev.16.30'>Çünki o gün sizin üçün kəffarə olunacaq ki, siz pak olasınız və Rəbbin hüzurunda bütün günahlarınızdan təmizlənəcəksiniz.</verse>
+        <verse osisID='Lev.16.31'>O gün sizin üçün Şənbə gününə bənzər istirahət günüdür. Özünüzü hər şeydən məhrum edin. Bu, əbədi qayda olsun.</verse>
+        <verse osisID='Lev.16.32'>Atasının yerinə kahinlik etmək üçün məsh edilmiş vəzifəli baş kahin belə kəffarə etsin: o, müqəddəs kətan geyimlərini geyib</verse>
+        <verse osisID='Lev.16.33'>Ən Müqəddəs yer, Hüzur çadırı, qurbangah üçün kəffarə etsin; kahinlər və camaatın hər biri üçün də kəffarə etsin.</verse>
+        <verse osisID='Lev.16.34'>İldə bir dəfə İsrail övladlarının bütün günahlarının kəffarə edilməsi üçün bu sizə əbədi qayda olsun». Rəbbin Musaya əmr etdiyi kimi oldu.  </verse>
+      </chapter>
+      <chapter osisID='Lev.17'>
+        <verse osisID='Lev.17.1'>
+          Rəbb Musaya belə dedi:</verse>
+        <verse osisID='Lev.17.2'>«Harunla oğullarına və bütün İsrail övladlarına söylə: “Rəbbin əmri budur:</verse>
+        <verse osisID='Lev.17.3'>İsraillilərdən düşərgədə yaxud onun kənarında mal-qara, qoyun ya da keçi kəsən</verse>
+        <verse osisID='Lev.17.4'>onu Rəbbin məskəninə, Onun önünə qurban kimi təqdim edərək Hüzur çadırının girişinə gətirməyən hər kəs qan tökməkdə müqəssir sayılsın. Belə adam xalqı arasından qovulsun.</verse>
+        <verse osisID='Lev.17.5'>Belə ki İsrail övladları qurbanlarını çöldə kəsmək əvəzinə onları Rəbbin hüzuruna, Hüzur çadırının girişinə, kahinin yanına gətirsinlər və Rəbbə ünsiyyət qurbanları olaraq kəssinlər.</verse>
+        <verse osisID='Lev.17.6'>Kahin belə qurbanın qanını Hüzur çadırı girişinin yanındakı Rəbbin qurbangahına səpsin, piyini isə Rəbbin xoşuna gələn ətir kimi tüstülədib yandırsın.</verse>
+        <verse osisID='Lev.17.7'>İsrail övladları bir daha Rəbbə xəyanət edib heç vaxt təkə görkəmində bütlərə qurban kəsməsinlər. Bu, nəsildən-nəslə onlar üçün əbədi qayda olsun”. </verse>
+        <verse osisID='Lev.17.8'>Bir də ki onlara de: “İsrail övladlarından yaxud aralarında yaşayan yadellilərdən kim yandırma qurbanını və ya ünsiyyət qurbanını kəsəndə</verse>
+        <verse osisID='Lev.17.9'>Rəbbin hüzuruna təqdim edərək Hüzur çadırının girişinə qurban gətirməyən hər adam xalqı arasından qovulsun. </verse>
+        <verse osisID='Lev.17.10'>İsrail övladlarından ya da aralarında yaşayan yadellilərdən bir az da olsa, qan yeyən hər kəsdən Mən üz döndərib xalqı arasından qovacağam,</verse>
+        <verse osisID='Lev.17.11'>çünki hər məxluqa həyat verən qandır. Mən onu həyatınızın kəffarəsi üçün qurbangahda təqdim olunmağa təyin etmişəm; çünki həyat verdiyinə görə kəffarə edən qandır.</verse>
+        <verse osisID='Lev.17.12'>Buna görə də Mən İsrail övladlarına demişəm: ‹Sizdən heç bir kəs, aranızda yaşayan yadelli də qan yeməsin›. </verse>
+        <verse osisID='Lev.17.13'>İsrail övladlarından ya da aralarında yaşayan yadellilərdən yeyilə bilən heyvan yaxud quş ovlayan insan onun qanını yerə axıdıb torpaqla örtsün.</verse>
+        <verse osisID='Lev.17.14'>Çünki hər məxluqa həyat verən onun qanıdır. Buna görə Mən İsrail övladlarına ‹heç bir məxluqun qanını yeməyin› demişəm. Çünki hər məxluqa həyat verən onun qanıdır. Onu yeyən hər kəs xalqının arasından qovulsun.</verse>
+        <verse osisID='Lev.17.15'>Yerli olsun, yadelli olsun, təbii yolla ölən, parçalanıb ölən heyvanı yeyən adam qoy geyimini yusun, su ilə yuyunsun və axşamadək murdar, sonra pak sayılsın.</verse>
+        <verse osisID='Lev.17.16'>Əgər belə adam geyimini və bədənini yumasa, cəzasını çəkəcək”».  </verse>
+      </chapter>
+      <chapter osisID='Lev.18'>
+        <verse osisID='Lev.18.1'>
+          Rəbb Musaya dedi:</verse>
+        <verse osisID='Lev.18.2'>«İsrail övladlarına belə de: “Allahınız Rəbb Mənəm.</verse>
+        <verse osisID='Lev.18.3'>Nə əvvəl yaşadığınız Misir torpağının ənənələrinə əməl edin, nə də sizi aparacağım Kənan torpağına girəndən sonra adət-ənənələrinə əməl edib uymayın;</verse>
+        <verse osisID='Lev.18.4'>Mənim hökmlərimə əməl edib qanunlarıma riayət edin, onlara uyğun yaşayın. Allahınız Rəbb Mənəm.</verse>
+        <verse osisID='Lev.18.5'>Qaydalarıma və hökmlərimə səylə əməl edin; onları yerinə yetirən adam bunların sayəsində yaşayacaq. Rəbb Mənəm. </verse>
+        <verse osisID='Lev.18.6'>Qoy heç kəs öz yaxın qohumları ilə cinsi əlaqədə olmaq üçün onlara yaxınlaşmasın. Rəbb Mənəm.</verse>
+        <verse osisID='Lev.18.7'>Atanla cinsi əlaqədə olma, ananla da cinsi əlaqədə olma; o sənin anandır, onunla cinsi əlaqədə olma.</verse>
+        <verse osisID='Lev.18.8'>Atanın arvadı ilə cinsi əlaqədə olma, çünki o sənin atanın namusudur.</verse>
+        <verse osisID='Lev.18.9'>Atabir yaxud anabir bacınla, səninlə bir evdə yaxud başqa yerdə böyümüş bacınla cinsi əlaqədə olma.</verse>
+        <verse osisID='Lev.18.10'>Öz oğlunun qızı yaxud qızının qızı ilə cinsi əlaqədə olma, çünki onların namusu sənin namusundur.</verse>
+        <verse osisID='Lev.18.11'>Atanın başqa arvadından doğulan qızı ilə cinsi əlaqədə olma; o sənin bacındır.</verse>
+        <verse osisID='Lev.18.12'>Bibinlə cinsi əlaqədə olma, çünki o, atanın yaxın qohumudur.</verse>
+        <verse osisID='Lev.18.13'>Xalanla cinsi əlaqədə olma, çünki o, ananın yaxın qohumudur.</verse>
+        <verse osisID='Lev.18.14'>Əminin namusunu tapdalama, onun arvadı ilə yaxınlıq etmə, çünki o sənin əmiarvadındır.</verse>
+        <verse osisID='Lev.18.15'>Oğlunun arvadı ilə cinsi əlaqədə olma. Oğlunun arvadı olduğu üçün onunla cinsi əlaqədə olma.</verse>
+        <verse osisID='Lev.18.16'>Qardaşının arvadı ilə cinsi əlaqədə olma, çünki bu, qardaşının namusudur.</verse>
+        <verse osisID='Lev.18.17'>Bir qadının həm özü, həm də qızı ilə cinsi əlaqədə olma. O qadının oğul ya da qız nəvəsi ilə cinsi əlaqədə olmaq üçün onları alma, çünki onlar sənin yaxın qohumların olduğu üçün bu, əxlaqsızlıqdır.</verse>
+        <verse osisID='Lev.18.18'>Arvadın sağ ikən onun bacısını günü olaraq alma və onunla cinsi əlaqədə olma. </verse>
+        <verse osisID='Lev.18.19'>Aybaşı murdarlığı zamanı qadınla cinsi əlaqədə olmaq üçün onunla yaxınlıq etmə.</verse>
+        <verse osisID='Lev.18.20'>Başqasının arvadı ilə yaxınlıq edib özünü murdarlama.</verse>
+        <verse osisID='Lev.18.21'>Övladlarının heç birini Molekə qurban olaraq təqdim etmə. Beləliklə, Allahının adını ləkələmə. Rəbb Mənəm.</verse>
+        <verse osisID='Lev.18.22'>Kişi qadınla yaxınlıq etdiyi kimi kişi ilə yaxınlıq etməsin, bu, iyrəncdir.</verse>
+        <verse osisID='Lev.18.23'>Nə kişi, nə də qadın heç bir heyvanla cinsi əlaqəyə girib özünü murdarlamasın. Bu, rəzillikdir. </verse>
+        <verse osisID='Lev.18.24'>Bu şeylərin heç biri ilə özünüzü murdar etməyin, çünki önünüzdən qovacağım millətlər bunların hamısı ilə murdarlanıb,</verse>
+        <verse osisID='Lev.18.25'>torpaqlarını da murdarlayıblar. Buna görə də Mən o torpağı cəzalandırıb sakinlərini oradan rədd edirəm.</verse>
+        <verse osisID='Lev.18.26'>İstər yerli, istər aranızda yaşayan yadelli – hamınız qaydalarıma və hökmlərimə riayət edərək iyrənc işlərin heç birinə əməl etməyin.</verse>
+        <verse osisID='Lev.18.27'>Önünüzdəki ölkənin sakinləri bütün bu iyrənc işləri edərək torpağı murdarlayıblar.</verse>
+        <verse osisID='Lev.18.28'>Əgər siz də bu torpağı murdarlasanız, torpaq sizdən əvvəlki milləti ağzından qaytardığı kimi sizi də ağzından qaytaracaq.</verse>
+        <verse osisID='Lev.18.29'>Buna görə də bu iyrənc işlərin hər hansı birinə əməl edən hər kəs xalqının arasından qovulsun.</verse>
+        <verse osisID='Lev.18.30'>Beləliklə, önünüzdə edilən iyrənc adətlərinə əməl edib onlarla özünüzü murdar etməmək üçün Mənim buyruğuma riayət edin. Allahınız Rəbb Mənəm”».  </verse>
+      </chapter>
+      <chapter osisID='Lev.19'>
+        <verse osisID='Lev.19.1'>
+          Rəbb Musaya dedi:</verse>
+        <verse osisID='Lev.19.2'>«Bütün İsrail övladlarının icmasına bəyan edib de: “Müqəddəs olun, çünki Mən Allahınız Rəbb müqəddəsəm. </verse>
+        <verse osisID='Lev.19.3'>Sizdən hər kəs atasına və anasına hörmət etsin və Mənim Şənbə günlərimə riayət etsin. Allahınız Rəbb Mənəm.</verse>
+        <verse osisID='Lev.19.4'>Bütlərə tərəf dönməyin və özünüzə tökmə allahlar düzəltməyin. Allahınız Rəbb Mənəm. </verse>
+        <verse osisID='Lev.19.5'>Rəbbə ünsiyyət qurbanları gətirəndə elə gətirin ki, qurbanınız qəbul edilsin.</verse>
+        <verse osisID='Lev.19.6'>Qurbanınız kəsilən gün yaxud ertəsi gün yeyilsin, üçüncü günə qalan hissəsi yandırılsın.</verse>
+        <verse osisID='Lev.19.7'>Əgər ondan üçüncü gün yeyilsə, o qurban qəbul olunmaz, iyrənc sayılar.</verse>
+        <verse osisID='Lev.19.8'>O qurbanı yeyən adam Rəbbin müqəddəs yeməyini murdar etdiyinə görə cəzasını çəkər. Qoy o, xalqı arasından qovulsun. </verse>
+        <verse osisID='Lev.19.9'>Torpağınızda məhsul biçəndə tarlanın qıraq-bucaqlarını biçməyin və biçindən düşən başaqları yığmayın.</verse>
+        <verse osisID='Lev.19.10'>Üzüm bağında da tənəkləri büsbütün təmizləyib yerə düşən salxımları yığmayın. Qalan məhsul kasıblara və qəriblərə qalsın. Allahınız Rəbb Mənəm. </verse>
+        <verse osisID='Lev.19.11'>Oğurlamayın, bir-birinizə yalan satıb aldatmayın.</verse>
+        <verse osisID='Lev.19.12'>Allahınızın adını ləkələməmək üçün adıma yalandan and içməyin. Rəbb Mənəm. </verse>
+        <verse osisID='Lev.19.13'>Qonşunu istismar etmə, onu soyma; muzdlu işçinin zəhmət haqqını axşamdan səhərəcən özündə saxlama.</verse>
+        <verse osisID='Lev.19.14'>Kar adamı söymə və kor adamın qarşısına büdrədən heç bir şey qoyma. Allahından qorx. Rəbb Mənəm. </verse>
+        <verse osisID='Lev.19.15'>Məhkəmədə haqsızlıq etməyin. Nə yoxsula üstünlük ver, nə də varlıya meyl sal, amma bir-birinizi ədalətlə mühakimə edin.</verse>
+        <verse osisID='Lev.19.16'>Xalq arasında xəbərçilik etmə; qonşunun qanının tökülməsini istəmə. Rəbb Mənəm. </verse>
+        <verse osisID='Lev.19.17'>Soydaşına qarşı ürəyində nifrət bəsləmə. Başqa adamı mütləq tənbeh et ki, sən də günahının cəzasını çəkməyəsən.</verse>
+        <verse osisID='Lev.19.18'>Öz xalqından heç kəsdən qisas alma, heç kimə qarşı kin saxlama. Ancaq qonşunu özün kimi sev. Rəbb Mənəm. </verse>
+        <verse osisID='Lev.19.19'>Mənim qaydalarıma riayət edin. Başqa növlərdən olan heyvanları cütləşdirməyin. Tarlanızda iki növ toxum əkməyin. Əyninizə iki növ sapdan toxunmuş paltar geyməyin. </verse>
+        <verse osisID='Lev.19.20'>Bir kişi başqa kişinin nişanlı, hələ qiyməti ödənməmiş, azad olunmamış qarabaşı ilə yaxınlıq edərsə, ona cəza verilsin. Amma onlar öldürülməsinlər, çünki qarabaş azad deyil,</verse>
+        <verse osisID='Lev.19.21'>o kişi isə Rəbbin önünə – Hüzur çadırının girişinə təqsir qurbanı kimi bir qoç gətirsin.</verse>
+        <verse osisID='Lev.19.22'>Kahin o kişi üçün işlətdiyi günahını təqsir qurbanı olan qoçla Rəbbin önündə kəffarə etsin ki, bu günahı bağışlansın. </verse>
+        <verse osisID='Lev.19.23'>Kənan torpağına girib yemək üçün hər hansı bir meyvə ağacını əksəniz, meyvəsi sizin üçün üç il haramdır, onu yeməyin.</verse>
+        <verse osisID='Lev.19.24'>Dördüncü ildə onun bütün meyvəsi şükür təqdimi kimi Rəbb üçün müqəddəs sayılsın.</verse>
+        <verse osisID='Lev.19.25'>Beşinci ildə isə o ağacın meyvəsini yeyə bilərsiniz. Bunu edin ki, məhsul xeyriniz üçün artsın. Allahınız Rəbb Mənəm. </verse>
+        <verse osisID='Lev.19.26'>Heç bir əti qanlı-qanlı yeməyin. Baxıcılıq etməyin və gələcəyi deməyin.</verse>
+        <verse osisID='Lev.19.27'>Gicgahlarınızı qırxmayın, saqqallarınızın kənarlarını kəsməyin.</verse>
+        <verse osisID='Lev.19.28'>Ölülərə görə bədəninizə yara vurmayın, bədəninizə heç bir şəkil döydürməyin. Allahınız Rəbb Mənəm. </verse>
+        <verse osisID='Lev.19.29'>Qoy heç kim qızını fahişəlik edib ləkələnməyə qoymasın. Qoy fahişəlik ölkəyə yayılmasın ki, ölkə əxlaqsızlıqla dolub daşmasın.</verse>
+        <verse osisID='Lev.19.30'>Şənbə istirahət günlərimə riayət edin və Müqəddəs məkanıma ehtiramla yanaşın. Rəbb Mənəm. </verse>
+        <verse osisID='Lev.19.31'>Cindarlara və ruh çağıranlara tərəf dönməyin, onlarla danışmayın, yoxsa murdarlanarsınız. Allahınız Rəbb Mənəm. </verse>
+        <verse osisID='Lev.19.32'>Yaşlıların qarşısında ayağa durun, ağsaqqallara hörmət eləyin. Allahınızdan qorxun. Rəbb Mənəm.</verse>
+        <verse osisID='Lev.19.33'>Sizinlə ölkənizdə yaşayan heç bir qəribə haqsızlıq etməyin.</verse>
+        <verse osisID='Lev.19.34'>Hamınız onu öz adamınız, yerliniz kimi qəbul edin, hər kəs onu özünü sevən kimi sevsin. Çünki siz özünüz də Misir ölkəsində qərib idiniz. Allahınız Rəbb Mənəm. </verse>
+        <verse osisID='Lev.19.35'>Məhkəmədə, ölçüdə, çəkidə və miqdarda haqsızlıq etməyin.</verse>
+        <verse osisID='Lev.19.36'>Qoy tərəziniz, çəki daşınız, taxıl və maye ölçüsü üçün işlənən qablarınız düzgün olsun. Sizi Misir torpağından çıxaran Allahınız Rəbb Mənəm.</verse>
+        <verse osisID='Lev.19.37'>Bütün Mənim qaydalarıma və hökmlərimə səylə əməl edin. Rəbb Mənəm”».  </verse>
+      </chapter>
+      <chapter osisID='Lev.20'>
+        <verse osisID='Lev.20.1'>
+          Rəbb Musaya dedi:</verse>
+        <verse osisID='Lev.20.2'>«İsrail övladlarına de: “İsraillilərdən və İsraildə yaşayan yadellilərdən övladını Molekə təqdim edən hər kəs öldürülməlidir. Qoy ölkə xalqı onu daşqalaq etsin.</verse>
+        <verse osisID='Lev.20.3'>Öz övladını Molekə təqdim etdiyi üçün Mən o adamdan üz döndərib xalqı arasından qovacağam; çünki o, Müqəddəs məkanımı murdarlayıb müqəddəs adımı ləkələmişdir.</verse>
+        <verse osisID='Lev.20.4'>Əgər ölkə xalqı o adamın övladını Molekə təqdim etdiyini görüb göz yumaraq onu öldürməsə,</verse>
+        <verse osisID='Lev.20.5'>Mən Özüm həmin adamdan və ailəsindən üz döndərib onu və onunla birgə Moleklə Mənə xəyanət edən hər kəsi xalqın arasından qovacağam. </verse>
+        <verse osisID='Lev.20.6'>Mənə xəyanət edərək cindarlara və ruh çağıranlara tərəf dönən hər kəsdən üz döndərib xalqın arasından qovacağam.</verse>
+        <verse osisID='Lev.20.7'>Buna görə də özünüzü təqdis edin və müqəddəs olun, çünki Allahınız Rəbb Mənəm.</verse>
+        <verse osisID='Lev.20.8'>Qaydalarıma səylə əməl edin, çünki sizi təqdis edən Rəbb Mənəm. </verse>
+        <verse osisID='Lev.20.9'>Atasına yaxud anasına lənət edən hər kəs öldürülməlidir. O adam öz atasına yaxud anasına lənət etdiyi üçün qanının tökülməyinə özü baisdir. </verse>
+        <verse osisID='Lev.20.10'>Başqa kişinin arvadı ilə zina edənlərə aid: qonşusunun arvadı ilə zina edən kişi zinakar qadınla birlikdə öldürülməlidir.</verse>
+        <verse osisID='Lev.20.11'>Atasının arvadı ilə yaxınlıq edən kişi atasının namusunu tapdalamış olur. Bunu edənlərin hər ikisi öldürülməlidir. Onlar qanlarının tökülməyinə özləri baisdir.</verse>
+        <verse osisID='Lev.20.12'>Gəlini ilə yaxınlıq edən kişi gəlini ilə birgə – hər ikisi öldürülməlidir, çünki bu rəzillikdir. Bunlar qanlarının tökülməyinə özləri baisdir.</verse>
+        <verse osisID='Lev.20.13'>Kişi qadınla yaxınlıq etdiyi kimi kişi kişi ilə yaxınlıq edərsə, hər ikisi iyrənc iş görür və onlar öldürülməlidirlər; qanlarının tökülməyinə özləri baisdir.</verse>
+        <verse osisID='Lev.20.14'>Qadınla bərabər anasını arvad alan kişi əxlaqsızlıq edər; aranızda belə əxlaqsızlıq olmamaq üçün o kişi də, o qadınlar da yandırılsın.</verse>
+        <verse osisID='Lev.20.15'>Heyvanla cinsi əlaqəyə girən kişi öldürülməlidir; heyvan isə kəsilməlidir.</verse>
+        <verse osisID='Lev.20.16'>Hər hansı bir heyvanla cinsi əlaqəyə girən qadın heyvanla birgə öldürülməlidir. Bunlar qanlarının tökülməyinə özləri baisdir. </verse>
+        <verse osisID='Lev.20.17'>Əgər bir kişi atabir yaxud anabir bacısını alıb onunla cinsi əlaqədə olsa, qadın da onunla cinsi əlaqədə olsa, bu, rüsvayçılıqdır. Onlar xalqı arasından qovulsun. Bacısı ilə cinsi əlaqədə olan kişi cəzasını çəkər.</verse>
+        <verse osisID='Lev.20.18'>Əgər bir kişi aybaşı olan qadınla yaxınlıq edib onunla cinsi əlaqədə olarsa, qadının qanaxma mənbəyinin üstünü açar, qadın da öz qanaxma mənbəyinin üstünü açar. Hər ikisi xalqı arasından qovulsun.</verse>
+        <verse osisID='Lev.20.19'>Xalanla yaxud bibinlə yaxınlıq etmə, çünki yaxın qohumları ilə yaxınlıq edənlər cəzasını çəkərlər.</verse>
+        <verse osisID='Lev.20.20'>Əmisi arvadı ilə yaxınlıq edən kişi öz əmisinin namusunu tapdalamış olur; ikisi də günahının cəzasını çəkərək övladları olmadan öləcəklər.</verse>
+        <verse osisID='Lev.20.21'>Qardaşı arvadını alan kişi qardaşının namusunu tapdalayaraq murdar iş görür; onlar sonsuz qalacaqlar. </verse>
+        <verse osisID='Lev.20.22'>Siz Mənim qaydalarıma və hökmlərimə səylə əməl edin ki, yaşamaq üçün aparacağım torpaq sizi rədd etməsin.</verse>
+        <verse osisID='Lev.20.23'>Qarşınızdan qovacağım millətlərin adətlərinə uymayın; onlar bütün bu şeyləri etdiklərinə görə Mənim gözümdə iyrəncdirlər.</verse>
+        <verse osisID='Lev.20.24'>Mən sizə dedim ki, onların torpağına siz sahib olacaqsınız; Mən o süd və bal axan torpağı sizə irs olaraq verəcəyəm. Sizi digər xalqlardan ayıran Allahınız Rəbb Mənəm.</verse>
+        <verse osisID='Lev.20.25'>Beləliklə, siz pak və murdar heyvan və quşları bir-birindən ayırd edin. Sizin üçün ayırd etdiyim murdar sayılan heyvanlar yaxud quşlar ya da yerdə sürünən məxluqlarla özünüzü iyrənc etməyin.</verse>
+        <verse osisID='Lev.20.26'>Siz Mənim üçün müqəddəs olun, çünki Mən Rəbb müqəddəsəm. Mən sizi digər xalqlardan ayırdım ki, siz Mənim xalqım olasınız. </verse>
+        <verse osisID='Lev.20.27'>Cindar yaxud ruh çağıran kişilər və ya qadınlar öldürülməlidir, onlar daşqalaq olmalıdır. Bunlar qanlarının tökülməyinə özləri baisdir”».  </verse>
+      </chapter>
+      <chapter osisID='Lev.21'>
+        <verse osisID='Lev.21.1'>
+          Rəbb Musaya dedi: «Harun nəslindən olan kahinlərə bəyan edib belə de: “Qoy kahinlər öz xalqı arasından olan hər hansı bir meyitə görə özlərini murdar etməsin;</verse>
+        <verse osisID='Lev.21.2'>ancaq kahinin yaxın qohumu – anası, atası, oğlu, qızı, qardaşı</verse>
+        <verse osisID='Lev.21.3'>yaxud da yanında yaşayan subay bacısı ölsə, kahin o ölüyə görə özünü murdar etməsin.</verse>
+        <verse osisID='Lev.21.4'>Qoy o, xalq arasında başçı olduğuna görə özünü murdar edib ləkələməsin. </verse>
+        <verse osisID='Lev.21.5'>Qoy kahinlər yas tutaraq başının heç bir hissəsini qırxmasın, saqqalının kənarını kəsməsin, bədənlərinə də yara vurmasınlar,</verse>
+        <verse osisID='Lev.21.6'>özlərinin Allahı üçün müqəddəs olsunlar və Onun adını ləkələməsinlər, çünki onlar özlərinin Allahına pay, Rəbb üçün yandırma təqdimi gətirirlər. Buna görə də müqəddəs olsunlar.</verse>
+        <verse osisID='Lev.21.7'>Kahin fahişəni yaxud ləkələnmiş və ya ərindən boşanmış qadını da arvad almasın, çünki kahin Allahı üçün müqəddəsdir.</verse>
+        <verse osisID='Lev.21.8'>Onu müqəddəs say, çünki Allahına gətirilən payı təqdim edən odur; o sənin üçün müqəddəs olsun, çünki Mən – sizi təqdis edən Rəbb müqəddəsəm.</verse>
+        <verse osisID='Lev.21.9'>Fahişəliklə ləkələnən kahin qızı atasını da ləkələdiyinə görə yandırılsın. </verse>
+        <verse osisID='Lev.21.10'>Qohumları üzərində olan başında məsh yağı ilə məsh olunan və müqəddəs geyimləri geyən vəzifəli baş kahin yas tutaraq nə saçını dağıtsın, nə də əynindəki geyimini cırsın.</verse>
+        <verse osisID='Lev.21.11'>Bu kahin heç bir meyitə, hətta ölən ata-anasına yaxınlaşıb özünü murdar etməsin.</verse>
+        <verse osisID='Lev.21.12'>O, Müqəddəs məkanı tərk etməsin və Allahın Müqəddəs məkanını ləkələməsin, çünki Allahın nişanəsi olan məsh yağı üzərindədir. Rəbb Mənəm.</verse>
+        <verse osisID='Lev.21.13'>Bu kahin bakirə qız alsın;</verse>
+        <verse osisID='Lev.21.14'>dul, boşanmış yaxud fahişəliklə ləkələnmiş qadın yox, yalnız öz xalqından olan bakirə qız alsın ki,</verse>
+        <verse osisID='Lev.21.15'>onun övladları xalqı arasında ləkəli olmasın. Onu təqdis edən Rəbb Mənəm”». </verse>
+        <verse osisID='Lev.21.16'>Rəbb Musaya dedi:</verse>
+        <verse osisID='Lev.21.17'>«Haruna belə söylə: “Nəsildən-nəslə övladlarından qüsuru olan adam Allahına pay təqdim etmək üçün yaxınlaşmasın.</verse>
+        <verse osisID='Lev.21.18'>Bunlardan heç biri bu xidmətə yaxınlaşmasın: nə kor, nə axsaq, nə eybəcər, nə əlil,</verse>
+        <verse osisID='Lev.21.19'>nə əl-ayağından şikəst,</verse>
+        <verse osisID='Lev.21.20'>nə qozbel, nə cırtdanboy, nə gözündə titə olan, nə xoralı yaxud dəmrovlu, nə axtalanmış adam,</verse>
+        <verse osisID='Lev.21.21'>yəni kahin Harunun nəslindən bədənində hər hansı bir qüsuru olan şəxs Rəbb üçün yandırma təqdimi verməyə yaxınlaşmasın. Onun bədənində qüsur var. Buna görə də o, Allahına pay gətirmək üçün yaxınlaşmasın.</verse>
+        <verse osisID='Lev.21.22'>Belə adam Allahına gətirilən paydan – həm ən müqəddəs yeməkdən, həm də müqəddəs yeməkdən yeyə bilər.</verse>
+        <verse osisID='Lev.21.23'>Lakin o, bədənində qüsuru olduğuna görə nə müqəddəs pərdəyə, nə də qurbangaha yaxınlaşmasın ki, Müqəddəs məkanlarımı ləkələməsin, çünki onları təqdis edən Rəbb Mənəm”». </verse>
+        <verse osisID='Lev.21.24'>Musa Harunla oğullarına və bütün İsrail övladlarına belə dedi.  </verse>
+      </chapter>
+      <chapter osisID='Lev.22'>
+        <verse osisID='Lev.22.1'>
+          Rəbb Musaya dedi:</verse>
+        <verse osisID='Lev.22.2'>«Harunla oğullarına söylə ki, İsrail övladlarının Mənim üçün təqdis etdikləri müqəddəs şeylərlə ehtiyatlı olsunlar və müqəddəs adımı ləkələməsinlər. Rəbb Mənəm.</verse>
+        <verse osisID='Lev.22.3'>Onlara de: “Nəsildən-nəslə İsrail övladlarının Rəbb üçün təqdis etdikləri müqəddəs şeylərə murdar halda yaxınlaşan hər hansı bir övladınız Mənim hüzurumdan qovulsun. Rəbb Mənəm. </verse>
+        <verse osisID='Lev.22.4'>Harun nəslindən iyrənc dəri xəstəliyi yaxud xəstəliyə görə bədən axıntısı olan heç kəs pak olana qədər müqəddəs yeməkdən yeməsin. Meyitə görə murdar olan şeyə toxunan hər kəs, toxumu tökülən hər kəs,</verse>
+        <verse osisID='Lev.22.5'>onu murdarlayan qaynaşan heyvana və yaxud hər cür murdarlığı olan insana toxunan hər kəs də –</verse>
+        <verse osisID='Lev.22.6'>belə şeylərə toxunan hər adam axşamadək bədənini yumayınca murdar sayılsın və müqəddəs yeməkdən yeməsin.</verse>
+        <verse osisID='Lev.22.7'>Günəş batanda isə o adam pak sayılsın, sonra müqəddəs yeməkdən yesin, çünki bu onun xörəyidir.</verse>
+        <verse osisID='Lev.22.8'>Murdarlanmamaq üçün kahin nə təbii yolla ölən, nə də parçalanıb ölən heyvanın ətini yesin. Rəbb Mənəm.</verse>
+        <verse osisID='Lev.22.9'>Mənim buyruğuma riayət etsinlər ki, onu ləkələdikləri üçün günahının cəzasını çəkərək ölməsinlər. Onları təqdis edən Rəbb Mənəm. </verse>
+        <verse osisID='Lev.22.10'>Heç bir kənar şəxs: nə kahinin qonağı, nə də onun muzdlu işçisi müqəddəs yeməkdən yeməsin.</verse>
+        <verse osisID='Lev.22.11'>Lakin kahinin satın aldığı ya da evində doğulan qul o yeməkdən yeyə bilər.</verse>
+        <verse osisID='Lev.22.12'>Kənar adama ərə gedən kahin qızı müqəddəs təqdim yeməyindən yeməsin.</verse>
+        <verse osisID='Lev.22.13'>Amma dul qalmış və ya boşanmış, sonsuz qalaraq atasının evinə qayıdıb ailə üzvü kimi yaşayan kahin qızı atasının yeməyindən yeyə bilər. Lakin heç bir kənar şəxs ondan yeyə bilməz.</verse>
+        <verse osisID='Lev.22.14'>Bilmədən müqəddəs yeməkdən yeyən adam beşdə birini əlavə edərək əvəzini kahinə qaytarsın.</verse>
+        <verse osisID='Lev.22.15'>Qoy kahinlər İsrail övladlarının Rəbbə təqdim etdikləri müqəddəs yeməyi ləkələməsinlər.</verse>
+        <verse osisID='Lev.22.16'>Onlara bu müqəddəs yeməyi verib bunun təqsirini və cəzasını boyunlarına qoymasınlar; çünki onları təqdis edən Rəbb Mənəm”». </verse>
+        <verse osisID='Lev.22.17'>Rəbb Musaya dedi:</verse>
+        <verse osisID='Lev.22.18'>«Harunla oğullarına və bütün İsraillilərə belə de: “İsrail övladlarından yaxud İsraildə yaşayan yadellilərdən kimsənin yandırma qurbanı olaraq Rəbbə təqdim etdiyi hər əhdə görə təqdim və hər könüllü təqdim</verse>
+        <verse osisID='Lev.22.19'>sizdən qəbul olunsun deyə ya mal-qaradan ya da qoyun-keçidən qüsursuz erkək olsun.</verse>
+        <verse osisID='Lev.22.20'>Qüsurlu heyvanı gətirmək olmaz, çünki belə qurban sizdən qəbul olunmaz.</verse>
+        <verse osisID='Lev.22.21'>Kimsə Rəbbə əhdini ödəmək üçün yaxud könüllü təqdim olaraq mal-qaradan ya da qoyun-keçidən ünsiyyət qurbanı təqdim edərsə, heyvan qəbul olunsun deyə qüsursuz olsun; onun bədənində heç bir qüsur olmasın.</verse>
+        <verse osisID='Lev.22.22'>Rəbbə kor, yaralı, şikəst, qaysaqlı, xoralı, dəmrovlu heyvanları təqdim etməyin, Rəbb üçün yandırma təqdimi vermək üçün onları qurbangaha gətirməyin.</verse>
+        <verse osisID='Lev.22.23'>Mal-qaradan yaxud qoyun-keçidən çolaq yaxud qısaqıç heyvanı könüllü təqdim etmək olar, lakin əhdini ödəmək üçün o qəbul olunmaz.</verse>
+        <verse osisID='Lev.22.24'>Xayası zədələnmiş, əzilmiş, burulmuş ya da kəsilmiş heyvanı Rəbbə qurban gətirməyin, ölkənizdə buna yol verməyin.</verse>
+        <verse osisID='Lev.22.25'>Belə bir heyvanı yadellidən götürüb pay olaraq Allahınıza təqdim etməyin, çünki bu heyvan xarab və qüsurlu sayılaraq sizdən qəbul olunmaz”». </verse>
+        <verse osisID='Lev.22.26'>Rəbb Musaya dedi:</verse>
+        <verse osisID='Lev.22.27'>«Buzov, quzu ya da oğlaq doğularsa, yeddi gün anasının yanında qalsın. Səkkizinci gündən etibarən Rəbb üçün yandırma təqdimi kimi qəbul oluna bilər.</verse>
+        <verse osisID='Lev.22.28'>Nə inək, nə qoyun, nə də keçi ilə balasını eyni gündə birlikdə kəsməyin.</verse>
+        <verse osisID='Lev.22.29'>Rəbbə təşəkkür qurbanı gətirəndə elə gətirin ki, o sizdən Rəbbə məqbul olsun.</verse>
+        <verse osisID='Lev.22.30'>Qurbanın əti həmin gün yeyilsin, səhərə qədər saxlanılmasın. Rəbb Mənəm. </verse>
+        <verse osisID='Lev.22.31'>Mənim əmrlərimə səylə əməl edin. Rəbb Mənəm.</verse>
+        <verse osisID='Lev.22.32'>Mənim müqəddəs adımı ləkələməyin. Qoy İsrail övladları arasında müqəddəs tutulum. Sizi təqdis edən Rəbb Mənəm.</verse>
+        <verse osisID='Lev.22.33'>Allahınız olmaq üçün sizi Misir torpağından çıxartdım. Rəbb Mənəm».  </verse>
+      </chapter>
+      <chapter osisID='Lev.23'>
+        <verse osisID='Lev.23.1'>
+          Rəbb Musaya dedi:</verse>
+        <verse osisID='Lev.23.2'>«İsrail övladlarına belə de: “Rəbbin təyin etdiyi bayramlar, Mənim bayramlarım bunlardır. Bu vaxt müqəddəs toplantı çağırın: </verse>
+        <verse osisID='Lev.23.3'>Altı gün işinizi görün, yeddinci gün isə Şənbə istirahət və müqəddəs toplantı günüdür. Qoy Rəbbin bu Şənbə günü yaşadığınız bütün yerlərdə heç bir iş görülməsin. </verse>
+        <verse osisID='Lev.23.4'>Rəbbin təyin etdiyi bu müqəddəs toplantı günlərini bayramlar elan edin. </verse>
+        <verse osisID='Lev.23.5'>Birinci ayın on dördü axşamçağı Rəbbin Pasxa bayramıdır.</verse>
+        <verse osisID='Lev.23.6'>Həmin ayın on beşi Rəbbin Mayasız Çörək bayramıdır. Yeddi gün mayasız çörək yeyin.</verse>
+        <verse osisID='Lev.23.7'>Birinci gün müqəddəs toplantınız olsun; gündəlik işlərinizi görməyin.</verse>
+        <verse osisID='Lev.23.8'>Bu yeddi gün ərzində Rəbb üçün yandırma təqdimi gətirin. Yeddinci gün isə müqəddəs toplantınız olsun; gündəlik işlərinizi görməyin”». </verse>
+        <verse osisID='Lev.23.9'>Rəbb Musaya belə dedi:</verse>
+        <verse osisID='Lev.23.10'>«İsrail övladlarına de: “Sizə verəcəyim torpağa gəldiyiniz zaman məhsulunuzu biçəndə biçdiyiniz ilk dərzi kahinin yanına gətirin.</verse>
+        <verse osisID='Lev.23.11'>O, dərzi Rəbbin hüzurunda yellədərək təqdim etsin ki, sizdən qəbul olunsun. Kahin onu Şənbənin ertəsi günü yellətsin.</verse>
+        <verse osisID='Lev.23.12'>Dərzi yellətdiyiniz gün Rəbbə birillik qüsursuz erkək toğlu yandırma qurbanı kimi kəsin.</verse>
+        <verse osisID='Lev.23.13'>Toğlu ilə birlikdə taxıl təqdimi olaraq zeytun yağı ilə yoğrulmuş bir efanın onda ikisi olan miqdarda narın un gətirin. Bu, Rəbb üçün yandırma təqdimi – Onun xoşuna gələn ətirdir. İçmə təqdimi olaraq da bir hin şərabın dörddə birini gətirin.</verse>
+        <verse osisID='Lev.23.14'>Bu qurbanı Allahınıza təqdim etdiyiniz həmin günə qədər nə çörək, nə qovurğa, nə də təzə sünbül yeməyin. Bu bütün yaşadığınız yerlərdə nəsildən-nəslə sizin üçün əbədi qayda olsun. </verse>
+        <verse osisID='Lev.23.15'>Şənbənin ertəsi günü olan yellədilən dərzi gətirdiyiniz gündən tam yeddi həftə,</verse>
+        <verse osisID='Lev.23.16'>yeddinci Şənbə gününün ertəsinədək əlli gün sayın, sonra Rəbbə təzə taxıl təqdimi gətirin.</verse>
+        <verse osisID='Lev.23.17'>Yaşadığınız hər yerdən yellədib təqdim etmək üçün bir efanın onda ikisi narın undan maya ilə bişirilmiş iki kömbə çörəyi Rəbbə nübar təqdimi gətirin.</verse>
+        <verse osisID='Lev.23.18'>Çörəklə birgə birillik yeddi qüsursuz toğlu, bir buğa və iki qoç təqdim edin. Bunlar taxıl təqdimləri və içmə təqdimləri ilə birlikdə Rəbb üçün yandırma qurbanıdır, Rəbbin xoşuna gələn ətir – yandırma təqdimidir.</verse>
+        <verse osisID='Lev.23.19'>Günah qurbanı üçün bir təkə, ünsiyyət qurbanı üçün isə iki birillik toğlu gətirin.</verse>
+        <verse osisID='Lev.23.20'>Kahin bu iki toğlunu nübar çörəyi ilə birgə Rəbbin hüzurunda yellədərək təqdim etsin. Bunlar kahinin Rəbb üçün müqəddəs payı olsun.</verse>
+        <verse osisID='Lev.23.21'>Həmin gün özünüz üçün müqəddəs toplantı elan edin və heç bir gündəlik iş görməyin. Bu bütün yaşadığınız yerlərdə nəsildən-nəslə sizin üçün əbədi qayda olsun. </verse>
+        <verse osisID='Lev.23.22'>Torpağınızda məhsul biçəndə tarlanın qıraqlarını biçməyin və biçindən düşən başaqları yığmayın. Qoy qalan məhsul kasıblara və qəriblərə qalsın. Allahınız Rəbb Mənəm”». </verse>
+        <verse osisID='Lev.23.23'>Rəbb Musaya dedi:</verse>
+        <verse osisID='Lev.23.24'>«İsrail övladlarına belə de: “Yeddinci ayın birinci günü sizin üçün istirahət günü, şeypur çalınma ilə qeyd olunan gün, müqəddəs toplantı günü olsun.</verse>
+        <verse osisID='Lev.23.25'>O gün heç bir gündəlik iş görməyin və Rəbb üçün yandırma təqdimi gətirin”». </verse>
+        <verse osisID='Lev.23.26'>Rəbb Musaya dedi:</verse>
+        <verse osisID='Lev.23.27'>«İsrail övladlarına de: “Yeddinci ayın onu isə Kəffarə günüdür, müqəddəs toplantınız olsun; özünüzü hər şeydən məhrum edin və Rəbb üçün yandırma təqdimi gətirin.</verse>
+        <verse osisID='Lev.23.28'>Həmin gün heç bir iş görməyin, çünki bu, Allahınız Rəbbin hüzurunda sizin üçün kəffarə edilən Kəffarə günüdür.</verse>
+        <verse osisID='Lev.23.29'>Həmin o gün özünü hər şeydən məhrum etməyən adam xalqı arasından qovulsun.</verse>
+        <verse osisID='Lev.23.30'>O gün hər hansı bir iş görən adamı Mən xalqı arasından yox edəcəyəm.</verse>
+        <verse osisID='Lev.23.31'>Heç bir iş görməyin. Bu bütün yaşadığınız yerlərdə nəsildən-nəslə sizin üçün əbədi qayda olsun.</verse>
+        <verse osisID='Lev.23.32'>O gün sizin üçün Şənbə istirahət günü kimidir. Özünüzü hər şeydən məhrum edin. Ayın doqquzuncu günü axşamdan ertəsi günün axşamına qədər Şənbə günü kimi istirahət edin”». </verse>
+        <verse osisID='Lev.23.33'>Rəbb Musaya dedi:</verse>
+        <verse osisID='Lev.23.34'>«İsrail övladlarına söylə: “Həmin yeddinci ayın on beşinci günündən Rəbb üçün yeddi gün Çardaqlar bayramını keçirin.</verse>
+        <verse osisID='Lev.23.35'>Birinci gün müqəddəs toplantı günüdür. Gündəlik işlərinizi görməyin.</verse>
+        <verse osisID='Lev.23.36'>Bu yeddi gün ərzində Rəbbə yandırma təqdimləri gətirin. Səkkizinci gün isə müqəddəs toplantınız olsun və Rəbbə yandırma təqdimləri gətirin. Bu gün təntənəli toplantı günüdür, gündəlik işlərinizi görməyin. </verse>
+        <verse osisID='Lev.23.37'>Bunlar Rəbbin təyin etdiyi bayramlardır: bu zaman müqəddəs toplantı çağırıb hər birini öz günündə olmaqla yandırma təqdimlərini – yandırma qurbanlarını, taxıl təqdimlərini, ünsiyyət qurbanlarını və içmə təqdimlərini Rəbbə gətirin.</verse>
+        <verse osisID='Lev.23.38'>Bunlar Rəbbin Şənbələrinə və Rəbbə verdiyiniz bütün ianələrə, bütün əhdlərin ödəmələrinə, bütün könüllü təqdimlərə əlavədir. </verse>
+        <verse osisID='Lev.23.39'>Üstəlik yeddinci ayın on beşinci günü torpağın məhsullarını yığandan sonra yeddi gün Rəbb üçün bayram keçirin. Birinci gün və səkkizinci gün istirahət günləri olsun.</verse>
+        <verse osisID='Lev.23.40'>Birinci gün gözəl ağacların meyvələrini, xurma ağaclarının budaqlarını, sıx yarpaqlı ağacların və çay kənarında bitən qovaq ağaclarının budaqlarını toplayıb Allahınız Rəbbin hüzurunda yeddi gün şənlik edin.</verse>
+        <verse osisID='Lev.23.41'>Hər il Rəbb üçün bu bayramı yeddi gün keçirin. Bu, nəsildən-nəslə sizin üçün əbədi qaydadır; bu bayramı yeddinci ayda qeyd edin.</verse>
+        <verse osisID='Lev.23.42'>Yeddi gün çardaqlarda qalın; bütün yerli İsraillilər çardaqlarda yaşasın.</verse>
+        <verse osisID='Lev.23.43'>Beləliklə, sizin nəsilləriniz bilsin ki, Mən İsrail övladlarını Misir torpağından çıxarandan sonra onları çardaqlarda yerləşdirdim. Allahınız Rəbb Mənəm”». </verse>
+        <verse osisID='Lev.23.44'>Beləcə Musa İsrail övladlarına Rəbbin təyin etdiyi bayramlar barəsində nəql etdi.  </verse>
+      </chapter>
+      <chapter osisID='Lev.24'>
+        <verse osisID='Lev.24.1'>
+          Rəbb Musaya dedi:</verse>
+        <verse osisID='Lev.24.2'>«İsrail övladlarına əmr et ki, işıq yandırmaq üçün sənə zeytundan çəkilmiş xalis yağ gətirsinlər. Bu yağdan çıraqlar daima</verse>
+        <verse osisID='Lev.24.3'>Hüzur çadırında, şəhadət pərdəsinin bayır tərəfində yansın. Harun onu hər axşam Rəbbin hüzurunda yandırıb səhərə qədər nəzarət etsin. Bu, nəsildən-nəslə sizin üçün əbədi qayda olsun.</verse>
+        <verse osisID='Lev.24.4'>Rəbbin hüzurunda xalis qızıldan düzəlmiş çıraqdandakı çıraqlara daim nəzarət edilsin. </verse>
+        <verse osisID='Lev.24.5'>Narın un götürüb hər kökə bir efanın onda ikisi qədər miqdarda on iki kökə bişir.</verse>
+        <verse osisID='Lev.24.6'>Onları Rəbbin hüzurunda xalis qızıldan düzəlmiş masaya, iki sıraya altı-altı qoy.</verse>
+        <verse osisID='Lev.24.7'>Çörək sıralarının üstünə xalis kündür qoy. Çörəklərin üstündəki kündür Rəbb üçün yandırma təqdimi, çörək yerinə xatirə təqdimi olsun.</verse>
+        <verse osisID='Lev.24.8'>Qoy bu çörəklər hər Şənbə günü daim Rəbbin hüzurunda düzülsün. Bu, İsrail övladları üçün əbədi əhddir.</verse>
+        <verse osisID='Lev.24.9'>Bu çörəklər Harunla övladlarının payıdır. Onlar bu çörəkləri müqəddəs bir yerdə yesinlər. Çünki bunlar Rəbb üçün verilən yandırma təqdimlərindən ən müqəddəs, Harun övladları üçün əbədi paydır». </verse>
+        <verse osisID='Lev.24.10'>Bir gün anası İsrailli, atası Misirli olan bir adam İsrail övladlarının arasına çıxdı. O, düşərgədə bir İsrailli ilə savaşıb</verse>
+        <verse osisID='Lev.24.11'>Allahın adına küfr və lənət etdi. O adamı Musanın yanına gətirdilər. Onun anası Dan qəbiləsindən Dibri qızı Şelomit idi.</verse>
+        <verse osisID='Lev.24.12'>O adamı həbs edib Rəbbin qərarını gözlədilər. </verse>
+        <verse osisID='Lev.24.13'>Rəbb Musaya belə dedi:</verse>
+        <verse osisID='Lev.24.14'>«Lənət edəni düşərgədən kənara çıxar; qoy bu lənəti eşidənlər əllərini o adamın başına qoysunlar. Sonra qoy bütün icma onu daşqalaq etsin.</verse>
+        <verse osisID='Lev.24.15'>İsrail övladlarına belə de: “Allahına lənət edən hər kəs öz günahının cəzasını çəkəcək;</verse>
+        <verse osisID='Lev.24.16'>Rəbbin adına küfr edən hər kəs öldürülməlidir. Bütün icma onu daşqalaq etsin; istər yadelli, istər yerli olsun, Allahın adına küfr etdiyinə görə öldürülməlidir. </verse>
+        <verse osisID='Lev.24.17'>Başqa bir adamın canını alan hər kəs öldürülməlidir.</verse>
+        <verse osisID='Lev.24.18'>Heyvanı öldürən isə can əvəzinə can olaraq zərəri ödəsin.</verse>
+        <verse osisID='Lev.24.19'>Bir adam başqa adamı yaralayarsa, o nə cür edibsə, ona da belə edilsin:</verse>
+        <verse osisID='Lev.24.20'>sınıq əvəzinə sınıq, göz əvəzinə göz, diş əvəzinə diş; o adama nə cür yara vurubsa, ona da belə yara vurulsun.</verse>
+        <verse osisID='Lev.24.21'>Heyvan öldürən zərərini ödəsin. Adam öldürən isə özü öldürülsün.</verse>
+        <verse osisID='Lev.24.22'>Sizdə istər qərib, istər yerli üçün ədalət bir olsun; çünki Allahınız Rəbb Mənəm”». </verse>
+        <verse osisID='Lev.24.23'>Musa İsrail övladlarına bunu dedi. Lənət edəni düşərgədən kənara çıxarıb daşqalaq etdilər. Rəbbin Musaya əmr etdiyi kimi İsrail övladları buna əməl etdilər.  </verse>
+      </chapter>
+      <chapter osisID='Lev.25'>
+        <verse osisID='Lev.25.1'>
+            Rəbb Sina dağında Musaya belə söylədi:</verse>
+        <verse osisID='Lev.25.2'>«İsrail övladlarına de: “Sizə verəcəyim torpağa daxil olanda bütün ölkədə Şənbə günü kimi Rəbb üçün dinclik vaxtları olsun.</verse>
+        <verse osisID='Lev.25.3'>Altı il tarlanı ək, üzümlüyün budaqlarını kəs və məhsulunu yığ.</verse>
+        <verse osisID='Lev.25.4'>Yeddinci ildə isə torpaq Şənbə günü kimi dincə qoyulsun. Bu, Rəbbin dinclik ilidir. Bu il sən nə tarlanı ək, nə də üzümlüyünü buda,</verse>
+        <verse osisID='Lev.25.5'>biçinindən düşən toxumdan bitən məhsulu biçmə və kəsilməmiş tənəklərdən salxımları yığma. Bu, torpaq üçün dinclik ili olsun.</verse>
+        <verse osisID='Lev.25.6'>Bu dinclik ilində torpağın verdiyi hər məhsul sizin üçün qida olacaq; qulunuz, qarabaşınız, muzdlu işçiniz, aranızda yaşayan gəlmənin,</verse>
+        <verse osisID='Lev.25.7'>ev heyvanının və ölkədəki vəhşi heyvanın qidası olacaq. </verse>
+        <verse osisID='Lev.25.8'>Özün üçün yeddi dinclik ili – yeddi dəfə yeddi il say. Yeddi dinclik ilinin müddəti qırx doqquz ildir.</verse>
+        <verse osisID='Lev.25.9'>Sonra yeddinci ayın onu – Kəffarə günü bütün ölkənizdə yüksək səslə şeypur çaldırmaqla</verse>
+        <verse osisID='Lev.25.10'>əllinci ili təqdis edin və ölkənin bütün sakinləri üçün azadlıq elan edin. Bu il sizin üçün Azadlıq ili olsun; hamı öz mülkünə, öz ailəsinə qayıtsın.</verse>
+        <verse osisID='Lev.25.11'>Qoy əllinci il sizin üçün Azadlıq ili olsun. O il heç nə əkməyin, düşən toxumdan bitən məhsulu biçməyin, budanmamış meynələrinizdən yığmayın,</verse>
+        <verse osisID='Lev.25.12'>çünki bu Azadlıq ili sizin üçün müqəddəs olsun. Tarlalarınızın verdiyi məhsulu yeyin. </verse>
+        <verse osisID='Lev.25.13'>Bu Azadlıq ilində hər kəs öz mülkünə qayıtsın.</verse>
+        <verse osisID='Lev.25.14'>Kim torpaq sahəsini başqa adama satarsa, ondan alan soydaşına haqsızlıq etməsin.</verse>
+        <verse osisID='Lev.25.15'>Alan şəxs Azadlıq ilindən neçə il keçməsinə görə qiymətləndirib alsın. Satan isə məhsul götürəcəyi illərə münasib olaraq satsın.</verse>
+        <verse osisID='Lev.25.16'>İllərin sayı çoxdursa, qiyməti qaldır, azdırsa, onu endir, çünki o sənə satılan məhsulların miqdarıdır.</verse>
+        <verse osisID='Lev.25.17'>Bir-birinizə qarşı haqsızlıq etməyin, amma Allahınızdan qorxun, çünki Rəbbiniz Allah Mənəm. </verse>
+        <verse osisID='Lev.25.18'>Mənim qaydalarıma əməl edin, hökmlərimə səylə riayət edin ki, ölkədə arxayın yaşayasınız.</verse>
+        <verse osisID='Lev.25.19'>Torpaq da barını verəcək ki, siz doyunca yeyib orada sakit yaşayasınız.</verse>
+        <verse osisID='Lev.25.20'>‹Məhsul əkib-biçmədiyimiz yeddinci ildə nə yeyək?› soruşanda bilin:</verse>
+        <verse osisID='Lev.25.21'>altıncı il üstünüzə elə bərəkət göndərəcəyəm ki, torpaq üçillik məhsul verəcək.</verse>
+        <verse osisID='Lev.25.22'>Səkkizinci il əkin və köhnə məhsuldan yeyin; doqquzuncu il təzə məhsul yetişənə qədər köhnəni yeyin. </verse>
+        <verse osisID='Lev.25.23'>Torpaq əbədi olaraq satılmaz; çünki torpaq Mənimdir, siz isə yanımda qərib və gəlməsiniz.</verse>
+        <verse osisID='Lev.25.24'>Bütün mülkünüzdən sahə satanda onu geri satınalma hüququnu saxlayın. </verse>
+        <verse osisID='Lev.25.25'>Yanındakı soydaşın yoxsullaşıb mülkündən bir sahə satılmalıdırsa, onun yaxın qohumu o sahəni geri satın ala bilər.</verse>
+        <verse osisID='Lev.25.26'>Geri satın alan qohumu yoxdursa, o soydaş sonra gücü çatan geri satınalma məbləği tapsa,</verse>
+        <verse osisID='Lev.25.27'>qoy satılan vaxtdan neçə illər keçdiyini hesablasın və qiymətin qalığını satdığı adama verib yenə öz mülkünə malik olsun.</verse>
+        <verse osisID='Lev.25.28'>Əgər gücü çatıb bu məbləği tapmasa, sahəsi Azadlıq ilinə qədər onu geri satın alan adama məxsus qalsın. Azadlıq ilində isə qaytarılsın ki, satan adam yenə öz mülkünə malik olsun. </verse>
+        <verse osisID='Lev.25.29'>Bir adam qalalı şəhərdə olan yaşayış evini satarsa, onu geri satınalma hüququ satdığı gündən bir il müddətinə qüvvədədir; satan adam evi geri satın ala bilər.</verse>
+        <verse osisID='Lev.25.30'>Amma əgər bütöv il tamamlananacan o adam evi geri satın ala bilməsə, qalalı şəhərdəki ev onu alana məxsus həmişəlik nəsildən-nəslə qalsın. Bu, Azadlıq ilində qaytarılmaz.</verse>
+        <verse osisID='Lev.25.31'>Ətraf qala divarı olmayan kəndlərdəki evlər isə torpaq sahələri kimi sayılsın; onları geri satınalma hüququ olsun və Azadlıq ilində qaytarılsın. </verse>
+        <verse osisID='Lev.25.32'>Lakin Levililər özlərinə aid şəhərlərdə mülklərini satdıqları evləri daima geri satınalma hüququna malik olsunlar.</verse>
+        <verse osisID='Lev.25.33'>Levililərdən birinin mülkü satdığı və geri satın almadığı şəhər evi Azadlıq ilində ona qaytarılsın. Çünki Levililərin şəhərlərindəki evlər onların İsrail övladları arasındakı irsdir.</verse>
+        <verse osisID='Lev.25.34'>Onların şəhərlərinin ətraf otlaqları isə heç satılmamalıdır, çünki bunlar Levililərin ayrılmaz mülküdür. </verse>
+        <verse osisID='Lev.25.35'>Yanındakı soydaşın yoxsullaşıb və özünü təmin edə bilmirsə, ona yardım et. Qoy o sənin yanında yadelli ya gəlmə kimi yaşasın.</verse>
+        <verse osisID='Lev.25.36'>Ondan nə sələm, nə də mənfəət götür. Allahından qorx və qoy soydaşın sənin yanında yaşaya bilsin.</verse>
+        <verse osisID='Lev.25.37'>Ona nə sələmlə pul ver, nə də mənfəətini güdmək üçün yemək ver.</verse>
+        <verse osisID='Lev.25.38'>Kənan torpağını sizə vermək və Allahınız olmaq üçün sizi Misir torpağından çıxaran Allahınız Rəbb Mənəm. </verse>
+        <verse osisID='Lev.25.39'>Yanındakı soydaşın yoxsullaşıb sənə özünü qul kimi satarsa, ona qulun ağır işini gördürmə.</verse>
+        <verse osisID='Lev.25.40'>Qoy o, yanında muzdlu işçi yaxud gəlmə kimi olsun. O, Azadlıq ilinədək yanında işləsin,</verse>
+        <verse osisID='Lev.25.41'>sonra uşaqları ilə birlikdə səndən ayrılıb ailəsinin yanına, atalarının mülkünə qayıtsın.</verse>
+        <verse osisID='Lev.25.42'>Çünki İsrail övladları Mənim Misir torpağından çıxartdığım qullarımdır, buna görə də onlar qul kimi satılmasınlar.</verse>
+        <verse osisID='Lev.25.43'>O soydaşına sərt ağalıq etmə. Allahından qorx. </verse>
+        <verse osisID='Lev.25.44'>Qullarınız və kənizləriniz ətrafınızdakı millətlərdən olsun. Siz onlardan nökər və qarabaş geri satın ala bilərsiniz.</verse>
+        <verse osisID='Lev.25.45'>Aranızda yaşayan gəlmələrdən və onların ölkənizdə doğulmuş ailə üzvlərindən də geri satın ala bilərsiniz. Bunlar sizin mülkiyyətiniz olacaq.</verse>
+        <verse osisID='Lev.25.46'>Siz özünüzdən sonra bunları oğullarınıza əmlak kimi vəsiyyət edə bilərsiniz və onlar oğullarınızın mirası olub həyatı boyunca iş görəcəklər. Ancaq İsrailli soydaşlarınız arasında heç kim soydaşına sərt ağalıq etməsin. </verse>
+        <verse osisID='Lev.25.47'>Yanındakı soydaşın yoxsullaşıbsa, qonşuluqda yaşayan pulu olan bir yadelli ya da gəlməyə yaxud onun ailə üzvünə özünü qul olaraq satarsa,</verse>
+        <verse osisID='Lev.25.48'>satıldıqdan sonra onun geri satınalma hüququ var. Qardaşlarından biri onu geri satın ala bilər;</verse>
+        <verse osisID='Lev.25.49'>əmisi ya da əmisi oğlu da onu geri satın ala bilər. Ailəsindən hər bir yaxın qohumu da onu geri satın ala bilər. Öz gücü çatanda o adam özünü geri satın ala bilər.</verse>
+        <verse osisID='Lev.25.50'>Qoy bu adam ağası ilə özünü satdığı ildən Azadlıq ilinə qədər muzdlu işçinin iş müddəti kimi hesablaşsın və illərin sayına görə qiyməti qoyulsun.</verse>
+        <verse osisID='Lev.25.51'>Əgər illərin sayı hələ də çoxdursa, o buna görə geri satınalınmanın qiyməti olaraq satın alındığı məbləğin böyük bir hissəsini ödəsin.</verse>
+        <verse osisID='Lev.25.52'>Lakin əgər Azadlıq ilinə az qalırsa, o müddətə görə hesab edərək geri satınalınmanın qiyməti olaraq az ödəsin.</verse>
+        <verse osisID='Lev.25.53'>Yəni ilbəil muzdlu işçi kimi ağası ilə hesablaşsın. Qoy ağası da sənin gözün qarşısında ona sərt ağalıq etməsin.</verse>
+        <verse osisID='Lev.25.54'>Əgər o adam bu yolla geri satın alınmamışdırsa, Azadlıq ilində uşaqları ilə birgə azad olsun.</verse>
+        <verse osisID='Lev.25.55'>Çünki İsrail övladları Mənim qullarım, Mənim Misir torpağından çıxardığım qullarımdır. Allahınız Rəbb Mənəm.  </verse>
+      </chapter>
+      <chapter osisID='Lev.26'>
+        <verse osisID='Lev.26.1'>
+              Özünüzə büt düzəltməyin; oyma büt yaxud sütun qoymayın, ölkənizdə yonulmuş daş qoyub səcdə etməyin; çünki Allahınız Rəbb Mənəm.</verse>
+        <verse osisID='Lev.26.2'>Şənbə istirahət günlərimə riayət edin, Müqəddəs məkanıma ehtiramla yanaşın. Rəbb Mənəm. </verse>
+        <verse osisID='Lev.26.3'>Əgər qaydalarımla yaşayıb əmrlərimə səylə əməl etsəniz,</verse>
+        <verse osisID='Lev.26.4'>sizə mövsümündə yağış göndərəcəyəm ki, torpaq öz məhsulunu, ağaclar isə meyvələrini versin.</verse>
+        <verse osisID='Lev.26.5'>Sizin xırmanınız o qədər bol olacaq ki, onun döyülməsi üzüm yığımına qədər davam edəcək, üzümünüz o qədər bol olacaq ki, onun yığılması əkin vaxtına qədər davam edəcək. Çörəyinizi doyunca yeyib ölkənizdə arxayın yaşayacaqsınız. </verse>
+        <verse osisID='Lev.26.6'>Ölkənizə sülh verəcəyəm; yatanda sizi vahiməyə salan olmayacaq. Yırtıcı heyvanları ölkədən qovacağam və müharibə üzü görməyəcəksiniz.</verse>
+        <verse osisID='Lev.26.7'>Düşmənlərinizi qovacaqsınız, onlar döyüş zamanı qarşınızda həlak olacaqlar.</verse>
+        <verse osisID='Lev.26.8'>Beşiniz yüz adamı, yüzünüz on min adamı qovacaq. Düşmənləriniz döyüş zamanı qarşınızda həlak olacaqlar.</verse>
+        <verse osisID='Lev.26.9'>Mən üzümü sizə çevirəcəyəm, sizi artırıb çoxaldacağam, sizinlə olan Öz əhdimi yerinə yetirəcəyəm.</verse>
+        <verse osisID='Lev.26.10'>Saxladığınız məhsul bütün il boyu sizə çatacaq. Yeni məhsula yer tapmaq üçün köhnəni boşaltmalı olacaqsınız.</verse>
+        <verse osisID='Lev.26.11'>Üstəlik, Mən aranızda məskunlaşacağam və sizə nifrət etməyəcəyəm.</verse>
+        <verse osisID='Lev.26.12'>Mən həm də aranızda yaşayıb sizin Allahınız olacağam, siz isə Mənim xalqım olacaqsınız.</verse>
+        <verse osisID='Lev.26.13'>Sizi Misir torpağından çıxardan və onların köləliyindən azad edən, boyunduruğunuzu qırıb başınızı uca edən Allahınız Rəbb Mənəm. </verse>
+        <verse osisID='Lev.26.14'>Amma əgər Mənə qulaq asıb bütün bu əmrlərimə əməl etməsəniz,</verse>
+        <verse osisID='Lev.26.15'>əvəzində qaydalarıma xor baxıb hökmlərimi qəlbinizdən rədd etsəniz, Mənim bütün əmrlərimə əməl etməyib, əhdimi pozsanız,</verse>
+        <verse osisID='Lev.26.16'>Mən sizə bunu edəcəyəm: göz çıxaran və qəlbi sıxan fəlakət, vərəm, qızdırma göndərəcəyəm. Toxumlarınızı hədər yerə əkəcəksiniz; düşmənləriniz onlardan əmələ gələn məhsulu yeyəcək.</verse>
+        <verse osisID='Lev.26.17'>Üzümü sizdən döndərəcəyəm, düşmənlərinizin qarşısında məğlub olacaqsınız, yağılarınız üzərinizdə hökm sürəcək; sizi qovan olmasa da, qaçacaqsınız. </verse>
+        <verse osisID='Lev.26.18'>Əgər buna baxmayaraq yenə də Mənə qulaq asmasanız, o vaxt günahlarınıza görə sizi yeddi qat artıq tənbeh edəcəyəm.</verse>
+        <verse osisID='Lev.26.19'>Öyündüyünüz güclü təkəbbürünüzü qıracağam. Başınız üzərində olan göyləri dəmir və ayağınız altındakı yeri tunc kimi edəcəyəm ki,</verse>
+        <verse osisID='Lev.26.20'>qüvvətiniz tükənsin; nə torpağınız məhsul, nə də ağaclarınız meyvə verəcək. </verse>
+        <verse osisID='Lev.26.21'>Əgər Mənə qarşı çıxıb sözlərimə hələ də qulaq asmaq istəməsəniz, Mən sizə günahlarınıza görə yeddiqat artıq bəla göndərəcəyəm.</verse>
+        <verse osisID='Lev.26.22'>Üstünüzə vəhşi heyvanlar göndərəcəyəm. Onlar övladlarınızı öldürüb, ev heyvanlarınızı parçalayacaq. Buna görə sayınız elə azalacaq ki, yollarınız viran qalacaq. </verse>
+        <verse osisID='Lev.26.23'>Əgər bunlardan ibrət dərsi almayıb Mənə qarşı çıxmaqda davam etsəniz,</verse>
+        <verse osisID='Lev.26.24'>Mən də sizə qarşı çıxacağam və günahlarınıza görə yenə də yeddiqat artıq cəzalandıracağam.</verse>
+        <verse osisID='Lev.26.25'>Əhdi pozduğunuza görə qisas almaq üçün üstünüzə müharibə göndərəcəyəm. Siz şəhərlərinizdə sığınanda aranıza vəba salacağam ki, düşmənin əlinə düşəsiniz.</verse>
+        <verse osisID='Lev.26.26'>Çörəyinizin kökünü kəsəcəyəm. On qadın bir təndirdə çörək bişirəcək və onu sizə çəki ilə paylayacaq, siz isə yeyib doymayacaqsınız. </verse>
+        <verse osisID='Lev.26.27'>Əgər siz bundan sonra da Mənə qulaq asmasanız və Mənə qarşı çıxsanız,</verse>
+        <verse osisID='Lev.26.28'>bu dəfə Mən də sizə qarşı qəzəblə çıxıb günahlarınıza görə yeddiqat artıq tənbeh edəcəyəm.</verse>
+        <verse osisID='Lev.26.29'>Oğul və qızlarınızın ətini yeməyə məcbur olacaqsınız.</verse>
+        <verse osisID='Lev.26.30'>Səcdəgahlarınızı məhv edib, buxur qurbangahlarınızı yox edəcəyəm, bütlərinizi devirəcəyəm və meyitlərinizi o bütlərin üstünə sərəcəyəm. Sizi rədd edəcəyəm;</verse>
+        <verse osisID='Lev.26.31'>şəhərlərinizi xaraba qoyacağam, Müqəddəs məkanlarınızı viranəliyə döndərib xoş ətirlərinizi qəbul etməyəcəyəm.</verse>
+        <verse osisID='Lev.26.32'>Mən ölkənizi elə viran qoyacağam ki, oranı işğal edən düşmənləriniz baxıb dəhşətə gəlsinlər.</verse>
+        <verse osisID='Lev.26.33'>Sizi isə millətlər arasına səpələyəcəyəm və arxanızca qılıncla düşəcəyəm. Torpağınız viranəliyə, şəhərləriniz xarabalığa dönəcək. </verse>
+        <verse osisID='Lev.26.34'>O zaman ölkə viran qalacaq, siz isə düşmən torpağında yaşayacaqsınız. Bütün bu vaxt ərzində ölkə dinclik illərini qeyd edəcək. Yalnız o vaxt ölkə dinclik illərini qeyd edərək şadlanacaq.</verse>
+        <verse osisID='Lev.26.35'>Orada yaşadığınız dinclik illərində görmədiyi dincliyi ölkə viran qalan bütün müddət görəcək.</verse>
+        <verse osisID='Lev.26.36'>Düşmən ölkələrində sizdən sağ qalanların ürəklərinə elə cəsarətsizlik salacağam ki, onlar hətta küləkdən tərpənən yarpağın xışıltısından qorxub qaçacaqlar. Onları qovan olmasa da, müharibədən qaçan kimi qaçıb yıxılacaqlar;</verse>
+        <verse osisID='Lev.26.37'>büdrəyib bir-birinin üstünə yıxılacaqlar, amma onları qovan olmayacaq; düşmənləriniz qarşısında durmağa qüvvətiniz olmayacaq.</verse>
+        <verse osisID='Lev.26.38'>Millətlər arasında həlak olacaqsınız, düşmən torpağı sizi udacaq.</verse>
+        <verse osisID='Lev.26.39'>Sizdən sağ qalanlarsa düşmən ölkələrində həm öz günahlarının cəzasını, həm də atalarının günahlarının cəzasını çəkib çürüyəcəklər. </verse>
+        <verse osisID='Lev.26.40'>Amma özlərinin və atalarının günahlarını, Mənə xainlik etdiklərini və Mənə qarşı çıxdıqlarını etiraf etsələr,</verse>
+        <verse osisID='Lev.26.41'>– buna görə Mən də onlara qarşı çıxıb düşmən torpağına aparmışam – daş ürəkləri yumşalıb günahlarının əvəzini ödəsələr,</verse>
+        <verse osisID='Lev.26.42'>o zaman Mən də Yaqubla, İshaqla və İbrahimlə bağladığım əhdimi və onlara vəd etdiyim ölkəni xatırlayacağam. </verse>
+        <verse osisID='Lev.26.43'>Bu torpaq onlar tərəfindən tərk ediləcək, onlarsız boş qalıb Şənbə istirahəti edib şadlanacaq. Onlarsa öz cəzalarını çəkəcəklər, çünki Mənim hökmlərimi rədd edərək qaydalarıma nifrət etdilər.</verse>
+        <verse osisID='Lev.26.44'>Bütün bunlara baxmayaraq, düşmən ölkəsində yaşadıqları zaman onlara xor baxıb rədd etməyəcəyəm. Beləcə Mən onları məhv edib bağladığım əhdimi pozmayacağam, çünki onların Allahı Rəbb Mənəm.</verse>
+        <verse osisID='Lev.26.45'>Mən onların əcdadlarını başqa millətlərin qarşısında onların Allahı olmaq üçün Misir torpağından çıxaran vaxt bağladığım əhdimi xatırlayacağam; Rəbb Mənəm”». </verse>
+        <verse osisID='Lev.26.46'>Bunlar Rəbbin Özü ilə İsrail övladları arasında Sina dağında Musa vasitəsilə verdiyi qaydalar, hökmlər və qanunlardır.  </verse>
+      </chapter>
+      <chapter osisID='Lev.27'>
+        <verse osisID='Lev.27.1'>
+          Rəbb Musaya dedi:</verse>
+        <verse osisID='Lev.27.2'>«İsrail övladlarına söylə: “İnsanları Rəbbə həsr edən adam əhdini bu dəyərlərinə görə ödəyə bilər:</verse>
+        <verse osisID='Lev.27.3'>Müqəddəs yerdəki şekelin ölçüsünə görə iyirmi yaşından altmış yaşına qədər kişinin dəyəri əlli şekel gümüş,</verse>
+        <verse osisID='Lev.27.4'>qadının dəyəri otuz şekeldir;</verse>
+        <verse osisID='Lev.27.5'>beş yaşından iyirmi yaşına qədər oğlanın dəyəri iyirmi şekel, qızın isə on şekeldir;</verse>
+        <verse osisID='Lev.27.6'>bir aydan beş yaşa qədər olan oğlanın dəyəri beş şekel gümüş, qızın dəyəri isə üç şekel gümüşdür;</verse>
+        <verse osisID='Lev.27.7'>altmış yaşından yuxarı olan kişinin dəyəri on beş şekel, qadının isə on şekeldir;</verse>
+        <verse osisID='Lev.27.8'>əgər əhdinə əməl edən adam belə dəyəri ödəmək üçün çox kasıbdırsa, qoy həsr etdiyi adamı kahinin önünə gətirsin ki, kahin onu qiymətləndirsin. Əhdinə əməl edənin gücü nəyə çatırsa, kahin onun qiymətini təyin etsin. </verse>
+        <verse osisID='Lev.27.9'>Əgər bir nəfər Rəbbə qurban gətirilən heyvanlardan birini həsr etsə, bunlardan Rəbbə verilən hər baş heyvan müqəddəs sayılır.</verse>
+        <verse osisID='Lev.27.10'>O adam heyvanı dəyişdirməsin. Nə pisi yaxşı ilə, nə yaxşını pislə əvəz etməsin. Əgər o, heyvanı dəyişdirirsə, dəyişdirilən heyvanların ikisi də müqəddəs sayılsın.</verse>
+        <verse osisID='Lev.27.11'>Əgər Rəbbə qurban gətirməyə layiq olmayan hər hansı murdar heyvanlardan birini həsr etsə, qoy o heyvanı kahinin yanına gətirib ona göstərsin;</verse>
+        <verse osisID='Lev.27.12'>kahin onu yaxşı ya pis olduğuna görə qiymətləndirsin və dəyəri onun təyin etdiyinə görə olsun.</verse>
+        <verse osisID='Lev.27.13'>Əgər heyvanı həsr edən onu geri satın almaq istəsə, qoy o dəyərinə beşdə biri qədər əlavə edərək ödəsin. </verse>
+        <verse osisID='Lev.27.14'>Bir nəfər öz evini müqəddəs təqdim kimi Rəbbə təqdis edəndə kahin evi yaxşı ya pis olduğuna görə qiymətləndirsin. Qiymət kahinin təyin etdiyi kimi qalsın.</verse>
+        <verse osisID='Lev.27.15'>Əgər o adam evini geri satın almaq istəsə, qoy o qiymətə görə beşdə birini əlavə edərək ödəsin və ev ona qayıtsın. </verse>
+        <verse osisID='Lev.27.16'>Əgər bir nəfər mülkü olan tarla sahəsini Rəbbə təqdis edirsə, oraya əkilən toxum miqdarına görə bir xomer arpa əkilən tarlanın qiyməti əlli şekel gümüş olsun.</verse>
+        <verse osisID='Lev.27.17'>Əgər o adam tarlasını Azadlıq ilindən başlayaraq təqdis edirsə, bu dəyər olduğu kimi qalsın.</verse>
+        <verse osisID='Lev.27.18'>Əgər tarlasını Azadlıq ilindən sonra təqdis edirsə, kahin onunla qiymətini sonrakı Azadlıq ilinə qədər qalan müddətə görə hesablaşsın və dəyəri belə aşağı salınsın.</verse>
+        <verse osisID='Lev.27.19'>Əgər tarlanı təqdis edən adam onu geri satın almaq istəsə, qoy o, gümüşə görə dəyərinə beşdə birini əlavə edərək ödəsin və tarla ona qayıtsın.</verse>
+        <verse osisID='Lev.27.20'>Əgər tarlanı geri satın almadan başqa birinə satarsa, sonra onu heç vaxt geri satın ala bilməz.</verse>
+        <verse osisID='Lev.27.21'>O tarla Azadlıq ilində azad olanda həmişəlik həsr olunmuş bir tarla kimi Rəbb üçün təqdis edilmiş sayılsın; kahinin mülkü olsun. </verse>
+        <verse osisID='Lev.27.22'>Əgər bir nəfər öz mülkü olmayaraq, satın aldığı bir tarlanı Rəbbə təqdis edərsə,</verse>
+        <verse osisID='Lev.27.23'>qoy kahin onunla Azadlıq ilinə qədər dəyərini hesablasın. O adam həmin gün qiyməti Rəbb üçün təqdis edilmiş bir şey kimi versin.</verse>
+        <verse osisID='Lev.27.24'>Azadlıq ilində həmin tarla mülk olub onu satan adama qaytarılsın.</verse>
+        <verse osisID='Lev.27.25'>Bütün dəyərlər Müqəddəs yerdəki şekelə görə sayılsın. Bu şekel iyirmi geraya bərabərdir. </verse>
+        <verse osisID='Lev.27.26'>Heyvanlar arasında ilk doğulanlar Rəbbə məxsusdur. Heç kim onu yenidən təqdis etməsin. İstər mal-qara, istər qoyun-keçi olsun, onlar Rəbbindir.</verse>
+        <verse osisID='Lev.27.27'>Əgər murdar heyvanın balası olsa, onu gətirən adam ümumi dəyərinə beşdə birini əlavə edərək geri satın ala bilər. Əgər o geri satın alınmırsa, dəyərinə satılsın. </verse>
+        <verse osisID='Lev.27.28'>Bir nəfərin öz əmlakından istər adam, istər heyvan, istər mülkü olan tarla sahəsi olsun – Rəbb üçün məhv edilməyə həsr etdiyi hər bir şey nə satılsın, nə də geri satın alınsın. Məhv edilməyə həsr olunmuş hər şey Rəbb üçün ən müqəddəsdir.</verse>
+        <verse osisID='Lev.27.29'>Məhv edilməyə həsr olunmuş hər kəs geri satın alınmamalıdır, hamısı öldürülməlidir. </verse>
+        <verse osisID='Lev.27.30'>Torpağın məhsulundan – onun verdiyi taxıldan və ağacların meyvəsindən bütün onda bir hissə Rəbbə məxsusdur və Onun üçün təqdis edilib.</verse>
+        <verse osisID='Lev.27.31'>Əgər bir nəfər öz onda bir hissəsini geri satın almaq istəsə, qoy qiymətinə beşdə birini əlavə edərək ödəsin.</verse>
+        <verse osisID='Lev.27.32'>Bütün mal-qaradan, qoyun-keçidən onda bir hissə, sayla çoban dəyənəyinin altından keçən hər onuncu heyvan Rəbb üçün təqdis edilmiş sayılsın.</verse>
+        <verse osisID='Lev.27.33'>Qoy heyvan sahibi heyvanlara yaxşı yaxud pis fərq qoyub baxmasın; birini o biri ilə dəyişdirməsin. Əgər o belə dəyişdirsə, dəyişdirilən heyvanların ikisi də müqəddəs sayılıb geri satın alınmamalıdır”». </verse>
+        <verse osisID='Lev.27.34'>Bu, Rəbbin Musaya İsrail övladları üçün Sina dağında verdiyi əmrlərdir.  </verse>
+      </chapter>
+    </div></osisText>
+</osis>

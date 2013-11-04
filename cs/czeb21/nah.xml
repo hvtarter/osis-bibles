@@ -1,0 +1,149 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace'>
+  <osisText osisRefWork='Bible' osisIDWork='CzeB21' xml:lang='cs'>
+    <header>
+      <revisionDesc>
+        <date>2010-02-26</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='CzeB21'>
+        <title>Czech Bible, Překlad 21. století</title>
+        <contributor/>
+        <creator>Mod2Zef (4)</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject/>
+        <date>2009-07-31</date>
+        <description>Bible, Překlad 21. století  vedoucí projektu Alexandr Flek  odborná spolupráce Jiří Hedánek, Pavel Hoffman, Zdeněk Sýkora  Přeloženo z hebrejštiny, aramejštiny, řečtiny  Vydání první  (c) 2009 Biblion, o. s.  www.bible21.org  www.bible21.cz   Překlad 21. století přináší nadčasové poselství Bible v současné, čtivé češtině. Usiluje o maximální věrnost původním hebrejským, aramejským a řeckým textům, zároveň však chce oslovit dnešní čtenáře, ať už jsou zvyklí čerpat z této knihy inspiraci pro každý den, anebo ji otevírají poprvé.</description>
+        <publisher/>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>CzeB21</identifier>
+        <source>no entry TextSource in sword.conf found</source>
+        <language type='IETF'>cs</language>
+        <relation/>
+        <coverage>provide the bible to the nations of the world</coverage>
+        <rights>Copyrighted; Permission to distribute granted to CrossWire</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='Nah'>
+      <chapter osisID='Nah.1'>
+        <verse osisID='Nah.1.1'>Otrel nad Ninive. Kniha vidění Nahuma z Elkoše.</verse>
+        <verse osisID='Nah.1.2'>Žárlivý Bůh a mstitel je Hospodin, Hospodin se mstí, a to zuřivě! Hospodin se mstí na protivnících svých, ke svým nepřátelům chová hněv.</verse>
+        <verse osisID='Nah.1.3'>Hospodin je trpělivý, však velmi mocný - neopomíjí trest! Jeho cesta vede bouří a vichřicí, mraky jsou prach od jeho kroků.</verse>
+        <verse osisID='Nah.1.4'>Okřikne moře, a to se vysuší, vysuší i každou řeku. Bášan i Karmel pak uvadají, vadne i kvítí Libanonu.</verse>
+        <verse osisID='Nah.1.5'>Hory se před ním chvějí, rozpadají se pahorky. Před jeho tváří se zmítá země, svět i všichni, kdo bydlí v něm.</verse>
+        <verse osisID='Nah.1.6'>Kdo obstojí před jeho hněvem? Kdo snese žár jeho zuření? Jak plamen šlehá jeho vztek, skály se před ním drolí na kusy!</verse>
+        <verse osisID='Nah.1.7'>Hospodin je dobrý, útočištěm je v den soužení, zná se k těm, kdo v něj doufají.</verse>
+        <verse osisID='Nah.1.8'>S Ninive ale skoncuje v nezadržitelné záplavě; své nepřátele do tmy zažene!</verse>
+        <verse osisID='Nah.1.9'>Co si to o Hospodinu myslíte? On udělá rázný konec, protivník už se nezvedne!</verse>
+        <verse osisID='Nah.1.10'>Budou zapleteni v trní, svým vínem budou zpití, zhltnuti budou jak suché plevy.</verse>
+        <verse osisID='Nah.1.11'>Z tebe, Ninive, vyšel ten, jenž o Hospodinu smýšlí zle a spřádá plány zločinné!</verse>
+        <verse osisID='Nah.1.12'>Tak praví Hospodin: "I když mají klid a jsou tak početní, přece vymizí, až budou skoseni. I když jsem tě, Judo, pokořil, nepokořím tě nikdy víc.</verse>
+        <verse osisID='Nah.1.13'>Jeho jho na tobě teď rozlomím a roztrhnu tvé okovy."</verse>
+        <verse osisID='Nah.1.14'>O tobě, Ninive, pak velí Hospodin: "Tvé jméno neponesou žádní potomci! Z chrámu tvých bohů vyhladím tesané modly i odlitky. Chystám ti hrob. Jsi hanebný!"</verse>
+      </chapter>
+      <chapter osisID='Nah.2'>
+        <verse osisID='Nah.2.1'>Hle, už jsou vidět na horách nohy posla dobrých zpráv - přichází pokoj zvěstovat. Své svátky teď, Judo, svěť a naplň sliby své. Už tě nenapadne ten zločinec - je bezezbytku vyhlazen!</verse>
+        <verse osisID='Nah.2.2'>Už na tebe, Ninive, táhne ničitel. Jen tu svou pevnost střež, na cestu pozor dej, opásej se na bedrech, všechnu svou sílu posbírej!</verse>
+        <verse osisID='Nah.2.3'>Hospodin Jákobovi hrdost navrací, hrdost, jež Izraeli náleží, ačkoli jej plenitelé plenili a jeho ratolesti zlámali.</verse>
+        <verse osisID='Nah.2.4'>Rudé jsou štíty jeho hrdinů, bojovníci v šatu z šarlatu. Vozy se blýskají ocelí v den, kdy jsou k boji hotoví, kdy se les kopí zavlní.</verse>
+        <verse osisID='Nah.2.5'>Vozy se zběsile ženou v ulicích, řítí se přes náměstí, podobají se pochodním, jako blesky se míhají.</verse>
+        <verse osisID='Nah.2.6'>Ninive svolává své chrabré vojáky, ti se však cestou potácí, a když přispěchají na hradby, kolem nich už je obléhací štít.</verse>
+        <verse osisID='Nah.2.7'>Říční stavidla se protrhla! Palác se rozpadá!</verse>
+        <verse osisID='Nah.2.8'>Je rozhodnuto! Město obnaženo, do vyhnanství je odvlečou. Jeho otrokyně jak holubice pláčou, bijí se do prsou.</verse>
+        <verse osisID='Nah.2.9'>Ninive bývalo svěžím jezerem, teď ale všichni utíkají pryč. "Stůjte přece! Zastavte se!" A nikdo se neotočí.</verse>
+        <verse osisID='Nah.2.10'>Berte stříbro, berte zlato! Ta nepřeberná zásoba! Poklady v celých hromadách!</verse>
+        <verse osisID='Nah.2.11'>Zkáza! Zhouba! Záhuba! Odvaha je ta tam, třesou se kolena. Úzkost svírá všechna břicha, bledá je každá tvář!</verse>
+        <verse osisID='Nah.2.12'>Kde je teď to doupě lví? Kde se jejich mladí krmili? Kde to obcházel lev se lvicí a mláďaty, aniž je kdo mohl vyplašit?</verse>
+        <verse osisID='Nah.2.13'>Lev trhal hojnou kořist lvíčatům a pro své lvice rdousil. Pelech měl plný úlovků, v doupěti samou kořist. "Hle, já jsem proti tobě!" praví Hospodin zástupů. "Tvé vozy spálím v oblacích kouře, tvá lvíčata spolkne meč. Vezmu ti kořist z celé země, hlas tvých poslů už se neozve!"</verse>
+      </chapter>
+      <chapter osisID='Nah.3'>
+        <verse osisID='Nah.3.1'>Běda tomu městu vraždění! Je plné lží a loupeží a nepřestává plenit.</verse>
+        <verse osisID='Nah.3.2'>Už sviští bič! Kola rachotí! Koně se dali v trysk! Vozy lomozí!</verse>
+        <verse osisID='Nah.3.3'>Jízda útočí! Mečů blýskání! Kopí třpyt! Kolik jen padlých, mrtvol hromady! Všude bezpočtu mrtvých, až přes ně lidé padají!</verse>
+        <verse osisID='Nah.3.4'>To vše proto, že tolik smilnila ta smilnice tak vábivá, mistryně kouzel, která kupčila s národy skrze smilstva svá a s pokoleními skrze svá kouzla.</verse>
+        <verse osisID='Nah.3.5'>"Hle, já jsem proti tobě!" praví Hospodin zástupů. "Vyhrnu ti sukni nad hlavu; ukážu národům tvou nahotu a královstvím tvou ostudu.</verse>
+        <verse osisID='Nah.3.6'>Nakydám na tebe ohavnosti a veřejně tě potupím, vystavím tě na odiv!</verse>
+        <verse osisID='Nah.3.7'>Kdo tě uvidí, uteče od tebe a řekne: ‚Zničeno je Ninive; copak ho někdo lituje?' Kde bych ti tedy našel nějaké těšitele?"</verse>
+        <verse osisID='Nah.3.8'>Copak jsi lepší, než byly Théby mezi nilskými rameny, obklopené vodami? Řeka jim byla opevněním a vodu měly za hradby.</verse>
+        <verse osisID='Nah.3.9'>Mocný Habeš, Egypt bez hranic, Put i Libye mezi jejich spojenci.</verse>
+        <verse osisID='Nah.3.10'>I Thébané však byli vyhnáni, museli jít do zajetí. Jejich děti byly rozráženy na každém nároží. O jejich přední muže losovali, všichni jejich velmoži dostali řetězy.</verse>
+        <verse osisID='Nah.3.11'>Tak i ty budeš jako opilec, úplně bez sebe. I ty se budeš potácet a hledat skrýš před nepřítelem.</verse>
+        <verse osisID='Nah.3.12'>Všechny tvé pevnosti jsou jako fíkoví - stačí se do nich opřít, a zralé fíky padají do úst tomu, kdo je sní!</verse>
+        <verse osisID='Nah.3.13'>Jen se podívej na své vojáky - jsou jako ženy! Brány tvé země jsou nepřátelům otevřeny, oheň pohltil tvé závory.</verse>
+        <verse osisID='Nah.3.14'>Čerpej si vodu pro čas obležení, své pevnosti si opevni! Šlapej hlínu, mačkej jíl, chop se formy na cihly!</verse>
+        <verse osisID='Nah.3.15'>Stejně tě tam ale zhltnou plameny a meč tě vyhladí; zhltne tě jako kobylky! Zkus se rozmnožit jako kobylky, rozmnož se jako žravý hmyz!</verse>
+        <verse osisID='Nah.3.16'>I kdyby tvých kupců bylo sebevíc, ještě víc než hvězd na nebi, jak kobylky se vylíhnou a uletí.</verse>
+        <verse osisID='Nah.3.17'>Tví dvořané jsou jak žravý hmyz, tví úředníci se hemží v rojích. V chladný den usedají na zídky, pak ale vyjde slunce a zas uletí a nikdo neví, kam se poděli.</verse>
+        <verse osisID='Nah.3.18'>Asyrský králi, tví pastýři usnuli, tví hodnostáři ulehli! Po horách rozptýlen je tvůj lid a není, kdo by je shromáždil.</verse>
+        <verse osisID='Nah.3.19'>Není léku na tvé zranění, tvá rána už se nezhojí. Všichni, kdo o tobě uslyší, zatleskají samou radostí. Vždyť koho se nedotklo tvé ustavičné zlo?</verse>
+      </chapter>
+    </div></osisText>
+</osis>

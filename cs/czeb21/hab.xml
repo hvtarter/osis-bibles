@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace'>
+  <osisText osisRefWork='Bible' osisIDWork='CzeB21' xml:lang='cs'>
+    <header>
+      <revisionDesc>
+        <date>2010-02-26</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='CzeB21'>
+        <title>Czech Bible, Překlad 21. století</title>
+        <contributor/>
+        <creator>Mod2Zef (4)</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject/>
+        <date>2009-07-31</date>
+        <description>Bible, Překlad 21. století  vedoucí projektu Alexandr Flek  odborná spolupráce Jiří Hedánek, Pavel Hoffman, Zdeněk Sýkora  Přeloženo z hebrejštiny, aramejštiny, řečtiny  Vydání první  (c) 2009 Biblion, o. s.  www.bible21.org  www.bible21.cz   Překlad 21. století přináší nadčasové poselství Bible v současné, čtivé češtině. Usiluje o maximální věrnost původním hebrejským, aramejským a řeckým textům, zároveň však chce oslovit dnešní čtenáře, ať už jsou zvyklí čerpat z této knihy inspiraci pro každý den, anebo ji otevírají poprvé.</description>
+        <publisher/>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>CzeB21</identifier>
+        <source>no entry TextSource in sword.conf found</source>
+        <language type='IETF'>cs</language>
+        <relation/>
+        <coverage>provide the bible to the nations of the world</coverage>
+        <rights>Copyrighted; Permission to distribute granted to CrossWire</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='Hab'>
+      <chapter osisID='Hab.1'>
+        <verse osisID='Hab.1.1'>Ortel, který ve vidění přijal prorok Abakuk.</verse>
+        <verse osisID='Hab.1.2'>Jak dlouho mám, Hospodine, volat, a ty neslyšíš? Křičím k tobě: "Násilí!" a ty nezachráníš?</verse>
+        <verse osisID='Hab.1.3'>Proč mě necháváš vidět neštěstí? Proč bezpráví jen přihlížíš? Přede mnou jen zkáza a násilí, rostou hádky a rozpory.</verse>
+        <verse osisID='Hab.1.4'>Zákon se zdá být bezmocný a právo nelze prosadit. Spravedlivý obklíčen je ničemy, a tak se právo převrací.</verse>
+        <verse osisID='Hab.1.5'>"Jen se rozhlédněte po národech, užasněte a divte se! Já konám dílo ve vašich dnech, o kterém neuvěříte, i kdyby vám to někdo vyprávěl.</verse>
+        <verse osisID='Hab.1.6'>Hle - probouzím Babyloňany, národ krutý a prchlivý, který se rozejde širou zemí, aby obsadil území, jež jim nepatří.</verse>
+        <verse osisID='Hab.1.7'>Jsou strašliví a úděsní, právo a čest sami si určují.</verse>
+        <verse osisID='Hab.1.8'>Jejich koně jsou rychlejší než leopard, divočejší než vlci zvečera. Jejich jízda uhání střemhlav, jejich jezdci se ženou zdaleka, letí jak orel, jako když kořist napadá.</verse>
+        <verse osisID='Hab.1.9'>Každý přichází páchat násilí, kupředu míří každý z nich, zajatců jak písku sbírají.</verse>
+        <verse osisID='Hab.1.10'>Králům se jen vysmívají, k smíchu jsou jim vladaři. Každé pevnosti se smějí, navrší násep a dobudou ji.</verse>
+        <verse osisID='Hab.1.11'>Pak ale jako vítr přeletí a budou pryč - kdo má svou sílu za boha, se provinil!"</verse>
+        <verse osisID='Hab.1.12'>Copak tu nejsi, Hospodine, od věků? Ty neumíráš, svatý Bože můj. Ty jsi jim, Hospodine, svěřil soud, poslal jsi je, Skálo má, zjednat nápravu.</verse>
+        <verse osisID='Hab.1.13'>Ty máš však čisté oči, nemůžeš přihlížet trápení a dívat se na neštěstí. Proč tedy snášíš proradníky? Proč mlčíš, když darebák požírá spravedlivějšího, než je sám?</verse>
+        <verse osisID='Hab.1.14'>Učinil jsi lidi jak ryby v moři, jak drobnou havěť bez vůdce?</verse>
+        <verse osisID='Hab.1.15'>Nepřátelé ale všechny loví udicí, tahají čeřenem, chytají do sítí. Proto se radují a jásají,</verse>
+        <verse osisID='Hab.1.16'>proto své síti obětují a svému čeřeni pálí oběti. Vždyť si díky nim užívají do sytosti ty nejvydatnější pokrmy.</verse>
+        <verse osisID='Hab.1.17'>To budou pořád vyprazdňovat svou síť a bez lítosti vraždit národy?</verse>
+      </chapter>
+      <chapter osisID='Hab.2'>
+        <verse osisID='Hab.2.1'>Budu držet svoji stráž, na baště budu stát a sledovat, abych poznal, jak ke mně promluví a jak odpoví na mé výčitky.</verse>
+        <verse osisID='Hab.2.2'>A Hospodin mi odpověděl: "Zapiš to vidění zřetelně na tabulky, aby je čtenář mohl snadno číst.</verse>
+        <verse osisID='Hab.2.3'>To vidění ukazuje k době určené, svědčí o konci a neklame. Vyčkávej na něj, bude-li otálet; přijde totiž jistě a neopozdí se.</verse>
+        <verse osisID='Hab.2.4'>Hle - kdo je nadutý, nemá poctivou duši. Spravedlivý však bude žít díky své věrnosti.</verse>
+        <verse osisID='Hab.2.5'>Zrádné je totiž bohatství; nadutec nemá chvíli klid. Otevírá chřtán jako záhrobí, jako smrt nemůže se nasytit, i kdyby uchvátil všechny národy a všechny lidi si přivlastnil."</verse>
+        <verse osisID='Hab.2.6'>Copak o něm ti všichni nesloží posměšná přísloví a popěvky? Zanotují si: Běda tomu, kdo hromadí, co mu nepatří! Jak dlouho bude bohatnout tím, co zabavil?</verse>
+        <verse osisID='Hab.2.7'>Znenadání povstanou tvoji dlužníci, ti, kdo se před tebou chvějí, se probudí a staneš se jejich kořistí!</verse>
+        <verse osisID='Hab.2.8'>Protože jsi plenil mnohé národy, ti, kdo zůstanou, zas tebe vyplení - za to, že jsi vraždil lidi a znásilňoval zemi i město se všemi obyvateli.</verse>
+        <verse osisID='Hab.2.9'>Běda tomu, kdo chtivě shání pro svůj dům mrzký zisk, aby si na výšině hnízdo postavil, unikl z dosahu všech neštěstí!</verse>
+        <verse osisID='Hab.2.10'>Vlastnímu domu jsi hanbu připravil, když jsi kosil mnohé národy - vlastním životem za to zaplatíš.</verse>
+        <verse osisID='Hab.2.11'>Vždyť bude křičet i kamení ze zdi a trámy ze střechy se přidají.</verse>
+        <verse osisID='Hab.2.12'>Běda tomu, kdo staví město na krvi, kdo zakládá obec příkořím!</verse>
+        <verse osisID='Hab.2.13'>Copak Hospodin zástupů neurčil, že dřina národů přijde do ohně, že se namáhají zbytečně?</verse>
+        <verse osisID='Hab.2.14'>Celou zemi totiž naplní poznání slávy Hospodinovy, tak jako vody naplňují moře.</verse>
+        <verse osisID='Hab.2.15'>Běda tomu, kdo dává pít svému bližnímu, kdo jej opíjí z číše svého hněvu, aby se díval na jeho nahotu!</verse>
+        <verse osisID='Hab.2.16'>Ne slávou, ale hanbou budeš opilý. Teď pij ty; ukaž, jak jsi neobřezaný! Blíží se k tobě kalich z pravice Hospodinovy; ne slávou, ale zvratky budeš pokrytý.</verse>
+        <verse osisID='Hab.2.17'>Tvé násilí na Libanonu tě zavalí, tvé vybíjení zvířat tě bude děsit - za to, že jsi vraždil lidi a znásilňoval zemi i město se všemi obyvateli.</verse>
+        <verse osisID='Hab.2.18'>Na co je modla, kterou někdo vytesal, odlitá socha, jež vyučuje klam? Ve vlastní dílo věří, kdo ji vytvořil, dělá si bůžky, kteří mluvit neumí.</verse>
+        <verse osisID='Hab.2.19'>Běda tomu, kdo říká dřevu: "Vstávej!" kdo prosí němý kámen: "Probuď se!" Může ta věc být jeho učitel? Hle, je to obloženo zlatem a stříbrem, ducha v tom ale nenajdeš.</verse>
+        <verse osisID='Hab.2.20'>Hospodin je ale ve svém svatém chrámě - ať před ním zmlkne celá zem!</verse>
+      </chapter>
+      <chapter osisID='Hab.3'>
+        <verse osisID='Hab.3.1'>Modlitba proroka Abakuka. Na nápěv písně nářků.</verse>
+        <verse osisID='Hab.3.2'>Slyšel jsem, Hospodine, tvoji zvěst, před tvým dílem stojím s úžasem. Oživ je, Hospodine, znovu po letech, po všech těch letech je znovu zjev, na slitování se v té vřavě rozpomeň!</verse>
+        <verse osisID='Hab.3.3'>Z Temanu přichází Bůh, Svatý přichází z hory Paranu. séla Jeho sláva halí nebesa, země je plná jeho chval.</verse>
+        <verse osisID='Hab.3.4'>Jeho jas je jako svítání, z jeho ruky září paprsky - tam je zdroj jeho sil.</verse>
+        <verse osisID='Hab.3.5'>Před jeho tváří jde Rána morová, v patách mu kráčí Nákaza!</verse>
+        <verse osisID='Hab.3.6'>Zastavil se a měří zem; národy se chvějí pod jeho pohledem. Odvěká pohoří se drolí na kusy, věčná návrší se sklánějí - jemu patří stezky věčnosti!</verse>
+        <verse osisID='Hab.3.7'>Kúšanské stany vidím v bolestech, plachty Midiánu třesou se.</verse>
+        <verse osisID='Hab.3.8'>To se, Hospodine, zlobíš na řeky? To míří na řeky tvé zuření? To ses tak proti moři rozlítil, že jsi na svých ořích vyrazil a na svých vozech vítězných?</verse>
+        <verse osisID='Hab.3.9'>Třímáš svůj obnažený luk, tvé oštěpy složily bojovou přísahu. séla Rozdělil jsi zemi řekami,</verse>
+        <verse osisID='Hab.3.10'>hory tě zahlédly a už se svíjejí. Už se valí vodní přívaly, z hlubiny je slyšet hučení, do výšky se vlny vzdouvají.</verse>
+        <verse osisID='Hab.3.11'>Slunce i měsíc zůstaly ve svém obydlí, před září tvých šípů utekly, před blýskáním tvého kopí.</verse>
+        <verse osisID='Hab.3.12'>Ve svém rozhořčení kráčíš zemí, ve svém hněvu šlapeš národy.</verse>
+        <verse osisID='Hab.3.13'>Vyšel jsi zachránit svůj lid, svého pomazaného zachránit. Vůdce zlého domu jsi rozdrtil, obnažil jsi jej od hlavy až po paty. séla</verse>
+        <verse osisID='Hab.3.14'>Prorazil jsi mu hlavu jeho oštěpy, když se nás jeho nájezdníci hnali rozprášit, když už se těšili, jak pohltí ubožáky ve skrýších.</verse>
+        <verse osisID='Hab.3.15'>Se svými oři cváláš po moři, až se mocné vody vzdouvaly.</verse>
+        <verse osisID='Hab.3.16'>Jak jsem to uslyšel, celý se chvěji, od toho zvuku se mi třesou rty. Jako by mi kostižer vlezl do kostí a nohy pode mnou poklesly. Budu však čekat na den soužení, jež stihne lid, který na nás útočí.</verse>
+        <verse osisID='Hab.3.17'>I kdyby nerozkvetl fíkovník a hrozny na vinicích nebyly, i kdyby zklamala plodnost olivy a pole nedala co jíst, i kdyby zmizely ovce z ohrady a dobytek zmizel ze stájí,</verse>
+        <verse osisID='Hab.3.18'>já se však v Hospodinu budu veselit, budu šťastný v Bohu, svém Zachránci.</verse>
+        <verse osisID='Hab.3.19'>Mou silou je můj Pán, Hospodin, on dává mým nohám hbitost laní, vodí mě na mé výšiny. Pro předního zpěváka, na strunné nástroje.</verse>
+      </chapter>
+    </div></osisText>
+</osis>

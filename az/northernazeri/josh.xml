@@ -1,0 +1,824 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace'>
+  <osisText osisIDWork='NorthernAzeri' osisRefWork='Bible' xml:lang='az'>
+    <header>
+      <revisionDesc>
+        <date>2012-01-07</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='NorthernAzeri'>
+        <title>Northern Azeri Translation</title>
+        <contributor/>
+        <creator>Mod2Zef (6)</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject/>
+        <date>2012-01-07</date>
+        <description>Northern Azeri Translation</description>
+        <publisher/>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>NorthernAzeri</identifier>
+        <source>no entry TextSource in sword.conf found</source>
+        <language type='IETF'>az</language>
+        <relation/>
+        <coverage>provide the bible to the nations of the world</coverage>
+        <rights>Copyrighted Kutsul Kitab; Permission to distribute granted to CrossWire</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='Josh'>
+      <chapter osisID='Josh.1'>
+        <verse osisID='Josh.1.1'>
+          Rəbbin qulu Musanın ölümündən sonra Rəbb Musanın köməkçisi Nun oğlu Yeşuaya belə dedi:</verse>
+        <verse osisID='Josh.1.2'>«Qulum Musa öldü. İndi qalx, sən və bütün bu xalq İordan çayını keçib İsrail övladlarına verəcəyim torpağa gedin.</verse>
+        <verse osisID='Josh.1.3'>Musaya dediyim kimi qədəm qoyacağınız hər yeri sizə vermişəm.</verse>
+        <verse osisID='Josh.1.4'>Bu səhra ilə Livandan böyük çaya – Fərat çayına qədər, Xetlilərin bütün ölkəsi və günbatan tərəfdən isə Böyük dənizə qədər yer sizin torpaqlarınız olacaq.</verse>
+        <verse osisID='Josh.1.5'>Bütün ömrün boyu heç kəs sənə qarşı çıxa bilməyəcək. Musa ilə olduğum kimi səninlə də olacağam, səni atmayacağam və tərk etməyəcəyəm.</verse>
+        <verse osisID='Josh.1.6'>Möhkəm və cəsarətli ol, çünki atalarına vermək üçün and içdiyim bu torpağı bu xalqa irs olaraq sən verəcəksən.</verse>
+        <verse osisID='Josh.1.7'>Qulum Musanın sənə tapşırdığı Qanuna tam və dəqiq əməl etmək üçün cəsarətli və çox möhkəm ol. Ondan nə sağa, nə də sola dön ki, hara getsən, uğur qazanasan.</verse>
+        <verse osisID='Josh.1.8'>Bu Qanun kitabının sözləri dilindən düşməsin, orada yazılan hər şeyə dəqiq əməl etmək üçün gecə-gündüz onun üzərində düşün. Onda yolun uğurlu olacaq və müvəffəqiyyət qazanacaqsan.</verse>
+        <verse osisID='Josh.1.9'>Sənə möhkəm və cəsarətli olmağı əmr edən Mən deyiləmmi? Qorxma və ruhdan düşmə, çünki Allahın Rəbb gedəcəyin hər yerdə səninlədir». </verse>
+        <verse osisID='Josh.1.10'>Yeşua xalqın məmurlarına əmr edib dedi:</verse>
+        <verse osisID='Josh.1.11'>«Ordugahı gəzin və xalqa əmr edib deyin: “Özünüzə azuqə hazırlayın, çünki üç gün ərzində İordan çayını keçib Allahınız Rəbbin sizə mülk olaraq verdiyi torpağa girərək oraya sahib olacaqsınız”». </verse>
+        <verse osisID='Josh.1.12'>Yeşua Ruvenlilərə, Qadlılara, Menaşşe qəbiləsinin yarısına belə dedi:</verse>
+        <verse osisID='Josh.1.13'>«Yadınıza salın ki, Rəbbin qulu Musa sizə belə vəsiyyət etmişdi: “Allahınız Rəbb rahatlığınız üçün bu torpağı sizə verdi”.</verse>
+        <verse osisID='Josh.1.14'>Arvadlarınız, uşaqlarınız, sürüləriniz İordan çayının bu tayında Musanın sizə verdiyi torpaqda qalsın. Ancaq siz – bütün igid adamlar silahlanıb qardaşlarınızın qabağında o taya keçin.</verse>
+        <verse osisID='Josh.1.15'>Rəbb sizə rahatlıq verdiyi kimi soydaşlarınıza da rahatlıq verənə qədər və Allahınız Rəbbin verdiyi torpağa sahib olana qədər onlara kömək edin. Sonra siz Rəbbin qulu Musanın İordan çayının şərqində sizə mülk olaraq verdiyi torpağa qayıdıb oraya sahib ola bilərsiniz». </verse>
+        <verse osisID='Josh.1.16'>Onlar da Yeşuaya cavab verib dedilər: «Bizə nə buyursan, edəcəyik və hara göndərsən, gedəcəyik.</verse>
+        <verse osisID='Josh.1.17'>Hər işdə Musaya necə qulaq asırdıqsa, sənə də elə qulaq asacağıq. Qoy Allahın Rəbb Musa ilə olduğu kimi səninlə də olsun.</verse>
+        <verse osisID='Josh.1.18'>Sənin əmrlərinə qarşı çıxan, buyurduğun hər sözə qulaq asmayan hər kəs öldürüləcək. Yalnız sən möhkəm və cəsarətli ol».  </verse>
+      </chapter>
+      <chapter osisID='Josh.2'>
+        <verse osisID='Josh.2.1'>
+            Nun oğlu Yeşua Şittimdən iki kişini casusluq etməyə gizli göndərib dedi: «Gedin oranın torpağını və Yerixonu gözdən keçirin». Onlar getdilər və Raxav adlı bir fahişənin evinə girib orada qaldılar.</verse>
+        <verse osisID='Josh.2.2'>Yerixo padşahına «budur, bu gecə torpağımızı gözdən keçirmək üçün İsrail övladlarından buraya adamlar gəldi» deyə bildirildi.</verse>
+        <verse osisID='Josh.2.3'>Yerixo padşahı Raxava xəbər göndərib dedi: «Sənin yanına gəlib evinə girən adamları çıxart, çünki onlar torpağımızın hər tərəfini gözdən keçirməyə gəliblər».</verse>
+        <verse osisID='Josh.2.4'>Raxav isə o iki kişini gizlətmişdi. O dedi: «Doğrusu, yanıma adamlar gəlmişdi, amma haradan olduqlarını bilmirdim.</verse>
+        <verse osisID='Josh.2.5'>Qaranlıq düşəndə, darvaza bağlananda o adamlar çıxdılar. Bilmirəm hara getdilər. Tez dallarınca qaçın ki, onları tuta biləsiniz».</verse>
+        <verse osisID='Josh.2.6'>Lakin qadın onları dama çıxarıb damda sərdiyi kətan liflərin arasında gizlətmişdi.</verse>
+        <verse osisID='Josh.2.7'>Padşahın göndərdiyi adamlar casusları təqib etmək üçün İordan çayının keçidinə qədər yol boyu qaçdılar. Təqibçilər bayıra çıxan kimi darvazalar bağlandı. </verse>
+        <verse osisID='Josh.2.8'>Casuslar yatmazdan əvvəl qadın dama – onların yanına çıxdı.</verse>
+        <verse osisID='Josh.2.9'>O bu adamlara dedi: «Mən bilirəm ki, Rəbb bu torpağı sizə verib. Siz bizi dəhşətə saldınız və bu torpağın bütün sakinləri sizin qarşınızda əsir.</verse>
+        <verse osisID='Josh.2.10'>Çünki Misirdən çıxdığınız zaman Rəbb Qırmızı dənizin sularını qarşınızda necə qurutduğunu və İordan çayının o tayında məhv etdiyiniz iki Emor padşahı Sixonla Oqa nə etdiyinizi eşitmişik.</verse>
+        <verse osisID='Josh.2.11'>Biz bunları eşidəndə ürəyimiz qorxuya düşdü və vahimənizdən heç kimin taqəti qalmadı; çünki Allahınız Rəbb yuxarıda göyün və aşağıda yerin Allahıdır.</verse>
+        <verse osisID='Josh.2.12'>İndi rica edirəm, Rəbbə and için ki, sizə xeyirxahlıq etdiyim üçün siz də mənə və atamın külfətinə xeyirxahlıq edəcəksiniz. Mənə etibarlı bir nişanə verin ki,</verse>
+        <verse osisID='Josh.2.13'>atamı, anamı, qardaşlarımı, bacılarımı, onların yanında olan hər kəsi sağ qoyacaqsınız və canımızı ölümdən qurtaracaqsınız».</verse>
+        <verse osisID='Josh.2.14'>Adamlar isə ona dedilər: «Əgər bu işimizin üstünü açmasanız, canımızı belə, sizə fəda edərik. Rəbb bu torpağı bizə verən vaxt sənə xeyirxahlıq və sədaqət göstərərik». </verse>
+        <verse osisID='Josh.2.15'>O vaxt qadın onları kəndirlə pəncərədən aşağı endirdi, çünki onun evi şəhərin qala divarında idi və o, divarın içində yaşayırdı.</verse>
+        <verse osisID='Josh.2.16'>Qadın onlara dedi: «Dağa gedin ki, təqibçilər sizə çatmasınlar, onlar qayıdana qədər üç gün orada gizlənin, sonra yolunuza davam edərsiniz».</verse>
+        <verse osisID='Josh.2.17'>Bu adamlar da ona dedilər: «Sənin bizə içdirdiyin bu anddan bu yolla günahsız olacağıq.</verse>
+        <verse osisID='Josh.2.18'>Bu torpağa gəldiyimiz vaxt bizi düşürdüyün pəncərəyə bu al rəngli ipi bağlayarsan. Atanı, ananı, qardaşlarını və atanın bütün qohumlarını yanına – öz evinə toplayarsan.</verse>
+        <verse osisID='Josh.2.19'>Əgər sənin evinin qapısından kim bayıra çıxarsa, qanı öz başına dönəcək və biz buna günahkar olmayacağıq. Əgər səninlə birgə evində olan bir kimsəyə toxunularsa, qoy onun qanı bizim başımıza dönsün.</verse>
+        <verse osisID='Josh.2.20'>Ancaq bu işimizin üstünü açmaq istəsən, onda sənin bizə içdirdiyin anddan təqsirimiz olmaz».</verse>
+        <verse osisID='Josh.2.21'>Raxav dedi: «Necə deyirsiniz, elə də olsun». Sonra onları yola saldı və onlar getdilər. Raxav al rəngli ipi pəncərəyə bağladı. </verse>
+        <verse osisID='Josh.2.22'>Bu iki adam getdi. Dağa çatıb təqibçilər qayıdana qədər üç gün orada qaldılar. Təqibçilər bütün yol boyu onları axtardılar, ancaq tapmadılar.</verse>
+        <verse osisID='Josh.2.23'>O iki kişi isə geri dönüb dağdan endi, çayı keçərək Nun oğlu Yeşuanın yanına gəldi və başlarına gələn hər şeyi ona nəql etdi.</verse>
+        <verse osisID='Josh.2.24'>Onlar Yeşuaya dedilər: «Həqiqətən, Rəbb bütün o torpağı bizə təslim edib, o torpağın bütün sakinləri də qarşımızda qorxu içində əsir».  </verse>
+      </chapter>
+      <chapter osisID='Josh.3'>
+        <verse osisID='Josh.3.1'>
+          Yeşua səhər erkən qalxdı. Onunla birgə bütün İsrail övladları Şittimdən irəliləyərək İordan çayına qədər gəldilər. Onlar çayı keçməzdən əvvəl orada qaldılar.</verse>
+        <verse osisID='Josh.3.2'>Üçüncü günün sonunda məmurlar ordugahı gəzdilər.</verse>
+        <verse osisID='Josh.3.3'>Xalqa əmr edib dedilər: «Allahınız Rəbbin Əhd sandığını Levililərdən olan kahinlərin daşıdığını görəndə siz də yerinizdən irəliləyərək onun ardınca gedin.</verse>
+        <verse osisID='Josh.3.4'>Ancaq sizinlə onun arasında iki min qulaca qədər məsafə olmalıdır. Ona yaxınlaşmayın ki, hansı yolla gedəcəyinizi biləsiniz, çünki siz əvvəllər heç vaxt bu yoldan keçməmisiniz».</verse>
+        <verse osisID='Josh.3.5'>Yeşua xalqa dedi: «Özünüzü təqdis edin, çünki sabah Rəbb aranızda möcüzələr göstərəcək».</verse>
+        <verse osisID='Josh.3.6'>Kahinlərə isə Yeşua belə dedi: «Əhd sandığını götürün və xalqın önündə gedin». Onlar da Əhd sandığını götürüb xalqın önündə getdilər. </verse>
+        <verse osisID='Josh.3.7'>Rəbb Yeşuaya dedi: «Bu gün Mən səni bütün İsraillilərin gözündə ucaltmağa başlayacağam ki, onlar Musa ilə olduğum kimi səninlə də olduğumu bilsinlər. </verse>
+        <verse osisID='Josh.3.8'>Sən isə Əhd sandığını daşıyan kahinlərə əmr edib deyəcəksən: “Siz İordan çayının kənarına çatanda İordan çayına girib dayanın”». </verse>
+        <verse osisID='Josh.3.9'>Yeşua İsrail övladlarına dedi: «Buraya yaxınlaşın və Allahınız Rəbbin sözlərini eşidin».</verse>
+        <verse osisID='Josh.3.10'>Yeşua dedi: «Var olan Allahın aranızda olmasını buradan biləcəksiniz ki, O sizin önünüzdən hökmən Kənanlıları, Xetliləri, Xivliləri, Perizliləri, Qirqaşlıları, Emorluları və Yevusluları qovacaq.</verse>
+        <verse osisID='Josh.3.11'>Budur, bütün yer üzünün Sahibinin Əhd sandığı sizin önünüzdən keçib İordan çayına girəcək.</verse>
+        <verse osisID='Josh.3.12'>İndi isə özünüzə hər qəbilədən bir adam olmaqla İsrail qəbilələrindən on iki adam götürün.</verse>
+        <verse osisID='Josh.3.13'>Bütün yer üzünün Sahibi Rəbbin sandığını daşıyan kahinlərin ayaqları İordan çayının sularına dəyən kimi çayın suları kəsiləcək, yuxarıdan axan sular yığın halında dayanacaq». </verse>
+        <verse osisID='Josh.3.14'>Xalq çadırlarından çıxıb İordan çayını keçmək üçün irəliləyirdi və Əhd sandığını daşıyan kahinlər xalqın önündə gedirdilər.</verse>
+        <verse osisID='Josh.3.15'>Biçin ərzində İordan çayının suları daşıb sahilləri basırdı. Sandığı daşıyan kahinlər İordana girəndə və onların ayaqları çayın sularına dəyəndə</verse>
+        <verse osisID='Josh.3.16'>yuxarıdan axan sular çox uzaqda Sartan yanında olan Adam şəhərində yığın halında dayanıb qalxdı. Arava dənizinə, yəni Duz dənizinə axan sular tamamilə kəsildi. Xalq çayı Yerixonun qarşısından keçdi.</verse>
+        <verse osisID='Josh.3.17'>Rəbbin Əhd sandığını daşıyan kahinlər isə İordan çayının ortasında quru yerdə möhkəm durmuşdular. Bütün İsraillilər İordan çayını tamamilə keçənə qədər quru yerdə gedirdilər.  </verse>
+      </chapter>
+      <chapter osisID='Josh.4'>
+        <verse osisID='Josh.4.1'>
+          Bütün millət tamamilə İordan çayını keçəndən sonra Rəbb Yeşuaya dedi:</verse>
+        <verse osisID='Josh.4.2'>«Hər qəbilədən bir adam olmaqla özünüzə xalqdan on iki adam götürün.</verse>
+        <verse osisID='Josh.4.3'>Onlara əmr et ki, buradan, İordan çayının ortasından, kahinlərin ayaqlarının möhkəm durduğu yerdən on iki daş götürsünlər. Bu daşları aparıb bu gecə qaldığınız yerdə qoyun». </verse>
+        <verse osisID='Josh.4.4'>Yeşua hər qəbilədən bir adam olmaqla İsrail övladlarının arasından seçdiyi on iki adamı çağırdı.</verse>
+        <verse osisID='Josh.4.5'>Yeşua onlara dedi: «Allahınız Rəbbin sandığı önündən İordan çayının ortasına keçib İsrail qəbilələrinin sayına görə hərəniz çiyninizə bir daş götürün.</verse>
+        <verse osisID='Josh.4.6'>Qoy bu sizin aranızda bir əlamət olsun. Sizdən sonra övladlarınız “Bu daşlar nədir?” deyərək soruşanda</verse>
+        <verse osisID='Josh.4.7'>onlara belə deyərsiniz: “İordan çayının suları Rəbbin Əhd sandığının önündə kəsildi. Əhd sandığını İordan çayından keçirəndə İordan çayının suları kəsilmişdi”. Bu daşlar İsrail övladlarına əbədi bir xatirə olacaq». </verse>
+        <verse osisID='Josh.4.8'>İsraillilər Yeşuanın əmr etdiyi kimi etdilər və Rəbbin Yeşuaya dediyi kimi İsrail qəbilələrinin sayına görə İordan çayının ortasından on iki daş götürdülər, özləri ilə gecə qalacaqları yerə aparıb onları orada yerə qoydular.</verse>
+        <verse osisID='Josh.4.9'>Sonra Yeşua İordan çayının ortasında Əhd sandığını daşıyan kahinlərin ayaqlarının möhkəm durduğu yerə on iki daş qoydu. Onlar bu günə qədər oradadır. </verse>
+        <verse osisID='Josh.4.10'>Musanın Yeşuaya dediyi kimi xalqa demək üçün Rəbbin Yeşuaya əmr etdiyi şeylər qurtarana qədər sandığı daşıyan kahinlər İordan çayının ortasında dayandılar, xalq isə tələsərək çayı keçdi.</verse>
+        <verse osisID='Josh.4.11'>Xalq çayı keçib qurtarandan sonra Rəbbin sandığı və kahinlər xalqın önünə keçdilər.</verse>
+        <verse osisID='Josh.4.12'>Ruvenlilər, Qadlılar və Menaşşe qəbiləsinin yarısı Musanın onlara dediyi kimi silahlanaraq İsrail övladlarının önündə çayı keçdi.</verse>
+        <verse osisID='Josh.4.13'>Döyüş üçün silahlanmış qırx minə yaxın adam Rəbbin önündə Yerixo düzənliklərinə keçdi. </verse>
+        <verse osisID='Josh.4.14'>O gün Rəbb Yeşuanı bütün İsrail xalqının gözündə ucaltdı. Onlar da Musadan çəkindiyi kimi Yeşuadan da onun ömrü boyu çəkindilər. </verse>
+        <verse osisID='Josh.4.15'>Rəbb Yeşuaya söyləyib dedi:</verse>
+        <verse osisID='Josh.4.16'>«Şəhadət sandığını daşıyan kahinlərə əmr et ki, İordan çayından çıxsınlar».</verse>
+        <verse osisID='Josh.4.17'>Yeşua da kahinlərə «İordan çayından çıxın!» deyə əmr etdi.</verse>
+        <verse osisID='Josh.4.18'>Rəbbin Əhd sandığını daşıyan kahinlər İordan çayının ortasından çıxanda kahinlərin ayaqları quru torpağa dəyən kimi İordan çayının suları öz yerinə qayıtdı. Yenə əvvəlki kimi bütün sular daşıb sahilləri basdı. </verse>
+        <verse osisID='Josh.4.19'>Birinci ayın onuncu günündə xalq İordan çayından çıxıb Yerixonun şərq sərhədində olan Qilqalda ordugah qurdu.</verse>
+        <verse osisID='Josh.4.20'>Yeşua İordan çayından götürülmüş həmin on iki daşı Qilqalda qoydu.</verse>
+        <verse osisID='Josh.4.21'>O, İsrail övladlarına dedi: «Sonra övladlarınız atalarından “Bu daşlar nəyə görədir?” deyib soruşanda</verse>
+        <verse osisID='Josh.4.22'>övladlarınıza bəyan edin: “İsraillilər İordan çayını quru yer üzərində keçib”.</verse>
+        <verse osisID='Josh.4.23'>Çünki Allahınız Rəbb biz keçənə qədər qarşımızda qurutduğu Qırmızı dəniz kimi İordan çayının sularını da siz keçənə qədər qarşımızda qurutdu ki,</verse>
+        <verse osisID='Josh.4.24'>yer üzünün bütün xalqları Rəbbin əlinin qüdrətli olduğunu bilsin və siz də bütün ömrünüz boyu Rəbdən qorxasınız».  </verse>
+      </chapter>
+      <chapter osisID='Josh.5'>
+        <verse osisID='Josh.5.1'/>
+        <verse osisID='Josh.5.2'>O zaman Rəbb Yeşuaya dedi: «Özün üçün çaxmaq daşından bıçaqlar düzəlt və İsrail övladlarını ikinci dəfə sən sünnət et».</verse>
+        <verse osisID='Josh.5.3'>Yeşua özü üçün çaxmaq daşından bıçaqlar düzəldib Giveat-Haaralotda İsrail övladlarını sünnət etdi.</verse>
+        <verse osisID='Josh.5.4'>Yeşuanın sünnət etməsinin səbəbi budur: bütün döyüş qabiliyyəti olan kişilər Misirdən çıxandan sonra səhrada – yolda öldülər.</verse>
+        <verse osisID='Josh.5.5'>Oradan çıxan xalqın hamısı sünnətli idi, ancaq Misirdən çıxandan sonra səhrada – yolda doğulanların heç biri sünnət olunmamışdı.</verse>
+        <verse osisID='Josh.5.6'>Misirdən çıxan döyüş qabiliyyəti olan adamların hamısı ölüb qurtarana qədər İsrail övladları qırx il səhrada dolaşdı, çünki onlar Rəbbin sözünə qulaq asmamışdı. Rəbb bizə vermək üçün atalarımıza and içdiyi süd və bal axan torpağı itaətsizlərə göstərməmək üçün də and içdi.</verse>
+        <verse osisID='Josh.5.7'>Bunun əvəzinə Rəbb onların övladlarını yetişdirdi və Yeşua onları sünnət etdi. Çünki onlar sünnətsiz idilər və yolda onları heç kim sünnət etməmişdi. </verse>
+        <verse osisID='Josh.5.8'>Bütün İsraillilərin sünnət olunması qurtardıqdan sonra onlar sağalana qədər ordugahda öz yerlərində qaldılar.</verse>
+        <verse osisID='Josh.5.9'>Rəbb Yeşuaya dedi: «Misir rüsvayçılığını bu gün üzərinizdən atdım». Ona görə də bu günə qədər o yerin adına Qilqal  deyilir. </verse>
+        <verse osisID='Josh.5.10'>İsrail övladları Qilqalda ordugah qurdular. Ayın on dördü axşam vaxtı Yerixo düzənliklərində Pasxa bayramı keçirdilər.</verse>
+        <verse osisID='Josh.5.11'>Pasxanın ertəsi günü – həmin o gün bu torpağın bəhrəsindən olan mayasız çörək və qovurğa yedilər.</verse>
+        <verse osisID='Josh.5.12'>Onlar o torpağın bəhrəsindən yedikləri günün səhəri mannanın tökülməsi kəsildi. Artıq İsrail övladlarının mannası yox idi və o il Kənan torpağının məhsulları ilə dolandılar. </verse>
+        <verse osisID='Josh.5.13'>Yeşua Yerixo yaxınlığında olanda başını qaldırıb baxdı və əlində siyrilmiş qılınc olan bir şəxsi qarşısında gördü. Yeşua onun yanına gəlib «Sən bizim tərəfdənsən, yoxsa düşmənlərimiz tərəfdən?» deyə soruşdu.</verse>
+        <verse osisID='Josh.5.14'>O dedi: «Xeyr, mən Rəbbin ordusunun başçısıyam, indi gəlmişəm». Yeşua üzüstə yerə yıxıldı və ona səcdə edib dedi: «Ağamın quluna nə sözü var?»</verse>
+        <verse osisID='Josh.5.15'>Rəbbin ordusunun başçısı Yeşuaya dedi: «Çarığını ayağından çıxart, çünki üstündə durduğun yer müqəddəsdir». Yeşua belə də etdi.  </verse>
+      </chapter>
+      <chapter osisID='Josh.6'>
+        <verse osisID='Josh.6.1'>
+          İsrail övladlarının qorxusundan Yerixonu bərk-bərk bağlamışdılar. Oraya girib-çıxan yox idi.</verse>
+        <verse osisID='Josh.6.2'>Rəbb Yeşuaya dedi: «Bax Yerixonu, onların padşahını, igid adamlarını sənə təslim edirəm.</verse>
+        <verse osisID='Josh.6.3'>Siz – bütün döyüşçülər şəhərin ətrafına bir dəfə dolanın; altı gün belə edin.</verse>
+        <verse osisID='Josh.6.4'>Sandığın qarşısında yeddi kahin qoç buynuzundan olan yeddi şeypur daşısın. Yeddinci gün şəhəri yeddi dəfə dolanın və kahinlər şeypurları çalsınlar.</verse>
+        <verse osisID='Josh.6.5'>Onlar qoç buynuzundan olan şeypuru uzun-uzadı çaldıqları və siz şeypurun səsini eşitdiyiniz vaxt bütün xalq gur səslə bağırsın. Onda şəhərin qala divarları yerə çökəcək və xalqın hər biri dayandığı yerdən şəhərə qalxsın».</verse>
+        <verse osisID='Josh.6.6'>Nun oğlu Yeşua kahinləri çağırıb onlara dedi: «Əhd sandığını götürün, Rəbbin sandığı qarşısında yeddi kahin qoç buynuzundan olan yeddi şeypur daşısın».</verse>
+        <verse osisID='Josh.6.7'>Xalqa isə dedi: «Gedin şəhəri dolanın, silahlı adamlar isə Rəbbin sandığı önündə getsinlər». </verse>
+        <verse osisID='Josh.6.8'>Yeşuanın xalqa dediyi kimi Rəbbin önündə qoç buynuzundan olan yeddi şeypuru daşıyan yeddi kahin keçib şeypurları çaldı. Rəbbin Əhd sandığı da onların ardınca aparıldı.</verse>
+        <verse osisID='Josh.6.9'>Silahlı adamlar şeypurları çalan kahinlərin qarşısında gedirdilər, kahinlər şeypurları çala-çala gedərkən arxada olan dəstə sandığın ardınca gedirdi.</verse>
+        <verse osisID='Josh.6.10'>Yeşua xalqa əmr edib dedi: «Sizə “çığırın” deyəcəyim günə qədər çığırmayın, səsinizi eşitdirməyin və ağzınızdan bir söz çıxartmayın, ancaq mən deyən vaxt çığırın».</verse>
+        <verse osisID='Josh.6.11'>Xalq Rəbbin sandığını bir dəfə şəhərin ətrafına dolandırdı. Sonra ordugaha gəldilər və orada gecələdilər. </verse>
+        <verse osisID='Josh.6.12'>Yeşua səhər erkən qalxdı. Kahinlər də Rəbbin sandığını götürdülər.</verse>
+        <verse osisID='Josh.6.13'>Qoç buynuzundan olan yeddi şeypuru daşıyan yeddi kahin Rəbbin sandığı önündə gedirdi və şeypurları çalırdı. Silahlı adamlar onların qarşısında gedirdi. Kahinlər şeypurları çala-çala gedir, arxa dəstə Rəbbin sandığının ardınca gedirdi.</verse>
+        <verse osisID='Josh.6.14'>Onlar ikinci gün də şəhəri bir dəfə dolandılar və ordugaha qayıtdılar; altı gün belə etdilər. </verse>
+        <verse osisID='Josh.6.15'>Yeddinci gün tezdən dan yeri söküləndə qalxıb şəhəri yeddi dəfə bu qayda ilə dolandılar. Ancaq yeddinci gün şəhəri yeddi dəfə dolandılar.</verse>
+        <verse osisID='Josh.6.16'>Yeddinci dəfə dolanan zaman kahinlər şeypurları çalanda Yeşua xalqa dedi: «Çığırın, çünki Rəbb şəhəri sizə verdi.</verse>
+        <verse osisID='Josh.6.17'>Şəhər məhv edilməyə həsr olunmuşdur  və onda olan hər şey Rəbbə təqdim olunmalıdır. Yalnız fahişə Raxav və onunla birgə evdə olanların hamısı sağ qalmalıdır, çünki o göndərdiyimiz elçiləri gizlətmişdi.</verse>
+        <verse osisID='Josh.6.18'>Lakin siz məhv edilməyə həsr olunmuş şeylərdən çəkinin ki, heç nə götürməyəsiniz. Əgər bir şey götürsəniz, onda siz də məhv edilməyə həsr olunacaqsınız və bununla da İsrail ordugahını məhv edilməyə həsr etməklə bəlaya salarsınız.</verse>
+        <verse osisID='Josh.6.19'>Ancaq bütün qızıl və gümüş, tunc və dəmir əşyalar Rəbbə məxsus olduğuna görə Rəbbin xəzinəsinə daxil olacaq». </verse>
+        <verse osisID='Josh.6.20'>Xalq çığırdı və kahinlər şeypur çaldılar. Xalq şeypur səsini eşidəndə ucadan çığırdı. Onda qala divarları yerə çökdü və xalqın hər biri dayandığı yerdən irəliləyərək şəhəri aldı.</verse>
+        <verse osisID='Josh.6.21'>Onlar kişini, qadını, cavanı, qocanı, mal-qaranı, qoyun-quzunu, eşşəyi və şəhərdə olanların hamısını qılıncdan keçirib tamamilə məhv etdilər. </verse>
+        <verse osisID='Josh.6.22'>Yeşua ölkəni gözdən keçirən o iki nəfər casusa tapşırmışdı: «Fahişə qadının evinə girin, ona and içdiyiniz kimi qadını və onun yanındakıların hamısını evdən çıxarın».</verse>
+        <verse osisID='Josh.6.23'>O zaman həmin casus cavanlar qadının evinə gəldi. Raxavı, atasını, anasını, qardaşlarını, onun yanında olan hər kəsi, bütün qohumlarını evdən çıxartdılar və onları İsrail ordugahından kənar yerdə qoydular.</verse>
+        <verse osisID='Josh.6.24'>Şəhərə və orada olan hər şeyə od vurub yandırdılar. Yalnız qızıl-gümüşü, mis və dəmir əşyaları Rəbbin evinin xəzinəsinə qoydular.</verse>
+        <verse osisID='Josh.6.25'>Ancaq Yeşua fahişə Raxavı, onun atasının külfətini və onun yanında olan hər kəsi sağ buraxdı. Qadın bu günə qədər də İsraillilərin arasında yaşayır, çünki Yerixonu gözdən keçirmək üçün Yeşuanın göndərdiyi elçiləri yanında gizlətmişdi. </verse>
+        <verse osisID='Josh.6.26'>Yeşua o vaxt xalqa and verib xəbərdarlıq etdi: «Bu şəhəri – Yerixonu kim bərpa etsə, qoy Rəbbin önündə lənətə gəlsin. Bunu edən həmin şəxs onun bünövrəsini ilk oğlunun həyatı bahasına qoyacaq və kiçik oğlunun həyatı bahasına isə onun qapılarını yerinə vuracaq».</verse>
+        <verse osisID='Josh.6.27'>Rəbb Yeşua ilə idi və onun şöhrəti bütün ölkəyə yayıldı.  </verse>
+      </chapter>
+      <chapter osisID='Josh.7'>
+        <verse osisID='Josh.7.1'/>
+        <verse osisID='Josh.7.2'>Yeşua Yerixodan Bet-Elin şərqində, Bet-Avenin yanında olan Ay şəhərinə adamlar göndərib onlara dedi: «Gedin, ölkəni gözdən keçirin». Adamlar çıxıb Ay şəhərini gözdən keçirdilər.</verse>
+        <verse osisID='Josh.7.3'>Onlar Yeşuanın yanına qayıdıb dedilər: «Bütün xalq getməsin, ancaq iki ya üç min nəfərə qədər adam gedib Ay şəhərini məhv etsin. Bütün xalqı oraya göndərib yorma, çünki onlar azdır».</verse>
+        <verse osisID='Josh.7.4'>Beləliklə, oraya xalqın üç min nəfərə qədəri getdi, lakin onlar Ay sakinlərinin qarşısından qaçdılar.</verse>
+        <verse osisID='Josh.7.5'>Aylılar onlardan otuz altı nəfəri öldürüb, İsrailliləri şəhərin darvazasının qabağından daş çıxarılan yerə qədər qovdular və onları enişlikdə qırdılar. Bundan sonra xalqın ürəyi qorxudan dəhşətə gəldi. </verse>
+        <verse osisID='Josh.7.6'>Yeşua paltarını cırdı, özü və İsrailin ağsaqqalları Rəbbin sandığı önündə axşama kimi yerə yıxılıb başlarına torpaq tökdülər.</verse>
+        <verse osisID='Josh.7.7'>Yeşua dedi: «Ah, ey Xudavənd Rəbb, bizi Emorlulara təslim etmək, bizi məhv etmək üçünmü bu xalqı İordan çayından keçirtdin? Kaş ki İordan çayının o tayında qalıb yaşayaydıq.</verse>
+        <verse osisID='Josh.7.8'>Ah, ey Xudavənd, İsraillilər düşmənin qarşısından qaçandan sonra mən nə deyə bilərəm?</verse>
+        <verse osisID='Josh.7.9'>Bundan sonra Kənanlılar və bu ölkədə yaşayan bütün xalqlar eşidəcək, bizi mühasirəyə alıb adımızı yer üzündən siləcəklər. Bəs Sən Öz böyük adın üçün nə edəcəksən?» </verse>
+        <verse osisID='Josh.7.10'>Rəbb Yeşuaya dedi: «Qalx, nə üçün belə üzüstə yıxılmısan?»</verse>
+        <verse osisID='Josh.7.11'>İsraillilər günah etdilər və onlara əmr etdiyim əhdimi pozdular. Məhv edilməyə həsr olunmuş şeylərdən götürdülər, onlardan oğurladılar, gizlədərək öz əşyaları arasına qoydular.</verse>
+        <verse osisID='Josh.7.12'>Buna görə də İsrail övladları düşmən qabağında dura bilmir, düşmənin qarşısından qaçdılar. Çünki onlar özləri də məhv edilməyə həsr olunmuşlar. Əgər məhv edilməyə həsr olunmuş şeyləri aranızdan yox etməsəniz, bir daha sizinlə olmayacağam.</verse>
+        <verse osisID='Josh.7.13'>Qalx, xalqı təqdis et və de: «Sabahkı gün üçün özünüzü təqdis edin, çünki İsrailin Allahı Rəbb belə deyir: “Ey İsraillilər, aranızda məhv edilməyə həsr olunmuş şey var. Onu aranızdan götürməsəniz, düşmənləriniz qarşısında dura bilməyəcəksiniz.</verse>
+        <verse osisID='Josh.7.14'>Sabah hamınız qəbilələrinizə görə Rəbbin hüzuruna çıxacaqsınız və Onun göstərdiyi qəbilə nəsillərə görə irəli çıxacaq. Rəbbin göstərdiyi nəsil ailələrə görə irəli çıxacaq. Rəbbin göstərdiyi ailə kişilərə görə irəli çıxacaq.</verse>
+        <verse osisID='Josh.7.15'>Məhv edilməyə həsr olunmuş şeylərə xəyanət edən adam və ona aid olanların hamısı odda yandırılacaq, çünki o, Rəbbin əhdini pozmuşdur və İsraildə rüsvayçılıq etmişdir”». </verse>
+        <verse osisID='Josh.7.16'>Yeşua səhər tezdən qalxdı və İsraillilərin qəbilələrinə görə Rəbbin hüzuruna çıxmasını əmr etdi və Yəhuda qəbiləsi göstərildi.</verse>
+        <verse osisID='Josh.7.17'>Yəhuda qəbiləsini irəli çıxardı və Zerah nəsli göstərildi. Zerah nəslini ailələrinə görə irəli çıxardı və Zavdi ailəsi göstərildi.</verse>
+        <verse osisID='Josh.7.18'>Zavdi ailəsini kişilərinə görə irəli çıxardı və Yəhuda qəbiləsindən Zerah oğlu Zavdi oğlu Karmi oğlu Akan göstərildi.</verse>
+        <verse osisID='Josh.7.19'>Yeşua Akana dedi: «Oğlum, buyur, İsrailin Allahı Rəbbi izzətləndir və Onun önündə etiraf et. Nə etmisən? İndi mənə bildir, məndən gizlətmə».</verse>
+        <verse osisID='Josh.7.20'>Akan Yeşuaya cavab verdi: «Həqiqətən, mən İsrailin Allahı Rəbbə qarşı günah edərək belə elədim:</verse>
+        <verse osisID='Josh.7.21'>talan malından Babil malı olan gözəl bir paltar, iki yüz şekel gümüş və ağırlığı əlli şekel olan bir qızıl külçə görəndə onlara tamah salıb götürdüm. Budur, ən altda gümüş olmaqla hamısını çadırımın ortasında torpağa basdırmışam». </verse>
+        <verse osisID='Josh.7.22'>Yeşua adamlar göndərdi və onlar çadıra qaçdılar. Şeylər ən altda gümüş olmaqla onun çadırında gizlədilmişdi.</verse>
+        <verse osisID='Josh.7.23'>Onları çadırın içindən götürüb Yeşuanın və bütün İsrail övladlarının yanına gətirdilər və Rəbbin önündə yerə qoydular.</verse>
+        <verse osisID='Josh.7.24'>Yeşua, onunla birgə bütün İsraillilər, Zerah oğlu Akanı, gümüşü, paltarı, qızıl külçəni, onun övladlarını, qızlarını, mal-qarasını, eşşəklərini, qoyun-quzularını, çadırını və bütün malını götürüb Akor dərəsinə çıxartdılar.</verse>
+        <verse osisID='Josh.7.25'>Yeşua dedi: «Nə üçün bizi bəlaya saldın? Rəbb bu gün səni bəlaya salacaq». Bütün İsraillilər onu və onunla olanları da daşqalaq edib sonra odda yandırdılar.</verse>
+        <verse osisID='Josh.7.26'>Onların üstünə böyük daş qalağı yığıldı və o bu günə qədər də durur. Bundan sonra Rəbbin qəzəb alovu söndü. Bunun üçün bu günə qədər o yerin adına Akor  dərəsi deyilir.  </verse>
+      </chapter>
+      <chapter osisID='Josh.8'>
+        <verse osisID='Josh.8.1'>
+          Rəbb Yeşuaya dedi: «Qorxma və dəhşətə gəlmə, bütün döyüşçülərini öz yanına yığ və qalxıb Ay şəhərinə hücum et. Mən Ay şəhərinin padşahını, xalqını, şəhərini və torpağını sənə təslim edirəm.</verse>
+        <verse osisID='Josh.8.2'>Yerixonun və oranın padşahının başına gətirdiyini Ay torpağının və onun padşahının başına gətir. Mallarını və heyvanlarını isə özünüz üçün qarət edin. Şəhərə qarşı arxa tərəfdən pusqu qurun». </verse>
+        <verse osisID='Josh.8.3'>Yeşua ilə bütün döyüşçülər Ay şəhərinə getmək üçün qalxdılar. Yeşua otuz min igid adam seçib onları gecə ikən oraya göndərəndə belə əmr etdi:</verse>
+        <verse osisID='Josh.8.4'>«Qulaq asın, şəhərə qarşı arxa tərəfdən pusquda durun, şəhərdən çox uzağa getməyin, hamınız hazır durun.</verse>
+        <verse osisID='Josh.8.5'>Mən və yanımda olan bütün xalq şəhərə yaxınlaşacağıq. Əvvəlki kimi Ay şəhərinin sakinləri bizə qarşı çıxanda biz də onların qarşısından qaçacağıq.</verse>
+        <verse osisID='Josh.8.6'>Biz onları şəhərdən ayırana qədər arxamızca aparacağıq, çünki “əvvəlki kimi qarşımızdan qaçırlar” deyəcəklər. Biz də onların qarşısından qaçacağıq.</verse>
+        <verse osisID='Josh.8.7'>O vaxt siz pusqudan qalxıb şəhəri alın, çünki Allahınız Rəbb oranı sizə təslim edəcək.</verse>
+        <verse osisID='Josh.8.8'>Şəhəri ələ keçirdiyiniz zaman şəhərə od vurun. Bunu Rəbbin sözünə görə edin. Sizə belə əmr edirəm».</verse>
+        <verse osisID='Josh.8.9'>Beləliklə, Yeşua onları göndərdi. Onlar pusquda durdular və Bet-El ilə Ay şəhəri arasında, Ay şəhərinin qərb tərəfində gözlədilər. Yeşua gecəni camaatın arasında keçirdi. </verse>
+        <verse osisID='Josh.8.10'>Yeşua səhər tezdən durdu, xalqı gözdən keçirdi, özü və xalqın ağsaqqalları xalqın qarşısında Ay şəhərinin üzərinə getdilər.</verse>
+        <verse osisID='Josh.8.11'>Onunla birgə olan bütün döyüşçülər getdilər və yaxınlaşıb şəhərin qarşısına gəldilər, Ay şəhərinin şimal tərəfində toplandılar. Onlarla Ay şəhərinin arasında bir dərə var idi.</verse>
+        <verse osisID='Josh.8.12'>Yeşua beş minə qədər adam götürdü, onları Bet-El ilə Ay şəhəri arasında, şəhərin qərb tərəfində pusquya qoydu.</verse>
+        <verse osisID='Josh.8.13'>Şəhərin şimalında olan bütün ordu və şəhərin qərbində pusquda duranlar döyüş üçün yerləşdirildi. Yeşua o gecə dərənin ortasına getdi. </verse>
+        <verse osisID='Josh.8.14'>Ay şəhərinin padşahı bunu gördükdə səhər tezdən şəhərin adamları ilə birgə tələsik qalxdı və bütün camaat düz vaxtında İsraillilərə qarşı Arava vadisinin önündə döyüşə çıxdı. Lakin padşah bilmirdi ki, şəhər arxasında ona qarşı pusqu qurulub.</verse>
+        <verse osisID='Josh.8.15'>Yeşua ilə bütün İsraillilər özlərini onların qarşısında məğlub olmuş kimi göstərərək çölə tərəf qaçdılar.</verse>
+        <verse osisID='Josh.8.16'>Onları təqib etmək üçün şəhərdə olan bütün camaat çağırıldı. Yeşuanı təqib edərək şəhərdən çıxdılar.</verse>
+        <verse osisID='Josh.8.17'>Ay və Bet-El şəhərlərində bir nəfər də qalmadı ki, İsraillilərin ardınca getməsin. Onlar şəhəri açıq qoyaraq İsrailliləri təqib etdilər. </verse>
+        <verse osisID='Josh.8.18'>Rəbb Yeşuaya dedi: «Əlindəki nizəni Ay şəhərinə tərəf uzat, çünki oranı sənə təslim edəcəyəm». Yeşua əlindəki nizəni Ay şəhərinə tərəf uzatdı.</verse>
+        <verse osisID='Josh.8.19'>Yeşua əlini şəhərə tərəf uzadarkən pusquda duranlar cəld yerlərindən qalxdılar və şəhərə girib oranı aldılar. O anda bütün şəhərə od vurdular.</verse>
+        <verse osisID='Josh.8.20'>Ay şəhərinin əhalisi arxaya dönüb baxanda gördü ki, şəhərdən göyə tüstü qalxır və onların o yan-bu yana qaçmağa da taqəti yox idi. Çölə tərəf qaçan İsraillilər də onları təqib edənlərə tərəf döndü.</verse>
+        <verse osisID='Josh.8.21'>Yeşua ilə pusquda olan bütün İsraillilər şəhəri alındığını və şəhərdən tüstü qalxdığını görəndə dönüb Ay şəhərinin adamlarını qırdılar.</verse>
+        <verse osisID='Josh.8.22'>O biri İsraillilər də şəhərdən onlara tərəf çıxdılar. Onda onlar iki tərəfdən gələn İsraillilərin arasında qaldılar. İsraillilər onlardan heç kimi sağ yaxud qaçmağa qoymadan qırdılar.</verse>
+        <verse osisID='Josh.8.23'>Ay şəhərinin padşahını isə diri tutub Yeşuanın yanına gətirdilər. </verse>
+        <verse osisID='Josh.8.24'>İsraillilər Ay şəhərinin əhalisinin hamısını öldürüb qurtarana qədər tarlada və onları təqib etdikləri çöldə qılıncdan keçirtdilər. Sonra bütün İsraillilər Ay şəhərinə qayıdıb orada qalanları da qılıncdan keçirtdilər.</verse>
+        <verse osisID='Josh.8.25'>O gün qırılan kişi və qadınlardan hamısı – bütünlüklə Ay şəhərinin əhalisi on iki min nəfər idi.</verse>
+        <verse osisID='Josh.8.26'>Bütün Ay şəhərinin əhalisini tamamilə qırıb qurtarana qədər Yeşua nizə uzadan əlini geri çəkmədi.</verse>
+        <verse osisID='Josh.8.27'>Ancaq Rəbbin Yeşuaya buyurduğu sözə görə İsraillilər o şəhərin heyvanlarını və əmlakını talan edib özlərinə götürdülər.</verse>
+        <verse osisID='Josh.8.28'>Yeşua Ay şəhərini yandırdı. Oranı əbədi qalan daş qalağına, yəni elə bir viranəyə çevirdi ki, bu günə qədər qalmaqdadır.</verse>
+        <verse osisID='Josh.8.29'>O, Ay şəhərinin padşahını ağacdan asaraq axşama qədər saxladı. Gün batanda isə Yeşua əmr verdi və onun cəsədini ağacdan düşürtdülər, onu şəhər darvazasının girəcəyinə atdılar. Üstünə bu günə qədər qalan böyük bir daş qalağı yığdılar. </verse>
+        <verse osisID='Josh.8.30'>O zaman Yeşua Eval dağında İsrailin Allahı Rəbbə bir qurbangah qurdu.</verse>
+        <verse osisID='Josh.8.31'>O, Rəbbin qulu Musanın İsrail övladlarına əmr etdiyi və Musanın Qanun kitabında yazıldığı kimi üstünə heç kimin dəmir vurmadığı, yonulmamış daşlardan bir qurbangah düzəltdi. Onun üstündə Rəbbə yandırma qurbanları və ünsiyyət qurbanları təqdim etdilər.</verse>
+        <verse osisID='Josh.8.32'>Yeşua orada Musanın İsrail övladları qarşısında yazdığı Qanunun bir nüsxəsini daşlar üzərinə yazdı.</verse>
+        <verse osisID='Josh.8.33'>Bütün İsraillilər, ağsaqqallar, məmurlar, hakimlər, qəriblər də daxil olmaqla Rəbbin Əhd sandığının iki tərəfində sandığı daşıyan Levili kahinlərin qarşısında dayandılar. Xalqın yarısı Gerizim dağının, o biri yarısı isə Eval dağının qarşısında durdu. Çünki Rəbbin qulu Musa İsrail xalqına xeyir-dua vermək üçün əvvəllər bu cür dayanmağı buyurmuşdu.</verse>
+        <verse osisID='Josh.8.34'>Ondan sonra Yeşua Qanunun bütün sözlərini – xeyir-dua və lənəti, yəni Qanun kitabında yazılanların hamısını oxudu.</verse>
+        <verse osisID='Josh.8.35'>Bütün İsrail camaatının, qadınların, uşaqların və aralarında olan qəriblərin qarşısında Musanın bütün buyurduqlarından Yeşuanın oxumadığı bir söz belə, qalmadı.  </verse>
+      </chapter>
+      <chapter osisID='Josh.9'>
+        <verse osisID='Josh.9.1'>
+          İordan çayının qərb tərəfində dağlıqda, yamaclı-düzənlikli bölgədə, Livana qədər uzanan Böyük dənizin sahilində yaşayan Xetlilər, Emorlular, Kənanlılar, Perizlilər, Xivlilər və Yevusluların padşahları bunu eşidən zaman</verse>
+        <verse osisID='Josh.9.2'>Yeşua və İsraillilərə qarşı birlikdə döyüşmək üçün bir yerə toplandılar. </verse>
+        <verse osisID='Josh.9.3'>Lakin Giveon əhalisi Yeşuanın Yerixonun və Ay şəhərinin başına gətirdiklərini eşitdikdə</verse>
+        <verse osisID='Josh.9.4'>hiylə ilə hərəkət etdilər: gedib özlərini elçi kimi göstərdilər və köhnəlmiş torbalar, köhnə, yırtıq və bağlanmış şərab tuluqlarını eşşəklərinə yüklədilər.</verse>
+        <verse osisID='Josh.9.5'>Ayaqlarında cırıq və yamaqlı çarıqları, əyinlərində köhnə paltarları var idi. Ərzaqları, bütün çörəkləri qurumuş və kiflənmişdi.</verse>
+        <verse osisID='Josh.9.6'>Onlar Qilqalda olan ordugaha, Yeşuanın yanına getdilər, ona və İsraillilərə dedilər: «Biz uzaq bir ölkədən gəlmişik, indi bizimlə əhd kəsin».</verse>
+        <verse osisID='Josh.9.7'>İsraillilər Xivlilərə dedilər: «Bəlkə siz bizim aramızda yaşayırsınız? Biz sizinlə necə əhd kəsək?»</verse>
+        <verse osisID='Josh.9.8'>Onlar Yeşuaya dedilər: «Biz sənin qullarınıq». Yeşua isə onlara dedi: «Siz kimsiniz və haradan gəlirsiniz?»</verse>
+        <verse osisID='Josh.9.9'>Ona dedilər: «Sənin Allahın Rəbbin şöhrətli adına görə biz qulların çox uzaq ölkədən gəlmişik. Çünki Rəbbin xəbərini, Misirdə etdiyi bütün şeyləri,</verse>
+        <verse osisID='Josh.9.10'>İordan çayının o tərəfində olan Emorluların iki padşahı – Xeşbon padşahı Sixonun və Aştarotdakı Başan padşahı Oqun başına gətirdiyi hər şeyi eşitmişik.</verse>
+        <verse osisID='Josh.9.11'>Ona görə ağsaqqallarımız və ölkəmizin bütün əhalisi bizə belə dedilər: “Yol üçün əlinizə ərzaq götürüb onları qarşılamağa gedin və deyin: ‹Biz sizin qullarınızıq, indi bizimlə əhd kəsin›”.</verse>
+        <verse osisID='Josh.9.12'>Yanınıza gəlmək üçün çıxdığımız gün bu çörəyimizi ərzaq kimi evlərimizdən isti-isti götürmüşdük, indi isə quruyub və kiflənib.</verse>
+        <verse osisID='Josh.9.13'>Doldurduğumuz bu şərab tuluqları təzə idi, indi isə yırtılıb. Yol çox uzun olduğu üçün paltarlarımız və çarıqlarımız da köhnəlib». </verse>
+        <verse osisID='Josh.9.14'>İsraillilər onların ərzaqlarını götürdülər və onlara inandılar, ancaq Rəbdən məsləhət almadılar.</verse>
+        <verse osisID='Josh.9.15'>Yeşua onlarla sülh bağlayıb onları sağ buraxacağına söz verdi və icma rəhbərləri də bunun üçün and içdilər. </verse>
+        <verse osisID='Josh.9.16'>Onlarla əhd bağladıqdan üç gün sonra eşitdilər ki, bu adamlar İsraillilərlə qonşuluqda – öz aralarında yaşayanlardır.</verse>
+        <verse osisID='Josh.9.17'>İsraillilər çıxıb üçüncü gün onların şəhərlərinə gəldilər. Onların şəhərləri Giveon, Kefira, Beerot və Qiryat-Yearim idi.</verse>
+        <verse osisID='Josh.9.18'>İsraillilər onları qırmadılar, çünki icma rəhbərləri onlar üçün İsrailin Allahı Rəbbə and içmişdilər. Bütün icma rəhbərlərin əleyhinə danışdı.</verse>
+        <verse osisID='Josh.9.19'>Rəhbərlərin hamısı icmaya dedi: «Biz onlar üçün İsrailin Allahı Rəbbə and içdik ki, onlara toxunmayaq.</verse>
+        <verse osisID='Josh.9.20'>Ona görə də belə edək: onları sağ buraxaq, yoxsa içdiyimiz anda görə üzərimizə qəzəb gələr».</verse>
+        <verse osisID='Josh.9.21'>Rəhbərlər xalqa dedi: «Qoy onlar sağ qalsın, amma bütün icma üçün odun kəsən və su daşıyan olsunlar». Beləcə hər şey rəhbərlər deyən kimi oldu. </verse>
+        <verse osisID='Josh.9.22'>Yeşua onları çağırıb belə dedi: «Aramızda yaşadığınız halda “biz sizdən çox uzağıq” deyərək bizi nə üçün aldatdınız?</verse>
+        <verse osisID='Josh.9.23'>İndi lənətlənmisiniz və siz həmişəlik Allahımın evi üçün odun kəsən və su daşıyan kölələr olmalısınız».</verse>
+        <verse osisID='Josh.9.24'>Onlar Yeşuaya cavab verib dedilər: «Sənin Allahın Rəbbin bütün ölkəni sizə vermək, ölkənin bütün əhalisini qarşınızda həlak etmək üçün qulu Musaya necə əmr verdiyi bu qullarına aşkar bildirilmişdi. Sizin ucbatınızdan canımız üçün çox qorxduq və ona görə belə etdik.</verse>
+        <verse osisID='Josh.9.25'>Artıq sənin əlindəyik. Sənin gözündə nə xoşdursa və nə doğrudursa, onu et».</verse>
+        <verse osisID='Josh.9.26'>Yeşua onlarla belə rəftar etdi: onları İsrail övladlarının əlindən qurtarıb qoymadı ki, öldürülsünlər.</verse>
+        <verse osisID='Josh.9.27'>O gün Yeşua icma üçün və Rəbbin seçəcəyi yerdəki öz qurbangahı üçün onları odun kəsən və su daşıyan işinə təyin etdi və bu günə qədər də belədir.  </verse>
+      </chapter>
+      <chapter osisID='Josh.10'>
+        <verse osisID='Josh.10.1'>
+          Yerusəlim padşahı Adoni-Sedeq Yeşuanın Ay şəhərini alıb tamamilə məhv etməsini, Yerixo ilə padşahının, Ay şəhəri ilə padşahının başına gətirdiyini və Giveon əhalisinin İsraillilərlə sülh bağlayıb onların arasında olduqlarını eşitdi.</verse>
+        <verse osisID='Josh.10.2'>O vaxt onun özü və xalqı çox qorxdu, çünki Giveon şəhəri padşah şəhərlərindən biri kimi böyük bir şəhər idi. Giveon Ay şəhərindən də böyük idi və oranın adamları igid idi.</verse>
+        <verse osisID='Josh.10.3'>Bunun üçün Yerusəlim padşahı Adoni-Sedeq Xevron padşahı Hohama, Yarmut padşahı Pirama, Lakiş padşahı Yafiaya, Eqlon padşahı Devirə xəbər göndərib dedi:</verse>
+        <verse osisID='Josh.10.4'>«Yanıma gəlib Giveonluları qırmaqda mənə kömək edin, çünki onlar Yeşua və İsrail övladları ilə sülh bağlayıb».</verse>
+        <verse osisID='Josh.10.5'>Beş Emor padşahı olan Yerusəlim padşahı, Xevron padşahı, Yarmut padşahı, Lakiş padşahı, Eqlon padşahı bütün orduları birləşdirərək gəlib Giveon qarşısında ordugah quraraq ona qarşı vuruşdular. </verse>
+        <verse osisID='Josh.10.6'>Giveon adamları Qilqaldakı ordugaha, Yeşuaya xəbər göndərib dedilər: «Əlini qullarının üstündən çəkmə, tez yanımıza gəl, bizi qurtar və bizə kömək et. Çünki dağlıqda yaşayan bütün Emor padşahları bizə qarşı birləşib».</verse>
+        <verse osisID='Josh.10.7'>Yeşua, onunla birgə bütün döyüşçülər və bütün igid adamlar Qilqaldan çıxdılar. </verse>
+        <verse osisID='Josh.10.8'>Rəbb Yeşuaya dedi: «Onlardan qorxma, çünki onları sənə təslim etdim, onlardan heç kim sənin qarşında dura bilməyəcək».</verse>
+        <verse osisID='Josh.10.9'>Yeşua bütün gecə Qilqaldan yuxarı çıxıb qəflətən onların üstünə gəldi.</verse>
+        <verse osisID='Josh.10.10'>Rəbb onları İsraillilərin qarşısında çaşbaş saldı, İsraillilər onları Giveonda böyük tələfata uğratdı və onları Bet-Xoron yoxuşunda təqib edərək Azeqaya və Maqqedaya qədər qırdılar.</verse>
+        <verse osisID='Josh.10.11'>Emorlular İsraillilərin qarşısından qaçdıqları zaman Bet-Xoron enişində ikən Azeqaya qədər Rəbb onların üstünə göydən böyük daşlar yağdırdı və onlar öldülər. Daş kimi dolu ilə ölənlər İsrail övladlarının qılıncla öldürdüklərindən daha çox idi. </verse>
+        <verse osisID='Josh.10.12'>Rəbb Emorluları İsrail övladlarına təslim etdiyi gün Yeşua Rəbbə yalvardı və İsraillilərin gözü qarşısında dedi:  «Dayan, ey günəş, Giveon üzərində,Ey ay, Ayyalon dərəsində».</verse>
+        <verse osisID='Josh.10.13'>İsrail xalqı düşmənlərindən qisas alana qədər günəş orada dayandı və ay yerində qaldı. Bu hadisə Yaşar kitabında yazılmışdı. Günəş göyün ortasında durdu və ləngiyib təxminən bütün günü batmadı.</verse>
+        <verse osisID='Josh.10.14'>Rəbbin insan səsini eşitdiyi o gün kimi bir gün nə ondan əvvəl, nə də ondan sonra oldu, çünki Rəbb İsrail üçün vuruşdu. </verse>
+        <verse osisID='Josh.10.15'>Sonra Yeşua və onunla birlikdə bütün İsraillilər Qilqaldakı ordugaha qayıtdı. </verse>
+        <verse osisID='Josh.10.16'>Bu beş padşah qaçıb Maqqedada olan mağarada gizləndi.</verse>
+        <verse osisID='Josh.10.17'>«Maqqedadakı mağarada gizlənən beş padşah tapıldı» deyə Yeşuaya xəbər verdilər.</verse>
+        <verse osisID='Josh.10.18'>Yeşua dedi: «Mağaranın ağzına böyük daşlar yuvarladın və onlara nəzarət etmək üçün yanına adamlar qoyun.</verse>
+        <verse osisID='Josh.10.19'>Ancaq siz dayanmayın, düşmənlərinizi təqib edin və arxadakıları da qırın. Onları şəhərlərinə girməyə qoymayın. Allahınız Rəbb onları sizə təslim edib».</verse>
+        <verse osisID='Josh.10.20'>Yeşua və İsrail övladları düşməni çox ağır bir məğlubiyyətə uğradaraq tamamilə qırdı. Sağ qalanlar isə qalalı şəhərlərdə sığındı.</verse>
+        <verse osisID='Josh.10.21'>Bütün xalq Maqqedadakı ordugaha, Yeşuanın yanına salamat qayıtdı və bundan sonra İsrail övladlarına qarşı heç kim bir söz deyə bilmədi. </verse>
+        <verse osisID='Josh.10.22'>O vaxt Yeşua dedi: «Mağaranın ağzını açın, bu beş padşahı mağaradan mənim yanıma gətirin».</verse>
+        <verse osisID='Josh.10.23'>Elə də etdilər, mağaradan bu beş padşahı – Yerusəlim padşahını, Xevron padşahını, Yarmut padşahını, Lakiş padşahını və Eqlon padşahını onun yanına gətirdilər.</verse>
+        <verse osisID='Josh.10.24'>Bu padşahları Yeşuanın yanına gətirən zaman o bütün İsrail adamlarını çağırdı. Onunla gələn döyüşçülərin başçılarına dedi: «Yaxınlaşın, ayaqlarınızı bu padşahların boynuna qoyun». Onlar yaxınlaşdılar, ayaqlarını onların boynuna qoydular.</verse>
+        <verse osisID='Josh.10.25'>Yeşua onlara dedi: «Qorxmayın və ruhdan düşməyin, qüvvətli və ürəkli olun, çünki Rəbb vuruşacağınız bütün düşmənlərinizin başına bunları gətirəcək».</verse>
+        <verse osisID='Josh.10.26'>Ondan sonra Yeşua onları vurub öldürdü. Onları beş ağacdan asdı və axşama kimi ağacdan asılı qaldılar.</verse>
+        <verse osisID='Josh.10.27'>Gün batanda Yeşua əmr etdi ki, onları ağacdan endirsinlər və onları gizləndikləri mağaraya atdılar. Mağaranın ağzına da böyük daşlar qoydular və bu daşlar bu günə qədər də oradadır. </verse>
+        <verse osisID='Josh.10.28'>Yeşua o gün Maqqedanı aldı, onları və onun tərəfində olan bütün adamları tamamilə məhv etdi, bir adamı belə, sağ buraxmadı. Yerixo padşahının başına gətirdiyini Maqqeda padşahının da başına gətirdi. </verse>
+        <verse osisID='Josh.10.29'>Yeşua və onunla birgə bütün İsraillilər Maqqedadan Livnaya keçdilər və Livnaya qarşı vuruşdular.</verse>
+        <verse osisID='Josh.10.30'>Rəbb həm şəhəri, həm də onun padşahını İsraillilərə təslim etdi. Yeşua padşahı və orada olan bütün adamları qılıncdan keçirib bir adamı belə, sağ buraxmadı. Yerixo padşahının başına gətirdiyini oranın padşahının da başına gətirdi. </verse>
+        <verse osisID='Josh.10.31'>Yeşua və onunla birgə bütün İsraillilər Livnadan Lakişə keçib onların qarşısında dayanaraq Lakişlilərlə vuruşdular.</verse>
+        <verse osisID='Josh.10.32'>Rəbb Lakişi İsraillilərə təslim etdi və oranı ikinci gün aldılar. Livnada etdikləri kimi Lakişi və oradakı bütün adamları qılıncdan keçirtdilər.</verse>
+        <verse osisID='Josh.10.33'>O zaman Gezer padşahı Horam Lakişə kömək etmək üçün gəldi. Yeşua bir nəfəri də sağ buraxmadan onu və onun xalqını da qırdı. </verse>
+        <verse osisID='Josh.10.34'>Yeşua və onunla birgə bütün İsraillilər Lakişdən Eqlona keçdilər, onun qarşısına çıxıb Eqlonlularla vuruşdular.</verse>
+        <verse osisID='Josh.10.35'>Elə həmin gün oranı aldılar və qılıncdan keçirdilər. Lakişdə etdikləri kimi Eqlondakı bütün adamları o gün tamamilə məhv etdilər. </verse>
+        <verse osisID='Josh.10.36'>Yeşua və onunla birgə bütün İsraillilər Eqlondan Xevrona keçdilər və oradakılarla vuruşdular.</verse>
+        <verse osisID='Josh.10.37'>Oranı da alıb padşahını, bütün kəndləri və bütün əhalisini qılıncdan keçirdilər. Eqlonda etdikləri kimi Xevronda da heç kimi sağ qoymadılar, oranı və oradakı bütün adamları tamamilə məhv etdilər. </verse>
+        <verse osisID='Josh.10.38'>Yeşua və onunla birgə bütün İsraillilər Devirə qayıtdılar və oradakılarla vuruşdular.</verse>
+        <verse osisID='Josh.10.39'>Deviri, onun padşahını və bütün kəndlərini alaraq əhalisini qılıncdan keçirdilər. Orada olan bütün adamları tamamilə məhv etdilər, heç kimi sağ qoymadılar. Yeşua Xevronun, Livnanın və onun padşahının başına gətirdiyini Devirin və onun padşahının da başına gətirdi. </verse>
+        <verse osisID='Josh.10.40'>Yeşua bütün ölkəni – dağlıq yerləri, Negevi, yamaclı-düzənlikli bölgəni tutdu və bütün o yerlərin padşahlarını qırdı. İsrailin Allahı Rəbbin əmr etdiyi kimi heç kəsi sağ qoymadı, hər nəfəs alan adamı tamamilə məhv etdi.</verse>
+        <verse osisID='Josh.10.41'>Yeşua Qadeş-Barneadan Qəzzəyə və Giveona qədər bütün Qoşen diyarında yaşayanları qırdı.</verse>
+        <verse osisID='Josh.10.42'>Yeşua bir dəfəyə bütün padşahları və onların ölkələrini aldı, çünki İsrailin Allahı Rəbb İsrail üçün vuruşdu.</verse>
+        <verse osisID='Josh.10.43'>Yeşua və onunla birgə bütün İsraillilər Qilqaldakı ordugaha qayıtdı.  </verse>
+      </chapter>
+      <chapter osisID='Josh.11'>
+        <verse osisID='Josh.11.1'>
+          Xasor padşahı Yavin bunu eşidəndə Madon padşahı Yovava, Şimron padşahına, Akşaf padşahına,</verse>
+        <verse osisID='Josh.11.2'>şimalda – dağlıq yerlərdəki, Kinneretin cənubunda olan Aravadakı, yamaclı-düzənlikli bölgədəki və qərbdə yerləşən Nafot-Dordakı padşahlara,</verse>
+        <verse osisID='Josh.11.3'>şərqdə və qərbdə yaşayan Kənanlılara və Emorlulara, Xetlilərə, Perizlilərə, dağlıqda yaşayan Yevuslulara, Xermon dağının aşağısındakı Mispa diyarında yaşayan Xivlilərə xəbər göndərdi.</verse>
+        <verse osisID='Josh.11.4'>Bunlar özləri ilə birgə bütün orduları dəniz sahilindəki qum kimi böyük xalq olaraq çoxlu at və döyüş arabaları ilə gəldilər.</verse>
+        <verse osisID='Josh.11.5'>Bütün bu padşahlar birləşdilər və İsraillilərlə vuruşmaq üçün gəlib Merom suları yanında birgə ordugah qurdular. </verse>
+        <verse osisID='Josh.11.6'>Rəbb Yeşuaya dedi: «Onlardan qorxma, çünki sabah bu vaxt hamısını İsraillilərin qarşısında öldürüb təslim edəcəyəm, onların atlarının ayaq vətərini kəsəcəksən, döyüş arabalarına od vurub yandıracaqsan».</verse>
+        <verse osisID='Josh.11.7'>Yeşua və onunla birgə bütün döyüşçülər Merom suları yanında qəflətən düşmənlərin üstünə çıxdılar və onlara hücum etdilər.</verse>
+        <verse osisID='Josh.11.8'>Rəbb onları İsraillilərə təslim edib qırdırdı. İsraillilər böyük Sidona və Misrefot-Mayimə qədər, şərq tərəfdəki Mispa vadisinə qədər düşmənləri qovub heç kim sağ qalmayana qədər hamısını qırdılar.</verse>
+        <verse osisID='Josh.11.9'>Yeşua Rəbbin ona dediyi kimi onlarla rəftar etdi; atlarının ayaq vətərini kəsdi və döyüş arabalarına od vurub yandırdı. </verse>
+        <verse osisID='Josh.11.10'>O vaxt Yeşua geri qayıdıb Xasoru aldı və onun padşahını qılıncla öldürdü. Xasor əvvəlcə bütün bu ölkələrin başı idi.</verse>
+        <verse osisID='Josh.11.11'>Orada olan bütün adamları qılıncdan keçirib tamamilə məhv etdilər, nəfəs çəkən bir nəfər də qalmadı. Sonra Xasora od vurdu.</verse>
+        <verse osisID='Josh.11.12'>Rəbbin qulu Musanın əmr etdiyi kimi Yeşua bu padşahların bütün şəhərlərini və bütün padşahları tutub hamısını qılıncdan keçirərək tamamilə məhv etdi.</verse>
+        <verse osisID='Josh.11.13'>Ancaq Yeşuanın yandırdığı Xasordan başqa təpəciklər üstündə olan şəhərlərdən heç birini İsraillilər yandırmadılar.</verse>
+        <verse osisID='Josh.11.14'>İsrail övladları bu şəhərlərin bütün əmlakını və heyvanlarını qarət etdilər. Hamısını həlak edənədək qılıncdan keçirib məhv etdilər, nəfəsi çəkən bir adam belə, qalmadı.</verse>
+        <verse osisID='Josh.11.15'>Rəbbin qulu Musaya əmr etdiyini Musa da Yeşuaya əmr etdi və Yeşua da belə etdi. Rəbb Musaya nə əmr etmişdisə, hamısını yerinə yetirdi. </verse>
+        <verse osisID='Josh.11.16'>Yeşua Seirə çıxan Xalaq dağından, Xermon dağı altında, Livan vadisindəki Baal-Qada qədər bütün bu diyarı – dağları,</verse>
+        <verse osisID='Josh.11.17'>bütün Negevi, bütün Qoşen diyarını, yamaclı-düzənlikli bölgəni, Aravanı və İsrailin dağlıq və yamaclı-düzənlikli bölgəsini aldı. Onların bütün padşahlarını tutdu və vurub öldürdü.</verse>
+        <verse osisID='Josh.11.18'>Yeşua uzun müddət bu padşahlarla vuruşdu.</verse>
+        <verse osisID='Josh.11.19'>Giveonun əhalisi olan Xivlilərdən başqa İsrail övladları ilə sülh bağlayan başqa bir şəhər yox idi. Bütün yerlər döyüşlə alınmışdı.</verse>
+        <verse osisID='Josh.11.20'>Çünki Rəbbin Musaya əmr etdiyi kimi İsraillilər onları rəhm etmədən tamamilə məhv etdilər. Beləliklə, İsraillilərə qarşı döyüşə çıxmağa onların ürəyini sərtləşdirən Rəbbin Özü idi. </verse>
+        <verse osisID='Josh.11.21'>O vaxt Yeşua gedib dağlıq Xevronda, Devirdə, Anavda, bütün Yəhudanın dağlıq bölgəsində və bütün İsrailin dağlıq bölgəsində olan Anaqlıları qırıb məhv etdi. Yeşua onları şəhərləri ilə birgə tamamilə yerlə yeksan etdi.</verse>
+        <verse osisID='Josh.11.22'>İsrail övladlarının torpağında Anaqlılar qalmadı, onlar ancaq Qəzzədə, Qatda və Aşdodda qaldı.</verse>
+        <verse osisID='Josh.11.23'>Rəbbin Musaya dediyi kimi Yeşua bütün ölkəni aldı. Yeşua oranı İsraillilərə, hər qəbiləyə irs olaraq öz payını verdi. Ölkə müharibədən əmin-amanlığa çıxdı.  </verse>
+      </chapter>
+      <chapter osisID='Josh.12'>
+        <verse osisID='Josh.12.1'>
+            İsrail övladları bu padşahları öldürdülər və onların torpaqlarını – İordan çayının şərqindəki bütün Arava ilə Arnon vadisindən Xermon dağına qədər olan yeri zəbt edib özlərinə mülk etdilər.</verse>
+        <verse osisID='Josh.12.2'>Xeşbonda yaşayan Emorluların padşahı Sixon bu torpaqlarda hökmranlıq etmişdi: Arnon vadisi sahilindəki Aroerdən və vadinin ortasındakı Ammonluların sərhədi olan Yabboq çayına qədər Gileadın yarısı,</verse>
+        <verse osisID='Josh.12.3'>şərqə tərəf Kinneret gölündən Arava dənizinə, yəni Duz dənizinə qədər, şərqdə Bet-Yeşimot istiqamətinə və cənuba tərəf Pisqa yamaclarının ətəklərinə qədər Arava torpağı idi.</verse>
+        <verse osisID='Josh.12.4'>Sağ qalan Rafalılardan biri olan Başan padşahı Oq Aştarotda və Edreidə hökmranlıq edirdi.</verse>
+        <verse osisID='Josh.12.5'>O, Xermon dağında, Sakada, Geşurlular və Maakatlılar sərhədinə qədər bütün Başanda, Xeşbon padşahı Sixonun sərhədinə qədər Gileadın yarısında hökmranlıq edirdi. </verse>
+        <verse osisID='Josh.12.6'>Rəbbin qulu Musa və İsrail övladları onları öldürdülər. Sonra Rəbbin qulu Musa onların torpaqlarını irs olaraq Ruvenlilərə, Qadlılara, Menaşşe qəbiləsinin yarısına verdi. </verse>
+        <verse osisID='Josh.12.7'>Livan vadisində olan Baal-Qaddan Seirə çıxan Xalaq dağına qədər İordan çayının qərb tərəfində olan torpaqlarda Yeşua ilə İsrail övladlarının öldürdükləri padşahlar bunlardır:</verse>
+        <verse osisID='Josh.12.8'>Yeşua dağlıq bölgədə, yamaclı-düzənlikli bölgədə, Aravada, yamaclarda, çöldə, Negevdə yerləşən bu torpaqları, yəni Xetlilər, Emorlular, Kənanlılar, Perizlilər, Xivlilər və Yevuslular ölkəsini, İsrail qəbilələrinə torpaq payı kimi mülk olaraq verdi. </verse>
+        <verse osisID='Josh.12.9'>Yerixo padşahı; </verse>
+        <verse osisID='Josh.12.10'>Yerusəlim padşahı; </verse>
+        <verse osisID='Josh.12.11'>Yarmut padşahı; </verse>
+        <verse osisID='Josh.12.12'>Eqlon padşahı; </verse>
+        <verse osisID='Josh.12.13'>Devir padşahı; </verse>
+        <verse osisID='Josh.12.14'>Xorma padşahı; </verse>
+        <verse osisID='Josh.12.15'>Livna padşahı; </verse>
+        <verse osisID='Josh.12.16'>Maqqeda padşahı; </verse>
+        <verse osisID='Josh.12.17'>Tappuah padşahı; </verse>
+        <verse osisID='Josh.12.18'>Afeq padşahı; </verse>
+        <verse osisID='Josh.12.19'>Madon padşahı; </verse>
+        <verse osisID='Josh.12.20'>Şimron-Meron padşahı; </verse>
+        <verse osisID='Josh.12.21'>Taanak padşahı; </verse>
+        <verse osisID='Josh.12.22'>Qedeş padşahı; </verse>
+        <verse osisID='Josh.12.23'>Nafot-Dordakı Dor padşahı; </verse>
+        <verse osisID='Josh.12.24'>Tirsa padşahı. </verse>
+      </chapter>
+      <chapter osisID='Josh.13'>
+        <verse osisID='Josh.13.1'/>
+        <verse osisID='Josh.13.2'>Qalan yerlər bunlardır: Filiştlilərin bütün əyalətləri, Geşurluların bütün torpaqları;</verse>
+        <verse osisID='Josh.13.3'>Misir qarşısında olan Şixor çayından şimala tərəf Kənanlıların torpağı sayılan Eqron sərhədinə qədər torpaqlar; Filiştlilərin beş ağasına məxsus Qəzzəlilərin, Aşdodluların, Aşqelonluların, Qatlıların torpaqları və Eqronluların ağalarına məxsus torpaqlar; Avvalıların torpağı;</verse>
+        <verse osisID='Josh.13.4'>cənubda bütün Kənan torpağı, Sidonlulara məxsus Mearadan Afeqə – Emorluların sərhədlərinə qədər olan torpaqlar;</verse>
+        <verse osisID='Josh.13.5'>Gevallıların torpağı, Xermon dağı ətəyində olan Baal-Qaddan Xamat keçidinə qədər gün doğana tərəf bütün Livan;</verse>
+        <verse osisID='Josh.13.6'>Livandan Misrefot-Mayimə qədər bütün dağlıq əhalisi və bütün Sidonluları da İsrail övladlarının qarşısından Mən qovacağam. Ancaq sənə əmr etdiyim kimi bu torpaqları İsraillilərə irs olaraq böl.</verse>
+        <verse osisID='Josh.13.7'>İndi bu yerləri doqquz qəbilə ilə Menaşşe qəbiləsinin yarısına irs olaraq böl». </verse>
+        <verse osisID='Josh.13.8'>Menaşşe qəbiləsinin yarısı ilə birgə Ruvenlilər və Qadlılar Musanın İordan çayının şərq tərəfində onlara verdiyi irs torpaqları, Rəbbin qulu Musanın onlara verdiyi bu torpaqları almışdılar:</verse>
+        <verse osisID='Josh.13.9'>Arnon vadisi kənarında olan Aroerdən vadinin ortasında olan şəhərlə Divona qədər bütün Medva yaylası;</verse>
+        <verse osisID='Josh.13.10'>Ammonluların sərhədinə qədər Xeşbonda hökmranlıq edən Emorluların padşahı Sixonun bütün şəhərləri;</verse>
+        <verse osisID='Josh.13.11'>Gilead, Geşurlular və Maakatlıların torpaqları, bütün Xermon dağı, Salkaya qədər bütün Başan;</verse>
+        <verse osisID='Josh.13.12'>Aştarot və Edreidə hökmranlıq edən, sağ qalan Rafalılardan biri olan Oqun Başandakı bütün torpaqları; Musa bütün bu torpaqlarda yaşayanları döyüşlə qovmuşdu.</verse>
+        <verse osisID='Josh.13.13'>Ancaq İsraillilər Geşurluları və Maakatlıları qovmadılar. Geşurlularla Maakatlılar bu günə qədər İsraillilər arasında yaşayır. </verse>
+        <verse osisID='Josh.13.14'>Amma Levi qəbiləsinə irs olaraq torpaq verilmədi, çünki Rəbbin Musaya dediyi kimi onların irsi İsrailin Allahı Rəbb üçün gətirilən yandırma təqdimləridir. </verse>
+        <verse osisID='Josh.13.15'>Musa Ruven övladlarının qəbiləsinə nəsillərinə görə pay verdi.</verse>
+        <verse osisID='Josh.13.16'>Onların sərhədi belə idi: Arnon vadisi kənarındakı Aroerdən, bu vadinin ortasındakı şəhər və Medva yanında olan bütün yayla;</verse>
+        <verse osisID='Josh.13.17'>Xeşbon və yaylada yerləşən şəhərlərin hamısı – Divon, Bamot-Baal, Bet-Baal-Meon,</verse>
+        <verse osisID='Josh.13.18'>Yahsa, Qedemot, Mefaat,</verse>
+        <verse osisID='Josh.13.19'>Qiryatayim, Sivma, dərə dağında olan Seret-Şahar,</verse>
+        <verse osisID='Josh.13.20'>Bet-Peor, Pisqa yamacları, Bet-Yeşimot,</verse>
+        <verse osisID='Josh.13.21'>bu yaylanın bütün şəhərləri, Xeşbonda hökmranlıq edən Emorlular padşahı Sixonun bütün ölkəsi idi. Musa Sixonu və Midyan başçıları olan və onun ölkəsində yaşayan ağaları – Evini, Reqemi, Suru, Xuru, Revanı öldürdü.</verse>
+        <verse osisID='Josh.13.22'>İsrail övladları öldürdükləri adamlarla birgə Beor oğlu falçı Bilamı da qılıncdan keçirtdilər.</verse>
+        <verse osisID='Josh.13.23'>Ruven övladlarının sərhədi İordan çayı ilə sahil torpaqları idi. Ruven övladlarının nəsillərinə görə irsi olan şəhərlər və onların kəndləri bunlar idi. </verse>
+        <verse osisID='Josh.13.24'>Musa Qad qəbiləsinə, Qad övladlarına nəsillərinə görə torpaq verdi.</verse>
+        <verse osisID='Josh.13.25'>Onların sərhədi isə belə idi: Yazer, Gileadın bütün şəhərləri və Rabba qarşısında olan Aroerə qədər Ammon övladları ölkəsinin yarısı;</verse>
+        <verse osisID='Josh.13.26'>Xeşbondan Ramat-Mispa və Betonimə qədər; Maxanayimdən Devir sərhədinə qədər;</verse>
+        <verse osisID='Josh.13.27'>dərədə Bet-Haram, Bet-Nimra, Sukkot, Safon, Xeşbon padşahı Sixonun ölkəsinin qalan hissəsi, İordan çayı ilə onun sahil torpaqları, İordan çayının şərq tərəfindən Kinneret gölünün cənub sahilinə qədər.</verse>
+        <verse osisID='Josh.13.28'>Qad övladlarının nəsillərinə görə torpaq irsi olan şəhərlər və onların kəndləri bunlar idi. </verse>
+        <verse osisID='Josh.13.29'>Musa Menaşşe qəbiləsinin yarısına torpaq verdi ki, bu da Menaşşe övladları qəbiləsinin yarısı üçün, nəsillərinə görə idi.</verse>
+        <verse osisID='Josh.13.30'>Onların torpağı Maxanayimdən, bütün Başan diyarı, Başan padşahı Oqun bütün ölkəsi və Başanda olan Yairin bütün qəsəbələri də daxil olmaqla altmış şəhər idi.</verse>
+        <verse osisID='Josh.13.31'>Gileadın yarısı Başan padşahı Oqun ölkəsindəki Aştarot və Edrei şəhərlərini də əhatə edirdi. Bunlar Menaşşe oğlu Makir övladlarına nəsillərinə görə Makir övladlarının yarısına verilmək üçün idi. </verse>
+        <verse osisID='Josh.13.32'>Yerixo şəhərinin qarşısında, İordan çayının şərq tərəfindəki Moav düzənliklərində Musanın böldüyü irs olan torpaqlar bunlar idi.</verse>
+        <verse osisID='Josh.13.33'>Ancaq Musa Levi qəbiləsinə irs olaraq torpaq vermədi. Rəbbin onlara dediyi kimi İsrailin Allahı Rəbb Özü onların irsidir.  </verse>
+      </chapter>
+      <chapter osisID='Josh.14'>
+        <verse osisID='Josh.14.1'>
+          İsrail övladları Kənan torpağından irs olaraq aldıqları torpaqlar bunlardır; bu torpaqları kahin Eleazar, Nun oğlu Yeşua və İsrail övladları qəbilələrinin nəsil başçıları,</verse>
+        <verse osisID='Josh.14.2'>Rəbbin Musa vasitəsilə buyurduğu kimi doqquz qəbilə və bir qəbilənin yarısı üçün irs olaraq püşk ilə böldülər.</verse>
+        <verse osisID='Josh.14.3'>Çünki Musa iki qəbilə ilə yarım qəbilənin irs olan torpağını İordanın şərq tərəfində onlara vermişdi, lakin onların arasında Levililərə irs olaraq torpaq verməmişdi.</verse>
+        <verse osisID='Josh.14.4'>Çünki Yusif övladları Menaşşe və Efrayim qəbiləsindən ibarət iki qəbilə oldu. Bundan sonra Levililərə yaşamaqdan ötrü şəhərlərdən, sürüləri və naxırları üçün otlaqlardan başqa heç bir torpaq hissəsi verilmədi.</verse>
+        <verse osisID='Josh.14.5'>İsrail övladları Rəbbin Musaya buyurduğu kimi etdilər və torpağı bölüşdürdülər. </verse>
+        <verse osisID='Josh.14.6'>Belə bir zamanda Yəhuda övladları Qilqala – Yeşuanın yanına gəldilər. Qenizli Yefunne oğlu Kalev Yeşuaya dedi: «Qadeş-Barneada Rəbbin səninlə mənim haqqımda Allah adamı Musaya dediyi sözü sən özün bilirsən.</verse>
+        <verse osisID='Josh.14.7'>Rəbbin qulu Musa ölkəni gözdən keçirtmək üçün Qadeş-Barneadan məni göndərəndə qırx yaşında idim. Mən ona səmimi qəlbdən müjdə gətirdim.</verse>
+        <verse osisID='Josh.14.8'>Lakin mənimlə birlikdə gedən soydaşlarım xalqın ürəyini üzdülər. Amma mən səmimi qəlblə Allahım Rəbbin ardınca getdim.</verse>
+        <verse osisID='Josh.14.9'>O gün Musa and içib dedi: “Sən qədəm basdığın torpaq mütləq sənə və sənin övladlarına əbədi irs olaraq veriləcək, çünki sən Allahım Rəbbin ardınca səmimi qəlblə getdin”.</verse>
+        <verse osisID='Josh.14.10'>İndi artıq İsraillilər səhrada gedərkən Rəbbin Musaya bu sözü dediyi vaxtdan qırx beş il keçir. Rəbb dediyi kimi mənə ömür verdi, bax mən bu gün səksən beş yaşındayam.</verse>
+        <verse osisID='Josh.14.11'>Musanın məni göndərdiyi vaxta olduğum kimi bu gün də qüvvətliyəm. O zaman qüvvətim necə idisə, indi də girib-çıxmaq və döyüşmək üçün elə qüvvətim var.</verse>
+        <verse osisID='Josh.14.12'>Buna görə də Rəbbin o zaman dediyi bu dağlıq yeri sən indi mənə ver. Bu dağlıq yerdə Anaqlıların, böyük və qala divarlı şəhərlərin olduğunu o gün sən də eşitdin. Bəlkə Rəbb mənimlə olar və mən də Rəbbin dediyi kimi onları qovaram». </verse>
+        <verse osisID='Josh.14.13'>Yeşua ona xeyir-dua verdi. Xevronu Yefunne oğlu Kalevə irs olaraq verdi.</verse>
+        <verse osisID='Josh.14.14'>Bunun üçün Xevron bu günə qədər Qenizli Yefunne oğlu Kalevin irs torpağıdır. Çünki o, səmimi qəlblə İsrailin Allahı Rəbbin ardınca getmişdi.</verse>
+        <verse osisID='Josh.14.15'>Xevronun adı əvvəlcə Qiryat-Arba idi. Anaqlılar arasında Arba ən böyük adam olmuşdu. </verse>
+      </chapter>
+      <chapter osisID='Josh.15'>
+        <verse osisID='Josh.15.1'>
+          Nəsillərinə görə Yəhuda övladları qəbiləsinin irs torpağı Edom sərhədinə, cənuba doğru və oranın ən cənubunda yerləşən Zin səhrasına qədər idi.</verse>
+        <verse osisID='Josh.15.2'>Onların cənub sərhədi Duz dənizi qurtaran yerdən – cənubda yerləşən körfəzdən başlayırdı.</verse>
+        <verse osisID='Josh.15.3'>Aqrabbim keçidinin cənubundan keçib Zinə çatırdı və oradan Qadeş-Barneanın cənubundan qalxaraq Xesrona çatırdı. Buradan Addara qalxıb Qarqaya dönürdü.</verse>
+        <verse osisID='Josh.15.4'>Sonra isə Asmonadan keçib Misir vadisinə çıxırdı və bu sərhədin sonu dənizdə qurtarırdı. Rəbb demişdi ki, cənub sərhədiniz bura olacaq.</verse>
+        <verse osisID='Josh.15.5'>Şərq sərhədi İordan çayının mənsəbindən Duz dənizi boyunca idi. Şimal tərəfdən isə bu sərhəd İordan çayının mənsəbində yerləşən su körfəzindən başlayırdı.</verse>
+        <verse osisID='Josh.15.6'>Sonra bu sərhəd Bet-Xoqlaya qalxaraq Bet-Aravanın şimalından keçirdi və Ruven oğlu Bohanın qayasına çatırdı.</verse>
+        <verse osisID='Josh.15.7'>Sonra isə Akor dərəsindən Devirə çıxıb oranın cənubundakı Adummim yoxuşu qarşısında olan Qilqala doğru, şimala yönəlirdi. Buradan isə En-Şemeş sularına keçirdi və onun sonu En-Rogeldə qurtarırdı.</verse>
+        <verse osisID='Josh.15.8'>Sonra sərhəd Ben-Hinnom dərəsindən cənuba doğru Yevusluların şəhərinin, yəni Yerusəlimin arxasından keçib buradan Refaim vadisinin şimal qütbündə olan Hinnom dərəsinin qərbindəki dağın təpəsinə qalxırdı.</verse>
+        <verse osisID='Josh.15.9'>Bu dağın təpəsindən isə Neftoah sularının mənbəyinə doğru uzanıb Efron dağındakı şəhərlərə çıxır və oradan Baalaya, yəni Qiryat-Yearimə tərəf uzanırdı.</verse>
+        <verse osisID='Josh.15.10'>Baaladan qərbə doğru, Seir dağına qədər dönəndən sonra Yearim dağının, yəni Kesalonun şimal tərəfindən keçib Bet-Şemeşə enərək Timnaya çatırdı.</verse>
+        <verse osisID='Josh.15.11'>Sonra isə Eqronun yanından şimala doğru çıxaraq Şikkerona uzanıb Baala dağına keçərək Yavneelə qalxırdı. Burada sərhədin sonu dənizdə qurtarırdı.</verse>
+        <verse osisID='Josh.15.12'>Böyük dənizin sahili qərb sərhədi idi. Nəsillərinə görə Yəhuda övladlarına verilən torpağın sərhədi belə idi. </verse>
+        <verse osisID='Josh.15.13'>Rəbbin əmrinə görə Yeşua Yəhudalıların torpağında olan Qiryat-Arbanı, yəni Xevronu irs olaraq Yefunne oğlu Kalevə verdi. Arba Anaqın atası idi.</verse>
+        <verse osisID='Josh.15.14'>Kalev Anaq oğullarından Anaqın üç oğlu Şeşayı, Aximanı və Talmayı oradan qovdu.</verse>
+        <verse osisID='Josh.15.15'>Bundan sonra Devir əhalisinə qarşı çıxdı. Devirin əvvəlki adı Qiryat-Sefer idi.</verse>
+        <verse osisID='Josh.15.16'>Kalev dedi: «Kim Qiryat-Seferliləri qırıb oranı alarsa, qızım Aksanı ona ərə verəcəyəm».</verse>
+        <verse osisID='Josh.15.17'>Oranı Kalevin qardaşı Kenazın oğlu Otniel aldı. Kalev də qızı Aksanı ona ərə verdi.</verse>
+        <verse osisID='Josh.15.18'>Aksa ona ərə gedəndə ərini atasından bir tarla istəməyə sövq etdirdi. Qız eşşəyindən düşəndə Kalev ona dedi: «Nə istəyirsən?»</verse>
+        <verse osisID='Josh.15.19'>Aksa dedi: «Mənə bir pay da ver. Madam ki Negev torpağını mənə verdin, onda su qaynaqlarını da mənə ver». Kalev ona yuxarıdakı və aşağıdakı su qaynaqlarını verdi. </verse>
+        <verse osisID='Josh.15.20'>Nəsillərinə görə Yəhuda övladlarının qəbiləsinin irs torpağı budur:</verse>
+        <verse osisID='Josh.15.21'>Yəhuda övladları qəbiləsinin Edom sərhədinə doğru ən cənubda yerləşən şəhərləri bunlardır: Qavseel, Eder, Yaqur,</verse>
+        <verse osisID='Josh.15.22'>Qina, Dimona, Adada,</verse>
+        <verse osisID='Josh.15.23'>Qedeş, Xasor, İtnan,</verse>
+        <verse osisID='Josh.15.24'>Zif, Telem, Bealot,</verse>
+        <verse osisID='Josh.15.25'>Xasor-Xadatta, Qeriyot-Xesron, yəni Xasor</verse>
+        <verse osisID='Josh.15.26'>Amam, Şema, Molada,</verse>
+        <verse osisID='Josh.15.27'>Xasar-Qadda, Xeşmon, Bet-Pelet,</verse>
+        <verse osisID='Josh.15.28'>Xasar-Şual, Beer-Şeva, Bizyotya,</verse>
+        <verse osisID='Josh.15.29'>Baala, İyim, Esem,</verse>
+        <verse osisID='Josh.15.30'>Eltolad, Kesil, Xorma,</verse>
+        <verse osisID='Josh.15.31'>Ziqlaq, Madmanna, Sansanna,</verse>
+        <verse osisID='Josh.15.32'>Levaot, Şilxim, Ayin və Rimmon. Bu şəhərlərin hamısı kəndləri ilə birlikdə iyirmi doqquz şəhər idi. </verse>
+        <verse osisID='Josh.15.33'>Yamaclı-düzənlikli bölgədə yerləşən şəhərlər isə bunlardır: Eştaol, Sora, Aşna,</verse>
+        <verse osisID='Josh.15.34'>Zanoah, En-Qannim, Tappuah, Enam,</verse>
+        <verse osisID='Josh.15.35'>Yarmut, Adullam, Soko, Azeqa,</verse>
+        <verse osisID='Josh.15.36'>Şaarayim, Aditayim, Gedera və Gederotayim. Bunlar da kəndləri ilə birlikdə on dörd şəhər idi. </verse>
+        <verse osisID='Josh.15.37'>Senan, Xadaşa, Miqdal-Qad,</verse>
+        <verse osisID='Josh.15.38'>Dilan, Mispe, Yoqteel,</verse>
+        <verse osisID='Josh.15.39'>Lakiş, Bosqat, Eqlon,</verse>
+        <verse osisID='Josh.15.40'>Kabbon, Laxmas, Kitliş,</verse>
+        <verse osisID='Josh.15.41'>Gederot, Bet-Daqon, Naama və Maqqeda. Bunlar da kəndləri ilə birlikdə on altı şəhər idi. </verse>
+        <verse osisID='Josh.15.42'>Livna, Eter, Aşan,</verse>
+        <verse osisID='Josh.15.43'>İftah, Aşna, Nesiv,</verse>
+        <verse osisID='Josh.15.44'>Qeila, Akziv və Mareşa. Bunlar da kəndləri ilə birlikdə doqquz şəhər idi. </verse>
+        <verse osisID='Josh.15.45'>Qəsəbələri və kəndləri ilə birlikdə Eqron,</verse>
+        <verse osisID='Josh.15.46'>Eqrondan dənizə qədər kəndləri ilə birlikdə bütün Aşdod ətrafında yerləşənlər,</verse>
+        <verse osisID='Josh.15.47'>Aşdod və onun qəsəbələri ilə kəndləri, Misir vadisinə və Böyük dənizin sahilinə qədər olan Qəzzə və onun qəsəbələri ilə kəndləri. </verse>
+        <verse osisID='Josh.15.48'>Dağlıq bölgəsində yerləşən şəhərlər isə bunlardır: Şamir, Yattir, Soko,</verse>
+        <verse osisID='Josh.15.49'>Danna, Qiryat-Sanna, yəni Devir,</verse>
+        <verse osisID='Josh.15.50'>Anav, Eştemo, Anim,</verse>
+        <verse osisID='Josh.15.51'>Qoşen, Xolon və Gilo. Bunlar da kəndləri ilə birlikdə on bir şəhər idi. </verse>
+        <verse osisID='Josh.15.52'>Arav, Ruma, Eşan,</verse>
+        <verse osisID='Josh.15.53'>Yanim, Bet-Tappuah, Afeqa,</verse>
+        <verse osisID='Josh.15.54'>Xumta, Qiryat-Arba, yəni Xevron, Sior. Bunlar da kəndləri ilə birlikdə doqquz şəhər idi. </verse>
+        <verse osisID='Josh.15.55'>Maon, Karmel, Zif, Yutta,</verse>
+        <verse osisID='Josh.15.56'>İzreel, Yoqdeam, Zanoah,</verse>
+        <verse osisID='Josh.15.57'>Qayin, Givea, Timna. Bunlar da kəndləri ilə birlikdə on şəhər idi. </verse>
+        <verse osisID='Josh.15.58'>Xalxul, Bet-Sur, Qedor,</verse>
+        <verse osisID='Josh.15.59'>Maarat, Bet-Anot, Elteqon. Bunlar da kəndləri ilə birlikdə altı şəhər idi. </verse>
+        <verse osisID='Josh.15.60'>Qiryat-Baal, yəni Qiryat-Yearim, Rabba. Bunlar da kəndləri ilə birlikdə iki şəhər idi. </verse>
+        <verse osisID='Josh.15.61'>Çöllükdə yerləşən şəhərlər isə bunlardır: Bet-Arava, Middin, Sekaka,</verse>
+        <verse osisID='Josh.15.62'>Nivşan, Duz şəhəri, En-Gedi. Bunlar da kəndləri ilə birlikdə altı şəhər idi. </verse>
+        <verse osisID='Josh.15.63'>Yəhuda övladları Yerusəlimdə yaşayan Yevusluları qova bilmədilər və Yevuslular bu günə qədər Yəhuda övladları ilə birlikdə Yerusəlimdə yaşayır.  </verse>
+      </chapter>
+      <chapter osisID='Josh.16'>
+        <verse osisID='Josh.16.1'>
+          Yusif övladlarına püşk ilə düşən torpaqların sərhədi şərqdən Yerixo sularından – qarşısındakı İordan çayından başlayıb çöllüyə, Yerixodan Bet-Elin dağlıq bölgəsinə qalxırdı.</verse>
+        <verse osisID='Josh.16.2'>Bet-Eldən isə Luza çıxıb Arklılar torpağına, Atarota keçirdi.</verse>
+        <verse osisID='Josh.16.3'>Sonra qərbə doğru Aşağı Bet-Xoron torpağına qədər, Yafletlilər torpağına, bundan sonra isə Gezerə qədər enirdi. Bu sərhədin sonu dənizdə qurtarırdı. </verse>
+        <verse osisID='Josh.16.4'>Yusifin övladları Menaşşe və Efrayim torpaqlarını irs olaraq aldılar. </verse>
+        <verse osisID='Josh.16.5'>Efrayim övladlarının nəsillərinə görə irs torpağının sərhədi belə idi. Şərqə doğru Atrot-Addardan Yuxarı Bet-Xorona qədər gedib dənizdə bitirdi.</verse>
+        <verse osisID='Josh.16.6'>Şimal tərəfdən isə Mikmetatdan şərqə tərəf uzanıb, Taanat-Şilo şəhərinin şərqindən dönərək Yanoahın şərqinə çıxırdı.</verse>
+        <verse osisID='Josh.16.7'>Yanoahdan isə Atarota və Naaraya enərək oradan Yerixoya çatır və sonu İordan çayında qurtarırdı.</verse>
+        <verse osisID='Josh.16.8'>Bu sərhəd Tappuahdan qərbə tərəf Qana vadisinə gedərək sonu dənizdə bitirdi. Nəsillərinə görə Efrayim övladları qəbiləsinin irs torpağı bunlardır.</verse>
+        <verse osisID='Josh.16.9'>Bundan əlavə, Menaşşe övladlarına düşən torpaqlarda da Efrayim övladları üçün ayrılan şəhər və kəndlər var idi. </verse>
+        <verse osisID='Josh.16.10'>Amma Efrayim övladları Gezerdə yaşayan Kənanlıları qovmadılar. Onlar bu günə qədər Efrayim övladları arasında yaşayır, Efrayim övladları üçün mükəlləfiyyətçi quldurlar.  </verse>
+      </chapter>
+      <chapter osisID='Josh.17'>
+        <verse osisID='Josh.17.1'>
+          Menaşşe qəbiləsinin püşkünə bu torpaqlar düşdü: Menaşşe Yusifin ilk oğlu idi. Gileadın atası Makir isə Menaşşenin ilk oğlu idi. Makir döyüşçü olduğu üçün Gilead və Başan torpağı onun oldu.</verse>
+        <verse osisID='Josh.17.2'>Menaşşenin o biri oğulları – Aviezerin, Xeleqin, Asrielin, Şekemin, Xeferin və Şemidanın oğulları üçün də nəsillərinə görə püşk düşdü. Bunlar nəsillərinə görə Yusif oğlu Menaşşenin kişi nəsli idi. </verse>
+        <verse osisID='Josh.17.3'>Lakin Menaşşe oğlu Makir oğlu Gilead oğlu Xefer oğlu Selofxadın oğlanları yox idi, ancaq qızları var idi. Qızlarının adları belə idi: Maxla, Noa, Xoqla, Milka, Tirsa.</verse>
+        <verse osisID='Josh.17.4'>Onlar kahin Eleazarın, Nun oğlu Yeşuanın və rəhbərlərin qarşısına gəlib dedilər: «Rəbb Musaya buyurmuşdu ki, soydaşlarımızın yanında bizə irs torpaq versin». Onda Yeşua Rəbbin əmrinə görə atalarının kişi qohumları arasında onlara irs olaraq torpaq verdi.</verse>
+        <verse osisID='Josh.17.5'>Menaşşeyə İordan çayının o tayında olan Gilead və Başan torpağından başqa on hissə torpaq da düşdü,</verse>
+        <verse osisID='Josh.17.6'>çünki Menaşşe qızları da onun oğulları arasından irs olaraq torpaq aldılar. Gilead diyarı Menaşşenin qalan oğullarına məxsus idi. </verse>
+        <verse osisID='Josh.17.7'>Menaşşenin sərhədi Aşerdən Şekemin şərqində olan Mikmetata uzanaraq cənuba tərəf En-Tappuah əhalisinin yerlərinə gəlib çatırdı.</verse>
+        <verse osisID='Josh.17.8'>Tappuah torpağı Menaşşenin idi, amma Menaşşe sərhədində olan Tappuah şəhəri isə Efrayim oğullarına məxsus idi.</verse>
+        <verse osisID='Josh.17.9'>Sərhəd Qana vadisinə enirdi. Bu vadinin cənubunda olan şəhərlər Menaşşenin şəhərləri arasında olsa da, Efrayimin idi. Menaşşenin sərhədi vadinin şimal tərəfində idi, sonu isə dənizdə qurtarırdı.</verse>
+        <verse osisID='Josh.17.10'>Sərhədin cənubu Efrayimin, şimalı isə Menaşşenin idi. Dəniz də Menaşşenin sərhədi idi. Sərhəd şimaldan Aşerə, şərqdən İssakara gedib çatırdı.</verse>
+        <verse osisID='Josh.17.11'>İssakar və Aşer torpaqlarının daxilində olan bu şəhərlər Menaşşenin idi: Bet-Şeanla qəsəbələri, İvleamla qəsəbələri, Dorla qəsəbələrinin əhalisi, En-Dorla qəsəbələrinin əhalisi, Taanakla qəsəbələrinin əhalisi, Megiddo ilə qəsəbələrinin əhalisi. Bunlar birlikdə üç bölgədən ibarət idi. </verse>
+        <verse osisID='Josh.17.12'>Menaşşe övladları bu şəhərlərdə yaşayanları qova bilmədilər, buna görə Kənanlılar da bu torpaqda qaldılar.</verse>
+        <verse osisID='Josh.17.13'>İsraillilər qüvvətlənəndə Kənanlıları özlərinə mükəlləfiyyətçi etdilər, amma tamamilə qovmadılar. </verse>
+        <verse osisID='Josh.17.14'>Yusif övladları Yeşuaya belə dedilər: «İrs torpaq almaq üçün niyə bizə tək püşklə bir pay verdin? Biz böyük xalqıq və indiyə qədər Rəbb bizə bərəkət verib».</verse>
+        <verse osisID='Josh.17.15'>Yeşua onlara dedi: «Əgər siz böyük xalqsınızsa və Efrayimin dağlıq bölgəsi sizə darlıq edirsə, meşəliyə çıxın, orada Perizlilər və Rafalılar torpağında özünüzə yer edin».</verse>
+        <verse osisID='Josh.17.16'>Yusif övladları dedilər: «Dağlıq bölgəsi bizə bəs deyil. Ancaq dərədə olan torpaqda – Bet-Şean və onun qəsəbələrində, İzreel vadisində yaşayan bütün Kənanlıların dəmir döyüş arabaları var».</verse>
+        <verse osisID='Josh.17.17'>Onda Yeşua Yusif nəslinə – Efrayimlilərə və Menaşşelilərə belə dedi: «Siz böyük xalqsınız, qüvvətiniz də böyükdür, ona görə sizə bir püşk kifayət deyil.</verse>
+        <verse osisID='Josh.17.18'>Dağlıq bölgə də sizin olacaq, o yer meşəlikdir, amma siz oranı təmizləyəcəksiniz və bütünlüklə sizin olacaq. Kənanlılar qüvvətli olsa da, onların dəmir döyüş arabaları olsa da, siz onları qova biləcəksiniz».  </verse>
+      </chapter>
+      <chapter osisID='Josh.18'>
+        <verse osisID='Josh.18.1'>
+          Bütün İsrail övladlarının icması Şiloya yığışıb orada Hüzur çadırını qurdu. Bu torpaq onların hökmranlığı altında idi.</verse>
+        <verse osisID='Josh.18.2'>İsrail övladlarının yeddi qəbiləsi arasında isə irs olan torpaqlar hələ paylanmamışdı.</verse>
+        <verse osisID='Josh.18.3'>Yeşua İsrail övladlarına dedi: «Atalarınızın Allahı Rəbbin sizə verdiyi torpağa mülk sahibi kimi girməyə nə vaxta qədər tərəddüd edəcəksiniz?</verse>
+        <verse osisID='Josh.18.4'>Hər qəbilədən özünüzə üç adam seçin. Onları göndərəcəyəm ki, çıxıb ölkəni dolaşsınlar və alacaqları irs torpaqlara görə oranı təsvir edib mənim yanıma gəlsinlər.</verse>
+        <verse osisID='Josh.18.5'>Onlar oranı yeddi hissəyə bölsünlər. Yəhuda cənubda olan öz torpağında qalsın, Yusifin nəsli də şimalda olan torpağında qalsın.</verse>
+        <verse osisID='Josh.18.6'>Siz ölkəni yeddi hissə kimi təsvir edin və təsviri buraya mənə gətirin. Burada Allahımız Rəbbin hüzurunda sizin üçün püşk atacağam.</verse>
+        <verse osisID='Josh.18.7'>Amma aranızda Levililərin payı yoxdur, çünki onların irsi Rəbbin kahinliyidir. Qad, Ruven qəbilələri və Menaşşe qəbiləsinin yarısı İordan çayının şərq tərəfində Rəbbin qulu Musanın onlara verdiyi irs olan torpaqlarını aldılar». </verse>
+        <verse osisID='Josh.18.8'>Adamlar qalxıb gedəndə Yeşua onlara ölkəni təsvir edərək yazmağı əmr edib dedi: «Gedin, ölkəni gəzib oranı yazılı təsvir edərək yanıma qayıdın. Mən də burada, Şiloda, Rəbbin hüzurunda sizin üçün püşk atacağam».</verse>
+        <verse osisID='Josh.18.9'>Adamlar gedib ölkəni dolaşdılar. Şəhərlərinə görə oranı yeddi hissəyə ayıraraq təsvirini kitaba yazıb Şilodakı ordugaha, Yeşuanın yanına qayıtdılar.</verse>
+        <verse osisID='Josh.18.10'>Yeşua Şiloda Rəbbin hüzurunda onlar üçün püşk atdı və orada İsrail övladlarının paylarına görə torpağı payladı. </verse>
+        <verse osisID='Josh.18.11'>İlk püşk nəsillərinə görə Binyamin övladları qəbiləsinə düşdü. Onlara düşən hissə Yəhuda övladları ilə Yusif övladlarının torpağı arasında idi.</verse>
+        <verse osisID='Josh.18.12'>Şimal tərəfdən onların sərhədi İordan çayından başlayırdı. Sərhəd Yerixonun şimal tərəfindəki yamacına yüksəlirdi, sonra qərbə doğru dağlığa qalxırdı, sonu isə Bet-Aven çölündə qurtarırdı.</verse>
+        <verse osisID='Josh.18.13'>Oradan cənuba doğru sərhəd Luza, yəni Bet-Elə və Luzun yamacına çatırdı. Sonra sərhəd Aşağı Bet-Xoronun cənubunda olan dağlıqdan Atrot-Addara enirdi.</verse>
+        <verse osisID='Josh.18.14'>Sərhəd oradan uzanaraq qərb tərəfdən cənuba doğru, Bet-Xoronun qarşısında olan dağdan da cənuba doğru dönürdü. Onun sonu Yəhuda övladlarının şəhəri olan Qiryat-Baalda, yəni Qiryat-Yearimdə qurtarırdı; qərb sərhədi bu idi.</verse>
+        <verse osisID='Josh.18.15'>Cənub sərhədi Qiryat-Yearimin ən son hissəsindən qərbə doğru Neftoah sularının mənbəyinə çatırdı.</verse>
+        <verse osisID='Josh.18.16'>Ondan sonra sərhəd Refaim vadisinin şimalında Ben-Hinnom dərəsinin qarşısındakı dağın ən son hissəsinə enirdi; buradan da cənuba doğru Hinnom dərəsinə, Yevusun cənub yamacına enib En-Rogelə çatırdı,</verse>
+        <verse osisID='Josh.18.17'>sonra sərhəd şimala doğru uzanaraq En-Şemeşə çıxırdı, Adummim yoxuşu qarşısında olan Gelilota çatırdı; oradan da Ruven oğlu Bohanın qayasına enirdi,</verse>
+        <verse osisID='Josh.18.18'>sonra şimala doğru Aravanın qarşı tərəfinə keçib Aravaya enirdi.</verse>
+        <verse osisID='Josh.18.19'>Sərhəd şimala doğru Bet-Xoqla yoxuşuna keçir, sərhədin sonu Duz dənizinin şimal körfəzində, İordan çayının cənubunda qurtarırdı. Bu, cənub sərhədi idi.</verse>
+        <verse osisID='Josh.18.20'>Onun şərq tərəfdən sərhədi İordan çayı idi. Nəsillərinə görə Binyamin oğullarının irs torpaqlarının ərazisi bunlar idi. </verse>
+        <verse osisID='Josh.18.21'>Nəsillərinə görə Binyamin övladları qəbiləsinin şəhərləri bunlar idi: Yerixo, Bet-Xoqla, Emeq-Qesis,</verse>
+        <verse osisID='Josh.18.22'>Bet-Arava, Semarayim, Bet-El,</verse>
+        <verse osisID='Josh.18.23'>Avvim, Para, Ofra,</verse>
+        <verse osisID='Josh.18.24'>Kefar-Ammonay, Ofni, Geva, yəni kəndləri ilə birlikdə on iki şəhər;</verse>
+        <verse osisID='Josh.18.25'>Giveon, Rama, Beerot,</verse>
+        <verse osisID='Josh.18.26'>Mispe, Kefira, Mosa,</verse>
+        <verse osisID='Josh.18.27'>Reqem, İrpeel, Tarala,</verse>
+        <verse osisID='Josh.18.28'>Sela, Elef, Yevus, yəni Yerusəlim, Givea, Qiryat, yəni kəndləri ilə birlikdə on dörd şəhər. Nəsillərinə görə Binyamin övladlarının irs torpaqları bunlardır.  </verse>
+      </chapter>
+      <chapter osisID='Josh.19'>
+        <verse osisID='Josh.19.1'>
+          İkinci püşk nəsillərinə görə Şimeona – Şimeon övladlarının qəbiləsinə düşdü. Onların irs torpağı Yəhuda övladlarının irs torpağı arasında idi.</verse>
+        <verse osisID='Josh.19.2'>Onların irs torpaqları bunlar idi: Beer-Şeva, Şeva, Molada,</verse>
+        <verse osisID='Josh.19.3'>Xasar-Şual, Bala, Esem,</verse>
+        <verse osisID='Josh.19.4'>Eltolad, Betul, Xorma,</verse>
+        <verse osisID='Josh.19.5'>Ziqlaq, Bet-Markavot, Xasar-Susa,</verse>
+        <verse osisID='Josh.19.6'>Bet-Levaot, Şaruxen, yəni kəndləri ilə birlikdə on üç şəhər;</verse>
+        <verse osisID='Josh.19.7'>Ayin, Rimmon, Eter, Aşan, yəni kəndləri ilə birlikdə dörd şəhər;</verse>
+        <verse osisID='Josh.19.8'>Baalat-Beerə, yəni cənubda Ramaya qədər bu şəhərlərin ətrafındakı bütün kəndlər onların irs olan torpağı idi. Bunlar nəsillərinə görə Şimeon övladları qəbiləsinin irs olan torpaqlarıdır.</verse>
+        <verse osisID='Josh.19.9'>Şimeon övladlarının irs olan torpağı Yəhuda övladlarının payından oldu, çünki Yəhuda övladlarının payı onlar üçün çox idi. Buna görə də Şimeon övladları onların torpaqları arasında irs torpaqlarını aldılar. </verse>
+        <verse osisID='Josh.19.10'>Üçüncü püşk nəsillərinə görə Zevulun övladlarına düşdü. Onların irs olan torpağının sərhədi Saridə qədərdir.</verse>
+        <verse osisID='Josh.19.11'>Sonra sərhədi Maralaya qədər – qərbə doğru yüksəlib Dabbeşetdən keçərək Yoqneam qarşısında olan vadiyə çatırdı.</verse>
+        <verse osisID='Josh.19.12'>Sariddən şərqə – gün doğana tərəf Kislot-Tavor sərhədinə dönüb Davrata qalxaraq Yafiaya yüksəlirdi.</verse>
+        <verse osisID='Josh.19.13'>Oradan şərqə doğru Qat-Xeferə, Et-Qasinə keçirdi və Neaya dönən Rimmona qalxırdı.</verse>
+        <verse osisID='Josh.19.14'>Şimala tərəf sərhəd Xannatona dönüb sonu İftah-El dərəsində idi.</verse>
+        <verse osisID='Josh.19.15'>Qattat, Nahalal, Şimron, İdala, Bet-Lexem, yəni kəndləri ilə birlikdə on iki şəhər idi.</verse>
+        <verse osisID='Josh.19.16'>Nəsillərinə görə Zevulun övladlarının irsi olan torpaq kəndləri ilə birlikdə bu şəhərlər idi. </verse>
+        <verse osisID='Josh.19.17'>Dördüncü püşk nəsillərinə görə İssakara – İssakar övladlarına düşdü.</verse>
+        <verse osisID='Josh.19.18'>Onların torpağı İzreel, Kesulot, Şunem,</verse>
+        <verse osisID='Josh.19.19'>Xafarayim, Şion, Anaxarat,</verse>
+        <verse osisID='Josh.19.20'>Rabbit, Qişyon, Eves,</verse>
+        <verse osisID='Josh.19.21'>Remet, En-Qannim, En-Xadda, Bet-Passes idi.</verse>
+        <verse osisID='Josh.19.22'>Sərhəd Tavora, Şaxsivmaya, Bet-Şemeşə çatırdı. Sərhədlərinin sonu İordan çayında idi. Bunlar kəndləri ilə birlikdə on altı şəhər idi.</verse>
+        <verse osisID='Josh.19.23'>Nəsillərinə görə İssakar övladları qəbiləsinin irs olan kəndləri ilə birlikdə bu şəhərlər idi. </verse>
+        <verse osisID='Josh.19.24'>Beşinci püşk nəsillərinə görə Aşer övladları qəbiləsinə düşdü.</verse>
+        <verse osisID='Josh.19.25'>Onların torpağı Xelqat, Xali, Beten, Akşaf,</verse>
+        <verse osisID='Josh.19.26'>Alamelek, Amad və Mişal idi. Sərhəd qərbə tərəf Karmelə, Şixor-Livnata çatırdı,</verse>
+        <verse osisID='Josh.19.27'>Gündoğana tərəf Bet-Daqona dönürdü. Sonra şimala tərəf Zevuluna, İftah-El dərəsinə, oradan Bet-Emeqə, Neielə çatırdı, sonra şimala doğru Kavula,</verse>
+        <verse osisID='Josh.19.28'>Evrona, Rexova, Xammona, Qanaya, böyük Sidona qədər çatırdı.</verse>
+        <verse osisID='Josh.19.29'>Onda sərhəd Ramaya, qalalı Sur şəhərinə dönürdü. Sərhəd Xosaya dönürdü, sonu Akziv,</verse>
+        <verse osisID='Josh.19.30'>Uma, Afeq, Rexov torpağında dənizdə qurtarırdı. Bunlar kəndləri ilə birlikdə iyirmi iki şəhər idi.</verse>
+        <verse osisID='Josh.19.31'>Nəsillərinə görə Aşer övladları qəbiləsinin irs olan torpaqları kəndləri ilə birlikdə bu şəhərlər idi. </verse>
+        <verse osisID='Josh.19.32'>Altıncı püşk Naftali övladları üçün nəsillərinə görə Naftali övladlarına düşdü.</verse>
+        <verse osisID='Josh.19.33'>Onların sərhədi Xelefdən Saanannimdəki palıd ağacından başlayaraq Adami-Negev və Yavneeli keçib Laqquma çatır, sonu isə İordan çayında bitirdi.</verse>
+        <verse osisID='Josh.19.34'>Sərhəd qərbə doğru Aznot-Tavora dönüb oradan Xuqoqa qalxırdı. Cənubda Zevuluna, qərbdə Aşerə, gündoğana tərəf İordan çayına  çatırdı.</verse>
+        <verse osisID='Josh.19.35'>Qalalı şəhərlər bunlar idi: Siddim, Ser, Xammat, Raqqat, Kinneret,</verse>
+        <verse osisID='Josh.19.36'>Adama, Rama, Xasor,</verse>
+        <verse osisID='Josh.19.37'>Qedeş, Edrei, En-Xasor,</verse>
+        <verse osisID='Josh.19.38'>İreon, Miqdal-El, Xorem, Bet-Anat, Bet-Şemeş. Bunlar kəndləri ilə birlikdə on doqquz şəhər idi.</verse>
+        <verse osisID='Josh.19.39'>Nəsillərinə görə Naftali övladları qəbiləsinin irs olan torpaqları kəndləri ilə birlikdə bu şəhərlər idi. </verse>
+        <verse osisID='Josh.19.40'>Yeddinci püşk nəsillərinə görə Dan övladları qəbiləsinə düşdü.</verse>
+        <verse osisID='Josh.19.41'>İrs torpaqları bunlar idi: Sora, Eştaol, İr-Şemeş,</verse>
+        <verse osisID='Josh.19.42'>Şaalabbin, Ayyalon, İtla,</verse>
+        <verse osisID='Josh.19.43'>Elon, Timna, Eqron,</verse>
+        <verse osisID='Josh.19.44'>Elteqe, Gibbeton, Baalat,</verse>
+        <verse osisID='Josh.19.45'>Yehud, Bene-Beraq, Qat-Rimmon,</verse>
+        <verse osisID='Josh.19.46'>Me-Yarqon, Yafo qarşısında olan sərhədi ilə Raqqon.</verse>
+        <verse osisID='Josh.19.47'>Amma Dan övladlarının torpağı onların əlindən çıxdı. Ona görə də Dan övladları Leşem üzərinə döyüşə getdilər. Oranı alıb əhalisini qılıncdan keçirtdilər və oraya sahib olub məskən saldılar. Ataları Danın şərəfinə görə Leşemə Dan adı verdilər.</verse>
+        <verse osisID='Josh.19.48'>Nəsillərinə görə Dan övladları qəbiləsinin irs olan kəndləri ilə birlikdə bu şəhərlər idi. </verse>
+        <verse osisID='Josh.19.49'>Ölkəni torpaq paylarına görə irs olaraq bölüşdürüb qurtarandan sonra İsrail övladları Nun oğlu Yeşuaya aralarında irs olaraq torpaq verdilər.</verse>
+        <verse osisID='Josh.19.50'>Rəbbin əmrinə görə istədiyi şəhəri – Efrayimin dağlıq bölgəsində Timnat-Serahı ona verdilər. O da bu şəhəri tikib orada yaşadı. </verse>
+        <verse osisID='Josh.19.51'>Şilodakı Hüzur çadırının girişində, Rəbbin hüzurunda kahin Eleazarın, Nun oğlu Yeşuanın, İsrail qəbilələrinin nəsil başçılarının püşk ilə bölüşdürdükləri irs torpaqlar bunlar idi. Beləliklə, onlar ölkənin bölüşdürülməsini başa çatdırdılar.  </verse>
+      </chapter>
+      <chapter osisID='Josh.20'>
+        <verse osisID='Josh.20.1'>
+          Rəbb Yeşuaya dedi:</verse>
+        <verse osisID='Josh.20.2'>«İsrail övladlarına söylə: “Özünüz üçün Musa vasitəsilə dediyim sığınacaq şəhərləri seçin ki,</verse>
+        <verse osisID='Josh.20.3'>bilmədən, səhvən bir adamı öldürən qatil oraya qaçsın. Ora sizin üçün qan qisasını alan adamdan sığınacaq yeri olsun.</verse>
+        <verse osisID='Josh.20.4'>Qoy qatil bu şəhərlərdən birinə qaçsın, şəhər qapısının girəcəyində dursun. Orada o şəhərin ağsaqqallarına öz əməlini söyləsin. Onlar da onu şəhərə, yanlarına aparsınlar və yer versinlər ki, onlarla yaşasın.</verse>
+        <verse osisID='Josh.20.5'>Əgər qan qisası alan onu təqib edərsə, o zaman qatili ona təslim etməsinlər, çünki qonşusunu bilmədən öldürmüşdür, əvvəldən onunla ədavəti yox idi.</verse>
+        <verse osisID='Josh.20.6'>Bu adam icma qarşısında hökm alana qədər və o dövrdə olan baş kahinin ölümünə qədər qoy bu şəhərdə yaşasın. Bundan sonra qatil qaçdığı şəhərə, öz şəhərinə, öz evinə qayıda bilər”». </verse>
+        <verse osisID='Josh.20.7'>Sığınacaq şəhər üçün Qalileyada, Naftalinin dağlıq bölgəsində Qedeşi, Efrayimin dağlıq bölgəsində Şekemi və Yəhudanın dağlıq bölgəsində Qiryat-Arbanı, yəni Xevronu ayırdılar.</verse>
+        <verse osisID='Josh.20.8'>İordan çayının şərqində, Yerixonun şərqində isə Ruven qəbiləsinin torpağından yaylada yerləşən səhradakı Beseri, Qad qəbiləsinin torpağından olan Gileaddakı Ramotu, Menaşşe qəbiləsindən olan Başanda Qolanı ayırdılar.</verse>
+        <verse osisID='Josh.20.9'>Bilmədən qətl edən hər bir kəs oraya qaçsın və icma qarşısında dayananadək qan qisasını alanın əli ilə öldürülməsin deyə bütün İsraillilərlə aralarında yaşayan yadellilər üçün təyin olunan şəhərlər bunlar idi.  </verse>
+      </chapter>
+      <chapter osisID='Josh.21'>
+        <verse osisID='Josh.21.1'>
+            O zaman Levililərin nəsil başçıları kahin Eleazara, Nun oğlu Yeşuaya və İsrail övladları qəbilələrinin nəsil başçılarına yaxınlaşdılar.</verse>
+        <verse osisID='Josh.21.2'>Kənan torpağında yerləşən Şiloda onlara belə dedilər: «Rəbb Musa vasitəsilə bizə yaşamaq üçün şəhərlər, heyvanlarımız üçün otlaqlar verməyi əmr edib».</verse>
+        <verse osisID='Josh.21.3'>İsrail övladları Rəbbin əmrinə görə öz irs torpaqlarından bu şəhərləri və oranın otlaqlarını Levililərə verdilər. </verse>
+        <verse osisID='Josh.21.4'>Püşk Qohatdan olan nəsillərə düşdü. Levililərdən olan kahin Harun övladlarına Yəhuda, Şimeon və Binyamin qəbilələrindən püşk ilə on üç şəhər verildi.</verse>
+        <verse osisID='Josh.21.5'>Digər Qohat övladlarına isə Efrayim qəbiləsinin nəsillərindən, Dan qəbiləsindən və Menaşşe qəbiləsinin yarısından püşk ilə on şəhər verildi. </verse>
+        <verse osisID='Josh.21.6'>Gerşon övladlarına İssakar qəbiləsi nəsillərindən, Aşer, Naftali qəbilələrindən, Başanda Menaşşe qəbiləsinin yarısından püşk ilə on üç şəhər verildi. </verse>
+        <verse osisID='Josh.21.7'>Nəsillərinə görə Merari övladlarına Ruven, Qad, Zevulun qəbilələrindən on iki şəhər verildi. </verse>
+        <verse osisID='Josh.21.8'>İsrail övladları Musa vasitəsilə Rəbbin əmr etdiyinə görə bu şəhərləri və onların otlaqlarını püşk ilə Levililərə verdilər.</verse>
+        <verse osisID='Josh.21.9'>Onlara Yəhuda və Şimeon övladlarının qəbilələrindən adları göstərilən bu şəhərləri verdilər.</verse>
+        <verse osisID='Josh.21.10'>Bunlar Levililərdən olan Qohat övladlarından Harun övladları üçün idi, çünki ilk püşk onların idi.</verse>
+        <verse osisID='Josh.21.11'>Yəhudanın dağlıq bölgəsindəki Anaqlıların atası Arbanın adı ilə adlanan Qiryat-Arba şəhərini, yəni Xevronu və ətrafında olan otlaqları onlara verdilər.</verse>
+        <verse osisID='Josh.21.12'>Amma şəhərin tarlaları ilə kəndlərini mülk olaraq Yefunne oğlu Kalevə verdilər. </verse>
+        <verse osisID='Josh.21.13'>Kahin Harun övladlarına qatillər üçün bu sığınacaq şəhərləri verdilər: Xevronla otlaqlarını, Livna ilə otlaqlarını,</verse>
+        <verse osisID='Josh.21.14'>Yattirlə otlaqlarını, Eştemoa ilə otlaqlarını,</verse>
+        <verse osisID='Josh.21.15'>Xolonla otlaqlarını, Devirlə otlaqlarını,</verse>
+        <verse osisID='Josh.21.16'>Ayin, Yutta, Bet-Şemeş şəhərləri ilə otlaqlarını. Bu, iki qəbilədən cəmi doqquz şəhər idi.</verse>
+        <verse osisID='Josh.21.17'>Binyamin qəbiləsindən isə bu şəhərləri verdilər: Giveonla otlaqlarını, Geva ilə otlaqlarını,</verse>
+        <verse osisID='Josh.21.18'>Anatotla otlaqlarını, Almonla otlaqlarını. Bu, dörd şəhər idi.</verse>
+        <verse osisID='Josh.21.19'>Harun övladlarının, kahinlərin bütün şəhərləri otlaqları ilə birgə on üç şəhər idi. </verse>
+        <verse osisID='Josh.21.20'>Levililərdən olan digər Qohat övladlarına nəsillərinə görə püşklə düşən Efrayim qəbiləsinə aid şəhərləri verdilər.</verse>
+        <verse osisID='Josh.21.21'>Onlara Efrayimin dağlıq bölgəsində qatillər üçün bu sığınacaq şəhərləri verdilər: Şekemlə otlaqlarını, Gezerlə otlaqlarını,</verse>
+        <verse osisID='Josh.21.22'>Qivsayimlə otlaqlarını, Bet-Xoronla otlaqlarını verdilər. Bunlar cəmi dörd şəhər idi.</verse>
+        <verse osisID='Josh.21.23'>Dan qəbiləsindən bu şəhərləri verdilər: Elteqe ilə otlaqlarını, Gibbetonla otlaqlarını,</verse>
+        <verse osisID='Josh.21.24'>Ayyalonla otlaqlarını, Qat-Rimmonla otlaqlarını. Bunlar da dörd şəhər idi.</verse>
+        <verse osisID='Josh.21.25'>Menaşşe qəbiləsinin yarısından isə bu şəhərləri verdilər: Taanakla otlaqlarını, Qat-Rimmonla otlaqlarını. Bunlar isə iki şəhər idi.</verse>
+        <verse osisID='Josh.21.26'>Digər Qohat övladlarına nəsillərinə görə verilən bütün şəhərlər otlaqları ilə birlikdə on şəhər idi. </verse>
+        <verse osisID='Josh.21.27'>Levililərin nəsillərindən Gerşon övladlarına Menaşşe qəbiləsinin yarısından qatillər üçün bu sığınacaq şəhərləri verdilər: Başandakı Qolanla otlaqlarını, Beeştera ilə otlaqlarını verdilər. Bunlar iki şəhər idi.</verse>
+        <verse osisID='Josh.21.28'>İssakar qəbiləsindən Qişyonla otlaqlarını, Davratla otlaqlarını,</verse>
+        <verse osisID='Josh.21.29'>Yarmutla otlaqlarını, En-Qannimlə otlaqlarını verdilər. Bunlar dörd şəhər idi.</verse>
+        <verse osisID='Josh.21.30'>Aşer qəbiləsindən Mişalla otlaqlarını, Avdonla otlaqlarını,</verse>
+        <verse osisID='Josh.21.31'>Xelqatla otlaqlarını, Rexovla otlaqlarını verdilər. Bunlar dörd şəhər idi.</verse>
+        <verse osisID='Josh.21.32'>Naftali qəbiləsindən qatillər üçün sığınacaq şəhəri olan Qalileyadakı Qedeşlə otlaqlarını, Xammot-Dorla otlaqlarını və Qartanla otlaqlarını verdilər. Bunlar üç şəhər idi.</verse>
+        <verse osisID='Josh.21.33'>Nəsillərinə görə Gerşonluların bütün şəhərləri otlaqları ilə birlikdə on üç şəhər idi </verse>
+        <verse osisID='Josh.21.34'>Levililərdən olan Merari övladlarının nəsillərinə bu şəhərləri verdilər: Zevulun qəbiləsindən Yoqneamla otlaqlarını, Qarta ilə otlaqlarını,</verse>
+        <verse osisID='Josh.21.35'>Dimna ilə otlaqlarını, Nahalalla otlaqlarını. Bunlar dörd şəhər idi.</verse>
+        <verse osisID='Josh.21.36'>Onlara Ruven qəbiləsindən Beserlə otlaqlarını, Yahsa ilə otlaqlarını,</verse>
+        <verse osisID='Josh.21.37'>Qedemotla otlaqlarını, Mefaatla otlaqlarını verdilər. Bunlar dörd şəhər idi;</verse>
+        <verse osisID='Josh.21.38'>Qad qəbiləsindən qatillər üçün sığınacaq şəhəri olan Gileaddakı Ramotla otlaqlarını, Maxanayimlə otlaqlarını,</verse>
+        <verse osisID='Josh.21.39'>Xeşbonla otlaqlarını, Yazerlə otlaqlarını verdilər. Bunlar dörd şəhər idi.</verse>
+        <verse osisID='Josh.21.40'>Bunların hamısı Merari övladlarının, yəni Levililərdən qalan nəsillərin şəhərləri idi. Onların püşkü on iki şəhərə düşmüşdü. </verse>
+        <verse osisID='Josh.21.41'>İsrail övladlarının irsi arasında Levililərin bütün şəhərləri otlaqları ilə birlikdə qırx səkkiz şəhər idi.</verse>
+        <verse osisID='Josh.21.42'>Bu şəhərlərin hər birinin ətrafında otlaqları var idi. Şəhərlərin hamısı belə idi. </verse>
+        <verse osisID='Josh.21.43'>Rəbb atalarına etdiyi anda görə vəd etdiyi bütün torpağı İsraillilərə verdi. Onlar bu torpağa sahib oldular və orada məskən saldılar.</verse>
+        <verse osisID='Josh.21.44'>Rəbb atalarına etdiyi anda görə hər şeydə onlara hər tərəfdən dinclik verdi və bütün düşmənlərindən heç biri onların qarşısında dura bilmədi. Rəbb bütün düşmənlərini onlara təslim etdi.</verse>
+        <verse osisID='Josh.21.45'>Rəbbin İsrail nəslinə söylədiyi bütün yaxşı sözlərdən heç biri boşa çıxmadı, hamısı yerinə yetdi.  </verse>
+      </chapter>
+      <chapter osisID='Josh.22'>
+        <verse osisID='Josh.22.1'>
+          O zaman Yeşua Ruvenliləri, Qadlıları, Menaşşe qəbiləsinin yarısını çağırıb dedi:</verse>
+        <verse osisID='Josh.22.2'>«Siz Rəbbin qulu Musanın əmr etdiyi hər şeyə əməl etdiniz və mənim sizə əmr etdiyim hər şeydə sözümə qulaq asdınız.</verse>
+        <verse osisID='Josh.22.3'>Bu günə qədər keçən uzun müddət ərzində soydaşlarınızı tərk etmədiniz və Allahınız Rəbbin sizə buyurduğu işlərə əməl etdiniz.</verse>
+        <verse osisID='Josh.22.4'>Ona görə də Allahınız Rəbb soydaşlarınıza vəd etdiyi kimi əmin-amanlıq verdi. İndi Rəbbin qulu Musanın İordan çayının o tərəfində sizə mülk olaraq verdiyi torpağa, öz çadırlarınıza qayıdın.</verse>
+        <verse osisID='Josh.22.5'>Ancaq Rəbbin qulu Musanın sizə buyurduğu əmrə və qanuna əməl etməyə səylə çalışın. Allahınız Rəbbi sevin, tamamilə Allahın göstərdiyi yolla gedin və əmrlərinə əməl edin, Ona bağlanın, bütün qəlbinizlə, bütün varlığınızla yalnız Ona qulluq edin».</verse>
+        <verse osisID='Josh.22.6'>Yeşua onlara xeyir-dua verib yola saldı və onlar çadırlarına qayıtdılar. </verse>
+        <verse osisID='Josh.22.7'>Musa Başanda Menaşşe qəbiləsinin yarısına irs torpağı vermişdi. Yeşua isə İordan çayının qərb tərəfində bu qəbilənin o biri yarısına soydaşları arasında irs torpağı verdi. Yeşua onları çadırlarına göndərən zaman xeyir-dua verdi.</verse>
+        <verse osisID='Josh.22.8'>Onlara belə dedi: «İndi öz çadırlarınıza çoxlu var-dövlətlə qayıdırsınız. Özünüzə xeyli heyvan, qızıl-gümüş, tunc, dəmir və çoxlu paltar götürmüsünüz. Düşmənlərinizdən qarət etdiyiniz bu malı soydaşlarınıza paylayın». </verse>
+        <verse osisID='Josh.22.9'>Ruven övladları, Qad övladları, Menaşşe qəbiləsinin yarısı Kənan torpağındakı Şilodan, İsrail övladlarının yanından qayıtdılar. Onlar Rəbbin əmrinə görə Musa vasitəsilə sahib olduqları Gilead torpağına – mülk olaraq onlara verilən torpağa yola düşdülər. </verse>
+        <verse osisID='Josh.22.10'>Onlar Kənan torpağında olan İordan çayının yanındakı Gelilota çatdılar. Orada – İordan çayının yanında Ruven övladları, Qad övladları və Menaşşe qəbiləsinin yarısı bir qurbangah – möhtəşəm görünüşlü qurbangah qurdular.</verse>
+        <verse osisID='Josh.22.11'>İsrail övladları bunu eşitdilər: «Budur, Ruven övladları, Qad övladları və Menaşşe qəbiləsinin yarısı Kənan torpağının sərhədində – İordan çayının yanındakı Gelilotda, İsrail övladlarına aid olan tərəfdə bir qurbangah qurub».</verse>
+        <verse osisID='Josh.22.12'>İsrail övladları bunu eşidəndə bütün İsrail övladlarının icmasını onlara qarşı döyüşə çıxmaq üçün Şiloya çağırdılar. </verse>
+        <verse osisID='Josh.22.13'>İsrail övladları Gilead torpağına, Ruven övladlarının, Qad övladlarının və Menaşşe qəbiləsinin yarısının yanına kahin Eleazar oğlu Pinxası,</verse>
+        <verse osisID='Josh.22.14'>onunla birlikdə İsrail qəbilələrinin hər biri üçün nəsil rəhbəri olmaqla on rəhbər göndərdilər. Onların hər biri İsrail tayfaları arasında nəsil başçıları idi.</verse>
+        <verse osisID='Josh.22.15'>Onlar Gilead torpağına, Ruven övladlarının, Qad övladlarının və Menaşşe qəbiləsinin yarısının yanına gələrək belə dedi:</verse>
+        <verse osisID='Josh.22.16'>«Rəbbin icması hamılıqla belə deyir: “Nədir İsrailin Allahına belə xəyanət etdiniz? Niyə Rəbbin yolundan döndünüz və bu gün özünüzə başqa qurbangah quraraq Ona qarşı üsyan etdiniz?</verse>
+        <verse osisID='Josh.22.17'>Rəbbin icması üzərinə bəla gətirən və bu günə qədər də təmizlənmədiyimiz Peor günahı məgər bizə azlıq edir ki,</verse>
+        <verse osisID='Josh.22.18'>bu gün də Rəbbin yolundan dönürsünüz? Əgər siz bu gün Rəbbə qarşı üsyan etsəniz, O da sabah bütün İsrail icmasına qəzəblənəcək.</verse>
+        <verse osisID='Josh.22.19'>Əgər sahib olduğunuz torpaq murdardırsa, Rəbbin məskəninin yerləşdiyi – Rəbbin mülkü olan torpağa keçin. Qoy torpaq payınız bizim aramızda olsun. Allahımız Rəbbin qurbangahından başqa özünüzə qurbangah qurmaqla Rəbbə və bizə qarşı üsyan etməyin.</verse>
+        <verse osisID='Josh.22.20'>Zerah oğlu Akan məhv edilmək üçün həsr olunan şeylərdən götürməklə xəyanət etmədimi? Ona görə bütün İsrail icması üzərinə qəzəb gəlmədimi? Bu günahdan ötrü o adam tək özü məhv olmadı”». </verse>
+        <verse osisID='Josh.22.21'>Ruven övladları, Qad övladları, Menaşşe qəbiləsinin yarısı İsrail tayfalarının başçılarına cavab verdilər:</verse>
+        <verse osisID='Josh.22.22'>«Qadir Allah Rəbb! Qadir Allah Rəbb! O bilir, qoy İsrail də bilsin. Əgər Rəbbin əleyhinə çıxıb üsyan edəriksə, qoy bu gün O bizə qənim olsun!</verse>
+        <verse osisID='Josh.22.23'>Əgər Rəbbin yolundan dönmək üçün üzərində yandırma qurbanları, taxıl təqdimləri, ünsiyyət qurbanları təqdim etməkdən ötrü özümüzə başqa bir qurbangah qurmuşuqsa, qoy Rəbb Özü bunun cavabını bizdən istəsin.</verse>
+        <verse osisID='Josh.22.24'>Amma bunu qorxaraq bu məqsədlə etdik ki, sabah sizin övladlarınız övladlarımıza deməsinlər: “İsrailin Allahı Rəbdən sizə nə?</verse>
+        <verse osisID='Josh.22.25'>Ey Ruven övladları, ey Qad övladları! Rəbb sizinlə bizim aramızda İordan çayını sərhəd qoydu. Rəbdə sizin payınız yoxdur”. Bununla da sizin övladlarınız bizim övladlarımızı Rəbb qorxusundan döndərə bilər.</verse>
+        <verse osisID='Josh.22.26'>Ona görə belə dedik: “Özümüzə bir qurbangah qurmaq üçün işə başlayaq”. Bu qurbangah yandırma qurbanı və başqa qurbanlar üçün deyil,</verse>
+        <verse osisID='Josh.22.27'>bizimlə sizin aranızda və sonrakı nəsillərimiz arasında şahid olmaq üçündür. Ta ki biz də yandırma qurbanlarımız, başqa qurbanlarımız və ünsiyyət qurbanlarımızla Rəbbin hüzurunda Ona xidmət edək. Sabah sizin övladlarınız da bizim övladlarımıza “Rəbdə sizin payınız yoxdur” deməsinlər.</verse>
+        <verse osisID='Josh.22.28'>Biz dedik: “Sabah bizə yaxud nəsillərimizə belə desələr, biz də belə cavab verərik ki, atalarımızın qurduğu Rəbbin qurbangahının surətinə baxın. Bu yandırma qurbanlar və başqa qurbanlar üçün deyil, yalnız sizinlə bizim aramızda şahid olmaq üçündür”.</verse>
+        <verse osisID='Josh.22.29'>Rəbbə qarşı üsyan etmək, bu gün Rəbbin yolundan dönmək, yandırma qurbanı, taxıl təqdimləri, başqa qurbanlar üçün Allahımız Rəbbin məskəni qarşısında olan Öz qurbangahından başqa qurbangah qurmaq qoy bizdən uzaq olsun». </verse>
+        <verse osisID='Josh.22.30'>Kahin Pinxas, onunla birgə olan icma rəhbərləri, yəni İsrail tayfalarının başçıları Ruven övladlarının, Qad övladlarının və Menaşşe övladlarının söylədiklərini eşidəndə bu sözləri bəyəndilər.</verse>
+        <verse osisID='Josh.22.31'>Kahin Eleazar oğlu Pinxas və rəhbərlər Ruven övladlarına, Qad övladlarına və Menaşşe övladlarına dedilər: «Bu gün bildik ki, Rəbb aramızdadır, çünki Ona qarşı bu xəyanəti etmədiniz və İsrailliləri Rəbbin əlindən qurtardınız». </verse>
+        <verse osisID='Josh.22.32'>Kahin Eleazar oğlu Pinxas və rəhbərlər Ruven övladları və Qad övladlarının yanından, Gilead torpağından Kənan torpağına İsrail övladlarının yanına qayıdıb onlara xəbər gətirdilər.</verse>
+        <verse osisID='Josh.22.33'>Bu işi İsrail övladları da bəyəndilər. Onlar Allaha şükür etdilər və Ruven övladlarına, Qad övladlarına qarşı müharibə etmək və onların yaşadıqları ölkəni viran etmək fikrindən döndülər. </verse>
+        <verse osisID='Josh.22.34'>Ruven övladları və Qad övladları qurbangahın adını «Şahid» qoydular. Çünki onlar dedi: «Bu qurbangah Rəbbin Allah olduğuna aramızda şahiddir».  </verse>
+      </chapter>
+      <chapter osisID='Josh.23'>
+        <verse osisID='Josh.23.1'>
+          Rəbb İsraillilərə hər tərəfdən düşmənlərindən əmin-amanlıq verəndən sonra uzun müddət keçdi. Artıq Yeşua qocalıb yaşa dolmuşdu.</verse>
+        <verse osisID='Josh.23.2'>O bütün İsraili, ağsaqqalları, başçıları, hakimləri və məmurları çağırdı və onlara dedi: «Mən qocalmışam, yaşım çoxdur.</verse>
+        <verse osisID='Josh.23.3'>Allahınız Rəbbin sizin uğrunuzda bütün bu millətlərə nə etdiyini gördünüz, çünki Allahınız Rəbb Özü sizin üçün döyüşdü.</verse>
+        <verse osisID='Josh.23.4'>Budur, İordan çayından qərb tərəfə Böyük dənizə qədər qırdığım bütün millətlərin torpaqları ilə birlikdə qalan bu millətlərin də torpaqlarını qəbilələriniz üçün irs olaraq payladım.</verse>
+        <verse osisID='Josh.23.5'>Allahınız Rəbb Özü onları qarşınızdan silib atacaq və onları gözünüzün qarşısından qovacaq. Allahınız Rəbbin sizə söz verdiyi kimi onların torpağına sahib olacaqsınız.</verse>
+        <verse osisID='Josh.23.6'>Musanın Qanun kitabında yazılan hər şeyi saxlayıb yerinə yetirmək üçün çox diqqətli olun ki, ondan nə sağa, nə də sola dönəsiniz.</verse>
+        <verse osisID='Josh.23.7'>Sizinlə qalan bu millətlərə qarışmayın, allahlarının adını çəkməyin, onlara and içməyin, onlara qulluq etməyin, onlara səcdə qılmayın.</verse>
+        <verse osisID='Josh.23.8'>Yalnız bu günə qədər etdiyiniz kimi Rəbbə etibar edin.</verse>
+        <verse osisID='Josh.23.9'>Çünki Rəbb qarşınızdan böyük və qüvvətli millətləri qovdu, ona görə də bu günə qədər sizin qarşınızda heç kim dura bilmədi.</verse>
+        <verse osisID='Josh.23.10'>Sizdən bir adam min adamı qova bildi, çünki Allahınız Rəbb sizə dediyi kimi sizin üçün Özü döyüşdü.</verse>
+        <verse osisID='Josh.23.11'>Öz canınız xatirinə Allahınız Rəbbi sevməyə cəhd edin.</verse>
+        <verse osisID='Josh.23.12'>Əgər geri dönsəniz, sizin aranızda yaşayan bu millətlərdən qalanlara bağlansanız, onlarla qohum olsanız, onlarla qaynayıb-qarışsanız,</verse>
+        <verse osisID='Josh.23.13'>yaxşı bilin ki, Allahınız Rəbb bu millətləri gözünüz qarşısından bir daha qovmayacaq. Allahınız Rəbbin verdiyi bu nemətli torpaq üzərindən yox olana qədər onlar sizin üçün kəmənd, tələ, böyürlərinizə qamçı və gözlərinizə tikan olacaq. </verse>
+        <verse osisID='Josh.23.14'>Budur, bu gün mən də hamı kimi dünyadan köçəcəyəm. Bütün qəlbinizlə və varlığınızla bilirsiniz ki, Allahınız Rəbbin haqqınızda dediyi bütün yaxşı şeylərdən heç biri boşa çıxmadı. Hamısı sizin üçün yerinə yetdi. Onun sözlərindən heç biri boşa çıxmadı.</verse>
+        <verse osisID='Josh.23.15'>Allahınız Rəbbin sizə vəd etdiyi bütün nemətli şeylər necə yerinə yetdisə, verdiyi bu yaxşı torpaq üzərindən sizi həlak edənə qədər bütün pis şeyləri də Rəbb beləcə sizin başınıza gətirəcək.</verse>
+        <verse osisID='Josh.23.16'>Əgər Allahınız Rəbbin sizə buyurduğu əhdi pozsanız, gedib başqa allahlara qulluq etsəniz, onlara səcdə qılsanız, Rəbbin qəzəbi sizə qarşı alovlanacaq və sizə verdiyi nemətli torpaq üzərindən tezliklə yox olacaqsınız».  </verse>
+      </chapter>
+      <chapter osisID='Josh.24'>
+        <verse osisID='Josh.24.1'>
+          Yeşua İsrailin bütün qəbilələrini Şekemə topladı və İsrailin ağsaqqallarını, başçılarını, hakimlərini və məmurlarını çağırdı. Onlar Allahın hüzurunda durdular.</verse>
+        <verse osisID='Josh.24.2'>Yeşua bütün xalqa dedi: «İsrailin Allahı Rəbb belə deyir: “İbrahimin, Naxorun atası Terah və atalarınız keçmişdə Fərat çayının o biri tayında yaşayırdılar. Onlar başqa allahlara qulluq edirdilər.</verse>
+        <verse osisID='Josh.24.3'>Atanız İbrahimi Fərat çayının o biri tayından gətirib bütün Kənan torpağında gəzdirdim, nəslini çoxaldaraq ona İshaqı verdim.</verse>
+        <verse osisID='Josh.24.4'>İshaqa Yaqubu və Esavı verdim. Esavın mülk sahibi olması üçün Seir dağını ona verdim. Yaqubla övladları isə Misirə getdilər.</verse>
+        <verse osisID='Josh.24.5'>Musa ilə Harunu göndərib Misiri bəlalara düçar etdim və sonra sizi oradan çıxartdım.</verse>
+        <verse osisID='Josh.24.6'>Atalarınızı Misirdən çıxartdım, siz Qırmızı dənizə tərəf gəldiniz. Misirlilər Qırmızı dənizə qədər döyüş arabaları və süvarilərlə atalarınızı təqib etdilər.</verse>
+        <verse osisID='Josh.24.7'>Onlar Rəbbə fəryad edəndə O, Misirlilərlə sizin aranızda qaranlıq yaratdı, onların üstünə dənizi gətirdi, onlar suların altında qaldılar. Misirdə etdiyim şeyləri gözünüzlə gördünüz və uzun müddət səhrada yaşadınız. </verse>
+        <verse osisID='Josh.24.8'>Sizi İordan çayının şərq tərəfində yaşayan Emorlular torpağına gətirdim, onlar sizinlə vuruşanda onları sizə təslim etdim, torpaqlarını isə mülk olaraq aldınız və hamısını qarşınızdan yox etdim.</verse>
+        <verse osisID='Josh.24.9'>Moav padşahı Sippor oğlu Balaq qalxıb İsraillilərlə vuruşdu və xəbər göndərib Beor oğlu Bilamı sizə lənət etmək üçün çağırdı.</verse>
+        <verse osisID='Josh.24.10'>Lakin Bilamı eşitmək istəmədim. O da ancaq xeyir-dua verdi. Beləcə sizi onun əlindən azad etdim.</verse>
+        <verse osisID='Josh.24.11'>İordan çayından keçib Yerixoya gəldiniz. Yerixo adamları, Emorlular, Perizlilər, Kənanlılar, Xetlilər, Qirqaşlılar, Xivlilər, Yevuslular sizə qarşı vuruşdular, lakin onları sizə təslim etdim.</verse>
+        <verse osisID='Josh.24.12'>Sizin önünüzcə eşşəkarısı çıxarıb onunla Emorluların iki padşahını qarşınızdan qovdum. Bu iş sizin qılıncınızla və ox-kamanınızla olmadı.</verse>
+        <verse osisID='Josh.24.13'>Üzərində işləmədiyiniz bir torpağı, tikmədiyiniz şəhərləri sizə verdim ki, orada yaşayasınız. Salmadığınız bağlardan və zeytunluqlardan yeyirsiniz”. </verse>
+        <verse osisID='Josh.24.14'>Ona görə də Rəbdən qorxun, səmimiyyətlə və sədaqətlə Ona qulluq edin. Fərat çayının o biri tərəfində və Misirdə atalarınızın qulluq etdiyi allahları atın, yalnız Rəbbə qulluq edin.</verse>
+        <verse osisID='Josh.24.15'>Əgər Rəbbə qulluq etmək gözünüzdə pisdirsə, bu gün kimə qulluq edəcəyinizi özünüz seçin. Atalarınızın qulluq etdikləri Fərat çayının o tayındakı allahlaramı, yoxsa torpaqlarında yaşadığınız Emorluların allahlarınamı qulluq edəcəksiniz? Amma mən və mənim evimdəkilər Rəbbə qulluq edəcək». </verse>
+        <verse osisID='Josh.24.16'>Xalq cavab verdi: «Rəbbi tərk edib başqa allahlara qulluq etmək qoy bizdən uzaq olsun!</verse>
+        <verse osisID='Josh.24.17'>Çünki bizi və atalarımızı Misir torpağından – köləlik diyarından çıxaran, gözümüzün qarşısında bu böyük əlamətləri göstərən və getdiyimiz bu yolda, arasından keçdiyimiz bütün xalqlar arasında bizi qoruyan yalnız Allahımız Rəbdir.</verse>
+        <verse osisID='Josh.24.18'>Rəbb bütün xalqları, bu torpaqda yaşayan Emorluları qarşımızdan qovdu. Biz də Rəbbə qulluq edəcəyik, çünki Allahımız Odur». </verse>
+        <verse osisID='Josh.24.19'>Yeşua xalqa dedi: «Rəbbə qulluq edə bilməzsiniz, çünki O, müqəddəs Allahdır. O, qısqanc Allahdır, qanunsuzluğunuzu və günahlarınızı bağışlamayacaq.</verse>
+        <verse osisID='Josh.24.20'>Əgər Rəbbi tərk edib yad allahlara qulluq etsəniz, sizə yaxşılıq edən Rəbb əleyhinizə dönüb pislik edəcək və sizi məhv edəcək».</verse>
+        <verse osisID='Josh.24.21'>Xalq Yeşuaya dedi: «Xeyr, ancaq Rəbbə qulluq edəcəyik».</verse>
+        <verse osisID='Josh.24.22'>Yeşua xalqa dedi: «Qulluq etmək üçün Rəbbi seçdiyinizə siz özünüz şahidsiniz». Onlar «biz şahidik» dedilər.</verse>
+        <verse osisID='Josh.24.23'>Yeşua dedi: «Elə isə indi aranızda olan yad allahları atın, ürəyinizi İsrailin Allahı Rəbbə meyl etdirin».</verse>
+        <verse osisID='Josh.24.24'>Xalq Yeşuaya dedi: «Allahımız Rəbbə qulluq edəcəyik və yalnız Onun sözünə qulaq asacağıq». </verse>
+        <verse osisID='Josh.24.25'>Yeşua o gün xalqla əhd bağladı. Onlar üçün Şekemdə qanun və hökm qoydu.</verse>
+        <verse osisID='Josh.24.26'>Yeşua bu sözləri Allahın Qanun kitabına yazdı. Sonra böyük bir daş götürüb Rəbbin Müqəddəs məkanının yanında olan palıd ağacı altında yerləşdirdi.</verse>
+        <verse osisID='Josh.24.27'>Yeşua bütün xalqa dedi: «Budur, bu daş bizə qarşı şahid olacaq, çünki Rəbbin bizə dediyi bütün sözləri o eşitdi. Qoy bu daş Allahınızı inkar etməmək üçün sizə qarşı şahid olsun».</verse>
+        <verse osisID='Josh.24.28'>Bundan sonra bütün xalqı irs aldığı torpaqlara göndərdi. </verse>
+        <verse osisID='Josh.24.29'>Bu hadisələrdən sonra Rəbbin qulu Nun oğlu Yeşua yüz on yaşında vəfat etdi.</verse>
+        <verse osisID='Josh.24.30'>Onu Qaaş dağının şimalında, Efrayimin dağlıq bölgəsindəki Timnat-Serahda irs olan torpağının sahəsində dəfn etdilər. </verse>
+        <verse osisID='Josh.24.31'>Yeşuanın bütün ömrü boyu və ondan sonra sağ qalan, Rəbbin İsrail üçün etdiyi bütün işləri bilən ağsaqqalların ömrü boyu İsrail xalqı Rəbbə qulluq etdi. </verse>
+        <verse osisID='Josh.24.32'>İsraillilər Misirdən çıxarkən Yusifin sümüklərini özləri ilə götürmüşdülər. Bunları Yaqubun Şekemdəki tarlasında basdırdılar. Yaqub bu tarlanı Şekemin atası Xamorun övladlarından yüz parça gümüşə satın almışdı və bu torpaq Yusif övladlarının irsi oldu. </verse>
+        <verse osisID='Josh.24.33'>Bundan sonra Harun oğlu Eleazar öldü. Onu Efrayimin dağlıq bölgəsində oğlu Pinxasa verilən təpədə dəfn etdilər.  </verse>
+      </chapter>
+    </div></osisText>
+</osis>

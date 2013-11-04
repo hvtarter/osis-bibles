@@ -1,0 +1,210 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace'>
+  <osisText osisIDWork='NorthernAzeri' osisRefWork='Bible' xml:lang='az'>
+    <header>
+      <revisionDesc>
+        <date>2012-01-07</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='NorthernAzeri'>
+        <title>Northern Azeri Translation</title>
+        <contributor/>
+        <creator>Mod2Zef (6)</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject/>
+        <date>2012-01-07</date>
+        <description>Northern Azeri Translation</description>
+        <publisher/>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>NorthernAzeri</identifier>
+        <source>no entry TextSource in sword.conf found</source>
+        <language type='IETF'>az</language>
+        <relation/>
+        <coverage>provide the bible to the nations of the world</coverage>
+        <rights>Copyrighted Kutsul Kitab; Permission to distribute granted to CrossWire</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='Phil'>
+      <chapter osisID='Phil.1'>
+        <verse osisID='Phil.1.1'>Məsih İsanın qulları mən Paul və Timoteydən Filipidə olan cəmiyyət nəzarətçiləri və xidmətçiləri ilə bərabər Məsih İsada müqəddəs olanların hamısına salam!</verse>
+        <verse osisID='Phil.1.2'>Atamız Allahdan və Rəbb İsa Məsihdən sizə lütf və sülh olsun! </verse>
+        <verse osisID='Phil.1.3'>Sizi hər dəfə yada salanda Allahıma şükür edirəm.</verse>
+        <verse osisID='Phil.1.4'>Həmişə hamınız üçün hər bir diləyimdə sevinə-sevinə dua edirəm.</verse>
+        <verse osisID='Phil.1.5'>Çünki ilk gündən indiyədək Müjdəni yaymaqda şərik oldunuz.</verse>
+        <verse osisID='Phil.1.6'>Əminəm ki, sizdə xeyirli işə başlayan Allah Məsih İsanın zühur edəcəyi günədək bunu başa çatdıracaq.</verse>
+        <verse osisID='Phil.1.7'>Hamınız haqqında belə düşünməkdə haqlıyam, çünki qəlbimdə yeriniz var. İstər həbsdə olsam, istər Müjdəni müdafiə və təsdiq etsəm, hamınız mənimlə bərabər Allahın lütfünə şəriksiniz.</verse>
+        <verse osisID='Phil.1.8'>Allah şahidimdir ki, Məsih İsanın duyğusu ilə hər birinizin həsrətini çəkirəm.</verse>
+        <verse osisID='Phil.1.9'>Dua edirəm ki, məhəbbətiniz bilik və hər cür idrak baxımından get-gedə daha çox artsın,</verse>
+        <verse osisID='Phil.1.10'>siz Məsihin zühur edəcəyi gün pak və nöqsansız, Allahın izzəti və mədhi üçün İsa Məsihdən gələn salehlik bəhrələri ilə dolu olmaq üçün ən ali dəyərləri ayırd edə biləsiniz. </verse>
+        <verse osisID='Phil.1.11'>siz Məsihin zühur edəcəyi gün pak və nöqsansız, Allahın izzəti və mədhi üçün İsa Məsihdən gələn salehlik bəhrələri ilə dolu olmaq üçün ən ali dəyərləri ayırd edə biləsiniz. </verse>
+        <verse osisID='Phil.1.12'>Qardaşlar, bunu sizə bildirmək istəyirəm ki, başıma gələnlər Müjdə yaymağı daha da irəli apardı.</verse>
+        <verse osisID='Phil.1.13'>Belə olanda bütün saray mühafizəçiləri daxil olmaqla hamıya məlum oldu ki, Məsihdə olduğuma görə həbs olunmuşam.</verse>
+        <verse osisID='Phil.1.14'>Həmçinin qardaşlardan əksəriyyəti mənim həbsimdən ötrü Rəbbə güvənərək kəlamı qorxmadan bəyan etmək üçün daha çox cəsarət göstərdi. </verse>
+        <verse osisID='Phil.1.15'>Doğrusu, bəziləri paxıllıq və rəqabət, bəziləri isə yaxşı niyyətlə Məsihi vəz edirlər.</verse>
+        <verse osisID='Phil.1.16'>Bəziləri bunu məhəbbətlə edirlər, çünki bilirlər ki, mən Müjdəni müdafiə etmək üçün təyin edilmişəm.</verse>
+        <verse osisID='Phil.1.17'>Bəziləri isə Məsihi səmimiliklə deyil, məhbus halımda guya mənə əziyyət verməklə özlərini göstərmək üçün bəyan edirlər.</verse>
+        <verse osisID='Phil.1.18'>Nə olar? İstər riyakarlıqla, istərsə də səmimiliklə, nə cür olursa-olsun, əsasən Məsih bəyan edilir, mən buna sevinirəm. Əlbəttə, sevinəcəyəm,</verse>
+        <verse osisID='Phil.1.19'>çünki bilirəm ki, bunun nəticəsi dualarınızla və İsa Məsihin Ruhunun köməyi ilə mənim xilasım olacaq.</verse>
+        <verse osisID='Phil.1.20'>Böyük həvəslə gözləyir və ümidvaram ki, heç bir vəziyyətdə utandırılmayacağam, yaşasam da, ölsəm də, həmişəki kimi indi də bədənimdə Məsihin ucalması üçün tam cəsarət göstərə biləcəyəm.</verse>
+        <verse osisID='Phil.1.21'>Çünki mənim üçün yaşamaq Məsihdir, ölməksə qazancdır.</verse>
+        <verse osisID='Phil.1.22'>Lakin cismən yaşasam, faydalı işlər görə biləcəyəm. Buna görə nə seçəcəyimi bilmirəm.</verse>
+        <verse osisID='Phil.1.23'>Hər iki tərəfdən yolum kəsilib. Arzum buranı tərk edib Məsihlə olmaqdır, çünki bu lap yaxşıdır.</verse>
+        <verse osisID='Phil.1.24'>Amma sağ qalmağım sizin üçün daha lazımlıdır.</verse>
+        <verse osisID='Phil.1.25'>Buna əmin olaraq bilirəm: sağ qalacağam və hamınızla birlikdə qalmaqda davam edəcəyəm ki, imanda həm irəliləyəsiniz, həm də sevinəsiniz.</verse>
+        <verse osisID='Phil.1.26'>Belə ki bir də yanınıza gəldiyim üçün mənə görə Məsih İsada fəxriniz artsın. </verse>
+        <verse osisID='Phil.1.27'>Lakin həyat tərziniz Məsihin Müjdəsinə layiq olsun. Gəlib sizi görsəm də, gəlməyib haqqınızda eşitsəm də, bilim ki, siz bir ruhda möhkəm dayanıb Müjdəyə əsaslanan imanda canbir olaraq səy göstərirsiniz</verse>
+        <verse osisID='Phil.1.28'>və heç bir şəkildə əleyhdarlarınızdan qorxmursunuz. Bu onlar üçün həlak, sizin üçünsə xilas əlamətidir. Bu da Allahın işidir.</verse>
+        <verse osisID='Phil.1.29'>Çünki sizə yalnız Məsihə iman etmək deyil, Onun uğrunda əzab çəkmək üstünlüyü də ehsan olundu.</verse>
+        <verse osisID='Phil.1.30'>Apardığım mübarizəni əvvəldən gördünüz, indi də bunun haqqında eşidir və siz də həmin mübarizəni aparırsınız.  </verse>
+      </chapter>
+      <chapter osisID='Phil.2'>
+        <verse osisID='Phil.2.1'>
+          Beləliklə, Məsihdə bir ruhlandırılma, məhəbbətdən yaranan bir təsəlli, Ruha bir şəriklik, bir rəhm və mərhəmət varsa,</verse>
+        <verse osisID='Phil.2.2'>həmfikir olub bir-birinizə eyni məhəbbəti göstərərək canbir və həmrəy olmağınızla sevincimi bütövləşdirin.</verse>
+        <verse osisID='Phil.2.3'>Heç bir işi özünü göstərərək və ya lovğalıqla etməyin. Qoy hər biriniz itaətkarlıqda digərini özündən üstün saysın</verse>
+        <verse osisID='Phil.2.4'>və yalnız öz mənfəətini deyil, başqalarının da mənfəətini güdsün.</verse>
+        <verse osisID='Phil.2.5'>Məsih İsa necə düşündü, siz də elə düşünün.</verse>
+        <verse osisID='Phil.2.6'>Allah surətində olduğu halda O Özünü Allaha bərabər tutmağı bir haqq saymadı.</verse>
+        <verse osisID='Phil.2.7'>Lakin Özünü heç etdi və qul surətinə salıb insanlara oxşar oldu. İnsan şəklini alıb</verse>
+        <verse osisID='Phil.2.8'>Özünü aşağı tutdu və ölümə qədər – çarmıx üzərində ölümə qədər itaət göstərdi.</verse>
+        <verse osisID='Phil.2.9'>Buna görə də Allah Onu çox ucaltdı və Ona lütflə bütün adlardan ali bir ad verdi ki,</verse>
+        <verse osisID='Phil.2.10'>göydə, yerdə və yerin altında olanların hamısı İsanın adına ehtiram edərək diz çöksün</verse>
+        <verse osisID='Phil.2.11'>və hər dil Ata Allahın izzəti üçün İsa Məsihin Rəbb olduğunu bəyan etsin. </verse>
+        <verse osisID='Phil.2.12'>Belə isə, ey sevimlilərim, həmişə itaətli olduğunuz kimi yalnız mən yanınızda olanda yox, xüsusən yanınızda olmadığım bu anda belə, qorxu və lərzə ilə xilasınızı əməllərinizdə göstərin.</verse>
+        <verse osisID='Phil.2.13'>Çünki sizdə fəaliyyət göstərən Allahdır, belə ki Onun xoş məramını həm istəyəsiniz, həm də bunun üçün fəaliyyət göstərəsiniz.</verse>
+        <verse osisID='Phil.2.14'>Hər şeyi şikayətlənmədən, mübahisə etmədən yerinə yetirin ki,</verse>
+        <verse osisID='Phil.2.15'>nöqsansız və saf olaraq bu əyri və azmış nəsil arasında Allahın ləkəsiz övladları olasınız. Onların arasında dünyanın nuru kimi parlayın.</verse>
+        <verse osisID='Phil.2.16'>Həyat sözünü təqdim edin. Qoy Məsihin zühur edəcəyi gündə fəxr edə bilim ki, nə boş yerə cəhd etdim, nə də boş yerə zəhmət çəkdim.</verse>
+        <verse osisID='Phil.2.17'>Lakin sizin imanınızın qurban və xidməti üzərinə içmə təqdimi kimi töküləcəyəmsə də, sevinirəm və hamınızın sevincinə şərikəm.</verse>
+        <verse osisID='Phil.2.18'>Siz də məhz bunun üçün sevinin və mənim sevincimə şərik olun. </verse>
+        <verse osisID='Phil.2.19'>Vəziyyətinizdən xəbərdar olub ürəyim sakitləşsin deyə bu yaxınlarda Timoteyi yanınıza göndərəcəyim üçün Rəbb İsada ümidim var.</verse>
+        <verse osisID='Phil.2.20'>Çünki Timotey kimi mənimlə canbir olan, həqiqətən qayğınıza qalan başqa kimsəm yoxdur.</verse>
+        <verse osisID='Phil.2.21'>Ona görə ki hər kəs İsa Məsihin xeyrini deyil, öz xeyrini güdür.</verse>
+        <verse osisID='Phil.2.22'>Amma Timoteyin öz dəyərini necə sübut etdiyini, atasının yanında qulluq edən oğul kimi Müjdəni yaymaq işində mənimlə birgə qulluq etdiyini bilirsiniz.</verse>
+        <verse osisID='Phil.2.23'>Beləliklə, işlərimin nə yerdə olduğunu bilən kimi onu yanınıza göndərmək ümidindəyəm.</verse>
+        <verse osisID='Phil.2.24'>Mən də yaxında yanınıza gəlməyim barədə Rəbbə güvənirəm. </verse>
+        <verse osisID='Phil.2.25'>Lakin ehtiyacımın təminatına görə mənə yardım etmək üçün göndərdiyiniz nümayəndəni, qardaşım, əməkdaşım və birlikdə mübarizə apardığım Epafroditi yanınıza qaytarmağı lazım bildim.</verse>
+        <verse osisID='Phil.2.26'>Çünki o hər birinizdən ötrü darıxır və onun xəstə olduğunu eşitdiyinizə görə çox narahat idi.</verse>
+        <verse osisID='Phil.2.27'>O, həqiqətən, elə xəstələnmişdi ki, az qala ölsün. Lakin Allahın ona, yalnız ona deyil, kədərimin üstünə kədər gəlməsin deyə həm də mənə rəhmi gəldi.</verse>
+        <verse osisID='Phil.2.28'>Onu yanınıza göndərməyə daha çox buna görə razılıq verdim ki, onu yenidən görüb sevinəsiniz və mənim də kədərim yüngülləşsin.</verse>
+        <verse osisID='Phil.2.29'>Rəbdə olan bu adamı tam sevinclə qəbul edin və belələrini qiymətləndirin.</verse>
+        <verse osisID='Phil.2.30'>Çünki o, Məsihin işi uğrunda az qala öləcəkdi. Sizin mənə edə bilmədiyiniz köməyi etmək üçün canını təhlükəyə atdı.  </verse>
+      </chapter>
+      <chapter osisID='Phil.3'>
+        <verse osisID='Phil.3.1'/>
+        <verse osisID='Phil.3.2'>Özünüzü «itlər»dən qoruyun, pis iş görənlərdən qoruyun, bədəni sünnət edərək kəsib-atanlardan qoruyun.</verse>
+        <verse osisID='Phil.3.3'>Çünki əsl sünnətlilər Allahın Ruhu vasitəsilə ibadət edən, Məsih İsa ilə fəxr edən və cismani şeylərə güvənməyən bizlərik.</verse>
+        <verse osisID='Phil.3.4'>Əslində mən cismani şeylərə də güvənə bilərdim. Əgər başqası cismani şeylərə güvənməyi düşünürsə, mən daha çox güvənə bilərəm.</verse>
+        <verse osisID='Phil.3.5'>Mən səkkizgünlük ikən sünnət olundum. İsrail nəslindən, Binyamin qəbiləsindən, İbranilərdən törəmiş bir İbraniyəm. Qanuna münasibətdə farisey idim.</verse>
+        <verse osisID='Phil.3.6'>Qeyrət çəkməyə gəlincə, Allahın cəmiyyətini təqib edirdim. Qanuna əsaslanan salehliyə gəlincə, nöqsansız idim.</verse>
+        <verse osisID='Phil.3.7'>Amma mənə fayda gətirən nə varsa, Məsih uğrunda ziyan saymışam.</verse>
+        <verse osisID='Phil.3.8'>Bundan əlavə, Rəbbim Məsih İsanı tanımağın ali dəyərinin yanında hər şeyi ziyan hesab edirəm. Onun uğrunda var-yoxumu atıb tullantı sayıram ki, Məsihi qazanıb</verse>
+        <verse osisID='Phil.3.9'>Onda hesab olunum. Belə ki Qanunla gələn öz salehliyimə deyil, Məsihə imandan yaranan, imanla Allahdan gələn salehliyə malik olum.</verse>
+        <verse osisID='Phil.3.10'>Belə ki Məsihi və Onun dirilmə qüdrətini, əzablarına şərikliyi də dərk edim və Onun ölümündə Ona bənzəyim ki,</verse>
+        <verse osisID='Phil.3.11'>nə olursa-olsun, ölülər arasından dirilməyə nail olum. </verse>
+        <verse osisID='Phil.3.12'>Demirəm ki, indi bunlara malik olmuşam və yaxud kamilləşmişəm. Amma hədəfdən tutmaq üçün qaçıram. Çünki Məsih İsa məni bu məqsəd üçün tutub.</verse>
+        <verse osisID='Phil.3.13'>Qardaşlar, hesab etmirəm ki, bunu tutmuşam. Yalnız bir şey edirəm: arxada qalanları unudub qarşımda olana çatmaq üçün cəhd edirəm</verse>
+        <verse osisID='Phil.3.14'>və hədəfə doğru qaçıram ki, mükafatı alım, yəni Allahın Məsih İsada yuxarıya çağırışına nail olum.</verse>
+        <verse osisID='Phil.3.15'>Beləliklə, aramızda kim kamildirsə, qoy belə düşünsün. Hər hansı bir mövzuda fərqli düşüncələriniz varsa, Allah bunu da sizə açacaq.</verse>
+        <verse osisID='Phil.3.16'>Ancaq çatdığımız səviyyəyə uyğun həyat sürək. </verse>
+        <verse osisID='Phil.3.17'>Qardaşlar, hamınız birlikdə məndən nümunə götürün və sizə göstərdiyimiz nümunəyə uyğun həyat sürənlərə diqqətlə baxın.</verse>
+        <verse osisID='Phil.3.18'>Sizə dəfələrlə söylədiyim kimi indi də göz yaşları içində təkrar deyirəm: bir çoxları Məsihin çarmıxına düşmən olaraq həyat sürür.</verse>
+        <verse osisID='Phil.3.19'>Onların sonu həlakdır. Onların allahı qarınlarıdır. Öz rüsvayçılıqları ilə fəxr edir, yalnız dünyəvi şeylər barədə düşünürlər.</verse>
+        <verse osisID='Phil.3.20'>Bizsə səma vətəndaşlarıyıq və oradan Xilaskar olan Rəbb İsa Məsihi həvəslə gözləyirik.</verse>
+        <verse osisID='Phil.3.21'>O hər şeyi Özünə tabe etməyə qadir olan qüvvəsinin təsiri ilə bizim yazıq bədənimizi dəyişdirib Öz izzətli bədəninə bənzər hala gətirəcək.  </verse>
+      </chapter>
+      <chapter osisID='Phil.4'>
+        <verse osisID='Phil.4.1'/>
+        <verse osisID='Phil.4.2'>Evodiyaya yalvarıram, Sintixiyə yalvarıram ki, Rəbdə həmfikir olsunlar.</verse>
+        <verse osisID='Phil.4.3'>Bəli, ey əsl əməkdaşım, səndən də xahişim var, bu qadınlara kömək et. Çünki onlar mənimlə, Klementlə və adları həyat kitabında olan digər əməkdaşlarımla bərabər Müjdəni yaymaq üçün səy göstəriblər. </verse>
+        <verse osisID='Phil.4.4'>Rəbdə həmişə sevinin! Bir də deyirəm: sevinin!</verse>
+        <verse osisID='Phil.4.5'>Qoy sizin mülayimliyiniz bütün insanlara məlum olsun. Rəbb yaxındır.</verse>
+        <verse osisID='Phil.4.6'>Heç nəyin qayğısını çəkməyin, amma hər barədə xahişlərinizi Allaha dualarla, yalvarışlarla, şükür edə-edə bildirin.</verse>
+        <verse osisID='Phil.4.7'>Onda Allahın ağlagəlməz sülhü ürəklərinizi və düşüncələrinizi Məsih İsada qoruyacaq. </verse>
+        <verse osisID='Phil.4.8'>Nəhayət, qardaşlar, doğru, ləyaqətli, saleh, pak, cazibəli, etibarlı nə varsa, əgər əla və tərifə layiq nə varsa, bunları düşünün.</verse>
+        <verse osisID='Phil.4.9'>Məndən öyrəndiyiniz, qəbul etdiyiniz, eşitdiyiniz və məndə gördüyünüz nə varsa, bunları həyata keçirin. Onda sülh qaynağı olan Allah sizinlə olacaq. </verse>
+        <verse osisID='Phil.4.10'>Mən Rəbdə bol-bol sevinirəm ki, nəhayət indi mənim barəmdəki qayğınızı yenidən canlandırdınız. Əslində qayğınız vardı, amma bunu göstərməyə fürsət tapa bilmirdiniz.</verse>
+        <verse osisID='Phil.4.11'>Ehtiyaca düşdüyüm üçün bunları söyləmirəm, çünki hansı şəraitdə yaşasam, ondan razı qalmağa alışmışam.</verse>
+        <verse osisID='Phil.4.12'>Mən məzlumluğun da, bolluğun da nə olduğunu bilirəm. İstər tox, istər ac, istər bolluq, istər ehtiyac içində olum, hər şəraitdə, hər vəziyyətdə razı qalmağın sirrini öyrənmişəm.</verse>
+        <verse osisID='Phil.4.13'>Mənə qüvvət verən Məsihin köməyi ilə hər işə gücüm çatır.</verse>
+        <verse osisID='Phil.4.14'>Buna baxmayaraq nə yaxşı ki əziyyətimə şərik oldunuz. </verse>
+        <verse osisID='Phil.4.15'>Ey Filipililər, özünüz də bilirsiniz ki, aranızda Müjdə yayımının başlanğıcında, mən Makedoniyanı tərk edən zaman sizdən başqa heç bir cəmiyyət nəzir vermək və toplamaq üçün mənimlə şərik iş görmədi.</verse>
+        <verse osisID='Phil.4.16'>Mən Salonikdə olanda belə, ehtiyacım üçün dəfələrlə siz mənə yardım göndərdiniz.</verse>
+        <verse osisID='Phil.4.17'>Bu o demək deyil ki, mən bəxşiş axtarıram. Mən ancaq sizin hesabınıza yazıla bilən səmərəni axtarıram.</verse>
+        <verse osisID='Phil.4.18'>Mənsə tamamilə təmin olunmuşam və bolluq içindəyəm. Epafroditin əli ilə göndərdiyiniz hədiyyələri alandan sonra ehtiyacım qalmadı. Bu, Allahın xoşuna gələn ətirli təqdim, Ona məqbul olan və razı salan qurbandır.</verse>
+        <verse osisID='Phil.4.19'>Sizin hər ehtiyacınızı isə Allahım Məsih İsada olan Öz izzətli zənginliyinə görə ödəyəcək.</verse>
+        <verse osisID='Phil.4.20'>Qoy Atamız Allaha əbədi izzət olsun! Amin. </verse>
+        <verse osisID='Phil.4.21'>Məsih İsada müqəddəs olan hər kəsi salamlayın.  Mənimlə olan qardaşlar sizə salam göndərir.</verse>
+        <verse osisID='Phil.4.22'>Sizi bütün müqəddəslər, xüsusən qeysərin sarayında işləyənlər salamlayır. </verse>
+        <verse osisID='Phil.4.23'>Rəbb İsa Məsihin lütfü ruhunuza yar olsun!  </verse>
+      </chapter>
+    </div></osisText>
+</osis>

@@ -1,0 +1,188 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace'>
+  <osisText osisRefWork='Bible' osisIDWork='CzeB21' xml:lang='cs'>
+    <header>
+      <revisionDesc>
+        <date>2010-02-26</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='CzeB21'>
+        <title>Czech Bible, Překlad 21. století</title>
+        <contributor/>
+        <creator>Mod2Zef (4)</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject/>
+        <date>2009-07-31</date>
+        <description>Bible, Překlad 21. století  vedoucí projektu Alexandr Flek  odborná spolupráce Jiří Hedánek, Pavel Hoffman, Zdeněk Sýkora  Přeloženo z hebrejštiny, aramejštiny, řečtiny  Vydání první  (c) 2009 Biblion, o. s.  www.bible21.org  www.bible21.cz   Překlad 21. století přináší nadčasové poselství Bible v současné, čtivé češtině. Usiluje o maximální věrnost původním hebrejským, aramejským a řeckým textům, zároveň však chce oslovit dnešní čtenáře, ať už jsou zvyklí čerpat z této knihy inspiraci pro každý den, anebo ji otevírají poprvé.</description>
+        <publisher/>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>CzeB21</identifier>
+        <source>no entry TextSource in sword.conf found</source>
+        <language type='IETF'>cs</language>
+        <relation/>
+        <coverage>provide the bible to the nations of the world</coverage>
+        <rights>Copyrighted; Permission to distribute granted to CrossWire</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='2Tim'>
+      <chapter osisID='2Tim.1'>
+        <verse osisID='2Tim.1.1'>Pavel, z Boží vůle apoštol Krista Ježíše, poslaný zvěstovat život zaslíbený v Kristu Ježíši,</verse>
+        <verse osisID='2Tim.1.2'>milovanému synu Timoteovi: Milost, milosrdenství a pokoj od Boha Otce a od Krista Ježíše, našeho Pána.</verse>
+        <verse osisID='2Tim.1.3'>Ve dne i v noci děkuji Bohu, jemuž sloužím s čistým svědomím tak jako naši předkové, když na tebe vzpomínám ve svých modlitbách.</verse>
+        <verse osisID='2Tim.1.4'>Nemohu zapomenout na tvé slzy; toužím tě znovu vidět a být naplněn radostí.</verse>
+        <verse osisID='2Tim.1.5'>Vzpomínám na upřímnou víru, kterou měla už tvá babička Lois, tvá matka Euniké a kterou, jak jsem přesvědčen, máš i ty.</verse>
+        <verse osisID='2Tim.1.6'>Proto ti připomínám, abys v sobě rozněcoval ten Boží dar, který jsi přijal skrze vkládání mých rukou.</verse>
+        <verse osisID='2Tim.1.7'>Bůh nám nedal ducha strachu, ale ducha síly, lásky a rozvahy.</verse>
+        <verse osisID='2Tim.1.8'>Proto se nestyď za svědectví našeho Pána ani za mě, jeho vězně, ale v Boží síle se mnou snášej útrapy pro evangelium.</verse>
+        <verse osisID='2Tim.1.9'>Vždyť on nás spasil a povolal svatým povoláním; ne díky našim skutkům, ale díky jeho vlastnímu záměru a milosti, kterou nám v Kristu Ježíši udělil před začátkem věků.</verse>
+        <verse osisID='2Tim.1.10'>Tato milost se nyní projevila v příchodu našeho Spasitele, Krista Ježíše, který zrušil vládu smrti a skrze evangelium zjevil život a nesmrtelnost.</verse>
+        <verse osisID='2Tim.1.11'>Právě to jsem povolán zvěstovat jako kazatel, apoštol a učitel.</verse>
+        <verse osisID='2Tim.1.12'>Proto snáším toto všechno a nestydím se za to, neboť vím, komu jsem uvěřil. A jsem si jist, že on je schopen zachovat to, co jsem mu svěřil, až do onoho dne.</verse>
+        <verse osisID='2Tim.1.13'>To, co jsi ode mě slyšel, měj za příklad zdravého učení. Zůstávej ve víře a lásce, která je v Kristu Ježíši.</verse>
+        <verse osisID='2Tim.1.14'>Skrze Ducha svatého, jenž v nás přebývá, opatruj ten vzácný poklad, který ti byl svěřen.</verse>
+        <verse osisID='2Tim.1.15'>Jak víš, všichni v Asii včetně Fygela a Hermogena se ode mě odvrátili.</verse>
+        <verse osisID='2Tim.1.16'>Kéž Pán prokáže milosrdenství Onesiforovu domu. Často mě přicházel povzbudit a nestyděl se za mé řetězy.</verse>
+        <verse osisID='2Tim.1.17'>Naopak, když přišel do Říma, usilovně mě hledal, dokud mě nenašel.</verse>
+        <verse osisID='2Tim.1.18'>Kéž Pán dá, aby u něj v onen den došel milosrdenství. A jak moc mi pomohl v Efesu, víš nejlépe sám.</verse>
+      </chapter>
+      <chapter osisID='2Tim.2'>
+        <verse osisID='2Tim.2.1'>Synu můj, čerpej sílu z milosti, která je v Kristu Ježíši.</verse>
+        <verse osisID='2Tim.2.2'>Co jsi ode mě slyšel před mnoha svědky, to svěřuj věrným lidem, kteří budou schopni učit zase další.</verse>
+        <verse osisID='2Tim.2.3'>Snášej útrapy jako dobrý voják Ježíše Krista.</verse>
+        <verse osisID='2Tim.2.4'>Nikdo v bojové službě se neplete do civilních záležitostí; jinak by s ním velitel nebyl spokojen.</verse>
+        <verse osisID='2Tim.2.5'>Ani žádný závodník nezíská věnec, nezávodí-li podle pravidel.</verse>
+        <verse osisID='2Tim.2.6'>I rolník musí těžce pracovat předtím, než okusí úrodu.</verse>
+        <verse osisID='2Tim.2.7'>Přemýšlej o mých slovech; Pán ti dá, abys to všechno pochopil.</verse>
+        <verse osisID='2Tim.2.8'>Pamatuj, že Ježíš Kristus z Davidova semene byl vzkříšen z mrtvých - to je mé evangelium.</verse>
+        <verse osisID='2Tim.2.9'>Pro ně snáším útrapy, dokonce i okovy jako zločinec; ale Boží slovo není v okovech.</verse>
+        <verse osisID='2Tim.2.10'>Proto jsem ochoten všechno vydržet kvůli vyvoleným, aby i oni došli spásy a věčné slávy v Kristu Ježíši.</verse>
+        <verse osisID='2Tim.2.11'>Toto je jistá pravda: Jestli jsme s ním zemřeli, budeme s ním žít.</verse>
+        <verse osisID='2Tim.2.12'>Jestli vytrváme, budeme s ním kralovat. Jestli jej zapřeme, i on nás zapře.</verse>
+        <verse osisID='2Tim.2.13'>Jestli jsme nevěrní, on zůstává věrný - nemůže přece popřít sám sebe!</verse>
+        <verse osisID='2Tim.2.14'>Tyto věci připomínej a zapřísahej bratry před Bohem, ať se nehádají o slova - nevede to k žádnému užitku, jen ke zkáze posluchačů.</verse>
+        <verse osisID='2Tim.2.15'>Usiluj, aby ses mohl před Bohem postavit jako osvědčený dělník, který se nemá zač stydět a který správně vykládá slovo pravdy.</verse>
+        <verse osisID='2Tim.2.16'>Vyhýbej se světským tlachům, které odvádějí lidi stále dál od Boha.</verse>
+        <verse osisID='2Tim.2.17'>Takové řeči se šíří jako rakovina. Vedou je lidé jako Hymenaios a Filetos,</verse>
+        <verse osisID='2Tim.2.18'>kteří zbloudili z cesty pravdy a podvracejí víru některých lidí řečmi o tom, že už nastalo vzkříšení.</verse>
+        <verse osisID='2Tim.2.19'>Boží základ však pevně stojí a nese tento nápis: "Hospodin ví, kdo mu patří," a "Každý, kdo vyznává Pánovo jméno, ať opustí nepravost."</verse>
+        <verse osisID='2Tim.2.20'>Ve velikém domě nejsou jen zlaté a stříbrné nádoby, ale také dřevěné a hliněné; některé jsou na ozdobu a jiné na smetí.</verse>
+        <verse osisID='2Tim.2.21'>Kdo si zachová čistotu od věcí, které jsem zmínil, bude vzácnou nádobou, posvěcenou a velmi užitečnou pro Pána, připravenou pro každé dobré dílo.</verse>
+        <verse osisID='2Tim.2.22'>Utíkej tedy od mladických tužeb a následuj spravedlnost, víru, lásku a pokoj spolu s ostatními, kdo vzývají Pána z čistého srdce.</verse>
+        <verse osisID='2Tim.2.23'>Hloupé a nesmyslné spory však odmítej; víš přece, že plodí jen hádky.</verse>
+        <verse osisID='2Tim.2.24'>A Pánův služebník nemá být hádavý, ale ke všem přívětivý a snášenlivý a má být schopen učit</verse>
+        <verse osisID='2Tim.2.25'>a s vlídností napravovat odpůrce. Kdo ví? Bůh je může přivést k pokání, aby poznali pravdu</verse>
+        <verse osisID='2Tim.2.26'>a probrali se z ďáblovy pasti, do níž se nechali lapit, aby konali jeho vůli.</verse>
+      </chapter>
+      <chapter osisID='2Tim.3'>
+        <verse osisID='2Tim.3.1'>Buď si jist, že v posledních dnech nastanou těžké časy.</verse>
+        <verse osisID='2Tim.3.2'>Lidé budou milovat jen sami sebe a své peníze; budou vychloubační, arogantní, urážliví, vzpurní k rodičům, nevděční, bezbožní,</verse>
+        <verse osisID='2Tim.3.3'>bezcitní, nesmiřitelní, pomlouvační, nevázaní, bezuzdní, nepřátelé dobra,</verse>
+        <verse osisID='2Tim.3.4'>zrádci, lehkomyslní, domýšliví, milovníci rozkoše spíše než milovníci Boha.</verse>
+        <verse osisID='2Tim.3.5'>Navenek sice budou ztělesněná zbožnost, ale její moc budou popírat. Od takových se odvracej.</verse>
+        <verse osisID='2Tim.3.6'>Jsou mezi nimi i tací, kteří se vtírají do rodin, aby si získávali všelijaké ženské tížené vlastními hříchy a vedené nejrůznějšími touhami,</verse>
+        <verse osisID='2Tim.3.7'>které se pořád chtějí učit, ale nikdy nemohou dojít k poznání pravdy.</verse>
+        <verse osisID='2Tim.3.8'>Tito lidé se zkaženou myslí a falešnou vírou nyní odporují pravdě, tak jako kdysi Jannes a Jambres odporovali Mojžíšovi.</verse>
+        <verse osisID='2Tim.3.9'>Daleko se však nedostanou; jejich pošetilost bude zřejmá všem tak jako kdysi pošetilost těch dvou.</verse>
+        <verse osisID='2Tim.3.10'>Ty sis však osvojil mé učení, můj způsob života, můj záměr, mou víru, trpělivost, lásku a vytrvalost.</verse>
+        <verse osisID='2Tim.3.11'>Poznal jsi pronásledování a utrpení, která mě potkala v Antiochii, v Ikoniu a v Lystře. Jaká pronásledování jsem přestál! Pán mě ale ze všech vysvobodil.</verse>
+        <verse osisID='2Tim.3.12'>Právě tak budou pronásledováni všichni, kdo chtějí žít zbožně v Kristu Ježíši.</verse>
+        <verse osisID='2Tim.3.13'>Se zlými lidmi a šarlatány to bude stále horší - budou svádět druhé, sami svedeni.</verse>
+        <verse osisID='2Tim.3.14'>Ty však zůstávej v tom, čemu ses naučil. Víš, že je to pravda, neboť víš, od koho ses učil.</verse>
+        <verse osisID='2Tim.3.15'>Od dětství přece znáš svatá Písma, která ti dokáží dát moudrost ke spasení skrze víru v Krista Ježíše.</verse>
+        <verse osisID='2Tim.3.16'>Veškeré Písmo je vdechnuté Bohem a je nanejvýš užitečné. Vyučuje nás a usvědčuje, napravuje a vychovává ve spravedlnosti,</verse>
+        <verse osisID='2Tim.3.17'>aby byl Boží člověk dokonale připraven a vybaven ke každému dobrému dílu.</verse>
+      </chapter>
+      <chapter osisID='2Tim.4'>
+        <verse osisID='2Tim.4.1'>Zapřísahám tě před Bohem a před Kristem Ježíšem, který bude soudit živé i mrtvé, až přijde nastolit své království:</verse>
+        <verse osisID='2Tim.4.2'>Hlásej Slovo, buď připraven vhod i nevhod, usvědčuj, napomínej, povzbuzuj a vyučuj s nejvyšší trpělivostí.</verse>
+        <verse osisID='2Tim.4.3'>Přijde totiž doba, kdy lidé nestrpí zdravé učení, ale budou se podle vlastních chutí obklopovat učiteli, kteří jim budou lechtat sluch.</verse>
+        <verse osisID='2Tim.4.4'>Odvrátí uši od pravdy a uchýlí se k bájím.</verse>
+        <verse osisID='2Tim.4.5'>Ty však buď ve všem střízlivý, snášej útrapy, konej dílo kazatele evangelia, naplň svou službu.</verse>
+        <verse osisID='2Tim.4.6'>Já už totiž začínám být obětován; přišel čas mého odchodu.</verse>
+        <verse osisID='2Tim.4.7'>Bojoval jsem dobrý boj, svůj běh jsem dokončil, víru jsem zachoval.</verse>
+        <verse osisID='2Tim.4.8'>Teď na mne čeká koruna spravedlnosti, kterou mi v onen den udělí Pán, ten spravedlivý soudce - a nejen mně, ale všem těm, kdo s láskou vyhlížejí jeho příchod.</verse>
+        <verse osisID='2Tim.4.9'>Udělej vše, abys ke mně brzy přišel.</verse>
+        <verse osisID='2Tim.4.10'>Démas si zamiloval tento svět a opustil mě; odešel do Tesaloniky, Krescens do Galacie, Titus do Dalmácie.</verse>
+        <verse osisID='2Tim.4.11'>Jediný Lukáš se mnou zůstal. Vyzvedni Marka a přiveď ho s sebou; velmi potřebuji jeho pomoc.</verse>
+        <verse osisID='2Tim.4.12'>(Tychika jsem totiž poslal do Efesu.)</verse>
+        <verse osisID='2Tim.4.13'>Až půjdeš, přines mi plášť, který jsem nechal v Troadě u Karpa, a knihy, zvláště pergameny.</verse>
+        <verse osisID='2Tim.4.14'>Kovář Alexandr mi velmi ublížil; Pán mu odplatí podle jeho skutků.</verse>
+        <verse osisID='2Tim.4.15'>Dávej si na něj pozor, protože tvrdě odporoval našim slovům.</verse>
+        <verse osisID='2Tim.4.16'>Při mé první obhajobě se za mne nikdo nepostavil. Všichni mě opustili - kéž jim to není počítáno!</verse>
+        <verse osisID='2Tim.4.17'>Pán ale stál při mně a posílil mě, aby mé kázání bylo završeno a mohly je slyšet všechny národy. Byl jsem tedy vysvobozen ze lví tlamy.</verse>
+        <verse osisID='2Tim.4.18'>A Pán mě vysvobodí od všeho zlého a zachová mě pro své nebeské království. Jemu buď sláva na věky věků! Amen.</verse>
+        <verse osisID='2Tim.4.19'>Pozdravuj Priscillu s Akvilou i Onesiforův dům.</verse>
+        <verse osisID='2Tim.4.20'>Erastos zůstal v Korintu, Trofima jsem nechal nemocného v Milétu.</verse>
+        <verse osisID='2Tim.4.21'>Udělej vše, abys ke mně přišel, než začne zima. Pozdravuje tě Eubulos, Pudens, Linus, Klaudia a všichni sourozenci.</verse>
+        <verse osisID='2Tim.4.22'>Pán buď s tvým duchem. Milost s vámi.</verse>
+      </chapter>
+    </div></osisText>
+</osis>

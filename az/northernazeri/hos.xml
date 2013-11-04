@@ -1,0 +1,323 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace'>
+  <osisText osisIDWork='NorthernAzeri' osisRefWork='Bible' xml:lang='az'>
+    <header>
+      <revisionDesc>
+        <date>2012-01-07</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='NorthernAzeri'>
+        <title>Northern Azeri Translation</title>
+        <contributor/>
+        <creator>Mod2Zef (6)</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject/>
+        <date>2012-01-07</date>
+        <description>Northern Azeri Translation</description>
+        <publisher/>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>NorthernAzeri</identifier>
+        <source>no entry TextSource in sword.conf found</source>
+        <language type='IETF'>az</language>
+        <relation/>
+        <coverage>provide the bible to the nations of the world</coverage>
+        <rights>Copyrighted Kutsul Kitab; Permission to distribute granted to CrossWire</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='Hos'>
+      <chapter osisID='Hos.1'>
+        <verse osisID='Hos.1.1'>Bu, Yəhuda padşahları Uzziya, Yotam, Axaz, Xizqiya və İsrail padşahı Yoaş oğlu Yarovamın dövründə Beeri oğlu Huşəyə nazil olan Rəbbin sözüdür. </verse>
+        <verse osisID='Hos.1.2'>Rəbb Huşənin vasitəsilə danışmağa başlayarkən ona belə dedi: «Get xəyanətkar bir arvad al və onun kimi xəyanətkar uşaqların olsun, çünki ölkənin xalqı Rəbdən üz döndərərək Ona hədsiz xəyanət edir».</verse>
+        <verse osisID='Hos.1.3'>Huşə gedib Divlayimin qızı Qomeri özünə arvad aldı. Qomer hamilə olub ona bir oğul doğdu.</verse>
+        <verse osisID='Hos.1.4'>Rəbb Huşəyə dedi: «Onun adını İzreel qoy, çünki tezliklə Mən İzreeldə tökülən qanın əvəzini Yehunun nəslindən alacağam və İsrail nəslinin padşahlığına son qoyacağam.</verse>
+        <verse osisID='Hos.1.5'>Həmin gün İzreel vadisində İsrailin kamanını qıracağam». </verse>
+        <verse osisID='Hos.1.6'>Qomer yenə hamilə olub bir qız doğdu. Rəbb Huşəyə dedi: «Onun adını Lo-Ruxama qoy, çünki Mən daha İsrail nəslinə mərhəmət edib onu bağışlamayacağam.</verse>
+        <verse osisID='Hos.1.7'>Yəhuda nəslinə isə Mən – onların Allahı Rəbb mərhəmət göstərəcəyəm, onları xilas edəcəyəm, ancaq onları nə kaman, nə qılınc, nə müharibə, nə atlar, nə də süvarilərlə xilas edəcəyəm». </verse>
+        <verse osisID='Hos.1.8'>Qomer Lo-Ruxamanı süddən kəsən kimi yenə hamilə olub bir oğul doğdu.</verse>
+        <verse osisID='Hos.1.9'>Rəbb dedi: «Onun adını Lo-Ammi qoy, çünki siz Mənim xalqım deyilsiniz, Mən də sizin Allahınız olmayacağam. </verse>
+        <verse osisID='Hos.1.10'>Ancaq İsrail övladları dəniz qumu kimi saysız-hesabsız olacaq. Onlara “siz Mənim xalqım deyilsiniz” deyilən yerdə “siz var olan Allahın övladlarısınız” deyiləcək.</verse>
+        <verse osisID='Hos.1.11'>Yəhuda və İsrail övladları bir yerə yığılıb özlərinə vahid başçı təyin edəcək. Onlar ölkədən çıxacaq, çünki İzreel günü möhtəşəm bir gün olacaq.  </verse>
+      </chapter>
+      <chapter osisID='Hos.2'>
+        <verse osisID='Hos.2.1'>Qardaşlarınızı “xalqım”, bacılarınızı isə “mərhəmət tapmış” deyə çağırın. </verse>
+        <verse osisID='Hos.2.2'>Qınayın siz ananızı, qınayın,Çünki o Mənim arvadım deyil,Mən də onun əri deyiləm.Qoy üzündə görünən fahişəliyi,Qoynunda olan xəyanəti atsın.</verse>
+        <verse osisID='Hos.2.3'>Yoxsa onu çıl-çılpaq soyundurubLüt, anadangəlmə edəcəyəm.Mən onu səhra, quru torpaq kimi edəcəyəm,Susuzluqdan öldürəcəyəm.</verse>
+        <verse osisID='Hos.2.4'>Onun balalarına da rəhm etməyəcəyəm,Çünki onlar da xəyanət övladıdır.</verse>
+        <verse osisID='Hos.2.5'>Onların anası zina etdi.Onlara hamilə qalan qadın rəzillik etdi,Çünki dedi: “Oynaşlarımın dalınca gedəcəyəm,Axı çörəyimi, suyumu, yunumu, kətanımı,Zeytun yağımı və içkimi verən onlardır”.</verse>
+        <verse osisID='Hos.2.6'>Buna görə də onun yolunu qanqallarla kəsibÖnünə hasar çəkəcəyəm.Öz yolunu tapa bilməyəcək.</verse>
+        <verse osisID='Hos.2.7'>Oynaşlarının dalınca gedəcək,Ancaq onlara çatmayacaq.Onları axtaracaq,Ancaq tapmayacaq.O zaman deyəcək:“Qoy öz əvvəlki ərimin yanına qayıdım,Çünki o vaxt halım indikindən yaxşı idi”.</verse>
+        <verse osisID='Hos.2.8'>Amma o bilmirdi ki,Ona taxılı, təzə şərabı,Zeytun yağını verən Mənəm.Baal bütü üçün sərf etdikləriQızıl-gümüşü çoxaldan Mənəm.</verse>
+        <verse osisID='Hos.2.9'>Buna görə də öz vaxtında taxılımı,Öz mövsümündə təzə şərabımı geri alacağam.Onun çılpaqlığını örtmək üçün verdiyimYunu və kətanı əlindən alacağam.</verse>
+        <verse osisID='Hos.2.10'>İndi oynaşlarının önündəOnun ayıbını üzə çıxaracağam.Kimsə onu əlimdən qurtara bilməyəcək.</verse>
+        <verse osisID='Hos.2.11'>Onda olan bütün şadlıqlara,Bayramlara, Təzə Ay mərasimlərinə,Şənbə günlərinə və bütün təntənələrə son qoyacağam.</verse>
+        <verse osisID='Hos.2.12'>Onun meynələrini və əncir ağaclarını məhv edəcəyəm.O bunlar barədə deyirdi:“Bu, oynaşlarımın mənə verdiyi muzddur”.Bağlarını tikanlığa çevirəcəyəm,Çöl heyvanlarına yem olacaqlar.</verse>
+        <verse osisID='Hos.2.13'>Baal bütlərinə buxur yandırdığı günlər üçünOnu cəzalandıracağam.O vaxt halqalar və cəvahiratla özünü bəzəyərəkOynaşlarının dalınca getmiş,Məni isə unutmuşdu»Rəbb belə bəyan edir.</verse>
+        <verse osisID='Hos.2.14'>«Amma Mən onu dilə tutubSəhraya aparacağam,Onun ürəyincə olan sözlər deyəcəyəm.</verse>
+        <verse osisID='Hos.2.15'>Orada ona üzüm bağları verəcəyəm,  Akor   vadisini ümid qapısına çevirəcəyəm.  Cavanlıq günlərində olduğu kimi,Misir torpağından çıxdığı gün kimiOrada nəğmə oxuyacaq».</verse>
+        <verse osisID='Hos.2.16'>Rəbb bəyan edir: «Həmin günMənə “ərim” deyəcəksən,Artıq “ağam”   deməyəcəksən.</verse>
+        <verse osisID='Hos.2.17'>Baal bütlərinin adını dilindən siləcəyəm,Onların adı bir də yada salınmayacaq.</verse>
+        <verse osisID='Hos.2.18'>O gün sənin asayişin üçünÇöl heyvanları, göy quşları vəYerdə sürünənlərlə əhd kəsəcəyəm.Ölkədən kamanı, qılıncı,Müharibəni götürəcək,Səni əmin-amanlıqda yatıracağam.</verse>
+        <verse osisID='Hos.2.19'>Səni əbədi olaraq Özümə nişanlayacağam,Salehlik, ədalət, məhəbbət və mərhəmətləSəni özümə nişanlayacağam.</verse>
+        <verse osisID='Hos.2.20'>Səni sədaqətlə Özümə nişanlayacağam,Sən də Rəbbi tanıyacaqsan».</verse>
+        <verse osisID='Hos.2.21'>Rəbb bəyan edir: «O gün hay verəcəyəm,Göylərə hay verəcəyəm,Onlar da yerə hay verəcək.</verse>
+        <verse osisID='Hos.2.22'>Yer isə taxıla, təzə şəraba vəZeytun yağına hay verəcək,Onlar da İzreelə hay verəcək.</verse>
+        <verse osisID='Hos.2.23'>Xalqımı ölkədə Özüm üçün əkəcəyəm,  “Mərhəmət tapmamış” dediyiməMərhəmət edəcəyəm.“Xalqım deyil” dediyimə“Xalqımsan” deyəcəyəm.O isə Mənə “Allahımsan” deyəcək».</verse>
+      </chapter>
+      <chapter osisID='Hos.3'>
+        <verse osisID='Hos.3.1'>
+          Rəbb mənə dedi: «Get yenə də aşnasının sevdiyi zina edən qadını sev, necə ki Rəbb İsrail övladlarını sevir, onlarsa başqa allahlara üz tutur və bunlara təqdim edilən üzüm kökələrini sevir».</verse>
+        <verse osisID='Hos.3.2'>Mən də qadını özüm üçün on beş gümüşə və bir yarım xomer arpaya satın aldım.</verse>
+        <verse osisID='Hos.3.3'>Ona dedim: «Uzun müddət mənim yanımda qal, başqa bir kişi ilə olub zina etmə. Mən də səninlə belə rəftar edərəm.</verse>
+        <verse osisID='Hos.3.4'>Ona görə ki İsrail övladları uzun müddət padşah və başçı, qurban və müqəddəs daş, efod və ev bütləri olmadan yaşayacaq.</verse>
+        <verse osisID='Hos.3.5'>Sonra İsrail övladları dönüb özlərinin Allahı Rəbbi və padşahı Davudu axtaracaq. Axır zamanda lərzə içində Rəbbə və Onun xeyirxahlığına doğru yönələcəklər».  </verse>
+      </chapter>
+      <chapter osisID='Hos.4'>
+        <verse osisID='Hos.4.1'>«Ey İsrail övladları, Rəbbin sözünü eşidin,Çünki bu ölkədə yaşayanlarıRəbb ittiham edir.Sədaqət, məhəbbət, Allahı tanımaqBu yerdə yox olub.</verse>
+        <verse osisID='Hos.4.2'>Lənət, yalan, qətl, oğurluq və zinaHər yerə yayılıb.Qoluzorluluq edərəkQan üstünə qan tökürlər.</verse>
+        <verse osisID='Hos.4.3'>Bundan ötrü ölkə yas tutur,Orada yaşayan hər kəs bezib.Həmçinin çöl heyvanları, göy quşları,Hətta dənizdəki balıqlar da məhv olur.</verse>
+        <verse osisID='Hos.4.4'>Ancaq heç kəs dava etməsin,Heç kəs başqasını təqsirləndirməsin,Çünki Mənim davam səninlədir, ey kahin.</verse>
+        <verse osisID='Hos.4.5'>Sən gündüz büdrəyəcəksən,Peyğəmbər də gecə səninlə birgə.Sənin ananı   məhv edəcəyəm.</verse>
+        <verse osisID='Hos.4.6'>Xalqım biliksizlikdən məhv oldu.Sən biliyi rədd etdiyin üçünMən də səni rədd edəcəyəm ki,Bir daha Mənə kahinlik etməyəsən.İndi ki öz Allahının qanununu unutdun,Mən də sənin balalarını unudacağam.</verse>
+        <verse osisID='Hos.4.7'>Kahinlər nə qədər çoxaldısa,Mənə qarşı o qədər çox günah etdi.Onların izzətini rüsvayçılığa çevirəcəyəm.</verse>
+        <verse osisID='Hos.4.8'>Xalqımın günahı ilə bəslənirlər,Onların qəbahətinə can atırlar.</verse>
+        <verse osisID='Hos.4.9'>Xalqın başına gələnKahinin də başına gələcək.Tutduqları yol üçün onları cəzalandıracağam.Əməllərinin əvəzini onlara ödəyəcəyəm.</verse>
+        <verse osisID='Hos.4.10'>Yeyəcəklər, amma doymayacaqlar,Fahişəlik edəcəklər, amma çoxalmayacaqlar,Çünki onlar Rəbbi tərk edibBaşqa allahlara könül verdi.</verse>
+        <verse osisID='Hos.4.11'>Zina, köhnə və təzə şərabOnların ürəklərini cəlb edib.</verse>
+        <verse osisID='Hos.4.12'>Xalqım ağacdan olan əşyaya sual verir,Əsalarından cavab alır,Çünki xəyanət ruhu onları azdırdı.Özlərinin Allahından ayrılıb xəyanət etdilər.</verse>
+        <verse osisID='Hos.4.13'>Dağların başında qurban kəsirlər,Təpələrdə palıd, ağcaqovaq və yabanı püstə ağacı altındaKölgələri gözəl olduğu üçün buxur yandırırlar.  Buna görə də qızlarınız fahişəlik edir,Gəlinləriniz də zinakardır.</verse>
+        <verse osisID='Hos.4.14'>Fahişəlik edən qızlarınızı,Zina edən gəlinlərinizi cəzalandırmayacağam.Çünki kişiləriniz fahişələrlə oynaşır,Məbəd fahişələri ilə birgə qurban kəsir.Dərrakəsiz xalq məhv olacaq.</verse>
+        <verse osisID='Hos.4.15'>Ey İsrail, sən xəyanət etsən də,Heç olmasa Yəhuda təqsirkar olmasın.Qilqala getməyin,Bet-Avenə çıxmayın.“Var olan Rəbbin haqqı üçün”Deyib and içməyin.</verse>
+        <verse osisID='Hos.4.16'>Bəli, İsrail inadkar bir düyə kimi inad etdi.İndi Rəbb onlarıOtlaqda quzu otaran kimi necə otarsın?</verse>
+        <verse osisID='Hos.4.17'>Efrayim bütlərindən yapışdı,Burax onu!</verse>
+        <verse osisID='Hos.4.18'>Onlar içkiləri qurtarandan sonraHələ pozğunluq da edir.Onların başçıları rüsvayçılığı çox sevir.</verse>
+        <verse osisID='Hos.4.19'>Külək onları qanadları ilə sarıyacaq,Qurbanlarından ötrü utanacaqlar.</verse>
+      </chapter>
+      <chapter osisID='Hos.5'>
+        <verse osisID='Hos.5.1'>Ey kahinlər, bunu eşidin!Ey İsrail nəsli, diqqətlə dinləyin!Ey padşah sarayında olanlar, qulaq verin!Sizin barənizdə hökm çıxarıldı,Çünki siz Mispada bir tələ,Tavor dağına sərilmiş bir tor oldunuz.</verse>
+        <verse osisID='Hos.5.2'>Qanunsuzlar adam öldürməklə məşğuldur.Amma Mən onların hamısını cəzalandıracağam.</verse>
+        <verse osisID='Hos.5.3'>Efrayimi tanıyıram,İsrail Məndən gizli deyil,Çünki indi sən fahişəlik edirsən, ey Efrayim,İsrail də murdarlanıb.</verse>
+        <verse osisID='Hos.5.4'>Əməlləri qoymur ki, onlarÖzlərinin Allahına tərəf dönsün,Çünki içlərində xəyanət ruhu var,Rəbbi də tanımırlar.</verse>
+        <verse osisID='Hos.5.5'>İsrailin qüruru özünə qarşı şəhadət edir.İsraillə EfrayimGünahlarından ötrü büdrəyib-yıxılır.Yəhuda da onlarla birgə yıxılır.</verse>
+        <verse osisID='Hos.5.6'>Qoyun-keçi, mal-qara qurban edərəkRəbbi axtarmağa gedəcəklər,Amma tapmayacaqlar,Çünki Rəbb onları tərk etdi.</verse>
+        <verse osisID='Hos.5.7'>Onlar Rəbbə xəyanət etdi,Çünki bic uşaqlar doğdu.İndi Təzə Ay mərasimi olandaOnlar tarlaları ilə birlikdə məhv olacaq.</verse>
+        <verse osisID='Hos.5.8'>Giveada şeypur çalın,Ramada kərənay çalın,Bet-Avendə car çəkin,Düşmən arxandadır, ey Binyamin!</verse>
+        <verse osisID='Hos.5.9'>Efrayim cəza günündə viran olacaq,Bu yəqin sözü İsrail qəbilələri arasında bəyan edirəm.</verse>
+        <verse osisID='Hos.5.10'>Yəhuda başçılarıSərhəd daşı dəyişənlərə bənzəyir.Qəzəbimi sel kimi onların üstünə tökəcəyəm.</verse>
+        <verse osisID='Hos.5.11'>Efrayim zülm gördü,Hökm ilə əzildi,Çünki bilə-biləBoş şeylərin dalınca getdi.</verse>
+        <verse osisID='Hos.5.12'>Mən Efrayimlilərə qarşı güvə,Yəhuda nəsli üçün kif olacağam.</verse>
+        <verse osisID='Hos.5.13'>Efrayim xəstəliyini,Yəhuda yarasını gördü.Efrayim Aşşura getdi,Böyük padşahdan kömək istədi,Amma o sizə şəfa verməz,Yaranızı sağaltmaz.</verse>
+        <verse osisID='Hos.5.14'>Bəli, Mən Efrayimlilərə qarşı bir şir,Yəhuda nəsli üçün cavan aslan olacağam.Mən, Mən onu parçalayıb gedəcəyəm,Sürüyəcəyəm və kimsə əlimdən qurtarmayacaq.</verse>
+        <verse osisID='Hos.5.15'>Sonra qayıdıb Öz məskənimə gedəcəyəm,O vaxtacan ki özlərini günahkar sayaraqMənim hüzurumu axtaracaqlar.Bəlaya düşəndə həsrətlə Məni axtaracaqlar».</verse>
+      </chapter>
+      <chapter osisID='Hos.6'>
+        <verse osisID='Hos.6.1'>«Gəlin Rəbbə qayıdaq.O bizi parçaladı,O da bizə şəfa verəcək.O bizi yaraladı,O da yaramızı sarıyacaq.</verse>
+        <verse osisID='Hos.6.2'>İki gün sonra bizi dirildəcək,Üçüncü gün ayağa qaldıracaq,Onun hüzurunda yaşayacağıq.</verse>
+        <verse osisID='Hos.6.3'>Gəlin Rəbbi tanıyaq, tanımağa səy edək.O hökmən dan yeri kimi doğacaq,Yağış kimi,Torpağı sulayan yaz yağışı kimiYanımıza gələcək».</verse>
+        <verse osisID='Hos.6.4'>Allah deyir:«Ey Efrayim, sənə nə edim?Ey Yəhuda, bəs sənə nə edim?Çünki məhəbbətiniz səhər dumanı,Erkən uçub gedən şeh kimidir.</verse>
+        <verse osisID='Hos.6.5'>Buna görə də sizi peyğəmbərlər vasitəsilə parçaladım,Ağzımdan çıxan sözlərlə öldürdüm.Sizin üzərinizdə hökmümŞimşək kimi parıldayır.</verse>
+        <verse osisID='Hos.6.6'>Çünki Mən qurban deyil,  Məhəbbət istəyirəm.Yandırma qurbanlarından çoxAllahı tanımağınızı istəyirəm.</verse>
+        <verse osisID='Hos.6.7'>Ancaq onlar Adəm kimi əhdi pozdu,Orada Mənə xəyanət etdi.</verse>
+        <verse osisID='Hos.6.8'>Gilead şər adamların şəhəridir,Qan izləri ilə doludur.</verse>
+        <verse osisID='Hos.6.9'>Quldur dəstələri necə insan üçün pusquya yatırsa,Kahin dəstələri də Şekemə gedən yolda adam öldürür,Bəli, xəbislik edir.</verse>
+        <verse osisID='Hos.6.10'>İsrail nəslində qorxunc bir şey gördüm,Efrayim fahişəliyə batmış,İsrail murdarlanmışdır.</verse>
+        <verse osisID='Hos.6.11'>Ey Yəhuda, sənin üçün dəBir biçin günü təyin edildi.  Mən xalqımı sürgündən qaytaranda,</verse>
+      </chapter>
+      <chapter osisID='Hos.7'>
+        <verse osisID='Hos.7.1'>İsrailə şəfa vermək istəyəndəEfrayimin günahları,Samariyanın pislikləri ortaya çıxır.Çünki hiylə ilə davranırlar.Evlərə oğru girir,Küçədə quldur soyğunçuluq edir.</verse>
+        <verse osisID='Hos.7.2'>Ürəklərində düşünmürlər ki,Mən onların bütün pisliklərini yada salıram.İndi günahları onları dövrələyib vəGözümün önündədir.</verse>
+        <verse osisID='Hos.7.3'>Padşahı pislikləri ilə,Başçıları yalanları ilə sevindirirlər.</verse>
+        <verse osisID='Hos.7.4'>Hamısı zinakardır,Yoğrulan xəmir acıyana qədərTəndirçinin odunu qurdalamağa ehtiyac görmədiyiSoba kimi şəhvətlə yanırlar.</verse>
+        <verse osisID='Hos.7.5'>Padşahımızın ad günündəBaşçılar şərabın atəşindən xəstələndi,Padşah da istehzaçılarla əl-ələ verdi.</verse>
+        <verse osisID='Hos.7.6'>Pusquda yatarkənÜrəkləri soba kimi qızar.Qəzəbləri bütün gecə için-için yanar,Səhər də alovlu atəş kimi parlayar.</verse>
+        <verse osisID='Hos.7.7'>Onların hamısı soba kimi qızışıbÖz hakimlərini həlak etdi.Bütün padşahları yıxıldı,Aralarında Məni çağıran yoxdur.</verse>
+        <verse osisID='Hos.7.8'>Efrayim başqa xalqlara qarışır;Efrayim bir üzü çiy qalan kökədir.</verse>
+        <verse osisID='Hos.7.9'>Onun gücünü özgələr yedi,O isə bilmir,Saçına dən düşüb,O isə bilmir.</verse>
+        <verse osisID='Hos.7.10'>İsrailin qüruru özünə qarşı şəhadət edir.Ancaq yenə də özlərinin Allahı Rəbbə tərəf dönmür,Onu axtarmırlar.</verse>
+        <verse osisID='Hos.7.11'>Efrayim səfeh və dərrakəsiz bir göyərçin kimidir.Gah Misirliləri çağırır,Gah Aşşura gedirlər.</verse>
+        <verse osisID='Hos.7.12'>Onlar gedən zamanMən onların başına torumu atacağam.Göydəki quşlar kimiOnları vurub yerə salacağam.İcmalarında bildirildiyi kimiOnları cəzalandıracağam.</verse>
+        <verse osisID='Hos.7.13'>Vay onların halına!Çünki Məndən uzaqlaşdılar.Başlarına bəla gəlsin!Çünki Mənə qarşı üsyan etdilər.Mən onları qurtarmaq istəyirdim,Onlarsa Mənə böhtan deyir.</verse>
+        <verse osisID='Hos.7.14'>Ürəkdən Mənə fəryad etmirlər,Ancaq yataqlarının içində ulayırlar.Taxıl və təzə şərab üçün özlərini yaralayırlar,Amma Məndən üz döndərirlər.</verse>
+        <verse osisID='Hos.7.15'>Mən onlara nəsihət verdim,Qollarına güc verdim.Onlarsa Mənə qarşı qəsd qurur.</verse>
+        <verse osisID='Hos.7.16'>Onlar üz tutur,Ancaq ucalara tərəf yox.Hədəfi əyri vuran kamana bənzəyirlər.Dillərinin arsızlığı üzündənBaşçıları qılınca tuş gələcək.Buna görə də MisirdəKinayə hədəfi olacaqlar.</verse>
+      </chapter>
+      <chapter osisID='Hos.8'>
+        <verse osisID='Hos.8.1'>Şeypur çalmağa hazırlaş!Rəbbin evinin üzərinəDüşmən qartal kimi hücum çəkir.Çünki İsraillilər Mənim əhdimi pozdu,Mənim qanunuma qarşı çıxdı.</verse>
+        <verse osisID='Hos.8.2'>Onlar Mənə fəryad edib deyəcək:“Allahım, biz İsraillilər Səni tanıyırıq”.</verse>
+        <verse osisID='Hos.8.3'>İsrail yaxşılığı rədd etdi,Düşmən onu təqib edəcək.</verse>
+        <verse osisID='Hos.8.4'>Məndən soruşmadanÖzlərinə padşah qoydular.Məndən xəbər almadanBaşçılar seçdilər.Özlərinə qızıl və gümüşlərindənÖlümlərinə yol açanBütlər düzəltdilər.</verse>
+        <verse osisID='Hos.8.5'>Ey Samariya, dana bütün rədd edildi!Mənim qəzəbim onlara qarşı alovlandı.Nə vaxta qədər onlar pak olmayacaq?</verse>
+        <verse osisID='Hos.8.6'>Çünki bu büt İsrailin işidir,Usta onu düzəldib,Ona görə də Allah deyil.Samariyadakı dana bütüXıncım-xıncım olacaq.</verse>
+        <verse osisID='Hos.8.7'>Onlar külək qaldırdı,Qasırğa alacaqlar.Sünbül bitirməyən buğda un verməz,Versə də, yadlar onu udacaq.</verse>
+        <verse osisID='Hos.8.8'>İsrail udulmuşdur,İndi onlar millətlər arasındaHeç kəsin bəyənmədiyi bir qab kimi oldu.</verse>
+        <verse osisID='Hos.8.9'>Onlar tənha gəzən vəhşi eşşək kimiAşşur tərəfə getdi.Efrayim muzdla özünə oynaşlar tutdu.</verse>
+        <verse osisID='Hos.8.10'>Onlar millətlər arasında muzdla oynaş tutsalar da,Mən indi onları bir yerə toplayacağam.Onlar qüdrətli padşahın zülmündənAzalmağa başlayacaq.</verse>
+        <verse osisID='Hos.8.11'>Efrayim günah təqdimi üçünÇoxlu qurbangah tiksə də,Bunlar onu günaha batıran qurbangahlar oldu.</verse>
+        <verse osisID='Hos.8.12'>Mən onlar üçün çoxlu qanun yazdım,Onlarsa bunları yad bir şey hesab etdi.</verse>
+        <verse osisID='Hos.8.13'>Mənə kəsilən qurbanlara gəlincə,  Əti Mənə qurban gətiribÖzləri yeyir.Rəbb onlardan razı deyil.İndi onların qəbahətlərini yada salacaq,Günahlarına görə onları cəzalandıracaq.Onlar Misirə qayıdacaq.</verse>
+        <verse osisID='Hos.8.14'>İsrail də Yaradanını unutdu,Özünə saraylar qurdu.Yəhuda da çoxlu qalalı şəhər tikdi,Ancaq Mən onun şəhərlərinə od göndərəcəyəm,Qalalarını alov yeyəcək.</verse>
+      </chapter>
+      <chapter osisID='Hos.9'>
+        <verse osisID='Hos.9.1'>Ey İsrail, başqa xalqlar kimiSevinib coşma,Çünki öz Allahına xəyanət etdin.Bütün xırmanlardaFahişəlik muzduna könül verdin.</verse>
+        <verse osisID='Hos.9.2'>Xırman və üzümsıxan xalqı doydurmayacaq,Təzə şərab onlara qismət olmayacaq.</verse>
+        <verse osisID='Hos.9.3'>Rəbbin torpağında yaşamayacaqlar,Efrayim Misirə qayıdacaq,Aşşurda murdar yemək yeyəcək.</verse>
+        <verse osisID='Hos.9.4'>Rəbbə təqdim olaraq şərab tökməyəcəklər,Qurbanları Ona məqbul olmayacaq.Qurbanlar onlara yas çörəyi olacaq,Onu yeyənlərin hamısı murdar olacaq.Çörəkləri özlərinə qismət olacaq,Amma Rəbbin evinə gətirilməyəcək.</verse>
+        <verse osisID='Hos.9.5'>Təntənəli bayramda,Rəbbin bayram günündə nə edəcəksiniz?</verse>
+        <verse osisID='Hos.9.6'>Məhvdən qaçsalar da,Misir onları yığacaq,Memfis qəbirə basdıracaq.Onların gümüş xəzinələrini gicitkən tutacaq,Çadırlarında qanqal bitəcək.</verse>
+        <verse osisID='Hos.9.7'>Onların cəza günləri gəldi,  Haqq-hesab günləri yetişdi.Qoy İsrail bunu bilsin!Təqsirlərinizin çoxluğundan,Düşmənçiliyinizin böyüklüyündənPeyğəmbəri əbləh,Ruhani adamı divanə saydınız.</verse>
+        <verse osisID='Hos.9.8'>Peyğəmbər Allahımın Efrayim üzərində qoyduğu gözətçidir.Amma onun getdiyi hər yerdə tor qurdular,Allahın evində düşmənçilik var.</verse>
+        <verse osisID='Hos.9.9'>Givea günlərində olduğu kimi  Onlar böyük pozğunluğa düçar oldu.Allah onların təqsirlərini yada salacaq,Günahları üçün onları cəzalandıracaq.</verse>
+        <verse osisID='Hos.9.10'>Səhrada üzüm tapan kimi  Mən İsraili tapdım,İlk dəfə məhsul verən əncir nübarı kimiMən atalarınızı gördüm.Amma onlar Baal-Peora çatandaRüsvayçı bütlərə təslim oldu.Özləri də sevdikləri şeylər kimiİyrənc oldu.</verse>
+        <verse osisID='Hos.9.11'>Efrayimin calalıBir quş kimi uçub gedəcək.Nə doğum, nə hamiləlik, nə mayalanma olacaq.</verse>
+        <verse osisID='Hos.9.12'>Öz uşaqlarını böyütsələr də,Balalarını əllərindən alacağam,Onları kimsəsiz qoyacağam.Mən onları tərk etdikdə vay hallarına!</verse>
+        <verse osisID='Hos.9.13'>Mən gördüm ki, EfrayimSur şəhəri kimi gözəl bir yerdə məskən salıb.Amma Efrayim öz övladlarınıQatil qabağına çıxaracaq».</verse>
+        <verse osisID='Hos.9.14'>Ya Rəbb, nə verəcəksən, ver onlara,Onlara uşaq salan bətn, südsüz döşlər ver!</verse>
+        <verse osisID='Hos.9.15'>Rəbb deyir: «Onlar bütün pis əməlləriniQilqalda edir,Orada onlara nifrət etdim.Etdikləri günahlardan ötrüOnları evimdən qovacağam.Artıq onları sevməyəcəyəm.Bütün başçıları üsyankardır.</verse>
+        <verse osisID='Hos.9.16'>Efrayim kəsildi,Kökləri qurudu.Onlar bar verməyəcək.Əgər doğsalar da,Bətnlərinin əziz barını Mən məhv edəcəyəm».</verse>
+        <verse osisID='Hos.9.17'>Allahım onları rədd edəcək,Çünki Ona qulaq asmadılar.Millətlər arasında sərgərdan gəzəcəklər.</verse>
+      </chapter>
+      <chapter osisID='Hos.10'>
+        <verse osisID='Hos.10.1'>İsrail bir qollu-budaqlı meynədir ki,Bol-bol bar gətirir.Ancaq barı artdıqcaQurbangahları da artırdı.Torpağı bərəkətli olduqcaDaha gözəl olan müqəddəs daşları da düzəltdi.</verse>
+        <verse osisID='Hos.10.2'>Onların ürəkləri yalanla doldu,Günahlarına görə də cəzalanacaqlar.Rəbb onların qurbangahlarını dağıdacaq,Müqəddəs daşlarını sındıracaq.</verse>
+        <verse osisID='Hos.10.3'>Onda onlar deyəcək:«Bizim padşahımız yoxdur,Çünki biz Rəbdən qorxmadıq.Padşahımız olsa da,Bizə nə edəcəkdi?»</verse>
+        <verse osisID='Hos.10.4'>Əhd bağlayanda boş vədlər verir,Yalandan and içirlər.Buna görə də məhkəmə işləriŞumlanmış tarladakı zəhərli ot kimi böyüyür.</verse>
+        <verse osisID='Hos.10.5'>Samariya sakinləriBet-Avendəki dana bütlərinə görəQorxuya düşəcək.Onun üçün xalqı yas tutacaq.Onun calalı ilə coşan kahinləriSürgünə aparıldığı üçün ağlayacaq.</verse>
+        <verse osisID='Hos.10.6'>Büt özü Aşşura – böyük padşahaHədiyyə aparılacaq.Efrayim biabır olacaq,İsrail aldığı məsləhətdən utanacaq.</verse>
+        <verse osisID='Hos.10.7'>Samariya və onun padşahıSu üstündəki çubuq kimiAxıb-gedəcək.</verse>
+        <verse osisID='Hos.10.8'>İsrailin günahı olan  Avendəki   səcdəgahlar yox olacaq,  Onun qurbangahlarındaTikan və qanqal bitəcək.O zaman dağlara «Bizi örtün!»,Təpələrə «Üstümüzə yıxılın!» deyəcəklər.</verse>
+        <verse osisID='Hos.10.9'>«İsrail Giveada keçirdiyi  Günlərdən bəri günah etdi.Orada öz işlərini davam etdirdilər.Şər adamlara qarşı müharibəOnları Giveada yaxalamazmı?</verse>
+        <verse osisID='Hos.10.10'>Mən istədiyim zamanOnları cəzalandıracağam.Xalqlar onlara qarşı birləşib,İkiqat cinayətlərindən ötrüOnları əsir edəcək.</verse>
+        <verse osisID='Hos.10.11'>Efrayim əhliləşmiş,Taxıl döyməyi sevən düyəyə bənzər.Mən onun incə boynunu əsirgədim.İndi isə Efrayimi sürdürəcəyəm.Yəhuda yer şumlasın,Yaqub isə dırmıq çəksin.</verse>
+        <verse osisID='Hos.10.12'>Özünüz üçün salehlik əkin,  Məhəbbət bəhərini biçərsiniz.Dincə qoyulmuş torpağınızı şumlayın,Çünki Rəbbi axtarmaq vaxtıdır.Nəhayət, O gəlib üstünüzəSalehliyin nemətlərini yağdıracaq.</verse>
+        <verse osisID='Hos.10.13'>Amma siz pislik əkib,Qəbahət biçdiniz.Yalanın bəhərini yediniz.Çünki öz üsulunuza,Çoxlu cəngavərlərinizə güvəndiniz.</verse>
+        <verse osisID='Hos.10.14'>Xalqınızın içində müharibə gurultusu qopacaq,Bütün qalalarınız dağılacaq,Necə ki Şalman müharibə günündəBet-Arbeli dağıtdı,Ana uşaqları ilə birgə yerə çırpılıb parçalandı.</verse>
+        <verse osisID='Hos.10.15'>Ey Bet-El, pisliyinin çoxluğu üzündənSəninlə də belə rəftar ediləcək.Dan ağaranda İsrail padşahı həlak olacaq.</verse>
+      </chapter>
+      <chapter osisID='Hos.11'>
+        <verse osisID='Hos.11.1'>İsrail uşaq ikən onu sevdim,  Öz oğlumu Misirdən çağırdım.</verse>
+        <verse osisID='Hos.11.2'>Peyğəmbərlər İsraili çağırdıqcaİsrail onlardan uzaqlaşdı.Baal bütlərinə qurban kəsdilər,Oyma bütlərə buxur yandırdılar.</verse>
+        <verse osisID='Hos.11.3'>Efrayimə gəzməyi Mən öyrətdim,Onları qollarım üstünə aldım.Ancaq bilmədilər ki,Onlara Mən şəfa verdim.</verse>
+        <verse osisID='Hos.11.4'>Onları insani tellərlə,Sevgi bağları ilə Özümə çəkdim.Onlar üçün çənələrindən boyunduruğu qaldıranBir kəs oldum,Əyilib onlara yemək verdim.</verse>
+        <verse osisID='Hos.11.5'>Məgər Misirə qayıtmayacaqlar?Aşşur onlara padşah olmayacaq?Çünki onlar Mənə üz tutmaq istəmədilər.</verse>
+        <verse osisID='Hos.11.6'>Şəhərlərinin içində qılınc fırlanacaq,Onların qapı sürgülərini qıracaq.Fitnələri üzündən onları yeyib-qurtaracaq.</verse>
+        <verse osisID='Hos.11.7'>Xalqım Məndən üz döndərməyi qərara alıb.Haqq-Taalanı çağırsalar da,Onları heç vaxt ucaltmayacaq.</verse>
+        <verse osisID='Hos.11.8'>Ey Efrayim, səni necə əldən verim?  Ey İsrail, səni necə təslim edim?Admaya etdiyimi sənə necə edim?Səni necə Sevoyim kimi edim?Köksümdə ürəyim alt-üst oldu,Mərhəmət hisslərim alovlandı.</verse>
+        <verse osisID='Hos.11.9'>Mən qızğın qəzəbimlə rəftar etmərəm,Efrayimi artıq məhv etmərəm.Çünki Mən Allaham, insan deyiləm,Aranızda Müqəddəs Olanam.Qəzəblə üzərinizə gəlmərəm.</verse>
+        <verse osisID='Hos.11.10'>Onlar aslan kimi nərə çəkənRəbbin arxasınca gedəcək.O nərə çəkəndəÖvladları qərbdən titrəyərək gələcək.</verse>
+        <verse osisID='Hos.11.11'>Misirdən quşlar kimi,Aşşur ölkəsindən göyərçinlər kimiTitrəyərək gələcəklər.Onları evlərində sakin edəcəyəm»Rəbb belə bəyan edir.</verse>
+        <verse osisID='Hos.11.12'>Efrayim yalanla, İsrail nəsli hiylə iləƏtrafımı bürüdü.Amma Yəhuda hələ də Allahla birgə gedir,Müqəddəs Olana sadiqdir.</verse>
+      </chapter>
+      <chapter osisID='Hos.12'>
+        <verse osisID='Hos.12.1'>Efrayim yellə bəslənir,Bütün gün şərq küləyinin dalınca düşür.Yalanı, qoluzorluluğu artırır.Aşşurla saziş bağlayır,Misirə zeytun yağı göndərir.</verse>
+        <verse osisID='Hos.12.2'>Yəhuda ilə Rəbbin davası var,Yaqubu getdiyi yola görə cəzalandıracaq,Əməllərinə görə əvəz verəcək.</verse>
+        <verse osisID='Hos.12.3'>O hələ ana bətnində ikən  Qardaşının topuğundan tutdu,Böyüklük çağında Allahla güləşdi.</verse>
+        <verse osisID='Hos.12.4'>Mələklə güləşib ona üstün gəldi,  Ağlayaraq Ondan xeyirxahlıq istədi.Allah onu Bet-Eldə tapdı.</verse>
+        <verse osisID='Hos.12.5'>Ordular Allahı RəbbBizimlə orada danışdı.O, «Rəbb» deyə anılır.</verse>
+        <verse osisID='Hos.12.6'>Buna görə də sən Allahına üz tut,Məhəbbətə, ədalətə bağlan,Daim Allahına ümid bağla.</verse>
+        <verse osisID='Hos.12.7'>Efrayim tacirdir,Əlindəki aldadıcı tərəzi iləAldatmağı sevir.</verse>
+        <verse osisID='Hos.12.8'>Efrayim deyir:«Doğrudan da, mən varlandım,Özüm üçün sərvət topladım.Çoxlu şeylər qazansam da,Məndə günah sayılacaq bir təqsir tapılmayacaq».</verse>
+        <verse osisID='Hos.12.9'>«Ancaq səni Misir torpağından çıxaran  Allahın Rəbb Mənəm.Bayram günlərində olduğu kimiSəni yenə öz çadırlarında məskunlaşdıracağam.</verse>
+        <verse osisID='Hos.12.10'>Mən peyğəmbərlərlə danışdım,Çoxlu görüntü göndərdim,Peyğəmbərlərin dilindən məsəllər söylədim».</verse>
+        <verse osisID='Hos.12.11'>Gilead xalqı pis xalqdır,Doğrudan da, yaramazdır.Qilqalda buğaları qurban kəsirlər.Onların qurbangahlarıŞumlanmış tarladakı daş qalaqları kimidir.</verse>
+        <verse osisID='Hos.12.12'>Yaqub Aram torpağına qaçdı,  İsrail arvad üçün qul oldu,Arvada görə qoyun otardı.</verse>
+        <verse osisID='Hos.12.13'>Rəbb İsraili bir peyğəmbər vasitəsilə  Misirdən çıxartdı,Bir peyğəmbər vasitəsilə qorudu.</verse>
+        <verse osisID='Hos.12.14'>Efrayim Allahı bərk qəzəbləndirdi,Tökdüyü qanı öz başına gətirəcək,Xudavənd onun rüsvayçılığını özünə qaytaracaq.</verse>
+      </chapter>
+      <chapter osisID='Hos.13'>
+        <verse osisID='Hos.13.1'>Efrayim danışanda hamı titrəyirdi.İsraildə ucalmışdı,Amma Baala tapınıb təqsir edəndə məhv oldu.</verse>
+        <verse osisID='Hos.13.2'>İndi günah üstünə günah edirlər,Gümüşlərindən özlərinə tökmə bütlər,Məharətlə düşünülmüş bütlər düzəldirlər.Hamısı usta işidir.«Qurban gətirən adamlarDanaları öpsün!» deyirlər.</verse>
+        <verse osisID='Hos.13.3'>Buna görə də səhər dumanı,Erkən uçub gedən şeh,Xırmanda sovrulan saman çöpü,Bacadan çıxan tüstü kimi olacaqlar.</verse>
+        <verse osisID='Hos.13.4'>«Ancaq Səni Misir torpağından çıxaranAllahın Rəbb Mənəm.Sən Məndən başqa allah tanımamalısan,Çünki Məndən başqa xilaskar yoxdur.</verse>
+        <verse osisID='Hos.13.5'>Mən sənə çöldə, quraq torpaqlarda göz-qulaq oldum.</verse>
+        <verse osisID='Hos.13.6'>Onları bəslədiyimə görə doydular,Doyandan sonra onların ürəyi qürurlandı,Buna görə də Məni unutdular.</verse>
+        <verse osisID='Hos.13.7'>Mən onlara bir aslan olacağam,Bəbir kimi yol kənarındaPusquda duracağam.</verse>
+        <verse osisID='Hos.13.8'>Balalarından məhrum olmuş ayı kimiOnlara hücum çəkəcəyəm,Ürəklərinin pərdəsini yırtacağam.Dişi aslan kimi onları yeyib-qurtaracağam,Vəhşi canavar onları parçalayacaq.</verse>
+        <verse osisID='Hos.13.9'>Ey İsrail, Mənə – Köməkçinə qarşı çıxmağınSəni ölümə aparır.</verse>
+        <verse osisID='Hos.13.10'>İndi padşahın haradadır ki,  Bütün şəhərlərində səni xilas etsin?Hakimlərin haradadır?Sən ki onlar barədə“Mənə bir padşah və başçılar ver” deyirdin.</verse>
+        <verse osisID='Hos.13.11'>Qəzəb içində sənə padşah verdim,  Hiddətlənəndə onu apardım.</verse>
+        <verse osisID='Hos.13.12'>Efrayimin qəbahəti yığılıb,Günahı qeydə alınıb.</verse>
+        <verse osisID='Hos.13.13'>Doğan qadının ağrıları ona çatır,Amma o, ağılsız oğuldur.Çünki vaxtı çatandaBətndən çıxmağa ləngiyir.</verse>
+        <verse osisID='Hos.13.14'>Mən onları ölülər diyarının  Əlindən satın alacağam,Onları ölümdən xilas edəcəyəm.Ey ölüm, bəlaların hanı?Ey ölülər diyarı, həlakın hanı?  Gözümdə mərhəmət görünməyəcək.</verse>
+        <verse osisID='Hos.13.15'>Efrayim öz qardaşları arasındaBarlı-bəhərli olsa da,Şərq yeli, səhradan qalxanRəbbin küləyi gələcək,Onun bulağı quruyacaq,Çeşməsinin suyu kəsiləcək.Bütün qiymətli şeylər xəzinəsi qarət olunacaq.</verse>
+        <verse osisID='Hos.13.16'>Samariya günahının cəzasını çəkəcək,Çünki Allahına qarşı üsyankar oldu.Onlar qılıncdan həlak olacaq.Balaları yerə çırpılıb parçalanacaq,Hamilə qadınlarının qarnı yarılacaq».</verse>
+      </chapter>
+      <chapter osisID='Hos.14'>
+        <verse osisID='Hos.14.1'>Allahın Rəbbə üz tut, ey İsrail,Çünki günahlarından ötrü büdrədin.</verse>
+        <verse osisID='Hos.14.2'>Dua sözləri ilə Rəbbə tərəf dönün.Ona belə deyin:«Hər qəbahətimizi bağışla,Bizi mərhəmətlə qəbul et.Buğalar yerinə ağzımızdan çıxanŞükürləri təqdim edirik.</verse>
+        <verse osisID='Hos.14.3'>Aşşur bizi xilas etməyəcək,Atların belinə minməyəcəyik,Artıq əl işlərimizə“Allahlarımız” deməyəcəyik.Çünki yetim Səndən mərhəmət görəcək».</verse>
+        <verse osisID='Hos.14.4'>«Onların dönüklüyünə əlac edəcəyəm,Onları ürəkdən sevəcəyəm,Çünki qəzəbim onlardan vaz keçdi.</verse>
+        <verse osisID='Hos.14.5'>Mən İsrailə bir şeh olacağam,O, zanbaq kimi çiçək açacaq,Livan sidri kimi kök atacaq.</verse>
+        <verse osisID='Hos.14.6'>Qollu-budaqlı olacaq,Zeytun ağacı kimi gözəl olacaq,Livan sidri kimi ətir saçacaq.</verse>
+        <verse osisID='Hos.14.7'>Adamlar yenə də kölgəsi altında oturubBuğda kimi cücərəcək,Meynə kimi tumurcuqlayacaq,Şöhrəti Livan şərabı kimi olacaq.</verse>
+        <verse osisID='Hos.14.8'>Efrayim deyəcək:“Artıq bütlər nəyimə gərəkdir?”Mən onun səsini eşidəcəyəm,Ona nəzər salacağam.Mən həmişəyaşıl şam kimiyəm,Sənin bar verməyin Məndən gələcək.</verse>
+        <verse osisID='Hos.14.9'>Kim müdrikdirsə, bu sözləri dərk etsin,Kim dərrakəlidirsə, bunları başa düşsün.Çünki Rəbbin yolları düzdür.Salehlər o yollarla gedir,Ancaq üsyankarlar o yollarda büdrəyir».</verse>
+      </chapter>
+    </div></osisText>
+</osis>

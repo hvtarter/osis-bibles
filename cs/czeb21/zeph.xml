@@ -1,0 +1,156 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace'>
+  <osisText osisRefWork='Bible' osisIDWork='CzeB21' xml:lang='cs'>
+    <header>
+      <revisionDesc>
+        <date>2010-02-26</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='CzeB21'>
+        <title>Czech Bible, Překlad 21. století</title>
+        <contributor/>
+        <creator>Mod2Zef (4)</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject/>
+        <date>2009-07-31</date>
+        <description>Bible, Překlad 21. století  vedoucí projektu Alexandr Flek  odborná spolupráce Jiří Hedánek, Pavel Hoffman, Zdeněk Sýkora  Přeloženo z hebrejštiny, aramejštiny, řečtiny  Vydání první  (c) 2009 Biblion, o. s.  www.bible21.org  www.bible21.cz   Překlad 21. století přináší nadčasové poselství Bible v současné, čtivé češtině. Usiluje o maximální věrnost původním hebrejským, aramejským a řeckým textům, zároveň však chce oslovit dnešní čtenáře, ať už jsou zvyklí čerpat z této knihy inspiraci pro každý den, anebo ji otevírají poprvé.</description>
+        <publisher/>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>CzeB21</identifier>
+        <source>no entry TextSource in sword.conf found</source>
+        <language type='IETF'>cs</language>
+        <relation/>
+        <coverage>provide the bible to the nations of the world</coverage>
+        <rights>Copyrighted; Permission to distribute granted to CrossWire</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='Zeph'>
+      <chapter osisID='Zeph.1'>
+        <verse osisID='Zeph.1.1'>Slovo Hospodinovo, které dostal Sofoniáš, syn Kušiho, syna Gedaliášova, syna Amariášova, syna Ezechiášova, za vlády judského krále Jošiáše, syna Amonova.</verse>
+        <verse osisID='Zeph.1.2'>"Smetu z povrchu země dočista všechno, praví Hospodin.</verse>
+        <verse osisID='Zeph.1.3'>Smetu lidi i dobytek, smetu nebeské ptáky i mořské ryby - všechna pohoršení spolu s ničemy! Vyhladím z povrchu země samo lidstvo, praví Hospodin.</verse>
+        <verse osisID='Zeph.1.4'>Vztáhnu ruku i na Judu a na všechny obyvatele Jeruzaléma. Na tomto místě vyhladím zbytky uctívání Baala, každou připomínku na kněží, kteří obětovali modlám -</verse>
+        <verse osisID='Zeph.1.5'>ty, kdo se na střechách klanějí nebeskému zástupu; ty, kdo se klanějí a přísahají Hospodinu, zároveň však i tomu jejich Molochu;</verse>
+        <verse osisID='Zeph.1.6'>ty, kdo se od Hospodina odvracejí, kdo Hospodina nehledají a kdo se po něm neptají."</verse>
+        <verse osisID='Zeph.1.7'>Zmlkněte před Panovníkem Hospodinem, neboť je blízko Hospodinův den! Hospodin oběť připravil a pozvané už posvětil.</verse>
+        <verse osisID='Zeph.1.8'>"V den té Hospodinovy oběti zúčtuji s knížaty a princi i se všemi, kdo se oblékají rouchy z ciziny.</verse>
+        <verse osisID='Zeph.1.9'>V ten den zúčtuji s každým, kdo přeskakuje práh a kdo plní chrám svého Pána násilím a lstí.</verse>
+        <verse osisID='Zeph.1.10'>V ten den, praví Hospodin, zazní od Rybné brány křik, od Nového města kvílení a hlučný třeskot od Výšin.</verse>
+        <verse osisID='Zeph.1.11'>Kvílejte vy, kdo bydlíte v Kotlině! Celý dav kramářů bude zahuben, vyhlazeni budou všichni, kdo počítají peníze!</verse>
+        <verse osisID='Zeph.1.12'>V ten čas prohledám Jeruzalém s lucernami a zúčtuji s těmi, kdo si hoví jak víno v sedlině, s těmi, kdo si v duchu říkají: ‚Hospodin nic nespraví ani nezkazí.'</verse>
+        <verse osisID='Zeph.1.13'>Jejich bohatství se stane kořistí, jejich domy budou zbořeny. Stavějí si domy, už je však nezabydlí, sázejí vinohrady, neokusí však víno z nich."</verse>
+        <verse osisID='Zeph.1.14'>Blízko je ten veliký Hospodinův den, blízko je a rychle blíží se! Slyš! To je Hospodinův den, hrdina zoufale volá do boje!</verse>
+        <verse osisID='Zeph.1.15'>Ten den bude den zuření, den úzkosti a sevření, den zkázy a pohromy, den chmury a temnoty, den mračna a setmění,</verse>
+        <verse osisID='Zeph.1.16'>den troubení na roh beraní proti městům s hradbami a s vysokými baštami.</verse>
+        <verse osisID='Zeph.1.17'>"Tehdy sevřu lidi úzkostí, aby jak slepci tápali, protože proti Hospodinu hřešili. Krev se z nich vyřine jako hlína a vnitřnosti jak lejna!"</verse>
+        <verse osisID='Zeph.1.18'>Jejich stříbro a zlato je nezachrání v den Hospodinova zuření, až plamen jeho horlení pohltí celou zemi. Ano, skoncuje, a to rychle, se všemi obyvateli země!</verse>
+      </chapter>
+      <chapter osisID='Zeph.2'>
+        <verse osisID='Zeph.2.1'>Sesbírejte se, jen se seberte, vy nestydatý národe,</verse>
+        <verse osisID='Zeph.2.2'>dříve než přijde rozsudek a dnešek jak plevy odvane; dříve než na vás dopadne žár Hospodinova hněvu; dříve než na vás dopadne den Hospodinova hněvu!</verse>
+        <verse osisID='Zeph.2.3'>Hledejte Hospodina, všichni pokorní země, kteří se jeho právem řídíte. Spravedlnost hledejte, hledejte pokoru - snad se skryjete v den Hospodinova hněvu.</verse>
+        <verse osisID='Zeph.2.4'>Gaza opuštěna bude, Aškelon zpustne, Ašdod bude vyhnán v poledne, Ekron vykořeněn.</verse>
+        <verse osisID='Zeph.2.5'>Běda, obyvatelé Přímoří, národe Kréťanů; slovo Hospodinovo na vás míří, Kanaáne, země Filištínů: "Do posledního vás zahladím!"</verse>
+        <verse osisID='Zeph.2.6'>Přímoří se stane pastvinou s chýšemi pastýřů a ovčí ohradou.</verse>
+        <verse osisID='Zeph.2.7'>Připadne pozůstalým z Judova domu, kteří tam najdou pastvu. Večer pak ulehnou v domech Aškelonu - Hospodin změní jejich osud!</verse>
+        <verse osisID='Zeph.2.8'>"Slyšel jsem Moábovy nadávky i urážky synů Amonových, kterými častují můj lid a roztahují se na jeho území.</verse>
+        <verse osisID='Zeph.2.9'>Proto, jakože jsem živ, praví Hospodin zástupů, Bůh Izraele, Moáb dopadne jako Sodoma, Amonovi synové jako Gomora: hájemství kopřiv a solných jam, věčná pustina! Pozůstatek mého lidu je vyrabuje, zbytek mého národa se zmocní jejich země."</verse>
+        <verse osisID='Zeph.2.10'>To vše kvůli jejich pýše, kvůli urážkám a povyšování se nad lid Hospodina zástupů.</verse>
+        <verse osisID='Zeph.2.11'>Hospodin pro ně bude strašlivý, až vysílí všechny bohy na zemi; pak se mu pokloní i vzdálené národy, každý ze svého území.</verse>
+        <verse osisID='Zeph.2.12'>"I vás, Habešané, probodne můj meč!"</verse>
+        <verse osisID='Zeph.2.13'>Napřáhne ruku i na sever: zničí Asýrii, zpustoší Ninive, že bude podobné poušti vyprahlé.</verse>
+        <verse osisID='Zeph.2.14'>Stáda pak budou léhat v něm, všemožná zvěř v celých zástupech. Pelikán a výr budou hnízdit na sloupech, z oken se ozve jejich zpěv. Na prahu jen hromady sutin, cedrové trámy strženy.</verse>
+        <verse osisID='Zeph.2.15'>To je to město hýření - hovělo si v bezpečí a namlouvalo si: "Já, jen já, a nikdo víc!" Jak je zpustošeno, jen zvěř tu peleší! Každý kolemjdoucí nad ním zasyčí a pěstí zahrozí.</verse>
+      </chapter>
+      <chapter osisID='Zeph.3'>
+        <verse osisID='Zeph.3.1'>Běda tomu zatvrzelému městu plnému špíny a útisku!</verse>
+        <verse osisID='Zeph.3.2'>Nikoho neposlouchá, nedá se poučit; nedoufá v Hospodina, ke svému Bohu se nechce přiblížit.</verse>
+        <verse osisID='Zeph.3.3'>Jeho velmoži jsou řvoucí lvi, jeho soudci jak vlci večerní, po kterých ráno zbývají jen ohryzané kosti.</verse>
+        <verse osisID='Zeph.3.4'>Jeho proroci jsou dobrodruzi, lidé prosáklí zradou. Jeho kněží znesvěcují svatyni, když znásilňují Zákon.</verse>
+        <verse osisID='Zeph.3.5'>Hospodin je v tom městě spravedlivý, nekoná žádné zlo. Ráno co ráno, denně bez ustání vynáší na světlo svůj soud; zlosyn však neví, co je stud!</verse>
+        <verse osisID='Zeph.3.6'>"Vyhladil jsem národy, že jejich bašty zpustly. Jejich ulice jsem zničil, že tudy nikdo nechodí. Z jejich měst zůstaly rozvaliny, z jejich obyvatel nezbyl jediný.</verse>
+        <verse osisID='Zeph.3.7'>Myslel jsem si: ‚Teď mě snad budeš ctít, teď se snad necháš poučit!' Jejich domov by pak nebyl zničen, nedopadl by na ně žádný trest. Oni však o to horlivěji páchají hanebnost při všem, co dělají.</verse>
+        <verse osisID='Zeph.3.8'>Proto mě čekejte, praví Hospodin, v den, kdy povstanu, abych svědčil! Toto je můj soud: Posbírám národy, shromáždím království a vyliji na ně svou prchlivost, všechnu svou rozpálenou zlost. Ano! Žár mé žárlivosti pohltí celou zemi!"</verse>
+        <verse osisID='Zeph.3.9'>"Tehdy dám národům čisté rty, aby všichni vzývali jméno Hospodin a společně mu sloužili.</verse>
+        <verse osisID='Zeph.3.10'>Ti, kdo mě uctívají za habešskými řekami, můj rozptýlený lid, ti mi přinesou mé oběti.</verse>
+        <verse osisID='Zeph.3.11'>V ten den už se nebudete muset stydět za všechny své vzpoury proti mně. Tehdy z vašeho středu odstraním ty vaše pyšné chvastouny. Už nikdy nebudete namyšlení na hoře mé svatosti.</verse>
+        <verse osisID='Zeph.3.12'>Ponechám ve vašem středu pokorný a ponížený lid - ty, kteří v Hospodinově jménu nacházejí své bezpečí.</verse>
+        <verse osisID='Zeph.3.13'>Pozůstatek Izraele už nebude jednat zle, nebudou mluvit lež, lstivý jazyk se u nich nenajde. Budou se pást a odpočívat v bezpečí a nikdo už je nezděsí."</verse>
+        <verse osisID='Zeph.3.14'>Jásej, Dcero sionská! Prozpěvuj, Izraeli! Raduj a vesel se celým srdcem, Dcero jeruzalémská!</verse>
+        <verse osisID='Zeph.3.15'>Hospodin zrušil tvůj rozsudek a nepřítele odvrátil. Hospodin, Král Izraele, je vprostřed tebe - neboj se už žádné pohromy!</verse>
+        <verse osisID='Zeph.3.16'>V ten den řeknou Jeruzalému: "Neboj se, Sione, nesvěšuj ruce!</verse>
+        <verse osisID='Zeph.3.17'>Hospodin, tvůj Bůh, je vprostřed tebe - hrdina, jenž tě zachrání. Šťastně se bude z tebe veselit, až tě svou láskou obnoví; zajásá nad tebou samou radostí</verse>
+        <verse osisID='Zeph.3.18'>jako v den slavnosti." "Odstraním z tebe neštěstí, abys už nenesl břímě potupy.</verse>
+        <verse osisID='Zeph.3.19'>Hle - v ten čas skoncuji se všemi, kdo tě trápili! Zachráním ale kulhavou a zahnanou zpět přivedu. Způsobím jim čest a slávu v každé zemi, kde nesli pohanu.</verse>
+        <verse osisID='Zeph.3.20'>V ten čas vás znovu přivedu, v ten čas vás shromáždím. Ano, dám vám čest a slávu mezi všemi národy na zemi, až změním váš osud před vašimi zraky, praví Hospodin."</verse>
+      </chapter>
+    </div></osisText>
+</osis>

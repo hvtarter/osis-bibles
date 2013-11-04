@@ -1,0 +1,562 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace'>
+  <osisText osisIDWork='NorthernAzeri' osisRefWork='Bible' xml:lang='az'>
+    <header>
+      <revisionDesc>
+        <date>2012-01-07</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='NorthernAzeri'>
+        <title>Northern Azeri Translation</title>
+        <contributor/>
+        <creator>Mod2Zef (6)</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject/>
+        <date>2012-01-07</date>
+        <description>Northern Azeri Translation</description>
+        <publisher/>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>NorthernAzeri</identifier>
+        <source>no entry TextSource in sword.conf found</source>
+        <language type='IETF'>az</language>
+        <relation/>
+        <coverage>provide the bible to the nations of the world</coverage>
+        <rights>Copyrighted Kutsul Kitab; Permission to distribute granted to CrossWire</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='Rev'>
+      <chapter osisID='Rev.1'>
+        <verse osisID='Rev.1.1'>Bu, İsa Məsihin vəhyidir. Allah bunu Ona verdi ki, tezliklə baş verməli hadisələri Öz qullarına aşkar etsin. Məsih də bunu Öz mələyi vasitəsilə qulu Yəhyaya göndərərək bəyan etdi.</verse>
+        <verse osisID='Rev.1.2'>Yəhya Allahın kəlamı və İsa Məsihin şəhadəti, yəni gördüyü hər şey barədə şəhadət etdi.</verse>
+        <verse osisID='Rev.1.3'>Nə bəxtiyardır bu peyğəmbərlik sözlərini oxuyan, eşidənlər və orada yazılanlara riayət edənlər! Çünki vaxt yaxındır. </verse>
+        <verse osisID='Rev.1.4'>Mən Yəhyadan Asiya vilayətindəki yeddi imanlılar cəmiyyətinə salam! Var Olan, Var Olmuş və Gəlməli Olandan, Onun taxtının önündəki yeddi ruhdan, həmçinin ölülər arasından ilk doğulan, yer üzünün padşahlarının başçısı olan sadiq şahid İsa Məsihdən sizə lütf və sülh olsun!  Bizi sevən, Öz qanı bahasına bizi günahlarımızdan azad edərək</verse>
+        <verse osisID='Rev.1.5'>Mən Yəhyadan Asiya vilayətindəki yeddi imanlılar cəmiyyətinə salam! Var Olan, Var Olmuş və Gəlməli Olandan, Onun taxtının önündəki yeddi ruhdan, həmçinin ölülər arasından ilk doğulan, yer üzünün padşahlarının başçısı olan sadiq şahid İsa Məsihdən sizə lütf və sülh olsun!  Bizi sevən, Öz qanı bahasına bizi günahlarımızdan azad edərək</verse>
+        <verse osisID='Rev.1.6'>bizdən bir padşahlıq təşkil edən və bizi Öz Atası Allah üçün kahinlər təyin edən Şəxsə əbədi olaraq izzət və qüdrət olsun! Amin.</verse>
+        <verse osisID='Rev.1.7'>Budur, O, buludlarla gəlir!Hər göz Onu görəcək,Hətta Onun bədənini deşənlər dəOnu görəcək.Yer üzünün bütün tayfalarıOnun üçün ah-nalə edəcək.Bəli, belə olacaq. Amin. </verse>
+        <verse osisID='Rev.1.8'>Var olan, Var olmuş və Gəlməli olan Külli-İxtiyar Rəbb Allah deyir: «Alfa və Omeqa Mənəm!» </verse>
+        <verse osisID='Rev.1.9'>Əziyyətə, Allahın Padşahlığına və dözümə sizinlə İsada şərik olan mən – qardaşınız Yəhya Allahın kəlamından ötrü və İsa barədə şəhadət etdiyimə görə Patmos adlanan adada idim.</verse>
+        <verse osisID='Rev.1.10'>Rəbbin günü Ruhun təsirinə düşdüm. Arxamdan şeypur səsinə bənzər uca bir səsin belə söylədiyini eşitdim:</verse>
+        <verse osisID='Rev.1.11'>«Gördüyünü bir kitaba yaz və bunu yeddi cəmiyyətə, yəni Efesə, İzmirə, Berqamaya, Tiatiraya, Sarda, Filadelfiyaya və Laodikeyaya göndər». </verse>
+        <verse osisID='Rev.1.12'>Onda çevrildim ki, mənimlə danışanın kim olduğunu görüm. Çevrildikdə yeddi qızıl çıraqdan gördüm.</verse>
+        <verse osisID='Rev.1.13'>Çıraqdanların arasında uzun cübbə geymiş, sinəsinə qızıl qurşaq bağlamış bəşər oğluna bənzər Biri var idi.</verse>
+        <verse osisID='Rev.1.14'>Onun başı, saçı yun və qar kimi ağ, gözləri isə odlu alov kimi idi;</verse>
+        <verse osisID='Rev.1.15'>ayaqları kürədə xalis olan pardaqlanmış tunc kimi idi, səsi də gur suların sədasına bənzəyirdi.</verse>
+        <verse osisID='Rev.1.16'>O, sağ əlində yeddi ulduz tutmuşdu, ağzından ikiağızlı iti bir qılınc çıxırdı; Onun üzü tam qüvvəsi ilə parlayan günəşə bənzəyirdi. </verse>
+        <verse osisID='Rev.1.17'>Mən Onu gördükdə ölü kimi ayaqlarına düşdüm. O isə sağ əlini mənim üstümə qoyub dedi: «Qorxma! Birinci və Sonuncu Olan,</verse>
+        <verse osisID='Rev.1.18'>Diri Olan Mənəm. Mən ölmüşdüm, indi isə əbədi olaraq diriyəm. Ölümün və ölülər diyarının açarları Məndədir.</verse>
+        <verse osisID='Rev.1.19'>Beləliklə, öz gördüklərini, indi və bundan sonra baş verəcək hadisələri yaz.</verse>
+        <verse osisID='Rev.1.20'>Mənim sağ əlimdə gördüyün yeddi ulduzun və yeddi qızıl çıraqdanın sirrinə gəlincə, yeddi ulduz yeddi cəmiyyətin mələkləri, yeddi çıraqdan da yeddi cəmiyyət deməkdir.  </verse>
+      </chapter>
+      <chapter osisID='Rev.2'>
+        <verse osisID='Rev.2.1'>
+         Yeddi ulduzu sağ əlində Tutan, yeddi qızıl çıraqdanın arasında Gəzən belə deyir:</verse>
+        <verse osisID='Rev.2.2'>sənin əməllərindən, zəhmətindən, dözümündən və şər adamlara dözmədiyindən xəbərdaram. Həvari olmadıqları halda özlərini həvari adlandıranları sınaqdan keçirdin və onların yalançı olduğunu müəyyən etdin.</verse>
+        <verse osisID='Rev.2.3'>Sən dözümlü oldun, Mənim adım naminə tab gətirdin və yorulmadın. </verse>
+        <verse osisID='Rev.2.4'>Amma səndən bir şikayətim var: əvvəlki məhəbbətindən əl çəkmisən.</verse>
+        <verse osisID='Rev.2.5'>Buna görə də haradan yıxıldığını yadına sal, tövbə et və əvvəl etdiyin işləri gör. Əks təqdirdə, tövbə etməsən, yanına gəlib çıraqdanını yerindən götürəcəyəm.</verse>
+        <verse osisID='Rev.2.6'>Amma yaxşı ki sən nikolaçıların əməllərinə nifrət edirsən; Mən də onlara nifrət edirəm. </verse>
+        <verse osisID='Rev.2.7'>Qulağı olan qoy eşitsin ki, Ruh cəmiyyətlərə nə deyir. Qalib gələnə Allahın cənnətində olan həyat ağacından yeməyə imkan verəcəyəm. </verse>
+        <verse osisID='Rev.2.8'>İzmirdə olan cəmiyyətin mələyinə yaz:  Birinci və Sonuncu Olan, ölüb yenidən Dirilən belə deyir:</verse>
+        <verse osisID='Rev.2.9'>sənin əziyyətindən və yoxsulluğundan xəbərdaram, amma sən zənginsən. Yəhudi olduqlarını iddia edənlərin küfründən də xəbərdaram, amma onlar Yəhudi deyil, Şeytan yığıncağıdır.</verse>
+        <verse osisID='Rev.2.10'>Çəkəcəyin əzabdan heç qorxma. Bax iblis aranızdan bəzisini zindana atacaq ki, sınaqdan keçəsiniz. Siz on gün əziyyət çəkəcəksiniz. Ölüm bahasına olsa da, sadiq qal, Mən sənə həyat tacını verəcəyəm. </verse>
+        <verse osisID='Rev.2.11'>Qulağı olan qoy eşitsin ki, Ruh cəmiyyətlərə nə deyir. Qalib gələn ikinci ölümdən heç zərər görməyəcək. </verse>
+        <verse osisID='Rev.2.12'>Berqamada olan cəmiyyətin mələyinə yaz:  İkiağızlı iti qılıncı Olan belə deyir:</verse>
+        <verse osisID='Rev.2.13'>gör harada, Şeytanın taxtı olan yerdə yaşadığın halda Mənim adıma bağlı qaldığından xəbərdaram. Barəmdə sədaqətlə şəhadət edən, aranızda, Şeytanın yaşadığı yerdə öldürülən Antipanın günlərində belə, Mənə olan imanından imtina etmədin. </verse>
+        <verse osisID='Rev.2.14'>Amma səndən bir az şikayətim var: aranızda Bilamın təliminə bağlı olanlar var. O, Balaqı öyrətdi ki, İsrail övladlarını büdrədərək bütlərə təqdim olunan qurbanların ətini yeməyə və əxlaqsızlığa azdırsın.</verse>
+        <verse osisID='Rev.2.15'>Eləcə də sənin içində nikolaçıların bu cür təliminə bağlı olanlar var.</verse>
+        <verse osisID='Rev.2.16'>Buna görə də tövbə et. Yoxsa tezliklə sənin yanına gəlib ağzımdan çıxan qılıncla onlarla döyüşəcəyəm. </verse>
+        <verse osisID='Rev.2.17'>Qulağı olan qoy eşitsin ki, Ruh cəmiyyətlərə nə deyir. Qalib gələnə Mən gizli saxlanan mannadan verəcəyəm. Ona bir ağ daş da verəcəyəm ki, üstündə yeni ad yazılıb; bu adı da daşı alandan başqa heç kəs bilmir. </verse>
+        <verse osisID='Rev.2.18'>Tiatirada olan cəmiyyətin mələyinə yaz:  Gözləri odlu alova, ayaqları da pardaqlanmış tunca bənzəyən Allah Oğlu belə deyir:</verse>
+        <verse osisID='Rev.2.19'>sənin əməllərindən, məhəbbətindən, imanından, xidmətindən və dözümündən xəbərdaram; son işlərin də əvvəlkilərdən daha çoxdur. </verse>
+        <verse osisID='Rev.2.20'>Amma səndən şikayətim var: sən özünü peyğəmbər adlandıran qadın İzevelə imkan verirsən ki, Mənim qullarıma əxlaqsızlıq və bütlərə təqdim olunan qurbanların ətini yeməyi öyrədərək onları aldatsın.</verse>
+        <verse osisID='Rev.2.21'>Mən ona möhlət verdim ki, tövbə etsin, amma əxlaqsızlığından tövbə etmək istəmir.</verse>
+        <verse osisID='Rev.2.22'>Bax onu xəstəlik yatağına salıram. Onunla zina edənlər birgə etdikləri əməllərdən tövbə etməsələr, onları da böyük əziyyətə düçar edəcəyəm.</verse>
+        <verse osisID='Rev.2.23'>Onun övladlarını azara salıb öldürəcəyəm. Bütün cəmiyyətlər də biləcək ki, insanın daxilini və ürəyini araşdıran Mənəm və hər birinizə əməllərinizə görə əvəz verəcəyəm. </verse>
+        <verse osisID='Rev.2.24'>Amma siz Tiatirada olan digərlərinə, yəni bu təlimi qəbul etməyənlərə və Şeytanın dərin sirri adlandırılan şeyləri öyrənməyənlərə deyirəm: üstünüzə başqa bir yük qoymuram;</verse>
+        <verse osisID='Rev.2.25'>ancaq Mən gəlincəyə qədər özünüzdə olana bağlı qalın. </verse>
+        <verse osisID='Rev.2.26'>Qalib gələnə və Mənim buyurduğum işlərə sonadək riayət edənə millətlər üzərində səlahiyyət verəcəyəm.</verse>
+        <verse osisID='Rev.2.27'>“Dəmir əsa ilə onlara ağalıq edəcək,Saxsı qablar kimi onları çilik-çilik edəcək”. </verse>
+        <verse osisID='Rev.2.28'>Bunu Atamdan necə aldımsa, eləcə də ona verəcəyəm. Dan ulduzunu da ona verəcəyəm.</verse>
+        <verse osisID='Rev.2.29'>Qulağı olan qoy eşitsin ki, Ruh cəmiyyətlərə nə deyir.  </verse>
+      </chapter>
+      <chapter osisID='Rev.3'>
+        <verse osisID='Rev.3.1'>
+         Allahın yeddi ruhuna və yeddi ulduza malik Olan belə deyir: sənin əməllərindən xəbərdaram. Adın var ki, guya dirisən, əslində isə ölüsən.</verse>
+        <verse osisID='Rev.3.2'>Oyaq ol və sağ qalıb ölmək üzrə olan nəyin varsa, onu möhkəmləndir. Çünki Mən sənin əməllərinin Allahımın önündə kamil olmadığını gördüm.</verse>
+        <verse osisID='Rev.3.3'>Buna görə də nə aldığını və nə eşitdiyini yadına sal. Bunlara riayət et və tövbə elə. Əgər oyaq olmasan, bir oğru kimi gələcəyəm və hansı saat sənin üstünə gələcəyimi də bilməyəcəksən. </verse>
+        <verse osisID='Rev.3.4'>Amma Sardda, sənin yanında öz paltarlarını ləkələməyən bir neçə şəxs də var. Onlar Mənimlə birlikdə ağ paltarda gəzəcəklər, çünki buna layiqdirlər.</verse>
+        <verse osisID='Rev.3.5'>Qalib gələn hər kəs də ağ paltar geyinəcək. Mən onun adını həyat kitabından əsla silməyəcəyəm, Atamın və Onun mələklərinin önündə adını iqrar edəcəyəm.</verse>
+        <verse osisID='Rev.3.6'>Qulağı olan qoy eşitsin ki, Ruh cəmiyyətlərə nə deyir. </verse>
+        <verse osisID='Rev.3.7'>Filadelfiyada olan cəmiyyətin mələyinə yaz:  Müqəddəs və Haqq Olan, Davudun açarının Sahibi, açdığını heç kəs bağlamayan, bağladığını heç kəs açmayan belə deyir:</verse>
+        <verse osisID='Rev.3.8'>sənin əməllərindən xəbərdaram. Bax Mən sənin üzünə elə bir qapı açmışam ki, heç kəs onu bağlaya bilməz. Gücün az olduğu halda Mənim sözümə riayət etmisən və Mənim adımdan imtina etməmisən.</verse>
+        <verse osisID='Rev.3.9'>İndi isə Şeytan yığıncağından olub Yəhudi olmadıqları halda özlərini Yəhudi adlandıran yalançıları məcbur edəcəyəm ki, gəlib sənin ayaqlarına düşsünlər və Mənim səni sevdiyimi bilsinlər.</verse>
+        <verse osisID='Rev.3.10'>Dözüm göstərərək Mənim sözümə riayət etmisən. Buna görə Mən də səni yer üzündə yaşayanları sınamaq üçün bütün dünyanın üzərinə gələcək sınaq zamanından qoruyub saxlayacağam.</verse>
+        <verse osisID='Rev.3.11'>Tezliklə gəlirəm. Nəyin varsa, ona bağlı qal ki, heç kəs tacını götürməsin. </verse>
+        <verse osisID='Rev.3.12'>Qalib gələni Allahımın məbədinə sütun qoyacağam və bir daha oranı tərk etməyəcək. Onun üzərinə Allahımın adını, Allahıma məxsus şəhərin, yəni göydən, Allahımın yanından enən yeni Yerusəlimin adını və Öz yeni adımı yazacağam.</verse>
+        <verse osisID='Rev.3.13'>Qulağı olan qoy eşitsin ki, Ruh cəmiyyətlərə nə deyir. </verse>
+        <verse osisID='Rev.3.14'>Laodikeyada olan cəmiyyətin mələyinə yaz:  Amin Olan, sadiq və etibarlı Şahid, Allahın yaratdıqlarının Mənşəyi belə deyir:</verse>
+        <verse osisID='Rev.3.15'>sənin əməllərindən xəbərdaram. Sən nə soyuqsan, nə də isti. Kaş ki ya soyuq ya da isti olaydın!</verse>
+        <verse osisID='Rev.3.16'>İndi ki nə isti, nə də soyuq olub ilıqsan, səni ağzımdan qaytaracağam.</verse>
+        <verse osisID='Rev.3.17'>Çünki deyirsən: “Varlıyam, zəngin olmuşam və heç nəyə möhtac deyiləm”. Amma bilmirsən ki, zəlil, yazıq, yoxsul, kor və çılpaqsan.</verse>
+        <verse osisID='Rev.3.18'>Sənə məsləhət görürəm ki, zəngin olmaq üçün Məndən od içində xalis olan qızıl alasan, həmçinin geyinib çılpaqlığının ayıbını açmamaq üçün ağ paltar alasan, gözlərinə sürtüb görmək üçün də göz məlhəmi alasan.</verse>
+        <verse osisID='Rev.3.19'>Mən kimi sevirəm, onu məzəmmət və tərbiyə edirəm. Buna görə də qeyrətə gəl və tövbə et.</verse>
+        <verse osisID='Rev.3.20'>Bax qapının önündə durub onu döyürəm; kim səsimi eşidib qapını açsa, onun yanına gələcəyəm və Mən onunla, o da Mənimlə birgə şam edəcəyik. </verse>
+        <verse osisID='Rev.3.21'>Qalib gələnə Mənimlə birgə Öz taxtımda oturmağa imkan verəcəyəm; Mən də eləcə qalib gəlib Atamla birgə Onun taxtında oturmuşam.</verse>
+        <verse osisID='Rev.3.22'>Qulağı olan qoy eşitsin ki, Ruh cəmiyyətlərə nə deyir».  </verse>
+      </chapter>
+      <chapter osisID='Rev.4'>
+        <verse osisID='Rev.4.1'>
+          Bundan sonra gördüm ki, göyə açılmış bir qapı var. Əvvəlcə mənimlə danışdığını eşitdiyim, şeypura bənzər səs dedi: «Bura qalx. Bundan sonra baş verməli hadisələri sənə göstərəcəyəm».</verse>
+        <verse osisID='Rev.4.2'>Elə o an mən Ruhun təsirinə düşdüm. Budur, göydə bir taxt qurulub, taxtda da Biri oturub.</verse>
+        <verse osisID='Rev.4.3'>Oturanın görünüşü yəşəm və qırmızı əqiq daşına bənzəyirdi. Taxtın ətrafında da görünüşcə zümrüdə bənzəyən göy qurşağı var idi.</verse>
+        <verse osisID='Rev.4.4'>Taxtın hər tərəfində daha iyirmi dörd taxt var idi və onların üstündə ağ paltar geyinmiş, başında qızıl tac olan iyirmi dörd ağsaqqal oturmuşdu.</verse>
+        <verse osisID='Rev.4.5'>Taxtdan şimşək, uğultu və göy gurultusu çıxırdı. Taxtın önündə yeddi məşəl yanırdı; bunlar Allahın yeddi ruhudur.</verse>
+        <verse osisID='Rev.4.6'>Taxtın önündə sanki büllura bənzəyən şüşə dəniz var idi.  Taxtın ətrafında, hər dörd yanında önü də, arxası da gözlərlə örtülmüş dörd canlı məxluq var idi.</verse>
+        <verse osisID='Rev.4.7'>Birinci məxluq aslana, ikinci məxluq danaya, üçüncü məxluqun üzü insan üzünə, dördüncü məxluq da uçan qartala bənzəyirdi.</verse>
+        <verse osisID='Rev.4.8'>Bu dörd məxluqdan hər birinin altı qanadı var idi; məxluqların hər tərəfi, hətta qanadlarının alt tərəfi də gözlərlə örtülmüşdü. Bu məxluqlar gecə-gündüz dayanmadan deyir:  «Var Olmuş, Var Olan və Gəlməli OlanKülli-İxtiyar Rəbb AllahMüqəddəsdir, müqəddəsdir, müqəddəsdir!»</verse>
+        <verse osisID='Rev.4.9'>Canlı məxluqlar hər dəfə taxtda Oturana, əbədi Yaşayana izzət və şərəf verib şükür edəndə</verse>
+        <verse osisID='Rev.4.10'>iyirmi dörd ağsaqqal taxtda Oturanın önündə yerə qapanıb əbədi Var Olana səcdə edir və taclarını taxtın önünə atıb deyirlər:</verse>
+        <verse osisID='Rev.4.11'>«Ey bizim Rəbbimiz və Allahımız!Sən izzət, şərəf və qüdrət almağa layiqsən.Çünki hər şeyi Sən yaratdın,Hər şey Sənin iradənlə var olub yarandı». </verse>
+      </chapter>
+      <chapter osisID='Rev.5'>
+        <verse osisID='Rev.5.1'>
+           Mən taxtda Oturanın sağ əlində bir tumar gördüm ki, onun hər iki tərəfi də yazılmışdı və yeddi möhürlə möhürlənmişdi.</verse>
+        <verse osisID='Rev.5.2'>Həmçinin gördüm ki, qüdrətli bir mələk uca səslə elan edir: «Tumarın möhürlərini qırmağa və onu açmağa kim layiqdir?»</verse>
+        <verse osisID='Rev.5.3'>Amma nə göydə, nə yer üzündə, nə də yer altında bir kəs bu tumarı açmağı yaxud onun içinə baxmağı bacarmadı.</verse>
+        <verse osisID='Rev.5.4'>Mən çox ağladım, çünki tumarı açmağa yaxud onun içinə baxmağa layiq olan bir kəs tapılmadı.</verse>
+        <verse osisID='Rev.5.5'>Onda ağsaqqallardan biri mənə dedi: «Ağlama! Budur, Yəhuda qəbiləsindən olan Aslan, Davudun Kökü qalib gəlib; buna görə də O, tumarı və onun yeddi möhürünü aça bilir». </verse>
+        <verse osisID='Rev.5.6'>Gördüm ki, taxtla dörd canlı məxluqun ortasında və ağsaqqalların arasında bir Quzu dayanıb; O sanki kəsilmiş vəziyyətdə idi. Onun yeddi buynuzu və yeddi gözü var idi ki, bunlar da bütün yer üzünə göndərilmiş Allahın yeddi ruhudur.</verse>
+        <verse osisID='Rev.5.7'>Quzu yaxınlaşıb taxtda Oturanın sağ əlindən tumarı götürdü.</verse>
+        <verse osisID='Rev.5.8'>O, tumarı götürdüyü zaman dörd canlı məxluq və iyirmi dörd ağsaqqal Quzunun önündə yerə qapandı. Hər birinin əlində çəng var idi və buxurla dolu qızıl nimçələr tuturdular ki, bunlar müqəddəslərin dualarıdır.</verse>
+        <verse osisID='Rev.5.9'>Onlar yeni bir nəğmə oxuyaraq deyirdi:  «Sən tumarı götürübOnun möhürlərini qırmağa layiqsən.Çünki Sən kəsildinVə hər tayfadan, dildən, xalqdan və millətdən olanlarıAllah üçün Öz qanın bahasına satın aldın.</verse>
+        <verse osisID='Rev.5.10'>Onları Allahımızla birgəPadşahlığa və kahinliyə şərik etdin;Onlar da yer üzünə padşahlıq edəcək». </verse>
+        <verse osisID='Rev.5.11'>Taxtın, canlı məxluqların və ağsaqqalların ətrafında saysız-hesabsız mələk gördüm və onların səsini eşitdim.</verse>
+        <verse osisID='Rev.5.12'>Onlar uca səslə deyirdi:  «Kəsilmiş QuzuQüdrəti, sərvəti, hikməti, qüvvəti,Şərəfi, izzəti və alqışıAlmağa layiqdir».</verse>
+        <verse osisID='Rev.5.13'>Həmçinin mən göydə, yer üzündə, yer altında, dənizdə olan bütün məxluqların və oralardakı bütün varlıqların belə dediyini eşitdim:  «Taxtda Oturana və Quzuya əbədi olaraqAlqış, şərəf, izzət və qüdrət olsun!»</verse>
+        <verse osisID='Rev.5.14'>Dörd canlı məxluq da «Amin!» deyirdi. Onda ağsaqqallar yerə qapanıb səcdə etdilər.  </verse>
+      </chapter>
+      <chapter osisID='Rev.6'>
+        <verse osisID='Rev.6.1'>
+          Mən gördüm ki, Quzu yeddi möhürün birini açdı. Onda dörd canlı məxluqdan birinin göy gurultusuna bənzər səslə «gəl» dediyini eşitdim.</verse>
+        <verse osisID='Rev.6.2'>Gördüm ki, bir ağ at və onun belində oturan atlının əlində ox-kaman var. Ona bir tac verildi və bir qalib kimi yola çıxdı ki, qələbə qazansın. </verse>
+        <verse osisID='Rev.6.3'>Quzu ikinci möhürü açanda ikinci canlı məxluqun «gəl» dediyini eşitdim.</verse>
+        <verse osisID='Rev.6.4'>Onda ayrısı – od rəngində bir at ortaya çıxdı. Onun belində oturan atlıya izin verildi ki, yer üzündə sülhü aradan götürsün və insanlara bir-birini qırdırsın. Atlıya böyük bir qılınc verildi. </verse>
+        <verse osisID='Rev.6.5'>Quzu üçüncü möhürü açanda üçüncü canlı məxluqun «gəl» dediyini eşitdim. Gördüm ki, bir qara at və onun belində oturan atlının əlində tərəzi var.</verse>
+        <verse osisID='Rev.6.6'>Dörd canlı məxluqun arasından sanki bir səsin belə dediyini eşitdim: «Bir xiniks buğda bir dinara, üç xiniks arpa da bir dinaradır; amma zeytun yağına və şəraba ziyan vurma». </verse>
+        <verse osisID='Rev.6.7'>Quzu dördüncü möhürü açanda dördüncü canlı məxluqun «gəl» dediyini eşitdim.</verse>
+        <verse osisID='Rev.6.8'>Gördüm ki, bir solğun rəngdə at var. Onun belində oturan atlının adı Ölüm idi. Ölülər diyarı da onun ardınca gedirdi. Onlara yer üzünün dörddə biri üzərində səlahiyyət verildi ki, qılınc, aclıq, azar və yer üzündəki vəhşi heyvanlarla insanları qırsınlar. </verse>
+        <verse osisID='Rev.6.9'>Quzu beşinci möhürü açanda qurbangahın altında Allahın kəlamına və etdikləri şəhadətə görə kəsilən canları gördüm.</verse>
+        <verse osisID='Rev.6.10'>Onlar uca səslə fəryad edirdi: «Ey müqəddəs və haqq olan Pərvərdigar, nə vaxta kimi mühakimə etməyib yer üzündə yaşayanlardan qanımızın qisasını almayacaqsan?»</verse>
+        <verse osisID='Rev.6.11'>Onda hər birinə ağ xalat verilib deyildi ki, özləri ilə birgə qulluq edən, onlar kimi öldürüləcək bacı-qardaşlarının sayı tamam olana qədər bir az vaxt da rahat olsunlar. </verse>
+        <verse osisID='Rev.6.12'>Quzu altıncı möhürü açanda gördüm ki, böyük bir zəlzələ baş verdi. Günəş qıldan toxunan çul kimi qaraldı və ayın rəngi bütünlüklə qan kimi oldu.</verse>
+        <verse osisID='Rev.6.13'>Göydəki ulduzlar da əncir ağacının güclü küləkdən sarsılıb kal meyvələrini tökdüyü kimi yerə töküldü.</verse>
+        <verse osisID='Rev.6.14'>Göy də bükülən tumar kimi çəkilib getdi. Hər dağ və ada yerindən tərpəndi.</verse>
+        <verse osisID='Rev.6.15'>Onda yer üzünün padşahları, böyük adamlar, sərkərdələr, varlılar, güclülər, hər qul və azad adam mağaralarda və dağlardakı qayalar arasında gizlənib</verse>
+        <verse osisID='Rev.6.16'>dağlara və qayalara dedilər: «Üstümüzə qopub düşün və bizi taxtda Oturanın üzündən, Quzunun qəzəbindən gizlədin.</verse>
+        <verse osisID='Rev.6.17'>Çünki qəzəblərinin böyük günü gəlib çatdı və ona qarşı kim dura bilər?»  </verse>
+      </chapter>
+      <chapter osisID='Rev.7'>
+        <verse osisID='Rev.7.1'>
+           Bundan sonra mən yer üzünün dörd küncündə dayanan dörd mələk gördüm. Onlar yer üzünün dörd küləyini tutmuşdular ki, nə quru, nə dəniz və nə də bir ağac üstünə yel əssin.</verse>
+        <verse osisID='Rev.7.2'>Gündoğan tərəfdən qalxan başqa bir mələk də gördüm ki, var olan Allahın möhürünə malik idi. O, uca səslə quruya və dənizə ziyan vurmaq izni verilmiş dörd mələyi çağırıb dedi:</verse>
+        <verse osisID='Rev.7.3'>«Biz Allahımızın qullarının alnını möhürləyənə qədər quruya, dənizə və ağaclara ziyan vurmayın».</verse>
+        <verse osisID='Rev.7.4'>Möhürlənmiş şəxslərin sayını da eşitdim; İsrail övladlarının bütün qəbilələrindən 144 000 nəfər möhürlənmişdi:</verse>
+        <verse osisID='Rev.7.5'>Yəhuda qəbiləsindən 12 000 möhürlənmiş nəfər;Ruven qəbiləsindən 12 000 nəfər;Qad qəbiləsindən 12 000 nəfər;</verse>
+        <verse osisID='Rev.7.6'>Aşer qəbiləsindən 12 000 nəfər;Naftali qəbiləsindən 12 000 nəfər;Menaşşe qəbiləsindən 12 000 nəfər;</verse>
+        <verse osisID='Rev.7.7'>Şimeon qəbiləsindən 12 000 nəfər;Levi qəbiləsindən 12 000 nəfər;İssakar qəbiləsindən 12 000 nəfər;</verse>
+        <verse osisID='Rev.7.8'>Zevulun qəbiləsindən 12 000 nəfər;Yusif qəbiləsindən 12 000 nəfər;Binyamin qəbiləsindən 12 000 möhürlənmiş nəfər. </verse>
+        <verse osisID='Rev.7.9'>Bundan sonra mən gördüm ki, hər millətdən, hər tayfadan, hər xalqdan və hər dildən olan, heç kəsin saya bilməyəcəyi böyük bir kütlə taxtın və Quzunun önündə dayanıb. Onlar ağ xalat geyinib, əllərində xurma budaqları tutublar.</verse>
+        <verse osisID='Rev.7.10'>Uca səslə nida edirdilər:  «Xilas taxtda oturan Allahımıza və Quzuya məxsusdur!»</verse>
+        <verse osisID='Rev.7.11'>Bütün mələklər də taxtın, ağsaqqalların və dörd canlı məxluqun ətrafında dayanmışdı. Onlar taxtın önündə üzüstə yerə qapanaraq Allaha səcdə edib dedilər:</verse>
+        <verse osisID='Rev.7.12'>«Amin! Allahımıza əbədi olaraqAlqış, izzət, hikmət, şükür, şərəf,Qüdrət və qüvvət olsun! Amin!» </verse>
+        <verse osisID='Rev.7.13'>Bu arada ağsaqqallardan biri məndən soruşdu: «Ağ xalat geyinmiş bu şəxslər kimdir və haradan gəliblər?»</verse>
+        <verse osisID='Rev.7.14'>Ona dedim: «Ağa, bunu sən bilərsən». O mənə dedi: «Bunlar böyük əziyyətdən keçib gələnlərdir. Onlar öz xalatlarını yuyub Quzunun qanı ilə ağartdılar.</verse>
+        <verse osisID='Rev.7.15'>Buna görə də  Onlar Allahın taxtının önündədir,Gecə-gündüz məbədində Ona ibadət edirlər.Taxtda Oturan daOnların üzərində məskən salacaq.</verse>
+        <verse osisID='Rev.7.16'>Onlar bir daha nə ac,Nə də susuz qalacaq,Günəş və qızmar istiOnları vurmayacaq.</verse>
+        <verse osisID='Rev.7.17'>Çünki taxtın ortasında olan QuzuOnların Çobanı olacaq,Onları həyat suyunun qaynaqlarına aparacaq,Allah onların bütün göz yaşlarını siləcək». </verse>
+      </chapter>
+      <chapter osisID='Rev.8'>
+        <verse osisID='Rev.8.1'>
+          Quzu yeddinci möhürü açanda göydə təxminən yarım saat sükut yarandı.</verse>
+        <verse osisID='Rev.8.2'>Onda mən Allahın önündə dayanan yeddi mələyi gördüm. Onlara yeddi şeypur verildi. </verse>
+        <verse osisID='Rev.8.3'>Başqa bir mələk də gəlib qurbangahın önündə durdu. Onun əlində qızıl buxurdan var idi və ona çoxlu buxur verildi ki, bunu bütün müqəddəslərin duaları ilə birgə taxtın önündə olan qızıl qurbangahın üstündə təqdim etsin.</verse>
+        <verse osisID='Rev.8.4'>Buxurun tüstüsü müqəddəslərin duaları ilə birgə mələyin əlindən Allahın önünə yüksəldi.</verse>
+        <verse osisID='Rev.8.5'>Onda mələk buxurdanı götürüb qurbangahdakı odla doldurdu və onu yer üzünə atdı. Göy gurultusu, uğultu, şimşək və zəlzələ baş verdi. </verse>
+        <verse osisID='Rev.8.6'>Yeddi şeypuru olan yeddi mələk onları çalmağa hazırlaşdı. </verse>
+        <verse osisID='Rev.8.7'>Birinci mələk şeypurunu çaldı. Onda qanla qarışıq dolu və od əmələ gəlib yer üzünə yağdırıldı. Yer üzünün üçdə biri, ağacların üçdə biri və bütün yaşıl otlar yandırıldı. </verse>
+        <verse osisID='Rev.8.8'>İkinci mələk şeypurunu çaldı. Onda sanki böyük bir dağ odla yanaraq dənizin içinə atıldı. Dənizin üçdə biri qana döndü.</verse>
+        <verse osisID='Rev.8.9'>Dənizdə olan canlı məxluqların üçdə biri öldü. Gəmilərin də üçdə biri məhv oldu. </verse>
+        <verse osisID='Rev.8.10'>Üçüncü mələk şeypurunu çaldı. Onda göydən məşəl kimi yanan böyük bir ulduz enib çayların üçdə birinin və su qaynaqlarının üstünə düşdü.</verse>
+        <verse osisID='Rev.8.11'>O ulduzun adına «Yovşan» deyilir. Suların üçdə biri yovşana döndü. Çoxlu adam sulardan öldü, çünki sular acı olmuşdu. </verse>
+        <verse osisID='Rev.8.12'>Dördüncü mələk şeypurunu çaldı. Onda günəşin, ayın və ulduzların üçdə biri vuruldu; buna görə də onların üçdə biri qaraldı. Gündüzün üçdə biri, gecənin də elə o qədəri işıqsız qaldı. </verse>
+        <verse osisID='Rev.8.13'>Onda göyün ortasında uçan bir qartal gördüm və onun uca səslə belə dediyini eşitdim: «Şeypurlarını çalacaq o biri üç mələyin şeypur səslərindən yer üzündə yaşayanların vay, vay, vay halına!»  </verse>
+      </chapter>
+      <chapter osisID='Rev.9'>
+        <verse osisID='Rev.9.1'>Beşinci mələk şeypurunu çaldı. Onda mən göydən yerə düşmüş bir ulduz gördüm. Dibsiz dərinliyə enən quyunun açarı ona verildi.</verse>
+        <verse osisID='Rev.9.2'>O, dibsiz dərinliyə enən quyunu açdı və quyudan iri bir kürənin tüstüsünə bənzər tüstü çıxdı. Günəş və hava quyudan çıxan tüstüdən qaraldı.</verse>
+        <verse osisID='Rev.9.3'>Tüstünün içindən yer üzünə çəyirtkələr çıxdı və onlara yer üzündəki əqrəblərin gücü qədər güc verildi.</verse>
+        <verse osisID='Rev.9.4'>Onlara deyildi ki, yer üzündəki otlara, heç bir yaşıllığa, heç bir ağaca deyil, yalnız alınlarında Allahın möhürü olmayan insanlara zərər vursunlar.</verse>
+        <verse osisID='Rev.9.5'>Onlara izin verildi ki, insanları öldürmədən onlara beş ay işgəncə versinlər. Onların verdiyi işgəncə əqrəbin insanı sancdığı zaman olan işgəncəyə bənzəyir.</verse>
+        <verse osisID='Rev.9.6'>O günlərdə insanlar ölüm axtaracaq, amma tapmayacaqlar. Özlərinə ölüm arzulayacaqlar, amma ölüm onlardan qaçacaq. </verse>
+        <verse osisID='Rev.9.7'>Çəyirtkələrin görünüşü döyüşə hazırlanan atlara bənzəyirdi. Başlarında sanki qızıl tac var idi, üzləri də insan üzü kimi idi.</verse>
+        <verse osisID='Rev.9.8'>Onların qadınlarda olan kimi saçları var idi, dişləri də aslan dişləri kimi idi.</verse>
+        <verse osisID='Rev.9.9'>Döş zirehləri dəmir zirehlər kimi idi. Qanadlarının səsi döyüşə qaçan çoxlu sayda arabalarla atların səsinə bənzəyirdi.</verse>
+        <verse osisID='Rev.9.10'>Onların əqrəb kimi quyruqları və neştərləri var idi. Quyruqlarında elə gücləri var idi ki, insanlara beş ay zərər verə bilərdilər.</verse>
+        <verse osisID='Rev.9.11'>Dibsiz dərinliyin mələyi onların üzərində padşahlıq edirdi; onun adı ibranicə «Avaddon», yunanca «Apollion» idi. </verse>
+        <verse osisID='Rev.9.12'>Birinci bəla ötüb keçdi. Budur, ondan sonra daha iki bəla gəlir. </verse>
+        <verse osisID='Rev.9.13'>Altıncı mələk şeypurunu çaldı. Onda mən Allahın önündəki qızıl qurbangahın dörd buynuzundan gələn bir səs eşitdim.</verse>
+        <verse osisID='Rev.9.14'>Bu səs şeypuru olan altıncı mələyə deyirdi: «Böyük Fərat çayının kənarında bağlanan dörd mələyi burax».</verse>
+        <verse osisID='Rev.9.15'>Həmin o saat, o gün, o ay və o il üçün hazırlanmış dörd mələk buraxıldı ki, insanların üçdə birini öldürsün.</verse>
+        <verse osisID='Rev.9.16'>Atlı qoşunların sayı iki yüz milyon idi; mən onların sayını eşitdim.</verse>
+        <verse osisID='Rev.9.17'>Mən görüntüdə atları və onların belində oturan atlıları bu cür gördüm: onların od, tünd göy və kükürd rəngində döş zirehləri var idi, atların başı aslan başı kimi idi və ağızlarından od, tüstü və kükürd çıxırdı.</verse>
+        <verse osisID='Rev.9.18'>Bu üç bəladan, yəni onların ağzından çıxan od, tüstü və kükürddən insanların üçdə biri həlak oldu.</verse>
+        <verse osisID='Rev.9.19'>Çünki atların gücü onların ağzında və quyruğundadır. Onların quyruğu başı olan ilana oxşayır və atlar bu başlarla da zərər vururlar. </verse>
+        <verse osisID='Rev.9.20'>Bu bəlalardan həlak olmayıb sağ qalan adamlar öz əlləri ilə düzəltdikləri şeylərdən dönüb tövbə etmədilər. Cinlərə və görməyə, eşitməyə, yeriməyə qadir olmayan qızıl, gümüş, tunc, daş, taxta bütlərə səcdə etməkdən əl çəkmədilər.</verse>
+        <verse osisID='Rev.9.21'>Həmçinin onlar nə qatilliklərindən, nə sehrbazlıqlarından, nə əxlaqsızlıqlarından, nə də oğurluqlarından tövbə etdilər.  </verse>
+      </chapter>
+      <chapter osisID='Rev.10'>
+        <verse osisID='Rev.10.1'>
+          Mən göydən enən başqa bir güclü mələyi gördüm. O, buluda bürünmüşdü və başının üstündə göy qurşağı var idi. Üzü günəşə, ayaqları da od sütununa bənzəyirdi.</verse>
+        <verse osisID='Rev.10.2'>Əlində açılmış kiçik bir tumar var idi. O, sağ ayağını dənizin üstünə, sol ayağını isə quruya qoydu.</verse>
+        <verse osisID='Rev.10.3'>Aslan nəriltisinə bənzər uca səslə nida etdi. O nida edəndə yeddi göy gurultusu öz səsi ilə danışdı.</verse>
+        <verse osisID='Rev.10.4'>Yeddi göy gurultusu danışdığı zaman mən yazmağa hazırlaşırdım ki, göydən danışan bir səs eşitdim: «Yeddi göy gurultusunun söylədiklərini möhürlü saxla, onları yazma».</verse>
+        <verse osisID='Rev.10.5'>Onda dənizdə və quruda dayandığını gördüyüm mələk sağ əlini göyə tərəf qaldırıb</verse>
+        <verse osisID='Rev.10.6'>əbədi Var Olanın, göyü və oradakıları, yeri və oradakıları, dənizi və oradakıları Yaradanın adına and içərək dedi: «Daha möhlət verilməyəcək,</verse>
+        <verse osisID='Rev.10.7'>amma yeddinci mələyin şeypur çalacağı günlər Allahın sirli niyyəti, qulları olan peyğəmbərlərə açdığı kimi tam yerinə yetəcək». </verse>
+        <verse osisID='Rev.10.8'>Göydən eşitdiyim səs yenə də mənimlə danışıb belə dedi: «Get, dənizdə və quruda dayanan mələyin əlindəki açılmış kiçik tumarı götür».</verse>
+        <verse osisID='Rev.10.9'>Mən də mələyin yanına gedib ona dedim ki, kiçik tumarı mənə versin. O mənə dedi: «Onu götür, ye. O sənin mədəndə acı, ağzında isə bal kimi şirin olacaq».</verse>
+        <verse osisID='Rev.10.10'>Mən tumarı mələyin əlindən götürüb yedim. O, ağzımda bal kimi şirin idi, amma onu yeyəndən sonra mədəmdə acılıq oldu.</verse>
+        <verse osisID='Rev.10.11'>Mənə belə də deyildi: «Sən gərək yenə də çoxlu xalq, millət, dil və padşah barədə peyğəmbərlik edəsən».  </verse>
+      </chapter>
+      <chapter osisID='Rev.11'>
+        <verse osisID='Rev.11.1'>
+           Mənə əsaya oxşayan bir qamış verildi və mənə deyildi: «Qalx Allahın məbədini, qurbangahı ölç və orada səcdə edənləri say.</verse>
+        <verse osisID='Rev.11.2'>Amma məbədin bayır həyətini nəzərə alma və oranı ölçmə. Çünki ora başqa millətlərə verildi və onlar müqəddəs şəhəri qırx iki ay tapdaq edəcək.</verse>
+        <verse osisID='Rev.11.3'>Öz iki şahidimi göndərəcəyəm ki, çula bürünərək həmin min iki yüz altmış gün ərzində peyğəmbərlik etsinlər». </verse>
+        <verse osisID='Rev.11.4'>Bunlar yer üzünün Sahibinin önündə dayanan iki zeytun ağacı və iki çıraqdandır.</verse>
+        <verse osisID='Rev.11.5'>Əgər kimsə onlara zərər vurmaq istəsə, ağızlarından od çıxıb düşmənlərini yandırıb-yaxır. Beləcə onlara zərər vurmaq istəyən hər kəs bu cür öldürülməlidir.</verse>
+        <verse osisID='Rev.11.6'>Onların göyü bağlamağa ixtiyarı var ki, peyğəmbərlik etdikləri günlər yağış yağmasın. Həmçinin onların suları qana döndərməyə və yer üzünə istədikləri qədər hər cür bəla gətirməyə ixtiyarı var. </verse>
+        <verse osisID='Rev.11.7'>Onlar öz şəhadətlərini bitirdikdən sonra dibsiz dərinlikdən çıxan vəhşi heyvan onlarla döyüşəcək və onları məğlub edib öldürəcək.</verse>
+        <verse osisID='Rev.11.8'>Cəsədləri onların Rəbbinin də çarmıxa çəkildiyi böyük şəhərin baş küçəsinə səriləcək; həmin şəhər rəmzi olaraq Sodom və Misir adlanır.</verse>
+        <verse osisID='Rev.11.9'>Müxtəlif xalqlardan, tayfalardan, dillərdən və millətlərdən olan adamlar üç gün yarım onların cəsədinə baxacaq və qəbirə qoyulmasına yol verməyəcəklər.</verse>
+        <verse osisID='Rev.11.10'>Yer üzündə yaşayanlar onların bu halına sevinib bayram edəcək və bir-birlərinə hədiyyələr göndərəcək. Çünki bu iki peyğəmbər yer üzündə yaşayanlara iztirab vermişdi.</verse>
+        <verse osisID='Rev.11.11'>Lakin həmin üç gün yarım bitəndə Allahdan gələn həyat nəfəsi onların içinə girdi və onlar ayağa qalxdı. Onda onları görənlərin canına böyük qorxu düşdü.</verse>
+        <verse osisID='Rev.11.12'>O iki peyğəmbər göydən onlara «Bura qalxın!» deyən uca bir səs eşitdilər və buludun içində göyə qalxdılar. Düşmənləri də onlara baxdı.</verse>
+        <verse osisID='Rev.11.13'>O saat böyük bir zəlzələ baş verdi və şəhərin onda biri dağıldı. Zəlzələdə yeddi min nəfər həlak oldu, qalanları isə qorxuya düşüb göydəki Allahı izzətləndirdilər. </verse>
+        <verse osisID='Rev.11.14'>İkinci bəla ötüb keçdi. Budur, tezliklə üçüncü bəla gəlir. </verse>
+        <verse osisID='Rev.11.15'>Yeddinci mələk şeypurunu çaldı. Göydə belə deyən uca səslər eşidildi:  «Rəbbimiz və Onun MəsihiDünya üzərində Padşahlığa sahib oldu!O əbədi olaraq padşahlıq edəcək!»</verse>
+        <verse osisID='Rev.11.16'>Onda Allahın önündə öz taxtlarında oturan iyirmi dörd ağsaqqal üzüstə yerə qapanıb Allaha səcdə edərək</verse>
+        <verse osisID='Rev.11.17'>dedi:  «Ey Var Olan, Var OlmuşKülli-İxtiyar Rəbb Allah,Sənə şükür edirik!Çünki Öz böyük qüdrətini alıbPadşahlıq taxtına çıxdın.</verse>
+        <verse osisID='Rev.11.18'>Millətlər qəzəbləndi,Sənin də qəzəbinin vaxtı gəldi.Ölüləri mühakimə etmək,Sənin qulların olanPeyğəmbərlərə, müqəddəslərə,Sənin adından qorxanlara,Kiçiklərə və böyüklərə mükafat vermək,Yer üzünü məhv edənləriMəhv etmək vaxtı çatdı». </verse>
+        <verse osisID='Rev.11.19'>Allahın göydəki məbədi açıldı və Onun Əhd sandığı orada zahir oldu. Onda şimşək, uğultu, göy gurultusu, zəlzələ və güclü dolu gəldi.  </verse>
+      </chapter>
+      <chapter osisID='Rev.12'>
+        <verse osisID='Rev.12.1'>
+          Göydə böyük bir əlamət zahir oldu: günəşi əyninə geyinmiş, ayaqları altında ay və başında on iki ulduzlu tac olan bir qadın göründü.</verse>
+        <verse osisID='Rev.12.2'>O hamilə idi və doğmaq üzrə idi, ağrı və iztirab çəkərək qışqırırdı.</verse>
+        <verse osisID='Rev.12.3'>Göydə başqa bir əlamət zahir oldu: yeddi başlı, on buynuzlu, başlarının üstündə də yeddi kiçik tac olan böyük və od rəngində əjdaha göründü.</verse>
+        <verse osisID='Rev.12.4'>Onun quyruğu göy ulduzlarının üçdə birini süpürüb yer üzünə atdı. Əjdaha doğmağa hazırlaşan qadının önündə dayandı ki, qadın doğan kimi onun uşağını udsun.</verse>
+        <verse osisID='Rev.12.5'>Qadın bir oğlan uşağı doğdu ki, «dəmir əsa ilə bütün millətlərə ağalıq edəcək». Bu uşaq Allahın və Onun taxtının yanına qapılıb götürüldü.</verse>
+        <verse osisID='Rev.12.6'>Qadınsa çölə qaçdı. Orada onun min iki yüz altmış gün bəslənməsi üçün Allah tərəfindən hazırlanmış yeri var. </verse>
+        <verse osisID='Rev.12.7'>Göydə döyüş oldu. Mikael və onun mələkləri əjdaha ilə döyüşdü. Əjdaha və onun mələkləri də onlarla döyüşdü,</verse>
+        <verse osisID='Rev.12.8'>amma gücləri çatmadı. Göydə artıq onlara yer qalmadı.</verse>
+        <verse osisID='Rev.12.9'>O böyük əjdaha – iblis və Şeytan deyilən, bütün dünyanı aldadan qədim ilan yer üzünə atıldı, mələkləri də onunla birgə atıldı. </verse>
+        <verse osisID='Rev.12.10'>Mən göydə uca bir səsin belə dediyini eşitdim:  «İndi Allahımızın xilası, gücü, Padşahlığı vəOnun Məsihinin hakimiyyəti həyata keçdi.Çünki bacı-qardaşlarımızı Allahımızın önündəGecə-gündüz təqsirləndirən ittihamçı kənara atıldı.</verse>
+        <verse osisID='Rev.12.11'>Onlar Quzunun qanı və öz şəhadət sözləri vasitəsiləOna qalib gəldilər.Hətta ölümlə üzbəüz olanda daÖz canlarını sevmədilər.</verse>
+        <verse osisID='Rev.12.12'>Buna görə də, ey göylər vəOrada məskən salanlar, bayram edin!Qurunun və dənizinsə vay halına!Çünki iblis böyük hiddətlə yanınıza endi,Bilir ki, onun az vaxtı qalıb». </verse>
+        <verse osisID='Rev.12.13'>Əjdaha yer üzünə atıldığını görəndə oğlan uşağı doğan qadının ardınca düşdü.</verse>
+        <verse osisID='Rev.12.14'>Amma qadına böyük qartalın iki qanadı verildi ki, çölə – öz yerinə uçsun və orada, ilandan kənarda bir vaxt, vaxtlar və yarım vaxt ərzində bəslənsin.</verse>
+        <verse osisID='Rev.12.15'>İlan qadının ardınca ağzından sel kimi su püskürdü ki, sel onu aparsın.</verse>
+        <verse osisID='Rev.12.16'>Lakin quru qadına kömək etdi: quru ağzını açdı və əjdahanın ağzından püskürdüyü seli içib qurtardı.</verse>
+        <verse osisID='Rev.12.17'>Onda əjdaha qadına qəzəbləndi, onun nəslindən Allahın əmrlərinə riayət edən və İsa barədə şəhadət edən başqaları ilə döyüşmək üçün getdi və dəniz sahilinin qumları üzərində dayandı.  </verse>
+      </chapter>
+      <chapter osisID='Rev.13'>
+        <verse osisID='Rev.13.1'>
+           Dənizdən çıxan on buynuzlu və yeddi başlı bir vəhşi heyvan gördüm. Onun buynuzlarının üstündə on kiçik tac var idi, başlarının üzərində isə küfr olan adlar yazılmışdı.</verse>
+        <verse osisID='Rev.13.2'>Gördüyüm vəhşi heyvan bəbirə oxşayırdı. Onun ayaqları ayı ayaqları kimi, ağzı da aslan ağzı kimi idi. Əjdaha ona öz gücünü, taxtını və böyük səlahiyyət verdi.</verse>
+        <verse osisID='Rev.13.3'>Vəhşi heyvanın başlarından biri sanki ölümcül yaralanmışdı, ancaq o, ölümcül yarasından sağaldı. Bütün yer üzü heyrət içində vəhşi heyvanın ardınca getdi.</verse>
+        <verse osisID='Rev.13.4'>Əjdahaya səcdə etdilər, çünki vəhşi heyvana səlahiyyət verən o idi. Həmçinin vəhşi heyvana səcdə edib dedilər: «Kim bu vəhşi heyvana tay olar və onunla döyüşə bilər?» </verse>
+        <verse osisID='Rev.13.5'>Vəhşi heyvana lovğa və küfr danışan bir ağız da verildi. Həm də ona səlahiyyətini qırx iki ay icra etmək izni verildi.</verse>
+        <verse osisID='Rev.13.6'>O, ağzını açdı ki, Allaha küfr etsin, Onun adına, həmçinin məskəninə, yəni göydə məskən salanlara küfr söyləsin.</verse>
+        <verse osisID='Rev.13.7'>Ona izin verildi ki, müqəddəslərlə döyüşüb onlara qalib gəlsin. Həmçinin ona bütün tayfalar, xalqlar, dillər və millətlər üzərində səlahiyyət verildi.</verse>
+        <verse osisID='Rev.13.8'>Kəsilmiş Quzunun həyat kitabına dünya yaranandan bəri adı yazılanlardan savayı, yer üzündə yaşayanların hamısı ona səcdə edəcək. </verse>
+        <verse osisID='Rev.13.9'>Kimin qulağı var, qoy eşitsin.</verse>
+        <verse osisID='Rev.13.10'>Kim əsir olmalıdırsa,Əsirliyə gedir,Kim qılıncla öldürülməlidirsə,Qılıncla öldürülür.  Gərək müqəddəslərin dözümü və imanı olsun. </verse>
+        <verse osisID='Rev.13.11'>Mən yerdən çıxan başqa bir vəhşi heyvan da gördüm. Onun quzu buynuzuna oxşayan iki buynuzu var idi, amma əjdaha kimi danışırdı.</verse>
+        <verse osisID='Rev.13.12'>O, birinci vəhşi heyvanın bütün səlahiyyətini onun önündə icra edir, yer üzünü və orada yaşayanları ölümcül yarasından sağalan həmin vəhşi heyvana səcdə etməyə məcbur edir.</verse>
+        <verse osisID='Rev.13.13'>İkinci vəhşi heyvan böyük əlamətlər göstərir, hətta insanların önündə göydən yerə od yağdırır.</verse>
+        <verse osisID='Rev.13.14'>Birinci vəhşi heyvanın önündə göstərilməsinə izin verilmiş əlamətlərlə yer üzündə yaşayanları aldadaraq onlara deyir ki, qılıncla yaralanan, amma sağ qalan həmin vəhşi heyvanın surətini yaratsınlar.</verse>
+        <verse osisID='Rev.13.15'>Ona həmin vəhşi heyvanın surətinə nəfəs vermək qüdrəti verildi ki, bu surət də danışsın və ona səcdə etməyən hər kəsin öldürülməsini əmr etsin.</verse>
+        <verse osisID='Rev.13.16'>İkinci vəhşi heyvan hamını – böyükləri və kiçikləri, varlıları və yoxsulları, azadları və qulları məcbur edir ki, sağ əlləri yaxud alınları damğalansın.</verse>
+        <verse osisID='Rev.13.17'>Beləcə bu damğanı, yəni həmin vəhşi heyvanın adını ya da adını təmsil edən sayı daşımayan bir kəsə alıb-satmağa icazə verilmir.</verse>
+        <verse osisID='Rev.13.18'>Bu işdə müdrik olmaq lazımdır. Kimin ağlı var, qoy bu vəhşi heyvana məxsus sayı hesablasın, çünki bu bir insanın sayıdır. Onun sayı altı yüz altmış altıdır.  </verse>
+      </chapter>
+      <chapter osisID='Rev.14'>
+        <verse osisID='Rev.14.1'>
+           Mən gördüm ki, Quzu Sion dağında durub. Onunla birlikdə 144 000 nəfər var idi. Onların alnında Quzunun adı və Onun Atasının adı yazılmışdı.</verse>
+        <verse osisID='Rev.14.2'>Mən göydən gur suların sədasına və güclü göy gurultusuna bənzər bir səs eşitdim. Eşitdiyim səs çəng çalanların çənglərinin səsi kimi idi.</verse>
+        <verse osisID='Rev.14.3'>Onlar taxtın, dörd canlı məxluqun və ağsaqqalların önündə yeni bir nəğmə oxuyurlar. Yer üzündən satın alınmış bu 144 000 nəfərdən başqa heç kəs bu nəğməni öyrənə bilmədi.</verse>
+        <verse osisID='Rev.14.4'>Bunlar özlərini qadınlarla ləkələməmiş şəxslərdir, çünki bakirdirlər. Quzu hara getsə, onlar da Onun ardınca gedir. Onlar Allah və Quzu üçün nübar olaraq insanlar arasından satın alındı.</verse>
+        <verse osisID='Rev.14.5'>Ağızlarından heç vaxt yalan çıxmayıb, onlar ləkəsizdir. </verse>
+        <verse osisID='Rev.14.6'>Mən göyün ortasında uçan başqa bir mələk gördüm. O, yer üzündə yaşayanlara – hər millətə, hər tayfaya, hər dilə və hər xalqa yaymaq üçün əbədi bir Müjdə gətirirdi.</verse>
+        <verse osisID='Rev.14.7'>Mələk uca səslə deyirdi: «Allahdan qorxun, Ona izzət verin! Çünki Onun mühakimə edəcəyi vaxt gəldi. Göyü, yeri, dənizi və su qaynaqlarını Yaradana səcdə edin!» </verse>
+        <verse osisID='Rev.14.8'>İkinci mələk də onun ardınca gələrək deyirdi: «Dağıldı, böyük Babil dağıldı! O, əxlaqsızlığının coşğun şərabını bütün millətlərə içirtmişdi». </verse>
+        <verse osisID='Rev.14.9'>Bunların ardınca üçüncü bir mələk də gələrək uca səslə deyirdi: «Kim vəhşi heyvana və onun surətinə səcdə edib öz alnının yaxud əlinin damğalanmasını qəbul edərsə,</verse>
+        <verse osisID='Rev.14.10'>o da Allahın qəzəb kasasına qarışıqsız tökülmüş coşğun şərabından içəcək. Belələrinə müqəddəs mələklərin və Quzunun önündə od və kükürdlə işgəncə veriləcək.</verse>
+        <verse osisID='Rev.14.11'>Onlara verilən işgəncənin tüstüsü əbədi olaraq qalxacaq. Vəhşi heyvana və onun surətinə səcdə edib adına aid damğanı qəbul edənlər gecə-gündüz rahatlıq tapmayacaq». </verse>
+        <verse osisID='Rev.14.12'>Allahın əmrlərinə riayət edən və İsaya imanına sadiq qalan müqəddəslərin gərək dözümü olsun. </verse>
+        <verse osisID='Rev.14.13'>Onda göydən belə deyən bir səs eşitdim: «Yaz: bundan sonra Rəbdə ölənlər nə bəxtiyardır!» Ruh deyir: «Bəli, onlar zəhmətlərindən ayrılıb rahatlıq tapacaqlar, çünki əməllərinin nəticəsi onların ardınca gedir». </verse>
+        <verse osisID='Rev.14.14'>Mən gördüm ki, ağ bir bulud var və buludun üstündə bəşər oğluna bənzər Biri oturub. Onun başında qızıl tac və əlində iti oraq var idi.</verse>
+        <verse osisID='Rev.14.15'>Başqa bir mələk də məbəddən çıxıb buludun üstündə Oturana uca səslə dedi: «Orağını işə sal və biç. Çünki yer üzündəki əkin yetişdiyi üçün biçin zamanı gəldi».</verse>
+        <verse osisID='Rev.14.16'>Onda buludun üstündə Oturan Öz orağını yer üzünə saldı və yer üzü biçildi. </verse>
+        <verse osisID='Rev.14.17'>Başqa bir mələk də göydəki məbəddən çıxdı. Onun əlində də iti oraq var idi.</verse>
+        <verse osisID='Rev.14.18'>Od işinə məsul olan başqa bir mələk də qurbangahdan çıxıb iti orağı olan mələyə uca səslə nida etdi: «İti orağını işə sal və yer üzündəki üzüm tənəyindən salxımları kəs yığ, çünki üzümləri yetişib».</verse>
+        <verse osisID='Rev.14.19'>Mələk orağını yer üzünə salaraq yerdəki üzüm tənəyindən üzümləri kəsib yığdı və Allah hiddətinin böyük üzümsıxanına atdı.</verse>
+        <verse osisID='Rev.14.20'>Üzümlər şəhərdən kənarda olan üzümsıxanda tapdalandı. Üzümsıxandan qan çıxdı və at yüyənlərinə qədər qalxaraq 1600 stadiyə bərabər məsafəyə axdı.  </verse>
+      </chapter>
+      <chapter osisID='Rev.15'>
+        <verse osisID='Rev.15.1'/>
+        <verse osisID='Rev.15.2'>Sanki odla qarışıq şüşədən olan bir dəniz gördüm. Vəhşi heyvana, onun surətinə və adına aid saya qalib gələnlər əllərində Allahın verdiyi çənglərlə şüşə dənizin üstündə durub.</verse>
+        <verse osisID='Rev.15.3'>Onlar Allahın qulu Musanın nəğməsini və Quzunun nəğməsini oxuyaraq deyir:  «Ey Külli-İxtiyar Rəbb Allah,Sənin işlərin böyük və heyrətlidir.Ey millətlərin Padşahı,Sənin yolların ədalətli və həqiqidir.</verse>
+        <verse osisID='Rev.15.4'>Ya Rəbb, kim Səndən qorxmaz,Kim Sənin adını izzətləndirməz?Çünki yalnız Sən müqəddəssən.Bütün millətlər gəlibSənin önündə səcdə edəcək,Çünki Sənin ədalətli hökmlərin aşkar oldu». </verse>
+        <verse osisID='Rev.15.5'>Bundan sonra gördüm ki, göydəki məbəd, yəni Şəhadət çadırı açıldı</verse>
+        <verse osisID='Rev.15.6'>və yeddi bəlanı gətirən yeddi mələk məbəddən çıxdı. Onlar təmiz və parlaq kətan paltar geyinmiş, sinələrinə qızıl qurşaqlar bağlamışdı.</verse>
+        <verse osisID='Rev.15.7'>Onda dörd canlı məxluqdan biri yeddi mələyə əbədi var olan Allahın hiddəti ilə dolu yeddi qızıl nimçə verdi.</verse>
+        <verse osisID='Rev.15.8'>Məbəd Allahın izzət və qüdrətinə görə tüstü ilə doldu. Beləcə yeddi mələyin gətirdiyi yeddi bəla tamam olana qədər heç kəs məbədə girə bilmədi.  </verse>
+      </chapter>
+      <chapter osisID='Rev.16'>
+        <verse osisID='Rev.16.1'/>
+        <verse osisID='Rev.16.2'>Birinci mələk gedib öz nimçəsini quruya boşaltdı və vəhşi heyvanın damğasını daşıyan, onun surətinə səcdə edən adamlarda pis və ağrılı yaralar əmələ gəldi. </verse>
+        <verse osisID='Rev.16.3'>İkinci mələk öz nimçəsini dənizə boşaltdı və dəniz ölünün qanına bənzər qatı qana döndü, dənizdə olan bütün canlı varlıqlar məhv oldu. </verse>
+        <verse osisID='Rev.16.4'>Üçüncü mələk öz nimçəsini çaylara və su qaynaqlarına boşaltdı və onlar qana döndü.</verse>
+        <verse osisID='Rev.16.5'>Onda mən sular mələyinin belə dediyini eşitdim:  «Ey Var Olan, Var Olmuş Müqəddəs Olan,Sən ədalətlisən ki, belə hökm çıxartdın.</verse>
+        <verse osisID='Rev.16.6'>Çünki müqəddəslərin və peyğəmbərlərin qanını tökdülər.Sən də onlara içmək üçün qan verdin.Onlar buna layiqdir».</verse>
+        <verse osisID='Rev.16.7'>Qurbangahdan gələn bir səs də eşitdim:  «Bəli, ey Külli-İxtiyar Rəbb Allah,Sənin hökmlərin həqiqi və ədalətlidir». </verse>
+        <verse osisID='Rev.16.8'>Dördüncü mələk öz nimçəsini günəşə boşaltdı və ona adamları odla qarsalamaq gücü verildi.</verse>
+        <verse osisID='Rev.16.9'>Adamları qızmar isti qarsaladı və onlar bu bəlaları idarə edən Allahın adına küfr etdilər, lakin tövbə edib Onu izzətləndirmədilər. </verse>
+        <verse osisID='Rev.16.10'>Beşinci mələk öz nimçəsini vəhşi heyvanın taxtına boşaltdı və onun padşahlığını qaranlıq bürüdü. Adamlar iztirabdan dillərini dişlərinə sıxdılar</verse>
+        <verse osisID='Rev.16.11'>və öz iztirab və yaralarına görə göylərin Allahına küfr etdilər, lakin öz əməllərindən tövbə etmədilər. </verse>
+        <verse osisID='Rev.16.12'>Altıncı mələk öz nimçəsini böyük Fərat çayına boşaltdı və onun suyu qurudu ki, gündoğandan gələn padşahlar üçün yol açılsın.</verse>
+        <verse osisID='Rev.16.13'>Gördüm ki, əjdahanın ağzından, vəhşi heyvanın ağzından və yalançı peyğəmbərin ağzından qurbağaya bənzər üç natəmiz ruh çıxır.</verse>
+        <verse osisID='Rev.16.14'>Bunlar əlamətlər göstərən cin ruhlarıdır və bütün dünyanın padşahlarının yanına gedirlər ki, onları Külli-İxtiyar Allahın böyük günündə baş verəcək döyüşə toplasınlar.</verse>
+        <verse osisID='Rev.16.15'>Rəbb deyir: «Budur, oğru kimi gəlirəm; oyaq qalan, çılpaq gəzərək ayıbını göstərməmək üçün paltarlarını əynində saxlayan kəs nə bəxtiyardır!»</verse>
+        <verse osisID='Rev.16.16'>Bu ruhlar padşahları ibranicə Har-Magedon adlanan yerə topladı. </verse>
+        <verse osisID='Rev.16.17'>Yeddinci mələk öz nimçəsini havaya boşaltdı və məbəddəki taxtdan «Tamam oldu!» deyən uca bir səs gəldi.</verse>
+        <verse osisID='Rev.16.18'>Onda şimşək, uğultu, göy gurultusu və böyük bir zəlzələ baş verdi. Zəlzələ elə güclü idi ki, insanın yer üzündə yaşamağa başladığı dövrdən bəri bundan böyüyü olmamışdı.</verse>
+        <verse osisID='Rev.16.19'>Böyük şəhər üç yerə bölündü və millətlərin şəhərləri dağıldı. Allah tərəfindən böyük Babil yada salındı ki, Allahın şiddətli qəzəb şərabı ilə dolu kasa ona verilsin.</verse>
+        <verse osisID='Rev.16.20'>Bütün adalar aradan qalxdı və dağlar yox oldu.</verse>
+        <verse osisID='Rev.16.21'>Göydən adamların üstünə hərəsinin çəkisi bir talant olan böyük dolu dənələri yağdı. Adamlar dolu bəlasına görə Allaha küfr etdilər, çünki bu bəla çox şiddətli idi.  </verse>
+      </chapter>
+      <chapter osisID='Rev.17'>
+        <verse osisID='Rev.17.1'>
+           Yeddi nimçəsi olan yeddi mələkdən biri gəlib mənimlə danışdı və dedi: «Gəl, çoxlu suların üzərində oturmuş bədnam fahişə barədə çıxacaq hökmü sənə göstərim.</verse>
+        <verse osisID='Rev.17.2'>Yer üzünün padşahları onunla əxlaqsızlıq etdilər və yer üzündə yaşayanlar onun əxlaqsızlıq şərabından sərxoş oldular».</verse>
+        <verse osisID='Rev.17.3'>O məni Ruhda çölə apardı. Orada mən gördüm ki, bir qadın yeddi başlı, on buynuzlu və üstündə başdan-başa küfr adları yazılan al rəngli bir vəhşi heyvanın belində oturub.</verse>
+        <verse osisID='Rev.17.4'>Qadın tünd qırmızı və al rəngli paltar geyinmiş, qızıl, qiymətli daş və mirvari ilə bəzənmişdi. Onun əlində iyrənc şeylər və öz əxlaqsızlığının çirkabı ilə dolu qızıl kasa var idi.</verse>
+        <verse osisID='Rev.17.5'>Alnında isə bu sirli ad yazılmışdı: «Yer üzünün fahişələrinin və iyrəncliklərinin anası olan böyük Babil».</verse>
+        <verse osisID='Rev.17.6'>Mən gördüm ki, qadın müqəddəslərin qanından və İsaya şəhadət edənlərin qanından sərxoş olub.  Bunu görüb hədsiz heyrətləndim.</verse>
+        <verse osisID='Rev.17.7'>Onda mələk mənə dedi: «Nə üçün heyrətə düşdün? Mən sənə qadının və onu daşıyan yeddi başlı, on buynuzlu vəhşi heyvanın sirrini açacağam.</verse>
+        <verse osisID='Rev.17.8'>Gördüyün vəhşi heyvan var olmuş, indi yox olan və dibsiz dərinliklərdən çıxmaq üzrə olaraq həlaka gedir. Yer üzündə yaşayan və dünya yaranandan bəri adı həyat kitabına yazılmamış adamlar vəhşi heyvanı görəndə heyrətə düşəcək, çünki o var olmuş, yox olan, amma yenə gəlməli olandır.</verse>
+        <verse osisID='Rev.17.9'>Bu işdə müdrik ağıl lazımdır. Yeddi baş qadının oturduğu yeddi təpədir. Bunlar həm də yeddi padşahdır.</verse>
+        <verse osisID='Rev.17.10'>Onlardan beşi ölüb, biri qalıb, digəri isə hələ gəlməyib və gələndə də qısa müddət qalmalıdır.</verse>
+        <verse osisID='Rev.17.11'>Bir zaman var olmuş, indi isə yox olan vəhşi heyvan da səkkizinci padşahdır. O, yeddi padşahdan biridir və həlaka gedir.</verse>
+        <verse osisID='Rev.17.12'>Gördüyün on buynuz hələ padşahlıq etməyən on padşahdır. Onlar vəhşi heyvanla birgə səlahiyyəti ələ alıb bir saat padşahlıq edəcəklər.</verse>
+        <verse osisID='Rev.17.13'>Onların vahid bir niyyəti var, öz qüdrət və səlahiyyətlərini vəhşi heyvana təhvil verəcəklər.</verse>
+        <verse osisID='Rev.17.14'>Onlar Quzu ilə döyüşəcəklər, lakin Quzu onlara qalib gələcək. Çünki O, ağaların Ağası, padşahların Padşahıdır və Onunla birgə olanlar da çağırılmış, seçilmiş və sadiq şəxslərdir». </verse>
+        <verse osisID='Rev.17.15'>Mələk mənə dedi: «Fahişənin üzərində oturduğunu gördüyün sular – xalqlar, kütlələr, millətlər və dillərdir.</verse>
+        <verse osisID='Rev.17.16'>Gördüyün vəhşi heyvan və on buynuz isə fahişəyə nifrət edərək onu soyub çılpaq qoyacaq, ətini yeyəcək və onu odda yandıracaq.</verse>
+        <verse osisID='Rev.17.17'>Çünki Allah bunu onların ürəyinə qoydu ki, Allahın niyyətini yerinə yetirsinlər, həmfikir olub Onun sözləri tamamlanana qədər padşahlıqlarını vəhşi heyvana təhvil versinlər.</verse>
+        <verse osisID='Rev.17.18'>Gördüyün qadın da yer üzünün padşahları üzərində padşahlıq edən böyük şəhərdir».  </verse>
+      </chapter>
+      <chapter osisID='Rev.18'>
+        <verse osisID='Rev.18.1'>
+          Bundan sonra göydən enən başqa bir mələyi gördüm. O, böyük səlahiyyətə malik idi. Yer üzü onun ehtişamı ilə işıqlandı.</verse>
+        <verse osisID='Rev.18.2'>O, uca səslə nida edib dedi:  «Dağıldı! Böyük Babil dağıldı!O, cinlərin məskəni,Hər cür natəmiz ruhun sığınacağı,Hər cür murdar quşun yuvası,Hər cür murdar və mənfur vəhşi heyvanın oylağı oldu.</verse>
+        <verse osisID='Rev.18.3'>Çünki bütün millətlərO qadının coşğun əxlaqsızlıq şərabından içdi.Yer üzünün padşahlarıOnunla əxlaqsızlıq etdi.Dünyanın tacirləriOnun şəhvətpərəstliyi ilə qazanılan sərvətdən varlandı». </verse>
+        <verse osisID='Rev.18.4'>Mən göydən belə deyən başqa bir səs də eşitdim:  «Ey Mənim xalqım, oradan çıxın ki,Onun günahlarına şərik olmayasınız,Onun uğrayacağı bəlalara düçar olmayasınız.</verse>
+        <verse osisID='Rev.18.5'>Çünki onun günahları qalaqlanıb göyə çatdı,Allah onun haqsız işlərini yada saldı.</verse>
+        <verse osisID='Rev.18.6'>O nə etdisə,Siz də əvəzində ona belə edin.Əməllərinin əvəzini ona ikiqat verin.Tökdüyü kasadakı şərabınİkiqatını töküb ona verin.</verse>
+        <verse osisID='Rev.18.7'>Özünü nə qədər izzətləndiribŞəhvətpərəstlik içində yaşadısa,Ona o qədər də işgəncə və yas verin.Çünki ürəyində deyir:“Mən mələkə taxtında oturmuşam,Dul deyiləm, əsla yas tutmayacağam”.</verse>
+        <verse osisID='Rev.18.8'>Buna görə də bir günün içindəOnun üstünə bəlalar gələcək,Azara, yasa, aclığa düçar olacaq, odda yandırılacaq.Çünki onu mühakimə edən Rəbb Allah qüdrətlidir». </verse>
+        <verse osisID='Rev.18.9'>Onunla əxlaqsızlıq edən və şəhvətpərəstlik içində yaşayan yer üzünün padşahları onun yanğınından çıxan tüstünü görəndə onun üçün ağlayıb ah-nalə edəcəklər.</verse>
+        <verse osisID='Rev.18.10'>Onun çəkdiyi işgəncənin qorxusundan uzaqda dayanıb deyəcəklər:  «Vay, vay halına, böyük şəhər,Möhkəm şəhər Babil!Çünki bir saat içində cəzan çatdı». </verse>
+        <verse osisID='Rev.18.11'>Yer üzünün tacirləri də onun üçün ağlayıb yas tutur, çünki onların malını –</verse>
+        <verse osisID='Rev.18.12'>qızıl, gümüş, qiymətli daşlar və mirvariləri; incə kətan, ipək, tünd qırmızı və al rəngli parçaları; hər cür ətirli ağacı; fil sümüyündən, ən qiymətli ağacdan, tuncdan, dəmirdən və mərmərdən olan hər cür əşyanı;</verse>
+        <verse osisID='Rev.18.13'>darçın, hil, buxur, ətirli yağ və kündürü; şərab, zeytun yağı, narın un və buğdanı; mal-qara, qoyunlar, atlar və arabaları; insan bədənləri və canlarını da artıq heç kəs almır.</verse>
+        <verse osisID='Rev.18.14'>Onlar deyirlər:  «Ürəyinin arzuladığı bəhrələr əlindən çıxdı,Bütün cah-calallı malların yox oldu.Heç kəs onları bir daha tapmayacaq».</verse>
+        <verse osisID='Rev.18.15'>Orada bu mallarla varlanan tacirlər bu şəhərin çəkdiyi işgəncənin qorxusundan uzaqda dayanacaq və ağlayıb yas tutaraq deyəcəklər:</verse>
+        <verse osisID='Rev.18.16'>«Vay, vay halına,İncə kətan, tünd qırmızı, al rəngliParçalardan paltar geyən,Qızıl, qiymətli daşlar və mirvarilərləBəzənən böyük şəhər!</verse>
+        <verse osisID='Rev.18.17'>Çünki bu qədər var-dövlətBir saat içində viran oldu».  Bütün gəmi rəisləri, sərnişinlər, dənizçilər və dənizdə ticarət edənlərin hamısı uzaqda dayanaraq</verse>
+        <verse osisID='Rev.18.18'>onun yanğınından çıxan tüstüyə baxıb nida edirdilər: «Hansı şəhər bu böyük şəhərə tay ola bilər?»</verse>
+        <verse osisID='Rev.18.19'>Onlar başlarına toz töküb fəryad edir və ağlayıb yas tutaraq deyirdilər:  «Vay, vay halına,Dənizdə gəmisi olanların hamısınınOranın çox qiymətli malları iləVarlandığı böyük şəhər!Çünki bir saat içində viran oldun».</verse>
+        <verse osisID='Rev.18.20'>Ey göylər,Müqəddəslər, həvarilər və peyğəmbərlər,Onun halını bayram edin!Onun sizin üçün çıxartdığı hökmüAllah onun öz başına gətirdi. </verse>
+        <verse osisID='Rev.18.21'>Bir güclü mələk dəyirman daşı boyda böyük bir daşı götürərək dənizə atıb dedi:  «Böyük şəhər Babil dəBelə zorakılıqla yıxılacaq,Bir daha görünməyəcək.</verse>
+        <verse osisID='Rev.18.22'>Çəng çalanların, müğənnilərin,Tütək və şeypur çalanların səsiArtıq səndən gəlməyəcək.Hər cür sənətlə məşğul olan sənətkarArtıq səndə olmayacaq.Dəyirman səsi dəArtıq səndən gəlməyəcək.</verse>
+        <verse osisID='Rev.18.23'>Çıraq işığıArtıq səndə görünməyəcək.Bəy-gəlin sədasıArtıq səndən gəlməyəcək.Çünki sənin tacirlərinYer üzünün böyük adamları idi,Bütün millətlərSənin sehrbazlığınla aldanmışdı.</verse>
+        <verse osisID='Rev.18.24'>Peyğəmbərlərin, müqəddəslərin vəYer üzündə kəsilənlərin hamısının qanıO şəhərdə üzə çıxdı». </verse>
+      </chapter>
+      <chapter osisID='Rev.19'>
+        <verse osisID='Rev.19.1'>
+          Bundan sonra göydə böyük bir kütlənin səsinə bənzər uca bir səs eşitdim. Onlar deyirdi:  «Halleluya!Xilas, izzət və qüdrətAllahımıza məxsusdur!</verse>
+        <verse osisID='Rev.19.2'>Çünki Onun hökmləriHəqiqi və ədalətlidir.O, əxlaqsızlığı ilə yer üzünü azdıranBöyük fahişəni mühakimə etdi,Öz qullarının qanının qisasınıOndan aldı».</verse>
+        <verse osisID='Rev.19.3'>Onlar dedi:  «Halleluya!Fahişədən çıxan tüstü əbədi olaraq yüksəlir».</verse>
+        <verse osisID='Rev.19.4'>Onda iyirmi dörd ağsaqqal və dörd canlı məxluq yerə qapanaraq taxtda oturan Allaha səcdə edib dedi:  «Amin! Halleluya!»</verse>
+        <verse osisID='Rev.19.5'>Taxtdan da belə bir səs gəldi:  «Ey Onun bütün qulları,Böyükdən kiçiyə qədərOndan qorxanlar,Allahımızı mədh edin!» </verse>
+        <verse osisID='Rev.19.6'>Mən böyük bir kütlənin, gur suların və güclü göy gurultusunun səsinə bənzər bir səs də eşitdim. Bu səs deyirdi:  «Halleluya!Çünki Külli-İxtiyar Rəbb AllahımızPadşahlıq taxtına çıxdı!</verse>
+        <verse osisID='Rev.19.7'>Gəlin sevinib şad olaq,Onu izzətləndirək!Çünki Quzunun toyu başlayır.Gəlini özünü hazırlayıb;</verse>
+        <verse osisID='Rev.19.8'>Geyinmək üçün onaTəmiz, parlaq və incə kətan verildi».  İncə kətan müqəddəslərin saleh əməllərinin rəmzidir. </verse>
+        <verse osisID='Rev.19.9'>Onda mələk mənə dedi: «Yaz: Quzunun toy ziyafətinə dəvət olunanlar nə bəxtiyardır!» Yenə də mənə dedi: «Bunlar Allahın həqiqi sözləridir».</verse>
+        <verse osisID='Rev.19.10'>Mən ona səcdə etmək üçün ayaqlarına düşdüm. Amma o mənə dedi: «Yox, olmaz! Mən də səninlə və İsa barədə şəhadət edən qardaşlarınla birgə Allahın quluyam. Allaha səcdə et. Çünki İsanın şəhadəti peyğəmbərlərə ilham verir». </verse>
+        <verse osisID='Rev.19.11'>Mən gördüm ki, göy yarılıb və orada bir ağ at var. Onun belində oturan Süvari Sadiq və Haqq adlanır və ədalətlə hökm çıxararaq döyüşür.</verse>
+        <verse osisID='Rev.19.12'>Onun gözləri odlu alova bənzəyir. Başında çoxlu sayda kiçik tac var və üzərində Özündən başqa heç kəsin bilmədiyi bir ad yazılıb.</verse>
+        <verse osisID='Rev.19.13'>O, qana batmış bir paltar geyinib və Onun adı Allahın Kəlamıdır.</verse>
+        <verse osisID='Rev.19.14'>Göydə olan ordular ağ, təmiz və incə kətan geyinərək ağ atların belində Onun ardınca gedirdi.</verse>
+        <verse osisID='Rev.19.15'>Onun ağzından millətlərə zərbə vurmaq üçün iti bir qılınc çıxır. O, «dəmir əsa ilə onlara ağalıq edəcək». Külli-İxtiyar Allahın şiddətli qəzəb şərabının hazırlandığı üzümsıxanı Özü tapdalayacaq.</verse>
+        <verse osisID='Rev.19.16'>Onun paltarının və budunun üstündə bu ad yazılıb: «Padşahların Padşahı və ağaların Ağası». </verse>
+        <verse osisID='Rev.19.17'>Günəşdə dayanan bir mələyi də gördüm. O, uca səslə nida edib göyün ortasında uçan bütün quşlara dedi: «Allahın böyük ziyafətinə gəlin. Bir yerə yığılın ki,</verse>
+        <verse osisID='Rev.19.18'>padşahların, sərkərdələrin, igidlərin ətini, atların və bellərində oturan atlıların ətini, azadların və qulların, böyük və kiçiklərin hamısının ətini yeyəsiniz». </verse>
+        <verse osisID='Rev.19.19'>Mən gördüm ki, vəhşi heyvan, yer üzünün padşahları və onların orduları atın belində oturan Süvari ilə və Onun qoşunu ilə döyüşməyə toplaşıb.</verse>
+        <verse osisID='Rev.19.20'>Vəhşi heyvan yaxalandı; onun önündə əlamətlər göstərmiş, bunlarla onun damğasını qəbul edib surətinə səcdə edənləri aldatmış yalançı peyğəmbər də yaxalandı. Hər ikisi diri-diri kükürdlə yanan od gölünə atıldı.</verse>
+        <verse osisID='Rev.19.21'>Başqaları isə atın belində oturan Süvarinin ağzından çıxan qılıncla həlak oldu. Bütün quşlar da onların ətini yeyib doydu.  </verse>
+      </chapter>
+      <chapter osisID='Rev.20'>
+        <verse osisID='Rev.20.1'>
+          Mən göydən enən bir mələyi gördüm. Onun əlində dibsiz dərinliyin açarı və böyük bir zəncir var idi.</verse>
+        <verse osisID='Rev.20.2'>O, əjdahanı – iblis və Şeytan deyilən o qədim ilanı tutub min il müddətinə zəncirlədi.</verse>
+        <verse osisID='Rev.20.3'>Onu dibsiz dərinliyə atdı və qapısını bağlayıb möhürlədi ki, min il bitənə qədər millətləri daha aldada bilməsin. Bundan sonra isə o, qısa bir müddətə azad edilməlidir. </verse>
+        <verse osisID='Rev.20.4'>Taxtları və onların üzərində oturanları da gördüm. Onlara hökm etmək ixtiyarı verildi. İsa barədə şəhadət və Allahın kəlamı uğrunda boynu vurulmuş canları da gördüm. Vəhşi heyvana və onun surətinə səcdə etməyib alınlarına və əllərinə damğanı qəbul etməmişdilər. Onlar dirilib Məsihlə birgə min il padşahlıq etdi.</verse>
+        <verse osisID='Rev.20.5'>Bu, birinci dirilmədir. Qalan ölülərsə min il bitməyincə dirilmədi.</verse>
+        <verse osisID='Rev.20.6'>Birinci dirilmədə iştirak edənlər bəxtiyar və müqəddəsdir. İkinci ölümün onlar üzərində səlahiyyəti yoxdur. Əksinə, onlar Allahın və Məsihin kahinləri olub Onunla birgə min il padşahlıq edəcək. </verse>
+        <verse osisID='Rev.20.7'>Min il bitəndən sonra Şeytan atıldığı zindandan azad ediləcək.</verse>
+        <verse osisID='Rev.20.8'>Oradan çıxacaq ki, yer üzünün dörd tərəfində olan millətləri – Qoq və Maqoqu aldadıb döyüşə toplasın; onların sayı dəniz qumu qədər çoxdur.</verse>
+        <verse osisID='Rev.20.9'>Onlar yer üzünün hər tərəfinə hücum edib müqəddəslərin düşərgəsini və sevimli şəhəri mühasirəyə aldılar. Lakin göydən od düşüb onları yandırıb-yaxdı.</verse>
+        <verse osisID='Rev.20.10'>Onları aldadan iblis də vəhşi heyvanın və yalançı peyğəmbərin atıldığı yerə – odlu kükürd gölünə atıldı. Bunlar gecə-gündüz, əbədi olaraq işgəncə çəkəcək. </verse>
+        <verse osisID='Rev.20.11'>Böyük ağ taxt və onun üstündə Oturanı gördüm. Yer və göy Onun önündən qaçdı və onlara yer tapılmadı.</verse>
+        <verse osisID='Rev.20.12'>Mən gördüm ki, böyükdən kiçiyə qədər ölülər taxtın önündə dayanıb. Kitablar açıldı və həyat kitabı olan başqa bir kitab da açıldı. Ölülər kitablarda yazılanlara əsasən öz əməllərinə görə mühakimə olundu.</verse>
+        <verse osisID='Rev.20.13'>Dəniz öz içində olan ölüləri, ölüm və ölülər diyarı da öz qoynunda olan ölüləri təslim etdi. Hər biri öz əməlinə görə mühakimə olundu.</verse>
+        <verse osisID='Rev.20.14'>Ölüm və ölülər diyarı odlu gölə atıldı. Bu odlu göl ikinci ölümdür.</verse>
+        <verse osisID='Rev.20.15'>Kimin adı həyat kitabına yazılmayıbsa, o, odlu gölə atıldı.  </verse>
+      </chapter>
+      <chapter osisID='Rev.21'>
+        <verse osisID='Rev.21.1'>
+           Mən yeni bir göy və yeni bir yer gördüm. Çünki əvvəlki yerlə əvvəlki göy keçib getmişdi, dəniz də artıq yox idi.</verse>
+        <verse osisID='Rev.21.2'>Mən müqəddəs şəhərin – yeni Yerusəlimin göydən, Allahın yanından endiyini gördüm. Şəhər öz bəyi üçün bəzədilmiş gəlin kimi hazırlanmışdı.</verse>
+        <verse osisID='Rev.21.3'>Taxtdan belə deyən uca bir səs eşitdim: «Budur, Allahın məskəni insanların arasındadır. Allah onlarla birgə məskən salacaq; onlar Onun xalqı olacaq, Allah Özü onların Allahı olaraq aralarında yaşayacaq.</verse>
+        <verse osisID='Rev.21.4'>Allah onların bütün göz yaşlarını siləcək. Artıq ölüm olmayacaq. Yas, nalə və ağrı bir daha olmayacaq. Çünki əvvəlki şeylər keçib getdi». </verse>
+        <verse osisID='Rev.21.5'>Taxtda Oturan dedi: «Budur, Mən hər şeyi yenidən qururam». Yenə dedi: «Yaz, çünki bu sözlər etibarlı və həqiqidir».</verse>
+        <verse osisID='Rev.21.6'>O mənə dedi: «Tamam oldu! Alfa və Omeqa, Başlanğıc və Axır Mənəm. Mən susayana həyat suyunun qaynağından müftə su verəcəyəm.</verse>
+        <verse osisID='Rev.21.7'>Qalib gələn bunları irs alacaq; “Mən ona Allah, o isə Mənə oğul olacaq”.</verse>
+        <verse osisID='Rev.21.8'>Qorxaqların, imansızların, iyrənclərin, qatillərin, əxlaqsızların, sehrbazların, bütpərəstlərin və bütün yalançıların aqibəti isə od və kükürdlə yanan göldə olacaq; bu, ikinci ölümdür». </verse>
+        <verse osisID='Rev.21.9'>Son yeddi bəla ilə dolu yeddi nimçəsi olan yeddi mələkdən biri gəlib mənimlə danışaraq dedi: «Gəl, mən sənə Quzunun arvadı olacaq gəlini göstərim».</verse>
+        <verse osisID='Rev.21.10'>O məni Ruhda böyük və uca bir dağın başına apardı. Oradan mənə göydən, Allahın yanından enən müqəddəs şəhəri, Yerusəlimi göstərdi.</verse>
+        <verse osisID='Rev.21.11'>Allahın ehtişamı orada idi; oradakı işıq ən qiymətli daş – büllur yəşəm daşı kimi parıldayırdı.</verse>
+        <verse osisID='Rev.21.12'>Oranın böyük və uca divarı, on iki darvazası var idi. Darvazalarda on iki mələk durmuşdu. Darvazaların üstündə İsrailin on iki qəbiləsinin adı həkk olunmuşdu.</verse>
+        <verse osisID='Rev.21.13'>Şərqdə üç darvaza, şimalda üç darvaza, cənubda üç darvaza və qərbdə üç darvaza var idi.</verse>
+        <verse osisID='Rev.21.14'>Şəhər divarının on iki təməli var idi və təməllərin üstündə Quzunun On İki həvarisinin adı var idi. </verse>
+        <verse osisID='Rev.21.15'>Mənimlə danışan mələyin əlində şəhəri, oranın darvazalarını və divarını ölçmək üçün bir qızıl ölçü qamışı var idi.</verse>
+        <verse osisID='Rev.21.16'>Şəhər dördbucaqlı şəklində idi və oranın uzunluğu eninə bərabərdir. Mələk qamışla şəhəri ölçdü: oranın uzunluğu, eni və hündürlüyü bərabər olub 12 000 stadi idi.</verse>
+        <verse osisID='Rev.21.17'>O, şəhərin divarını da ölçdü: onun hündürlüyü mələyin istifadə etdiyi insan ölçüsünə görə 144 qulac idi.</verse>
+        <verse osisID='Rev.21.18'>Divar yəşəm daşından tikilmişdi, şəhər isə şəffaf şüşəyə bənzər saf qızıldan idi.</verse>
+        <verse osisID='Rev.21.19'>Şəhər divarının təməlləri hər cür qiymətli daşla – birinci təməl yəşəmlə, ikincisi göy yaqutla, üçüncüsü əqiqlə, dördüncüsü zümrüdlə,</verse>
+        <verse osisID='Rev.21.20'>beşincisi damarlı əqiqlə, altıncısı qırmızı əqiqlə, yeddincisi sarı yaqutla, səkkizincisi berillə, doqquzuncusu topazla, onuncusu zəbərcədlə, on birincisi sirkonla, on ikincisi ametistlə bəzədilmişdi.</verse>
+        <verse osisID='Rev.21.21'>On iki darvaza on iki mirvaridən idi, hər darvaza bir mirvaridən düzəldilmişdi. Şəhərin baş küçəsi isə şüşə kimi şəffaf olan xalis qızıldan idi. </verse>
+        <verse osisID='Rev.21.22'>Mən orada məbəd görmədim, çünki oranın məbədi Külli-İxtiyar Rəbb Allah və Quzudur.</verse>
+        <verse osisID='Rev.21.23'>Şəhərin işıqlanması üçün nə günəşə, nə də aya ehtiyacı var, çünki Allahın ehtişamı oranı işıqlandırır, Quzu da oranın çırağıdır.</verse>
+        <verse osisID='Rev.21.24'>Millətlər şəhərin işığında gəzəcək, yer üzünün padşahları cah-calalını oraya gətirəcək.</verse>
+        <verse osisID='Rev.21.25'>Oranın darvazaları gündüz heç bağlanmayacaq, orada gecə olmayacaq.</verse>
+        <verse osisID='Rev.21.26'>Millətlərin cah-calal və şərəfi oraya gətiriləcək.</verse>
+        <verse osisID='Rev.21.27'>Oraya murdar olan heç bir şey, iyrənc iş görən və yalan danışan heç kim əsla girməyəcək, yalnız adları Quzunun həyat kitabına yazılanlar girəcək.  </verse>
+      </chapter>
+      <chapter osisID='Rev.22'>
+        <verse osisID='Rev.22.1'>Mələk mənə həyat suyu axan çayı göstərdi. Bu çay büllur kimi parlaq olub Allahın və Quzunun taxtından çıxır</verse>
+        <verse osisID='Rev.22.2'>və şəhərin baş küçəsinin ortasından axırdı. Çayın hər iki tayında on iki cür meyvə gətirən həyat ağacı var idi. O ağac hər ay meyvə gətirir. Onun yarpaqları millətlərə şəfa vermək üçündür.</verse>
+        <verse osisID='Rev.22.3'>Daha lənətlənən heç bir şey olmayacaq. Allahın və Quzunun taxtı orada olacaq və qulları Ona ibadət edəcək.</verse>
+        <verse osisID='Rev.22.4'>Onlar Onun üzünü görəcək, alınlarında Onun adını daşıyacaqlar.</verse>
+        <verse osisID='Rev.22.5'>Artıq gecə olmayacaq, heç kəsin çıraq və günəş işığına ehtiyacı olmayacaq. Çünki Rəbb Allah onlara işıq verəcək və onlar əbədi olaraq padşahlıq edəcək. </verse>
+        <verse osisID='Rev.22.6'>Mələk mənə dedi: «Bu sözlər etibarlı və həqiqidir. Peyğəmbərlərin ruhlarına ilham verən Rəbb Allah mələyini göndərib ki, Öz qullarına tezliklə baş verməli hadisələri göstərsin».</verse>
+        <verse osisID='Rev.22.7'>İsa deyir: «Budur, tezliklə gəlirəm! Bu kitabın peyğəmbərlik sözlərinə riayət edən kəs nə bəxtiyardır!» </verse>
+        <verse osisID='Rev.22.8'>Mən Yəhya bunları eşitdim və gördüm. Eşidib gördükdə bunları mənə göstərən mələyə səcdə etmək üçün onun ayaqlarına düşdüm.</verse>
+        <verse osisID='Rev.22.9'>Amma o mənə dedi: «Yox, olmaz! Mən səninlə, peyğəmbər qardaşlarınla və bu kitabın sözlərinə riayət edənlərlə birgə Allah quluyam. Allaha səcdə et».</verse>
+        <verse osisID='Rev.22.10'>Yenə də mənə dedi: «Bu kitabın peyğəmbərlik sözlərini möhürləmə, çünki vaxt yaxındır.</verse>
+        <verse osisID='Rev.22.11'>Haqsızlıq edən qoy daha da haqsızlıq etsin. Murdar olan daha da murdarlansın. Saleh olansa qoy daha da saleh işlər görsün. Müqəddəs olan daha da müqəddəs olsun». </verse>
+        <verse osisID='Rev.22.12'>İsa deyir: «Budur, tezliklə gəlirəm. Verəcəyim mükafat Mənimlədir və hər kəsə öz əməlinə görə əvəz verəcəyəm.</verse>
+        <verse osisID='Rev.22.13'>Alfa və Omeqa, Birinci və Sonuncu, Başlanğıc və Axır Mənəm!» </verse>
+        <verse osisID='Rev.22.14'>Xalatlarını günahdan təmizləyənlər nə bəxtiyardır! Bununla da həyat ağacından yeməyə icazələri olacaq, darvazalardan keçib şəhərə girəcəklər.</verse>
+        <verse osisID='Rev.22.15'>İt kimi murdarlar, sehrbazlar, əxlaqsızlar, qatillər, bütpərəstlər və yalanı sevib danışan hər kəssə kənarda qalacaq. </verse>
+        <verse osisID='Rev.22.16'>Yenə deyir: «Mən İsa Öz mələyimi göndərdim ki, cəmiyyətlərə aid olan bu şəhadəti sizə versin. Mən Davudun Kökü və Nəsli, parlaq Dan Ulduzuyam». </verse>
+        <verse osisID='Rev.22.17'>Ruh da, gəlin də deyir: «Gəl!» Qoy eşidən də desin: «Gəl!» Susayan qoy gəlsin, arzu edən həyat suyunu müftə götürsün. </verse>
+        <verse osisID='Rev.22.18'>Mən bu kitabın peyğəmbərlik sözlərini eşidən hər kəsə xəbərdarlıq edirəm: kim bunlara bir şey artırarsa, Allah da ona bu kitabda yazılan bəlaları artıracaq;</verse>
+        <verse osisID='Rev.22.19'>kim bu peyğəmbərlik kitabının sözlərindən bir şey götürərsə, Allah da bu kitabda yazılmış həyat ağacından və müqəddəs şəhərdən ona düşən payı götürəcək. </verse>
+        <verse osisID='Rev.22.20'>Bunlara şəhadət edən deyir: «Bəli, tezliklə gəlirəm!» Amin. Gəl, ya Rəbb İsa! </verse>
+        <verse osisID='Rev.22.21'>Rəbb İsanın lütfü hamıya yar olsun! Amin.  </verse>
+      </chapter>
+    </div></osisText>
+</osis>

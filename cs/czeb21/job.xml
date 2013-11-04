@@ -1,0 +1,1243 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace'>
+  <osisText osisRefWork='Bible' osisIDWork='CzeB21' xml:lang='cs'>
+    <header>
+      <revisionDesc>
+        <date>2010-02-26</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='CzeB21'>
+        <title>Czech Bible, Překlad 21. století</title>
+        <contributor/>
+        <creator>Mod2Zef (4)</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject/>
+        <date>2009-07-31</date>
+        <description>Bible, Překlad 21. století  vedoucí projektu Alexandr Flek  odborná spolupráce Jiří Hedánek, Pavel Hoffman, Zdeněk Sýkora  Přeloženo z hebrejštiny, aramejštiny, řečtiny  Vydání první  (c) 2009 Biblion, o. s.  www.bible21.org  www.bible21.cz   Překlad 21. století přináší nadčasové poselství Bible v současné, čtivé češtině. Usiluje o maximální věrnost původním hebrejským, aramejským a řeckým textům, zároveň však chce oslovit dnešní čtenáře, ať už jsou zvyklí čerpat z této knihy inspiraci pro každý den, anebo ji otevírají poprvé.</description>
+        <publisher/>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>CzeB21</identifier>
+        <source>no entry TextSource in sword.conf found</source>
+        <language type='IETF'>cs</language>
+        <relation/>
+        <coverage>provide the bible to the nations of the world</coverage>
+        <rights>Copyrighted; Permission to distribute granted to CrossWire</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='Job'>
+      <chapter osisID='Job.1'>
+        <verse osisID='Job.1.1'>V zemi Úc žil muž jménem Job. Ten muž byl bezúhonný a poctivý, bohabojný a prostý všeho zla.</verse>
+        <verse osisID='Job.1.2'>Měl sedm synů a tři dcery,</verse>
+        <verse osisID='Job.1.3'>jeho stáda čítala 7 000 ovcí, 3 000 velbloudů, 500 párů dobytka a 500 oslic a také služebnictva měl velmi mnoho. Mezi všemi východními národy mu nebylo rovného.</verse>
+        <verse osisID='Job.1.4'>Jeho synové, každý ve svůj den, pořádali ve svých domech hostiny a zvali také své tři sestry, ať přijdou jíst a pít s nimi.</verse>
+        <verse osisID='Job.1.5'>Jakmile dny těch hodů skončily, Job pro ně posílal, aby je posvětil. Od časného rána obětoval za každého z nich zápalné oběti, neboť si říkal: "Co když mé děti zhřešily a v duchu zlořečily Bohu." Tak to Job činíval pokaždé.</verse>
+        <verse osisID='Job.1.6'>Jednoho dne, když synové Boží přišli, aby předstoupili před Hospodina, přišel s nimi i satan.</verse>
+        <verse osisID='Job.1.7'>"Odkud jdeš?" zeptal se Hospodin satana. "Toulal jsem se po zemi sem a tam," odpověděl mu satan.</verse>
+        <verse osisID='Job.1.8'>"A všiml sis mého služebníka Joba?" řekl mu na to Hospodin. "Na zemi mu není rovného - ten muž je bezúhonný a poctivý, bohabojný a prostý všeho zla."</verse>
+        <verse osisID='Job.1.9'>"Copak Job ctí Boha zadarmo?" namítl satan Hospodinu.</verse>
+        <verse osisID='Job.1.10'>"Copak jsi kolem něj, kolem jeho domu a kolem všeho, co má, nepostavil hradbu ze všech stran? Všemu, co dělá, žehnáš a jeho stáda se množí po kraji.</verse>
+        <verse osisID='Job.1.11'>Zkus ale vztáhnout ruku a sáhnout mu na všechno, co má - uvidíš, že ti pak bude do očí zlořečit!"</verse>
+        <verse osisID='Job.1.12'>"Tak dobrá," řekl Hospodin satanovi. "Všechno, co má, ať je ve tvé moci. Jeho samotného se ale nedotkneš!" A s tím satan od Hospodina odešel.</verse>
+        <verse osisID='Job.1.13'>Jednoho dne, když Jobovi synové a dcery jedli a popíjeli víno v domě svého prvorozeného bratra,</verse>
+        <verse osisID='Job.1.14'>dorazil k Jobovi posel: "Orali jsme s dobytkem a vedle se pásly oslice," řekl,</verse>
+        <verse osisID='Job.1.15'>"když vtom nás přepadli Sabejci, zvířata ukradli a mládence pobili mečem. Unikl jsem jenom já, abych ti to pověděl!"</verse>
+        <verse osisID='Job.1.16'>Ještě to ani nedořekl, když dorazil další: "Boží blesk udeřil z nebe, zasáhl ovce i mládence a všichni shořeli. Unikl jsem jenom já, abych ti to pověděl!"</verse>
+        <verse osisID='Job.1.17'>Ještě to ani nedořekl, když dorazil další: "Chaldejci se ve třech tlupách vrhli na velbloudy, ukradli je a mládence pobili mečem. Unikl jsem jenom já, abych ti to pověděl!"</verse>
+        <verse osisID='Job.1.18'>Ještě to ani nedořekl, když dorazil další: "Tví synové a dcery právě jedli a popíjeli víno v domě svého prvorozeného bratra,</verse>
+        <verse osisID='Job.1.19'>když vtom se od pouště přihnal mohutný vichr a udeřil na ten dům ze všech stran, takže se na ně zřítil. Tvé děti jsou mrtvé. Unikl jsem jenom já, abych ti to pověděl!"</verse>
+        <verse osisID='Job.1.20'>Nato Job vstal, roztrhl svůj plášť a oholil si hlavu. Potom padl na zem a klaněl se:</verse>
+        <verse osisID='Job.1.21'>"Nahý jsem vyšel z lůna své matky, nahý se k ní zas navrátím. Hospodin dal, Hospodin vzal. Ať je požehnáno jméno Hospodin!"</verse>
+        <verse osisID='Job.1.22'>V tom ve všem Job nezhřešil a neobvinil Boha z ničeho špatného.</verse>
+      </chapter>
+      <chapter osisID='Job.2'>
+        <verse osisID='Job.2.1'>Jednoho dne, když synové Boží přišli, aby předstoupili před Hospodina, přišel s nimi i satan, aby předstoupil před Hospodina.</verse>
+        <verse osisID='Job.2.2'>"Odkud jdeš?" zeptal se Hospodin satana. "Toulal jsem se po zemi sem a tam," odpověděl mu satan.</verse>
+        <verse osisID='Job.2.3'>"A všiml sis mého služebníka Joba?" řekl mu na to Hospodin. "Na zemi mu není rovného - ten muž je bezúhonný a poctivý, bohabojný a prostý všeho zla. Až dosud vytrval ve své bezúhonnosti, ačkoli jsi mě podnítil, abych ho bezdůvodně trápil."</verse>
+        <verse osisID='Job.2.4'>"Kůži za kůži! Za svůj život člověk dá vše, co má," namítl satan Hospodinu.</verse>
+        <verse osisID='Job.2.5'>"Zkus ale vztáhnout ruku a sáhnout mu na tělo a kosti - uvidíš, že ti pak bude do očí zlořečit!"</verse>
+        <verse osisID='Job.2.6'>"Tak dobrá," řekl Hospodin satanovi. "Ať je ve tvé moci. Musíš ho ale nechat naživu."</verse>
+        <verse osisID='Job.2.7'>S tím satan od Hospodina odešel a ranil Joba od hlavy až k patě hroznými vředy.</verse>
+        <verse osisID='Job.2.8'>Job seděl v popelu a škrábal se střepem.</verse>
+        <verse osisID='Job.2.9'>"Ještě se držíš té své bezúhonnosti?" řekla mu manželka. "Zlořeč Bohu a zemři!"</verse>
+        <verse osisID='Job.2.10'>"Mluvíš jako nějaká hloupá ženská," odpověděl jí. "Budeme snad od Boha přijímat jen dobré, a zlé ne?" V tom ve všem Job ani jediným slovem nezhřešil.</verse>
+        <verse osisID='Job.2.11'>Když o všem tom zlém, co Joba potkalo, uslyšeli jeho tři přátelé, vypravili se každý ze svého kraje: Elifaz z Temanu, Bildad ze Šuchu a Sofar z Naámy. Shodli se, že ho společně půjdou navštívit, aby ho politovali a potěšili.</verse>
+        <verse osisID='Job.2.12'>Uviděli ho už zdálky a byl k nepoznání. Dali se do hlasitého pláče, roztrhli své pláště a sypali si na hlavu prach, až létal k obloze.</verse>
+        <verse osisID='Job.2.13'>Sedm dní a sedm nocí s ním proseděli na zemi, a když viděli tu nesmírnou bolest, nikdo mu neřekl ani jediné slovo.</verse>
+      </chapter>
+      <chapter osisID='Job.3'>
+        <verse osisID='Job.3.1'>Nakonec Job otevřel ústa a proklínal den, kdy se narodil.</verse>
+        <verse osisID='Job.3.2'>Job tehdy řekl:</verse>
+        <verse osisID='Job.3.3'>"Zhynout měl den, kdy jsem se narodil, i noc, kdy řekli: Chlapce jsme počali!</verse>
+        <verse osisID='Job.3.4'>Kéž by se zatměl onen den, Bůh na nebi kéž by se po něm nesháněl, kéž vůbec nezačal s úsvitem!</verse>
+        <verse osisID='Job.3.5'>Kéž by ho pohltila černá tma, mračno kéž by ho bylo přikrylo, zatmění kéž by ho přemohlo!</verse>
+        <verse osisID='Job.3.6'>I tu noc měla zachvátit temnota, aby se do roku nemohla počítat, do počtu měsíců aby nevešla!</verse>
+        <verse osisID='Job.3.7'>Ach ta noc - kéž byla neplodná, radostný výkřik poznat neměla!</verse>
+        <verse osisID='Job.3.8'>Zaklínači dnů ji měli proklínat, ti, kdo jsou připraveni dráždit leviatana.</verse>
+        <verse osisID='Job.3.9'>Kéž tehdy zhasla její Jitřenka, nadarmo kéž by na světlo čekala, paprsky úsvitu vidět neměla!</verse>
+        <verse osisID='Job.3.10'>Své lůno přede mnou měla uzavřít, mé oči ušetřit všeho trápení.</verse>
+        <verse osisID='Job.3.11'>Proč jsem už v lůnu nezhynul? Proč jsem nezemřel při porodu?</verse>
+        <verse osisID='Job.3.12'>Proč tu byl klín, jenž mě přitulil? Proč prsy, z nichž jsem pil?</verse>
+        <verse osisID='Job.3.13'>Byl bych teď ležel a mlčel bych, odpočíval bych v pokoji</verse>
+        <verse osisID='Job.3.14'>společně s králi a velmoži, jejichž stavby jsou už troskami,</verse>
+        <verse osisID='Job.3.15'>anebo s velmoži, kteří oplývali zlatem, kteří si příbytky naplnili stříbrem!</verse>
+        <verse osisID='Job.3.16'>Proč jsem jak potrat nebyl zahrabán, jako nemluvně, jež světlo nevídá?</verse>
+        <verse osisID='Job.3.17'>Tam už ničemové nikoho netrápí, tam si odpočinou všichni zdeptaní.</verse>
+        <verse osisID='Job.3.18'>Také i vězni tam najdou úlevu, neuslyší tam už pokřik biřiců.</verse>
+        <verse osisID='Job.3.19'>Malí i velcí jsou tam vedle sebe, otrok je bez pána, na svobodě.</verse>
+        <verse osisID='Job.3.20'>K čemu je dáno světlo ubohým a život zatrpklým;</verse>
+        <verse osisID='Job.3.21'>těm, kteří na smrt marně čekají, ač ji hledají víc než poklady;</verse>
+        <verse osisID='Job.3.22'>těm, kteří jásají radostí, jakmile hrobu dosáhli?</verse>
+        <verse osisID='Job.3.23'>K čemu je to člověku, jenž cestu nevidí a jehož Bůh ze všech stran obklíčil?</verse>
+        <verse osisID='Job.3.24'>Mým denním chlebem je teď jen sténání, můj nářek proudí jako potoky.</verse>
+        <verse osisID='Job.3.25'>Stalo se mi to, čeho jsem se bál, potkalo mě to, z čeho jsem měl strach!</verse>
+        <verse osisID='Job.3.26'>Nemám pokoj, nemám klid, nemám odpočinutí. Přišlo trápení."</verse>
+      </chapter>
+      <chapter osisID='Job.4'>
+        <verse osisID='Job.4.1'>Elifaz Temanský mu na to řekl:</verse>
+        <verse osisID='Job.4.2'>"Sneseš, když na tebe někdo promluví? Je těžké neříci vůbec nic.</verse>
+        <verse osisID='Job.4.3'>Sám přece dovedls mnohé poučit, pokleslým rukám jsi uměl dodat sil.</verse>
+        <verse osisID='Job.4.4'>Tvá slova klopýtajícího zvedala, posiloval jsi podlomená kolena.</verse>
+        <verse osisID='Job.4.5'>Teď došlo na tebe - a neseš to těžce; tebe to zasáhlo, a děsíš se.</verse>
+        <verse osisID='Job.4.6'>Už není ti oporou zbožnost tvá? Tvá bezúhonnost už ti naději nedává?</verse>
+        <verse osisID='Job.4.7'>Zhynul snad někdy nevinný? Vzpomeň si! Kde byli vyhlazeni poctiví?</verse>
+        <verse osisID='Job.4.8'>Ti, kdo ořou zlo, pokud vím, ti, kdo rozsévají trápení, je sklízejí.</verse>
+        <verse osisID='Job.4.9'>Dechem Božím zahynou, závanem jeho hněvu se rozplynou.</verse>
+        <verse osisID='Job.4.10'>Lev umí řvát a šelma zavrčí, i lví tesáky se ale vylomí.</verse>
+        <verse osisID='Job.4.11'>Bez kořisti pojde i silný lev, smečka lvíčat se rozprchne.</verse>
+        <verse osisID='Job.4.12'>Dostalo se mi tajné sdělení, ušima jsem jen šepot pochytil.</verse>
+        <verse osisID='Job.4.13'>Nočními vidinami byl jsem rozrušen, když lidi zmáhá těžký sen.</verse>
+        <verse osisID='Job.4.14'>Strach mě přepadl, začal jsem se třást, do morku kostí děs mnou pronikal.</verse>
+        <verse osisID='Job.4.15'>Duch se mi tehdy mihnul před tváří, chlupy na těle se mi zježily.</verse>
+        <verse osisID='Job.4.16'>Zastavil se, podobu ale nešlo rozeznat, jen zjev jakýsi před mýma očima, pak šepot, když zaslechl jsem hlas:</verse>
+        <verse osisID='Job.4.17'>‚Copak je smrtelník v právu před Bohem? Je člověk čistý před svým Stvořitelem?</verse>
+        <verse osisID='Job.4.18'>Ani na své služebníky se Bůh nespoléhá, dokonce i na andělích najde kaz.</verse>
+        <verse osisID='Job.4.19'>Co potom s těmi, kdo žijí v domech hliněných, jež mají v prachu základy? Rozmáčknout je lze snáze než mola,</verse>
+        <verse osisID='Job.4.20'>drceni bývají od rána do večera. Bez povšimnutí navždy zahynou,</verse>
+        <verse osisID='Job.4.21'>lano jejich stanu bude strženo, zemřou a moudří nebudou!'</verse>
+      </chapter>
+      <chapter osisID='Job.5'>
+        <verse osisID='Job.5.1'>Jen křič - kdo ti však odpoví? Ke komu z andělů se chceš obrátit?</verse>
+        <verse osisID='Job.5.2'>Hlupáka zahubí rozhořčení, omezenec umře závistí.</verse>
+        <verse osisID='Job.5.3'>Viděl jsem hlupáka zapustit kořeny, jeho dům ale náhle stihlo prokletí:</verse>
+        <verse osisID='Job.5.4'>Jeho děti nepoznají žádné bezpečí, bez obhájce budou na soudu zdeptáni.</verse>
+        <verse osisID='Job.5.5'>Jeho sklizeň mu spolkne hladový, i zprostřed trní ji uchvátí, jeho bohatství zhltnou žízniví.</verse>
+        <verse osisID='Job.5.6'>Zlo totiž jen tak z prachu nevzchází, trápení ze země samo nepučí -</verse>
+        <verse osisID='Job.5.7'>to přece člověk plodí trápení, tak jako jiskry vzhůru létají.</verse>
+        <verse osisID='Job.5.8'>Já bych se raději k Bohu obrátil, jemu bych předložil svou při.</verse>
+        <verse osisID='Job.5.9'>On koná věci veliké a tajemné, jeho zázraky jsou nesčetné.</verse>
+        <verse osisID='Job.5.10'>Sesílá deště na zemi, potoky pouští po kraji.</verse>
+        <verse osisID='Job.5.11'>Ponížené staví na místech vysokých, truchlícím dává bezpečí.</verse>
+        <verse osisID='Job.5.12'>Hatí úmysly prohnaných, aby neuspěli se svou chytrostí.</verse>
+        <verse osisID='Job.5.13'>On chytá chytráky v jejich vychytralosti, záměry zvrácených on podvrací.</verse>
+        <verse osisID='Job.5.14'>Uprostřed dne tma je zachvátí, v poledne budou tápat jako za noci.</verse>
+        <verse osisID='Job.5.15'>Před mečem jejich úst chudé zachrání, zachrání je z jejich mocného sevření.</verse>
+        <verse osisID='Job.5.16'>Chudák má věru naději, že bude umlčeno násilí.</verse>
+        <verse osisID='Job.5.17'>‚Jak blaze je člověku, jehož kárá Bůh! Trestu Všemohoucího se nezpěčuj!'</verse>
+        <verse osisID='Job.5.18'>‚On udeří, však také ošetří, zraní, svou rukou však uzdraví.'</verse>
+        <verse osisID='Job.5.19'>Vysvobodí tě ze šesti soužení, ani posedmé nestihne tě neštěstí.</verse>
+        <verse osisID='Job.5.20'>V hladomoru zachrání tě před smrtí a z moci meče za války.</verse>
+        <verse osisID='Job.5.21'>Před bičem jazyka budeš skryt, nebudeš se bát, když zhouba přichází.</verse>
+        <verse osisID='Job.5.22'>Zhoubě i hladu se budeš smát, ani z divé zvěře nebudeš mít strach.</verse>
+        <verse osisID='Job.5.23'>Budeš mít smlouvu i s kamením na poli, i divá zvěř se s tebou bude přátelit.</verse>
+        <verse osisID='Job.5.24'>Ve svém příbytku poznáš, co je klid, přehlédneš své statky - nebude chybět nic.</verse>
+        <verse osisID='Job.5.25'>Poznáš, co je to mít mnohé potomky: Tvých ratolestí bude jak trávy na zemi.</verse>
+        <verse osisID='Job.5.26'>Ke hrobu dojdeš plný sil jako při sklizni snop obilí.</verse>
+        <verse osisID='Job.5.27'>Na to jsme přišli a tak to je. Vyslechni to a pouč se!"</verse>
+      </chapter>
+      <chapter osisID='Job.6'>
+        <verse osisID='Job.6.1'>Job na to řekl:</verse>
+        <verse osisID='Job.6.2'>"Kéž by se má muka dala zvážit, na váhy kéž by se vešla bída má!</verse>
+        <verse osisID='Job.6.3'>Byla by těžší, než je písek v moři - to proto slovy se téměř zalykám.</verse>
+        <verse osisID='Job.6.4'>Šípy Všemohoucího se do mě zabodly, jejich jed se mi vpíjí do ducha, Boží hrůzy mě obkličují ze všech stran.</verse>
+        <verse osisID='Job.6.5'>Hýká snad osel, když má dost trávy? Bučí snad vůl, když má krmení?</verse>
+        <verse osisID='Job.6.6'>Copak se jí mdlé jídlo bez soli? Copak má nějakou chuť sliz?</verse>
+        <verse osisID='Job.6.7'>Tyto věci se mi z duše protiví, z takového jídla je mi k zvracení!</verse>
+        <verse osisID='Job.6.8'>Kéž by se mé přání konečně splnilo, kéž by Bůh naplnil mou naději -</verse>
+        <verse osisID='Job.6.9'>že by mě Bůh ráčil rozmáčknout, mávnutím ruky mě zahubit.</verse>
+        <verse osisID='Job.6.10'>Pak by mi mohlo sloužit k útěše, i když se svíjím v krutých bolestech, že slovům Svatého jsem se nevzepřel.</verse>
+        <verse osisID='Job.6.11'>Copak mám sílu, abych to vydržel? Copak mě ještě něco čeká v životě?</verse>
+        <verse osisID='Job.6.12'>Copak je má síla z kamene? Copak je mé tělo bronzové?</verse>
+        <verse osisID='Job.6.13'>Copak si mohu nějak pomoci? Teď, když mě úspěch opustil?</verse>
+        <verse osisID='Job.6.14'>Kdo není oddaný svému příteli, úctu k Všemohoucímu opouští.</verse>
+        <verse osisID='Job.6.15'>Mí bratři jsou však zrádní jako bystřiny, jak řečiště, jež brzy vymizí.</verse>
+        <verse osisID='Job.6.16'>Když taje led a sníh, kalným proudem se rozvodní,</verse>
+        <verse osisID='Job.6.17'>v době sucha se však vytratí, v horku se vypaří a jsou pryč.</verse>
+        <verse osisID='Job.6.18'>Jejich cesty se klikatí, míří do pustin, kde zmírají.</verse>
+        <verse osisID='Job.6.19'>Karavany z Temy je hledají, výpravy ze Sáby v ně doufají,</verse>
+        <verse osisID='Job.6.20'>jejich důvěra je ale zamrzí - když k nim dorazí, čeká je zklamání.</verse>
+        <verse osisID='Job.6.21'>Právě tak k ničemu jste teď vy: Vidíte hrůzu a jste zděšeni.</verse>
+        <verse osisID='Job.6.22'>Řekl jsem snad: ‚Dejte mi něco,' nebo: ‚Vyplaťte mě ze svého'?</verse>
+        <verse osisID='Job.6.23'>‚Vysvoboďte mě od nepřítele,' nebo: ‚Od tyranů mě zachraňte'?</verse>
+        <verse osisID='Job.6.24'>Poučte mě, a zmlknu hned, v čem jsem pochybil, mi ukažte.</verse>
+        <verse osisID='Job.6.25'>Jak mohou zraňovat slova upřímná! Co vaše důkazy mohou dokázat?</verse>
+        <verse osisID='Job.6.26'>To, co jsem řekl, mi chcete vytýkat? Copak jen do větru mluví ubožák?</verse>
+        <verse osisID='Job.6.27'>Vy byste ale i o sirotka losovali, vlastního přítele byste prodali!</verse>
+        <verse osisID='Job.6.28'>Pohleďte na mě, prosím vás - copak bych vám do očí lhal?</verse>
+        <verse osisID='Job.6.29'>Přestaňte! Nepáchejte křivdu! Přestaňte! Jsem přece v právu!</verse>
+        <verse osisID='Job.6.30'>Copak jsem řekl něco špatného? Copak nepoznám, co by mě zničilo?</verse>
+      </chapter>
+      <chapter osisID='Job.7'>
+        <verse osisID='Job.7.1'>Nemá člověk na zemi jen samou robotu? Den za dnem jak nádeník žije tu.</verse>
+        <verse osisID='Job.7.2'>Jak otrok touží po stínu, jak nádeník čeká odměnu.</verse>
+        <verse osisID='Job.7.3'>I mně byly dány měsíce prázdnoty, přiděleny mi byly noci trápení.</verse>
+        <verse osisID='Job.7.4'>Když uléhám, říkám si: ‚Kdy budu moci vstát?' A noc se táhne a já se převaluji sem a tam až do rána.</verse>
+        <verse osisID='Job.7.5'>Tělo mám červy a strupy pokryté, rány na kůži mám zhnisané.</verse>
+        <verse osisID='Job.7.6'>Jak tkalcovský člunek utekly mé dny a bez naděje skončily.</verse>
+        <verse osisID='Job.7.7'>Pamatuj, Bože, můj život je pouhý vzdech, mé oči už nikdy štěstí nespatří.</verse>
+        <verse osisID='Job.7.8'>Nezahlédne mě oko, které mě vidí teď, rozhlédneš se po mně, a nebudu tu víc.</verse>
+        <verse osisID='Job.7.9'>Jako míjejí mraky a ztrácí se, kdo klesne do hrobu, ten více nevyjde.</verse>
+        <verse osisID='Job.7.10'>Domů se už nikdy nevrátí, nikdy se neukáže ve svém obydlí.</verse>
+        <verse osisID='Job.7.11'>Proto už déle nemohu mlčet, v soužení ducha musím promluvit, své hořké duši musím ulevit.</verse>
+        <verse osisID='Job.7.12'>Jsem snad moře, jsem snad drak, abys nade mnou stavěl stráž?</verse>
+        <verse osisID='Job.7.13'>Myslím si: ‚Na lůžku se mi uleví, spánek ulehčí mému trápení.'</verse>
+        <verse osisID='Job.7.14'>Tehdy mě ale strašíš sny, tehdy mě děsíš skrze vidění,</verse>
+        <verse osisID='Job.7.15'>že bych se raději oběsil - radši bych zemřel, než takhle živořil!</verse>
+        <verse osisID='Job.7.16'>Mám toho dost. Nebudu přece žít navěky! Nech mě být. Jen pouhá pára jsou mé dny!</verse>
+        <verse osisID='Job.7.17'>Co je člověk, že se ti zdá tak významný a že ti tolik leží na srdci?</verse>
+        <verse osisID='Job.7.18'>Od samého rána se o něj zajímáš, každičkou chvíli ho chceš sledovat.</verse>
+        <verse osisID='Job.7.19'>Kdy už ode mě odvrátíš svůj zrak? Ani slinu mě polknout nenecháš?</verse>
+        <verse osisID='Job.7.20'>Když zhřeším, co ti to udělá, ty Strážce člověka?! Proč sis mě vybral za svůj terč? Jsem ti snad břemenem?</verse>
+        <verse osisID='Job.7.21'>Proč neodpustíš můj hřích, proč mě mé viny nezbavíš? Brzy už ulehnu do prachu; budeš mě hledat, a už tu nebudu!"</verse>
+      </chapter>
+      <chapter osisID='Job.8'>
+        <verse osisID='Job.8.1'>Bildad Šuchský mu na to řekl:</verse>
+        <verse osisID='Job.8.2'>"Jak dlouho budeš takhle mluvit? Tvé řeči jsou podobné vichřici!</verse>
+        <verse osisID='Job.8.3'>Copak Bůh spravedlnost poruší? Copak Všemohoucí právo převrací?</verse>
+        <verse osisID='Job.8.4'>Pokud tvé děti proti němu zhřešily, vydal je moci jejich vin.</verse>
+        <verse osisID='Job.8.5'>Budeš-li ale pilně hledat Boha a Všemohoucího prosit o milost,</verse>
+        <verse osisID='Job.8.6'>budeš-li čistý a poctivý, hned zase začne nad tebou bdít, rozkvět tvých statků znovu obnoví.</verse>
+        <verse osisID='Job.8.7'>Tvé počátky budou nicotné oproti hojnosti, jež čeká tě.</verse>
+        <verse osisID='Job.8.8'>Předchozích pokolení zeptej se, na jejich otce dej.</verse>
+        <verse osisID='Job.8.9'>My jsme jen včerejší, nevíme nic, naše dny na zemi jsou pouhý stín.</verse>
+        <verse osisID='Job.8.10'>Oni však poučí tě, oni ti povědí, z hloubi svého srdce ti toto vyjeví:</verse>
+        <verse osisID='Job.8.11'>Roste papyrus, kde nejsou bažiny? Daří se rákosí bez vody?</verse>
+        <verse osisID='Job.8.12'>Ještě se zelená, není posekán, rychleji než tráva však náhle usychá.</verse>
+        <verse osisID='Job.8.13'>Tak se povede těm, kdo na Boha nemyslí, takto se vytratí doufání bezbožných.</verse>
+        <verse osisID='Job.8.14'>Chatrnou mají naději, na pavučinu se spolehli.</verse>
+        <verse osisID='Job.8.15'>Opřít se o ni znamená pád, kdo se jí drží, ten nezůstane stát.</verse>
+        <verse osisID='Job.8.16'>Jiný však bují na slunci, po celé zahradě rozpíná výhonky,</verse>
+        <verse osisID='Job.8.17'>kořeny vplétá mezi kameny, drží se skalnatého podloží.</verse>
+        <verse osisID='Job.8.18'>Když je pak ze svého místa vytržen a to místo řekne: ‚Neznám tě,'</verse>
+        <verse osisID='Job.8.19'>vida ho - jemu se šťastně povede, vždyť jinde z prachu vykvete.</verse>
+        <verse osisID='Job.8.20'>Bůh se bezúhonných nezříká, nepodpoří však ruku bídáka.</verse>
+        <verse osisID='Job.8.21'>Tvá ústa smíchem nakonec naplní, písničku vloží na tvé rty.</verse>
+        <verse osisID='Job.8.22'>Tví nepřátelé však budou mít plášť z ostudy, ze stanu ničemů nezbude vůbec nic."</verse>
+      </chapter>
+      <chapter osisID='Job.9'>
+        <verse osisID='Job.9.1'>Job na to řekl:</verse>
+        <verse osisID='Job.9.2'>"Vím, je to tak, jistě máš pravdu. Může snad člověk být před Bohem v právu?</verse>
+        <verse osisID='Job.9.3'>Kdyby s ním někdo snad chtěl jít k soudu, z tisíce otázek by nezodpověděl jednu.</verse>
+        <verse osisID='Job.9.4'>Má hlubokou moudrost a nesmírnou sílu - uspěl snad někdy, kdo stanul proti němu?</verse>
+        <verse osisID='Job.9.5'>On hory přenáší, než se kdo naděje, poráží je, když hněvá se.</verse>
+        <verse osisID='Job.9.6'>I zemí z místa pohnout dokáže, tak že se třesou její pilíře.</verse>
+        <verse osisID='Job.9.7'>Řekne slunci, a nevyjde, svou pečetí hvězdy zakryje.</verse>
+        <verse osisID='Job.9.8'>On sám roztahuje nebesa, přes moře kráčí po vlnách.</verse>
+        <verse osisID='Job.9.9'>Učinil Oriona i Velký vůz, Plejády i souhvězdí na jihu.</verse>
+        <verse osisID='Job.9.10'>On koná věci veliké a tajemné, jeho zázraky jsou nesčetné.</verse>
+        <verse osisID='Job.9.11'>Když projde kolem, já ho nespatřím, půjde dál, i když to netuším.</verse>
+        <verse osisID='Job.9.12'>Když něco vezme, kdo mu zabrání? Kdopak mu řekne: ‚Co to provádíš?'</verse>
+        <verse osisID='Job.9.13'>Svůj hněv Bůh omezovat nijak nehodlá - před ním se musí sklonit i pomocníci netvora!</verse>
+        <verse osisID='Job.9.14'>Jak bych se tedy já před ním obhájil? Jak najdu slova, abych ho obvinil?</verse>
+        <verse osisID='Job.9.15'>Neobhájím se, i když jsem nevinný, u svého Soudce bych musel o milost žadonit.</verse>
+        <verse osisID='Job.9.16'>I kdyby se dostavil, když ho předvolám, nevěřím, že by mi vůbec naslouchal.</verse>
+        <verse osisID='Job.9.17'>Rozdrtil by mě vichřicí, pro nic za nic by mé rány rozmnožil.</verse>
+        <verse osisID='Job.9.18'>Nenechal by mě ani nadechnout, nasytil by mě samou útrapou.</verse>
+        <verse osisID='Job.9.19'>Přemoci ho? Hle - je nejsilnější! Jít s ním na soud? Kdo ho předvolá?</verse>
+        <verse osisID='Job.9.20'>I kdybych byl nevinný, má ústa mě odsoudí; i kdybych byl bezúhonný, řekne, že jsem zvrácený.</verse>
+        <verse osisID='Job.9.21'>Jsem bezúhonný, co ale na tom záleží - už se mi nechce žít!</verse>
+        <verse osisID='Job.9.22'>Všechno je jedno, proto řekl jsem: On hubí bezúhonného spolu s bídákem!</verse>
+        <verse osisID='Job.9.23'>Když zhoubná rána náhle dopadne, zoufalství nevinných on se zasměje.</verse>
+        <verse osisID='Job.9.24'>Když země padne do rukou bídáka, zrak jejích soudců on sám zakrývá - a když ne on, kdo pak?</verse>
+        <verse osisID='Job.9.25'>Rychleji než běžec utekly mé dny, šťastné nebyly, teď jsou pryč.</verse>
+        <verse osisID='Job.9.26'>Jak rákosové čluny kolem propluly, jak orel řítící se za svou kořistí.</verse>
+        <verse osisID='Job.9.27'>Mohl bych říci: ‚Přestanu s nářkem, zarmoucenou tvář nahradím úsměvem!'</verse>
+        <verse osisID='Job.9.28'>Jenže se děsím všech svých trápení - neosvobodíš mě, to dobře vím.</verse>
+        <verse osisID='Job.9.29'>Jsem předem odsouzen - proč bych se snažil zbytečně?</verse>
+        <verse osisID='Job.9.30'>I kdybych se ve sněhu vykoupal, i kdybych si dlaně louhoval,</verse>
+        <verse osisID='Job.9.31'>stejně mne shodíš do žumpy, že i svému plášti budu odporný.</verse>
+        <verse osisID='Job.9.32'>On není člověk jako já, abych se mu postavil, abychom společně k soudu šli.</verse>
+        <verse osisID='Job.9.33'>Kéž by mezi nás vstoupil prostředník, který by na nás oba ruku položil!</verse>
+        <verse osisID='Job.9.34'>Ten by snad jeho hůl ode mě odvrátil, abych nebyl zastrašen jeho hrůzami.</verse>
+        <verse osisID='Job.9.35'>To bych pak promluvil a neměl bych z něj strach, se mnou to ale není tak!</verse>
+      </chapter>
+      <chapter osisID='Job.10'>
+        <verse osisID='Job.10.1'>Už se mi hnusí žít, proto teď svému nářku povolím, z hořkosti duše promluvím.</verse>
+        <verse osisID='Job.10.2'>Neodsuzuj mě předem - tak Boha oslovím - z čeho mě obviňuješ, prozraď mi.</verse>
+        <verse osisID='Job.10.3'>Dělá ti dobře, že mě sužuješ? Proč pohrdáš vlastnoručním výtvorem a záměry ničemů vítáš s úsměvem?</verse>
+        <verse osisID='Job.10.4'>Copak máš oči tělesné? Pohledem smrtelníka díváš se?</verse>
+        <verse osisID='Job.10.5'>Copak jsou tvé dny lidským podobné, připomínají tvé roky lidský věk,</verse>
+        <verse osisID='Job.10.6'>že na mně hledáš nějaký přestupek a po mém hříchu pídíš se?</verse>
+        <verse osisID='Job.10.7'>Víš přece, že jsem nevinen a že mě z tvé ruky nikdo nevyrve!</verse>
+        <verse osisID='Job.10.8'>Tvé ruce mne hnětly a tvořily - teď ses obrátil a chceš mě zahubit?</verse>
+        <verse osisID='Job.10.9'>Vzpomeň si, že jsi mne z hlíny vytvořil - to mě chceš znovu na prach obrátit?</verse>
+        <verse osisID='Job.10.10'>Což jsi mě kdysi jak mléko nenalil, nenechal jsi mě zhoustnout jako sýr?</verse>
+        <verse osisID='Job.10.11'>Kůží a masem jsi mě přioděl, kostmi a šlachami spojils mě.</verse>
+        <verse osisID='Job.10.12'>Z lásky jsi mě obdaroval životem, tvá péče střežila můj každý dech.</verse>
+        <verse osisID='Job.10.13'>Toto však v srdci skrýval jsi, teď už jsem poznal tvé úmysly:</verse>
+        <verse osisID='Job.10.14'>Abys mě hlídal, zda nezhřeším, abys mi neodpustil žádné přestupky.</verse>
+        <verse osisID='Job.10.15'>Pokud jsem vinen, běda mi, nezvednu ale hlavu, i když jsem nevinný; přesycen jsem hanbou, zpitý trápením.</verse>
+        <verse osisID='Job.10.16'>Kdybych se narovnal, budeš mě honit jako lev, svou úžasnou sílu na mě znovu prokážeš.</verse>
+        <verse osisID='Job.10.17'>Postavíš další svědky proti mně, tvůj hněv proti mně se ještě rozmůže, tvá vojska mě zas a znovu vezmou útokem.</verse>
+        <verse osisID='Job.10.18'>Proč jsi mě vůbec z lůna vyváděl? Kéž bych byl zhynul, než mě kdo uviděl!</verse>
+        <verse osisID='Job.10.19'>Jako bych nikdy nebyl, tak bych na tom byl, z klína do hrobu by mě přenesli.</verse>
+        <verse osisID='Job.10.20'>Copak mi nezbývá už jen pár dnů? Nech mě být, ať pookřeji aspoň na chvilku,</verse>
+        <verse osisID='Job.10.21'>dříve než bez návratu odejdu do země příšeří a stínu,</verse>
+        <verse osisID='Job.10.22'>do země černé jako tma, kde vládne stín a není řád, kde i sám rozbřesk je temnota."</verse>
+      </chapter>
+      <chapter osisID='Job.11'>
+        <verse osisID='Job.11.1'>Sofar Naámský mu na to řekl:</verse>
+        <verse osisID='Job.11.2'>"Má ta spousta slov zůstat bez odpovědi? Má se dát za pravdu mluvkovi?</verse>
+        <verse osisID='Job.11.3'>Myslíš, že svým tlacháním všechny umlčíš? Že nikdo neztrestá tvé rouhání?</verse>
+        <verse osisID='Job.11.4'>Říkal jsi Bohu: ‚Mé přesvědčení je ryzí, jsem před tebou zcela bez vady.'</verse>
+        <verse osisID='Job.11.5'>Ach, kéž by tak Bůh promluvil, kéž by se s tebou dal do rozpravy!</verse>
+        <verse osisID='Job.11.6'>Kéž by ti prozradil taje moudrosti, potřebuješ totiž dvojnásob chápání: Věz, že Bůh tě trestá míň, než bys zasloužil!</verse>
+        <verse osisID='Job.11.7'>Můžeš postihnout Boží hlubiny? Meze Všemohoucího pochopit?</verse>
+        <verse osisID='Job.11.8'>Vyšší jsou nad nebe - jak si poradíš? Hlubší než podsvětí - co ty o tom víš?</verse>
+        <verse osisID='Job.11.9'>Delší než země, širší než moře!</verse>
+        <verse osisID='Job.11.10'>Když on zasáhne, když uvězní, když svolá soud, kdo mu zabrání?</verse>
+        <verse osisID='Job.11.11'>Podvodníky zná a vidí zlo, jak by mu mohlo uniknout?</verse>
+        <verse osisID='Job.11.12'>‚Rozum dostane hlava dubová, až divoká oslice zplodí člověka!'</verse>
+        <verse osisID='Job.11.13'>Když ale napravíš své srdce a k Bohu vzepneš dlaně,</verse>
+        <verse osisID='Job.11.14'>zlo ze svých rukou když daleko odhodíš a nestrpíš ve svém stanu bezpráví,</verse>
+        <verse osisID='Job.11.15'>tehdy tvář pozvedneš bez vady, budeš stát neochvějně, bez vší obavy.</verse>
+        <verse osisID='Job.11.16'>Tehdy zapomeneš na své trápení, jak voda odplyne z tvé paměti.</verse>
+        <verse osisID='Job.11.17'>Tvůj život jak poledne se rozzáří, i tma se promění v svítání.</verse>
+        <verse osisID='Job.11.18'>Buď klidný, vždyť je tu naděje - rozhlédneš se kolem a v klidu ulehneš.</verse>
+        <verse osisID='Job.11.19'>Budeš spát a nikdo nevyruší tě, o tvou přízeň se budou mnozí ucházet.</verse>
+        <verse osisID='Job.11.20'>Oči ničemů se ale vysílí, jejich útočiště se vytratí; zbude jim naděje, že duši vypustí."</verse>
+      </chapter>
+      <chapter osisID='Job.12'>
+        <verse osisID='Job.12.1'>Job na to řekl:</verse>
+        <verse osisID='Job.12.2'>"Opravdu, vy jste ti praví a moudrost vymře s vámi!</verse>
+        <verse osisID='Job.12.3'>I já však mám rozum tak jako vy a nejsem v ničem za vámi, to přece každý ví.</verse>
+        <verse osisID='Job.12.4'>Jsem ale k smíchu i svému příteli: ‚On volá k Bohu, ať mu prý odpoví!' Jsem k smíchu: ‚Hle, spravedlivý a poctivý!'</verse>
+        <verse osisID='Job.12.5'>Spokojený člověk pohrdá neštěstím: ‚Kopanec tomu, kdo se potácí!'</verse>
+        <verse osisID='Job.12.6'>Stany nájezdníků naplňuje klid, ti, kdo popouzejí Boha, jsou v bezpečí, jako by Boha v ruce drželi.</verse>
+        <verse osisID='Job.12.7'>Jen se ptej dobytka, ať tě poučí, ptáci na nebi ti to povědí;</verse>
+        <verse osisID='Job.12.8'>anebo promluv se zemí, ať tě poučí, ryby v moři ti to prozradí:</verse>
+        <verse osisID='Job.12.9'>Neví snad jeden každý z nich, že je svou rukou učinil Hospodin?</verse>
+        <verse osisID='Job.12.10'>V jeho ruce je život každého tvora, je v ní dech každého lidského těla.</verse>
+        <verse osisID='Job.12.11'>Což neumí ucho rozlišovat slova, jako umí jazyk pokrm ochutnat?</verse>
+        <verse osisID='Job.12.12'>Náleží moudrost jenom kmetům, patří rozumnost k dlouhému věku?</verse>
+        <verse osisID='Job.12.13'>Bůh - ten má moudrost a také moc, patří mu prozřetelnost a rozumnost.</verse>
+        <verse osisID='Job.12.14'>Co zboří, se nedá postavit, koho uvězní, nelze propustit.</verse>
+        <verse osisID='Job.12.15'>Když zadržuje vody, sucho přichází, a když je vypustí, zemi pustoší.</verse>
+        <verse osisID='Job.12.16'>Jemu patří síla i schopnosti, jeho je podvedený i podvodník.</verse>
+        <verse osisID='Job.12.17'>Velmože svléká donaha, ze soudců umí blázny udělat.</verse>
+        <verse osisID='Job.12.18'>Králům rozpíná opasky, bedra jim obtáčí provazy.</verse>
+        <verse osisID='Job.12.19'>I kněží svléká donaha, dávné opory strhává.</verse>
+        <verse osisID='Job.12.20'>Odebírá slovo zkušeným, starce zbavuje soudnosti.</verse>
+        <verse osisID='Job.12.21'>I přední muže vystavuje hanbě, odzbrojuje i statečné.</verse>
+        <verse osisID='Job.12.22'>Odkrývá hlubiny temnoty, na světlo vyvádí, co bylo v příšeří.</verse>
+        <verse osisID='Job.12.23'>Rozmnožuje národy a pak je ničí, dává jim rozmach a pak je rozhání.</verse>
+        <verse osisID='Job.12.24'>Vůdce lidu on o rozum připravuje, nechá je bloudit v pustotě bez cíle.</verse>
+        <verse osisID='Job.12.25'>Bez světla tápají v temnotě, nechá vrávorat je jako opilce.</verse>
+      </chapter>
+      <chapter osisID='Job.13'>
+        <verse osisID='Job.13.1'>To vše už jsem viděl očima, slyšel ušima a rozpoznal.</verse>
+        <verse osisID='Job.13.2'>Co víte vy, to také vím a nejsem v ničem za vámi.</verse>
+        <verse osisID='Job.13.3'>Teď chci se Všemohoucím promluvit, s Bohem chci projednat svou při.</verse>
+        <verse osisID='Job.13.4'>Vy mě jen špiníte samou lží, všichni jste šarlatáni, a ne lékaři.</verse>
+        <verse osisID='Job.13.5'>Kdybyste aspoň konečně umlkli, vzbudili byste dojem moudrosti!</verse>
+        <verse osisID='Job.13.6'>Moji námitku teď tedy poslyšte, věnujte pozornost mým stížnostem.</verse>
+        <verse osisID='Job.13.7'>To kvůli Bohu mluvíte tak podle? To kvůli němu řečníte falešně?</verse>
+        <verse osisID='Job.13.8'>Chcete snad nadržovat jemu? Chcete snad dělat obhájce Bohu?</verse>
+        <verse osisID='Job.13.9'>Dopadnete dobře, až vás prozkoumá? Oklamete ho, jako klamete člověka?</verse>
+        <verse osisID='Job.13.10'>Budete-li někomu tajně nadržovat, copak vás tvrdě neztrestá?</verse>
+        <verse osisID='Job.13.11'>Jeho vznešenosti nebojíte se, nepadá na vás jeho děs?</verse>
+        <verse osisID='Job.13.12'>Ta vaše moudra jsou slepená z popela, vaše odpovědi jsou hlína splácaná!</verse>
+        <verse osisID='Job.13.13'>Mlčte, teď promluvit chci já, pak ať se stane, co má se stát.</verse>
+        <verse osisID='Job.13.14'>Proč kůži na trh nosit chci a vlastní život nasadit?</verse>
+        <verse osisID='Job.13.15'>I kdyby mě zabil, i kdybych neměl naději, své cesty chci před ním obhájit.</verse>
+        <verse osisID='Job.13.16'>Jedině tak bych se mohl zachránit - vždyť před něj nepřijde žádný bezbožník!</verse>
+        <verse osisID='Job.13.17'>Dobře poslouchejte, co tu vypovím, můj výklad ať vám v uších zní.</verse>
+        <verse osisID='Job.13.18'>Teď jsem připraven vést svou při vědom si toho, že jsem nevinný.</verse>
+        <verse osisID='Job.13.19'>Kdo se to bude se mnou přít? Chci zemřít, když mě umlčí!</verse>
+        <verse osisID='Job.13.20'>Žádám tě, Bože, jenom o dvojí, ať se před tebou skrývat nemusím:</verse>
+        <verse osisID='Job.13.21'>Svou ruku ode mě odtáhni, ať nejsem zastrašen tvými hrůzami.</verse>
+        <verse osisID='Job.13.22'>Potom mě vyzvi, ať se obhájím, anebo začnu mluvit a ty mi odpovíš.</verse>
+        <verse osisID='Job.13.23'>Kolik mám hříchů, kolik vin? Ukaž mi můj zločin a můj hřích!</verse>
+        <verse osisID='Job.13.24'>Proč skrýváš svoji tvář? Proč mě za protivníka pokládáš?</verse>
+        <verse osisID='Job.13.25'>List větrem zmítaný chceš vyděsit, za suchou plevou chceš se hnát,</verse>
+        <verse osisID='Job.13.26'>že na mě sepisuješ hořké žaloby a hříchy mládí že mi přičítáš?</verse>
+        <verse osisID='Job.13.27'>Nohy mi svíráš do klády, na každém kroku na mě dohlížíš, značíš si moje šlápoty!</verse>
+        <verse osisID='Job.13.28'>Člověk se rozpadá jak něco shnilého, jako když roucho žere mol.</verse>
+      </chapter>
+      <chapter osisID='Job.14'>
+        <verse osisID='Job.14.1'>Smrtelník z ženy zrozený má jen pár dnů - a plných trápení.</verse>
+        <verse osisID='Job.14.2'>Jako květ vzejde a uvadne, jako stín prchne, nezastaví se.</verse>
+        <verse osisID='Job.14.3'>Přesto však z něho oči nespouštíš a k soudu s tebou ho poháníš.</verse>
+        <verse osisID='Job.14.4'>Kdo umí nečisté v čisté obrátit? Ani jediný!</verse>
+        <verse osisID='Job.14.5'>Ty jsi mu spočítal jeho dny, počet měsíců jsi mu odměřil, dal jsi mu meze, jež nesmí překročit.</verse>
+        <verse osisID='Job.14.6'>Odvrať svůj pohled, nech ho být, ať si užije život jako nádeník!</verse>
+        <verse osisID='Job.14.7'>Strom, ten má aspoň naději: Když bude poražen, znovu vyraší, nic nezastaví jeho výhonky.</verse>
+        <verse osisID='Job.14.8'>I kdyby jeho kořeny v zemi zpuchřely, i kdyby jeho kmen v prachu tlel,</verse>
+        <verse osisID='Job.14.9'>jen ucítí vodu, vypučí zase, jak mladý stromek větve vyžene.</verse>
+        <verse osisID='Job.14.10'>Člověk však zemře a klesne bezvládně, naposled vydechne - a kam se poděje?</verse>
+        <verse osisID='Job.14.11'>Jako se vypařuje voda z jezer, jako potok vyschne a vyprahne,</verse>
+        <verse osisID='Job.14.12'>právě tak člověk lehne a nevstane; dokud trvá nebe, neprobudí se, nic nepřeruší jeho sen.</verse>
+        <verse osisID='Job.14.13'>Kéž bys mě jen schoval v hrobě, kéž bys mě ukryl, než pomine tvůj hněv, a určil chvíli, kdy na mě vzpomeneš!</verse>
+        <verse osisID='Job.14.14'>Když člověk zemře, copak ožije? Po všechny dny své těžké roboty čekal bych na chvíli té úlevy!</verse>
+        <verse osisID='Job.14.15'>Zavolal bys a já se ti ohlásil, po díle svých rukou by ses roztoužil.</verse>
+        <verse osisID='Job.14.16'>Ačkoli teď mé kroky počítáš, pak už bys na můj hřích nečíhal.</verse>
+        <verse osisID='Job.14.17'>Do měchu zapečetil bys mé přestupky a moje viny přikryl bys.</verse>
+        <verse osisID='Job.14.18'>Jako se však hora na prach rozdrolí, jako se balvan z místa odvalí,</verse>
+        <verse osisID='Job.14.19'>jako voda omílá kamení, jako příval půdu odplaví - takto ty bereš člověku naději!</verse>
+        <verse osisID='Job.14.20'>Když ho napadneš, navždy odchází, strnou mu rysy a ty ho propouštíš.</verse>
+        <verse osisID='Job.14.21'>O slávě svých dětí pak neví nic, nedozví se ani, zda budou nicotní.</verse>
+        <verse osisID='Job.14.22'>Jediné, co cítí, je bolest v těle, v duši oplakává jenom sám sebe."</verse>
+      </chapter>
+      <chapter osisID='Job.15'>
+        <verse osisID='Job.15.1'>Elifaz Temanský mu na to řekl:</verse>
+        <verse osisID='Job.15.2'>"Má mudrc hlásat jalové názory, v nitru se nadouvat větrem východním?</verse>
+        <verse osisID='Job.15.3'>Má se hádat slovy bez smyslu a řečmi bez užitku?</verse>
+        <verse osisID='Job.15.4'>Ty ale ohrožuješ zbožnost a bráníš rozjímání před Bohem!</verse>
+        <verse osisID='Job.15.5'>Tvá ústa totiž vede špatnost a rozhodl ses mluvit prohnaně.</verse>
+        <verse osisID='Job.15.6'>Tvá ústa - ne já - tě odsoudí, usvědčují tě vlastní rty!</verse>
+        <verse osisID='Job.15.7'>Copak ses narodil jako první člověk? Přišel jsi na svět před horami?</verse>
+        <verse osisID='Job.15.8'>To jsi naslouchal Boží tajné radě? Veškerá moudrost patří ti?</verse>
+        <verse osisID='Job.15.9'>Copak víš něco, co my nevíme? Čemu rozumíš, a my ne?</verse>
+        <verse osisID='Job.15.10'>Na naší straně jsou kmeti šediví, i tvého otce předčí věkem svým.</verse>
+        <verse osisID='Job.15.11'>To ti nestačí ta Boží útěcha, nelíbí se ti slova laskavá?</verse>
+        <verse osisID='Job.15.12'>Čím ses tak nechal unést v srdci, co ti tak zatemnilo oči,</verse>
+        <verse osisID='Job.15.13'>že proti Bohu obracíš svůj hněv a z úst vypouštíš takovouto řeč?</verse>
+        <verse osisID='Job.15.14'>Co je člověk? Může snad být čistý? Může být v právu, kdo je z ženy zrozený?</verse>
+        <verse osisID='Job.15.15'>Ani na své anděly se Bůh nespoléhá, ani nebe není ryzí před jeho očima.</verse>
+        <verse osisID='Job.15.16'>Co potom člověk zlý a zkažený, jenž hřeší, jako by vodu pil!</verse>
+        <verse osisID='Job.15.17'>Něco ti povím, poslouchej, to, co jsem viděl, ti budu vyprávět,</verse>
+        <verse osisID='Job.15.18'>to, co hlásají mudrci, když netají, co od svých předků přijali</verse>
+        <verse osisID='Job.15.19'>(země byla dána jenom jim, nikdo cizí k nim tenkrát nepatřil):</verse>
+        <verse osisID='Job.15.20'>Darebák trpí bolestí po všechny své dny, roky tyrana jsou spočteny.</verse>
+        <verse osisID='Job.15.21'>Děsí se toho, co mu v uších zní, když má klid, napadá ho útočník.</verse>
+        <verse osisID='Job.15.22'>Nevěří, že by unikl temnotě, neustále nad ním visí meč.</verse>
+        <verse osisID='Job.15.23'>Bloudí tu jako potrava pro supy, ví, že ho očekává den temnoty.</verse>
+        <verse osisID='Job.15.24'>Úzkost ho svírá, tíseň děsí ho, je jako král, jenž čeká na útok.</verse>
+        <verse osisID='Job.15.25'>To proto, že proti Bohu vztáhl ruku, proti Všemohoucímu se postavil,</verse>
+        <verse osisID='Job.15.26'>tvrdošíjně se vrhl proti němu obrněn svým štítem mohutným.</verse>
+        <verse osisID='Job.15.27'>Svou tvář sice nechal zarůst tukem, sádlem si pokryl slabiny,</verse>
+        <verse osisID='Job.15.28'>bude však bydlet ve zbořených městech, v domech, v kterých se nebydlí, které se rozpadají v sutiny.</verse>
+        <verse osisID='Job.15.29'>Bohatý nezůstane, jeho moc neobstojí, jeho vliv nebude se šířit po zemi.</verse>
+        <verse osisID='Job.15.30'>Takový neunikne temnotě, jeho výhonek plamen sežehne, dech Božích úst ho odvane.</verse>
+        <verse osisID='Job.15.31'>Ať nikdo marně nespoléhá na marnost - prázdnota bude jeho odplatou!</verse>
+        <verse osisID='Job.15.32'>Uschne, než přijde jeho čas, jeho větve se nebudou zelenat.</verse>
+        <verse osisID='Job.15.33'>Bude jak réva, jež ztrácí hrozny nezralé, jako oliva, jež setřásá svůj květ.</verse>
+        <verse osisID='Job.15.34'>Spolek bezbožných je neplodný, stany úplatkářů pohltí plameny.</verse>
+        <verse osisID='Job.15.35'>Počnou trápení a zlo porodí, v jejich nitru se líhnou lsti!"</verse>
+      </chapter>
+      <chapter osisID='Job.16'>
+        <verse osisID='Job.16.1'>Job na to řekl:</verse>
+        <verse osisID='Job.16.2'>"Už jsem těch věcí slyšel přespříliš - jako těšitelé jste ukrutní!</verse>
+        <verse osisID='Job.16.3'>Prý: ‚Kdy už skončí to mluvení do větru?' Nebo: ‚Co tě dráždí ke tvým výlevům?'</verse>
+        <verse osisID='Job.16.4'>I já bych uměl mluvit jako vy, kdybyste na mém místě usedli. Svými řečmi bych vás uměl zahrnout, potřásat nad vámi hlavou svou.</verse>
+        <verse osisID='Job.16.5'>Svými ústy bych vás ale povzbudil, slova mých rtů by byla útěchou.</verse>
+        <verse osisID='Job.16.6'>Mluvím-li, má bolest se nemírní, mlčím-li, v čem se mi uleví?</verse>
+        <verse osisID='Job.16.7'>Teď jsi mě, Bože, opravdu vysílil. Zničils mě i mé nejbližší!</verse>
+        <verse osisID='Job.16.8'>Vrásky na mém těle svědčí proti mně, má vyhublost vstává a obviňuje mě.</verse>
+        <verse osisID='Job.16.9'>Zuřivě drásá mě Bůh, nenávidí mě, můj sok proti mně zuby skřípe, probodává mě pohledem.</verse>
+        <verse osisID='Job.16.10'>Kdekdo si na mě ústa otevře, s posměchem bijí mě do tváře, všichni se srotili proti mně.</verse>
+        <verse osisID='Job.16.11'>Bůh mě dal napospas ničemům, předhodil mě zlosynům.</verse>
+        <verse osisID='Job.16.12'>Žil jsem v poklidu - vtom na mě udeřil, chytil mě za krk a bil a bil! Udělal si ze mě terč,</verse>
+        <verse osisID='Job.16.13'>zasypává mě deštěm střel. Bez milosti mě seká do slabin, mou žluč nechá stříkat po zemi.</verse>
+        <verse osisID='Job.16.14'>Dává mi jeden úder za druhým, vrhá se na mě jako válečník.</verse>
+        <verse osisID='Job.16.15'>Zjizvenou kůži pytlem zakryl jsem, svým čelem ryji zem.</verse>
+        <verse osisID='Job.16.16'>Tvář mi od pláče opuchla, stín smrti mi leží na víčkách.</verse>
+        <verse osisID='Job.16.17'>Já přece nemám na rukou násilí, má modlitba je bez poskvrny!</verse>
+        <verse osisID='Job.16.18'>Země, nepřikrývej moji krev, můj křik ať odpočinku nedojde!</verse>
+        <verse osisID='Job.16.19'>Mám svědka v nebi právě teď, tam nahoře mám svého přímluvce.</verse>
+        <verse osisID='Job.16.20'>Když se mi vysmívají přátelé, k Bohu přes slzy dívám se.</verse>
+        <verse osisID='Job.16.21'>Kéž by se člověk mohl s Bohem přít, jako se lidé přou s přáteli!</verse>
+        <verse osisID='Job.16.22'>Roky mně odměřené se chýlí ke konci, odcházím na cestu, z níž se nevrátím.</verse>
+      </chapter>
+      <chapter osisID='Job.17'>
+        <verse osisID='Job.17.1'>Dech mě opouští, mé dny skončily, jen hřbitov zbývá mi.</verse>
+        <verse osisID='Job.17.2'>Jsou se mnou ale ještě ti posměvači - kvůli jejich zlobě nezamhouřím oči!</verse>
+        <verse osisID='Job.17.3'>Slož za mne záruku, kterou určil jsi - kdo jiný by se za mě zaručil?</verse>
+        <verse osisID='Job.17.4'>Jejich srdce jsi zbavil soudnosti, takovým přece nedáš zvítězit!</verse>
+        <verse osisID='Job.17.5'>Říká se: ‚Kdo zištně zrazuje přátele, zbavuje vlastní děti vyhlídek.'</verse>
+        <verse osisID='Job.17.6'>Bůh ze mě pro všechny udělal přísloví, kdekdo mi plivne do očí.</verse>
+        <verse osisID='Job.17.7'>Oči se mi kalí hořkostí, z mých údů zbývá pouhý stín.</verse>
+        <verse osisID='Job.17.8'>Při pohledu na mě se děsí poctiví, nevinní jsou pobouřeni: ‚Vida, bezbožník!'</verse>
+        <verse osisID='Job.17.9'>Spravedlivý ale jde svou cestou dál, kdo má čisté ruce, se zviklat nenechá.</verse>
+        <verse osisID='Job.17.10'>Nuže, vy všichni, zkuste to znovu - moudrého mezi vámi ale nenajdu!</verse>
+        <verse osisID='Job.17.11'>Mé dny uplynuly i s mými úmysly, touhy mého srdce se zhatily.</verse>
+        <verse osisID='Job.17.12'>Obrátit usilují noc na den, v temnotě říkají: ‚Světlo blíží se!'</verse>
+        <verse osisID='Job.17.13'>Je-li mou nadějí domov ve hrobě, mám-li si ustlat lože v temnotě,</verse>
+        <verse osisID='Job.17.14'>mám-li nazývat jámu otcem svým a červy svou matkou a sestrami -</verse>
+        <verse osisID='Job.17.15'>kde potom bude ta má naděje? Ta má naděje - kdo ji zahlédne?</verse>
+        <verse osisID='Job.17.16'>Sestoupí se mnou do hrobu? Lehneme si spolu do prachu?"</verse>
+      </chapter>
+      <chapter osisID='Job.18'>
+        <verse osisID='Job.18.1'>Bildad Šuchský mu na to řekl:</verse>
+        <verse osisID='Job.18.2'>"Jak dlouho povedeš takovéhle řeči? Promluvíme si, až se zamyslíš.</verse>
+        <verse osisID='Job.18.3'>Jak to, že jsme tu za dobytek? To nás považuješ za tupce?</verse>
+        <verse osisID='Job.18.4'>Tvá vlastní zuřivost drásá tě! Copak se kvůli tobě zboří svět? Zhroutí se skály na místě?</verse>
+        <verse osisID='Job.18.5'>Světlo darebáka uhasne, plamen ohně mu zářit nebude.</verse>
+        <verse osisID='Job.18.6'>Světlo v jeho stanu ve tmu změní se a jeho svíce uhasne.</verse>
+        <verse osisID='Job.18.7'>Jeho rázný krok znejistí, jeho vlastní záměry ho porazí.</verse>
+        <verse osisID='Job.18.8'>Nohama zaplete se do sítě, do oka v chůzi chytí se.</verse>
+        <verse osisID='Job.18.9'>Za patu bude lapen do tenat, zaklapne se nad ním jeho past.</verse>
+        <verse osisID='Job.18.10'>Při zemi na něj číhá smyčka, na stezce na něj čeká léčka.</verse>
+        <verse osisID='Job.18.11'>Odevšad ho děsí hrůzy, lepí se mu na paty.</verse>
+        <verse osisID='Job.18.12'>Hladoví po něm pohroma, neštěstí čeká na jeho pád.</verse>
+        <verse osisID='Job.18.13'>Jeho kůži sžírá choroba, jeho údy hltá rána smrtelná.</verse>
+        <verse osisID='Job.18.14'>Vyrván bude z bezpečí svého stanu, odveden bude ke králi hrůz.</verse>
+        <verse osisID='Job.18.15'>Plameny zaplaví jeho stan, jeho příbytek bude sírou zasypán.</verse>
+        <verse osisID='Job.18.16'>Jeho kořeny uschnou zespoda, nahoře uvadne jeho koruna.</verse>
+        <verse osisID='Job.18.17'>Na zemi po něm nezbude památky, jeho jméno nezazní nikde po kraji.</verse>
+        <verse osisID='Job.18.18'>Ze světla vyženou ho do temna, zapuzen bude ze světa.</verse>
+        <verse osisID='Job.18.19'>Nebude mít v lidu nástupce ani potomka, ve svém domě nezanechá ani živáčka.</verse>
+        <verse osisID='Job.18.20'>Na západě se zhrozí nad jeho osudem i všechny na východě pojme děs:</verse>
+        <verse osisID='Job.18.21'>‚Ach, takový je tedy příbytek zlosyna, domov neznaboha takhle dopadá!'"</verse>
+      </chapter>
+      <chapter osisID='Job.19'>
+        <verse osisID='Job.19.1'>Job na to řekl:</verse>
+        <verse osisID='Job.19.2'>"Jak dlouho budete mou duši trápit a svými řečmi mě ubíjet?</verse>
+        <verse osisID='Job.19.3'>Hanobíte mě už aspoň po desáté - nestydíte se mě urážet?</verse>
+        <verse osisID='Job.19.4'>Pokud jsem opravdu v něčem pochybil, do mé chyby vám není nic.</verse>
+        <verse osisID='Job.19.5'>Pokud se chcete povyšovat nade mne a moji potupu proti mně obracet,</verse>
+        <verse osisID='Job.19.6'>pak vězte, že Bůh mi ublížil - to on na mě hodil svoji síť!</verse>
+        <verse osisID='Job.19.7'>Hle, volám: ‚Násilí!' a nikdo se neozve; křičím o pomoc, a právo nikde.</verse>
+        <verse osisID='Job.19.8'>Cestu mi zazdil - neprojdu, na mé stezky vrhl temnotu.</verse>
+        <verse osisID='Job.19.9'>Mou čest ze mne strhl jako plášť a korunu mi z hlavy sňal.</verse>
+        <verse osisID='Job.19.10'>Boří mě ze všech stran, dokud nezajdu, mou naději vyvrací jako strom z kořenů.</verse>
+        <verse osisID='Job.19.11'>Svým hněvem srší proti mně v domnění, že jsem jeho nepřítel.</verse>
+        <verse osisID='Job.19.12'>V jednom šiku útočí jeho armáda, proti mně vrší dobývací val, můj stan obléhají kolem dokola.</verse>
+        <verse osisID='Job.19.13'>Mým vlastním bratrům mě odcizil, moji známí se ke mně neznají.</verse>
+        <verse osisID='Job.19.14'>Příbuzní i přátelé mě nechali, zapomněli na mě</verse>
+        <verse osisID='Job.19.15'>i hosté mí. I mé služebnice mě mají za cizince, dívají se na mě jako na vetřelce.</verse>
+        <verse osisID='Job.19.16'>Když zavolám sluhu, vůbec se neozve, jakkoli úpěnlivě prosím jej.</verse>
+        <verse osisID='Job.19.17'>Můj dech je odporný i mé manželce, hnusím se své vlastní rodině.</verse>
+        <verse osisID='Job.19.18'>Pohrdají mnou i mládenci - jen co se objevím, nadávají mi.</verse>
+        <verse osisID='Job.19.19'>Spřízněným duším jsem odporný, moji milovaní mě zavrhli.</verse>
+        <verse osisID='Job.19.20'>Nejsem nic než kost a kůže, zbyly mi jen holé dásně.</verse>
+        <verse osisID='Job.19.21'>Smilujte, smilujte se, vy mí přátelé, vždyť Boží ruka bije mě!</verse>
+        <verse osisID='Job.19.22'>Musíte s Bohem na mě pořádat ten hon, nemáte ještě mého masa dost?</verse>
+        <verse osisID='Job.19.23'>Kéž by má slova byla sepsána, kéž by jak nápis byla vyryta</verse>
+        <verse osisID='Job.19.24'>olovem a rydlem železným, kéž by je navždy vytesali do skály!</verse>
+        <verse osisID='Job.19.25'>Můj Vykupitel žije, to jedno vím, a že nakonec se nad prachem postaví.</verse>
+        <verse osisID='Job.19.26'>I kdyby ze mě kůži sedřeli, já ve svém těle Boha uvidím.</verse>
+        <verse osisID='Job.19.27'>Já ho uvidím vlastníma očima, ne někdo cizí, ale já - srdce mi touhou umírá!</verse>
+        <verse osisID='Job.19.28'>Jenže vy říkáte: ‚Jak ho přistihnem? Příčina věci je přece v něm.'</verse>
+        <verse osisID='Job.19.29'>Vy sami ale meče bojte se, vždyť mečem trestá hněv, a tak soud sami poznáte."</verse>
+      </chapter>
+      <chapter osisID='Job.20'>
+        <verse osisID='Job.20.1'>Sofar Naámský mu na to řekl:</verse>
+        <verse osisID='Job.20.2'>"Na tohle musím odpovědět, to přece nejde vydržet!</verse>
+        <verse osisID='Job.20.3'>Když slyším tolik důtek a urážek, můj moudrý duch mi vnuká odpověď:</verse>
+        <verse osisID='Job.20.4'>Víš přece sám, že odjakživa, už co byl člověk na zem postaven,</verse>
+        <verse osisID='Job.20.5'>radost ničemů je velmi krátká, štěstí bezbožných je chvilkové.</verse>
+        <verse osisID='Job.20.6'>I kdyby jeho hrdost k nebi dosáhla a hlavou oblaků se dotýkal,</verse>
+        <verse osisID='Job.20.7'>jak vlastní lejno zmizí napořád - ‚Kam se poděl?' se jeho známí budou ptát.</verse>
+        <verse osisID='Job.20.8'>Jako sen odletí a bude ten tam, bude zapuzen jak noční vidina.</verse>
+        <verse osisID='Job.20.9'>Oko, jež vídalo ho, už ho nespatří, nebude k nalezení ve svém obydlí.</verse>
+        <verse osisID='Job.20.10'>Jeho děti budou muset odškodnit chudáky, vlastníma rukama majetek navrátit.</verse>
+        <verse osisID='Job.20.11'>Mladická síla, jíž měl plné kosti, do prachu ulehne spolu s ním.</verse>
+        <verse osisID='Job.20.12'>I když mu zlo chutná v ústech sladce, i když je chová pod jazykem,</verse>
+        <verse osisID='Job.20.13'>i když je vychutnává, nemá naspěch, i když je převaluje na patře,</verse>
+        <verse osisID='Job.20.14'>v útrobách mu ale ten pokrm zhořkne, promění se mu v hadí jed.</verse>
+        <verse osisID='Job.20.15'>Vše, co spolykal, musí vyzvracet, Bůh mu to bohatství z břicha vyžene.</verse>
+        <verse osisID='Job.20.16'>Bude nasávat hadí jed, jazyk zmijí ho zabije.</verse>
+        <verse osisID='Job.20.17'>Nikdy nezažije proudy oleje, nebude se koupat v medu a smetaně.</verse>
+        <verse osisID='Job.20.18'>To, co ukořistil, vrátí netknuté, neužije to, co získal obchodem.</verse>
+        <verse osisID='Job.20.19'>To proto, že chudákům bořil chýše a zabíral domy, které nestavěl.</verse>
+        <verse osisID='Job.20.20'>Svoji hladovost neuměl utišit, a proto neunikne vlastní chtivosti.</verse>
+        <verse osisID='Job.20.21'>Nezbude nic, co by pohltil, už nepotrvá jeho blahobyt.</verse>
+        <verse osisID='Job.20.22'>Uprostřed nadbytku přijde do úzkých, bída se na něj vrhne ze všech sil.</verse>
+        <verse osisID='Job.20.23'>Zatímco on si břicho cpe, Bůh na něj sešle vroucí hněv - zaplaví ho svým deštěm střel!</verse>
+        <verse osisID='Job.20.24'>Na útěku před železnou zbraní zasažen bude lukem bronzovým.</verse>
+        <verse osisID='Job.20.25'>Ze zad mu náhle trčí šíp a jeho špice se žlučí skví. Kdejaká hrůza ho dostihla,</verse>
+        <verse osisID='Job.20.26'>na jeho poklady čeká černá tma. Pohltí ho oheň, jenž nebyl rozdmýchán, cokoli zůstalo u něj doma, spolyká.</verse>
+        <verse osisID='Job.20.27'>Nebesa odhalí jeho vinu, země se postaví proti němu.</verse>
+        <verse osisID='Job.20.28'>Jeho dům odnese povodeň, proud ho zachvátí v soudný den.</verse>
+        <verse osisID='Job.20.29'>Takový osud dává Bůh ničemům, takové dědictví jim určil Bůh!"</verse>
+      </chapter>
+      <chapter osisID='Job.21'>
+        <verse osisID='Job.21.1'>Job na to řekl:</verse>
+        <verse osisID='Job.21.2'>"Dobře poslouchejte, co tu vypovím - můžete mě utěšit právě tím.</verse>
+        <verse osisID='Job.21.3'>Vydržte, když teď budu mluvit já, potom se zase smíte posmívat.</verse>
+        <verse osisID='Job.21.4'>Copak si stěžuji na člověka? Ztrácím trpělivost jenom tak?</verse>
+        <verse osisID='Job.21.5'>Pohleďte na mě a zděste se, ruku na ústa si položte!</verse>
+        <verse osisID='Job.21.6'>Vždyť i já, když na to pomyslím, celý se třesu zděšením.</verse>
+        <verse osisID='Job.21.7'>Jak to, že ničemové užívají života? Zatímco stárnou, jejich moc narůstá.</verse>
+        <verse osisID='Job.21.8'>Jejich potomkům se daří kolem nich, své ratolesti mají na očích.</verse>
+        <verse osisID='Job.21.9'>V jejich domech je pokoj bez obav, Boží hůl na ně nijak nepadá.</verse>
+        <verse osisID='Job.21.10'>Jejich býk je plodný, nikdy neselže, jejich kráva rodí, o tele nepřijde.</verse>
+        <verse osisID='Job.21.11'>Jejich mladí mají volnost jako beránci,jejich maličcí kolem skotačí.</verse>
+        <verse osisID='Job.21.12'>Zpívají při hře tamburíny a citery, za zvuku píšťaly se veselí.</verse>
+        <verse osisID='Job.21.13'>Ve štěstí tráví svoje dny, do hrobu odcházejí v pokoji.</verse>
+        <verse osisID='Job.21.14'>Bohu však říkají: ‚Nech nás být! O tvých cestách nechceme vědět nic!</verse>
+        <verse osisID='Job.21.15'>Kdo je to ten Všemohoucí? Proč bychom mu sloužili? K čemu by nám asi byly nějaké modlitby?'</verse>
+        <verse osisID='Job.21.16'>(Oni však to své štěstí v moci nemají. Myšlenky ničemů mě míjejí!)</verse>
+        <verse osisID='Job.21.17'>Jak často ale ‚svíce darebáků zhasíná'? Přichází na ně pohroma? Naděluje jim bolesti rozhněvaný Bůh?</verse>
+        <verse osisID='Job.21.18'>Bývají jako sláma ve větru, jako plevy, jež vichr odnesl?</verse>
+        <verse osisID='Job.21.19'>Řeknete: ‚Bůh jeho trest odkládá pro děti.' - Ať raději odplatí jemu, aby se poučil!</verse>
+        <verse osisID='Job.21.20'>Ať vidí svou zkázu vlastníma očima, hněvání Všemohoucího ať vypije si sám!</verse>
+        <verse osisID='Job.21.21'>Bude mu snad potom záležet na rodině, až jeho měsíce dojdou do konce?</verse>
+        <verse osisID='Job.21.22'>Chce tu snad někdo Boha poučit? On přece soudí všechno na nebi!</verse>
+        <verse osisID='Job.21.23'>Jeden umírá v plné síle, v klidu a zcela spokojen,</verse>
+        <verse osisID='Job.21.24'>stehna obalená tukem a kosti morkem nasáklé.</verse>
+        <verse osisID='Job.21.25'>Jiný zas umírá plný hořkosti, aniž kdy okusil, co je blahobyt.</verse>
+        <verse osisID='Job.21.26'>Do prachu však ulehnou jeden jak druhý, oba dva stejně přikryjí červi.</verse>
+        <verse osisID='Job.21.27'>Víte, já znám ty vaše myšlenky - hledáte způsoby, jak mi ublížit.</verse>
+        <verse osisID='Job.21.28'>Říkáte: ‚Kam se poděly ty jejich paláce? Stanům darebáků kde konec je?'</verse>
+        <verse osisID='Job.21.29'>- To jste se nikdy neptali pocestných? Nepřijímáte jejich svědectví?</verse>
+        <verse osisID='Job.21.30'>Vždyť v čase neštěstí je zlosyn ušetřen, v den rozhněvání vyvázne.</verse>
+        <verse osisID='Job.21.31'>Kdo mu jeho způsoby vytkne do očí? Za to, co prováděl, kdo mu odplatí?</verse>
+        <verse osisID='Job.21.32'>Ještě mu pohřeb vystrojí, nad jeho hrobem budou bdít.</verse>
+        <verse osisID='Job.21.33'>Lehká mu bude země pohřební, vždyť za ním kráčí celé procesí a předcházejí ho nesčetní.</verse>
+        <verse osisID='Job.21.34'>Jak mě chcete těšit těmi nesmysly? Vaše odpovědi jsou samé lži!"</verse>
+      </chapter>
+      <chapter osisID='Job.22'>
+        <verse osisID='Job.22.1'>Elifaz Temanský mu na to řekl:</verse>
+        <verse osisID='Job.22.2'>"Má snad Bůh nějaký prospěch z člověka? Že by mu chytrák nějak prospíval?</verse>
+        <verse osisID='Job.22.3'>Copak tvá spravedlnost Všemohoucího zajímá? Žiješ-li bezúhonně, co z toho má?</verse>
+        <verse osisID='Job.22.4'>Že by se o tvou zbožnost s tebou pohádal? Proč by měl s tebou k soudu utíkat?</verse>
+        <verse osisID='Job.22.5'>Tvá špatnost musí být veliká, tvá vina je bezmezná!</verse>
+        <verse osisID='Job.22.6'>Od bratří jsi bezdůvodně zástavu vybíral a nahým svlékals jejich plášť,</verse>
+        <verse osisID='Job.22.7'>žíznivému jsi vodu nedával a hladovému chleba odpíral.</verse>
+        <verse osisID='Job.22.8'>‚Mocnému přece patří svět, uznávaní se v něm umějí zabydlet.'</verse>
+        <verse osisID='Job.22.9'>Vdovy jsi ale s prázdnou pryč posílal a sirotkům jsi drtil ramena.</verse>
+        <verse osisID='Job.22.10'>To proto tě nyní obkličují osidla a náhle tě děsí pohroma,</verse>
+        <verse osisID='Job.22.11'>proto je kolem tebe neprůhledná tma a přikrývá tě záplava.</verse>
+        <verse osisID='Job.22.12'>Copak Bůh není tam v nebi nahoře? Jak vysoko jsou hvězdy - jen se podívej!</verse>
+        <verse osisID='Job.22.13'>Ty ale říkáš: ‚Co Bůh ví? To může soudit přes mraky?</verse>
+        <verse osisID='Job.22.14'>Oblaka cloní jej, takže nevidí, když po nebeské klenbě obchází.'</verse>
+        <verse osisID='Job.22.15'>- To se chceš držet té staré stezky, kterou kráčeli lidé zlí?</verse>
+        <verse osisID='Job.22.16'>Ti byli vyrváni, než přišel jejich čas, jejich základy řeka odnesla.</verse>
+        <verse osisID='Job.22.17'>Bohu říkali: ‚Nech nás být! Co by nám Všemohoucí mohl učinit?'</verse>
+        <verse osisID='Job.22.18'>(Přitom jejich domy blahobytem naplnil. Myšlenky ničemů mě míjejí!)</verse>
+        <verse osisID='Job.22.19'>Spravedliví jejich pád vidí s radostí, nevinní se smějí nad nimi:</verse>
+        <verse osisID='Job.22.20'>‚Hleďme, jejich jmění je to tam, jejich bohatství oheň spolykal!'</verse>
+        <verse osisID='Job.22.21'>Poddej se Bohu a najdeš klid, takto ti vzejde blahobyt.</verse>
+        <verse osisID='Job.22.22'>Z jeho úst přijmi učení, vezmi si k srdci jeho výroky.</verse>
+        <verse osisID='Job.22.23'>K Všemohoucímu když se navrátíš, on tě obnoví! Ze svého stanu vyžeň bezpráví,</verse>
+        <verse osisID='Job.22.24'>své zlato musíš do prachu zahodit, ofirské zlato mezi říční balvany.</verse>
+        <verse osisID='Job.22.25'>Pak bude Všemohoucí zlatem tvým, hromadou stříbra bude ti.</verse>
+        <verse osisID='Job.22.26'>Všemohoucí pak bude tvou rozkoší, až k Bohu tvář svou obrátíš.</verse>
+        <verse osisID='Job.22.27'>Budeš se k němu modlit a on tě vyslyší, své sliby tehdy vyplníš.</verse>
+        <verse osisID='Job.22.28'>Cokoli rozhodneš, obstojí, tvé cesty budou světlem zality.</verse>
+        <verse osisID='Job.22.29'>‚Hlavu vzhůru!' řekneš zkroušeným, a kdo klopí oči, toho Bůh zachrání.</verse>
+        <verse osisID='Job.22.30'>Vysvobodí i toho, kdo není bez viny, vysvobozen bude pro čistotu rukou tvých."</verse>
+      </chapter>
+      <chapter osisID='Job.23'>
+        <verse osisID='Job.23.1'>Job na to řekl:</verse>
+        <verse osisID='Job.23.2'>"I dnes je má žaloba plná trpkosti, jeho ruka mě drtí i přes mé sténání.</verse>
+        <verse osisID='Job.23.3'>Kdybych jen věděl, kde se nachází, k jeho sídlu bych se vypravil.</verse>
+        <verse osisID='Job.23.4'>Před jeho tváří bych vyložil svou při, vznesl bych před ním svoje stížnosti.</verse>
+        <verse osisID='Job.23.5'>Dozvěděl bych se, co mi odpoví, co mi chce říci, bych pochopil.</verse>
+        <verse osisID='Job.23.6'>Bude se ve své veliké moci se mnou přít? Nikoli! On mě jistě vyslyší!</verse>
+        <verse osisID='Job.23.7'>Kdyby se s ním poctivý mohl přít, vyhrál bych svůj soud navždycky.</verse>
+        <verse osisID='Job.23.8'>Jdu-li však na východ, není tam, ani na západě ho nevnímám.</verse>
+        <verse osisID='Job.23.9'>Působí-li na severu, tam ho nevidím, míří-li k jihu, já ho nespatřím.</verse>
+        <verse osisID='Job.23.10'>Zato on zná mé cesty i mé zastávky; ukážu se jako zlato, až mě vyzkouší.</verse>
+        <verse osisID='Job.23.11'>Má noha se přidržela jeho šlépějí, sledoval jsem jeho cestu, nesešel jsem z ní.</verse>
+        <verse osisID='Job.23.12'>Nevzdálil jsem se příkazům jeho rtů, v nitru jsem uchovával výroky jeho úst.</verse>
+        <verse osisID='Job.23.13'>On je však Jediný - kdo ho zadrží? Co se mu zachce, to učiní.</verse>
+        <verse osisID='Job.23.14'>Co o mně rozhodne, to jistě vykoná, jak to prokázal už tolikrát.</verse>
+        <verse osisID='Job.23.15'>Proto jsem před ním vyděšen, když na něj myslím, hrozím se!</verse>
+        <verse osisID='Job.23.16'>Bůh už mé srdce ochromil, Všemohoucí mě vyděsil.</verse>
+        <verse osisID='Job.23.17'>Ještě jsem ale nezmlkl v temnotách, i když mi obličej přikryl mrak.</verse>
+      </chapter>
+      <chapter osisID='Job.24'>
+        <verse osisID='Job.24.1'>Když ‚Všemohoucí neodkládá časy odplaty,' proč ty dny jeho věrní nikdy nevidí?</verse>
+        <verse osisID='Job.24.2'>Jsou takoví, kteří posouvají mezníky a pasou stáda, která ukradli.</verse>
+        <verse osisID='Job.24.3'>Sirotkům odvádějí osla pryč a vdově berou býka do zástavy.</verse>
+        <verse osisID='Job.24.4'>Ubožáky z cesty srážejí, až se chudí skrývají všude po kraji.</verse>
+        <verse osisID='Job.24.5'>Jiní jsou jak divocí osli na poušti, vycházejí za prací, jako by kořist hledali; potravu pro děti shánějí na pláních.</verse>
+        <verse osisID='Job.24.6'>Sklízejí na poli, které jim nepatří, paběrkují na vinicích lidí zlých.</verse>
+        <verse osisID='Job.24.7'>Nocují nazí, oděv nemají, v chladu jim chybí přikrývky.</verse>
+        <verse osisID='Job.24.8'>Horské lijáky je smáčejí, choulí se ke skále, nemají přístřeší.</verse>
+        <verse osisID='Job.24.9'>Jiní zas sirotka od prsu uloupí, vezmou ho chudákům do zástavy.</verse>
+        <verse osisID='Job.24.10'>Ti chodí nazí, oděv nemají, o hladu cizí snopy snášejí.</verse>
+        <verse osisID='Job.24.11'>Vytlačují olej mezi kameny, o žízni šlapou vinný lis.</verse>
+        <verse osisID='Job.24.12'>Sténání umírajících z města zní, raněné duše o pomoc volají - copak to Bohu nevadí?!</verse>
+        <verse osisID='Job.24.13'>Jsou také takoví, kteří se světlu vzpírají, k jeho cestám se neznají a jeho stezek se nedrží.</verse>
+        <verse osisID='Job.24.14'>Vrah vstává, když se zešeří, aby zabíjel ubohé chudáky; jako zloděj se nocí odplíží.</verse>
+        <verse osisID='Job.24.15'>Cizoložné oko soumrak vyhlíží, ‚Nikdo mě neuvidí,' říká si a tvář si rouškou zahalí.</verse>
+        <verse osisID='Job.24.16'>Za tmy se do domů vlamují, ve dne jsou doma zavření; ke světlu se neznají.</verse>
+        <verse osisID='Job.24.17'>Těm všem je temno svítáním, přátelí se totiž s hrůzou tmy.</verse>
+        <verse osisID='Job.24.18'>Ať voda takové rychle odplaví, ať jsou prokleté jejich pozemky, ať nikdo nezamíří k jejich vinicím!</verse>
+        <verse osisID='Job.24.19'>Jako sucho a horko pohltí rozpuštěný sníh, tak ať hrob pohltí ty, kdo hřešili.</verse>
+        <verse osisID='Job.24.20'>Ať na ně zapomene matčin klín, ať jsou pochoutkou pro červy. Ať nikdo nevzpomene na ty zlosyny, ať jsou jak stromy větrem zlomeni.</verse>
+        <verse osisID='Job.24.21'>Ať obcují s neplodnou, která nerodí, vdovu ať opustí bez jmění!</verse>
+        <verse osisID='Job.24.22'>Bůh svojí mocí i silné zachvátí; i při svém postavení si nejsou jistí životy.</verse>
+        <verse osisID='Job.24.23'>Dává jim pocit bezpečné opory, jeho oči však jejich cestu sledují.</verse>
+        <verse osisID='Job.24.24'>Načas se vyvýší, a hned jsou pryč, sníženi budou a jako všichni sklizeni, jako klasy budou skoseni.</verse>
+        <verse osisID='Job.24.25'>Což to tak není? Kdo mě ze lži usvědčí? Kdo moji výpověď může vyvrátit?"</verse>
+      </chapter>
+      <chapter osisID='Job.25'>
+        <verse osisID='Job.25.1'>Bildad Šuchský mu na to řekl:</verse>
+        <verse osisID='Job.25.2'>"Bohu náleží vláda i úcta, on působí pokoj na svých výšinách.</verse>
+        <verse osisID='Job.25.3'>Dá se snad jeho vojsko spočítat? Je někdo, nad kým jeho světlo nevstává?</verse>
+        <verse osisID='Job.25.4'>Může snad člověk být v právu před Bohem? Může být čistý, kdo z ženy zrodil se?</verse>
+        <verse osisID='Job.25.5'>Vždyť ani měsíc dost světla nedává, ani hvězdy nejsou ryzí před jeho očima.</verse>
+        <verse osisID='Job.25.6'>Co potom pouhý lidský červ, smrtelník, jenž je larvě podoben?"</verse>
+      </chapter>
+      <chapter osisID='Job.26'>
+        <verse osisID='Job.26.1'>Job na to řekl:</verse>
+        <verse osisID='Job.26.2'>"Jak pěkně umíš slabému pomoci! Jak jsi bezmocného přímo zachránil!</verse>
+        <verse osisID='Job.26.3'>Jakou radu jsi bláhovému udělil! Jak hluboké pochopení jsi tu projevil!</verse>
+        <verse osisID='Job.26.4'>Komu chceš tyhle řeči vykládat? Jaký duch to z tebe promlouvá?</verse>
+        <verse osisID='Job.26.5'>Mrtví se před Bohem chvějí v hlubinách, pod vodou s těmi, kdo prodlévají tam.</verse>
+        <verse osisID='Job.26.6'>Před ním je nahé samo záhrobí, neskryje se před ním říše záhuby.</verse>
+        <verse osisID='Job.26.7'>On prostírá sever nad prázdnem, zavěšuje zemi na ničem.</verse>
+        <verse osisID='Job.26.8'>On váže vody do oblak, mračno pod nimi se však netrhá.</verse>
+        <verse osisID='Job.26.9'>On zahaluje úplněk, mrakem ho přikrývá jako závojem.</verse>
+        <verse osisID='Job.26.10'>Vykroužil obzor nad vodní hladinou, tam, kde je hranice světla s temnotou.</verse>
+        <verse osisID='Job.26.11'>Nebeské pilíře třesou se, děsí se při jeho pohrůžce.</verse>
+        <verse osisID='Job.26.12'>On svojí mocí moře utišil, netvora rozdrtil svou moudrostí.</verse>
+        <verse osisID='Job.26.13'>Nebe svým dechem rozjasnil, slizkého hada svou rukou poranil.</verse>
+        <verse osisID='Job.26.14'>A to jsou z jeho cest pouhé okraje, jen slabý šepot o něm slyšíme - burácení jeho moci kdo by rozuměl?"</verse>
+      </chapter>
+      <chapter osisID='Job.27'>
+        <verse osisID='Job.27.1'>A Job pokračoval ve své promluvě:</verse>
+        <verse osisID='Job.27.2'>"Při Bohu živém, který mi upřel právo, při Všemohoucím, jenž naplnil mě trpkostí,</verse>
+        <verse osisID='Job.27.3'>přísahám, že dokud je ve mně život, dokud mám v chřípí Boží dýchání,</verse>
+        <verse osisID='Job.27.4'>nevypustím ze rtů žádnou podlost, nebudu mluvit jazykem falešným.</verse>
+        <verse osisID='Job.27.5'>V žádném případě vám nedám za pravdu, své bezúhonnosti se jakživ nezřeknu.</verse>
+        <verse osisID='Job.27.6'>Trvám na své nevině - té se nepustím, po celý život mám čisté svědomí!</verse>
+        <verse osisID='Job.27.7'>Kéž by mí protivníci byli odhaleni jako zlosyni a ti, kdo mě napadají, jako zločinci!</verse>
+        <verse osisID='Job.27.8'>Copak má bezbožný nějakou naději, když ho Bůh zabíjí, obírá o duši?</verse>
+        <verse osisID='Job.27.9'>Copak Bůh vyslyší jeho volání, když na něj přijde soužení?</verse>
+        <verse osisID='Job.27.10'>Copak je Všemohoucí jeho rozkoší? Volá snad k Bohu bez ustání?</verse>
+        <verse osisID='Job.27.11'>Poučil jsem vás o Božím jednání, o Všemohoucím jsem nic netajil.</verse>
+        <verse osisID='Job.27.12'>Vždyť jste to všichni sami viděli - proč tedy mluvíte takové nesmysly:</verse>
+        <verse osisID='Job.27.13'>‚Takový osud dává Bůh ničemům, dědictví, jež Všemohoucí svěřuje tyranům.</verse>
+        <verse osisID='Job.27.14'>I kdyby měl spoustu dětí, všechny čeká meč, chlebem jeho ratolesti nenasytí se.</verse>
+        <verse osisID='Job.27.15'>Pozůstalé po něm pohřbí mor, nebudou oplakáváni od svých vdov.</verse>
+        <verse osisID='Job.27.16'>I kdyby stříbra jak prachu nakupil, i kdyby šatů jak bláta navršil,</verse>
+        <verse osisID='Job.27.17'>spravedlivý oblékne si, co on hromadil, jeho stříbro po něm zdědí nevinný.</verse>
+        <verse osisID='Job.27.18'>Jak pavouk buduje si svůj dům, je ale chatrný jak chýše hlídačů.</verse>
+        <verse osisID='Job.27.19'>Ulehne jako boháč, a je to naposled; když oči otevře, nic mu nezbude.</verse>
+        <verse osisID='Job.27.20'>Hrůzy ho postihnou jako povodeň, uprostřed noci ho vichr odnese.</verse>
+        <verse osisID='Job.27.21'>Východní vítr ho odnese kdovíkam, odvane ho daleko z jeho domova.</verse>
+        <verse osisID='Job.27.22'>Vrhne se na něj beze vší lítosti, právě když bude chtít před ním utéci.</verse>
+        <verse osisID='Job.27.23'>Posměšně zatleská mu svýma rukama, s pískotem vyžene ho z jeho domova.'"</verse>
+      </chapter>
+      <chapter osisID='Job.28'>
+        <verse osisID='Job.28.1'>Stříbro má své naleziště, zlato má místo, kde čistí se.</verse>
+        <verse osisID='Job.28.2'>Železo lidé těží ze země a kámen taví v měď.</verse>
+        <verse osisID='Job.28.3'>Vytlačují tmu za nové hranice, pronikají každou krajní mez, po rudě pátrají v černé tmě.</verse>
+        <verse osisID='Job.28.4'>Šachty razí, kam poutník nezavítá, kam ani nezabloudí noha člověka, spouští se na laně, kde není živáčka.</verse>
+        <verse osisID='Job.28.5'>Země na povrchu skýtá chleba, v jejích hlubinách však sálá žár.</verse>
+        <verse osisID='Job.28.6'>Safír se ukrývá v jejích skalách, blyští se tam zlatý prach.</verse>
+        <verse osisID='Job.28.7'>Stezku tam nezná dravý pták, nespatřilo ji oko jestřába.</verse>
+        <verse osisID='Job.28.8'>Nekráčí po ní pyšná šelma, lev nikdy nezavítá tam.</verse>
+        <verse osisID='Job.28.9'>Lidé však na křemen vztahují ruku, hory vyvracejí z kořenů.</verse>
+        <verse osisID='Job.28.10'>Ve skále dokáží razit štolu, očima pátrají po každém klenotu.</verse>
+        <verse osisID='Job.28.11'>Zahradit umějí prosakující vodu, skryté poklady vynášejí ke světlu.</verse>
+        <verse osisID='Job.28.12'>Kde se však moudrost nalézá? A rozumnost kde přebývá?</verse>
+        <verse osisID='Job.28.13'>Člověk netuší, kudy k ní; nenajde ji na zemi mezi živými.</verse>
+        <verse osisID='Job.28.14'>Propast praví: "Ve mně není." Moře říká: "Nemám ji."</verse>
+        <verse osisID='Job.28.15'>Nedá se pořídit za zlato nejčistší, její cenu nelze stříbrem vyvážit.</verse>
+        <verse osisID='Job.28.16'>Nedá se zaplatit zlatem ofirským, vzácným onyxem ani safíry.</verse>
+        <verse osisID='Job.28.17'>Zlato ani křišťál s ní nelze porovnat, nedá se koupit za šperky ze zlata.</verse>
+        <verse osisID='Job.28.18'>Korál či alabastr za zmínku nestojí, cena moudrosti je nad perly.</verse>
+        <verse osisID='Job.28.19'>Nevyrovnají se jí ani africké topasy, nejryzejším zlatem se nedá zaplatit.</verse>
+        <verse osisID='Job.28.20'>Odkud tedy moudrost vyvěrá? A rozumnost kde přebývá?</verse>
+        <verse osisID='Job.28.21'>Skrytá je očím všech živých na zemi i ptákům na nebi je tajemstvím.</verse>
+        <verse osisID='Job.28.22'>Záhuba i Smrt praví: "Samy jsme o ní jen slyšely."</verse>
+        <verse osisID='Job.28.23'>Jen Bůh rozumí cestě k ní, to on ví, kde se nachází.</verse>
+        <verse osisID='Job.28.24'>On vidí všechny zemské končiny, všechno pod nebem si prohlíží.</verse>
+        <verse osisID='Job.28.25'>Když vítr silou obdařil a vodu mírou odměřil,</verse>
+        <verse osisID='Job.28.26'>když dešti určil cíl a dráhu mrakům bouřkovým,</verse>
+        <verse osisID='Job.28.27'>tehdy ji spatřil a ocenil, prozkoumal ji a potvrdil.</verse>
+        <verse osisID='Job.28.28'>A řekl člověku: "Moudrost je v tom, ctít Hospodina, rozum je v tom, varovat se zla."</verse>
+      </chapter>
+      <chapter osisID='Job.29'>
+        <verse osisID='Job.29.1'>A Job pokračoval ve své promluvě:</verse>
+        <verse osisID='Job.29.2'>"Kéž by mi bylo jako za dávných časů, za dnů, kdy Bůh bděl nade mnou,</verse>
+        <verse osisID='Job.29.3'>kdy jeho lampa svítila nad mou hlavou a v jeho světle jsem chodil tmou!</verse>
+        <verse osisID='Job.29.4'>Jako tenkrát v mém nejlepším věku, kdy Bůh byl mému stanu přítelem,</verse>
+        <verse osisID='Job.29.5'>kdy ještě Všemohoucí býval se mnou a mé děti všude kolem mě.</verse>
+        <verse osisID='Job.29.6'>Tenkrát se mé kroky koupaly ve smetaně, ze skály prýštily mi proudy oleje.</verse>
+        <verse osisID='Job.29.7'>Když jsem chodíval k městské bráně, abych své místo na prostranství zaujal,</verse>
+        <verse osisID='Job.29.8'>mládenci ustupovali, jakmile zahlédli mě, kmeti vstávali mi na pozdrav,</verse>
+        <verse osisID='Job.29.9'>přední mužové své řeči přerušili, ruku si kladli na ústa,</verse>
+        <verse osisID='Job.29.10'>hlasy hodnostářů umlkaly, jazyk jim přilnul na patra.</verse>
+        <verse osisID='Job.29.11'>Kdo mě uslyšel, ten mi blahořečil, kdo jen mě zahlédl, chválil mě,</verse>
+        <verse osisID='Job.29.12'>chudáka v jeho křiku že vysvobozuji a také sirotka, jenž nemá zastánce.</verse>
+        <verse osisID='Job.29.13'>Snášela se na mě žehnání umírajících, vdově jsem vracel radost do srdce.</verse>
+        <verse osisID='Job.29.14'>Jak šatem jsem se halil spravedlností, právo mi bylo pláštěm i turbanem.</verse>
+        <verse osisID='Job.29.15'>Byl jsem očima pro slepé a nohama pro chromé,</verse>
+        <verse osisID='Job.29.16'>otcem jsem býval pro chudé, zasazoval se o právo cizince.</verse>
+        <verse osisID='Job.29.17'>Zlosynům jsem uměl zuby zvyrážet z čelistí jsem jim vyrval úlovek.</verse>
+        <verse osisID='Job.29.18'>Říkal jsem si: ‚Umřu v rodinném hnízdě, až mých dnů bude jak písku u moře.</verse>
+        <verse osisID='Job.29.19'>Mé kořeny budou sahat až k vodě, rosa bude nocovat v mé koruně.</verse>
+        <verse osisID='Job.29.20'>Má sláva stále čerstvá zůstane, můj luk stále pevný v ruce mé.'</verse>
+        <verse osisID='Job.29.21'>Naslouchali mi napjatě, tiše očekávali rady mé.</verse>
+        <verse osisID='Job.29.22'>Neměli co dodat po mém slově, má řeč je svlažovala jako krůpěje.</verse>
+        <verse osisID='Job.29.23'>Čekávali na mě jak na déšť, na jarní vláhu čekali dychtivě.</verse>
+        <verse osisID='Job.29.24'>Když jsem se usmál na ně, nemohli uvěřit, světlo mé tváře nechtěli zaplašit.</verse>
+        <verse osisID='Job.29.25'>Sedal jsem v jejich čele a udával jim směr, žil jsem jako král ve své družině, jako ten, kdo těší truchlivé.</verse>
+      </chapter>
+      <chapter osisID='Job.30'>
+        <verse osisID='Job.30.1'>Teď se mi ale vysmívají ti, kdo jsou mladší nežli já - ti, jejichž otcům bych býval nesvěřil ani ovčáckého psa!</verse>
+        <verse osisID='Job.30.2'>Síla jejich rukou k čemu mi může být? Jejich zmužilost je dávno pryč.</verse>
+        <verse osisID='Job.30.3'>Nouzí a hladem vyzáblí vyprahlou zemí se toulají, nocí zkázy a pustoty.</verse>
+        <verse osisID='Job.30.4'>Mezi křovím sbírají listy lebedy, kořínky jalovce se chtějí nasytit.</verse>
+        <verse osisID='Job.30.5'>Lidé je ze svého středu vyhnali, křičí za nimi jak za zloději.</verse>
+        <verse osisID='Job.30.6'>Ve strmých roklích bydlet musejí, v děrách do země a v jeskyních.</verse>
+        <verse osisID='Job.30.7'>Hýkají jako osli ve křoví, spolu se choulí pod kopřivy -</verse>
+        <verse osisID='Job.30.8'>hlupáci, kteří ani jméno nemají, kteří jsou ze země bičem vyhnáni!</verse>
+        <verse osisID='Job.30.9'>Teď ale o mně skládají písničky, stal jsem se pro ně příslovím.</verse>
+        <verse osisID='Job.30.10'>Už zdálky jsem jim odporný, plivat do tváře se mi nestydí.</verse>
+        <verse osisID='Job.30.11'>Když Bůh můj provaz potupně povolil, i oni odhodili všechny zábrany.</verse>
+        <verse osisID='Job.30.12'>Lůza povstává po mé pravici, nohy mi chtějí podrazit, připravují cesty, aby mě zničili.</verse>
+        <verse osisID='Job.30.13'>Mou stezku rozkopali, na mojí zkáze pracují a nikdo jim v tom nebrání.</verse>
+        <verse osisID='Job.30.14'>Širokou průrvou pronikají, jak záplava se valí troskami.</verse>
+        <verse osisID='Job.30.15'>Všechny ty hrůzy se na mě vrhly, mou důstojnost jako by vichr uchvátil, jak oblak rozplynulo se mé bezpečí.</verse>
+        <verse osisID='Job.30.16'>Teď už mě ale duše opouští, zmocňují se mě dny soužení.</verse>
+        <verse osisID='Job.30.17'>Bůh ve mně v noci drtí kosti, bolest mě sžírá, nedá se utišit.</verse>
+        <verse osisID='Job.30.18'>Ohromnou silou mě drží za šaty, v límci košile chce mě uškrtit.</verse>
+        <verse osisID='Job.30.19'>Do bláta mě odmrštil, prachu a popelu jsem podobný.</verse>
+        <verse osisID='Job.30.20'>Křičím k tobě, a ty neodpovídáš; stojím tu, a ty jen přihlížíš.</verse>
+        <verse osisID='Job.30.21'>Proměnil ses mi v ukrutníka, veškerou silou na mě útočíš.</verse>
+        <verse osisID='Job.30.22'>Vysoko ve větru mě unášíš, smýkáš mnou v hrozné vichřici.</verse>
+        <verse osisID='Job.30.23'>Vedeš mě na smrt, to jistě vím - do domu určeného všem živým.</verse>
+        <verse osisID='Job.30.24'>Na zhrouceného přece nikdo ruku nevztáhne, když volá o pomoc ve své pohromě.</verse>
+        <verse osisID='Job.30.25'>Copak jsem nad ubožákem neplakal? Neměl jsem soucit pro chudáka?</verse>
+        <verse osisID='Job.30.26'>Když jsem však čekal dobro, přišlo zlo, namísto světla mě temno přepadlo.</verse>
+        <verse osisID='Job.30.27'>Mé nitro bouří, nedá se utišit, dostihly mě dny soužení.</verse>
+        <verse osisID='Job.30.28'>Nevidím slunce, chodím ve chmurách, přede všemi vstávám a naříkám.</verse>
+        <verse osisID='Job.30.29'>Mé vytí připomíná šakaly, vydávám skřeky se pštrosy.</verse>
+        <verse osisID='Job.30.30'>Kůže na těle mi zčernala, v kostech mi plane horečka.</verse>
+        <verse osisID='Job.30.31'>Truchlivě zvučí moje citera, z mé píšťaly se line pláč.</verse>
+      </chapter>
+      <chapter osisID='Job.31'>
+        <verse osisID='Job.31.1'>Vstoupil jsem do smlouvy se svýma očima, že se nebudu dívat po dívkách.</verse>
+        <verse osisID='Job.31.2'>Vždyť jaký úděl Bůh z nebe udílí, jaké dává Všemohoucí shůry dědictví,</verse>
+        <verse osisID='Job.31.3'>ne-li neštěstí pro zlosyna, ne-li pohromu pachatelům zla?</verse>
+        <verse osisID='Job.31.4'>Copak Bůh nehledí na mé cesty, copak nepočítá všechny mé kroky?</verse>
+        <verse osisID='Job.31.5'>Jestli jsem v životě jednal falešně, jestli jsem kdy pospíchal konat lest -</verse>
+        <verse osisID='Job.31.6'>pak ať mě Bůh zváží na váze poctivé, ať se ubezpečí o mé nevině!</verse>
+        <verse osisID='Job.31.7'>Jestli má noha z cesty zabloudila, jestli mé srdce odešlo za očima, jestli mi na rukou špína ulpěla -</verse>
+        <verse osisID='Job.31.8'>pak ať co zaseji, sní někdo jiný, ať jsou mé ratolesti vykořeněny!</verse>
+        <verse osisID='Job.31.9'>Jestli jsem se v srdci dal něčí ženou svést, jestli jsem číhal u dveří přítele -</verse>
+        <verse osisID='Job.31.10'>pak ať má žena pro jiného mele, ať s ní jdou jiní do postele!</verse>
+        <verse osisID='Job.31.11'>Byl by to přece zvrhlý zločin, byl by to trestuhodný hřích,</verse>
+        <verse osisID='Job.31.12'>byl by to oheň k záhubě spalující, vykořenil by vše, co pěstuji!</verse>
+        <verse osisID='Job.31.13'>Copak jsem svému služebníku odepřel právo nebo své služebnici, když měli se mnou spor?</verse>
+        <verse osisID='Job.31.14'>Co bych si pak počal Bohu tváří v tvář? Co bych mu odpověděl, až se mě bude ptát?</verse>
+        <verse osisID='Job.31.15'>Nestvořil je v břiše Ten, který stvořil mě? Nezformoval nás jeden a týž v lůně matčině?</verse>
+        <verse osisID='Job.31.16'>Copak jsem nevnímal potřeby chudých, nechal jsem pohasínat oči vdovy?</verse>
+        <verse osisID='Job.31.17'>Copak jsem jedl svůj chléb sám a sirotkům z něj nedával?</verse>
+        <verse osisID='Job.31.18'>Od mého mládí u mě jak u otce vyrůstal, od svého dětství jsem vdovám pomáhal.</verse>
+        <verse osisID='Job.31.19'>Copak jsem přihlížel, jak někdo zmírá bez šatů, jak ubožák nemá ani přikrývku?</verse>
+        <verse osisID='Job.31.20'>Copak mi takový ze srdce nežehnal, když se vlnou mých ovcí zahříval?</verse>
+        <verse osisID='Job.31.21'>Jestli má ruka někdy napadla sirotka, protože jsem viděl, že soud na mě dá -</verse>
+        <verse osisID='Job.31.22'>pak ať mi vyrvou paži z ramena, ať je má ruka v lokti zlomena!</verse>
+        <verse osisID='Job.31.23'>Božího trestu jsem se přece bál, před jeho vznešeností bych neobstál!</verse>
+        <verse osisID='Job.31.24'>Copak jsem snad kdy doufal ve zlato, nazýval jsem drahý kov svou jistotou?</verse>
+        <verse osisID='Job.31.25'>Copak mě těšilo, jak velké jmění mám a kolik toho svou rukou vydělám?</verse>
+        <verse osisID='Job.31.26'>Copak jsem obdivoval zářící slunce a měsíc putující ve své nádheře,</verse>
+        <verse osisID='Job.31.27'>takže bych se v srdci dal tajně svést a rukou jim od úst poslal polibek?</verse>
+        <verse osisID='Job.31.28'>I to by byl přece trestuhodný hřích, zrazoval bych tím Boha na nebi!</verse>
+        <verse osisID='Job.31.29'>Copak mě těšilo neštěstí nepřítele, copak jsem jásal, když se mu vedlo zle?</verse>
+        <verse osisID='Job.31.30'>Svá ústa jsem nikdy nenechal hřešit tím, že bych na něj svolával kletby.</verse>
+        <verse osisID='Job.31.31'>Copak si mí domácí museli stěžovat: ‚Kéž by nám dal trochu masa; máme hlad'?</verse>
+        <verse osisID='Job.31.32'>Vždyť ani cizinec nemusel venku nocovat, své dveře jsem pocestnému otvíral dokořán.</verse>
+        <verse osisID='Job.31.33'>Copak jsem jako Adam skrýval své přestupky? Chtěl jsem svou vinu v srdci utajit?</verse>
+        <verse osisID='Job.31.34'>Měl jsem snad strach před hlučícím davem, bál jsem se posměchu svého kmene, takže jsem mlčel a ani nevycházel ven?</verse>
+        <verse osisID='Job.31.35'>Kéž by mi někdo poskytl slyšení! Zde je můj podpis. Ať mi Všemohoucí odpoví! Ať můj žalobce předloží svůj spis!</verse>
+        <verse osisID='Job.31.36'>Rád ho budu nosit na vlastních ramenou, ozdobím se jím jako korunou!</verse>
+        <verse osisID='Job.31.37'>Všechny své kroky před ním rád vypovím, předstoupím před něj jako princ!</verse>
+        <verse osisID='Job.31.38'>Jestli má půda křičí proti mně a její brázdy pláčí společně,</verse>
+        <verse osisID='Job.31.39'>jestli jsem její plody jedl bezplatně a mořil její nájemce -</verse>
+        <verse osisID='Job.31.40'>pak ať mi vzejde bodláčí místo pšenice a plevel místo ječmene!" Zde Jobova řeč končí.</verse>
+      </chapter>
+      <chapter osisID='Job.32'>
+        <verse osisID='Job.32.1'>Ti tři muži už přestali Jobovi odpovídat, protože se stále považoval za spravedlivého.</verse>
+        <verse osisID='Job.32.2'>Avšak Elihu, syn Barachela Buzského z rodu Ramova, vzplanul proti Jobovi hněvem. Hrozně se rozhněval, že se Job považuje za spravedlivějšího než Bůh.</verse>
+        <verse osisID='Job.32.3'>Rozhněval se i na jeho tři přátele, že mu neuměli odpovědět tak, aby Joba usvědčili.</verse>
+        <verse osisID='Job.32.4'>Dokud mluvili s Jobem, Elihu čekal, protože byli starší než on.</verse>
+        <verse osisID='Job.32.5'>Když ale viděl, že ti tři muži už nemají co odpovědět, vzplanul hněvem.</verse>
+        <verse osisID='Job.32.6'>Elihu, syn Barachela Buzského tehdy řekl: "Já jsem jen mladík a vy jste kmeti, proto jsem byl dosud nesmělý, bál jsem se říci vám své mínění.</verse>
+        <verse osisID='Job.32.7'>Říkal jsem si: ‚Ať mluví starší, dříve narození ať učí moudrosti.'</verse>
+        <verse osisID='Job.32.8'>Vše ale na duchu v člověku záleží, dech Všemohoucího dává chápání.</verse>
+        <verse osisID='Job.32.9'>Dříve narození nejsou vždy moudřejší, starší nemusejí mít nejlepší úsudky.</verse>
+        <verse osisID='Job.32.10'>A proto říkám: Naslouchejte mi, teď zas já vyslovím své mínění.</verse>
+        <verse osisID='Job.32.11'>Dokud jste mluvili, já jsem čekal, pečlivě jsem naslouchal vašim úvahám. Dokud jste hledali správná slova,</verse>
+        <verse osisID='Job.32.12'>pozorně jsem vás sledoval. Joba však nikdo z vás usvědčit neuměl, nikdo jste pro něj nenašli odpověď.</verse>
+        <verse osisID='Job.32.13'>Jen neříkejte: ‚Našli jsme moudré řešení, Bůh, a ne člověk ať ho usvědčí!'</verse>
+        <verse osisID='Job.32.14'>Jobovy řeči mi nebyly určeny, já bych však neodpovídal jako vy.</verse>
+        <verse osisID='Job.32.15'>Zaraženi jsou, bez odpovědi, nemají, co by k tomu dodali!</verse>
+        <verse osisID='Job.32.16'>To mám čekat dál, když už nic neříkají, když stojí na místě, odpověď nemají?</verse>
+        <verse osisID='Job.32.17'>Je tedy řada na mně, já teď promluvím, teď zas já vyslovím své mínění.</verse>
+        <verse osisID='Job.32.18'>Jsem totiž přímo přeplněný slovy, duch mi roztahuje všechny vnitřnosti.</verse>
+        <verse osisID='Job.32.19'>Jak víno bez průduchu jsou mé útroby, jak nové měchy plné k prasknutí.</verse>
+        <verse osisID='Job.32.20'>Musím promluvit, abych si ulevil, otevřu ústa a odpovím!</verse>
+        <verse osisID='Job.32.21'>Nikomu jistě nebudu stranit, nikomu nechci lichotit.</verse>
+        <verse osisID='Job.32.22'>Lichotit totiž ani neumím - to by mě můj Stvořitel rychle odstranil!</verse>
+      </chapter>
+      <chapter osisID='Job.33'>
+        <verse osisID='Job.33.1'>Tak tedy, Jobe, slyš mou řeč, všemu, co říkám, dobře naslouchej.</verse>
+        <verse osisID='Job.33.2'>Pozor, už ústa otvírám, slova mi začínají proudit z jazyka.</verse>
+        <verse osisID='Job.33.3'>Z upřímného srdce má řeč pramení, mé rty vyjevují čisté poznání.</verse>
+        <verse osisID='Job.33.4'>Duch Boží mě přece učinil, dech Všemohoucího mě oživil.</verse>
+        <verse osisID='Job.33.5'>Odpověz mi, pokud to dokážeš, předlož mi svou při, postav se!</verse>
+        <verse osisID='Job.33.6'>Hle, jsem ti rovný před Bohem, i já jsem přece z hlíny uhněten.</verse>
+        <verse osisID='Job.33.7'>Nelekej se mě tedy a neměj strach, nebudu na tebe silně naléhat.</verse>
+        <verse osisID='Job.33.8'>Na vlastní uši jsem tě slyšel říct, co jsi v mé přítomnosti prohlásil:</verse>
+        <verse osisID='Job.33.9'>‚Jsem zcela ryzí, nijak jsem nechybil, jsem nevinný a nemám hřích.</verse>
+        <verse osisID='Job.33.10'>Bůh však proti mně hledá záminky - myslí si, že jsem jeho protivník.</verse>
+        <verse osisID='Job.33.11'>Nohy mi svírá do klády, na každém kroku na mě dohlíží!'</verse>
+        <verse osisID='Job.33.12'>V tom se však mýlíš, to ti povídám, Bůh přece převyšuje člověka!</verse>
+        <verse osisID='Job.33.13'>Proč si tedy na něj stěžuješ, že nedává na vše odpověď?</verse>
+        <verse osisID='Job.33.14'>Bůh totiž mluví jednou i podruhé, člověk to ale sotva postřehne.</verse>
+        <verse osisID='Job.33.15'>Ve spánku, v noční vidině, když lidi zmáhá těžký sen, když na lůžku leží v dřímotě,</verse>
+        <verse osisID='Job.33.16'>tehdy Bůh lidem otevírá uši a svými hrozbami je děsí.</verse>
+        <verse osisID='Job.33.17'>To aby člověka od skutku odvrátil, aby mu v jeho pýše zabránil,</verse>
+        <verse osisID='Job.33.18'>aby jeho duši uchránil od jámy, aby jeho život nepronikl šíp.</verse>
+        <verse osisID='Job.33.19'>Anebo ho na lůžku trestá bolestí, takže má v kostech stálé hlodání,</verse>
+        <verse osisID='Job.33.20'>až se mu pokrm k smrti protiví a ztratí pomyšlení i na pochoutky.</verse>
+        <verse osisID='Job.33.21'>Hubne tak, že z očí ztrácí se, dříve skryté kosti vystupují ven.</verse>
+        <verse osisID='Job.33.22'>Jeho duše naklání se do jámy, vykročil poslům smrti vstříc.</verse>
+        <verse osisID='Job.33.23'>Bude-li však anděl při tom člověku, prostředník, jeden z tisíců, který prohlásí jeho nevinu,</verse>
+        <verse osisID='Job.33.24'>smiluje se nad ním a řekne: ‚Vysvoboď jej, Bože, ať do jámy neklesne, nalezl jsem za něj výkupné!'</verse>
+        <verse osisID='Job.33.25'>Jeho tělo se pak jako dítě uzdraví, do dnů svého mládí se náhle navrátí.</verse>
+        <verse osisID='Job.33.26'>Bude se modlit k Bohu a on si ho oblíbí, znovu spatří jeho tvář s jásáním a Bůh mu navrátí jeho blahobyt.</verse>
+        <verse osisID='Job.33.27'>A tehdy vyjde k lidem se slovy: ‚Hřešil jsem a právo převrátil, nedostal jsem však, co jsem zasloužil.</verse>
+        <verse osisID='Job.33.28'>Bůh mě vykoupil, abych nešel do jámy, uvidím světlo a budu žít!'</verse>
+        <verse osisID='Job.33.29'>Toto vše tedy dělá Bůh dvakrát i třikrát při člověku,</verse>
+        <verse osisID='Job.33.30'>aby jeho duši odvrátil od jámy, ve světle živých aby mohl žít.</verse>
+        <verse osisID='Job.33.31'>Dej pozor, Jobe, naslouchej mi, mlč a já promluvím.</verse>
+        <verse osisID='Job.33.32'>Máš-li co říci, odpověz mi, mluv - chtěl bych tě obhájit!</verse>
+        <verse osisID='Job.33.33'>Pokud ne, potom naslouchej mi, mlč a já tě moudře poučím."</verse>
+      </chapter>
+      <chapter osisID='Job.34'>
+        <verse osisID='Job.34.1'>A Elihu mluvil dál:</verse>
+        <verse osisID='Job.34.2'>"Slyšte má slova, mudrci, vy znalci, naslouchejte mi.</verse>
+        <verse osisID='Job.34.3'>Vždyť ucho umí rozlišovat slova, jako umí jazyk pokrm ochutnat.</verse>
+        <verse osisID='Job.34.4'>Rozhodněme sami, co je správné, co je dobré, tu spolu posuďme.</verse>
+        <verse osisID='Job.34.5'>Job prohlašuje: ‚Jsem nevinen, a Bůh mi právo odepřel.</verse>
+        <verse osisID='Job.34.6'>I když jsem poctivý, jsem brán za lháře, mé rány se nehojí, ač jsem nic neproved!'</verse>
+        <verse osisID='Job.34.7'>Je snad Jobovi někdo podobný? Rouhá se, jako by vodu pil!</verse>
+        <verse osisID='Job.34.8'>Dává se do spolku se zločinci, řadí se mezi ničemy!</verse>
+        <verse osisID='Job.34.9'>Vždyť říká: ‚Člověku není k ničemu usilovat o Boží oblibu!'</verse>
+        <verse osisID='Job.34.10'>Ať mě slyší každý, kdo rozum má: Bůh přece nic zlého nedělá, Všemohoucímu je křivda vzdálená.</verse>
+        <verse osisID='Job.34.11'>Každému ovšem jeho skutky odplácí, chová se k lidem, jak si kdo zaslouží.</verse>
+        <verse osisID='Job.34.12'>Bůh v žádném případě nebude jednat zle, Všemohoucí nemůže právo převracet.</verse>
+        <verse osisID='Job.34.13'>Kdo mu asi svěřil zem? Kdo mu předal celý svět?</verse>
+        <verse osisID='Job.34.14'>Kdyby ho jen tak napadlo svůj dech, svého ducha odejmout,</verse>
+        <verse osisID='Job.34.15'>všechno živé by rázem pomřelo, lidstvo by se bylo do prachu vrátilo!</verse>
+        <verse osisID='Job.34.16'>Máš-li tedy rozum, poslouchej, na moje slova pozor dej:</verse>
+        <verse osisID='Job.34.17'>Jak by mohl vládnout ten, kdo právo nesnáší? Chceš snad Mocného a Spravedlivého odsoudit?</verse>
+        <verse osisID='Job.34.18'>Vždyť on i králi řekne: ‚Jsi ničemník!' a šlechticům: ‚Vy zločinci!'</verse>
+        <verse osisID='Job.34.19'>On ani knížatům nestraní, nestaví velmože před nuzáky - dílo jeho rukou jsou jeden jak druhý!</verse>
+        <verse osisID='Job.34.20'>Uprostřed noci náhle umírají, i mocní se zachvějí a musí pryč, odstraněni jsou bez lidské pomoci.</verse>
+        <verse osisID='Job.34.21'>Očima sleduje cesty všech lidí, každý jejich krok on dobře vidí.</verse>
+        <verse osisID='Job.34.22'>Není temnoty a není příšeří, kde by se zločinci před ním schovali.</verse>
+        <verse osisID='Job.34.23'>Bůh nemusí shromažďovat další důkazy, aby se k němu člověk na soud dostavil.</verse>
+        <verse osisID='Job.34.24'>Mocné rozdrtí bez ptaní, jiné pak dosadí místo nich.</verse>
+        <verse osisID='Job.34.25'>O jejich skutcích dobře ví, v noci je svrhne, a jsou zničeni.</verse>
+        <verse osisID='Job.34.26'>Ztrestá je za jejich zločiny veřejně a všem na očích.</verse>
+        <verse osisID='Job.34.27'>To proto, že od něj odešli a na jeho cesty vůbec nedbali.</verse>
+        <verse osisID='Job.34.28'>Křik chudých kvůli nim k Bohu vystoupil a on vyslýchá křik ubohých.</verse>
+        <verse osisID='Job.34.29'>Když ale mlčí, kdo ho odsoudí? Když skryje svou tvář, kdo ho uvidí? On přitom bdí nad lidmi i národy,</verse>
+        <verse osisID='Job.34.30'>tak aby bezbožní vládnout nemohli a nesváděli lidi do pasti.</verse>
+        <verse osisID='Job.34.31'>Co kdybys tedy Bohu pověděl: ‚Zhřešil jsem, už se to nestane;</verse>
+        <verse osisID='Job.34.32'>pokud co nevidím, prosím pouč mne, a pokud jsem křivdil, bylo to naposled.'</verse>
+        <verse osisID='Job.34.33'>Má snad Bůh odplácet podle tebe, když se ti to nelíbí podle něj? Ty sám si vyber, ne já za tebe, pověz nám, co ses dozvěděl!</verse>
+        <verse osisID='Job.34.34'>Všichni rozumní mi to potvrdí i moudří mě slyší a souhlasí:</verse>
+        <verse osisID='Job.34.35'>Job vůbec neví, o čem hovoří, v jeho slovech není špetka soudnosti!</verse>
+        <verse osisID='Job.34.36'>Jen ať je Job zkoušen ještě víc, vždyť tu odpovídá jako hanebník!</verse>
+        <verse osisID='Job.34.37'>Vždyť jenom vrší jeden hřích na druhý, šíří mezi námi pochyby a mluví proti Bohu víc a víc!"</verse>
+      </chapter>
+      <chapter osisID='Job.35'>
+        <verse osisID='Job.35.1'>A Elihu mluvil dál:</verse>
+        <verse osisID='Job.35.2'>"Myslíš si, že máš právo říkat: ‚Jsem spravedlivější než Bůh'?</verse>
+        <verse osisID='Job.35.3'>Říkáš totiž, co prý tím získáš: ‚Co z toho mám, být bez hříchu?'</verse>
+        <verse osisID='Job.35.4'>Na tyhle řeči ti tedy odpovídám a s tebou i tvým přátelům:</verse>
+        <verse osisID='Job.35.5'>Podívej se k nebi, jen pohlédni, pozoruj mraky - jsou vyšší, než jsi ty.</verse>
+        <verse osisID='Job.35.6'>Když budeš hřešit, co mu způsobíš? Když rozmnožíš své viny, jak mu ublížíš?</verse>
+        <verse osisID='Job.35.7'>Když budeš spravedlivý, jak ho tím obdaříš? Co by si od tebe mohl vzít?</verse>
+        <verse osisID='Job.35.8'>Tvá ničemnost škodí člověku jako ty, tvou spravedlnost pocítí jen smrtelník!</verse>
+        <verse osisID='Job.35.9'>Lidé úpějí pod hrozným útlakem, pod vládou mocných křičí o pomoc.</verse>
+        <verse osisID='Job.35.10'>Nikdo však neptá se: ‚Co Bůh, můj Stvořitel, který písněmi rozeznívá noc,</verse>
+        <verse osisID='Job.35.11'>který nás vyučuje i skrze dobytek a který nám na ptácích ukazuje moudrost?'</verse>
+        <verse osisID='Job.35.12'>Když tedy volají a on se nehlásí, je to pro zpupnost těch lidí zlých.</verse>
+        <verse osisID='Job.35.13'>Je to marné, Bůh je neslyší, Všemohoucí je pomíjí!</verse>
+        <verse osisID='Job.35.14'>Co teprve, říkáš-li, že ho nikde nevnímáš, že tvá pře leží u něj a ty na něj čekáš,</verse>
+        <verse osisID='Job.35.15'>že prý ve svém hněvu nikdy netrestá a že se o ničemnost vůbec nestará!</verse>
+        <verse osisID='Job.35.16'>Job si tu však otevírá ústa naprázdno - mluví dál a dál, a přitom neví co!"</verse>
+      </chapter>
+      <chapter osisID='Job.36'>
+        <verse osisID='Job.36.1'>A Elihu pokračoval dál:</verse>
+        <verse osisID='Job.36.2'>"Měj se mnou trochu strpení a povím ti, co lze v Boží prospěch ještě říct.</verse>
+        <verse osisID='Job.36.3'>Z veliké dálky přináším poznání, svého Stvořitele tu obhájím.</verse>
+        <verse osisID='Job.36.4'>Má slova opravdu nejsou žádné lži, máš tu člověka skvělých znalostí.</verse>
+        <verse osisID='Job.36.5'>Hle, Bůh je mocný a není váhavý, je mocný a v srdci rozhodný.</verse>
+        <verse osisID='Job.36.6'>Ničemy jistě nenechává žít, k právu pomáhá ubohým.</verse>
+        <verse osisID='Job.36.7'>Neodvrací zrak od poctivých, na trůn je s králi posadí, aby je povýšil až navěky.</verse>
+        <verse osisID='Job.36.8'>Jsou-li však spoutáni řetězy, v provazech bídy jsou-li chyceni,</verse>
+        <verse osisID='Job.36.9'>tehdy jim ukazuje, co provedli, čím se provinili a jak zpyšněli.</verse>
+        <verse osisID='Job.36.10'>Otevírá jim uši, aby je poučil, říká jim, že se mají od zla odvrátit.</verse>
+        <verse osisID='Job.36.11'>Pokud poslechnou a budou mu sloužit, dožijí své dny ve štěstí, svá léta v samé radosti.</verse>
+        <verse osisID='Job.36.12'>Pokud však neposlechnou, zahubí je šíp, zahynou vlastní nevědomostí.</verse>
+        <verse osisID='Job.36.13'>Bezbožní ve svém srdci hněv si střádají, o pomoc nevolají ani spoutáni řetězy.</verse>
+        <verse osisID='Job.36.14'>Uprostřed mládí proto zmírají, končí svůj život mezi smilníky.</verse>
+        <verse osisID='Job.36.15'>Bůh zachraňuje ubohé jejich bídami, otevírá jim uši soužením.</verse>
+        <verse osisID='Job.36.16'>Ano, i tebe zve zprostřed úzkosti do nekonečné svobody, ke stolu obtíženému jídlem nejlepším.</verse>
+        <verse osisID='Job.36.17'>Ty jsi však obtížen soudem ničemných, soud a spravedlnost se tě zmocňují!</verse>
+        <verse osisID='Job.36.18'>Pozor, ať se nedáš zlákat hojností, ať tě nesvádějí veliké úplatky.</verse>
+        <verse osisID='Job.36.19'>Myslíš, že ti bohatství pomůže z úzkosti, ať už se snažíš sebevíc?</verse>
+        <verse osisID='Job.36.20'>Nedychti po noci, kdy lidé mizí ze svých míst.</verse>
+        <verse osisID='Job.36.21'>Neopovažuj se ke zlu obrátit, i když se ti líbí víc než strádání!</verse>
+        <verse osisID='Job.36.22'>Hle, Bůh je ve své moci vznešený. Který učitel je mu podobný?</verse>
+        <verse osisID='Job.36.23'>Kdo mu může vytknout jeho způsoby? Kdo mu smí říci: ‚Pácháš bezpráví'?</verse>
+        <verse osisID='Job.36.24'>Pamatuj, že jeho dílo musíš velebit; lidé je oslavují svými písněmi.</verse>
+        <verse osisID='Job.36.25'>Všichni smrtelníci to dílo spatřují, člověk je vidí aspoň zpovzdálí.</verse>
+        <verse osisID='Job.36.26'>Hle, Bůh je veliký nad naše chápání, jeho léta nelze ani vypočíst!</verse>
+        <verse osisID='Job.36.27'>On z moře vynáší kapky do výšky, aby se v jeho mlze na déšť srážely,</verse>
+        <verse osisID='Job.36.28'>aby se pak z mraků proudem valily a skrápěly lidstvo v hojnosti.</verse>
+        <verse osisID='Job.36.29'>Což někdo rozumí, jak se mračna stahují a jak z jeho stanu hřmí?</verse>
+        <verse osisID='Job.36.30'>Hle, jak kolem sebe šíří blesky, jak jimi pokrývá mořské hlubiny!</verse>
+        <verse osisID='Job.36.31'>Takovým způsobem spravuje národy, takto jim opatřuje pokrm v hojnosti.</verse>
+        <verse osisID='Job.36.32'>Ve svých dlaních svírá blesky, velí jim zasáhnout jejich cíl.</verse>
+        <verse osisID='Job.36.33'>Vypovídá o něm jeho burácení - on bouří hněvem proti bezpráví!</verse>
+      </chapter>
+      <chapter osisID='Job.37'>
+        <verse osisID='Job.37.1'>Při tom pomyšlení se mé srdce děsí, jako by mi chtělo z hrudi vyskočit.</verse>
+        <verse osisID='Job.37.2'>Jen si poslechněte jeho hlas hromový, dunění, jež z úst mu vychází!</verse>
+        <verse osisID='Job.37.3'>Pod celým nebem je nechá znít, i kraje světa svým bleskem ozáří.</verse>
+        <verse osisID='Job.37.4'>Vzápětí burácení zní, hřímá svým hlasem vznešeným; když zazní jeho hlas, nic ho nezdrží.</verse>
+        <verse osisID='Job.37.5'>Podivuhodně Bůh svým hlasem hřmí, působí divy nad naše chápání.</verse>
+        <verse osisID='Job.37.6'>Sněhu poroučí: ‚Padej k zemi,' lijáku velí: ‚Buď průtrží!'</verse>
+        <verse osisID='Job.37.7'>Všem lidem tehdy ruku zadrží, aby každý smrtelník znal jeho jednání.</verse>
+        <verse osisID='Job.37.8'>I zvěř tehdy zalézá do skrýší a zůstává ležet v peleších.</verse>
+        <verse osisID='Job.37.9'>Jen vichřice vychází ze své komnaty a severák s sebou zimu přináší.</verse>
+        <verse osisID='Job.37.10'>Bůh tvoří led svým dechnutím, na širých vodách mrznou hladiny.</verse>
+        <verse osisID='Job.37.11'>Oblaka vláhou obtíží, mračna rozhání bleskem svým.</verse>
+        <verse osisID='Job.37.12'>Ta krouží sem a tam pod jeho vedením, aby plnila jeho příkazy kdekoli na zemi.</verse>
+        <verse osisID='Job.37.13'>Ať už jeho zemi nesou trest či slitování, on dá, aby nalezla svůj cíl.</verse>
+        <verse osisID='Job.37.14'>Naslouchej tomu, Jobe, zastav se, o Božích divech přemýšlej.</verse>
+        <verse osisID='Job.37.15'>Rozumíš, jak Bůh oblaka vede, jak na nich rozsvěcuje blesk?</verse>
+        <verse osisID='Job.37.16'>Rozumíš rovnováze mračen, všem divům Toho, jenž zná vše?</verse>
+        <verse osisID='Job.37.17'>Ty, který ve svých šatech pečeš se, když pod jižním vánkem ztichne zem,</verse>
+        <verse osisID='Job.37.18'>můžeš s ním roztáhnout mraky po obloze pevné jak zrcadlo z bronzu ulité?</verse>
+        <verse osisID='Job.37.19'>Pouč nás tedy, co mu máme říct - pro tmu si neumíme ani řeč připravit!</verse>
+        <verse osisID='Job.37.20'>Má se mu oznámit, že chci promluvit? Chce si někdo říkat o vlastní zničení?</verse>
+        <verse osisID='Job.37.21'>Do slunce přece také nikdo nehledí, když jasně září na nebi, poté co vítr mraky rozptýlil.</verse>
+        <verse osisID='Job.37.22'>Od severu vychází zlatý třpyt, ohromnou slávou Bůh se obklopil!</verse>
+        <verse osisID='Job.37.23'>Všemohoucí je nám nedosažitelný; v moci a soudu je veliký, bohatý ve spravedlnosti, nečiní příkoří.</verse>
+        <verse osisID='Job.37.24'>Toto je důvod, proč jej lidé ctí, i když ho ani mudrcové nevidí."</verse>
+      </chapter>
+      <chapter osisID='Job.38'>
+        <verse osisID='Job.38.1'>Vtom Hospodin promluvil k Jobovi z vichru:</verse>
+        <verse osisID='Job.38.2'>"Kdo to zatemňuje mé záměry řečmi, v nichž není poznání?</verse>
+        <verse osisID='Job.38.3'>Jako muž si teď vyhrň rukávy, budu se tě ptát a ty mě poučíš:</verse>
+        <verse osisID='Job.38.4'>Kde jsi byl, když jsem zemi založil? Jen pověz, když tomu rozumíš.</verse>
+        <verse osisID='Job.38.5'>Kdo určil její rozměry? To jistě víš! Kdopak ji mírou přeměřil?</verse>
+        <verse osisID='Job.38.6'>Do čeho jsou zapuštěny její základy? Kdo položil její kámen úhelný,</verse>
+        <verse osisID='Job.38.7'>když jitřní hvězdy sborem zpívaly a všichni Boží synové jásali radostí?</verse>
+        <verse osisID='Job.38.8'>Kdo že to dveřmi moře uzavřel, když se tehdy z lůna vyvalilo ven,</verse>
+        <verse osisID='Job.38.9'>když jsem je přioblékl oblakem, zahalil mračnem jako do plenek,</verse>
+        <verse osisID='Job.38.10'>když jsem mu vytyčil meze své, závory osadil na dveře</verse>
+        <verse osisID='Job.38.11'>a řekl: ‚Smíš až sem, a dál už ne, tvé vzduté vlny se zlomí zde'?</verse>
+        <verse osisID='Job.38.12'>Poručil jsi jitru někdy v životě, ukázals někdy místo Jitřence,</verse>
+        <verse osisID='Job.38.13'>aby uchopila zem za okraje a ničemy z ní hnala ven?</verse>
+        <verse osisID='Job.38.14'>Tehdy se země tvaruje jak jíl pod pečetí, jak roucho začíná hýřit barvami.</verse>
+        <verse osisID='Job.38.15'>Ničemové tehdy své světlo ztrácejí, jejich napřažená paže se přerazí.</verse>
+        <verse osisID='Job.38.16'>Pronikls tam, kde moře pramení, prošel ses po dně propasti?</verse>
+        <verse osisID='Job.38.17'>Odhalily se ti brány smrti? Spatřil jsi brány temnoty?</verse>
+        <verse osisID='Job.38.18'>Pochopils zemské rozměry? Jen pověz, když všemu rozumíš!</verse>
+        <verse osisID='Job.38.19'>Kudy vede cesta k příbytku světla? A kde přebývá temnota?</verse>
+        <verse osisID='Job.38.20'>Umíš je dovést na jejich místa? Znáš stezku do jejich domova?</verse>
+        <verse osisID='Job.38.21'>Dávno ses narodil, jistě to znáš, délka tvého života je nesmírná!</verse>
+        <verse osisID='Job.38.22'>Dostal ses do sněžných skladišť, viděl jsi, kde se kroupy skladují,</verse>
+        <verse osisID='Job.38.23'>které uchovávám pro čas soužení, pro dny bojů a válčení?</verse>
+        <verse osisID='Job.38.24'>Kudy vede cesta, kterou se štěpí blesky? Odkud se východní vítr žene na zemi?</verse>
+        <verse osisID='Job.38.25'>Kdo vyryl koryto vodní průtrži a dráhu pro mrak bouřkový,</verse>
+        <verse osisID='Job.38.26'>aby zaléval liduprázdnou zemi i poušť, kde nikdo nebydlí,</verse>
+        <verse osisID='Job.38.27'>aby zavlažil opuštěné trosky a novou trávu nechal vyrašit?</verse>
+        <verse osisID='Job.38.28'>Má snad déšť otce? Kdo počal rosné krůpěje?</verse>
+        <verse osisID='Job.38.29'>Z kterého lůna vyšel led? Kdo rodí jíní nebeské,</verse>
+        <verse osisID='Job.38.30'>když voda ztvrdne na kámen, povrch propasti když zamrzne?</verse>
+        <verse osisID='Job.38.31'>Umíš Plejády pouty připoutat anebo povolit Orionův pás?</verse>
+        <verse osisID='Job.38.32'>Dáváš v jejich čas vyjít planetám, vedeš Medvědici a její mláďata?</verse>
+        <verse osisID='Job.38.33'>Ovládáš nebeská pravidla? Zařídíš, aby se jimi země řídila?</verse>
+        <verse osisID='Job.38.34'>Dokážeš na mrak zavolat, aby tě vodní průtrž zalila?</verse>
+        <verse osisID='Job.38.35'>Umíš na cestu blesky vysílat? Ohlásí se ti: ‚Zde nás máš'?</verse>
+        <verse osisID='Job.38.36'>Kdo moudrost ibisovi dal, kdo vložil rozum do kohouta?</verse>
+        <verse osisID='Job.38.37'>Kdo má tu moudrost, aby mraky spočítal, kdo nebeské džbány může vylévat,</verse>
+        <verse osisID='Job.38.38'>když se prach speče jako slitina, když hlína pevně drží ve hroudách?</verse>
+        <verse osisID='Job.38.39'>Umíš ulovit kořist pro lvici, můžeš hlad lvíčat nasytit,</verse>
+        <verse osisID='Job.38.40'>když se krčí ve svých peleších, když v úkrytu v houští číhají?</verse>
+        <verse osisID='Job.38.41'>Kdo připravuje pokrm krkavci, když jeho mláďata k Bohu volají, když bloudí kolem a nemají co jíst?</verse>
+      </chapter>
+      <chapter osisID='Job.39'>
+        <verse osisID='Job.39.1'>Víš snad, kdy rodí kamzíci? Bdíš nad laněmi, když sléhají?</verse>
+        <verse osisID='Job.39.2'>Počítáš měsíce jejich březosti? Znáš čas, kdy mají porodit?</verse>
+        <verse osisID='Job.39.3'>Tehdy se skloní a mladé vrhají, přichází konec jejich bolestí.</verse>
+        <verse osisID='Job.39.4'>Jejich mladí pak venku nabírají sil, až jednou odběhnou a už se nevrátí.</verse>
+        <verse osisID='Job.39.5'>Kdo divokého osla pustil na svobodu? Kdo jen to zvíře zbavil postrojů?</verse>
+        <verse osisID='Job.39.6'>Dal jsem mu za domov pustou planinu, jeho příbytkem je solná poušť.</verse>
+        <verse osisID='Job.39.7'>Může se posmívat hlučícímu městu, nemusí poslouchat pokřik biřiců.</verse>
+        <verse osisID='Job.39.8'>Co najde v kopcích, to má za pastvu, hledá si kdejakou zelenou bylinu.</verse>
+        <verse osisID='Job.39.9'>Bude ti buvol ochoten sloužit? Bude nocovat ve tvé stáji?</verse>
+        <verse osisID='Job.39.10'>Můžeš ho provazy udržet u brázdy? Bude za tebou orat v údolích?</verse>
+        <verse osisID='Job.39.11'>Spolehneš na něj, když má tolik síly? Svěříš mu snad své úkoly?</verse>
+        <verse osisID='Job.39.12'>Můžeš mu věřit, že ti sveze zrní, že shromáždí, cos vymlátil?</verse>
+        <verse osisID='Job.39.13'>Pštrosice křídly radostně mává, jako by měla perutě s peřím čápa.</verse>
+        <verse osisID='Job.39.14'>Jenže svá vejce na zemi zanechává, aby se v písku zahřála.</verse>
+        <verse osisID='Job.39.15'>Nedbá, že je rozšlápne něčí noha, že je divá zvěř může rozdupat.</verse>
+        <verse osisID='Job.39.16'>Krutá je k mláďatům, jako by její nebyla; že zmaří své úsilí, o to se nestará.</verse>
+        <verse osisID='Job.39.17'>Bůh ji totiž moudrostí neobdaroval, ani trochu rozumu jí zdědit nenechal.</verse>
+        <verse osisID='Job.39.18'>Když ale vyskočí a do běhu se dá, koni i s jezdcem se může smát!</verse>
+        <verse osisID='Job.39.19'>Jsi to ty, kdo dává sílu koni? Umíš mu hřívou šíji ozdobit?</verse>
+        <verse osisID='Job.39.20'>Necháš ho skákat jako luční kobylky? Jeho hrdé ržání bázeň nahání!</verse>
+        <verse osisID='Job.39.21'>Rozjařen silou divoce hrabe kopyty, už už vyrazit zbraním naproti.</verse>
+        <verse osisID='Job.39.22'>Směje se strachu, vůbec se nebojí, před mečem nechce o krok ustoupit.</verse>
+        <verse osisID='Job.39.23'>Po boku mu chřestí toulec se šípy, kopí a šavle se blýskají.</verse>
+        <verse osisID='Job.39.24'>Chvěje se vzrušením, hltá dálky, když zazní polnice, nic ho nezdrží.</verse>
+        <verse osisID='Job.39.25'>Při každém zatroubení řehtá: ‚Ihíí!' pach bitvy zdálky ucítí, hřímání velitelů a všechen křik.</verse>
+        <verse osisID='Job.39.26'>Řídí se sokol tvým rozumem, když k letu na jih křídla rozestře?</verse>
+        <verse osisID='Job.39.27'>Vznese se orel na tvůj povel, aby si stavěl hnízdo ve výšce?</verse>
+        <verse osisID='Job.39.28'>Na skále bydlí, na ní nocuje, skalní útes mu hradem je.</verse>
+        <verse osisID='Job.39.29'>Odtud se rozhlíží za pokrmem, očima hledí do dálek.</verse>
+        <verse osisID='Job.39.30'>Jeho mláďata chtějí hltat krev; kde jsou mrtvoly, tam je hned!"</verse>
+      </chapter>
+      <chapter osisID='Job.40'>
+        <verse osisID='Job.40.1'>Tehdy Hospodin promluvil k Jobovi:</verse>
+        <verse osisID='Job.40.2'>"Napraví Všemohoucího, kdo se s ním chce přít? Kdo obviňuje Boha, ať na to odpoví!"</verse>
+        <verse osisID='Job.40.3'>Job na to Hospodinu řekl:</verse>
+        <verse osisID='Job.40.4'>"Jsem příliš nicotný - co ti mám říkat? Kladu si ruku na ústa.</verse>
+        <verse osisID='Job.40.5'>Mluvil jsem jednou nebo i dvakrát. Nemám co odpovědět ani dodávat."</verse>
+        <verse osisID='Job.40.6'>Tehdy Hospodin promluvil k Jobovi z vichru:</verse>
+        <verse osisID='Job.40.7'>"Jako muž si teď vyhrň rukávy, budu se tě ptát a ty mě poučíš:</verse>
+        <verse osisID='Job.40.8'>Chceš snad mou spravedlnost zpochybnit? Chceš mě odsoudit, abys byl bez viny?</verse>
+        <verse osisID='Job.40.9'>Máš sílu jako Bůh ve svém rameni? Zahřímáš hlasem jemu podobným?</verse>
+        <verse osisID='Job.40.10'>Zkus se ozdobit velebnou vznešeností, obleč se do slavné nádhery!</verse>
+        <verse osisID='Job.40.11'>Svému hroznému hněvu průchod dej, pohleď na všechny pyšné a poniž je.</verse>
+        <verse osisID='Job.40.12'>Pohleď na všechny pyšné a pokoř je, rozdrť ty darebáky na místě.</verse>
+        <verse osisID='Job.40.13'>Naráz je pohřbi do země, ať mají tváře v hrobě zastřené!</verse>
+        <verse osisID='Job.40.14'>Já sám pak budu chválit tě - vždyť tě zachraňuje vlastní pravice!</verse>
+        <verse osisID='Job.40.15'>Jen se na behemota podívej, stejně jako tebe jsem stvořil jej; živí se trávou jako dobytče.</verse>
+        <verse osisID='Job.40.16'>Jen se podívej, jakou má sílu v bedrech, jak mocné svaly na břiše!</verse>
+        <verse osisID='Job.40.17'>Ocasem houpe jako cedrem, šlachy na stehnech pevně spletené.</verse>
+        <verse osisID='Job.40.18'>Kosti má jako bronzové válce, končetiny jako tyče železné.</verse>
+        <verse osisID='Job.40.19'>On stojí v čele Božích děl, meč na něj vztáhne jen jeho Stvořitel!</verse>
+        <verse osisID='Job.40.20'>Hory mu odvádějí povinný poplatek, poblíž dovádí všechna polní zvěř.</verse>
+        <verse osisID='Job.40.21'>Do stínu trnovníků ulehne, v rákosí bažin skrývá se.</verse>
+        <verse osisID='Job.40.22'>Trnovníky ho přikrývají stínem, říčními vrbami je obklopen.</verse>
+        <verse osisID='Job.40.23'>Když řeka vzedme se, on se nelekne, má klid, i když mu Jordán k tlamě dosáhne.</verse>
+        <verse osisID='Job.40.24'>Kdopak ho může chytit do sítě? Vrazí mu někdo kroužek do nozder? Vytáhneš leviatana udicí, stáhneš mu jazyk provazy? Provlečeš mu smyčku nozdrami, probodneš mu hákem čelisti? Bude tě zkoušet uprosit, bude se ti snažit vlichotit? Bude chtít s tebou smlouvu uzavřít, aby ti sloužil navždycky? Nebo se s ním jak s ptáčkem pomazlíš? Dáš ho na vodítko dcerkám na hraní? Že by ho obchodníci dobře prodali? Mohli by ho kupci porcovat na kusy? Pokryješ jeho kůži oštěpy? Trefíš ho harpunami do hlavy? Opovaž se na něj ruku položit! Pomysli na ten boj a už to nezkusíš!</verse>
+      </chapter>
+      <chapter osisID='Job.41'>
+        <verse osisID='Job.41.1'>Nikdo proti němu nemá žádnou naději, pouhý pohled na něj člověka porazí.</verse>
+        <verse osisID='Job.41.2'>Nikdo se neosmělí, aby ho vydráždil - kdo by se tedy proti mně postavil?</verse>
+        <verse osisID='Job.41.3'>Kdo mě chce vyzvat, ať mu zaplatím? Všechno pod nebem je mým vlastnictvím!</verse>
+        <verse osisID='Job.41.4'>Nechci pomlčet o jeho údech, o jeho síle a skvělé postavě:</verse>
+        <verse osisID='Job.41.5'>Kdo ho z jeho pláště vysvlékne? Kdo pronikne jeho dvojité pancíře?</verse>
+        <verse osisID='Job.41.6'>Vrata jeho tlamy kdopak rozevře? Jeho zuby všude kolem šíří děs!</verse>
+        <verse osisID='Job.41.7'>Řady šupin si nese na hřbetě, jako pečetí jsou pevně spojené.</verse>
+        <verse osisID='Job.41.8'>Jedna přiléhá ke druhé, ani vzduch mezi nimi neprojde.</verse>
+        <verse osisID='Job.41.9'>Jsou k sobě navzájem těsně semknuté, drží pohromadě, nic nerozdělí je.</verse>
+        <verse osisID='Job.41.10'>Když si odfrkne, jako když třeskne blesk, úsvit se rozzáří pod jeho pohledem.</verse>
+        <verse osisID='Job.41.11'>Z jeho tlamy září pochodeň, roj jisker létá kolem něj.</verse>
+        <verse osisID='Job.41.12'>Dým se mu valí od nozder, jako když rákos hoří pod kotlem.</verse>
+        <verse osisID='Job.41.13'>Svým dechem rozžhaví uhlí řeřavé, jeho tlama šlehá plamenem!</verse>
+        <verse osisID='Job.41.14'>Síly je plná jeho šíje a předchází ho děs.</verse>
+        <verse osisID='Job.41.15'>Svaly mu pevně drží na těle, tvrdé jak slitina - nezachvějí se.</verse>
+        <verse osisID='Job.41.16'>Srdce má tvrdé na kámen, jak spodní žernov tvrdé je.</verse>
+        <verse osisID='Job.41.17'>Když se zvedne, bojí se i bohové, když sebou trhne, jsou strachy bez sebe.</verse>
+        <verse osisID='Job.41.18'>Zasáhnout ho mečem je zcela zbytečné, stejně tak kopím, šípem či oštěpem.</verse>
+        <verse osisID='Job.41.19'>Železo je pro něj slámě podobné, bronz považuje za dřevo trouchnivé.</verse>
+        <verse osisID='Job.41.20'>Šípy ho nezaženou na útěk, kamenů z praku si všímá jako plev.</verse>
+        <verse osisID='Job.41.21'>Za stébla slámy považuje kyje, mávání šavlí směje se.</verse>
+        <verse osisID='Job.41.22'>Ostré střepy mu rostou na břiše, stopu nechává jak brány blátem vláčené.</verse>
+        <verse osisID='Job.41.23'>Hlubina kvůli němu jako v kotli vře, moře pění jak voňavkářův kelímek.</verse>
+        <verse osisID='Job.41.24'>Ve vodě za ním brázda třpytí se, jako by šediny narostly hlubině.</verse>
+        <verse osisID='Job.41.25'>Nikdo na zemi mu není podoben - je stvořen zcela bez bázně.</verse>
+        <verse osisID='Job.41.26'>Na všechno povýšené svrchu dívá se, všem pyšným šelmám kraluje!"</verse>
+      </chapter>
+      <chapter osisID='Job.42'>
+        <verse osisID='Job.42.1'>Job na to Hospodinu řekl:</verse>
+        <verse osisID='Job.42.2'>"Uznávám, že jsi všemocný a že nic nepřekazí tvé úmysly.</verse>
+        <verse osisID='Job.42.3'>Ptal ses: ‚Kdo to zastírá mé záměry, a přitom nemá poznání?' Ano, mluvil jsem, o čem jsem neměl ponětí, o tajemstvích, jež jsou nad mé chápání.</verse>
+        <verse osisID='Job.42.4'>Řekl jsi: ‚Poslouchej a já promluvím, budu se tě ptát a ty mě poučíš.'</verse>
+        <verse osisID='Job.42.5'>Dosud jsem o tobě jen slýchal pověsti, teď tě však na vlastní oči spatřuji.</verse>
+        <verse osisID='Job.42.6'>Proto se pokořuji - v prachu a popelu činím pokání!"</verse>
+        <verse osisID='Job.42.7'>Když Hospodin domluvil tato slova k Jobovi, promluvil k Elifazovi Temanskému: "Hořím hněvem proti tobě a tvým dvěma přátelům, protože jste o mně nemluvili pravdivě jako můj služebník Job.</verse>
+        <verse osisID='Job.42.8'>Proto si teď vezměte sedm býků a sedm beranů a jděte za mým služebníkem Jobem. Obětujte za sebe zápalnou oběť a můj služebník Job ať se za vás modlí. Jen proto, že dám na něj, vás hanebně nepotrestám. Nemluvili jste totiž o mně pravdivě jako můj služebník Job."</verse>
+        <verse osisID='Job.42.9'>Elifaz Temanský, Bildad Šuchský a Sofar Naámský tedy šli a udělali, co jim Hospodin řekl. A Hospodin Joba vyslyšel.</verse>
+        <verse osisID='Job.42.10'>Když se Job modlil za své přátele, Hospodin mu navrátil vše, co ztratil, a dal Jobovi dvakrát více, než co měl dřív.</verse>
+        <verse osisID='Job.42.11'>Všichni jeho bratři a sestry i všichni jeho dřívější známí přišli za ním a hodovali s ním v jeho domě. Litovali ho a těšili kvůli všem těm neštěstím, která na něj Hospodin uvedl. Každý z nich mu dal stříbrnou minci a jednu zlatou náušnici.</verse>
+        <verse osisID='Job.42.12'>Hospodin tedy Jobovi nakonec požehnal více než na počátku. Měl totiž 14 000 ovcí, 6 000 velbloudů, 1 000 párů dobytka a 1 000 oslic.</verse>
+        <verse osisID='Job.42.13'>Měl také sedm synů a tři dcery.</verse>
+        <verse osisID='Job.42.14'>Jedné dal jméno Jemima, druhé Kesia a třetí Keren-hapuch.</verse>
+        <verse osisID='Job.42.15'>V celé zemi nebyly tak krásné ženy jako dcery Jobovy. A otec jim dal dědictví mezi jejich bratry.</verse>
+        <verse osisID='Job.42.16'>Potom Job žil ještě sto čtyřicet let a viděl své děti a děti svých dětí až do čtvrtého pokolení.</verse>
+        <verse osisID='Job.42.17'>Nakonec Job zemřel stár a nasycen životem.</verse>
+      </chapter>
+    </div></osisText>
+</osis>

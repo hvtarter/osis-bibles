@@ -1,0 +1,156 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace'>
+  <osisText osisIDWork='NorthernAzeri' osisRefWork='Bible' xml:lang='az'>
+    <header>
+      <revisionDesc>
+        <date>2012-01-07</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='NorthernAzeri'>
+        <title>Northern Azeri Translation</title>
+        <contributor/>
+        <creator>Mod2Zef (6)</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject/>
+        <date>2012-01-07</date>
+        <description>Northern Azeri Translation</description>
+        <publisher/>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>NorthernAzeri</identifier>
+        <source>no entry TextSource in sword.conf found</source>
+        <language type='IETF'>az</language>
+        <relation/>
+        <coverage>provide the bible to the nations of the world</coverage>
+        <rights>Copyrighted Kutsul Kitab; Permission to distribute granted to CrossWire</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='Zeph'>
+      <chapter osisID='Zeph.1'>
+        <verse osisID='Zeph.1.1'>Yəhuda padşahı Amon oğlu Yoşiyanın hökm etdiyi dövrdə Xizqiya oğlu Amarya oğlu Gedalya oğlu Kuşi oğlu Sefanyaya Rəbbin sözü nazil oldu. </verse>
+        <verse osisID='Zeph.1.2'>Rəbb belə bəyan edir:«Yer üzündən hər şeyi silib-süpürəcəyəm».</verse>
+        <verse osisID='Zeph.1.3'>Budur, Rəbb belə bəyan edir:«İnsanları, heyvanları,Göydəki quşları, dənizdəki balıqları,Pis adamları iləŞər üçün qurulan tələləriniSilib-süpürəcəyəm,İnsanı yer üzündən yox edəcəyəm.</verse>
+        <verse osisID='Zeph.1.4'>Əlimi uzadıb Yəhuda və Yerusəlim sakinlərininHamısını cəzalandıracağam,Baal bütlərinə ibadətin qalıqlarını,Kahinlərlə bütpərəst din xadimlərinin adlarını da buradan silib atacağam.</verse>
+        <verse osisID='Zeph.1.5'>Damlarda göy cisimlərinə səcdə edənləri,Həm Rəbbin adına, həm də Milkom bütü adınaAnd içib səcdə edənləri,</verse>
+        <verse osisID='Zeph.1.6'>Rəbbin yolundan dönənləri,Rəbbə müraciət etməyənləri,Rəbdən məsləhət almayanlarıBuradan yox edəcəyəm».</verse>
+        <verse osisID='Zeph.1.7'>Susun Xudavənd Rəbbin qarşısında,Çünki Onun günü yaxınlaşır,Rəbb qurban hazırlayıb, qonaqlarını dəvət edib.</verse>
+        <verse osisID='Zeph.1.8'>Rəbb deyir: «O qurban günü əmirləri, şahzadələri,Əcnəbi dəbi ilə geyinənləri cəzalandıracağam.</verse>
+        <verse osisID='Zeph.1.9'>O gün kandarından tullanıb keçənləri,Öz ağalarının evlərini zorakılıq və hiylə iləDolduranları cəzalandıracağam».</verse>
+        <verse osisID='Zeph.1.10'>Rəbb bəyan edir:«O gün Yerusəlimdə Balıqlar darvazasından fəğan səsi,İkinci Məhəllədən fəryadlar,Təpələrdən isə böyük gurultu eşidiləcək».</verse>
+        <verse osisID='Zeph.1.11'>Ey bazar məhəlləsinin sakinləri, nalə çəkin!Bütün tacirləriniz məhv olacaq,Tərəzidə gümüş çəkənləriniz qırılacaq.</verse>
+        <verse osisID='Zeph.1.12'>O zaman Yerusəlimin hər tərəfiniÇıraqlarla axtaracağam,Firavan yaşayan qayğısızları,  Ürəklərində«Rəbb nə yaxşılıq, nə də pislik –Heç nə etməz»Deyənləri cəzalandıracağam.</verse>
+        <verse osisID='Zeph.1.13'>Var-dövlətləri talan olacaq,Evləri xaraba qalacaq,Tikdikləri evlərdə yaşamayacaqlar,Onlar saldıqları üzümlüklərinŞərablarını içməyəcəklər.</verse>
+        <verse osisID='Zeph.1.14'>Rəbbin möhtəşəm günü yaxınlaşır,Yaxınlaşır, tez gələcək.Rəbbin günündə fəryad səsi çıxacaq,İgid adam belə, fəryad edəcək.</verse>
+        <verse osisID='Zeph.1.15'>O gün qəzəb günüdür:  Hər tərəfiƏziyyət və məşəqqətin,Viran və talanın,Qaranlıq və zülmətin,Qara buludların bürüdüyü gündür!</verse>
+        <verse osisID='Zeph.1.16'>O gün istehkamlı şəhərlərə,Hündür künc qüllələrinə qarşıDöyüş üçün çalınan şeypurların,Döyüş nərələrinin səsləndiyi gündür!</verse>
+        <verse osisID='Zeph.1.17'>Rəbb deyir:«Adamlara elə bəla göndərəcəyəm ki,Kor kimi hara gedəcəklərini bilməyəcəklər,Çünki Mən Rəbbə qarşı günah ediblər.Qanları su kimi axacaq,  Bədənləri yerdə çürüyüb peyin olacaq».</verse>
+        <verse osisID='Zeph.1.18'>Rəbbin qəzəb günündəQızıl-gümüşləriOnları qurtara bilməyəcək,Onun qısqanc qəzəbinin alovundaBütün ölkə yanıb yox olacaq,Çünki O, bir anda ölkənin sakinlərini qıracaq.</verse>
+      </chapter>
+      <chapter osisID='Zeph.2'>
+        <verse osisID='Zeph.2.1'>Ey utanmaz millət, toplaşın!</verse>
+        <verse osisID='Zeph.2.2'>Fərman çıxmadan,O gün saman çöpü tək uçmadan,Rəbbin qızğın qəzəbi başınıza gəlmədən,Rəbbin qəzəb günü sizə yetişmədən öncə toplaşın!</verse>
+        <verse osisID='Zeph.2.3'>Ey Rəbbin hökmünə əməl edən sizlər,Ölkədəki itaətkar insanlar, Rəbbə meyl salın!Salehliyə meyl salın!İtaətkarlığa meyl salın!Bəlkə siz Rəbbin qəzəb günündə qurtula bildiniz.</verse>
+        <verse osisID='Zeph.2.4'>Qəzzə bomboş qalacaq,  Aşqelon xarabalığa dönəcək,Aşdod əhalisi günorta çağı qovulacaq,Eqron özülündən söküləcək!</verse>
+        <verse osisID='Zeph.2.5'>Dəniz sahilində yaşayanların –Keretlilərin   vay halına!  Ey Filiştlilərin torpağı Kənan,Rəbbin hökmü sizə qarşıdır,Rəbb hamınızı yox edəcək.Ölkədə heç bir sakin sağ qalmayacaq!</verse>
+        <verse osisID='Zeph.2.6'>Dəniz sahilindəki ölkəniz otlaqlara,Çoban daxmalarına və qoyun-keçi ağıllarına dönəcək!</verse>
+        <verse osisID='Zeph.2.7'>Bu ölkə Yəhuda nəslindən qalanların əlinə keçəcək,Sürülərini orada otaracaqlar,Axşam Aşqelondakı evlərində yatacaqlar,Çünki özlərinin Allahı Rəbb onları yada salaraqYenə firavan edəcək.</verse>
+        <verse osisID='Zeph.2.8'>«Moavlıların rişxəndlərini,Ammonluların təhqirlərini eşitdim.Xalqıma rişxənd edib lovğalanaraq dedilər ki,Xalqımın sərhədlərini keçəcəklər.</verse>
+        <verse osisID='Zeph.2.9'>Buna görə də İsrailin Allahı, Ordular Rəbbi bəyan edir.  Varlığıma and olsun ki,Moav mütləq Sodom kimi,Ammon Homorra kimi olacaq:Oraları alaqlar və duzlu çalalar basacaq,Əbədi viranəliyə dönəcək.Xalqımın qalanları oranı talan edəcək,Torpaqlarına millətimdən sağ qalanlarSahib olacaq».</verse>
+        <verse osisID='Zeph.2.10'>Bu onların məğrurluğunun əvəzi olacaq,Çünki bu xalqlarOrdular Rəbbinin xalqına rişxənd edib lovğalandı.</verse>
+        <verse osisID='Zeph.2.11'>Rəbb onları dəhşətə salacaq,Yer üzünün bütün allahlarını yox edəcək.Uzaqlarda yaşayan bütün millətlərOlduqları yerlərdə Ona səcdə edəcək.</verse>
+        <verse osisID='Zeph.2.12'>«Ey Kuşlular, siz dəMənim qılıncımla öldürüləcəksiniz» Rəbb deyir.</verse>
+        <verse osisID='Zeph.2.13'>Rəbb əlini şimala doğru uzadıb  Aşşuru yox edəcək,Ninevanı viranəliyə,Səhra kimi quruya çevirəcək,</verse>
+        <verse osisID='Zeph.2.14'>Ora sürülərin, hər cür heyvanınYatdığı yer olacaq.Orada sütun başlarında,Bayquşlar, yapalaqlar yuva quracaq,Onlar pəncərələrdən ulayacaq,Qarğalar kandarlardan qarıldayacaqEvlərdə sidr tirləri görünəcək.</verse>
+        <verse osisID='Zeph.2.15'>Bu şəhər zövq-səfalı şəhər idi,  Əmin-amanlıq içində yaşayırdı.Hey belə deyərdi:«Mən mənəm, məndən başqası yoxdur!»Necə də bu şəhər xarabalığa döndü,Vəhşi heyvanların yuvası oldu!Yanından keçən hər kəs vahimədənKənara çəkilir.</verse>
+      </chapter>
+      <chapter osisID='Zeph.3'>
+        <verse osisID='Zeph.3.1'>Üsyankar, pozğun, qəddar şəhərin vay halına!</verse>
+        <verse osisID='Zeph.3.2'>Söz dinləmədi, ibrət dərsi almadı,Rəbbə güvənmədi, Allahına yaxınlaşmadı.</verse>
+        <verse osisID='Zeph.3.3'>Başçıları nərildəyən aslanlara bənzəyir,Hakimləri axşam gəzən ac qurdlar kimiSəhərə qədər bir şey qoymaz.</verse>
+        <verse osisID='Zeph.3.4'>Peyğəmbərləri məsuliyyətsiz, xain adamlardır,Kahinləri müqəddəs olanı murdarlayıb,Qanunun mənasını pozur.</verse>
+        <verse osisID='Zeph.3.5'>Amma şəhərin içində olan Rəbb salehdir,O haqsızlıq etməz.Hər yeni günün səhərindəDurmadan ədalətini zühur etdirər,Amma haqsız adam utanmaq bilməz.</verse>
+        <verse osisID='Zeph.3.6'>Rəbb belə deyir:«Millətləri məhv etdim,Künc qüllələri dağıldı.Küçələrini viran qoydum,O küçələrdən artıq gəlib-keçən yoxdur!Şəhərləri xarabalığa döndü,Orada heç bir sakin də qalmadı.</verse>
+        <verse osisID='Zeph.3.7'>Mən dedim:“Xalqım Məndən qorxar,İbrət dərsi alar”.Onda məskənləri dağıdılmaz,Verdiyim cəzaların hamısı üzərlərinə gəlməz,Lakin onlar hər cür pozğun iş görməkdən zövq aldı».</verse>
+        <verse osisID='Zeph.3.8'>Buna görə Rəbb bəyan edir:«Şahid kimi qalxdığımGünə qədər Məni gözləyin.Çünki Mən millətləri yığmağıPadşahlıqları toplamağı qərara almışam.Qoy üzərlərinə qeyzimi, qızğın qəzəbimi töküm.Çünki qısqanc qəzəbimin odu ilə bütün yer üzü tələf olacaq.</verse>
+        <verse osisID='Zeph.3.9'>O zaman Mən xalqların nitqini dəyişib,Onlara pak dil verəcəyəm ki,Hamı Rəbbin adını çağırsın,Mənə çiyin-çiyinə xidmət etsinlər.</verse>
+        <verse osisID='Zeph.3.10'>Qürbətə dağılmış,Mənə səcdə edənlərKuş çaylarının o tayındanMənə təqdimlər gətirəcək.</verse>
+        <verse osisID='Zeph.3.11'>O gün sən, ey xalqım,Mənə qarşı üsyankarlıq etdiyinə görəDaha xəcalətli olmayacaqsan.Çünki qürurlu, təkəbbürlü adamlarıSənin arandan uzaqlaşdıracağam,Müqəddəs dağımda bir daha təkəbbürlü olmayacaqsan.</verse>
+        <verse osisID='Zeph.3.12'>Sizin aranızda itaətkar və məzlum bir xalqı sağ qoyacağam,Onlar Rəbbin adına pənah gətirəcək.</verse>
+        <verse osisID='Zeph.3.13'>İsraildən sağ qalanlar haqsızlıq etməyəcək!  Kimsəni aldadaraq yalan söyləməyəcəklər,Çünki onlar qarnı tox yatacaq,Onları qorxudan olmayacaq».</verse>
+        <verse osisID='Zeph.3.14'>Ey Sion qızı, tərənnüm elə,Ey İsrail, uca səslə çığır!Ey Yerusəlim qızı, bütün qəlbinlə sevin və fərəhlən!</verse>
+        <verse osisID='Zeph.3.15'>Rəbb sənin cəzanı ləğv etdi, düşmənlərini qovdu!İsrailin padşahı Rəbb səninlədir,Artıq pislikdən qorxmayacaqsan!</verse>
+        <verse osisID='Zeph.3.16'>O gün Yerusəlimə deyiləcək:«Qorxma, ey Sion, qoy əllərin taqətdən düşməsin!</verse>
+        <verse osisID='Zeph.3.17'>Allahın Rəbb,Qüvvətli Qurtarıcın səninlədir!O sənin üçün sevinib şadlanacaq,Səni məhəbbəti ilə yeniləşdirəcək,  Sənin üçün tərənnümlə coşacaq!</verse>
+        <verse osisID='Zeph.3.18'>Bayram gününü qeyd edən kimiMən sənin üzərindən bəlaları götürəcəyəm ki,Onlara görə xəcalətli olmayasan.</verse>
+        <verse osisID='Zeph.3.19'>Budur, vaxt gəlir,Mən sizə zülm edənlərin hamısını cəzalandıracağam,Şikəstləri qurtaracağam, sürgünləri yığacağam,Bütün dünyada çəkdikləri xəcalətiŞan-şöhrətə çevirəcəyəm.</verse>
+        <verse osisID='Zeph.3.20'>O zaman sizi toplayıb yurdunuza geri qaytaracağam.Görəcəksiniz, Mən sizi yenə firavan edəndəBütün dünya xalqları arasındaSizə şan-şöhrət verəcəyəm»Rəbb deyir.</verse>
+      </chapter>
+    </div></osisText>
+</osis>

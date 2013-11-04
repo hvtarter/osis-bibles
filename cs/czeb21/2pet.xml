@@ -1,0 +1,164 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace'>
+  <osisText osisRefWork='Bible' osisIDWork='CzeB21' xml:lang='cs'>
+    <header>
+      <revisionDesc>
+        <date>2010-02-26</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='CzeB21'>
+        <title>Czech Bible, Překlad 21. století</title>
+        <contributor/>
+        <creator>Mod2Zef (4)</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject/>
+        <date>2009-07-31</date>
+        <description>Bible, Překlad 21. století  vedoucí projektu Alexandr Flek  odborná spolupráce Jiří Hedánek, Pavel Hoffman, Zdeněk Sýkora  Přeloženo z hebrejštiny, aramejštiny, řečtiny  Vydání první  (c) 2009 Biblion, o. s.  www.bible21.org  www.bible21.cz   Překlad 21. století přináší nadčasové poselství Bible v současné, čtivé češtině. Usiluje o maximální věrnost původním hebrejským, aramejským a řeckým textům, zároveň však chce oslovit dnešní čtenáře, ať už jsou zvyklí čerpat z této knihy inspiraci pro každý den, anebo ji otevírají poprvé.</description>
+        <publisher/>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>CzeB21</identifier>
+        <source>no entry TextSource in sword.conf found</source>
+        <language type='IETF'>cs</language>
+        <relation/>
+        <coverage>provide the bible to the nations of the world</coverage>
+        <rights>Copyrighted; Permission to distribute granted to CrossWire</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='2Pet'>
+      <chapter osisID='2Pet.1'>
+        <verse osisID='2Pet.1.1'>Šimon Petr, služebník a apoštol Ježíše Krista, těm, kteří dosáhli stejně vzácné víry jako my díky spravedlnosti našeho Boha a Spasitele Ježíše Krista:</verse>
+        <verse osisID='2Pet.1.2'>Milost vám a hojný pokoj skrze poznání Boha a Ježíše, našeho Pána.</verse>
+        <verse osisID='2Pet.1.3'>Všechno, co potřebujeme k životu a zbožnosti, nám darovala jeho božská moc, když jsme poznali Toho, který nás povolal ve své slávě a ušlechtilosti.</verse>
+        <verse osisID='2Pet.1.4'>Takto nám byla darována vzácná a veliká zaslíbení, abyste skrze ně získali účast na Boží povaze a unikli zkáze, do níž se svět ve své žádostivosti řítí.</verse>
+        <verse osisID='2Pet.1.5'>Proto se ze všech sil snažte přidat ke své víře ušlechtilost, k ušlechtilosti poznání,</verse>
+        <verse osisID='2Pet.1.6'>k poznání zdrženlivost, ke zdrženlivosti vytrvalost, k vytrvalosti zbožnost,</verse>
+        <verse osisID='2Pet.1.7'>ke zbožnosti bratrskou náklonnost a k bratrské náklonnosti lásku.</verse>
+        <verse osisID='2Pet.1.8'>Když v těchto věcech porostete, dojdete k poznání našeho Pána Ježíše Krista a to vám zabrání v nečinnosti a neplodnosti.</verse>
+        <verse osisID='2Pet.1.9'>Komu však tyto věci chybí, ten je slepý a krátkozraký, neboť zapomněl na to, jak byl očištěn od svých starých hříchů.</verse>
+        <verse osisID='2Pet.1.10'>Bratři, snažte se stále více potvrzovat své povolání a vyvolení, protože když to budete dělat, nikdy nepadnete.</verse>
+        <verse osisID='2Pet.1.11'>Takto se vám dokořán otevře přístup do věčného království našeho Pána a Spasitele Ježíše Krista.</verse>
+        <verse osisID='2Pet.1.12'>Tyto věci vám chci i nadále bez přestání připomínat, ačkoli je znáte a pevně stojíte v pravdě, kterou jste přijali.</verse>
+        <verse osisID='2Pet.1.13'>Dokud přebývám v tomto stanu, považuji za svou povinnost burcovat vás a upomínat,</verse>
+        <verse osisID='2Pet.1.14'>neboť vím, že stan mého těla bude brzy složen, jak mi oznámil náš Pán Ježíš Kristus.</verse>
+        <verse osisID='2Pet.1.15'>Vynasnažím se tedy, abyste si i po mém odchodu mohli tyto věci stále připomínat.</verse>
+        <verse osisID='2Pet.1.16'>Když jsme vám pověděli o moci našeho Pána Ježíše Krista a o jeho příchodu, nedrželi jsme se vymyšlených bájí, ale mluvili jsme jako očití svědkové jeho slávy.</verse>
+        <verse osisID='2Pet.1.17'>Tu slávu a čest přijal od Boha Otce, když k němu z velkolepé slávy zazněl hlas: "Toto je můj milovaný Syn, kterého jsem si oblíbil."</verse>
+        <verse osisID='2Pet.1.18'>My jsme s ním byli na oné svaté hoře a ten hlas z nebe jsme sami slyšeli.</verse>
+        <verse osisID='2Pet.1.19'>Navíc tu máme nesmírně spolehlivé slovo proroků a vy děláte dobře, že se ho držíte jako lampy zářící v temnotách, dokud se nerozbřeskne den a ve vašich srdcích nevzejde jitřenka.</verse>
+        <verse osisID='2Pet.1.20'>Především vězte, že žádné proroctví Písma nevzniklo z vlastního názoru proroka.</verse>
+        <verse osisID='2Pet.1.21'>Proroctví totiž nikdy nepřišlo z lidské vůle, ale Boží lidé mluvili, jak byli puzeni Duchem svatým.</verse>
+      </chapter>
+      <chapter osisID='2Pet.2'>
+        <verse osisID='2Pet.2.1'>V Božím lidu však bývali i falešní proroci, stejně jako mezi vámi budou falešní učitelé, kteří pokoutně zavedou zhoubné bludy. Budou dokonce zapírat i Pána, který je vykoupil, a tak na sebe přivedou rychlou záhubu.</verse>
+        <verse osisID='2Pet.2.2'>Mnozí je budou v jejich nestydatosti následovat a cesta pravdy se kvůli nim ocitne v opovržení.</verse>
+        <verse osisID='2Pet.2.3'>Budou se s vámi pokoušet chamtivě kupčit vymyšlenými řečmi, ale jejich odsouzení už dávno nezahálí a jejich záhuba nespí.</verse>
+        <verse osisID='2Pet.2.4'>Bůh přece neušetřil anděly, když zhřešili, ale svrhl je do pekla, kde spoutáni řetězy ve tmě čekají na soud.</verse>
+        <verse osisID='2Pet.2.5'>Neušetřil ani ten starý bezbožný svět, když jej zaplavil potopou, ale kazatele spravedlnosti Noema a sedm lidí s ním zachránil.</verse>
+        <verse osisID='2Pet.2.6'>Města Sodomu a Gomoru obrátil v popel, když je pro výstrahu budoucím bezbožníkům odsoudil ke zkáze,</verse>
+        <verse osisID='2Pet.2.7'>ale spravedlivého Lota, ztrápeného nestydatým chováním těch zvrhlíků, vysvobodil.</verse>
+        <verse osisID='2Pet.2.8'>Dokud ten spravedlivý mezi nimi bydlel, jeho spravedlivou duši den co den trápily zločiny, které viděl a slyšel páchat.</verse>
+        <verse osisID='2Pet.2.9'>Pán tedy umí vysvobozovat zbožné ze zkoušek, ale nespravedlivé čeká jeho trest v den soudu,</verse>
+        <verse osisID='2Pet.2.10'>zvláště pak ty, kdo se podvolují nečistému tělesnému chtíči a přezírají Pánovu vládu. Tito samolibí drzouni se dokonce nebojí vysmívat se nebeským mocnostem.</verse>
+        <verse osisID='2Pet.2.11'>Přitom ani andělé, o tolik větší v síle a moci, nad nimi před Pánem nevynášejí potupný rozsudek.</verse>
+        <verse osisID='2Pet.2.12'>Tihle se však chovají pudově jako nerozumná zvířata, určená k ulovení a na porážku. Čemu nerozumějí, tomu se vysmívají, ale jejich vlastní zkaženost je zničí -</verse>
+        <verse osisID='2Pet.2.13'>odplata za jejich špatnost je nemine. Jejich zálibou je denní hýření; na vašich hodech jsou poskvrnou a hanbou, když na nich hýří ve svých rozmarech.</verse>
+        <verse osisID='2Pet.2.14'>S očima plnýma cizoložství nenasytně baží po hříchu, se srdcem vycvičeným v chamtivosti lákají nestálé duše. Proklatci!</verse>
+        <verse osisID='2Pet.2.15'>Opustili přímou cestu a zabloudili. Vydali se cestou Balaáma, syna Beorova, jemuž se zalíbila odměna za špatnost.</verse>
+        <verse osisID='2Pet.2.16'>Za své provinění byl ovšem napomenut: němá oslice promluvila lidským hlasem a proroka v jeho nepříčetnosti zastavila.</verse>
+        <verse osisID='2Pet.2.17'>Jsou to prameny bez vody, mraky hnané vichřicí, které čeká jen černá tma.</verse>
+        <verse osisID='2Pet.2.18'>Když honosně řeční o marnostech, lákají tělesným chtíčem a nestydatostmi lidi, kteří právě unikli životu v bludu.</verse>
+        <verse osisID='2Pet.2.19'>Slibují jim svobodu, ale sami jsou otroky zkázy - čemukoli se kdo poddá, to ho zotročí!</verse>
+        <verse osisID='2Pet.2.20'>Když lidé skrze poznání našeho Pána a Spasitele Ježíše Krista uniknou špíně světa, ale potom se do ní znovu zapletou a podlehnou jí, budou na tom nakonec hůře než na začátku.</verse>
+        <verse osisID='2Pet.2.21'>Bylo by pro ně lepší nepoznat cestu spravedlnosti, než se po jejím poznání odvrátit od svatého přikázání, které dostali.</verse>
+        <verse osisID='2Pet.2.22'>Stalo se jim, co se říká v tom pravdivém přísloví: "Pes se vrátil ke svým zvratkům" a "Umytá svině se znovu válí v bahně."</verse>
+      </chapter>
+      <chapter osisID='2Pet.3'>
+        <verse osisID='2Pet.3.1'>Milovaní, píšu vám už druhý dopis. V obou jsem se vás snažil upomínat a burcovat vaši ryzí mysl,</verse>
+        <verse osisID='2Pet.3.2'>abyste pamatovali na to, co předpověděli svatí proroci, a na to, co vám skrze vaše apoštoly přikázal Pán a Spasitel.</verse>
+        <verse osisID='2Pet.3.3'>Především vězte, že v posledních dnech přijdou nehorázní posměvači vedení svými vlastními choutkami</verse>
+        <verse osisID='2Pet.3.4'>a budou říkat: "Co je s tím slibem o jeho příchodu? Otcové už zemřeli a všechno zůstává, jak to bylo od počátku stvoření!"</verse>
+        <verse osisID='2Pet.3.5'>Takoví si nechtějí uvědomit, že nebe a země kdysi dávno vznikly Božím slovem z vody a skrze vodu;</verse>
+        <verse osisID='2Pet.3.6'>a tou vodou byl tehdejší svět zatopen a zničen.</verse>
+        <verse osisID='2Pet.3.7'>Totéž slovo udržuje a uchovává nynější nebe a zemi pro oheň, který je čeká v den soudu a záhuby bezbožných lidí.</verse>
+        <verse osisID='2Pet.3.8'>Jednu věc si uvědomte, milovaní: u Pána je jeden den jako tisíc let a tisíc let jako jeden den.</verse>
+        <verse osisID='2Pet.3.9'>Pán neotálí splnit svůj slib, jak si někteří myslí, ale prokazuje vám svou trpělivost. Nechce totiž, aby někdo zahynul, ale aby všichni došli k pokání.</verse>
+        <verse osisID='2Pet.3.10'>Pánův den ovšem přijde jako zloděj. Toho dne se nebesa s rachotem zřítí, živly se rozpustí žárem a země se všemi svými skutky bude odhalena.</verse>
+        <verse osisID='2Pet.3.11'>Má-li být všechno takto zničeno, jak svatě a zbožně tedy musíte žít vy,</verse>
+        <verse osisID='2Pet.3.12'>kteří dychtivě vyhlížíte příchod Božího dne! Nebesa se tehdy rozplynou ohněm a živly se roztaví žárem,</verse>
+        <verse osisID='2Pet.3.13'>my ale vyhlížíme nové nebe a novou zemi - domov spravedlnosti.</verse>
+        <verse osisID='2Pet.3.14'>Nuže, milovaní, vyhlížejte to všechno a snažte se, aby vás Pán zastihl v pokoji, neposkvrněné a bezúhonné.</verse>
+        <verse osisID='2Pet.3.15'>Trpělivost našeho Pána chápejte jako příležitost ke spáse. (Tak vám to také s moudrostí, kterou dostal, píše náš milovaný bratr Pavel,</verse>
+        <verse osisID='2Pet.3.16'>který tyto věci zmiňuje ve všech svých listech. Některé z nich jsou nesnadno srozumitelné, a tak je nevědomí a nestálí lidé k vlastní záhubě překrucují stejně jako ostatní Písma.)</verse>
+        <verse osisID='2Pet.3.17'>Vy, milovaní, to víte předem, a tak se chraňte. Nenechte se strhnout bludem těch zvrhlíků, neodpadejte od své stálosti.</verse>
+        <verse osisID='2Pet.3.18'>Kéž stále rostete v milosti a poznání našeho Pána a Spasitele Ježíše Krista. Jemu buď sláva nyní i navěky. Amen.</verse>
+      </chapter>
+    </div></osisText>
+</osis>

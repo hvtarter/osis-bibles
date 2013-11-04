@@ -1,0 +1,1017 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace'>
+  <osisText osisIDWork='NorthernAzeri' osisRefWork='Bible' xml:lang='az'>
+    <header>
+      <revisionDesc>
+        <date>2012-01-07</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='NorthernAzeri'>
+        <title>Northern Azeri Translation</title>
+        <contributor/>
+        <creator>Mod2Zef (6)</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject/>
+        <date>2012-01-07</date>
+        <description>Northern Azeri Translation</description>
+        <publisher/>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>NorthernAzeri</identifier>
+        <source>no entry TextSource in sword.conf found</source>
+        <language type='IETF'>az</language>
+        <relation/>
+        <coverage>provide the bible to the nations of the world</coverage>
+        <rights>Copyrighted Kutsul Kitab; Permission to distribute granted to CrossWire</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='2Chr'>
+      <chapter osisID='2Chr.1'>
+        <verse osisID='2Chr.1.1'/>
+        <verse osisID='2Chr.1.2'>Süleyman bütün İsrailliləri, minbaşıları, yüzbaşıları, hakimləri, bütün İsraildə hər bir rəhbəri və nəsil başçılarını çağırdı.</verse>
+        <verse osisID='2Chr.1.3'>Süleyman və onunla bərabər bütün camaat Giveonda olan səcdəgaha getdi, çünki Rəbbin qulu Musanın çöldə qurduğu Allahın Hüzur çadırı orada idi.</verse>
+        <verse osisID='2Chr.1.4'>Ancaq Davud Allahın sandığını Qiryat-Yearimdən onun üçün hazırladığı yerə gətirmişdi, çünki Davud onun üçün Yerusəlimdə bir çadır qurmuşdu.</verse>
+        <verse osisID='2Chr.1.5'>Xur oğlu Uri oğlu Besalelin düzəltdiyi tunc qurbangah Giveonda, Rəbbin məskəni önündə idi və Süleymanla camaat oraya Rəbdən söz soruşmağa getdi.</verse>
+        <verse osisID='2Chr.1.6'>Süleyman oraya – Rəbbin önündə, Hüzur çadırının qarşısındakı tunc qurbangaha qalxdı və onun üzərində min baş yandırma qurbanı təqdim etdi. </verse>
+        <verse osisID='2Chr.1.7'>Həmin gecə Allah Süleymana görünüb ona dedi: «Nə istəyirsən, sənə verim?»</verse>
+        <verse osisID='2Chr.1.8'>Süleyman Allaha dedi: «Sən atam Davuda böyük xeyirxahlıq göstərdin və onun yerinə məni padşah etdin.</verse>
+        <verse osisID='2Chr.1.9'>İndi, ya Rəbb Allah, atam Davuda olan vədin yerinə yetsin, çünki Sən məni yerin tozu qədər çox olan bir xalq üzərində padşah etdin.</verse>
+        <verse osisID='2Chr.1.10'>İndi mənə hikmət və bilik ver ki, bu xalqa nə edib-etməyəcəyimi bilim, çünki bu qədər böyük olan bu xalqına kim hökm edə bilər?»</verse>
+        <verse osisID='2Chr.1.11'>Allah Süleymana dedi: «İndi ki ürəyində bu istək var və sən var-dövlət, əmlak, izzət, hətta sənə nifrət edənlərin canını və özünə uzun ömür istəmədin, ancaq səni üzərində padşah etdiyim xalqıma hökm edəsən deyə özün üçün hikmət və bilik istədin,</verse>
+        <verse osisID='2Chr.1.12'>Mən sənə nəinki hikmət və bilik, həm də var-dövlət, əmlak və izzət verəcəyəm ki, nə səndən əvvəl olan padşahlarda olub, nə də səndən sonrakılarda olacaq».</verse>
+        <verse osisID='2Chr.1.13'>Süleyman Giveonda olan səcdəgahdan, Hüzur çadırının önündən Yerusəlimə gəldi və İsrail üzərində padşahlıq etdi. </verse>
+        <verse osisID='2Chr.1.14'>Süleyman döyüş arabaları ilə süvarilər topladı. Onun min dörd yüz döyüş arabası və on iki min süvarisi var idi. Onları arabalar üçün ayrılan şəhərlərdə və Yerusəlimdə, padşahın yanında yerləşdirdi.</verse>
+        <verse osisID='2Chr.1.15'>Padşah Yerusəlimdə çoxluğuna görə qızıl və gümüşü daşlara, sidr ağacını isə yamaclı-düzənlikli bölgədə bitən firon ənciri ağacına bərabər etdi.</verse>
+        <verse osisID='2Chr.1.16'>Süleymanın atları Misirdən və Quvedən gətirilirdi, padşahın tacirləri onları Quvedən satın alırdı.</verse>
+        <verse osisID='2Chr.1.17'>Hər bir döyüş arabası altı yüz şekel, hər bir at isə yüz əlli şekel gümüşə başa gəlib Misirdən gətirilirdi. Bütün Xet və Aram padşahları da bunları Süleymanın tacirlərinin vasitəsilə alırdı.  </verse>
+      </chapter>
+      <chapter osisID='2Chr.2'>
+        <verse osisID='2Chr.2.1'>
+          Süleyman Rəbbin adına bir məbəd və özü üçün bir saray tikməyi niyyət etdi.</verse>
+        <verse osisID='2Chr.2.2'>Süleyman yük daşıyan yetmiş min nəfər, dağlarda daş yonan səksən min nəfər, onların üzərində nəzarətçi olan üç min altı yüz adam sayıb ayırdı. </verse>
+        <verse osisID='2Chr.2.3'>Süleyman Sur padşahı Xirama xəbər göndərib dedi:  «Yaşamaq üçün özünə saray tiksin deyə atam Davuda sidr ağacları göndərdiyin kimi mənə də göndər.</verse>
+        <verse osisID='2Chr.2.4'>Mən Allahım Rəbbə təqdis etmək üçün Onun adına bir məbəd tikirəm ki, Onun önündə xoş ətirli buxur yandırmaq üçün, daimi təqdis çörəkləri üçün, səhər-axşam, Şənbə günlərində, Təzə Ay mərasimlərində və Allahımız Rəbbin bayramlarında yandırma qurbanları üçün olsun. Bunlar İsrail üçün əbədi qaydadır.</verse>
+        <verse osisID='2Chr.2.5'>Tikəcəyim məbəd böyükdür, çünki Allahımız bütün allahlardan böyükdür.</verse>
+        <verse osisID='2Chr.2.6'>Kim Ona ev tikməyə qadirdir? O, göyə və göylərin göyünə sığmaz və mən kiməm ki, Ona bir ev tikəm? Onun önündə yalnız buxur yandırmaq üçün bir yer tikə bilərəm.</verse>
+        <verse osisID='2Chr.2.7'>Atam Davudun hazırladığı, Yəhudada və Yerusəlimdə mənim yanımda olan ustalarla birgə işləmək üçün mənə bir adam göndər ki, qızıl, gümüş, tunc, dəmir işlərini, tünd qırmızı, al rəngli və bənövşəyi parça işlərini bacarsın, hər cür oyma işi görsün.</verse>
+        <verse osisID='2Chr.2.8'>Livandan mənə sidr, şam və ardıc ağacları göndər, çünki bilirəm ki, sənin adamların Livanda ağac kəsməyi bacarır.</verse>
+        <verse osisID='2Chr.2.9'>İndi mənə bol taxta-şalban hazırlasınlar deyə mənim adamlarım sənin adamlarınla birgə olacaq. Çünki tikəcəyim məbəd böyük və möcüzəli bir şey olacaq.</verse>
+        <verse osisID='2Chr.2.10'>Mən isə sənin adamlarına – ağac kəsənlərə iyirmi min kor döyülmüş buğda, iyirmi min kor arpa, iyirmi min bat şərab və iyirmi min bat zeytun yağı verirəm». </verse>
+        <verse osisID='2Chr.2.11'>Sur padşahı Xiram göndərdiyi məktubla Süleymana cavab verdi: </verse>
+        <verse osisID='2Chr.2.12'>Xiram belə davam etdi: </verse>
+        <verse osisID='2Chr.2.13'>Bacarıqlı və həssas olan Xiram-Avini yanına göndərdim ki, sənin ustalarınla və atanın – ağam Davudun ustaları ilə birgə ona da iş tapşırılsın.</verse>
+        <verse osisID='2Chr.2.14'>O, Danlı bir qadının oğludur, atası isə Surlu idi. Bu adam qızıl, gümüş, tunc, dəmir, daş, ağac işlərini, tünd qırmızı, bənövşəyi, al rəngli parça və incə kətan işlərini bacarır, hər cür oyma işini və ona tapşırılan hər naxışı çəkə bilir. </verse>
+        <verse osisID='2Chr.2.15'>Ağamın söylədiyi buğdanı və arpanı, zeytun yağını və şərabı qullarına göndər.</verse>
+        <verse osisID='2Chr.2.16'>Biz isə sənə lazım olduğu qədər Livandan ağac kəsərik, onu sallarla dəniz yolu ilə sənin yanına Yafoya gətirərik və sən də onu Yerusəlimə çıxararsan». </verse>
+        <verse osisID='2Chr.2.17'>Atası Davud İsrail torpağında olan bütün qəribləri siyahıya aldıqdan sonra Süleyman onları bir də saydı. Qəriblər yüz əlli üç min altı yüz nəfər idi.</verse>
+        <verse osisID='2Chr.2.18'>Onlardan yetmiş min nəfəri yük daşımağa, səksən min nəfəri dağlarda daş yonmağa qoydu. Üç min altı yüz adamı da xalqı işlətmək üçün nəzarətçi qoydu.  </verse>
+      </chapter>
+      <chapter osisID='2Chr.3'>
+        <verse osisID='2Chr.3.1'>
+          Süleyman Yerusəlimdə atası Davuda Rəbbin göründüyü Moriya dağında, Yevuslu Ornanın xırmanında Davudun hazırladığı yerdə Rəbbin məbədini tikməyə başladı.</verse>
+        <verse osisID='2Chr.3.2'>Onu padşahlığının dördüncü ilində, ikinci ayın ikinci günündə tikməyə başladı.</verse>
+        <verse osisID='2Chr.3.3'>Allahın məbədinin tikilməsi üçün Süleymanın qoyduğu bünövrələr bunlardır: bünövrələrin uzunluğu köhnə ölçüyə görə altmış qulac və eni iyirmi qulac idi.</verse>
+        <verse osisID='2Chr.3.4'>Məbədin önündəki eyvanın uzunluğu məbədin eninə görə iyirmi qulac və hündürlüyü yüz iyirmi qulac idi. Onu içəridən xalis qızılla örtdü.</verse>
+        <verse osisID='2Chr.3.5'>Böyük otağa şam ağacı ilə örtük vurub onu xalis qızılla örtdü, onun üstünə xurma ağacları və zəncir təsvirləri həkk etdi.</verse>
+        <verse osisID='2Chr.3.6'>Əzəmətli olsun deyə evi qiymətli daşlarla bəzədi. Qızıl Parvayim qızılı idi.</verse>
+        <verse osisID='2Chr.3.7'>Məbədi və onun dirəklərini, astanalarını, divarlarını və qapılarını qızılla örtdü, divarlarda keruvların təsvirini oydu.</verse>
+        <verse osisID='2Chr.3.8'>Süleyman Ən Müqəddəs yeri də tikdi. Onun uzunluğu məbədin eninə görə iyirmi qulac və eni iyirmi qulac idi. Onu altı yüz talant xalis qızılla örtdü.</verse>
+        <verse osisID='2Chr.3.9'>Qızıl mismarların ağırlığı əlli şekel idi. Yuxarı otaqları da qızılla örtdü. </verse>
+        <verse osisID='2Chr.3.10'>Ən Müqəddəs yerdə heykəltəraş işi olan iki keruv düzəltdi və onları qızılla örtdü.</verse>
+        <verse osisID='2Chr.3.11'>Keruvların qanadları iyirmi qulac uzunluğunda idi. Bir keruvun qanadı beş qulac idi və evin divarına dəyirdi. O biri qanadı da beş qulac idi və o biri keruvun qanadına dəyirdi.</verse>
+        <verse osisID='2Chr.3.12'>O biri keruvun da qanadı beş qulac idi və evin divarına dəyirdi. O biri qanadı da beş qulac idi və o biri keruvun qanadına birləşmişdi.</verse>
+        <verse osisID='2Chr.3.13'>Bu keruvların qanadları iyirmi qulac uzanırdı. Keruvlar ayaq üstə durmuşdu və üzləri böyük otağa doğru çevrilmişdi.</verse>
+        <verse osisID='2Chr.3.14'>O, bənövşəyi, tünd qırmızı, al rəngli parça və incə kətandan pərdə tikdi, üzərində keruvlar işlədi. </verse>
+        <verse osisID='2Chr.3.15'>Süleyman məbədin önündə otuz beş qulac hündürlüyündə iki sütun düzəltdi və hər bir sütunun üstündəki başlıq beş qulac idi.</verse>
+        <verse osisID='2Chr.3.16'>İç otaqda zəncirlər düzəltdi və onları sütunların üstünə qoydu, yüz nar düzəltdi və onları zəncirlərin üzərinə qoydu.</verse>
+        <verse osisID='2Chr.3.17'>O, sütunları məbədin önünə – birini sağa və o birini sola qoydu. Sağda olanı Yakin, solda olanı isə Boaz adlandırdı.  </verse>
+      </chapter>
+      <chapter osisID='2Chr.4'>
+        <verse osisID='2Chr.4.1'>Süleyman tuncdan bir qurbangah tikdi. Onun uzunluğu və eni iyirmi qulac, hündürlüyü isə on qulac idi.</verse>
+        <verse osisID='2Chr.4.2'>O, tökülmüş dairəvi bir hovuz düzəltdi. Onun hündürlüyü beş qulac idi, bir kənarından digər kənarına qədər on qulac idi və otuz qulaclıq bir ip onun ətrafına dolanmışdı.</verse>
+        <verse osisID='2Chr.4.3'>Altının hər tərəfindən onu buğa təsvirləri əhatə edirdi. Hər qulacda on buğa vardı. Buğalar iki cərgə idi və onlar hovuzla birgə tökülmüşdü.</verse>
+        <verse osisID='2Chr.4.4'>Hovuz on iki tökmə buğanın üstündə dururdu: üçü şimala, üçü qərbə, üçü cənuba, üçü də şərqə baxırdı. Hovuz yuxarıda – onların üzərində idi və buğaların bütün sağrıları içəriyə doğru idi.</verse>
+        <verse osisID='2Chr.4.5'>Hovuzun qalınlığı bir ovuc idi. Onun kənarı kasa kənarı kimi düzəldilmişdi və açılan zanbağa bənzəyirdi. O, üç min bat su tuturdu.</verse>
+        <verse osisID='2Chr.4.6'>Süleyman on ləyən düzəltdi, onlarda yuyunmaq üçün beşini sağa, beşini sola qoydu. Yandırma qurbanı olacaq şeyləri onların içində yuyardılar. Ancaq hovuz kahinlərin yuyunması üçün idi. </verse>
+        <verse osisID='2Chr.4.7'>O, təsvirinə görə on qızıl çıraqdan düzəltdi, beşi sağda və beşi solda olmaqla onları məbədə qoydu.</verse>
+        <verse osisID='2Chr.4.8'>On masa düzəltdi, beşi sağda və beşi solda olmaqla onları məbədə qoydu. Qızıldan yüz piyalə də düzəltdi.</verse>
+        <verse osisID='2Chr.4.9'>Kahinlər həyətini, böyük həyəti, həyətin qapılarını düzəltdi və onların qapılarını tuncla örtdü.</verse>
+        <verse osisID='2Chr.4.10'>Hovuzu məbədin sağında, cənub-şərq küncündə yerləşdirdi.</verse>
+        <verse osisID='2Chr.4.11'>Xiram həmçinin qazanlar, kürəklər, piyalələr düzəltdi. </verse>
+        <verse osisID='2Chr.4.12'>iki sütun; </verse>
+        <verse osisID='2Chr.4.13'>sütunların üstündə olan dəyirmi başlıqları örtən hər hörmə torun üzərində iki cərgədə dörd yüz nar; </verse>
+        <verse osisID='2Chr.4.14'>dayaqlar; </verse>
+        <verse osisID='2Chr.4.15'>bir hovuz; </verse>
+        <verse osisID='2Chr.4.16'>qazanlar, kürəklər və piyalələr.  Bütün bu əşyaları Xiram-Avi Rəbbin məbədi üçün padşah Süleymanın əmri ilə cilalanmış tuncdan tökmüşdü.</verse>
+        <verse osisID='2Chr.4.17'>Padşah bunları İordan çayının kənarındakı düzənlikdə, Sukkot ilə Seredata arasındakı gil torpaqlarda tökmüşdü.</verse>
+        <verse osisID='2Chr.4.18'>Süleyman bu əşyaların hamısından lap çox düzəltdi və onlara işlədilən tuncun çəkisini müəyyən etmədi. </verse>
+        <verse osisID='2Chr.4.19'>Süleyman Allahın məbədindəki bütün əşyaları düzəltdi: </verse>
+        <verse osisID='2Chr.4.20'>qaydaya görə iç otağın önündə yandırmaq üçün xalis qızıldan çıraqdanlar və onların çıraqları; </verse>
+        <verse osisID='2Chr.4.21'>xalis qızıldan güllər, çıraqlar və maşalar; </verse>
+        <verse osisID='2Chr.4.22'>xalis qızıldan maqqaşlar, piyalələr, nimçələr və buxurdanlar; </verse>
+      </chapter>
+      <chapter osisID='2Chr.5'>
+        <verse osisID='2Chr.5.1'>Rəbbin məbədi üçün Süleymanın gördüyü bütün işlər qurtardı. Atası Davudun təqdis etdiyi qızıl-gümüşü və əşyaları Süleyman içəri gətirib Allahın məbədinin xəzinələrinə qoydu. </verse>
+        <verse osisID='2Chr.5.2'>O zaman padşah Süleyman İsrailin ağsaqqallarını, bütün qəbilə başçılarını, yəni İsrail övladlarının nəsil rəhbərlərini Yerusəlimə, özünün yanına topladı ki, Rəbbin Əhd sandığını Davudun şəhəri olan Siondan yuxarı gətirsinlər.</verse>
+        <verse osisID='2Chr.5.3'>Yeddinci ayda olan bayram vaxtı bütün İsrail xalqı padşahın yanına toplandı.</verse>
+        <verse osisID='2Chr.5.4'>Bütün İsrail ağsaqqalları gələndə Levililər sandığı götürdü.</verse>
+        <verse osisID='2Chr.5.5'>Onunla birgə Hüzur çadırını və çadırda olan bütün müqəddəs əşyaları Levili kahinlər yuxarı gətirdi.</verse>
+        <verse osisID='2Chr.5.6'>Padşah Süleyman və onun yanına toplanmış bütün İsrail icması sandığın önündə çoxluğuna görə sayı-hesabı bilinməyən qoyun-keçi və mal-qara qurban kəsirdi.</verse>
+        <verse osisID='2Chr.5.7'>Kahinlər Rəbbin Əhd sandığını öz yerinə, məbədin iç otağına – Ən Müqəddəs yerə, keruvların qanadları altındakı yerinə gətirdi.</verse>
+        <verse osisID='2Chr.5.8'>Keruvlar qanadlarını sandığın yeri üzərində açmışdı, onlar sandığı və onun şüvüllərini örtmüşdü.</verse>
+        <verse osisID='2Chr.5.9'>Şüvüllər elə uzun idi ki, onların ucu iç otağın önündəki Müqəddəs yerdən görünürdü, ancaq bayır tərəfdən görünmürdü. Onlar bu günə qədər oradadır.</verse>
+        <verse osisID='2Chr.5.10'>İsrail övladları Misirdən çıxdıqları zaman Rəbbin onlarla əhd bağladığı Xorevdə Musa sandığın içinə iki lövhə qoymuşdu. Bunlardan başqa onun içində heç bir şey yox idi. </verse>
+        <verse osisID='2Chr.5.11'>Kahinlər Müqəddəs yerdən çıxdılar. Hazır olan kahinlərin hamısı bölmələrini gözləmədən özlərini təqdis etmişdi.</verse>
+        <verse osisID='2Chr.5.12'>İlahi oxuyan Levililərin hamısı da – Asəf, Heman, Yedutun və onların oğulları ilə qohumları incə kətan geyərək sinclər, çənglər və liralarla qurbangahın şərq tərəfində dayandılar və onlarla bərabər yüz iyirmi kahin kərənay çalırdı.</verse>
+        <verse osisID='2Chr.5.13'>Kərənay çalanlar və ilahiçilər bir səslə Rəbbə həmd və şükür etməklə səslərini birgə ucaltdılar. Kərənayların, sinclərin, musiqi alətlərinin səsi yüksələndə onlar dedi: «Rəbbə həmd edin, çünki yaxşıdır, çünki məhəbbəti əbədidir». O vaxt bulud Rəbbin məbədini elə doldurdu ki,</verse>
+        <verse osisID='2Chr.5.14'>o buluda görə kahinlər ibadət etmək üçün orada dayana bilmədilər, çünki Rəbbin izzəti Allahın məbədini doldurmuşdu.  </verse>
+      </chapter>
+      <chapter osisID='2Chr.6'>
+        <verse osisID='2Chr.6.1'>O zaman Süleyman dedi: «Rəbb istədi ki, qatı qaranlıqda məskən salsın.</verse>
+        <verse osisID='2Chr.6.2'>Mən Sənin üçün uca bir məbəd tikdim ki, Sənin əbədi yaşayacağın yer olsun». </verse>
+        <verse osisID='2Chr.6.3'>Padşah dönüb bütün İsrail camaatına xeyir-dua verdi. Bu zaman bütün İsrail camaatı ayaq üstə durmuşdu.</verse>
+        <verse osisID='2Chr.6.4'>Padşah dedi: «İsrailin Allahı Rəbbə alqış olsun ki, atam Davuda Öz ağzı ilə dediyini Öz əli ilə yerinə yetirdi. O söyləmişdi:</verse>
+        <verse osisID='2Chr.6.5'>“Mən xalqımı Misir torpağından çıxartdığım gündən bəri bir məbəd tikmək üçün İsrailin heç bir qəbiləsindən şəhər seçməmişdim ki, adım üstündə olsun. Xalqım İsrail üzərində hökmdar olmaq üçün bir adam da seçməmişdim.</verse>
+        <verse osisID='2Chr.6.6'>İndi isə adım orada olsun deyə Yerusəlimi seçmişəm və xalqım İsrail üzərində hökmdar olmaq üçün Davudu seçmişəm”.</verse>
+        <verse osisID='2Chr.6.7'>Atam Davudun ürəyində İsrailin Allahı Rəbbin adına bir məbəd tikmək istəyi var idi.</verse>
+        <verse osisID='2Chr.6.8'>Lakin Rəbb atam Davuda dedi: “Sən yaxşı eləmisən ki, Mənim adıma bir məbəd tikmək niyyətinə düşmüsən.</verse>
+        <verse osisID='2Chr.6.9'>Ancaq məbədi sən tikməyəcəksən, sənin belindən gələn oğlun Mənim adıma məbəd tikəcək”.</verse>
+        <verse osisID='2Chr.6.10'>Rəbb vəd etdiyini yerinə yetirdi: belə ki mən atam Davudun yerinə qalxdım, Rəbbin dediyi kimi İsrail taxtında oturdum və İsrailin Allahı Rəbbin adına məbəd tikdim.</verse>
+        <verse osisID='2Chr.6.11'>Sandığı oraya qoydum. Rəbbin İsrail övladları ilə bağladığı əhd onun içindədir». </verse>
+        <verse osisID='2Chr.6.12'>Süleyman Rəbbin qurbangahı önündə, bütün İsrail camaatının qarşısında durub əllərini göyə açdı.</verse>
+        <verse osisID='2Chr.6.13'>O, tuncdan uzunluğu ilə eni beş qulac, hündürlüyü isə üç qulac olan bir kürsü düzəldib həyətin ortasına qoymuşdu və indi onun üstündə dururdu. Bütün İsrail camaatı önündə diz çöküb əllərini göyə açdı.</verse>
+        <verse osisID='2Chr.6.14'>Süleyman dedi: «Ya Rəbb, İsrailin Allahı! Nə göydə, nə də yerdə Sənin kimi Allah yoxdur. Sən bütün ürəkləri ilə yolunla gedən qullarına əhdini və lütfünü saxlayırsan.</verse>
+        <verse osisID='2Chr.6.15'>Sən qulun atam Davuda verdiyin vədə əməl etdin, Öz dilinlə söylədiyini bu gün Öz əlinlə yerinə yetirdin.</verse>
+        <verse osisID='2Chr.6.16'>Ya Rəbb İsrailin Allahı, indi də qulun atam Davuda dediyin sözə əməl et. Özün söyləmişdin: “Sən yolumla getdiyin kimi oğulların da qanunuma görə əməl edərək öz yollarına diqqət edərlərsə, İsrail taxtında sənin nəslindən bir kişi əskik olmayacaq”.</verse>
+        <verse osisID='2Chr.6.17'>Ey İsrailin Allahı Rəbb, indi qulun atam Davuda dediyin sözü təsdiq et! </verse>
+        <verse osisID='2Chr.6.18'>Lakin, doğrudan da, Allah yerdə, insanların yanında yaşayarmı? Sən göyə və göylərin göyünə sığmazsan, o ki qaldı mənim tikdiyim məbədə!</verse>
+        <verse osisID='2Chr.6.19'>Ancaq Sən bu qulunun duasına və yalvarışına nəzər sal, ya Rəbb Allahım, bu gün onun önündə etdiyi fəryadı və duanı eşit.</verse>
+        <verse osisID='2Chr.6.20'>Qoy Sənin nəzərin gecə-gündüz bu məbədin üstündə olsun. Bu yer barədə Sən demisən ki, adını orada qoyursan. Qulunun buraya üz tutub etdiyi duanı eşit.</verse>
+        <verse osisID='2Chr.6.21'>Bu yerə tərəf dua etdikləri vaxt Öz qulunun və xalqın İsrailin yalvarışlarını Sən eşit, göydən – Öz məskənindən eşit və bağışla! </verse>
+        <verse osisID='2Chr.6.22'>Əgər bir adam öz yaxınına qarşı günah edərsə və ondan and içmək tələb olunarsa, o da gəlib bu məbəddə, Sənin qurbangahın önündə and içərsə,</verse>
+        <verse osisID='2Chr.6.23'>o vaxt Sən göydən eşit və belə et, qulların üzərində hökm et: əməlini öz başına döndərərək müqəssiri ittiham et və təqsirsizə salehliyinə görə bəraət ver. </verse>
+        <verse osisID='2Chr.6.24'>Əgər xalqın İsrail Sənə qarşı günah etdiyi üçün düşmən önündə məğlub olsa və onlar təkrar Sənə dönüb adını dillərinə gətirsələr və bu məbəddə Sənə yalvarıb fəryad etsələr,</verse>
+        <verse osisID='2Chr.6.25'>o vaxt Sən göydən eşit və xalqın İsrailin günahını bağışla, onları yenə özlərinə və atalarına verdiyin torpağa qaytar. </verse>
+        <verse osisID='2Chr.6.26'>Əgər xalqın Sənin önündə günah etdiyi üçün göy bağlanıb yağış yağmayan vaxt bu yerə tərəf dua edərək adını dillərinə gətirsələr və Sən onlara bəla göndərdiyin vaxt öz günahlarından dönsələr,</verse>
+        <verse osisID='2Chr.6.27'>o vaxt Sən göydə eşit, qullarının və xalqın İsrailin günahını bağışla və gedəcəkləri doğru yolu onlara göstər. Xalqına irs kimi verdiyin torpağına da yağış göndər. </verse>
+        <verse osisID='2Chr.6.28'>Əgər ölkədə aclıq, vəba olarsa, səmum küləyi ya kif, çəyirtkə ya bitki qurdu olarsa, əgər düşmən onları ölkənin hər hansı bir şəhərində mühasirəyə alarsa – hansı bəla, hansı xəstəlik olursa-olsun –</verse>
+        <verse osisID='2Chr.6.29'>kimsə tərəfindən yaxud da bütün xalqın İsrail tərəfindən bir dua və yalvarış olarsa, hər kəs öz bəlasını və dərdini bilib bu məbədə tərəf əllərini açsa,</verse>
+        <verse osisID='2Chr.6.30'>o vaxt Sən göydən – Öz məskənindən eşit və bağışla. Ürəyini bildiyin hər adama bütün əməllərinə görə əvəz ver, çünki insan ürəklərini yalnız Sən bilirsən.</verse>
+        <verse osisID='2Chr.6.31'>Ta ki onlar atalarımıza verdiyin torpaqda yaşadıqları bütün günlər boyu Sənin yolunla getmək üçün Səndən qorxsun. </verse>
+        <verse osisID='2Chr.6.32'>Əgər xalqın İsraildən olmayan yadelli də uzaq ölkədən gəlsə, Sənin böyük adın, qüdrətli əlin və uzanan qolun barədə eşidib bu məbədə tərəf dua etsə,</verse>
+        <verse osisID='2Chr.6.33'>o vaxt Sən göydən – Öz məskənindən eşit və yadellinin Sənə fəryad etdiyi hər şeyi et ki, yer üzünün bütün xalqları da Sənin adını tanısın, xalqın İsrail kimi Səndən qorxsun və tikdiyim bu məbədin Sənin adınla çağırıldığını bilsin. </verse>
+        <verse osisID='2Chr.6.34'>Əgər xalqın göndərdiyin yolla düşmənlərinə qarşı müharibəyə çıxsa və Sənin seçdiyin bu şəhərə tərəf, Sənin adına tikdiyim məbədə doğru üz çevirib Sənə dua etsə,</verse>
+        <verse osisID='2Chr.6.35'>Sən göydən onların dualarını və yalvarışlarını eşit, onların tərəfində ol. </verse>
+        <verse osisID='2Chr.6.36'>Əgər onlar önündə günah etsələr – çünki günah etməyən insan yoxdur – Sən qəzəblənib onları düşmənə təslim etsən və düşmən onları əsir edib yaxın ya uzaq torpağına aparsa,</verse>
+        <verse osisID='2Chr.6.37'>onlar əsirlikdə olduqları ölkədə ürəklərini döndərib tövbə etsələr və Sənə dua edərək “biz günah və haqsızlıq etdik, pislik etdik” desələr,</verse>
+        <verse osisID='2Chr.6.38'>onların əsir olunub aparıldığı ölkədə bütün ürəkləri və canları ilə Sənə tərəf dönsələr, atalarına verdiyin torpağa, seçdiyin şəhərə və adına tikdiyim məbədə tərəf üz tutub Sənə dua etsələr,</verse>
+        <verse osisID='2Chr.6.39'>o vaxt Sən göydən – Öz məskənindən onların dua və yalvarışlarını eşit və onların tərəfində ol. Sənin önündə günah edən xalqını bağışla.</verse>
+        <verse osisID='2Chr.6.40'>İndi, ey Allahım, Sənə yalvarıram, bu yerdə edilən duanı gözlərin görsün və qulaqların eşitsin.</verse>
+        <verse osisID='2Chr.6.41'>Ya Rəbb Allah, qüvvənin rəmzi olan sandığınla birgə,Gücün rəmzi olan sandığınla birgəİstirahət edəcəyin yerə qalx.Ya Rəbb Allah, kahinlərin zəfərinlə əhatə olunsun,Möminlərin xeyirxahlığına görə sevinsin.</verse>
+        <verse osisID='2Chr.6.42'>Ya Rəbb Allah, məsh etdiyindən üz döndərmə,Qulun Davuda göstərdiyin məhəbbətini yada sal». </verse>
+      </chapter>
+      <chapter osisID='2Chr.7'>
+        <verse osisID='2Chr.7.1'>
+            Süleyman duanı bitirdikdə göydən od düşüb yandırma qurbanları və təqdimləri uddu. Rəbbin izzəti məbədi doldurdu.</verse>
+        <verse osisID='2Chr.7.2'>Kahinlər Rəbbin məbədinə girə bilmədi, çünki Rəbbin izzəti Öz məbədini doldurmuşdu.</verse>
+        <verse osisID='2Chr.7.3'>Bütün İsrail övladları odun düşdüyünü və məbədin üzərində olan Rəbbin izzətini görəndə daş döşəmənin üstündə üzüstə yerə çöküb «Rəbbə şükür olsun, çünki O yaxşıdır, Onun məhəbbəti əbədidir» deyərək səcdə etdilər. </verse>
+        <verse osisID='2Chr.7.4'>Padşah və bütün xalq Rəbbin önündə qurbanlar kəsdi.</verse>
+        <verse osisID='2Chr.7.5'>Padşah Süleyman qurban olaraq iyirmi iki min baş mal-qara və yüz iyirmi min baş qoyun-keçi təqdim etdi. Beləliklə, padşah və bütün xalq Allahın məbədini təqdis etdi.</verse>
+        <verse osisID='2Chr.7.6'>Kahinlər öz vəzifələrinə görə dayandı, Levililər isə Rəbbin musiqi alətləri ilə durdu. Padşah Davud bunları düzəltmişdi ki, o, «Rəbbə şükür olsun, çünki məhəbbəti əbədidir» oxuyaraq həmd edəndə Levililər onlarda çalsın. Kahinlər onların qarşısında kərənaylar çalırdı və bütün İsraillilər ayaq üstə dayanmışdı. </verse>
+        <verse osisID='2Chr.7.7'>Süleyman Rəbbin məbədi önündəki həyətin ortasını təqdis etdi ki, yandırma qurbanları və ünsiyyət qurbanlarının piyini orada təqdim etsin. Çünki düzəltdiyi tunc qurbangah kiçik olduğu üçün yandırma qurbanları, taxıl təqdimləri və piy oraya yerləşməzdi. </verse>
+        <verse osisID='2Chr.7.8'>O vaxt Süleyman və onunla birgə çox böyük bir camaat – Xamat keçidindən Misir vadisinə qədər yaşayan bütün İsraillilər yeddi gün bayram etdi.</verse>
+        <verse osisID='2Chr.7.9'>Səkkizinci gün təntənəli toplantı oldu. Qurbangahın təqdisi yeddi gün, bayram da yeddi gün oldu.</verse>
+        <verse osisID='2Chr.7.10'>Yeddinci ayın iyirmi üçüncü günü Süleyman xalqı buraxdı. Rəbbin Davuda, Süleymana və xalqı İsrailə etdiyi yaxşılıqlara görə onlar sevinclə və şad ürəklə öz evlərinə getdi. </verse>
+        <verse osisID='2Chr.7.11'>Süleyman Rəbbin məbədini və padşah sarayını tikib qurtardı. Rəbbin məbədində və öz sarayında ürəyi istədiyi hər şeyi uğurla etdi.</verse>
+        <verse osisID='2Chr.7.12'>Rəbb Süleymana gecə görünüb ona dedi: «Sənin duanı eşitdim və bu yeri Özümə qurban evi seçdim.</verse>
+        <verse osisID='2Chr.7.13'>Göyləri bağladığım və yağış olmadığı vaxt yeri yeyib qurtarsın deyə, çəyirtkəyə əmr etdiyim və xalqımın arasına vəba göndərdiyim zaman</verse>
+        <verse osisID='2Chr.7.14'>əgər Mənim adımla çağırılan xalqım özünü aşağı tutarsa, dua edib Məni axtararsa və pis yollarından dönərsə, o vaxt göydən eşidib onların günahını bağışlayacağam və torpaqlarını sağaldacağam.</verse>
+        <verse osisID='2Chr.7.15'>İndi bu yerdə edilən duanı gözlərim görəcək və qulaqlarım eşidəcək.</verse>
+        <verse osisID='2Chr.7.16'>İndi adımı əbədilik oraya qoymaq üçün bu məbədi seçib təqdis etdim. Mənim nəzərim və ürəyim daim orada olacaq.</verse>
+        <verse osisID='2Chr.7.17'>Əgər sən Mənim əmr etdiklərimi yerinə yetirərək atan Davud kimi yolumla getsən, Mənim qanunlarıma və hökmlərimə əməl etsən,</verse>
+        <verse osisID='2Chr.7.18'>sənin padşahlıq taxtını ucaldacağam. Mən “sənin nəslindən İsrailə hökm edən bir kişi əskik olmayacaq” deyərək atan Davudla əhd bağlamışdım. </verse>
+        <verse osisID='2Chr.7.19'>Ancaq siz dönüb qarşınıza qoyduğum qanunlarımı və əmrlərimi tərk etsəniz, gedib başqa allahlara qulluq edərək onlara səcdə etsəniz,</verse>
+        <verse osisID='2Chr.7.20'>Mən İsrailliləri onlara verdiyim torpaqdan qovub atacağam və Öz adıma təqdis etdiyim bu məbədi hüzurumdan rədd edəcəyəm. Onda İsrail barədə bütün xalqlar arasında məsəl və kinayə söylədəcəyəm.</verse>
+        <verse osisID='2Chr.7.21'>İndi uca olan bu məbədin yanından keçən hər kəs dəhşətə gələrək deyəcək: “Nə üçün Rəbb bu torpağı və bu məbədi bu cür rədd etdi?”</verse>
+        <verse osisID='2Chr.7.22'>Onlara deyəcəklər: “Bu xalq atalarını Misir torpağından çıxaran Allahı Rəbbi tərk etdi və başqa allahlardan yapışdı, onlara səcdə və qulluq etdilər. Buna görə də O bütün bu bəlanı onların üzərinə göndərdi”».  </verse>
+      </chapter>
+      <chapter osisID='2Chr.8'>
+        <verse osisID='2Chr.8.1'>
+          Süleyman Rəbbin məbədini və öz sarayını iyirmi ilə tikib qurtardıqdan sonra</verse>
+        <verse osisID='2Chr.8.2'>Xiramın Süleymana verdiyi şəhərləri Süleyman yenə tikdi və İsrail övladlarını orada yerləşdirdi. </verse>
+        <verse osisID='2Chr.8.3'>Süleyman Xamat-Sovaya getdi və bu ölkəni tutdu.</verse>
+        <verse osisID='2Chr.8.4'>Səhrada Tadmoru və Xamatda bütün anbar şəhərlərini tikdi.</verse>
+        <verse osisID='2Chr.8.5'>Yuxarı Bet-Xoronu və Aşağı Bet-Xoronu, divarlarla, qapılarla və sürgülərlə olan qalalı şəhərlər kimi tikdi.</verse>
+        <verse osisID='2Chr.8.6'>Baalatı, özünün bütün anbar şəhərlərini, bütün döyüş arabalarının olduğu şəhərləri, süvarilərin olduğu şəhərləri, Yerusəlimdə, Livanda və onun hökmranlığı altında olan bütün yerlərdə tikmək istədiyi hər şeyi tikdi. </verse>
+        <verse osisID='2Chr.8.7'>Ölkədə İsraillilərdən olmayan başqa xalqlar – Xetlilər, Emorlular, Perizlilər, Xivlilər və Yevuslular qalmışdı.</verse>
+        <verse osisID='2Chr.8.8'>Çünki İsrail övladları onların atalarını məhv etməmişdi. Süleyman onları mükəlləfiyyətçi etdi və bu indiyə qədər belədir.</verse>
+        <verse osisID='2Chr.8.9'>İsrail övladlarından isə heç kəsi öz işi üçün qul etmədi, ancaq onlar Süleymanın əsgərləri, keşik rəisləri, döyüş arabalarının və süvarilərinin başçıları idi.</verse>
+        <verse osisID='2Chr.8.10'>Padşah Süleymanın nəzarətçi rəisləri də İsraillilərdən idi. Xalqa rəislik edən bu adamlar iki yüz əlli nəfər idi. </verse>
+        <verse osisID='2Chr.8.11'>Süleyman fironun qızını Davudun şəhərindən onun üçün tikdiyi evinə köçürdü. Çünki o dedi: «Arvadım İsrailin padşahı Davudun sarayında yaşamasın, ona görə ki Rəbbin sandığının gəldiyi yerlər müqəddəsdir». </verse>
+        <verse osisID='2Chr.8.12'>O vaxt Süleyman eyvanın önündə düzəltdiyi Rəbbin qurbangahında Rəbbə yandırma qurbanları təqdim edərdi.</verse>
+        <verse osisID='2Chr.8.13'>Şənbə günlərində və Təzə Ay mərasimlərində, ildə üç dəfə bayramlarda – Mayasız Çörək bayramında, Həftələr bayramında və Çardaqlar bayramında Musanın əmr etdiyi təqdimlər günündə təqdim edərdi. </verse>
+        <verse osisID='2Chr.8.14'>Atası Davudun hökmünə görə, o, kahinlərin bölmələrini xidmətlərinə görə, hər günün qaydası ilə kahinlərin yanında həmd və xidmət etmək üçün Levililəri vəzifələrinə görə və hər qapıya qapıçıları bölmələrinə görə təyin etdi. Çünki Allah adamı Davud belə əmr etmişdi.</verse>
+        <verse osisID='2Chr.8.15'>Onlar hər məsələdə, xəzinələrlə bağlı məsələlərdə padşahın kahinlərə və Levililərə olan əmrindən çıxmadı. </verse>
+        <verse osisID='2Chr.8.16'>Rəbbin məbədinin bünövrəsinin qoyulmasından tikilib qurtarmasına qədər Süleymanın hər işi hazırlanmışdı. Beləcə Rəbbin məbədi tikilib qurtardı. </verse>
+        <verse osisID='2Chr.8.17'>Süleyman Edom ölkəsində, dənizin körfəzində olan Esyon-Geverə və Elata getdi.</verse>
+        <verse osisID='2Chr.8.18'>Xiram adamlarının vasitəsilə ona gəmilər və dənizə bələd adamlar göndərdi. Onlar Süleymanın adamları ilə birgə Ofirə gəldi və oradan dörd yüz əlli talant qızıl götürüb padşah Süleymana gətirdilər.  </verse>
+      </chapter>
+      <chapter osisID='2Chr.9'>
+        <verse osisID='2Chr.9.1'>
+            Səba mələkəsi Süleymanın şöhrətini eşidib onu tapmacalarla sınamağa gəldi. O, çox böyük karvanla – ətriyyat, çoxlu qızıl və qiymətli daşlarla yüklənmiş dəvələrlə Yerusəlimə, Süleymanın yanına gəldi və ürəyində olan hər şey barədə onunla söhbət etdi.</verse>
+        <verse osisID='2Chr.9.2'>Süleyman onun bütün suallarına cavab verdi, elə bir gizli şey olmadı ki, padşah ona izah etməsin.</verse>
+        <verse osisID='2Chr.9.3'>Səba mələkəsi Süleymanın hikmətini və onun tikdiyi sarayı,</verse>
+        <verse osisID='2Chr.9.4'>süfrəsindəki yeməyi, əyanlarının oturuşunu, qulluqçularının xidmətini və onların geyimlərini, saqilərini və onların geyimlərini, Rəbbin məbədində gətirdiyi yandırma qurbanları görəndə daha özünü saxlaya bilmədi.</verse>
+        <verse osisID='2Chr.9.5'>O, padşaha dedi: «Sənin işlərin və hikmətin barədə öz ölkəmdə eşitdiyim sözlər düz imiş.</verse>
+        <verse osisID='2Chr.9.6'>Gəlib öz gözlərimlə görənə qədər mən bu sözlərə inanmamışdım. Mənə sənin böyük hikmətinin yarısı belə, danışılmayıb, sənin şöhrətin barədə eşitdiklərimdən də üstünsən.</verse>
+        <verse osisID='2Chr.9.7'>Sənin adamların nə bəxtiyardır və bu qulluqçuların nə bəxtiyardır ki, həmişə önündə durub hikmətini eşidirlər.</verse>
+        <verse osisID='2Chr.9.8'>Allahın Rəbbə alqış olsun ki, səni istəyib Allahın Rəbb üçün padşah kimi İsrail taxtında oturtdu! Allahın İsraili əbədi möhkəmləndirməkdən ötrü ona olan sevgisi naminə ədalət və salehliklə hökm etmək üçün səni onlar üzərinə padşah qoydu».</verse>
+        <verse osisID='2Chr.9.9'>Səba mələkəsi padşaha yüz iyirmi talant qızıl, çoxlu ətriyyat və qiymətli daşlar bağışladı. Onun padşah Süleymana verdiyi qədər ətriyyat hələ heç vaxt gəlməmişdi. </verse>
+        <verse osisID='2Chr.9.10'>Ofirdən qızıl gətirən Xiramın adamları ilə Süleymanın adamları ardıc ağacı və qiymətli daşlar da gətirdilər.</verse>
+        <verse osisID='2Chr.9.11'>Padşah ardıc ağacından Rəbbin məbədi və padşah sarayı üçün pilləkənlər, musiqiçilər üçün lira və çəng düzəltdi. Yəhuda diyarında bu günə qədər beləsi görünməmişdi.</verse>
+        <verse osisID='2Chr.9.12'>Padşah Süleyman Səba mələkəsinin arzuladığı və istədiyi bütün şeyləri ona verdi; bu, mələkənin padşaha gətirdiklərindən də çox idi. Sonra mələkə əyanları ilə birgə qayıdıb öz ölkəsinə getdi. </verse>
+        <verse osisID='2Chr.9.13'>Bir ildə Süleymana gələn qızılın çəkisi altı yüz altmış altı talant idi.</verse>
+        <verse osisID='2Chr.9.14'>Alver edən adamların və tacirlərin gətirdiyi qızıl buraya daxil deyildi. Bütün Ərəb padşahları və ölkənin valiləri də Süleymana qızıl və gümüş gətirərdi.</verse>
+        <verse osisID='2Chr.9.15'>Padşah Süleyman döymə qızıldan iki yüz sipər düzəltdi. Bir sipərə altı yüz şekel döymə qızıl işləndi.</verse>
+        <verse osisID='2Chr.9.16'>O, döymə qızıldan üç yüz qalxan da düzəltdi və bir qalxana üç yüz şekel qızıl işləndi. Padşah onları «Livan meşəsi» adlı sarayına qoydu. </verse>
+        <verse osisID='2Chr.9.17'>Padşah fil sümüyündən böyük taxt düzəltdi və onu xalis qızılla örtdü.</verse>
+        <verse osisID='2Chr.9.18'>Taxtın altı pilləsi və ayaq qoymaq üçün qızıl kətili var idi, bunlar taxta bağlı idi. Oturacağın hər iki tərəfində qollar var idi və qolların yanında iki şir təsviri var idi.</verse>
+        <verse osisID='2Chr.9.19'>Altı pillənin iki tərəfində isə on iki şir təsviri var idi. Heç bir padşahlıqda belə bir şey yox idi.</verse>
+        <verse osisID='2Chr.9.20'>Padşah Süleymanın bütün içki qabları qızıldan idi. «Livan meşəsi» adlı sarayında olan bütün əşyalar da xalis qızıldan idi. Çünki gümüş Süleymanın dövründə heç nə sayılırdı.</verse>
+        <verse osisID='2Chr.9.21'>Padşahın gəmiləri Xiramın adamları ilə birgə Tarşişə gedərdi. Üç ildə bir dəfə Tarşiş gəmiləri qızıl, gümüş, fil sümüyü, meymunlar və əntərlərlə yüklənərək gəlirdi. </verse>
+        <verse osisID='2Chr.9.22'>Padşah Süleyman var-dövlətdə və hikmətdə yer üzünün bütün padşahlarından üstün idi.</verse>
+        <verse osisID='2Chr.9.23'>Bütün yer üzünün padşahları Süleymanın ürəyinə Allahın qoyduğu hikməti eşitmək üçün onun üzünü görmək istəyirdi.</verse>
+        <verse osisID='2Chr.9.24'>Onun yanına gələn hər kəs hədiyyə gətirirdi. Beləcə ona hər il qızıl qablar, gümüş qablar, paltarlar, silahlar, ətriyyat, atlar və qatırlar gətirilirdi.</verse>
+        <verse osisID='2Chr.9.25'>Süleymanın dörd min axurunda döyüş arabaları üçün atları və on iki min süvarisi vardı. Onları arabalar üçün ayrılan şəhərlərdə və Yerusəlimdə, padşahın yanında yerləşdirdi.</verse>
+        <verse osisID='2Chr.9.26'>O, Fərat çayından Filiştlilərin torpağına və Misir sərhədinə qədər bütün padşahlar üzərində hökmranlıq edirdi.</verse>
+        <verse osisID='2Chr.9.27'>Padşah Yerusəlimdə çoxluğuna görə gümüşü daşlara, sidr ağacını isə yamaclı-düzənlikli bölgədə bitən firon ənciri ağacına bərabər etdi.</verse>
+        <verse osisID='2Chr.9.28'>Süleymanın atları Misirdən və bütün ölkələrdən gətirilirdi. </verse>
+        <verse osisID='2Chr.9.29'>Süleymanın qalan işləri, ilk işlərindən son işlərinə qədər peyğəmbər Natanın tarix kitabında və Şilolu Axiyanın peyğəmbərliyində və görücü İddonun Nevat oğlu Yarovam haqqındakı vəhylərində yazılmışdır.</verse>
+        <verse osisID='2Chr.9.30'>O, Yerusəlimdə bütün İsrail üzərində qırx il padşahlıq etmişdi.</verse>
+        <verse osisID='2Chr.9.31'>Süleyman ataları ilə uyudu və atası Davudun şəhərində basdırıldı. Onun yerinə oğlu Rexavam padşah oldu.  </verse>
+      </chapter>
+      <chapter osisID='2Chr.10'>
+        <verse osisID='2Chr.10.1'>
+          Rexavam Şekemə getdi, çünki bütün İsraillilər onu padşah etmək üçün Şekemə gəlmişdi.</verse>
+        <verse osisID='2Chr.10.2'>Nevat oğlu Yarovam bunu eşitdiyi zaman padşah Süleymanın əlindən qaçdığı Misirdən oraya qayıtdı.</verse>
+        <verse osisID='2Chr.10.3'>Onu çağırtdırdılar. Yarovam gəldi və bütün İsraillilərlə birgə Rexavama söylədi:</verse>
+        <verse osisID='2Chr.10.4'>«Atan üzərimizə ağır boyunduruq qoydu. Sən isə indi atanın çətin qulluğunu və üzərimizə qoyduğu ağır boyunduruğu yüngülləşdir, biz də sənə qulluq edərik».</verse>
+        <verse osisID='2Chr.10.5'>Rexavam onlara dedi: «Üç gündən sonra yenə mənim yanıma gəlin». Xalq getdi. </verse>
+        <verse osisID='2Chr.10.6'>Padşah Rexavam atası Süleymanın sağlığında onun önündə duran ağsaqqallarla məsləhət edib dedi: «Bu xalqa cavab vermək üçün mənə nə məsləhət verirsiniz?»</verse>
+        <verse osisID='2Chr.10.7'>Ağsaqqallar ona dedi: «Əgər sən bu xalqa xeyirxahlıq göstərməklə onları razı salıb yaxşı sözlər desən, daim sənə qul olacaq».</verse>
+        <verse osisID='2Chr.10.8'>Ancaq o, ağsaqqalların verdikləri məsləhətə məhəl qoymadı, onunla birgə böyümüş və onun önündə duran cavan adamlarla məsləhətləşdi.</verse>
+        <verse osisID='2Chr.10.9'>Onlara dedi: «Siz nə məsləhət verirsiniz? Mənə “atanın üzərimizə qoyduğu boyunduruğu yüngülləşdir” deyən bu xalqa nə cavab verim?»</verse>
+        <verse osisID='2Chr.10.10'>Onunla birgə böyümüş cavan adamlar ona dedi: «Sənə “atan üzərimizə ağır bir boyunduruq qoydu, sən isə onu yüngülləşdir” deyən bu xalqa belə söylə: “Mənim kiçik barmağım atamın belindən yoğundur.</verse>
+        <verse osisID='2Chr.10.11'>Atam sizi ağır boyunduruqla yükləmişdi, mən isə sizin boyunduruğunuzu daha da artıracağam. Atam sizi qamçılarla cəzalandırırdı, mən isə sizi əqrəblərlə cəzalandıracağam”». </verse>
+        <verse osisID='2Chr.10.12'>«Üç gün sonra yenə yanıma gəlin» deyə padşahın söylədiyi kimi Yarovam bütün xalqla birgə üç gün sonra Rexavamın yanına gəldi.</verse>
+        <verse osisID='2Chr.10.13'>Padşah onlara sərt cavab verdi. Padşah Rexavam ağsaqqalların məsləhətinə məhəl qoymayıb</verse>
+        <verse osisID='2Chr.10.14'>cavan adamların məsləhətinə görə xalqa dedi: «Atam sizi ağır boyunduruqla yükləmişdi, mən isə onu daha da artıracağam. Atam sizi qamçılarla cəzalandırırdı, mən isə əqrəblərlə cəzalandıracağam».</verse>
+        <verse osisID='2Chr.10.15'>Padşah xalqa qulaq asmadı, çünki bu hadisə Allah tərəfindən oldu ki, Rəbb Şilolu Axiya vasitəsilə Nevat oğlu Yarovama söylədiyi sözü yerinə yetirsin. </verse>
+        <verse osisID='2Chr.10.16'>Bütün İsraillilər padşahın onlara qulaq asmadığını gördü. Onda xalq ona cavab verib dedi:  «Davudla bizim nə şərikliyimiz var?Yesseyin oğlu ilə heç bir irsimiz yoxdur!Ey İsraillilər, çadırınıza!İndi, ey Davud, öz evinin halına özün bax!»  Bütün İsraillilər evlərinə getdi.</verse>
+        <verse osisID='2Chr.10.17'>Rexavam yalnız Yəhuda şəhərlərində yaşayan İsrail övladları üzərində padşahlıq etdi.</verse>
+        <verse osisID='2Chr.10.18'>Padşah Rexavam mükəlləfiyyətçilər üzərində nəzarətçi olan Adoniramı göndərdi. İsrail övladları onu daşqalaq edib öldürdülər. Padşah Rexavam Yerusəlimə qaçmaq üçün tələsik öz döyüş arabasına mindi.</verse>
+        <verse osisID='2Chr.10.19'>Beləcə İsraillilər Davudun sülaləsinə qarşı qalxdı və bu indiyə qədər belədir.  </verse>
+      </chapter>
+      <chapter osisID='2Chr.11'>
+        <verse osisID='2Chr.11.1'>
+          Rexavam Yerusəlimə gəldi. O, İsraillilərlə müharibə edib öz padşahlığını qaytarmaq üçün Yəhuda və Binyamin evini – yüz səksən min seçmə döyüşçünü topladı.</verse>
+        <verse osisID='2Chr.11.2'>Ancaq Allah adamı Şemayaya Rəbbin bu sözü nazil oldu:</verse>
+        <verse osisID='2Chr.11.3'>«Yəhuda padşahı Süleyman oğlu Rexavama, Yəhuda və Binyamində olan bütün İsraillilərə söylə ki,</verse>
+        <verse osisID='2Chr.11.4'>Rəbb belə deyir: “Getməyin və soydaşlarınızla müharibə etməyin. Hər kəs öz evinə qayıtsın, çünki bu iş Mənim tərəfimdən oldu”». Onlar Rəbbin sözünə qulaq asdılar və Yarovamın üzərinə getməkdən əl çəkdilər. </verse>
+        <verse osisID='2Chr.11.5'>Rexavam Yerusəlimdə yaşadı və Yəhudada müdafiə olunmaq üçün bu şəhərləri tikdi.</verse>
+        <verse osisID='2Chr.11.6'>Bet-Lexem, Etam, Teqoa,</verse>
+        <verse osisID='2Chr.11.7'>Bet-Sur, Soko, Adullam,</verse>
+        <verse osisID='2Chr.11.8'>Qat, Mareşa, Zif,</verse>
+        <verse osisID='2Chr.11.9'>Adorayim, Lakiş, Azeqa,</verse>
+        <verse osisID='2Chr.11.10'>Sora, Ayyalon və Xevron. O, Yəhuda və Binyamin torpağında olan bu qalalı şəhərləri tikdi.</verse>
+        <verse osisID='2Chr.11.11'>Qalaları möhkəmlədib onlara rəislər təyin etdi və ərzaq, yağ, şərab ehtiyatı gördü.</verse>
+        <verse osisID='2Chr.11.12'>Hər şəhərə sipər və nizələr qoydu, onları çox möhkəmləndirdi. Beləcə Yəhuda ilə Binyamin torpaqları onun tərəfində qaldı. </verse>
+        <verse osisID='2Chr.11.13'>Bütün İsraildə olan kahinlər və Levililər onların bütün mahallarından gəlib Rexavamın yanına toplandı.</verse>
+        <verse osisID='2Chr.11.14'>Levililər otlaqlarını və mülklərini qoyub Yəhudaya və Yerusəlimə gəldilər. Çünki Yarovam onları oğulları ilə birgə Rəbbə kahinlik etməkdən kənar etmişdi.</verse>
+        <verse osisID='2Chr.11.15'>O, səcdəgahlar, təkə bütləri və düzəltdiyi dana bütləri üçün özünə kahinlər qoymuşdu.</verse>
+        <verse osisID='2Chr.11.16'>Onların ardınca bütün İsrail qəbilələrindən olan İsrailin Allahı Rəbbi sidq ürəkdən axtarmaq istəyənlər atalarının Allahı Rəbbə qurban təqdim etmək üçün Yerusəlimə gəldilər.</verse>
+        <verse osisID='2Chr.11.17'>Yəhuda padşahlığını möhkəmləndirdilər və üç il Süleymanın oğlu Rexavama kömək etdilər. Çünki üç il Davudun və Süleymanın yolu ilə getdilər. </verse>
+        <verse osisID='2Chr.11.18'>Rexavam Maxalatı özünə arvad aldı. Maxalat Davudun oğlu Yerimotunla Yesseyin oğlu Eliavın qızı Avihayilin qızı idi.</verse>
+        <verse osisID='2Chr.11.19'>O, Rexavama oğullar – Yeuşu, Şemaryanı, Zahamı doğdu.</verse>
+        <verse osisID='2Chr.11.20'>Rexavam Maxalatdan sonra Avşalomun qızı Maakanı aldı. O, Aviyanı, Attayı, Zizanı və Şelomiti doğdu.</verse>
+        <verse osisID='2Chr.11.21'>Rexavam Avşalomun qızı Maakanı bütün arvadları və cariyələrindən daha çox sevirdi. O, on səkkiz arvad və altmış cariyə almışdı, iyirmi səkkiz oğul və altmış qız atası oldu.</verse>
+        <verse osisID='2Chr.11.22'>Rexavam Maaka oğlu Aviyanı qardaşları arasında padşah etmək üçün ayıraraq vəliəhd təyin etdi.</verse>
+        <verse osisID='2Chr.11.23'>Ağıllı davranıb bütün Yəhuda və Binyamin torpağında hər qalalı şəhərə oğullarını göndərdi və onlara bol ərzaq verdi, onlar üçün çoxlu arvad aldı.  </verse>
+      </chapter>
+      <chapter osisID='2Chr.12'>
+        <verse osisID='2Chr.12.1'>
+          Padşahlığı möhkəmlənib özü qüvvətləndikdə Rexavam, onunla bərabər bütün İsraillilər Rəbbin Qanunundan üz döndərdilər.</verse>
+        <verse osisID='2Chr.12.2'>Padşah Rexavamın beşinci ilində Rəbbə qarşı vəfasızlıq etdiklərinə görə Misir padşahı Sisaq min iki yüz döyüş arabası və altmış min süvari ilə Yerusəlimə hücum etdi.</verse>
+        <verse osisID='2Chr.12.3'>Onunla bərabər Misirdən gələn xalqın, Luvluların, Sukluların və Kuşluların sayı-hesabı bilinmirdi.</verse>
+        <verse osisID='2Chr.12.4'>O, Yəhudanın qalalı şəhərlərini aldı və Yerusəlimə yaxınlaşdı. </verse>
+        <verse osisID='2Chr.12.5'>Peyğəmbər Şemaya Rexavamın və Sisaqdan ötrü Yerusəlimə toplanan Yəhuda rəislərinin yanına gəlib onlara dedi: «Rəbb belə deyir: “Siz Məni tərk etdiniz, buna görə Mən də sizi Sisaqa təslim etdim”».</verse>
+        <verse osisID='2Chr.12.6'>İsrail rəisləri ilə padşah özlərini aşağı tutdular və «Rəbb adildir» dedilər.</verse>
+        <verse osisID='2Chr.12.7'>Rəbb onların özlərini aşağı tutduğunu görəndə Şemayaya Rəbbin bu sözü gəldi: «Özlərini aşağı tutduqları üçün onları məhv etməyəcəyəm, onlara bir az qurtuluş verəcəyəm, Sisaqın əli ilə qəzəbim Yerusəlimin üzərinə tökülməyəcək.</verse>
+        <verse osisID='2Chr.12.8'>Amma Mənə qulluq etməklə dünya padşahlıqlarına qulluq etməyin fərqini başa düşsünlər deyə onun qulları olacaqlar». </verse>
+        <verse osisID='2Chr.12.9'>Misir padşahı Sisaq Yerusəlimə hücum etdi və Rəbbin məbədinin və padşah sarayının xəzinələrini götürdü. Hər şeyi aldı, Süleymanın düzəltdiyi qızıl qalxanları da götürdü.</verse>
+        <verse osisID='2Chr.12.10'>Padşah Rexavam onların yerinə tunc qalxanlar düzəltdi və bunları padşah sarayının qapısını qoruyan mühafizə rəislərinin əlinə verdi.</verse>
+        <verse osisID='2Chr.12.11'>Hər dəfə padşah Rəbbin məbədinə gələndə mühafizəçilər onları daşıyır və sonra mühafizəçilərin otağına geri gətirirdilər.</verse>
+        <verse osisID='2Chr.12.12'>Özünü aşağı tutduqda onu büsbütün məhv etməmək üçün Rəbbin qəzəbi üzərindən döndü. Çünki Yəhudada yaxşı işlər də var idi. </verse>
+        <verse osisID='2Chr.12.13'>Padşah Rexavam Yerusəlimdə özünü möhkəmləndirərək padşahlıq etdi. Rexavam padşah olan vaxt qırx bir yaşında idi. O, Rəbbin Öz adını qoymaq üçün İsrailin bütün qəbilələrindən seçdiyi şəhərdə – Yerusəlimdə on yeddi il padşahlıq etdi. Anasının adı Ammonlu Naama idi.</verse>
+        <verse osisID='2Chr.12.14'>O, pis olan işlər etdi, çünki ürəyi Rəbbi axtarmaq istəmədi. </verse>
+        <verse osisID='2Chr.12.15'>Rexavamın etdiyi işlər, ilk işlərindən son işlərinə qədər peyğəmbər Şemayanın və görücü İddonun tarix kitablarında nəsil şəcərəsinə görə yazılmışdır. Rexavamla Yarovam arasında həmişə müharibə gedirdi.</verse>
+        <verse osisID='2Chr.12.16'>Rexavam ataları ilə uyudu və Davudun şəhərində basdırıldı. Yerinə oğlu Aviya padşah oldu.  </verse>
+      </chapter>
+      <chapter osisID='2Chr.13'>
+        <verse osisID='2Chr.13.1'>
+          Yarovamın padşahlığının on səkkizinci ilində Aviya Yəhuda üzərində padşah oldu.</verse>
+        <verse osisID='2Chr.13.2'>O, Yerusəlimdə üç il padşahlıq etdi. Anasının adı Givealı Urielin qızı Maaka idi. Aviya ilə Yarovamın arasında müharibə gedirdi.</verse>
+        <verse osisID='2Chr.13.3'>Aviya dörd yüz min seçmə igid döyüşçüdən ibarət olan bir ordu ilə hərbə girişdi. Yarovam isə səkkiz yüz min seçmə igid döyüşçünü ona qarşı döyüş üçün düzdü. </verse>
+        <verse osisID='2Chr.13.4'>Aviya Efrayimin dağlıq bölgəsində olan Semarayim dağına qalxıb dedi: «Ey Yarovam və bütün İsraillilər, məni dinləyin!</verse>
+        <verse osisID='2Chr.13.5'>Bilmirsiniz ki, İsrailin Allahı Rəbb İsrail üzərində padşahlığı əbədi olaraq Davuda və onun oğullarına vermişdir? Bunu duzla əhd etmişdir.</verse>
+        <verse osisID='2Chr.13.6'>Ancaq Davudun oğlu Süleymanın qulu Nevat oğlu Yarovam qalxıb ağasına qarşı üsyan etdi.</verse>
+        <verse osisID='2Chr.13.7'>Onun ətrafına boş və yaramaz adamlar yığılıb Süleyman oğlu Rexavama qarşı çıxdılar. Rexavam gənc və zəif iradəli olduğu üçün onlara qarşı dura bilmədi.</verse>
+        <verse osisID='2Chr.13.8'>İndi siz Davud oğullarının əlində olan Rəbbin padşahlığına qarşı durmağı düşünürsünüz və siz böyük bir kütləsiniz. Yarovamın allahlar deyə sizə düzəltdiyi qızıl danalar da aranızdadır.</verse>
+        <verse osisID='2Chr.13.9'>Amma Harun nəslindən olan Rəbbin kahinlərini və Levililəri qovmadınızmı? Başqa ölkələrin xalqlarının qaydasına görə özünüzə kahinlər qoymadınızmı? Buğa və yeddi qoçla təqdis olunmaq üçün gələn hər kəs yalançı allahların kahini ola bilər.</verse>
+        <verse osisID='2Chr.13.10'>Amma Rəbb Allahımız olduğuna görə biz Onu tərk etməmişik və bizdə Rəbbin xidmətində Harun nəslindən olan kahinlər və onlara kömək edən Levililər vardı.</verse>
+        <verse osisID='2Chr.13.11'>Onlar hər səhər-axşam Rəbbə yandırma qurbanları və xoş ətirli buxur yandırar, təmiz masa üzərində çörək təqdimi verər və hər axşam qızıl çıraqdanda çıraqları yandırar. Çünki biz Allahımız Rəbbin qoyduğu qaydalara əməl edirik, siz isə Onu tərk etdiniz.</verse>
+        <verse osisID='2Chr.13.12'>Budur, Allah bizimlədir, başımızın üstündədir. Onun kahinləri də bizimlədir. Sizə qarşı çalmaq üçün əllərində yüksək səs verən kərənaylar var. Ey İsrail övladları, atalarınızın Allahı Rəbbə qarşı müharibə etməyin, çünki işiniz yaxşı getməz». </verse>
+        <verse osisID='2Chr.13.13'>Yarovam onların arxasından pusqu qurmaq üçün dəstə göndərmişdi. Onun özü Yəhudalılardan qabaqda idi. Pusqu isə onların arxasında idi.</verse>
+        <verse osisID='2Chr.13.14'>Yəhudalılar geriyə baxdıqda gördülər ki, onlara öndən və arxadan hücum olunacaq. Onlar Rəbbə fəryad etdilər və kahinlər kərənayları yüksək səslə çaldılar.</verse>
+        <verse osisID='2Chr.13.15'>Yəhudalılar nərə çəkdilər və onlar nərə çəkəndə Allah Yarovamı və bütün İsrailliləri Aviyanın və Yəhudanın önündə qırdı.</verse>
+        <verse osisID='2Chr.13.16'>İsrail övladları Yəhudalıların önündən qaçdı və Allah onları bunlara təslim etdi.</verse>
+        <verse osisID='2Chr.13.17'>Aviya ilə xalqı onları böyük tələfata uğratdılar: İsraillilərdən beş yüz min seçmə adam həlak oldu.</verse>
+        <verse osisID='2Chr.13.18'>Beləcə o vaxt İsrail övladları sakitləşdilər, Yəhudalılar isə atalarının Allahı Rəbbə güvəndikləri üçün üstün gəldilər.</verse>
+        <verse osisID='2Chr.13.19'>Aviya Yarovamı təqib etdi və ondan şəhərləri – Bet-Eli və qəsəbələrini, Yeşananı və qəsəbələrini, Efronu və qəsəbələrini aldı.</verse>
+        <verse osisID='2Chr.13.20'>Aviyanın dövründə Yarovam bir daha güclü olmadı. Rəbb onu vurdu və o öldü.</verse>
+        <verse osisID='2Chr.13.21'>Ancaq Aviya daha da gücləndi. O, on dörd arvad aldı, iyirmi iki oğul və on altı qız atası oldu. </verse>
+        <verse osisID='2Chr.13.22'>Aviyanın qalan işləri, əməlləri və sözləri peyğəmbər İddonun təlimində yazılmışdır.  </verse>
+      </chapter>
+      <chapter osisID='2Chr.14'>
+        <verse osisID='2Chr.14.1'>Aviya ataları ilə uyudu və onu Davudun şəhərində basdırdılar. Yerinə oğlu Asa padşah oldu. Onun dövründə ölkə on il rahat yaşadı. </verse>
+        <verse osisID='2Chr.14.2'>Asa Allahı Rəbbin gözündə yaxşı və doğru olan işlər etdi.</verse>
+        <verse osisID='2Chr.14.3'>Özgə allahların qurbangahlarını və səcdəgahları aradan qaldırdı və sütunları qırdı, Aşera bütlərini kəsdi. </verse>
+        <verse osisID='2Chr.14.4'>Asa atalarının Allahı Rəbbi axtarmağı və qanunla əmrlərinə əməl etməyi Yəhudaya söylədi.</verse>
+        <verse osisID='2Chr.14.5'>Yəhudanın bütün şəhərlərindən səcdəgahları və buxur qurbangahlarını aradan qaldırdı. Onun dövründə ölkə rahat yaşadı.</verse>
+        <verse osisID='2Chr.14.6'>O, Yəhudada qalalı şəhərlər tikdi, çünki o illərdə ölkədə əmin-amanlıq idi və orada müharibə yox idi. Rəbb ona dinclik vermişdi.</verse>
+        <verse osisID='2Chr.14.7'>Asa Yəhudalılara dedi: «Bu şəhərləri tikək, ətrafında divarlar və qüllələr, qapılar və sürgülər düzəldək. Ölkə hələ bizimdir, çünki biz Allahımız Rəbbi axtardıq, Onu axtardığımıza görə Allah bizə hər tərəfdən dinclik verdi». Onlar beləcə uğurla tikdilər. </verse>
+        <verse osisID='2Chr.14.8'>Asanın ordusu Yəhudadan sipər və nizə daşıyan üç yüz min nəfər, Binyamin nəslindən qalxan daşıyan və kaman çəkən iki yüz səksən min nəfərdən ibarət idi. Onların hamısı igid döyüşçülər idi. </verse>
+        <verse osisID='2Chr.14.9'>Bunlara qarşı Kuşlu Zerah milyon əsgərlə və üç yüz döyüş arabası ilə Mareşaya hücum etdi.</verse>
+        <verse osisID='2Chr.14.10'>Asa onun üzərinə getdi və Mareşada Sefata dərəsində döyüş üçün düzüldü.</verse>
+        <verse osisID='2Chr.14.11'>Asa Allahı Rəbbi çağırıb dedi: «Ya Rəbb, güclülər arasında gücsüzəm, yardım edəcək Səndən başqası yoxdur. Ya Rəbb Allahımız, bizə yardım et, çünki Sən bizim dayağımızsan və Sənin isminlə bu qoşunun üstünə gəlmişik. Ya Rəbb, Allahımız Sənsən, qoy insan Sənə üstün gəlməsin».</verse>
+        <verse osisID='2Chr.14.12'>Asanın və Yəhudalıların önündə Rəbb Kuşluları qırdı və Kuşlular qaçdı.</verse>
+        <verse osisID='2Chr.14.13'>Asa və onunla birgə olan xalq onları Gerara qədər təqib etdi. Kuşlulardan o qədər ölən oldu ki, heç kəs salamat qalmadı, çünki Rəbbin və onun ordusunun önündə məhv olmuşdular. Yəhudalılar çoxlu qənimət ələ keçirdilər.</verse>
+        <verse osisID='2Chr.14.14'>Gerar ətrafındakı bütün şəhərləri dağıtdılar, çünki onların canına Rəbbin qorxusu düşmüşdü. Bütün şəhərləri qarət etdilər, orada çoxlu qənimət vardı.</verse>
+        <verse osisID='2Chr.14.15'>Çoban çadırlarını da dağıtdılar, çoxlu qoyun-keçi və dəvə apardılar. Sonra Yerusəlimə qayıtdılar.  </verse>
+      </chapter>
+      <chapter osisID='2Chr.15'>
+        <verse osisID='2Chr.15.1'>
+          Oded oğlu Azaryanın üzərinə Allahın Ruhu gəldi.</verse>
+        <verse osisID='2Chr.15.2'>O, Asanın qarşısına çıxıb ona dedi: «Ey Asa, bütün Yəhudalılar və Binyaminlilər, məni dinləyin! Siz Rəbb ilə bərabər olarkən O da sizinlədir. Əgər siz Onu axtarsanız, O da Özünü sizə göstərər. Ancaq siz Onu tərk etsəniz, O da sizi tərk edər.</verse>
+        <verse osisID='2Chr.15.3'>Uzun zamandan bəri İsraildə həqiqi Allah yoxdur. Onun öyrədən kahini və Qanunu da yoxdur.</verse>
+        <verse osisID='2Chr.15.4'>Ancaq ağır günlərində İsrailin Allahı Rəbbə qayıdıb Onu axtaranda O Özünü onlara göstərdi.</verse>
+        <verse osisID='2Chr.15.5'>O vaxtlar gedib-gəlmək təhlükəli idi. Çünki bütün ölkələrin əhalisi böyük həyəcana düşmüşdü.</verse>
+        <verse osisID='2Chr.15.6'>Millət millətə qarşı, şəhər şəhərə qarşı vuruşurdu. Çünki Allah onları hər cür bəla ilə çaşqınlığa salmışdı.</verse>
+        <verse osisID='2Chr.15.7'>Ancaq siz möhkəm olun və əlləriniz gücdən düşməsin, çünki işiniz üçün mükafat alacaqsınız». </verse>
+        <verse osisID='2Chr.15.8'>Asa bu sözləri və peyğəmbər Odedin peyğəmbərliyini eşitdikdə cəsarətə gəlib bütün Yəhuda və Binyamin torpağından, Efrayimin dağlıq bölgəsində olan aldığı şəhərlərdən iyrənc bütləri götürüb atdı, Rəbbin eyvanı önündə olan Rəbbin qurbangahını təmir etdi.</verse>
+        <verse osisID='2Chr.15.9'>Bütün Yəhudalıları və Binyaminliləri, onların arasında yaşayan Efrayimliləri, Menaşşeliləri və Şimeonluları bir yerə yığdı. Allahı Rəbbin onunla birgə olduğunu gördükdə çoxlu İsrailli onun tərəfinə keçmişdi.</verse>
+        <verse osisID='2Chr.15.10'>Asanın padşahlığının on beşinci ilinin üçüncü ayında onlar Yerusəlimə toplandılar.</verse>
+        <verse osisID='2Chr.15.11'>O gün gətirdikləri qənimətdən yeddi yüz baş mal-qara və yeddi min baş qoyun-keçi Rəbbə qurban etdilər.</verse>
+        <verse osisID='2Chr.15.12'>Atalarının Allahı Rəbbi bütün ürəkləri ilə və bütün canları ilə axtarmaq üçün əhd etdilər.</verse>
+        <verse osisID='2Chr.15.13'>İstər kiçik ya böyük, istərsə də kişi ya qadın olsun, İsrailin Allahı Rəbbi axtarmayan hər kəs öldürülməli idi.</verse>
+        <verse osisID='2Chr.15.14'>Borular və şeypurlar çalaraq bağırtı və yüksək səslə Rəbbə and içdilər.</verse>
+        <verse osisID='2Chr.15.15'>Bu anda görə bütün Yəhudalılar sevindi, çünki bütün ürəkləri ilə and içmişdilər, bütün səyləri ilə Onu axtarmışdılar və O da onlara Özünü göstərmişdi. Rəbb onlara hər tərəfdən dinclik vermişdi. </verse>
+        <verse osisID='2Chr.15.16'>Padşah Asa nənəsi Maakanı mələkəlikdən məhrum etdi, çünki o, Aşera üçün iyrənc bir büt düzəltmişdi. Asa onun bütünü kəsdi və toz edib Qidron vadisində yandırdı.</verse>
+        <verse osisID='2Chr.15.17'>Ancaq İsraildə səcdəgahlar aradan qaldırılmadı. Lakin Asanın ürəyi bütün ömrü boyu Rəbbə sadiq idi.</verse>
+        <verse osisID='2Chr.15.18'>O, atasının və özünün təqdis etdiyi şeyləri – qızılı, gümüşü və qabları Allahın məbədinə gətirdi.</verse>
+        <verse osisID='2Chr.15.19'>Asanın padşahlığının otuz beşinci ilinə qədər müharibə olmadı.  </verse>
+      </chapter>
+      <chapter osisID='2Chr.16'>
+        <verse osisID='2Chr.16.1'>
+          Asanın padşahlığının otuz altıncı ilində İsrail padşahı Baaşa Yəhudaya hücum etdi və Yəhuda padşahı Asanın yanına gəlib-getmək istəyənləri buraxmamaq üçün Rama şəhərini tikdi.</verse>
+        <verse osisID='2Chr.16.2'>Asa Rəbbin məbədinin və padşah sarayının xəzinələrindən qızıl-gümüşü götürdü və onları Dəməşqdə yaşayan Aram padşahı Ben-Hadada bu xəbərlə göndərdi:</verse>
+        <verse osisID='2Chr.16.3'>«Sənin atanla mənim atam arasında saziş var idi, qoy bizim aramızda da saziş olsun. Sənə qızıl-gümüş göndərdim, get İsrail padşahı Baaşa ilə olan sazişini poz ki, torpağımdan geri çəkilsin».</verse>
+        <verse osisID='2Chr.16.4'>Ben-Hadad padşah Asaya qulaq asdı və qoşun başçılarını İsrail şəhərlərinin üstünə göndərdi. Onun qoşunları İyona, Dana, Avel-Mayimə və Naftalinin bütün anbar şəhərlərinə zərbə vurdu.</verse>
+        <verse osisID='2Chr.16.5'>Baaşa bunu eşitdikdə Ramanı tikməyi dayandırdı və işini buraxdı.</verse>
+        <verse osisID='2Chr.16.6'>Padşah Asa bütün Yəhudalıları yanına yığdı. Onlar Ramada Baaşanın tikməkdə olduğu yerlərin daşlarını və dirəklərini daşıdı. Bunlarla Gevanı və Mispanı tikdi. </verse>
+        <verse osisID='2Chr.16.7'>O vaxt görücü Xanani Yəhuda padşahı Asanın yanına gəlib ona dedi: «Madam ki Allahın Rəbbə deyil, Aram padşahına güvəndin, buna görə də Aram padşahının ordusu sənin əlindən qaçıb qurtardı.</verse>
+        <verse osisID='2Chr.16.8'>Kuşlular və Luvlular çoxlu süvari və döyüş arabaları ilə çox böyük bir ordu deyildimi? Rəbb Ona güvəndiyin üçün onları sənə təslim etdi.</verse>
+        <verse osisID='2Chr.16.9'>Çünki Rəbbin gözləri yer üzünü seyr edir ki, ürəyi bütünlüklə Onunla olanları qüvvətləndirsin. Ağılsızlıq etdin. İndidən sənə müharibə olacaq».</verse>
+        <verse osisID='2Chr.16.10'>Asa görücüyə qəzəbləndi və onu işgəncə zindanına atdı, çünki bunun üçün ona hiddətlənmişdi. O vaxt Asa xalqdan bəzilərinə zülm etdi. </verse>
+        <verse osisID='2Chr.16.11'>Asanın işləri, ilk işlərindən son işlərinə qədər Yəhuda və İsrail padşahlarının kitabında yazılmışdır.</verse>
+        <verse osisID='2Chr.16.12'>Padşahlığının otuz doqquzuncu ilində Asa ayaqlarından xəstələndi, xəstəliyi get-gedə ağırlaşdı. Həm də xəstə olduqda Rəbbi deyil, ancaq həkimləri axtardı.</verse>
+        <verse osisID='2Chr.16.13'>Asa padşahlığının qırx birinci ilində ölüb ataları ilə uyudu.</verse>
+        <verse osisID='2Chr.16.14'>Onu Davudun şəhərində özü üçün qazdığı qəbirdə basdırdılar və onu gözəl ədviyyat və hər cür qatışmış ətriyyatla dolu yatağa qoydular. Onun xatirinə böyük bir tonqal yandırdılar.  </verse>
+      </chapter>
+      <chapter osisID='2Chr.17'>
+        <verse osisID='2Chr.17.1'>
+          Onun yerinə oğlu Yehoşafat padşah oldu və İsrailə qarşı özünü möhkəmləndirdi.</verse>
+        <verse osisID='2Chr.17.2'>Yəhudanın hər qalalı şəhərinə qoşun qoydu və Yəhuda torpağına və atası Asanın aldığı Efrayim şəhərlərinə hərbi dəstələr yerləşdirdi.</verse>
+        <verse osisID='2Chr.17.3'>Rəbb Yehoşafatla idi, çünki atası Davudun əvvəlki yolları ilə getdi və Baal bütlərini deyil,</verse>
+        <verse osisID='2Chr.17.4'>yalnız atasının Allahını axtardı və İsraillilərin etdiyi işlərə görə deyil, Allahın əmrləri ilə getdi.</verse>
+        <verse osisID='2Chr.17.5'>Rəbb padşahlığı onun əlində möhkəmləndirdi və bütün Yəhudalılar Yehoşafata xərac gətirdilər. Onun bol sərvəti və şərəfi vardı.</verse>
+        <verse osisID='2Chr.17.6'>Rəbbin yollarında cəsarətləndi. Üstəlik səcdəgahları və Aşera bütlərini Yəhudadan götürdü. </verse>
+        <verse osisID='2Chr.17.7'>Padşahlığının üçüncü ilində Yəhuda şəhərlərində xalqa təlim versinlər deyə bunları göndərdi: rəisləri olan Ben-Xayil, Avdiya, Zəkəriyyə, Natanel və Mikeya.</verse>
+        <verse osisID='2Chr.17.8'>Onlarla bərabər Levililər: Şemaya, Netanya, Zevadya, Asahel, Şemiramot, Yonatan, Adoniya, Toviya, Tov-Adoniya və onlarla birgə kahinlər: Elişama və Yehoram.</verse>
+        <verse osisID='2Chr.17.9'>Onlar Yəhudada xalqa təlim verdilər. Yanlarında Rəbbin Qanun kitabı olmaqla Yəhudanın bütün şəhərlərini dolaşdılar və xalqı öyrətdilər. </verse>
+        <verse osisID='2Chr.17.10'>Yəhuda ətrafında olan bütün ölkələrin padşahlıqları üzərinə Rəbbin qorxusu düşdü və Yehoşafata qarşı müharibə etmədilər.</verse>
+        <verse osisID='2Chr.17.11'>Filiştlilərdən bəzisi Yehoşafata hədiyyə və xərac olaraq gümüş gətirdi. Ərəblər də ona qoyun-keçi – yeddi min yeddi yüz qoç və yeddi min yeddi yüz təkə gətirdi.</verse>
+        <verse osisID='2Chr.17.12'>Yehoşafat get-gedə əzəmət qazandı. Yəhudada qalalar və anbar şəhərləri tikdi.</verse>
+        <verse osisID='2Chr.17.13'>Yəhuda şəhərlərində çoxlu ehtiyatları vardı. Yerusəlimdə igid döyüşçülər olan əsgərləri vardı.</verse>
+        <verse osisID='2Chr.17.14'>Nəsillərinə görə onların siyahısı bu idi: Yəhudadan minbaşılar: başçı Adna və onunla bərabər üç yüz min igid döyüşçü;</verse>
+        <verse osisID='2Chr.17.15'>onun yanında başçı Yehoxanan və onunla birgə iki yüz səksən min nəfər;</verse>
+        <verse osisID='2Chr.17.16'>onun yanında könüllü olaraq Rəbbin işini boynuna götürən Zikri oğlu Amasya və onunla birgə iki yüz min igid döyüşçü;</verse>
+        <verse osisID='2Chr.17.17'>Binyamindən igid bir döyüşçü olan Elyada və onunla bərabər ox-kaman və qalxanla silahlanmış iki yüz min nəfər,</verse>
+        <verse osisID='2Chr.17.18'>onun yanında Yehozavad və onunla döyüşə hazır olan yüz səksən min nəfər.</verse>
+        <verse osisID='2Chr.17.19'>Bunlar padşahın bütün Yəhudadakı qalalı şəhərlərə qoyduğu döyüşçülərdən əlavə ona xidmət edənlər idi.  </verse>
+      </chapter>
+      <chapter osisID='2Chr.18'>
+        <verse osisID='2Chr.18.1'>
+          Yehoşafatın bol sərvəti və şərəfi vardı. O, Axavla qohum və müttəfiq oldu.</verse>
+        <verse osisID='2Chr.18.2'>Bir neçə il sonra Samariyaya Axavın yanına gəldi. Axav onun üçün və onunla bərabər olan xalq üçün çoxlu qoyun-keçi və mal-qara kəsdi, onu Ramot-Gileada qalxmağa təhrik etdi.</verse>
+        <verse osisID='2Chr.18.3'>İsrail padşahı Axav Yəhuda padşahı Yehoşafata dedi: «Sən mənimlə birgə Ramot-Gileada gedirsənmi?» Yehoşafat ona dedi: «Məni özün kimi, xalqımı xalqın kimi hesab elə, səninlə bərabər vuruşarıq». </verse>
+        <verse osisID='2Chr.18.4'>Yehoşafat yenə İsrail padşahına dedi: «Əvvəlcə görək Rəbbin sözü nədir?»</verse>
+        <verse osisID='2Chr.18.5'>İsrail padşahı dörd yüz peyğəmbəri topladı və onlara dedi: «Vuruşmaq üçün Ramot-Gileada gedim ya getməyim?» Onlar dedi: «Get, Allah onu padşaha təslim edəcək».</verse>
+        <verse osisID='2Chr.18.6'>Yehoşafat dedi: «Burada olanlardan başqa Rəbbin bir peyğəmbəri yoxdur ki, ondan soruşaq?»</verse>
+        <verse osisID='2Chr.18.7'>İsrail padşahı Yehoşafata dedi: «Rəbdən soruşmaq üçün bir nəfər də var: İmla oğlu Mikeya. Ancaq mənim ondan zəhləm gedir, çünki həmişə yaxşılığıma deyil, pisliyimə peyğəmbərlik edir». Yehoşafat dedi: «Qoy padşah belə söyləməsin».</verse>
+        <verse osisID='2Chr.18.8'>İsrail padşahı bir saray xidmətçisini çağırıb dedi: «Tez İmla oğlu Mikeyanı buraya gətir».</verse>
+        <verse osisID='2Chr.18.9'>İsrail padşahı və Yəhuda padşahı Yehoşafat Samariya darvazalarının girəcəyindəki meydanda şahlıq libası geyinib oturmuşdu. Hər biri öz taxtında oturmuşdu və bütün peyğəmbərlər onların önündə peyğəmbərlik edirdi.</verse>
+        <verse osisID='2Chr.18.10'>Kenaana oğlu Sidqiya özünə dəmir buynuzlar düzəldib dedi: «Rəbb belə deyir: “Aramlıları qırıb qurtarana qədər onları beləcə buynuzlayacaqsan”».</verse>
+        <verse osisID='2Chr.18.11'>Bütün peyğəmbərlər də peyğəmbərlik edərək deyirdilər: «Ramot-Gileada get, qalib gələcəksən, Rəbb onu padşaha təslim edəcək». </verse>
+        <verse osisID='2Chr.18.12'>Mikeyanı çağırmaq üçün gedən qasid ona dedi: «İndi peyğəmbərlər padşaha bir ağızdan xoş sözlər deyir. Sənin sözün də onlardan birinin sözü kimi olsun və yaxşılığa danış».</verse>
+        <verse osisID='2Chr.18.13'>Mikeya dedi: «Var olan Rəbbə and olsun ki, Allahım mənə nə desə, onu söyləyəcəyəm».</verse>
+        <verse osisID='2Chr.18.14'>O, padşahın yanına gəldi və padşah ona dedi: «Mikeya, vuruşmaq üçün Ramot-Gileada gedək, yoxsa getməyək?» Mikeya ona dedi: «Gedin, qalib gələcəksiniz, onlar sizə təslim ediləcək».</verse>
+        <verse osisID='2Chr.18.15'>Padşah ona dedi: «Səni neçə dəfə and içdirim ki, mənə Rəbbin adı ilə həqiqətdən başqa bir şey söyləməyəcəksən?»</verse>
+        <verse osisID='2Chr.18.16'>Mikeya dedi: «Mən bütün İsrailliləri təpələr üstündə çobanı olmayan sürü kimi səpələnmiş gördüm. Rəbb dedi: “Onların ağası yoxdur. Qoy hər biri salamat öz evinə qayıtsın”».</verse>
+        <verse osisID='2Chr.18.17'>İsrail padşahı Yehoşafata dedi: «Sənə demədimmi o mənim yaxşılığıma deyil, pisliyimə peyğəmbərlik edəcək?»</verse>
+        <verse osisID='2Chr.18.18'>Mikeya dedi: «Onda Rəbbin sözünü eşit. Mən Rəbbi Öz taxtında oturmuş və bütün göylər ordusunu Onun sağında və solunda durmuş gördüm.</verse>
+        <verse osisID='2Chr.18.19'>Rəbb dedi: “Ramot-Gileada gedib həlak olması üçün Axavı kim tovlayacaq?” Biri elə dedi, o biri belə.</verse>
+        <verse osisID='2Chr.18.20'>Bir ruh irəli çıxıb Rəbbin önündə dayandı və dedi: “Mən onu tovlayaram”. Rəbb ona dedi: “Necə?”</verse>
+        <verse osisID='2Chr.18.21'>O dedi: “Mən çıxıb bütün peyğəmbərlərin ağzında yalançı bir ruh olaram”. Rəbb dedi: “Sən onu tovlayacaqsan, bunu bacarırsan, get və belə elə”».</verse>
+        <verse osisID='2Chr.18.22'>Mikeya davam etdi: «İndi, budur, Rəbb sənin bütün bu peyğəmbərlərinin ağzına yalançı bir ruh qoyub. Beləcə Rəbb başına bəla gətirməyi qərara aldı». </verse>
+        <verse osisID='2Chr.18.23'>Kenaana oğlu Sidqiya yaxınlaşdı və Mikeyanın yanağına vurub dedi: «Rəbbin Ruhu səndə danışmaq üçün məndən sənə hansı yolla keçdi?»</verse>
+        <verse osisID='2Chr.18.24'>Mikeya dedi: «Sən gizlənmək üçün iç otağa girdiyin gün bunu biləcəksən».</verse>
+        <verse osisID='2Chr.18.25'>İsrail padşahı dedi: «Mikeyanı götürün, onu şəhər rəisi Amonun və padşahın oğlu Yoaşın yanına göndərin.</verse>
+        <verse osisID='2Chr.18.26'>Onlara söyləyin ki, padşah belə deyir: “Bu adamı zindana atın və mən salamat qayıdana qədər ona çox az çörək və su verərək zülm edin”».</verse>
+        <verse osisID='2Chr.18.27'>Mikeya dedi: «Əgər sən salamat qayıtsan, Rəbb mənim vasitəmlə danışmayıb». Sonra dedi: «Ey camaat, hamınız eşidin!» </verse>
+        <verse osisID='2Chr.18.28'>İsrail padşahı və Yəhuda padşahı Yehoşafat Ramot-Gileada getdi.</verse>
+        <verse osisID='2Chr.18.29'>İsrail padşahı Yehoşafata dedi: «Mən qiyafəmi dəyişib döyüşə girəcəyəm, ancaq sən öz şahlıq libasını gey». İsrail padşahı qiyafəsini dəyişib döyüşə girdi.</verse>
+        <verse osisID='2Chr.18.30'>Aram padşahı öz döyüş arabalarının başçılarına «nə kiçiklə, nə də böyüklə vuruşun, yalnız İsrail padşahı ilə döyüşə girin» deyə əmr etmişdi.</verse>
+        <verse osisID='2Chr.18.31'>Döyüş arabalarının başçıları Yehoşafatı görəndə dedi: «İsrail padşahı budur». Dönüb onunla vuruşmağa getdilər. Yehoşafat çığırdı. Rəbb ona yardım etdi, Allah onları onun yanından geri çəkdi.</verse>
+        <verse osisID='2Chr.18.32'>Döyüş arabalarının başçıları onun İsrail padşahı olmadığını görəndə onun ardından geri qayıtdılar.</verse>
+        <verse osisID='2Chr.18.33'>Bir adam nişan almadan kaman çəkib İsrail padşahını zirehlərin birləşdiyi yerdən vurdu. Padşah arabaçısına dedi: «Dön və məni döyüşdən çıxar, çünki yaralanmışam».</verse>
+        <verse osisID='2Chr.18.34'>O gün döyüş qızışdı. İsrail padşahı axşamacan öz döyüş arabasında Aramlıların önündə söykənib dayandı. Günəş batmaqda ikən o öldü.  </verse>
+      </chapter>
+      <chapter osisID='2Chr.19'>
+        <verse osisID='2Chr.19.1'>Yəhuda padşahı Yehoşafat Yerusəlimə, evinə salamat qayıtdı.</verse>
+        <verse osisID='2Chr.19.2'>Xanani oğlu görücü Yehu onun önünə çıxdı və padşah Yehoşafata dedi: «Pis adama kömək etmək və Rəbbə nifrət edənləri sevmək sənə lazım idimi? Bundan ötrü Rəbbin qəzəbi sənin üzərindədir.</verse>
+        <verse osisID='2Chr.19.3'>Lakin sənin yaxşı işlərin də var: Aşera bütlərini ölkədən yox etdin və öz ürəyini Allahı axtarmaq üçün hazırladın». </verse>
+        <verse osisID='2Chr.19.4'>Yehoşafat Yerusəlimdə yaşadı. Təkrar Beer-Şevadan Efrayimin dağlıq bölgəsinə qədər xalq arasında gəzdi və onları atalarının Allahı Rəbbə tərəf döndərdi.</verse>
+        <verse osisID='2Chr.19.5'>Ölkəyə, Yəhudanın bütün qalalı şəhərlərinə hakimlər – hər şəhərə bir hakim qoydu.</verse>
+        <verse osisID='2Chr.19.6'>O, hakimlərə dedi: «Baxın ki nə edirsiniz, çünki insan üçün deyil, Rəbb üçün hakimlik edirsiniz və hakimlik işində O sizinlədir.</verse>
+        <verse osisID='2Chr.19.7'>İndi sizin üzərinizdə Rəbb qorxusu olsun. Ehtiyat edin, çünki Allahımız Rəbdə haqsızlıq, tərəfkeşlik, rüşvətxorluq yoxdur». </verse>
+        <verse osisID='2Chr.19.8'>Yehoşafat Rəbbin hakimliyinə və mübahisəli işlər üçün Yerusəlimə də bəzi Levililəri, kahinləri və İsrailin nəsil başçılarını təyin etdi. Onlar Yerusəlimə qayıdanda</verse>
+        <verse osisID='2Chr.19.9'>padşah onlara əmr edib dedi: «Rəbb qorxusu ilə, sədaqətlə və bütün ürəklə belə edin:</verse>
+        <verse osisID='2Chr.19.10'>öz şəhərlərində yaşayan qohumlarınızdan sizə gələcək hər mübahisəli iş üçün, istər qan işi olsun, istərsə də qanun, əmr, qayda və hökm barədə olsun, onlara xəbərdarlıq edin ki, Rəbbin qarşısında təqsirkar olmasınlar və Onun qəzəbi sizin və qohumlarınızın üzərinə gəlməsin. Belə etməklə siz təqsirkar olmayacaqsınız.</verse>
+        <verse osisID='2Chr.19.11'>Budur, Rəbbin hər işi üçün başçı kahin Amarya, padşahın hər işi üçün isə Yəhudanın qəbilə rəisi İsmail oğlu Zevadya başçınız olacaq, önünüzdə də Levililər məmur olacaq. Cəsarətlə davranın. Rəbb yaxşılıq edənlərlə olsun».  </verse>
+      </chapter>
+      <chapter osisID='2Chr.20'>
+        <verse osisID='2Chr.20.1'>
+          Bundan sonra Moavlılar və Ammonlular, onlarla bərabər Maonlulardan bəzisi Yehoşafata qarşı döyüşmək üçün gəldi.</verse>
+        <verse osisID='2Chr.20.2'>Adamlar gəldi və Yehoşafata bildirib dedi: «Dənizin o biri tərəfindən, Aramdan sənə qarşı böyük bir izdiham gəlir. İndi onlar Xaseson-Tamardadır. Bura En-Gedidir».</verse>
+        <verse osisID='2Chr.20.3'>Yehoşafat qorxdu və üzünü Rəbbi axtarmağa döndərdi və bütün Yəhuda üçün oruc elan etdi.</verse>
+        <verse osisID='2Chr.20.4'>Yəhudalılar Rəbdən kömək diləmək üçün toplandı, Yəhudanın bütün şəhərlərindən də Rəbbi axtarmaq üçün gəldilər. </verse>
+        <verse osisID='2Chr.20.5'>Yehoşafat Rəbbin məbədində, yeni həyətin qabağında, Yəhuda və Yerusəlim camaatının önündə durub dedi:</verse>
+        <verse osisID='2Chr.20.6'>«Ya Rəbb, atalarımızın Allahı, göylərdə olan Allah Sən deyilsənmi? Bütün millətlərin padşahlıqları üzərinə hakim olan Sən deyilsənmi? Qüdrətlə qüvvət Sənin əlindədir və heç kim Sənə qarşı dura bilməz.</verse>
+        <verse osisID='2Chr.20.7'>Ey Allahımız, bu torpaqda yaşayanları xalqın İsrailin önündə qovan və onu dostun İbrahimin nəslinə əbədi olaraq verən Sən deyilsənmi?</verse>
+        <verse osisID='2Chr.20.8'>Orada məskən saldılar, orada Sənin adına müqəddəs bir məbəd tikdilər və dedilər:</verse>
+        <verse osisID='2Chr.20.9'>“Əgər üzərimizə bəla, cəza qılıncı, vəba və ya aclıq gələrsə, adın bu məbəddə olduğuna görə bu məbədin önündə, yəni Sənin önündə də duracağıq və çətin günlərdə Sənə fəryad edəcəyik, onda Sən eşidəcəksən və xilas edəcəksən”. </verse>
+        <verse osisID='2Chr.20.10'>İndi bax Ammonlular, Moavlılar, Seir dağının sakinləri nə edir! Misirdən gələrkən İsrailliləri onların torpağına girməyə qoymadın, İsraillilər də dönüb onları məhv etmədi.</verse>
+        <verse osisID='2Chr.20.11'>Budur, bizə irs olaraq verdiyin Sənin mülkündən bizi qovmağa gələrək əvəzini necə ödəyirlər.</verse>
+        <verse osisID='2Chr.20.12'>Ey Allahımız, onlara hökm etməyəcəksənmi? Çünki üzərimizə gələn bu böyük qoşuna qarşı gücümüz yoxdur və biz nə edəcəyimizi bilmirik, ancaq gözlərimiz Sənin üzərindədir». </verse>
+        <verse osisID='2Chr.20.13'>Bütün Yəhudalılar uşaqları, qadınları və oğulları ilə birgə Rəbbin önündə durmuşdu.</verse>
+        <verse osisID='2Chr.20.14'>Camaatın arasında olanda Asəf nəslindən olan bir Levili, Mattanya oğlu Yeiel oğlu Benaya oğlu Zəkəriyyə oğlu Yaxazielin üzərinə Rəbbin Ruhu gəldi.</verse>
+        <verse osisID='2Chr.20.15'>O dedi: «Bütün Yəhudalılar, Yerusəlimdə yaşayanlar və sən padşah Yehoşafat, yaxşı dinləyin! Rəbb sizə belə deyir: “Bu böyük qoşundan qorxmayın və ruhdan düşməyin, çünki döyüş sizin deyil, ancaq Allahındır.</verse>
+        <verse osisID='2Chr.20.16'>Sabah onlara qarşı enin: budur, onlar Sis yoxuşu ilə qalxır və onları vadinin sonunda, Yeruel çölünün önündə tapacaqsınız.</verse>
+        <verse osisID='2Chr.20.17'>Bu səfərdə döyüşmək sizə lazım olmayacaq. Ey Yəhudalılar və Yerusəlimlilər, səf bağlayıb durun, sizinlə bərabər olan Rəbbin xilasını görün. Qorxmayın və ruhdan düşməyin. Sabah onların qarşısına gedin və Rəbb sizinlə olacaq”». </verse>
+        <verse osisID='2Chr.20.18'>Yehoşafat üzüstə yerə qapandı və bütün Yəhudalılar və Yerusəlimdə yaşayanlar Rəbbə səcdə etmək üçün Rəbbin önündə yerə qapandı.</verse>
+        <verse osisID='2Chr.20.19'>Qohat və Qorah nəsillərindən olan Levililər ayağa qalxıb İsrailin Allahı Rəbbə yüksək səslə şükür etdilər. </verse>
+        <verse osisID='2Chr.20.20'>Onlar səhər tezdən qalxdı və Teqoa çölünə çıxdılar. Çıxdıqları zaman Yehoşafat durub dedi: «Ey Yəhuda və Yerusəlimdə yaşayanlar, məni dinləyin: Allahınız Rəbbə inanın, onda qorunacaqsınız, onun peyğəmbərlərinə inanın və uğur qazanacaqsınız».</verse>
+        <verse osisID='2Chr.20.21'>Xalqla məsləhət etdikdən sonra Rəbbə ilahi oxuyanları irəli qoydu ki, ordusunun önündə gedərək müqəddəs calalına həmd edib oxusunlar: «Rəbbə şükür edin, çünki Onun məhəbbəti əbədidir». </verse>
+        <verse osisID='2Chr.20.22'>Tərənnümlə həmdə başladıqları zaman Yəhudaya gələn Ammonlulara, Moavlılara və Seir dağının sakinlərinə qarşı Rəbb pusqu qurdu və onlar qırıldı.</verse>
+        <verse osisID='2Chr.20.23'>Çünki Ammonlularla Moavlılar Seir dağının sakinlərini qırıb tamam yox etmək üçün onlara qarşı qalxdı və Seir sakinlərini qırandan sonra bir-birlərini məhv etməyə başladı. </verse>
+        <verse osisID='2Chr.20.24'>Yəhudalılar çölə baxan gözətçi yerinə çatdıqda qoşuna baxıb yerə yıxılmış meyitlər gördülər. Sağ qalan yox idi.</verse>
+        <verse osisID='2Chr.20.25'>Yehoşafat və onun xalqı onların qənimətini götürməyə gəldi, onların arasında çoxlu mallar, paltarlar və qiymətli şeylər tapdılar. Bunlardan o qədər yığdılar ki, daşıya bilmədilər. Qənimət o qədər çox idi ki, onu üç gün yığdılar.</verse>
+        <verse osisID='2Chr.20.26'>Dördüncü gün Beraka  vadisində Rəbbə həmd etmək üçün toplandılar. Bundan ötrü o yerin adını Beraka vadisi qoydular və bu günə qədər də belədir.</verse>
+        <verse osisID='2Chr.20.27'>Bütün Yəhuda və Yerusəlim xalqı Yehoşafatın başçılığı altında sevinclə Yerusəlimə qayıtdı, çünki Rəbb düşmənlərini məhv edərək onları sevindirmişdi.</verse>
+        <verse osisID='2Chr.20.28'>Çənglər, liralar və kərənaylar çalaraq Yerusəlimə, Rəbbin məbədinə gəldilər.</verse>
+        <verse osisID='2Chr.20.29'>İsrailin düşmənlərinə qarşı Rəbbin döyüşdüyünü eşitdikdə bütün ölkələrdəki padşahlar üzərinə Allahın qorxusu düşdü.</verse>
+        <verse osisID='2Chr.20.30'>Yehoşafatın padşahlığında isə əmin-amanlıq oldu, çünki Allahı ona hər tərəfdən dinclik verdi. </verse>
+        <verse osisID='2Chr.20.31'>Yehoşafat Yəhuda üzərində padşahlıq etdi. Padşah olduğu zaman otuz beş yaşında idi. O, Yerusəlimdə iyirmi beş il padşahlıq etdi. Anasının adı Şilxi qızı Azuva idi.</verse>
+        <verse osisID='2Chr.20.32'>O, atası Asanın yolu ilə getdi və Rəbbin gözündə doğru olan işlər edərək bunlardan kənara çıxmadı.</verse>
+        <verse osisID='2Chr.20.33'>Ancaq səcdəgahlar aradan qaldırılmadı və xalqın ürəyi hələ atalarının Allahı Rəbbə tərəf yönəlməmişdi. </verse>
+        <verse osisID='2Chr.20.34'>Yehoşafatın qalan işləri, ilk işlərindən son işlərinə qədər İsrail padşahlarının kitabına daxil olan Xanani oğlu Yehunun tarix kitabında yazılmışdır. </verse>
+        <verse osisID='2Chr.20.35'>Ondan sonra Yəhuda padşahı Yehoşafat pis işlər görən İsrail padşahı Axazya ilə razılığa gəldi.</verse>
+        <verse osisID='2Chr.20.36'>Tarşişə getməyə gəmilər düzəltmək üçün onunla razılaşdı və gəmiləri Esyon-Geverdə düzəltdilər.</verse>
+        <verse osisID='2Chr.20.37'>Mareşadan olan Dodavın oğlu Eliezer Yehoşafata qarşı peyğəmbərlik edib dedi: «Axazya ilə razılığa gəldiyin üçün Rəbb sənin işlərini pozdu». Gəmilər parçalandı və Tarşişə gedə bilmədilər.  </verse>
+      </chapter>
+      <chapter osisID='2Chr.21'>
+        <verse osisID='2Chr.21.1'>
+          Yehoşafat ataları ilə uyudu və Davudun şəhərində, atalarının yanında basdırıldı. Onun yerinə oğlu Yehoram padşah oldu.</verse>
+        <verse osisID='2Chr.21.2'>Onun qardaşları, Yehoşafatın oğulları bunlar idi: Azarya, Yexiel, Zəkəriyyə, Azarya, Mikael və Şefatya. Bunların hamısı İsrail padşahı Yehoşafatın oğulları idi.</verse>
+        <verse osisID='2Chr.21.3'>Ataları onlara çoxlu hədiyyələr – qızıl, gümüş və qiymətli şeylər, bunlarla bərabər Yəhudada olan qalalı şəhərlər verdi. Padşahlığı isə Yehorama verdi, çünki o, ilk oğul idi.</verse>
+        <verse osisID='2Chr.21.4'>Yehoram atasının padşahlıq taxtına çıxıb möhkəmləndikdə bütün qardaşlarını və İsrail rəislərindən bəzisini də qılıncdan keçirdi.</verse>
+        <verse osisID='2Chr.21.5'>Yehoram padşah olduğu vaxt otuz iki yaşında idi və Yerusəlimdə səkkiz il padşahlıq etdi.</verse>
+        <verse osisID='2Chr.21.6'>Axav nəslinin etdiyi kimi o da İsrail padşahlarının yolu ilə getdi, çünki Axavın qızı onun arvadı idi. Yehoram Rəbbin gözündə pis olan işlər etdi.</verse>
+        <verse osisID='2Chr.21.7'>Ancaq Rəbb Davudla etdiyi əhddən ötrü Davudun sülaləsini məhv etmək istəmədi. Çünki Davuda və onun nəslinə əbədi olaraq bir çıraq verəcəyini vəd etmişdi. </verse>
+        <verse osisID='2Chr.21.8'>Onun dövründə Edomlular üsyan qaldırıb Yəhudanın əsarəti altından çıxdılar və özlərinə bir padşah qoydular.</verse>
+        <verse osisID='2Chr.21.9'>Yehoram rəisləri və bütün döyüş arabaları ilə birgə getdi. Gecə ikən qalxıb onu hər tərəfdən əhatə edən Edomluları və araba rəislərini qırdı.</verse>
+        <verse osisID='2Chr.21.10'>Beləcə Edomlular üsyan qaldırdı, bu günə qədər də Yəhudanın əsarəti altında deyil. Həmin vaxt Livnalılar da üsyan qaldırıb onun əsarəti altından çıxdılar, çünki Yehoram atalarının Allahı Rəbbi tərk etmişdi. </verse>
+        <verse osisID='2Chr.21.11'>O, Yəhuda dağlarında da səcdəgahlar tikmişdi. Yerusəlimdə yaşayanları da xəyanətə təhrik edib Yəhudanı da yoldan azdırmışdı.</verse>
+        <verse osisID='2Chr.21.12'>Ona peyğəmbər İlyasdan bu məktub gəldi:  «Atan Davudun Allahı Rəbb belə deyir: “Atan Yehoşafatın və Yəhuda padşahı Asanın yolları ilə deyil,</verse>
+        <verse osisID='2Chr.21.13'>ancaq İsrail padşahlarının yolu ilə getdin, Axav nəslinin etdiyi kimi Yəhudanı və Yerusəlimdə yaşayanları xəyanətə təhrik etdin. Həm də atanın nəslindən qardaşlarını, səndən daha yaxşı olanları öldürdün.</verse>
+        <verse osisID='2Chr.21.14'>Buna görə də Rəbb sənin xalqına, oğullarına, arvadlarına və bütün malına böyük zərbə vuracaq.</verse>
+        <verse osisID='2Chr.21.15'>Sən isə ağır xəstələnəcəksən, elə bir şiddətli xəstəlik keçirəcəksən ki, nəticədə bağırsaqların töküləcək”». </verse>
+        <verse osisID='2Chr.21.16'>Rəbb Yehorama qarşı Filiştlilərin ruhunu və Kuşluların qonşuluğunda yaşayan Ərəblərin ruhunu oyandırdı.</verse>
+        <verse osisID='2Chr.21.17'>Onlar Yəhudanın üstünə gəlib oraya hücum çəkdilər. Padşahın sarayında tapdıqları bütün malı, onun oğullarını və arvadlarını apardılar. Oğullarının ən balacası Axazyadan başqa oğlu qalmadı. </verse>
+        <verse osisID='2Chr.21.18'>Bunların hamısından sonra Rəbb Yehoramı bağırsaqlarından sağalmaz bir xəstəliklə vurdu.</verse>
+        <verse osisID='2Chr.21.19'>Onun xəstəliyi gündən-günə şiddətləndi. Nəhayət, ikinci ilin sonunda xəstəliyinə görə bağırsaqları töküldü və o, şiddətli ağrılarla öldü. Onun xalqı Yehoramın ataları üçün tonqal yandırdığı kimi onun xatirinə yandırmadı.</verse>
+        <verse osisID='2Chr.21.20'>Yehoram padşah olduğu vaxt otuz iki yaşında idi və Yerusəlimdə səkkiz il padşahlıq etdi. Ölümünə heç kəs təəssüf etmədi. Onu Davudun şəhərində basdırdılar, lakin padşahların qəbirlərində basdırmadılar.  </verse>
+      </chapter>
+      <chapter osisID='2Chr.22'>
+        <verse osisID='2Chr.22.1'>
+          Yerusəlimdə yaşayanlar onun yerinə ən kiçik oğlu Axazyanı padşah etdilər, çünki Ərəblərlə birgə ordugaha girən dəstələr bütün böyükləri öldürmüşdü. Beləcə Yəhuda padşahı Yehoramın oğlu Axazya padşah oldu.</verse>
+        <verse osisID='2Chr.22.2'>Axazya padşah olduğu vaxt qırx iki yaşında idi və Yerusəlimdə bir il padşahlıq etdi. Anası Omrinin nəvəsi olub adı Atalya idi.</verse>
+        <verse osisID='2Chr.22.3'>Axazya da Axav nəslinin yolları ilə getdi, çünki anası ona pislik etmək öyrədirdi.</verse>
+        <verse osisID='2Chr.22.4'>O da Axav nəsli kimi Rəbbin gözündə pis olan işlər etdi. Çünki atasının ölümündən sonra məhvi üçün bu adamlar onun məsləhətçiləri oldu.</verse>
+        <verse osisID='2Chr.22.5'>Onların məsləhəti ilə Aram padşahı Xazaelə qarşı vuruşmaq üçün İsrail padşahı Axav oğlu Yehoramla birgə Ramot-Gileada getdi. Aramlılar Yehoramı yaraladı.</verse>
+        <verse osisID='2Chr.22.6'>Ramot-Gileadda Aram padşahı Xazaelə qarşı vuruşarkən aldığı yaraları sağaltmaq üçün İzreelə qayıtdı. Yəhuda padşahı Yehoram oğlu Axazya, Axav oğlu Yehoramı görmək üçün İzreelə gəldi, çünki o yaralı idi. </verse>
+        <verse osisID='2Chr.22.7'>Axazyanın bu yolla məhv olması Allahdan idi. O, Yehoramın yanına gəldi və oraya gəlib Axav nəslini yox etmək üçün Rəbbin məsh etdiyi Nimşi oğlu Yehuya qarşı Yehoramla birgə çıxdı.</verse>
+        <verse osisID='2Chr.22.8'>Yehu Axav nəslinə hökmü icra edərkən Yəhuda rəislərini və Axazyanın ona xidmət edən qardaşı oğullarını tapdı və onları öldürdü.</verse>
+        <verse osisID='2Chr.22.9'>Axazyanı axtardı və onu Samariyada gizləndiyi halda tutdular. Yehunun yanına gətirdilər və onu öldürdülər. Sonra onu basdırdılar, çünki dedilər: «Rəbbi bütün ürəyi ilə axtaran Yehoşafatın oğlu budur». Beləliklə, Axazyanın nəslində padşahlığı əldə saxlaya biləcək adam qalmadı. </verse>
+        <verse osisID='2Chr.22.10'>Axazyanın anası Atalya oğlunun öldüyünü görəndə qalxıb Yəhudanın bütün padşah nəslini məhv etdi.</verse>
+        <verse osisID='2Chr.22.11'>Ancaq padşahın qızı Yehoşeva öldürülən şahzadələr arasından Axazyanın oğlu Yoaşı gizlincə apardı və onu dayəsi ilə birgə yataq otağında yerləşdirdi. Kahin Yehoyadanın arvadı və padşah Yehoramın qızı olan Yehoşeva Axazyanın bacısı olduğu üçün Yoaşı Atalyadan gizlətdi ki, Atalya onu öldürməsin.</verse>
+        <verse osisID='2Chr.22.12'>Yoaş altı il gizli olaraq Allahın məbədində onlarla birgə qaldı. Atalya isə ölkə üzərində padşahlıq etdi.  </verse>
+      </chapter>
+      <chapter osisID='2Chr.23'>
+        <verse osisID='2Chr.23.1'>Yeddinci ildə Yehoyada cəsarətləndi və yüzbaşılar Yeroxam oğlu Azarya, Yehoxanan oğlu İsmail, Oved oğlu Azarya, Adaya oğlu Maaseya və Zikri oğlu Elişafatla əhd etdi.</verse>
+        <verse osisID='2Chr.23.2'>Onlar Yəhudanı gəzib oranın bütün şəhərlərindən Levililəri və İsrailin nəsil başçılarını topladılar və Yerusəlimə gəldilər.</verse>
+        <verse osisID='2Chr.23.3'>Bütün camaat Allahın məbədində padşahla əhd bağladı. Yehoyada onlara dedi: «Padşahın oğlu budur. Davud oğulları haqqında Rəbbin söylədiyi kimi padşahlıq edəcək.</verse>
+        <verse osisID='2Chr.23.4'>Siz belə edin: sizdən Şənbə günü növbə çəkən kahinlərin və Levililərin üçdə biri astanada duran qapıçılar olsun,</verse>
+        <verse osisID='2Chr.23.5'>üçdə biri padşah sarayında və üçdə biri Bünövrə darvazasında olsun. Bütün xalq isə Rəbbin məbədinin həyətində olsun.</verse>
+        <verse osisID='2Chr.23.6'>Ancaq kahinlərdən və xidmət edən Levililərdən başqa Rəbbin məbədinə heç kəs girməsin, onlar girsin, çünki müqəddəsdirlər. Bütün xalq isə Rəbbin buyurduğunu qorusun.</verse>
+        <verse osisID='2Chr.23.7'>Levililər hər biri silahı əlində padşahı hər tərəfdən əhatəyə alsınlar, məbədə girən hər kəs öldürülsün. Onlar padşah girib-çıxdığı vaxt onunla olsun». </verse>
+        <verse osisID='2Chr.23.8'>Levililərlə bütün Yəhudalılar kahin Yehoyadanın əmr etdiyi hər şeyi etdilər. Hər biri öz adamlarını, Şənbə günü növbə çəkənləri və növbədə olmayanları götürdü, çünki kahin Yehoyada bölmələrin heç birini buraxmamışdı.</verse>
+        <verse osisID='2Chr.23.9'>Kahin Yehoyada yüzbaşılara Allahın məbədində olan padşah Davudun nizələrini, qalxanlarını və sipərlərini verdi.</verse>
+        <verse osisID='2Chr.23.10'>Bütün xalqı məbədin sağ tərəfindən sol tərəfinə qədər qurbangahın və məbədin yanında, padşahın ətrafında qoydu. Hər kəsin silahı əlində idi.</verse>
+        <verse osisID='2Chr.23.11'>Yehoyada ilə oğulları şahzadəni irəli çıxartdılar və tacı başına qoyub şəhadətnaməni ona verdilər. Onu padşah olmaq üçün məsh etdilər və «Yaşasın padşah!» dedilər. </verse>
+        <verse osisID='2Chr.23.12'>Atalya qaçışan və padşahı alqışlayan xalqın səsini eşitdikdə xalqın yanına, Rəbbin məbədinə gəldi.</verse>
+        <verse osisID='2Chr.23.13'>O baxıb gördü ki, padşah girəcək yerdə öz sütununun yanında dayanmışdır və rəislərlə kərənay çalanlar da padşahın yanındadır. Bütün ölkə xalqı sevinərək kərənay çalırdı. İlahiçilər də musiqi alətləri çalaraq ucadan həmd edirdilər. Atalya paltarını cırıb bağırdı: «Xəyanət! Xəyanət!»</verse>
+        <verse osisID='2Chr.23.14'>Kahin Yehoyada qoşun üçün cavabdeh olan yüzbaşıları çağırıb dedi: «Onu cərgələrin arasından çıxarın və dalınca gələn qılıncla öldürülsün». Çünki kahin «onu Rəbbin məbədində öldürməyin» demişdi.</verse>
+        <verse osisID='2Chr.23.15'>Atalyanı tutub sarayın atlar darvazasının girəcək yerinə gətirdilər və orada onu öldürdülər. </verse>
+        <verse osisID='2Chr.23.16'>Yehoyada özü və bütün xalqla padşah arasında əhd kəsdi ki, onlar Rəbbin xalqı olsun.</verse>
+        <verse osisID='2Chr.23.17'>Bütün xalq Baal məbədinə getdi. Onu dağıdıb qurbangahlarını və bütlərini parça-parça etdilər. Baalın kahini Mattanı da qurbangahların önündə öldürdülər.</verse>
+        <verse osisID='2Chr.23.18'>Yehoyada Rəbbin məbədi üzərində məsuliyyəti Davudun Rəbbin evində bölmələrə ayırdığı Levili kahinlərə verdi. Davud onları öz qaydasına görə sevinclə və musiqi ilə Musanın Qanununda yazıldığı kimi Rəbbə yandırma qurbanları təqdim etmək üçün Rəbbin məbədinə qoymuşdu.</verse>
+        <verse osisID='2Chr.23.19'>Hər hansı yolla natəmiz bir kəs girməsin deyə Rəbbin məbədinin qapılarına qapıçılar qoydu.</verse>
+        <verse osisID='2Chr.23.20'>O, yüzbaşıları, əyanları, xalqın valilərini, bütün ölkə xalqını özü ilə götürdü. Onlar padşahı Rəbbin məbədindən düşürtdülər və yuxarı darvazadan keçib saraya gəldilər. Padşahı padşahlıq taxtında oturtdular.</verse>
+        <verse osisID='2Chr.23.21'>Bütün ölkə xalqı sevindi və şəhər sakitləşdi, çünki Atalyanı qılıncla öldürmüşdülər.  </verse>
+      </chapter>
+      <chapter osisID='2Chr.24'>
+        <verse osisID='2Chr.24.1'>
+          Yoaş padşah olduğu vaxt yeddi yaşında idi və Yerusəlimdə qırx il padşahlıq etdi. Anası Beer-Şevadan olub adı Sivya idi.</verse>
+        <verse osisID='2Chr.24.2'>Yoaş kahin Yehoyadanın bütün ömrü boyu Rəbbin gözündə doğru olan işlər etdi.</verse>
+        <verse osisID='2Chr.24.3'>Yehoyada ona iki arvad aldı. O, oğullar və qızlar atası oldu. </verse>
+        <verse osisID='2Chr.24.4'>Bundan sonra Yoaş Rəbbin məbədini bərpa etməyi qərara aldı.</verse>
+        <verse osisID='2Chr.24.5'>Kahinlərlə Levililəri toplayıb onlara dedi: «Yəhudanın şəhərlərinə çıxın və Allahınızın məbədini hər il təmir etmək üçün bütün İsraillilərdən pul toplayın, bu işi görməyə tələsin». Ancaq Levililər tələsmədi.</verse>
+        <verse osisID='2Chr.24.6'>Başçı olan Yehoyadanı padşah çağırdı və ona dedi: «Rəbbin qulu Musanın və İsrail camaatının Şəhadət çadırı üçün qoyduqları vergini Yəhudadan və Yerusəlimdən gətirmələrini nə üçün Levililərdən tələb etmədin?»</verse>
+        <verse osisID='2Chr.24.7'>Çünki o pis qadın Atalyanın oğulları Allahın məbədini viran etmişdilər və Rəbbin məbədinin bütün müqəddəs şeylərini də Baal bütləri üçün işlətmişdilər. </verse>
+        <verse osisID='2Chr.24.8'>Padşah əmr etdi və bir sandıq düzəldib onu Rəbbin məbədinin darvazasına, bayır tərəfə qoydular.</verse>
+        <verse osisID='2Chr.24.9'>Allahın qulu Musanın çöldə İsrail üzərinə qoyduğu vergini Rəbb üçün gətirsinlər deyə Yəhudada və Yerusəlimdə elan etdilər.</verse>
+        <verse osisID='2Chr.24.10'>Rəislərlə bütün xalq sevindi və sandıq dolana qədər vergini gətirib onun içinə qoydular.</verse>
+        <verse osisID='2Chr.24.11'>Padşahlığın məmurları Levililərin onların yanına gətirdikləri sandığın içində çox pul olduğunu gördükləri vaxt padşahın mirzəsi ilə başçı kahinin məmuru gəlib sandığı boşaldar, sonra onu yenə yerinə qaytarardılar. Hər gün beləcə etməklə olduqca çox pul topladılar.</verse>
+        <verse osisID='2Chr.24.12'>Padşahla Yehoyada onu Rəbbin məbədinin xidmət işini görənlərə verdilər və Rəbbin məbədini bərpa etmək üçün daşyonanları və dülgərləri, Rəbbin məbədini təmir etmək üçün dəmir və tunc ustalarını muzdla tutdular.</verse>
+        <verse osisID='2Chr.24.13'>İşçilər işlədilər, təmir işi onların əlində irəli getdi və Allahın məbədini qaydasına salıb onu möhkəmləndirdilər.</verse>
+        <verse osisID='2Chr.24.14'>İşi qurtardıqları vaxt yerdə qalan pulu padşahın və Yehoyadanın önünə gətirdilər və bununla Rəbbin məbədi üçün əşyalar – xidmət və yandırma qurbanları üçün əşyalar, nimçələr, qızıl və gümüş əşyalar düzəltdilər. </verse>
+        <verse osisID='2Chr.24.15'>Yehoyada qocalıb yaşa doldu və öldü. O, öldüyü zaman yüz otuz yaşında idi.</verse>
+        <verse osisID='2Chr.24.16'>Onu Davudun şəhərində padşahların yanında basdırdılar, çünki İsrail üçün və Allahla məbədi üçün yaxşılıq etmişdi. </verse>
+        <verse osisID='2Chr.24.17'>Yehoyadanın ölümündən sonra Yəhuda rəisləri gəlib padşaha baş əydilər. O zaman padşah onlara qulaq asdı.</verse>
+        <verse osisID='2Chr.24.18'>Xalq atalarının Allahı Rəbbin məbədini tərk etdi, Aşera bütlərinə və başqa bütlərə qulluq etdi. Onların bu günahından ötrü Yəhuda ilə Yerusəlim üzərinə qəzəb gəldi.</verse>
+        <verse osisID='2Chr.24.19'>Rəbb onları Özünə tərəf döndərmək üçün onların yanına peyğəmbərlər göndərdi və peyğəmbərlər onlara qarşı şəhadət etdilər, ancaq xalq qulaq asmadı. </verse>
+        <verse osisID='2Chr.24.20'>Kahin Yehoyadanın oğlu Zəkəriyyənin üzərinə Allahın Ruhu gəldi və xalqın arasında çıxış edib onlara dedi: «Allah belə deyir: nə üçün Rəbbin əmrlərini pozursunuz? İşləriniz yaxşı getməz, çünki siz Rəbbi tərk etdiyiniz kimi O da sizi tərk etdi».</verse>
+        <verse osisID='2Chr.24.21'>Ona qarşı qəsd hazırladılar və onu padşahın əmri ilə Rəbbin məbədinin həyətində daşqalaq etdilər.</verse>
+        <verse osisID='2Chr.24.22'>Beləcə padşah Yoaş Zəkəriyyənin də atası Yehoyadanın ona etdiyi xeyirxahlığı yada salmadı və oğlunu öldürdü. O da ölərkən dedi: «Rəbb görsün və hökm etsin». </verse>
+        <verse osisID='2Chr.24.23'>O biri ilin əvvəlində Aram ordusu onun üstünə gəldi. Onlar Yəhudaya və Yerusəlimə hücum etdilər. Xalqın bütün rəislərini xalqın arasından götürüb məhv etdilər və onlardan alınan bütün qəniməti Dəməşq padşahına göndərdilər.</verse>
+        <verse osisID='2Chr.24.24'>Aramlılar az qoşunla gəldikləri halda Rəbb çox böyük bir ordunu onlara təslim etdi, çünki xalq atalarının Allahı Rəbdən üz döndərmişdi. Beləliklə, Yoaşa qarşı hökmü icra etdilər. </verse>
+        <verse osisID='2Chr.24.25'>Yoaşın yanından getdikləri zaman onu ağır yaralı vəziyyətdə qoydular. Onun əyanları kahin Yehoyadanın oğullarının qanına görə ona qarşı qəsd hazırladılar və onu yatağında öldürdülər. Yoaş öldü və onu Davudun şəhərində basdırdılar, ancaq padşahların məqbərəsində basdırmadılar.</verse>
+        <verse osisID='2Chr.24.26'>Ona qarşı qəsd quranlar bunlardır: Ammonlu qadın Şimatın oğlu Zavad və Moavlı qadın Şimritin oğlu Yehozavad.</verse>
+        <verse osisID='2Chr.24.27'>Yoaşın oğulları, ona edilən çoxlu xəbərdarlıq və Allah məbədinin bərpası barədə padşahların tarix kitabında yazılmışdır. Onun yerinə oğlu Amasya padşah oldu.  </verse>
+      </chapter>
+      <chapter osisID='2Chr.25'>
+        <verse osisID='2Chr.25.1'>
+          Amasya padşah olduğu vaxt iyirmi beş yaşında idi və Yerusəlimdə iyirmi doqquz il padşahlıq etdi. Anası Yerusəlimdən olub adı Yehoaddan idi.</verse>
+        <verse osisID='2Chr.25.2'>Amasya Rəbbin gözündə doğru olan işlər etdi, ancaq bunları bütün ürəyi ilə etmədi.</verse>
+        <verse osisID='2Chr.25.3'>Padşahlıq əlində möhkəmlənəndə Amasya atasını öldürmüş əyanlarını öldürdü.</verse>
+        <verse osisID='2Chr.25.4'>Ancaq Musanın Qanun kitabında yazıldığı kimi qatillərin oğullarını öldürmədi, çünki Rəbb əmr edib demişdi: «Oğula görə ata, ataya görə oğul öldürülməsin, hər kəs öz günahına görə ölməlidir». </verse>
+        <verse osisID='2Chr.25.5'>Amasya Yəhudalıları topladı, nəsillərinə görə bütün Yəhudalıları və Binyaminliləri minbaşıların və yüzbaşıların başçılığı altında düzdü. İyirmi yaşda və ondan yuxarı olanları yığıb onların arasından nizə və sipər daşıyan, döyüşmək bacaran üç yüz min adam seçdi.</verse>
+        <verse osisID='2Chr.25.6'>Yüz talant gümüşə İsraildən yüz min igid döyüşçünü də muzdla tutdu.</verse>
+        <verse osisID='2Chr.25.7'>Ancaq bir Allah adamı gəlib ona dedi: «Ey padşah, qoy İsrail ordusu səninlə bərabər getməsin, çünki Rəbb İsraillilərlə, bütün bu Efrayimlilərlə deyil.</verse>
+        <verse osisID='2Chr.25.8'>Əgər getsən, tək get, döyüşdə cəsarətli ol, amma Allah səni düşmənin önündə büdrədəcək, çünki Allahda yardım etməyə və büdrətməyə qüdrət var».</verse>
+        <verse osisID='2Chr.25.9'>Amasya Allah adamına dedi: «Ancaq İsrail ordusuna verdiyim yüz talant üçün nə edim?» Allah adamı dedi: «Rəbb sənə bundan artığını verə bilər».</verse>
+        <verse osisID='2Chr.25.10'>Amasya Efrayimdən yanına gələn ordunu yerlərinə getmək üçün ayırdı. Bundan ötrü Yəhudaya qarşı onların qəzəbi alovlandı və qızğın qəzəblə yerlərinə qayıtdılar. </verse>
+        <verse osisID='2Chr.25.11'>Amasya cəsarətləndi və xalqını götürüb Duz dərəsinə getdi, Seirlilərdən on min nəfəri qırdı.</verse>
+        <verse osisID='2Chr.25.12'>Yəhudalılar sağ qalan daha on min nəfəri əsir aldılar, onları qayanın başına gətirib oradan aşağı atdılar. Onların hamısı parça-parça oldu.</verse>
+        <verse osisID='2Chr.25.13'>Ancaq özü ilə birgə döyüşə getməsinlər deyə Amasyanın geri göndərdiyi ordunun əsgərləri Samariyadan Bet-Xorona qədər Yəhuda şəhərlərinə basqın etdilər. Onlardan üç min nəfəri qırdılar və qarət olunmuş çoxlu qənimət ələ keçirdilər. </verse>
+        <verse osisID='2Chr.25.14'>Amasya Edomluları qırıb gəldikdən sonra Seirlilərin bütlərini gətirib onları özü üçün allahlar olaraq qoydu. O bunların önündə səcdə etdi və onlara buxur yandırdı.</verse>
+        <verse osisID='2Chr.25.15'>Amasyaya qarşı Rəbbin qəzəbi alovlandı və onun yanına bir peyğəmbər göndərdi. Bu peyğəmbər ona dedi: «Nə üçün o xalqın allahlarına üz tutdun? Onlar öz xalqlarını sənin əlindən qurtara bilmədilər».</verse>
+        <verse osisID='2Chr.25.16'>Bunu söyləyərkən Amasya ona dedi: «Məgər səni padşaha məsləhətçi qoymuşuq? Sus, ölməkmi istəyirsən?» Peyğəmbər vaz keçib dedi: «Allahın səni məhv etməyə qərar verdiyini bilirəm, çünki bunu etdin və mənim məsləhətimə qulaq asmadın». </verse>
+        <verse osisID='2Chr.25.17'>Yəhuda padşahı Amasya məsləhətləşib İsrail padşahı Yehu oğlu Yehoaxaz oğlu Yoaşın yanına xəbər göndərib dedi: «Gəl, qarşılaşaq».</verse>
+        <verse osisID='2Chr.25.18'>İsrail padşahı Yoaş Yəhuda padşahı Amasyaya cavab verib dedi: «Livanda olan qanqal oradakı sidr ağacına xəbər göndərib “qızını oğluma arvad olmaq üçün ver” dedi. Amma Livanda olan bir çöl heyvanı keçərək qanqalı tapdaladı.</verse>
+        <verse osisID='2Chr.25.19'>Sən “Edomluları qırdım” deyərək ürəyin qürurlanıb, bununla öyünürsən. İndi öz evində otur. Nə üçün sən Yəhudalılarla birlikdə bəlaya düşmək üçün münaqişəyə atılırsan?» </verse>
+        <verse osisID='2Chr.25.20'>Ancaq Amasya qulaq asmadı. Bu iş onları Yoaşın əlinə təslim etmək üçün Allahdan oldu, çünki Amasya Edomun allahlarına üz tutmuşdu.</verse>
+        <verse osisID='2Chr.25.21'>İsrail padşahı Yoaş çıxıb Yəhuda padşahı Amasya ilə Yəhudada olan Bet-Şemeşdə qarşılaşdı.</verse>
+        <verse osisID='2Chr.25.22'>Yəhudalılar İsraillilərin önündə məğlub oldu və hər kəs öz evinə qaçdı.</verse>
+        <verse osisID='2Chr.25.23'>İsrail padşahı Yoaş Yəhuda padşahı Axazya oğlu Yoaş oğlu Amasyanı Bet-Şemeşdə tutub onu Yerusəlimə gətirdi. O, şəhər divarının Efrayim darvazasından Künc darvazasına qədər dörd yüz qulacını uçurdu.</verse>
+        <verse osisID='2Chr.25.24'>Bütün qızıl-gümüşü, Allahın məbədində Oved-Edomun ixtiyarında olan bütün əşyaları, sarayın xəzinələrini apardı. Girov olaraq tutduğu adamları da götürüb Samariyaya qayıtdı. </verse>
+        <verse osisID='2Chr.25.25'>Yəhuda padşahı Yoaş oğlu Amasya İsrail padşahı Yehoaxaz oğlu Yoaşın ölümündən sonra on beş il yaşadı.</verse>
+        <verse osisID='2Chr.25.26'>Amasyanın qalan işləri, ilk işlərindən son işlərinə qədər Yəhuda və İsrail padşahlarının kitabında yazılmışdır.</verse>
+        <verse osisID='2Chr.25.27'>Amasya Rəbbin yolundan azdığı vaxtdan başlayaraq Yerusəlimdə ona qarşı qəsd hazırladılar. O, Lakişə qaçdı, ancaq Lakişə onun dalınca adamlar göndərdilər və orada onu öldürdülər.</verse>
+        <verse osisID='2Chr.25.28'>Onu atlar üstündə gətirib Yəhuda şəhərində, atalarının yanında basdırdılar.  </verse>
+      </chapter>
+      <chapter osisID='2Chr.26'>
+        <verse osisID='2Chr.26.1'>Bütün Yəhuda xalqı on altı yaşlı Uzziyanı götürüb atası Amasyanın yerinə padşah etdi.</verse>
+        <verse osisID='2Chr.26.2'>Padşah ataları ilə uyuduqdan sonra o, Elatı Yəhudaya qaytarıb onu tikdi. </verse>
+        <verse osisID='2Chr.26.3'>Uzziya padşah olduğu vaxt on altı yaşında idi və Yerusəlimdə əlli iki il padşahlıq etdi. Anası Yerusəlimdən olub adı Yekolya idi.</verse>
+        <verse osisID='2Chr.26.4'>Uzziya atası Amasyanın etdiyi kimi Rəbbin gözündə doğru olan işlər etdi.</verse>
+        <verse osisID='2Chr.26.5'>Allahdan qorxmağı öyrədən Zəkəriyyənin ömrü boyu Uzziya Allahı axtarırdı və Rəbbi axtardığı dövrdə Allah onun işini avand etdi. </verse>
+        <verse osisID='2Chr.26.6'>O çıxıb Filiştlilərə qarşı döyüşdü və Qat, Yavne və Aşdod şəhərlərinin divarlarını yıxdı. Aşdod torpağında və Filiştlilər arasında şəhərlər tikdi.</verse>
+        <verse osisID='2Chr.26.7'>Filiştlilərə, Qur-Baalda yaşayan Ərəblərə və Maonlulara qarşı Allah ona yardım etdi.</verse>
+        <verse osisID='2Chr.26.8'>Ammonlular Uzziyaya vergi verirdilər. Onun şöhrəti Misirin girəcəyinə qədər yayıldı, çünki get-gedə çox güclü oldu. </verse>
+        <verse osisID='2Chr.26.9'>Uzziya Yerusəlimdə Künc və Dərə darvazaları, divarın küncü üzərində möhkəm qüllələr düzəltdi.</verse>
+        <verse osisID='2Chr.26.10'>O, çöldə də qüllələr düzəltdi və çoxlu su anbarı üçün yer qazdı, çünki yamaclı-düzənlikli bölgədə və düzənlikdə çoxlu heyvanları vardı. Dağlarda və Karmeldə əkinçilər və üzümçülər qoydu, çünki torpağı çox sevərdi. </verse>
+        <verse osisID='2Chr.26.11'>Uzziyanın döyüşməyi bacaran ordusunda qayda belə idi. Padşahın qoşun başçılarından biri olan Xananyanın nəzarəti altında ordu mirzə Yeielin və məmur Maaseyanın düzdüyü dəstələrin saylarına görə dəstə-dəstə döyüşə çıxardı.</verse>
+        <verse osisID='2Chr.26.12'>Nəsil başçılarının ümumi sayı iki min altı yüz nəfər igid döyüşçü idi.</verse>
+        <verse osisID='2Chr.26.13'>Onların əli altında düşmənə qarşı padşaha yardım etmək üçün böyük igidliklə döyüşən üç yüz yeddi min beş yüz nəfərlik hərbi qüvvə vardı.</verse>
+        <verse osisID='2Chr.26.14'>Uzziya bütün ordu üçün qalxanlar, nizələr, dəbilqələr, zirehlər, kamanlar və sapand daşları hazırladı.</verse>
+        <verse osisID='2Chr.26.15'>Yerusəlimdə oxlar və böyük daşlar atmaq üçün məharətli adamların icad etdiyi mancanaqlar düzəldib qüllələr və künclər üzərinə qoydu. Onun şöhrəti uzaqlara yayıldı, çünki ona möcüzəli şəkildə kömək olunduğuna görə çox möhkəmləndi. </verse>
+        <verse osisID='2Chr.26.16'>Ancaq Uzziya qüvvətlənəndə öz həlakı üçün onun ürəyi qürurlandı. Allahı Rəbbə qarşı xainlik edərək buxur qurbangahı üzərində buxur yandırmaq üçün Rəbbin məbədinə daxil oldu.</verse>
+        <verse osisID='2Chr.26.17'>Kahin Azarya və onunla bərabər Rəbbin səksən igid kahini onun ardınca girdi.</verse>
+        <verse osisID='2Chr.26.18'>Padşah Uzziyaya qarşı durdular və ona dedilər: «Ey Uzziya, Rəbbə buxur yandırmaq sənin işin deyil, buxur yandırmaq üçün təqdis edilmiş Harun nəslindən olan kahinlərin işidir, Müqəddəs məkandan çıx, çünki xainlik etdin və bu iş Rəbb Allahdan sənə izzət gətirməyəcək».</verse>
+        <verse osisID='2Chr.26.19'>Uzziya qəzəbləndi. Buxur yandırmaq üçün onun əlində buxurdan vardı. Kahinlərə qarşı qəzəbləndikdə onların önündə Rəbbin məbədində, buxur qurbangahının yanında alnından cüzama tutuldu.</verse>
+        <verse osisID='2Chr.26.20'>Başçı kahin Azarya və bütün kahinlər ona baxıb alnından cüzama tutulduğunu gördülər. Onu oradan tez bayıra çıxartdılar. Özü də çıxmağa tələsdi, çünki Rəbb ona bəla göndərmişdi.</verse>
+        <verse osisID='2Chr.26.21'>Padşah Uzziya ölüm gününə qədər cüzamlı qaldı. O başqa bir evdə yaşayırdı, çünki cüzamlı olduğu üçün Rəbbin məbədindən uzaqlaşdırıldı. Onun oğlu Yotam isə saray üzərində olaraq ölkə xalqına hökm edirdi. </verse>
+        <verse osisID='2Chr.26.22'>Uzziyanın qalan işləri barədə, ilk işlərindən son işlərinə qədər Amots oğlu peyğəmbər Yeşaya yazmışdır.</verse>
+        <verse osisID='2Chr.26.23'>Uzziya ataları ilə uyudu və onu padşahların qəbiristanlığında, atalarının yanında basdırdılar, çünki «cüzamlıdır» dedilər. Onun yerinə oğlu Yotam padşah oldu.  </verse>
+      </chapter>
+      <chapter osisID='2Chr.27'>
+        <verse osisID='2Chr.27.1'>
+          Yotam padşah olduğu vaxt iyirmi beş yaşında idi və Yerusəlimdə on altı il padşahlıq etdi. Anası Sadoqun qızı Yeruşa idi.</verse>
+        <verse osisID='2Chr.27.2'>Yotam atası Uzziyanın etdiyi kimi Rəbbin gözündə doğru olan işlər etdi, ancaq Rəbbin məbədinin böyük otağına girmədi. Xalq hələ də pozğunluq edirdi. </verse>
+        <verse osisID='2Chr.27.3'>O, Rəbbin məbədinin yuxarı darvazasını düzəltdi, Ofel divarında çoxlu tikinti işi gördü.</verse>
+        <verse osisID='2Chr.27.4'>Yəhudanın dağlıq bölgəsində şəhərlər, meşələrdə qalalar və qüllələr tikdi.</verse>
+        <verse osisID='2Chr.27.5'>Yotam Ammonlular padşahına qarşı vuruşdu və onları məğlub etdi. Ammonlular ona o il yüz talant gümüş və on min kor  buğda, on min kor arpa verdi. İkinci və üçüncü il də Ammonlular ona bu qədər ödədi.</verse>
+        <verse osisID='2Chr.27.6'>Yotam qüvvətləndi, çünki Allahı Rəbbin önündə öz yollarını düzəltmişdi. </verse>
+        <verse osisID='2Chr.27.7'>Yotamın qalan işləri, bütün döyüşləri və əməlləri barədə İsrail və Yəhuda padşahlarının kitabında yazılmışdır.</verse>
+        <verse osisID='2Chr.27.8'>O, padşah olduğu vaxt iyirmi beş yaşında idi və Yerusəlimdə on altı il padşahlıq etdi.</verse>
+        <verse osisID='2Chr.27.9'>Yotam ataları ilə uyudu və onu Davudun şəhərində basdırdılar. Onun yerinə oğlu Axaz padşah oldu.  </verse>
+      </chapter>
+      <chapter osisID='2Chr.28'>
+        <verse osisID='2Chr.28.1'>
+          Axaz padşah olduğu vaxt iyirmi yaşında idi və Yerusəlimdə on altı il padşahlıq etdi. O, babası Davuddan fərqli olaraq Rəbbin gözündə doğru olan işlər etmədi.</verse>
+        <verse osisID='2Chr.28.2'>Axaz İsrail padşahlarının yolları ilə getdi, həm də Baallar üçün tökmə bütlər düzəltdi.</verse>
+        <verse osisID='2Chr.28.3'>Ben-Hinnom dərəsində buxur yandırdı və Rəbbin İsrail övladları önündən qovduğu millətlərin iyrənc əməllərini edərək oğullarını odda yandırdı.</verse>
+        <verse osisID='2Chr.28.4'>O, səcdəgahlarda, təpələr üzərində və hər kölgəli ağac altında qurban gətirər və buxur yandırardı. </verse>
+        <verse osisID='2Chr.28.5'>Bundan ötrü Allahı Rəbb onu Aram padşahına təslim etdi. Aramlılar onu məğlub edib çoxlu əsir götürdülər və onları Dəməşqə gətirdilər. Özü də İsrail padşahına təslim edildi. O da onu böyük tələfatla məğlub etdi.</verse>
+        <verse osisID='2Chr.28.6'>Remalya oğlu Peqah Yəhudada yüz iyirmi min adamı bir gündə öldürdü, hamısı igid adam idi. Çünki onlar atalarının Allahı Rəbbi tərk etmişdi.</verse>
+        <verse osisID='2Chr.28.7'>Efrayimli bir igid olan Zikri padşahın oğlu Maaseyanı və saray rəisi Azriqamı, padşahdan sonra ikinci adam olan Elqananı da öldürdü. </verse>
+        <verse osisID='2Chr.28.8'>İsraillilər öz qohumlarından qadınlar, oğullar, qızlar, iki yüz min nəfər əsir götürdü, həm də onlardan çoxlu qənimət götürüb Samariyaya apardılar.</verse>
+        <verse osisID='2Chr.28.9'>Ancaq orada Rəbbin bir peyğəmbəri vardı, adı Oded idi. O, Samariyaya gələn ordunun qarşısına çıxdı və onlara dedi: «Budur, atalarınızın Allahı Rəbb Yəhudaya qarşı qəzəbləndiyi üçün onları sizə təslim etdi, siz də göylərə çatan qəzəblə onları öldürdünüz.</verse>
+        <verse osisID='2Chr.28.10'>İndi Yəhuda və Yerusəlim xalqını kölə və cariyə olaraq özünüzə tabe etmək istəyirsiniz. Ancaq sizin də Allahınız Rəbbə qarşı təqsiriniz yoxdurmu?</verse>
+        <verse osisID='2Chr.28.11'>İndi mənə qulaq asın! Qohumlarınızdan aldığınız əsirləri geri göndərin, çünki Rəbbin qızğın qəzəbi üzərinizdədir». </verse>
+        <verse osisID='2Chr.28.12'>Efrayimlilərin başçılarından olan Yehoxanan oğlu Azarya, Meşillemot oğlu Berekya, Şallum oğlu Yexizqiya və Xadlay oğlu Amasa döyüşdən gələnlərə qarşı qalxıb dedi:</verse>
+        <verse osisID='2Chr.28.13'>«Əsirləri buraya gətirməyin, çünki etmək istədiyiniz şey Rəbbə qarşı üzərimizə təqsir gətirməklə günahlarımızı və təqsirlərimizi artıracaq. Onsuz da təqsirimiz çoxdur və İsrail üzərinə qızğın qəzəb var».</verse>
+        <verse osisID='2Chr.28.14'>Silahlı əsgərlər əsirləri və qəniməti rəislərin və bütün camaatın önünə qoydular.</verse>
+        <verse osisID='2Chr.28.15'>Adları çəkilən adamlar qalxdı və əsirləri götürüb onlardan çılpaq olanların hamısını qənimətdən götürülmüş paltar və çarıqla geyindirdilər. Onları yedirib-içirdilər və onlara yağ sürtdülər, zəif olanların hamısını eşşəklərə mindirdilər və onları xurma ağacları şəhəri Yerixoya – qohumlarının yanına apardılar və sonra Samariyaya qayıtdılar. </verse>
+        <verse osisID='2Chr.28.16'>O zaman padşah Axaz özü üçün kömək istəyərək Aşşur padşahlarına xəbər göndərdi.</verse>
+        <verse osisID='2Chr.28.17'>Çünki yenə Edomlular gəlib Yəhudalıları məğlub edib əsir götürmüşdülər.</verse>
+        <verse osisID='2Chr.28.18'>Filiştlilər də yamaclı-düzənlikli bölgədə və Yəhudanın cənubunda olan şəhərlərə basqın etdilər. Bet-Şemeşi, Ayyalonu, Gederotu və Soko ilə qəsəbələrini, Timna ilə qəsəbələrini və Gimzo ilə qəsəbələrini almışdılar və orada yaşayırdılar.</verse>
+        <verse osisID='2Chr.28.19'>Beləcə İsrail padşahı Axazın üzündən Rəbb Yəhudanı alçaltmışdı, çünki o, Yəhudada azğınlıq edib Rəbbə qarşı çox xainlik etmişdi.</verse>
+        <verse osisID='2Chr.28.20'>Aşşur padşahı Tiqlat-Pileser onun üstünə gəlib kömək etmək əvəzinə onu sıxışdırdı.</verse>
+        <verse osisID='2Chr.28.21'>Axaz Rəbbin məbədindən, saraydan və rəislərin evlərindən pay toplayıb onu Aşşur padşahına vermişdi. Ancaq bu ona kömək etmədi. </verse>
+        <verse osisID='2Chr.28.22'>Bu padşah Axaz sıxıntılı vaxtında Rəbbə qarşı xainliyi artırdı.</verse>
+        <verse osisID='2Chr.28.23'>Onu məğlub edən Dəməşqlilərin bütlərinə qurban kəsdi və dedi: «Madam ki Aram padşahlarının allahları onlara kömək etdilər, mən də onlara qurban kəsəcəyəm ki, mənə də kömək etsinlər». Ancaq bunlar onun və bütün İsrailin büdrəməsinə səbəb oldu.</verse>
+        <verse osisID='2Chr.28.24'>Axaz Allahın məbədinin əşyalarını yığıb parçaladı və Rəbbin məbədinin qapılarını bağladı. Yerusəlimin hər küncündə özü üçün qurbangahlar,</verse>
+        <verse osisID='2Chr.28.25'>Yəhudanın hər şəhərində başqa allahlara buxur yandırmaq üçün səcdəgahlar düzəltdi. Beləcə atalarının Allahı Rəbbi qəzəbləndirdi. </verse>
+        <verse osisID='2Chr.28.26'>Onun qalan işləri və bütün əməlləri, ilk işlərindən son işlərinə qədər Yəhuda və İsrail padşahlarının kitabında yazılmışdır.</verse>
+        <verse osisID='2Chr.28.27'>Axaz ataları ilə uyudu və onu Yerusəlim şəhərində basdırdılar. Onu İsrail padşahlarının qəbirlərinə qoymadılar. Onun yerinə oğlu Xizqiya padşah oldu.  </verse>
+      </chapter>
+      <chapter osisID='2Chr.29'>
+        <verse osisID='2Chr.29.1'>
+          Xizqiya padşah olduğu vaxt iyirmi beş yaşında idi və Yerusəlimdə iyirmi doqquz il padşahlıq etdi. Anası Zəkəriyyə qızı Aviya idi.</verse>
+        <verse osisID='2Chr.29.2'>Xizqiya babası Davudun etdiyi kimi Rəbbin gözündə doğru olan işlər etdi. </verse>
+        <verse osisID='2Chr.29.3'>Xizqiya padşahlığının birinci ilində, birinci ayda Rəbbin məbədinin qapılarını açdı və onları təmir etdi.</verse>
+        <verse osisID='2Chr.29.4'>Kahinləri və Levililəri içəri çağırdı, onları şərq meydanına topladı.</verse>
+        <verse osisID='2Chr.29.5'>Xizqiya onlara dedi: «Ey Levililər, məni dinləyin! İndi özünüzü və atalarınızın Allahı Rəbbin məbədini təqdis edin və müqəddəs yerdən murdar şeyləri çıxarın.</verse>
+        <verse osisID='2Chr.29.6'>Atalarımız Rəbbin gözündə xainlik və pis olan işlər edib Onu tərk etdilər. Rəbbin məskənindən üz döndərib Ona arxa çevirdilər.</verse>
+        <verse osisID='2Chr.29.7'>Eyvanın qapılarını bağladılar, çıraqları söndürdülər, İsrail Allahının müqəddəs yerində buxur yandırmadılar və yandırma qurbanları gətirmədilər.</verse>
+        <verse osisID='2Chr.29.8'>Yəhuda və Yerusəlim üzərinə Rəbbin qəzəbi gəldi və gözlərinizlə gördüyünüz kimi onları dəhşət, heyrət və təhqir hədəfinə çevirdi.</verse>
+        <verse osisID='2Chr.29.9'>Ona görə də atalarımız qılıncla öldürülmüş, oğullarımız, qızlarımız və arvadlarımız əsirlikdədir.</verse>
+        <verse osisID='2Chr.29.10'>İndi isə İsrailin Allahı Rəbb ilə əhd bağlamağı ürəyimə qoydum ki, Öz qızğın qəzəbini bizdən döndərsin.</verse>
+        <verse osisID='2Chr.29.11'>Oğullarım, laqeyd olmayın, çünki Rəbb sizi seçib ki, Onun önündə xidmət edəsiniz və Onun buxur yandıran xidmətçiləri olasınız». </verse>
+        <verse osisID='2Chr.29.12'>Levililərdən bu adamlar qalxdı: Qohat nəslindən Amasay oğlu Maxat və Azarya oğlu Yoel; Merari nəslindən Avdi oğlu Qiş və Yehallelel oğlu Azarya; Gerşon nəslindən Zimma oğlu Yoah və Yoah oğlu Eden;</verse>
+        <verse osisID='2Chr.29.13'>Elisafan nəslindən Şimri və Yeiel; Asəf nəslindən Zəkəriyyə və Mattanya;</verse>
+        <verse osisID='2Chr.29.14'>Heman nəslindən Yexiel, Şimeyi və Yedutun nəslindən Şemaya və Uzziel.</verse>
+        <verse osisID='2Chr.29.15'>Onlar qohumlarını topladı və özlərini təqdis etdi. Padşahın əmr etdiyi kimi Rəbbin sözünə görə Rəbbin məbədini təmizləmək üçün getdilər.</verse>
+        <verse osisID='2Chr.29.16'>Kahinlər isə Rəbbin məbədinin içərisinə girib oranı təmizlədilər və böyük otaqda tapdıqları bütün murdar şeyləri məbədin həyətinə çıxartdılar. Levililər isə onları götürüb bayıra, Qidron vadisinə apardı.</verse>
+        <verse osisID='2Chr.29.17'>Birinci ayın birinci günündə təqdisetmə işinə başladılar və həmin ayın səkkizinci günündə Rəbbin eyvanına qədər çatdılar. Səkkiz gün Rəbbin məbədini təqdis etdilər və birinci ayın on altıncı günündə bitirdilər. </verse>
+        <verse osisID='2Chr.29.18'>Onlar padşah Xizqiyanın yanına girib dedilər: «Biz Rəbbin bütün məbədini, yandırma qurbanlarının gətirildiyi qurbangahını və onun bütün avadanlığını, təqdis çörəkləri qoyulan masanı və onun bütün ləvazimatını təmizlədik.</verse>
+        <verse osisID='2Chr.29.19'>Padşah Axaz padşah olanda xainlik edib tulladığı bütün əşyaları da hazırladıq və təqdis etdik. İndi onlar Rəbbin qurbangahı önündədir». </verse>
+        <verse osisID='2Chr.29.20'>Padşah Xizqiya səhər tezdən durdu və şəhərin rəislərini toplayıb Rəbbin məbədinə qalxdı.</verse>
+        <verse osisID='2Chr.29.21'>Padşahlıq, Müqəddəs məkan, Yəhudalılar üçün günah qurbanı olaraq yeddi buğa, yeddi qoç, yeddi quzu və yeddi təkə gətirdilər. O, Harun nəslindən olan kahinlərə əmr etdi ki, onları Rəbbin qurbangahında qurban gətirsinlər.</verse>
+        <verse osisID='2Chr.29.22'>Mal-qaranı kəsdilər və kahinlər qanı götürüb qurbangaha səpdilər, qoçları kəsdilər və qanı qurbangaha səpdilər, quzuları kəsdilər və qanı qurbangaha səpdilər.</verse>
+        <verse osisID='2Chr.29.23'>Təkələri isə günah qurbanı olmaq üçün padşahın və camaatın önünə gətirdilər və əllərini onların üstünə qoydular.</verse>
+        <verse osisID='2Chr.29.24'>Kahinlər onları kəsdi və qurbangahda günah qurbanı olaraq onların qanını bütün İsraillilərin günahlarını bağışlamaq üçün axıtdı. Çünki padşah əmr etmişdi ki, yandırma qurbanı və günah qurbanı bütün İsrail üçün gətirilsin. </verse>
+        <verse osisID='2Chr.29.25'>Davudun, padşahın görücüsü Qadın və peyğəmbər Natanın əmrinə görə Xizqiya Levililəri sinclərlə, çənglərlə və liralarla Rəbbin məbədinə qoydu. Bu əmr peyğəmbərlər vasitəsilə Rəbdən gəlmişdi.</verse>
+        <verse osisID='2Chr.29.26'>Levililər Davudun musiqi alətləri ilə, kahinlər kərənaylarla dayandı.</verse>
+        <verse osisID='2Chr.29.27'>Xizqiya əmr etdi ki, yandırma qurbanı qurbangahda təqdim edilsin. Yandırma qurbanının təqdimi başlananda kərənayların və İsrail padşahı Davudun musiqi alətlərinin sədası altında Rəbbin ilahisi də başlandı.</verse>
+        <verse osisID='2Chr.29.28'>Bütün camaat səcdə etdi, ilahiçilər ilahi oxudu, kərənay çalanlar çaldı. Bunların hamısı yandırma qurbanının təqdimi qurtarana qədər davam etdi.</verse>
+        <verse osisID='2Chr.29.29'>Yandırma qurbanının təqdimi qurtaranda padşah və yanında olanların hamısı əyilib səcdə etdi.</verse>
+        <verse osisID='2Chr.29.30'>Padşah Xizqiya və rəislər Levililərə əmr etdilər ki, Davudun və görücü Asəfin sözləri ilə Rəbbə həmd oxusunlar. Onlar sevinclə həmd oxudu və əyilib səcdə etdilər. </verse>
+        <verse osisID='2Chr.29.31'>Sonra Xizqiya dedi: «İndi özünüzü Rəbbə həsr etdiniz, yaxın gəlin, Rəbbin məbədinə qurbanlar və şükür təqdimləri gətirin». Camaat qurbanlar və şükür təqdimləri gətirdi, ürəyi istəyənlərin hamısı yandırma qurbanları təqdim etdi.</verse>
+        <verse osisID='2Chr.29.32'>Camaatın gətirdiyi yandırma qurbanlarının sayı yetmiş baş mal-qara, yüz qoç, iki yüz quzu idi. Bunların hamısı Rəbbə yandırma qurbanı gətirildi.</verse>
+        <verse osisID='2Chr.29.33'>Təqdis olunan heyvanların sayı isə altı yüz baş mal-qara və üç min baş qoyun-keçi idi.</verse>
+        <verse osisID='2Chr.29.34'>Ancaq kahinlər az idi və bütün yandırma qurbanlarının dərisini soya bilmədilər. İş qurtarana və kahinlər özlərini təqdis edənə qədər qohumları olan Levililər kahinlərə kömək etdilər. Çünki Levililər kahinlərdən artıq sidq ürəklə özlərini təqdis etmişdi.</verse>
+        <verse osisID='2Chr.29.35'>Ünsiyyət qurbanlarının yağı və yandırma qurbanları ilə birgə gətirilmiş tökmə təqdimlər də çox idi. Beləcə Rəbbin məbədinin xidməti bərpa olundu.</verse>
+        <verse osisID='2Chr.29.36'>Allahın xalq üçün gördüyü işinə görə Xizqiya və bütün xalq sevindi. Çünki bu iş gözlənilmədən olmuşdu.  </verse>
+      </chapter>
+      <chapter osisID='2Chr.30'>
+        <verse osisID='2Chr.30.1'>
+          Xizqiya İsrailin Allahı Rəbbə Pasxa bayramı etmək üçün Yerusəlimdə olan Rəbbin məbədinə gəlsinlər deyə bütün İsraillilərə və Yəhudalılara xəbər göndərdi, Efrayimlilərə və Menaşşelilərə də məktublar yazdı.</verse>
+        <verse osisID='2Chr.30.2'>Yerusəlimdə padşahla rəislər və bütün camaat Pasxa bayramını ikinci ayda keçirmək barədə qərara gəlmişdi.</verse>
+        <verse osisID='2Chr.30.3'>Çünki lazımi sayda kahin özünü təqdis etmədiyinə görə və xalq Yerusəlimə toplanmadığı üçün onu lazım olan vaxt edə bilməmişdilər.</verse>
+        <verse osisID='2Chr.30.4'>Ona görə də bu qərar padşahın və bütün camaatın gözündə doğru idi.</verse>
+        <verse osisID='2Chr.30.5'>Onlar gəlib Yerusəlimdə İsrailin Allahı Rəbbə Pasxa bayramı etsinlər deyə Beer-Şevadan Dana qədər bütün İsraildə elan etməyə qərar verdilər. Çünki çoxdan bəri bunu yazıldığı kimi etməmişdilər. </verse>
+        <verse osisID='2Chr.30.6'>Padşahın əmrinə görə çaparlar padşahın və rəislərin yazdığı məktublarla bütün İsrail və Yəhuda torpağını dolaşıb dedilər:  «Ey İsrail övladları, İbrahimin, İshaqın və İsrailin Allahı Rəbbə qayıdın! O da sizə – Aşşur padşahlarının əlindən qaçıb qurtarmış, sağ qalan adamlarınıza tərəf qayıdacaq.</verse>
+        <verse osisID='2Chr.30.7'>Atalarının Allahı Rəbbə qarşı xainlik edən atalarınız və qohumlarınız kimi olmayın. Belə ki gördüyünüz kimi Rəbb onları tar-mar etdi.</verse>
+        <verse osisID='2Chr.30.8'>İndi atalarınız kimi dikbaş olmayın, Rəbbə tabe olun və Onun əbədi olaraq təqdis etdiyi Müqəddəs məkana gəlib Allahınız Rəbbə qulluq edin ki, qızğın qəzəbi sizdən dönsün.</verse>
+        <verse osisID='2Chr.30.9'>Siz Rəbbə qayıtdıqda qohumlarınız və oğullarınız onları əsir alanların önündə mərhəmət tapacaq və bu torpağa qayıdacaq. Çünki Allahınız Rəbb lütfkar və rəhmlidir; əgər Ona qayıtsanız, sizdən üz döndərməz». </verse>
+        <verse osisID='2Chr.30.10'>Çaparlar Efrayim və Menaşşe torpaqlarından Zevuluna qədər bu şəhərdən o şəhərə keçdi. Ancaq onlara güldülər və lağa qoydular.</verse>
+        <verse osisID='2Chr.30.11'>Amma Aşerdən, Menaşşedən və Zevulundan bəzi adamlar özlərini aşağı tutub Yerusəlimə gəldi.</verse>
+        <verse osisID='2Chr.30.12'>Yəhudalılara da Allah Öz əli ilə eyni ürək verdi ki, Rəbbin sözünə görə padşahın və rəislərin əmrlərini yerinə yetirsinlər. </verse>
+        <verse osisID='2Chr.30.13'>İkinci ay Mayasız Çörək bayramını Yerusəlimdə keçirmək üçün çoxlu xalq, böyük bir camaat toplandı.</verse>
+        <verse osisID='2Chr.30.14'>Qalxıb Yerusəlimdə olan qurbangahları və bütün buxur qurbangahlarını ləğv etdilər və Qidron vadisinə atdılar.</verse>
+        <verse osisID='2Chr.30.15'>İkinci ayın on dördüncü günü Pasxa qurbanlarını kəsdilər. Kahinlərlə Levililər utanıb özlərini təqdis etdilər və Rəbbin məbədinə yandırma qurbanları gətirdilər.</verse>
+        <verse osisID='2Chr.30.16'>Allah adamı Musanın Qanununda yazılmış qaydalarına görə öz yerlərində durdular. Kahinlər Levililərdən aldıqları qanı səpdilər.</verse>
+        <verse osisID='2Chr.30.17'>Çünki camaat içində özlərini təqdis etməmiş çox adam olduğuna görə Rəbbə təqdis etmək üçün təmiz olmayan hər adamın Pasxa qurbanını kəsmək işi Levililərin öhdəsində idi.</verse>
+        <verse osisID='2Chr.30.18'>Çünki xalqın böyük bir hissəsi, Efrayim və Menaşşe, İssakar və Zevulun qəbilələrindən bir çoxu özlərini təmizləyib yazılanlara uyğun olmayaraq öz Pasxa qurbanlarından yedi.</verse>
+        <verse osisID='2Chr.30.19'>Xizqiya onlar üçün dua edib demişdi: «Qoy xeyirxah olan Allah müqəddəs yer üçün təmiz olmadıqları halda sidq ürəklə Allahı, atalarının Allahı Rəbbi axtarmağa hazırlaşmış hər kəsi bağışlasın».</verse>
+        <verse osisID='2Chr.30.20'>Rəbb Xizqiyanı eşitdi və xalqa şəfqət göstərdi.</verse>
+        <verse osisID='2Chr.30.21'>Yerusəlimdə olan İsraillilər yeddi gün Mayasız Çörək bayramını böyük sevinclə keçirdilər. Levililər və kahinlər yüksək səsli musiqi alətləri ilə hər gün Rəbbə həmd edirdilər.</verse>
+        <verse osisID='2Chr.30.22'>Xizqiya Rəbbin xidmətində bacarıqlı olan bütün Levililəri ruhlandırdı. Onlar ünsiyyət qurbanlarını kəsərək və atalarının Allahı Rəbbə şükürlər edərək yeddi gün bayram yeməyi yedilər. </verse>
+        <verse osisID='2Chr.30.23'>Bütün camaat belə qərara gəldi ki, daha yeddi gün də bayram olsun. Yeddi günü də sevinclə keçirdilər.</verse>
+        <verse osisID='2Chr.30.24'>Yəhuda padşahı Xizqiya camaata təqdim etmək üçün min buğa və yeddi min baş qoyun-keçi, rəislər isə camaata min buğa və on min qoyun-keçi verdilər. Bir çox kahin özünü təqdis etdi.</verse>
+        <verse osisID='2Chr.30.25'>Bütün Yəhuda camaatı, kahinlər, Levililər, İsraildən gələn bütün camaat və İsrail torpağından olan və Yəhudada yaşayan qəriblər sevindi.</verse>
+        <verse osisID='2Chr.30.26'>Yerusəlim böyük sevinc içində idi, çünki İsrail padşahı Davud oğlu Süleymanın dövründən bəri Yerusəlimdə belə bayram olmamışdı.</verse>
+        <verse osisID='2Chr.30.27'>Levili kahinlər qalxıb xalqa xeyir-dua verdi, Allah onların səslərini eşitdi, çünki duaları Onun müqəddəs məskəninə – göylərə çatdı.  </verse>
+      </chapter>
+      <chapter osisID='2Chr.31'>
+        <verse osisID='2Chr.31.1'>Bütün bu iş qurtaranda orada olan bütün İsraillilər Yəhuda şəhərlərinə çıxıb daş sütunları sındırdı, Aşera bütlərini kəsdi. Bütün Yəhuda və Binyamin, Efrayim, Menaşşe torpaqlarında olan səcdəgahları və qurbangahları axıra qədər dağıtdılar. Sonra bütün İsrail övladları öz şəhərlərinə, hər kəs öz mülkünə qayıtdı. </verse>
+        <verse osisID='2Chr.31.2'>Xizqiya kahinləri və Levililəri bölmələrə ayırdı və hər kəsi öz işinə uyğun olan bölməyə təyin etdi. O, Rəbbin darvazalarla hasarlanmış yerində yandırma və ünsiyyət qurbanlarını gətirmək, xidmət etmək, şükür və həmd oxumaq üçün kahinləri və Levililəri qoydu.</verse>
+        <verse osisID='2Chr.31.3'>Rəbbin Qanununda yazıldığına görə yandırma qurbanları – səhər və axşamın yandırma qurbanları, Şənbə günlərinin, Təzə Ay mərasimlərinin və bayramların yandırma qurbanları üçün padşah öz malından pay ayırdı. </verse>
+        <verse osisID='2Chr.31.4'>Kahinlər və Levililər özlərini Rəbbin Qanununa həsr etsinlər deyə onların payını verməyi Yerusəlimdə yaşayan xalqa əmr etdi.</verse>
+        <verse osisID='2Chr.31.5'>Bu əmr hər yana yayılanda İsrail övladları taxılın, təzə şərabın, yağın, balın və bütün tarla məhsullarının nübarından bol-bol verdi. Hər şeyin onda birini bol-bol gətirdilər.</verse>
+        <verse osisID='2Chr.31.6'>Yəhuda şəhərlərində yaşayan İsraillilər və Yəhudalılar mal-qaranın və qoyun-keçinin onda birini, özlərinin Allahı Rəbbə təqdis olunan müqəddəs şeylərin onda birini də gətirdilər və qalaq-qalaq verdilər.</verse>
+        <verse osisID='2Chr.31.7'>Üçüncü ayda bunları qalaqlarla üst-üstə yığmağa başladılar və yeddinci ayda qurtardılar.</verse>
+        <verse osisID='2Chr.31.8'>Xizqiya və rəislər gəlib qalaqları gördülər, Rəbbə və Onun xalqı İsrailə minnətdarlıqlarını bildirdilər.</verse>
+        <verse osisID='2Chr.31.9'>Xizqiya bu qalaqlar barədə kahinlərdən və Levililərdən soruşdu.</verse>
+        <verse osisID='2Chr.31.10'>Sadoqun nəslindən olan başçı kahin Azarya ona belə cavab verdi: «Rəbbin məbədinə nəzirlər gətirilən vaxtdan bəri biz yeyib doyuruq, hələ artıq da qalır. Çünki Rəbb Öz xalqına bərəkət verdi və bu bol şeylər də artıq qaldı». </verse>
+        <verse osisID='2Chr.31.11'>Xizqiya əmr etdi ki, Rəbbin məbədindəki otaqları hazırlasınlar. Onlar hazırladılar.</verse>
+        <verse osisID='2Chr.31.12'>Nəzirləri, onda birləri və təqdis olunan şeyləri sədaqətlə oraya gətirib saxladılar. Bu şeyləri rəis olan Levili Konanya və müavini olan qardaşı Şimey saxlayırdı.</verse>
+        <verse osisID='2Chr.31.13'>Yexiel, Azazya, Naxat, Asahel, Yerimot, Yozavad, Eliel, İsmakya, Maxat və Benaya da padşah Xizqiyanın və Allahın məbədində rəis olan Azaryanın əmrinə görə Konanyanın və qardaşı Şimeyin əli altında məmur idi.</verse>
+        <verse osisID='2Chr.31.14'>Şərq darvazasında qapıçı olan Levili İmna oğlu Qore Rəbbə verilən nəzirlər və ən müqəddəs şeyləri paylamaqdan ötrü Allah üçün verilən könüllü təqdimlərə nəzarət edirdi.</verse>
+        <verse osisID='2Chr.31.15'>Onun başçılığı altında olan Edenə, Minyaminə, Yeşuaya, Şemayaya, Amaryaya və Şekanyaya bölmələrinə görə kahin şəhərlərində böyükdən kiçiyə qədər bu qohumlarına paylarını bölmək işi tapşırılmışdı:</verse>
+        <verse osisID='2Chr.31.16'>nəsil şəcərələrinə baxmayaraq, üç yaşında və ondan yuxarı yaşda olan, vəzifələrinə və bölmələrinə görə gündəlik xidmət işi üçün Rəbbin məbədinə girən kişilərin hamısı;</verse>
+        <verse osisID='2Chr.31.17'>nəsil şəcərələrində yazıldığı kimi nəsillərinə görə kahinlər, vəzifələrinə, həm də bölmələrinə görə iyirmi yaşında və ondan yuxarı yaşda olan Levililər;</verse>
+        <verse osisID='2Chr.31.18'>nəsil şəcərələrinə görə bütün camaatın uşaqları, arvadları, oğul və qızları – çünki onlar özlərini sədaqətlə müqəddəs xidmət üçün təqdis etmişdilər –</verse>
+        <verse osisID='2Chr.31.19'>öz şəhərlərinin ətraf çöllərində yaşayan Harun nəslindən kahinlər. Hər şəhərdə adları çəkilən adamlar qoyulmuşdu ki, kahinlər arasındakı bütün kişilərə və Levililər arasında nəsil şəcərələrində yazılanların hamısına pay versinlər. </verse>
+        <verse osisID='2Chr.31.20'>Xizqiya bütün Yəhudada belə etdi, Allahı Rəbbin önündə yaxşı, doğru və sədaqətli işlər gördü.</verse>
+        <verse osisID='2Chr.31.21'>O öz Allahını axtararaq Allahın məbədinin xidmətində, qanuna və əmrlərə əməl etməkdə başladığı hər işi bütün qəlbi ilə icra etdi və uğur qazandı.  </verse>
+      </chapter>
+      <chapter osisID='2Chr.32'>
+        <verse osisID='2Chr.32.1'>
+          Bu sədaqətli işlərdən sonra Aşşur padşahı Sanxeriv gəlib Yəhudaya girdi. O, qalalı şəhərlərə qarşı ordugah qurdu və onları ələ keçirmək istədi.</verse>
+        <verse osisID='2Chr.32.2'>Xizqiya Sanxerivin Yerusəlim üzərinə döyüşmək üçün gəldiyini gördükdə</verse>
+        <verse osisID='2Chr.32.3'>şəhərdən kənarda olan su mənbələrini kəsmək üçün öz rəisləri və sərkərdələri ilə məsləhətləşdi və onlar Xizqiyaya kömək etdi.</verse>
+        <verse osisID='2Chr.32.4'>Çoxlu xalq yığıldı və «Aşşur padşahları nə üçün gəlib çoxlu su tapsınlar?» deyib bütün su mənbələrinin və ölkədən axan çayların yollarını kəsdilər.</verse>
+        <verse osisID='2Chr.32.5'>Xizqiya cəsarətləndi, divarın bütün uçmuş yerlərini tikdi və onun üstündə qüllələr düzəltdi. Bayır tərəfdən başqa bir divar da tikdi, Davudun şəhərində olan qala yamacını da möhkəmləndirdi. Çoxlu silah və qalxan düzəltdi.</verse>
+        <verse osisID='2Chr.32.6'>O, xalqın üzərinə sərkərdələr qoydu, onları şəhər darvazası meydanında yanına topladı və onları ürəkləndirib dedi:</verse>
+        <verse osisID='2Chr.32.7'>«Möhkəm və cəsarətli olun. Aşşur padşahından və onun yanında olan çoxlu qoşundan qorxmayın, ruhdan düşməyin, çünki bizimlə olan onunla olandan böyükdür.</verse>
+        <verse osisID='2Chr.32.8'>Onunla olan insan gücüdür, ancaq bizimlə olan Allahımız Rəbdir ki, bizə kömək edir və müharibələrimizdə vuruşur». Xalq Yəhuda padşahı Xizqiyanın sözlərindən ürəkləndi. </verse>
+        <verse osisID='2Chr.32.9'>Bundan sonra Aşşur padşahı Sanxeriv yanında olan bütün qərargahı ilə Lakişin qarşısında dayanarkən Yerusəlimə, Yəhuda padşahı Xizqiyanın və Yerusəlimdə olan bütün Yəhudalıların yanına adamlarını göndərdi və onlar dedi:</verse>
+        <verse osisID='2Chr.32.10'>«Aşşur padşahı Sanxeriv belə deyir: “Siz nəyə güvənirsiniz ki, Yerusəlimdə mühasirəyə oturursunuz?</verse>
+        <verse osisID='2Chr.32.11'>‹Allahımız Rəbb bizi Aşşur padşahının əlindən qurtaracaq› deyən Xizqiya sizi aclıqla və susuzluqla ölümə vermək üçün azdırmırmı?</verse>
+        <verse osisID='2Chr.32.12'>O həmin Allahın səcdəgahlarını və qurbangahlarını aradan qaldıran, Yəhudaya və Yerusəlimə ‹bir qurbangahın önündə səcdə edəcəksiniz və onun üzərində buxur yandıracaqsınız› deyə əmr edən Xizqiyanın özü deyildimi?</verse>
+        <verse osisID='2Chr.32.13'>Bütün ölkələrin xalqlarına mənim və atalarımın nə etdiyini bilmirsinizmi? O ölkələrin millətlərinin allahları öz torpaqlarını mənim əlimdən qurtara bildilərmi?</verse>
+        <verse osisID='2Chr.32.14'>Atalarımın tamamilə məhv etdikləri o millətlərin bütün allahları arasında hansı biri öz xalqını əlimdən qurtara bildi ki, Allahınız sizi mənim əlimdən qurtara bilsin?</verse>
+        <verse osisID='2Chr.32.15'>Qoy indi Xizqiya sizi aldatmasın və bu cür azdırmasın, ona inanmayın. Çünki heç bir millətin və heç bir ölkənin allahlarından heç biri öz xalqını mənim və atalarımın əlindən qurtara bilmədi. Sizin Allahınız da sizi mənim əlimdən qurtara bilməyəcək!”» </verse>
+        <verse osisID='2Chr.32.16'>Sanxerivin adamları Rəbb Allaha və Onun qulu Xizqiyaya qarşı hələ çox şeylər söylədi.</verse>
+        <verse osisID='2Chr.32.17'>O özü də İsrailin Allahı Rəbbi təhqir etmək üçün yazdığı məktublarda Ona qarşı belə dedi: «Ölkələrin millətlərinin allahları öz xalqlarını necə əlimdən qurtara bilmədilərsə, Xizqiyanın Allahı da xalqını mənim əlimdən qurtara bilməyəcək».</verse>
+        <verse osisID='2Chr.32.18'>Onun adamları şəhəri almaq üçün divar üzərində olan Yerusəlim xalqını qorxudub dəhşətə salsınlar deyə onlara tərəf uca səslə Yəhudi dilində bağırdılar.</verse>
+        <verse osisID='2Chr.32.19'>Yer üzü xalqlarının insan əllərinin işi olan allahlarına qarşı dedikləri sözləri Yerusəlimin Allahına qarşı da söylədilər. </verse>
+        <verse osisID='2Chr.32.20'>Bundan ötrü padşah Xizqiya və peyğəmbər Amots oğlu Yeşaya dua edib göyə fəryad etdilər.</verse>
+        <verse osisID='2Chr.32.21'>Rəbb bir mələk göndərdi və o, Aşşur padşahının ordugahında olan bütün igid döyüşçüləri, sərkərdələri və rəisləri məhv etdi. Aşşur padşahı biabırçılıqla öz ölkəsinə qayıtdı. O öz allahının məbədinə girdi və orada öz doğma oğullarından bəzisi onu qılıncla öldürdü.</verse>
+        <verse osisID='2Chr.32.22'>Beləcə Rəbb Xizqiyanı və Yerusəlimdə yaşayanları Aşşur padşahı Sanxerivin və bütün başqalarının əlindən qurtardı və onları hər tərəfdən qorudu.</verse>
+        <verse osisID='2Chr.32.23'>Onda çoxlu adam Yerusəlimə, Rəbbə hədiyyələr və Yəhuda padşahı Xizqiyaya dəyərli şeylər gətirdi. Bundan sonra Xizqiya bütün millətlərin gözündə ucaldı. </verse>
+        <verse osisID='2Chr.32.24'>O günlərdə Xizqiya ölümcül xəstələndi. O, Rəbbə dua etdi, Rəbb də ona cavab verdi və ona bir əlamət göstərdi.</verse>
+        <verse osisID='2Chr.32.25'>Ancaq Xizqiya ona edilən yaxşılığın əvəzini ödəmədi. Çünki ürəyi qürurlanmışdı, buna görə də özünün, Yəhudanın və Yerusəlimin üzərinə Allahın qəzəbi gəldi.</verse>
+        <verse osisID='2Chr.32.26'>Amma Xizqiya ürəyinin qürurundan əl çəkib özünü aşağı tutdu, Yerusəlimdə yaşayanlar da belə etdi. Buna görə də Xizqiyanın dövründə onların üzərinə Rəbbin qəzəbi gəlmədi. </verse>
+        <verse osisID='2Chr.32.27'>Xizqiyanın olduqca çoxlu sərvəti və şöhrəti vardı. O özünə qızıl-gümüş, qiymətli daşlar, ətriyyat, qalxanlar və hər cür qiymətli əşya üçün xəzinələr tikdi.</verse>
+        <verse osisID='2Chr.32.28'>Buğda, təzə şərab və yağ məhsulları üçün anbarlar, hər cür heyvan üçün axurlar və sürülər üçün ağıllar tikdi.</verse>
+        <verse osisID='2Chr.32.29'>O özü üçün şəhərlər də tikdi. Onun çoxlu qoyun-keçisi və mal-qarası vardı. Çünki Allah ona lap çox mal-dövlət vermişdi.</verse>
+        <verse osisID='2Chr.32.30'>Həmin Xizqiya Gixon sularının yuxarı mənbəyini bağladı və onları yer altından qərbə doğru, Davudun şəhərinə keçirdi. Xizqiya bütün işlərində uğur qazandı.</verse>
+        <verse osisID='2Chr.32.31'>Ancaq Babil hökmdarlarının ölkədə baş verən əlamət barədə soruşmaq üçün göndərdiyi elçilər gəldiyi zaman bu işdə Allah sınağa çəkib ürəyində olan hər şeyi bilmək üçün onu tərk etdi. </verse>
+        <verse osisID='2Chr.32.32'>Xizqiyanın qalan işləri və sədaqətli əməlləri barədə peyğəmbər Amots oğlu Yeşayanın peyğəmbərliklərində, Yəhuda və İsrail padşahlarının kitabında yazılmışdır.</verse>
+        <verse osisID='2Chr.32.33'>Xizqiya ataları ilə uyudu və onu Davud sülaləsinin qəbirlərinin yuxarısında basdırdılar. Öldüyü zaman bütün Yəhudalılar və Yerusəlimdə yaşayanlar ona ehtiram göstərdilər. Onun yerinə oğlu Menaşşe padşah oldu.  </verse>
+      </chapter>
+      <chapter osisID='2Chr.33'>
+        <verse osisID='2Chr.33.1'>
+          Menaşşe padşah olduğu vaxt on iki yaşında idi və Yerusəlimdə əlli beş il padşahlıq etdi</verse>
+        <verse osisID='2Chr.33.2'>O, İsrail övladlarının önündən Rəbbin qovduğu millətlərin etdikləri iyrənc işlər kimi Rəbbin gözündə pis olan işlər etdi.</verse>
+        <verse osisID='2Chr.33.3'>Atası Xizqiyanın dağıtdığı səcdəgahları yenidən tikdi, Baal bütləri üçün qurbangahlar qurdu və Aşera bütləri düzəltdi, bütün səma cisimlərinə səcdə və qulluq etdi.</verse>
+        <verse osisID='2Chr.33.4'>Rəbbin «adım əbədi olaraq Yerusəlimdə qalacaq» dediyi məbədində qurbangahlar tikməyə başladı.</verse>
+        <verse osisID='2Chr.33.5'>Menaşşe Rəbbin məbədinin hər iki həyətində bütün səma cisimlərinə qurbangahlar düzəltdi.</verse>
+        <verse osisID='2Chr.33.6'>O, oğullarını Ben-Hinnom dərəsində oda qurban verdi, gələcəyi dedi, baxıcılıq və cadugərlik edib cindarlara və ruhçağıranlara müraciət etdi. Rəbbin gözündə çoxlu pis işlər görərək Onu qəzəbləndirdi.</verse>
+        <verse osisID='2Chr.33.7'>Düzəltdiyi oyma bütü Allahın məbədinə qoydu. Bu məbəd barədə Allah Davuda və oğlu Süleymana demişdi: «Bu məbəddə və bütün İsrail qəbilələrindən seçdiyim Yerusəlimdə Öz adımı əbədi qoyacağam.</verse>
+        <verse osisID='2Chr.33.8'>Əgər Mənim onlara buyurduğum hər şeyə və Musa vasitəsilə onlara verilən bütün qanuna, qaydalara və hökmlərə əməl etsələr, İsrail övladlarının atalarına təyin etdiyim torpaqdan didərgin düşməyə qoymayacağam».</verse>
+        <verse osisID='2Chr.33.9'>Menaşşe Yəhudalıları və Yerusəlimdə yaşayanları İsrail övladları önündə Rəbbin məhv etdiyi millətlərdən də çox pis işlər etmək üçün yoldan çıxardı. </verse>
+        <verse osisID='2Chr.33.10'>Rəbb Menaşşe və onun xalqı ilə danışdı, amma onlar qulaq asmadı.</verse>
+        <verse osisID='2Chr.33.11'>Rəbb Aşşur padşahının ordu başçılarını onların üzərinə göndərdi. Onlar Menaşşeyə qandal və tunc zəncir vurub onu əsir aldılar və Babilə apardılar.</verse>
+        <verse osisID='2Chr.33.12'>O bu kədərində Allahı Rəbbə yalvardı və atalarının Allahı önündə özünü çox aşağı tutdu,</verse>
+        <verse osisID='2Chr.33.13'>Allaha dua etdi. Allah da onun duasını qəbul etdi və yalvarışını eşitdi, onu yenə Yerusəlimə – öz padşahlığına gətirdi. Onda Menaşşe bildi ki, Rəbb həqiqi Allahdır. </verse>
+        <verse osisID='2Chr.33.14'>Bundan sonra o, vadidə olan Gixonun qərb tərəfindən Balıqlar darvazasının girəcək yerinə qədər Davudun şəhərinə bayır tərəfdən bir divar tikdi, onunla Ofeli əhatəyə aldı və onu çox yüksəltdi. Yəhudanın bütün qalalı şəhərlərinə qoşun başçıları qoydu.</verse>
+        <verse osisID='2Chr.33.15'>Menaşşe özgə allahları, Rəbbin məbədindəki bütü, Rəbbin məbədinin dağında və Yerusəlimdə tikdiyi bütün qurbangahları aradan qaldırıb onları şəhərin bayırına atdı.</verse>
+        <verse osisID='2Chr.33.16'>O, Rəbbin qurbangahını təmir edib orada ünsiyyət və şükür qurbanları təqdim etdi və İsrailin Allahı Rəbbə qulluq etməyi Yəhudalılara əmr etdi.</verse>
+        <verse osisID='2Chr.33.17'>Bununla bərabər xalq hələ səcdəgahlarda qurban gətirirdi, hərçənd ki bunu özlərinin Allahı Rəbbə görə edirdi. </verse>
+        <verse osisID='2Chr.33.18'>Menaşşenin qalan işləri, öz Allahına duası və İsrailin Allahı Rəbbin adı ilə ona söz deyən görücülərin sözləri İsrail padşahlarının tarix kitabında yazılmışdır.</verse>
+        <verse osisID='2Chr.33.19'>Onun duası və duasının eşidildiyi, bütün günahları və xainliyi, özünü aşağı tutmazdan əvvəl səcdəgahlar tikib Aşera bütlərini və oyma bütləri qoyduğu yerlər barədə görücülərin tarix kitabında yazılmışdır.</verse>
+        <verse osisID='2Chr.33.20'>Menaşşe ataları ilə uyudu və onu öz evində basdırdılar. Onun yerinə oğlu Amon padşah oldu. </verse>
+        <verse osisID='2Chr.33.21'>Amon padşah olduğu vaxt iyirmi iki yaşında idi və Yerusəlimdə iki il padşahlıq etdi.</verse>
+        <verse osisID='2Chr.33.22'>O, atası Menaşşenin etdiyi kimi Rəbbin gözündə pis olan işlər etdi. Atası Menaşşenin düzəltdiyi bütün oyma bütlərə Amon da qurban kəsdi və onlara qulluq etdi.</verse>
+        <verse osisID='2Chr.33.23'>O, atası Menaşşedən fərqli olaraq özünü Rəbbin önündə aşağı tutmadı, əksinə, Amon get-gedə daha çox günah etdi.</verse>
+        <verse osisID='2Chr.33.24'>Əyanları ona qarşı qəsd hazırladı və onu öz sarayında öldürdülər.</verse>
+        <verse osisID='2Chr.33.25'>Ölkə xalqı padşah Amona qarşı qəsd hazırlayanların hamısını qırdı və onun yerinə oğlu Yoşiyanı padşah etdi.  </verse>
+      </chapter>
+      <chapter osisID='2Chr.34'>
+        <verse osisID='2Chr.34.1'>
+            Yoşiya padşah olduğu vaxt səkkiz yaşında idi və Yerusəlimdə otuz bir il padşahlıq etdi.</verse>
+        <verse osisID='2Chr.34.2'>O, Rəbbin gözündə doğru olan işlər etdi, hər işdə babası Davudun yolları ilə gedərək onlardan kənara çıxmadı. </verse>
+        <verse osisID='2Chr.34.3'>Padşahlığının səkkizinci ilində hələ gənc ikən babası Davudun Allahını axtarmağa başladı. On ikinci ildə Yəhudanı və Yerusəlimi səcdəgahlardan, Aşera bütlərindən, oyma bütlərdən və tökmə bütlərdən təmizləməyə başladı.</verse>
+        <verse osisID='2Chr.34.4'>Yoşiyanın önündə Baal bütlərinin qurbangahlarını dağıtdılar. Onların üzərində qoyulan buxur qurbangahlarını kəsib atdı. Aşera bütlərini, oyma bütləri və tökmə bütləri sındırdı, onları əzib toz etdi və bu bütlərə qurban gətirənlərin qəbirləri üzərinə səpdi.</verse>
+        <verse osisID='2Chr.34.5'>Öz qurbangahlarında onların kahinlərinin sümüklərini yandırdı, beləcə Yəhudanı və Yerusəlimi təmizlədi.</verse>
+        <verse osisID='2Chr.34.6'>Yoşiya Menaşşe, Efrayim və Şimeon qəbilələrinin şəhərlərində və ətraf viranəliklərində də Naftali torpağına qədər qurbangahları dağıtdı.</verse>
+        <verse osisID='2Chr.34.7'>Aşera bütlərini və oyma bütləri toz edənə qədər əzdi, bütün İsrail ölkəsində buxur qurbangahlarının hamısını kəsib atdı, sonra Yerusəlimə qayıtdı. </verse>
+        <verse osisID='2Chr.34.8'>Padşahlığının on səkkizinci ilində ölkəni və məbədi təmizlədikdən sonra Yoşiya Asalya oğlu Şafanı, şəhər rəisi Maaseyanı, salnaməçi Yoaxaz oğlu Yoahı öz Allahı Rəbbin məbədini təmir etmək üçün göndərdi.</verse>
+        <verse osisID='2Chr.34.9'>Onlar baş kahin Xilqiyanın yanına gəldi. Bütün qalan İsraillilərin – Menaşşelilərin, Efrayimlilərin, bütün Yəhudalıların, Binyaminlilərin və Yerusəlimdə yaşayanların Allahın məbədinə gətirdikləri, astanada keşik çəkən Levililərin yığdıqları pulu</verse>
+        <verse osisID='2Chr.34.10'>Rəbbin məbədinin işinə nəzarət edənlərə verdilər. Onlar da pulu məbədin uçuq yerlərini təmir etmək üçün Rəbbin məbədində olan işçilərə –</verse>
+        <verse osisID='2Chr.34.11'>dülgərlərə və ustalara verdilər ki, Yəhuda padşahlarının xaraba qoyduqları evlər üçün yonulmuş daş və rəzələrlə dirəklər üçün taxta alsınlar.</verse>
+        <verse osisID='2Chr.34.12'>Bu adamlar sədaqətlə iş gördülər. İşə nəzarət etmək üçün onların üzərinə Levililər – Merari nəslindən olan Yaxat və Avdiya, Qohat nəslindən olan Zəkəriyyə və Meşullam, hər biri musiqi alətlərində çala bilən Levililər qoyulmuşdu.</verse>
+        <verse osisID='2Chr.34.13'>Bunlar yük daşıyanların da üzərində idi və hər cür xidmətdə bütün işi görənlərə nəzarət edirdi. Mirzələr, məmurlar, qapıçılar da Levililərdən idi. </verse>
+        <verse osisID='2Chr.34.14'>Rəbbin məbədinə gətirilmiş olan pulu çıxartdıqları zaman kahin Xilqiya Musa vasitəsilə verilən Rəbbin Qanun kitabını tapdı.</verse>
+        <verse osisID='2Chr.34.15'>Xilqiya mirzə Şafana dedi: «Rəbbin məbədində Qanun kitabını tapdım». Xilqiya kitabı Şafana verdi.</verse>
+        <verse osisID='2Chr.34.16'>Şafan kitabı padşahın yanına apardı, həm də ona xəbər gətirib dedi: «Qulların tapşırdığın hər şeyi edir.</verse>
+        <verse osisID='2Chr.34.17'>Rəbbin məbədində tapılan pulu boşaltdılar, onu nəzarətçilərin və işçilərin əlinə verdilər».</verse>
+        <verse osisID='2Chr.34.18'>Mirzə Şafan padşaha bildirib dedi: «Kahin Xilqiya mənə bir kitab verdi». Şafan onu padşahın önündə oxudu.</verse>
+        <verse osisID='2Chr.34.19'>Padşah Qanun sözlərini eşidəndə paltarını cırdı.</verse>
+        <verse osisID='2Chr.34.20'>Padşah Xilqiyaya, Şafan oğlu Axiqama, Mikeya oğlu Avdona, mirzə Şafana və padşahın xidmətçisi Asayaya əmr edib dedi:</verse>
+        <verse osisID='2Chr.34.21'>«Gedin, tapılmış kitabın sözlərinə görə mənim üçün, İsraillilərin və Yəhudalıların qalanı üçün Rəbdən soruşun, çünki Rəbbin bizə qarşı tökülmüş qəzəbi böyükdür. Ona görə ki atalarımız bu kitabda yazılan hər şeyə görə Rəbbin sözünə əməl etməmişdilər». </verse>
+        <verse osisID='2Chr.34.22'>Xilqiya və padşahın adamları qadın peyğəmbər Xuldanın yanına getdilər. O, paltarlara baxan Xasra oğlu Toqhat oğlu Şallumun arvadı idi və Yerusəlimdə ikinci məhəllədə yaşayırdı. Onunla bu barədə söhbət etdilər.</verse>
+        <verse osisID='2Chr.34.23'>Qadın onlara dedi: «İsrailin Allahı Rəbb belə deyir: sizi Mənim yanıma göndərən adama söyləyin ki,</verse>
+        <verse osisID='2Chr.34.24'>Rəbb belə deyir: “Mən Yəhuda padşahının önündə oxuduqları kitabda yazılan bütün lənətlərə görə bu yerə və burada yaşayanların üzərinə bəla gətirəcəyəm.</verse>
+        <verse osisID='2Chr.34.25'>Onlar Məni tərk etdilər və başqa allahlara buxur yandıraraq bütün əməlləri ilə Məni qəzəbləndirdilər. Buna görə də bu yerə qarşı qəzəbim töküləcək və sönməyəcək”.</verse>
+        <verse osisID='2Chr.34.26'>Ancaq Rəbdən soruşmaq üçün sizi göndərən Yəhuda padşahına söyləyin ki, İsrailin Allahı Rəbb belə deyir: “Sözlərimi dinlədin.</verse>
+        <verse osisID='2Chr.34.27'>Allahın bu yerə və orada yaşayanlara qarşı Allah sözlərini eşidəndə ürəyin yumşaldı və Onun önündə özünü aşağı tutdun. Bəli, Mənim önümdə özünü aşağı tutdun, paltarını cırıb önümdə ağladın. Buna görə də Mən səni eşitdim” Rəbb belə bəyan edir.</verse>
+        <verse osisID='2Chr.34.28'>“Mən səni atalarına qoşacağam və rahat öz qəbrinə qoyulacaqsan, bu yerin və orada yaşayanların üzərinə gətirəcəyim bütün bəlanı gözlərin görməyəcək”». Onlar bu xəbəri padşaha çatdırdı. </verse>
+        <verse osisID='2Chr.34.29'>Padşah Yəhudanın və Yerusəlimin bütün ağsaqqallarını çağırtdırıb öz yanına topladı.</verse>
+        <verse osisID='2Chr.34.30'>Padşah, onunla birgə bütün Yəhuda adamları, Yerusəlimdə yaşayanlar, kahinlər, Levililər və böyükdən kiçiyə qədər bütün xalq Rəbbin məbədinə qalxdı. O, Rəbbin məbədində tapılmış Əhd kitabının bütün sözlərini onlara eşitdirərək oxudu.</verse>
+        <verse osisID='2Chr.34.31'>Padşah öz yerində dayandı. O, Rəbbin önündə əhd bağladı ki, Rəbbin ardınca gedib Onun əmrlərinə, göstərişlərinə, qaydalarına bütün qəlbi və bütün varlığı ilə əməl etsin və bu kitabda yazılmış əhdin sözlərini yerinə yetirsin.</verse>
+        <verse osisID='2Chr.34.32'>O, Yerusəlimdə olanların hamısına və Binyaminlilərə bu əhdi təsdiq etdirdi. Yerusəlimdə yaşayanlar Allahın, atalarının Allahının əhdinə görə belə etdi.</verse>
+        <verse osisID='2Chr.34.33'>Yoşiya İsraillilərin bütün torpaqlarında iyrənc şeylərin hamısını aradan qaldırdı və İsraildə olanların hamısına özlərinin Allahı Rəbbə qulluq etməyi əmr etdi. Onun bütün ömrü boyu xalq atalarının Allahı Rəbbin ardınca getməkdən dönmədi.  </verse>
+      </chapter>
+      <chapter osisID='2Chr.35'>
+        <verse osisID='2Chr.35.1'>
+          Yoşiya Yerusəlimdə Rəbb üçün Pasxa bayramını keçirdi və birinci ayın on dördüncü günü Pasxa qurbanını kəsdilər.</verse>
+        <verse osisID='2Chr.35.2'>O, kahinləri vəzifələrinə qoydu və onları Rəbbin məbədinin xidməti üçün ruhlandırdı.</verse>
+        <verse osisID='2Chr.35.3'>Rəbb üçün təqdis edilmiş və bütün İsrailə təlim verən Levililərə dedi: «Müqəddəs sandığı İsrail padşahı Davud oğlu Süleymanın tikdiyi məbədə qoyun. O daha sizin çiyinlərinizə yük olmayacaq. İndi Allahınız Rəbbə və onun xalqı İsrailə xidmət edin.</verse>
+        <verse osisID='2Chr.35.4'>İsrail padşahı Davudun və onun oğlu Süleymanın yazdığı kimi nəsillərinizə, bölmələrinizə görə hazır olun.</verse>
+        <verse osisID='2Chr.35.5'>Qohumlarınız olan xalqın nəsil bölmələrinə və Levililərin nəsil bölmələrinə görə Müqəddəs yerdə dayanın.</verse>
+        <verse osisID='2Chr.35.6'>Pasxa qurbanını kəsin, özünüzü təqdis edin və Musa vasitəsilə olan Rəbbin sözünə əməl edərək qohumlarınız üçün hazırlıq görün». </verse>
+        <verse osisID='2Chr.35.7'>Yoşiya xalqa, orada olan hər kəsə Pasxa qurbanı olaraq sürüdən otuz min quzu və oğlaq verdi, üç min baş mal-qara da verdi. Bunlar padşahın malından idi.</verse>
+        <verse osisID='2Chr.35.8'>Onun rəisləri də xalqa, kahinlərə və Levililərə könüllü hədiyyələr verdilər. Allah məbədinin rəisləri olan Xilqiya, Zəkəriyyə və Yexiel, kahinlərə iki min altı yüz Pasxa qurbanı olacaq davar və üç yüz baş mal-qara verdi.</verse>
+        <verse osisID='2Chr.35.9'>Konanya, onun qardaşları Şemaya və Netanel, Levililərin rəisləri Xaşavya, Yeiel və Yozavad Levililərə beş min Pasxa qurbanı olacaq heyvan və beş yüz baş mal-qara verdi. </verse>
+        <verse osisID='2Chr.35.10'>Xidmət işi hazır olanda padşahın əmri ilə kahinlər yerlərində və Levililər bölmələrinə görə dayanıb</verse>
+        <verse osisID='2Chr.35.11'>Pasxa qurbanını kəsdilər. Kahinlər özlərinə verilən qanı səpdilər, Levililər isə qurbanların dərisini soydular.</verse>
+        <verse osisID='2Chr.35.12'>Onları xalqa nəsil bölmələrinə görə vermək üçün ayırdılar ki, Musanın kitabında yazıldığı kimi xalq Rəbbə yandırma qurbanları təqdim etsin. Mal-qaranı da belə etdilər.</verse>
+        <verse osisID='2Chr.35.13'>Pasxa qurbanını da qaydaya görə odda qızartdılar. Müqəddəs qurbanları qazanlarda, tiyanlarda və tavalarda bişirdilər və bütün xalqa tələsik payladılar.</verse>
+        <verse osisID='2Chr.35.14'>Bundan sonra özləri və kahinlər üçün hazırladılar, çünki Harun nəslindən olan kahinlər gecə düşənə qədər yandırma qurbanları və yağları təqdim etməklə məşğul idi. Bundan ötrü Levililər özləri və Harun nəslindən olan kahinlər üçün hazırlıq gördülər.</verse>
+        <verse osisID='2Chr.35.15'>Asəf nəslindən olan ilahiçilər Davudun, Asəfin, Hemanın və padşahın görücüsü Yedutunun əmr etdiyi yerlərdə, qapıçılar isə hər darvaza ağzında dayandı. Xidmətlərindən ayrılmaları lazım deyildi, çünki Levili olan qohumları onlar üçün hazırlıq gördü. </verse>
+        <verse osisID='2Chr.35.16'>Padşah Yoşiyanın əmrinə görə Pasxa bayramını keçirmək və Rəbbin qurbangahında yandırma qurbanları təqdim etmək üçün Rəbbin bütün xidməti o gün beləcə hazırlandı.</verse>
+        <verse osisID='2Chr.35.17'>Orada olan İsrail övladları o zaman Pasxa bayramını, yeddi gün isə Mayasız Çörək bayramını qeyd etdilər.</verse>
+        <verse osisID='2Chr.35.18'>Peyğəmbər Şamuelin dövründən bəri Pasxa bayramı İsraildə belə keçirilməmişdi. İsrail padşahlarından heç biri Yoşiya ilə kahinlərin, Levililərin, bütün Yəhudalıların, orada olan İsraillilərin və Yerusəlimdə yaşayanların qeyd etdikləri bu Pasxa kimi bir Pasxa keçirməmişdi.</verse>
+        <verse osisID='2Chr.35.19'>Bu Pasxa Yoşiyanın padşahlığının on səkkizinci ilində keçirildi. </verse>
+        <verse osisID='2Chr.35.20'>Yoşiyanın məbəddə gördüyü bütün bu işlərdən sonra Misir padşahı Neko müharibə etmək üçün Fərat çayı yanında olan Karkemişin üzərinə gəldi. Yoşiya onunla qarşılaşmağa çıxdı.</verse>
+        <verse osisID='2Chr.35.21'>Misir padşahı onun yanına qasidlər göndərib dedi: «Ey Yəhuda padşahı, mənim səninlə nə işim var? Mən bu gün sənin üstünə deyil, müharibə etdiyim sülaləyə qarşı gedirəm. Allah mənə tələsməyi əmr etdi, mənimlə olan Allahdan çəkin ki, səni həlak etməsin».</verse>
+        <verse osisID='2Chr.35.22'>Yoşiya ondan əl çəkmədi və onunla vuruşmaq üçün qiyafəsini dəyişdi, Allah tərəfindən olan Nekonun sözlərinə qulaq asmadı və vuruşmaq üçün Megiddo düzənliyinə getdi. </verse>
+        <verse osisID='2Chr.35.23'>Oxatanlar padşah Yoşiyanı oxla vurdu. Padşah adamlarına dedi: «Məni buradan aparın, çünki ağır yaralandım».</verse>
+        <verse osisID='2Chr.35.24'>Adamları onu arabadan götürdülər və onu özünün ikinci arabasına mindirib Yerusəlimə apardılar. Yoşiya öldü və atalarının qəbirlərində basdırıldı. Bütün Yəhudalılar və Yerusəlimlilər Yoşiya üçün yas tutdu.</verse>
+        <verse osisID='2Chr.35.25'>Yeremya Yoşiya üçün mərsiyə qoşdu. Bütün kişi və qadın xanəndələr bu günə qədər məlum olan mərsiyələrində Yoşiya barədə danışmışlar. Bu mərsiyələri oxumağı İsraildə adət etdilər və bunlar mərsiyələr kitabında yazılmışdır. </verse>
+        <verse osisID='2Chr.35.26'>Yoşiyanın qalan işləri, Rəbbin Qanununda yazıldığına görə etdiyi sədaqətli işləri,</verse>
+        <verse osisID='2Chr.35.27'>ilk işlərindən son işlərinə qədər İsrail və Yəhuda padşahlarının kitabında yazılmışdır.  </verse>
+      </chapter>
+      <chapter osisID='2Chr.36'>
+        <verse osisID='2Chr.36.1'>Ölkə xalqı Yoşiyanın oğlu Yehoaxazı götürüb atasının yerinə Yerusəlimdə padşah etdi. </verse>
+        <verse osisID='2Chr.36.2'>Yehoaxaz padşah olduğu vaxt iyirmi üç yaşında idi və Yerusəlimdə üç ay padşahlıq etdi.</verse>
+        <verse osisID='2Chr.36.3'>Misir padşahı onu Yerusəlimdə taxtdan saldı və ölkə üzərinə bir talant qızıl və yüz talant gümüş miqdarında xərac qoydu.</verse>
+        <verse osisID='2Chr.36.4'>Misir padşahı onun qardaşı Elyaqimi Yəhuda və Yerusəlim üzərində padşah etdi və adını dəyişdirib Yehoyaqim qoydu. Neko onun qardaşı Yehoaxazı götürüb Misirə apardı. </verse>
+        <verse osisID='2Chr.36.5'>Yehoyaqim padşah olduğu vaxt iyirmi beş yaşında idi və Yerusəlimdə on bir il padşahlıq etdi. O, Allahı Rəbbin gözündə pis olan işlər etdi.</verse>
+        <verse osisID='2Chr.36.6'>Babil padşahı Navuxodonosor onun üstünə hücum etdi. Tunc zəncir vurub onu əsir etdi və Babilə apardı.</verse>
+        <verse osisID='2Chr.36.7'>Navuxodonosor Rəbbin məbədinin əşyalarından bəzilərini Babilə apardı və onları Babildəki öz məbədinə qoydu. </verse>
+        <verse osisID='2Chr.36.8'>Yehoyaqimin qalan işləri, etdiyi iyrənc işlər və onun təqsiri İsrail və Yəhuda padşahlarının kitabında yazılmışdır. Onun yerinə oğlu Yehoyakin padşah oldu. </verse>
+        <verse osisID='2Chr.36.9'>Yehoyakin padşah olduğu vaxt on səkkiz yaşında idi və Yerusəlimdə üç ay on gün padşahlıq etdi. O, Rəbbin gözündə pis olan işlər etdi.</verse>
+        <verse osisID='2Chr.36.10'>Bahar gələndə Navuxodonosor onu Rəbbin məbədinin qiymətli əşyaları ilə birgə Babilə gətirtdi və Yehoyakinin qohumu Sidqiyanı Yəhuda və Yerusəlim üzərində padşah etdi. </verse>
+        <verse osisID='2Chr.36.11'>Sidqiya padşah olduğu vaxt iyirmi bir yaşında idi və Yerusəlimdə on bir il padşahlıq etdi.</verse>
+        <verse osisID='2Chr.36.12'>O, Allahı Rəbbin gözündə pis olan işlər etdi, Rəbbin dili ilə danışan peyğəmbər Yeremyanın önündə özünü aşağı tutmadı.</verse>
+        <verse osisID='2Chr.36.13'>Həm də Allahın adı ilə onu and içdirmiş padşah Navuxodonosora qarşı üsyan etdi, dikbaşlıqla İsrailin Allahı Rəbbə tərəf dönmək istəməyib ürəyini inadkar etdi.</verse>
+        <verse osisID='2Chr.36.14'>Kahinlərin bütün rəhbərləri də xalqla birgə başqa millətlərin bütün iyrənc işlərinə görə davranaraq böyük xainlik etdilər və Rəbbin Yerusəlimdə təqdis etdiyi məbədini murdarladılar. </verse>
+        <verse osisID='2Chr.36.15'>Atalarının Allahı Rəbb dəfələrlə Öz elçilərinin vasitəsilə onlara xəbər göndərdi, çünki Öz xalqına və məskəninə rəhmi gəlirdi.</verse>
+        <verse osisID='2Chr.36.16'>Ancaq Rəbbin qəzəbi Öz xalqının üzərinə gəldi və onlara heç bir çarə tapılmadı, çünki Allahın elçilərini lağa qoydular, Onun sözlərinə xor baxdılar və peyğəmbərlərini təhqir etdilər. </verse>
+        <verse osisID='2Chr.36.17'>Rəbb onların üzərinə Xaldeylilərin padşahını göndərdi. O da Müqəddəs məkanlarında onların cavanlarını qılıncla öldürdü, yeniyetməyə və bakirə qıza, qocaya və zəifə rəhm etmədi, Rəbb hamısını ona təslim etdi.</verse>
+        <verse osisID='2Chr.36.18'>O, Allahın məbədinin bütün böyük və kiçik əşyalarını, Rəbbin məbədinin xəzinələrini, padşahın və onun rəislərinin xəzinələrini – hər şeyi Babilə apardı.</verse>
+        <verse osisID='2Chr.36.19'>Xaldeylilər Allahın məbədini yandırdılar, Yerusəlimin divarını uçurdular, onun bütün saraylarına od vurdular və orada olan qiymətli əşyaların hamısını məhv etdilər.</verse>
+        <verse osisID='2Chr.36.20'>Xaldeylilərin padşahı qılıncdan qurtaranları Babilə sürgünlüyə apardı. Onlar Fars padşahlarının hökmranlığına qədər ona və onun oğullarına qul oldu.</verse>
+        <verse osisID='2Chr.36.21'>Yeremyanın dili ilə deyilən Rəbbin sözü yerinə yetsin deyə yetmiş il bitənə qədər torpaq öz Şənbə vaxtlarını qeyd edərək bütün bu viranəlik müddəti dincəldi. </verse>
+        <verse osisID='2Chr.36.22'>Rəbb Fars padşahı Kirin hökmranlığının birinci ilində Yeremyanın dili ilə dediyi sözü yerinə yetirmək üçün Kiri ruhlandırdı. Ona görə Kir padşahlığının bütün ərazisində yazılı və şifahi şəkildə elan etdi: </verse>
+        <verse osisID='2Chr.36.23'>«Budur, Fars padşahı Kir belə deyir: “Göylərin Allahı Rəbb dünyanın bütün padşahlıqlarını mənə verdi və Yəhudanın Yerusəlim şəhərində Öz məbədini tikməyi mənə əmr etdi. Aranızda Onun xalqına mənsub olanların hamısına qoy Allahı Rəbb yar olsun və oraya getsinlər”».  </verse>
+      </chapter>
+    </div></osisText>
+</osis>

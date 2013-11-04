@@ -1,0 +1,284 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace'>
+  <osisText osisRefWork='Bible' osisIDWork='CzeB21' xml:lang='cs'>
+    <header>
+      <revisionDesc>
+        <date>2010-02-26</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='CzeB21'>
+        <title>Czech Bible, Překlad 21. století</title>
+        <contributor/>
+        <creator>Mod2Zef (4)</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject/>
+        <date>2009-07-31</date>
+        <description>Bible, Překlad 21. století  vedoucí projektu Alexandr Flek  odborná spolupráce Jiří Hedánek, Pavel Hoffman, Zdeněk Sýkora  Přeloženo z hebrejštiny, aramejštiny, řečtiny  Vydání první  (c) 2009 Biblion, o. s.  www.bible21.org  www.bible21.cz   Překlad 21. století přináší nadčasové poselství Bible v současné, čtivé češtině. Usiluje o maximální věrnost původním hebrejským, aramejským a řeckým textům, zároveň však chce oslovit dnešní čtenáře, ať už jsou zvyklí čerpat z této knihy inspiraci pro každý den, anebo ji otevírají poprvé.</description>
+        <publisher/>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>CzeB21</identifier>
+        <source>no entry TextSource in sword.conf found</source>
+        <language type='IETF'>cs</language>
+        <relation/>
+        <coverage>provide the bible to the nations of the world</coverage>
+        <rights>Copyrighted; Permission to distribute granted to CrossWire</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='Esth'>
+      <chapter osisID='Esth.1'>
+        <verse osisID='Esth.1.1'>Stalo se to za dnůkrále Xerxe, toho Xerxe, jenž kraloval nad sto sedmadvaceti provinciemi od Indie až po Habeš.</verse>
+        <verse osisID='Esth.1.2'>Xerxes toho času trůnil v královském sídelním paláci v Súsách.</verse>
+        <verse osisID='Esth.1.3'>Tehdy, třetího roku své vlády, uspořádal slavnost pro všechny své velmože a dvořany, mocné Peršany a Médy jakož i přítomné hodnostáře a představitele provincií.</verse>
+        <verse osisID='Esth.1.4'>Po dlouhých sto osmdesát dnů vystavoval na odiv bohatství a slávu své říše, přepych a nádheru svého majestátu.</verse>
+        <verse osisID='Esth.1.5'>Na závěr král vystrojil sedmidenní hostinu na nádvoří královské zámecké zahrady a pozval všechny vznešené i prosté, co jich jen bylo v královském sídle v Súsách.</verse>
+        <verse osisID='Esth.1.6'>Toho plátna bílého a modrého, na stříbrných tyčích šňůrami z kmentu a purpuru vázaného, těch sloupů z bělostného mramoru, těch lůžek zlatých i stříbrných na dláždění z porfyru, bělostného mramoru i perleti a drahých kamenů!</verse>
+        <verse osisID='Esth.1.7'>Královské víno teklo královsky štědře do zlatých číší, jedna číše za druhou a každá jiná.</verse>
+        <verse osisID='Esth.1.8'>Dle nařízení se pilo bez omezení; král nařídil všem dvorním služebníkům, ať každého obsluhují, co hrdlo ráčí.</verse>
+        <verse osisID='Esth.1.9'>Královna Vašti zatím v Xerxově královském paláci uspořádala hostinu pro ženy.</verse>
+        <verse osisID='Esth.1.10'>Sedmého dne si král Xerxes, rozjařen vínem, zavolal Mehumana, Bizta, Charbona, Bigta, Abagta, Zetara a Karkasa. Těmto sedmi eunuchům, kteří ho obsluhovali,</verse>
+        <verse osisID='Esth.1.11'>nařídil, ať před něj přivedou královnu Vašti v královské koruně, aby lidu i velmožům předvedl její krásu. A že to byla krasavice!</verse>
+        <verse osisID='Esth.1.12'>Když jí ale eunuchové vyřídili královský rozkaz, královna Vašti přijít odmítla. Král se rozlítil, že hněvem jen hořel.</verse>
+        <verse osisID='Esth.1.13'>Poradil se však s mudrci znalými postupů (královské záležitosti se totiž řešily se všemi znalci práv a řádů;</verse>
+        <verse osisID='Esth.1.14'>nejblíže mu byli Karšena, Šetar, Admata, Taršiš, Meres, Marsena a Memuchan - sedm perských a médských velmožů, kteří měli přístup k samému králi a zaujímali přední místa v říši):</verse>
+        <verse osisID='Esth.1.15'>"Jak se má podle práva naložit s královnou Vašti za to, že neuposlechla Xerxův královský rozkaz, když za ní poslal eunuchy?"</verse>
+        <verse osisID='Esth.1.16'>Slova se před králem a velmoži ujal Memuchan: "Královna Vašti se neprovinila jen proti králi, ale i proti všem velmožům a všem národům ve všech provinciích krále Xerxe.</verse>
+        <verse osisID='Esth.1.17'>Když se ta zpráva o královně donese všem ženám, přestanou si vážit svých manželů! Budou říkat: ‚Král Xerxes poslal pro královnu Vašti, a nepřišla!'</verse>
+        <verse osisID='Esth.1.18'>Ještě dnes se manželky perských a médských velmožů doslechnou zprávu o královně a začnou všem královským velmožům odmlouvat! Jako by nebylo dost nevážnosti a hádek!</verse>
+        <verse osisID='Esth.1.19'>Nechť král ráčí vydat královské slovo, jež bude zapsáno mezi práva perská a médská jako nepomíjivé, a sice že Vašti už nesmí přijít před krále Xerxe. Král si pak bude moci vybrat za královnu jinou, lepší.</verse>
+        <verse osisID='Esth.1.20'>A nechť král vydá výnos, který bude rozhlášen po celé jeho veliké říši: Všechny manželky ať ctí své manžely, vznešené i prosté!"</verse>
+        <verse osisID='Esth.1.21'>Ta rada se králi i velmožům líbila. Král se zařídil podle Memuchanovy rady</verse>
+        <verse osisID='Esth.1.22'>a rozeslal listy do všech říšských provincií. Do každé jedné provincie vzkázal jejich vlastním písmem, každému národu jejich jazykem: "Každý muž ať je doma pánem a ať se mluví jeho jazykem!"</verse>
+      </chapter>
+      <chapter osisID='Esth.2'>
+        <verse osisID='Esth.2.1'>Když bylo po všem a hněv krále Xerxe opadl, vzpomněl si na Vašti, na to, co provedla a jak se proti ní zakročilo.</verse>
+        <verse osisID='Esth.2.2'>Právě ho obsluhovali královští panoši a ti mu poradili: "Nechť se pro krále dají vyhledat krásné mladé panny.</verse>
+        <verse osisID='Esth.2.3'>Král nechť ve všech provinciích své říše ustanoví úředníky, kteří shromáždí všechny krásné mladé panny do harému paláce v Súsách, kde o ně bude pečovat královský eunuch Hegaj, strážce žen, a nechá je krášlit.</verse>
+        <verse osisID='Esth.2.4'>Dívka, která se králi zalíbí, nechť se pak stane královnou namísto Vašti." To se králi zalíbilo a učinil tak.</verse>
+        <verse osisID='Esth.2.5'>V paláci v Súsách byl jeden Žid. Jmenoval se Mordechaj, syn Jaira, syna Šimeiho, syna Kišova z pokolení Benjamínova.</verse>
+        <verse osisID='Esth.2.6'>Ten byl spolu s dalšími vyhnanci vystěhován z Jeruzaléma s judským králem Jekoniášem, kterého odvlekl do zajetí babylonský král Nabukadnezar.</verse>
+        <verse osisID='Esth.2.7'>Mordechaj se staral o dceru svého strýce Hadasu zvanou Ester, protože neměla otce ani matku. Byla to velmi krásná, překrásná dívka. Po smrti jejího otce i matky ji Mordechaj přijal za vlastní.</verse>
+        <verse osisID='Esth.2.8'>Když bylo vyhlášeno královské nařízení, začalo se do paláce v Súsách do Hegajovy péče shromažďovat množství dívek. Také Ester tehdy vzali do královských komnat pod dohled strážce žen Hegaje.</verse>
+        <verse osisID='Esth.2.9'>Ta dívka se mu líbila a získala si jeho přízeň. Hned ji dal krášlit, obstaral jí přednostní příděly a zařídil, aby se jí věnovalo sedm děvčat z králova domu. Navíc ji i s děvčaty přemístil do lepší části harému.</verse>
+        <verse osisID='Esth.2.10'>Ester neprozradila nic o své národnosti a původu, protože jí Mordechaj přikázal, aby o tom mlčela.</verse>
+        <verse osisID='Esth.2.11'>Mordechaj se denně procházel před nádvořím harému, aby zjistil, jak se Ester daří a co se s ní děje.</verse>
+        <verse osisID='Esth.2.12'>Dívky přicházely před krále Xerxe ve svém pořadí po uplynutí dvanácti měsíců, předepsaných ženám. Po šest měsíců byly denně ošetřovány myrhovým olejem a dalších šest měsíců balzámy a ženskou kosmetikou.</verse>
+        <verse osisID='Esth.2.13'>Když měla jít dívka ke králi, mohla si z harému vzít s sebou do králových komnat, cokoli chtěla, a bylo jí vyhověno.</verse>
+        <verse osisID='Esth.2.14'>Večer odcházela a ráno se vracela zpět do harému pod dohled královského eunucha Šaašgaze, strážce konkubín. Ke králi už nevcházela, ledaže by si ji král oblíbil a byla zavolána jménem.</verse>
+        <verse osisID='Esth.2.15'>Jednoho dne přišla na řadu Ester, dcera Abichaila, strýce Mordechajova, jenž ji přijal za vlastní. Když měla vstoupit ke králi, nežádala nic než to, co řekl králův eunuch Hegaj, strážce žen. Každý, kdo Ester viděl, si ji oblíbil.</verse>
+        <verse osisID='Esth.2.16'>Sedmého roku vlády krále Xerxe, desátého měsíce zvaného tebet, byla Ester uvedena do královských komnat.</verse>
+        <verse osisID='Esth.2.17'>Král si Ester zamiloval nade všechny ženy; ze všech panen získala jeho přízeň a lásku právě ona. Nasadil jí královskou korunu a učinil ji královnou namísto Vašti.</verse>
+        <verse osisID='Esth.2.18'>Král pak na počest Ester uspořádal velikou slavnost pro všechny své velmože a dvořany. V provinciích vyhlásil svátek a rozdával královské dary.</verse>
+        <verse osisID='Esth.2.19'>Při dalším výběru panen zaujímal Mordechaj místo v královském kancléřství.</verse>
+        <verse osisID='Esth.2.20'>Ester stále ještě neprozradila svůj původ a národnost, jak jí Mordechaj přikázal. Poslouchala ho na slovo, tak jako kdysi, dokud byl jejím pěstounem.</verse>
+        <verse osisID='Esth.2.21'>V době, kdy Mordechaj zastával svůj úřad v kancléřství, chystali se dva nespokojenci vztáhnout ruku na krále Xerxe. Byli to Bigtan a Tereš, královští eunuchové ze strážců prahu.</verse>
+        <verse osisID='Esth.2.22'>Když se o tom doslechl Mordechaj, pověděl to královně Ester, která to Mordechajovým jménem oznámila králi.</verse>
+        <verse osisID='Esth.2.23'>Věc se vyšetřila a potvrdila. Oba pachatele pověsili na kůl a na králův pokyn to bylo zapsáno do říšské kroniky.</verse>
+      </chapter>
+      <chapter osisID='Esth.3'>
+        <verse osisID='Esth.3.1'>Po nějaké době král Xerxes poctil Hamana, syna Hamedaty Agagovce. Povýšil jej a jeho křeslo vyzvedl nade všechny ostatní velmože.</verse>
+        <verse osisID='Esth.3.2'>Všichni dvořané v královském paláci před Hamanem klekali a klaněli se, neboť tak znělo královské nařízení. Jen Mordechaj neklekal a neklaněl se.</verse>
+        <verse osisID='Esth.3.3'>Dvořané z královského paláce Mordechajovi říkali: "Proč porušuješ královské nařízení?"</verse>
+        <verse osisID='Esth.3.4'>Říkali mu to den co den, ale když neposlouchal, pověděli to Hamanovi. Chtěli vidět, zda to Mordechajovi projde; řekl jim totiž, že je Žid.</verse>
+        <verse osisID='Esth.3.5'>Samotný Haman si pak všiml, že Mordechaj před ním nekleká ani se neklaní. Hamana to tak rozlítilo,</verse>
+        <verse osisID='Esth.3.6'>že mu připadalo málo vztáhnout ruku jen na Mordechaje. Když se dozvěděl Mordechajovu národnost, usmyslel si, že vyhladí všechny Židy v celé Xerxově říši, všechen ten mordechajský národ.</verse>
+        <verse osisID='Esth.3.7'>Prvního měsíce zvaného nísan, dvanáctého roku krále Xerxe, nechal Haman házet pur (totiž los), aby vybral vhodný den a měsíc. Los připadl na dvanáctý měsíc zvaný adar.</verse>
+        <verse osisID='Esth.3.8'>Haman potom řekl králi Xerxovi: "Je tu jeden národ mezi národy všech provincií tvé říše, roztroušený, ale oddělený. Jejich zákony jsou od všech národů odlišné a královské zákony nedodržují. Není v králově zájmu nadále je trpět.</verse>
+        <verse osisID='Esth.3.9'>Kdyby král ráčil, může se napsat, ať jsou vyhlazeni. Osobně vyplatím správcům deset tisíc talentů stříbra, aby je uložili do králových pokladnic."</verse>
+        <verse osisID='Esth.3.10'>Nato si král sňal z ruky pečetní prsten a dal jej tomu židobijci Hamanovi, synu Hamedaty Agagovce.</verse>
+        <verse osisID='Esth.3.11'>"Stříbro je tvé," řekl král Hamanovi, "a stejně tak ten lid. Udělej s ním, co chceš."</verse>
+        <verse osisID='Esth.3.12'>Třináctého dne prvního měsíce byli svoláni královští písaři. Přesně podle Hamanových pokynů se napsalo královým satrapům, místodržícím každé jednotlivé provincie a představitelům jednoho každého národa. Do každé provincie se psalo jejich písmem, jednomu každému národu jejich jazykem. Psalo se jménem krále Xerxe a pečetilo se královým prstenem.</verse>
+        <verse osisID='Esth.3.13'>Do všech provincií říše byli vysláni poslové s listy: Všechny Židy, mladé i staré, ženy i nemluvňata, je třeba zničit, pobít a vyhladit, a to v jediný den: třináctého dne dvanáctého měsíce zvaného adar. Co kdo po nich ukořistí, ať si nechá.</verse>
+        <verse osisID='Esth.3.14'>Tento edikt budiž zařazen mezi zákony v každé jednotlivé provincii a vyhlášen ve všech národech, aby se mohli na ten den připravit.</verse>
+        <verse osisID='Esth.3.15'>Poslové na králův rozkaz neprodleně vyrazili a zákon byl vyhlášen i v súském paláci. Král s Hamanem pak zasedli a popíjeli, ale ve městě Súsách zavládl rozruch.</verse>
+      </chapter>
+      <chapter osisID='Esth.4'>
+        <verse osisID='Esth.4.1'>Když se Mordechaj dozvěděl o všem, co se stalo, roztrhl svůj oděv, oblékl se pytlovinou, posypal se popelem a s hlasitým a hořkým nářkem vyšel do města.</verse>
+        <verse osisID='Esth.4.2'>Dostal se ale jen ke královské bráně; do paláce totiž nikdo oblečený v pytlovině nesměl.</verse>
+        <verse osisID='Esth.4.3'>(V každé jednotlivé provincii, kamkoli dorazilo královské nařízení, nastal u Židů veliký smutek a půst, pláč a nářek. Mnozí si stlali v popelu a pytlovině.)</verse>
+        <verse osisID='Esth.4.4'>Za Ester přišla její děvčata a eunuchové, aby jí to oznámili. Královna se zděsila. Poslala Mordechajovi šaty, aby se oblékl a odložil pytlovinu, ale on odmítl.</verse>
+        <verse osisID='Esth.4.5'>Ester si tedy zavolala královského eunucha Hatacha, který jí byl osobně přidělen. Přikázala mu, ať od Mordechaje zjistí, co se děje a proč se tak chová.</verse>
+        <verse osisID='Esth.4.6'>Hatach tedy vyšel za Mordechajem na náměstí před královský palác.</verse>
+        <verse osisID='Esth.4.7'>Mordechaj mu pověděl o všem, co ho potkalo, i kolik přesně stříbra slíbil Haman vyplatit do králových pokladnic za vyhlazení Židů.</verse>
+        <verse osisID='Esth.4.8'>Dal mu i opis zákonného ediktu vydaného v Súsách ohledně jejich vyhubení. Ať ho ukáže Ester a všechno jí poví. Ať jí vzkáže, že má jít za králem orodovat u něj za svůj národ a vyprosit jeho milost.</verse>
+        <verse osisID='Esth.4.9'>Hatach se vrátil a pověděl Ester, co říkal Mordechaj.</verse>
+        <verse osisID='Esth.4.10'>Ester pak poslala Hatacha zpět za Mordechajem s odpovědí:</verse>
+        <verse osisID='Esth.4.11'>"Kdokoli, ať muž či žena, se bez pozvání přiblíží ke králi do vnitřní dvorany, zemře! Ten zákon znají všichni královi dvořané i lid v říšských provinciích. Jen ten, na koho by král ukázal zlatým žezlem, smí žít. A já jsem ke králi nebyla pozvána už třicet dní!"</verse>
+        <verse osisID='Esth.4.12'>Když byl Mordechajovi doručen vzkaz od Ester,</verse>
+        <verse osisID='Esth.4.13'>poslal jí tuto odpověď: "Nemysli si, že v královském domě jako jediná ze všech Židů vyvázneš.</verse>
+        <verse osisID='Esth.4.14'>Budeš-li v tuto chvíli mlčet, Židům přijde spásná pomoc odjinud, ale ty i s rodinou svého otce zahyneš. Kdo ví? Snad jsi dosáhla království právě pro chvíli, jako je tato."</verse>
+        <verse osisID='Esth.4.15'>Ester na to Mordechajovi odpověděla:</verse>
+        <verse osisID='Esth.4.16'>"Jdi a shromáždi všechny Židy v Súsách. Ať se za mne postí tři dny - ať nejedí ani nepijí ve dne ani v noci. I já a mé dívky se takto budeme postit. Potom půjdu ke králi, ačkoli je to proti zákonu. A zahynu-li, zahynu."</verse>
+        <verse osisID='Esth.4.17'>Mordechaj tedy šel a udělal přesně, co mu Ester vzkázala.</verse>
+      </chapter>
+      <chapter osisID='Esth.5'>
+        <verse osisID='Esth.5.1'>Třetího dne si Ester oblékla královské roucho a vstoupila do vnitřní dvorany královského paláce přímo před komnatu krále. V královské síni naproti vchodu seděl na svém trůnu král.</verse>
+        <verse osisID='Esth.5.2'>Když spatřil královnu Ester, jak stojí v dvoraně, získala si jeho srdce. Ukázal na ni svým zlatým žezlem, Ester přistoupila a dotkla se jeho konce.</verse>
+        <verse osisID='Esth.5.3'>"Copak chceš, královno Ester? Žádej půl říše a bude ti vyhověno," řekl jí král.</verse>
+        <verse osisID='Esth.5.4'>"Kdyby král ráčil, mohl by prosím král dnes přijít s Hamanem na hostinu, kterou jsem pro něj připravila?" odpověděla Ester.</verse>
+        <verse osisID='Esth.5.5'>"Hned jděte pro Hamana," král na to, "ať se Ester splní, co žádá!" Král i Haman pak přišli na hostinu, kterou Ester připravila.</verse>
+        <verse osisID='Esth.5.6'>Nad pohárem vína se král Ester otázal: "Tak jaké máš přání? Bude ti splněno. Žádej půl říše a stane se."</verse>
+        <verse osisID='Esth.5.7'>"Mé přání?" odvětila Ester. "Co žádám?</verse>
+        <verse osisID='Esth.5.8'>Ráčí-li král laskavě vyhovět mému přání a splnit mou žádost, nechť král přijde s Hamanem na hostinu, kterou jim zítra vystrojím. Tehdy králi odpovím na jeho otázku."</verse>
+        <verse osisID='Esth.5.9'>Toho dne Haman odcházel veselý a v dobrém rozmaru. V paláci ale potkal Mordechaje a ten před ním nevstal, ani se nepohnul. Haman se na Mordechaje rozlítil,</verse>
+        <verse osisID='Esth.5.10'>ale ovládl se a šel domů. Sezval své přátele, také svou ženu Zereš,</verse>
+        <verse osisID='Esth.5.11'>a vykládal jim, jaký je proslulý boháč a kolik má synů a čím vším ho král poctil a vůbec jak ho král povýšil nad velmože i královské dvořany.</verse>
+        <verse osisID='Esth.5.12'>"Dokonce," povídá Haman, "královna Ester vystrojila hostinu, na kterou nepozvala kromě krále už nikoho, jenom mě! Dokonce jsem k ní spolu s králem pozván i na zítra!</verse>
+        <verse osisID='Esth.5.13'>Jenže to všechno je mi na nic, když se musím dívat, jak si ten Žid Mordechaj sedí na královském dvoře!"</verse>
+        <verse osisID='Esth.5.14'>Jeho žena i všichni přátelé mu tedy poradili: "Nech postavit kůl na padesát loktů vysoký a hned ráno řekni králi, ať na něj Mordechaje pověsí. Pak můžeš jít s králem vesele na hostinu." Ta rada se Hamanovi zalíbila, a tak dal postavit ten kůl.</verse>
+      </chapter>
+      <chapter osisID='Esth.6'>
+        <verse osisID='Esth.6.1'>Té noci král nemohl spát. Rozkázal tedy, ať mu přinesou kroniku říšských záznamů. Když z ní králi předčítali,</verse>
+        <verse osisID='Esth.6.2'>narazili na zápis o tom, jak jistý Mordechaj odhalil Bigtana a Tereše, dva královské eunuchy ze strážců prahu, kteří se chystali vztáhnout ruku na krále Xerxe.</verse>
+        <verse osisID='Esth.6.3'>Král se otázal: "Jak za to byl Mordechaj vyznamenán a povýšen?" "Vůbec nijak," odpověděli panoši obsluhující krále.</verse>
+        <verse osisID='Esth.6.4'>"Je někdo v předsálí?" zeptal se král. (Do vnějšího předsálí královských komnat právě přišel Haman, aby promluvil s králem, že je záhodno Mordechaje pověsit na kůl, který pro něj připravil.)</verse>
+        <verse osisID='Esth.6.5'>"Ano, v předsálí čeká Haman," odpověděli panošové králi. "Ať vejde," řekl král.</verse>
+        <verse osisID='Esth.6.6'>Když Haman vešel, král se ho zeptal: "Co se má udělat, když král chce někoho vyznamenat?" Haman si pomyslel: "Koho jiného by král mohl chtít vyznamenat než mě?"</verse>
+        <verse osisID='Esth.6.7'>a tak tedy králi odpověděl: "Chce-li král někoho vyznamenat,</verse>
+        <verse osisID='Esth.6.8'>ať přinesou královské roucho, které nosívá král, a přivedou koně, na kterém jezdí král, s královskou korunou na hlavě.</verse>
+        <verse osisID='Esth.6.9'>To roucho i koně ať svěří některému z králových nejvznešenějších velmožů. Ať je to roucho oblečeno tomu, koho král chce vyznamenat; ať je na tom koni proveden po náměstí a ať se před ním volá: ‚Takto se děje tomu, koho chce král vyznamenat!'"</verse>
+        <verse osisID='Esth.6.10'>"Rychle vezmi to roucho i koně!" odpověděl král Hamanovi. "To, co jsi řekl, uděláš pro Žida Mordechaje z královského kancléřství. Dej pozor, ať nic z toho, co jsi řekl, nevynecháš."</verse>
+        <verse osisID='Esth.6.11'>A tak Haman vzal to roucho a koně, oblékl Mordechaje, provezl ho po náměstí a volal před ním: "Takto se děje tomu, koho chce král vyznamenat."</verse>
+        <verse osisID='Esth.6.12'>Mordechaj se pak vrátil do královského paláce, ale Haman spěchal domů sklíčený a s hlavou zahalenou.</verse>
+        <verse osisID='Esth.6.13'>Když Haman vypravoval své ženě Zereš a všem přátelům, co všechno ho postihlo, odvětili mu ti mudrcové i jeho žena Zereš: "Jestli je ten Mordechaj opravdu Žid, pak tvůj pád teprve začal! Nikdy ho nepřemůžeš; padneš před ním úplně."</verse>
+        <verse osisID='Esth.6.14'>Ještě to ani nedořekli, když vtom dorazili královi eunuchové a spěšně Hamana odvedli na hostinu, kterou vystrojila Ester.</verse>
+      </chapter>
+      <chapter osisID='Esth.7'>
+        <verse osisID='Esth.7.1'>Král i Haman přišli na hostinu ke královně Ester.</verse>
+        <verse osisID='Esth.7.2'>Král se nad pohárem vína stejně jako včera Ester otázal: "Tak jaké máš přání, královno Ester? Bude ti splněno. Žádej půl říše a stane se."</verse>
+        <verse osisID='Esth.7.3'>"Ráčíš-li mi, králi, prokázat laskavost," odpověděla královna Ester, "daruj mi prosím život - to je mé přání! Ušetři i můj lid - to je má žádost.</verse>
+        <verse osisID='Esth.7.4'>Já i můj lid jsme vydáni zkáze, k pobití a vyhlazení! Kdybychom byli jen prodáni do otroctví, mlčela bych, neboť ten padouch nestojí za to, aby byl král obtěžován."</verse>
+        <verse osisID='Esth.7.5'>"Kdo to je?" přerušil ji král Xerxes. "Kde je ten, kdo by se odvážil provést něco takového?" ptal se královny Ester.</verse>
+        <verse osisID='Esth.7.6'>"Ten zavilý padouch," řekla Ester, "je tenhle zlosyn Haman!" Haman zůstal před králem a královnou jako omráčený.</verse>
+        <verse osisID='Esth.7.7'>Král v návalu hněvu vstal od vína a vyšel ven do zámecké zahrady. Haman zůstal, aby královnu Ester prosil o život. Bylo mu jasné, že u krále už nemá naději.</verse>
+        <verse osisID='Esth.7.8'>Vtom se král vrací ze zámecké zahrady do vinného pavilonku a vidí Hamana zhrouceného na Esteřině lehátku. "Tak on se ještě u mě doma bude vrhat na královnu?!" zvolal král. Jakmile to král vyřkl, eunuchové zakryli Hamanovi tvář.</verse>
+        <verse osisID='Esth.7.9'>Charbona, jeden z nich, před králem poznamenal: "A co s tím kůlem, který Haman postavil pro toho Mordechaje, jehož slovo zachránilo krále? Stojí u Hamanova domu, vysoký na padesát loktů." "Pověste ho na něj!" rozkázal král.</verse>
+        <verse osisID='Esth.7.10'>A tak Hamana pověsili na kůl, který postavil pro Mordechaje. Teprve tehdy králův hněv opadl.</verse>
+      </chapter>
+      <chapter osisID='Esth.8'>
+        <verse osisID='Esth.8.1'>Téhož dne král Xerxes daroval majetek židobijce Hamana královně Ester a Mordechaj získal přístup k samému králi. Ester totiž prozradila, kým pro ni je.</verse>
+        <verse osisID='Esth.8.2'>Nato si král sňal z ruky pečetní prsten (který odebral Hamanovi) a dal ho Mordechajovi. Ester pak Mordechaje učinila správcem Hamanova majetku.</verse>
+        <verse osisID='Esth.8.3'>Ester pak znovu promluvila před králem. Padla mu k nohám a s pláčem ho prosila, aby odvrátil tu pohromu, kterou Haman Agagovec zosnoval proti Židům.</verse>
+        <verse osisID='Esth.8.4'>Král na ni ukázal zlatým žezlem, ať vstane. Ester se postavila před králem</verse>
+        <verse osisID='Esth.8.5'>a řekla: "Ráčí-li mi král prokázat laskavost a uzná-li to král za vhodné, jestliže mu na mně záleží, ať nechá napsat, že se odvolávají ty listy, které vymyslel a sepsal Haman, syn Hamedaty Agagovce, aby vyhladil Židy ve všech provinciích říše.</verse>
+        <verse osisID='Esth.8.6'>Jak bych se mohla dívat na pohromu, která má potkat můj lid? Jak bych se mohla dívat na záhubu svých blízkých?"</verse>
+        <verse osisID='Esth.8.7'>Král Xerxes královně Ester a Židu Mordechajovi odpověděl: "Hamana jsem nechal pověsit na kůl a jeho majetek jsem dal Ester, protože vztáhl ruku na Židy.</verse>
+        <verse osisID='Esth.8.8'>Edikt psaný královým jménem a zapečetěný královým prstenem ovšem odvolat nelze. Smíte však Židům napsat, co uznáte za vhodné; pište královým jménem a zapečeťte to královým prstenem."</verse>
+        <verse osisID='Esth.8.9'>Hned tehdy, třiadvacátého dne třetího měsíce zvaného sivan, byli svoláni královští písaři. Přesně podle Mordechajových pokynů se napsalo jak Židům, tak satrapům, místodržícím a představitelům sto sedmadvaceti provincií od Indie až po Habeš. Do každé provincie se psalo jejich písmem, jednomu každému národu jejich jazykem a Židům také jejich písmem a jejich jazykem.</verse>
+        <verse osisID='Esth.8.10'>Po jízdních poslech na rychlých koních z říšského hřebčince rozeslal Mordechaj listy napsané jménem krále Xerxe a zapečetěné královským prstenem:</verse>
+        <verse osisID='Esth.8.11'>Židům v každém jednotlivém městě král povoluje shromáždit se a bránit své životy. Smějí zničit, pobít a vyhladit jakékoli ozbrojence z kteréhokoli národa či provincie, kteří by napadli je nebo jejich ženy a děti. Co kdo po nich ukořistí, ať si ponechá.</verse>
+        <verse osisID='Esth.8.12'>Tak se staň ve všech provinciích krále Xerxe, a to v jediný den: třináctého dne dvanáctého měsíce zvaného adar.</verse>
+        <verse osisID='Esth.8.13'>Tento edikt budiž zařazen mezi zákony v každé jednotlivé provincii a vyhlášen ve všech národech, aby Židé mohli být v ten den připraveni k odplatě proti svým nepřátelům.</verse>
+        <verse osisID='Esth.8.14'>Jízdní poslové na koních z říšského hřebčince na králův příkaz neprodleně vyrazili a zákon byl vyhlášen i v súském paláci.</verse>
+        <verse osisID='Esth.8.15'>Mordechaj vyšel od krále oděn královsky v modré a bílé, s velkou zlatou čelenkou a v hávu z kmentu a purpuru. Ve městě Súsách zavládlo bujaré veselí.</verse>
+        <verse osisID='Esth.8.16'>Židům vzešlo světlo a radost, jásot a sláva.</verse>
+        <verse osisID='Esth.8.17'>V každé jedné provincii, v každičkém městě, kam dorazilo královské nařízení, nastalo u Židů veselí a jásot, hody a svátky. Mnozí z ostatních národů se tehdy požidovštili, protože na ně padl strach z Židů.</verse>
+      </chapter>
+      <chapter osisID='Esth.9'>
+        <verse osisID='Esth.9.1'>Třináctého dne dvanáctého měsíce zvaného adar se mělo naplnit královské nařízení. Nepřátelé čekali, že toho dne Židy přemohou, ale vše se obrátilo: Židé přemohli své protivníky.</verse>
+        <verse osisID='Esth.9.2'>Ve všech provinciích krále Xerxe se Židé ve svých městech shromáždili, aby bránili své životy proti těm, kdo jim chystali pohromu. Nikdo před nimi neobstál; strach z nich padl na všechny národy.</verse>
+        <verse osisID='Esth.9.3'>Také všichni představitelé provincií, satrapové, místodržící a královští správci podporovali Židy, neboť na ně padl strach z Mordechaje.</verse>
+        <verse osisID='Esth.9.4'>Mordechaj měl totiž v královském paláci významné postavení. Jeho pověst se šířila po všech provinciích a Mordechajův vliv rostl stále víc.</verse>
+        <verse osisID='Esth.9.5'>Židé udeřili na všechny své nepřátele mečem. Při té řeži a zhoubě naložili se svými protivníky, jak se jim zachtělo.</verse>
+        <verse osisID='Esth.9.6'>V samotném sídelním městě Súsách Židé pobili a zahubili pět set mužů.</verse>
+        <verse osisID='Esth.9.7'>Mezi nimi byli: Paršandata, Dalfon, Aspata,</verse>
+        <verse osisID='Esth.9.8'>Porata, Adalia, Aridata,</verse>
+        <verse osisID='Esth.9.9'>Parmašta, Arisaj, Aridaj, Vajzata,</verse>
+        <verse osisID='Esth.9.10'>deset synů židobijce Hamana, syna Hamedatova. Pobili je, kořisti se však ani nedotkli.</verse>
+        <verse osisID='Esth.9.11'>Téhož dne se počet zabitých v sídelním městě Súsách donesl až ke králi.</verse>
+        <verse osisID='Esth.9.12'>"V samotných Súsách," řekl král královně Ester, "Židé pobili a zahubili pět set mužů a deset Hamanových synů. Co asi udělali v ostatních provinciích říše? Tak jaké máš přání? Bude ti splněno. Žádej cokoli dalšího a stane se."</verse>
+        <verse osisID='Esth.9.13'>"Kdyby král ráčil," odpověděla Ester, "nechť je Židům dovoleno, aby v Súsách mohli podle zákona pro dnešek jednat ještě zítra. A těch deset Hamanových synů nechť pověsí na kůly."</verse>
+        <verse osisID='Esth.9.14'>Král přikázal, ať se tak stane. V Súsách byl vydán příslušný zákon a deset Hamanových synů bylo pověšeno.</verse>
+        <verse osisID='Esth.9.15'>Židé v Súsách se shromáždili ještě čtrnáctého dne měsíce adaru. Pobili v Súsách tři sta mužů, kořisti se však ani nedotkli.</verse>
+        <verse osisID='Esth.9.16'>Také ostatní Židé v říšských provinciích se shromáždili, aby bránili své životy a zjednali si klid od nepřátel. Pobili pětasedmdesát tisíc protivníků, kořisti se však ani nedotkli.</verse>
+        <verse osisID='Esth.9.17'>To se stalo třináctého dne měsíce adaru. Následujícího čtrnáctého dne už měli klid, a tak toho dne pořádali hody a veselice.</verse>
+        <verse osisID='Esth.9.18'>Židé v Súsách se ale shromáždili třináctého a ještě čtrnáctého dne téhož měsíce. Klid měli až patnáctého, a tak pořádali hody a veselice teprve toho dne.</verse>
+        <verse osisID='Esth.9.19'>A proto venkovští Židé, kteří nebydlí v hrazených městech, pořádají veselice, hody a oslavy čtrnáctého dne měsíce adaru a navzájem si posílají výslužku.</verse>
+        <verse osisID='Esth.9.20'>Mordechaj všechny tyto věci sepsal a všem Židům ve všech provinciích krále Xerxe, blízkým i vzdáleným, rozeslal listy,</verse>
+        <verse osisID='Esth.9.21'>aby jim uložil každoročně zachovávat čtrnáctý a patnáctý den měsíce adaru.</verse>
+        <verse osisID='Esth.9.22'>V tyto dny si Židé zjednali klid od svých nepřátel; v tomto měsíci se jejich žal proměnil v radost a smutek ve svátek. Proto mají v tyto dny pořádat hody a veselice, navzájem si posílat výslužku a dávat dárky chudým.</verse>
+        <verse osisID='Esth.9.23'>Tak Židé přijali svátek, který tehdy začali slavit a o kterém jim napsal Mordechaj:</verse>
+        <verse osisID='Esth.9.24'>Onen arcižidobijce Haman, syn Hamedaty Agagovce, si usmyslel vyhladit Židy. Hodil si pur (neboli los), kdy je má zničit a vyhladit.</verse>
+        <verse osisID='Esth.9.25'>Ester ale šla před krále, a ten vydal písemné nařízení, aby se ten zlovolný plán, který Haman zosnoval proti Židům, obrátil zpět na jeho hlavu: on sám i jeho synové skončili na kůlech.</verse>
+        <verse osisID='Esth.9.26'>Proto se těm dnům říká purim, od toho slova pur. Kvůli všemu, co je zapsáno v této listině, co sami zažili a co se jim vyprávělo,</verse>
+        <verse osisID='Esth.9.27'>Židé ustanovili tento nepomíjivý svátek pro sebe, pro své potomky a pro všechny, kdo se k nim připojí. Přijali, že budou každoročně zachovávat oba ty dny předepsaným způsobem a ve stanovený čas.</verse>
+        <verse osisID='Esth.9.28'>Tyto dny se budou připomínat a slavit v každém následujícím pokolení, v každé rodině, každé provincii a každém městě. Tyto dny purim v Židovstvu nepominou a jejich památka mezi jejich potomky nevymizí.</verse>
+        <verse osisID='Esth.9.29'>Tuto druhou listinu psala spolu s Židem Mordechajem také královna Ester, dcera Abichailova, aby purim potvrdila s veškerou vážností.</verse>
+        <verse osisID='Esth.9.30'>On pak ty listy rozeslal Židům do sta sedmadvaceti provincií Xerxovy říše. Přál jim pokoj a bezpečí,</verse>
+        <verse osisID='Esth.9.31'>a ať se dny těchto svátků purim dodržují ve stanovený čas. Tak jim to uložil Žid Mordechaj s královnou Ester a tak to přijali pro sebe i pro své potomstvo na paměť svého půstu a naříkání.</verse>
+        <verse osisID='Esth.9.32'>Slova ohledně purim stvrdil i rozkaz královny Ester, a tak to bylo zaneseno do knihy.</verse>
+      </chapter>
+      <chapter osisID='Esth.10'>
+        <verse osisID='Esth.10.1'>Král Xerxes podrobil povinným odvodům celé vnitrozemí i mořské ostrovy.</verse>
+        <verse osisID='Esth.10.2'>Veškeré úspěchy jeho vládnutí i jeho moc jakož i podrobnosti o Mordechajově významu a jak ho král vyznamenal, to vše je sepsáno v Kronice králů médských a perských.</verse>
+        <verse osisID='Esth.10.3'>Žid Mordechaj byl druhý hned po králi Xerxovi a mezi Židy nejváženější. Celé to množství jeho bratří ho mělo v oblibě. Pečoval totiž o dobro svého lidu a zasazoval se o rozkvět všeho jejich potomstva.</verse>
+      </chapter>
+    </div></osisText>
+</osis>

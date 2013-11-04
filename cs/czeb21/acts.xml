@@ -1,0 +1,1155 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace'>
+  <osisText osisRefWork='Bible' osisIDWork='CzeB21' xml:lang='cs'>
+    <header>
+      <revisionDesc>
+        <date>2010-02-26</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='CzeB21'>
+        <title>Czech Bible, Překlad 21. století</title>
+        <contributor/>
+        <creator>Mod2Zef (4)</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject/>
+        <date>2009-07-31</date>
+        <description>Bible, Překlad 21. století  vedoucí projektu Alexandr Flek  odborná spolupráce Jiří Hedánek, Pavel Hoffman, Zdeněk Sýkora  Přeloženo z hebrejštiny, aramejštiny, řečtiny  Vydání první  (c) 2009 Biblion, o. s.  www.bible21.org  www.bible21.cz   Překlad 21. století přináší nadčasové poselství Bible v současné, čtivé češtině. Usiluje o maximální věrnost původním hebrejským, aramejským a řeckým textům, zároveň však chce oslovit dnešní čtenáře, ať už jsou zvyklí čerpat z této knihy inspiraci pro každý den, anebo ji otevírají poprvé.</description>
+        <publisher/>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>CzeB21</identifier>
+        <source>no entry TextSource in sword.conf found</source>
+        <language type='IETF'>cs</language>
+        <relation/>
+        <coverage>provide the bible to the nations of the world</coverage>
+        <rights>Copyrighted; Permission to distribute granted to CrossWire</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='Acts'>
+      <chapter osisID='Acts.1'>
+        <verse osisID='Acts.1.1'>První knihu jsem sepsal, drahý Teofile, o všem, co Ježíš začal dělat a učit</verse>
+        <verse osisID='Acts.1.2'>až do dne, kdy byl vzat vzhůru poté, co skrze Ducha svatého dal pokyny svým vyvoleným apoštolům.</verse>
+        <verse osisID='Acts.1.3'>Těm také po svém umučení mnoha jistými důkazy prokázal, že je živý, když se jim po čtyřicet dní ukazoval a mluvil o Božím království.</verse>
+        <verse osisID='Acts.1.4'>Když se s nimi sešel, přikázal jim: "Neopouštějte Jeruzalém, ale očekávejte Otcovo zaslíbení, o kterém jste mě slyšeli mluvit.</verse>
+        <verse osisID='Acts.1.5'>Jan křtil vodou, ale vy budete brzy pokřtěni Duchem svatým."</verse>
+        <verse osisID='Acts.1.6'>Ti, kdo s ním byli, se ho zeptali: "Pane, obnovíš už teď království Izraele?"</verse>
+        <verse osisID='Acts.1.7'>Odpověděl jim: "Není vaše věc znát časy a doby, které si Otec ponechal ve své pravomoci.</verse>
+        <verse osisID='Acts.1.8'>Přijmete ale moc Ducha svatého přicházejícího na vás a budete mými svědky v Jeruzalémě, v celém Judsku, v Samaří a až na konec světa."</verse>
+        <verse osisID='Acts.1.9'>Po těch slovech byl před jejich zraky vzat vzhůru a zmizel jim z očí v oblaku.</verse>
+        <verse osisID='Acts.1.10'>Zatímco se upřeně dívali, jak odchází do nebe, hle, přistoupili k nim dva muži v bílém rouchu</verse>
+        <verse osisID='Acts.1.11'>a řekli jim: "Co tu stojíte a hledíte k nebi, Galilejci? Tento Ježíš, který od vás byl vzat do nebe, se vrátí právě tak, jak jste ho viděli odcházet."</verse>
+        <verse osisID='Acts.1.12'>Tehdy se vrátili do Jeruzaléma od Olivetské hory ležící poblíž města - na vzdálenost sobotní cesty.</verse>
+        <verse osisID='Acts.1.13'>Když přišli, vystoupili do horní místnosti domu, kde pobývali: Petr, Jakub, Jan, Ondřej, Filip, Tomáš, Bartoloměj, Matouš, Jakub (syn Alfeův), Šimon Zélot a Juda (syn Jakubův).</verse>
+        <verse osisID='Acts.1.14'>Ti všichni svorně setrvávali v modlitbách společně s ženami i s Ježíšovou matkou Marií a s jeho sourozenci.</verse>
+        <verse osisID='Acts.1.15'>V té době vstal uprostřed shromážděných učedníků Petr (bylo jich tam asi sto dvacet) a řekl:</verse>
+        <verse osisID='Acts.1.16'>"Bratři, muselo se naplnit, co v Písmu Davidovými ústy předpověděl Duch svatý o Jidášovi, který na Ježíše přivedl stráže,</verse>
+        <verse osisID='Acts.1.17'>ačkoli patřil mezi nás a měl podíl na této službě."</verse>
+        <verse osisID='Acts.1.18'>(Jidáš za své špinavé peníze získal pole. Poté, co se oběsil, roztrhl se v půli a vyhřezly mu všechny vnitřnosti.</verse>
+        <verse osisID='Acts.1.19'>Vědělo se o tom po celém Jeruzalémě, takže to pole dostalo v jejich řeči jméno Chakel-dama, totiž Krvavé pole.)</verse>
+        <verse osisID='Acts.1.20'>"V knize Žalmů je psáno: ‚Jeho příbytek ať zůstane pustý a ať v něm nikdo nebydlí' a dále: ‚Jeho pověření ať přijme jiný.'</verse>
+        <verse osisID='Acts.1.21'>Jeden z těch, kdo s námi chodili po celý čas, kdy Pán Ježíš přebýval mezi námi,</verse>
+        <verse osisID='Acts.1.22'>od Janova křtu až do dne, kdy byl od nás vzat vzhůru, se proto musí stát spolu s námi svědkem jeho vzkříšení."</verse>
+        <verse osisID='Acts.1.23'>Navrhli dva - Josefa Barnabáše, zvaného také Justus, a Matěje.</verse>
+        <verse osisID='Acts.1.24'>Potom se modlili: "Ty, Pane, znáš srdce všech lidí. Ukaž, kterého z těch dvou jsi vyvolil,</verse>
+        <verse osisID='Acts.1.25'>aby měl podíl na této službě a stal se apoštolem namísto Jidáše, který se odvrátil a odešel, kam patří."</verse>
+        <verse osisID='Acts.1.26'>Potom losovali: los padl na Matěje, a tak byl připočten k jedenácti apoštolům.</verse>
+      </chapter>
+      <chapter osisID='Acts.2'>
+        <verse osisID='Acts.2.1'>Když přišel den Letnic, byli všichni spolu.</verse>
+        <verse osisID='Acts.2.2'>Náhle se z nebe ozval hukot, jako by se řítil prudký vítr, a naplnil celý dům, kde seděli.</verse>
+        <verse osisID='Acts.2.3'>Ukázaly se jim jakoby ohnivé jazyky, které se rozdělily a spočinuly na každém z nich.</verse>
+        <verse osisID='Acts.2.4'>Všichni byli naplněni Duchem svatým a začali mluvit jinými jazyky, jak jim Duch dával promlouvat.</verse>
+        <verse osisID='Acts.2.5'>V Jeruzalémě tehdy pobývali zbožní Židé z každého národa na světě.</verse>
+        <verse osisID='Acts.2.6'>Když se ozval ten hukot, sešla se spousta lidí a byli ohromeni, protože je každý slyšel mluvit svou vlastní řečí.</verse>
+        <verse osisID='Acts.2.7'>Úžasem bez sebe říkali: "Hleďte, copak ti všichni, kdo tu mluví, nejsou Galilejci?</verse>
+        <verse osisID='Acts.2.8'>Jak to, že tedy každý slyšíme svou rodnou řeč?</verse>
+        <verse osisID='Acts.2.9'>Parthové, Médové, Elamité a obyvatelé Mezopotámie, Judeje i Kappadokie, Pontu a Asie,</verse>
+        <verse osisID='Acts.2.10'>Frygie i Pamfylie, Egypta i krajů Libye vedle Kyrény a příchozí z Říma, jak Židé, tak proselyté,</verse>
+        <verse osisID='Acts.2.11'>Kréťané i Arabové - slyšíme je mluvit našimi jazyky o velikých Božích věcech!"</verse>
+        <verse osisID='Acts.2.12'>Všichni žasli a nevěděli, co si o tom myslet. "Co má tohle znamenat?" ptali se jeden druhého.</verse>
+        <verse osisID='Acts.2.13'>Někteří se ale posmívali a říkali: "Opili se novým vínem!"</verse>
+        <verse osisID='Acts.2.14'>Tehdy vstal Petr s ostatními jedenácti a hlasitě k nim promluvil: "Židé a všichni, kdo pobýváte v Jeruzalémě, chci vám něco oznámit. Dobře mě poslouchejte:</verse>
+        <verse osisID='Acts.2.15'>Tito lidé vůbec nejsou opilí, jak si myslíte - vždyť je teprve devět hodin!</verse>
+        <verse osisID='Acts.2.16'>Děje se ale, co bylo předpověděno ústy proroka Joele:</verse>
+        <verse osisID='Acts.2.17'>‚V posledních dnech, praví Bůh, vyliji svého Ducha na všechny lidi. Vaši synové i vaše dcery budou prorokovat, vaši mladíci uvidí vidění, vaši starci budou mít sny.</verse>
+        <verse osisID='Acts.2.18'>Jistěže na své služebníky a služebnice v těch dnech vyliji svého Ducha a budou prorokovat.</verse>
+        <verse osisID='Acts.2.19'>Ukážu zázraky na nebi a znamení na zemi, krev a oheň a oblaka dýmu.</verse>
+        <verse osisID='Acts.2.20'>Slunce se obrátí v tmu a měsíc v krev, než přijde veliký a zjevný Hospodinův den.</verse>
+        <verse osisID='Acts.2.21'>Každý, kdo vzývá Hospodinovo jméno, však bude zachráněn.'</verse>
+        <verse osisID='Acts.2.22'>Slyšte má slova, Izraelité: Bůh vám dokázal, kdo je Ježíš Nazaretský, když skrze něj mezi vámi konal divy, zázraky a znamení, jak sami dobře víte.</verse>
+        <verse osisID='Acts.2.23'>Když vám ho Bůh podle své jisté vůle a prozřetelnosti vydal, ukřižovali jste ho rukama bezbožníků.</verse>
+        <verse osisID='Acts.2.24'>Bůh jej ale vzkřísil a zprostil utrpení smrti, protože nemohl zůstat v její moci.</verse>
+        <verse osisID='Acts.2.25'>David o něm říká: ‚Hospodina vidím před sebou napořád, je po mé pravici, nezakolísám.</verse>
+        <verse osisID='Acts.2.26'>Mé srdce je šťastné, můj jazyk zpívá, také mé tělo v naději odpočívá.</verse>
+        <verse osisID='Acts.2.27'>Nenecháš v záhrobí duši mou, svého svatého nevydáš rozkladu.</verse>
+        <verse osisID='Acts.2.28'>Cesty života jsi mi oznámil, ve své přítomnosti mě sytíš radostí!'</verse>
+        <verse osisID='Acts.2.29'>Bratři, o praotci Davidovi vám mohu směle říci, že zemřel a byl pochován - jeho hrob tu máme dodneška!</verse>
+        <verse osisID='Acts.2.30'>Jako prorok ale věděl, co mu Bůh zaslíbil: přísahal mu, že na jeho trůn posadí jednoho z jeho vlastních potomků.</verse>
+        <verse osisID='Acts.2.31'>Když říkal, že jeho duše nezůstane v záhrobí a jeho tělo nepodlehne rozkladu, předvídal tedy Mesiášovo vzkříšení.</verse>
+        <verse osisID='Acts.2.32'>A právě Ježíše Bůh vzkřísil - my všichni jsme toho svědkové!</verse>
+        <verse osisID='Acts.2.33'>Byl vyvýšen na Boží pravici, přijal od Otce zaslíbení Ducha svatého a to, co teď vidíte a slyšíte, je jeho vylití.</verse>
+        <verse osisID='Acts.2.34'>David přece nevystoupil do nebe, ale sám říká: ‚Hospodin řekl mému Pánu: Seď po mé pravici,</verse>
+        <verse osisID='Acts.2.35'>než ti tvé nepřátele k nohám položím.'</verse>
+        <verse osisID='Acts.2.36'>Ať si je všechen lid Izraele jist, že Bůh učinil Pánem a Mesiášem právě Ježíše, kterého jste ukřižovali!"</verse>
+        <verse osisID='Acts.2.37'>Ta slova je zasáhla do srdce. Začali se Petra a ostatních apoštolů ptát: "Co máme dělat, bratři?"</verse>
+        <verse osisID='Acts.2.38'>"Čiňte pokání," odpověděl Petr, "a každý se nechte pokřtít ve jménu Ježíše Krista, aby vám byly odpuštěny hříchy. I vy přijmete dar Ducha svatého,</verse>
+        <verse osisID='Acts.2.39'>neboť to zaslíbení platí pro vás a vaše potomky i pro všechny, kdo jsou daleko - kohokoli povolá Hospodin, náš Bůh."</verse>
+        <verse osisID='Acts.2.40'>Dosvědčoval to ještě mnoha jinými slovy a vyzýval je: "Zachraňte se z tohoto zvráceného pokolení!"</verse>
+        <verse osisID='Acts.2.41'>Ti, kdo ochotně přijali jeho slova, se pak dali pokřtít a toho dne se připojilo okolo tří tisíc lidí.</verse>
+        <verse osisID='Acts.2.42'>Zůstávali v apoštolském učení a ve společenství, v lámání chleba a v modlitbách.</verse>
+        <verse osisID='Acts.2.43'>Všechny naplnila posvátná úcta a skrze apoštoly se dělo mnoho zázračných znamení.</verse>
+        <verse osisID='Acts.2.44'>Všichni věřící byli pospolu a měli všechno společné.</verse>
+        <verse osisID='Acts.2.45'>Prodávali pozemky a majetky a rozdělovali všem, jak kdo potřeboval.</verse>
+        <verse osisID='Acts.2.46'>Denně zůstávali svorně v chrámu a ve svých domech lámali chléb a dělili se o jídlo s radostí a upřímným srdcem.</verse>
+        <verse osisID='Acts.2.47'>Chválili Boha a všem lidem byli příjemní. Pán k nim pak denně přidával další zachráněné.</verse>
+      </chapter>
+      <chapter osisID='Acts.3'>
+        <verse osisID='Acts.3.1'>Petr a Jan se jednou ve tři hodiny šli účastnit odpoledních modliteb v chrámu.</verse>
+        <verse osisID='Acts.3.2'>Právě tam byl přinesen jeden muž, chromý od narození. Každý den ho pokládali u chrámových vrat zvaných Krásná brána, aby si od těch, kdo vcházeli do chrámu, něco vyžebral.</verse>
+        <verse osisID='Acts.3.3'>Když uviděl Petra a Jana, jak se chystají vejít do chrámu, prosil je o almužnu.</verse>
+        <verse osisID='Acts.3.4'>Petr mu spolu s Janem pohlédl do očí a řekl: "Podívej se na nás."</verse>
+        <verse osisID='Acts.3.5'>Když vzhlédl, v očekávání, že od nich něco dostane,</verse>
+        <verse osisID='Acts.3.6'>Petr mu řekl: "Stříbro a zlato nemám, ale co mám, to ti dám. Ve jménu Ježíše Krista Nazaretského vstaň a choď!"</verse>
+        <verse osisID='Acts.3.7'>Vzal ho za pravou ruku, zvedl ho a do jeho nohou a kloubů se ihned vlila síla.</verse>
+        <verse osisID='Acts.3.8'>Vyskočil na nohy a začal chodit. Pak s nimi vešel do chrámu, kde se procházel, poskakoval a chválil Boha.</verse>
+        <verse osisID='Acts.3.9'>Všichni ho tam viděli, jak chodí a chválí Boha,</verse>
+        <verse osisID='Acts.3.10'>a poznali, že je to ten, který sedával a žebral u Krásné brány. Ohromeni tím, co se mu stalo, byli úžasem bez sebe.</verse>
+        <verse osisID='Acts.3.11'>Zatímco se ten uzdravený mrzák držel Petra a Jana, všichni se v ohromení seběhli k nim do Šalomounova sloupoví.</verse>
+        <verse osisID='Acts.3.12'>Když to Petr uviděl, promluvil k lidu: "Izraelité, proč se tomu divíte? Proč na nás hledíte, jako bychom svou vlastní mocí nebo zbožností způsobili, že tento muž chodí?</verse>
+        <verse osisID='Acts.3.13'>Bůh Abrahama, Izáka a Jákoba, Bůh našich otců, oslavil svého služebníka Ježíše, jehož jste sami vydali a zavrhli před Pilátem, který ho chtěl propustit.</verse>
+        <verse osisID='Acts.3.14'>Svatého a spravedlivého jste zavrhli a místo něj jste si vyžádali vraha.</verse>
+        <verse osisID='Acts.3.15'>Dárce života jste zabili, ale Bůh ho vzkřísil z mrtvých a my jsme toho svědky.</verse>
+        <verse osisID='Acts.3.16'>Bylo to jeho jméno, co na základě víry v něj dalo sílu tomuto muži, kterého vidíte a znáte. Ano, víra, která se opírá o něj, ho před vašima očima úplně uzdravila.</verse>
+        <verse osisID='Acts.3.17'>Bratři, vím, že jste to udělali z nevědomosti stejně jako vaši vůdcové.</verse>
+        <verse osisID='Acts.3.18'>Bůh to dopustil, aby se naplnilo, co předpověděl ústy všech svých proroků: že Mesiáš bude trpět.</verse>
+        <verse osisID='Acts.3.19'>Proto čiňte pokání a obraťte se, aby vaše hříchy byly smazány a od Hospodina přišel čas odpočinutí,</verse>
+        <verse osisID='Acts.3.20'>až k vám pošle ohlášeného Mesiáše - Ježíše,</verse>
+        <verse osisID='Acts.3.21'>který zatím musí zůstat v nebi až do času nápravy všech věcí, jak o tom Bůh od věků mluvil ústy všech svých svatých proroků.</verse>
+        <verse osisID='Acts.3.22'>Už Mojžíš řekl našim otcům: ‚Hospodin, váš Bůh, vám vzbudí z vašich bratrů Proroka, jako jsem já - toho poslouchejte.</verse>
+        <verse osisID='Acts.3.23'>Každý, kdo by toho Proroka neposlechl, bude vyobcován z lidu.'</verse>
+        <verse osisID='Acts.3.24'>Také Samuel a všichni proroci po něm předpovídali tyto dny.</verse>
+        <verse osisID='Acts.3.25'>Vy jste synové proroků a smlouvy, kterou Bůh uzavřel s našimi otci, když řekl Abrahamovi: ‚Ve tvém semeni dojdou požehnání všechna pokolení země.'</verse>
+        <verse osisID='Acts.3.26'>Když Bůh vzkřísil svého Služebníka, poslal ho v první řadě k vám, aby přinesl požehnání každému, kdo se odvrátí od svých špatností."</verse>
+      </chapter>
+      <chapter osisID='Acts.4'>
+        <verse osisID='Acts.4.1'>A když takto mluvili k lidu, přišli na ně kněží s velitelem chrámové stráže a se saduceji.</verse>
+        <verse osisID='Acts.4.2'>Nemohli totiž snést, že učí lid a že v souvislosti s Ježíšem hlásají vzkříšení z mrtvých.</verse>
+        <verse osisID='Acts.4.3'>Zatkli je, a protože už byl večer, nechali je do druhého dne ve vězení.</verse>
+        <verse osisID='Acts.4.4'>Mnozí, kdo tu řeč slyšeli, však uvěřili, takže jejich počet dosáhl asi pěti tisíc mužů.</verse>
+        <verse osisID='Acts.4.5'>Nazítří se v Jeruzalémě sešli židovští hodnostáři, starší a znalci Písma,</verse>
+        <verse osisID='Acts.4.6'>velekněz Annáš a také Kaifáš, Jan, Alexandr a ostatní z velekněžského rodu.</verse>
+        <verse osisID='Acts.4.7'>Postavili Petra s Janem doprostřed a vyslýchali je: "Jakou mocí a v čím jménu jste to udělali?"</verse>
+        <verse osisID='Acts.4.8'>Tehdy jim Petr, naplněn Duchem svatým, řekl: "Vůdcové lidu a starší Izraele,</verse>
+        <verse osisID='Acts.4.9'>jsme tu dnes vyslýcháni kvůli dobrému skutku, jímž bylo uzdravení nemocného člověka.</verse>
+        <verse osisID='Acts.4.10'>Proto vám všem i celému izraelskému lidu oznamuji, že tento člověk před vámi stojí zdravý ve jménu Ježíše Krista Nazaretského, jehož jste vy ukřižovali a jehož Bůh vzkřísil z mrtvých.</verse>
+        <verse osisID='Acts.4.11'>To je ten ‚kámen vámi staviteli zavržený, jenž se stal kamenem úhelným.'</verse>
+        <verse osisID='Acts.4.12'>V nikom jiném není spása - na světě není lidem dáno jiné jméno, v němž bychom mohli být spaseni!"</verse>
+        <verse osisID='Acts.4.13'>Když vůdcové viděli Petrovu a Janovu smělost a zjistili, že jsou to neučení a prostí lidé, žasli a poznali na nich, že byli s Ježíšem.</verse>
+        <verse osisID='Acts.4.14'>Když se podívali na toho uzdraveného muže, jak tam s nimi stojí, neměli co na to říci.</verse>
+        <verse osisID='Acts.4.15'>Poručili jim, ať odejdou z radní místnosti, a začali se radit:</verse>
+        <verse osisID='Acts.4.16'>"Co s těmi lidmi uděláme? Celý Jeruzalém ví, že se skrze ně stal zjevný zázrak, a my to nemůžeme popřít.</verse>
+        <verse osisID='Acts.4.17'>Aby se to ale mezi lidmi přestalo šířit, pohrozme jim, ať už o tom jménu s nikým nemluví."</verse>
+        <verse osisID='Acts.4.18'>A tak je zavolali a přikázali jim, ať už o Ježíšově jménu vůbec nemluví ani neučí.</verse>
+        <verse osisID='Acts.4.19'>Petr a Jan jim odpověděli: "Myslíte, že je v Božích očích správné, abychom poslouchali vás více než Boha?</verse>
+        <verse osisID='Acts.4.20'>Nemůžeme nemluvit o tom, co jsme viděli a slyšeli."</verse>
+        <verse osisID='Acts.4.21'>Když ale nemohli najít nic, za co by je potrestali, znovu jim pohrozili a s ohledem na lid je propustili. Všichni totiž oslavovali Boha za to, co se stalo -</verse>
+        <verse osisID='Acts.4.22'>člověk přes čtyřicet let chromý byl zázračně uzdraven!</verse>
+        <verse osisID='Acts.4.23'>Poté, co byli propuštěni, přišli ke svým a vyprávěli, co jim řekli vrchní kněží a starší.</verse>
+        <verse osisID='Acts.4.24'>Když to bratři uslyšeli, svorně pozvedli hlas k Bohu: "Pane, ty jsi stvořil nebe i zemi, moře i všechno, co je v nich.</verse>
+        <verse osisID='Acts.4.25'>Ty jsi skrze Ducha svatého řekl ústy svého služebníka, našeho otce Davida: ‚Proč se národy vzbouřily a lidé vymýšleli marnosti?</verse>
+        <verse osisID='Acts.4.26'>Králové země povstali a vládcové se spřáhli proti Hospodinu a proti jeho Pomazanému.'</verse>
+        <verse osisID='Acts.4.27'>A opravdu, Herodes a Pontius Pilát se spřáhli s pohany a s lidem Izraele proti tvému svatému služebníku Ježíši, jehož jsi pomazal,</verse>
+        <verse osisID='Acts.4.28'>a provedli, co tvá ruka a tvá vůle předurčila, že se má stát.</verse>
+        <verse osisID='Acts.4.29'>Pohleď nyní na jejich výhrůžky, Hospodine, a dej svým služebníkům, ať mluví tvé slovo se vší smělostí.</verse>
+        <verse osisID='Acts.4.30'>Vztahuj svou ruku k uzdravování a dej, ať se ve jménu tvého svatého služebníka Ježíše dějí divy a zázraky!"</verse>
+        <verse osisID='Acts.4.31'>Místo, na kterém se shromáždili, se po jejich modlitbě zatřáslo. Všichni byli naplněni Duchem svatým a začali směle mluvit Boží slovo.</verse>
+        <verse osisID='Acts.4.32'>Celé to množství věřících mělo jedno srdce a jednu duši. Nikdo nic nenazýval svým vlastním majetkem, ale měli všechno společné.</verse>
+        <verse osisID='Acts.4.33'>Apoštolové vydávali svědectví o vzkříšení Pána Ježíše s velikou mocí a na všech spočívala veliká milost.</verse>
+        <verse osisID='Acts.4.34'>Nikdo mezi nimi netrpěl nouzi, protože ti, kdo vlastnili pole nebo domy, je prodávali a utržené peníze přinášeli</verse>
+        <verse osisID='Acts.4.35'>k nohám apoštolů. Z toho se pak rozdělovalo každému, jak kdo potřeboval.</verse>
+        <verse osisID='Acts.4.36'>Joses, který od apoštolů dostal jméno Barnabáš (což v překladu znamená Syn potěšení), levita původem z Kypru,</verse>
+        <verse osisID='Acts.4.37'>prodal své pole, přinesl peníze a položil je k nohám apoštolů.</verse>
+      </chapter>
+      <chapter osisID='Acts.5'>
+        <verse osisID='Acts.5.1'>Také jeden muž jménem Ananiáš se svou manželkou Zafirou prodal pozemek;</verse>
+        <verse osisID='Acts.5.2'>část utržených peněz ale s vědomím své manželky ukryl. Zbytek přinesl a položil k nohám apoštolů.</verse>
+        <verse osisID='Acts.5.3'>Petr mu na to řekl: "Ananiáši, to tě tak ovládl satan, že jsi lhal Duchu svatému? Proč jsi ukryl část peněz za to pole?</verse>
+        <verse osisID='Acts.5.4'>Copak nebylo tvé? Nemusel jsi ho prodávat. A když jsi ho prodal, bylo jen na tobě, co s penězi uděláš. Jak tě mohla taková věc napadnout? Nelhal jsi lidem, ale Bohu!"</verse>
+        <verse osisID='Acts.5.5'>Když Ananiáš uslyšel ta slova, skácel se mrtev k zemi. Na všechny, kdo to slyšeli, padla veliká bázeň.</verse>
+        <verse osisID='Acts.5.6'>Několik mladíků vstalo, zabalili ho, odnesli ven a pohřbili.</verse>
+        <verse osisID='Acts.5.7'>Asi po třech hodinách pak přišla i jeho žena, která nevěděla, co se stalo.</verse>
+        <verse osisID='Acts.5.8'>Petr jí řekl: "Pověz mi, prodali jste to pole za tolik peněz?" "Ano, za tolik," odpověděla.</verse>
+        <verse osisID='Acts.5.9'>"To jste se domluvili, že budete pokoušet Hospodinova Ducha?" řekl jí na to Petr. "Poslouchej! Za dveřmi už se blíží kroky těch, kdo pohřbili tvého muže, a vynesou i tebe."</verse>
+        <verse osisID='Acts.5.10'>Ihned se mu skácela mrtvá k nohám. Když mladíci vešli, nalezli ji mrtvou, a tak ji vynesli a pochovali vedle jejího muže.</verse>
+        <verse osisID='Acts.5.11'>Na celou církev i na všechny, kdo to slyšeli, tehdy padla veliká bázeň.</verse>
+        <verse osisID='Acts.5.12'>Rukama apoštolů se mezi lidmi dělo mnoho divů a zázraků a všichni spolu svorně trávili čas v Šalomounově sloupoví.</verse>
+        <verse osisID='Acts.5.13'>Nikdo jiný se tam k nim neodvažoval připojit, ale lid si jich velmi vážil.</verse>
+        <verse osisID='Acts.5.14'>Množství mužů i žen se přidávalo k Pánu a věřících stále přibývalo.</verse>
+        <verse osisID='Acts.5.15'>Dokonce vynášeli nemocné na lůžkách a nosítkách a pokládali je na ulice, aby na některého z nich alespoň padl Petrův stín, až půjde kolem.</verse>
+        <verse osisID='Acts.5.16'>Množství lidí z okolních měst se scházelo do Jeruzaléma, přinášeli nemocné a trápené nečistými duchy a ti všichni byli uzdravováni.</verse>
+        <verse osisID='Acts.5.17'>Tehdy povstal velekněz a všichni jeho stoupenci, totiž sekta saduceů. Naplněni nenávistí</verse>
+        <verse osisID='Acts.5.18'>nechali apoštoly zatknout a vsadit do veřejné věznice.</verse>
+        <verse osisID='Acts.5.19'>Hospodinův anděl ale v noci otevřel dveře vězení a vyvedl je ven. Řekl jim:</verse>
+        <verse osisID='Acts.5.20'>"Jděte, postavte se v chrámu a předneste lidu všechna slova tohoto Života."</verse>
+        <verse osisID='Acts.5.21'>Poslechli ho a za úsvitu přišli do chrámu a učili. Velekněz a jeho stoupenci zatím svolali Veleradu (totiž celé staršovstvo synů Izraele) a poslali pro apoštoly do vězení.</verse>
+        <verse osisID='Acts.5.22'>Když tam ale strážní přišli, ve vězení je nenašli. Vrátili se tedy s hlášením:</verse>
+        <verse osisID='Acts.5.23'>"Věznici jsme našli bezpečně uzamčenou, u dveří stály stráže, ale když jsme odemkli, uvnitř nikdo nebyl."</verse>
+        <verse osisID='Acts.5.24'>Když ta slova uslyšel velitel chrámové stráže s vrchními kněžími, nemohli pochopit, co se to stalo.</verse>
+        <verse osisID='Acts.5.25'>Vtom někdo přišel s hlášením: "Hle, muži, které jste uvěznili, stojí v chrámu a učí lid!"</verse>
+        <verse osisID='Acts.5.26'>Velitel se stráží pro ně ihned šel a přivedl je bez násilí; báli se totiž, aby je lid neukamenoval.</verse>
+        <verse osisID='Acts.5.27'>Když je přivedli a postavili před Veleradu, velekněz se jich zeptal:</verse>
+        <verse osisID='Acts.5.28'>"Copak jsme vám přísně nezakázali učit o tom jménu? Jenže vy jste svým učením naplnili celý Jeruzalém a chcete nás činit zodpovědnými za krev toho člověka!"</verse>
+        <verse osisID='Acts.5.29'>Petr a apoštolové odpověděli: "Je třeba více poslouchat Boha než lidi.</verse>
+        <verse osisID='Acts.5.30'>Bůh vašich otců vzkřísil Ježíše, kterého jste vy přibili na kříž a zabili.</verse>
+        <verse osisID='Acts.5.31'>Právě jeho Bůh vyvýšil na svou pravici jako Vůdce a Spasitele, aby dal Izraeli pokání a odpuštění hříchů.</verse>
+        <verse osisID='Acts.5.32'>A my jsme svědky těchto věcí a rovněž tak Duch svatý, jehož Bůh udělil těm, kdo ho poslouchají."</verse>
+        <verse osisID='Acts.5.33'>Když to uslyšeli, rozzuřili se a začali se radit, jak je zabít.</verse>
+        <verse osisID='Acts.5.34'>Tehdy vstal ve Veleradě jeden farizeus jménem Gamaliel, učitel Zákona ctěný vším lidem. Nechal ty muže na chvíli vyvést ven a</verse>
+        <verse osisID='Acts.5.35'>potom řekl: "Izraelité, rozmyslete si, co s těmi lidmi chcete udělat.</verse>
+        <verse osisID='Acts.5.36'>Před nedávnem povstal Teudas. Prohlašoval se za někoho velikého a připojilo se k němu okolo čtyř set mužů. Když byl zabit, všichni jeho přívrženci se rozutekli a nic z toho nebylo.</verse>
+        <verse osisID='Acts.5.37'>Po něm povstal Juda Galilejský během sčítání lidu a strhl za sebou spoustu lidí. Ale i jeho přívrženci se rozutekli, jakmile zahynul.</verse>
+        <verse osisID='Acts.5.38'>Proto vám říkám: Nechte ty lidi být a propusťte je. Je-li tento úmysl a toto dílo z lidí, nic z toho nebude.</verse>
+        <verse osisID='Acts.5.39'>Je-li však z Boha, nic proti tomu nezmůžete. Nechcete snad bojovat proti Bohu!"</verse>
+        <verse osisID='Acts.5.40'>A tak ho poslechli. Zavolali apoštoly, dali je zbičovat, a když jim zakázali mluvit v Ježíšově jménu, propustili je.</verse>
+        <verse osisID='Acts.5.41'>A tak odešli z Velerady s radostí, že se jim dostalo cti snášet pohrdání pro jeho jméno.</verse>
+        <verse osisID='Acts.5.42'>Každého dne pak nepřestávali v chrámu a po domech učit a prohlašovat Ježíše za Mesiáše.</verse>
+      </chapter>
+      <chapter osisID='Acts.6'>
+        <verse osisID='Acts.6.1'>V té době, když se počet učedníků stále rozrůstal, začali si ti, kdo mluvili řecky, stěžovat, že jejich vdovy jsou oproti hebrejským kráceny na denních přídělech jídla.</verse>
+        <verse osisID='Acts.6.2'>Dvanáct apoštolů proto svolalo shromáždění všech učedníků a řeklo: "Není správné, abychom se přestali věnovat Božímu slovu a sloužili u stolů.</verse>
+        <verse osisID='Acts.6.3'>Proto, bratři, vyberte ze svého středu sedm mužů dobré pověsti, plných Ducha a moudrosti, kterým tu práci svěříme.</verse>
+        <verse osisID='Acts.6.4'>Sami se pak budeme nadále věnovat modlitbě a službě Slova."</verse>
+        <verse osisID='Acts.6.5'>Celé shromáždění s tím návrhem souhlasilo, a tak vybrali: Štěpána (muže plného víry a Ducha svatého), Filipa, Prochora, Nikanora, Timona, Parména a Mikuláše (proselytu z Antiochie).</verse>
+        <verse osisID='Acts.6.6'>Postavili je před apoštoly a ti na ně po modlitbě vkládali ruce.</verse>
+        <verse osisID='Acts.6.7'>Boží slovo se šířilo a počet učedníků v Jeruzalémě se mocně rozrůstal. Také veliké množství kněží přijalo víru.</verse>
+        <verse osisID='Acts.6.8'>Štěpán, plný víry a moci, konal mezi lidmi veliké divy a zázraky.</verse>
+        <verse osisID='Acts.6.9'>Tehdy povstali někteří z takzvané synagogy Libertinů (totiž osvobozených otroků z Kyrény, Alexandrie, Kilikie a Asie) a začali Štěpánovi odporovat.</verse>
+        <verse osisID='Acts.6.10'>Nemohli ale obstát proti moudrosti a Duchu, v jehož moci mluvil.</verse>
+        <verse osisID='Acts.6.11'>Nastrčili proto muže, kteří prohlašovali: "Slyšeli jsme, jak se rouhá proti Mojžíšovi a proti Bohu!"</verse>
+        <verse osisID='Acts.6.12'>Tím pobouřili lid i starší a znalce Písma, takže Štěpána nakonec zatkli a odvedli před Veleradu.</verse>
+        <verse osisID='Acts.6.13'>Tam postavili falešné svědky, kteří tvrdili: "Ten člověk neustále mluví proti tomuto svatému místu a proti Zákonu.</verse>
+        <verse osisID='Acts.6.14'>Slyšeli jsme ho říkat, že Ježíš Nazaretský zničí toto místo a změní ustanovení, která jsme dostali od Mojžíše!"</verse>
+        <verse osisID='Acts.6.15'>Všichni, kdo seděli ve Veleradě, na něj upřeli pohled a viděli jeho tvář jako tvář anděla.</verse>
+      </chapter>
+      <chapter osisID='Acts.7'>
+        <verse osisID='Acts.7.1'>Velekněz se ho zeptal: "Je to tak?"</verse>
+        <verse osisID='Acts.7.2'>Štěpán odpověděl: "Bratři a otcové, slyšte! Když byl náš otec Abraham ještě v Mezopotámii, předtím než se usadil v Cháranu, ukázal se mu Bůh slávy</verse>
+        <verse osisID='Acts.7.3'>a řekl mu: ‚Odejdi ze své země a ze svého příbuzenstva a pojď do země, kterou ti ukážu.'</verse>
+        <verse osisID='Acts.7.4'>Tehdy odešel ze země Chaldejců a usadil se v Cháranu. Když pak jeho otec zemřel, Bůh ho odtud přestěhoval do země, v níž teď bydlíte.</verse>
+        <verse osisID='Acts.7.5'>Nedal mu v ní za dědictví ani stopu země, ale slíbil ji dát do vlastnictví jemu a jeho semeni po něm. I když byl ještě bezdětný,</verse>
+        <verse osisID='Acts.7.6'>Bůh mu řekl: ‚Tvoji potomci budou žít jako přistěhovalci v cizí zemi. Budou zotročeni a utiskováni po čtyři sta let.</verse>
+        <verse osisID='Acts.7.7'>Národ, jemuž budou otročit, ale budu soudit,' řekl Bůh. ‚Potom odejdou a budou mi sloužit na tomto místě.'</verse>
+        <verse osisID='Acts.7.8'>Tehdy jim vydal smlouvu o obřízce. Když pak Abraham zplodil Izáka, osmého dne ho obřezal a stejně tak Izák Jákoba a Jákob dvanáct patriarchů.</verse>
+        <verse osisID='Acts.7.9'>Patriarchové žárlili na Josefa a prodali ho do Egypta, ale Bůh byl s ním.</verse>
+        <verse osisID='Acts.7.10'>Vysvobodil ho ze všech jeho soužení a dal mu před faraonem, egyptským králem, milost a moudrost, takže ho ustanovil správcem Egypta i celého svého domu.</verse>
+        <verse osisID='Acts.7.11'>Potom přišel na celou egyptskou i kananejskou zem hlad a veliké soužení, takže naši otcové neměli co jíst.</verse>
+        <verse osisID='Acts.7.12'>Když Jákob uslyšel, že v Egyptě je obilí, poslal tam naše otce.</verse>
+        <verse osisID='Acts.7.13'>Když přišli podruhé, Josef se dal svým bratrům poznat, a tak se farao seznámil s Josefovou rodinou.</verse>
+        <verse osisID='Acts.7.14'>Josef pak k sobě pozval svého otce Jákoba i celé své příbuzenstvo v počtu sedmdesáti pěti osob.</verse>
+        <verse osisID='Acts.7.15'>Jákob tedy sestoupil do Egypta, kde zemřel on i naši otcové.</verse>
+        <verse osisID='Acts.7.16'>Potom byli přeneseni do Šechemu a pochováni v hrobě, který Abraham koupil za stříbro od synů Šechemova otce Chamora.</verse>
+        <verse osisID='Acts.7.17'>Jak se blížil čas, kdy se mělo naplnit Boží zaslíbení Abrahamovi, náš lid v Egyptě rostl a množil se,</verse>
+        <verse osisID='Acts.7.18'>dokud nepovstal jiný král, který už o Josefovi nevěděl.</verse>
+        <verse osisID='Acts.7.19'>Choval se k našemu národu lstivě a nutil naše předky odkládat vlastní novorozence, aby nepřežili.</verse>
+        <verse osisID='Acts.7.20'>V té době se narodil Mojžíš. Byl překrásný. Tři měsíce ho chovali v rodném domě,</verse>
+        <verse osisID='Acts.7.21'>a když ho museli odložit, vzala si ho faraonova dcera a vychovala ho jako vlastního syna.</verse>
+        <verse osisID='Acts.7.22'>Mojžíš byl vyučen veškeré moudrosti Egypťanů a byl mocný ve slovech i skutcích.</verse>
+        <verse osisID='Acts.7.23'>Když mu bylo čtyřicet let, rozhodl se navštívit své bratry, syny Izraele.</verse>
+        <verse osisID='Acts.7.24'>Uviděl, jak jeden z nich trpí bezpráví; zastal se ho, pomstil toho ubožáka a Egypťana zabil.</verse>
+        <verse osisID='Acts.7.25'>Myslel si, že jeho bratři porozumí, že jim Bůh skrze něho přináší spásu, ale oni nerozuměli.</verse>
+        <verse osisID='Acts.7.26'>Navštívil je i druhého dne a snažil se usmířit jejich potyčku: ‚Muži, jste bratři! Proč jeden druhému ubližujete?'</verse>
+        <verse osisID='Acts.7.27'>Ten, který ubližoval svému bližnímu, jej však odstrčil: ‚Kdo tě ustanovil naším vůdcem a soudcem?</verse>
+        <verse osisID='Acts.7.28'>Chceš mě snad zabít, jako jsi včera zabil toho Egypťana?'</verse>
+        <verse osisID='Acts.7.29'>Kvůli těm slovům pak Mojžíš utekl a žil jako přistěhovalec v midiánské zemi, kde zplodil dva syny.</verse>
+        <verse osisID='Acts.7.30'>Po dalších čtyřiceti letech se mu na poušti u hory Sinaj ukázal anděl v plameni hořícího keře.</verse>
+        <verse osisID='Acts.7.31'>Mojžíš se tomu vidění podivil. Když se přiblížil, aby se lépe podíval, zazněl k němu Hospodinův hlas:</verse>
+        <verse osisID='Acts.7.32'>‚Já jsem Bůh tvých otců, Bůh Abrahamův, Bůh Izákův a Bůh Jákobův.' Mojžíš se roztřásl a neodvažoval se podívat.</verse>
+        <verse osisID='Acts.7.33'>Hospodin mu řekl: ‚Zuj si obuv z nohou, protože místo, na němž stojíš, je svatá půda.</verse>
+        <verse osisID='Acts.7.34'>Zřetelně jsem viděl trápení svého lidu v Egyptě; slyšel jsem jejich nářek a sestoupil jsem, abych je vysvobodil. Nyní tedy pojď, pošlu tě do Egypta.'</verse>
+        <verse osisID='Acts.7.35'>Tohoto Mojžíše, kterého zavrhli, když řekli: ‚Kdo tě ustanovil vůdcem a soudcem?', toho Bůh poslal jako vůdce a vysvoboditele, když se mu prostřednictvím anděla ukázal v onom keři.</verse>
+        <verse osisID='Acts.7.36'>Tento Mojžíš je vyvedl na svobodu a konal divy a zázraky v egyptské zemi, na Rudém moři a po čtyřicet let na poušti.</verse>
+        <verse osisID='Acts.7.37'>Tento Mojžíš řekl synům Izraele: ‚Bůh vám z vašich bratrů vzbudí Proroka, jako jsem já.'</verse>
+        <verse osisID='Acts.7.38'>Tento Mojžíš byl ve shromáždění Božího lidu na poušti. Stál mezi andělem, který k němu mluvil na hoře Sinaj, a našimi otci. To on přijal živá slova, aby je předal nám.</verse>
+        <verse osisID='Acts.7.39'>Naši otcové ho ale nechtěli poslouchat. Zavrhli ho a v srdcích se obrátili do Egypta.</verse>
+        <verse osisID='Acts.7.40'>Řekli Áronovi: ‚Udělej nám bohy, kteří by nás vedli! Kdo ví, co se stalo s tím Mojžíšem, který nás vyvedl z Egypta.'</verse>
+        <verse osisID='Acts.7.41'>Tehdy si udělali tele, přinesli té modle oběti a radovali se z výtvoru svých rukou.</verse>
+        <verse osisID='Acts.7.42'>Bůh se od nich odvrátil a nechal je sloužit nebeskému zástupu, jak je psáno v knize proroků: ‚Obětovali jste snad mně své oběti a dary těch čtyřicet let na poušti, dome izraelský?</verse>
+        <verse osisID='Acts.7.43'>Vztyčili jste stánek Molocha a hvězdu svého boha Remfana, obrazy, jež jste si udělali, abyste se jim klaněli! Proto vás vystěhuji až za Babylon.'</verse>
+        <verse osisID='Acts.7.44'>Naši otcové měli na poušti Stánek svědectví, jak nařídil Ten, který řekl Mojžíšovi, aby ho udělal podle vzoru, který viděl.</verse>
+        <verse osisID='Acts.7.45'>Tento stánek převzali naši otcové a s Jozuem jej vnesli na území pohanů, které Bůh před našimi otci vyhnal. Tak to bylo až do dnů Davida,</verse>
+        <verse osisID='Acts.7.46'>kterého si Bůh oblíbil a který prosil, aby mohl Bohu Jákobovu zřídit příbytek.</verse>
+        <verse osisID='Acts.7.47'>Šalomoun mu potom postavil dům.</verse>
+        <verse osisID='Acts.7.48'>Nejvyšší ale nebydlí v chrámech udělaných rukama. Jak říká prorok:</verse>
+        <verse osisID='Acts.7.49'>‚Nebe je můj trůn, zemi mám u nohou jako podnožku. Jaký mi chcete stavět dům, praví Hospodin, a jaké místo, kde bych spočinul?</verse>
+        <verse osisID='Acts.7.50'>Copak jsem toto vše svou rukou nestvořil?'</verse>
+        <verse osisID='Acts.7.51'>Jak jste jen tvrdošíjní! Chybí vám obřízka srdce a uší! Stále jen vzdorujete Duchu svatému - jak vaši otcové, tak i vy!</verse>
+        <verse osisID='Acts.7.52'>Kterého z proroků vaši otcové nepronásledovali? Zabíjeli ty, kdo předpovídali příchod toho Spravedlivého, a vy jste ho teď zradili a zavraždili.</verse>
+        <verse osisID='Acts.7.53'>Přijali jste Zákon z rukou andělů, ale nezachovali jste ho!"</verse>
+        <verse osisID='Acts.7.54'>Když to slyšeli, rozzuřili se tak, že na Štěpána začali skřípět zuby.</verse>
+        <verse osisID='Acts.7.55'>On však, plný Ducha svatého, upřel pohled k nebi. Uviděl Boží slávu a Ježíše stojícího po Boží pravici</verse>
+        <verse osisID='Acts.7.56'>a zvolal: "Hle, vidím otevřené nebe a Syna člověka stojícího po Boží pravici!"</verse>
+        <verse osisID='Acts.7.57'>Začali hlasitě křičet, zacpali si uši a svorně se na něj vrhli.</verse>
+        <verse osisID='Acts.7.58'>Vyhnali ho ven z města, kde ho kamenovali. Svědkové si tehdy odložili pláště k nohám mladíka jménem Saul.</verse>
+        <verse osisID='Acts.7.59'>Zatímco ho kamenovali, Štěpán se modlil: "Pane Ježíši, přijmi mého ducha."</verse>
+        <verse osisID='Acts.7.60'>Klesl na kolena a hlasitě zvolal: "Nepočítej jim tento hřích, Pane!" Po těch slovech zesnul.</verse>
+      </chapter>
+      <chapter osisID='Acts.8'>
+        <verse osisID='Acts.8.1'>Saul jeho smrt schvaloval. V té době přišlo na církev v Jeruzalémě veliké pronásledování, takže se všichni kromě apoštolů rozprchli po judských a samařských krajích.</verse>
+        <verse osisID='Acts.8.2'>Zbožní muži pochovali Štěpána a velmi ho oplakávali.</verse>
+        <verse osisID='Acts.8.3'>Saul zatím pustošil církev. Vcházel do domů, odvlékal muže i ženy a zavíral je do vězení.</verse>
+        <verse osisID='Acts.8.4'>Ti, kdo se rozprchli, ovšem kázali Slovo, kamkoli přišli.</verse>
+        <verse osisID='Acts.8.5'>Filip vešel do města Samaří a kázal tam Krista.</verse>
+        <verse osisID='Acts.8.6'>Lidé svorně naslouchali Filipovým slovům v celých zástupech, protože slyšeli a viděli zázraky, které dělal.</verse>
+        <verse osisID='Acts.8.7'>Nečistí duchové s velikým křikem vycházeli z mnoha posedlých a mnozí ochrnutí a chromí byli uzdraveni.</verse>
+        <verse osisID='Acts.8.8'>Celé město zažívalo velikou radost.</verse>
+        <verse osisID='Acts.8.9'>V tom městě žil jeden muž jménem Šimon. Už dlouho ohromoval samařský lid svou magií a prohlašoval se za někoho výjimečného.</verse>
+        <verse osisID='Acts.8.10'>Všichni, od nejmenšího až po největšího, ho dychtivě poslouchali a říkali: "Tohle je jistě ta veliká Boží moc!"</verse>
+        <verse osisID='Acts.8.11'>Poslouchali ho proto, že je tak dlouho ohromoval svou magií.</verse>
+        <verse osisID='Acts.8.12'>Když ale uvěřili Filipovi kážícímu o Božím království a o jménu Ježíše Krista, dávali se muži i ženy pokřtít.</verse>
+        <verse osisID='Acts.8.13'>Uvěřil dokonce i sám Šimon a po svém křtu se stále držel Filipa. Když viděl, jak veliké divy a zázraky se dějí, byl ohromen.</verse>
+        <verse osisID='Acts.8.14'>Apoštolové v Jeruzalémě uslyšeli, že Samaří přijalo Boží slovo, a tak k nim vyslali Petra a Jana.</verse>
+        <verse osisID='Acts.8.15'>Ti přišli a modlili se za ně, aby přijali Ducha svatého.</verse>
+        <verse osisID='Acts.8.16'>(Na nikoho z nich totiž ještě nesestoupil; byli pouze pokřtěni ve jménu Pána Ježíše.)</verse>
+        <verse osisID='Acts.8.17'>Vkládali tedy na ně ruce a oni přijímali Ducha svatého.</verse>
+        <verse osisID='Acts.8.18'>Když Šimon uviděl, že se Duch svatý uděluje skrze vkládání rukou apoštolů, přinesl jim peníze</verse>
+        <verse osisID='Acts.8.19'>se slovy: "Dejte i mně tu moc, aby každý, na koho vložím ruce, přijal Ducha svatého!"</verse>
+        <verse osisID='Acts.8.20'>Petr mu na to řekl: "Ať jsou tvé peníze zatraceny s tebou! To sis myslel, že Boží dar jde koupit za peníze?</verse>
+        <verse osisID='Acts.8.21'>Nemáš podíl ani účast na téhle věci, protože tvé srdce není před Bohem upřímné.</verse>
+        <verse osisID='Acts.8.22'>Čiň pokání ze své špatnosti a modli se - snad ti Bůh ten úmysl tvého srdce odpustí.</verse>
+        <verse osisID='Acts.8.23'>Vidím, jak jsi plný hořkosti a spoutaný nepravostí."</verse>
+        <verse osisID='Acts.8.24'>Šimon odpověděl: "Vy se za mě modlete k Pánu, ať se mi nestane nic z toho, co jste říkali!"</verse>
+        <verse osisID='Acts.8.25'>Poté, co vydali svědectví a promluvili Pánovo slovo, vraceli se apoštolové do Jeruzaléma a kázali evangelium v mnoha samařských vesnicích.</verse>
+        <verse osisID='Acts.8.26'>Hospodinův anděl promluvil k Filipovi: "Vstaň a vydej se na jih, k pouštní cestě z Jeruzaléma dolů do Gazy."</verse>
+        <verse osisID='Acts.8.27'>Vydal se tedy na cestu a hle, narazil na jednoho Etiopana. Byl to komoří etiopské královny Kandaky, který spravoval všechny její poklady. Ten se přijel do Jeruzaléma poklonit Bohu</verse>
+        <verse osisID='Acts.8.28'>a právě se vracel domů. Seděl na voze a četl proroka Izaiáše.</verse>
+        <verse osisID='Acts.8.29'>Duch řekl Filipovi: "Dohoň ten vůz a jdi vedle něj."</verse>
+        <verse osisID='Acts.8.30'>Filip ho tedy doběhl a uslyšel ho, jak čte proroka Izaiáše. Zeptal se ho: "Rozumíš tomu, co čteš?"</verse>
+        <verse osisID='Acts.8.31'>"Jak bych mohl?" odpověděl. "Jedině kdyby mi to někdo vyložil." A prosil Filipa, aby nastoupil a přisedl k němu.</verse>
+        <verse osisID='Acts.8.32'>Místo, které v Písmu četl, bylo toto: "Jak ovce na porážku veden byl, jako když beránek před střihačem oněmí, ústa neotevřel.</verse>
+        <verse osisID='Acts.8.33'>Ve svém ponížení byl zbaven práva a kdo vylíčí jeho rod? Vždyť byl na zemi připraven o život."</verse>
+        <verse osisID='Acts.8.34'>Komoří se Filipa zeptal: "Prosím tě, o kom to prorok mluví? O sobě, nebo o někom jiném?"</verse>
+        <verse osisID='Acts.8.35'>Filip se ujal slova a počínaje tímto místem Písma mu zvěstoval Ježíše.</verse>
+        <verse osisID='Acts.8.36'>[37] A jak jeli, cesta vedla kolem nějaké vody. Komoří zvolal: "Pohleď, voda - co brání, abych byl pokřtěn?"</verse>
+        <verse osisID='Acts.8.38'>a nechal zastavit vůz. Oba, Filip i komoří, sestoupili do vody a Filip ho pokřtil.</verse>
+        <verse osisID='Acts.8.39'>Když vystoupili z vody, Hospodinův Duch uchvátil Filipa a komoří ho už nespatřil; jel tedy svou cestou a radoval se.</verse>
+        <verse osisID='Acts.8.40'>Filip se pak octl v Azotu. Procházel všechna okolní města a kázal evangelium, až přišel do Cesareje.</verse>
+      </chapter>
+      <chapter osisID='Acts.9'>
+        <verse osisID='Acts.9.1'>Saul stále ještě chrlil smrtelné výhrůžky proti Pánovým učedníkům. Šel za veleknězem</verse>
+        <verse osisID='Acts.9.2'>a vyžádal si od něj listy pro synagogy v Damašku, aby tam mohl vyhledat přívržence té Cesty - jak muže, tak ženy - a přivést je v poutech do Jeruzaléma.</verse>
+        <verse osisID='Acts.9.3'>Když už se cestou blížil k Damašku, náhle ho obklopilo světlo z nebe.</verse>
+        <verse osisID='Acts.9.4'>Padl na zem a uslyšel hlas: "Saule, Saule, proč mě pronásleduješ?"</verse>
+        <verse osisID='Acts.9.5'>Zeptal se: "Kdo jsi, Pane?" Ten odpověděl: "Já jsem Ježíš, kterého ty pronásleduješ.</verse>
+        <verse osisID='Acts.9.6'>Vstaň a jdi do města; tam se dozvíš, co máš dělat."</verse>
+        <verse osisID='Acts.9.7'>Muži v Saulově doprovodu zůstali stát bez hlesu; slyšeli totiž hlas, ale nikoho neviděli.</verse>
+        <verse osisID='Acts.9.8'>Když se Saul zvedl ze země, otevřel oči, ale nic neviděl. Museli ho do Damašku odvést za ruku.</verse>
+        <verse osisID='Acts.9.9'>Po tři dny neviděl, nejedl ani nepil.</verse>
+        <verse osisID='Acts.9.10'>V Damašku žil jeden učedník jménem Ananiáš. Pán ho ve vidění oslovil: "Ananiáši!" Odpověděl: "Zde jsem, Pane."</verse>
+        <verse osisID='Acts.9.11'>Pán mu řekl: "Vstaň a jdi do ulice zvané Přímá. V Judově domě najdeš Saula z Tarsu - hle, právě se modlí</verse>
+        <verse osisID='Acts.9.12'>a ve vidění spatřil muže jménem Ananiáš, jak jde k němu a vkládá na něj ruku, aby prohlédl."</verse>
+        <verse osisID='Acts.9.13'>Ananiáš namítl: "Pane, slyšel jsem od mnoha lidí, kolik zla ten muž napáchal tvým svatým v Jeruzalémě!</verse>
+        <verse osisID='Acts.9.14'>A teď má i zde od vrchních kněží pověření, aby spoutal všechny, kdo vzývají tvé jméno!"</verse>
+        <verse osisID='Acts.9.15'>Pán mu však řekl: "Jdi, neboť je to má vyvolená nádoba - bude přinášet mé jméno národům, králům i synům Izraele</verse>
+        <verse osisID='Acts.9.16'>a já mu ukážu, kolik musí vytrpět pro mé jméno."</verse>
+        <verse osisID='Acts.9.17'>Ananiáš tedy šel do určeného domu. Vešel dovnitř, vložil na něj ruce a řekl: "Bratře Saule, Pán Ježíš, který se ti ukázal na cestě, po níž jsi šel, mě poslal, abys prohlédl a byl naplněn Duchem svatým."</verse>
+        <verse osisID='Acts.9.18'>Saul náhle prohlédl, jako by mu z očí spadly šupiny. Potom vstal a dal se pokřtít.</verse>
+        <verse osisID='Acts.9.19'>Přijal pokrm a posilnil se. Saul pak strávil několik dní s damašskými učedníky</verse>
+        <verse osisID='Acts.9.20'>a hned začal v synagogách kázat, že Ježíš je Boží Syn.</verse>
+        <verse osisID='Acts.9.21'>Všichni, kdo ho slyšeli, žasli a říkali: "Vždyť to je ten, který v Jeruzalémě hubil vyznavače toho jména! Copak sem nepřišel, aby je v poutech odvedl k vrchním kněžím?"</verse>
+        <verse osisID='Acts.9.22'>Saul ale kázal stále mocněji a svými důkazy, že Ježíš je Mesiáš, popouzel damašské Židy.</verse>
+        <verse osisID='Acts.9.23'>Když už to trvalo dost dlouho, Židé se dohodli, že ho zabijí.</verse>
+        <verse osisID='Acts.9.24'>Saul se ale o jejich úkladech dozvěděl. Brány byly hlídány dnem i nocí, protože ho chtěli zabít,</verse>
+        <verse osisID='Acts.9.25'>a tak ho učedníci v noci vzali a spustili ho v koši přes hradbu.</verse>
+        <verse osisID='Acts.9.26'>Saul se tedy vrátil do Jeruzaléma. Pokoušel se připojit k učedníkům, ale všichni se ho báli. Nevěřili totiž, že je učedník.</verse>
+        <verse osisID='Acts.9.27'>Barnabáš se ho však ujal. Přivedl ho k apoštolům a vyprávěl jim, jak Saul uviděl na cestě Pána a mluvil s ním a také jak v Damašku směle mluvil v Ježíšově jménu.</verse>
+        <verse osisID='Acts.9.28'>A tak s nimi zůstal v Jeruzalémě.</verse>
+        <verse osisID='Acts.9.29'>Hovořil a přel se také s pořečtěnými Židy a ti mu začali ukládat o život.</verse>
+        <verse osisID='Acts.9.30'>Když se to dozvěděli bratři, odvedli ho do Cesareje a poslali do Tarsu.</verse>
+        <verse osisID='Acts.9.31'>Církve po celém Judsku, Galileji i Samaří pak zakoušely klid a sílily; žily v Hospodinově bázni a povzbuzovány Duchem svatým se rozrůstaly.</verse>
+        <verse osisID='Acts.9.32'>Petr obcházel všechny církve a cestou přišel také ke svatým v Lyddě.</verse>
+        <verse osisID='Acts.9.33'>Tam nalezl člověka jménem Eneáš, který byl ochrnutý a už osm let byl upoután na lůžko.</verse>
+        <verse osisID='Acts.9.34'>Petr mu řekl: "Eneáši, Ježíš Kristus tě uzdravuje. Vstaň a ustel si!" On hned vstal</verse>
+        <verse osisID='Acts.9.35'>a všichni obyvatelé Lyddy a Šáronu, kteří ho viděli, se obrátili k Pánu.</verse>
+        <verse osisID='Acts.9.36'>V Joppě pak žila jedna učednice jménem Tabita (což je v překladu Dorkas), která oplývala dobrými skutky a almužnami.</verse>
+        <verse osisID='Acts.9.37'>V těch dnech však onemocněla a zemřela. Omyli ji a položili do horní místnosti.</verse>
+        <verse osisID='Acts.9.38'>Lydda je blízko Joppy, a když se učedníci doslechli, že Petr je v Lyddě, poslali k němu dva muže s prosbou, aby k nim bez meškání přišel.</verse>
+        <verse osisID='Acts.9.39'>Petr vstal a šel s nimi. Když přišel, zavedli ho do horní místnosti, kde ho s pláčem obstoupily všechny vdovy a ukazovaly košile a pláště, které jim Dorkas dělala, dokud byla s nimi.</verse>
+        <verse osisID='Acts.9.40'>Petr poslal všechny ven, poklekl a modlil se. Potom se obrátil k jejímu tělu a řekl: "Tabito, vstaň!" Otevřela oči, a když uviděla Petra, posadila se.</verse>
+        <verse osisID='Acts.9.41'>On jí podal ruku a pomohl jí vstát. Potom zavolal svaté i vdovy a ukázal jim ji živou.</verse>
+        <verse osisID='Acts.9.42'>Rozneslo se to po celé Joppě a mnozí uvěřili v Pána.</verse>
+        <verse osisID='Acts.9.43'>Petr pak v Joppě bydlel delší čas u jistého Šimona koželuha.</verse>
+      </chapter>
+      <chapter osisID='Acts.10'>
+        <verse osisID='Acts.10.1'>V Cesareji žil jeden muž jménem Kornelius, setník praporu zvaného Italský.</verse>
+        <verse osisID='Acts.10.2'>Byl zbožný a bohabojný s celým svým domem, dával mnoho almužen lidu a stále se modlil k Bohu.</verse>
+        <verse osisID='Acts.10.3'>Jednou odpoledne kolem třetí hodiny jasně uviděl ve vidění Božího anděla, jak k němu jde a říká: "Kornelie!"</verse>
+        <verse osisID='Acts.10.4'>V úleku na něj vytřeštil oči a zeptal se: "Co je, Pane?" Anděl mu řekl: "Tvé modlitby a almužny vzbudily Boží pozornost.</verse>
+        <verse osisID='Acts.10.5'>Hned pošli do Joppy a nech zavolat Šimona zvaného Petr.</verse>
+        <verse osisID='Acts.10.6'>Je hostem jistého Šimona koželuha, který má dům u moře."</verse>
+        <verse osisID='Acts.10.7'>Když po těch slovech anděl odešel, Kornelius zavolal dva své služebníky a jednoho zbožného vojáka, který patřil k jeho pobočníkům.</verse>
+        <verse osisID='Acts.10.8'>Všechno jim vyložil a poslal je do Joppy.</verse>
+        <verse osisID='Acts.10.9'>Druhého dne, zatímco se cestou blížili k městu, Petr vystoupil na plochou střechu domu, aby se modlil. Okolo poledne</verse>
+        <verse osisID='Acts.10.10'>dostal hlad a chtěl jíst. Než mu však připravili jídlo, upadl do vytržení.</verse>
+        <verse osisID='Acts.10.11'>Uviděl otevřené nebe a něco jako velikou plachtu, jak se za čtyři cípy spouští na zem.</verse>
+        <verse osisID='Acts.10.12'>V ní byla všemožná čtvernohá polní zvířata i šelmy, plazi a ptáci.</verse>
+        <verse osisID='Acts.10.13'>Vtom k němu zazněl hlas: "Vstaň, Petře, zabíjej a jez!"</verse>
+        <verse osisID='Acts.10.14'>Petr odpověděl: "To ne, Pane! Nikdy jsem přece nejedl nic nečistého nebo poskvrněného."</verse>
+        <verse osisID='Acts.10.15'>Ale hlas k němu promluvil znovu: "Co Bůh očistil, neměj za nečisté!"</verse>
+        <verse osisID='Acts.10.16'>Opakovalo se to třikrát, než byla plachta vytažena zpátky do nebe.</verse>
+        <verse osisID='Acts.10.17'>Zatímco si Petr marně lámal hlavu, co mělo to vidění znamenat, hle, muži poslaní Korneliem se doptali na Šimonův dům. Když dorazili ke dveřím,</verse>
+        <verse osisID='Acts.10.18'>zavolali: "Je tu hostem Šimon zvaný Petr?"</verse>
+        <verse osisID='Acts.10.19'>Petr zatím přemýšlel o tom vidění. Duch mu řekl: "Hledají tě tři muži.</verse>
+        <verse osisID='Acts.10.20'>Vstaň, sejdi dolů a bez váhání odejdi s nimi, protože jsem je poslal já sám."</verse>
+        <verse osisID='Acts.10.21'>Petr tedy sešel dolů k těm mužům a řekl: "Já jsem ten, koho hledáte. Co vás přivádí?"</verse>
+        <verse osisID='Acts.10.22'>Odpověděli: "Setník Kornelius, spravedlivý a bohabojný muž, který má dobrou pověst u celého židovského národa, dostal od svatého anděla pokyn, že tě má pozvat k sobě domů, aby vyslechl tvá slova."</verse>
+        <verse osisID='Acts.10.23'>Petr je tedy pozval dovnitř a pohostil. Nazítří vstal a odešel s nimi, doprovázen některými bratry z Joppy.</verse>
+        <verse osisID='Acts.10.24'>Druhého dne dorazili do Cesareje. Kornelius je očekával a svolal své příbuzné a blízké přátele.</verse>
+        <verse osisID='Acts.10.25'>Když Petr chtěl vejít, Kornelius mu vyšel vstříc, padl mu k nohám a poklonil se.</verse>
+        <verse osisID='Acts.10.26'>Petr ho ale zvedl se slovy: "Vstaň, vždyť i já jsem jen člověk!"</verse>
+        <verse osisID='Acts.10.27'>V rozhovoru s ním vešel dovnitř. Když uviděl shromážděné množství lidí,</verse>
+        <verse osisID='Acts.10.28'>řekl jim: "Sami víte, že pro Žida je nepřípustné, aby se stýkal s cizincem nebo ho navštěvoval. Bůh mi však ukázal, abych žádného člověka neměl za nečistého nebo poskvrněného,</verse>
+        <verse osisID='Acts.10.29'>a tak jsem bez námitek přijal vaše pozvání a přišel jsem. Mohu se zeptat, proč jste mě pozvali?"</verse>
+        <verse osisID='Acts.10.30'>Kornelius odpověděl: "Před třemi dny přesně touto dobou, o třetí odpoledne, jsem se doma modlil. Náhle se přede mnou postavil muž v zářícím rouchu</verse>
+        <verse osisID='Acts.10.31'>a řekl: ‚Kornelie, tvá modlitba byla vyslyšena a tvé almužny nezůstaly bez povšimnutí před Bohem.</verse>
+        <verse osisID='Acts.10.32'>Pošli do Joppy a nech zavolat Šimona zvaného Petr, který je hostem v domě Šimona koželuha u moře.'</verse>
+        <verse osisID='Acts.10.33'>Proto jsem k tobě hned poslal a ty jsi laskavě přišel. Teď jsme tu všichni před Boží tváří, abychom vyslechli, cokoli ti Bůh svěřil."</verse>
+        <verse osisID='Acts.10.34'>Petr se ujal slova a řekl: "Opravdu vidím, že Bůh nikomu nestraní,</verse>
+        <verse osisID='Acts.10.35'>ale v každém národě se mu líbí, kdokoli ho ctí a koná spravedlnost.</verse>
+        <verse osisID='Acts.10.36'>To je to poselství, které Bůh svěřil synům Izraele; jím zvěstuje pokoj skrze Ježíše Krista, který je Pánem všech.</verse>
+        <verse osisID='Acts.10.37'>Sami víte, co se dělo po celém Judsku; začalo to v Galileji, po křtu, který kázal Jan.</verse>
+        <verse osisID='Acts.10.38'>Ježíše z Nazaretu Bůh pomazal Duchem svatým a mocí. Kamkoli přišel, konal dobro a uzdravoval všechny soužené od ďábla, protože Bůh byl s ním.</verse>
+        <verse osisID='Acts.10.39'>My jsme svědkové všeho, co dělal v judské zemi a v Jeruzalémě. Oni ho přibili na kříž a popravili,</verse>
+        <verse osisID='Acts.10.40'>ale Bůh jej třetího dne vzkřísil a dal, aby se ukázal -</verse>
+        <verse osisID='Acts.10.41'>ne všemu lidu, ale svědkům, které Bůh předem vyvolil - nám, kteří jsme s ním jedli a pili po jeho zmrtvýchvstání.</verse>
+        <verse osisID='Acts.10.42'>Uložil nám, abychom kázali všemu lidu a dosvědčovali, že on je ten, koho Bůh ustanovil soudcem živých i mrtvých.</verse>
+        <verse osisID='Acts.10.43'>Jemu vydávají svědectví všichni proroci: skrze jeho jméno přijme odpuštění hříchů každý, kdo v něj věří."</verse>
+        <verse osisID='Acts.10.44'>Ještě než to Petr dořekl, Duch svatý sestoupil na všechny, kdo poslouchali jeho řeč.</verse>
+        <verse osisID='Acts.10.45'>Obřezaní věřící, kteří přišli s Petrem, užasli, že dar Ducha svatého je vylit i na pohany.</verse>
+        <verse osisID='Acts.10.46'>Slyšeli je totiž, jak mluví v jiných jazycích a velebí Boha. Petr tehdy prohlásil:</verse>
+        <verse osisID='Acts.10.47'>"Copak jim někdo může odepřít křest vodou, když přijali Ducha svatého jako my?"</verse>
+        <verse osisID='Acts.10.48'>A tak je nechal pokřtít v Pánově jménu. Potom ho pozvali, aby s nimi pobyl ještě několik dní.</verse>
+      </chapter>
+      <chapter osisID='Acts.11'>
+        <verse osisID='Acts.11.1'>Apoštolové a ostatní bratři v Judsku se doslechli, že i pohané přijali Boží slovo.</verse>
+        <verse osisID='Acts.11.2'>Když Petr dorazil do Jeruzaléma, obřezaní věřící mu vytýkali:</verse>
+        <verse osisID='Acts.11.3'>"Šel jsi k neobřezancům a jedl jsi s nimi!"</verse>
+        <verse osisID='Acts.11.4'>Petr jim to začal po pořádku vysvětlovat:</verse>
+        <verse osisID='Acts.11.5'>"Jednou, když jsem se ve městě Joppe modlil, ve vytržení jsem spatřil vidění: z nebe se za čtyři cípy spouštělo něco jako veliká plachta. Když sestoupila až ke mně,</verse>
+        <verse osisID='Acts.11.6'>pozorně jsem se do ní podíval a spatřil jsem čtvernohá polní zvířata i šelmy, plazy a ptáky.</verse>
+        <verse osisID='Acts.11.7'>Tehdy jsem uslyšel hlas: ‚Vstaň, Petře, zabíjej a jez!'</verse>
+        <verse osisID='Acts.11.8'>Odpověděl jsem: ‚To ne, Pane! Nikdy jsem nevzal do úst nic nečistého nebo poskvrněného.'</verse>
+        <verse osisID='Acts.11.9'>Ten hlas z nebe ke mně ale promluvil znovu: ‚Co Bůh očistil, neměj za nečisté!'</verse>
+        <verse osisID='Acts.11.10'>Třikrát se to opakovalo, než to bylo všechno vytaženo zpátky do nebe.</verse>
+        <verse osisID='Acts.11.11'>Vtom se před domem, ve kterém jsem byl, objevili tři muži. Byli za mnou posláni z Cesareje</verse>
+        <verse osisID='Acts.11.12'>a Duch mi řekl, abych šel bez váhání s nimi. Doprovázelo mě těchto šest bratrů, s nimiž jsme vešli do domu toho muže.</verse>
+        <verse osisID='Acts.11.13'>Vyprávěl nám, jak ve svém domě uviděl anděla. Stanul před ním a řekl: ‚Pošli do Joppy a nech zavolat Šimona zvaného Petr.</verse>
+        <verse osisID='Acts.11.14'>Skrze to, co ti poví, budeš spasen ty i celý tvůj dům!'</verse>
+        <verse osisID='Acts.11.15'>A jen, co jsem k nim začal mluvit, sestoupil na ně Duch svatý stejně jako na počátku na nás.</verse>
+        <verse osisID='Acts.11.16'>Tehdy jsem si vzpomněl na Pánova slova: ‚Jan křtil vodou, ale vy budete pokřtěni Duchem svatým.'</verse>
+        <verse osisID='Acts.11.17'>Jestliže jim Bůh dal stejný dar jako nám, když uvěřili v Pána Ježíše Krista, kdo jsem byl já, abych bránil Bohu?"</verse>
+        <verse osisID='Acts.11.18'>Po těch slovech se upokojili a začali chválit Boha: "Tak tedy i pohanům dal Bůh pokání k životu!"</verse>
+        <verse osisID='Acts.11.19'>Ti, kdo se rozprchli během pronásledování po Štěpánově smrti, dorazili až do Fénicie, na Kypr a do Antiochie a šířili Boží slovo výhradně mezi Židy.</verse>
+        <verse osisID='Acts.11.20'>Někteří z nich, původem z Kypru a Kyrény, však po příchodu do Antiochie oslovili evangeliem o Pánu Ježíši také Řeky.</verse>
+        <verse osisID='Acts.11.21'>Hospodinova ruka byla s nimi a veliké množství jich uvěřilo a obrátilo se k Pánu.</verse>
+        <verse osisID='Acts.11.22'>Zpráva o tom se donesla k církvi v Jeruzalémě, a tak do Antiochie vyslali Barnabáše.</verse>
+        <verse osisID='Acts.11.23'>Když tam přišel a uviděl tu Boží milost, zaradoval se a všechny povzbuzoval, aby s oddaným srdcem zůstávali věrní Pánu.</verse>
+        <verse osisID='Acts.11.24'>(Byl to dobrý muž, plný Ducha svatého a víry.) A tak se k Pánu přidalo ještě mnoho dalších.</verse>
+        <verse osisID='Acts.11.25'>Barnabáš proto odešel do Tarsu vyhledat Saula,</verse>
+        <verse osisID='Acts.11.26'>a když ho našel, přivedl ho do Antiochie. Strávili v tamější církvi celý rok a učili spoustu lidí. Právě zde v Antiochii byli učedníci poprvé označeni za křesťany.</verse>
+        <verse osisID='Acts.11.27'>V té době přišli do Antiochie proroci z Jeruzaléma.</verse>
+        <verse osisID='Acts.11.28'>Jeden z nich jménem Agabos vstal a skrze Ducha oznamoval, že po celé říši bude veliký hlad. (Což se také splnilo za císaře Klaudia.)</verse>
+        <verse osisID='Acts.11.29'>Učedníci tedy rozhodli, že každý podle své možnosti pošle pomoc bratrům v Judsku.</verse>
+        <verse osisID='Acts.11.30'>To také udělali a poslali to starším po Barnabášovi a Saulovi.</verse>
+      </chapter>
+      <chapter osisID='Acts.12'>
+        <verse osisID='Acts.12.1'>V té době král Herodes krutě napadl některé z těch, kdo patřili k církvi.</verse>
+        <verse osisID='Acts.12.2'>Jakuba, bratra Janova, popravil mečem,</verse>
+        <verse osisID='Acts.12.3'>a když viděl, že se to Židům líbí, rozhodl se zatknout i Petra. (Bylo to během Svátku nekvašených chlebů.)</verse>
+        <verse osisID='Acts.12.4'>Když se ho zmocnil, dal ho zavřít do vězení a hlídat čtyřmi čtveřicemi vojáků. Po Velikonocích ho totiž chtěl předvést k veřejnému slyšení.</verse>
+        <verse osisID='Acts.12.5'>Petr byl takto hlídán ve vězení, ale církev se za něj vroucně modlila k Bohu.</verse>
+        <verse osisID='Acts.12.6'>Noc předtím, než ho chtěl Herodes předvést, spal Petr mezi dvěma vojáky, spoután dvěma řetězy, a stráže přede dveřmi hlídaly vězení.</verse>
+        <verse osisID='Acts.12.7'>Vtom vedle něj stanul Hospodinův anděl a v cele zazářilo světlo. Udeřil Petra do boku a vzbudil ho: "Rychle vstávej!" Řetězy mu spadly z rukou</verse>
+        <verse osisID='Acts.12.8'>a anděl mu řekl: "Oblékni se a obuj." Když to udělal, anděl pokračoval: "Vezmi si plášť a pojď za mnou."</verse>
+        <verse osisID='Acts.12.9'>Petr ho následoval ven, ale nevěděl, že to s tím andělem je doopravdy; myslel si, že má vidění.</verse>
+        <verse osisID='Acts.12.10'>Když minuli první i druhou stráž, přišli k železné bráně, která vedla do města, a ta se jim sama od sebe otevřela. Vyšli ven, přešli jednu ulici a vtom jej anděl opustil.</verse>
+        <verse osisID='Acts.12.11'>Když Petr přišel k sobě, řekl si: "Teď vidím, že to bylo doopravdy! Pán poslal svého anděla a vytrhl mě z Herodovy ruky a ze všeho, co židovský lid očekával."</verse>
+        <verse osisID='Acts.12.12'>Když to pochopil, šel do domu Marie, matky Jana Marka, kam se mnozí sešli k modlitbám.</verse>
+        <verse osisID='Acts.12.13'>Petr zatloukl na dveře brány a přišla otevřít služka jménem Rhodé.</verse>
+        <verse osisID='Acts.12.14'>Když poznala Petrův hlas, samou radostí neotevřela bránu, ale běžela dovnitř se zprávou, že Petr stojí před branou.</verse>
+        <verse osisID='Acts.12.15'>Říkali jí: "Blázníš?!" Když ale tvrdila, že je to pravda, řekli: "To musí být jeho anděl."</verse>
+        <verse osisID='Acts.12.16'>Petr však nepřestával tlouci. Když konečně otevřeli a spatřili ho, byli ohromeni.</verse>
+        <verse osisID='Acts.12.17'>Pohybem ruky je utišil a vyprávěl jim, jak ho Pán vyvedl z vězení. Potom řekl: "Povězte to Jakubovi a bratrům." Vyšel ven a zamířil jinam.</verse>
+        <verse osisID='Acts.12.18'>Když se rozednilo, mezi vojáky vypukl nemalý rozruch nad tím, co se stalo s Petrem.</verse>
+        <verse osisID='Acts.12.19'>Herodes ho marně hledal. Stráže nechal po výslechu popravit a odebral se z Judska do Cesareje, kde zůstal.</verse>
+        <verse osisID='Acts.12.20'>Herodes se tehdy velmi hněval na Týrské a Sidonské. Proto se za ním svorně vypravili, a když si získali královského komořího Blasta, žádali o smír (jejich kraj byl totiž závislý na dodávkách z králova území).</verse>
+        <verse osisID='Acts.12.21'>Ve stanovený den se Herodes v královském rouše posadil na trůn a pronesl k nim řeč.</verse>
+        <verse osisID='Acts.12.22'>Lid začal volat: "Hlas boží, ne lidský!"</verse>
+        <verse osisID='Acts.12.23'>A vtom jej udeřil Hospodinův anděl, protože nevzdal slávu Bohu: vypustil duši rozežrán červy.</verse>
+        <verse osisID='Acts.12.24'>Boží slovo se pak šířilo a rozmáhalo se.</verse>
+        <verse osisID='Acts.12.25'>Když Barnabáš a Saul splnili svůj úkol, vrátili se z Jeruzaléma a vzali s sebou i Jana Marka.</verse>
+      </chapter>
+      <chapter osisID='Acts.13'>
+        <verse osisID='Acts.13.1'>V antiochijské církvi byli proroci a učitelé: Barnabáš, Šimon zvaný Černý, Lucius Kyrénský, Menachem, vychovaný společně s tetrarchou Herodem, a Saul.</verse>
+        <verse osisID='Acts.13.2'>Jednou, když uctívali Pána a postili se, Duch svatý řekl: "Oddělte mi Saula a Barnabáše pro dílo, k němuž jsem je povolal."</verse>
+        <verse osisID='Acts.13.3'>Po půstu a modlitbě na ně tedy vložili ruce a propustili je.</verse>
+        <verse osisID='Acts.13.4'>Oni pak, vysláni Duchem svatým, přišli do Seleukie, odkud odpluli na Kypr.</verse>
+        <verse osisID='Acts.13.5'>Když dorazili do Salaminy, kázali Boží slovo v židovských synagogách; také Jan byl s nimi, aby jim pomáhal.</verse>
+        <verse osisID='Acts.13.6'>Procestovali ten ostrov až do Páfu, kde narazili na jednoho čaroděje, židovského falešného proroka jménem Bar-Jesus,</verse>
+        <verse osisID='Acts.13.7'>který se vetřel do přízně místního prokonzula Sergia Pavla. Tento rozumný muž si Barnabáše a Saula nechal zavolat, protože toužil slyšet Boží slovo.</verse>
+        <verse osisID='Acts.13.8'>Onen Elymas (neboli čaroděj, jak se jeho jméno překládá) jim však odporoval a snažil se prokonzulovi zabránit ve víře.</verse>
+        <verse osisID='Acts.13.9'>Saula, zvaného také Pavel, naplnil Duch svatý. Podíval se mu zpříma do očí</verse>
+        <verse osisID='Acts.13.10'>a řekl: "Ty ďáblův synu plný přetvářky a podlosti! Ty nepříteli vší spravedlnosti! Nepřestaneš podvracet Hospodinovy přímé cesty?</verse>
+        <verse osisID='Acts.13.11'>Hle, ruka Hospodinova tě teď raní slepotou! Bude to trvat, než zase uvidíš slunce!" Vtom na Elymase padla temná mlha, takže tápal kolem sebe a hledal, kdo by ho vedl za ruku.</verse>
+        <verse osisID='Acts.13.12'>Když prokonzul uviděl, co se stalo, uvěřil, ohromen Pánovým učením.</verse>
+        <verse osisID='Acts.13.13'>Pavel a jeho společníci pak odpluli z Páfu a dorazili do Perge v Pamfylii. Jan je však opustil a vrátil se do Jeruzaléma.</verse>
+        <verse osisID='Acts.13.14'>Pokračovali tedy z Perge sami, až dorazili do Antiochie Pisidské. V sobotu šli do synagogy a posadili se.</verse>
+        <verse osisID='Acts.13.15'>Když skončilo čtení Zákona a Proroků, představení synagogy je vyzvali: "Bratři, pokud máte pro lid nějaké slovo povzbuzení, mluvte."</verse>
+        <verse osisID='Acts.13.16'>Pavel vstal, pokynul rukou a řekl: "Izraelité a všichni Boží ctitelé, slyšte:</verse>
+        <verse osisID='Acts.13.17'>Bůh tohoto lidu, Izraele, vyvolil naše otce. Pozdvihl tento lid, když pobýval v Egyptě, a vyvedl jej odtud svou vztaženou paží.</verse>
+        <verse osisID='Acts.13.18'>Po čtyřicet let snášel jejich způsoby na poušti,</verse>
+        <verse osisID='Acts.13.19'>a když vyhladil sedm národů v zemi Kanaán, rozdělil jim jejich zem losem.</verse>
+        <verse osisID='Acts.13.20'>To vše trvalo asi čtyři sta padesát let. Až do proroka Samuele jim dával soudce.</verse>
+        <verse osisID='Acts.13.21'>Když pak žádali o krále, Bůh jim dal Saula, syna Kíšova, muže z pokolení Benjamínova. Po čtyřiceti letech</verse>
+        <verse osisID='Acts.13.22'>jej však zavrhl a pozdvihl jim za krále Davida, o němž vydal toto svědectví: ‚Našel jsem Davida, syna Jišajova, muže podle mého srdce; on mi vyplní všechna přání.'</verse>
+        <verse osisID='Acts.13.23'>Z jeho semene Bůh vzbudil Izraeli zaslíbeného Spasitele - Ježíše,</verse>
+        <verse osisID='Acts.13.24'>před jehož příchodem kázal Jan všemu lidu Izraele křest pokání.</verse>
+        <verse osisID='Acts.13.25'>Ke konci své cesty Jan říkal: ‚Já nejsem ten, za koho mě pokládáte - hle, on přichází po mně! Jemu nejsem hoden ani rozvázat obuv na nohou.'</verse>
+        <verse osisID='Acts.13.26'>Bratři, synové rodu Abrahamova, i vy, kdo ctíte Boha spolu s nimi, vám bylo posláno toto slovo spásy.</verse>
+        <verse osisID='Acts.13.27'>Obyvatelé Jeruzaléma ani jejich vůdcové ho však nepoznali. Odsoudili ho, a tak naplnili hlasy Proroků, kteří se čtou každou sobotu.</verse>
+        <verse osisID='Acts.13.28'>Ačkoli nenašli nic, za co by zasloužil smrt, vyžádali si na Pilátovi jeho popravu.</verse>
+        <verse osisID='Acts.13.29'>Když naplnili všechno, co o něm bylo psáno, sňali jej z kříže a položili do hrobu.</verse>
+        <verse osisID='Acts.13.30'>Bůh jej ale vzkřísil z mrtvých!</verse>
+        <verse osisID='Acts.13.31'>On se pak po mnoho dní ukazoval těm, kdo s ním přišli z Galileje do Jeruzaléma, a ti teď o něm vydávají svědectví lidem.</verse>
+        <verse osisID='Acts.13.32'>Přinášíme vám tedy radostnou zprávu: Zaslíbení daná našim otcům</verse>
+        <verse osisID='Acts.13.33'>Bůh splnil nám, jejich potomkům, když vzkřísil Ježíše. Tak je to popsáno ve druhém Žalmu: ‚Ty jsi můj Syn, já jsem ode dneška Otcem tvým!'</verse>
+        <verse osisID='Acts.13.34'>A že ho vzkřísil z mrtvých, aby nikdy nepodlehl zkáze, řekl takto: ‚Dám vám svatá zaslíbení učiněná Davidovi.'</verse>
+        <verse osisID='Acts.13.35'>Proto na jiném místě říká: ‚Svého svatého nevydáš rozkladu.'</verse>
+        <verse osisID='Acts.13.36'>David ve svém pokolení zajisté posloužil Boží vůli. Když však zesnul a byl připojen ke svým otcům, podlehl rozkladu.</verse>
+        <verse osisID='Acts.13.37'>Ten, kterého Bůh vzkřísil, však rozklad nepoznal.</verse>
+        <verse osisID='Acts.13.38'>Bratři, oznamuji vám, že skrze něj se vám zvěstuje odpuštění hříchů.</verse>
+        <verse osisID='Acts.13.39'>Skrze něj je každý věřící ospravedlněn od všeho, od čeho vás Mojžíšův zákon ospravedlnit nemohl.</verse>
+        <verse osisID='Acts.13.40'>Dejte si však pozor, aby se vám nestalo, co je psáno v Prorocích:</verse>
+        <verse osisID='Acts.13.41'>‚Pohleďte, pohrdavci, podivte se a zhyňte: Já konám dílo ve vaší době, dílo, jemuž neuvěříte, i kdyby vám o něm někdo vyprávěl!'"</verse>
+        <verse osisID='Acts.13.42'>Když pak odcházeli ze synagogy, místní pohané je prosili, aby jim o těch věcech vyprávěli příští sobotu.</verse>
+        <verse osisID='Acts.13.43'>Jakmile bylo shromáždění rozpuštěno, mnozí Židé i zbožní proselyté šli za Pavlem a Barnabášem. Ti je pak v rozhovoru nabádali, ať zůstávají v Boží milosti.</verse>
+        <verse osisID='Acts.13.44'>Příští sobotu se ke slyšení Božího slova sešlo skoro celé město.</verse>
+        <verse osisID='Acts.13.45'>Když Židé uviděli ty davy, naplnila je závist a začali rouhavě popírat, cokoli Pavel řekl.</verse>
+        <verse osisID='Acts.13.46'>Pavel a Barnabáš jim směle odpověděli: "Vy jste měli Boží slovo slyšet jako první. Protože ho však odmítáte, a považujete se tak za nehodné věčného života, hle, obracíme se k pohanům!</verse>
+        <verse osisID='Acts.13.47'>Tak nám to totiž přikázal Hospodin: ‚Učinil jsem tě světlem národů, abys dal spásu celému světu.'"</verse>
+        <verse osisID='Acts.13.48'>Když to pohané uslyšeli, začali se radovat a oslavovat Pánovo slovo a všichni, kdo byli předurčeni k věčnému životu, uvěřili.</verse>
+        <verse osisID='Acts.13.49'>Pánovo slovo se pak šířilo po celém kraji.</verse>
+        <verse osisID='Acts.13.50'>Židovští vůdci ale poštvali bohabojné a vážené ženy i přední muže města, aby proti Pavlovi a Barnabášovi rozpoutali pronásledování a vyhnali je ze svého kraje.</verse>
+        <verse osisID='Acts.13.51'>Ti však na ně setřásli prach z nohou a přišli do Ikonia.</verse>
+        <verse osisID='Acts.13.52'>Učedníci pak byli plní radosti a Ducha svatého.</verse>
+      </chapter>
+      <chapter osisID='Acts.14'>
+        <verse osisID='Acts.14.1'>Také v Ikoniu šli do židovské synagogy a mluvili tak, že uvěřilo veliké množství Židů i Řeků.</verse>
+        <verse osisID='Acts.14.2'>Ti Židé, kteří neuvěřili, ale podnítili pohany a poštvali je proti bratrům.</verse>
+        <verse osisID='Acts.14.3'>Přesto tam strávili dlouhý čas a směle mluvili o Pánu, který potvrzoval poselství o své milosti a působil skrze jejich ruce divy a zázraky.</verse>
+        <verse osisID='Acts.14.4'>Obyvatelstvo města se rozdělilo: jedni byli s Židy a druzí s apoštoly.</verse>
+        <verse osisID='Acts.14.5'>Když se je však pohané i Židé se svými vůdci rozhodli napadnout a kamenovat,</verse>
+        <verse osisID='Acts.14.6'>dozvěděli se to a utekli do lykaonských měst Lystry a Derbe a jejich okolí.</verse>
+        <verse osisID='Acts.14.7'>I tam šířili evangelium.</verse>
+        <verse osisID='Acts.14.8'>V Lystře sedával jeden muž. Nemohl na nohy, neboť byl od lůna své matky chromý a nikdy nechodil.</verse>
+        <verse osisID='Acts.14.9'>Také on naslouchal Pavlovým slovům. Když se mu Pavel podíval do očí a viděl jeho víru, že bude uzdraven,</verse>
+        <verse osisID='Acts.14.10'>řekl silným hlasem: "Postav se na nohy a stůj rovně!" A on vyskočil a začal chodit.</verse>
+        <verse osisID='Acts.14.11'>Když lidé viděli, co Pavel udělal, začali lykaonsky volat: "Bohové sestoupili k nám v lidské podobě!"</verse>
+        <verse osisID='Acts.14.12'>Barnabášovi začali říkat Zeus a Pavlovi Hermes (protože mluvil hlavně on).</verse>
+        <verse osisID='Acts.14.13'>Kněz Diova chrámu, který stál před městem, přivedl k branám ověnčené býky a chtěl s lidmi začít obětovat.</verse>
+        <verse osisID='Acts.14.14'>Jakmile to apoštolové Barnabáš a Pavel uslyšeli, roztrhli svá roucha, vběhli do davu a křičeli:</verse>
+        <verse osisID='Acts.14.15'>"Co to děláte? Vždyť jsme jen lidé jako vy! Přišli jsme vám zvěstovat, abyste se obrátili od těchto marností k živému Bohu, který stvořil nebe, zemi i moře a všechno v nich.</verse>
+        <verse osisID='Acts.14.16'>V minulých dobách nechával všechny národy chodit po jejich cestách,</verse>
+        <verse osisID='Acts.14.17'>ale nikdy o sobě nepřestal svědčit svým dobrodiním: z nebe nám dává déšť i časy úrody a naše nitro sytí jídlem a radostí."</verse>
+        <verse osisID='Acts.14.18'>A těmi slovy taktak upokojili davy, aby jim neobětovaly.</verse>
+        <verse osisID='Acts.14.19'>Vtom ale dorazili Židé z Antiochie a Ikonia a strhli davy k tomu, aby Pavla ukamenovali. Když už ho měli za mrtvého, vyvlekli ho za město.</verse>
+        <verse osisID='Acts.14.20'>Když ho však obstoupili učedníci, vstal a vrátil se do města. Druhého dne pak s Barnabášem odešel do Derbe.</verse>
+        <verse osisID='Acts.14.21'>I tomuto městu zvěstovali evangelium. Poté, co tu získali mnoho učedníků, vydali se na zpáteční cestu do Lystry, Ikonia a Antiochie.</verse>
+        <verse osisID='Acts.14.22'>Posilovali duše učedníků a vyzývali je, aby zůstávali ve víře a že do Božího království musíme vejít skrze mnohá soužení.</verse>
+        <verse osisID='Acts.14.23'>V každé církvi jim s modlitbou a postem vybrali starší a svěřili je Pánu, v něhož uvěřili.</verse>
+        <verse osisID='Acts.14.24'>Prošli Pisidii a přišli do Pamfylie.</verse>
+        <verse osisID='Acts.14.25'>Poté, co kázali slovo v Perge, odešli do Attalie</verse>
+        <verse osisID='Acts.14.26'>a odtud vypluli do Antiochie, odkud byli předtím svěřeni Boží milosti k dílu, které nyní vykonali.</verse>
+        <verse osisID='Acts.14.27'>Když tam dorazili, shromáždili církev a vyprávěli, co všechno Bůh skrze ně učinil a že otevřel dveře víry pohanům.</verse>
+        <verse osisID='Acts.14.28'>Zůstali tam s učedníky po delší čas.</verse>
+      </chapter>
+      <chapter osisID='Acts.15'>
+        <verse osisID='Acts.15.1'>Potom přišli někteří z Judska a začali bratry učit: "Pokud se nedáte obřezat podle Mojžíšova způsobu, nemůžete být spaseni."</verse>
+        <verse osisID='Acts.15.2'>Pavel a Barnabáš s nimi proto vedli nemalý spor a hádku, a tak bylo rozhodnuto, že Pavel, Barnabáš a někteří další půjdou s touto otázkou za apoštoly a staršími do Jeruzaléma.</verse>
+        <verse osisID='Acts.15.3'>Vysláni církví tedy procházeli Fénicií a Samařím a vyprávěli o obrácení pohanů a přinášeli všem bratrům velikou radost.</verse>
+        <verse osisID='Acts.15.4'>Když dorazili do Jeruzaléma, byli přijati církví, apoštoly i staršími a vyprávěli jim, co skrze ně Bůh udělal.</verse>
+        <verse osisID='Acts.15.5'>Povstali však někteří věřící ze sekty farizeů a říkali, že pohané se musí obřezávat a že se jim má přikázat, ať zachovávají Mojžíšův zákon.</verse>
+        <verse osisID='Acts.15.6'>Apoštolové a starší se tedy sešli, aby tu věc zvážili.</verse>
+        <verse osisID='Acts.15.7'>Po velikém dohadování vstal Petr a promluvil k nim: "Bratři! Sami víte, že Bůh z nás už dávno vybral mě, aby pohané slyšeli slovo evangelia z mých úst a uvěřili.</verse>
+        <verse osisID='Acts.15.8'>Bůh, který zná lidská srdce, jim tehdy vydal svědectví, když jim dal Ducha svatého tak jako nám.</verse>
+        <verse osisID='Acts.15.9'>Vírou očistil jejich srdce a neučinil žádný rozdíl mezi námi a jimi.</verse>
+        <verse osisID='Acts.15.10'>Proč tedy teď pokoušíte Boha? Proč nakládáte učedníkům jho, které nemohli unést ani naši otcové ani my?</verse>
+        <verse osisID='Acts.15.11'>Věříme přece, že jsme stejně jako oni spaseni milostí Pána Ježíše."</verse>
+        <verse osisID='Acts.15.12'>Celé shromáždění zmlklo a poslouchali Barnabáše a Pavla, kteří vyprávěli, jaké divy a zázraky skrze ně Bůh konal mezi pohany.</verse>
+        <verse osisID='Acts.15.13'>Když domluvili, vzal si slovo Jakub: "Poslouchejte mě, bratři.</verse>
+        <verse osisID='Acts.15.14'>Šimon tu vyprávěl, jak Bůh poprvé navštívil pohany, aby z nich přijal svůj vlastní lid.</verse>
+        <verse osisID='Acts.15.15'>S tím se plně shodují slova proroků, neboť je psáno:</verse>
+        <verse osisID='Acts.15.16'>‚Znovu se vrátím a obnovím zbořený stan Davidův. Jeho trosky obnovím a vztyčím jej,</verse>
+        <verse osisID='Acts.15.17'>aby ostatní lidé hledali Hospodina - všichni pohané mé jméno nesoucí, praví Hospodin, který činí tyto věci,'</verse>
+        <verse osisID='Acts.15.18'>věci, které oznamoval už před věky.</verse>
+        <verse osisID='Acts.15.19'>Proto soudím, abychom pohanům, kteří se obracejí k Bohu, nečinili potíže.</verse>
+        <verse osisID='Acts.15.20'>Napišme jim však, ať se vyhýbají modloslužbě, smilstvu, masu zardoušených zvířat a krvi.</verse>
+        <verse osisID='Acts.15.21'>Mojžíš má přece odedávna kazatele po všech městech, kde ho čtou v synagogách každou sobotu."</verse>
+        <verse osisID='Acts.15.22'>Apoštolové a starší se shodli s celou církví, že do Antiochie pošlou s Pavlem a Barnabášem své zástupce. Byli to přední bratři Juda (zvaný také Barsabáš) a Silas.</verse>
+        <verse osisID='Acts.15.23'>Po nich poslali tento dopis: Apoštolové, starší a všichni bratři zdraví bratry z pohanů v Antiochii, Sýrii a Kilikii.</verse>
+        <verse osisID='Acts.15.24'>Slyšeli jsme, že vás někteří od nás znepokojili a zmátli, když vám říkali, že se musíte dát obřezat a zachovávat Zákon. K ničemu takovému jsme je nepověřili.</verse>
+        <verse osisID='Acts.15.25'>My shromáždění jsme se svorně shodli, že k vám pošleme své zástupce spolu s našimi milovanými Barnabášem a Pavlem,</verse>
+        <verse osisID='Acts.15.26'>kteří pro jméno našeho Pána Ježíše Krista nasadili své životy.</verse>
+        <verse osisID='Acts.15.27'>Posíláme k vám Judu a Silase, kteří vám to vše ústně potvrdí:</verse>
+        <verse osisID='Acts.15.28'>Shodli jsme se s Duchem svatým, že na vás nebudeme vkládat žádné další břemeno kromě těchto nezbytných věcí:</verse>
+        <verse osisID='Acts.15.29'>vyhýbejte se modloslužbě, krvi, masu zardoušených zvířat a smilstvu. Uchráníte-li se těchto věcí, uděláte dobře. Buďte zdrávi.</verse>
+        <verse osisID='Acts.15.30'>Vysláni na cestu přišli do Antiochie, svolali shromáždění a předali dopis.</verse>
+        <verse osisID='Acts.15.31'>Bratři ho přečetli a měli z toho povzbuzení radost.</verse>
+        <verse osisID='Acts.15.32'>Juda se Silasem (kteří byli také proroci) pak mnoha slovy povzbuzovali a posilovali bratry.</verse>
+        <verse osisID='Acts.15.33'>[34] A když tam strávili nějaký čas, bratři je v pokoji vyslali zpět k apoštolům.</verse>
+        <verse osisID='Acts.15.35'>Pavel a Barnabáš zůstali v Antiochii také a spolu s mnoha dalšími vyučovali a kázali Pánovo slovo.</verse>
+        <verse osisID='Acts.15.36'>Po nějaké době Pavel řekl Barnabášovi: "Pojďme se vrátit a navštívit naše bratry ve všech městech, kde jsme kázali Pánovo slovo, ať zjistíme, jak se mají."</verse>
+        <verse osisID='Acts.15.37'>Barnabáš chtěl, aby s sebou vzali i Jana Marka,</verse>
+        <verse osisID='Acts.15.38'>ale Pavlovi se to nezdálo, protože je v Pamfylii opustil a nešel s nimi do díla.</verse>
+        <verse osisID='Acts.15.39'>Vznikl z toho tak ostrý spor, že se spolu rozešli. Barnabáš vzal s sebou Marka a odplul na Kypr,</verse>
+        <verse osisID='Acts.15.40'>kdežto Pavel si vybral Silase, a když ho bratři svěřili Boží milosti, vydal se na cestu.</verse>
+        <verse osisID='Acts.15.41'>Procházel Sýrii a Kilikii a posiloval církve.</verse>
+      </chapter>
+      <chapter osisID='Acts.16'>
+        <verse osisID='Acts.16.1'>Přišel do Derbe a Lystry a hle, byl tu jeden učedník jménem Timoteus, syn věřící Židovky a řeckého otce.</verse>
+        <verse osisID='Acts.16.2'>Bratři v Lystře a Ikoniu ho velmi chválili,</verse>
+        <verse osisID='Acts.16.3'>a tak se Pavel rozhodl, že ho vezme s sebou na cesty. Vzal ho tedy a kvůli tamějším Židům ho obřezal. (Všichni totiž věděli, že jeho otec byl Řek.)</verse>
+        <verse osisID='Acts.16.4'>Když pak procházeli města, předávali jim závazná rozhodnutí, na nichž se usnesli apoštolové a starší v Jeruzalémě.</verse>
+        <verse osisID='Acts.16.5'>Církve pak sílily ve víře a rostly v počtu každý den.</verse>
+        <verse osisID='Acts.16.6'>Procestovali Frygii a Galacii, protože jim Duch svatý zabránil kázat Slovo v Asii.</verse>
+        <verse osisID='Acts.16.7'>Když se přiblížili k Mysii, pokoušeli se jít do Bitynie, ale Duch Ježíšův jim to nedovolil.</verse>
+        <verse osisID='Acts.16.8'>Obešli tedy Mysii a dorazili do Troady.</verse>
+        <verse osisID='Acts.16.9'>Tam měl Pavel v noci vidění. Stál před ním nějaký Makedonec a prosil ho: "Přijď do Makedonie a pomoz nám!"</verse>
+        <verse osisID='Acts.16.10'>Jakmile Pavel přijal to vidění, ihned jsme se rozhodli vyrazit do Makedonie, přesvědčeni, že nás Bůh povolal, abychom jim kázali evangelium.</verse>
+        <verse osisID='Acts.16.11'>Vypluli jsme z Troady, vydali se přímým směrem k Samothráké a příštího dne jsme dorazili do Neapole.</verse>
+        <verse osisID='Acts.16.12'>Odtud jsme odešli do Filip, které jsou předním městem té části Makedonie a římskou kolonií. Poté, co jsme ve městě strávili několik dní,</verse>
+        <verse osisID='Acts.16.13'>vyšli jsme v sobotu za město k řece, kde bylo zvykem se modlit. Posadili jsme se tam a mluvili k ženám, které se tam shromáždily.</verse>
+        <verse osisID='Acts.16.14'>Naslouchala nám také jedna bohabojná žena jménem Lydie, obchodnice s purpurem z města Thyatir. Pán jí otevřel srdce, aby přijala, co Pavel říkal,</verse>
+        <verse osisID='Acts.16.15'>a tak se i s celou domácností nechala pokřtít. Potom nás prosila: "Pokud mě máte za věrnou Pánu, buďte hosty v mém domě." A tak nás přemluvila.</verse>
+        <verse osisID='Acts.16.16'>Jednou, když jsme se šli modlit, potkala nás jedna otrokyně, která měla věšteckého ducha a přinášela svým pánům veliké zisky předpovídáním budoucnosti.</verse>
+        <verse osisID='Acts.16.17'>Začala za Pavlem a za námi chodit a vykřikovala: "Tito lidé jsou služebníci Nejvyššího Boha! Ohlašují vám cestu spásy!"</verse>
+        <verse osisID='Acts.16.18'>Když to trvalo mnoho dní, Pavel to už nemohl snést, a tak se obrátil a řekl tomu duchu: "Přikazuji ti ve jménu Ježíše Krista, vyjdi z ní!" V tu chvíli byl pryč.</verse>
+        <verse osisID='Acts.16.19'>Když její páni uviděli, že jejich naděje na další zisk je pryč, chopili se Pavla a Silase a táhli je na náměstí před úřad.</verse>
+        <verse osisID='Acts.16.20'>Přivedli je k městským správcům a řekli: "Tito lidé bouří naše město! Jakožto Židé</verse>
+        <verse osisID='Acts.16.21'>hlásají zvyky, které jsou pro nás Římany nepřijatelné a nepřípustné!"</verse>
+        <verse osisID='Acts.16.22'>A když se proti nim postavil i srocený dav, úředníci jim strhali šaty a nařídili, ať jsou zbiti holemi.</verse>
+        <verse osisID='Acts.16.23'>Po mnoha ranách je vsadili do vězení a žalářníkovi přikázali, aby je přísně hlídal.</verse>
+        <verse osisID='Acts.16.24'>Ten je podle rozkazu vsadil do nejhlubší cely a nohy jim sevřel kládou.</verse>
+        <verse osisID='Acts.16.25'>Kolem půlnoci se Pavel a Silas modlili a zpívali chvály Bohu a vězňové jim naslouchali.</verse>
+        <verse osisID='Acts.16.26'>Vtom nastalo tak veliké zemětřesení, že se vězení otřáslo v základech. Všechny dveře se hned otevřely a všem spadly okovy.</verse>
+        <verse osisID='Acts.16.27'>Žalářník se probudil, a když uviděl dveře vězení otevřené, vytáhl meč a chtěl se zabít v domnění, že vězňové utekli.</verse>
+        <verse osisID='Acts.16.28'>Pavel však hlasitě vykřikl: "Neubližuj si! Všichni jsme tu!"</verse>
+        <verse osisID='Acts.16.29'>Žalářník si řekl o světlo, vběhl dovnitř a rozechvěn padl před Pavlem a Silasem na kolena.</verse>
+        <verse osisID='Acts.16.30'>Pak je vyvedl ven a ptal se: "Pánové, co mám dělat, abych byl spasen?"</verse>
+        <verse osisID='Acts.16.31'>Odpověděli: "Věř v Pána Ježíše, a budeš spasen ty i tvůj dům!"</verse>
+        <verse osisID='Acts.16.32'>Potom přinesli Pánovo slovo jemu i všem u něj doma.</verse>
+        <verse osisID='Acts.16.33'>(Ještě v tu noční hodinu je totiž vzal k sobě, aby jim omyl rány.) Hned nato se dal s celou svou domácností pokřtít.</verse>
+        <verse osisID='Acts.16.34'>Uvedl je do svého domu, prostřel stůl a radoval se, že s celou domácností uvěřil Bohu.</verse>
+        <verse osisID='Acts.16.35'>Když se rozednilo, poslali městští správci biřice se vzkazem: "Propusť ty lidi!"</verse>
+        <verse osisID='Acts.16.36'>Žalářník tedy Pavlovi řekl: "Správci vzkázali, že máte být propuštěni. Pojďte ven a odejděte v pokoji."</verse>
+        <verse osisID='Acts.16.37'>Pavel však odpověděl: "Zbili nás veřejně. Potom nás, římské občany, bez soudu vsadili do vězení - a teď nás chtějí vyhnat potají? To tedy ne! Ať přijdou a vyvedou nás sami!"</verse>
+        <verse osisID='Acts.16.38'>Biřicové to šli vyřídit městským správcům. Když uslyšeli, že to jsou římští občané, polekali se</verse>
+        <verse osisID='Acts.16.39'>a šli je prosit za odpuštění. Vyvedli je ven a prosili je, ať opustí město.</verse>
+        <verse osisID='Acts.16.40'>Pavel a Silas tedy vyšli z vězení, přišli k Lydii, kde se uviděli s bratry, povzbudili je a odešli.</verse>
+      </chapter>
+      <chapter osisID='Acts.17'>
+        <verse osisID='Acts.17.1'>Přes Amfipolis a Apolonii pak přišli do Tesaloniky, kde byla židovská synagoga.</verse>
+        <verse osisID='Acts.17.2'>Pavel tam podle svého zvyku šel a po tři soboty k nim promlouval z Písem.</verse>
+        <verse osisID='Acts.17.3'>Vysvětloval a dokazoval jim, že Mesiáš musel trpět a vstát z mrtvých a že "toto je Mesiáš: Ježíš, kterého vám kážu!"</verse>
+        <verse osisID='Acts.17.4'>Někteří z nich se dali přesvědčit a připojili se k Pavlovi a Silasovi, stejně jako veliké množství bohabojných Řeků i nemálo předních žen.</verse>
+        <verse osisID='Acts.17.5'>Ostatních Židů se ale zmocnila žárlivost. Sehnali nějaké pouliční povaleče, vyvolali srocení davu, vzbouřili město a přitáhli k Jásonovu domu. Hledali tam Pavla a Silase, aby je mohli odvést před lidový soud.</verse>
+        <verse osisID='Acts.17.6'>Když je však nenašli, odvlekli Jásona a některé bratry k městským radním s křikem: "Tito lidé rozvracejí celý svět! Teď přišli sem</verse>
+        <verse osisID='Acts.17.7'>a Jáson je přijal! Ti všichni porušují císařské nařízení, protože se hlásí k jinému králi - Ježíšovi!"</verse>
+        <verse osisID='Acts.17.8'>Ta slova dav i městské radní vylekala.</verse>
+        <verse osisID='Acts.17.9'>Když ale Jáson a ostatní složili záruku, propustili je.</verse>
+        <verse osisID='Acts.17.10'>Bratři pak hned v noci vyslali Pavla i Silase do Beroje. Také tam po svém příchodu navštívili židovskou synagogu.</verse>
+        <verse osisID='Acts.17.11'>Tito Židé však byli ušlechtilejší než tesaloničtí. Přijali Slovo s velikou dychtivostí a každý den zkoumali Písma, zda je to všechno opravdu tak.</verse>
+        <verse osisID='Acts.17.12'>Mnozí z nich pak uvěřili, stejně jako nemálo vážených řeckých žen a mužů.</verse>
+        <verse osisID='Acts.17.13'>Když se ale Židé z Tesaloniky dozvěděli, že Pavel káže Boží slovo i v Beroji, přišli také tam a začali podněcovat a bouřit davy.</verse>
+        <verse osisID='Acts.17.14'>Bratři proto Pavla hned poslali k moři, ale Silas a Timoteus tam zůstali.</verse>
+        <verse osisID='Acts.17.15'>Ti, kdo Pavla doprovázeli, ho dovedli až do Athén. Odtud se vrátili se vzkazem pro Silase a Timotea, aby co nejrychleji přišli za Pavlem.</verse>
+        <verse osisID='Acts.17.16'>Když na ně Pavel čekal v Athénách a viděl, jak je to město plné model, jeho duch se bouřil.</verse>
+        <verse osisID='Acts.17.17'>Diskutoval tedy s Židy i bohabojnými Řeky v synagoze a každý den také s lidmi, které potkával na náměstí.</verse>
+        <verse osisID='Acts.17.18'>Debatovali s ním rovněž někteří epikurejští a stoičtí filosofové. Jedni říkali: "Co nám chce ten žvanil povídat?" a jiní: "Zdá se být zvěstovatelem cizích božstev!" (Kázal jim totiž Ježíše a vzkříšení z mrtvých.)</verse>
+        <verse osisID='Acts.17.19'>Chopili se ho a vyvedli na Areopag se slovy: "Mohli bychom vědět, jaké nové učení to hlásáš?</verse>
+        <verse osisID='Acts.17.20'>Zní nám to nějak zvláštně, a tak chceme vědět, co to má být."</verse>
+        <verse osisID='Acts.17.21'>(Všichni Athéňané i cizinci, kteří tam pobývali, se totiž nezabývali ničím jiným, než aby říkali nebo poslouchali něco nového.)</verse>
+        <verse osisID='Acts.17.22'>Pavel se postavil doprostřed Areopagu a řekl: "Athéňané, vidím, že jste v každém ohledu velmi nábožní lidé.</verse>
+        <verse osisID='Acts.17.23'>Když jsem se tu procházel a pozoroval vaše náboženství, našel jsem také oltář, na němž je napsáno: NEZNÁMÉMU BOHU. Nuže, koho ctíte, aniž ho znáte, toho vám zvěstuji.</verse>
+        <verse osisID='Acts.17.24'>Bůh, který stvořil svět i všechno v něm, je Pánem nebe i země. Nebydlí v chrámech udělaných rukama</verse>
+        <verse osisID='Acts.17.25'>ani si nedává lidskýma rukama sloužit, jako by něco potřeboval, protože sám všem dává život i dech a všechno.</verse>
+        <verse osisID='Acts.17.26'>Z jednoho člověka učinil celé lidstvo, aby žilo na celém zemském povrchu. Vyměřil jim určená období a hranice jejich života,</verse>
+        <verse osisID='Acts.17.27'>aby hledali Boha, zda by se ho snad mohli dotknout a nalézt ho - ačkoli není daleko od žádného z nás.</verse>
+        <verse osisID='Acts.17.28'>‚Vždyť jím žijeme, hýbeme se a trváme.' Jak řekli někteří z vašich básníků: ‚Jsme přece jeho rodina.'</verse>
+        <verse osisID='Acts.17.29'>Když tedy jsme Boží rodina, nemůžeme si myslet, že by se božská bytost mohla podobat zlatu, stříbru nebo kameni, výtvoru lidské zručnosti a důvtipu.</verse>
+        <verse osisID='Acts.17.30'>Bůh ale přehlédl časy této nevědomosti a nyní ukládá všem lidem všude, aby činili pokání.</verse>
+        <verse osisID='Acts.17.31'>Určil totiž den, v němž bude spravedlivě soudit svět skrze muže, kterého k tomu ustanovil, o čemž podal každému důkaz, když ho vzkřísil z mrtvých."</verse>
+        <verse osisID='Acts.17.32'>A jakmile uslyšeli o vzkříšení z mrtvých, jedni se začali posmívat, ale jiní řekli: "Poslechneme si to od tebe někdy jindy."</verse>
+        <verse osisID='Acts.17.33'>Tehdy je Pavel opustil.</verse>
+        <verse osisID='Acts.17.34'>Někteří se ale k němu připojili a uvěřili; mimo jiné i Dionýsios Areopagita, žena jménem Damaris a ještě další.</verse>
+      </chapter>
+      <chapter osisID='Acts.18'>
+        <verse osisID='Acts.18.1'>Potom se Pavel vydal z Athén do Korintu.</verse>
+        <verse osisID='Acts.18.2'>Tam se setkal s jedním Židem jménem Akvila, původem z Pontu, který se s manželkou Priscillou nedávno přistěhoval z Itálie (císař Klaudius totiž nařídil, že všichni Židé musí opustit Řím). Pavel se k nim přidal,</verse>
+        <verse osisID='Acts.18.3'>protože jeho řemeslem, stejně jako jejich, bylo šití stanů. Bydlel tedy a pracoval u nich</verse>
+        <verse osisID='Acts.18.4'>a každou sobotu hovořil v synagoze a přesvědčoval Židy i Řeky.</verse>
+        <verse osisID='Acts.18.5'>Když pak z Makedonie dorazili Silas a Timoteus, Pavel se zcela oddal kázání Slova a dokazoval Židům, že Ježíš je Mesiáš.</verse>
+        <verse osisID='Acts.18.6'>Když mu však odporovali a rouhali se, setřásl si prach z pláště se slovy: "Vaše krev na vaši hlavu, já jsem od ní čistý! Od této chvíle půjdu k pohanům."</verse>
+        <verse osisID='Acts.18.7'>Odešel odtud a vstoupil do domu jistého bohabojného muže jménem Titus Justus, jehož dům sousedil se synagogou.</verse>
+        <verse osisID='Acts.18.8'>Krispus, představený synagogy, pak s celou svou domácností uvěřil Pánu. Stejně tak mnozí Korinťané, kteří naslouchali Pavlovi, uvěřili a dali se pokřtít.</verse>
+        <verse osisID='Acts.18.9'>Jedné noci Pán řekl Pavlovi ve vidění: "Neboj se, mluv a nemlč!</verse>
+        <verse osisID='Acts.18.10'>Já jsem s tebou a nikdo se tě ani nedotkne, aby ti ublížil. Mnozí v tomto městě totiž patří mně."</verse>
+        <verse osisID='Acts.18.11'>A tak tu Pavel zůstal půldruhého roku a vyučoval mezi nimi Boží slovo.</verse>
+        <verse osisID='Acts.18.12'>Když se však řeckým prokonzulem stal Gallio, Židé se svorně postavili proti Pavlovi a přivedli ho před soud</verse>
+        <verse osisID='Acts.18.13'>s žalobou: "Tento muž navádí lidi, aby ctili Boha v rozporu se Zákonem!"</verse>
+        <verse osisID='Acts.18.14'>Pavel se chystal něco říci, ale Gallio se obrátil k Židům: "Ach, vy Židé! Kdyby šlo o nějaké bezpráví nebo vážný zločin, měl bych důvod vás vyslechnout.</verse>
+        <verse osisID='Acts.18.15'>Když se ale přete o slovech a jménech a o vašem Zákoně, vyřešte si to sami. Já takové věci soudit nehodlám!"</verse>
+        <verse osisID='Acts.18.16'>A s tím je vyhnal ze soudní síně.</verse>
+        <verse osisID='Acts.18.17'>Všichni se pak vrhli na představeného synagogy Sostena a bili ho přímo před soudem, ale Gallio na to vůbec nedbal.</verse>
+        <verse osisID='Acts.18.18'>Když tam Pavel pobyl ještě nějakou dobu, rozloučil se s bratry a vyrazil s Priscillou a Akvilou na zpáteční cestu do Sýrie. V Kenchrejích si kvůli slibu, který složil, dal ostříhat vlasy.</verse>
+        <verse osisID='Acts.18.19'>Když dorazil do Efesu, nechal je oba tam; sám šel do synagogy a hovořil se Židy.</verse>
+        <verse osisID='Acts.18.20'>Přemlouvali ho, aby ještě nějaký čas zůstal, ale on nesvolil.</verse>
+        <verse osisID='Acts.18.21'>Při loučení jim řekl: "Bude-li Bůh chtít, znovu se k vám vrátím." Vyplul z Efesu</verse>
+        <verse osisID='Acts.18.22'>a poté, co přistál v Cesareji, se vydal do Jeruzaléma. Tam pozdravil církev a odešel do Antiochie.</verse>
+        <verse osisID='Acts.18.23'>Když tam strávil nějaký čas, vypravil se znovu na cestu. Postupně procházel Galacii a Frygii a posiloval všechny učedníky.</verse>
+        <verse osisID='Acts.18.24'>Do Efesu zatím přišel jeden Žid jménem Apollo, výmluvný muž a znalec Písma, původem z Alexandrie.</verse>
+        <verse osisID='Acts.18.25'>Byl obeznámen s Pánovou cestou, a tak vroucně mluvil a přesně učil o Ježíši. Znal však jenom Janův křest.</verse>
+        <verse osisID='Acts.18.26'>Když začal směle mluvit v synagoze, uslyšeli ho Priscilla s Akvilou, vzali ho k sobě a vysvětlili mu Boží cestu ještě přesněji.</verse>
+        <verse osisID='Acts.18.27'>Apollo se potom chtěl vydat do Řecka, a tak ho bratři povzbudili a napsali učedníkům, aby ho přijali. Když tam dorazil, velmi prospěl těm, kdo z Boží milosti uvěřili.</verse>
+        <verse osisID='Acts.18.28'>Mocně totiž překonával Židy, když veřejně dokazoval z Písma, že Ježíš je Mesiáš.</verse>
+      </chapter>
+      <chapter osisID='Acts.19'>
+        <verse osisID='Acts.19.1'>Zatímco byl Apollo v Korintu, Pavel prošel hornatým vnitrozemím a dorazil do Efesu, kde nalezl nějaké učedníky.</verse>
+        <verse osisID='Acts.19.2'>Zeptal se jich: "Přijali jste Ducha svatého, když jste uvěřili?" "Nikdy jsme o Duchu svatém ani neslyšeli," řekli mu na to.</verse>
+        <verse osisID='Acts.19.3'>"Jak jste tedy byli pokřtěni?" ptal se. "Janovým křtem," odpověděli.</verse>
+        <verse osisID='Acts.19.4'>Pavel jim řekl: "Jan svým křtem vedl lidi k pokání a vyzýval je k víře v toho, který měl přijít po něm - v Ježíše."</verse>
+        <verse osisID='Acts.19.5'>Když to uslyšeli, dali se pokřtít ve jménu Pána Ježíše.</verse>
+        <verse osisID='Acts.19.6'>Když pak na ně Pavel položil ruce, sestoupil na ně Duch svatý, takže začali mluvit v jiných jazycích a prorokovat.</verse>
+        <verse osisID='Acts.19.7'>Těch mužů bylo celkem asi dvanáct.</verse>
+        <verse osisID='Acts.19.8'>Pavel pak šel do synagogy a tři měsíce tam směle mluvil; hovořil s lidmi a přesvědčoval je o Božím království.</verse>
+        <verse osisID='Acts.19.9'>Když však někteří zatvrzele odmítali víru a veřejně tu Cestu haněli, Pavel se od nich odvrátil. Odvedl učedníky s sebou a každý den pak promlouval v posluchárně jistého Tyranna.</verse>
+        <verse osisID='Acts.19.10'>To se dělo po dva roky, takže všichni obyvatelé Asie, jak Židé, tak Řekové, slyšeli Pánovo slovo.</verse>
+        <verse osisID='Acts.19.11'>Bůh konal skrze Pavlovy ruce neobyčejné zázraky.</verse>
+        <verse osisID='Acts.19.12'>Lidé dokonce odnášeli šátky a zástěry z jeho těla na nemocné; nemoci je opouštěly a zlí duchové vycházeli.</verse>
+        <verse osisID='Acts.19.13'>Nějací potulní židovští zaklínači se pak pokusili vzývat jméno Pána Ježíše nad těmi, kdo měli zlé duchy: "Zaklínáme vás Ježíšem, kterého káže Pavel!"</verse>
+        <verse osisID='Acts.19.14'>Tak to dělalo sedm synů židovského vrchního kněze Skévy.</verse>
+        <verse osisID='Acts.19.15'>Zlý duch jim odpověděl: "Ježíše znám, o Pavlovi vím, ale kdo jste vy?"</verse>
+        <verse osisID='Acts.19.16'>A ten člověk, ve kterém byl zlý duch, se na ně vrhl, přemohl je a zbil tak, že z toho domu utekli nazí a zranění.</verse>
+        <verse osisID='Acts.19.17'>Když se to rozneslo mezi všemi Židy i Řeky bydlícími v Efesu, na všechny padla bázeň a jméno Pána Ježíše bylo ve velké vážnosti.</verse>
+        <verse osisID='Acts.19.18'>Mnozí z těch, kdo uvěřili, pak přicházeli a vyznávali a odhalovali své praktiky.</verse>
+        <verse osisID='Acts.19.19'>Také mnozí z těch, kteří se zabývali magií, přinášeli své knihy a přede všemi je pálili. Když pak spočítali jejich cenu, zjistili, že stály padesát tisíc stříbrných.</verse>
+        <verse osisID='Acts.19.20'>Tak se mocně šířilo Pánovo slovo a rozmáhalo se.</verse>
+        <verse osisID='Acts.19.21'>Po těchto událostech se Pavel veden Duchem rozhodl, že se přes Makedonii a Řecko vydá do Jeruzaléma. "Až tam pobudu," řekl, "musím se také podívat do Říma."</verse>
+        <verse osisID='Acts.19.22'>Dva ze svých pomocníků, Timotea a Erasta, tehdy poslal do Makedonie, ale sám zůstal ještě načas v Asii.</verse>
+        <verse osisID='Acts.19.23'>Někdy v té době nastal kvůli té Cestě nemalý rozruch.</verse>
+        <verse osisID='Acts.19.24'>Jeden stříbrotepec jménem Demetrios totiž vyráběl stříbrné napodobeniny Artemidina chrámu, což řemeslníkům přinášelo nemalý výdělek.</verse>
+        <verse osisID='Acts.19.25'>Svolal je tedy stejně jako výrobce z příbuzných oborů a promluvil k nim: "Pánové, víte, že z tohoto řemesla pramení náš blahobyt.</verse>
+        <verse osisID='Acts.19.26'>Jak ale vidíte a slyšíte, onen Pavel přesvědčil a odvrátil veliké množství lidí nejen v Efesu, ale skoro po celé Asii. Že prý ‚bohové vyrobení rukama nejsou žádní bohové!'</verse>
+        <verse osisID='Acts.19.27'>Nejenže je tím ohrožena pověst našeho řemesla; hrozí také, že chrám veliké bohyně Artemis už nebude nic znamenat, a tak se sníží věhlas té, kterou ctí celá Asie a celý svět!"</verse>
+        <verse osisID='Acts.19.28'>Když to uslyšeli, popadl je hněv a začali křičet: "Veliká je efeská Artemis!"</verse>
+        <verse osisID='Acts.19.29'>Město zachvátil zmatek. Všichni se společně hnali do divadla a vlekli s sebou Pavlovy společníky na cestách, Makedonce Gaia a Aristarcha.</verse>
+        <verse osisID='Acts.19.30'>Pavel chtěl vyjít k lidu, ale učedníci ho nenechali.</verse>
+        <verse osisID='Acts.19.31'>Také někteří jeho přátelé z asijských nejvyšších kruhů mu naléhavě vzkazovali, ať se neodvažuje do divadla.</verse>
+        <verse osisID='Acts.19.32'>Tam jedni křičeli to, druzí ono, ve shromáždění vládl zmatek a mnozí ani nevěděli, proč se sešli.</verse>
+        <verse osisID='Acts.19.33'>Z davu pak vytáhli jistého Alexandra, který zastupoval Židy. Alexandr pokynul rukou a chtěl před lidem pronést obhajobu.</verse>
+        <verse osisID='Acts.19.34'>Jakmile však poznali, že je to Žid, všichni začali jednohlasně křičet: "Veliká je efeská Artemis!" Trvalo to asi dvě hodiny.</verse>
+        <verse osisID='Acts.19.35'>Městský tajemník pak uklidňoval dav slovy: "Občané Efesu! Kdo by nevěděl, že město Efes je strážcem chrámu veliké Artemis a její sochy spadlé z nebe?</verse>
+        <verse osisID='Acts.19.36'>Tyto věci jsou nepopiratelné, a tak je třeba, abyste zachovali klid a neprovedli nic unáhleného.</verse>
+        <verse osisID='Acts.19.37'>Přivedli jste sem tyto muže, ti se však nedopustili žádné svatokrádeže ani rouhání proti vaší bohyni.</verse>
+        <verse osisID='Acts.19.38'>Chce-li Demetrios a ostatní řemeslníci někoho žalovat, od toho jsou tu veřejné soudy a místodržitelé. Tam ať se soudí.</verse>
+        <verse osisID='Acts.19.39'>Máte-li nějaké další požadavky, budou projednány v zákonném shromáždění.</verse>
+        <verse osisID='Acts.19.40'>Hrozí nám totiž, že kvůli dnešku budeme obviněni ze vzpoury. Pro toto srocení není žádný důvod a nevíme, jak bychom je mohli obhájit." A po těchto slovech shromáždění rozpustil.</verse>
+      </chapter>
+      <chapter osisID='Acts.20'>
+        <verse osisID='Acts.20.1'>Jakmile to pozdvižení skončilo, Pavel svolal učedníky, rozloučil se s nimi a vyrazil do Makedonie.</verse>
+        <verse osisID='Acts.20.2'>Prošel ty kraje, mnohokrát povzbudil místní učedníky a dorazil do Řecka,</verse>
+        <verse osisID='Acts.20.3'>kde strávil tři měsíce. Potom se chystal odplout do Sýrie, ale kvůli židovským úkladům se rozhodl vrátit přes Makedonii.</verse>
+        <verse osisID='Acts.20.4'>Doprovázeli ho: Sopater z Beroje, Aristarchos a Sekundus z Tesaloniky, Gaius a Timoteus z Derbe a Tychikos a Trofimos z Asie.</verse>
+        <verse osisID='Acts.20.5'>Ti šli napřed a čekali v Troadě na nás,</verse>
+        <verse osisID='Acts.20.6'>kteří jsme po Svátku nekvašených chlebů vypluli z Filip. Během pěti dnů jsme dorazili k nim do Troady a strávili jsme tam týden.</verse>
+        <verse osisID='Acts.20.7'>Když jsme se prvního dne po sobotě sešli k lámání chleba, Pavel k nim mluvil, a protože se druhý den chystal odejít, protáhl svou řeč až do půlnoci.</verse>
+        <verse osisID='Acts.20.8'>V horní místnosti, kde se shromáždili, svítilo hodně lamp.</verse>
+        <verse osisID='Acts.20.9'>Jeden mladík jménem Eutychus seděl v okně a při Pavlově dlouhé řeči se o něj pokoušel hluboký spánek. Nakonec ho spánek přemohl a on spadl z třetího poschodí dolů. Když ho zvedli, byl mrtev.</verse>
+        <verse osisID='Acts.20.10'>Pavel sešel dolů a objal jej; potom ho vzal do náruče a řekl: "Buďte klidní, je v něm život!"</verse>
+        <verse osisID='Acts.20.11'>Pak vystoupil nahoru, lámal chléb a po jídle ještě dlouho mluvil, až do rána, kdy odešel.</verse>
+        <verse osisID='Acts.20.12'>Toho chlapce pak přivedli živého a byli nesmírně potěšeni.</verse>
+        <verse osisID='Acts.20.13'>My ostatní jsme vyrazili napřed. Vypluli jsme na lodi k Assu, kde jsme měli přibrat Pavla; přál si tam totiž jít sám pěšky.</verse>
+        <verse osisID='Acts.20.14'>Když jsme se v Assu setkali, vzali jsme ho na palubu a připluli do Mitylény.</verse>
+        <verse osisID='Acts.20.15'>Odtud jsme pokračovali dál a druhého dne jsme se přiblížili k ostrovu Chios. Nazítří jsme připluli k Sámu a dalšího dne jsme dorazili do Milétu.</verse>
+        <verse osisID='Acts.20.16'>Pavel se totiž rozhodl minout Efes, aby se v Asii nezdržel. Spěchal do Jeruzaléma, kam se chtěl dostat pokud možno na den Letnic.</verse>
+        <verse osisID='Acts.20.17'>Z Milétu poslal zprávu do Efesu a zavolal k sobě starší církve.</verse>
+        <verse osisID='Acts.20.18'>Když k němu přišli, řekl jim: "Sami víte, jak jsem strávil všechen čas, kdy jsem byl s vámi, od prvního dne, kdy jsem přišel do Asie:</verse>
+        <verse osisID='Acts.20.19'>Jak jsem sloužil Pánu se vší pokorou, v slzách a uprostřed mnoha zkoušek, které mě potkaly kvůli židovským úkladům;</verse>
+        <verse osisID='Acts.20.20'>jak jsem vám nezamlčel nic užitečného, ale kázal vám a učil veřejně i po domech;</verse>
+        <verse osisID='Acts.20.21'>jak jsem Židům i Řekům vydával svědectví o pokání k Bohu a o víře v našeho Pána Ježíše.</verse>
+        <verse osisID='Acts.20.22'>Teď ale jdu, puzen Duchem, do Jeruzaléma. Nevím, co mě tam čeká,</verse>
+        <verse osisID='Acts.20.23'>ačkoli mi Duch svatý v každém městě potvrzuje, že mě čekají pouta a soužení.</verse>
+        <verse osisID='Acts.20.24'>Já však na to nedbám; v životě mi nejde o nic víc, než abych dokončil svůj běh a službu, kterou jsem přijal od Pána Ježíše: abych byl svědkem evangelia o Boží milosti.</verse>
+        <verse osisID='Acts.20.25'>Teď vím, že nikdo z vás, mezi nimiž jsem chodil a kázal o Božím království, mě už nikdy neuvidí.</verse>
+        <verse osisID='Acts.20.26'>Proto před vámi dnešní den prohlašuji, že jsem čistý od krve všech,</verse>
+        <verse osisID='Acts.20.27'>neboť jsem nic nezamlčel, ale oznámil vám veškerou Boží vůli.</verse>
+        <verse osisID='Acts.20.28'>Dbejte tedy na sebe i na celé stádo, jehož správci vás Duch svatý ustanovil, abyste pásli Boží církev, kterou vykoupil svou vlastní krví.</verse>
+        <verse osisID='Acts.20.29'>Vím, že po mém odchodu mezi vás přijdou draví vlci, kteří nebudou šetřit stádo.</verse>
+        <verse osisID='Acts.20.30'>I z vás samotných povstanou lidé, kteří budou překrucovat pravdu, aby strhli učedníky za sebou.</verse>
+        <verse osisID='Acts.20.31'>Proto bděte a pamatujte, že jsem po tři roky dnem i nocí bez přestání v slzách napomínal jednoho každého z vás.</verse>
+        <verse osisID='Acts.20.32'>Teď vás tedy svěřuji Bohu a slovu jeho milosti, které má moc vybudovat vás a dát vám dědictví mezi všemi posvěcenými.</verse>
+        <verse osisID='Acts.20.33'>Od nikoho jsem nechtěl stříbro, zlato ani šaty.</verse>
+        <verse osisID='Acts.20.34'>Sami víte, že jsem těmato rukama vydělával na potřeby své i svých společníků.</verse>
+        <verse osisID='Acts.20.35'>Tím vším jsem vám ukázal, že máme poctivě pracovat, pomáhat slabým a pamatovat na slova Pána Ježíše, který řekl: ‚Požehnanější je dávat než dostávat.'"</verse>
+        <verse osisID='Acts.20.36'>Po těch slovech s nimi všemi poklekl a modlil se.</verse>
+        <verse osisID='Acts.20.37'>Všichni se dali do velikého pláče, objímali Pavla a líbali ho.</verse>
+        <verse osisID='Acts.20.38'>Nejvíce se rmoutili nad jeho slovy, že už ho nikdy neuvidí. Tak ho doprovázeli až k lodi.</verse>
+      </chapter>
+      <chapter osisID='Acts.21'>
+        <verse osisID='Acts.21.1'>Když jsme se konečně rozloučili, zvedli jsme kotvy a vypluli přímým směrem na ostrov Kós. Druhý den jsme dorazili na Rhodos a odtud do Patary.</verse>
+        <verse osisID='Acts.21.2'>Tam jsme našli loď, která plula do Fénicie, nalodili se a vypluli.</verse>
+        <verse osisID='Acts.21.3'>Přiblížili jsme se na dohled ke Kypru, nechali jej vlevo a plavili se dál do Sýrie. Když jsme pak přistáli v Týru, kde měla loď vyložit náklad,</verse>
+        <verse osisID='Acts.21.4'>vyhledali jsme místní učedníky a týden u nich zůstali. Ti Pavla skrze Ducha varovali, ať nechodí do Jeruzaléma.</verse>
+        <verse osisID='Acts.21.5'>Když jsme po týdnu měli pokračovat v cestě, všichni nás i s ženami a dětmi vyprovodili za město, kde jsme na břehu poklekli a modlili se.</verse>
+        <verse osisID='Acts.21.6'>Po rozloučení jsme nastoupili na loď a oni se vrátili domů.</verse>
+        <verse osisID='Acts.21.7'>Z Týru jsme zamířili do Ptolemaidy, kde naše plavba skončila. Pozdravili jsme bratry a strávili s nimi jeden den.</verse>
+        <verse osisID='Acts.21.8'>Nazítří jsme pokračovali pěšky do Cesareje. Navštívili jsme evangelistu Filipa (jednoho z oněch sedmi) a zůstali u něj v domě.</verse>
+        <verse osisID='Acts.21.9'>Filip měl čtyři mladé dcery, které prorokovaly.</verse>
+        <verse osisID='Acts.21.10'>Když jsme tam strávili několik dní, dorazil z Judska jeden prorok jménem Agabos.</verse>
+        <verse osisID='Acts.21.11'>Přišel k nám, vzal Pavlův pás a svázal si ruce i nohy se slovy: "Tak praví Duch svatý: Muže, jemuž patří tento pás, takto spoutají židovští vůdci v Jeruzalémě a vydají ho do rukou pohanů."</verse>
+        <verse osisID='Acts.21.12'>Když jsme to uslyšeli, prosili jsme ho spolu s místními učedníky, ať nechodí do Jeruzaléma.</verse>
+        <verse osisID='Acts.21.13'>"K čemu ten pláč?" odpověděl Pavel. "Proč mi lámete srdce? Pokud jde o mě, jsem připraven nejen být svázán, ale také v Jeruzalémě zemřít pro jméno Pána Ježíše!"</verse>
+        <verse osisID='Acts.21.14'>Protože se ale nedal přesvědčit, nechali jsme toho se slovy: "Děj se vůle Páně!"</verse>
+        <verse osisID='Acts.21.15'>Po několika dnech jsme byli připraveni, a tak jsme se vydali vzhůru do Jeruzaléma.</verse>
+        <verse osisID='Acts.21.16'>Několik učedníků z Cesareje šlo s námi, aby nás dovedli k jistému Mnásonovi z Kypru, dávnému učedníkovi, u něhož jsme měli být ubytováni.</verse>
+        <verse osisID='Acts.21.17'>Když jsme došli do Jeruzaléma, bratři nás tam vřele přijali.</verse>
+        <verse osisID='Acts.21.18'>Druhého dne šel Pavel s námi k Jakubovi, kde se shromáždili všichni starší.</verse>
+        <verse osisID='Acts.21.19'>Pavel je pozdravil a vyprávěl jim postupně všechno, co Bůh skrze jeho službu vykonal mezi pohany.</verse>
+        <verse osisID='Acts.21.20'>Když to uslyšeli, vzdali slávu Bohu. Potom mu řekli: "Vidíš, bratře, kolik tisíc Židů už uvěřilo, a ti všichni jsou horliví milovníci Zákona.</verse>
+        <verse osisID='Acts.21.21'>O tobě ale mají zprávy, že učíš všechny Židy mezi pohany, aby odpadli od Mojžíše. Prý je navádíš, aby nedávali obřezat své syny a nezachovávali naše zvyky.</verse>
+        <verse osisID='Acts.21.22'>Co s tím? Určitě se doslechnou, že jsi přišel.</verse>
+        <verse osisID='Acts.21.23'>Udělej tedy, co ti říkáme: Máme tu čtyři muže, kteří na sebe vzali slib.</verse>
+        <verse osisID='Acts.21.24'>Podrob se spolu s nimi očistnému obřadu a zaplať za ně, co je potřeba, aby si oholili hlavy. Tak všichni poznají, že na těch zprávách o tobě nic není a že naopak žiješ řádně a zachováváš Zákon.</verse>
+        <verse osisID='Acts.21.25'>Pokud jde o věřící z pohanů, těm jsme napsali rozhodnutí, ať se vyhýbají masu obětovanému modlám, dále krvi, masu zardoušených zvířat a smilstvu."</verse>
+        <verse osisID='Acts.21.26'>Druhého dne se tedy Pavel spolu s oněmi muži podrobil očistnému obřadu. Potom šel do chrámu ohlásit, kdy uplyne doba jejich očišťování a za každého z nich bude přinesena oběť.</verse>
+        <verse osisID='Acts.21.27'>Když už těch sedm dní mělo uplynout, uviděli ho v chrámu Židé z Asie. Vzbouřili všechen lid a vrhli se na něj</verse>
+        <verse osisID='Acts.21.28'>s křikem: "Izraelité, pomozte! To je ten člověk, který všude všechny učí proti tomuto lidu, Zákonu i tomuto místu! Navíc ještě do chrámu přivedl Řeky, aby toto svaté místo poskvrnil!"</verse>
+        <verse osisID='Acts.21.29'>(Předtím s ním totiž ve městě viděli Trofima z Efesu a domnívali se, že ho Pavel přivedl do chrámu.)</verse>
+        <verse osisID='Acts.21.30'>Byl z toho rozruch po celém městě. Lidé se sběhli, chopili se Pavla a táhli ho ven z chrámu. Dveře se za ním ihned zavřely.</verse>
+        <verse osisID='Acts.21.31'>Už se ho chystali zabít, když k veliteli římské posádky dorazila zpráva, že se celý Jeruzalém bouří.</verse>
+        <verse osisID='Acts.21.32'>Ihned vzal vojáky a setníky a seběhl k nim. Jakmile uviděli velitele s vojáky, přestali Pavla bít.</verse>
+        <verse osisID='Acts.21.33'>Velitel přistoupil, zatkl ho a dal ho spoutat dvěma řetězy. Potom se ptal, kdo to je a co udělal.</verse>
+        <verse osisID='Acts.21.34'>V davu však jedni křičeli to a druzí ono. Nemohl kvůli hluku zjistit nic jistého, a tak poručil, ať ho odvedou do pevnosti.</verse>
+        <verse osisID='Acts.21.35'>Po schodišti ho vojáci kvůli násilí davu museli nést.</verse>
+        <verse osisID='Acts.21.36'>Šla za ním totiž spousta lidí a křičeli: "Pryč s ním!"</verse>
+        <verse osisID='Acts.21.37'>Když už měl být Pavel zaveden do pevnosti, oslovil velitele: "Mohu s tebou mluvit?" "Ty umíš řecky?" odpověděl velitel.</verse>
+        <verse osisID='Acts.21.38'>"Takže ty nejsi ten Egypťan, který nedávno vzbouřil a odvedl na poušť ty čtyři tisíce hrdlořezů?"</verse>
+        <verse osisID='Acts.21.39'>"Jsem Žid z Tarsu v Kilikii, občan onoho významného města," odvětil Pavel. "Proto tě žádám, dovol mi promluvit k lidu."</verse>
+        <verse osisID='Acts.21.40'>Pavel se s velitelovým svolením postavil na schodišti a pokynul rukou lidu. Když se rozhostilo ticho, promluvil k nim hebrejsky:</verse>
+      </chapter>
+      <chapter osisID='Acts.22'>
+        <verse osisID='Acts.22.1'>"Bratři a otcové, vyslechněte prosím mou obhajobu před vámi!"</verse>
+        <verse osisID='Acts.22.2'>Když uslyšeli, že k nim mluví hebrejsky, ztišili se ještě více. Pavel pokračoval:</verse>
+        <verse osisID='Acts.22.3'>"Jsem Žid narozený v kilikijském Tarsu, ale vychovaný zde v tomto městě. Zákonu našich otců jsem byl vyučen v největší přísnosti u nohou Gamalielových a byl jsem horlivcem pro Boha, jako jste dodnes vy všichni.</verse>
+        <verse osisID='Acts.22.4'>Tu Cestu jsem pronásledoval až k smrti. Zatýkal jsem muže i ženy a dával je do vězení,</verse>
+        <verse osisID='Acts.22.5'>jak může dosvědčit i velekněz a všichni starší. Od nich jsem také přijal dopisy pro naše bratry v Damašku, kam jsem se vypravil, abych i tamější přívržence přivedl v poutech do Jeruzaléma k potrestání.</verse>
+        <verse osisID='Acts.22.6'>Když už jsem se cestou blížil k Damašku, okolo poledne mě náhle obklopilo veliké světlo z nebe.</verse>
+        <verse osisID='Acts.22.7'>Padl jsem na zem a uslyšel hlas: ‚Saule, Saule, proč mě pronásleduješ?'</verse>
+        <verse osisID='Acts.22.8'>Zeptal jsem se: ‚Kdo jsi, Pane?' a on odpověděl: ‚Já jsem Ježíš Nazaretský, kterého ty pronásleduješ.'</verse>
+        <verse osisID='Acts.22.9'>Moji společníci viděli světlo; hlas, který ke mně mluvil, ale neslyšeli.</verse>
+        <verse osisID='Acts.22.10'>Zeptal jsem se: ‚Pane, co mám dělat?' a Pán mi řekl: ‚Vstaň a jdi do Damašku; tam se dozvíš všechno, co máš dělat.'</verse>
+        <verse osisID='Acts.22.11'>Byl jsem oslepen jasem toho světla, a tak mě moji společníci museli do Damašku odvést za ruku.</verse>
+        <verse osisID='Acts.22.12'>Jistý Ananiáš, zbožný stoupenec Zákona s dobrou pověstí u všech místních Židů,</verse>
+        <verse osisID='Acts.22.13'>přišel za mnou. Postavil se ke mně a řekl: ‚Bratře Saule, prohlédni!' Hned v tu chvíli jsem ho uviděl</verse>
+        <verse osisID='Acts.22.14'>a on řekl: ‚Bůh našich otců tě vyvolil, abys poznal jeho vůli, spatřil jeho Spravedlivého a uslyšel hlas z jeho úst.</verse>
+        <verse osisID='Acts.22.15'>Přede všemi lidmi mu budeš svědkem toho, co jsi viděl a slyšel.</verse>
+        <verse osisID='Acts.22.16'>Na co ještě čekáš? Vstaň, pokřti se, smyj své hříchy a vzývej jeho jméno!'</verse>
+        <verse osisID='Acts.22.17'>Potom jsem se vrátil do Jeruzaléma. Při modlitbě jsem v chrámu upadl do vytržení</verse>
+        <verse osisID='Acts.22.18'>a viděl jsem Pána. Řekl mi: ‚Pospěš si! Rychle opusť Jeruzalém, neboť tvé svědectví o mně tu nepřijmou.'</verse>
+        <verse osisID='Acts.22.19'>Namítl jsem: ‚Pane, oni vědí, že jsem v synagogách zatýkal a bičoval ty, kdo věřili v tebe.</verse>
+        <verse osisID='Acts.22.20'>Když byla prolévána krev tvého svědka Štěpána, stál jsem tam, schvaloval to a hlídal pláště těch, kdo ho zabíjeli.'</verse>
+        <verse osisID='Acts.22.21'>Na to mi Pán řekl: ‚Jen jdi. Pošlu tě k dalekým národům.'"</verse>
+        <verse osisID='Acts.22.22'>Až po to slovo mu naslouchali. Teď ale začali křičet: "Pryč s ním ze světa! Nemá právo žít!"</verse>
+        <verse osisID='Acts.22.23'>Když takto křičeli, rvali si pláště a házeli do vzduchu prach,</verse>
+        <verse osisID='Acts.22.24'>velitel ho nechal odvést do pevnosti. Nařídil, ať ho vyslýchají bičováním, aby zjistil, proč na něj tolik křičeli.</verse>
+        <verse osisID='Acts.22.25'>Poté, co ho připoutali řemeny, Pavel oslovil velícího setníka: "Vy smíte bičovat římského občana - navíc bez soudu?"</verse>
+        <verse osisID='Acts.22.26'>Jakmile to setník uslyšel, odešel to ohlásit veliteli: "Dej si pozor, co děláš. Ten člověk je římský občan!"</verse>
+        <verse osisID='Acts.22.27'>Velitel se šel Pavla zeptat: "Pověz mi, ty jsi římský občan?" "Ano," odpověděl Pavel.</verse>
+        <verse osisID='Acts.22.28'>Velitel mu řekl: "Já jsem získal občanství za spoustu peněz!" "Já jsem se tak už narodil," odpověděl Pavel.</verse>
+        <verse osisID='Acts.22.29'>Ti, kdo ho měli vyslýchat, od něj okamžitě ustoupili. I velitel dostal strach, když si uvědomil, že nechal spoutat římského občana.</verse>
+        <verse osisID='Acts.22.30'>Velitel chtěl zjistit, z čeho přesně jej Židé obviňují. Nazítří ho proto nechal vyvést z vězení a nařídil, ať se sejdou vrchní kněží i celá Velerada. Pak přivedl Pavla a postavil ho před ně.</verse>
+      </chapter>
+      <chapter osisID='Acts.23'>
+        <verse osisID='Acts.23.1'>Pavel se pozorně rozhlédl po Veleradě a řekl: "Bratři, v každém ohledu mám čisté svědomí; až dodneška jsem se řídil Božími zákony."</verse>
+        <verse osisID='Acts.23.2'>Velekněz Ananiáš hned přikázal těm, kdo stáli u něj, aby ho bili přes ústa.</verse>
+        <verse osisID='Acts.23.3'>Pavel mu odpověděl: "Tebe bude bít Bůh, ty zbílená stěno! Sedíš tu, abys mě soudil podle Zákona, a proti Zákonu mě nařizuješ bít?!"</verse>
+        <verse osisID='Acts.23.4'>Ti, kdo stáli u něj, mu řekli: "Ty spíláš Božímu veleknězi?"</verse>
+        <verse osisID='Acts.23.5'>"Nevěděl jsem, bratři, že je to velekněz," odpověděl Pavel. "Je přece psáno: ‚Vůdci svého lidu nespílej.'"</verse>
+        <verse osisID='Acts.23.6'>Pavel věděl, že ve Veleradě je jedna strana saduceů a druhá farizeů, a tak zvolal: "Bratři, já jsem farizeus, farizeův syn. Stojím před soudem kvůli naději zmrtvýchvstání!"</verse>
+        <verse osisID='Acts.23.7'>Jakmile to řekl, farizeové se začali se saduceji hádat, a tak se shromáždění rozdělilo.</verse>
+        <verse osisID='Acts.23.8'>(Saduceové totiž tvrdí, že není žádné vzkříšení ani anděl nebo duch, ale farizeové to obojí vyznávají.)</verse>
+        <verse osisID='Acts.23.9'>Strhl se veliký křik. Z farizejské strany povstali někteří znalci Písma a bojovali za něj: "Nenašli jsme na něm nic zlého. Co když k němu mluvil duch nebo anděl?"</verse>
+        <verse osisID='Acts.23.10'>Hádka narůstala tak, že se velitel začal obávat, aby Pavla neroztrhali. Poručil tedy vojákům, ať jdou dolů, vyrvou jim ho a odvedou do pevnosti.</verse>
+        <verse osisID='Acts.23.11'>Tu noc před ním stanul Pán. "Buď statečný," řekl mu. "Jako jsi o mně svědčil v Jeruzalémě, musíš svědčit i v Římě."</verse>
+        <verse osisID='Acts.23.12'>Když se rozednilo, někteří Židé se spolčili a zapřísáhli se, že nebudou jíst ani pít, dokud Pavla nezabijí.</verse>
+        <verse osisID='Acts.23.13'>Těch spiklenců bylo nejméně čtyřicet.</verse>
+        <verse osisID='Acts.23.14'>Přišli k vrchním kněžím a starším a řekli: "Složili jsme přísahu, že se nedotkneme jídla, dokud nezabijeme Pavla.</verse>
+        <verse osisID='Acts.23.15'>Vy teď spolu s Veleradou vzkažte veliteli, ať ho přivede k vám, jako byste chtěli jeho věc důkladněji prozkoumat. Ještě než k vám dojde, jsme připraveni ho zabít."</verse>
+        <verse osisID='Acts.23.16'>O té léčce se však doslechl syn Pavlovy sestry. Vydal se tedy za Pavlem do pevnosti a pověděl mu to.</verse>
+        <verse osisID='Acts.23.17'>Pavel pak k sobě zavolal jednoho ze setníků a řekl mu: "Vezmi toho mladíka k veliteli. Má pro něj zprávu."</verse>
+        <verse osisID='Acts.23.18'>Setník ho dovedl za velitelem s hlášením: "Vězeň Pavel mě zavolal a požádal, abych k tobě přivedl tohoto mladíka, že ti má něco říci."</verse>
+        <verse osisID='Acts.23.19'>Velitel ho vzal za ruku, poodešel s ním stranou a ptal se: "Co mi chceš povědět?"</verse>
+        <verse osisID='Acts.23.20'>Mladík mu řekl: "Židé se dohodli, že tě požádají, abys zítra přivedl Pavla do Velerady, jako by chtěli jeho věc důkladněji prozkoumat.</verse>
+        <verse osisID='Acts.23.21'>Ty jim ale nevěř! Číhá na něj nejméně čtyřicet mužů, kteří se zapřisáhli, že nebudou jíst ani pít, dokud ho nezabijí. Jsou už připraveni a čekají jen na tvé rozhodnutí!"</verse>
+        <verse osisID='Acts.23.22'>Velitel pak mladíka propustil a přikázal mu: "Nikomu neříkej, že jsi mi to prozradil!"</verse>
+        <verse osisID='Acts.23.23'>Zavolal si dva setníky a řekl jim: "Na devátou večer připravte dvě stě vojáků k cestě do Cesareje. Vezměte také sedmdesát jezdců a dvě stě lehkooděnců.</verse>
+        <verse osisID='Acts.23.24'>Přiveďte mezky pro Pavla a bezpečně ho dopravte k prokurátoru Felixovi."</verse>
+        <verse osisID='Acts.23.25'>Potom napsal dopis tohoto znění:</verse>
+        <verse osisID='Acts.23.26'>Klaudius Lysiáš zdraví vznešeného prokurátora Felixe.</verse>
+        <verse osisID='Acts.23.27'>Tohoto muže se zmocnili Židé a chtěli ho zabít. Když jsem se dozvěděl, že je to římský občan, zasáhl jsem se svým oddílem a zachránil ho.</verse>
+        <verse osisID='Acts.23.28'>Protože jsem chtěl zjistit, z čeho jej obviňují, přivedl jsem ho do jejich Velerady.</verse>
+        <verse osisID='Acts.23.29'>Shledal jsem, že jej obviňují kvůli sporným otázkám jejich Zákona a že nespáchal nic, zač by zasloužil smrt nebo vězení.</verse>
+        <verse osisID='Acts.23.30'>Když jsem se pak dozvěděl, že se ho chystají úkladně zavraždit, ihned jsem ho odeslal k tobě. Jeho žalobcům jsem přikázal, ať svá obvinění vůči němu přednesou tobě.</verse>
+        <verse osisID='Acts.23.31'>Vojáci vzali Pavla a podle rozkazu ho v noci odvedli do Antipatridy.</verse>
+        <verse osisID='Acts.23.32'>Nazítří se vrátili do pevnosti a zanechali ho v doprovodu jezdců.</verse>
+        <verse osisID='Acts.23.33'>Ti po příjezdu do Cesareje doručili dopis prokurátorovi a předali mu Pavla.</verse>
+        <verse osisID='Acts.23.34'>Poté, co si dopis přečetl, zeptal se, z které je provincie. Když zjistil, že z Kilikie,</verse>
+        <verse osisID='Acts.23.35'>řekl: "Vyslechnu tě, jakmile se dostaví tvoji žalobci." Zatím ho nechal hlídat v Herodově paláci.</verse>
+      </chapter>
+      <chapter osisID='Acts.24'>
+        <verse osisID='Acts.24.1'>Po pěti dnech do Cesareje dorazil velekněz Ananiáš s některými staršími a s jistým řečníkem Tertullem, aby Pavla obvinili před prokurátorem.</verse>
+        <verse osisID='Acts.24.2'>Jakmile byl Pavel předvolán, Tertullus přednesl obžalobu: "Vznešený Felixi! Díky tobě již dlouho zakoušíme pokoj a díky tvé prozíravosti vše v tomto národě spěje k lepšímu,</verse>
+        <verse osisID='Acts.24.3'>což bezvýhradně a všeobecně přijímáme s nejhlubší vděčností.</verse>
+        <verse osisID='Acts.24.4'>Abych tě však příliš nezdržoval, prosím, abys nás krátce vyslyšel s vlídností sobě vlastní.</verse>
+        <verse osisID='Acts.24.5'>Shledali jsme, že tento muž je nesmírně nebezpečný. Jakožto vůdce té sekty nazaretských vyvolává nepokoje mezi všemi Židy po celém světě.</verse>
+        <verse osisID='Acts.24.6'>[7] Pokusil se dokonce znesvětit chrám, a tak jsme ho zajali.</verse>
+        <verse osisID='Acts.24.8'>Když provedeš výslech, sám se budeš moci přesvědčit o všem, z čeho jej žalujeme."</verse>
+        <verse osisID='Acts.24.9'>Židé s tou řečí souhlasili a potvrzovali, že je to pravda.</verse>
+        <verse osisID='Acts.24.10'>Prokurátor tedy pokynul k Pavlovi a ten se ujal slova: "Vím, že náš národ spravuješ již řadu let, a tak se budu hájit s klidnou myslí.</verse>
+        <verse osisID='Acts.24.11'>Jak si můžeš ověřit, v Jeruzalémě, kam jsem přišel uctívat Boha, jsem nepobyl více než dvanáct dní.</verse>
+        <verse osisID='Acts.24.12'>Nikdo mě neviděl hádat se s někým v chrámu nebo podněcovat davy, ať už v synagogách, nebo ve městě.</verse>
+        <verse osisID='Acts.24.13'>To, z čeho mě tu obviňují, nemohou nijak prokázat.</verse>
+        <verse osisID='Acts.24.14'>Přiznávám však před tebou, že sloužím Bohu našich otců jako stoupenec té Cesty, kterou oni nazývají sektou. Věřím všemu, co je psáno v Zákoně a v Prorocích,</verse>
+        <verse osisID='Acts.24.15'>a mám v Bohu naději, kterou chovají i oni, že nastane vzkříšení spravedlivých i nespravedlivých.</verse>
+        <verse osisID='Acts.24.16'>Proto se snažím, abych měl vždy čisté svědomí před Bohem i před lidmi.</verse>
+        <verse osisID='Acts.24.17'>Po letech jsem se vrátil do Jeruzaléma, abych svému národu přinesl dary pro chudé a oběti.</verse>
+        <verse osisID='Acts.24.18'>Někteří Židé z Asie mě zastihli v chrámu, když jsem se bez davu a hluku podrobil očistnému obřadu.</verse>
+        <verse osisID='Acts.24.19'>Pokud proti mně něco mají, měli by tu stát před tebou a žalovat mě.</verse>
+        <verse osisID='Acts.24.20'>Anebo ať řeknou zde tito, jaký zločin na mě našli, když jsem stál před Veleradou.</verse>
+        <verse osisID='Acts.24.21'>Snad šlo o to jediné, co jsem mezi nimi zvolal: ‚Dnes jsem před vámi souzen kvůli vzkříšení z mrtvých!'"</verse>
+        <verse osisID='Acts.24.22'>Felix (který o té Cestě leccos věděl) pak případ odročil: "Rozhodnu vaši při, až se dostaví velitel Lysiáš."</verse>
+        <verse osisID='Acts.24.23'>Pak poručil setníkovi, který Pavla střežil, ať mu ulehčí vazbu a nikomu z jeho přátel ať nebrání postarat se o něj.</verse>
+        <verse osisID='Acts.24.24'>Po několika dnech pak Felix přišel se svou manželkou Drusillou, která byla Židovka. Poslal pro Pavla a vyslechl si ho ohledně víry v Mesiáše.</verse>
+        <verse osisID='Acts.24.25'>Když ale Pavel mluvil o spravedlnosti, o zdrženlivosti a o nadcházejícím soudu, Felix dostal strach. "Prozatím odejdi," řekl mu. "Zavolám si tě, až budu mít čas."</verse>
+        <verse osisID='Acts.24.26'>Přitom ovšem doufal, že mu Pavel nabídne nějaký úplatek. Proto si ho také nechával často zavolat, aby si pohovořili.</verse>
+        <verse osisID='Acts.24.27'>Po dvou letech Felixe v úřadu vystřídal Porcius Festus. Felix se ovšem chtěl zavděčit Židům, a tak nechal Pavla ve vězení.</verse>
+      </chapter>
+      <chapter osisID='Acts.25'>
+        <verse osisID='Acts.25.1'>Tři dny poté, co se Festus ujal vlády v provincii, vypravil se z Cesareje vzhůru do Jeruzaléma.</verse>
+        <verse osisID='Acts.25.2'>Vrchní kněží a přední Židé mu tehdy oznámili žalobu proti Pavlovi. Prosili ho</verse>
+        <verse osisID='Acts.25.3'>a dožadovali se té laskavosti, aby ho nechal poslat do Jeruzaléma (chystali totiž léčku, že ho po cestě zabijí).</verse>
+        <verse osisID='Acts.25.4'>Festus odpověděl: "Pavel je ve vazbě v Cesareji, kam se sám chystám brzy odjet.</verse>
+        <verse osisID='Acts.25.5'>Ať se tam vaši zástupci vypraví se mnou, a pokud ten muž provedl něco zlého, ať ho žalují."</verse>
+        <verse osisID='Acts.25.6'>Poté, co mezi nimi strávil osm nebo deset dní, vrátil se do Cesareje. Druhého dne zasedl k soudu a poručil, ať předvedou Pavla.</verse>
+        <verse osisID='Acts.25.7'>Jakmile se dostavil, obstoupili ho Židé, kteří přišli z Jeruzaléma, a vznášeli proti němu těžká obvinění, která však nemohli dokázat.</verse>
+        <verse osisID='Acts.25.8'>Pavel se hájil: "Ani proti židovskému Zákonu ani proti chrámu ani proti císaři jsem se v ničem neprovinil."</verse>
+        <verse osisID='Acts.25.9'>Festus, který se chtěl zavděčit Židům, Pavlovi odpověděl: "Chceš jít do Jeruzaléma a tam být ohledně toho přede mnou souzen?"</verse>
+        <verse osisID='Acts.25.10'>Pavel na to řekl: "Stojím před císařským soudem, jemuž podléhám. Židům jsem nijak neublížil, jak sám velmi dobře víš.</verse>
+        <verse osisID='Acts.25.11'>Jsem-li skutečně vinen a spáchal jsem něco, zač si zasloužím smrt, neodmítám zemřít. Jestliže však na tom, z čeho mě obviňují, nic není, nikdo mě jim nemůže vydat. Odvolávám se k císaři!"</verse>
+        <verse osisID='Acts.25.12'>Festus to probral se svými poradci a odpověděl: "K císaři ses odvolal, k císaři půjdeš!"</verse>
+        <verse osisID='Acts.25.13'>Za několik dní do Cesareje dorazil král Agrippa s Bereniké, aby pozdravili Festa.</verse>
+        <verse osisID='Acts.25.14'>Zdrželi se tam delší dobu, a tak Festus králi vyprávěl o Pavlově při: "Felix tu zanechal jednoho vězně.</verse>
+        <verse osisID='Acts.25.15'>Když jsem byl v Jeruzalémě, vrchní kněží a židovští starší mi o něm řekli a žádali jeho odsouzení.</verse>
+        <verse osisID='Acts.25.16'>Odpověděl jsem jim, že Římané nemají ve zvyku odsoudit člověka, aniž by obžalovaný stanul svým žalobcům tváří v tvář a dostal možnost hájit se proti jejich obvinění.</verse>
+        <verse osisID='Acts.25.17'>Jakmile se tu sešli, beze všech odkladů jsem příštího dne zasedl k soudu a poručil, ať toho muže předvedou.</verse>
+        <verse osisID='Acts.25.18'>Když ale vystoupili jeho žalobci, nevznesli proti němu nějaké těžké obvinění, jak bych očekával.</verse>
+        <verse osisID='Acts.25.19'>Vedli s ním jen spor o nějakých otázkách toho jejich náboženství a o nějakém mrtvém Ježíši, o kterém Pavel tvrdil, že žije.</verse>
+        <verse osisID='Acts.25.20'>Protože se v těch věcech nevyznám, navrhl jsem mu, zda by chtěl jít do Jeruzaléma, kde by to mohl soud projednat.</verse>
+        <verse osisID='Acts.25.21'>Pavel se však odvolal, že chce zůstat ve vazbě až do rozhodnutí Jeho Veličenstva. Nařídil jsem tedy, ať zůstane ve vazbě, dokud ho nepošlu k císaři."</verse>
+        <verse osisID='Acts.25.22'>Agrippa Festovi řekl: "Toho člověka bych si také rád poslechl." "Uslyšíš ho zítra," odpověděl Festus.</verse>
+        <verse osisID='Acts.25.23'>Druhého dne přišli Agrippa a Bereniké s veškerou nádherou a spolu s veliteli a význačnými muži města vstoupili do jednací síně. Když byl na Festův rozkaz přiveden Pavel,</verse>
+        <verse osisID='Acts.25.24'>Festus zahájil: "Králi Agrippo a všichni přítomní, vidíte tu muže, o něhož mě v Jeruzalémě i zde žádala celá židovská obec s křikem, že nesmí zůstat naživu.</verse>
+        <verse osisID='Acts.25.25'>Shledal jsem, že neprovedl nic, za co by zasloužil smrt, ale když se sám odvolal k Jeho Veličenstvu, rozhodl jsem se ho k němu poslat.</verse>
+        <verse osisID='Acts.25.26'>Nemám však nic určitého, co bych o něm svému vladaři napsal. Proto jsem ho přivedl před vás a zvláště před tebe, králi Agrippo, abych po tomto slyšení měl co napsat.</verse>
+        <verse osisID='Acts.25.27'>Zdá se mi totiž nerozumné posílat vězně a neuvést, z čeho je obviněn."</verse>
+      </chapter>
+      <chapter osisID='Acts.26'>
+        <verse osisID='Acts.26.1'>Potom Agrippa vyzval Pavla: "Smíš promluvit sám za sebe." Pavel pokynul rukou a začal svou obhajobu:</verse>
+        <verse osisID='Acts.26.2'>"Jsem šťasten, králi Agrippo, že se dnes mám hájit proti všem židovským obviněním právě před tebou,</verse>
+        <verse osisID='Acts.26.3'>zejména proto, že jsi znalcem všech židovských zvyků a záležitostí. Proto tě prosím, vyslechni mě trpělivě.</verse>
+        <verse osisID='Acts.26.4'>Všichni Židé vědí, jaký život jsem od mládí vedl, zpočátku v mé vlasti a potom v Jeruzalémě.</verse>
+        <verse osisID='Acts.26.5'>Znají mě odedávna a kdyby chtěli, mohou dosvědčit, že jsem žil podle nejpřísnějšího proudu v našem náboženství jako farizeus.</verse>
+        <verse osisID='Acts.26.6'>Teď tu stojím, abych byl souzen kvůli naději v to, co Bůh zaslíbil našim otcům.</verse>
+        <verse osisID='Acts.26.7'>Dvanáct našich pokolení ustavičně slouží Bohu dnem i nocí v naději, že dosáhnou onoho zaslíbení. Kvůli této naději mě Židé žalují, králi Agrippo!</verse>
+        <verse osisID='Acts.26.8'>Co je podle vás neuvěřitelného na tom, že Bůh křísí mrtvé?</verse>
+        <verse osisID='Acts.26.9'>Sám jsem se ovšem také domníval, že se musím všemožně stavět proti jménu Ježíše Nazaretského,</verse>
+        <verse osisID='Acts.26.10'>což jsem také v Jeruzalémě dělal. Z pověření vrchních kněží jsem uvěznil mnoho svatých a hlasoval jsem pro jejich smrt.</verse>
+        <verse osisID='Acts.26.11'>Po všech synagogách jsem je často nechával bičovat a nutil je k rouhání. Ve svém nepříčetném hněvu jsem je začal pronásledovat dokonce i v jiných městech.</verse>
+        <verse osisID='Acts.26.12'>Jednou jsem se s plnou mocí a pověřením od vrchních kněží vypravil do Damašku.</verse>
+        <verse osisID='Acts.26.13'>Cestou jsem, králi, uviděl světlo z nebe. I když to bylo kolem poledne, zářilo jasněji než slunce a obklopilo mě i můj doprovod.</verse>
+        <verse osisID='Acts.26.14'>Když jsme všichni padli k zemi, uslyšel jsem hlas, který mi hebrejsky řekl: ‚Saule, Saule, proč mě pronásleduješ? Marně kopeš proti bodcům!'</verse>
+        <verse osisID='Acts.26.15'>Zeptal jsem se: ‚Kdo jsi, Pane?' a on řekl: ‚Já jsem Ježíš, kterého ty pronásleduješ.</verse>
+        <verse osisID='Acts.26.16'>Zvedni se však a stůj. Ukázal jsem se ti, abych tě učinil služebníkem a svědkem toho, co jsi viděl, i toho, v čem se ti ještě ukážu.</verse>
+        <verse osisID='Acts.26.17'>Budu tě vysvobozovat od tohoto lidu i od pohanů, ke kterým tě posílám,</verse>
+        <verse osisID='Acts.26.18'>abys otvíral jejich oči, aby se obrátili od tmy ke světlu a od satanovy moci k Bohu, aby vírou ve mne přijali odpuštění hříchů a podíl mezi posvěcenými.'</verse>
+        <verse osisID='Acts.26.19'>A tak jsem, králi Agrippo, nebyl neposlušný tomu nebeskému vidění.</verse>
+        <verse osisID='Acts.26.20'>Začal jsem zvěstovat nejdříve v Damašku, potom v Jeruzalémě, po celé judské zemi a také pohanům, že mají činit pokání, obrátit se k Bohu a svými skutky prokazovat své pokání.</verse>
+        <verse osisID='Acts.26.21'>To je důvod, proč se mě Židé v chrámu chopili a pokoušeli se mě zabít.</verse>
+        <verse osisID='Acts.26.22'>Díky Boží pomoci, kterou až dodnes zakouším, tu však stojím a vydávám svědectví malému i velkému. Neříkám nic než to, co předpověděli proroci i Mojžíš:</verse>
+        <verse osisID='Acts.26.23'>že Mesiáš má trpět, jako první vstát z mrtvých a zvěstovat světlo tomuto lidu i pohanům."</verse>
+        <verse osisID='Acts.26.24'>Festus však Pavlovu obhajobu přerušil: "Pavle, ty šílíš!" vykřikl. "Tvá veliká učenost tě přivádí k šílenství!"</verse>
+        <verse osisID='Acts.26.25'>"Nešílím, vznešený Feste," odpověděl Pavel. "Má slova jsou pravdivá a rozumná.</verse>
+        <verse osisID='Acts.26.26'>Král, před nímž tak otevřeně mluvím, těm věcem dobře rozumí. Jsem si jist, že mu nic z toho neuniklo, neboť se to nedělo někde v ústraní.</verse>
+        <verse osisID='Acts.26.27'>Věříš prorokům, králi Agrippo? Vím, že věříš."</verse>
+        <verse osisID='Acts.26.28'>"Téměř jsi mě přesvědčil, abych se stal křesťanem," odpověděl mu Agrippa.</verse>
+        <verse osisID='Acts.26.29'>"Kéž by Bůh dal!" řekl na to Pavel. "Kéž by ses nejen ty, ale každý, kdo mě dnes slyší, stal ne téměř, ale úplně tím, co já - ovšem bez těchto pout."</verse>
+        <verse osisID='Acts.26.30'>Nato král vstal a s ním i prokurátor a Bereniké a ostatní přísedící.</verse>
+        <verse osisID='Acts.26.31'>Cestou odtud si povídali: "Ten člověk nedělá nic, zač by si zasloužil smrt nebo vězení!"</verse>
+        <verse osisID='Acts.26.32'>Agrippa na to Festovi řekl: "Kdyby se neodvolal k císaři, mohl být propuštěn."</verse>
+      </chapter>
+      <chapter osisID='Acts.27'>
+        <verse osisID='Acts.27.1'>Jakmile bylo rozhodnuto, že vyplujeme do Itálie, svěřili Pavla s několika dalšími vězni setníku Juliovi z císařského praporu.</verse>
+        <verse osisID='Acts.27.2'>Nastoupili jsme na adramyttskou loď, která měla plout podél pobřeží Asie, a vypluli jsme. Byl s námi také Makedonec Aristarchos z Tesaloniky.</verse>
+        <verse osisID='Acts.27.3'>Druhého dne jsme přistáli v Sidonu. Julius se k Pavlovi choval vlídně a dovolil mu zajít k přátelům, aby se o něj postarali.</verse>
+        <verse osisID='Acts.27.4'>Když jsme odtud vyrazili, museli jsme kvůli protivětru obeplout Kypr.</verse>
+        <verse osisID='Acts.27.5'>Míjeli jsme pobřeží Kilikie a Pamfylie až do přistání v lykijské Myře.</verse>
+        <verse osisID='Acts.27.6'>Tam setník našel alexandrijskou loď mířící do Itálie a přivedl nás na ni.</verse>
+        <verse osisID='Acts.27.7'>Řadu dní jsme se plavili pomalu a s obtížemi, až jsme se dostali naproti Knidu. Vítr nám nedovolil pokračovat tím směrem, a tak jsme obepluli Krétu podél Salmony.</verse>
+        <verse osisID='Acts.27.8'>Po obtížné plavbě kolem pobřeží jsme dorazili na místo zvané Pěkné přístavy poblíž města Lasaia.</verse>
+        <verse osisID='Acts.27.9'>Ztratili jsme hodně času; minul už dokonce i Půst a další plavba by byla nebezpečná. Pavel je proto varoval:</verse>
+        <verse osisID='Acts.27.10'>"Pánové, podle mého by plavba skončila neštěstím a velikou škodou nejen na lodi a nákladu, ale i na našich životech!"</verse>
+        <verse osisID='Acts.27.11'>Setník ale více důvěřoval kormidelníkovi a majiteli lodi než Pavlovým slovům.</verse>
+        <verse osisID='Acts.27.12'>Protože přístav nebyl vhodný k přezimování, většina rozhodla, že odtud vyplují a pokusí se dorazit do Fénixu, kde by mohli přezimovat. Tento krétský přístav byl totiž obrácený k jihozápadu a severozápadu.</verse>
+        <verse osisID='Acts.27.13'>Když se zvedl lehký jižní vítr, zdálo se jim, že se mají držet svého předsevzetí. Zvedli kotvy a pluli těsně podél Kréty.</verse>
+        <verse osisID='Acts.27.14'>Od ostrova ale znenadání udeřil orkán zvaný Euroklydon</verse>
+        <verse osisID='Acts.27.15'>a opřel se do lodi. Ta mu nemohla čelit, a tak jsme se nechali unášet,</verse>
+        <verse osisID='Acts.27.16'>až jsme se dostali do závětří jednoho ostrůvku zvaného Kauda. Tam jsme s vypětím sil ovládli vlečný člun</verse>
+        <verse osisID='Acts.27.17'>a vytáhli ho na palubu. Lodníci pak stáhli loď lany, aby ji zpevnili. Ze strachu, aby nenarazili na Syrtskou mělčinu, spustili vlečnou kotvu a nechali se unášet dál.</verse>
+        <verse osisID='Acts.27.18'>Bouře námi zmítala tak prudce, že jsme druhého dne začali vyhazovat náklad.</verse>
+        <verse osisID='Acts.27.19'>Třetího dne jsme vlastníma rukama vyhodili lodní výbavu.</verse>
+        <verse osisID='Acts.27.20'>Bouře nepřestávala zuřit ani po mnoha dnech. Nebylo vidět slunce ani hvězdy, až se nakonec ztrácela všechna naděje, že se zachráníme.</verse>
+        <verse osisID='Acts.27.21'>Když už dlouho ani nemohli jíst, Pavel se postavil doprostřed a řekl: "Pánové, měli jste mě poslechnout. Kdybychom nevypluli z Kréty, ušetřili bychom si toto neštěstí a škodu.</verse>
+        <verse osisID='Acts.27.22'>Teď vás ale vyzývám, abyste se vzchopili. I když bude loď zničena, nikdo z vás nepřijde o život.</verse>
+        <verse osisID='Acts.27.23'>Dnes v noci mě navštívil anděl toho Boha, jemuž patřím a sloužím, a</verse>
+        <verse osisID='Acts.27.24'>řekl mi: ‚Neboj se, Pavle, dostaneš se před císaře. A hle, Bůh se z dobroty k tobě rozhodl zachovat všechny, kdo se plaví s tebou.'</verse>
+        <verse osisID='Acts.27.25'>Proto se vzchopte, pánové! Věřím totiž Bohu, že vše dopadne, jak mi bylo řečeno.</verse>
+        <verse osisID='Acts.27.26'>Musíme ale narazit na nějaký ostrov."</verse>
+        <verse osisID='Acts.27.27'>Už čtrnáctou noc jsme byli unášeni napříč Adriatikem. Kolem půlnoci měli námořníci dojem, že se blíží země.</verse>
+        <verse osisID='Acts.27.28'>Spustili olovnici a naměřili dvacet sáhů; o kousek dál ji spustili znovu a naměřili patnáct sáhů.</verse>
+        <verse osisID='Acts.27.29'>Z obavy, abychom nenarazili na útesy, spustili ze zádi čtyři kotvy a toužebně očekávali den.</verse>
+        <verse osisID='Acts.27.30'>Tehdy se námořníci pokusili uniknout z lodi. Pod záminkou, že chtějí roztahovat kotvy také z přídi, spustili člun na moře,</verse>
+        <verse osisID='Acts.27.31'>ale Pavel řekl setníkovi a vojákům: "Pokud nezůstanou na lodi, nezachráníte se!"</verse>
+        <verse osisID='Acts.27.32'>Vojáci tedy přesekli lana a nechali člun uplavat.</verse>
+        <verse osisID='Acts.27.33'>Před svítáním Pavel všechny vyzýval, aby pojedli: "Dnes je to čtrnáct dní, co samou úzkostí nic nejíte.</verse>
+        <verse osisID='Acts.27.34'>Proto vás prosím, v zájmu své záchrany něco snězte; nikdo z vás nepřijde ani o vlásek!"</verse>
+        <verse osisID='Acts.27.35'>Po těch slovech vzal chléb, přede všemi vzdal díky Bohu, lámal a začal jíst.</verse>
+        <verse osisID='Acts.27.36'>Všechny to povzbudilo a něco pojedli.</verse>
+        <verse osisID='Acts.27.37'>(Na lodi nás bylo celkem 276 osob.)</verse>
+        <verse osisID='Acts.27.38'>Posilněni jídlem pak sypali pšenici do moře, aby odlehčili loď.</verse>
+        <verse osisID='Acts.27.39'>Konečně se rozednilo. Nemohli tu zem poznat, ale viděli jakousi zátoku s plochým břehem. Na ten se chtěli pokusit s lodí najet.</verse>
+        <verse osisID='Acts.27.40'>Odsekli kotvy a nechali je v moři. Uvolnili také provazy u kormidel, přední plachtu napnuli do větru a pustili se ke břehu.</verse>
+        <verse osisID='Acts.27.41'>V mořské úžině však loď najela na mělčinu. Příď pevně uvízla a nemohla se pohnout, zatímco záď se tříštila pod náporem vln.</verse>
+        <verse osisID='Acts.27.42'>Vojáci se rozhodli pobít vězně, aby některý neuplaval a neunikl.</verse>
+        <verse osisID='Acts.27.43'>Setník jim ale v tom úmyslu zabránil, protože chtěl zachránit Pavla. Nařídil, aby ti, kdo umí plavat, vyskočili první a dostali se ke břehu.</verse>
+        <verse osisID='Acts.27.44'>Ostatní je měli následovat na prknech nebo jiných troskách lodi. Tak se nakonec všichni v pořádku dostali na břeh.</verse>
+      </chapter>
+      <chapter osisID='Acts.28'>
+        <verse osisID='Acts.28.1'>Když jsme se zachránili, zjistili jsme, že se ten ostrov jmenuje Malta.</verse>
+        <verse osisID='Acts.28.2'>Domorodci se k nám zachovali neobyčejně laskavě. Zapálili oheň a všechny nás k němu pozvali, protože pršelo a bylo chladno.</verse>
+        <verse osisID='Acts.28.3'>Pavel nasbíral hromadu roští. Když přikládal na oheň, zakousla se mu do ruky zmije unikající před žárem.</verse>
+        <verse osisID='Acts.28.4'>Když domorodci uviděli, jak mu od ruky visí had, říkali si: "Ten člověk je určitě vrah! Zachránil se z moře, ale Spravedlnost ho nenechala naživu."</verse>
+        <verse osisID='Acts.28.5'>Pavel však hada setřásl do ohně a nic zlého se mu nestalo.</verse>
+        <verse osisID='Acts.28.6'>Domorodci očekávali, že oteče anebo náhle padne mrtev. Když ale dlouho čekali a viděli, že se mu nic zlého neděje, změnili názor a začali říkat, že je to bůh.</verse>
+        <verse osisID='Acts.28.7'>V těch místech měl pozemky přední muž toho ostrova jménem Publius. Ten nás přijal a po tři dny nás přátelsky hostil.</verse>
+        <verse osisID='Acts.28.8'>Publiův otec byl právě na lůžku sužován horečkou a úplavicí. Pavel ho navštívil, po modlitbě na něj vložil ruce a uzdravil ho.</verse>
+        <verse osisID='Acts.28.9'>Po té události začali přicházet i ostatní nemocní z toho ostrova a byli uzdravováni.</verse>
+        <verse osisID='Acts.28.10'>Zahrnuli nás mnoha poctami, a když jsme měli vyplout, naložili nám, co jsme potřebovali.</verse>
+        <verse osisID='Acts.28.11'>Po třech měsících jsme odtud vypluli na alexandrijské lodi se znakem Blíženců, která na tom ostrově zůstala přes zimu.</verse>
+        <verse osisID='Acts.28.12'>Na tři dny jsme zastavili v Syrakusách,</verse>
+        <verse osisID='Acts.28.13'>odkud jsme pokračovali do Regia. Po jednom dni se zvedl jižní vítr, a tak jsme dalšího dne přistáli v Puteolech.</verse>
+        <verse osisID='Acts.28.14'>Tam jsme nalezli bratry a na jejich pozvání jsme u nich týden zůstali. A tak jsme dorazili do Říma.</verse>
+        <verse osisID='Acts.28.15'>Když o nás uslyšeli tamější bratři, vyšli nám naproti až k Appiově tržišti a další ke Třem krčmám. Jakmile je Pavel uviděl, vzdal díky Bohu a nabyl odvahy.</verse>
+        <verse osisID='Acts.28.16'>V Římě Pavel dostal povolení bydlet v soukromí s vojákem, který ho hlídal.</verse>
+        <verse osisID='Acts.28.17'>Po třech dnech Pavel svolal místní židovské představené. Když se sešli, řekl jim: "Bratři, ačkoli jsem se nijak neprovinil proti našemu lidu ani proti otcovským zvykům, byl jsem v Jeruzalémě zatčen a vydán Římanům.</verse>
+        <verse osisID='Acts.28.18'>Ti mě po výslechu chtěli propustit s tím, že jsem nespáchal nic, za co bych zasloužil smrt.</verse>
+        <verse osisID='Acts.28.19'>Židé však byli proti, a tak jsem byl nucen odvolat se k císaři - ovšem ne proto, abych žaloval na svůj národ.</verse>
+        <verse osisID='Acts.28.20'>Pozval jsem vás tedy, abychom se poznali a promluvili spolu, neboť jsem tímto řetězem spoután kvůli naději Izraele."</verse>
+        <verse osisID='Acts.28.21'>Odpověděli mu: "Nedostali jsme o tobě žádný dopis z Judska a nikdo z bratrů k nám nepřišel se zprávou nebo žalobou na tebe.</verse>
+        <verse osisID='Acts.28.22'>Chceme si však poslechnout tvé názory; o té sektě totiž víme, že je všeobecně odmítána."</verse>
+        <verse osisID='Acts.28.23'>V den, který mu určili, se jich u něj doma sešlo ještě více. Vykládal jim a svědčil o Božím království a od rána až do večera je z Mojžíšova zákona a Proroků přesvědčoval o Ježíši.</verse>
+        <verse osisID='Acts.28.24'>Někteří se jeho slovy dali přesvědčit, ale jiní nevěřili.</verse>
+        <verse osisID='Acts.28.25'>Když se nemohli shodnout a začali se rozcházet, Pavel jim pověděl ještě toto: "Duch svatý správně řekl našim otcům skrze proroka Izaiáše:</verse>
+        <verse osisID='Acts.28.26'>‚Jdi k tomuto lidu a řekni: Sluchem uslyšíte, ale nepochopíte, zrakem uvidíte, ale neprohlédnete.</verse>
+        <verse osisID='Acts.28.27'>Neboť srdce tohoto lidu ztvrdlo; ušima ztěžka slyšeli a oči pevně zavřeli, jen aby očima neuviděli, ušima neuslyšeli, srdcem nepochopili a neobrátili se, abych je nemohl uzdravit.'</verse>
+        <verse osisID='Acts.28.28'>[29] Proto vězte, že Boží spása byla poslána pohanům. Oni uslyší!"</verse>
+        <verse osisID='Acts.28.30'>Pavel pak zůstal celé dva roky ve vlastním pronájmu a přijímal všechny, kdo za ním přicházeli.</verse>
+        <verse osisID='Acts.28.31'>Kázal o Božím království a učil o Pánu Ježíši Kristu se vší smělostí a bez překážek.</verse>
+      </chapter>
+    </div></osisText>
+</osis>

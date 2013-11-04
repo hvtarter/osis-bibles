@@ -1,0 +1,1122 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace'>
+  <osisText osisIDWork='NorthernAzeri' osisRefWork='Bible' xml:lang='az'>
+    <header>
+      <revisionDesc>
+        <date>2012-01-07</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='NorthernAzeri'>
+        <title>Northern Azeri Translation</title>
+        <contributor/>
+        <creator>Mod2Zef (6)</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject/>
+        <date>2012-01-07</date>
+        <description>Northern Azeri Translation</description>
+        <publisher/>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>NorthernAzeri</identifier>
+        <source>no entry TextSource in sword.conf found</source>
+        <language type='IETF'>az</language>
+        <relation/>
+        <coverage>provide the bible to the nations of the world</coverage>
+        <rights>Copyrighted Kutsul Kitab; Permission to distribute granted to CrossWire</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='1Chr'>
+      <chapter osisID='1Chr.1'>
+        <verse osisID='1Chr.1.1'>
+          Adəm, Şet, Enoş,</verse>
+        <verse osisID='1Chr.1.2'>Qenan, Mahalalel, Yered,</verse>
+        <verse osisID='1Chr.1.3'>Xanok, Metuşelah, Lemek,</verse>
+        <verse osisID='1Chr.1.4'>Nuh, Sam, Ham və Yafəs. </verse>
+        <verse osisID='1Chr.1.5'>Yafəsin oğulları: Qomer, Maqoq, Maday, Yavan, Tuval, Meşek və Tiras.</verse>
+        <verse osisID='1Chr.1.6'>Qomerin oğulları: Aşkenaz, Rifat və Toqarma.</verse>
+        <verse osisID='1Chr.1.7'>Yavanın oğulları: Elişa, Tarşiş, Kittim və Rodanim. </verse>
+        <verse osisID='1Chr.1.8'>Hamın oğulları: Kuş, Misrayim, Put və Kənan.</verse>
+        <verse osisID='1Chr.1.9'>Kuşun oğulları: Seva, Xavila, Savta, Raama və Savteka. Raamanın oğulları: Səba və Dedan.</verse>
+        <verse osisID='1Chr.1.10'>Kuşun Nəmrud adlı bir oğlu da oldu. O, yer üzündə ilk qüdrətli adam oldu.</verse>
+        <verse osisID='1Chr.1.11'>Misrayimin nəsilləri bunlardır: Ludlular, Anamlılar, Lehavlılar, Naftuhlular,</verse>
+        <verse osisID='1Chr.1.12'>Patroslular, Filiştlilərin əcdadı olan Kasluhlular, həmçinin Kaftorlular.</verse>
+        <verse osisID='1Chr.1.13'>Kənanın nəsilləri bunlardır: ilk oğlu Sidon, Xet,</verse>
+        <verse osisID='1Chr.1.14'>həmçinin Yevuslular, Emorlular, Qirqaşlılar,</verse>
+        <verse osisID='1Chr.1.15'>Xivlilər, Arqlılar, Sinlilər,</verse>
+        <verse osisID='1Chr.1.16'>Ervadlılar, Semarlılar və Xamatlılar. </verse>
+        <verse osisID='1Chr.1.17'>Samın oğulları: Elam, Aşşur, Arpakşad, Lud, Aram, Us, Xul, Geter və Meşek.</verse>
+        <verse osisID='1Chr.1.18'>Arpakşaddan Şelah törədi və Şelahdan Ever törədi.</verse>
+        <verse osisID='1Chr.1.19'>Everin iki oğlu oldu: birinin adı Peleq  idi, çünki onun dövründə yer üzü bölündü. Qardaşının adı Yoqtan idi.</verse>
+        <verse osisID='1Chr.1.20'>Yoqtandan Almodad, Şelef, Xasarmavet, Yerah,</verse>
+        <verse osisID='1Chr.1.21'>Hadoram, Uzal, Diqla,</verse>
+        <verse osisID='1Chr.1.22'>Eval, Avimael, Səba,</verse>
+        <verse osisID='1Chr.1.23'>Ofir, Xavila və Yovav törədi. Bunların hamısı Yoqtanın oğulları idi. </verse>
+        <verse osisID='1Chr.1.24'>Sam, Arpakşad, Şelah,</verse>
+        <verse osisID='1Chr.1.25'>Ever, Peleq, Reu,</verse>
+        <verse osisID='1Chr.1.26'>Seruq, Naxor, Terah,</verse>
+        <verse osisID='1Chr.1.27'>İbram, yəni İbrahim. </verse>
+        <verse osisID='1Chr.1.28'>İbrahimin oğulları: İshaq və İsmail.</verse>
+        <verse osisID='1Chr.1.29'>Onların oğulları bunlardır: İsmailin ilk oğlu Nevayot, sonra Qedar, Adbeel, Mivsam,</verse>
+        <verse osisID='1Chr.1.30'>Mişma, Duma, Massa, Xadad, Tema,</verse>
+        <verse osisID='1Chr.1.31'>Yetur, Nafiş və Qedma. Bunlar İsmailin oğullarıdır. </verse>
+        <verse osisID='1Chr.1.32'>İbrahimin cariyəsi Qeturanın doğduğu oğullar bunlardır: Zimran, Yoqşan, Medan, Midyan, İşbaq və Şuah. Yoqşanın oğulları: Səba və Dedan.</verse>
+        <verse osisID='1Chr.1.33'>Midyanın oğulları: Efa, Efer, Xanok, Avida və Eldaa. Bunların hamısı Qeturanın övladlarıdır. </verse>
+        <verse osisID='1Chr.1.34'>İbrahimdən İshaq törədi. İshaqın oğulları: Esav və İsrail.</verse>
+        <verse osisID='1Chr.1.35'>Esavın oğulları: Elifaz, Reuel, Yeuş, Yalam və Qorah.</verse>
+        <verse osisID='1Chr.1.36'>Elifazın oğulları: Teman, Omar, Sefi, Qatam, Qenaz, Timna və Amaleq.</verse>
+        <verse osisID='1Chr.1.37'>Reuelin oğulları: Naxat, Zerah, Şamma və Mizza. </verse>
+        <verse osisID='1Chr.1.38'>Seirin oğulları: Lotan, Şoval, Siveon, Ana, Dişon, Eser və Dişan.</verse>
+        <verse osisID='1Chr.1.39'>Lotanın oğulları: Xori və Homam, Lotanın bacısı Timna.</verse>
+        <verse osisID='1Chr.1.40'>Şovalın oğulları: Alvan, Manaxat, Eval, Şefo və Onam. Siveonun oğulları: Ayya və Ana.</verse>
+        <verse osisID='1Chr.1.41'>Ananın oğlu Dişon. Dişonun oğulları: Xamran, Eşban, İtran və Keran.</verse>
+        <verse osisID='1Chr.1.42'>Eserin oğulları: Bilhan, Zaavan və Yaaqan. Dişanın oğulları: Us və Aran. </verse>
+        <verse osisID='1Chr.1.43'>İsraillilərə bir kəs padşahlıq etməzdən əvvəl Edom ölkəsində padşahlıq edən adamlar bunlardır: Beor oğlu Bela. Onun şəhəri Dinhava idi.</verse>
+        <verse osisID='1Chr.1.44'>Bela öldü və onun yerinə Bosradan olan Zerah oğlu Yovav padşah oldu.</verse>
+        <verse osisID='1Chr.1.45'>Yovav öldü və onun yerinə Temanlıların torpağından olan Xuşam padşah oldu.</verse>
+        <verse osisID='1Chr.1.46'>Xuşam öldü və onun yerinə Moav çölündə Midyanlıları qıran Bedad oğlu Hadad padşah oldu. Onun şəhəri Avit idi.</verse>
+        <verse osisID='1Chr.1.47'>Hadad öldü və onun yerinə Masreqadan olan Samla padşah oldu.</verse>
+        <verse osisID='1Chr.1.48'>Samla öldü və onun yerinə Rexovot-Hannahardan olan Şaul padşah oldu.</verse>
+        <verse osisID='1Chr.1.49'>Şaul öldü və onun yerinə Akbor oğlu Baal-Xanan padşah oldu.</verse>
+        <verse osisID='1Chr.1.50'>Baal-Xanan öldü və onun yerinə Hadad padşah oldu. Onun şəhəri Pau idi. Onun arvadının adı Me-Zahav qızı Matred qızı Mehetavel idi. </verse>
+        <verse osisID='1Chr.1.51'>Hadad öldü və bunlar Edomun başçıları oldu: başçı Timna, başçı Alva, başçı Yetet,</verse>
+        <verse osisID='1Chr.1.52'>başçı Oholivama, başçı Ela, başçı Pinon,</verse>
+        <verse osisID='1Chr.1.53'>başçı Qenaz, başçı Teman, başçı Mivsar,</verse>
+        <verse osisID='1Chr.1.54'>başçı Maqdiel, başçı İram. Edomun başçıları bunlardır.  </verse>
+      </chapter>
+      <chapter osisID='1Chr.2'>
+        <verse osisID='1Chr.2.1'>
+          İsrailin oğulları bunlardır: Ruven, Şimeon, Levi, Yəhuda, İssakar, Zevulun,</verse>
+        <verse osisID='1Chr.2.2'>Dan, Yusif, Binyamin, Naftali, Qad və Aşer. </verse>
+        <verse osisID='1Chr.2.3'>Yəhudanın oğulları: Er, Onan və Şela. Onun bu üç oğlu Kənanlı Bat-Şuadan doğuldu. Yəhudanın ilk oğlu Er Rəbbin gözündə pis adam idi və Rəbb onu öldürdü.</verse>
+        <verse osisID='1Chr.2.4'>Yəhudanın gəlini Tamar ona Peresi və Zerahı doğdu. Yəhudanın cəmisi beş oğlu var idi. </verse>
+        <verse osisID='1Chr.2.5'>Peresin oğulları: Xesron və Xamul.</verse>
+        <verse osisID='1Chr.2.6'>Zerahın oğulları: Zimri, Etan, Heman, Kalkol və Dara. Bunlar cəmisi beş nəfər idi.</verse>
+        <verse osisID='1Chr.2.7'>Karminin oğlu həsr olunmuş şeydə xainlik edib İsraili bəlaya salan Akan idi.</verse>
+        <verse osisID='1Chr.2.8'>Etanın oğlu Azarya idi. </verse>
+        <verse osisID='1Chr.2.9'>Xesronun oğulları: Yeraxmeel, Ram və Kalev.</verse>
+        <verse osisID='1Chr.2.10'>Ramdan Amminadav törədi və Amminadavdan Yəhudalıların rəhbəri Naxşon törədi.</verse>
+        <verse osisID='1Chr.2.11'>Naxşondan Salmon törədi və Salmondan Boaz törədi.</verse>
+        <verse osisID='1Chr.2.12'>Boazdan Oved törədi və Oveddən Yessey törədi.</verse>
+        <verse osisID='1Chr.2.13'>Yesseyin oğulları bunlar idi: ilk oğlu Eliav, ikincisi Avinadav, üçüncüsü Şimea,</verse>
+        <verse osisID='1Chr.2.14'>dördüncüsü Netanel, beşincisi Radday,</verse>
+        <verse osisID='1Chr.2.15'>altıncısı Osem, yeddincisi Davud.</verse>
+        <verse osisID='1Chr.2.16'>Onların bacıları Seruya və Aviqail idi. Seruyanın üç oğlu var idi: Avişay, Yoav və Asahel.</verse>
+        <verse osisID='1Chr.2.17'>Aviqail Amasanı doğdu. Amasanın atası İsmailli Yeter idi. </verse>
+        <verse osisID='1Chr.2.18'>Xesron oğlu Kalevin arvadı Azuva və Yeriot ona övladlar doğdu. Kalevin Azuvadan olan oğulları bunlardır: Yeşer, Şovav və Ardon.</verse>
+        <verse osisID='1Chr.2.19'>Azuva öldü. Kalev Efratı arvad aldı və o da Kalevə Xuru doğdu.</verse>
+        <verse osisID='1Chr.2.20'>Xurdan Uri törədi. Uridən Besalel törədi. </verse>
+        <verse osisID='1Chr.2.21'>Bundan sonra Xesron altmış yaşında ikən Gileadın atası olan Makirin qızını aldı və onunla yaxınlıq etdi; o, Xesrona Sequvu doğdu.</verse>
+        <verse osisID='1Chr.2.22'>Sequv Yairin atası idi. Yairin Gilead torpağında iyirmi üç şəhəri var idi.</verse>
+        <verse osisID='1Chr.2.23'>Amma Geşurlular və Aramlılar onlardan Xavvot-Yairi aldılar, bundan başqa, Qenatı və onun qəsəbələrini də – cəmisi altmış şəhəri aldılar. Bunların hamısı Gileadın atası olan Makirin nəsilləri idi.</verse>
+        <verse osisID='1Chr.2.24'>Xesron Kalev-Efratada öldükdən sonra Xesronun arvadı Aviya ona Teqoanın atası Aşxuru doğdu. </verse>
+        <verse osisID='1Chr.2.25'>Xesronun ilk oğlu Yeraxmeelin oğulları: ilk oğlu Ram, Buna, Oren, Osem və Axiya.</verse>
+        <verse osisID='1Chr.2.26'>Yeraxmeelin başqa bir arvadı var idi, onun adı Atara idi. Onamın anası o idi.</verse>
+        <verse osisID='1Chr.2.27'>Yeraxmeelin ilk oğlu Ramın oğulları: Maas, Yamin və Eqer.</verse>
+        <verse osisID='1Chr.2.28'>Onamın oğulları: Şammay və Yada. Şammayın oğulları: Nadav və Avişur.</verse>
+        <verse osisID='1Chr.2.29'>Avişurun arvadının adı Avihayil idi. O, Avişura Axbanı və Molidi doğdu.</verse>
+        <verse osisID='1Chr.2.30'>Nadavın oğulları: Seled və Appayim. Seled oğulsuz öldü.</verse>
+        <verse osisID='1Chr.2.31'>Appayimin oğlu İşi idi. İşinin oğlu Şeşan idi. Şeşanın oğlu Axlay idi.</verse>
+        <verse osisID='1Chr.2.32'>Şammayın qardaşı Yadanın oğulları: Yeter və Yonatan. Yeter oğulsuz öldü.</verse>
+        <verse osisID='1Chr.2.33'>Yonatanın oğulları: Pelet və Zaza. Bunlar Yeraxmeelin nəsilləri idi. </verse>
+        <verse osisID='1Chr.2.34'>Şeşanın oğulları yox idi, yalnız qızları var idi. Şeşanın bir Misirli qulu var idi, onun adı Yarxa idi.</verse>
+        <verse osisID='1Chr.2.35'>Şeşan qulu Yarxaya qızını arvad olmaq üçün verdi. Arvadı ona Attayı doğdu.</verse>
+        <verse osisID='1Chr.2.36'>Attaydan Natan törədi. Natandan Zavad törədi.</verse>
+        <verse osisID='1Chr.2.37'>Zavaddan Eflal törədi. Eflaldan Oved törədi.</verse>
+        <verse osisID='1Chr.2.38'>Oveddən Yehu törədi. Yehudan Azarya törədi.</verse>
+        <verse osisID='1Chr.2.39'>Azaryadan Xeles törədi. Xelesdən Eleasa törədi.</verse>
+        <verse osisID='1Chr.2.40'>Eleasadan Sismay törədi. Sismaydan Şallum törədi.</verse>
+        <verse osisID='1Chr.2.41'>Şallumdan Yeqamya törədi. Yeqamyadan Elişama törədi. </verse>
+        <verse osisID='1Chr.2.42'>Yeraxmeelin qardaşı Kalevin oğulları: Zifin atası ilk oğlu Meşa, Xevronun atası Mareşa.</verse>
+        <verse osisID='1Chr.2.43'>Xevronun oğulları: Qorah, Tappuah, Reqem və Şema.</verse>
+        <verse osisID='1Chr.2.44'>Şemadan Yorqoamın atası olan Raxam törədi. Reqemdən Şammay törədi.</verse>
+        <verse osisID='1Chr.2.45'>Şammayın oğlu Maon idi. Maon Bet-Suru tikdi.</verse>
+        <verse osisID='1Chr.2.46'>Kalevin cariyəsi Efa Xaranı, Mosanı və Qazezi doğdu. Xaran Qazezin atası idi.</verse>
+        <verse osisID='1Chr.2.47'>Yahdayın oğulları: Regem, Yotam, Geşan, Pelet, Efa və Şaaf.</verse>
+        <verse osisID='1Chr.2.48'>Kalevin cariyəsi Maaka Şeveri və Tirxananı doğdu.</verse>
+        <verse osisID='1Chr.2.49'>O həm də Madmannanın atası Şaafı, Makbenanın və Giveanın atası Şevanı doğdu. Kalevin qızı Aksa idi.</verse>
+        <verse osisID='1Chr.2.50'>Bunlar Kalevin nəsilləri idi.  Efratanın ilk oğlu Xurun oğulları bunlardır: Qiryat-Yearimin atası Şoval,</verse>
+        <verse osisID='1Chr.2.51'>Bet-Lexemin atası Salma, Bet-Qaderin atası Xaref.</verse>
+        <verse osisID='1Chr.2.52'>Qiryat-Yearimin atası Şovalın nəsilləri bunlardır: Haroelilər, Manaxatlıların yarısı.</verse>
+        <verse osisID='1Chr.2.53'>Qiryat-Yearimin sakinləri: Yeterlilər, Putlular, Şumalılar, Mişralılar. Bunların arasından Soralılar və Eştaollular çıxdılar.</verse>
+        <verse osisID='1Chr.2.54'>Salmanın nəsilləri: Bet-Lexemlilər, Netofalılar, Atrot-Bet-Yoavlılar, Manaxatlıların yarısı və Soralılar.</verse>
+        <verse osisID='1Chr.2.55'>Yabesdə yaşayan mirzələrin nəsilləri: Tirealılar, Şimealılar, Sukalılar. Bunlar Bet-Rekavın atası Xammatın nəslindən olan Qenlilərdir.  </verse>
+      </chapter>
+      <chapter osisID='1Chr.3'>
+        <verse osisID='1Chr.3.1'>
+          Davudun Xevronda doğulan oğulları bunlardır: ilk oğlu İzreelli Axinoamdan doğulan Amnon, ikincisi Karmelli Aviqaildən doğulan Daniel,</verse>
+        <verse osisID='1Chr.3.2'>üçüncüsü Geşur padşahı Talmayın qızı Maakadan doğulan Avşalom, dördüncüsü Haqqitdən doğulan Adoniya,</verse>
+        <verse osisID='1Chr.3.3'>beşincisi Avitaldan doğulan Şefatya, altıncısı arvadı Eqladan doğulan İtream.</verse>
+        <verse osisID='1Chr.3.4'>Davudun bu altı oğlu Xevronda doğuldu. Davud orada yeddi il altı ay padşahlıq etdi, Yerusəlimdə isə otuz üç il padşahlıq etdi.</verse>
+        <verse osisID='1Chr.3.5'>Davudun Yerusəlimdə doğulan oğulları bunlardır: Ammielin qızı Bat-Şevadan doğulan dörd oğlu: Şimea, Şovav, Natan və Süleyman,</verse>
+        <verse osisID='1Chr.3.6'>daha doqquz oğlu: İvxar, Elişua, Elpelet,</verse>
+        <verse osisID='1Chr.3.7'>Noqah, Nefeq, Yafia,</verse>
+        <verse osisID='1Chr.3.8'>Elişama, Elyada və Elifelet.</verse>
+        <verse osisID='1Chr.3.9'>Cariyələrdən doğulan oğullarından başqa Davudun bütün oğulları bunlardır. Tamar da onların bacısıdır. </verse>
+        <verse osisID='1Chr.3.10'>Süleymanın oğlu Rexavam, onun oğlu Aviya, onun oğlu Asa, onun oğlu Yehoşafat,</verse>
+        <verse osisID='1Chr.3.11'>onun oğlu Yehoram, onun oğlu Axazya, onun oğlu Yoaş,</verse>
+        <verse osisID='1Chr.3.12'>onun oğlu Amasya, onun oğlu Azarya, onun oğlu Yotam,</verse>
+        <verse osisID='1Chr.3.13'>onun oğlu Axaz, onun oğlu Xizqiya, onun oğlu Menaşşe,</verse>
+        <verse osisID='1Chr.3.14'>onun oğlu Amon, onun oğlu Yoşiya.</verse>
+        <verse osisID='1Chr.3.15'>Yoşiyanın oğulları: ilk oğlu Yoxanan, ikincisi Yehoyaqim, üçüncüsü Sidqiya, dördüncüsü Şallum.</verse>
+        <verse osisID='1Chr.3.16'>Yehoyaqimin oğulları: onun oğlu Yekonya,  onun oğlu Sidqiya. </verse>
+        <verse osisID='1Chr.3.17'>Əsir aparılmış Yekonyanın oğulları: Şealtiel,</verse>
+        <verse osisID='1Chr.3.18'>Malkiram, Pedaya, Şenassar, Yeqamya, Hoşama və Nedavya.</verse>
+        <verse osisID='1Chr.3.19'>Pedayanın oğulları: Zerubbabil və Şimey. Zerubbabilin oğulları: Meşullam və Xananya, onların bacısı Şelomit,</verse>
+        <verse osisID='1Chr.3.20'>daha beş oğlu: Xaşuva, Ohel, Berekya, Xasadya və Yuşav-Xesed.</verse>
+        <verse osisID='1Chr.3.21'>Xananyanın nəsilləri: Pelatya, Yeşaya, Refayanın oğulları, Arnanın oğulları, Avdiyanın oğulları, Şekanyanın oğulları.</verse>
+        <verse osisID='1Chr.3.22'>Şekanyanın oğlu Şemaya idi. Şemayanın altı oğlu: Xattuş, İqal, Bariah, Nearya və Şafat.</verse>
+        <verse osisID='1Chr.3.23'>Nearyanın üç oğlu: Elyoenay, Xizqiya və Azriqam.</verse>
+        <verse osisID='1Chr.3.24'>Elyoenayın yeddi oğlu: Hodavya, Elyaşiv, Pelaya, Aqquv, Yoxanan, Delaya və Anani.  </verse>
+      </chapter>
+      <chapter osisID='1Chr.4'>
+        <verse osisID='1Chr.4.1'>
+          Yəhudanın oğulları: Peres, Xesron, Karmi, Xur və Şoval.</verse>
+        <verse osisID='1Chr.4.2'>Şovalın oğlu Reayadan Yaxat törədi; Yaxatdan Axumay və Lahad törədi. Bunlar Soralıların nəsilləri idi.</verse>
+        <verse osisID='1Chr.4.3'>Etamın oğulları bunlardır: İzreel, İşma və İdbaş. Onların bacısının adı Haslelponidir.</verse>
+        <verse osisID='1Chr.4.4'>Penueldən Qedor, Ezerdən isə Xuşa törədi. Bunlar Bet-Lexemin atası Efratanın ilk oğlu Xurun övladlarıdır.</verse>
+        <verse osisID='1Chr.4.5'>Teqoanın atası Aşxurun iki arvadı var idi: Xela və Naara.</verse>
+        <verse osisID='1Chr.4.6'>Naara ona bunları doğdu: Axuzzam, Xefer, Temeni və Axaştari. Bunlar Naaranın oğulları idi.</verse>
+        <verse osisID='1Chr.4.7'>Xelanın oğulları: Seret, İsxar, Etnan və Qos.</verse>
+        <verse osisID='1Chr.4.8'>Qosdan Anuv, Soveva və Harum oğlu Axarxelin nəsilləri törədi. </verse>
+        <verse osisID='1Chr.4.9'>Yabes qardaşlarından daha hörmətli idi. Anası «onu ağrı ilə doğdum» deyib adını Yabes qoymuşdu.</verse>
+        <verse osisID='1Chr.4.10'>Yabes İsrailin Allahını çağırıb dedi: «Kaş Sən mənə xeyir-dua verəydin! Torpaqlarımı genişləndir, mənə kömək ol və əzab çəkməyim deyə məni şərdən qoru». Allah da istədiyi şeyi ona verdi. </verse>
+        <verse osisID='1Chr.4.11'>Şuxanın qardaşı Keluvdan Mexir törədi. Mexirdən Eşton törədi.</verse>
+        <verse osisID='1Chr.4.12'>Eştondan Bet-Rafa, Paseahın və İr-Naxaşın atası Texinna törədi. Bunlar Rekalılardır.</verse>
+        <verse osisID='1Chr.4.13'>Qenazın oğulları: Otniel və Seraya. Otnielin oğulları Xatat və</verse>
+        <verse osisID='1Chr.4.14'>Ofranın atası olan Meonotay. Serayadan Ge-Xaraşimin  atası Yoav törədi. Bu şəhərin sakinləri ustalar olduğuna görə belə adlanırdı.</verse>
+        <verse osisID='1Chr.4.15'>Yefunnenin oğlu Kalevin oğulları: İru, Ela və Naam. Elanın oğlu Qenaz idi.</verse>
+        <verse osisID='1Chr.4.16'>Yehallelelin oğulları: Zif, Zifa, Tirya və Asarel.</verse>
+        <verse osisID='1Chr.4.17'>Ezranın oğulları: Yeter, Mered, Efer, Yalon. Meredin arvad aldığı firon qızı Bityanın oğulları: Məryəm, Şammay və Eştemoanın atası İşbah.</verse>
+        <verse osisID='1Chr.4.18'>Yəhudalı arvadı isə bunları doğdu: Qedorun atası Yered, Sokonun atası Xever və Zanoahın atası Yequtiel.</verse>
+        <verse osisID='1Chr.4.19'>Naxamın bacısı Hodiyanın arvadı idi. Onun oğullarından Qarmili Qeila və Maakalı Eştemoa törədi.</verse>
+        <verse osisID='1Chr.4.20'>Şimeonun oğulları: Amnon, Rinna, Ben-Xanan və Tilon. İşinin oğulları: Zoxet və Ben-Zoxet.</verse>
+        <verse osisID='1Chr.4.21'>Yəhudanın oğlu Şelanın nəsilləri: Lexanın atası Er, Mareşanın atası Laada və Bet-Aşbeada olan incə kətan toxuyanların nəsilləri,</verse>
+        <verse osisID='1Chr.4.22'>Yoqim və Kozevalılar, Yoaş və Saraf. Bunlar Moavda arvad aldılar və Lexemə qayıtdılar. Bu, qədim hadisələrdir.</verse>
+        <verse osisID='1Chr.4.23'>Onlar dulusçu idi, Netaimdə və Gederada yaşayırdılar. Padşah üçün iş görərək orada qalırdılar. </verse>
+        <verse osisID='1Chr.4.24'>Şimeonun oğulları: Nemuel, Yamin, Yariv, Zerah və Şaul.</verse>
+        <verse osisID='1Chr.4.25'>Şaulun oğlu Şallum, onun oğlu Mivsam, onun oğlu Mişma.</verse>
+        <verse osisID='1Chr.4.26'>Mişmanın oğulları: onun oğlu Xammuel, onun oğlu Zakkur, onun oğlu Şimey.</verse>
+        <verse osisID='1Chr.4.27'>Şimeyin on altı oğlu və altı qızı var idi, lakin qohumlarının oğulları çox deyildi və onların bütün nəsli Yəhuda oğulları qədər çoxalmadı. </verse>
+        <verse osisID='1Chr.4.28'>Onlar bu yerlərdə yaşayırdı: Beer-Şeva, Molada, Xasar-Şual,</verse>
+        <verse osisID='1Chr.4.29'>Bilha, Esem, Tolad,</verse>
+        <verse osisID='1Chr.4.30'>Betuel, Xorma, Ziqlaq,</verse>
+        <verse osisID='1Chr.4.31'>Bet-Markavot, Xasar-Susim, Bet-Biri və Şaarayim. Davudun padşahlıq etdiyi dövrə qədər onların şəhərləri bunlardır.</verse>
+        <verse osisID='1Chr.4.32'>Onların qəsəbələri bunlardır: Etam, Ayin, Rimmon, Token və Aşan – cəmi beş şəhər.</verse>
+        <verse osisID='1Chr.4.33'>Bu şəhərlərin ətrafında Baala qədər olan bütün kəndlər də onların yaşadıqları yerlərdir. Onların nəsil şəcərəsi belədir:</verse>
+        <verse osisID='1Chr.4.34'>Meşovav, Yamlek, Amasya oğlu Yoşa,</verse>
+        <verse osisID='1Chr.4.35'>Yoel, Asiel oğlu Seraya oğlu Yoşivya oğlu Yehu,</verse>
+        <verse osisID='1Chr.4.36'>Elyoenay, Yaaqova, Yeşoxaya, Asaya, Adiel, Yesimiel, Benaya,</verse>
+        <verse osisID='1Chr.4.37'>Şemaya oğlu Şimri oğlu Yedaya oğlu Allon oğlu Şifi oğlu Ziza.</verse>
+        <verse osisID='1Chr.4.38'>Bu adları çəkilənlər nəsil rəhbərləri idi və onların nəsilləri artıb çoxalmışdı.</verse>
+        <verse osisID='1Chr.4.39'>Onlar sürüləri üçün otlaq axtarmaqdan ötrü Qedorun yaxınlığına, dərənin şərq tərəfinə qədər getdilər.</verse>
+        <verse osisID='1Chr.4.40'>Bol və yaxşı otlaq tapdılar, ölkə də geniş, sakit və dinc idi. Onlardan əvvəl orada Hamlılar yaşayırdı.</verse>
+        <verse osisID='1Chr.4.41'>Bu adları yazılanlar Yəhuda padşahı Xizqiyanın dövründə gəlib öz çadırlarında olan Hamlıları və orada olan Maonluları qırdılar. Onları tamamilə məhv edib yerlərində yaşadılar, çünki orada sürüləri üçün otlaq var idi. Bu günə qədər də belədir.</verse>
+        <verse osisID='1Chr.4.42'>Həmin Şimeonlulardan beş yüz nəfər Seir dağına getdi. İşinin oğulları Pelatya, Naarya, Refaya və Uzziel onlara başçılıq edirdi.</verse>
+        <verse osisID='1Chr.4.43'>Onlar sağ qalan Amaleqli qaçanları qırdılar. Onlar bu günə qədər də orada yaşayır.  </verse>
+      </chapter>
+      <chapter osisID='1Chr.5'>
+        <verse osisID='1Chr.5.1'>
+            İsrailin ilk oğlu Ruven idi, amma atasının yatağını murdarladığı üçün onun ilk oğulluq haqqı İsrailin oğlu Yusifin nəslinə verildi və Ruvenin nəsli şəcərədə ilk oğul kimi sayılmadı.</verse>
+        <verse osisID='1Chr.5.2'>Ancaq Yəhuda qardaşları arasında daha güclü oldu və hökmdar onun nəslindən çıxdı. İlk oğulluq haqqı isə Yusifin idi.</verse>
+        <verse osisID='1Chr.5.3'>İsrailin ilk oğlu Ruvenin oğulları: Xanok, Pallu, Xesron və Karmi.</verse>
+        <verse osisID='1Chr.5.4'>Yoelin nəsli: onun oğlu Şemaya, onun oğlu Qoq, onun oğlu Şimey,</verse>
+        <verse osisID='1Chr.5.5'>onun oğlu Mikeya, onun oğlu Reaya, onun oğlu Baal,</verse>
+        <verse osisID='1Chr.5.6'>onun oğlu Beera. Onu Aşşur padşahı Tiqlat-Pileser sürgünə aparmışdı. Beera Ruvenlilərin başçısı idi.</verse>
+        <verse osisID='1Chr.5.7'>Nəsil şəcərələrinə görə onların qohumları bunlar idi: başçı Yeiel, Zəkəriyyə,</verse>
+        <verse osisID='1Chr.5.8'>Yoel oğlu Şema oğlu Azaz oğlu Bela. O, Aroerdə yaşayırdı, torpağı Nevoya və Baal-Meona qədər uzanırdı.</verse>
+        <verse osisID='1Chr.5.9'>Şərqə tərəf Fərat çayının bu tayındakı çölün başlanğıc yerinə qədər torpaqlar onun idi, çünki Gilead torpağında çoxlu heyvanları var idi.</verse>
+        <verse osisID='1Chr.5.10'>Şaulun dövründə bu adamlar Həcərlilərlə müharibə edib onları məğlub etdi və Gileadın şərqindəki bütün torpaqlarda Həcərlilərin çadırlarında yaşadı. </verse>
+        <verse osisID='1Chr.5.11'>Qadlılar Salkaya qədər uzanan Başan torpağında Ruvenlilərin qarşısında yaşadı.</verse>
+        <verse osisID='1Chr.5.12'>Başanda başçı Yoel, köməkçisi Şafam, sonra Yanay və Şafat idi.</verse>
+        <verse osisID='1Chr.5.13'>Öz nəsillərindən olan qohumları bunlardır: Mikael, Meşullam, Şeva, Yoray, Yakan, Ziya və Ever – cəmi yeddi nəfər.</verse>
+        <verse osisID='1Chr.5.14'>Bunlar Buz oğlu Yaxdo oğlu Yeşişay oğlu Mikael oğlu Gilead oğlu Yaroah oğlu Xuri oğlu Avixayilin oğulları idi.</verse>
+        <verse osisID='1Chr.5.15'>Quni oğlu Avdiel oğlu Axi onların nəsil başçısı idi.</verse>
+        <verse osisID='1Chr.5.16'>Onlar Gileadda, Başanda və onun qəsəbələrində, Şaronun sərhədlərinə qədər uzanan bütün otlaq torpaqlarında yaşadı.</verse>
+        <verse osisID='1Chr.5.17'>Yəhuda padşahı Yotamın və İsrail padşahı Yarovamın dövründə onların hamısı nəsil şəcərələrində qeyd olundu. </verse>
+        <verse osisID='1Chr.5.18'>Ruvenlilərdən, Qadlılardan, Menaşşe qəbiləsinin yarısından olan, qalxan və qılınc daşıyan, ox atan, döyüş üçün təlim görmüş və döyüşməyi bacaran igid adamlar qırx dörd min yeddi yüz altmış nəfər idi.</verse>
+        <verse osisID='1Chr.5.19'>Onlar Həcərlilərdən olan Yeturun, Nafişin və Nadavın nəsilləri ilə müharibə etdi.</verse>
+        <verse osisID='1Chr.5.20'>İsraillilər düşmənləri ilə döyüşdə kömək aldıqları üçün Həcərliləri və onlarla olanların hamısını məğlub etdilər, çünki İsraillilər döyüş zamanı Allahı çağırdılar və Ona güvəndikləri üçün Allah onları eşitdi.</verse>
+        <verse osisID='1Chr.5.21'>Onlar düşmənlərinin heyvanlarını – əlli min dəvəsini, iki yüz əlli min qoyun-keçisini, iki min eşşəyini ələ keçirdi və yüz min adamını götürüb apardı.</verse>
+        <verse osisID='1Chr.5.22'>Həlak olanlar çox oldu, çünki bu döyüş Allahdan idi. Onlar sürgün olunan zamana qədər Həcərlilərin yerlərində yaşadı. </verse>
+        <verse osisID='1Chr.5.23'>Menaşşe qəbiləsinin yarısının nəsilləri də həmin torpaqda yaşadı. Onlar çoxalıb Başandan Baal-Xermona, Senirə və Xermon dağına qədər uzanan torpağa yayıldılar.</verse>
+        <verse osisID='1Chr.5.24'>Onların nəsil başçıları bunlardır: Efer, İşi, Eliel, Azriel, Yeremya, Hodavya və Yaxdiel. Bunlar igid döyüşçülər, adlı-sanlı adamlar və nəsil başçıları idi.</verse>
+        <verse osisID='1Chr.5.25'>Amma onlar atalarının Allahına qarşı xainlik etdilər və onların önündə Allahın məhv etdiyi ölkə xalqlarının allahlarına sitayiş edib xəyanət etdilər.</verse>
+        <verse osisID='1Chr.5.26'>Onda İsrailin Allahı Aşşur padşahı Pulda, yəni Tiqlat-Pileserdə niyyət oyandırdı, o da Ruvenliləri, Qadlıları və Menaşşe qəbiləsinin yarısını əsir aparıb Xalaha, Xavora, Haraya və Qozan çayının sahilində yerləşdirdi. Onlar bu günə qədər də oradadır.  </verse>
+      </chapter>
+      <chapter osisID='1Chr.6'>
+        <verse osisID='1Chr.6.1'>
+          Levinin oğulları: Gerşon, Qohat və Merari.</verse>
+        <verse osisID='1Chr.6.2'>Qohatın oğulları: Amram, İshar, Xevron və Uzziel.</verse>
+        <verse osisID='1Chr.6.3'>Amramın övladları: Harun, Musa və Məryəm. Harunun oğulları: Nadav, Avihu, Eleazar və İtamar. </verse>
+        <verse osisID='1Chr.6.4'>Eleazardan Pinxas törədi. Pinxasdan Avişua törədi.</verse>
+        <verse osisID='1Chr.6.5'>Avişuadan Buqqi törədi. Buqqidən Uzzi törədi.</verse>
+        <verse osisID='1Chr.6.6'>Uzzidən Zerahya törədi. Zerahyadan Merayot törədi.</verse>
+        <verse osisID='1Chr.6.7'>Merayotdan Amarya törədi. Amaryadan Axituv törədi.</verse>
+        <verse osisID='1Chr.6.8'>Axituvdan Sadoq törədi. Sadoqdan Aximaas törədi.</verse>
+        <verse osisID='1Chr.6.9'>Aximaasdan Azarya törədi. Azaryadan Yoxanan törədi.</verse>
+        <verse osisID='1Chr.6.10'>Yoxanandan Azarya törədi. Yerusəlimdə Süleymanın tikdiyi məbəddə Azarya kahin idi.</verse>
+        <verse osisID='1Chr.6.11'>Azaryadan Amarya törədi. Amaryadan Axituv törədi.</verse>
+        <verse osisID='1Chr.6.12'>Axituvdan Sadoq törədi. Sadoqdan Şallum törədi.</verse>
+        <verse osisID='1Chr.6.13'>Şallumdan Xilqiya törədi. Xilqiyadan Azarya törədi.</verse>
+        <verse osisID='1Chr.6.14'>Azaryadan Seraya törədi. Serayadan Yehosadaq törədi.</verse>
+        <verse osisID='1Chr.6.15'>Navuxodonosorun vasitəsilə Rəbb Yəhudalıları və Yerusəlimliləri sürgün etdiyi zaman Yehosadaq da sürgün olundu. </verse>
+        <verse osisID='1Chr.6.16'>Levinin oğulları: Gerşon, Qohat və Merari.</verse>
+        <verse osisID='1Chr.6.17'>Gerşonun oğullarının adları belədir: Livni və Şimey.</verse>
+        <verse osisID='1Chr.6.18'>Qohatın oğulları: Amram, İshar, Xevron və Uzziel.</verse>
+        <verse osisID='1Chr.6.19'>Merarinin oğulları: Maxli və Muşi. Nəsillərinə görə Levililərin övladları bunlardır.</verse>
+        <verse osisID='1Chr.6.20'>Gerşonun nəsli: onun oğlu Livni, onun oğlu Yaxat, onun oğlu Zimma,</verse>
+        <verse osisID='1Chr.6.21'>onun oğlu Yoah, onun oğlu İddo, onun oğlu Zerah, onun oğlu Yeatray.</verse>
+        <verse osisID='1Chr.6.22'>Qohatın nəsli: onun oğlu Amminadav, onun oğlu Qorah, onun oğlu Assir,</verse>
+        <verse osisID='1Chr.6.23'>onun oğlu Elqana, onun oğlu Evyasaf, onun oğlu Assir,</verse>
+        <verse osisID='1Chr.6.24'>onun oğlu Taxat, onun oğlu Uriel, onun oğlu Uzziya və onun oğlu Şaul.</verse>
+        <verse osisID='1Chr.6.25'>Elqananın oğulları: Amasay, Aximot və Elqana.</verse>
+        <verse osisID='1Chr.6.26'>Elqananın nəsli: onun oğlu Sofay, onun oğlu Naxat,</verse>
+        <verse osisID='1Chr.6.27'>onun oğlu Eliav, onun oğlu Yeroxam, onun oğlu Elqana.</verse>
+        <verse osisID='1Chr.6.28'>Şamuelin oğulları: ilk oğlu Yoel və ikincisi Aviya.</verse>
+        <verse osisID='1Chr.6.29'>Merarinin nəsli: onun oğlu Maxli, onun oğlu Livni, onun oğlu Şimey, onun oğlu Uzza,</verse>
+        <verse osisID='1Chr.6.30'>onun oğlu Şima, onun oğlu Haqqiya, onun oğlu Asaya. </verse>
+        <verse osisID='1Chr.6.31'>Əhd sandığı rahatlıq yerinə qoyulduqdan sonra Rəbbin evində musiqi xidməti üzərində Davudun qoyduğu adamlar bunlardır.</verse>
+        <verse osisID='1Chr.6.32'>Süleyman Yerusəlimdə Rəbbin məbədini tikənə qədər onlar müqəddəs məskən olan Hüzur çadırının önündə ilahi oxumaqla xidmət edirdilər və növbələrinə görə öz xidmətlərində dayanırdılar.</verse>
+        <verse osisID='1Chr.6.33'>Orada xidmət edənlər və onların oğulları bunlardır: Qohatın nəslindən ilahi oxuyan Heman. Onun nəsil şəcərəsi belədir: Yoel oğlu Şamuel oğlu</verse>
+        <verse osisID='1Chr.6.34'>Elqana oğlu Yeroxam oğlu Eliel oğlu Toah oğlu</verse>
+        <verse osisID='1Chr.6.35'>Suf oğlu Elqana oğlu Maxat oğlu Amasay oğlu</verse>
+        <verse osisID='1Chr.6.36'>Elqana oğlu Yoel oğlu Azarya oğlu Sefanya oğlu</verse>
+        <verse osisID='1Chr.6.37'>Taxat oğlu Assir oğlu Evyasaf oğlu Qorah oğlu</verse>
+        <verse osisID='1Chr.6.38'>İshar oğlu Qohat oğlu Levi oğlu İsrail oğlu.</verse>
+        <verse osisID='1Chr.6.39'>Sağında xidmət edən qohumu Asəf. Onun nəsil şəcərəsi belədir: Berekya oğlu Şima oğlu</verse>
+        <verse osisID='1Chr.6.40'>Mikael oğlu Baaseya oğlu Malkiya oğlu</verse>
+        <verse osisID='1Chr.6.41'>Etni oğlu Zerah oğlu Adaya oğlu</verse>
+        <verse osisID='1Chr.6.42'>Etan oğlu Zimma oğlu Şimey oğlu</verse>
+        <verse osisID='1Chr.6.43'>Yaxat oğlu Gerşon oğlu Levi oğlu.</verse>
+        <verse osisID='1Chr.6.44'>Sol tərəfində xidmət edən qohumları Merarinin nəslindən Etan. Onun nəsil şəcərəsi belədir: Qişi oğlu Avdi oğlu Malluk oğlu</verse>
+        <verse osisID='1Chr.6.45'>Xaşavya oğlu Amasya oğlu Xilqiya oğlu</verse>
+        <verse osisID='1Chr.6.46'>Amsi oğlu Bani oğlu Şemer oğlu</verse>
+        <verse osisID='1Chr.6.47'>Maxli oğlu Muşi oğlu Merari oğlu Levi oğlu.</verse>
+        <verse osisID='1Chr.6.48'>Onların qohumları olan Levililər müqəddəs məskən olan Allah evinin bütün xidmət işlərinə təyin olunmuşdu. </verse>
+        <verse osisID='1Chr.6.49'>Harunun və onun nəslinin öhdəsinə isə bu işlər qoyulmuşdu: yandırma qurbangahında və buxur qurbangahında təqdim gətirilməsi, Ən Müqəddəs yerə aid hər iş – İsraillilərin günahlarını kəffarə etmək üçün Allahın qulu Musanın əmr etdiyi bütün işlər.</verse>
+        <verse osisID='1Chr.6.50'>Harunun nəsli budur: onun oğlu Eleazar, onun oğlu Pinxas, onun oğlu Avişua,</verse>
+        <verse osisID='1Chr.6.51'>onun oğlu Buqqi, onun oğlu Uzzi, onun oğlu Zerahya,</verse>
+        <verse osisID='1Chr.6.52'>onun oğlu Merayot, onun oğlu Amarya, onun oğlu Axituv,</verse>
+        <verse osisID='1Chr.6.53'>onun oğlu Sadoq, onun oğlu Aximaas. </verse>
+        <verse osisID='1Chr.6.54'>Levililərin öz torpaqlarında yaşadığı yerlər bunlardır: ilk püşk Qohat nəslindən olan Harunun övladlarına düşdüyü üçün onlara</verse>
+        <verse osisID='1Chr.6.55'>Yəhuda torpağında olan Xevronu və onun ətrafındakı otlaqları verdilər.</verse>
+        <verse osisID='1Chr.6.56'>Ancaq bu şəhərin çölünü və kəndlərini Yefunne oğlu Kalevə verdilər.</verse>
+        <verse osisID='1Chr.6.57'>Harunun nəslinə bu şəhərləri verdilər: sığınacaq şəhəri olan Xevron, Livna ilə otlaqları, Yattir, Eştemoa ilə otlaqları,</verse>
+        <verse osisID='1Chr.6.58'>Xilenlə otlaqları, Devirlə otlaqları,</verse>
+        <verse osisID='1Chr.6.59'>Aşanla otlaqları, Bet-Şemeşlə otlaqları,</verse>
+        <verse osisID='1Chr.6.60'>Binyamin qəbiləsinin torpağından Geva ilə otlaqları, Alemetlə otlaqları, Anatotla otlaqları. Onların bütün şəhərləri nəsillərinə görə on üç şəhərdir. </verse>
+        <verse osisID='1Chr.6.61'>Digər Qohat övladlarına isə Menaşşe qəbiləsinin yarısının torpağından püşkə görə on şəhər verildi.</verse>
+        <verse osisID='1Chr.6.62'>Gerşon övladlarına nəsillərinə görə İssakar qəbiləsinin, Aşer qəbiləsinin, Naftali qəbiləsinin və Başanda olan Menaşşe qəbiləsinin torpağından on üç şəhər verildi.</verse>
+        <verse osisID='1Chr.6.63'>Merari övladlarına nəsillərinə görə Ruven, Qad və Zevulun qəbilələrinin torpağından püşklə on iki şəhər verildi.</verse>
+        <verse osisID='1Chr.6.64'>İsrail övladları Levililərə bu şəhərləri və onların otlaqlarını verdilər.</verse>
+        <verse osisID='1Chr.6.65'>Yəhuda, Şimeon və Binyamin qəbilələrinin torpağından adları göstərilən bu şəhərləri püşkə görə verdilər. </verse>
+        <verse osisID='1Chr.6.66'>Qohat nəslindən bəzilərinə Efrayim qəbiləsinə aid şəhərləri verdilər.</verse>
+        <verse osisID='1Chr.6.67'>Efrayimin dağlıq bölgəsində sığınacaq şəhəri olan Şekemlə otlaqları, Gezerlə otlaqları,</verse>
+        <verse osisID='1Chr.6.68'>Yoqmeamla otlaqları, Bet-Xoronla otlaqları,</verse>
+        <verse osisID='1Chr.6.69'>Ayyalonla otlaqları, Qat-Rimmonla otlaqları.</verse>
+        <verse osisID='1Chr.6.70'>Menaşşe qəbiləsinin yarısının torpağından Anerlə otlaqları, Bileamla otlaqları Qohat nəslinin qalanına verildi. </verse>
+        <verse osisID='1Chr.6.71'>Gerşon nəslinə bu yerlər verildi: oğullarına Menaşşe qəbiləsinin yarısının torpağından Başandakı Qolanla otlaqları, Aştarotla otlaqları,</verse>
+        <verse osisID='1Chr.6.72'>İssakar qəbiləsinin torpağından Qedeşlə otlaqları, Davratla otlaqları,</verse>
+        <verse osisID='1Chr.6.73'>Ramotla otlaqları, Anemlə otlaqları,</verse>
+        <verse osisID='1Chr.6.74'>Aşer qəbiləsinin torpağından Maşalla otlaqları, Avdonla otlaqları,</verse>
+        <verse osisID='1Chr.6.75'>Xuqoqla otlaqları, Rexovla otlaqları,</verse>
+        <verse osisID='1Chr.6.76'>Naftali qəbiləsinin torpağından Qalileyada olan Qedeşlə otlaqları, Xammonla otlaqları, Qiryatayimlə otlaqları. </verse>
+        <verse osisID='1Chr.6.77'>Merari nəslinin digər adamlarına bu yerlər verildi: Zevulun qəbiləsinin torpağından Rimmono ilə otlaqları, Tavorla otlaqları,</verse>
+        <verse osisID='1Chr.6.78'>Yerixonun qarşısındakı, İordan çayının şərq tərəfində olan Ruven qəbiləsinin torpağından səhradakı Beserlə otlaqları, Yahsa ilə otlaqları,</verse>
+        <verse osisID='1Chr.6.79'>Qedemotla otlaqları, Mefaatla otlaqları,</verse>
+        <verse osisID='1Chr.6.80'>Qad qəbiləsinin torpağından Gileaddakı Ramotla otlaqları, Maxanayimlə otlaqları,</verse>
+        <verse osisID='1Chr.6.81'>Xeşbonla otlaqları, Yazerlə otlaqları.  </verse>
+      </chapter>
+      <chapter osisID='1Chr.7'>
+        <verse osisID='1Chr.7.1'>
+          İssakarın oğulları: Tola, Pua, Yaşuv və Şimron – cəmisi dörd nəfər.</verse>
+        <verse osisID='1Chr.7.2'>Tolanın oğulları: Uzzi, Refaya, Yeriel, Yaxmay, İvsam və Şamuel. Bunlar Tolanın nəsil başçıları idi. Davudun dövründə onların nəslindən olan igid döyüşçülər iyirmi iki min altı yüz nəfər idi.</verse>
+        <verse osisID='1Chr.7.3'>Uzzinin nəsli: İzrahya və onun oğulları: Mikael, Avdiya, Yoel, İşşiya – cəmisi beş nəfər. Onların hamısı başçı idi.</verse>
+        <verse osisID='1Chr.7.4'>Bunlardan başqa nəsil şəcərələrinə görə döyüşə bilən dəstələrdə otuz altı min nəfər var idi, çünki onların çoxlu arvadları və oğulları var idi.</verse>
+        <verse osisID='1Chr.7.5'>İssakarın bütün nəsilləri arasında igid döyüşçülər olan qohumları nəsil şəcərəsinə görə cəmisi səksən yeddi min nəfər idi. </verse>
+        <verse osisID='1Chr.7.6'>Binyaminin oğulları: Bela, Beker və Yediael – cəmisi üç nəfər.</verse>
+        <verse osisID='1Chr.7.7'>Belanın oğulları: Esbon, Uzzi, Uzziel, Yerimot və İri – cəmisi beş nəfər nəsil başçısı. Onların nəslindən olan igid döyüşçülər nəsil şəcərələrinə görə iyirmi iki min otuz dörd nəfər idi.</verse>
+        <verse osisID='1Chr.7.8'>Bekerin oğulları: Zemira, Yoaş, Eliezer, Elyoenay, Omri, Yeremot, Aviya, Anatot və Alemet. Bunların hamısı Bekerin oğulları idi.</verse>
+        <verse osisID='1Chr.7.9'>Nəsil başçılarının şəcərəsinə görə onların igid döyüşçüləri iyirmi min iki yüz nəfər idi.</verse>
+        <verse osisID='1Chr.7.10'>Yediaelin nəsli: Bilhan və onun oğulları Yeuş, Binyamin, Ehud, Kenaana, Zetan, Tarşiş və Axişaxar.</verse>
+        <verse osisID='1Chr.7.11'>Bunların hamısı Yediaelin nəsil başçıları idi. Onlardan döyüşə bilən igid döyüşçülər on yeddi min iki yüz nəfər idi.</verse>
+        <verse osisID='1Chr.7.12'>İrin nəsilləri: Şuflular və Xuflular. Xuşlular isə Axerin nəslindən idi. </verse>
+        <verse osisID='1Chr.7.13'>Naftalinin oğulları: Yaxasiel, Quni, Yeser, Şallum. Bunlar Bilhanın nəsilləri idi. </verse>
+        <verse osisID='1Chr.7.14'>Menaşşenin oğulları: Aramlı cariyəsinin doğduğu Asriel, həmin qadının doğduğu Gileadın atası Makir.</verse>
+        <verse osisID='1Chr.7.15'>Makir Xuflulardan və Şuflulardan bir arvad aldı. Onun bacısının adı Maaka idi. Selofxad isə onların qohumu idi. Onun yalnız qızları var idi.</verse>
+        <verse osisID='1Chr.7.16'>Makirin arvadının da adı Maaka idi. O, bir oğul doğub adını Pereş qoydu. Pereşin qardaşının adı Şereş idi, onun oğulları isə Ulam və Reqem idi.</verse>
+        <verse osisID='1Chr.7.17'>Ulamın oğlu Bedan idi. Menaşşe oğlu Makir oğlu Gileadın nəsli bunlardır.</verse>
+        <verse osisID='1Chr.7.18'>Onun bacısı Hammoleket İşhodu, Aviezeri və Maxlanı doğdu.</verse>
+        <verse osisID='1Chr.7.19'>Şemidanın oğulları: Axyan, Şekem, Liqxi və Aniam. </verse>
+        <verse osisID='1Chr.7.20'>Efrayimin nəsli: Şutelah, onun oğlu Bered, onun oğlu Taxat, onun oğlu Eleada, onun oğlu Taxat,</verse>
+        <verse osisID='1Chr.7.21'>onun oğlu Zavad, onun oğlu Şutelah. Efrayimin başqa oğulları Ezer və Eleadı o torpağın yerli sakinləri olan Qatlılar öldürdü, çünki onların heyvanlarını oğurlamağa getmişdilər.</verse>
+        <verse osisID='1Chr.7.22'>Ataları Efrayim uzun müddət onlara yas tutdu və qohumları ona təsəlli vermək üçün gəldi.</verse>
+        <verse osisID='1Chr.7.23'>Sonra o, arvadının yanına girdi, qadın hamilə oldu və bir oğul doğdu. Atası onun adını Beria  qoydu, çünki evinə bəla üz vermişdi.</verse>
+        <verse osisID='1Chr.7.24'>Onun Şeera adlı qızı da var idi. O, Aşağı və Yuxarı Bet-Xoronu, Uzzen-Şeeranı tikdi.</verse>
+        <verse osisID='1Chr.7.25'>Efrayimin başqa oğlu Refah, onun oğlu Reşef, onun oğlu Telah, onun oğlu Taxan,</verse>
+        <verse osisID='1Chr.7.26'>onun oğlu Ladan, onun oğlu Ammihud, onun oğlu Elişama,</verse>
+        <verse osisID='1Chr.7.27'>onun oğlu Nun, onun oğlu Yeşua.</verse>
+        <verse osisID='1Chr.7.28'>Onların mülkləri və yaşadıqları yerlər bunlardır: Bet-Ellə qəsəbələri, şərq tərəfdə Naaran, qərb tərəfdə Gezerlə qəsəbələri, Şekemlə qəsəbələri, Ayya ilə qəsəbələri,</verse>
+        <verse osisID='1Chr.7.29'>həm də Menaşşelilərin torpağına yaxın olan Bet-Şeanla qəsəbələri, Taanakla qəsəbələri, Megiddo ilə qəsəbələri, Dorla qəsəbələri. İsrail oğlu Yusifin nəsli bu yerlərdə yaşadı. </verse>
+        <verse osisID='1Chr.7.30'>Aşerin övladları: İmna, İşva, İşvi, Beria və onların bacısı Serah.</verse>
+        <verse osisID='1Chr.7.31'>Berianın oğulları: Xever və Birzayitin atası olan Malkiel.</verse>
+        <verse osisID='1Chr.7.32'>Xever bunların atası idi: Yaflet, Şomer, Xotam və onların bacısı Şua.</verse>
+        <verse osisID='1Chr.7.33'>Yafletin oğulları bunlardır: Pasak, Bimhal və Aşvat.</verse>
+        <verse osisID='1Chr.7.34'>Şemerin oğulları: Axi, Rohqa, Xubba və Aram.</verse>
+        <verse osisID='1Chr.7.35'>Onun qardaşı Helemin oğulları: Sofah, İmna, Şeleş və Amal.</verse>
+        <verse osisID='1Chr.7.36'>Sofahın oğulları: Suah, Xarnefer, Şual, Beri, İmra,</verse>
+        <verse osisID='1Chr.7.37'>Beser, Hod, Şamma, Şilşa, İtran və Beera.</verse>
+        <verse osisID='1Chr.7.38'>Yeterin oğulları: Yefunne, Pispa və Ara.</verse>
+        <verse osisID='1Chr.7.39'>Ullanın oğulları: Arah, Xanniel və Risya.</verse>
+        <verse osisID='1Chr.7.40'>Aşerin nəslindən olan bu adamların hamısı nəsil başçıları, seçilmiş adamlar, igid döyüşçülər və baş rəislər idi. Onlardan döyüşə bilən adamlar nəsil şəcərələrinə görə iyirmi altı min nəfər idi.  </verse>
+      </chapter>
+      <chapter osisID='1Chr.8'>
+        <verse osisID='1Chr.8.1'>
+          Binyaminin oğulları bunlardır: ilk oğlu Bela, ikincisi Aşbel, üçüncüsü Axrah,</verse>
+        <verse osisID='1Chr.8.2'>dördüncüsü Noxa, beşincisi Rafa.</verse>
+        <verse osisID='1Chr.8.3'>Belanın oğulları bunlardır: Addar, Gera, Avihud,</verse>
+        <verse osisID='1Chr.8.4'>Avişua, Naaman, Axoah,</verse>
+        <verse osisID='1Chr.8.5'>Gera, Şefufan və Xuram.</verse>
+        <verse osisID='1Chr.8.6'>Gevada yaşayanların nəsil başçıları olan, sonra isə Manaxata köçürülən Ehudun oğulları bunlardır:</verse>
+        <verse osisID='1Chr.8.7'>Naaman, Axiya və onları köçürən Gera. Geradan Uzza və Axixud törədi.</verse>
+        <verse osisID='1Chr.8.8'>Şaxarayim arvadları Xuşim və Baaranı boşadıqdan sonra Moav ölkəsində övlad atası oldu,</verse>
+        <verse osisID='1Chr.8.9'>arvadı Xodeş ona bunları doğdu: Yovav, Sivya, Meşa, Malkam,</verse>
+        <verse osisID='1Chr.8.10'>Yeus, Sakya və Mirma. Onun bu oğulları nəsil başçıları idi.</verse>
+        <verse osisID='1Chr.8.11'>Xuşim isə ona Avituvu və Elpaalı doğmuşdu.</verse>
+        <verse osisID='1Chr.8.12'>Elpaalın oğulları: Ever, Mişam və Şamed. Şamed Ono ilə Lodu, onun qəsəbələrini tikdi.</verse>
+        <verse osisID='1Chr.8.13'>Ayyalonda yaşayanların nəsil başçıları Beria və Şema idi. Onlar Qatda yaşayanları qovdu.</verse>
+        <verse osisID='1Chr.8.14'>Berianın oğulları: Axyo, Şaşaq, Yeremot,</verse>
+        <verse osisID='1Chr.8.15'>Zevadya, Arad, Eder,</verse>
+        <verse osisID='1Chr.8.16'>Mikael, İşpa və Yoxa.</verse>
+        <verse osisID='1Chr.8.17'>Elpaalın oğulları: Zevadya, Meşullam, Xizqi, Xever,</verse>
+        <verse osisID='1Chr.8.18'>İşmeray, İzlia və Yovav.</verse>
+        <verse osisID='1Chr.8.19'>Şimeyin oğulları: Yaqim, Zikri, Zavdi,</verse>
+        <verse osisID='1Chr.8.20'>Elienay, Silletay, Eliel,</verse>
+        <verse osisID='1Chr.8.21'>Adaya, Beraya və Şimrat.</verse>
+        <verse osisID='1Chr.8.22'>Şaşaqın oğulları: İşpan, Ever, Eliel,</verse>
+        <verse osisID='1Chr.8.23'>Avdon, Zikri, Xanan,</verse>
+        <verse osisID='1Chr.8.24'>Xananya, Elam, Antotiya,</verse>
+        <verse osisID='1Chr.8.25'>İfdeya və Penuel.</verse>
+        <verse osisID='1Chr.8.26'>Yeroxamın oğulları: Şamşeray, Şexarya, Atalya,</verse>
+        <verse osisID='1Chr.8.27'>Yaareşya, İlyas və Zikri.</verse>
+        <verse osisID='1Chr.8.28'>Bunlar nəsil şəcərələrinə görə nəsil başçıları idi və Yerusəlimdə yaşadılar. </verse>
+        <verse osisID='1Chr.8.29'>Giveonun atası Yeiel Giveonda yaşayırdı və arvadının adı Maaka idi.</verse>
+        <verse osisID='1Chr.8.30'>İlk oğlu Avdon idi, o biriləri isə bunlar idi: Sur, Qiş, Baal, Nadav,</verse>
+        <verse osisID='1Chr.8.31'>Qedor, Axyo, Zeker,</verse>
+        <verse osisID='1Chr.8.32'>Şimanın atası Miqlot. Onlar qohumlarının yanında, Yerusəlimdə qohumları ilə birgə yaşayırdı.</verse>
+        <verse osisID='1Chr.8.33'>Nerdən Qiş törədi və Qişdən Şaul törədi. Şauldan Yonatan, Malki-Şua, Avinadav və Eşbaal  törədi.</verse>
+        <verse osisID='1Chr.8.34'>Yonatanın oğlu Merib-Baal  idi. Merib-Baaldan Mikeya törədi.</verse>
+        <verse osisID='1Chr.8.35'>Mikeyanın oğulları: Piton, Melek, Tarea və Axaz.</verse>
+        <verse osisID='1Chr.8.36'>Axazdan Yehoadda törədi. Yehoaddadan Alemet, Azmavet və Zimri törədi. Zimridən Mosa törədi.</verse>
+        <verse osisID='1Chr.8.37'>Mosadan Bina törədi. Binanın oğlu Rafa, onun oğlu Elasa, onun oğlu Asel.</verse>
+        <verse osisID='1Chr.8.38'>Aselin altı oğlu var idi, onların adları belədir: Azriqam, Bokru, İsmail, Şearya, Avdiya və Xanan. Bunların hamısı Aselin oğulları idi.</verse>
+        <verse osisID='1Chr.8.39'>Onun qardaşı Eseqin oğulları: ilk oğlu Ulam, ikincisi Yeuş və üçüncüsü Elifelet.</verse>
+        <verse osisID='1Chr.8.40'>Ulamın oğulları oxatan igid döyüşçülər idi. Oğulları və nəvələri çox idi: yüz əlli nəfər. Bunların hamısı Binyaminin nəslindəndir.  </verse>
+      </chapter>
+      <chapter osisID='1Chr.9'>
+        <verse osisID='1Chr.9.1'>
+         Yəhudalılar xainliklərinə görə Babilə sürgün olunmuşdu.</verse>
+        <verse osisID='1Chr.9.2'>İlk dəfə mülklərinə qayıdıb yaşayanlar İsraillilərdən bəzi adamlar, kahinlər, Levililər və məbəd qulluqçuları idi.</verse>
+        <verse osisID='1Chr.9.3'>Yerusəlimdə isə Yəhudalılardan, Binyaminlilərdən, Efrayimlilərdən və Menaşşelilərdən olan bu adamlar yaşadı.</verse>
+        <verse osisID='1Chr.9.4'>Yəhudanın oğlu Peresin nəslindən: Bani oğlu İmri oğlu Omri oğlu Ammihud oğlu Utay.</verse>
+        <verse osisID='1Chr.9.5'>Şelanın nəslindən: ilk oğlu Asaya və onun oğulları.</verse>
+        <verse osisID='1Chr.9.6'>Zerahın nəslindən: Yeuel və onun qohumları. Hamısı birlikdə altı yüz doxsan nəfər idi.</verse>
+        <verse osisID='1Chr.9.7'>Binyaminin nəslindən: Hassenua oğlu Hodavya oğlu Meşullam oğlu Sallu,</verse>
+        <verse osisID='1Chr.9.8'>Yeroxam oğlu İvniya, Mikri oğlu Uzzi oğlu Ela və İvniya oğlu Reuel oğlu Şefatya oğlu Meşullam.</verse>
+        <verse osisID='1Chr.9.9'>Onlar qohumları ilə birgə nəsil şəcərələrinə görə doqquz yüz əlli altı nəfər idi. Bunların hamısı nəsil başçıları idi. </verse>
+        <verse osisID='1Chr.9.10'>Kahinlərdən: Yedaya, Yehoyariv, Yakin,</verse>
+        <verse osisID='1Chr.9.11'>Allah məbədinin rəisi Axituv oğlu Merayot oğlu Sadoq oğlu Meşullam oğlu Xilqiya oğlu Azarya,</verse>
+        <verse osisID='1Chr.9.12'>Malkiya oğlu Paşxur oğlu Yeroxam oğlu Adaya və İmmer oğlu Meşillemit oğlu Meşullam oğlu Yaxzera oğlu Adiel oğlu Maasay.</verse>
+        <verse osisID='1Chr.9.13'>Bunlar nəsil başçıları idi. Onlar qohumları ilə birgə – Allah evinin xidməti işində bacarıqlı olan bu adamlar min yeddi yüz altmış nəfər idi. </verse>
+        <verse osisID='1Chr.9.14'>Levililərdən: Merarinin nəslindən Xaşavya oğlu Azriqam oğlu Xaşşuv oğlu Şemaya,</verse>
+        <verse osisID='1Chr.9.15'>Baqbaqqar, Xereş, Qalal, Asəf oğlu Zikri oğlu Mikeya oğlu Mattanya,</verse>
+        <verse osisID='1Chr.9.16'>Yedutun oğlu Qalal oğlu Şemaya oğlu Avdiya və Netofalıların kəndlərində yaşayan Elqana oğlu Asa oğlu Berekya. </verse>
+        <verse osisID='1Chr.9.17'>Qapıçılar: Şallum, Aqquv, Talmon, Aximan və onların qohumları. Şallum onların başçısı idi.</verse>
+        <verse osisID='1Chr.9.18'>Onlar bu günə qədər də məbədin şərq tərəfdəki padşah qapısında keşik çəkirlər. Levililərin düşərgə qapıçıları bunlardır.</verse>
+        <verse osisID='1Chr.9.19'>Qorah oğlu Evyasaf oğlu Qore oğlu Şallum və onun Qorah nəslindən olan qohumları məbədin astanalarında keşik çəkənlərin xidmət işinə başçılıq edirdi. Əvvəllər onların babaları Rəbbin düşərgəsinin girəcək yerinin keşiyini çəkirdi.</verse>
+        <verse osisID='1Chr.9.20'>Eleazar oğlu Pinxas onların başçısı idi və Rəbb onunla idi.</verse>
+        <verse osisID='1Chr.9.21'>Hüzur çadırının girişində Meşelemya oğlu Zəkəriyyə qapıçı idi.</verse>
+        <verse osisID='1Chr.9.22'>Astanalarda qapıçı olmaq üçün seçilən bütün bu adamlar iki yüz on iki nəfər idi. Onlar öz kəndlərində nəsil şəcərələrində qeyd edilmişlər. Onları vəzifələrinə Davud və görücü Şamuel təyin etmişdi.</verse>
+        <verse osisID='1Chr.9.23'>Bu adamlar və onların nəsilləri çadırın və Rəbbin məbədinin qapılarında keşik çəkirdi.</verse>
+        <verse osisID='1Chr.9.24'>Bu qapıçılar məbədin dörd tərəfində – şərq, qərb, şimal və cənub qapılarında dururdu.</verse>
+        <verse osisID='1Chr.9.25'>Öz kəndlərində yaşayan qohumları vaxtaşırı yeddi günlüyə onların yanına gəlməli idi.</verse>
+        <verse osisID='1Chr.9.26'>Allah evinin otaqlarının və xəzinələrinin keşiyini çəkmək Levili olan qapıçıların dörd nəfər rəisinin öhdəsində idi.</verse>
+        <verse osisID='1Chr.9.27'>Onlar gecə də Allah evinin ətrafında qalırdı, çünki onun keşiyini çəkmək və hər səhər qapıları açmaq onların işi idi. </verse>
+        <verse osisID='1Chr.9.28'>Onların bəzisi xidmət üçün olan qablara baxırdı: bunları sayıb içəri gətirir və sayıb bayıra aparırdılar.</verse>
+        <verse osisID='1Chr.9.29'>Bəziləri isə başqa əşyalar, bütün təqdis olunmuş şeylər və un, şərab, yağ, kündür, ətriyyatlar üzərində nəzarətçi qoyulmuşdu.</verse>
+        <verse osisID='1Chr.9.30'>Kahinlərdən bəzisi ətriyyatlardan qatışıq maddə hazırlayırdı.</verse>
+        <verse osisID='1Chr.9.31'>Kökələr bişirilməsi Qorah nəslindən olan Şallumun ilk oğlu olan Levili Mattityanın öhdəsində idi.</verse>
+        <verse osisID='1Chr.9.32'>Onların Qohat nəslindən olan qohumlarından bəzisinə isə hər Şənbə günü çörək hazırlanması tapşırılmışdı. </verse>
+        <verse osisID='1Chr.9.33'>Levililərin nəsil başçıları olan ilahiçilər başqa xidmətdən azad olub məbədin otaqlarında qalırdılar, çünki onlar gecə-gündüz öz işləri ilə məşğul olmalı idi.</verse>
+        <verse osisID='1Chr.9.34'>Bunlar nəsil şəcərələrinə görə Levililərin nəsil başçıları idi və Yerusəlimdə yaşayırdılar. </verse>
+        <verse osisID='1Chr.9.35'>Giveonun atası Yeiel Giveonda yaşayırdı və arvadının adı Maaka idi.</verse>
+        <verse osisID='1Chr.9.36'>İlk oğlu Avdon idi, o biriləri isə bunlar idi: Sur, Qiş, Baal, Ner, Nadav,</verse>
+        <verse osisID='1Chr.9.37'>Qedor, Axyo, Zəkəriyyə və Miqlot.</verse>
+        <verse osisID='1Chr.9.38'>Miqlotdan Şima törədi. Onlar qohumlarının yanında, Yerusəlimdə qohumları ilə birgə yaşayırdılar.</verse>
+        <verse osisID='1Chr.9.39'>Nerdən Qiş törədi. Qişdən Şaul törədi. Şauldan Yonatan, Malki-Şua, Avinadav və Eşbaal törədi.</verse>
+        <verse osisID='1Chr.9.40'>Yonatanın oğlu Merib-Baal idi. Merib-Baaldan Mikeya törədi.</verse>
+        <verse osisID='1Chr.9.41'>Mikeyanın oğulları: Piton, Melek, Taxrea və Axaz.</verse>
+        <verse osisID='1Chr.9.42'>Axazdan Yehoadda  törədi. Yehoaddadan Alemet, Azmavet və Zimri törədi. Zimridən Mosa törədi.</verse>
+        <verse osisID='1Chr.9.43'>Mosadan Bina törədi. Binanın oğlu Rafa, onun oğlu Elasa, onun oğlu Asel.</verse>
+        <verse osisID='1Chr.9.44'>Aselin altı oğlu var idi, onların adları belədir: Azriqam, Bokru, İsmail, Şearya, Avdiya və Xanan. Bunların hamısı Aselin oğulları idi.  </verse>
+      </chapter>
+      <chapter osisID='1Chr.10'>
+        <verse osisID='1Chr.10.1'>
+          Filiştlilər İsraillilərlə döyüşdü. İsraillilər Filiştlilərin önündən qaçdılar və qırılanlar Gilboa dağında qaldı.</verse>
+        <verse osisID='1Chr.10.2'>Filiştlilər Şaulla oğullarını təqib edib Şaulun oğulları Yonatanı, Avinadavı və Malki-Şuanı öldürdülər.</verse>
+        <verse osisID='1Chr.10.3'>Döyüş Şaulun ətrafında şiddətlənəndə oxatanlar onu tapdılar və ağır yaraladılar.</verse>
+        <verse osisID='1Chr.10.4'>Şaul öz silahdarına dedi: «Qılıncını çək, məni vur, yoxsa bu sünnətsizlər gəlib mənimlə əylənəcəklər». Lakin silahdarı çox qorxduğundan bunu etmək istəmədi. Ona görə də Şaul qılıncını götürüb özünü onun üstünə yıxdı.</verse>
+        <verse osisID='1Chr.10.5'>Şaulun öldüyünü görəndə silahdarı da özünü qılıncının üstünə yıxıb Şaulla birgə öldü.</verse>
+        <verse osisID='1Chr.10.6'>Beləcə Şaul və üç oğlu öldü, bütün nəsli də onunla birgə öldü.</verse>
+        <verse osisID='1Chr.10.7'>Dərədə olan bütün İsraillilər öz ordularının qaçdığını və Şaulla oğullarının öldüyünü görəndə şəhərlərini qoyub qaçdılar. Filiştlilər gəlib o yerlərdə yaşadı. </verse>
+        <verse osisID='1Chr.10.8'>Ertəsi gün Filiştlilər öldürülənləri soymaq üçün gələndə Gilboa dağında Şaulla oğullarının meyitini tapdılar.</verse>
+        <verse osisID='1Chr.10.9'>Onun paltarlarını soyundurdular, başını və silahlarını götürdülər, öz bütlərinin məbədinə və xalqa xoş xəbər vermək üçün Filiştlilərin ölkəsinin hər tərəfinə qasid göndərdilər.</verse>
+        <verse osisID='1Chr.10.10'>Şaulun silahlarını öz allahlarının məbədinə qoydular və başını Daqon məbədinə mıxladılar.</verse>
+        <verse osisID='1Chr.10.11'>Yaveş-Gilead əhalisi Filiştlilərin Şaula etdiklərini eşidəndə</verse>
+        <verse osisID='1Chr.10.12'>onların bütün igidləri qalxıb Şaulla oğullarının cəsədini götürərək Yaveşə gətirdilər. Onların sümüklərini götürüb Yaveşdə olan palıd ağacının altında basdırdılar və yeddi gün oruc tutdular. </verse>
+        <verse osisID='1Chr.10.13'>Beləcə Şaul Rəbbə qarşı xainlik etdiyi üçün öldü. O, Rəbbin sözünə əməl etməyib cindara müraciət etdi,</verse>
+        <verse osisID='1Chr.10.14'>amma Rəbdən məsləhət istəmədi. Ona görə də Rəbb onu öldürdü və padşahlığı Yesseyin oğlu Davuda verdi.  </verse>
+      </chapter>
+      <chapter osisID='1Chr.11'>
+        <verse osisID='1Chr.11.1'>
+          Bütün İsraillilər Xevrona, Davudun yanına toplaşıb dedilər: «Bax biz sənin sümüyündən, sənin ətindənik.</verse>
+        <verse osisID='1Chr.11.2'>Əvvəlki vaxtlarda, Şaul padşahımız olanda da İsrailliləri yürüşlərə aparan və gətirən sən idin. Allahın Rəbb sənə demişdi ki, xalqım İsrailə sən çobanlıq edəcəksən, xalqım İsrail üzərində sən hökmdar olacaqsan».</verse>
+        <verse osisID='1Chr.11.3'>İsrailin bütün ağsaqqalları Xevrona, padşahın yanına gəldilər. Davud Xevronda, Rəbbin önündə onlarla əhd bağladı və onlar Şamuel vasitəsilə Rəbbin söylədiyi sözə görə Davudu İsrail üzərində padşah olmaq üçün məsh etdilər. </verse>
+        <verse osisID='1Chr.11.4'>Davud və bütün İsraillilər Yerusəlimə gəldilər. O vaxt şəhər Yevus adlanırdı və burada Yevuslular yaşayırdı.</verse>
+        <verse osisID='1Chr.11.5'>Onlar Davuda dedilər: «Sən buraya girə bilməzsən». Ancaq Davud indi «Davudun şəhəri» adlanan Sion qalasını aldı.</verse>
+        <verse osisID='1Chr.11.6'>Davud dedi: «Yevusluları hamıdan əvvəl kim məğlub etsə, rəis və ordu başçısı o olacaq». Seruya oğlu Yoav hamıdan əvvəl Yevusa qalxdı və buna görə də o, başçı oldu.</verse>
+        <verse osisID='1Chr.11.7'>Davud qalada məskən saldı və buna görə onu «Davudun şəhəri» adlandırdılar.</verse>
+        <verse osisID='1Chr.11.8'>O, qala yamacından qalanın ətrafına qədər bütün yerləri tikdi. Yoav isə şəhərin qalan hissəsini bərpa etdi.</verse>
+        <verse osisID='1Chr.11.9'>Davud getdikcə yüksəlirdi, çünki Ordular Rəbbi onunla idi. </verse>
+        <verse osisID='1Chr.11.10'>Davudun igid döyüşçülərinin başçıları bütün İsraillilərlə birgə Rəbbin sözünə görə Davudu İsrail üzərində padşah etmək üçün onun padşahlığında şücaət göstərirdilər.</verse>
+        <verse osisID='1Chr.11.11'>Davudun igid döyüşçülərinin siyahısı belədir: «otuz igid»in başçısı olan Xakmoni oğlu Yaşoveam. O, bir hücumda üç yüz nəfəri nizəsi ilə vurub öldürdü.</verse>
+        <verse osisID='1Chr.11.12'>Ondan sonra «üç igid»dən biri olan Axoahlı Dodo oğlu Eleazar idi.</verse>
+        <verse osisID='1Chr.11.13'>Filiştlilər döyüşmək üçün Pas-Dammimdə toplaşanda o da Davudla birgə orada idi. Orada arpa əkilən bir tarla sahəsi var idi. Xalq Filiştlilərin önündən qaçdı.</verse>
+        <verse osisID='1Chr.11.14'>Lakin Eleazar və döyüşçüləri bu sahənin ortasında durub oranı qorudular və Filiştliləri qırdılar. Rəbb İsrailliləri xilas edib böyük zəfər qazandırdı. </verse>
+        <verse osisID='1Chr.11.15'>Otuz başçı arasından «üç igid» qayaya, Davudun yanına, Adullam mağarasına enib gəldi. Filiştlilərin ordusu Refaim vadisində ordugah qurmuşdu.</verse>
+        <verse osisID='1Chr.11.16'>Bu zaman Davud qalada idi, Filiştlilərin bir keşikçi dəstəsi isə Bet-Lexemdə idi.</verse>
+        <verse osisID='1Chr.11.17'>Davud həsrət çəkərək dedi: «Kaş ki biri Bet-Lexem darvazasının yanındakı quyudan mənə içmək üçün su gətirəydi!»</verse>
+        <verse osisID='1Chr.11.18'>Bu üç nəfər Filiştlilərin ordugahını yararaq darvazanın yanında olan Bet-Lexem quyusundan su çəkdilər və onu götürüb Davuda gətirdilər. Lakin Davud suyu içmək istəmədi və Rəbbə təqdim olaraq yerə tökdü.</verse>
+        <verse osisID='1Chr.11.19'>O dedi: «Allahım bunu etməkdən məni uzaq eləsin. Bu adamların qanını içəcəyəmmi? Axı canlarını təhlükəyə salaraq bu suyu gətirdilər». Buna görə də bu suyu içmək istəmədi. Bunları «üç igid» etmişdi. </verse>
+        <verse osisID='1Chr.11.20'>Yoavın qardaşı Avişay bu «üç igid»in başçısı idi. O, nizəsini qaldırıb üç yüz nəfəri qırdı. Buna görə də onun adı «üç igid»in adı qədər şöhrətləndi.</verse>
+        <verse osisID='1Chr.11.21'>Əslində «üç igid»dən ikiqat artıq şöhrəti var idi və onlara başçı oldu, lakin «üç igid» kimi deyildi. </verse>
+        <verse osisID='1Chr.11.22'>Yehoyada oğlu Benaya da böyük işlər görmüş igid adam idi. O, Qavseeldən gəlmişdi. Benaya iki Moavlı igidi öldürdü. O, qarlı gündə çuxura enib bir şir öldürdü.</verse>
+        <verse osisID='1Chr.11.23'>O həm də boyu beş qulac olan bir Misirlini öldürdü. Misirlinin əlində toxucu dəzgahının əriş ağacı boyda nizə var idi. Benaya onun üstünə dəyənəklə getdi, nizəni Misirlinin əlindən çəkib aldı və onu öz nizəsi ilə öldürdü.</verse>
+        <verse osisID='1Chr.11.24'>Bunları Yehoyada oğlu Benaya etdi, buna görə də onun «üç igid» qədər şöhrəti var idi.</verse>
+        <verse osisID='1Chr.11.25'>O, «otuz igid»dən daha şöhrətli idi, lakin «üç igid» kimi deyildi. Davud onu öz mühafizəçilərinə başçı qoydu. </verse>
+        <verse osisID='1Chr.11.26'>Ordunun igid döyüşçüləri bunlardır: Yoavın qardaşı Asahel, Bet-Lexemli Dodo oğlu Elxanan,</verse>
+        <verse osisID='1Chr.11.27'>Harorlu Şammot, Pelonlu Xeles,</verse>
+        <verse osisID='1Chr.11.28'>Teqoalı İqqeş oğlu İra, Anatotlu Aviezer,</verse>
+        <verse osisID='1Chr.11.29'>Xuşalı Sibbekay, Axoahlı İlay,</verse>
+        <verse osisID='1Chr.11.30'>Netofalı Mahray, Netofalı Baana oğlu Xeled,</verse>
+        <verse osisID='1Chr.11.31'>Binyamin övladlarından Givealı Rivay oğlu Yetay, Piratonlu Benaya,</verse>
+        <verse osisID='1Chr.11.32'>Qaaş vadisindən olan Xuray, Aravalı Aviel,</verse>
+        <verse osisID='1Chr.11.33'>Baxarumlu Azmavet, Şaalvonlu Elyaxba,</verse>
+        <verse osisID='1Chr.11.34'>Gizonlu Haşemin oğulları, Hararlı Şage oğlu Yonatan,</verse>
+        <verse osisID='1Chr.11.35'>Hararlı Sakar oğlu Axiam, Ur oğlu Elifal,</verse>
+        <verse osisID='1Chr.11.36'>Mekeralı Xefer, Pelonlu Axiya,</verse>
+        <verse osisID='1Chr.11.37'>Karmelli Xesro, Ezbay oğlu Naaray,</verse>
+        <verse osisID='1Chr.11.38'>Natanın qardaşı Yoel, Haqri oğlu Mivxar,</verse>
+        <verse osisID='1Chr.11.39'>Ammonlu Seleq, Seruya oğlu Yoavın silahdarı olan Beerotlu Naxray,</verse>
+        <verse osisID='1Chr.11.40'>Yeterli İra, Yeterli Qarev,</verse>
+        <verse osisID='1Chr.11.41'>Xetli Uriya, Axlay oğlu Zavad,</verse>
+        <verse osisID='1Chr.11.42'>Ruvenlilərin başçısı Ruvenli Şiza oğlu Adina və onunla birgə otuz nəfər,</verse>
+        <verse osisID='1Chr.11.43'>Maaka oğlu Xanan və Metenli Yehoşafat,</verse>
+        <verse osisID='1Chr.11.44'>Aşteratlı Uzziya, Aroerli Xotamın oğulları Şama və Yeiel,</verse>
+        <verse osisID='1Chr.11.45'>Şimri oğlu Yediael və qardaşı Tisli Yoxa,</verse>
+        <verse osisID='1Chr.11.46'>Maxavlı Eliel və Elnaamın oğulları Yerivay, Yoşavya və Moavlı Yetma,</verse>
+        <verse osisID='1Chr.11.47'>Eliel, Oved və Mesovalı Yaasiel.  </verse>
+      </chapter>
+      <chapter osisID='1Chr.12'>
+        <verse osisID='1Chr.12.1'>
+          Davud, Qiş oğlu Şauldan gizlənən vaxt bir neçə nəfər Ziqlaqa, Davudun yanına gəldi. Onlar döyüşdə ona kömək edən igidlər arasında idi.</verse>
+        <verse osisID='1Chr.12.2'>Binyamin nəslindən, Şaulun qohumlarından olan bu adamlar ox-kamanla silahlanıb sağ və sol əllə sapanddan daş atmağı və kamanla ox atmağı bacarırdı. Onların adları belədir:</verse>
+        <verse osisID='1Chr.12.3'>onların başçısı olan Givealı Şemaanın oğulları, Axiezer və Yoaş, Azmavetin oğulları Yeziel və Pelet, Beraka və Anatotlu Yehu,</verse>
+        <verse osisID='1Chr.12.4'>«otuz igid»dən biri olan və onlara başçılıq edən Giveonlu İşmaya, Yeremya, Yaxaziel, Yoxanan, Gederalı Yozavad,</verse>
+        <verse osisID='1Chr.12.5'>Eluzay, Yerimot, Bealya, Şemarya, Xaruflu Şefatya,</verse>
+        <verse osisID='1Chr.12.6'>Qorahın nəslindən olan Elqana, İşşiya, Azarel, Yoezer, Yaşoveam,</verse>
+        <verse osisID='1Chr.12.7'>Qedorlu Yeroxam oğulları Yoela və Zevadya. </verse>
+        <verse osisID='1Chr.12.8'>Qadlılardan sipər və nizə işlədə bilən, döyüşməyi bacaran igidlər Davudun tərəfinə keçdilər və çöldəki qalaya gəldilər. Onların üzləri şir üzü kimi idi və dağlardakı ceyranlar kimi qaça bilirdilər.</verse>
+        <verse osisID='1Chr.12.9'>Bu başçıların adları belədir: Ezer, ikincisi Avdiya, üçüncüsü Eliav,</verse>
+        <verse osisID='1Chr.12.10'>dördüncüsü Mişmanna, beşincisi Yeremya,</verse>
+        <verse osisID='1Chr.12.11'>altıncısı Attay, yeddincisi Eliel,</verse>
+        <verse osisID='1Chr.12.12'>səkkizincisi Yoxanan, doqquzuncusu Elzavad,</verse>
+        <verse osisID='1Chr.12.13'>onuncusu Yeremya, on birincisi Makbannay.</verse>
+        <verse osisID='1Chr.12.14'>Bunlar Qadlılardan olan qoşun başçıları idi. Ən zəifi yüz adamın, ən güclüsü isə min adamın qabağına çıxa bilərdi.</verse>
+        <verse osisID='1Chr.12.15'>Onlar birinci ayda, İordan çayı bütün sahilləri boyu daşanda onu keçib vadilərdə yaşayanların hamısını şərqə və qərbə tərəf qovdular. </verse>
+        <verse osisID='1Chr.12.16'>Binyaminlilərdən və Yəhudalılardan da Davudun yanına, qalaya adamlar gəldi.</verse>
+        <verse osisID='1Chr.12.17'>Davud onları qarşılamağa çıxdı və onlara dedi: «Əgər mənə kömək üçün sülhlə gəlmisinizsə, gözüm üstə yeriniz var, ancaq zorakılıq etmədiyim halda məni düşmənlərimə təslim etmək üçün gəlmisinizsə, atalarımızın Allahı bunu görsün və hökm etsin».</verse>
+        <verse osisID='1Chr.12.18'>Ruh «otuz igid»in başçısı Amasayın üzərinə endi və o dedi:  «Ey Davud, biz səninləyik,Ey Yessey oğlu, biz sənin tərəfindəyik.Sülh, sülh olsun sənə və sənə kömək edənə,Çünki Allahın sənə kömək edir». </verse>
+        <verse osisID='1Chr.12.19'>Davud Filiştlilərlə birgə müharibə etmək üçün Şaulun üstünə gələndə Menaşşelilərdən də bəzisi Davudun tərəfinə keçdi, ancaq Filiştlilərə kömək etmədilər. Çünki Filiştlilərin ağaları məsləhətləşib «Davud bizim başımızı verib ağası Şaulla barışacaq» dedilər və onu geri göndərdilər.</verse>
+        <verse osisID='1Chr.12.20'>Davud Ziqlaqa gedərkən onun tərəfinə keçən Menaşşelilər bunlardır: Adnah, Yozavad, Yediael, Mikael, Yozavad, Elihu və Silletay. Onların hamısı Menaşşelilər arasında minbaşı idi.</verse>
+        <verse osisID='1Chr.12.21'>Onlar quldur dəstəsinə qarşı döyüşdə Davuda kömək etdilər, çünki onların hamısı igid adamlar idi. Sonra onlar qoşun başçıları oldu.</verse>
+        <verse osisID='1Chr.12.22'>Beləcə gündən-günə Davuda kömək etmək üçün onun yanına döyüşçülər gəlirdi və onun ordusu Allah ordusu qədər böyük oldu. </verse>
+        <verse osisID='1Chr.12.23'>Rəbbin sözünə görə Şaulun padşahlığını Davuda vermək üçün onun yanına, Xevrona gələn silahlanmış döyüşçülərin sayı belədir:</verse>
+        <verse osisID='1Chr.12.24'>Yəhudalılardan altı min səkkiz yüz nəfər sipər və nizə ilə silahlanmış əsgər;</verse>
+        <verse osisID='1Chr.12.25'>Şimeonlulardan döyüş üçün yeddi min yüz nəfər igid döyüşçü;</verse>
+        <verse osisID='1Chr.12.26'>Levililərdən dörd min altı yüz nəfər;</verse>
+        <verse osisID='1Chr.12.27'>Harun evinin rəhbəri Yehoyada və onunla birgə üç min yeddi yüz nəfər;</verse>
+        <verse osisID='1Chr.12.28'>gənc və igid bir döyüşçü olan Sadoq və onun nəslindən olan iyirmi iki başçı;</verse>
+        <verse osisID='1Chr.12.29'>Şaulun qohumları olan Binyaminlilərin əksəriyyəti o vaxta qədər Şaul sülaləsinə sadiq qaldığı üçün onlardan yalnız üç min nəfər;</verse>
+        <verse osisID='1Chr.12.30'>Efrayimlilərdən iyirmi min səkkiz yüz nəfər igid və öz nəsillərinin adlı-sanlı adamları;</verse>
+        <verse osisID='1Chr.12.31'>Menaşşe qəbiləsinin yarısının arasından gəlib Davudu padşah etmək üçün təyin olunmuş on səkkiz min nəfər;</verse>
+        <verse osisID='1Chr.12.32'>İssakarlılardan dövrün vəziyyətinə görə İsrailə nə etmək lazım gəldiyini bilən adamlar – iki yüz nəfər başçı və onların əmri altında olan bütün qohumları;</verse>
+        <verse osisID='1Chr.12.33'>Zevulunlulardan döyüşməyi bacaran, bütün silahlarla döyüş nizamını qura bilən və sidq ürəkdən kömək edən əlli min nəfər;</verse>
+        <verse osisID='1Chr.12.34'>Naftalililərdən min başçı, onlarla birgə sipər və nizəsi olan otuz yeddi min nəfər;</verse>
+        <verse osisID='1Chr.12.35'>Danlılardan döyüş nizamını qura bilən iyirmi səkkiz min altı yüz nəfər;</verse>
+        <verse osisID='1Chr.12.36'>Aşerlilərdən döyüşməyi bacaran və döyüş nizamını qura bilən qırx min nəfər;</verse>
+        <verse osisID='1Chr.12.37'>İordan çayının o tayında yaşayan Ruvenlilərdən, Qadlılardan və Menaşşe qəbiləsinin yarısından döyüş üçün hər cür silahı olan yüz iyirmi min nəfər. </verse>
+        <verse osisID='1Chr.12.38'>Döyüşməyi bacaran bu könüllü döyüşçülərin hamısı Davudu bütün İsrail üzərində padşah etmək üçün Xevrona gəldi. İsraillilərin qalan hissəsi də Davudu yekdilliklə padşah etmək niyyətində idi.</verse>
+        <verse osisID='1Chr.12.39'>Döyüşçülər orada üç gün Davudla birgə qaldılar və yeyib-içdilər, çünki qohumları onlar üçün hazırlıq görmüşdü.</verse>
+        <verse osisID='1Chr.12.40'>İssakara, Zevuluna və Naftaliyə qədər yayılmış yaxınları da onlara eşşəklər, dəvələr, qatırlar və öküzlər üstündə ərzaq – yaxşı un, sıxılmış əncir, kişmiş, şərab, yağ, mal-qara və qoyun-keçi gətirmişdi. O zaman İsraildə şadlıq var idi.  </verse>
+      </chapter>
+      <chapter osisID='1Chr.13'>
+        <verse osisID='1Chr.13.1'>
+          Davud minbaşılar, yüzbaşılar və bütün başçılarla məsləhətləşdi.</verse>
+        <verse osisID='1Chr.13.2'>O bütün İsrail camaatına dedi: «Əgər bu iş sizə xoş gəlsə və Allahımız Rəbbin iradəsi ilə olsa, İsrailin hər tərəfində yaşayan soydaşlarımıza, onlarla birgə otlağı olan şəhərlərdə yaşayan kahinlərə və Levililərə xəbər göndərək ki, bizim yanımıza toplansınlar.</verse>
+        <verse osisID='1Chr.13.3'>Sonra Allahımızın sandığını yanımıza qaytaraq, axı Şaulun dövründə biz ona məhəl qoymurduq».</verse>
+        <verse osisID='1Chr.13.4'>Bütün camaat «belə edək» dedi, çünki bütün xalqın nəzərində bu iş doğru idi. </verse>
+        <verse osisID='1Chr.13.5'>Davud Allahın sandığını Qiryat-Yearimdən gətirmək üçün Misirdəki Şixor çayından Xamat keçidinə qədər uzanan torpaqda yaşayan bütün İsrailliləri topladı.</verse>
+        <verse osisID='1Chr.13.6'>Davud bütün İsraillilərlə birgə «keruvlar üzərində taxt quran Rəbb» çağırılan Allahın sandığını Yəhudaya məxsus olan Baalatdan, yəni Qiryat-Yearimdən çıxartmaq üçün oraya getdi.</verse>
+        <verse osisID='1Chr.13.7'>Allahın sandığını bir təzə arabaya qoyub Avinadavın evindən apardılar. Arabanı Uzza və Axyo sürürdü.</verse>
+        <verse osisID='1Chr.13.8'>Davud və bütün İsraillilər Allahın hüzurunda həvəslə ilahi oxuyur, liralarla, çənglərlə, dəflərlə, sinclərlə və kərənaylarla çalıb oynayırdılar. </verse>
+        <verse osisID='1Chr.13.9'>Kidonun xırman yerindən keçəndə öküzlər büdrədi. Buna görə də Uzza əl uzadıb sandığı tutdu.</verse>
+        <verse osisID='1Chr.13.10'>Uzza əlini uzadaraq sandığa toxunduğu üçün Rəbb qəzəblənib onu vurdu. Beləcə Uzza orada Allahın önündə öldü.</verse>
+        <verse osisID='1Chr.13.11'>Davud Rəbbin Uzzanı vurmasından çox məyus oldu. O yerə bu günə qədər Peres-Uzza  deyilir.</verse>
+        <verse osisID='1Chr.13.12'>Həmin gün Davud Allahdan qorxub dedi: «Allahın sandığını necə yanıma gətirə bilərəm?»</verse>
+        <verse osisID='1Chr.13.13'>Buna görə də Davud sandığı öz yanına – Davudun şəhərinə gətirmədi, onu yolundan döndərib Qatlı Oved-Edomun evinə qoydu.</verse>
+        <verse osisID='1Chr.13.14'>Allahın sandığı üç ay Oved-Edomun evində – onun ailəsinin yanında qaldı. Rəbb Oved-Edomun ailəsinə və ona məxsus hər şeyə bərəkət verdi.  </verse>
+      </chapter>
+      <chapter osisID='1Chr.14'>
+        <verse osisID='1Chr.14.1'>
+          Sur padşahı Xiram Davudun yanına qasidlər və ona saray tikmək üçün sidr ağacları, bənnalar və dülgərlər göndərdi.</verse>
+        <verse osisID='1Chr.14.2'>Onda Davud başa düşdü ki, Rəbb onu İsrail üzərində padşah kimi möhkəmləndirmiş və xalqı İsrailin xatirinə onun padşahlığını yüksəltmişdi. </verse>
+        <verse osisID='1Chr.14.3'>Davud Yerusəlimdə başqa arvadlar aldı, yenə oğullar və qızlar atası oldu.</verse>
+        <verse osisID='1Chr.14.4'>Onun Yerusəlimdə doğulan oğullarının adları belədir: Şammua, Şovav, Natan, Süleyman,</verse>
+        <verse osisID='1Chr.14.5'>İvxar, Elişua, Elpelet,</verse>
+        <verse osisID='1Chr.14.6'>Noqah, Nefeq, Yafia,</verse>
+        <verse osisID='1Chr.14.7'>Elişama, Beelyada və Elifelet. </verse>
+        <verse osisID='1Chr.14.8'>Filiştlilər eşitdilər ki, Davud bütün İsrail üzərində padşah olmaq üçün məsh edilmişdir. Onda hamısı Davudu axtarmağa çıxdı. Davud bunu eşidib onlarla qarşılaşmağa çıxdı.</verse>
+        <verse osisID='1Chr.14.9'>Filiştlilər gəlib Refaim vadisini talayırdılar.</verse>
+        <verse osisID='1Chr.14.10'>Davud Allahdan soruşdu: «Filiştlilərin qarşısına çıxımmı? Onları mənə təslim edəcəksənmi?» Rəbb ona cavab verdi: «Çıx, onları sənə təslim edəcəyəm». </verse>
+        <verse osisID='1Chr.14.11'>Davud Baal-Perasimə çıxıb Filiştliləri qırdı. Davud dedi: «Sellər bəndləri dağıtdığı kimi Allah da mənim əlimlə düşmənlərimi dağıtdı». Buna görə də o yerin adını Baal-Perasim qoydular.</verse>
+        <verse osisID='1Chr.14.12'>Filiştlilər qaçanda öz allahlarının bütlərini orada qoydular. Davudun əmri ilə bunlar odda yandırıldı. </verse>
+        <verse osisID='1Chr.14.13'>Filiştlilər yenə o vadini taladılar.</verse>
+        <verse osisID='1Chr.14.14'>Davud yenə Allahdan soruşdu və Allah ona dedi: «Onların arxasınca çıxma, onların ətrafına dolanıb balzam ağaclarının qabağında bu düşmənlərin üstünə gəl.</verse>
+        <verse osisID='1Chr.14.15'>Balzam ağaclarının başından addım səsləri eşidəndə döyüşə çıx, çünki o zaman Allah sənin qarşınca Filiştlilərin ordusunu məğlub etmək üçün çıxacaq».</verse>
+        <verse osisID='1Chr.14.16'>Davud Allahın ona buyurduğu kimi etdi və onlar Giveondan Gezerə qədər Filiştlilərin ordusunu qırdılar.</verse>
+        <verse osisID='1Chr.14.17'>Davudun şöhrəti bütün ölkələrə yayıldı və Rəbb onun qorxusunu bütün millətlərin ürəyinə saldı.  </verse>
+      </chapter>
+      <chapter osisID='1Chr.15'>
+        <verse osisID='1Chr.15.1'>
+          Davud özü üçün Davudun şəhərində evlər tikdi və Allahın sandığı üçün də yer hazırlayıb çadır qurdu.</verse>
+        <verse osisID='1Chr.15.2'>Onda Davud dedi: «Levililərdən başqa heç kəs Allahın sandığını daşıya bilməz, çünki Rəbbin sandığını daşımaq və Ona əbədi olaraq xidmət etmək üçün Rəbb onları seçdi».</verse>
+        <verse osisID='1Chr.15.3'>Davud Rəbbin sandığını onun üçün hazırladığı yerə çıxarmaq üçün bütün İsrailliləri Yerusəlimə yığdı.</verse>
+        <verse osisID='1Chr.15.4'>Davud Harunun nəslindən olan adamları və Levililəri topladı:</verse>
+        <verse osisID='1Chr.15.5'>Qohat nəslindən başçı Uriel və onun yüz iyirmi nəfər qohumu;</verse>
+        <verse osisID='1Chr.15.6'>Merarinin nəslindən başçı Asaya və onun iki yüz iyirmi nəfər qohumu;</verse>
+        <verse osisID='1Chr.15.7'>Gerşon nəslindən başçı Yoel və onun yüz otuz nəfər qohumu;</verse>
+        <verse osisID='1Chr.15.8'>Elisafan nəslindən başçı Şemaya və onun iki yüz nəfər qohumu;</verse>
+        <verse osisID='1Chr.15.9'>Xevron nəslindən başçı Eliel və onun səksən nəfər qohumu;</verse>
+        <verse osisID='1Chr.15.10'>Uzziel nəslindən başçı Amminadav və onun yüz on iki nəfər qohumu.</verse>
+        <verse osisID='1Chr.15.11'>Davud kahin olan Sadoqu və Evyatarı, Levili olan Urieli, Asayanı, Yoeli, Şemayanı, Elieli və Amminadavı çağırıb</verse>
+        <verse osisID='1Chr.15.12'>onlara dedi: «Siz Levililər arasında nəsil başçılarısınız. Siz və qohumlarınız özünüzü təqdis edin və İsrailin Allahı Rəbbin sandığını onun üçün hazırladığım yerə çıxarın.</verse>
+        <verse osisID='1Chr.15.13'>Çünki keçən dəfə siz onu daşımadığınıza və lazım olduğu kimi Allahımız Rəbbi axtarmadığımıza görə O bizi cəzalandırdı». </verse>
+        <verse osisID='1Chr.15.14'>İsrailin Allahı Rəbbin sandığını çıxarmaq üçün kahinlərlə Levililər özlərini təqdis etdilər.</verse>
+        <verse osisID='1Chr.15.15'>Rəbbin sözünə görə, Musanın əmr etdiyi kimi Levililər Allahın sandığının şüvüllərini çiyinlərinə qoyub onu daşıdılar. </verse>
+        <verse osisID='1Chr.15.16'>Davud Levililərin başçılarına əmr etdi ki, şadlıq etmək üçün öz qohumları arasından musiqi alətlərində – çənglərdə, liralarda və sinclərdə çalıb-oxuyan ilahiçilər təyin etsinlər.</verse>
+        <verse osisID='1Chr.15.17'>Levililər bu adamları təyin etdilər: Yoel oğlu Heman, onun qohumlarından Berekya oğlu Asəf – qohumları Merari nəslindən Quşaya oğlu Etan,</verse>
+        <verse osisID='1Chr.15.18'>onların köməkçisi olan Zəkəriyyə, Ben, Yaaziel, Şemiramot, Yexiel, Unni, Eliav, Benaya, Maaseya, Mattitya, Elifelehu, Miqneya, qapıçılar Oved-Edom və Yeiel.</verse>
+        <verse osisID='1Chr.15.19'>İlahiçilər Heman, Asəf və Etan yüksək səsli tunc sinclər,</verse>
+        <verse osisID='1Chr.15.20'>Zəkəriyyə, Aziel, Şemiramot, Yexiel, Unni, Eliav, Maaseya, Benaya Alamot ahəngi üzrə çənglər,</verse>
+        <verse osisID='1Chr.15.21'>Mattitya, Elifelehu, Miqneya, Oved-Edom, Yeiel və Azazya Şeminit ahəngi üzrə lira çalmalı idi.</verse>
+        <verse osisID='1Chr.15.22'>Levililərin rəhbəri Kenanya musiqiyə rəhbərlik edirdi, çünki onun bu işdə bacarığı var idi;</verse>
+        <verse osisID='1Chr.15.23'>Berekya və Elqana sandığın yanında qapıçı idi;</verse>
+        <verse osisID='1Chr.15.24'>kahinlər Şevanya, Yehoşafat, Netanel, Amasay, Zəkəriyyə, Benaya və Eliezer Allahın sandığı önündə kərənay çalırdılar; Oved-Edom və Yexiya sandığın yanında qapıçı idi. </verse>
+        <verse osisID='1Chr.15.25'>Davud, İsrail ağsaqqalları və minbaşılar şadlıq etməklə Rəbbin Əhd sandığını Oved-Edomun evindən gətirməyə getdilər.</verse>
+        <verse osisID='1Chr.15.26'>Rəbbin Əhd sandığını daşıyan Levililər yeddi buğa və yeddi qoç qurban kəsdilər, çünki Allah onlara kömək edirdi.</verse>
+        <verse osisID='1Chr.15.27'>Davud incə kətandan cübbə geyinmişdi, sandığı daşıyan bütün Levililər, ilahiçilər və ilahiçilərin rəhbəri olan Kenanya da belə geyinmişdi. Davudun əynində kətan efod da var idi.</verse>
+        <verse osisID='1Chr.15.28'>Bütün İsraillilər səs-küylə şeypur, kərənay, sinc çalaraq çənglərin və liraların yüksək səsi altında Rəbbin Əhd sandığını çıxartdılar. </verse>
+        <verse osisID='1Chr.15.29'>Rəbbin Əhd sandığı Davudun şəhərinə gətiriləndə Şaulun qızı Mikal pəncərədən baxdı, padşah Davudu tullanıb rəqs edən gördü və ürəyində ona kinayə etdi.  </verse>
+      </chapter>
+      <chapter osisID='1Chr.16'>
+        <verse osisID='1Chr.16.1'>Allahın sandığını gətirib onun üçün Davudun qurduğu çadırın ortasına qoydular. Allahın önündə yandırma və ünsiyyət qurbanları təqdim etdilər.</verse>
+        <verse osisID='1Chr.16.2'>Davud yandırma və ünsiyyət qurbanlarını təqdim edib qurtarandan sonra Rəbbin adı ilə xalqa xeyir-dua verdi.</verse>
+        <verse osisID='1Chr.16.3'>O bütün İsraillilərə – kişilərin və qadınların hər birinə bir kömbə çörək, bir parça ət və bir üzüm lavaşanası payladı. </verse>
+        <verse osisID='1Chr.16.4'>Davud İsrailin Allahı Rəbbi çağırıb Ona şükür və həmd etmək üçün Levililərdən xidmət edən bu adamları Rəbbin sandığının önünə qoydu.</verse>
+        <verse osisID='1Chr.16.5'>Başçı Asəf, onun köməkçisi Zəkəriyyə, çəng və lira çalan Yeiel, Şemiramot, Yexiel, Mattitya, Eliav, Benaya, Oved-Edom və Yeiel, sincləri yüksək səslə çalan Asəf,</verse>
+        <verse osisID='1Chr.16.6'>Allahın Əhd sandığı önündə həmişə kərənaylar çalan kahinlər Benaya və Yaxaziel.</verse>
+        <verse osisID='1Chr.16.7'>O gün Davud ilk dəfə olaraq Rəbbə şükür etmək işini Asəflə yoldaşlarına tapşırdı. </verse>
+        <verse osisID='1Chr.16.8'>«Rəbbə şükür edin, ismini səsləyin,  Əməllərini xalqlar arasında elan edin!</verse>
+        <verse osisID='1Chr.16.9'>Onu ilahilərlə tərənnüm edin,Bütün xariqələrini bəyan edin!</verse>
+        <verse osisID='1Chr.16.10'>Onun müqəddəs adı ilə fəxr edin,Ey Rəbbi axtaranlar, ürəkləriniz qoy sevinsin!</verse>
+        <verse osisID='1Chr.16.11'>Rəbbi, Onun qüvvətini arayın,Daim hüzurunu axtarın.</verse>
+        <verse osisID='1Chr.16.12'>Etdiyi xariqələri,Möcüzələri, dilindən çıxan hökmləri xatırlayın,</verse>
+        <verse osisID='1Chr.16.13'>Ey Onun qulu İsrail nəsli,Ey Yaqub övladları, ey Onun seçdikləri!</verse>
+        <verse osisID='1Chr.16.14'>Allahımız Rəbb Odur,Hökmü bütün yer üzərindədir.</verse>
+        <verse osisID='1Chr.16.15'>Əbədi olaraq – min nəslə qədər əhdini,  Əmr etdiyi sözü,</verse>
+        <verse osisID='1Chr.16.16'>İbrahimlə kəsdiyi əhdini,İshaqa and içərək verdiyi vədini unutmaz.</verse>
+        <verse osisID='1Chr.16.17'>Bunu qayda kimi Yaqub üçün təsdiq etdi,  Bu əbədi əhdi İsrail üçün etdi,</verse>
+        <verse osisID='1Chr.16.18'>Dedi: “Övladlarının payına düşən mülk kimiKənan torpağını sənə verəcəyəm”.</verse>
+        <verse osisID='1Chr.16.19'>O zaman sayca onlar az idilər,Azsaylı olaraq ölkədə qərib idilər.</verse>
+        <verse osisID='1Chr.16.20'>Ölkədən-ölkəyə,Məmləkətdən-məmləkətə köçürdülər.</verse>
+        <verse osisID='1Chr.16.21'>Rəbb heç kimi onlara əzab verməyə qoymadı,  Onlara görə padşahları tənbeh etdi.</verse>
+        <verse osisID='1Chr.16.22'>Dedi: “Məsh elədiklərimə dəyməyin,Peyğəmbərlərimə pislik etməyin”.</verse>
+        <verse osisID='1Chr.16.23'>Ey bütün dünya, Rəbbə ilahi oxuyun,Xilaskar olduğunu gündən-günə müjdələyin.</verse>
+        <verse osisID='1Chr.16.24'>Ehtişamını millətlərə elan edin,Xariqələrini bütün xalqlara bəyan edin!</verse>
+        <verse osisID='1Chr.16.25'>Axı Rəbb əzəmətlidir, bol həmdə layiqdir,O bütün allahlardan daha zəhmlidir.</verse>
+        <verse osisID='1Chr.16.26'>Bütün özgə xalqların allahları bütlərdir,Lakin göyləri yaradan Rəbdir.</verse>
+        <verse osisID='1Chr.16.27'>Ehtişam və əzəmət hüzurunda olar,Sevinclə qüdrət Onun yerindədir.</verse>
+        <verse osisID='1Chr.16.28'>Ey xalqların tayfaları, Rəbbə verin –Ehtişamı, qüdrəti Rəbbə verin,</verse>
+        <verse osisID='1Chr.16.29'>Adına layiq ehtişamı Rəbbə verin,  Hüzuruna girib təqdimlər verin.Müqəddəslik zinəti ilə Rəbbə səcdə edin.</verse>
+        <verse osisID='1Chr.16.30'>Ey bütün dünya, Onun hüzurunda lərzəyə gəlin!O, dünyanı sarsılmaz və möhkəm qurub.</verse>
+        <verse osisID='1Chr.16.31'>Göylər sevinsin, yer üzü şad olsun!Millətlərə belə elan edin:“Rəbb hökmranlıq edir”.</verse>
+        <verse osisID='1Chr.16.32'>Dənizin və dənizdəki canlıların səsi ucalsın,Çöllər və çöldə yaşayanlar fərəhlənsin,</verse>
+        <verse osisID='1Chr.16.33'>Meşədəki bütün ağaclar mədh söyləsinRəbbin hüzurunda!O, dünyanın hökmünü vermək üçün gəlir.</verse>
+        <verse osisID='1Chr.16.34'>Rəbbə şükür edin, ona görə ki yaxşıdır,Çünki məhəbbəti əbədidir.</verse>
+        <verse osisID='1Chr.16.35'>Deyin: “Ey qurtarıcımız Allah, bizi qurtar,Bizi millətlərin arasından topla və azad et.Müqəddəs isminə şükür edək,Biz fəxrlə Sənə həmd söyləyək”.</verse>
+        <verse osisID='1Chr.16.36'>Alqış olsun İsrailin Allahı RəbbəƏzəldən sonsuza qədər!» </verse>
+        <verse osisID='1Chr.16.37'>Davud orada – Rəbbin Əhd sandığının önündə bu adamları qoydu: hər günün işinə görə sandığın önündə daim xidmət edən Asəf və onun yoldaşları,</verse>
+        <verse osisID='1Chr.16.38'>Oved-Edom və onun altmış səkkiz nəfər yoldaşı, qapıçılar Yedutun oğlu Oved-Edom və Xosa.</verse>
+        <verse osisID='1Chr.16.39'>O, Giveonda olan səcdəgahda, Rəbbin məskəni önündə, kahin Sadoqu və onun kahin yoldaşlarını qoydu ki,</verse>
+        <verse osisID='1Chr.16.40'>Rəbbin İsrailə əmr etdiyi Qanunda yazılanların hamısına görə daim səhər və axşam Rəbbə yandırma qurbanları üçün düzəldilən qurbangahda Ona yandırma qurbanları versinlər.</verse>
+        <verse osisID='1Chr.16.41'>Onlarla birgə Hemanı, Yedutunu və adları çəkilən başqa seçilmiş adamları təyin etdi ki, Rəbbə şükür etsinlər, çünki Onun məhəbbəti əbədidir.</verse>
+        <verse osisID='1Chr.16.42'>Heman, Yedutun və həmin adamların əlində Allaha yüksək səslə musiqi çalmaq üçün kərənaylar, sinclər və başqa alətlər var idi. Yedutunun oğulları isə qapıçı oldular.</verse>
+        <verse osisID='1Chr.16.43'>Bütün xalq – hər kəs evinə getdi, Davud da öz evinə xeyir-dua vermək üçün geri qayıtdı.  </verse>
+      </chapter>
+      <chapter osisID='1Chr.17'>
+        <verse osisID='1Chr.17.1'>
+          Davud sarayında yaşayan vaxt peyğəmbər Natana dedi: «Mən sidr ağacından tikilən bir sarayda yaşayıram, Rəbbin Əhd sandığı isə çadır altındadır».</verse>
+        <verse osisID='1Chr.17.2'>Natan Davuda dedi: «Ürəyindəki niyyəti həyata keçir, çünki Allah səninlədir». </verse>
+        <verse osisID='1Chr.17.3'>Lakin gecə Natana Allahın bu sözü nazil oldu:</verse>
+        <verse osisID='1Chr.17.4'>«Get qulum Davuda söylə ki, Rəbb belə deyir: “Yaşamaq üçün Mənə evi sən tikməyəcəksən,</verse>
+        <verse osisID='1Chr.17.5'>çünki İsraili çıxartdığım gündən bu günə qədər heç bir evdə yaşamadım, yalnız çadırdan çadıra, məskəndən məskənə gəzdim.</verse>
+        <verse osisID='1Chr.17.6'>Bütün İsraillilərlə birgə gəzdiyim yerlərdə xalqımın qayğısına qalmağı buyurduğum İsrail hakimlərindən birinə ‹Niyə Mənə sidr ağacından bir ev tikmədiniz?› deyə bir söz söyləmişəmmi?”</verse>
+        <verse osisID='1Chr.17.7'>İndi qulum Davuda söylə ki, Ordular Rəbbi belə deyir: “Mən səni otlaqlarda qoyun otararkən götürüb xalqım İsrailə hökmdar etdim.</verse>
+        <verse osisID='1Chr.17.8'>Getdiyin hər yerdə səninlə oldum, qarşından bütün düşmənlərini qırıb atdım. İndi isə adını dünyadakı böyüklərin adı kimi məşhur edəcəyəm.</verse>
+        <verse osisID='1Chr.17.9'>Xalqım İsrail üçün bir yer təyin edəcəyəm, o kök atıb bu yerdə yaşayacaq və bir daha sarsılmayacaq. Şər adamlar əvvəllər – xalqım İsraillilərə hakimlər təyin etdiyim günlərdən bəri etdikləri kimi yenə də onu qırıb-çatmayacaq.</verse>
+        <verse osisID='1Chr.17.10'>Bütün düşmənlərini əzəcəyəm. Sənə bildirirəm ki, Rəbb sənə bir ev tikəcək.</verse>
+        <verse osisID='1Chr.17.11'>Ömrün başa çatıb ataların kimi dünyadan getdiyin zaman yerinə sənin övladını – oğullarından birini çıxaracağam və onun padşahlığını möhkəmləndirəcəyəm.</verse>
+        <verse osisID='1Chr.17.12'>O Mənim üçün ev tikəcək və Mən onun taxtını əbədi möhkəm edəcəyəm.</verse>
+        <verse osisID='1Chr.17.13'>Mən ona Ata, o isə Mənə oğul olacaq. Lütfümü səndən əvvəl olan adamdan geri aldığım kimi ondan geri almayacağam.</verse>
+        <verse osisID='1Chr.17.14'>Onu Öz evimin və padşahlığımın üzərinə əbədi olaraq qoyacağam, onun taxtı əbədi möhkəm qalacaq”».</verse>
+        <verse osisID='1Chr.17.15'>Natan Davuda bütün bu sözləri və bütün bu vəhyi nəql etdi. </verse>
+        <verse osisID='1Chr.17.16'>Padşah Davud içəri keçib Rəbbin önündə diz çökərək dedi: «Ya Rəbb Allah, mən kiməm və nəslim kimdir ki, Sən məni bu yerə çıxartdın?</verse>
+        <verse osisID='1Chr.17.17'>Ey Allah, Sənin gözündə bu da kiçik göründü, hələ bu qulunun nəslinin gələcəyi haqqında xəbər verdin. Mənə yüksək bir adam kimi baxırsan, ya Rəbb Allah!</verse>
+        <verse osisID='1Chr.17.18'>Bu quluna izzət verdiyin üçün Davud Sənə daha nə deyə bilər? Sən ki bu qulunu tanıyırsan.</verse>
+        <verse osisID='1Chr.17.19'>Ya Rəbb, qulundan ötrü və Öz istəyinə görə bu böyük işlərin hamısını etdin ki, bütün əzəmətini göstərəsən.</verse>
+        <verse osisID='1Chr.17.20'>Ya Rəbb, qulaqlarımızla eşitdiklərimizin hamısına görə Sənin kimisi heç yoxdur və Səndən başqa Allah yoxdur.</verse>
+        <verse osisID='1Chr.17.21'>Yer üzərində xalqın İsrail kimi bir millət varmı? Ey Allah, Sən onu Özünə xalq etmək üçün satın almağa getdin. Sən Misirdən satın aldığın xalqının önündən millətləri qovaraq böyük və xariqəli işlərlə Özünə şöhrət qazandın.</verse>
+        <verse osisID='1Chr.17.22'>Əbədi olaraq xalqın İsraili Özün üçün xalq olaraq müəyyən etdin və Sən, ya Rəbb, onların Allahı oldun. </verse>
+        <verse osisID='1Chr.17.23'>İndi isə, ya Rəbb, bu qulun və onun nəsli haqqında söylədiyin söz əbədi olaraq yerinə yetsin və dediyinə əməl et.</verse>
+        <verse osisID='1Chr.17.24'>Qoy adın əbədi olaraq qalsın və izzətlənsin, “İsrailin Allahı Ordular Rəbbi İsraili saxlayan Allahdır” desinlər. Qulun Davudun nəsli də Sənin önündə möhkəm qalsın.</verse>
+        <verse osisID='1Chr.17.25'>Çünki, Sən ey Allahım, “sənə ev tikəcəyəm” deyərək bunu quluna çatdırdın və buna görə qulun önündə dua etməyə cəsarət tapdı.</verse>
+        <verse osisID='1Chr.17.26'>Ya Rəbb, Sən Allahsan və indi də quluna bu yaxşı şeyi vəd etdin.</verse>
+        <verse osisID='1Chr.17.27'>Əbədi olaraq Sənin önündə olsun deyə bu qulunun nəslinə xeyir-dua vermək Sənə xoş göründü. Sən, ya Rəbb, ona xeyir-dua verdiyin üçün o əbədi olaraq xeyir-dua almışdır».  </verse>
+      </chapter>
+      <chapter osisID='1Chr.18'>
+        <verse osisID='1Chr.18.1'>
+          Bundan sonra Davud Filiştliləri məğlub edib özünə tabe etdi və Qatı, onun qəsəbələrini Filiştlilərdən aldı.</verse>
+        <verse osisID='1Chr.18.2'>O, Moavlıları da məğlub etdi və Moavlılar Davuda tabe olub xərac verdilər. </verse>
+        <verse osisID='1Chr.18.3'>Sova padşahı Hadadezer Fərat çayının ətrafındakı yerlərdə hakimiyyətini bərpa etməyə gedəndə Davud Xamatda onu məğlub etdi.</verse>
+        <verse osisID='1Chr.18.4'>O, Hadadezerin min döyüş arabasını aldı, yeddi min süvarisini, iyirmi min piyada əsgərini əsir etdi və atlardan yüzə qədərini döyüş arabası üçün saxlayaraq qalan atların ayaq vətərini kəsdi.</verse>
+        <verse osisID='1Chr.18.5'>Dəməşqdə yaşayan Aramlılar Sova padşahı Hadadezerə kömək etməyə gələndə Davud onlardan iyirmi iki min nəfəri qırdı.</verse>
+        <verse osisID='1Chr.18.6'>Davud Dəməşq Aramına hərbi dəstələr yerləşdirdi və Aramlılar ona tabe olub xərac verdilər. Rəbb Davuda getdiyi hər yerdə zəfər qazandırdı.</verse>
+        <verse osisID='1Chr.18.7'>O, Hadadezerin zabitlərinin gəzdirdiyi qızıl qalxanları götürüb Yerusəlimə gətirdi.</verse>
+        <verse osisID='1Chr.18.8'>Davud Hadadezerin şəhərləri olan Tivxatdan və Kundan çoxlu tunc aldı. Sonralar Süleyman ondan tunc hovuzu, sütunları və tunc qabları düzəltdi. </verse>
+        <verse osisID='1Chr.18.9'>Xamat padşahı Tou eşitdi ki, Davud Sova padşahı Hadadezerin bütün ordusunu məğlub edib.</verse>
+        <verse osisID='1Chr.18.10'>O, Davudu salamlamaq və Hadadezeri döyüşdə məğlub etdiyinə görə təbrik etmək üçün oğlu Hadoramı onun yanına göndərdi, çünki Hadadezer Tou ilə həmişə müharibə etmişdi. Hadoram hər cür qızıl-gümüş və tunc əşyalar gətirdi.</verse>
+        <verse osisID='1Chr.18.11'>Padşah Davud bütün millətlərdən – Edomlulardan, Moavlılardan, Ammonlulardan, Filiştlilərdən və Amaleqlilərdən alıb gətirdiyi qızıl-gümüşlə birgə bunları da Rəbbə həsr etdi. </verse>
+        <verse osisID='1Chr.18.12'>Seruya oğlu Avişay Duz vadisində Edomlulardan on səkkiz min nəfəri qırdı.</verse>
+        <verse osisID='1Chr.18.13'>O, Edoma hərbi dəstələr yerləşdirdi və bütün Edomlular Davuda tabe oldular. Rəbb Davuda getdiyi hər yerdə zəfər qazandırdı. </verse>
+        <verse osisID='1Chr.18.14'>Davud bütün İsrailin padşahı oldu. O bütün xalqına ədalət və salehliklə hökmranlıq edirdi. </verse>
+        <verse osisID='1Chr.18.15'>Seruya oğlu Yoav ordu başçısı idi; Axilud oğlu Yehoşafat salnaməçi idi;</verse>
+        <verse osisID='1Chr.18.16'>Axituv oğlu Sadoq və Evyatar oğlu Avimelek kahin idi; Şavşa mirzə idi;</verse>
+        <verse osisID='1Chr.18.17'>Yehoyada oğlu Benaya Keretlilər və Peletlilərin başçısı idi; Davudun oğulları padşahın baş məmurları idi.  </verse>
+      </chapter>
+      <chapter osisID='1Chr.19'>
+        <verse osisID='1Chr.19.1'>
+          Bir müddət sonra Ammonluların padşahı Naxaş öldü və yerinə oğlu padşah oldu.</verse>
+        <verse osisID='1Chr.19.2'>Davud dedi: «Naxaşın oğlu Xanuna yaxşılıq edəcəyəm, çünki atası mənə yaxşılıq etdi». Davud qasidlər göndərdi ki, atasına görə Xanuna başsağlığı versin. Lakin Davudun adamları Ammon ölkəsinə, onun yanına gələndə</verse>
+        <verse osisID='1Chr.19.3'>Ammonluların başçıları Xanuna dedilər: «Sən elə bilirsən ki, Davud bu başsağlığı verən adamları sənin atana hörməti olduğu üçün göndərib? Bəlkə onun adamları bu torpaqdan keçməklə onu yoxlayıb öyrənmək, sonra da ələ keçirmək üçün sənin yanına gəliblər».</verse>
+        <verse osisID='1Chr.19.4'>Xanun Davudun adamlarını tutub saqqallarını qırxdıraraq paltarlarını oturacaq yerinə qədər aşağıdan kəsdirdi və onları geri göndərdi.</verse>
+        <verse osisID='1Chr.19.5'>Bu adamlar barədə Davuda xəbər çatdı. Davud onları qarşılamaq üçün qasidlər göndərdi, çünki bu adamlar çox utanırdı. Padşah dedi: «Saqqalınız çıxana qədər Yerixoda qalın, sonra qayıdarsınız». </verse>
+        <verse osisID='1Chr.19.6'>Xanun və Ammonlular Davudun yanında nifrət qazandıqlarını görəndə Aram-Naharayimdən, Aram-Maakadan, Sovadan özlərinə muzdla döyüş arabaları və atlılar tutmaq üçün min talant gümüş göndərdilər.</verse>
+        <verse osisID='1Chr.19.7'>Özləri üçün otuz iki min araba, Maaka padşahını və onun qoşunlarını muzdla tutdular, onlar da gəlib Medvanın önündə ordugah qurdular. Ammonlular öz şəhərlərindən yığılıb döyüşə gəldilər.</verse>
+        <verse osisID='1Chr.19.8'>Davud bunu eşidib Yoavla bütün igidlər ordusunu onların üstünə göndərdi.</verse>
+        <verse osisID='1Chr.19.9'>Ammonlular çıxıb şəhərin girişində, gələn padşahlar isə ayrıca çöldə döyüş üçün düzüldü. </verse>
+        <verse osisID='1Chr.19.10'>Yoav öndən və arxadan düşmənlərin ona qarşı düzüldüklərini görəndə bütün İsrailin seçmə döyüşçülərindən bəzisini ayırıb Aramlılara qarşı düzdü.</verse>
+        <verse osisID='1Chr.19.11'>Xalqın qalan hissəsinə isə qardaşı Avişayı başçı qoydu və onlar Ammonluların qarşısında düzüldü.</verse>
+        <verse osisID='1Chr.19.12'>Yoav dedi: «Əgər Aramlılar məndən güclü çıxarsa, sən mənə kömək edərsən, əgər Ammonlular səndən güclü çıxarsa, mən sənə kömək edərəm.</verse>
+        <verse osisID='1Chr.19.13'>Möhkəm ol. Gəl xalqımız naminə və Allahımızın şəhərləri naminə igidlik göstərək. Qoy Rəbb gözündə xoş olanı etsin».</verse>
+        <verse osisID='1Chr.19.14'>Yoav və yanındakı qoşun vuruşmaq üçün Aramlıların qarşısına yaxınlaşdı. Aramlılar Yoavın önündən qaçdı.</verse>
+        <verse osisID='1Chr.19.15'>Ammonlular da Aramlıların qaçdığını görəndə Yoavın qardaşı Avişayın qabağından qaçıb şəhərə girdilər. Sonra Yoav Yerusəlimə gəldi. </verse>
+        <verse osisID='1Chr.19.16'>Aramlılar İsraillilərin önündə məğlub olduqlarını görəndə qasidlər göndərib Fərat çayının o tayındakı Aramlıları döyüşə çıxartdılar. Onların başçısı Hadadezerin ordu başçısı Şofak idi.</verse>
+        <verse osisID='1Chr.19.17'>Bunu Davuda xəbər verdilər. O bütün İsrailliləri toplayıb İordan çayını keçdi və Aramlıların qarşısına gəlib qoşununu onlara qarşı düzdü. Davud öz qoşununu Aramlıların önünə çıxartdı və Aramlılar onunla vuruşdu.</verse>
+        <verse osisID='1Chr.19.18'>Aramlılar İsraillilərin qabağından qaçdı. Davud Aramlılardan yeddi min araba döyüşçüsünü və qırx min piyadanı qırdı, ordu başçısı Şofakı da öldürdü.</verse>
+        <verse osisID='1Chr.19.19'>Hadadezerin adamları İsraillilərin önündə məğlub olduqlarını görəndə Davudla sülh bağladılar və ona tabe oldular. Aramlılar bir daha Ammonlulara kömək etmək istəmədi.  </verse>
+      </chapter>
+      <chapter osisID='1Chr.20'>
+        <verse osisID='1Chr.20.1'>
+            Bahar gələndə padşahlar müharibəyə çıxan vaxt Yoav ordusunu səfərə çıxardı. O, Ammonluların ölkəsini viran etdi və gəlib Rabbanı mühasirəyə aldı. Davud isə Yerusəlimdə qaldı. Yoav Rabbanı vurub dağıtdı.</verse>
+        <verse osisID='1Chr.20.2'>Davud onların padşahının başından tacını götürdü. Tac qızıldan olub çəkisi bir talant idi. Onun üzərində qiymətli daş var idi. Bu tac Davudun başına qoyuldu. Davud bu şəhərdən çoxlu qənimət apardı.</verse>
+        <verse osisID='1Chr.20.3'>O, şəhərdə olan xalqı köçürdü və əllərinə mişar, dəmir, külüng və balta verib ağır işlərə qoydu. Davud Ammonluların bütün şəhərlərində belə edəndən sonra xalqın hamısı ilə birgə Yerusəlimə qayıtdı. </verse>
+        <verse osisID='1Chr.20.4'>Bundan sonra Gezerdə Filiştlilərlə döyüş oldu. O zaman Xuşalı Sibbekay Rafa övladlarından  Sippayı öldürdü. Beləcə Filiştlilər tabe oldu.</verse>
+        <verse osisID='1Chr.20.5'>Filiştlilərlə daha bir döyüşdə Yair oğlu Elxanan Qatlı Qolyatın qardaşı Laxmini öldürdü. Onun əlindəki nizənin sapı toxucu dəzgahının əriş ağacı boyda idi.</verse>
+        <verse osisID='1Chr.20.6'>Qatda bir də döyüş oldu. Orada Rafa övladlarından digər ucaboy bir adam var idi. Bu adamın əlləri və ayaqları altı barmaqlı idi və cəmi iyirmi dörd barmağı var idi.</verse>
+        <verse osisID='1Chr.20.7'>O, İsrailə meydan oxudu. Onu Davudun qardaşı Şimanın oğlu Yonatan öldürdü.</verse>
+        <verse osisID='1Chr.20.8'>Bunlar Rafa övladlarından olub Qatda doğulmuşdu. Onlar Davudun və onun adamlarının əli ilə qırıldı.  </verse>
+      </chapter>
+      <chapter osisID='1Chr.21'>
+        <verse osisID='1Chr.21.1'>
+          Şeytan İsraillilərə qarşı qalxdı və Davudu İsrailliləri siyahıya almağa təhrik etdi.</verse>
+        <verse osisID='1Chr.21.2'>Davud Yoava və xalqın başçılarına dedi: «Gedin, Beer-Şevadan Dana qədər İsrailliləri siyahıya alın və siyahını mənə gətirin ki, onların sayını bilim».</verse>
+        <verse osisID='1Chr.21.3'>Yoav dedi: «Rəbb xalqını olduğundan yüz qat artıq etsin. Ancaq, ağam padşah, onların hamısı ağamın qulları deyilmi? Nə üçün ağam bunu istəyir? Nə üçün bu, İsrailə cəza gətirsin?»</verse>
+        <verse osisID='1Chr.21.4'>Lakin padşahın sözü Yoava üstün gəldi. Yoav çıxıb bütün İsraili dolaşdı və sonra Yerusəlimə gəldi.</verse>
+        <verse osisID='1Chr.21.5'>O, xalqın siyahısını Davuda verdi. Bütün İsraildə qılınc çəkən bir milyon yüz min nəfər, Yəhudada isə qılınc çəkən dörd yüz yetmiş min nəfər adam var idi.</verse>
+        <verse osisID='1Chr.21.6'>Ancaq Yoav onların arasında Levililəri və Binyaminliləri siyahıya almadı, çünki padşahın sözündən acığı gəlmişdi. </verse>
+        <verse osisID='1Chr.21.7'>Bu iş Allahın gözündə pis oldu və O, İsrailə cəza verdi.</verse>
+        <verse osisID='1Chr.21.8'>Davud Allaha dedi: «Bu işi görməklə böyük günah etdim. İndi isə, yalvarıram, bu qulunun təqsirindən keç, çünki çox ağılsızlıq etmişəm».</verse>
+        <verse osisID='1Chr.21.9'>Rəbb Davudun görücüsü Qada dedi:</verse>
+        <verse osisID='1Chr.21.10'>«Get, Davuda söylə ki, Rəbb belə deyir: “Sənə üç şey təklif edirəm, özün üçün bunların birini seç ki, sənə edim”».</verse>
+        <verse osisID='1Chr.21.11'>Qad Davudun yanına gəlib ona dedi: «Rəbb belə deyir: “Özün üçün seç:</verse>
+        <verse osisID='1Chr.21.12'>ya üç il aclıq olacaq ya üç ay düşmənlərin səni təqib edəcək və onların qılıncı səni vuracaq ya da üç gün Rəbbin qılıncı olan vəba ölkənin üzərinə gələcək və Rəbbin mələyi İsrailliləri hər yerdə qıracaq”. İndi qərar ver görək məni göndərənə nə cavab verim?»</verse>
+        <verse osisID='1Chr.21.13'>Davud Qada dedi: «Mənim üçün çox çətindir. İnsan əlinə düşüncə qoy Rəbbin əlinə düşüm, çünki Onun rəhmi çox böyükdür». </verse>
+        <verse osisID='1Chr.21.14'>Beləcə Rəbb İsrail üzərinə vəba göndərdi və İsraillilərdən yetmiş min nəfər həlak oldu.</verse>
+        <verse osisID='1Chr.21.15'>Allah Yerusəlimin əhalisini həlak etmək üçün bir mələk göndərdi. Mələk onları həlak edərkən Rəbb bunu görüb bu bəlaya görə təəssüfləndi və həlak edən mələyə dedi: «Bəsdir, əl saxla!» Rəbbin mələyi Yevuslu Ornanın xırmanının yanında dayandı.</verse>
+        <verse osisID='1Chr.21.16'>Davud başını qaldırıb Rəbbin mələyini gördü. Mələk əlindəki siyrilmiş qılıncı Yerusəlimin üzərinə uzadaraq yerlə göyün arasında dayanmışdı. Çula bürünən Davud və ağsaqqallar üzüstə yerə qapandı.</verse>
+        <verse osisID='1Chr.21.17'>Davud Allaha dedi: «Xalqı siyahıya almağı əmr edən mən deyildimmi? Mən günah etdim və həqiqətən, pis iş gördüm, bəs bu yazıq xalq nə edib? Ya Rəbb Allahım, qoy Sənin əlin mənim və ata nəslimin əleyhinə qalxsın, amma Öz xalqına vəba göndərmə». </verse>
+        <verse osisID='1Chr.21.18'>Rəbbin mələyi Davuda söyləmək üçün Qada dedi: «Qoy Davud çıxıb Yevuslu Ornanın xırmanında Rəbbə bir qurbangah düzəltsin».</verse>
+        <verse osisID='1Chr.21.19'>Rəbbin adı ilə Qadın söylədiyi sözə görə Davud çıxdı.</verse>
+        <verse osisID='1Chr.21.20'>Ornan geri dönüb mələyi gördü. Onunla birgə olan dörd oğlu gizləndi, Ornan isə yenə də buğda döyürdü.</verse>
+        <verse osisID='1Chr.21.21'>Davud Ornanın yanına gələndə Ornan baxıb Davudu gördü, xırmandan çıxdı və ona yerə qədər təzim etdi.</verse>
+        <verse osisID='1Chr.21.22'>Davud Ornana dedi: «Bu xırmanını mənə ver ki, burada Rəbb üçün qurbangah tikim, onu mənə tam dəyərinə sat. Beləcə xalqın üzərinə gələn vəba dayansın».</verse>
+        <verse osisID='1Chr.21.23'>Ornan Davuda dedi: «Götür, havayı sənin olsun, ağam padşah gözündə xoş olanı etsin. Mən yandırma qurbanı olaraq öküzləri, odun yerinə vəlləri və taxıl təqdimi kimi buğdanı verirəm, bunların hamısını verirəm».</verse>
+        <verse osisID='1Chr.21.24'>Padşah Davud Ornana dedi: «Yox, mütləq tam dəyərinə satın alacağam, çünki sənin malını Rəbb üçün götürmərəm, havayı malı yandırma qurbanı vermərəm».</verse>
+        <verse osisID='1Chr.21.25'>Buna görə də Davud bu yer üçün Ornana çəkisi altı yüz şekel qızıl verdi.</verse>
+        <verse osisID='1Chr.21.26'>Davud orada Rəbbə bir qurbangah düzəldib yandırma qurbanları və ünsiyyət qurbanları təqdim etdi. O, Rəbbi çağırdı, Rəbb də yandırma qurbanlarının gətirildiyi qurbangaha göydən od göndərib ona cavab verdi.</verse>
+        <verse osisID='1Chr.21.27'>Rəbb mələyə əmr etdi, o da qılıncını qınına qoydu. </verse>
+        <verse osisID='1Chr.21.28'>Davud Yevuslu Ornanın xırmanında Rəbbin ona cavab verdiyini gördükdə orada qurban kəsdi.</verse>
+        <verse osisID='1Chr.21.29'>Musanın səhrada düzəltdiyi Rəbbin məskəni və yandırma qurbanları üçün düzəldilən qurbangah o vaxt Giveondakı səcdəgahda idi.</verse>
+        <verse osisID='1Chr.21.30'>Ancaq Davud Allahdan soruşmaq üçün Onun hüzuruna gedə bilmədi, çünki Rəbbin mələyinin qılıncından qorxurdu.  </verse>
+      </chapter>
+      <chapter osisID='1Chr.22'>
+        <verse osisID='1Chr.22.1'>Buna görə də Davud dedi: «Rəbb Allahın evi burada olsun, burada İsrail üçün yandırma qurbanları gətirilən qurbangah da olsun». </verse>
+        <verse osisID='1Chr.22.2'>Davud İsrail torpağında olan qəriblərin yığılmasını əmr etdi və Allah evinin tikilişinə yonma daşlar düzəltmək üçün onların arasından daşyonanlar təyin etdi.</verse>
+        <verse osisID='1Chr.22.3'>Davud qapı taylarının mıxları və rəzələri üçün çoxlu dəmir hazırladı. Həmçinin çoxluğuna görə çəkiyə gəlməz tunc hazırladı</verse>
+        <verse osisID='1Chr.22.4'>və saysız-hesabsız sidr ağacları da yığdı. Çünki Sidonlular və Surlular Davuda çoxlu sidr ağacları gətirmişdi.</verse>
+        <verse osisID='1Chr.22.5'>Davud öz-özünə dedi: «Oğlum Süleyman cavandır, təcrübəsi yoxdur, Rəbbə tikiləcək məbəd isə əzəmətli olmalı, şöhrəti və izzəti bütün ölkələrə yayılmalıdır. Buna görə onun üçün hazırlıq görməliyəm». Beləliklə, Davud ölümündən əvvəl çoxlu hazırlıq işləri gördü. </verse>
+        <verse osisID='1Chr.22.6'>Davud oğlu Süleymanı çağırdı və İsrailin Allahı Rəbb üçün məbəd tikməyi ona vəsiyyət etdi.</verse>
+        <verse osisID='1Chr.22.7'>Davud Süleymana dedi: «Ey oğlum, mənim ürəyimdə Allahım Rəbbin adına məbəd tikmək istəyi vardı.</verse>
+        <verse osisID='1Chr.22.8'>Ancaq mənə Rəbbin bu sözü nazil oldu: “Sən çoxlu qan tökdün və böyük müharibələr etdin. Sən Mənim adıma məbəd tikməyəcəksən, çünki önümdə yerə çoxlu qan tökmüsən.</verse>
+        <verse osisID='1Chr.22.9'>Sənin bir oğlun olacaq. O, dinc yaşayacaq, onu ətrafındakı bütün düşmənlərindən qoruyacağam. Onun adı Süleyman olacaq. Onun dövründə İsrailə sülh və əmin-amanlıq verəcəyəm.</verse>
+        <verse osisID='1Chr.22.10'>O Mənim adıma məbəd tikəcək. O Mənə oğul olacaq, Mən də ona ata olacağam. Onun padşahlıq taxtını İsrail üzərində əbədi olaraq möhkəmlədəcəyəm”.</verse>
+        <verse osisID='1Chr.22.11'>İndi, oğlum, qoy Rəbb sənə yar olsun, sənin barəndə söylədiyi kimi Allahın Rəbbin məbədini uğurla tikəsən.</verse>
+        <verse osisID='1Chr.22.12'>Ancaq Rəbb səni İsrailə hökm etmək üçün qoyanda sənə müdriklik və həssaslıq versin ki, Allahın Rəbbin verdiyi Qanuna əməl edəsən.</verse>
+        <verse osisID='1Chr.22.13'>Əgər İsrail barədə Rəbbin Musaya əmr etdiyi qaydalara və hökmlərə əməl etsən, uğur qazanacaqsan. Möhkəm və cəsarətli ol, qorxma və ruhdan düşmə.</verse>
+        <verse osisID='1Chr.22.14'>Bax böyük cəhdlə Rəbbin məbədi üçün yüz min talant qızıl, bir milyon talant gümüş, çox olduğu üçün çəkiyə gəlməz tunc və dəmir yığdım, həmçinin ağaclar və daşlar hazırladım. Sən də bunların üstünə əlavə et.</verse>
+        <verse osisID='1Chr.22.15'>Sənin yanında çoxlu işçilər – daşyonanlar, bənnalar, dülgərlər,</verse>
+        <verse osisID='1Chr.22.16'>hər cür qızıl, gümüş, tunc və dəmir işini bacaran ustalar var. Onların sayı-hesabı yoxdur. Buyur, işə başla, Rəbb sənə yar olsun». </verse>
+        <verse osisID='1Chr.22.17'>Davud İsrailin bütün başçılarına oğlu Süleymana kömək etməyi vəsiyyət edib dedi:</verse>
+        <verse osisID='1Chr.22.18'>«Allahınız Rəbb sizinlə deyilmi? O, ölkədə yaşayanları mənim ixtiyarıma verməklə sizə hər tərəfdən dinclik vermədimi? Ölkə Rəbbə və Onun xalqına tabe edilib.</verse>
+        <verse osisID='1Chr.22.19'>İndi ürəyinizi və canınızı Allahınız Rəbbi axtarmağa yönəldin. Rəbb Allahın Müqəddəs məkanını tikməyə başlayın ki, Rəbbin Əhd sandığını və Allahın müqəddəs əşyalarını Rəbbin adına tikilmiş məbədə gətirəsiniz».  </verse>
+      </chapter>
+      <chapter osisID='1Chr.23'>
+        <verse osisID='1Chr.23.1'>Davud qocalıb yaşa dolanda oğlu Süleymanı İsrail üzərində padşah etdi. </verse>
+        <verse osisID='1Chr.23.2'>Davud İsrailin bütün başçılarını, kahinləri və Levililəri topladı.</verse>
+        <verse osisID='1Chr.23.3'>Otuz yaşında və bundan yuxarı yaşda olan Levililər siyahıya alındı. Onlardan kişilərin sayı otuz səkkiz min nəfər idi.</verse>
+        <verse osisID='1Chr.23.4'>Bunlardan iyirmi dörd min nəfəri Rəbbin məbədində xidmət üçün qoyuldu. Altı min məmur və hakim,</verse>
+        <verse osisID='1Chr.23.5'>dörd mini isə qapıçı oldu. Dörd min nəfər Davudun bu məqsədlə düzəltdiyi musiqi alətləri ilə Rəbbi həmd etmək üçün qoyuldu.</verse>
+        <verse osisID='1Chr.23.6'>Levinin Gerşon, Qohat və Merari nəsillərinə görə Davud onları bölmələrə ayırdı. </verse>
+        <verse osisID='1Chr.23.7'>Gerşonun nəslindən: Ladan və Şimey.</verse>
+        <verse osisID='1Chr.23.8'>Ladanın oğulları: ilk oğlu Yexiel, Zetam və Yoel – üç nəfər.</verse>
+        <verse osisID='1Chr.23.9'>Şimeyin oğulları: Şelomit, Xaziel və Haran – üç nəfər. Bunlar Ladanın nəsil başçıları idi.</verse>
+        <verse osisID='1Chr.23.10'>Şimeyin oğulları: Yaxat, Ziza, Yeuş və Beria. Bu dördü Şimeyin oğulları idi.</verse>
+        <verse osisID='1Chr.23.11'>Yaxat ilk oğlu, Ziza isə ikincisi idi. Ancaq Yeuşun və Berianın oğulları çox deyildi. Onlar birlikdə bir nəsil kimi siyahıya alındı. </verse>
+        <verse osisID='1Chr.23.12'>Qohatın oğulları: Amram, İshar, Xevron və Uzziel – dörd nəfər.</verse>
+        <verse osisID='1Chr.23.13'>Amramın oğulları: Harun və Musa. Harun ən müqəddəs şeyləri təqdis etmək üçün təyin olundu. Onun nəsli əbədi olaraq Rəbbin önündə buxur yandırmaq, Rəbbə xidmət etmək və həmişə Onun adı ilə xeyir-dua vermək üçün təyin olundu.</verse>
+        <verse osisID='1Chr.23.14'>Allah adamı Musaya gəlincə, onun nəsli Levi qəbiləsi arasında siyahıya alındı.</verse>
+        <verse osisID='1Chr.23.15'>Musanın oğulları: Gerşom və Eliezer.</verse>
+        <verse osisID='1Chr.23.16'>Gerşomun ilk oğlu Şevuel.</verse>
+        <verse osisID='1Chr.23.17'>Eliezerin ilk oğlu Rexavya. Eliezerin başqa oğlu yox idi, amma Rexavyanın oğulları olduqca çox idi.</verse>
+        <verse osisID='1Chr.23.18'>İsharın ilk oğlu Şelomit.</verse>
+        <verse osisID='1Chr.23.19'>Xevronun oğulları: ilk oğlu Yeriya, ikincisi Amarya, üçüncüsü Yaxaziel və dördüncüsü Yeqameam.</verse>
+        <verse osisID='1Chr.23.20'>Uzzielin oğulları: ilk oğlu Mikeya və ikincisi İşşiya. </verse>
+        <verse osisID='1Chr.23.21'>Merarinin oğulları: Maxli və Muşi. Maxlinin oğulları: Eleazar və Qiş.</verse>
+        <verse osisID='1Chr.23.22'>Eleazar öləndə onun oğlu yox idi, ancaq qızları var idi və əmiləri Qişin oğulları onları arvad aldılar.</verse>
+        <verse osisID='1Chr.23.23'>Muşinin oğulları: Maxli, Eder və Yeremot – üç nəfər.</verse>
+        <verse osisID='1Chr.23.24'>Bunlar adları ilə siyahıya düşən Levililərin ailə başçılarıdır. Rəbbin məbədinin xidmət işini görən Levililər iyirmi yaşında və bundan yuxarı yaşda idi. </verse>
+        <verse osisID='1Chr.23.25'>Davud demişdi: «İsrailin Allahı Rəbb xalqına dinclik vermişdir və əbədi olaraq Yerusəlimdə məskən salacaq.</verse>
+        <verse osisID='1Chr.23.26'>Levililər müqəddəs məskəni və onun bütün xidmət əşyalarını daha daşımayacaq».</verse>
+        <verse osisID='1Chr.23.27'>Buna görə də Davudun son sözlərinə görə iyirmi yaşında və bundan yuxarı yaşda olan Levililər siyahıya alındı.</verse>
+        <verse osisID='1Chr.23.28'>Onların vəzifəsi Rəbbin məbədində Harunun nəslindən olan kahinlərin yanında dayanıb bu xidmət işlərini görmək idi: həyətlərə və otaqlara baxmaq, bütün müqəddəs əşyaları təmizləmək, Allahın evində xidmət etmək,</verse>
+        <verse osisID='1Chr.23.29'>təqdim çörəklərinə, təqdim üçün verilən una, mayasız qoğallara, onların yoğrulmasına və bişməsinə, hər cür ölçü qablarına baxmaq,</verse>
+        <verse osisID='1Chr.23.30'>hər səhər durub Rəbbə şükür və həmd etmək, hər axşam da elə etmək,</verse>
+        <verse osisID='1Chr.23.31'>Şənbə günlərində, Təzə Ay mərasimlərində, bayramlarda əmr edilən qaydalara görə düzgün sayda daim Rəbbin önündə yandırma qurbanları təqdim etmək.</verse>
+        <verse osisID='1Chr.23.32'>Beləcə Levililər Hüzur çadırının, Müqəddəs yerin xidmətlərinə, Rəbbin evinin xidmətlərində qohumları Harun nəslinə xidmət etməyə cavabdeh idilər.  </verse>
+      </chapter>
+      <chapter osisID='1Chr.24'>
+        <verse osisID='1Chr.24.1'>
+          Harun nəslinin bölükləri bunlardır. Harunun oğulları: Nadav, Avihu, Eleazar və İtamar.</verse>
+        <verse osisID='1Chr.24.2'>Ancaq Nadav və Avihu atalarından əvvəl öldü və oğulları da yox idi. Buna görə də Eleazar və İtamar kahin oldu.</verse>
+        <verse osisID='1Chr.24.3'>Davud, Eleazar nəslindən Sadoq və İtamar nəslindən Aximelek onları xidmət işlərinə görə növbələrə ayırdı.</verse>
+        <verse osisID='1Chr.24.4'>Eleazar nəsli arasında İtamar nəslindən daha çox nəsil başçısı tapıldı. Onlar belə ayrıldı: Eleazar nəslindən nəsil başçısı on altı nəfər, İtamar nəslindən nəsil başçısı səkkiz nəfər.</verse>
+        <verse osisID='1Chr.24.5'>Beləcə onlar püşklə eyni qayda ilə ayrıldı, çünki həm Eleazar nəslindən, həm də İtamar nəslindən Müqəddəs yerdə və Allahın önündə durmaq üçün başçılar var idi.</verse>
+        <verse osisID='1Chr.24.6'>Padşahın, rəislərin, kahin Sadoqun, Evyatar oğlu Aximelekin, kahinlərin və Levililərin nəsil başçılarının önündə Levili mirzə Netanel oğlu Şemaya onları qeydə aldı. Bir nəsil Eleazar üçün, o biri İtamar üçün alındı. </verse>
+        <verse osisID='1Chr.24.7'>Birinci püşk Yehoyarivə, ikincisi Yedayaya,</verse>
+        <verse osisID='1Chr.24.8'>üçüncüsü Xarimə, dördüncüsü Seorimə,</verse>
+        <verse osisID='1Chr.24.9'>beşincisi Malkiyaya, altıncısı Miyaminə,</verse>
+        <verse osisID='1Chr.24.10'>yeddincisi Haqqosa, səkkizincisi Aviyaya,</verse>
+        <verse osisID='1Chr.24.11'>doqquzuncusu Yeşuaya, onuncusu Şekanyaya,</verse>
+        <verse osisID='1Chr.24.12'>on birincisi Elyaşivə, on ikincisi Yaqimə,</verse>
+        <verse osisID='1Chr.24.13'>on üçüncüsü Xuppaya, on dördüncüsü Yeşevaya,</verse>
+        <verse osisID='1Chr.24.14'>on beşincisi Bilqaya, on altıncısı İmmerə,</verse>
+        <verse osisID='1Chr.24.15'>on yeddincisi Xezirə, on səkkizincisi Happissesə,</verse>
+        <verse osisID='1Chr.24.16'>on doqquzuncusu Petahyaya, iyirmincisi Yezekelə,</verse>
+        <verse osisID='1Chr.24.17'>iyirmi birincisi Yakinə, iyirmi ikincisi Qamula,</verse>
+        <verse osisID='1Chr.24.18'>iyirmi üçüncüsü Delayaya, iyirmi dördüncüsü Maazyaya çıxdı.</verse>
+        <verse osisID='1Chr.24.19'>İsrailin Allahı Rəbbin əmr etdiyi kimi babaları Harunun vasitəsilə onlara verilən qaydalarına görə, Rəbbin məbədinə girmək üçün xidmət işinə görə növbələri belə idi. </verse>
+        <verse osisID='1Chr.24.20'>Levililərin qalan bölmələri bunlardır: Amramın nəslindən Şuvael, Şuvaelin nəslindən Yexdeya.</verse>
+        <verse osisID='1Chr.24.21'>Rexavyanın nəslindən ilk oğlu İşşiya.</verse>
+        <verse osisID='1Chr.24.22'>İsharın nəslindən Şelomot, Şelomotun nəslindən Yaxat.</verse>
+        <verse osisID='1Chr.24.23'>Xevronun oğulları: ilk oğlu Yeriya, ikincisi Amarya, üçüncüsü Yaxaziel, dördüncüsü Yeqameam.</verse>
+        <verse osisID='1Chr.24.24'>Uzzielin nəslindən Mikeya, Mikeyanın nəslindən Şamir.</verse>
+        <verse osisID='1Chr.24.25'>Mikeyanın qardaşı İşşiya, İşşiyanın nəslindən Zəkəriyyə.</verse>
+        <verse osisID='1Chr.24.26'>Merarinin oğulları: Maxli, Muşi, onun nəslindən Yaaziya.</verse>
+        <verse osisID='1Chr.24.27'>Merari nəslindən olan Yaaziyanın oğulları: Şoham, Zakkur və İvri.</verse>
+        <verse osisID='1Chr.24.28'>Maxlinin nəslindən Eleazar. Onun oğlu yox idi.</verse>
+        <verse osisID='1Chr.24.29'>Qişin nəslindən Yeraxmeel.</verse>
+        <verse osisID='1Chr.24.30'>Muşinin oğulları: Maxli, Eder və Yerimot. Bunlar nəsillərinə görə Levililərin bölükləridir.</verse>
+        <verse osisID='1Chr.24.31'>Onlar da qohumları olan Harun nəsli kimi padşah Davudun, Sadoqun, Aximelekin, kahinlərin və Levililərin nəsil başçılarının önündə püşk atdılar. Böyük nəsil başçıları da, qohumları olan kiçik nəsil başçıları da eyni qayda ilə püşk atdılar.  </verse>
+      </chapter>
+      <chapter osisID='1Chr.25'>
+        <verse osisID='1Chr.25.1'>
+          Davud və ordu başçıları, Asəfin, Hemanın və Yedutunun nəslindən liralarla, çənglərlə və sinclərlə peyğəmbərlik etsinlər deyə xidmət üçün ayırdılar. Bu xidmət işini görənlərin siyahısı budur:</verse>
+        <verse osisID='1Chr.25.2'>Asəfin nəslindən: onun oğulları Zakkur, Yusif, Netanya, Asarela. Asəfin başçılığı altında olan oğulları padşahın əmrinə görə peyğəmbərlik edirdilər.</verse>
+        <verse osisID='1Chr.25.3'>Yedutunun nəslindən: onun oğulları Gedalya, Seri, Yeşaya, Xaşavya, Mattitya. Ataları Yedutunun başçılığı altında olan bu altı nəfər Rəbbə şükür və həmd edərək lira ilə peyğəmbərlik edirdi.</verse>
+        <verse osisID='1Chr.25.4'>Hemanın nəslindən: onun oğulları Buqqiya, Mattanya, Uzziel, Şevuel, Yerimot, Xananya, Xanani, Eliata, Giddalti, Romamti-Ezer, Yoşbeqaşa, Malloti, Hotir və Maxaziot.</verse>
+        <verse osisID='1Chr.25.5'>Bunların hamısı padşahın görücüsü Hemanın oğulları idi, çünki Hemanı yüksəltmək barədə Allahın verdiyi sözə görə Allah ona on dörd oğul və üç qız vermişdi.</verse>
+        <verse osisID='1Chr.25.6'>Onların hamısı Rəbbin məbədində atalarının başçılığı altında Allah evinin xidməti üçün sinclər, çənglər və liralar çalıb ilahi oxuyurdu. Asəf, Yedutun və Heman isə padşahın başçılığı altında idi.</verse>
+        <verse osisID='1Chr.25.7'>Rəbbə ilahi oxumaq öyrədilmiş qohumları ilə birgə bütün bunu bacaranlar iki yüz səksən səkkiz nəfər idi.</verse>
+        <verse osisID='1Chr.25.8'>Hamısı – böyüyü də, kiçiyi də, müəllimi də, şagirdi də eyni qayda ilə vəzifələri üçün püşk atdı. </verse>
+        <verse osisID='1Chr.25.9'>Birinci püşk Asəfin nəslindən olan Yusifə çıxdı. İkincisi qohumları və oğulları ilə birgə Gedalyaya çıxdı. Onlar on iki nəfər idi.</verse>
+        <verse osisID='1Chr.25.10'>Üçüncüsü oğulları və qohumları ilə birgə Zakkura çıxdı. Onlar on iki nəfər idi.</verse>
+        <verse osisID='1Chr.25.11'>Dördüncüsü oğulları və qohumları ilə birgə İsriyə çıxdı. Onlar on iki nəfər idi.</verse>
+        <verse osisID='1Chr.25.12'>Beşincisi oğulları və qohumları ilə birgə Netanyaya çıxdı. Onlar on iki nəfər idi.</verse>
+        <verse osisID='1Chr.25.13'>Altıncısı oğulları və qohumları ilə birgə Buqqiyaya çıxdı. Onlar on iki nəfər idi.</verse>
+        <verse osisID='1Chr.25.14'>Yeddincisi oğulları və qohumları ilə birgə Yesarelaya çıxdı. Onlar on iki nəfər idi.</verse>
+        <verse osisID='1Chr.25.15'>Səkkizincisi oğulları və qohumları ilə birgə Yeşayaya çıxdı. Onlar on iki nəfər idi.</verse>
+        <verse osisID='1Chr.25.16'>Doqquzuncusu oğulları və qohumları ilə birgə Mattanyaya çıxdı. Onlar on iki nəfər idi.</verse>
+        <verse osisID='1Chr.25.17'>Onuncusu oğulları və qohumları ilə birgə Şimeyə çıxdı. Onlar on iki nəfər idi.</verse>
+        <verse osisID='1Chr.25.18'>On birincisi oğulları və qohumları ilə birgə Azarelə çıxdı. Onlar on iki nəfər idi.</verse>
+        <verse osisID='1Chr.25.19'>On ikincisi oğulları və qohumları ilə birgə Xaşavyaya çıxdı. Onlar on iki nəfər idi.</verse>
+        <verse osisID='1Chr.25.20'>On üçüncüsü oğulları və qohumları ilə birgə Şuvaelə çıxdı. Onlar on iki nəfər idi.</verse>
+        <verse osisID='1Chr.25.21'>On dördüncüsü oğulları və qohumları ilə birgə Mattityaya çıxdı. Onlar on iki nəfər idi.</verse>
+        <verse osisID='1Chr.25.22'>On beşincisi oğulları və qohumları ilə birgə Yeremota çıxdı. Onlar on iki nəfər idi.</verse>
+        <verse osisID='1Chr.25.23'>On altıncısı oğulları və qohumları ilə birgə Xananyaya çıxdı. Onlar on iki nəfər idi.</verse>
+        <verse osisID='1Chr.25.24'>On yeddincisi oğulları və qohumları ilə birgə Yoşbeqaşaya çıxdı. Onlar on iki nəfər idi.</verse>
+        <verse osisID='1Chr.25.25'>On səkkizincisi oğulları və qohumları ilə birgə Xananiyə çıxdı. Onlar on iki nəfər idi.</verse>
+        <verse osisID='1Chr.25.26'>On doqquzuncusu oğulları və qohumları ilə birgə Mallotiyə çıxdı. Onlar on iki nəfər idi.</verse>
+        <verse osisID='1Chr.25.27'>İyirmincisi oğulları və qohumları ilə birgə Eliataya çıxdı. Onlar on iki nəfər idi.</verse>
+        <verse osisID='1Chr.25.28'>İyirmi beşincisi oğulları və qohumları ilə birgə Hotirə çıxdı. Onlar on iki nəfər idi.</verse>
+        <verse osisID='1Chr.25.29'>İyirmi ikincisi oğulları və qohumları ilə birgə Giddaltiyə çıxdı. Onlar on iki nəfər idi.</verse>
+        <verse osisID='1Chr.25.30'>İyirmi üçüncüsü oğulları və qohumları ilə birgə Maxaziota çıxdı. Onlar on iki nəfər idi.</verse>
+        <verse osisID='1Chr.25.31'>İyirmi dördüncüsü oğulları və qohumları ilə birgə Romamti-Ezerə çıxdı. Onlar on iki nəfər idi.  </verse>
+      </chapter>
+      <chapter osisID='1Chr.26'>
+        <verse osisID='1Chr.26.1'>
+          Qapıçıların bölükləri belədir: Qorah nəslindən, Asəfin övladlarından olan Qore oğlu Meşelemya.</verse>
+        <verse osisID='1Chr.26.2'>Meşelemyanın oğulları: ilk oğlu Zəkəriyyə, ikincisi Yediael, üçüncüsü Zevadya, dördüncüsü Yatniel,</verse>
+        <verse osisID='1Chr.26.3'>beşincisi Elam, altıncısı Yehoxanan, yeddincisi Elyehoenay.</verse>
+        <verse osisID='1Chr.26.4'>Oved-Edomun oğulları: ilk oğlu Şemaya, ikincisi Yehozavad, üçüncüsü Yoah, dördüncüsü Sakar, beşincisi Netanel,</verse>
+        <verse osisID='1Chr.26.5'>altıncısı Ammiel, yeddincisi İssakar, səkkizincisi Peulletay, çünki Allah Oved-Edoma xeyir-dua vermişdi.</verse>
+        <verse osisID='1Chr.26.6'>Onun oğlu Şemayanın da oğulları oldu və onlar nəsil başçıları oldu, çünki igid adamlar idi.</verse>
+        <verse osisID='1Chr.26.7'>Şemayanın oğulları: Otni, Refael, Oved və Elzavad. Qohumları Elihu və Semakya da igid adamlar idi.</verse>
+        <verse osisID='1Chr.26.8'>Bunların hamısı Oved-Edomun nəslindən idi. Özləri, oğulları və qohumları xidmət işində bacarıqlı və igid adamlar idi. Hamısı birlikdə altmış iki nəfər idi. Onlar Oved-Edomdan idi.</verse>
+        <verse osisID='1Chr.26.9'>Meşelemyanın oğullarından və qohumlarından olan igid adamlar on səkkiz nəfər idi.</verse>
+        <verse osisID='1Chr.26.10'>Merari nəslindən olan Xosanın oğulları: ilk oğlu olmadığı halda atasının böyük başçı qoyduğu Şimri,</verse>
+        <verse osisID='1Chr.26.11'>ikincisi Xilqiya, üçüncüsü Tevalya, dördüncüsü Zəkəriyyə. Xosanın bütün oğulları və qohumları on üç nəfər idi. </verse>
+        <verse osisID='1Chr.26.12'>Bu adamların başçılıq etdiyi qapıçı bölükləri başqa qohumları kimi Rəbbin məbədində xidmət etmək üçün vəzifələrinə təyin olundular.</verse>
+        <verse osisID='1Chr.26.13'>Böyüyü də, kiçiyi də ata nəsillərinə görə hər qapı üçün püşk atdı.</verse>
+        <verse osisID='1Chr.26.14'>Şelemya üçün püşk Şərq qapısına düşdü. Onun oğlu ağıllı məsləhətçi olan Zəkəriyyə üçün də püşk atdılar. Onun püşkü Şimal qapısına düşdü.</verse>
+        <verse osisID='1Chr.26.15'>Oved-Edom üçün püşk Cənub qapısına, oğulları üçün isə anbar evinə düşdü.</verse>
+        <verse osisID='1Chr.26.16'>Şuppim və Xosa üçün püşk Qərb qapısına və yuxarı qalxan yolda olan Şalleket qapısına düşdü. Bunların hamısı növbə ilə beləcə keşik çəkirdi.</verse>
+        <verse osisID='1Chr.26.17'>Şərq qapısı üçün altı Levili, Şimal qapısı üçün gündə dörd Levili, Cənub qapısı üçün gündə dörd Levili və hər iki anbar üçün iki Levili.</verse>
+        <verse osisID='1Chr.26.18'>Qərb tərəfdə olan həyət üçün isə yolda dördü, həyətdə ikisi dururdu.</verse>
+        <verse osisID='1Chr.26.19'>Bunlar Qorah və Merari nəsillərindən olan qapıçı bölmələridir. </verse>
+        <verse osisID='1Chr.26.20'>Allah evinin xəzinələrinə və təqdis olunan şeylərin xəzinələrinə nəzarət edən Levililər – onların qohumları bunlardır:</verse>
+        <verse osisID='1Chr.26.21'>Gerşonlulardan olan Ladanın nəslindən Ladanın nəsil başçısı Gerşonlu Yexieli,</verse>
+        <verse osisID='1Chr.26.22'>Rəbbin məbədinin xəzinələrinə nəzarət edən Yexielinin oğulları Zetam və onun qardaşı Yoel.</verse>
+        <verse osisID='1Chr.26.23'>Amramın, İsharın, Xevronun və Uzzielin nəsillərindən</verse>
+        <verse osisID='1Chr.26.24'>Musa oğlu Gerşomun nəslindən olan Şevuel xəzinələr üzərində baş nəzarətçi idi.</verse>
+        <verse osisID='1Chr.26.25'>Gerşomun qardaşı Eliezerin nəsli: onun oğlu Rexavya, onun oğlu Yeşaya, onun oğlu Yoram, onun oğlu Zikri, onun oğlu Şelomit.</verse>
+        <verse osisID='1Chr.26.26'>Şelomit və onun qohumları bütün təqdis olunan şeylər xəzinələri üzərində nəzarətçi idi. Bu şeyləri padşah Davud, minbaşı və yüzbaşı olan nəsil və ordu başçıları təqdis etmişdi.</verse>
+        <verse osisID='1Chr.26.27'>Müharibələrdə ələ keçirilən təqdis olunmuş qənimətin bir hissəsini Rəbbin məbədini təmin etmək üçün ayırmışdılar.</verse>
+        <verse osisID='1Chr.26.28'>Hər kəsin təqdis etdiyi şeylər – görücü Şamuelin, Qiş oğlu Şaulun, Ner oğlu Avnerin və Seruya oğlu Yoavın təqdis etdiyi şeylərin hamısı Şelomitin və onun qohumlarının nəzarəti altında idi. </verse>
+        <verse osisID='1Chr.26.29'>İshar nəslindən Kenanya və onun oğulları İsrail üzərində məmur və hakim olub məbəddən kənardakı işlərə baxırdı.</verse>
+        <verse osisID='1Chr.26.30'>Xevronun nəslindən igid adamlar olan Xaşavya və onun qardaşları – min yeddi yüz nəfər Rəbbə ibadət işi və padşahın xidmət işi üçün İordan çayının qərb tayında yaşayan İsraillilər üzərində məmur idi.</verse>
+        <verse osisID='1Chr.26.31'>Xevronun nəslindən olan Yeriya Xevronluların nəsil başçısı idi. Davudun padşahlığının qırxıncı ilində onların nəsil şəcərələrinə baxıldı və Gileadın Yazer şəhərində onların arasında igid adamlar tapıldı.</verse>
+        <verse osisID='1Chr.26.32'>Yeriyanın nəsil başçıları olan qohumları igid adamlar idi və sayları iki min yeddi yüz nəfər idi. Padşah Davud Allahın və padşahın xidmət işi üçün Ruvenlilər, Qadlılar və Menaşşe qəbiləsinin yarısı üzərində onları məmur qoydu.  </verse>
+      </chapter>
+      <chapter osisID='1Chr.27'>
+        <verse osisID='1Chr.27.1'>
+          İlin hər ayında bir bölmə növbə çəkirdi. Hər bölmədə iyirmi dörd min nəfər var idi. Bu bölmələrin bütün işlərində padşaha xidmət edən İsraillilərin nəsil başçılarının, minbaşıların, yüzbaşıların və məmurların siyahısı budur:</verse>
+        <verse osisID='1Chr.27.2'>birinci ay üçün birinci bölməyə Zavdiel oğlu Yaşoveam başçılıq edirdi. Onun bölməsində iyirmi dörd min nəfər var idi.</verse>
+        <verse osisID='1Chr.27.3'>O, Peres nəslindən idi və birinci ay üçün bütün ordu başçılarının böyüyü idi.</verse>
+        <verse osisID='1Chr.27.4'>İkinci ayın bölməsinə Axoahlı Doday başçılıq edirdi. Miqlot onun köməkçisi idi və onun bölməsində iyirmi dörd min nəfər var idi.</verse>
+        <verse osisID='1Chr.27.5'>Üçüncü ay üçün üçüncü qoşun başçısı kahin Yehoyadanın oğlu Benaya idi. Onun bölməsində iyirmi dörd min nəfər var idi.</verse>
+        <verse osisID='1Chr.27.6'>«Otuz igid»dən biri və «otuz igid»in başçısı olan Benaya budur. Oğlu Ammizavad onun köməkçisi idi.</verse>
+        <verse osisID='1Chr.27.7'>Dördüncü ay üçün dördüncü başçı Yoavın qardaşı Asahel idi, ondan sonra oğlu Zevadya idi. Onun bölməsində iyirmi dörd min nəfər var idi.</verse>
+        <verse osisID='1Chr.27.8'>Beşinci ay üçün beşinci başçı İzrahlı Şamhut idi. Onun bölməsində iyirmi dörd min nəfər var idi.</verse>
+        <verse osisID='1Chr.27.9'>Altıncı ay üçün altıncı başçı Teqoalı İqqeşin oğlu İra idi. Onun bölməsində iyirmi dörd min nəfər var idi.</verse>
+        <verse osisID='1Chr.27.10'>Yeddinci ay üçün yeddinci başçı Efrayimlilərdən Pelonlu Xeles idi. Onun bölməsində iyirmi dörd min nəfər var idi.</verse>
+        <verse osisID='1Chr.27.11'>Səkkizinci ay üçün səkkizinci başçı Zerah nəslindən Xuşalı Sibbekay idi. Onun bölməsində iyirmi dörd min nəfər var idi.</verse>
+        <verse osisID='1Chr.27.12'>Doqquzuncu ay üçün doqquzuncu başçı Binyaminlilərdən Anatotlu Aviezer idi. Onun bölməsində iyirmi dörd min nəfər var idi.</verse>
+        <verse osisID='1Chr.27.13'>Onuncu ay üçün onuncu başçı Zerah nəslindən Netofalı Mahray idi. Onun bölməsində iyirmi dörd min nəfər var idi.</verse>
+        <verse osisID='1Chr.27.14'>On birinci ay üçün on birinci başçı Efrayimlilərdən Piratonlu Benaya idi. Onun bölməsində iyirmi dörd min nəfər var idi.</verse>
+        <verse osisID='1Chr.27.15'>On ikinci ay üçün on ikinci başçı Otnielin nəslindən Netofalı Xelday idi. Onun bölməsində iyirmi dörd min nəfər var idi. </verse>
+        <verse osisID='1Chr.27.16'>İsrail qəbilələri üzərində olan başçılar bunlardır: Ruvenlilərin başçısı Zikri oğlu Eliezer; Şimeonluların başçısı Maaka oğlu Şefatya;</verse>
+        <verse osisID='1Chr.27.17'>Levililərin başçısı Qemuel oğlu Xaşavya, Harun nəslinin başçısı Sadoq;</verse>
+        <verse osisID='1Chr.27.18'>Yəhudalıların başçısı Davudun qardaşlarından biri Elihu; İssakarlıların başçısı Mikael oğlu Omri;</verse>
+        <verse osisID='1Chr.27.19'>Zevulunluların başçısı Avdiya oğlu İşmaya; Naftalililərin başçısı Azriel oğlu Yerimot;</verse>
+        <verse osisID='1Chr.27.20'>Efrayimlilərin başçısı Azazya oğlu Huşə; Menaşşelilərin yarısının başçısı Pedaya oğlu Yoel;</verse>
+        <verse osisID='1Chr.27.21'>Gileadda olan Menaşşelilərin yarısının başçısı Zəkəriyyə oğlu İddo; Binyaminlilərin başçısı Avner oğlu Yaasiel;</verse>
+        <verse osisID='1Chr.27.22'>Danlıların başçısı Yeroxam oğlu Azarel. Bunlar İsrail qəbilələrinin başçılarıdır. </verse>
+        <verse osisID='1Chr.27.23'>Davud iyirmi yaşında və bundan aşağı yaşda olanları hesaba almadı, çünki Rəbb İsraili göydəki ulduzlar qədər çoxaldacağını vəd etmişdi.</verse>
+        <verse osisID='1Chr.27.24'>Seruya oğlu Yoav siyahıya almağa başladı, ancaq bunu başa çatdırmadı. Bu siyahıyaalmadan ötrü Rəbbin qəzəbi İsrail üzərinə gəldi və siyahıyaalma padşah Davudun salnamələr kitabına daxil olmadı. </verse>
+        <verse osisID='1Chr.27.25'>Padşahın anbarlarına nəzarət edən Adiel oğlu Azmavet; tarlalarda, şəhərlərdə, kəndlərdə və qalalarda olan anbarlara nəzarət edən Uzziya oğlu Yonatan;</verse>
+        <verse osisID='1Chr.27.26'>tarlada çalışan əkinçilərin üzərində nəzarətçi Keluv oğlu Ezri;</verse>
+        <verse osisID='1Chr.27.27'>üzüm bağlarına nəzarət edən Ramalı Şimey; üzüm bağlarındakı şərab anbarlarına yığılan üzüm məhsuluna nəzarət edən Şifemli Zavdi;</verse>
+        <verse osisID='1Chr.27.28'>yamaclı-düzənlikli bölgədə olan zeytunluqlar və firon ənciri ağaclarına nəzarət edən Gederli Baal-Xanan; yağ anbarlarına nəzarət edən Yoaş;</verse>
+        <verse osisID='1Chr.27.29'>Şaron düzənliyində otlayan mal-qaraya baxan Şaronlu Şitray; dərələrdə olan mal-qaraya baxan Adlay oğlu Şafat;</verse>
+        <verse osisID='1Chr.27.30'>dəvələrə baxan İsmailli Ovil; eşşəklərə baxan Meronotlu Yexdeya;</verse>
+        <verse osisID='1Chr.27.31'>qoyun-keçiyə baxan Həcərli Yaziz. Bunların hamısı padşah Davudun mülklərinə baxan rəislər idi. </verse>
+        <verse osisID='1Chr.27.32'>Davudun əmisi Yonatan məsləhətçi idi. O çox ağıllı və savadlı idi. Xakmoni oğlu Yexiel padşah oğullarının tərbiyəçisi idi.</verse>
+        <verse osisID='1Chr.27.33'>Axitofel padşahın məsləhətçisi idi. Arklı Xuşay padşahın həmsöhbəti idi.</verse>
+        <verse osisID='1Chr.27.34'>Axitofeldən sonra yerinə Benaya oğlu Yehoyada və Evyatar oldu. Padşahın ordu başçısı isə Yoav idi.  </verse>
+      </chapter>
+      <chapter osisID='1Chr.28'>
+        <verse osisID='1Chr.28.1'/>
+        <verse osisID='1Chr.28.2'>Padşah Davud ayağa qalxıb dedi: «Ey qardaşlarım və xalqım, məni dinləyin! Ürəyimdə Allahımızın kətili və Rəbbin Əhd sandığı üçün bir rahatlıq evi tikmək arzusu var idi və onu tikmək üçün hazırlıq gördüm.</verse>
+        <verse osisID='1Chr.28.3'>Ancaq Allah mənə dedi: “Sən Mənim adıma məbəd tikməyəcəksən, çünki sən hərb adamısan və qan tökmüsən”.</verse>
+        <verse osisID='1Chr.28.4'>Lakin İsrailin Allahı Rəbb İsrail üzərində əbədi olaraq padşah olmaq üçün bütün nəslimdən məni seçdi, çünki hökmdar olmaq üçün O, Yəhudanı və Yəhuda qəbiləsindən mənim nəslimi seçdi. Bütün İsrail üzərində padşah etmək üçün nəslimin arasında mən xoşuna gəldim.</verse>
+        <verse osisID='1Chr.28.5'>Rəbbin mənə verdiyi çoxlu oğul arasından da İsrail üzərində Rəbbin padşahlıq taxtında oturmaq üçün oğlum Süleymanı seçdi.</verse>
+        <verse osisID='1Chr.28.6'>Rəbb mənə dedi: “Oğlun Süleyman da həmin adamdır ki, Mənim məbədimi və həyətlərimi tikəcək, çünki onu Özümə oğul seçdim və Mən ona Ata olacağam.</verse>
+        <verse osisID='1Chr.28.7'>Əgər bu gün olduğu kimi əmrlərimə və hökmlərimə əməl etməkdə sadiq olsa, onun padşahlığını əbədi olaraq möhkəmləndirəcəyəm”. </verse>
+        <verse osisID='1Chr.28.8'>İndi isə bütün İsraillilərin, Rəbbin camaatının gözü önündə və Allahımız eşidərkən belə tapşırıram: “Allahınız Rəbbin bütün əmrlərinə əməl edin, onları öyrənin ki, bu nemətli torpaqda qalasınız və sizdən sonra övladlarınıza onu əbədi miras verəsiniz”. </verse>
+        <verse osisID='1Chr.28.9'>Sən də, oğlum Süleyman, atanın Allahını tanı, səmimi qəlbdən və həvəslə Ona qulluq et, çünki Rəbb bütün ürəkləri sınayır və ağılların bütün istəklərini bilir. Əgər Onu axtarsan, sən Onu tapacaqsan. Əgər Onu tərk etsən, O da səni əbədi olaraq atacaq.</verse>
+        <verse osisID='1Chr.28.10'>İndi bax Rəbb səni Müqəddəs məkan olan bir ev tikmək üçün seçmişdir, sən də möhkəm ol və bu işi gör». </verse>
+        <verse osisID='1Chr.28.11'>Davud oğlu Süleymana eyvanın, onun evlərinin, xəzinələrinin, yuxarı otaqların, iç otaqların, Kəffarə yerinin, fikrində olan bütün bunların təsvirini və</verse>
+        <verse osisID='1Chr.28.12'>Ruhun vasitəsilə ona aşkar olmuş bütün bunların təsvirini verdi: Rəbbin məbədinin həyətləri, ətrafdakı bütün otaqlar, Allah məbədinin xəzinələri, təqdis olunan şeylərin xəzinələri,</verse>
+        <verse osisID='1Chr.28.13'>kahinlərin və Levililərin bölükləri, Rəbbin məbədində hər cür xidmət işi, Rəbbin məbədində olan bütün xidmət əşyaları,</verse>
+        <verse osisID='1Chr.28.14'>hər cür xidmət üçün işlədilən bütün qızılın çəkisinə görə qızıl əşyalar, hər cür xidmət üçün işlədilən gümüşün çəkisinə görə gümüş əşyalar,</verse>
+        <verse osisID='1Chr.28.15'>hər çıraqdanın və onun çıraqlarının çəkisinə görə qızıl çıraqdanlar və onların qızıl çıraqları, hər cür xidmət üçün çəkisinə görə gümüş çıraqdanlar və onların çıraqları,</verse>
+        <verse osisID='1Chr.28.16'>təqdis çörəkləri qoyulan masalar üçün hər masanın çəkisinə görə qızıl, hər gümüş masa üçün gümüş,</verse>
+        <verse osisID='1Chr.28.17'>xalis qızıldan olan çəngəllər, piyalələr və dolçalar, hər kasanın çəkisinə görə qızıl kasalar, hər kasanın çəkisinə görə gümüş kasalar,</verse>
+        <verse osisID='1Chr.28.18'>çəkisinə görə xalis qızıldan buxur qurbangahı. Davud həm də qanadlarını açıb Əhd sandığını örtən Rəbbin arabası olan qızıl keruvların təsvirini verdi.</verse>
+        <verse osisID='1Chr.28.19'>Davud dedi: «Bunların hamısının təsviri bütün təfsilatı ilə yazılı şəkildə Rəbb tərəfindən mənə aşkar edildi». </verse>
+        <verse osisID='1Chr.28.20'>Davud oğlu Süleymana dedi: «Möhkəm və cəsarətli ol, bu işi gör, qorxma və ruhdan düşmə, çünki Rəbb Allah, mənim Allahım səninlədir. O, Rəbbin məbədinin bütün xidmət işi sona çatmamış səni atmaz və tərk etməz.</verse>
+        <verse osisID='1Chr.28.21'>Allah məbədinin bütün xidməti üçün kahinlərin və Levililərin bölükləri hazır durub. Sənin yanında bütün işlər üçün hər cür xidməti bacaran könüllü adamlar da var. Rəislər və bütün xalq sənin hər əmrini gözləyir».  </verse>
+      </chapter>
+      <chapter osisID='1Chr.29'>
+        <verse osisID='1Chr.29.1'>
+            Padşah Davud bütün camaata dedi: «Allahın yeganə seçdiyi oğlum Süleyman cavan və təcrübəsizdir, bu iş isə böyükdür, çünki bu bina insan üçün deyil, Rəbb Allah üçün olacaq.</verse>
+        <verse osisID='1Chr.29.2'>Bütün səyimlə Allahımın məbədindən ötrü qızıl şeylər üçün qızıl, gümüş şeylər üçün gümüş, tunc şeylər üçün tunc, dəmir şeylər üçün dəmir, ağac şeylər üçün ağac, damarlı əqiq daşları və onların sağanaqları, cilalı və cürbəcür rəngli daşlar, hər cür qiymətli daşlar və çoxlu mərmər daşlar hazırlamışam.</verse>
+        <verse osisID='1Chr.29.3'>Bundan başqa, Allahımın məbədini tikməyə həvəsim naminə müqəddəs məbəd üçün hazırladığım hər şeydən əlavə nə qədər qızıl-gümüş xəzinəm varsa, onu da Allahım Rəbbin məbədi üçün verirəm:</verse>
+        <verse osisID='1Chr.29.4'>Ofir qızılından üç min talant qızılı, yeddi min talant xalis gümüşü evlərin divarını örtmək üçün,</verse>
+        <verse osisID='1Chr.29.5'>qızıl şeylər üçün qızılı, gümüş şeylər üçün gümüşü ustaların düzəldəcəyi bütün işlər üçün verirəm. Kim bu gün Rəbbə könüllü nəzir təqdim etmək istəyir?» </verse>
+        <verse osisID='1Chr.29.6'>Nəsil başçıları, İsrail qəbilələrinin başçıları, minbaşılar, yüzbaşılar və padşahın işləri üzərində olan rəislər könüllü gəlib</verse>
+        <verse osisID='1Chr.29.7'>Allah məbədinin xidməti üçün beş min talant və on min darik qızıl, on min talant gümüş, on səkkiz min talant tunc və yüz min talant dəmir verdilər.</verse>
+        <verse osisID='1Chr.29.8'>Kimdə qiymətli daşlar var idisə, onları Gerşon nəslindən olan Yexielin nəzarəti altında olan Rəbbin məbədinin xəzinəsinə verirdi.</verse>
+        <verse osisID='1Chr.29.9'>Xalq onların könüllü nəzir verməsinə sevindi, çünki bütün qəlbi ilə Rəbbə nəzir təqdim etmişdilər. Padşah Davud da çox sevindi. </verse>
+        <verse osisID='1Chr.29.10'>Davud bütün camaatın gözü önündə Rəbbə alqış edib dedi: «Ey atamız İsrailin Allahı Rəbb, əzəldən sonsuza qədər Sənə alqış olsun!</verse>
+        <verse osisID='1Chr.29.11'>Ya Rəbb, əzəmət, qüdrət, calal, zəfər və şöhrət Sənə məxsusdur, çünki göydə və yerdə olan hər şey Sənindir. Ya Rəbb, padşahlıq Sənindir və Hökmdar olaraq hər şeydən ucasan.</verse>
+        <verse osisID='1Chr.29.12'>Var-dövlətlə şöhrət Səndən gəlir və Sən hər şeyə hökmranlıq edirsən. Hər kəsi yüksəltmək və gücləndirmək üçün qüdrət və güc Sənin əlindədir.</verse>
+        <verse osisID='1Chr.29.13'>İndi, ey Allahımız, biz Sənə şükür edirik və izzətli adına həmd edirik. </verse>
+        <verse osisID='1Chr.29.14'>Ancaq mən kiməm və xalqım nədir ki, bu cür könüllü nəzirlər verə bilək? Çünki hər şey Səndəndir və əlindən aldığımızı Sənə verdik.</verse>
+        <verse osisID='1Chr.29.15'>Biz bütün atalarımız kimi Sənin önündə bir qərib və qonağıq. Günlərimiz yer üzündə kölgə kimidir və heç nəyə ümidimiz yoxdur.</verse>
+        <verse osisID='1Chr.29.16'>Ya Rəbb Allahımız, Sənin müqəddəs adına məbəd tikmək üçün hazırladığımız bütün bu var-dövlət Sənin əlinlə verilib, bunların hamısı Sənindir.</verse>
+        <verse osisID='1Chr.29.17'>Bilirəm ki, ey Allahım, Sən ürəyi sınayırsan və düzlüyü sevirsən. Mən bütün bu şeyləri ürəyimin düzlüyü ilə könüllü olaraq təqdim etdim, indi də burada olan xalqının Sənə könüllü nəzir verdiyini sevinclə gördüm.</verse>
+        <verse osisID='1Chr.29.18'>Ya Rəbb, atalarımız İbrahimin, İshaqın və İsrailin Allahı! Xalqının ürəyindəki istəklərində bunu əbədi olaraq qoruyub saxla və onların ürəyini Özünə tərəf yönəlt.</verse>
+        <verse osisID='1Chr.29.19'>Oğlum Süleymana sadiq bir ürək ver ki, Sənin əmrlərinə, göstərişlərinə və qanunlarına əməl etsin, bütün bu işləri görsün, tikintisinə hazırlıq gördüyüm bu binanı tiksin». </verse>
+        <verse osisID='1Chr.29.20'>Davud bütün camaata dedi: «İndi Allahınız Rəbbə həmd edin». Bütün camaat atalarının Allahı Rəbbə həmd etdi. Onlar əyilib Rəbbə səcdə, padşaha isə təzim etdilər. </verse>
+        <verse osisID='1Chr.29.21'>Ertəsi gün Rəbbə qurbanlar kəsdilər və Rəbbə yandırma qurbanı olaraq min baş buğa, min baş qoç, min baş quzu, onların içmə təqdimlərini və bütün İsrail üçün çoxlu qurbanlar təqdim etdilər.</verse>
+        <verse osisID='1Chr.29.22'>O gün onlar böyük sevinclə Rəbbin önündə yeyib-içdilər. Sonra ikinci dəfə Davud oğlu Süleymanı padşah etdilər. Rəbb üçün onu hökmdar və Sadoqu kahin olaraq məsh etdilər.</verse>
+        <verse osisID='1Chr.29.23'>Süleyman atası Davudun yerinə padşah olaraq Rəbbin taxtında oturdu və uğur qazandı. Bütün İsraillilər ona itaət etdi.</verse>
+        <verse osisID='1Chr.29.24'>Bütün rəislər, igid adamlar, həm də Davudun bütün oğulları padşah Süleymana tabe oldu.</verse>
+        <verse osisID='1Chr.29.25'>Rəbb Süleymanı bütün İsraillilərin gözündə çox ucaltdı və özündən əvvəl İsraildə heç bir padşahın malik olmadığı padşahlıq əzəmətini ona verdi. </verse>
+        <verse osisID='1Chr.29.26'>Beləliklə, Yessey oğlu Davud bütün İsrail üzərində padşahlıq etdi.</verse>
+        <verse osisID='1Chr.29.27'>Onun İsrail üzərində padşahlıq etdiyi müddət qırx il idi; yeddi il Xevronda və otuz üç il Yerusəlimdə padşahlıq etdi.</verse>
+        <verse osisID='1Chr.29.28'>O, uzun ömür sürüb sərvət və şöhrətdən doymuş halda xoş bir qocalıq çağında öldü və yerinə oğlu Süleyman padşah oldu.</verse>
+        <verse osisID='1Chr.29.29'>Padşah Davudun əvvəldən axıra qədər bütün işləri görücü Şamuelin kitabında, peyğəmbər Natanın kitabında və görücü Qadın kitabında yazılmışdır.</verse>
+        <verse osisID='1Chr.29.30'>Bu kitablarda həm Davudun padşahlığı və qüdrəti, həm də onun, İsrailin və bütün dünya padşahlıqlarının başına gələn əhvalatlar barədə yazılmışdır.  </verse>
+      </chapter>
+    </div></osisText>
+</osis>

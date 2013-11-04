@@ -1,0 +1,157 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace'>
+  <osisText osisIDWork='NorthernAzeri' osisRefWork='Bible' xml:lang='az'>
+    <header>
+      <revisionDesc>
+        <date>2012-01-07</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='NorthernAzeri'>
+        <title>Northern Azeri Translation</title>
+        <contributor/>
+        <creator>Mod2Zef (6)</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject/>
+        <date>2012-01-07</date>
+        <description>Northern Azeri Translation</description>
+        <publisher/>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>NorthernAzeri</identifier>
+        <source>no entry TextSource in sword.conf found</source>
+        <language type='IETF'>az</language>
+        <relation/>
+        <coverage>provide the bible to the nations of the world</coverage>
+        <rights>Copyrighted Kutsul Kitab; Permission to distribute granted to CrossWire</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='Jonah'>
+      <chapter osisID='Jonah.1'>
+        <verse osisID='Jonah.1.1'>
+            Rəbbin sözü Amittay oğlu Yunusa nazil oldu:</verse>
+        <verse osisID='Jonah.1.2'>«Qalx, Ninevaya – o böyük şəhərə get və ona qarşı car çək, çünki oradakıların pisliyi gəlib Mənə qədər çatmışdır».</verse>
+        <verse osisID='Jonah.1.3'>Lakin Yunus Rəbbin hüzurundan Tarşişə qaçmaq üçün qalxdı. Yafoya enib Tarşişə gedən bir gəmi tapdı. Yol haqqını verib Rəbbin hüzurundan getmək üçün onlarla birlikdə Tarşişə gedən gəmiyə mindi. </verse>
+        <verse osisID='Jonah.1.4'>Lakin Rəbb dəniz üzərində güclü külək qaldırdı, dənizdə böyük bir fırtına qopdu və gəmi az qala parçalanacaqdı.</verse>
+        <verse osisID='Jonah.1.5'>Gəmiçilər qorxuya düşüb hər biri öz allahını çağırdı və gəmi yüngülləşsin deyə orada olan yükləri dənizə atdılar. Yunus isə gəminin aşağı hissəsinə enmişdi və uzanıb bərk yuxuya getmişdi.</verse>
+        <verse osisID='Jonah.1.6'>Gəmi rəisi onun yanına gəlib dedi: «Sən nə yatırsan? Qalx, öz allahını çağır. Bəlkə sənin allahın bizi yada salar və biz məhv olmarıq». </verse>
+        <verse osisID='Jonah.1.7'>Gəmiçilər bir-birlərinə dedi: «Gəlin püşk ataq, görək kimə görə bu bəla başımıza gəldi?» Püşk atdılar və püşk Yunusa düşdü.</verse>
+        <verse osisID='Jonah.1.8'>O zaman Yunusdan soruşdular: «Bizə de, başımıza gələn bu bəla kimə görədir? Sənin sənətin nədir? Haradan gəlirsən? Vətənin haradır? Hansı xalqdansan?»</verse>
+        <verse osisID='Jonah.1.9'>Yunus cavab verdi: «Mən İbraniyəm. Dənizi və torpağı yaradan göylərin Allahı Rəbdən qorxuram».</verse>
+        <verse osisID='Jonah.1.10'>Onlar çox qorxdu və dedi: «Sən bunu nə üçün etdin?» Çünki Yunusun Rəbdən uzaqlaşmaq üçün qaçdığını bilirdilər, bunu onlara özü nəql etmişdi. </verse>
+        <verse osisID='Jonah.1.11'>Dəniz get-gedə coşduğuna görə onlar Yunusdan soruşdular: «Səninlə nə edək ki, dəniz qarşımızda sakitləşsin?»</verse>
+        <verse osisID='Jonah.1.12'>Yunus onlara dedi: «Məni götürüb dənizə atın, onda dəniz qarşınızda sakitləşər, çünki bilirəm, bu böyük fırtına mənə görə baş verib».</verse>
+        <verse osisID='Jonah.1.13'>Lakin gəmiçilər sahilə yan almaq üçün səylə avar çəkməyə başladı, amma bacarmadı. Ona görə ki dəniz onlara qarşı get-gedə coşurdu.</verse>
+        <verse osisID='Jonah.1.14'>O zaman onlar Rəbbə fəryad edərək dedilər: «Ya Rəbb, Sənə yalvarırıq, qoyma bu adamın canından ötrü məhv olaq. Günahsız qan üstümüzdə qalmasın! Çünki Sən, ya Rəbb, Öz istədiyini etmisən».</verse>
+        <verse osisID='Jonah.1.15'>Onlar Yunusu götürüb dənizə atdı və dənizdəki fırtına yatdı.</verse>
+        <verse osisID='Jonah.1.16'>Onda adamlar Rəbdən bərk qorxdu və Rəbbə qurban təqdim edərək əhd etdi. </verse>
+        <verse osisID='Jonah.1.17'>Yunusu udmaq üçün Rəbb böyük bir balıq yetirdi və Yunus üç gün-üç gecə balığın qarnında qaldı.  </verse>
+      </chapter>
+      <chapter osisID='Jonah.2'>
+        <verse osisID='Jonah.2.1'>
+          Yunus balığın qarnından Allahı Rəbbə dua edib dedi:</verse>
+        <verse osisID='Jonah.2.2'>«Əzab içində Rəbbi çağırdım,O mənə cavab verdi.Ölülər diyarının bağrından fəryad etdim,Sən mənim səsimi eşitdin.</verse>
+        <verse osisID='Jonah.2.3'>Sən məni dərinə, dənizin qoynuna atdın,Məni sellər sarıdı,Sənin bütün ləpələrin və dalğalarınÜstümdən keçdi.</verse>
+        <verse osisID='Jonah.2.4'>Mən dedim: “Sənin gözlərinin önündən qovuldum”,Lakin yenə Sənin müqəddəs məbədini görəcəyəm.</verse>
+        <verse osisID='Jonah.2.5'>Nəfəsim kəsilənə qədər məni sular bürüdü,Məni dərinliklər aldı,Başıma yosunlar sarıldı.</verse>
+        <verse osisID='Jonah.2.6'>Dağların dibinə qədər endim,Arxamca əbədilik dünya bağlandı.Lakin, ya Rəbb Allahım, Sən canımı dərin çuxurdan çıxartdın.</verse>
+        <verse osisID='Jonah.2.7'>Daxilimdə canım üzüləndə Rəbbə üz tutdum,Mənim duam Sənə,Sənin müqəddəs məbədinə çatdı.</verse>
+        <verse osisID='Jonah.2.8'>Puç olan bütlərə səcdə edənlərOnlara verilən lütfdən imtina edərlər.</verse>
+        <verse osisID='Jonah.2.9'>Amma mən Sənə şükür nəğməsi ilə qurban gətirəcəyəm,Əhdimi yerinə yetirəcəyəm.Xilas Rəbdədir!» </verse>
+        <verse osisID='Jonah.2.10'>Rəbb balığa əmr etdi və balıq Yunusu ağzından quruya qaytardı.  </verse>
+      </chapter>
+      <chapter osisID='Jonah.3'>
+        <verse osisID='Jonah.3.1'>
+          Rəbbin sözü Yunusa ikinci dəfə nazil oldu:</verse>
+        <verse osisID='Jonah.3.2'>«Qalx, Ninevaya – o böyük şəhərə get və sənə söyləyəcəyim sözləri onlara car çək».</verse>
+        <verse osisID='Jonah.3.3'>Yunus Rəbbin sözünə görə qalxıb Ninevaya getdi. Nineva Allahın nəzərində böyük şəhər idi. Oranı üç günə gəzib-dolaşmaq olardı.</verse>
+        <verse osisID='Jonah.3.4'>Yunus şəhəri gəzməyə başlayıb bir günlük yol getdi və car çəkərək dedi: «Qırx gündən sonra Nineva dağılacaq!» </verse>
+        <verse osisID='Jonah.3.5'>Ninevalılar Allaha inandılar, oruc elan edərək böyükdən kiçiyə qədər hamı çul geyindi.</verse>
+        <verse osisID='Jonah.3.6'>Bu xəbər Nineva padşahına çatanda o, taxtından qalxaraq şahlıq libasını əynindən çıxartdı və çul geyinib külün üstündə oturdu.</verse>
+        <verse osisID='Jonah.3.7'>Padşah özünün və əyanlarının adından buyurdu ki, Ninevada elan edib desinlər:  «Nə insanlar, nə heyvanlar, nə mal-qara, nə də ki qoyun-keçi heç nə yeməsin, otlağa getməsin və su içməsin.</verse>
+        <verse osisID='Jonah.3.8'>İnsanlar da, heyvanlar da çul geyinsin və var gücləri ilə Allaha fəryad etsin. Hər kəs öz pis yolundan və əllərinin zorakılığından dönsün.</verse>
+        <verse osisID='Jonah.3.9'>Kim bilir, bəlkə Allah rəhmə gəlib, qızğın qəzəbini bizdən döndərər və biz məhv olmarıq». </verse>
+        <verse osisID='Jonah.3.10'>Allah onların işlərini, pis yoldan döndüklərini gördü. Ona görə də rəhm edib əvvəlcə onların üstünə göndərmək istədiyi bəlanı göndərmədi.  </verse>
+      </chapter>
+      <chapter osisID='Jonah.4'>
+        <verse osisID='Jonah.4.1'>
+          Bu iş Yunusun heç xoşuna gəlmədi və o hirsləndi.</verse>
+        <verse osisID='Jonah.4.2'>O, Rəbbə dua edərək dedi: «Ya Rəbb! Mən hələ ölkəmdə ikən bunu demirdimmi? Buna görə də mən Tarşişə qaçdım, çünki bilirdim, Sən lütfkar, rəhmli, hədsiz səbirli, bol məhəbbətli Allahsan və rəhm edib bəla göndərməzsən.</verse>
+        <verse osisID='Jonah.4.3'>İndi isə, ya Rəbb, yalvarıram, mənim canımı al, çünki mənim üçün yaşamaqdansa, ölmək yaxşıdır».</verse>
+        <verse osisID='Jonah.4.4'>Rəbb dedi: «Hirslənməyin yaxşı işdirmi?» </verse>
+        <verse osisID='Jonah.4.5'>Yunus şəhərdən çıxdı və şəhərin şərq tərəfində oturdu. Orada özünə çardaq düzəldib kölgəsində oturdu ki, şəhərdə nə baş verəcəyini görsün.</verse>
+        <verse osisID='Jonah.4.6'>Rəbb Allah Yunusun başı üstünə qalxıb kölgə salmaq və onu pis halından qurtarmaq üçün bir gənəgərçək bitkisi yetirdi. Yunus bu bitkiyə görə çox sevindi.</verse>
+        <verse osisID='Jonah.4.7'>Lakin ertəsi gün sübh tezdən Allah bir bitki qurdu yetirdi. Qurd bitkini içindən yedi və bitki qurudu.</verse>
+        <verse osisID='Jonah.4.8'>Günəş çıxanda Allah isti səmum küləyi yetirdi. Günəş onun başını yandırdı və o taqətdən düşüb özü üçün ölüm diləyərək dedi: «Mənim üçün yaşamaqdansa ölmək yaxşıdır».</verse>
+        <verse osisID='Jonah.4.9'>Allah Yunusa dedi: «Məgər sənin bu bitkiyə görə hirslənməyin yaxşı işdirmi?» O dedi: «Əlbəttə, yaxşıdır, elə hirsləndim ki, az qala öləm». </verse>
+        <verse osisID='Jonah.4.10'>Onda Rəbb dedi: «Sən zəhmətini çəkmədiyin və yetişdirmədiyin, bir gecədə bitən və bir gecədə məhv olan bitkiyə acıyırsan.</verse>
+        <verse osisID='Jonah.4.11'>Bəs sağ əlini sol əlindən ayıra bilməyən yüz iyirmi mindən çox insanın və çoxlu heyvanın yaşadığı böyük şəhər Ninevaya Mən necə acımayım?»  </verse>
+      </chapter>
+    </div></osisText>
+</osis>

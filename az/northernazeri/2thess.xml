@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace'>
+  <osisText osisIDWork='NorthernAzeri' osisRefWork='Bible' xml:lang='az'>
+    <header>
+      <revisionDesc>
+        <date>2012-01-07</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='NorthernAzeri'>
+        <title>Northern Azeri Translation</title>
+        <contributor/>
+        <creator>Mod2Zef (6)</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject/>
+        <date>2012-01-07</date>
+        <description>Northern Azeri Translation</description>
+        <publisher/>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>NorthernAzeri</identifier>
+        <source>no entry TextSource in sword.conf found</source>
+        <language type='IETF'>az</language>
+        <relation/>
+        <coverage>provide the bible to the nations of the world</coverage>
+        <rights>Copyrighted Kutsul Kitab; Permission to distribute granted to CrossWire</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='2Thess'>
+      <chapter osisID='2Thess.1'>
+        <verse osisID='2Thess.1.1'>Paul, Sila və Timoteydən Atamız Allah və Rəbb İsa Məsihdə olan Saloniklilər cəmiyyətinə salam!</verse>
+        <verse osisID='2Thess.1.2'>Atamız Allahdan və Rəbb İsa Məsihdən sizə lütf və sülh olsun! </verse>
+        <verse osisID='2Thess.1.3'>Qardaşlar, sizin üçün həmişə Allaha şükür etməliyik və belə etməyimiz yerinə düşər, çünki imanınız artdıqca artır və hamınızın bir-birinizə olan məhəbbəti çoxalır.</verse>
+        <verse osisID='2Thess.1.4'>Bunun üçün tab gətirdiyiniz bütün təqiblərə, əziyyətlər zamanı dözümünüzə və imanınıza görə Allahın cəmiyyətlərində sizinlə özümüz də fəxr edirik. </verse>
+        <verse osisID='2Thess.1.5'>Bu şeylər Allahın ədalətli hökmünün əlamətidir ki, nəticədə uğrunda indi əzab çəkdiyiniz Allahın Padşahlığına layiq sayılasınız.</verse>
+        <verse osisID='2Thess.1.6'>Çünki Allahın hüzurunda haqq olan işdir ki, sizə əziyyət verənlərə əziyyət,</verse>
+        <verse osisID='2Thess.1.7'>əziyyət çəkən sizlərə isə bunun əvəzində bizimlə birlikdə rahatlıq veriləcək. Bu, Rəbb İsanın qüdrətli mələkləri ilə od-alov içərisində göydən zühur etdiyi zaman olacaq.</verse>
+        <verse osisID='2Thess.1.8'>O zaman Rəbbimiz İsa Allahı tanımayanlardan və Özü barədə olan Müjdəyə itaət etməyənlərdən qisas alacaq.</verse>
+        <verse osisID='2Thess.1.9'>Onlara Rəbbin hüzurundan və qüdrətinin izzətindən məhrum qalıb əbədi olaraq məhv edilmə cəzası veriləcək.</verse>
+        <verse osisID='2Thess.1.10'>Bunlar Rəbbin Öz müqəddəsləri arasında izzət qazanmaq və bütün imanlıları heyrətə gətirmək üçün gəldiyi gün baş verəcək. Siz də belə imanlılardansınız, çünki etdiyimiz şəhadətə inandınız.</verse>
+        <verse osisID='2Thess.1.11'>Buna görə sizin üçün daim dua edirik ki, Allahımız sizi Öz çağırışına layiq görsün, hər yaxşı niyyətinizi və imandan asılı hər əməlinizi Öz qüdrəti ilə yerinə yetirsin.</verse>
+        <verse osisID='2Thess.1.12'>Belə ki Allahımızın və Rəbb İsa Məsihin lütfünə görə Rəbbimiz İsanın adı sizdə izzət qazansın və siz də Onda izzət qazanasınız.  </verse>
+      </chapter>
+      <chapter osisID='2Thess.2'>
+        <verse osisID='2Thess.2.1'>
+           Rəbbimiz İsa Məsihin zühuruna və bizim Onunla birlikdə olmaq üçün toplaşmağımıza gəlincə, qardaşlar, sizdən xahiş edirik:</verse>
+        <verse osisID='2Thess.2.2'>qoy «Rəbbin günü çatmışdır» deyə iddia edən hər hansı bir ruh, bir söz yaxud guya bizdən gələn bir məktub sizi tez ağıldan çıxarıb təlaşa salmasın. </verse>
+        <verse osisID='2Thess.2.3'>Heç kim sizi heç bir şəkildə aldatmasın. Çünki əvvəl üsyan qaldırılaraq həlak edilməli qanunsuz adam meydana çıxmayınca o gün gəlməyəcək.</verse>
+        <verse osisID='2Thess.2.4'>O adam, allah adlanan yaxud səcdə edilən hər şeyə qarşı çıxaraq özünü hamıdan üstün tutacaq. Belə ki Allahın məbədində əyləşib özünün Allah olduğunu elan edəcək. </verse>
+        <verse osisID='2Thess.2.5'>Hələ yanınızda olarkən bunları sizə söylədiyim yadınızda deyilmi?</verse>
+        <verse osisID='2Thess.2.6'>Bəli, vaxtı çatanda meydana çıxsın deyə indi o adama nəyin mane olduğunu bilirsiniz.</verse>
+        <verse osisID='2Thess.2.7'>Hələ indi də qanunsuzluğun sirli gücü fəaliyyətdədir. Ancaq hələlik həmin gücə mane olan şəxs aradan qalxanadək belə olacaq.</verse>
+        <verse osisID='2Thess.2.8'>Sonra həmin qanunsuz adam meydana çıxacaq və Rəbb İsa onu ağzından çıxan nəfəsi ilə öldürəcək, Öz zühurunun əzəməti ilə məhv edəcək.</verse>
+        <verse osisID='2Thess.2.9'>Bu qanunsuz adam Şeytanın fəaliyyətinə əsaslanaraq hər cür yalan möcüzə, əlamət və xariqələrlə</verse>
+        <verse osisID='2Thess.2.10'>və həmçinin hər cür haqsızlığın hiyləsi ilə gələcək ki, həqiqəti sevərək xilas olmaq əvəzinə, bunu rədd etdikləri üçün həlak olacaq insanları aldatsın.</verse>
+        <verse osisID='2Thess.2.11'>Buna görə Allah onların üzərinə aldadıcı bir qüvvə göndərir ki, yalana inansınlar.</verse>
+        <verse osisID='2Thess.2.12'>Belə ki həqiqətə inanmayıb haqsızlıq etməkdən zövq alanların hamısı mühakimə olunsun. </verse>
+        <verse osisID='2Thess.2.13'>Bizsə, ey Rəbbin sevdiyi qardaşlar, sizin üçün həmişə Allaha şükür etməliyik. Çünki Allah başlanğıcdan sizi Ruhun təqdisi və həqiqətə iman vasitəsilə xilas üçün seçdi.</verse>
+        <verse osisID='2Thess.2.14'>Rəbbimiz İsa Məsihin izzətinə nail olmağınız üçün O bizim yaydığımız Müjdə ilə sizi bu xilasa çağırdı.</verse>
+        <verse osisID='2Thess.2.15'>Beləliklə, qardaşlar, möhkəm dayanın və sözümüz yaxud məktubumuz vasitəsilə öyrəndiyiniz təlimlərə bağlı qalın. </verse>
+        <verse osisID='2Thess.2.16'>Rəbbimiz İsa Məsihin Özü və bizi sevib lütfü ilə əbədi cəsarət və xeyirli ümid verən Atamız Allah</verse>
+        <verse osisID='2Thess.2.17'>sizi ürəkləndirsin, hər yaxşı söz və əməldə möhkəmləndirsin.  </verse>
+      </chapter>
+      <chapter osisID='2Thess.3'>
+        <verse osisID='2Thess.3.1'>
+          Nəhayət, qardaşlar, bizim üçün dua edin ki, Rəbbin kəlamı aranızda olduğu kimi sürətlə yayılıb izzət qazansın,</verse>
+        <verse osisID='2Thess.3.2'>pis və şər adamlardan xilas olaq. Çünki iman hamıya məxsus deyil.</verse>
+        <verse osisID='2Thess.3.3'>Amma Rəbb etibarlıdır. O sizi möhkəmləndirib şər olandan qoruyacaq.</verse>
+        <verse osisID='2Thess.3.4'>Biz də Rəbbə güvənərək sizdən arxayınıq ki, verdiyimiz əmrlərə əməl edirsiniz və edəcəksiniz.</verse>
+        <verse osisID='2Thess.3.5'>Qoy Rəbb ürəklərinizi Allahın məhəbbətinə və Məsihin dözümünə yönəltsin. </verse>
+        <verse osisID='2Thess.3.6'>Ey qardaşlar, Rəbbimiz İsa Məsihin adı ilə sizə əmr veririk ki, bizdən qəbul etdiyi təlimə görə yaşamayan, avara həyat sürən hər bir bacı-qardaşdan uzaqlaşın.</verse>
+        <verse osisID='2Thess.3.7'>Bizlərdən necə nümunə götürmək lazım olduğunu özünüz də bilirsiniz. Çünki yanınızda olarkən avara dolanmadıq,</verse>
+        <verse osisID='2Thess.3.8'>heç kimin çörəyini müftə yemədik. Əksinə, gecə-gündüz əmək və zəhmət çəkərək işlədik ki, heç birinizə yük olmayaq.</verse>
+        <verse osisID='2Thess.3.9'>Bunu ixtiyarımız çatmadığına görə deyil, sizə nümunəvi yol göstərərək bu yolla getməyiniz üçün etdik.</verse>
+        <verse osisID='2Thess.3.10'>Hətta biz sizinlə olarkən sizə bu əmri verdik: kim işləmək istəmirsə, yemək də yeməsin.</verse>
+        <verse osisID='2Thess.3.11'>Eşitmişik ki, sizlərdən bəzisi avara həyat sürür; heç bir iş görmədikləri halda hər şeyə qarışırlar.</verse>
+        <verse osisID='2Thess.3.12'>Belələrinə Rəbb İsa Məsih naminə əmr verib xəbərdarlıq edirik ki, sakitcə işləyib öz çörəklərini yesinlər.</verse>
+        <verse osisID='2Thess.3.13'>Sizsə, qardaşlar, yaxşılıq etməkdən yorulmayın. </verse>
+        <verse osisID='2Thess.3.14'>Əgər kimsə bu məktubdakı sözlərimizə qulaq asmaq istəməzsə, onu nəzərdə saxlayın və onunla əlaqəni kəsin ki, utansın.</verse>
+        <verse osisID='2Thess.3.15'>Yenə də onu düşmən sanmayın, bir qardaş kimi ona nəsihət verin. </verse>
+        <verse osisID='2Thess.3.16'>Sülh qaynağı olan Rəbbin Özü isə sizə hər zaman və hər vəziyyətdə sülh versin! Rəbb hamınıza yar olsun! </verse>
+        <verse osisID='2Thess.3.17'>Mən Paul salamı sizə öz əlimlə yazıram. Bunu hər məktubumda xüsusi bir işarə kimi yazıram.</verse>
+        <verse osisID='2Thess.3.18'>Rəbbimiz İsa Məsihin lütfü hamınıza yar olsun!  </verse>
+      </chapter>
+    </div></osisText>
+</osis>

@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace'>
+  <osisText osisIDWork='NorthernAzeri' osisRefWork='Bible' xml:lang='az'>
+    <header>
+      <revisionDesc>
+        <date>2012-01-07</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='NorthernAzeri'>
+        <title>Northern Azeri Translation</title>
+        <contributor/>
+        <creator>Mod2Zef (6)</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject/>
+        <date>2012-01-07</date>
+        <description>Northern Azeri Translation</description>
+        <publisher/>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>NorthernAzeri</identifier>
+        <source>no entry TextSource in sword.conf found</source>
+        <language type='IETF'>az</language>
+        <relation/>
+        <coverage>provide the bible to the nations of the world</coverage>
+        <rights>Copyrighted Kutsul Kitab; Permission to distribute granted to CrossWire</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='Obad'>
+      <chapter osisID='Obad.1'>
+        <verse osisID='Obad.1.1'>Bu, Avdiyaya zühur olan görüntüdür.   Xudavənd Rəbb Edom barəsində belə deyir:Biz Rəbdən xəbər eşitdik,Millətlər arasına«Qalxın, Edoma qarşı döyüşək!» deyən qasid göndərildi.</verse>
+        <verse osisID='Obad.1.2'>«Bax səni millətlər arasında kiçildəcəyəm,Hamı sənə xor baxacaq.</verse>
+        <verse osisID='Obad.1.3'>Ey sən qaya   çatlarında məskən salan,  Evini yüksəklərdə quran!Ürəyinin qüruru səni aldatdı,Çünki sən qəlbində “Məni kim yerə yıxa bilər?” dedin.</verse>
+        <verse osisID='Obad.1.4'>Sən qartal kimi yuxarı uçubYuvanı ulduzlar arasında qursan da,Səni oradan endirəcəyəm».Rəbb bəyan edir.</verse>
+        <verse osisID='Obad.1.5'>«Əgər gecə yanına oğrular, quldurlar gəlsəydi,Ancaq öz istədikləri qədər oğurlamazdılarmı?Əgər üzüm yığanlar sənin bağına gəlsəydi,Bir neçə salxımı saxlamazdılarmı?Amma gör səni nə cür müsibətlər gözləyir!</verse>
+        <verse osisID='Obad.1.6'>Esavın hər şeyi talan ediləcək,Gizli xəzinələri aşkara çıxarılacaq.</verse>
+        <verse osisID='Obad.1.7'>Səninlə əhd bağlayanların hamısıSəni ölkəndən qovacaq,Müttəfiqlərin səni aldadıb məğlub edəcək.Səninlə çörək yeyənlər sənə tələ quracaq,“Onun ağlı haradadır?” deyəcək».</verse>
+        <verse osisID='Obad.1.8'>Rəbb bəyan edir:«O gün Edomun hikmətli adamlarını,Esav dağındakı müdrikləri məhv edəcəyəm.</verse>
+        <verse osisID='Obad.1.9'>Ey Teman,   igid adamların elə qorxuya düşəcək ki,  Esav dağlarının hər sakini qırğında öldürüləcək.</verse>
+        <verse osisID='Obad.1.10'>Qardaşın Yaquba etdiyin zorakılığa görəSən xəcalət içində qalacaqsan,Əbədi məhv olacaqsan.</verse>
+        <verse osisID='Obad.1.11'>Yadellilər onun sərvətini aparandaSən uzaqda durub tamaşa etdin.Əcnəbilər onun şəhər darvazalarından giribYerusəlim üçün püşk atandaSən də onlardan biri kimi davrandın.</verse>
+        <verse osisID='Obad.1.12'>Sən gərək Yəhudalı soydaşlarınınBədbəxtlik günündən zövq almayaydın,Həlak olduqları gün sevinməyəydin,O əzablı gündə rişxənd etməyəydin,</verse>
+        <verse osisID='Obad.1.13'>Xalqımın fəlakətli günündəOnların şəhər darvazalarından girməyəydin,Başlarına bəla gələn günOnların fəlakətini sevinclə seyr etməyəydin,Başlarına bəla gələn günOnların malına əl uzatmayaydın!</verse>
+        <verse osisID='Obad.1.14'>Sən gərək qaçan Yəhuda övladlarını öldürmək üçünYol ayrıcında dayanmayaydın,O əzablı gün qurtulanlarıDüşmənə təslim etməyəydin!</verse>
+        <verse osisID='Obad.1.15'>Axı bütün millətlər üçün Rəbbin günü yaxınlaşır,Ey Edom, sən nə cür etdinsə, sənə də belə ediləcək,Əməllərinin əvəzi öz başına gələcək!</verse>
+        <verse osisID='Obad.1.16'>Çünki siz Mənim müqəddəs dağımda içdiyiniz kimiBütün xalqlar durmadan içəcək,İçib yox olacaq,Sanki əvvəldən yox idi.</verse>
+        <verse osisID='Obad.1.17'>Lakin qurtuluş tapanlarSion dağına toplanacaq,O dağ müqəddəs olacaq.Yaqub nəsli mülkünə sahib olacaq!</verse>
+        <verse osisID='Obad.1.18'>Yaqub nəsli od,Yusif nəsli alov,Esav nəsli isə küləş olacaq,Yaqub və Yusif nəsliEsav nəslini yandırıb məhv edəcək.Esav nəslindən qurtulan olmayacaq.Çünki Rəbb belə söylədi.</verse>
+        <verse osisID='Obad.1.19'>Negev sakinləri Esav dağını,Yamaclı-düzənlikli bölgədə yaşayanlar Filiştlilərin bölgəsini,Yəhudalılar Efrayimlə Samariya torpaqlarını,Binyaminlilər isə Gileadı zəbt edəcək.</verse>
+        <verse osisID='Obad.1.20'>Xalahda olan İsrail sürgünləriKənanın Sarfata qədər uzanan torpaqlarını,Sefaradda olan Yerusəlim sürgünləriNegev şəhərlərini zəbt edəcək.</verse>
+        <verse osisID='Obad.1.21'>Xalqı qurtaranlar Sion dağına çıxıbEsav dağına hökm edəcək:Rəbb səltənət sürəcək».</verse>
+      </chapter>
+    </div></osisText>
+</osis>

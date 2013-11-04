@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace'>
+  <osisText osisRefWork='Bible' osisIDWork='Azeri' xml:lang='XX'>
+    <header>
+      <revisionDesc>
+        <date>2012-01-07</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='Azeri'>
+        <title>Description_en=Southern Azeri Translation</title>
+        <contributor/>
+        <creator>Mod2Zef (6)</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject/>
+        <date>2012-01-07</date>
+        <description>About_en=Southern Azeri Translation</description>
+        <publisher/>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>Azeri</identifier>
+        <source>no entry TextSource in sword.conf found</source>
+        <language type='IETF'>XX</language>
+        <relation/>
+        <coverage>provide the bible to the nations of the world</coverage>
+        <rights>Copyrighted; Permission to distribute granted to CrossWire</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='3John'>
+      <chapter osisID='3John.1'>
+        <verse osisID='3John.1.1'>آغساقّالدان، حقئقتده سودئيئم سوگئلي غايوسا.</verse>
+        <verse osisID='3John.1.2'>اي عزئز، دوعا ادئرم کي، جانين کامينا چاتديغي کئمي، سن ده هر باخيمدان کامينا چاتيب صاغ-سالامات اولاسان.</verse>
+        <verse osisID='3John.1.3'>چوخ سوئندئم او زامان کي، بعضي قارداشلار گلئب، سنئن حقئقته باغلي اولدوغون باره​ده شهادت وردئلر. يعني، نجه حقئقتده رفتار ادئرسن.</verse>
+        <verse osisID='3John.1.4'>من اوچون بوندان داها بؤيوک شادليق يوخدور کي، اؤولادلاريمين حقئقتده ياشاديغيني اشئدئم.</verse>
+        <verse osisID='3John.1.5'>اي عزئز، قارداشلار اوچون، هم ده قرئب اولانلار اوچون نه ادئرسن، وفالي عمل ادئرسن.</verse>
+        <verse osisID='3John.1.6'>اونلار دا کئلئسانين حوضوروندا سنئن محبّتئن حاقّيندا شهادت ورئبلر. اگر اونلاري تارييا لايئق بئر شکئلده يولا سالاسان، ياخشي ائش گؤررسن.</verse>
+        <verse osisID='3John.1.7'>چونکي اونلار اونون آدي خاطئرئنه يولا چيخديلار و قيري‌​يهودئلردن هچ بئر شي قبول اتمه‌دئلر.</verse>
+        <verse osisID='3John.1.8'>بونا گؤره، بئز بله آداملارا کؤمک اتمه‌لي‌يئک کي، حقئقته همکار اولاق.</verse>
+        <verse osisID='3John.1.9'>کئلئسايا بئر شي يازديم، لاکئن آرالاريندا ريئس اولماغي سون دئيوترفس بئزئم ددئيئمئزي قبول اتمئر.</verse>
+        <verse osisID='3John.1.10'>بو سببدن، اگر گلسم، اونون اتدئيي ائشلرئني اوزه چيخارداجاغام. او، بئزه، ناحاق يره، پئس سؤزلر​له ائتّئهام وورور و بونا دا قانع اولماييب اؤزو قارداشلاري قبول اتمئر، و بونو اتمک ائسته‌ينلره ده مانع اولور و اونلاري کئلئسادان قووور.</verse>
+        <verse osisID='3John.1.11'>اي عزئز، پئسلئيه يوخ، ياخشيليغا اوخشار اول. ياخشيليق ادن تاريداندير. پئسلئک ادن تاريني گؤرمه‌يئب.</verse>
+        <verse osisID='3John.1.12'>دئمئترئيوس حاقّيندا هامي، هم ده حقئقتئن اؤزو ياخشي بئر شهادت ورئر. بئز ده بونا شهادتئمئزي علاوه ادئرئک و بئلئرسن کي، بئزئم شهادتئمئز دوغرودور.</verse>
+        <verse osisID='3John.1.13'>سنه يازمالي چوخ شيلرئم وار، لاکئن ائسته‌مئرم کي، اونلاري قلم و مورکّبله يازيم.</verse>
+        <verse osisID='3John.1.14'>آمّا اومئدئم وار کي، تزلئکله سني گؤروم و اوز-اوزه دانيشاق. باريش سنئنله اولسون. دوستلار سنه سالام گؤنده‌رئرلر. دوستلارا آدباآد سالام يتئر.</verse>
+      </chapter>
+    </div></osisText>
+</osis>

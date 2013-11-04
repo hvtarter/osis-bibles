@@ -1,0 +1,997 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace'>
+  <osisText osisIDWork='NorthernAzeri' osisRefWork='Bible' xml:lang='az'>
+    <header>
+      <revisionDesc>
+        <date>2012-01-07</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='NorthernAzeri'>
+        <title>Northern Azeri Translation</title>
+        <contributor/>
+        <creator>Mod2Zef (6)</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject/>
+        <date>2012-01-07</date>
+        <description>Northern Azeri Translation</description>
+        <publisher/>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>NorthernAzeri</identifier>
+        <source>no entry TextSource in sword.conf found</source>
+        <language type='IETF'>az</language>
+        <relation/>
+        <coverage>provide the bible to the nations of the world</coverage>
+        <rights>Copyrighted Kutsul Kitab; Permission to distribute granted to CrossWire</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='1Sam'>
+      <chapter osisID='1Sam.1'>
+        <verse osisID='1Sam.1.1'>
+          Efrayimin dağlıq bölgəsində yerləşən Ramatayim-Sofim şəhərində Elqana adlı bir adam yaşayırdı. O, Efrayim sakini olub Suf tayfasından – Suf oğlu Toxu oğlu Elihu oğlu Yeroxamın oğlu idi.</verse>
+        <verse osisID='1Sam.1.2'>Elqananın Xanna və Peninna adında iki arvadı vardı. Peninnanın uşaqları var idi, amma Xannanın övladı olmurdu.</verse>
+        <verse osisID='1Sam.1.3'>Elqana Ordular Rəbbinə səcdə qılmaq və qurban kəsmək üçün hər il öz şəhərindən Şiloya gedərdi. Orada Elinin iki oğlu – Xofni və Pinxas Rəbbin kahinləri idi.</verse>
+        <verse osisID='1Sam.1.4'>Elqana qurban kəsilən gün arvadı Peninnaya, oğul və qızlarının hamısına pay verərdi.</verse>
+        <verse osisID='1Sam.1.5'>Xannaya isə ikiqat pay verərdi. Rəbb onun bətnini bağlamışdı, buna baxmayaraq Elqana onu çox sevirdi.</verse>
+        <verse osisID='1Sam.1.6'>Günüsü Peninna isə Xannanın Rəbb tərəfindən bətninin bağlanmasına görə həmişə ona sataşar və xətrinə dəyərdi.</verse>
+        <verse osisID='1Sam.1.7'>Bu, illərlə belə davam edirdi. Xanna hər dəfə Rəbbin ibadətgahına gedəndə günüsü ona söz atar, Xanna da ağlayar, yemək yeməzdi.</verse>
+        <verse osisID='1Sam.1.8'>Bir gün əri Elqana ona dedi: «Xanna, niyə ağlayırsan? Niyə yemək yemirsən? Axı niyə kədərlisən? Mən sənə on oğuldan da artıq deyiləmmi?» </verse>
+        <verse osisID='1Sam.1.9'>Onlar Şiloda yeyib-içəndən sonra Xanna ayağa qalxdı. Kahin Eli Rəbbin məbədinin qapısının yanındakı kürsüdə oturmuşdu. </verse>
+        <verse osisID='1Sam.1.10'>Xanna ürək yanğısı ilə dua edərək acı-acı ağlayırdı.</verse>
+        <verse osisID='1Sam.1.11'>Rəbbə yalvararaq əhdini belə söylədi: «Ey Ordular Rəbbi, Öz dərdli bəndənin vəziyyətini görürsən. Mən bəndəni unutmayıb bir oğul versən, oğlumun həyatını Sənə həsr etmək üçün verər və qoymaram ki, onun başına ülgüc dəysin». </verse>
+        <verse osisID='1Sam.1.12'>Xanna Rəbbin hüzurunda uzun müddət dua etdi. Eli isə onun ağzına baxırdı.</verse>
+        <verse osisID='1Sam.1.13'>Xanna qəlbində yalvardığı üçün yalnız dodaqları tərpənirdi, səsi eşidilmirdi. Eli elə güman etdi ki, o sərxoşdur.</verse>
+        <verse osisID='1Sam.1.14'>Ona görə də dedi: «Nə vaxta qədər sərxoşluq edəcəksən? Bəsdir, at bu şərabı».</verse>
+        <verse osisID='1Sam.1.15'>Xanna cavabında dedi: «Xeyr, ağam, mən nə şərab içmişəm, nə də başqa kefləndirici içki. Könlü qəm-qüssəli bir qadınam ki, sadəcə Rəbbin hüzurunda ürəyimi boşaldıram.</verse>
+        <verse osisID='1Sam.1.16'>Kənizini pis qadın sanma. Bu yalvarışım indiyədək çəkdiyim böyük qayğı və əziyyətə görədir».</verse>
+        <verse osisID='1Sam.1.17'>Eli cavab verib dedi: «Salamat get, qoy İsrailin Allahı səni muradına çatdırsın!»</verse>
+        <verse osisID='1Sam.1.18'>Xanna «təki bəndən sənin gözlərində lütf tapsın» deyib yolu ilə getdi və yemək yedi. Artıq çöhrəsi kədərli deyildi. </verse>
+        <verse osisID='1Sam.1.19'>Ertəsi gün onlar sübh tezdən qalxıb Rəbbə səcdə qılandan sonra Ramadakı evlərinə qayıtdılar. Elqana arvadı Xanna ilə yaxınlıq etdi və Rəbb də Xannanı yada saldı.</verse>
+        <verse osisID='1Sam.1.20'>Vaxt keçdi, Xanna hamilə olub bir oğul doğdu. «Onu Rəbdən dilədim» deyərək adını Şamuel qoydu. </verse>
+        <verse osisID='1Sam.1.21'>Elqana Rəbbə illik qurbanını və əhdini yerinə yetirmək üçün evdəkilərlə bərabər Şiloya getdi.</verse>
+        <verse osisID='1Sam.1.22'>Amma Xanna getmədi. Ərinə «körpəni süddən kəsəndən sonra onu Rəbbə xidmət etmək üçün aparacağam və ömrü boyu orada qalacaq» dedi.</verse>
+        <verse osisID='1Sam.1.23'>Əri Elqana ona dedi: «Gözündə nə xoşdursa, elə də et, onu süddən ayırana qədər evdə otur. Qoy Rəbb Öz vədini yerinə yetirsin». Qadın evdə qalıb oğlunu süddən ayırana qədər əmizdirdi.</verse>
+        <verse osisID='1Sam.1.24'>Uşağı süddən ayırandan sonra Xanna onu üç buğa, bir efa un və bir tuluq şərabla birlikdə Rəbbin Şilodakı ibadətgahına apardı. Uşaq isə hələ balaca idi.</verse>
+        <verse osisID='1Sam.1.25'>Buğanı kəsəndən sonra uşağı Eliyə verdilər.</verse>
+        <verse osisID='1Sam.1.26'>Xanna dedi: «Ey ağam, canına and olsun, burada – sənin yanında durub Rəbbə yalvaran qadın mənəm.</verse>
+        <verse osisID='1Sam.1.27'>Yalvarışım bu uşaq üçün idi, Rəbb muradımı yerinə yetirdi.</verse>
+        <verse osisID='1Sam.1.28'>Mən onu Rəbbə əhd etmişdim və ömrü boyu Rəbbə həsr olunmalıdır». Sonra uşaq orada Rəbbə səcdə etdi.  </verse>
+      </chapter>
+      <chapter osisID='1Sam.2'>
+        <verse osisID='1Sam.2.1'>
+            Xanna Rəbbə belə dua etdi:  «Rəbdə tapdığım sevincdən ürəyim cuşa gəlir,Rəbb mənə böyük güc verir,  Düşmənlərimin önündə öyünürəm,Çünki Sən məni qurtardığına görə sevinirəm.</verse>
+        <verse osisID='1Sam.2.2'>Rəbbə oxşar ikinci müqəddəs yoxdur,Ey Rəbb, yeganəsən Sən!Allahımız kimi sığınacaq qaya yoxdur!</verse>
+        <verse osisID='1Sam.2.3'>Artıq qürurla danışmayın,Dilinizdən təkəbbürlü sözlər çıxmasın.Çünki Rəbb hər şeyi bilən Allahdır,Hər iş Onun tərəfindən ölçülür.</verse>
+        <verse osisID='1Sam.2.4'>İgidlərin yayları qırılır,Büdrəyənlər isə Onun qüdrəti ilə qurşanır.</verse>
+        <verse osisID='1Sam.2.5'>Toxlar azuqə üçün muzdla işlərkənAclar doyuzdurulur.Sonsuz qadın yeddi övlad doğur,Çoxuşaqlı qadın isə tənha qalır.</verse>
+        <verse osisID='1Sam.2.6'>Rəbb insanı həm öldürür, həm dirildir.Ölülər diyarına həm endirir, həm çıxarır.</verse>
+        <verse osisID='1Sam.2.7'>Rəbb yoxsulluq və var-dövlət göndərir,Alçaldır və yüksəldir.</verse>
+        <verse osisID='1Sam.2.8'>O, yoxsulları toz-torpağın içindən götürür,  Fəqirləri küllükdən çıxarır.Onları hökmdarların yanında əyləşdirir,Onlara irs olaraq şərəf taxtını verir.Çünki Rəbb yerin təməlini qoydu,Onun üzərində dünyanı qurdu.</verse>
+        <verse osisID='1Sam.2.9'>Sadiq qullarının addımlarını qoruyur,Pisləri isə zülmətdə susdurur.Çünki insan öz qüvvəsi ilə zəfər çalmır.</verse>
+        <verse osisID='1Sam.2.10'>Rəbbə qarşı duranlar parça-parça olacaq,Haqq-Taala onların üzərində göyləri gurladacaq.Rəbb yer üzünün qurtaracağınadək hər yerdə hakimlik edir,Öz padşahına qüvvət verəcək,Məsh etdiyinə böyük güc verəcək!» </verse>
+        <verse osisID='1Sam.2.11'>Sonra Elqana Ramadakı evinə qayıtdı. Kiçik Şamuel isə kahin Elinin nəzəri altında Rəbbə xidmət etməyə başladı. </verse>
+        <verse osisID='1Sam.2.12'>Elinin oğulları yaramaz adamlar idi.</verse>
+        <verse osisID='1Sam.2.13'>Onlar Rəbbi tanımırdı. Bu kahinlərin xalqla rəftarı belə idi: qurban təqdim edilən zaman, ət qaynayarkən kahinin xidmətçisi əlində üçdişli ət qarmağı ilə gələrdi.</verse>
+        <verse osisID='1Sam.2.14'>Ət qarmağını qazana, təknəyə, tavaya, bardağa salardı və qarmaqla nə çıxardısa, bu kahinlər onu özlərinə götürərdi. Onlar Şiloya qurban gətirən İsraillilərin hamısı ilə belə rəftar edirdilər.</verse>
+        <verse osisID='1Sam.2.15'>Üstəlik də qurbanın iç piyini yandırmazdan əvvəl kahinin xidmətçisi gəlib qurban gətirən adama deyərdi: «Kahinə qızartma üçün ət ver. İndi isə o səndən bişmiş ət deyil, çiy ət istəyir».</verse>
+        <verse osisID='1Sam.2.16'>Əgər qurban gətirən «qoy əvvəlcə iç piyi yandırılsın, sonra istədiyin payı gəl götür» deyərdisə, xidmətçi «xeyr, indi ver, yoxsa zorla götürərəm» deyə cavab verərdi.</verse>
+        <verse osisID='1Sam.2.17'>Rəbbin gözü önündə bu gənclər çox böyük günah işlədirdilər, çünki onlar Rəbbə gətirilən təqdimlərə hörmət etmirdilər. </verse>
+        <verse osisID='1Sam.2.18'>Kiçik Şamuel isə əyninə kətan efod geyərək Rəbbin önündə xidmət edirdi.</verse>
+        <verse osisID='1Sam.2.19'>Anası Şamuelə kiçik cübbə tikərdi. Hər il atası illik qurbanı təqdim etmək üçün Şiloya gələndə o da tikdiyi kiçik cübbəni gətirib oğluna verərdi.</verse>
+        <verse osisID='1Sam.2.20'>Kahin Eli isə Elqana ilə arvadına xeyir-dua verərək «arvadının istədiyi və Rəbbə əhd etdiyi uşağın yerinə Rəbb sənə bu qadından yeni övladlar versin» deyərdi. Bundan sonra onlar evlərinə qayıdardı. </verse>
+        <verse osisID='1Sam.2.21'>Rəbbin lütfü ilə Xanna yenə hamilə olub bundan sonra üç oğul və iki qız doğdu. Kiçik Şamuel isə Rəbbin hüzurunda böyüyürdü. </verse>
+        <verse osisID='1Sam.2.22'>Eli artıq çox qocalmışdı. O, oğullarının İsraillilərə etdikləri və Hüzur çadırının girişində xidmət edən qadınlarla əxlaqsızlıqları barədə hər şeyi eşitmişdi.</verse>
+        <verse osisID='1Sam.2.23'>Eli onlara dedi: «Nə edirsiniz? Bütün xalqdan etdiyiniz pis əməllər barədə eşidirəm.</verse>
+        <verse osisID='1Sam.2.24'>Belə yaramaz, oğullarım! Eşitdiyim yaxşı xəbər deyil. Rəbbin xalqını yoldan çıxarırsınız.</verse>
+        <verse osisID='1Sam.2.25'>İnsan insana qarşı günah işlədərsə, onun üçün Allaha yalvarmaq olar. Amma Rəbbə qarşı günah işlədənə kim yalvarışla zamin durar?» Lakin onlar atalarının sözlərinə qulaq asmazdılar, çünki Rəbb onları ölümə məhkum etmişdi. </verse>
+        <verse osisID='1Sam.2.26'>Kiçik Şamuel isə getdikcə böyüyür, Rəbbin və insanların gözündə hörmət qazanırdı. </verse>
+        <verse osisID='1Sam.2.27'>Həmin dövrdə bir Allah adamı Elinin yanına gəlib söylədi: «Rəbb belə deyir: “Misirdə atan və onun nəsli fironun xalqına kölə olarkən Özümü onlara aydın göstərmədimmi?</verse>
+        <verse osisID='1Sam.2.28'>Qurbangahıma çıxaraq buxur yandırıb önümdə efod geyməsi üçün bütün İsrail qəbilələri arasından yalnız atanı Özümə kahin seçmədimmi? İsraillilərin verdiyi yandırma təqdimlərinin hamısını atanın nəslinə vermədimmi?</verse>
+        <verse osisID='1Sam.2.29'>Bəs nə üçün məskənimə buyurduğum qurban və təqdimlərə hörmətsizlik edirsiniz? Nə üçün oğullarını Məndən üstün tutursan? Xalqım İsrailin bütün təqdimlərinin ən əlası ilə özünüzü kökəltdiyinizə görəmi?”</verse>
+        <verse osisID='1Sam.2.30'>Ona görə də İsrailin Allahı Rəbb belə deyir: “Həqiqətən, ailən və ata nəslin əbədilik Mənə xidmət edəcək” demişdim, amma indi belə deyirəm: “Yox, Mən belə etməyəcəyəm. Mənə hörmət edənləri hörmətə çatdıracağam, Məni saymayanlar isə rüsvay ediləcək!</verse>
+        <verse osisID='1Sam.2.31'>Budur, elə günlər gəlir ki, sənin də, ata nəslinin də gücünü qıracağam və nəslindən heç kim uzun ömür sürməyəcək.</verse>
+        <verse osisID='1Sam.2.32'>İsrailə etdiyim yaxşılığın əvəzinə sən evində qəm-qüssə görəcəksən və artıq nəslindən heç kim uzun ömür sürməyəcək.</verse>
+        <verse osisID='1Sam.2.33'>Aranızda qurbangahımdan ayağını kəsmədiyim bir adam olacaq ki, onu da gözlərini kor etmək və qəlbini kədərləndirmək üçün sağ saxlayacağam. Nəslindən olanların hamısı az ömür sürüb öləcək.</verse>
+        <verse osisID='1Sam.2.34'>İki oğlunun – Xofni və Pinxasın eyni bir gündə ölməsi sənə bir işarə olacaq.</verse>
+        <verse osisID='1Sam.2.35'>Mən isə Özümə istəklərimi və arzularımı yerinə yetirən vəfalı bir kahin seçəcəyəm. Onun nəslini əbədiləşdirəcəyəm. Məsh etdiyimin önündə o xidmət edəcək.</verse>
+        <verse osisID='1Sam.2.36'>Ailəndən sağ qalan hər kəs bir az gümüş pul və bir parça çörək üçün gəlib onun qarşısında əyiləcək, ‹nə olar, bir parça çörək üçün mənə hər hansı bir kahinlik işi ver› deyərək yalvaracaq”».  </verse>
+      </chapter>
+      <chapter osisID='1Sam.3'>
+        <verse osisID='1Sam.3.1'>
+          Gənc Şamuel Elinin başçılığı altında Rəbbə xidmət edirdi. O vaxt Rəbbin sözünün nazil olması və görüntülərin görülməsi nadir hallarda baş verirdi.</verse>
+        <verse osisID='1Sam.3.2'>Bir gecə Eli yatağında uzanmışdı. Onun gözləri zəif olduğuna görə yaxşı görmürdü.</verse>
+        <verse osisID='1Sam.3.3'>Şamuel isə Rəbbin məbədində – Allahın sandığı olan yerdə uzanmışdı və Allahın çırağı hələ sönməmişdi. </verse>
+        <verse osisID='1Sam.3.4'>Rəbb Şamueli çağırdı. O «buradayam» deyə cavab verdi.</verse>
+        <verse osisID='1Sam.3.5'>Sonra da Elinin yanına qaçıb «məni çağırdın, mən buradayam» dedi. Amma Eli «mən çağırmamışam, get yat» deyə cavab verdi. Şamuel gedib yatdı.</verse>
+        <verse osisID='1Sam.3.6'>Rəbb «Şamuel!» deyə yenidən çağırdı. Şamuel yenə qalxıb Elinin yanına getdi və «Məni çağırdın? Mən buradayam!» dedi. Eli yenə də «mən çağırmadım oğlum, get yat» deyə cavab verdi.</verse>
+        <verse osisID='1Sam.3.7'>Şamuel Rəbbi hələ tanımırdı və Rəbbin sözü ona açılmamışdı.</verse>
+        <verse osisID='1Sam.3.8'>Rəbb üçüncü dəfə Şamueli çağırdı və Şamuel yenə qalxaraq Elinin yanına gedib dedi: «Bax buradayam, məni sən çağırdın». O anda Eli anladı ki, gənc Şamueli çağıran Rəbdir.</verse>
+        <verse osisID='1Sam.3.9'>Buna görə də Şamuelə dedi: «Get uzan, yenə səni çağırarsa, belə deyərsən: “Danış, ya Rəbb, qulun Səni eşidir”». Şamuel gedib yerində yatdı. </verse>
+        <verse osisID='1Sam.3.10'>Rəbb gəlib orada durdu və əvvəlki kimi «Şamuel! Şamuel!» deyə çağırdı. Şamuel dedi: «Danış, ya Rəbb, qulun Səni eşidir».</verse>
+        <verse osisID='1Sam.3.11'>Rəbb Şamuelə belə dedi: «Bax İsraildə elə bir iş görəcəyəm ki, eşidənin qulaqları cingildəyəcək.</verse>
+        <verse osisID='1Sam.3.12'>Həmin gün Elinin evi haqqında dediklərimin hamısını əvvəldən axıra qədər yerinə yetirəcəyəm.</verse>
+        <verse osisID='1Sam.3.13'>Çünki ona çatdırmışdım ki, özü bildiyi günahlarına görə onun evini əbədi məhkum edəcəyəm. Oğulları özlərini alçaltdılar. Eli isə onların qarşısını almadı.</verse>
+        <verse osisID='1Sam.3.14'>Buna görə də and içmişəm ki, Elinin ailəsinin günahı heç vaxt nə qurban, nə də başqa təqdimlərlə bağışlanmayacaq». </verse>
+        <verse osisID='1Sam.3.15'>Şamuel səhərə qədər uzandı, sonra Rəbbin ibadətgahının qapılarını açdı. Eşitdiyi görüntünü isə Eliyə bildirməyə qorxdu.</verse>
+        <verse osisID='1Sam.3.16'>Amma Eli onu «Şamuel, oğlum» deyə səslədi. Şamuel cavab verib dedi: «Bəli, buradayam».</verse>
+        <verse osisID='1Sam.3.17'>Eli ondan soruşub dedi: «Rəbb sənə nə dedi? Rica edirəm, məndən gizlətmə. Əgər sənə dediklərindən birini belə, məndən gizlətsən, Allah sənə beləsini və bundan betərini etsin».</verse>
+        <verse osisID='1Sam.3.18'>Bundan sonra Şamuel heç nə gizlətmədi və ona hər şeyi danışdı. Eli də dedi: «O, Rəbdir, gözündə nə xoşdursa, onu da etsin». </verse>
+        <verse osisID='1Sam.3.19'>Şamuel böyüdü. Rəbb onunla idi və Rəbb onun sözlərindən heç birini boşa çıxartmadı.</verse>
+        <verse osisID='1Sam.3.20'>Rəbbin Şamueli peyğəmbər kimi təsdiq etdiyini Dandan Beer-Şevaya qədər bütün İsrail bildi.</verse>
+        <verse osisID='1Sam.3.21'>Rəbb yenə Şiloda görünməyə başladı. O Özünü Şamuelə kəlamı ilə göstərmişdi.  </verse>
+      </chapter>
+      <chapter osisID='1Sam.4'>
+        <verse osisID='1Sam.4.1'>
+          Şamuelin sözü bütün İsrailə yayılmışdı. O dövrdə İsraillilər Filiştlilərə qarşı döyüşmək üçün çıxdılar.</verse>
+        <verse osisID='1Sam.4.2'>İsraillilər Even-Ezerdə, Filiştlilər isə Afeqdə ordugah qurdular. Filiştlilər İsraillilərlə döyüşmək üçün düzüldülər. Döyüş qızışanda İsraillilər Filiştlilərə məğlub oldular və döyüş meydanında dörd minə yaxın İsrailli qırıldı.</verse>
+        <verse osisID='1Sam.4.3'>Xalq ordugaha qayıdarkən İsrail ağsaqqalları bir-birindən soruşdu: «Görəsən Rəbb bu gün bizi Filiştlilər qarşısında nə üçün məğlub etdi? Şilodan Rəbbin Əhd sandığını yanımıza gətirək. Qoy aramızda olsun və bizi düşmənlərin əlindən qurtarsın».</verse>
+        <verse osisID='1Sam.4.4'>Xalq Şiloya adam göndərdi. Keruvlar arasında taxt qurmuş Ordular Rəbbinin Əhd sandığını oradan gətirdilər. Elinin iki oğlu Xofni və Pinxas Allahın Əhd sandığının yanında idi. </verse>
+        <verse osisID='1Sam.4.5'>Rəbbin Əhd sandığı ordugaha çatan kimi bütün İsraillilər bərkdən elə qışqırdılar ki, yer titrədi.</verse>
+        <verse osisID='1Sam.4.6'>Bu qışqırığın gurultusunu eşidərkən Filiştlilər belə dedilər: «İbranilərin ordugahında niyə belə böyük qışqırıq və gurultu var?» Ordugaha Rəbbin sandığının gəldiyini bildikdə</verse>
+        <verse osisID='1Sam.4.7'>Filiştlilər qorxub dedilər: «Ordugaha allahlar gəlib, vay halımıza! Çünki bundan əvvəl belə bir şey olmamışdı.</verse>
+        <verse osisID='1Sam.4.8'>Vay halımıza! Bu qüdrətli allahların əlindən bizi kim qurtaracaq? Səhrada Misirlilərə hər cür bəla verən allahlar bunlardır.</verse>
+        <verse osisID='1Sam.4.9'>Ey Filiştlilər, cəsur olun, kişi kimi dayanın! Yoxsa İbranilər sizə necə boyun əydilərsə, siz də onlara elə boyun əyəcəksiniz! Kişi kimi dayanın və döyüşün!» </verse>
+        <verse osisID='1Sam.4.10'>Filiştlilər vuruşdular. İsraillilər məğlub oldu və hamısı öz çadırına qaçdı. Çox böyük qırğın oldu və İsraillilərdən otuz min piyada həlak oldu.</verse>
+        <verse osisID='1Sam.4.11'>Allahın sandığı ələ keçirildi və Elinin iki oğlu – Xofni ilə Pinxas öldü. </verse>
+        <verse osisID='1Sam.4.12'>Bir nəfər Binyaminli döyüş yerindən qaçaraq elə həmin gün gəlib Şiloya çatdı. Onun paltarı cırılmış, başı toz-torpaq içində idi.</verse>
+        <verse osisID='1Sam.4.13'>Budur, o gələn zaman Eli kürsü üstündə oturub yol kənarında gözləyir və Allahın sandığından ötrü ürəyi çırpınırdı. Bu adam şəhərə girib baş verən hadisələri danışanda bütün şəhər şivən qopardı.</verse>
+        <verse osisID='1Sam.4.14'>Eli bu səsi eşidəndə «Bu nə səs-küydür?» deyə soruşdu. Bu adam tez gəlib hər şeyi Eliyə danışdı.</verse>
+        <verse osisID='1Sam.4.15'>Eli doxsan səkkiz yaşında idi, artıq gözləri tutulmuşdu, görmürdü.</verse>
+        <verse osisID='1Sam.4.16'>Həmin adam Eliyə dedi: «Mən döyüş meydanından gəlirəm. Bu gün döyüşdən qaçmışam». Eli soruşdu: «Oğlum, nə baş verib?»</verse>
+        <verse osisID='1Sam.4.17'>Xəbər gətirən adam belə cavab verdi: «İsraillilər Filiştlilərin qabağından qaçdılar və xalq arasında böyük qırğın oldu. İki oğlun Xofni ilə Pinxas ölmüş, Allahın sandığı isə ələ keçirilmişdir».</verse>
+        <verse osisID='1Sam.4.18'>Bu adam Allahın sandığından danışan zaman Eli kürsüdən arxaya – qapının yanına yıxıldı; həm qoca, həm də kök olduğu üçün boynu qırıldı və öldü. O, qırx il İsrail xalqına hakimlik etmişdi. </verse>
+        <verse osisID='1Sam.4.19'>Elinin gəlini – Pinxasın arvadı hamilə idi. Doğuş vaxtı çatmışdı. Allahın sandığının ələ keçirildiyini, qayınatası ilə ərinin ölüm xəbərini eşidərkən onun ağrısı tutdu və çömbəlib doğdu.</verse>
+        <verse osisID='1Sam.4.20'>Ölüm ayağında ona kömək edən qadınlar dedilər: «Qorxma, bir oğlun oldu». O isə bunu əhəmiyyətsiz bir şey saydığı üçün cavab vermədi.</verse>
+        <verse osisID='1Sam.4.21'>Çünki Allahın sandığı ələ keçmiş, qayınatası ilə əri ölmüşdü. Buna görə də «İsrail şərəfdən düşdü» deyərək körpəsinin adını İkavod qoydu.</verse>
+        <verse osisID='1Sam.4.22'>O dedi: «Allahın sandığı ələ keçirildi, İsrail şərəfdən düşdü».  </verse>
+      </chapter>
+      <chapter osisID='1Sam.5'>
+        <verse osisID='1Sam.5.1'>
+          Filiştlilər Allahın sandığını ələ keçirib Even-Ezerdən Aşdoda apardılar.</verse>
+        <verse osisID='1Sam.5.2'>Allahın sandığını Daqonun məbədinə aparıb Daqonun heykəlinin yanına qoydular.</verse>
+        <verse osisID='1Sam.5.3'>Ertəsi gün Aşdodlular erkən duranda Daqonu Rəbbin sandığının önündə üzüstə yerə düşmüş gördülər. Onlar Daqonu götürüb öz yerinə qoydular.</verse>
+        <verse osisID='1Sam.5.4'>Amma ertəsi gün səhər erkən durduqları vaxt gördülər ki, Daqon yenə Rəbbin sandığının önündə üzüstə yerə düşmüşdür. Bu dəfə isə Daqonun başı ilə iki əli qırılıb kandarın üstünə düşmüş və yalnız gövdəsi qalmışdı.</verse>
+        <verse osisID='1Sam.5.5'>Daqonun kahinləri də, Aşdoddakı Daqon məbədinə gələnlər də buna görə bu günə qədər bu məbədin qapısı ağzına ayaq basmırlar. </verse>
+        <verse osisID='1Sam.5.6'>Rəbbin əli Aşdodlular üzərində ağırlaşdı. Onlara və ətrafındakı camaata bəla verib bədənlərinə şişlər çıxartdı.</verse>
+        <verse osisID='1Sam.5.7'>Aşdodlular vəziyyətin belə olduğunu görəndə dedilər: «Qoy İsrail Allahının sandığı bizim yanımızda qalmasın, çünki Onun əli bizim və allahımız Daqonun üzərində ağır oldu».</verse>
+        <verse osisID='1Sam.5.8'>Ona görə də hər tərəfə qasidlər göndərərək bütün Filiştlilərin ağalarını yanlarına toplayıb soruşdular: «İsrail Allahının sandığını nə edək?» Filiştlilərin ağaları isə dedilər: «İsrail Allahının sandığı Qata aparılsın». Beləliklə, İsrail Allahının sandığını Qata apardılar.</verse>
+        <verse osisID='1Sam.5.9'>Onlar sandığı Qata gətirəndən sonra Rəbbin əli bu şəhərin üstündə də ağırlaşdı. Şəhəri dəhşətli qorxu bürüdü, böyükdən-kiçiyə qədər şəhər sakinlərinin hamısına zərbə dəydi. Onların da bədənlərinə şiş çıxdı.</verse>
+        <verse osisID='1Sam.5.10'>Bu hadisədən sonra Allahın sandığını Eqrona göndərdilər. Allahın sandığı Eqrona çatanda Eqronlular fəryad qoparıb dedilər: «Bizi və xalqımızı öldürmək üçün İsrailin Allahının sandığını bura gətirdilər!»</verse>
+        <verse osisID='1Sam.5.11'>Ona görə də hər tərəfə qasidlər göndərib bütün Filiştlilərin ağalarını yanlarına toplayaraq dedilər: «İsrail Allahının sandığını göndərin getsin yerinə, qoy bizi və xalqımızı qırmasın». Çünki bütün şəhəri ölüm vahiməsi bürümüşdü və Allahın əli ora üçün də çox ağır olmuşdu.</verse>
+        <verse osisID='1Sam.5.12'>Sağ qalanların da bədənlərinə şiş çıxdı və şəhərin fəryadı ərşə qalxdı.  </verse>
+      </chapter>
+      <chapter osisID='1Sam.6'>
+        <verse osisID='1Sam.6.1'>
+          Rəbbin sandığı Filiştlilərin diyarında yeddi ay qaldı.</verse>
+        <verse osisID='1Sam.6.2'>Filiştlilər kahinlərlə falçıları çağırıb dedilər: «Bu Rəbbin sandığını nə edək? Onu öz yerinə necə qaytarmağı bizə başa salın».</verse>
+        <verse osisID='1Sam.6.3'>Kahinlər və baxıcılar dedilər: «İsrail Allahının sandığını geri göndərmək istəyirsinizsə, boş göndərməyin. Ona mütləq təqsir təqdimi verməlisiniz. O zaman sağalacaqsınız və O sizdən nə üçün əl çəkmədiyini bildirəcək».</verse>
+        <verse osisID='1Sam.6.4'>Filiştlilər soruşdular: «Ona göndərəcəyimiz təqsir təqdimi nə olmalıdır?» Kahinlər və baxıcılar belə cavab verdi: «Filiştlilərin ağalarının sayına görə beş qızıl şiş surəti ilə beş qızıl siçovul surəti düzəldib göndərin. Çünki bu bəla həm sizin, həm də ağalarınızın üstündədir.</verse>
+        <verse osisID='1Sam.6.5'>Ona görə də həm şişlərinizin, həm də ölkənizi dağıdan siçovulların surətlərini yaradın və İsrailin Allahını şərəfləndirin. Bəlkə O sizin, allahlarınızın və torpağınızın üstündə əlini yüngülləşdirdi.</verse>
+        <verse osisID='1Sam.6.6'>Misirlilərlə fironun ürəyi inadkarlıq etdiyi kimi nə üçün sizin də ürəkləriniz inadkarlıq edir? Allah onlarla sərt davrananda İsrailliləri azad buraxmadılarmı?</verse>
+        <verse osisID='1Sam.6.7'>İndi isə bir təzə araba düzəldin və boyunduruğa qoşulmayan iki sağmal inəyi arabaya qoşun. Balalarını isə onlardan ayırıb evə göndərin.</verse>
+        <verse osisID='1Sam.6.8'>Rəbbin sandığını götürüb arabaya qoyun və təqsir təqdimi olaraq Ona ödəyəcəyiniz qızıl əşyaları isə bir mücrü içərisində sandığın yanına qoyun, sonra da yola salın getsin.</verse>
+        <verse osisID='1Sam.6.9'>Amma baxın, onlar sandığın olduğu torpağa – Bet-Şemeş yoluna qalxarlarsa, deməli, bu böyük bəlanı bizə verən Odur. Yox, əgər oraya getməzlərsə, onda biləcəyik ki, bizi vuran Onun əli deyil və bu qəza başımıza təsadüfən gəlmişdir». </verse>
+        <verse osisID='1Sam.6.10'>Adamlar belə də etdilər. İki sağmal inək gətirib arabaya qoşdular və balalarını da evdə bağladılar.</verse>
+        <verse osisID='1Sam.6.11'>Rəbbin sandığı ilə bərabər içərisində siçovulların və şişlərin qızıl surətləri yığılmış mücrünü də arabaya qoydular.</verse>
+        <verse osisID='1Sam.6.12'>İnəklər birbaşa Bet-Şemeşə gedən yolla sağa-sola dönmədən, böyürə-böyürə getdilər. Filiştlilərin ağaları isə onları Bet-Şemeş sərhədinə qədər ötürdülər. </verse>
+        <verse osisID='1Sam.6.13'>O zaman Bet-Şemeşlilər zəmidə buğda biçirdilər. Onlar başlarını qaldırıb sandığı görəndə sevindilər.</verse>
+        <verse osisID='1Sam.6.14'>Araba Bet-Şemeşli Yeşuanın zəmisinə girib böyük bir daşın yanında dayandı. Bet-Şemeşlilər arabanın ağaclarını qırdılar, inəkləri isə Rəbbə yandırma qurbanı verdilər.</verse>
+        <verse osisID='1Sam.6.15'>Levililər Rəbbin sandığını və onun yanındakı qızıl əşyalar yığılmış mücrünü arabadan endirib böyük bir daşın üstünə qoydular. O gün Bet-Şemeşlilər Rəbbə yandırma qurbanı verib başqa qurbanlar da kəsdilər.</verse>
+        <verse osisID='1Sam.6.16'>Filiştlilərin beş ağası bu hadisəni gördükdən sonra həmin gün Eqrona qayıtdı. </verse>
+        <verse osisID='1Sam.6.17'>Filiştlilərin təqsir təqdimi olaraq Rəbbə gətirdikləri qızıl şişlərin hər biri Aşdod, Qəzzə, Aşqelon, Qat, Eqron üçün olub bu şəhərlərin sayına görə idi.</verse>
+        <verse osisID='1Sam.6.18'>Qızıl siçovullar isə qala divarlı şəhərlərlə ətraf kəndlər də daxil olmaqla beş ağaya məxsus Filişt şəhərlərinin sayına görə beş dənə idi. Bet-Şemeşli Yeşuanın zəmisində Rəbbin sandığı qoyulan böyük daş bu günə qədər şahid kimi qalmaqdadır.</verse>
+        <verse osisID='1Sam.6.19'>Rəbbin sandığının içinə baxdıqları üçün Allah Bet-Şemeşliləri də vurdu və əlli ailədən yetmiş nəfəri  öldürdü. Xalq isə Rəbbin onların başına gətirdiyi müsibətə görə yas tutdu.</verse>
+        <verse osisID='1Sam.6.20'>Bet-Şemeşlilər dedilər: «Bu müqəddəs Allah olan Rəbbin qarşısında kim dayana bilər? Bizdən sonra kimin yanına gedəcək?»</verse>
+        <verse osisID='1Sam.6.21'>Sonra Qiryat-Yearim əhalisinə qasidlər göndərib dedilər: «Filiştlilər Rəbbin sandığını geri qaytardılar, gəlin onu aparın».  </verse>
+      </chapter>
+      <chapter osisID='1Sam.7'>
+        <verse osisID='1Sam.7.1'>
+            Qiryat-Yearim əhalisi gəlib Rəbbin sandığını apardı. Onu təpədə olan Avinadavın evinə çıxartdı və oğlu Eleazarı Rəbbin sandığına nəzarətçi təyin etdi.</verse>
+        <verse osisID='1Sam.7.2'>Sandıq Qiryat-Yearimə gələn gündən çox vaxt keçdi: iyirmi il tamam oldu. Bütün İsrail xalqı Rəbbin intizarını çəkirdi. </verse>
+        <verse osisID='1Sam.7.3'>Şamuel bütün İsraillilərə müraciət edib dedi: «Əgər bütün qəlbinizlə Rəbbə dönürsünüzsə, yad allahları, Aştoret bütlərini atıb ürəyinizi Rəbbə verin və yalnız Ona qulluq edin. Sizi Filiştlilərin əlindən O qurtaracaq».</verse>
+        <verse osisID='1Sam.7.4'>O zaman İsrail övladları Baal bütlərini və Aştoret bütlərini rədd edib yalnız Rəbbə qulluq etdilər. </verse>
+        <verse osisID='1Sam.7.5'>Şamuel dedi: «Bütün İsrailliləri Mispaya toplayın və mən sizə görə Rəbbə yalvaracağam».</verse>
+        <verse osisID='1Sam.7.6'>Onlar Mispaya toplaşdılar, su çəkib Rəbbin önünə tökdülər və o gün orada oruc tutub dedilər: «Rəbbə qarşı günah işlətmişik». Şamuel Mispada İsraillilərə hakimlik edirdi. </verse>
+        <verse osisID='1Sam.7.7'>İsrail övladlarının Mispada toplandığını Filiştlilər eşidəndə Filiştlilərin ağaları İsraillilərə qarşı çıxdılar. Bunu eşidən İsrail övladları Filiştlilərdən qorxdu.</verse>
+        <verse osisID='1Sam.7.8'>Ona görə də İsrail övladları Şamuelə dedilər: «Bizi Filiştlilərin əlindən qurtarmaq üçün Allahımız Rəbbə durmadan yalvar».</verse>
+        <verse osisID='1Sam.7.9'>Şamuel bir əmlik quzu götürərək onu bütövlüklə Rəbbə yandırma qurbanı verdi və o, İsrail üçün Rəbbə yalvardı. Rəbb Şamuelə cavab verdi.</verse>
+        <verse osisID='1Sam.7.10'>Şamuel yandırma qurbanı verərkən Filiştlilər İsrailə hücum etmək üçün yaxınlaşdılar. Rəbb o gün güclü səslə gurlayıb Filiştlilərin üzərinə vəlvələ saldı və onları İsrailin önündə məğlub etdi.</verse>
+        <verse osisID='1Sam.7.11'>İsraillilər Mispadan çıxıb Bet-Kar altına çatana qədər Filiştliləri qovaraq qırdılar. </verse>
+        <verse osisID='1Sam.7.12'>Sonra Şamuel bir daş götürüb Mispa ilə Şen arasına qoydu və «Rəbb bizə buraya qədər kömək etdi» deyərək bu daşı Even-Ezer  adlandırdı. </verse>
+        <verse osisID='1Sam.7.13'>Məğlubiyyətə uğrayan Filiştlilər bir daha İsrail torpağına gəlmədi. Şamuelin bütün ömrü boyu Rəbbin əli Filiştlilərə qarşı oldu.</verse>
+        <verse osisID='1Sam.7.14'>Filiştlilər Eqrondan Qata qədər İsraildən aldıqları şəhərləri geri qaytardılar. Bundan əlavə, İsrail ətrafındakı torpaqları da Filiştlilərin əlindən aldı və İsraillilərlə Emorluların arasında sülh yarandı. </verse>
+        <verse osisID='1Sam.7.15'>Şamuel ömrü boyu İsrailə hakimlik etdi.</verse>
+        <verse osisID='1Sam.7.16'>O, ilbəil, növbə ilə Bet-Eli, Qilqalı, Mispanı gəzir və bu yerlərdə İsrailə hakimlik edirdi.</verse>
+        <verse osisID='1Sam.7.17'>Sonra isə Ramaya qayıdardı, çünki evi orada idi. Oradan da İsrailə hakimlik edirdi. O həmin yerdə Rəbbə bir qurbangah tikdi.  </verse>
+      </chapter>
+      <chapter osisID='1Sam.8'>
+        <verse osisID='1Sam.8.1'>
+          Şamuel qocalanda oğullarını İsrailə hakim etdi.</verse>
+        <verse osisID='1Sam.8.2'>Onun ilk oğlunun adı Yoel, ikincisinin adı isə Aviya idi. Onlar Beer-Şevada hakim idilər.</verse>
+        <verse osisID='1Sam.8.3'>Oğulları onun yolu ilə getməyib şərəfsiz qazanc ardınca düşdülər və rüşvət alıb düzgün olmayan hökmlər verirdilər. </verse>
+        <verse osisID='1Sam.8.4'>Bütün İsrail ağsaqqalları yığılıb Ramaya – Şamuelin yanına gəldilər.</verse>
+        <verse osisID='1Sam.8.5'>Ona dedilər: «Bax sən qocasan və oğulların sənin yolunla getmir. İndi isə digər millətlərdə olduğu kimi bizə bir padşah təyin et ki, bizə hökmranlıq etsin».</verse>
+        <verse osisID='1Sam.8.6'>Lakin Şamuel «bizə bir padşah təyin et ki, hökmranımız olsun» deyilən zaman bu sözlərdən narazı qaldı və Rəbbə dua etdi.</verse>
+        <verse osisID='1Sam.8.7'>Rəbb Şamuelə dedi: «Sənə dedikləri məsələlərlə əlaqədar xalqın hər sözünə qulaq as, çünki rədd etdikləri sən deyilsən, onlar üzərində hökmranlıq etməyim deyə, yalnız Məni rədd edirlər.</verse>
+        <verse osisID='1Sam.8.8'>Onları Misirdən çıxartdığım gündən bu günə qədər yad allahlara qulluq etməklə Məni tərk edirlər. Mənə etdiklərini indi eyni şəkildə sənə edirlər.</verse>
+        <verse osisID='1Sam.8.9'>Sən onların sözlərinə qulaq as, amma açıqca xəbərdarlıq et ki, onlara hökmdarlıq edəcək padşahın hakimiyyəti necə olacaq». </verse>
+        <verse osisID='1Sam.8.10'>Şamuel ondan padşah istəyən xalqa Rəbbin bütün sözlərini söylədi.</verse>
+        <verse osisID='1Sam.8.11'>O dedi: «Sizə hökmdarlıq edəcək padşahın hökmranlığı belə olacaq: oğullarınızı döyüş arabaları və süvari qoşununda xidmət etmək üçün aparacaq və döyüş arabalarının qabağında qaçıracaq.</verse>
+        <verse osisID='1Sam.8.12'>Onlardan bəzisini minbaşı və əllibaşı təyin edəcək, bəzisinə torpaqlarını şumladacaq və əkinini biçdirəcək, bəzisini isə hərbi sursat və döyüş arabalarına ləvazimat hazırlamaq üçün işlədəcək.</verse>
+        <verse osisID='1Sam.8.13'>Qızlarınızı ətir düzəltmək, aşpaz və çörəkçi işlətmək üçün aparacaq.</verse>
+        <verse osisID='1Sam.8.14'>Ən yaxşı tarlalarınızı, üzüm və zeytun bağlarınızı alıb əyanlarına verəcək.</verse>
+        <verse osisID='1Sam.8.15'>Taxıllarınızın və üzümlüklərinizin məhsullarından onda birini alıb xadimlərinə və əyanlarına verəcək.</verse>
+        <verse osisID='1Sam.8.16'>Qullarınızla qarabaşlarınızı, ən seçmə cavanlarınızı və eşşəklərinizi götürüb öz işində işlədəcək.</verse>
+        <verse osisID='1Sam.8.17'>Sürülərinizin onda birini özünə götürəcək və siz onun qulu olacaqsınız.</verse>
+        <verse osisID='1Sam.8.18'>Gün gələcək ki, seçdiyiniz padşahın əlindən fəryad edəcəksiniz, amma o vaxt Rəbb sizə cavab verməyəcək». </verse>
+        <verse osisID='1Sam.8.19'>Xalq isə Şamuelin sözünə qulaq asmaq istəməyib dedi: «Yox, mütləq üzərimizdə bir padşah olsun.</verse>
+        <verse osisID='1Sam.8.20'>Başqa millətlərdə olduğu kimi bizə də padşahımız hökmranlıq etsin, qabağa düşüb döyüşlərimizə başçılıq etsin».</verse>
+        <verse osisID='1Sam.8.21'>Şamuel xalqın hər sözünü dinləyib Rəbbə söylədi.</verse>
+        <verse osisID='1Sam.8.22'>Rəbb Şamuelə belə dedi: «Onların sözlərinə qulaq as və bir padşah təyin et». Şamuel İsraillilərə «hər kəs öz şəhərinə qayıtsın» dedi.  </verse>
+      </chapter>
+      <chapter osisID='1Sam.9'>
+        <verse osisID='1Sam.9.1'>
+          Binyamindən Afiah oğlu Bekorat oğlu Seror oğlu Aviel oğlu Qiş adlı bir adam var idi. Binyaminli bu adam cəsur cəngavər idi.</verse>
+        <verse osisID='1Sam.9.2'>Onun Şaul adlı gənc, yaraşıqlı oğlu var idi və İsrail övladları arasında ondan yaraşıqlısı yox idi. O, xalqın hamısından bir çiyin hündür idi. </verse>
+        <verse osisID='1Sam.9.3'>Şaulun atası Qişin eşşəkləri itmişdi. Qiş oğlu Şaula dedi: «Qalx nökərlərdən birini yanına al, get, eşşəkləri axtar».</verse>
+        <verse osisID='1Sam.9.4'>Onlar Efrayimin dağlıq bölgəsini gəzdilər və Şalişa diyarından keçdilər, lakin eşşəkləri tapa bilmədilər. Şaalim diyarını dolandılar, eşşəklər orada da yox idi. Sonra Binyamin torpağını gəzdilər, lakin eşşəkləri tapa bilmədilər.</verse>
+        <verse osisID='1Sam.9.5'>Bundan sonra Suf bölgəsinə gəldilər və Şaul yanındakı nökərinə dedi: «Gəl qayıdaq, yoxsa atam eşşəkləri yaddan çıxarıb bizim üçün narahat olacaq».</verse>
+        <verse osisID='1Sam.9.6'>Nökəri isə ona dedi: «Bax bu şəhərdə bir Allah adamı var. O, möhtərəm bir adamdır və nə deyirsə, hamısı mütləq doğru çıxır. Gəl oraya gedək, bəlkə bizə gedəcəyimiz yolu o göstərdi».</verse>
+        <verse osisID='1Sam.9.7'>Şaul nökərinə dedi: «Əgər getsək, o adama nə aparaq? Artıq torbalarımızda çörək qurtarmış və Allah adamına vermək üçün bir hədiyyəmiz belə, yoxdur. Axı nəyimiz var?»</verse>
+        <verse osisID='1Sam.9.8'>Nökər Şaula cavab olaraq belə dedi: «Bax əlimdə dörddə bir şekel gümüş var. Mən onu Allah adamına verərəm, qoy o bizə yolumuzu göstərsin».</verse>
+        <verse osisID='1Sam.9.9'>Əvvəllər İsraildə Allahın iradəsini öyrənmək üçün gedəndə adamlar belə deyərdilər: «Gəl görücünün yanına gedək». O vaxt peyğəmbərləri görücü adlandırırdılar.</verse>
+        <verse osisID='1Sam.9.10'>Şaul isə nökərinə dedi: «Yaxşı deyirsən, gəl gedək». Onlar Allah adamının olduğu şəhərə getdilər. </verse>
+        <verse osisID='1Sam.9.11'>Yoxuşdan şəhərə qalxanda su çəkmək üçün şəhərdən çıxan gənc qızlara rast gəldilər və onlara dedilər: «Görücü buradadırmı?»</verse>
+        <verse osisID='1Sam.9.12'>Onlara cavab verdilər: «Buradadır, sizdən qabaqdadır. Tələsin, elə bu gün şəhərə gəlib, çünki xalq bu gün səcdəgahda qurban kəsəcək.</verse>
+        <verse osisID='1Sam.9.13'>Şəhərə girən kimi onu yemək üçün səcdəgaha qalxmazdan əvvəl taparsınız, ona görə ki o gəlməyincə xalq yeməyə başlamaz. O, qurbana xeyir-dua verəndən sonra çağırılanlar yeyər. Tez qalxsanız, ona çatarsınız».</verse>
+        <verse osisID='1Sam.9.14'>Onlar şəhərə qalxdılar. Şaul da təpədə yerləşən şəhərin mərkəzinə çatanda Şamuellə rastlaşdı, çünki o da səcdəgaha çıxırdı. </verse>
+        <verse osisID='1Sam.9.15'>Şaul gəlməmişdən bir gün əvvəl Rəbb Şamuelə bunu bildirərək qulağına demişdi:</verse>
+        <verse osisID='1Sam.9.16'>«Sabah bu vaxtlar sənin yanına Binyamin torpağından bir adam göndərəcəyəm və onu Mənim xalqım İsraillilərə başçı olaraq məsh edəcəksən. Filiştlilərin əlindən xalqımı o qurtaracaq, çünki xalqımın halına yanıram. Ona görə ki fəryadı gəlib Mənə çatdı». </verse>
+        <verse osisID='1Sam.9.17'>Şamuel Şaulu görəndə Rəbb ona dedi: «Bax sənə dediyim bu adam xalqıma hökmranlıq edəcək».</verse>
+        <verse osisID='1Sam.9.18'>Şaul darvazada Şamuelə yaxınlaşıb dedi: «Rica edirəm, görücünün evinin harada olduğunu mənə göstərəsiniz».</verse>
+        <verse osisID='1Sam.9.19'>Şamuel Şaula cavab verdi: «Görücü mənəm, qarşımca səcdəgaha qalx. Bu gün mənimlə bərabər yemək yeyəcəksiniz, sabah açılanda isə ürəyində olanların hamısını sənə bildirib yola salaram.</verse>
+        <verse osisID='1Sam.9.20'>Üç gün əvvəl itən eşşəklərinə gəlincə, onların fikrini çəkmə, artıq tapılıblar. Bütün İsrail nəyin həsrətindədir? Bu sənə və ata nəslinə aid deyilmi?»</verse>
+        <verse osisID='1Sam.9.21'>Şaul cavab verdi: «Mən İsrail qəbilələrinin ən kiçiyi olan Binyamindən deyiləmmi? Nəslim isə Binyamin qəbiləsinin nəsillərinin ən kiçiyi deyilmi? Axı nə üçün mənə belə söz söyləyirsiniz?» </verse>
+        <verse osisID='1Sam.9.22'>Şamuel Şaul ilə nökəri götürüb otağa apardı və otuz nəfərə qədər çağırılmış adamların arasında baş tərəfdə ona yer verdi.</verse>
+        <verse osisID='1Sam.9.23'>Şamuel aşpaza dedi: «“Bir yana ayrı qoy” deyib sənə verdiyim payı bura gətir!»</verse>
+        <verse osisID='1Sam.9.24'>Aşpaz yağlı budu Şaulun qarşısına qoydu. Şamuel dedi: «Buyur ye, bu sənin üçün ayrılan paydır, bunu sənin üçün saxladım ki, təyin etdiyim gün çağırdığım xalqla birlikdə yeyəsən». O gün Şaul Şamuellə birlikdə yemək yedi. </verse>
+        <verse osisID='1Sam.9.25'>Onlar səcdəgahdan şəhərə endilər, Şamuel Şaulla evin damında söhbət etdi.</verse>
+        <verse osisID='1Sam.9.26'>Onlar erkən qalxdılar. Dan yeri söküləndə damdan Şamuel Şaulu çağırıb dedi: «Dur, səni yola salım». O da qalxıb Şamuellə birlikdə bayıra çıxdı.</verse>
+        <verse osisID='1Sam.9.27'>Onlar şəhər kənarına enərkən Şamuel Şaula dedi: «Nökərə de ki, qabaqda getsin». Nökər qabağa keçdi. «Amma sən indi ayaq saxla, qoy Allahın sözünü sənə bildirim».  </verse>
+      </chapter>
+      <chapter osisID='1Sam.10'>
+        <verse osisID='1Sam.10.1'>
+          Şamuel bir qab zeytun yağı götürüb Şaulun başına tökdü və onu öpərək dedi: «Rəbb səni Öz irsi olan İsrail üzərində başçı olmaq üçün məsh etdi, elə deyilmi?</verse>
+        <verse osisID='1Sam.10.2'>Bu gün məndən ayrılandan sonra Binyamin torpağında, Selsahda olan Rəhilənin məzarı yanında iki adama rast gələcəksən və onlar sənə deyəcək: “Axtarmağa getdiyin eşşəklər tapılıb. Artıq atan eşşəkləri unudub sizin dərdinizi çəkərək deyir: ‹Oğluma görə nə edim?›”</verse>
+        <verse osisID='1Sam.10.3'>Oradan da irəli keçib Tavordakı palıd ağacının yanına çatacaqsan və həmin yerdə səni Bet-Elə – Allahın hüzuruna çıxan üç adam qarşılayacaq. Onlardan biri üç oğlaq, o biri üç kömbə çörək, biri də bir tuluq şərab aparacaq.</verse>
+        <verse osisID='1Sam.10.4'>Onlar səni salamlayaraq iki kömbə çörək verəcəklər. Sən də o çörəkləri onlardan alacaqsan.</verse>
+        <verse osisID='1Sam.10.5'>Bundan sonra Filişt keşik dəstəsinin olduğu yerə – Giveat-Elohimə çatacaqsan. Şəhərə girən zaman orada səcdəgahdan enən bir peyğəmbər dəstəsinə rast gələcəksən. Onların qarşılarında çəng, dəf, ney, lira çalınacaq və onlar peyğəmbərlik edəcək.</verse>
+        <verse osisID='1Sam.10.6'>Onda Rəbbin Ruhu üzərinə qüvvə ilə enəcək və sən də onlarla birgə peyğəmbərlik edəcəksən və dönüb tamam başqa bir adam olacaqsan.</verse>
+        <verse osisID='1Sam.10.7'>Bu əlamətlər səndə baş verəndə vəziyyətə uyğun hərəkət et, çünki Allah səninlədir.</verse>
+        <verse osisID='1Sam.10.8'>Sən məndən əvvəl Qilqala enəcəksən, mən də yandırma qurbanları təqdim etmək və ünsiyyət qurbanları kəsmək üçün oraya enəcəyəm. Amma mən yanına gəlib nə edəcəyini sənə bildirənədək yeddi gün gözləməli olacaqsan». </verse>
+        <verse osisID='1Sam.10.9'>Şaul Şamuelin yanından yola düşmək üçün çevriləndə Allah onun ürəyini dəyişdirdi və bütün bu əlamətlər o gün yerinə yetdi.</verse>
+        <verse osisID='1Sam.10.10'>Oradan Giveaya gedərkən onları bir peyğəmbər dəstəsi qarşıladı və Allahın Ruhu Şaulun üstünə qüvvə ilə endi. Onların arasında Şaul da peyğəmbərlik etməyə başladı.</verse>
+        <verse osisID='1Sam.10.11'>Əvvəldən onu tanıyan camaatın hamısı onun peyğəmbərlik etdiyini görəndə bir-birinə belə dedi: «Qişin oğluna nə olub? Məgər Şaul da peyğəmbərlərin sırasındadır?»</verse>
+        <verse osisID='1Sam.10.12'>Bir adam cavab verib dedi: «Görün onların atası kimdir?» Buna görə də «Məgər Şaul da peyğəmbərlərin sırasındadır?» sözü məsələ çevrildi.</verse>
+        <verse osisID='1Sam.10.13'>Şaul peyğəmbərlik edəndən sonra səcdəgaha qalxdı. </verse>
+        <verse osisID='1Sam.10.14'>Şaulun əmisi ondan və nökərindən soruşdu: «Hara getmişdiniz?» Şaul dedi: «Eşşəkləri axtarmağa getmişdik, amma gördük ki, tapa bilmirik, ona görə də Şamuelin yanına getdik».</verse>
+        <verse osisID='1Sam.10.15'>Şaulun əmisi dedi: «Rica edirəm, Şamuelin sənə nə dediyini mənə danış».</verse>
+        <verse osisID='1Sam.10.16'>Şaul əmisinə dedi: «Eşşəklərin tapıldığını bizə aydın bildirdi». Lakin padşahlıq haqqında Şamuelin sözünü əmisinə danışmadı. </verse>
+        <verse osisID='1Sam.10.17'>Şamuel xalqı Rəbbin önünə – Mispaya çağırdı.</verse>
+        <verse osisID='1Sam.10.18'>O, İsrail övladlarına dedi: «İsrailin Allahı Rəbb belə deyir: “İsraili Misirdən Mən çıxartdım. Misirlilərin və sizə zülm edən bütün padşahlıqların əlindən sizi Mən azad etdim”.</verse>
+        <verse osisID='1Sam.10.19'>Lakin bəlalarınızdan və müsibətlərinizdən sizi qurtaran Allahınızı bu gün rədd etdiniz və Ona “üzərimizə bir padşah qoy” dediniz. İndi isə qəbilələrinizə və nəsillərinizə görə Rəbbin hüzurunda durun». </verse>
+        <verse osisID='1Sam.10.20'>Şamuel İsrailin bütün qəbilələrini bir-bir qabağa çıxartdı, Binyamin qəbiləsi püşk ilə seçildi.</verse>
+        <verse osisID='1Sam.10.21'>Sonra Binyamin qəbiləsini nəsilbənəsil qabağa çıxartdı. Püşk Matri nəslinə düşdü. Nəhayət Qiş oğlu Şaul seçildi. Lakin onu axtarıb tapa bilmədilər.</verse>
+        <verse osisID='1Sam.10.22'>Yenə Rəbdən soruşdular: «O buraya hələ gəlməyibmi?» Rəbb dedi: «Odur, yüklərin arasında gizlənib».</verse>
+        <verse osisID='1Sam.10.23'>Qaçıb Şaulu oradan gətirdilər. Xalq arasında duran zaman Şaul xalqın hamısından bir çiyin hündür görünürdü.</verse>
+        <verse osisID='1Sam.10.24'>Şamuel bütün xalqa dedi: «Rəbbin seçdiyi bu xalqın arasında bənzəri olmayan adamı görürsünüzmü?» O zaman xalq bir səslə qışqırıb dedi: «Yaşasın padşah!» </verse>
+        <verse osisID='1Sam.10.25'>Şamuel padşahlıq qaydalarını xalqa söylədi və kitaba yazıb Rəbbin önünə qoydu. Sonra Şamuel bütün xalqı evinə göndərdi.</verse>
+        <verse osisID='1Sam.10.26'>Şaul da Giveaya, öz evinə qayıtdı və qəlblərində Allahın oyanış yaratdığı igidlər onunla bərabər getdilər.</verse>
+        <verse osisID='1Sam.10.27'>Bəzi yaramaz adamlar isə belə dedilər: «Bu adam bizi necə qurtaracaq?» Ona xor baxıb hədiyyə göndərmədilər. Şaul isə buna susdu.  </verse>
+      </chapter>
+      <chapter osisID='1Sam.11'>
+        <verse osisID='1Sam.11.1'>
+          Ammonlu Naxaş gəlib Yaveş-Gileada qarşı ordugah qurdu. Bütün Yaveş əhalisi Naxaşa dedi: «Bizimlə saziş bağla, biz də sənə qulluq edək».</verse>
+        <verse osisID='1Sam.11.2'>Ammonlu Naxaş isə onlara dedi: «Bu şərtlə sizinlə razılığa gələrəm ki, hər birinizin sağ gözünü çıxarıb bütün İsraili rüsvay edim».</verse>
+        <verse osisID='1Sam.11.3'>Yaveş ağsaqqalları ona dedilər: «Bizə yeddi gün möhlət ver ki, İsrailin bütün ərazisinə qasidlər göndərək və əgər bizi heç kim xilas edə bilməsə, sənə təslim olarıq». </verse>
+        <verse osisID='1Sam.11.4'>Qasidlər Şaulun Givea şəhərinə gəldilər və xalq arasında bu sözləri car çəkdilər. Bütün xalq da şivən qoparıb ağladı.</verse>
+        <verse osisID='1Sam.11.5'>Bu vaxt Şaul öküzlərin arxasınca tarladan gəlirdi. O dedi: «Xalqa nə olub ki, ağlayır?» Ona Yaveşlilərin sözünü çatdırdılar. </verse>
+        <verse osisID='1Sam.11.6'>Həmin sözləri eşidən zaman Allahın Ruhu Şaulun üstünə qüvvə ilə endi, qəzəbindən od tutub yandı.</verse>
+        <verse osisID='1Sam.11.7'>O, bir cüt öküzünü götürüb parça-parça doğradı və onları qasidlərin əli ilə bütün İsrail ərazisinə göndərib dedi: «Kim Şaulun və Şamuelin ardınca getməsə, bax öküzləri bu kökə salınacaq». Xalqın arasına Rəbbin xofu düşdü və hamı bir nəfər kimi ayağa qalxdı.</verse>
+        <verse osisID='1Sam.11.8'>Şaul onları Bezeqdə saydı: İsrail övladları üç yüz min və Yəhuda adamları isə otuz min nəfər oldu. </verse>
+        <verse osisID='1Sam.11.9'>Gələn qasidlərə dedilər: «Yaveş-Gileadlılara belə deyərsiniz: “Sabah gün qızınca sizə qurtuluş olacaq”». Qasidlər gedib bunu Yaveşlilərə bildirdilər və onlar da sevindilər.</verse>
+        <verse osisID='1Sam.11.10'>Yaveşlilər Ammonlulara dedilər: «Sabah təslim olacağıq və bizimlə gözünüzdə xoş görünən kimi rəftar edin». </verse>
+        <verse osisID='1Sam.11.11'>Ertəsi gün Şaul xalqı üç bölməyə ayırdı və səhər qarovulunda düşmən ordugahının içinə girərək gün qızana qədər Ammonluları qırdı. Qalanlar isə elə dağıldılar ki, onlardan iki nəfər bir yerdə qalmadı.</verse>
+        <verse osisID='1Sam.11.12'>Xalq Şamuelə dedi: «“Şaulmu üzərimizdə padşah olacaq?” deyənlər kimlərdir? O adamları verin öldürək».</verse>
+        <verse osisID='1Sam.11.13'>Şaul isə dedi: «Bu gün heç kəs öldürülməyəcək, çünki Rəbb bu gün İsrailə qurtuluş verdi». </verse>
+        <verse osisID='1Sam.11.14'>Şamuel xalqa dedi: «Gəlin Qilqala gedək və orada padşahlığı yenidən təsdiq edək».</verse>
+        <verse osisID='1Sam.11.15'>Bütün xalq Qilqala getdi. Orada – Qilqalda Şaulu Rəbbin önündə padşah olaraq qəbul etdilər və sonra Rəbbin önündə ünsiyyət qurbanları kəsdilər. Bütün İsraillilər Şaulla birgə böyük bayram etdilər.  </verse>
+      </chapter>
+      <chapter osisID='1Sam.12'>
+        <verse osisID='1Sam.12.1'>
+          Şamuel İsraillilərin hamısına dedi: «Baxın mən dediklərinizə axıradək qulaq asaraq üzərinizə bir padşah təyin etdim.</verse>
+        <verse osisID='1Sam.12.2'>İndi qarşınızda padşah gedir, mən isə qocalmışam, saçlarım ağarıb. Budur, oğlanlarım da sizinlədir. Mən də gəncliyimdən bu günə qədər sizin qarşınızda getmişəm.</verse>
+        <verse osisID='1Sam.12.3'>Budur, qarşınızdayam, hansınızın öküzünü almışam? Kimin eşşəyini almışam? Kimi aldatmışam, kimi incitmişəm və yaxud kimdən rüşvət alıb haqsız əməlinə göz yummuşam? Rəbbin və Onun məsh etdiyinin qarşısında mənə qarşı şəhadət edin ki, haqqınızı ödəyim».</verse>
+        <verse osisID='1Sam.12.4'>Onlar belə cavab verdilər: «Sən bizi heç vaxt aldatmamısan, incitməmisən, heç kimin əlindən də heç nə almamısan».</verse>
+        <verse osisID='1Sam.12.5'>Şamuel onlara dedi: «Sizə qarşı əlimdə bir şey tapmadığınıza bu gün Rəbb və Onun məsh olunmuş padşahı da şahiddir». Xalq dedi: «Bəli, şahiddir». </verse>
+        <verse osisID='1Sam.12.6'>Şamuel xalqa dedi: «Musanı və Harunu təyin edən, atalarınızı Misir torpağından çıxaran Rəbdir.</verse>
+        <verse osisID='1Sam.12.7'>İndi isə Rəbbin hüzurunda dayanın. Rəbbin sizə və atalarınıza etdiyi bütün haqq işlər barədə sübutlar göstərəcəyəm.</verse>
+        <verse osisID='1Sam.12.8'>Yaqub Misirə gəldi. Sonra atalarınız Rəbbə fəryad etdilər. Rəbb Musa ilə Harunu göndərdi ki, atalarınızı Misirdən çıxardıb bu yerdə məskunlaşdırsın.</verse>
+        <verse osisID='1Sam.12.9'>Lakin onlar özlərinin Allahı Rəbbi unutdular, Rəbb də onları Xasor ordusunun başçısı Sisraya, Filiştlilərə və Moav padşahına təslim etdi. Onlar atalarınıza qarşı vuruşdular».</verse>
+        <verse osisID='1Sam.12.10'>Xalq Rəbbə fəryadla dedi: «Rəbbi atıb Baal və Aştoret bütlərinə qulluq etməklə günah etdik. Ya Rəbb, indi bizi düşmənlərimizin əlindən qurtar və biz Sənə qulluq edərik».</verse>
+        <verse osisID='1Sam.12.11'>Rəbb də Yerub-Baalı, Bedanı, İftahı və Şamueli göndərdi. O sizi ətrafınızdakı düşmənlərin əlindən qurtardı və əmin-amanlıqda yaşadınız.</verse>
+        <verse osisID='1Sam.12.12'>Amma siz Ammon padşahı Naxaşın sizə qarşı gəldiyini görəndə Rəbb Allahınız sizə padşah ikən mənə dediniz: «Xeyr, gərək bizə bir padşah hökmranlıq etsin».</verse>
+        <verse osisID='1Sam.12.13'>İndi isə budur seçdiyiniz və istədiyiniz padşah! Baxın Rəbb üzərinizə bir padşah qoydu.</verse>
+        <verse osisID='1Sam.12.14'>Əgər Rəbdən qorxub Ona qulluq edərək səsinə qulaq assanız, əmrinə qarşı çıxmasanız, həm sizə hökmranlıq edən padşahınız, həm də siz Allahınız Rəbbin ardınca gedəcəksiniz.</verse>
+        <verse osisID='1Sam.12.15'>Yox, əgər Rəbbin səsinə qulaq asmasanız və Rəbbin əmrinə qarşı çıxsanız, o zaman Rəbbin əli atalarınıza qarşı olduğu kimi sizin də əleyhinizə olacaq. </verse>
+        <verse osisID='1Sam.12.16'>İndi isə dayanın, Rəbbin gözünüz önündə edəcəyi bu böyük hadisəni görün.</verse>
+        <verse osisID='1Sam.12.17'>Bu gün buğda biçimi deyilmi? Göy gurultusu və yağış göndərsin deyə Rəbbi çağıracağam, özünüz üçün padşah istəməklə etdiyiniz pisliyin Rəbbin gözündə nə qədər böyük olduğunu dərk edib görəcəksiniz. </verse>
+        <verse osisID='1Sam.12.18'>Şamuel Rəbbi çağırdı və Rəbb o gün göy gurladıb yağış yağdırdı. Bütün xalq həmin gün Rəbdən və Şamueldən çox qorxdu.</verse>
+        <verse osisID='1Sam.12.19'>Camaat Şamuelə belə dedi: «Qulların üçün Allahın Rəbbə yalvar ki, ölməyək, çünki bütün günahlarımızın üzərinə özümüzə padşah istəmək təqsirini də əlavə etdik».</verse>
+        <verse osisID='1Sam.12.20'>Şamuel isə xalqa dedi: «Qorxmayın, bu pisliyi həqiqətən siz etmisiniz, lakin Rəbbin yolundan dönməyin, bütün qəlbinizlə yalnız Rəbbə qulluq edin.</verse>
+        <verse osisID='1Sam.12.21'>Dönməyin, çünki o zaman boş bütlərin ardınca getmiş olacaqsınız, o bütlər ki fayda verməz və xilas etməzlər, çünki puçdurlar.</verse>
+        <verse osisID='1Sam.12.22'>Amma Rəbb xalqını Öz böyük ismi naminə atmayacaq, ona görə ki sizi Öz xalqı etmək Rəbbin xoşuna gəlmişdi.</verse>
+        <verse osisID='1Sam.12.23'>Mənə gəlincə, sizin üçün yalvarmağı dayandırmaqla Rəbbə qarşı günah etmək qoy məndən uzaq olsun. Mən sizə xeyirli və düz yolu öyrədəcəyəm.</verse>
+        <verse osisID='1Sam.12.24'>Ancaq Rəbdən qorxun, Ona sədaqətlə, bütün qəlbinizlə xidmət edin. Görün sizin üçün necə əzəmətli işlər görüb.</verse>
+        <verse osisID='1Sam.12.25'>Əgər pislik etməkdə davam etsəniz, həm siz, həm də padşahınız məhv olacaq».  </verse>
+      </chapter>
+      <chapter osisID='1Sam.13'>
+        <verse osisID='1Sam.13.1'>
+          Şaul bir il padşah oldu və İsrailin üzərində daha iki il padşahlıq edəndən sonra</verse>
+        <verse osisID='1Sam.13.2'>o özü üçün üç min nəfər İsrailli seçdi. Bunlardan iki min nəfəri Mikmasda və Bet-El təpələrində Şaulun yanında qaldı, min nəfəri isə Binyaminin Givea şəhərində Yonatanın yanında saxladı. Xalqın qalan hissəsini isə Şaul öz evlərinə göndərdi.</verse>
+        <verse osisID='1Sam.13.3'>Yonatan Gevadakı Filiştlilərin keşik dəstəsinin əsgərlərini qırdı və bunu bütün Filiştlilər eşitdilər. Şaul isə İbranilər eşitsinlər deyə bütün ölkədə şeypur çaldırdı.</verse>
+        <verse osisID='1Sam.13.4'>İsraillilərin hamısı Şaulun Filiştlilərin keşik dəstəsini qırdığını, Filiştlilərin İsrailə nifrət etdiyini eşitdi. Xalq Şaulun ətrafında yığılmaq üçün Qilqala çağırıldı.</verse>
+        <verse osisID='1Sam.13.5'>Filiştlilər İsraillə vuruşmaq üçün yığıldılar. Otuz min döyüş arabası, altı min atlı və dənizdəki qum dənələrinin sayı qədər camaat çıxıb Bet-Avenin şərqində Mikmasda ordugah qurdu. </verse>
+        <verse osisID='1Sam.13.6'>İsraillilər təhlükə qarşısında olduqlarını gördülər, çünki xalq sıxışdırıldı, xalq mağaralarda, kolluqlarda, qayalarda, məqbərələrdə və nohurlarda gizləndi.</verse>
+        <verse osisID='1Sam.13.7'>İbranilərdən bəzisi İordan çayından Qad və Gilead torpağına keçmişdi, lakin Şaul isə hələ Qilqalda idi və bütün xalq qorxudan əsə-əsə onun ardınca gedirdi. </verse>
+        <verse osisID='1Sam.13.8'>Şaul Şamuel təyin etdiyi vaxta qədər yeddi gün gözlədi, lakin Şamuel Qilqala gəlmədi, ona görə də xalq Şaulun yanından dağılmağa başladı.</verse>
+        <verse osisID='1Sam.13.9'>Şaul dedi: «Yandırma qurbanını və ünsiyyət qurbanını yanıma gətirin». O, yandırma qurbanını təqdim etdi.</verse>
+        <verse osisID='1Sam.13.10'>Yandırma qurbanının təqdimi qurtaranda Şamuel gəlib çıxdı və Şaul salamlaşmaq üçün onu qarşılamağa çıxdı.</verse>
+        <verse osisID='1Sam.13.11'>Şamuel dedi: «Sən nə etmisən?» Şaul isə dedi: «Gördüm ki, ətrafımdakı xalq dağılır, sən isə təyin etdiyin gün gəlmədin və Filiştlilər Mikmasda toplanıb.</verse>
+        <verse osisID='1Sam.13.12'>Dedim ki, indi Filiştlilər Qilqala, üstümə gələcəklər, mən isə hələ Rəbbin razılığını almamışam. Ona görə də özümü məcbur edib yandırma qurbanını təqdim etdim».</verse>
+        <verse osisID='1Sam.13.13'>Şamuel Şaula dedi: «Ağılsızlıq etdin, Allahın Rəbbin sənə verdiyi əmrə əməl etmədin. Belə olmasaydı, Rəbb İsrail üzərində sənin padşahlığını əbədi saxlayacaqdı.</verse>
+        <verse osisID='1Sam.13.14'>Lakin indi padşahlığın davam etməyəcək. Rəbb Özü üçün Öz ürəyinə yatan bir adam tapıb. Həmin adamı Rəbb xalqına başçı təyin etdi. Çünki sən Rəbbin verdiyi əmrlərə əməl etmədin».</verse>
+        <verse osisID='1Sam.13.15'>Bundan sonra Şamuel Qilqalı tərk edib Binyaminlilərin Givea şəhərinə çıxdı. Şaul yanında olan xalqı saydı: altı yüz nəfərə qədər idi. </verse>
+        <verse osisID='1Sam.13.16'>Şaul, oğlu Yonatan və yanında olan xalq Binyaminlilərin Geva şəhərində qalmaqda idi. Filiştlilər isə Mikmasda ordugah qurmuşdular.</verse>
+        <verse osisID='1Sam.13.17'>Filişt ordugahından qarətçi hücumçular üç dəstəyə bölünüb çıxdılar. Bir dəstə Ofra yoluna – Şual torpağına yönəldi.</verse>
+        <verse osisID='1Sam.13.18'>Digər dəstə isə Bet-Xoron yoluna, o biri dəstə isə çölə – Sevoim vadisinə baxan sərhəd yoluna yönəldi. </verse>
+        <verse osisID='1Sam.13.19'>Bütün İsrail ölkəsində bir nəfər də olsun dəmirçi yox idi. Filiştlilər demişdilər ki, qoy İbranilər qılınc, nizə düzəltməsinlər.</verse>
+        <verse osisID='1Sam.13.20'>Bütün İsraillilər kotanlarını, kərkilərini, baltalarını və oraqlarını itiləmək üçün Filiştlilərin yanına gəlirdi.</verse>
+        <verse osisID='1Sam.13.21'>Kotanın, kərkinin itiləmə qiyməti bir pim  idi. Bellər, baltalar, bizlər üçün isə şekelin üçdə biri qədər gümüş pul alardılar.</verse>
+        <verse osisID='1Sam.13.22'>Ona görə də müharibə zamanı Şaulla Yonatanın yanında olan xalqın əlində qılınc və nizə yox idi, bu silahlar ancaq Şaulun və oğlu Yonatanın əlində olardı. </verse>
+        <verse osisID='1Sam.13.23'>Filiştlilərin keşik dəstəsi Mikmas keçidinə çıxdı.  </verse>
+      </chapter>
+      <chapter osisID='1Sam.14'>
+        <verse osisID='1Sam.14.1'>
+          Bir gün Şaulun oğlu Yonatan silahdarı olan nökərə dedi: «Gəl qarşı tərəfdə olan Filiştlilərin keşik dəstəsinə keçək». Lakin bunu atasına bildirmədi.</verse>
+        <verse osisID='1Sam.14.2'>Şaul isə Givea kənarında Miqrondakı nar ağacı altında oturmuşdu, yanındakı xalq altı yüz nəfərə qədər idi.</verse>
+        <verse osisID='1Sam.14.3'>Şiloda Rəbbin kahini, Eli oğlu Pinxas oğlu İkavodun qardaşı Axituvun oğlu Axiya efod geyinmişdi. Yonatanın getdiyindən xalqın xəbəri yox idi.</verse>
+        <verse osisID='1Sam.14.4'>Filiştlilərin keşik dəstəsinə getmək üçün Yonatanın keçmək istədiyi keçidlər iki şişuclu qayalığın arasında idi. Qayalıqlardan birinin adı Boses, o birinin adı isə Sene idi.</verse>
+        <verse osisID='1Sam.14.5'>Qayalıqlardan biri şimal tərəfdən Mikmasa, o biri qayalıq isə cənub tərəfdən Gevaya baxırdı. </verse>
+        <verse osisID='1Sam.14.6'>Yonatan silahdarı olan nökərə dedi: «Gəl bu sünnətsizlərin keşik dəstəsinə keçək, bəlkə Rəbb bizim üçün bir iş gördü. Çünki həm çox, həm də az adamların üzərində qələbə çalmaq üçün Rəbbə mane olan yoxdur».</verse>
+        <verse osisID='1Sam.14.7'>Silahdarı ona dedi: «Ürəyin necə istəyirsə, elə də et. Get bax, mən səninləyəm, çünki ürəyimizin istəyi birdir».</verse>
+        <verse osisID='1Sam.14.8'>Yonatan dedi: «Gəl bu adamlara tərəf gedib özümüzü onlara göstərək.</verse>
+        <verse osisID='1Sam.14.9'>Əgər bizə “sizin yanınıza biz gələnə qədər dayanın” desələr, o zaman yerimizdə durub onların yanına çıxmarıq.</verse>
+        <verse osisID='1Sam.14.10'>Lakin “yanımıza çıxın”, desələr, o zaman yerimizdən durub onların yanına qalxarıq, çünki Rəbb onları bizə təslim etmişdir və bu bizim üçün əlamət olacaq». </verse>
+        <verse osisID='1Sam.14.11'>İkisi də özünü Filiştlilərin keşik dəstəsinə göstərdi. Filiştlilər isə dedilər: «Bax İbranilər gizləndikləri deşiklərdən çıxırlar».</verse>
+        <verse osisID='1Sam.14.12'>Əsgərlər Yonatana və onun silahdarına dedilər: «Yanımıza çıxın, sizin dərsinizi verək». Yonatan silahdarına dedi: «Ardımca gəl, çünki Rəbb onları İsrailə təslim etdi».</verse>
+        <verse osisID='1Sam.14.13'>Yonatan, onun ardınca silahdarı əl və ayaqları ilə yuxarı dırmaşdılar, Yonatan Filiştliləri vurub yıxır, arxadan silahdarı onları öldürürdü.</verse>
+        <verse osisID='1Sam.14.14'>Bu ilk döyüşdə yarım sahə torpaqda  Yonatanla silahdarı iyirmi nəfərə qədər adamı qırdı.</verse>
+        <verse osisID='1Sam.14.15'>Ordugaha, çölə, bütün xalq arasına vəlvələ düşdü. Keşikçi əsgərlər və qarət hücumçuları arasına elə bir çaxnaşma düşdü ki, yer sarsıldı. Bu, Allah xofu idi. </verse>
+        <verse osisID='1Sam.14.16'>Şaulun Binyamində olan Givea şəhərindəki gözətçiləri baxanda gördülər ki, Filişt qoşunu dağılıb ora-bura qaçır.</verse>
+        <verse osisID='1Sam.14.17'>Şaul yanında olan xalqa dedi: «İndi sayın, görün bizdən kim yoxdur». Saydıqları zaman Yonatanla silahdarı olmadı.</verse>
+        <verse osisID='1Sam.14.18'>Şaul Axiyaya dedi: «Allahın sandığını buraya gətirin». Çünki o vaxtlar Allahın sandığı İsraillilərin yanında idi. </verse>
+        <verse osisID='1Sam.14.19'>Şaul kahinə bunu deyərkən Filiştlilərin ordugahından gurultu getdikcə çoxalırdı və Şaul kahinə «Əl saxla!» dedi.</verse>
+        <verse osisID='1Sam.14.20'>Şaul və yanında olan bütün xalq yığılıb döyüş meydanına getdilər. Budur, Filiştlilərdən hər bir kəs qılıncını öz ətrafındakı qonşusuna qarşı çıxartdı və çox böyük çaşqınlıq yarandı. </verse>
+        <verse osisID='1Sam.14.21'>Əvvəlcədən Filiştlilər tərəfinə keçən İbranilər Filiştlilərlə bərabər ordugaha gəlmişdilər. Onlar da Şaulun və Yonatanın yanında olan İsraillilərlə birləşdilər.</verse>
+        <verse osisID='1Sam.14.22'>Efrayim dağlıq bölgəsində gizlənən bütün İsraillilər də Filiştlilərin qaçdığını eşitdikdə öz döyüş meydanından Filiştliləri qovmağa başladılar.</verse>
+        <verse osisID='1Sam.14.23'>Beləcə o gün Rəbb İsrailə qələbə qazandırdı və döyüş Bet-Avendən o tərəfə keçdi. </verse>
+        <verse osisID='1Sam.14.24'>İsraillilər o gün çox yorulmuşdu. Çünki Şaul «Axşama qədər, Şaul düşmənlərindən qisas alana qədər kim çörək yesə, lənətə gəlsin!» deyərək onlara and içdirmişdi. Xalqdan heç kim dilinə heç nə vurmadı.</verse>
+        <verse osisID='1Sam.14.25'>Bütün xalq meşəyə getdi və torpaq üzərində olan bal şanısına rast gəldi.</verse>
+        <verse osisID='1Sam.14.26'>Xalq meşədə bal şanısına rast gələndə şanıdan bal süzülürdü, lakin heç kəs əlini ağzına aparmırdı, çünki xalq anddan qorxurdu.</verse>
+        <verse osisID='1Sam.14.27'>Lakin Yonatan atasının xalqa and içdirdiyini eşitməmişdi. O, əlindəki dəyənəyi uzadıb ucunu şanı balına batıraraq əlini ağzına apardı və gözlərinə işıq gəldi. </verse>
+        <verse osisID='1Sam.14.28'>Camaat arasından bir nəfər dedi: «“Bu gün kim çörək yesə, lənətə gəlsin!” deyə atan xalqa möhkəm and içdirmiş, buna görə də xalq taqətdən düşmüşdü».</verse>
+        <verse osisID='1Sam.14.29'>Yonatan dedi: «Atam ölkəyə əzab verir. Rica edirəm, baxın bu baldan bir az daddım, gör necə gözlərim işıqlandı!</verse>
+        <verse osisID='1Sam.14.30'>Əgər bu gün düşmənlərdən ələ keçirilən yeməkləri xalq doyunca yemiş olsaydı, gör nələr olardı? O zaman Filiştlilər arasında daha böyük qırğın olmazdımı?» </verse>
+        <verse osisID='1Sam.14.31'>Həmin gün İsraillilər Mikmasdan Ayyalona qədər Filiştliləri məğlub etdilər. Xalq çox yorğun idi.</verse>
+        <verse osisID='1Sam.14.32'>Ona görə də düşmən malının üstünə düşüb qoyunları, öküzləri, buğaları yerindəcə kəsdilər və onları qanlı-qanlı yedilər.</verse>
+        <verse osisID='1Sam.14.33'>Bunu Şaula xəbər verdilər: «Bax xalq əti qanlı-qanlı yeyərək Rəbbə qarşı günah edir». Şaul dedi: «Xəyanət etmisiniz, indi isə yanıma böyük bir daş yuvarlayın».</verse>
+        <verse osisID='1Sam.14.34'>Şaul sözünə davam etdi: «Xalqın arasına gedib onlara deyin: “Hər kəs öküzünü, qoyununu yanıma gətirsin və burada kəsib yesin. Əti qanlı-qanlı yeyərək Rəbbə qarşı günah etməyin”». Bütün xalq o gecə öküzünü öz əli ilə oraya gətirib kəsdi.</verse>
+        <verse osisID='1Sam.14.35'>Şaul Rəbbə bir qurbangah düzəltdi. Bu onun Rəbb üçün qurduğu ilk qurbangah idi. </verse>
+        <verse osisID='1Sam.14.36'>Şaul dedi: «Filiştlilərin ardınca gecə ikən düşək ki, dan yeri sökülənə qədər onları talan edək və onlardan heç kimi sağ buraxmayaq». Ona dedilər: «Gözündə nə xoşdursa, onu da et». Kahin isə dedi: «Gəlin buraya – Allahın hüzuruna yaxınlaşaq».</verse>
+        <verse osisID='1Sam.14.37'>Şaul Allahdan soruşdu: «Mən Filiştlilərin ardınca düşümmü? Sən onları İsraillilərə təslim edəcəksənmi?» Lakin həmin gün Allah ona cavab vermədi.</verse>
+        <verse osisID='1Sam.14.38'>Şaul dedi: «Ey bütün xalq başçıları, buraya yaxınlaşın, bu gün hansı günah etdiyinizi öyrənin və görün.</verse>
+        <verse osisID='1Sam.14.39'>Çünki İsraili qurtaran, var olan Rəbbə and olsun, bu işdə oğlum Yonatan təqsirkar olsa belə, mütləq ölməlidir». Lakin xalq arasından ona cavab verən olmadı.</verse>
+        <verse osisID='1Sam.14.40'>Şaul bütün İsraillilərə dedi: «Siz bir tərəfdə, mən də oğlumla başqa bir tərəfdə duraq». Xalq Şaula dedi: «Gözündə nə xoşdursa, onu da et».</verse>
+        <verse osisID='1Sam.14.41'>Şaul İsrailin Allahı Rəbbə dedi: «Həqiqəti üzə çıxart!» Püşk Şaulla Yonatana düşdü. Xalq təmizə çıxdı.</verse>
+        <verse osisID='1Sam.14.42'>Şaul dedi: «Mənimlə oğlum Yonatan arasında da püşk atın». Püşk Yonatana düşdü. </verse>
+        <verse osisID='1Sam.14.43'>Şaul Yonatana dedi: «Nə etmisən, mənə bildir!» Yonatan ona dedi: «Ancaq əlimdə olan dəyənəyin ucu ilə bir az bal dadmışam, buna görə ölməliyəmmi?»</verse>
+        <verse osisID='1Sam.14.44'>Şaul dedi: «Yonatan, əgər mən səni öldürməsəm, Allah mənə beləsini və bundan betərini etsin! Sən mütləq ölməlisən».</verse>
+        <verse osisID='1Sam.14.45'>Xalq Şaula belə dedi: «İsraildə belə böyük qurtuluş zəfəri çalan Yonatanmı öləcək? Əsla! Var olan Rəbbə and olsun, onun başından bir tük belə, yerə düşməyəcək. Çünki bu gün o, Allahın köməyi ilə iş gördü». Beləliklə, xalq Yonatanı qurtardı və o ölmədi.</verse>
+        <verse osisID='1Sam.14.46'>Şaul daha Filiştliləri təqib etməyib geri qayıtdı və Filiştlilər öz yerlərinə qayıtdılar. </verse>
+        <verse osisID='1Sam.14.47'>Beləliklə, Şaul İsrail üzərində padşah olandan sonra ətrafdakı bütün düşmənlərinə – Moavlılara, Ammonlulara, Edomlulara, Sova padşahlarına və Filiştlilərə qarşı döyüşdü. Hansı tərəfə gedərdisə, onların başına bəla gətirirdi.</verse>
+        <verse osisID='1Sam.14.48'>O şücaət göstərərək Amaleqliləri məğlub etdi və İsraili talan edənlərin əlindən qurtardı. </verse>
+        <verse osisID='1Sam.14.49'>Şaulun oğulları Yonatan, İşvi və Malki-Şua idi. İki qızından böyüyünün adı Merav, kiçiyinin adı isə Mikal idi.</verse>
+        <verse osisID='1Sam.14.50'>Şaulun arvadının adı Aximaas qızı Axinoam idi. Ordu başçısı Şaulun əmisi Nerin oğlu Avner idi.</verse>
+        <verse osisID='1Sam.14.51'>Şaulun atası Qişlə Avnerin atası Ner Avielin oğulları idi. </verse>
+        <verse osisID='1Sam.14.52'>Şaul ömrü boyu Filiştlilərə qarşı şiddətli döyüşlərdə oldu və o, güclü yaxud da cəsur bir adam görən zaman öz yanına götürürdü.  </verse>
+      </chapter>
+      <chapter osisID='1Sam.15'>
+        <verse osisID='1Sam.15.1'>
+            Şamuel Şaula dedi: «Rəbb məni göndərdi ki, Öz xalqı İsrail üzərində padşah olaraq səni məsh edim. İndi isə Rəbbin sözünü dinlə,</verse>
+        <verse osisID='1Sam.15.2'>Ordular Rəbbi belə deyir: “İsraillilər Misirdən çıxan zaman yolda Amaleqlilər onlara qarşı müqavimət göstərdilər. Ona görə də onları cəzalandıracağam.</verse>
+        <verse osisID='1Sam.15.3'>İndi get, Amaleqliləri qır, hər şeylərini tamamilə darmadağın et və onlara heyfin gəlməsin. Kişidən qadınadək, yeniyetmədən südəmər körpəyədək, öküzdən qoyunadək, dəvədən eşşəyədək hamısını qır”». </verse>
+        <verse osisID='1Sam.15.4'>Şaul xalqı çağırdı və onları Telaimdə saydı: iki yüz min piyada əsgərlə bərabər Yəhudadan on min nəfər var idi.</verse>
+        <verse osisID='1Sam.15.5'>Şaul Amaleqlilərin şəhərinə gəlib vadidə pusqu qurdu.</verse>
+        <verse osisID='1Sam.15.6'>O, Qenlilərə dedi: «Gedib Amaleqlilərdən ayrılın ki, sizi də onlarla bərabər qırmayım. Çünki İsrail övladları Misirdən çıxan zaman siz onlara xeyirxahlıq etdiniz». Qenlilər Amaleqlilərdən ayrıldılar. </verse>
+        <verse osisID='1Sam.15.7'>Şaul Xaviladan Misirin şərqindəki Şura çatana qədər Amaleqliləri qırdı.</verse>
+        <verse osisID='1Sam.15.8'>Amaleq padşahı Aqaqı sağ tutdu, bütün xalqı isə tamamilə qılıncdan keçirdi.</verse>
+        <verse osisID='1Sam.15.9'>Amma Şaul xalqı ilə birlikdə Aqaqa və Amaleqlilərin ən yaxşı qoyunlarına, öküzlərinə, kökəldilmiş heyvanlarına, quzularına və yaxşı şeylərin hamısına heyfi gəlib tamamilə məhv etmək istəmədi, bütün gərəksiz və yararsız şeyləri isə tamamilə yox etdi. </verse>
+        <verse osisID='1Sam.15.10'>Bundan sonra Rəbbin sözü Şamuelə nazil oldu:</verse>
+        <verse osisID='1Sam.15.11'>«Şaulu padşah etdiyimə peşman oldum. Çünki o dönüb Mənim ardımca getməyərək sözlərimi yerinə yetirməyib». Şamuel qəzəbləndi və bütün gecəni Rəbbə fəryad etdi.</verse>
+        <verse osisID='1Sam.15.12'>O, Şaulla səhər görüşmək üçün erkən durdu, amma ona belə xəbər verdilər: «Şaul Karmelə getdi və özünə abidə qoyandan sonra geri qayıdıb irəlidəki Qilqala endi». </verse>
+        <verse osisID='1Sam.15.13'>Şamuel Qilqala, Şaulun yanına gəldi. Şaul ona dedi: «Qoy Rəbb sənə xeyir-dua versin, mən Rəbbin sözünə əməl etdim».</verse>
+        <verse osisID='1Sam.15.14'>Şamuel isə dedi: «Elə isə qulaqlarıma gələn bu qoyun mələşməsi və eşitdiyim bu öküz böyürtüsü nədir?»</verse>
+        <verse osisID='1Sam.15.15'>Şaul dedi: «Onları Amaleqlilərdən gətiriblər. Çünki xalq sənin Allahın Rəbbə qurban etmək üçün qoyunlarla öküzlərin ən yaxşılarını saxlayıb, qalanlarını isə tamamilə yox etdi».</verse>
+        <verse osisID='1Sam.15.16'>Şamuel Şaula dedi: «Dayan, bu gecə Rəbbin mənə söylədiklərini sənə deyəcəyəm». Şaul dedi: «Danış». </verse>
+        <verse osisID='1Sam.15.17'>Şamuel dedi: «Sən öz gözündə kiçik olduğun halda İsrail qəbilələrinin başçısı olmadınmı? Rəbb səni İsrail üzərinə padşah olaraq məsh etməyibmi?</verse>
+        <verse osisID='1Sam.15.18'>Rəbb səni yürüşə göndərib dedi: “Günahkarları – Amaleqliləri tamamilə məhv et və qırıb qurtarana qədər onlarla vuruş”.</verse>
+        <verse osisID='1Sam.15.19'>Bəs nə üçün Rəbbin sözünə itaət etmədin, qarətçilik edib talana girişdin və Rəbbin gözündə pis sayılan iş gördün?»</verse>
+        <verse osisID='1Sam.15.20'>Şaul Şamuelə dedi: «Mən Rəbbin sözünə itaət etdim. Rəbbin məni göndərdiyi yürüşə getdim. Amaleq padşahı Aqaqı bura gətirdim, Amaleqliləri isə tamamilə məhv etdim.</verse>
+        <verse osisID='1Sam.15.21'>Lakin xalq talan malından qoyunları və öküzləri, məhv edilməyə həsr olunanlardan ən yaxşısını götürdü ki, Qilqalda Allahın Rəbbə qurban versin».</verse>
+        <verse osisID='1Sam.15.22'>Şamuel isə dedi:  «Rəbb Öz sözünə itaət edilməsindən xoşu gəldiyi qədərYandırma qurbanı və başqa qurbanlardan xoşu gələrmi?Bax itaət etmək qurbandan,Qulaq asmaq qoçların iç piyindən daha yaxşıdır.</verse>
+        <verse osisID='1Sam.15.23'>Çünki üsyankarlıq falçılığa bərabər günahdır,İnadkarlıq isə özbaşınalıq və bütpərəstliyə bərabərdir.İndi ki sən Rəbbin sözünü rədd etdin,O da səni padşahlıqdan rədd etdi». </verse>
+        <verse osisID='1Sam.15.24'>Şaul Şamuelə dedi: «Günah etdim, çünki Rəbbin əmrini və sənin sözlərini pozdum və xalqdan qorxub onların sözünə qulaq asdım.</verse>
+        <verse osisID='1Sam.15.25'>Rica edirəm, günahımı bağışla və indi mənimlə bərabər geri qayıt ki, Rəbbə səcdə qılım».</verse>
+        <verse osisID='1Sam.15.26'>Şamuel Şaula dedi: «Mən səninlə geri qayıtmayacağam, çünki sən Rəbbin sözünü rədd etdin. Ona görə Rəbb İsraildə padşah olmayasan deyə səni rədd etdi». </verse>
+        <verse osisID='1Sam.15.27'>Şamuel geri qayıtmaq üçün dönən zaman Şaul onun cübbəsinin ətəyindən yapışanda ətək qopdu.</verse>
+        <verse osisID='1Sam.15.28'>Şamuel ona dedi: «Bu gün Rəbb də səndən İsrail padşahlığını bu cür qoparıb səndən də yaxşı olan yaxınına verdi.</verse>
+        <verse osisID='1Sam.15.29'>İsrailin İzzətlisi yalan söyləməz və fikrini dəyişməz. Axı insan deyil ki, fikrini dəyişsin».</verse>
+        <verse osisID='1Sam.15.30'>Şaul dedi: «Günaha batdım. Rica edirəm, indi xalqımın ağsaqqalları və İsrail qarşısında mənə hörmət et və mənimlə birlikdə geri qayıt ki, Allahın Rəbbə səcdə qılım».</verse>
+        <verse osisID='1Sam.15.31'>Şamuel Şaulun arxasınca geri qayıtdı və Şaul Rəbbə səcdə qıldı. </verse>
+        <verse osisID='1Sam.15.32'>Şamuel dedi: «Amaleq padşahı Aqaqı buraya – mənim yanıma gətirin». Aqaq isə onun yanına tərəddüd içində gəldi. Aqaq öz-özünə deyirdi: «Görəsən acı ölüm məni mütləq haqlayıbmı?»</verse>
+        <verse osisID='1Sam.15.33'>Şamuel dedi: «Sənin qılıncın qadınları necə övladsız qoyurdusa, sənin anan da qadınlar arasında beləcə övladsız qalacaq». Şamuel Qilqalda – Rəbbin önündə Aqaqı doğradı. </verse>
+        <verse osisID='1Sam.15.34'>Sonra Şamuel Ramaya getdi, Şaul isə Giveadakı evinə qalxdı.</verse>
+        <verse osisID='1Sam.15.35'>Şamuel ölənə qədər daha Şaulu görmədi, çünki Şaulun dərdini çəkirdi. Rəbb Şaulu İsrailin padşahı etdiyinə peşman olmuşdu.  </verse>
+      </chapter>
+      <chapter osisID='1Sam.16'>
+        <verse osisID='1Sam.16.1'>
+          Rəbb Şamuelə dedi: «İsrail üzərində padşah olmasın deyə Şaulu rədd etdiyim halda sən nə vaxta qədər onun dərdini çəkəcəksən? Yağ buynuzunu yağla doldur və get. Səni Bet-Lexemli Yesseyin yanına göndərirəm. Çünki onun oğulları arasında Özüm üçün padşah təyin etmişəm».</verse>
+        <verse osisID='1Sam.16.2'>Şamuel dedi: «Necə gedim? Axı Şaul eşitsə, məni öldürər». Rəbb dedi: «Özünlə bir düyə götürüb “Rəbbə qurban kəsmək üçün gəlmişəm” de.</verse>
+        <verse osisID='1Sam.16.3'>Yesseyi də qurban mərasiminə dəvət et və sonra nə edəcəyini sənə bildirəcəyəm. Sənə deyəcəyim adamı Mənim üçün məsh edəcəksən».</verse>
+        <verse osisID='1Sam.16.4'>Şamuel Rəbbin söylədiyi kimi Bet-Lexemə getdi. Şəhərin ağsaqqalları onu həyəcanla qarşıladılar və dedilər: «Bu gəlişin xeyirdirmi?»</verse>
+        <verse osisID='1Sam.16.5'>O dedi: «Bəli, xeyirdir. Rəbbə qurban kəsmək üçün gəlmişəm. Özünüzü təqdis edin və mənimlə bərabər qurban mərasiminə gəlin». Şamuel Yesseylə oğullarını da təqdis edərək onları da qurban mərasiminə dəvət etdi. </verse>
+        <verse osisID='1Sam.16.6'>Onlar gələrkən Şamuel Eliava baxıb dedi: «Doğrudan da, Rəbbin məsh etdiyi Rəbbin qarşısındadır!»</verse>
+        <verse osisID='1Sam.16.7'>Lakin Rəbb Şamuelə belə dedi: «Onun görünüşünə və uca boyuna baxma, Mən onu rədd etmişəm. Ona görə ki Rəbb insanın gördüyü kimi görməz, çünki insan zahirə, Rəbb isə ürəyə baxar».</verse>
+        <verse osisID='1Sam.16.8'>O zaman Yessey Avinadavı çağırdı və onu Şamuelin qarşısından keçirdi. Şamuel dedi: «Rəbb bunu da seçmədi».</verse>
+        <verse osisID='1Sam.16.9'>Yessey Şammanı gətirdi və Şamuel dedi: «Rəbb bunu da seçmədi».</verse>
+        <verse osisID='1Sam.16.10'>Yessey isə oğlanlarının yeddisini Şamuelin qarşısından keçirdi. Şamuel Yesseyə dedi: «Rəbb bunları seçmədi».</verse>
+        <verse osisID='1Sam.16.11'>Sonra Yesseydən soruşdu: «Oğlanlarının hamısı budur?» Yessey cavab verdi: «Lap kiçiyi də var, odur, qoyun otarır». Şamuel Yesseyə dedi: «Bir nəfər göndər, qoy o da buraya gəlsin. Çünki o buraya gəlməsə, biz süfrəyə oturmayacağıq».</verse>
+        <verse osisID='1Sam.16.12'>Yessey adam göndərib onu içəri gətirtdi. Oğlan alyanaq, gözləri gözəl, üzü göyçək idi. Rəbb Şamuelə dedi: «Dur, onu məsh et, çünki seçilmiş budur».</verse>
+        <verse osisID='1Sam.16.13'>Şamuel yağ buynuzunu götürüb qardaşları arasında onu məsh etdi və o gündən başlayaraq Davudun üzərinə Rəbbin Ruhu qüvvə ilə endi. Sonra Şamuel qalxıb Ramaya getdi. </verse>
+        <verse osisID='1Sam.16.14'>Rəbbin Ruhu Şauldan ayrılandan sonra Rəbbin izni ilə şər bir ruh ona əzab verirdi.</verse>
+        <verse osisID='1Sam.16.15'>Şaulun əyanları ona belə dedilər: «Budur, indi Allahın izni ilə şər bir ruh sənə əziyyət verir.</verse>
+        <verse osisID='1Sam.16.16'>Ey ağamız, qarşında olan qullarına əmr et ki, yaxşı çəng çalan bir adam axtarsınlar. Allahın izni ilə şər ruh sənin üstünə gələn zaman o, lira çalar, sən də ruhlanarsan».</verse>
+        <verse osisID='1Sam.16.17'>Şaul əyanlarına dedi: «Elə isə mənim üçün yaxşı çəng çalan bir adam tapıb yanıma gətirin».</verse>
+        <verse osisID='1Sam.16.18'>Gənc əyanlardan biri cavab verdi: «Mən görmüşəm ki, Bet-Lexemli Yesseyin oğlu yaxşı çəng çalır. O, igid, cəsur döyüşçü, müdrikliklə danışan, yaraşıqlı bir oğlandır və Rəbb onunladır».</verse>
+        <verse osisID='1Sam.16.19'>Şaul Yesseyin yanına qasidlər göndərib dedi: «Qoyunotaran oğlun Davudu mənim yanıma göndər».</verse>
+        <verse osisID='1Sam.16.20'>Yessey bir eşşəyə çörək, bir tuluq şərab, bir oğlaq yüklədi və oğlu Davudun əli ilə Şaula göndərdi.</verse>
+        <verse osisID='1Sam.16.21'>Davud Şaulun yanına gəldi və onun qulluğunda durdu. Davud Şaulun çox xoşuna gəldi və onu öz silahdarı etdi. </verse>
+        <verse osisID='1Sam.16.22'>Sonra Şaul Yesseyin yanına adam göndərib dedi: «Rica edirəm, qoy Davud yanımda qalsın, çünki o, gözümdə lütf tapıb».</verse>
+        <verse osisID='1Sam.16.23'>Hər dəfə Allahın izni ilə Şaula şər ruh gələn zaman Davud lirasını götürüb çalar, Şaul sakitləşər, yaxşı olar və şər ruh ondan ayrılardı.  </verse>
+      </chapter>
+      <chapter osisID='1Sam.17'>
+        <verse osisID='1Sam.17.1'>
+          Filiştlilər müharibə üçün ordularını toplayıb Yəhudaya mənsub Soko şəhərində cəmləşdilər. Soko ilə Azeqa şəhəri arasında olan Efes-Dammimdə ordugah qurdular.</verse>
+        <verse osisID='1Sam.17.2'>Şaulla İsraillilər toplaşıb Ela vadisində ordugah qurdular və Filiştlilərə qarşı döyüş üçün düzüldülər. </verse>
+        <verse osisID='1Sam.17.3'>Filiştlilər bir təpənin üstündə, İsraillilər isə o biri təpədə dayanmışdılar, aralarında vadi var idi.</verse>
+        <verse osisID='1Sam.17.4'>Qat şəhərindən olan Qolyat adlı bir cəngavər Filiştlilərin ordugahından irəli çıxdı. Onun boyu altı qulac bir qarış  idi.</verse>
+        <verse osisID='1Sam.17.5'>Başında tunc dəbilqəsi vardı, əyninə beş min şekel ağırlığında tuncdan pullu zireh geymişdi.</verse>
+        <verse osisID='1Sam.17.6'>Baldırlarına tunc zireh taxmışdı, kürəyində isə tunc mizraq vardı.</verse>
+        <verse osisID='1Sam.17.7'>Nizəsinin sapı toxucu dəzgahının əriş ağacı boyda olub dəmir ucu altı yüz şekel ağırlığında idi. Qalxan daşıyan silahdarı isə onun qabağında gedirdi. </verse>
+        <verse osisID='1Sam.17.8'>Qolyat İsrail alaylarının qarşısında dayanaraq qışqıra-qışqıra dedi: «Niyə döyüşə çıxıb düzülmüsünüz? Mən Filiştli, siz də Şaulun qulları deyilsinizmi? Aranızdan bir kişi tapın, qoy yanıma gəlsin.</verse>
+        <verse osisID='1Sam.17.9'>Əgər mənimlə vuruşanda o məni öldürərsə, onda biz sizə qul olarıq, yox əgər mən onu vurub öldürsəm, onda siz bizə qul olub qulluq edəcəksiniz».</verse>
+        <verse osisID='1Sam.17.10'>Sonra Filiştli sözünü belə davam etdirdi: «Bu gün mən İsrail alaylarına meydan oxuyuram. Mənim qarşıma təkbətək vuruşmaq üçün bir kişi çıxarın!»</verse>
+        <verse osisID='1Sam.17.11'>Filiştlinin bu sözlərini eşidən Şaul və bütün İsraillilər vahiməyə düşüb çox qorxdu. </verse>
+        <verse osisID='1Sam.17.12'>Davud Yəhudanın Bet-Lexem şəhərindən olan Yessey adlı bir Efratlının oğlu idi. Yesseyin səkkiz oğlu var idi. Şaulun dövründə Yessey qocalıb yaşa dolmuşdu.</verse>
+        <verse osisID='1Sam.17.13'>Onun üç böyük oğlu Şaulun ardınca döyüşə getmişdi. Döyüşə gedən üç oğlunun adı belə idi: birincisi Eliav, ikincisi Avinadav və üçüncüsü Şamma.</verse>
+        <verse osisID='1Sam.17.14'>Davud Yesseyin ən kiçik oğlu idi. Üç böyük oğlu isə Şaulun ardınca gedirdi.</verse>
+        <verse osisID='1Sam.17.15'>Davud da atasının sürüsünü otarmaq üçün Şaulun yanından Bet-Lexemə gedər və geri qayıdardı.</verse>
+        <verse osisID='1Sam.17.16'>Filiştli Qolyat qırx gün səhər-axşam İsraillilərə meydan oxudu. </verse>
+        <verse osisID='1Sam.17.17'>Bir gün Yessey oğlu Davuda dedi: «İndi qardaşların üçün bu bir efa qovurğa və on kömbə çörəyi götür, ordugaha – qardaşlarının yanına tələs.</verse>
+        <verse osisID='1Sam.17.18'>Bu on parça pendiri də minbaşı üçün götür, ondan qardaşlarının hal-əhvalını soruş və mənə onlardan bir xəbər gətir».</verse>
+        <verse osisID='1Sam.17.19'>Davudun qardaşları Şaul və bütün İsraillilərlə birgə Ela vadisində Filiştlilərlə döyüşdə idi. </verse>
+        <verse osisID='1Sam.17.20'>Davud səhər tezdən durub qoyunlarını çobana tapşıraraq Yesseyin buyurduğu kimi ərzaqları götürüb getdi. O, ordugaha gələn zaman ordu döyüş meydanına çıxır və nərə çəkərək döyüşə düzülürdü.</verse>
+        <verse osisID='1Sam.17.21'>İsraillilərlə Filiştlilər döyüşmək üçün üz-üzə dayandılar.</verse>
+        <verse osisID='1Sam.17.22'>Davud gətirdiyi şeyləri tədarük keşikçisinə verdi, özü isə cəbhəyə qaçdı və qardaşlarının yanına gəlib onları salamladı.</verse>
+        <verse osisID='1Sam.17.23'>Davud onlarla söhbət edərkən Filiştlilərin Qat şəhərindən olan Qolyat adlı cəngavər öz alaylarının arasından irəli çıxıb yenə əvvəlki kimi sözlər söylədi. Davud bunu eşitdi. </verse>
+        <verse osisID='1Sam.17.24'>Bütün İsraillilər bu adamı görəndə bərk qorxdular və onun qarşısından qaçdılar.</verse>
+        <verse osisID='1Sam.17.25'>İsraillilər dedilər: «Qabağa çıxan bu adamı görürsünüzmü? Doğrudan da, o, İsrailə meydan oxumağa çıxıb. Kim onu öldürsə, padşah onu var-dövlətə çatdıracaq, qızını ona verəcək və atasının ailəsini İsraildəki vergidən azad edəcək».</verse>
+        <verse osisID='1Sam.17.26'>Davud yanındakı adamlara dedi: «Bu Filiştlini öldürüb İsraili bu xəcalətdən qurtaran adama nə ediləcək? Axı bu sünnətsiz Filiştli kimdir ki var olan Allahın alaylarına meydan oxuyur?»</verse>
+        <verse osisID='1Sam.17.27'>Xalq onu öldürən adama nə ediləcəyini deyərək eyni sözü təkrar etdi. </verse>
+        <verse osisID='1Sam.17.28'>Davud adamlarla danışarkən böyük qardaşı Eliav onun səsini eşitdi və qəzəbdən alovlanaraq dedi: «Sən niyə aşağı enmisən? Çöldəki bir neçə qoyunumuzu kimə tapşırmısan? Bilirəm, sən lovğalığından və ürəyinin pis niyyətindən ötrü buraya döyüşə tamaşa etmək üçün gəlmisən».</verse>
+        <verse osisID='1Sam.17.29'>Davud dedi: «Axı indi mən nə etmişəm? Yəni danışa da bilmərəm?»</verse>
+        <verse osisID='1Sam.17.30'>Davud oradan qayıdıb başqasından soruşdu və xalq ona yenə də əvvəlki kimi cavab verib eyni sözləri dedi. </verse>
+        <verse osisID='1Sam.17.31'>Davudun bu sözlərini eşidənlər bunu Şaula çatdırdılar. Şaul onu yanına çağırtdırdı.</verse>
+        <verse osisID='1Sam.17.32'>Davud Şaula dedi: «Bu adamdan ötrü heç kim ürəyini üzməsin. Sənin qulun gedib o Filiştli ilə vuruşacaq».</verse>
+        <verse osisID='1Sam.17.33'>Şaul Davuda dedi: «Bu Filiştli ilə vuruşmağa hünərin çatmaz, çünki sən hələ uşaqsan, o isə cavanlığından döyüşçüdür».</verse>
+        <verse osisID='1Sam.17.34'>Davud Şaula dedi: «Sənin qulun atasının qoyunlarını otaranda aslan yaxud da ayı gəlib sürüdən bir quzu götürəndə</verse>
+        <verse osisID='1Sam.17.35'>mən arxadan çıxıb onu vurardım və ağzından quzunu qurtarardım. Əgər üstümə atılardısa, mən boğazının tüklərindən tutaraq çırpıb öldürərdim.</verse>
+        <verse osisID='1Sam.17.36'>Bu qulun həm aslan, həm də ayı öldürüb, bu sünnətsiz Filiştli də onlardan biri kimi olacaq, çünki o, var olan Allahın alaylarına meydan oxumuşdur».</verse>
+        <verse osisID='1Sam.17.37'>Davud sözünə davam etdi: «Məni aslan pəncəsindən, ayı pəncəsindən qurtaran Rəbb bu Filiştlinin də əlindən qurtaracaq». Şaul Davuda dedi: «Get, Rəbb sənə yar olsun!» </verse>
+        <verse osisID='1Sam.17.38'>Şaul öz silahlarını Davuda bağladı və başına tunc dəbilqə qoyub əyninə zireh geyindirdi.</verse>
+        <verse osisID='1Sam.17.39'>Davud bu zirehin üstündən qılınc taxıb gəzməyə çalışdı, çünki ona alışmamışdı. Sonra Davud Şaula dedi: «Bunlara alışmadığım üçün gəzə bilmirəm». Davud onları əynindən çıxartdı.</verse>
+        <verse osisID='1Sam.17.40'>Sonra əlinə dəyənəyini götürüb çaydan özünə beş hamar daş seçdi və onları üstündəki çoban torbasına – dağarcığına qoyub əlində sapand Filiştliyə yaxınlaşdı. </verse>
+        <verse osisID='1Sam.17.41'>Filiştli irəliləyərək Davuda yaxınlaşırdı. Qalxan daşıyan nökəri isə onun qabağında idi.</verse>
+        <verse osisID='1Sam.17.42'>O nəzər salıb Davudu görəndə ona kinayə ilə baxdı. Çünki Davud gənc, alyanaq, üzügöyçək idi.</verse>
+        <verse osisID='1Sam.17.43'>Filiştli Davuda dedi: «Məgər mən itəm ki, üstümə dəyənəklərlə gəlirsən». Filiştli öz allahları ilə Davudu lənətlədi və dedi:</verse>
+        <verse osisID='1Sam.17.44'>«Yanıma gəl, sənin ətini göydəki quşlara və çöldəki heyvanlara verim». </verse>
+        <verse osisID='1Sam.17.45'>Davud isə Filiştliyə dedi: «Sən mənim üstümə qılınc, nizə və mizraqla gəlirsən, lakin mən sənin üstünə söydüyün İsrail alaylarının Allahı Ordular Rəbbinin ismi ilə gəlirəm.</verse>
+        <verse osisID='1Sam.17.46'>Bu gün Rəbb səni mənə təslim edəcək və mən səni öldürəcəyəm. Başını bədənindən ayıracağam. Bu gün Filişt ordusunun leşlərini göydəki quşlara və yerdəki heyvanlara verəcəyəm. Bundan sonra bütün dünya biləcək ki, İsraildə Allah var.</verse>
+        <verse osisID='1Sam.17.47'>Bütün bu camaat biləcək ki, Rəbb qılıncla və nizə ilə xilas etməz, çünki bu döyüş Rəbbindir və O sizi bizə təslim edəcək». </verse>
+        <verse osisID='1Sam.17.48'>Davudun qabağına çıxmaq üçün Filiştli durub yaxınlaşanda Davud cəld onu qabaqlayıb Filişt alaylarına tərəf qaçdı.</verse>
+        <verse osisID='1Sam.17.49'>Davud əl atıb dağarcığından bir daş götürdü, sapandla fırladaraq Filiştlinin alnından vurdu. Daş onun alnına batdı və o, üzüstə yerə yıxıldı. </verse>
+        <verse osisID='1Sam.17.50'>Davud Filiştlini sapandla, daşla məğlub etdi və vurub yerə sərdi. Davudun əlində qılınc yox idi.</verse>
+        <verse osisID='1Sam.17.51'>O qaçıb bu Filiştlinin üstünə çıxdı. Filiştlinin qılıncını götürdü, qınından çəkib onu öldürdü və sonra başını kəsdi. Filiştlilər öz cəngavərinin öldürüldüyünü görəndə qaçdılar.</verse>
+        <verse osisID='1Sam.17.52'>İsraillilərlə Yəhudalılar isə qalxıb nərə çəkdilər və Filiştliləri Qatın girişinə və Eqronun darvazalarına çatana qədər qovdular. Filiştlilərdən ölənlər Şaarayim yolu boyu Qata və Eqrona qədər yerə sərilmişdilər.</verse>
+        <verse osisID='1Sam.17.53'>İsrail övladları Filiştliləri arxadan qovandan sonra qayıdıb onların ordugahını talan etdilər.</verse>
+        <verse osisID='1Sam.17.54'>Davud Qolyatın başını götürüb Yerusəlimə gətirdi, lakin silahını öz çadırına qoydu. </verse>
+        <verse osisID='1Sam.17.55'>Şaul Davudun Filiştliyə qarşı çıxdığını görən zaman ordu başçısı Avnerə «Avner, bu gənc kimin oğludur?» deyə soruşdu. Avner isə dedi: «Padşah sağ olsun, bilmirəm».</verse>
+        <verse osisID='1Sam.17.56'>Padşah dedi: «Öyrən gör, bu cavan kimin oğludur».</verse>
+        <verse osisID='1Sam.17.57'>Davud Qolyatı öldürüb qayıdandan sonra Avner onu götürüb Şaulun qarşısına gətirdi. Filiştlinin başı onun əlində idi.</verse>
+        <verse osisID='1Sam.17.58'>Şaul ona dedi: «Ey cavan, kimin oğlusan?» Davud cavab verdi: «Qulun Bet-Lexemli Yesseyin oğluyam».  </verse>
+      </chapter>
+      <chapter osisID='1Sam.18'>
+        <verse osisID='1Sam.18.1'>
+          Davud Şaulla danışığını qurtaran kimi Yonatanın qəlbi Davudun qəlbinə bağlandı və Yonatan onu öz canı kimi sevdi.</verse>
+        <verse osisID='1Sam.18.2'>Şaul o gündən sonra Davudu öz yanında saxlayıb bir daha atasının evinə qayıtmağa qoymadı.</verse>
+        <verse osisID='1Sam.18.3'>Yonatan isə Davudla əhd bağladı, çünki onu öz canı kimi sevirdi.</verse>
+        <verse osisID='1Sam.18.4'>Yonatan cübbəsini əynindən çıxarıb qılınc, ox-kaman və kəməri ilə birlikdə zirehini Davuda verdi. </verse>
+        <verse osisID='1Sam.18.5'>Şaul Davudu hansı işə göndərirdisə, o uğur qazanırdı. Ona görə də Şaul Davudu döyüşçülərinin başçısı etdi və bu da həm xalqın, həm də Şaulun əyanlarının gözünə xoş göründü. </verse>
+        <verse osisID='1Sam.18.6'>Davud Filiştli Qolyatı öldürüb qayıdanda əsgərlər geri gələrkən İsrailin bütün şəhərlərindən qadınlar dəflərlə, üçsimli alətlərlə şənlik mahnısı oxuyaraq və rəqs edərək padşah Şaulu qarşılamaq üçün çıxırdılar.</verse>
+        <verse osisID='1Sam.18.7'>Qadınlar rəqs edə-edə belə mahnı oxuyurdular:  «Şaul qırdı minləri,Davudsa on minləri». </verse>
+        <verse osisID='1Sam.18.8'>Şaul bundan çox qəzəbləndi, çünki bu söz onun gözündə pis göründü və dedi: «Davud üçün on minləri, mənim üçünsə ancaq minləri deyirlər. Təkcə padşahlıq qaldı, bundan başqa nə var ki, ona verilsin?»</verse>
+        <verse osisID='1Sam.18.9'>O gündən sonra Şaul Davuda çəp-çəp baxmağa başladı. </verse>
+        <verse osisID='1Sam.18.10'>Ertəsi gün Allahın izni ilə şər ruh Şaulun üstünə qüvvə ilə gəldi və o, evinin ortasında sayıqlamağa başladı. Davud isə hər gün etdiyi kimi yenə də əlində lira çalırdı. Şaulun nizəsi əlində olardı.</verse>
+        <verse osisID='1Sam.18.11'>Şaul «qoy Davudu bu nizə ilə divara yapışdırım» deyərək nizəni atdı. Lakin Davud onun qabağından iki dəfə kənara çəkildi.</verse>
+        <verse osisID='1Sam.18.12'>Şaul Davuddan qorxdu, çünki Rəbb Davudla idi və Şauldan ayrılmışdı.</verse>
+        <verse osisID='1Sam.18.13'>Ona görə də Şaul onu öz yanından uzaqlaşdırıb minbaşı etdi və Davud xalqı döyüşə aparıb-gətirməyə başladı.</verse>
+        <verse osisID='1Sam.18.14'>Davud bütün yürüşlərində uğur qazanırdı, çünki Rəbb onunla idi.</verse>
+        <verse osisID='1Sam.18.15'>Şaul Davudun böyük uğurlar qazandığını görüb çox qorxdu.</verse>
+        <verse osisID='1Sam.18.16'>Bütün İsrail və Yəhuda xalqı isə Davudu çox sevirdi, çünki onları döyüşlərə aparıb-gətirirdi. </verse>
+        <verse osisID='1Sam.18.17'>Şaul Davuda dedi: «Bax, budur böyük qızım Merav, onu sənə ərə verəcəyəm. Ancaq sən uğrumda cəsur ol və Rəbbin döyüşlərini apar». Çünki Şaul «qoy o mənim yox, Filiştlilərin əlində ölsün» deyə fikirləşdi.</verse>
+        <verse osisID='1Sam.18.18'>Davud Şaula dedi: «Axı mən kiməm ki? Ailəm kimdir, İsraildə atamın nəsli kimdir ki, padşaha kürəkən olum?»</verse>
+        <verse osisID='1Sam.18.19'>Şaulun qızı Merav isə Davuda veriləcəyi vaxt Mexolalı Adrielə ərə verildi. </verse>
+        <verse osisID='1Sam.18.20'>Şaulun o biri qızı Mikal Davuda vurulmuşdu. Bu xəbəri Şaula çatdırdılar və bu onun gözündə xoş göründü.</verse>
+        <verse osisID='1Sam.18.21'>Şaul «Davuda Mikalı verim ki, bu ona bir tələ olsun. Qoy Davud Filiştlilərin əli ilə öldürülsün» deyə fikirləşdi. Sonra Şaul Davuda dedi: «Bu gün mənə kürəkən olmaq üçün əlində ikinci fürsət var».</verse>
+        <verse osisID='1Sam.18.22'>Şaul əyanlarına əmr etdi ki, Davuda gizlincə belə desinlər: «Bax padşahın səndən xoşu gəlir və bütün əyanları da səni sevir; gəl indi padşaha sən kürəkən ol».</verse>
+        <verse osisID='1Sam.18.23'>Şaulun əyanları bu sözləri Davuda eşitdirəndə o belə dedi: «Kasıb və gərəksiz adam olan mən padşahamı kürəkən olum? Məgər bu sizin gözünüzdə kiçik işdirmi?»</verse>
+        <verse osisID='1Sam.18.24'>Şaulun əyanları «Davud belə söylədi» deyərək onun sözünü Şaula çatdırdılar.</verse>
+        <verse osisID='1Sam.18.25'>Şaul dedi: «Davuda deyərsiniz: “Padşah səndən başlıq pulu istəmir. Ancaq padşahın düşmənlərindən qisas almaq üçün yüz Filiştlinin sünnət ətini istəyir”». Bunu da Şaul Davudu Filiştlilərin əli ilə həlak etmək üçün quraşdırmışdı. </verse>
+        <verse osisID='1Sam.18.26'>Şaulun əyanları bu sözləri Davuda çatdırdılar və padşahın kürəkəni olmaq onun gözündə xoş göründü. Təyin olunan günlər hələ başa çatmamış</verse>
+        <verse osisID='1Sam.18.27'>Davud qalxıb adamları ilə getdi və Filiştlilərdən iki yüz kişini öldürdü. Padşahın kürəkəni olmaq üçün Davud onların sünnət ətini gətirdi və onları tam sayda padşaha verdilər. Şaul qızı Mikalı Davuda ərə verdi.</verse>
+        <verse osisID='1Sam.18.28'>Şaul Rəbbin Davudla olduğunu görüb başa düşdü. Şaulun qızı Mikal isə Davudu sevirdi.</verse>
+        <verse osisID='1Sam.18.29'>Bundan sonra Şaul Davuddan daha da qorxdu və ömrünün sonuna qədər ona düşmən oldu. </verse>
+        <verse osisID='1Sam.18.30'>Filiştlilərin başçıları döyüşə çıxırdılar. Onlar hər dəfə döyüşə çıxanda Davud Şaulun əyanlarının hamısından daha çox uğur qazanırdı. Buna görə də onun adı çox şöhrətlənmişdi.  </verse>
+      </chapter>
+      <chapter osisID='1Sam.19'>
+        <verse osisID='1Sam.19.1'>
+          Şaul oğlu Yonatana və bütün əyanlarına tapşırdı ki, Davudu öldürsünlər. Lakin Şaulun oğlu Yonatanın Davuddan çox xoşu gəlirdi.</verse>
+        <verse osisID='1Sam.19.2'>Yonatan Davuda xəbər verib dedi: «Atam Şaul səni öldürmək istəyir. İndi isə rica edirəm, səhərə qədər özünü qoru. Bir yer tap, gizlən.</verse>
+        <verse osisID='1Sam.19.3'>Mən isə çöldə gizləndiyin yerə çıxaraq atamın yanında dayanıb sənin haqqında onunla danışacağam. Əgər bir şey görsəm, gəlib sənə xəbər verərəm».</verse>
+        <verse osisID='1Sam.19.4'>Yonatan atası Şaula Davudu tərifləyib dedi: «Padşah qulu Davuda qarşı günah etməsin, çünki o sənə qarşı heç vaxt günah etməyib və onun işləri sənin üçün çox xeyirli olmuşdur.</verse>
+        <verse osisID='1Sam.19.5'>O, canını dişinə tutub Qolyatı öldürdü və Rəbb bütün İsrailə böyük qələbə qazandırdı. Bunu sən də görüb sevindin. Davudu boş yerə öldürməklə nə üçün nahaq qan töküb günah edirsən?»</verse>
+        <verse osisID='1Sam.19.6'>Şaul Yonatanın sözünü dinləyib «var olan Rəbb haqqı, onu öldürməyəcəyəm» deyə and içdi.</verse>
+        <verse osisID='1Sam.19.7'>Yonatan Davudu çağırdı və bütün bu sözləri ona xəbər verdi. Sonra o, Davudu Şaulun yanına gətirdi və Davud əvvəlki kimi Şaulun qulluğunda durdu. </verse>
+        <verse osisID='1Sam.19.8'>Yenidən müharibə başladı. Davud qalxıb Filiştlilərə qarşı vuruşdu, onları məğlubiyyətə uğratdı və Filiştlilər Davudun qabağından qaçdılar.</verse>
+        <verse osisID='1Sam.19.9'>Şaul əlində nizə evdə oturmuşdu, Rəbbin izni ilə şər ruh onun üzərinə endi. Davud isə əlində lira çalırdı.</verse>
+        <verse osisID='1Sam.19.10'>Şaul Davudu nizə ilə divara yapışdırmağa çalışdı, lakin Davud Şaulun qabağından qaçdı, nizə divara yapışdı. Davud o gecə qaçıb canını qurtardı. </verse>
+        <verse osisID='1Sam.19.11'>Şaul Davudun evinə adamlar göndərdi ki, onu güdüb səhər ikən öldürsünlər. Davudun arvadı Mikal bunu Davuda xəbər verib dedi: «Əgər bu gecə canını qurtarmasan, səhər ikən öldürüləcəksən».</verse>
+        <verse osisID='1Sam.19.12'>Sonra Mikal Davudu pəncərədən aşağı saldı və o qaçaraq qurtuldu.</verse>
+        <verse osisID='1Sam.19.13'>Mikal ev bütünü götürüb yatağa uzatdı və başına tüklü keçi dərisi keçirib üstünü paltarla örtdü.</verse>
+        <verse osisID='1Sam.19.14'>Şaulun Davudu yaxalamaq üçün göndərdiyi adamlar gələndə Mikal dedi ki, o xəstədir.</verse>
+        <verse osisID='1Sam.19.15'>Şaul Davudu görmək istəyirdi. Onun üçün başqa adamlar göndərib dedi: «Onu yatağının içindən çıxarıb yanıma gətirin ki, öldürüm».</verse>
+        <verse osisID='1Sam.19.16'>Bu adamlar içəri girib gördülər ki, yataqda başına tüklü keçi dərisi keçirilmiş büt uzanıb.</verse>
+        <verse osisID='1Sam.19.17'>Şaul Mikala dedi: «Niyə məni aldatdın? Düşmənimi buraxdın, o da qurtuldu». Mikal Şaula cavab verdi: «Davud mənə dedi ki, məni burax, gedim! Axı niyə səni öldürüm?» </verse>
+        <verse osisID='1Sam.19.18'>Davud qaçıb qurtuldu və Ramaya, Şamuelin yanına gəldi. Şaulun ona qarşı nə etdiyini təfsilatı ilə Şamuelə danışdı və onunla birlikdə gedib Nayot məhəlləsində qaldılar.</verse>
+        <verse osisID='1Sam.19.19'>«Budur, Davud Ramanın Nayot məhəlləsindədir» deyə Şaula xəbər verdilər.</verse>
+        <verse osisID='1Sam.19.20'>Şaul Davudu gətirmək üçün oraya adamlar göndərdi. Adamlar Şamuelin başçılığı altında peyğəmbərlər dəstəsinin peyğəmbərlik etdiyini gördülər. Onda bu adamların da üstünə Allahın Ruhu endi və onlar da peyğəmbərlik etməyə başladılar.</verse>
+        <verse osisID='1Sam.19.21'>Bunu Şaula xəbər verdilər, o başqa adamlar göndərdi və onlar da peyğəmbərlik etdilər. Şaul üçüncü dəfə yenə adamlar göndərdi, onlar da peyğəmbərlik etdilər.</verse>
+        <verse osisID='1Sam.19.22'>Axırda özü Ramaya getdi və Sekuda olan böyük quyunun yanına gəlib oradakılardan soruşdu: «Şamuellə Davud haradadırlar?» Bir nəfər dedi ki, budur, Ramadakı Nayotda.</verse>
+        <verse osisID='1Sam.19.23'>Şaul Ramadakı Nayota gedəndə onun da üstünə Allahın Ruhu endi və Ramadakı Nayota çatana qədər peyğəmbərlik edərək getdi.</verse>
+        <verse osisID='1Sam.19.24'>Sonra o, paltarını soyunub Şamuelin qabağında peyğəmbərlik etdi və gəlib bütün o günü və gecəni çılpaq yerə sərildi. Buna görə də «Məgər Şaul da peyğəmbərlərin sırasındadır?» deyirlər.  </verse>
+      </chapter>
+      <chapter osisID='1Sam.20'>
+        <verse osisID='1Sam.20.1'>
+          Davud Ramadakı Nayotdan qaçdı və gəlib Yonatana dedi: «Axı nə etmişəm? Təqsirim nədir? Atana qarşı nə günahım var ki, canımın qəsdinə durub?»</verse>
+        <verse osisID='1Sam.20.2'>Yonatan ona cavab verdi: «Əsla, sən ölməyəcəksən. Bax böyük olsun, kiçik olsun, atam mənə deməmiş bir iş görməz. Axı niyə atam məndən bu işi gizlətsin? Belə şey ola bilməz!»</verse>
+        <verse osisID='1Sam.20.3'>Davud yenə and içib dedi: «Atan əmindir ki, mən sənin gözündə lütf tapmışam. Ona görə deyir ki, qoy Yonatan bunu bilməsin, yoxsa kədərlənər. Lakin var olan Rəbbə və canına and olsun, mənimlə ölüm arasında, həqiqətən, ancaq bir addım var».</verse>
+        <verse osisID='1Sam.20.4'>Yonatan Davuda dedi: «Sənin üçün ürəyin nə istəsə, onu da edəcəyəm».</verse>
+        <verse osisID='1Sam.20.5'>Davud Yonatana dedi: «Sabah Təzə Ay mərasimidir və mütləq padşahla yeməyə oturmalıyam. Lakin sən mənə birisi gün axşama qədər izin ver, gedib çöldə gizlənim.</verse>
+        <verse osisID='1Sam.20.6'>Əgər atan məni axtararsa, o vaxt de ki, Davud öz şəhərinə – Bet-Lexemə dəymək üçün məndən izin istədi. Çünki orada bütün ailəsinin illik qurbanı vardır.</verse>
+        <verse osisID='1Sam.20.7'>Əgər “lap yaxşı” deyərsə, deməli sənin qulun salamatdır, yox, əgər qəzəblənərsə, onda o mənə pislik etmək niyyətindədir.</verse>
+        <verse osisID='1Sam.20.8'>Belə olarsa, bu quluna xeyirxahlıq et, çünki qulunu özünlə Rəbbin əhdinə saldın. Əgər mənim təqsirim varsa, sən özün məni öldür. Axı nə üçün məni atanın yanına aparmalısan?»</verse>
+        <verse osisID='1Sam.20.9'>Yonatan dedi: «Əsla, bu sənin başına gəlməz! Atamın sənə pislik etmək niyyətində olduğunu bilsəydim, sənə xəbər verməzdimmi?»</verse>
+        <verse osisID='1Sam.20.10'>Davud Yonatana dedi: «Atan sənə sərt cavab versə, bunu mənə kim bildirəcək?»</verse>
+        <verse osisID='1Sam.20.11'>Yonatan Davuda dedi: «Gəl çölə çıxaq». Hər ikisi çölə çıxdı. </verse>
+        <verse osisID='1Sam.20.12'>Sonra Yonatan Davuda dedi: «İsrailin Allahı Rəbbə and olsun, sabah yaxud o birisi gün bu vaxtlar mən atamdan fikrini öyrənərəm. Əgər, həqiqətən, Davuda qarşı fikri yaxşıdırsa, bu xəbəri sənə çatdıraram.</verse>
+        <verse osisID='1Sam.20.13'>Yox, əgər sənə pislik etmək atamın xoşuna gəlirsə və mən bunu sənə deməsəm, salamat gedəsən deyə səni yola salmasam, Rəbb Yonatana beləsini və bundan betərini etsin. Rəbb necə atamla oldusa, qoy səninlə də elə olsun.</verse>
+        <verse osisID='1Sam.20.14'>Əgər sağ qalaramsa, Rəbbin sədaqətini mənə göstərərsən. Yox, əgər ölsəm,</verse>
+        <verse osisID='1Sam.20.15'>bu sədaqəti Rəbb Davudun bütün düşmənlərini yer üzündən silən zaman da heç vaxt evimdən kəsməyəcəksən».</verse>
+        <verse osisID='1Sam.20.16'>Yonatan Davud nəsli ilə əhd bağlayıb dedi: «Qoy Rəbb Davudun düşmənlərini Özü cəzalandırsın!»</verse>
+        <verse osisID='1Sam.20.17'>Yonatan Davuda olan sevgisi naminə bir də ona and içdirdi, çünki onu öz canı kimi sevirdi. </verse>
+        <verse osisID='1Sam.20.18'>Yonatan dedi: «Sabah Təzə Ay mərasimidir, yerin boş olduğu üçün səni axtaracaqlar.</verse>
+        <verse osisID='1Sam.20.19'>Üç gün qalandan sonra tezdən bura enərsən və əvvəl gizləndiyin yerə gəlib Ezel  daşının yanında oturarsan.</verse>
+        <verse osisID='1Sam.20.20'>Mən hədəfə atan kimi daşın bir tərəfinə üç ox atacağam.</verse>
+        <verse osisID='1Sam.20.21'>Sonra “get oxları tap” deyərək bir uşaq göndərəcəyəm. Bax əgər uşağa “oxlar burada – sənin yanındadır, get onları oradan götür” desəm, yanıma gəl, çünki sənin üçün salamatlıqdır və var olan Rəbbə and olsun, heç bir şey yoxdur.</verse>
+        <verse osisID='1Sam.20.22'>Lakin əgər uşağa “oxlar səndən uzaqdadır” desəm, öz yolunla çıx get, çünki Rəbb səni uzağa göndərmişdir.</verse>
+        <verse osisID='1Sam.20.23'>Aramızda danışdığımız sözə gəlincə, bil ki, Rəbb əbədi olaraq səninlə mənim aramdadır». </verse>
+        <verse osisID='1Sam.20.24'>Davud çöldə gizləndi. Təzə Ay mərasimi başlayarkən padşah yeməyə oturdu.</verse>
+        <verse osisID='1Sam.20.25'>Həmişəki kimi padşah öz yerində – divarın yanında oturdu. Yonatan ayağa qalxdı və Avner Şaulun yanında oturdu. Davudun yeri isə boş idi.</verse>
+        <verse osisID='1Sam.20.26'>Şaul o gün bir söz demədi, çünki elə düşünürdü ki, Davudun başına nə isə gəlib. Yəqin ki natəmizdir.</verse>
+        <verse osisID='1Sam.20.27'>Ertəsi gün – Təzə Ay mərasiminin ikinci günü Davudun yeri yenə də boş idi və Şaul oğlu Yonatana dedi: «Nə üçün Yesseyin oğlu nə dünən, nə də bu gün yeməyə gəlməyib?»</verse>
+        <verse osisID='1Sam.20.28'>Yonatan Şaula belə cavab verdi: «Davud Bet-Lexemə getmək üçün təkidlə məndən izin istədi.</verse>
+        <verse osisID='1Sam.20.29'>Mənə dedi: “Rica edirəm, izin ver gedim, çünki şəhərdə ailəmizin qurbanı var. Orada olmağımı böyük qardaşım mənə əmr etmişdi. Əgər indi gözündə lütf tapmışamsa, rica edirəm, məni burax, gedim qardaşlarımla görüşüm”. Buna görə də padşahın süfrəsinə gələ bilməyib». </verse>
+        <verse osisID='1Sam.20.30'>Yonatana qarşı Şaulun qəzəbi alovlandı və ona belə dedi: «Ey xəyanətkar və dönük qadının oğlu, öz rüsvayçılığına görə, ananın biabırçılığına görə Yesseyin oğlunu özünə dost seçdiyini guya mən bilmirəm?</verse>
+        <verse osisID='1Sam.20.31'>Nə qədər ki Yesseyin bu oğlu yer üzündə yaşayır, nə sən rahat olacaqsan, nə də padşahlığın. İndi isə adam göndər, qoy onu yanıma gətirsin, çünki o mütləq ölməlidir».</verse>
+        <verse osisID='1Sam.20.32'>Yonatan atası Şaula cavab verdi: «Axı nə üçün ölməlidir? O nə edib ki?»</verse>
+        <verse osisID='1Sam.20.33'>Şaul Yonatanı öldürmək üçün nizə atdı. Onda Yonatan atasının Davudu öldürmək niyyətində olduğunu başa düşdü.</verse>
+        <verse osisID='1Sam.20.34'>Yonatan qızğın qəzəblə süfrə üstündən qalxdı. Təzə ayın ikinci günündə yemək yemədi, çünki atası Davuda namərdlik etdiyi üçün qanı qaralmışdı. </verse>
+        <verse osisID='1Sam.20.35'>Səhəri gün erkən Yonatan Davudla təyin etdiyi vaxt çölə getdi. Yanında kiçik bir uşaq var idi.</verse>
+        <verse osisID='1Sam.20.36'>O, uşağa dedi: «Qaç, indi atacağım oxları tap». Uşaq qaçarkən Yonatan onun başı üzərindən bir ox atdı.</verse>
+        <verse osisID='1Sam.20.37'>Uşaq Yonatanın atdığı oxun yanına çatanda Yonatan uşağı arxadan çağırıb dedi: «Ox səndən uzaqda deyilmi?»</verse>
+        <verse osisID='1Sam.20.38'>Yonatan uşağı yenə arxadan çağırıb «Tez ol, qaç, dayanma!» dedi. Yonatanın nökəri oxu götürüb ağasının yanına gəldi.</verse>
+        <verse osisID='1Sam.20.39'>Lakin uşağın heç nədən xəbəri yox idi. Bu işi ancaq Yonatanla Davud bilirdi.</verse>
+        <verse osisID='1Sam.20.40'>Yonatan silahlarını uşağa verib dedi: «Get, bunları şəhərə apar».</verse>
+        <verse osisID='1Sam.20.41'>Uşaq gedəndən sonra Davud daşın cənub tərəfindən çıxıb üzüstə yerə sərildi və üç dəfə onun qarşısında əyildi. Onlar öpüşüb ağlaşdılar, Davud daha çox ağladı.</verse>
+        <verse osisID='1Sam.20.42'>Yonatan Davuda dedi: «Sağ-salamat get, çünki “səninlə mənim aramda və sənin övladlarınla mənim övladlarım arasında əbədilik Rəbb olacaq” deyərək ikimiz də Rəbbin isminə and içmişik». Bundan sonra Davud qalxıb öz yolu ilə getdi, Yonatan isə şəhərə qayıtdı.  </verse>
+      </chapter>
+      <chapter osisID='1Sam.21'>
+        <verse osisID='1Sam.21.1'>
+            Davud Nov şəhərinə – kahin Aximelekin yanına gəldi. Aximelek qorxudan əsərək Davudu qarşılayıb dedi: «Niyə tənhasan, məgər yanında heç kim yoxdur?»</verse>
+        <verse osisID='1Sam.21.2'>Davud kahin Aximelekə dedi: «Padşah mənə iş buyurub dedi ki, səni nə üçün göndərdiyimi və sənə əmr etdiyim işi heç kim bilməsin. Ona görə də nökərləri müəyyən yerlərə təyin etmişəm.</verse>
+        <verse osisID='1Sam.21.3'>İndi yanında yeməyə nə var? Mənə beş kömbə çörək yaxud nə varsa, ver».</verse>
+        <verse osisID='1Sam.21.4'>Kahin Davuda dedi: «Yanımızda adi çörək yoxdur, ancaq gənclər qadınlarla yaxınlıq etməyiblərsə, müqəddəs çörək var».</verse>
+        <verse osisID='1Sam.21.5'>Davud kahinə belə cavab verdi: «Adətə görə mənim adamlarım adi səfərə çıxanda belə, bədənlərini təmiz saxlayır və qadınlarla yaxınlıq etmirlər. O ki qaldı bugünkü səfərə, sözsüz ki hamı pak olmalıdır».</verse>
+        <verse osisID='1Sam.21.6'>Kahin ona müqəddəs çörək verdi, çünki Rəbbə təqdim edilən çörəklərdən başqa, çörək yox idi. O çörəklər Rəbbin önündən götürülmüşdü ki, yerinə isti çörəklər qoyulsun. </verse>
+        <verse osisID='1Sam.21.7'>O gün Şaulun əyanlarından bir nəfər orada idi. O, Rəbbin önündə olan dini mərasimə görə yubanmışdı. Bu, Şaulun baş çobanı Edomlu Doeq idi.</verse>
+        <verse osisID='1Sam.21.8'>Davud Aximelekə dedi: «Burada yanınızda bir nizə yaxud bir qılınc varmı? Çünki padşah mənə təcili iş buyurduğu üçün nə qılıncımı, nə də silahlarımı götürə bildim».</verse>
+        <verse osisID='1Sam.21.9'>Kahin dedi: «Ela vadisində öldürdüyün Filiştli Qolyatın qılıncı bezə bükülü olaraq orada – efodun arxasındadır. Əgər onu istəyirsənsə, götür, çünki burada ondan başqası yoxdur». Davud dedi: «Onun əvəzi yoxdur, mənə ver». </verse>
+        <verse osisID='1Sam.21.10'>O gün Davud Şauldan qaçdı və Qat padşahı Akişin yanına getdi.</verse>
+        <verse osisID='1Sam.21.11'>Akişin əyanları ona dedilər: «Bu öz ölkəsinin padşahı Davud deyilmi? Rəqslərdə qadınlar bunu tərənnüm edib oxumurdularmı?  “Şaul qırdı minləri,Davudsa on minləri”». </verse>
+        <verse osisID='1Sam.21.12'>Davud bu sözləri ürəyinə salıb Qat padşahı Akişdən çox qorxdu.</verse>
+        <verse osisID='1Sam.21.13'>Onların qarşısında görkəmini dəyişdirdi və yanlarında özünü dəli kimi göstərərək darvaza qapısının taylarını cırmaqladı və ağzının suyunu saqqalına axıtdı.</verse>
+        <verse osisID='1Sam.21.14'>Akiş əyanlarına dedi: «Bax görürsünüz ki, bu adam dəlidir. Nə üçün onu mənim yanıma gətirmisiniz?</verse>
+        <verse osisID='1Sam.21.15'>Mənim dəlilərim əskikdir ki, qarşımda dəlilik etmək üçün bunu da gətirdiniz? Heç belə adam da mənim evimə girərmi?»  </verse>
+      </chapter>
+      <chapter osisID='1Sam.22'>
+        <verse osisID='1Sam.22.1'>Davud oradan yola çıxıb Adullam mağarasında gizləndi. Qardaşları və atasının külfəti bunu eşidəndə onun yanına gəldilər.</verse>
+        <verse osisID='1Sam.22.2'>Vəziyyəti ağır olanların, borcu olanların, narazıların hamısı yanına yığıldı və Davud onların başçısı oldu. Onun yanında dörd yüz nəfərə qədər adam var idi. </verse>
+        <verse osisID='1Sam.22.3'>Davud oradan Moavın Mispa şəhərinə gəlib Moav padşahına dedi: «Rica edirəm, Allahın mənə nə edəcəyini bilənə qədər qoy atamla anam gəlib yanında qalsın».</verse>
+        <verse osisID='1Sam.22.4'>Davud onları Moav padşahının yanında qoydu və özü qalada qaldığı müddətdə ata və anası Moav padşahının yanında qaldı.</verse>
+        <verse osisID='1Sam.22.5'>Peyğəmbər Qad Davuda dedi: «Sən burada – qalada belə dolanma, Yəhuda diyarına get». Davud gedib Xeret meşəsinə girdi. </verse>
+        <verse osisID='1Sam.22.6'>Şaul Davudla yanındakı adamlarının yerini öyrəndi. O, Giveadakı bir təpədə, yulğun ağacının altında əlində nizə oturmuş, bütün əyanları isə ətrafında dayanmışdılar.</verse>
+        <verse osisID='1Sam.22.7'>Şaul ətrafındakı əyanlarına belə dedi: «Ey Binyaminlilər, indi mənə qulaq asın. Yesseyin oğlu hamınıza tarlalar və üzümlüklər verəcəkmi? Hamınızı minbaşı və yüzbaşı edəcək ki,</verse>
+        <verse osisID='1Sam.22.8'>mənim üçün hiylə qurursunuz? Mənim oğlum Yesseyin oğlu ilə əhd bağlayan zaman bunu qulağıma çatdıran olmadı və heç birinizin mənə yazığı gəlmədi. Pusqu qurmaq üçün oğlum mənim üstümə qulumu qiyama qaldırır, deyə bu xəbəri qulağıma çatdıran oldumu?»</verse>
+        <verse osisID='1Sam.22.9'>Şaulun əyanlarının yanında Edomlu Doeq də dayanmışdı və o dedi: «Yesseyin oğlunu Novda, Axituv oğlu Aximelekin yanına gələndə gördüm.</verse>
+        <verse osisID='1Sam.22.10'>Orada Aximelek Davud üçün Rəbbə müraciət etdi və ona həm ərzaq, həm də Filiştli Qolyatın qılıncını verdi». </verse>
+        <verse osisID='1Sam.22.11'>Padşah Axituv oğlu kahin Aximeleki və atasının külfətini, həm də Novda olan kahinləri çağırmaq üçün adam göndərdi. Onların hamısı padşahın yanına gəldi.</verse>
+        <verse osisID='1Sam.22.12'>Şaul dedi: «Ey Axituv oğlu, indi məni dinlə». Aximelek dedi: «Buyurun, ağam».</verse>
+        <verse osisID='1Sam.22.13'>Şaul dedi: «Allaha müraciət edib bugünkü kimi mənim üstümə qiyam qaldırmaq üçün Yessey oğlunun əlinə çörək və qılınc verərək niyə mənə qarşı fənd qurdunuz?»</verse>
+        <verse osisID='1Sam.22.14'>Aximelek padşaha cavab verdi: «Bütün əyanlarının arasında Davud kimi sədaqətli olanı varmı? O, padşahın kürəkəni, mühafizəçilərin başçısı və sənin evində çox etibarlı sayılan adamdır.</verse>
+        <verse osisID='1Sam.22.15'>Onun üçün Allaha müraciət etməyə ancaq o gündənmi başlamışam? Əsla! Padşahım bu quluna və atamın külfətinə şər atmasın, çünki az-çox olsa belə, qulunun bu işdən heç bir xəbəri yoxdur».</verse>
+        <verse osisID='1Sam.22.16'>Padşah dedi: «Ey Aximelek, sən və atanın külfəti mütləq ölməlisiniz».</verse>
+        <verse osisID='1Sam.22.17'>Padşah yanındakı mühafizəçi əsgərlərə dedi: «Dönün, Rəbbin kahinlərini öldürün. Ona görə ki onlar da Davudla əlbir olub. Çünki onun qaçdığını bilib bu xəbəri qulağıma çatdırmayıblar». Lakin padşahın adamları əl qaldırıb Rəbbin kahinlərini öldürmək istəmədilər.</verse>
+        <verse osisID='1Sam.22.18'>Padşah Edomlu Doeqə dedi: «Dön, bu kahinləri öldür». Edomlu Doeq dönüb kahinləri öldürdü və o gün kətan efod geyən səksən beş kişi öldürüldü.</verse>
+        <verse osisID='1Sam.22.19'>Sonra o, kahinlərin şəhəri olan Novu da qılıncdan keçirdi. Kişi, qadın, gənc, körpə bilmədən bütün adamları, eləcə də öküzləri, eşşəkləri və qoyunları qılıncdan keçirdi. </verse>
+        <verse osisID='1Sam.22.20'>Axituvun oğlu Aximelekin oğullarından Evyatar adlı bir nəfər qurtulub Davudun yanına qaçdı.</verse>
+        <verse osisID='1Sam.22.21'>Evyatar Şaulun Rəbbin kahinlərini öldürdüyünü Davuda xəbər verdi.</verse>
+        <verse osisID='1Sam.22.22'>Davud Evyatara dedi: «O vaxt Edomlu Doeq orada olanda mütləq bunu Şaula çatdıracağını anlamışdım. Atanın külfətinin qırılmasına səbəb mən oldum.</verse>
+        <verse osisID='1Sam.22.23'>Yanımda qal, qorxma, çünki mənim canımı almaq istəyən sənin də canını almaq istəyir. Əgər yanımda qalsan, salamat olarsan».  </verse>
+      </chapter>
+      <chapter osisID='1Sam.23'>
+        <verse osisID='1Sam.23.1'>
+          Davuda xəbər verərək dedilər: «Budur, Filiştlilər Qeilaya hücum çəkib xırmanları talan edirlər».</verse>
+        <verse osisID='1Sam.23.2'>Davud Rəbbə müraciət edib dedi: «Gedib Filiştlilərlə vuruşummu?» Rəbb Davuda dedi: «Get Filiştlilərə hücum et və Qeilanı qurtar».</verse>
+        <verse osisID='1Sam.23.3'>Davudun adamları isə ona dedilər: «Bax burada – Yəhudada biz qorxu içərisindəyik. Bəs biz Qeilaya, Filişt ordularına qarşı necə çıxaq?»</verse>
+        <verse osisID='1Sam.23.4'>Davud Rəbbə yenidən müraciət etdi və Rəbb ona cavab verib dedi: «Qalx Qeilaya en, çünki Filiştliləri sənə təslim edəcəyəm».</verse>
+        <verse osisID='1Sam.23.5'>Davudla adamları Qeilaya gedib Filiştlilərə qarşı hücuma keçdilər. Davud onların mal-qaralarını apardı və Filiştlilərə güclü zərbə vurub Qeila əhalisini qurtardı. </verse>
+        <verse osisID='1Sam.23.6'>Aximelekin oğlu Evyatar Qeilaya – Davudun yanına qaçarkən əlində efod enmişdi.</verse>
+        <verse osisID='1Sam.23.7'>Davudun Qeilaya gəlməsi Şaula çatdırıldı. Şaul dedi: «Allah onu mənim ovcumun içinə qoyub, çünki cəftəli darvazaları olan bir şəhərə girməklə o özünü çıxılmaz vəziyyətə salıb».</verse>
+        <verse osisID='1Sam.23.8'>Şaul Qeilaya enmək və Davudla adamlarını mühasirəyə almaq üçün bütün xalqı müharibəyə çağırdı.</verse>
+        <verse osisID='1Sam.23.9'>Şaulun ona pislik etmək istədiyini Davud bilirdi. O, kahin Evyatara dedi: «Efodu bura gətir».</verse>
+        <verse osisID='1Sam.23.10'>Davud sözünə davam etdi: «Ey İsrailin Allahı Rəbb, mən ciddi məlumat almışam ki, bu quluna görə şəhəri məhv etmək üçün Şaul Qeilaya gəlmək istəyir.</verse>
+        <verse osisID='1Sam.23.11'>Qeila sakinləri məni ona təslim edəcəklərmi? Ey İsrailin Allahı Rəbb, yalvarıram, bunu quluna agah et. Şaul da Sənin qulun eşitdiyi kimi bura enəcəkmi?» Rəbb «o enəcək» dedi.</verse>
+        <verse osisID='1Sam.23.12'>O zaman Davud dedi: «Qeilalılar məni və adamlarımı Şaula təslim edəcəkmi?» Rəbb «təslim edəcəklər» dedi.</verse>
+        <verse osisID='1Sam.23.13'>Davud təxminən altı yüz nəfər adam ilə qalxıb Qeiladan çıxdı və bu yerdən başqa yerə getdi. Davudun Qeiladan qaçdığını eşidən Şaul oraya getmək fikrindən döndü.</verse>
+        <verse osisID='1Sam.23.14'>Davud çöllükdə qalalarda qalıb Zif səhrasındakı dağlıq bölgəsində yaşadı. Şaul hər gün Davudu axtarırdı, lakin Allah onu Şaula təslim etmədi. </verse>
+        <verse osisID='1Sam.23.15'>Zif səhrasındakı Xoreşdə olan Davud gördü ki, Şaul onun canını almaq üçün yola çıxıb.</verse>
+        <verse osisID='1Sam.23.16'>Şaulun oğlu Yonatan qalxıb Xoreşə, Davudun yanına gəldi və onu Allah naminə ruhlandırdı.</verse>
+        <verse osisID='1Sam.23.17'>Ona dedi: «Qorxma, atam Şaulun əlinə düşməyəcəksən, İsrailin padşahı sən olacaqsan, mən səndən sonra ikinci olacağam. Bunu hətta atam Şaul da bilir».</verse>
+        <verse osisID='1Sam.23.18'>Sonra ikisi də Rəbbin önündə əhd bağladı və Davud Xoreşdə qaldı, Yonatan isə evinə qayıtdı. </verse>
+        <verse osisID='1Sam.23.19'>Ziflilər Giveaya, Şaulun yanına qalxıb dedilər: «Davud bizim yanımızda, Yeşimonun cənubundakı Xakila təpəsində, Xoreşdəki qalalarda gizlənmişdi.</verse>
+        <verse osisID='1Sam.23.20'>Ey padşah, indi oraya ensən, ürəyindəki arzuna çatarsan. Onu padşaha təslim etmək bizim payımıza düşər».</verse>
+        <verse osisID='1Sam.23.21'>Şaul dedi: «Mənə xeyirxahlıq etdiyiniz üçün Rəbb sizə bərəkət versin.</verse>
+        <verse osisID='1Sam.23.22'>Gedin daha yaxşı araşdırın və öyrənin ki, hara ayaq basıb, kimlər onu görüb. Deyirlər ki, o çox hiyləgərdir.</verse>
+        <verse osisID='1Sam.23.23'>Gizləndiyi yerlərin hamısını tapıb öyrənin, doğru xəbərlə mütləq yanıma gəlin və mən də sizinlə oraya gedəcəyəm. Əgər o bölgədə olsa, onu bütün Yəhuda tayfaları arasında axtaracağam». </verse>
+        <verse osisID='1Sam.23.24'>Ziflilər qalxıb Şauldan qabaq Zifə qayıtdılar. Davudla adamları Yeşimonun cənubunda – Aravadakı Maon səhrasında idi.</verse>
+        <verse osisID='1Sam.23.25'>Şaulla adamları onu axtarmaq üçün həmin yerə getdilər. Bu, Davuda xəbər verildi və o da qayalığa enib Maon səhrasında qaldı. Şaul bunu eşidərkən Maon səhrasında Davudu təqib etdi.</verse>
+        <verse osisID='1Sam.23.26'>Şaul dağın bir tərəfi, Davudla adamları isə dağın o biri tərəfi ilə getməkdə idi. Davud cəld tərpənib Şaulun qabağından qaçdı, çünki Şaulla adamları Davudla adamlarını tutmaq üçün oranı mühasirəyə alırdılar.</verse>
+        <verse osisID='1Sam.23.27'>Bu vaxt Şaulun yanına bir qasid gəlib dedi: «Tez ol, geri qayıt, çünki Filiştlilər ölkəyə hücum ediblər».</verse>
+        <verse osisID='1Sam.23.28'>Şaul Davudu təqib etməkdən əl çəkərək Filiştlilərə qarşı döyüşə getdi. Ona görə də o yerə Sela-Hammaxleqot  adı verildi.</verse>
+        <verse osisID='1Sam.23.29'>Davud oradan çıxıb En-Gedi qalalarında qaldı.  </verse>
+      </chapter>
+      <chapter osisID='1Sam.24'>
+        <verse osisID='1Sam.24.1'>
+          Şaul Filiştliləri təqib edib dönərkən ona belə xəbər verildi: «Davud En-Gedi səhrasındadır».</verse>
+        <verse osisID='1Sam.24.2'>O bütün İsraildən üç min seçmə adam götürüb Davudla adamlarını axtarmaq üçün Dağ Keçiləri qayasının yaxınlığına getdi.</verse>
+        <verse osisID='1Sam.24.3'>Yol kənarındakı qoyun ağıllarına gəldi. Orada bir mağara vardı. Şaul ayaqyoluna getmək üçün oraya girdi. Davud adamları ilə mağaranın lap içəri tərəfində oturmuşdu.</verse>
+        <verse osisID='1Sam.24.4'>Davudun adamları ona dedi: «Budur, Rəbbin sənə “bax düşmənini sənə təslim edəcəyəm, gözündə nə xoşdursa, ona edəcəksən” dediyi gün bu gündür». Davud qalxıb gizlicə Şaulun cübbəsinin ətəyindən kəsdi.</verse>
+        <verse osisID='1Sam.24.5'>Sonra Şaulun ətəyindən bir parça kəsdiyinə görə Davudun ürəyi ağrıdı.</verse>
+        <verse osisID='1Sam.24.6'>O, adamlarına belə dedi: «Rəbbin məsh etdiyi ağama əl qaldırıb belə bir iş görməyi Rəbb məndən uzaq etsin, çünki o, Rəbbin məsh olunmuşudur».</verse>
+        <verse osisID='1Sam.24.7'>Davud bu sözlərlə adamlarının qarşısını aldı və onları Şaula qarşı qalxmağa qoymadı. Şaul da mağaradan çıxıb yoluna davam etdi. </verse>
+        <verse osisID='1Sam.24.8'>Ondan sonra Davud qalxıb mağaradan çıxdı və Şaulun arxasınca «Ağam padşah!» deyə çığırdı. Şaul arxaya baxdı. Davud üzüstə yerədək təzim etdi.</verse>
+        <verse osisID='1Sam.24.9'>O, Şaula dedi: «“Davud sənin pisliyini istəyir” deyən adamların sözünə niyə qulaq asırsan?</verse>
+        <verse osisID='1Sam.24.10'>Bax öz gözlərinlə gördün ki, bu gün Rəbb mağarada səni mənə necə təslim etdi. Mənə təklif etdilər ki, səni öldürüm, lakin mən sənə qıymadım. Dedim ki, ağama qarşı əl qaldırmaram, çünki o, Rəbbin məsh olunmuş padşahıdır.</verse>
+        <verse osisID='1Sam.24.11'>Ey atam, əlimdəkinə bax, bu sənin cübbənin ətəyidir. Cübbənin ətəyindən kəsib səni öldürmədiyimdən gör və anla ki, sənə qarşı pislik və qiyam etmək əlimdən gəlmir. Sən canımı almaq üçün məni ovladığın halda mən sənə qarşı günah etmədim.</verse>
+        <verse osisID='1Sam.24.12'>Səninlə mənim aramda qoy Rəbb hakim olsun! Qoy Rəbb səndən mənim qisasımı alsın. Mən sənə əl qaldırmaram.</verse>
+        <verse osisID='1Sam.24.13'>Qədim zamanlardan belə bir məsəl var: “Pislik pislərdən çıxar”. Bu məsəldə deyildiyi kimi sənə əl qaldırmayacağam.</verse>
+        <verse osisID='1Sam.24.14'>İsrailin padşahı kimə qarşı çıxıb? Sən kimi qovursan? Ölü itimi qovursan, yoxsa bir birənimi?</verse>
+        <verse osisID='1Sam.24.15'>Qoy Rəbb səninlə mənim aramda hakim olub hökm versin və baxıb bu çəkişməni görsün, məni sənin əlindən qurtarsın». </verse>
+        <verse osisID='1Sam.24.16'>Davud bu sözləri Şaula söyləyib qurtarandan sonra Şaul «Oğlum Davud, bu sənin səsindirmi?» dedi və bərkdən ağladı.</verse>
+        <verse osisID='1Sam.24.17'>O, Davuda dedi: «Mən sənin qədər saleh deyiləm, çünki sən mənə pisliyimin əvəzinə yaxşılıq etdin.</verse>
+        <verse osisID='1Sam.24.18'>Bu gün də mənə yaxşı münasibətini bəlli etdin, çünki Rəbb məni sənə təslim etdi, sən isə məni öldürmədin.</verse>
+        <verse osisID='1Sam.24.19'>Əgər bir insan düşmənini taparsa, onu salamat buraxarmı? Buna görə də bugünkü işinin əvəzini Rəbb sənə yaxşılıqla ödəsin.</verse>
+        <verse osisID='1Sam.24.20'>İndi isə bax bilirəm ki, sən mütləq padşah olacaqsan və İsrailin padşahlığı sənin əlinə keçib güclənəcək.</verse>
+        <verse osisID='1Sam.24.21'>Məndən sonra nəslimi kəsməyəcəyinə və atamın nəslindən adımı silməyəcəyinə indi burada mənə Rəbbin haqqı naminə and iç».</verse>
+        <verse osisID='1Sam.24.22'>Davud Şaula and içdi və Şaul evinə qayıtdı. Davud isə adamları ilə sığınacağa çıxdı.  </verse>
+      </chapter>
+      <chapter osisID='1Sam.25'>
+        <verse osisID='1Sam.25.1'/>
+        <verse osisID='1Sam.25.2'>Maonda yaşayan, Karmeldə mülkü olan çox varlı bir adam var idi. Onun üç min baş qoyunu, min baş keçisi vardı. O, qoyunlarını Karmeldə qırxdırırdı.</verse>
+        <verse osisID='1Sam.25.3'>Bu adamın adı Naval, arvadının adı isə Aviqail idi. Qadın ağıllı və gözəl idi. Kalev nəslindən olan kişi isə kobud və bədxasiyyət idi.</verse>
+        <verse osisID='1Sam.25.4'>Davud səhrada eşitdi ki, Navalın qoyun qırxımı var.</verse>
+        <verse osisID='1Sam.25.5'>O, on nökər göndərib onlara dedi: «Karmelə qalxıb Navalın yanına gedin və məndən ona salam deyin.</verse>
+        <verse osisID='1Sam.25.6'>Sonra ona belə deyərsiniz: “Ömrün uzun olsun! Sən və evin, səninkilərin hamısı qoy var olsun!</verse>
+        <verse osisID='1Sam.25.7'>Eşitmişəm ki, indi sizdə yun qırxımıdır. Sənin çobanların bizim yanımızda olanda biz onları incitmədik və Karmeldə qaldıqları günlər ərzində heç nəyi əskilmədi.</verse>
+        <verse osisID='1Sam.25.8'>Bunu öz nökərlərindən də soruşa bilərsən və onlar da sənə deyər. Qoy nökərlərim sənin gözündə lütf tapsın, çünki yanına bayram zamanı gəlmişik. Rica edirəm ki, qullarına və oğlun Davuda əlində olanından ver”». </verse>
+        <verse osisID='1Sam.25.9'>Davudun nökərləri gəlib bütün bu sözləri Davudun adından Navala söyləyib gözlədilər.</verse>
+        <verse osisID='1Sam.25.10'>Naval isə Davudun nökərlərinə belə cavab verdi: «Davud kimdir? Yessey oğlu kimdir? İndilərdə ağasından qaçan çox qullar var.</verse>
+        <verse osisID='1Sam.25.11'>Çörəyimi, suyumu və qırxınçılar üçün kəsdiyim heyvanların ətini götürüb haradan olduğunu bilmədiyim adamlaramı verim?»</verse>
+        <verse osisID='1Sam.25.12'>Davudun nökərləri öz yolları ilə geriyə qayıtdılar və gəlib bu sözlərin hamısını Davuda söylədilər.</verse>
+        <verse osisID='1Sam.25.13'>Davud adamlarına «hamı qılıncını bağlasın» dedi. Hamı bir nəfər kimi qılıncını bağladı. Davud da belə etdi. Dörd yüz nəfər Davudun ardınca getdi və iki yüz nəfər isə ərzaqların yanında qaldı. </verse>
+        <verse osisID='1Sam.25.14'>Navalın nökərlərindən biri onun arvadı Aviqailə xəbər verdi: «Bax ağamızı salamlamaq üçün Davud səhradan qasidlər göndərdi, ağamız isə onları təhqir etdi.</verse>
+        <verse osisID='1Sam.25.15'>Amma həmin adamlar bizə çox yaxşılıq etmiş və bizi incitməmişdilər. Çöldə olduğumuz, onlarla gəzdiyimiz bütün günlər ərzində heç nəyimiz əskilməmişdi.</verse>
+        <verse osisID='1Sam.25.16'>Qoyunları otararkən yanlarında olduğumuz günlər gecə və gündüz bizə dayaq oldular.</verse>
+        <verse osisID='1Sam.25.17'>İndi isə budur, bax nə edəcəyini düşün, çünki ağamıza, onun bütün külfətinə qarşı pis qərar verilmişdir. Çünki Naval elə yaramaz insandır ki, ona kimsə söz deyə bilmir». </verse>
+        <verse osisID='1Sam.25.18'>Bundan sonra Aviqail cəld tərpənib, iki yüz kömbə çörək və iki tuluq şərab hazırladı. Beş qoyun cəmdəyi, beş ölçü qovurğa, yüz salxım quru üzüm və iki yüz parça basılmış əncir lavaşanası götürüb eşşəklərə yüklədi.</verse>
+        <verse osisID='1Sam.25.19'>Sonra nökərlərinə dedi: «Siz qabaqda gedin, arxanızca gəlirəm». Bu barədə əri Navala heç nə bildirmədi.</verse>
+        <verse osisID='1Sam.25.20'>Aviqail eşşəyə minib dağın bağlı tərəfindən enərkən Davud da adamları ilə oraya enməkdə idi və qadın onlarla rastlaşdı.</verse>
+        <verse osisID='1Sam.25.21'>Davud demişdi: «Doğrudan da, bu adamın çöldə olan bütün mallarını qorudum və onun heç nəyini əskilməyə qoymadım, amma nahaq yerə. O isə mənə yaxşılığımın əvəzində pislik etdi.</verse>
+        <verse osisID='1Sam.25.22'>Əgər səhərədək onun bütün divar isladanlarından – kişilərindən birini belə, sağ buraxsam, qoy Allah Davudun düşmənlərinə beləsini və bundan betərini etsin». </verse>
+        <verse osisID='1Sam.25.23'>Aviqail Davudu görcək cəld eşşəkdən düşdü və Davudun önündə üzünü yerə qoyaraq təzim etdi.</verse>
+        <verse osisID='1Sam.25.24'>Sonra onun ayaqlarına düşüb dedi: «Ey ağam, bu günahı mənim üzərimə qoy. İzin ver ki, kənizin səninlə danışsın. Nə olar, kənizinin sözlərinə qulaq as.</verse>
+        <verse osisID='1Sam.25.25'>Ağam, rica edirəm, Navalın – o yaramaz insanın acığını qəlbinə salma, çünki adı necədirsə, özü də elədir. Adı Naval  olduğu kimi özü də axmaqdır. Ey ağam, mən kənizin ağamın göndərdiyi nökərləri görməmişəm.</verse>
+        <verse osisID='1Sam.25.26'>Madam ki Rəbb səni indi qana batmaqdan və öz əlinlə qisas almaqdan saxladı, var olan Rəbbə və canına and olsun, ağamın düşmənləri və bədxahları Naval kimi olsun.</verse>
+        <verse osisID='1Sam.25.27'>İndi isə izin ver, kənizinin ağama gətirdiyi bu hədiyyələr arxanca gələn cavanlara verilsin.</verse>
+        <verse osisID='1Sam.25.28'>Yalvarıram, kənizinin günahını bağışla, çünki Rəbb mütləq ağam üçün möhkəm sülalə yaradacaq, ona görə ki ağam Rəbbin döyüşlərini edir və ömrün boyu səndə şər olmayacaq.</verse>
+        <verse osisID='1Sam.25.29'>Kimsə qalxıb səni qovmaq və canını almaq istəyəndə ağamın canı Rəbb Allahın həyat kisəsində saxlanılacaq, sənin düşmənlərinin canı isə sapandın ortasından atılan daş kimi atılacaq.</verse>
+        <verse osisID='1Sam.25.30'>Rəbb ağama dediyi yaxşılıqların hamısını həyata keçirəndə və səni İsrailə hökmdar edəndə</verse>
+        <verse osisID='1Sam.25.31'>ağam nahaq qan töküb özü üçün qisas aldığına görə peşman olmayacaq, vicdan əzabı çəkməyəcək. Rəbb ağama yaxşılıq edəndə kənizini də yada sal». </verse>
+        <verse osisID='1Sam.25.32'>Davud Aviqailə dedi: «İsrailin Allahı Rəbbə alqış olsun ki, bu gün məni qarşılamağa səni göndərdi.</verse>
+        <verse osisID='1Sam.25.33'>Ağlına bərəkallah, xeyir-dualı olasan! Bu gün məni qan tökməkdən və əlimlə öz qisasımı almaqdan saxladın.</verse>
+        <verse osisID='1Sam.25.34'>Həqiqətən, məni sizə pislik etməkdən sən saxladın, İsrailin Allahı var olan Rəbbə and olsun, əgər cəld tərpənib mənim qarşıma çıxmasaydın, mütləq səhər işığına qədər Navalın divar isladanlarından – kişilərindən biri də sağ qalmayacaqdı».</verse>
+        <verse osisID='1Sam.25.35'>Davud onun gətirdiyi şeyləri əlindən alıb dedi: «Evinə salamat get, budur, sənin sözünə baxıb xahişini yerinə yetirdim». </verse>
+        <verse osisID='1Sam.25.36'>Aviqail Navalın yanına gəldi. Navalın evində padşah ziyafətinə oxşar bir ziyafət vardı. O çox sərxoş olduğuna görə könlü nəşəli idi. Səhər açılana qədər qadın ona heç nə bildirmədi.</verse>
+        <verse osisID='1Sam.25.37'>Səhər açılanda, Naval şərabdan ayılan kimi arvadı baş verən hadisələri ona danışdı və Navalın ürəyindən ağrı tutdu, bədəni daşa döndü.</verse>
+        <verse osisID='1Sam.25.38'>Bununla da təxminən on gündən sonra Rəbb Navalı vurdu və o öldü. </verse>
+        <verse osisID='1Sam.25.39'>Davud Navalın öldüyünü eşidəndə dedi: «Navalın əli ilə yaranan rüsvayçılığımı görüb qulunu davadan və pislikdən saxlayan Rəbbə alqış olsun! Rəbb Navalın bədxahlığını öz başına gətirdi». Davud Aviqaili özünə arvad olaraq almaq üçün ona elçi göndərdi.</verse>
+        <verse osisID='1Sam.25.40'>Davudun elçiləri Karmelə, Aviqailin yanına gəlib belə söylədilər: «Səni arvad olaraq almaq üçün Davud bizi elçi göndərdi».</verse>
+        <verse osisID='1Sam.25.41'>Aviqail qalxıb yerədək təzim edib dedi: «Qoy kənizin ağamın qullarının ayaqlarını yumaq üçün bir qarabaş olsun».</verse>
+        <verse osisID='1Sam.25.42'>O cəld qalxıb eşşəyə mindi. Ona xidmət edən beş gənc qadını yanına alaraq Davudun qasidlərinin ardınca getdi və Davudun arvadı oldu. </verse>
+        <verse osisID='1Sam.25.43'>Davud İzreelli Axinoamı da almışdı. Hər ikisi onun arvadı oldu.</verse>
+        <verse osisID='1Sam.25.44'>Şaul isə qızı Mikalı – Davudun arvadını Qallimli Layiş oğlu Paltiyə ərə vermişdi.  </verse>
+      </chapter>
+      <chapter osisID='1Sam.26'>
+        <verse osisID='1Sam.26.1'>
+            Ziflilər Giveaya, Şaulun yanına gəlib dedilər: «Davud Yeşimon şəhəri ilə üzbəüz olan Xakila təpəsində gizlənmirmi?»</verse>
+        <verse osisID='1Sam.26.2'>Şaul durub Davudu axtarmaq üçün özü ilə bərabər İsraildən üç min seçmə adam götürərək Zif səhrasına endi.</verse>
+        <verse osisID='1Sam.26.3'>O, Yeşimonla üzbəüz olan Xakila təpəsindəki yol kənarında ordugah qurdu. Səhrada qalan Davud Şaulun onun ardınca düşüb gəldiyini gördü.</verse>
+        <verse osisID='1Sam.26.4'>Davud kəşfiyyatçılar göndərdi və həqiqətən, Şaulun gəldiyini öyrəndi.</verse>
+        <verse osisID='1Sam.26.5'>O qalxıb Şaulun ordugah qurduğu yerə gəldi və Şaulla ordu başçısı Ner oğlu Avnerin yatdığı yerə baxdı. Şaul ordugahın içərisində yatırdı. Xalq onun yanında düşərgə salmışdı. </verse>
+        <verse osisID='1Sam.26.6'>Davud Xetli Aximelekə və Yoavın qardaşı Seruya oğlu Avişaya dedi: «Kim mənimlə Şaulun yanına – ordugaha enər?» Avişay dedi: «Mən səninlə enərəm».</verse>
+        <verse osisID='1Sam.26.7'>Davud və Avişay gecə xalqın yanına çatdılar və budur, Şaul ordugahın içərisində yatıb yuxuya getmişdi, nizəsi isə başı üstündə yerə sancılmışdı. Avnerlə xalq isə onun ətrafında yatırdı.</verse>
+        <verse osisID='1Sam.26.8'>Avişay Davuda dedi: «Allah bu gün düşmənini sənə təslim etdi. İndi isə qoy nizə ilə onu birdəfəlik yerə elə yapışdırım ki, ikinci dəfə vurmağa ehtiyac olmasın».</verse>
+        <verse osisID='1Sam.26.9'>Davud Avişaya dedi: «Yox, onu öldürmə! Bax Rəbbin məsh etdiyinə əl qaldıran günahsız sayılarmı?»</verse>
+        <verse osisID='1Sam.26.10'>Davud yenə dedi: «Var olan Rəbbə and olsun, Rəbb onu mütləq vuracaq. Elə gün gələcək ki, öz əcəli ilə öləcək ya da döyüşdə həlak olacaq.</verse>
+        <verse osisID='1Sam.26.11'>Qoy Rəbbin məsh etdiyinə əl qaldırmaqdan Rəbb Özü məni uzaq etsin. Rica edirəm, indi başının yanındakı nizəsini və su qabını götür gedək».</verse>
+        <verse osisID='1Sam.26.12'>Davud Şaulun başının yanındakı nizəsi ilə su qabını götürdü və onlar getdilər. Onları görən olmadı. Bu işi bilən və oyanan da olmadı. Rəbb tərəfindən onların üstünə dərin yuxu gəldiyinə görə hamı yatmışdı. </verse>
+        <verse osisID='1Sam.26.13'>Davud qarşı tərəfə keçib uzaqda, dağın başında durdu; onların arasında xeyli məsafə var idi.</verse>
+        <verse osisID='1Sam.26.14'>Davud xalqa və Ner oğlu Avnerə «ey Avner, mənə cavab ver» deyə qışqırdı. Avner də cavab verdi: «Sən kimsən ki, qışqıra-qışqıra padşahı çağırırsan?»</verse>
+        <verse osisID='1Sam.26.15'>Davud Avnerə dedi: «Sən igidsən? İsraildə sənə bənzər kim var ki? Bəs niyə ağan padşahın keşiyini çəkmirsən? Axı xalq arasından biri ağan padşahı öldürmək üçün gəlmişdi.</verse>
+        <verse osisID='1Sam.26.16'>İşini yaxşı görmürsən. Var olan Rəbb haqqı, hamınız ölümə layiq adamlarsınız, ona görə ki ağanızın – Rəbbin məsh etdiyinin keşiyini çəkmirsiniz. Bax padşahın başının yanında olan nizə və su qabı indi haradadır?» </verse>
+        <verse osisID='1Sam.26.17'>Şaul Davudun səsini tanıyıb dedi: «Bu sənin səsindirmi, oğlum Davud?» Davud dedi: «Mənim səsimdir, ağam padşah».</verse>
+        <verse osisID='1Sam.26.18'>Sonra sözünə davam etdi: «Ağam nə üçün qulunu belə təqib edir? Nə etmişəm ki? Əlimdən nə pislik gəlib?</verse>
+        <verse osisID='1Sam.26.19'>Rica edirəm, ağam padşah indi qulunun sözlərinə qulaq assın. Əgər mənə qarşı səni qaldıran Rəbdirsə, bir təqdim qəbul etməyə razı olsun, yox, əgər bəşər övladlarıdırsa, qoy onlar Rəbb qarşısında lənətə gəlsinlər. Belə ki “get özgə allahlara qulluq et” deyərək Rəbbin irsindən pay almayım deyə məni qovdular.</verse>
+        <verse osisID='1Sam.26.20'>Qoy qanım Rəbbin hüzurundan uzaq yerdə tökülməsin. Dağlarda necə kəklik ovlayırlarsa, indi İsrail padşahı da bir tək birəni axtarmaq üçün eləcə ova çıxıb». </verse>
+        <verse osisID='1Sam.26.21'>Şaul dedi: «Günah etdim, qayıt, oğlum Davud. Mənim canım bu gün sənin gözündə qiymətli olduğu üçün bir daha sənə pislik etməyəcəyəm. Bax ağılsızlıq edib lap çox yanıldım».</verse>
+        <verse osisID='1Sam.26.22'>Davud cavab verdi: «Budur nizən, ey padşah! Qoy nökərlərindən biri gəlib onu aparsın.</verse>
+        <verse osisID='1Sam.26.23'>Rəbb hər kəsə öz salehliyinin və sədaqətinin əvəzini verəcək. Bu gün Rəbb səni mənə təslim etdiyi halda mən Rəbbin məsh etdiyinə əl qaldırmaq istəmədim.</verse>
+        <verse osisID='1Sam.26.24'>Qoy bu gün sənin canın gözümdə necə qiymətlidirsə, mənim canım da Rəbbin gözündə elə qiymətli olsun və məni hər çətinlikdən qurtarsın».</verse>
+        <verse osisID='1Sam.26.25'>Şaul Davuda dedi: «Oğlum Davud, bəxtiyar olasan! Sən böyük işlər görüb mütləq qalib gələcəksən». Bundan sonra Davud öz yolu ilə getdi və Şaul da öz yerinə qayıtdı.  </verse>
+      </chapter>
+      <chapter osisID='1Sam.27'>
+        <verse osisID='1Sam.27.1'>
+          Davud ürəyində düşündü: «Bir gün Şaulun əlində öləcəyəm. Mənim üçün Filiştlilərin ölkəsinə qaçmaqdan yaxşı çarə yoxdur. Şaul da məni bütün İsrail torpağında axtarmaq fikrindən əl çəkər və mən onun əlindən qurtararam».</verse>
+        <verse osisID='1Sam.27.2'>Davud durub yanındakı altı yüz kişi ilə Qat padşahı Maok oğlu Akişin tərəfinə keçdi.</verse>
+        <verse osisID='1Sam.27.3'>Davud həm özü, həm də adamlarının hər biri külfəti ilə – Davudun iki arvadı İzreelli Axinoam və Karmelli Navalın dul arvadı Aviqaillə birlikdə Qatda, Akişin yanında qaldı.</verse>
+        <verse osisID='1Sam.27.4'>Davudun Qata qaçdığını Şaula xəbər verdilər və o da bir daha onu axtarmadı. </verse>
+        <verse osisID='1Sam.27.5'>Davud Akişə dedi: «Əgər indi sənin gözündə lütf tapmışamsa, qoy ətraf şəhərlərin birində mənə yer verilsin və mən də orada qalım. Axı nə üçün bu qulun padşah şəhərində sənin yanında qalsın?»</verse>
+        <verse osisID='1Sam.27.6'>O gün Akiş ona Ziqlaqı verdi. Bu günə qədər Ziqlaq Yəhuda padşahlarına məxsusdur.</verse>
+        <verse osisID='1Sam.27.7'>Davudun Filiştlilərin ölkəsində qaldığı müddət bir il dörd ay idi. </verse>
+        <verse osisID='1Sam.27.8'>Davudla adamları gəlib Geşurlulara, Girzlilərə və Amaleqlilərə basqın etdilər. Bu xalqlar qədim zamanlardan bəri Şura çatanadək – Misir ölkəsinə qədər olan ərazidə məskən salmışdılar.</verse>
+        <verse osisID='1Sam.27.9'>O hücum etdiyi bu yerlərdə nə qadın, nə də kişilərdən heç kimi sağ buraxmazdı. Onların qoyunlarını, öküzlərini, eşşəklərini, dəvələrini və geyimlərini götürüb Akişin yanına qayıdırdı.</verse>
+        <verse osisID='1Sam.27.10'>Akiş ondan soruşanda ki bu gün hara basqın etdiniz, Davud belə cavab verirdi: «Yəhudanın, Yeraxmeellilərin və Qenlilərin cənub bölgəsinə basqın etdik».</verse>
+        <verse osisID='1Sam.27.11'>Davud belə edirdi. Filiştlilərin ölkəsində qaldığı müddət ərzində onun iş üsulu belə idi: «Bizim haqqımızda qoy xəbər verməsinlər» deyərək nə kişi, nə də qadınlardan heç kimi sağ buraxmaz və onlardan heç birisini Qata gətirməzdi. </verse>
+        <verse osisID='1Sam.27.12'>Akiş Davuda inanaraq belə düşünürdü: «Artıq o öz xalqının – İsrailin gözündən tamamilə düşüb və bundan sonra həmişəlik qulum olacaq».  </verse>
+      </chapter>
+      <chapter osisID='1Sam.28'>
+        <verse osisID='1Sam.28.1'>
+          Həmin dövrdə İsrailə qarşı döyüşmək üçün Filiştlilər ordularını döyüşə yığdılar. Akiş Davuda dedi: «Bunu yaxşı bil ki, sən və adamların mənimlə bir orduda döyüşəcəksiniz».</verse>
+        <verse osisID='1Sam.28.2'>Davud Akişə dedi: «Əla! Sən qulunun nə edəcəyini görəcəksən». Akiş Davuda dedi: «Çox yaxşı, mən səni həmişə özümə mühafizəçi qoyacağam». </verse>
+        <verse osisID='1Sam.28.3'>Şamuel ölmüşdü və bütün İsrail onun üçün yas tutmuşdu. Onu Ramada – öz şəhərində dəfn etmişdilər. Şaul isə bütün cindarları və ruhçağıranları ölkədən qovmuşdu. </verse>
+        <verse osisID='1Sam.28.4'>Filiştlilər yığılaraq gəlib Şunemdə ordugah qurdular. Şaul bütün İsraili yığıb Gilboa dağında ordugah qurdu.</verse>
+        <verse osisID='1Sam.28.5'>Şaul Filişt ordugahını görəndə qorxudan ürəyi əsdi.</verse>
+        <verse osisID='1Sam.28.6'>O, Rəbbə müraciət etdi. Amma Rəbb ona nə yuxu, nə Urim, nə də peyğəmbərlər vasitəsilə cavab verdi.</verse>
+        <verse osisID='1Sam.28.7'>Şaul əyanlarına dedi: «Mənim üçün bir cindar qadın tapın ki, gedib ona müraciət edim». Əyanları ona dedilər: «Bax En-Dorda bir cindar qadın var». </verse>
+        <verse osisID='1Sam.28.8'>Şaul zahiri görkəmini dəyişdirdi, başqa paltar geyinib, iki nəfərlə bərabər oraya getdi və gecə ikən qadının yanına gəlib çatdı. Şaul dedi: «Rica edirəm, mənim falıma baxıb cindarlığını göstər və kimi desəm, onu mənim üçün çıxar».</verse>
+        <verse osisID='1Sam.28.9'>Qadın dedi: «Bax Şaulun bu ölkədə nə etdiyini, cindarları və ruhçağıranları necə qırdığını bilirsən. Niyə məni öldürmək üçün canıma tələ qurursan?»</verse>
+        <verse osisID='1Sam.28.10'>Şaul qadına «var olan Rəbbə and olsun, bu işin sənə bir ziyanı olmayacaq» deyərək Rəbbə and içdi.</verse>
+        <verse osisID='1Sam.28.11'>Qadın dedi: «Sənin üçün kimi çıxarım?» Şaul «mənə Şamueli çıxar» dedi.</verse>
+        <verse osisID='1Sam.28.12'>Qadın Şamueli görüncə bərkdən çığırıb Şaula dedi: «Sən ki Şaulsan, niyə məni aldatdın?»</verse>
+        <verse osisID='1Sam.28.13'>Padşah ona dedi: «Qorxma, de görüm, nə görürsən?» Qadın Şaula dedi: «Yer altından çıxan allahlar kimi bir şəxs görürəm».</verse>
+        <verse osisID='1Sam.28.14'>Şaul dedi: «O kimə oxşayır?» Qadın dedi: «Cübbə geyinmiş qoca bir adam çıxır». Şaul onun Şamuel olduğunu başa düşüb üzüstə əyilib yerə sərildi. </verse>
+        <verse osisID='1Sam.28.15'>Şamuel Şaula dedi: «Məni çıxararaq niyə narahat etdin?» Şaul dedi: «Çox dara düşmüşəm, çünki Filiştlilər mənə qarşı müharibə edirlər. Artıq Allah da məndən üz döndərib, daha mənə peyğəmbərlər, yuxular vasitəsilə cavab vermir. Ona görə də səni çağırdım ki, nə etməliyəmsə, onu mənə bildirəsən».</verse>
+        <verse osisID='1Sam.28.16'>Şamuel dedi: «Əgər Rəbb səndən üz döndəribsə, demək O sənə düşmən olmuşdur. Belə halda bunu niyə məndən soruşursan?</verse>
+        <verse osisID='1Sam.28.17'>Rəbb mənim vasitəmlə söylədiyini etdi və padşahlığı sənin əlindən qoparıb onu sənin yaxının Davuda verdi.</verse>
+        <verse osisID='1Sam.28.18'>Sən Rəbbin sözünə baxmadığın və Onun qızğın qəzəbini Amaleqlilərin üstünə gətirmədiyin üçün bu gün O səni bu hala salıb.</verse>
+        <verse osisID='1Sam.28.19'>Rəbb səninlə bərabər İsraili də Filiştlilərə təslim edəcək və sabah sən və oğulların mənimlə bərabər olacaqsınız, çünki Rəbb İsrail ordusunu da Filiştlilərə təslim edəcək». </verse>
+        <verse osisID='1Sam.28.20'>Şaul o zaman tir-tap yerə sərildi. Ona görə ki Şamuelin sözlərindən çox qorxmuşdu, həm də onda taqət qalmamışdı, çünki bütün günü və gecəni çörək yeməmişdi.</verse>
+        <verse osisID='1Sam.28.21'>Qadın Şaulun yanına gəldi və onu sarsılmış halda gördükdə dedi: «Bax kənizin sənin sözünə itaət etdi. Canımı dişimə tutub mənə dediyin sözlərə qulaq asdım.</verse>
+        <verse osisID='1Sam.28.22'>Rica edirəm, indi kənizinin sözünə qulaq as və qabağına bir tikə çörək qoyum, onu ye ki, yola düşəndə qüvvən olsun».</verse>
+        <verse osisID='1Sam.28.23'>Lakin Şaul bunu rədd edib «yemirəm» dedi. Amma əyanları da qadınla bərabər onu məcbur etdikdə Şaul onların sözünə qulaq asdı və yerdən qalxıb yatağın üstündə oturdu.</verse>
+        <verse osisID='1Sam.28.24'>Qadının evində kökəldilmiş bir dana var idi. Tez onu kəsdi və un götürüb yoğurdu, ondan mayasız çörək bişirdi.</verse>
+        <verse osisID='1Sam.28.25'>Sonra onu Şaulla əyanlarının qarşısına qoydu. Onlar yeyib ayağa qalxdılar və həmin gecə də durub getdilər.  </verse>
+      </chapter>
+      <chapter osisID='1Sam.29'>
+        <verse osisID='1Sam.29.1'/>
+        <verse osisID='1Sam.29.2'>Filiştlilərin ağaları yüz və min nəfərlik dəstələrlə irəliləyirdilər. Davudla adamları isə Akişlə birlikdə arxadan gəlirdilər. </verse>
+        <verse osisID='1Sam.29.3'>Filiştlilərin ağaları dedilər: «Bu İbranilərin burada nə işi var?» Akiş onlara belə cavab verdi: «Bu adam bu günlərdə yaxud daha doğrusu, bu illərdə yanımda olan İsrail padşahı Şaulun qulu Davud deyilmi? Mənim yanıma gələn gündən bəri onda pis bir şey görmədim».</verse>
+        <verse osisID='1Sam.29.4'>Filiştlilərin ağaları Akişin üstünə qəzəblənib dedilər: «Bu adamı geri qaytar, qoy o təyin etdiyin yerə qayıtsın və bizimlə döyüşə getməsin, yoxsa döyüşdə bizə düşmənçilik edər. Çünki o, ağasının rəğbətini qazanmaq üçün buradakı adamların başını kəsib ona aparmaqdan daha yaxşı yol taparmı?</verse>
+        <verse osisID='1Sam.29.5'>Rəqslərdə  “Şaul qırdı minləri,Davudsa on minləri”  deyə haqqında tərənnüm sözləri söylənən Davud bu deyilmi?» </verse>
+        <verse osisID='1Sam.29.6'>Akiş Davudu çağırıb ona dedi: «Var olan Rəbbə and olsun, sən düz adamsan. Orduda mənimlə yürüşə çıxmağın gözümdə xoşdur, çünki yanıma gəldiyin gündən bu günə qədər səndə pis bir şey tapmadım. Lakin ağaların gözünə xoş görünmürsən.</verse>
+        <verse osisID='1Sam.29.7'>İndi sağ-salamat öz yerinə qayıt. Filiştlilərin ağalarının gözündə pis olanı etmə».</verse>
+        <verse osisID='1Sam.29.8'>Davud Akişə dedi: «Axı mən nə etmişəm? Yanına gələn gündən bu günə qədər qulunda nə tapdın ki, ağam padşahın düşmənlərinə qarşı gedib vuruşmayım?»</verse>
+        <verse osisID='1Sam.29.9'>Akiş Davuda cavab verdi: «Bilirəm ki, mənim gözümdə sən Allahın mələyi kimi yaxşısan, amma Filiştlilərin başçıları dedilər: “O bizimlə bir döyüşə çıxmasın”.</verse>
+        <verse osisID='1Sam.29.10'>İndi səninlə gələn ağanın qulları ilə birgə səhər tezdən qalxın. Sübh tezdən qalxın və dan yeri ağarar-ağarmaz buradan gedin». </verse>
+        <verse osisID='1Sam.29.11'>Səhəri yola çıxmaq üçün Davud özü və adamları qalxıb Filiştlilərin torpağına qayıtdı. Filiştlilər isə İzreelə getdilər.  </verse>
+      </chapter>
+      <chapter osisID='1Sam.30'>
+        <verse osisID='1Sam.30.1'>
+          Davudla adamları üçüncü gün Ziqlaqa çatdılar. Elə bu zaman Amaleqlilər Negevə və Ziqlaqa hücum edərək Ziqlaq şəhərinə od vurub yandırmışdılar.</verse>
+        <verse osisID='1Sam.30.2'>Orada olan qadınlardan isə heç kimi öldürməmişdilər, böyükdən kiçiyə qədər hamısını əsir edib öz yolları ilə geri qayıtmışdılar.</verse>
+        <verse osisID='1Sam.30.3'>Davud adamları ilə şəhərə gəlib gördü ki, şəhər yandırılıb və onların arvadları, oğul və qızları əsir aparılıb.</verse>
+        <verse osisID='1Sam.30.4'>Buna görə Davud yanına yığılan camaatla birgə taqətdən düşənə qədər hönkürüb ağladı.</verse>
+        <verse osisID='1Sam.30.5'>Əsir aparılanlar arasında Davudun iki arvadı, İzreelli Axinoamla Karmelli Navalın dul arvadı Aviqail də var idi.</verse>
+        <verse osisID='1Sam.30.6'>Davudun ürəyi çox sıxılırdı, çünki xalq «onu daşlayaq» deyirdi. Ona görə ki camaatın hər birinin oğul və qızından ötrü canı yanırdı. Lakin Davud Allahı Rəbdən qüvvət aldı. </verse>
+        <verse osisID='1Sam.30.7'>O, Aximelekin oğlu kahin Evyatara dedi: «Rica edirəm, efodu mənim üçün buraya gətir». Evyatar da efodu Davudun yanına gətirdi.</verse>
+        <verse osisID='1Sam.30.8'>Davud Rəbbə müraciət edərək dedi: «Bu basqınçıların arxasınca düşsəm, onlara çatarammı?» Rəbb ona dedi: «Ardlarınca düş, mütləq onlara çatacaqsan və mütləq əsirləri qurtaracaqsan».</verse>
+        <verse osisID='1Sam.30.9'>Davud yanında olan altı yüz nəfərlə gedib Besor vadisinə çatdı. Yorulub dala qalanlar isə vadidə qaldılar.</verse>
+        <verse osisID='1Sam.30.10'>Lakin Davud dörd yüz nəfərlə basqınçıların ardınca qaçmaqda davam etdi, çünki iki yüz nəfər adam yorularaq Besor vadisini keçə bilməmişdi.</verse>
+        <verse osisID='1Sam.30.11'>Çöldə bir Misirli tapdılar və onu Davudun yanına gətirdilər. Ona çörək yedirib, su içirtdilər.</verse>
+        <verse osisID='1Sam.30.12'>Sonra bir dilim basılmış əncir lavaşanası ilə iki salxım quru üzüm verdilər. O da yeyib özünə gəldi, çünki üç gün-üç gecə çörək yeməmiş və su içməmişdi.</verse>
+        <verse osisID='1Sam.30.13'>Davud ona dedi: «Sən kimin qulusan? Haradansan?» O dedi: «Bir Amaleqlinin qulu, Misirli bir gəncəm. Üç gün əvvəl xəstələndim, ona görə ağam məni atdı.</verse>
+        <verse osisID='1Sam.30.14'>Biz Keretlilərin cənubuna, Yəhuda torpağına və Kalevin cənubuna basqın etdik, Ziqlaqa od vurub yandırdıq».</verse>
+        <verse osisID='1Sam.30.15'>Davud ona dedi: «Məni bu basqınçıların yanına apararsanmı?» Həmin adam dedi: «Məni öldürməyəcəyinə və ağama təslim etməyəcəyinə Allah haqqı üçün and iç, mən də səni basqınçıların yanına aparım». </verse>
+        <verse osisID='1Sam.30.16'>O, Davudu basqınçıların yanına endirdi. Bu zaman basqınçılar hər yana yayılmışdılar. Onlar Filişt və Yəhuda diyarından böyük talan malı götürmüş və bundan ötrü yeyib-içərək şənlik edirdilər.</verse>
+        <verse osisID='1Sam.30.17'>Davud gün batandan ertəsi günün axşamınadək onları qırdı. Dəvələrə minib qaçan dörd yüz nəfər gəncdən başqa heç kim canını qurtara bilmədi.</verse>
+        <verse osisID='1Sam.30.18'>O, Amaleqlilərin götürüb apardığı hər bir şeyi və iki arvadını geri qaytardı.</verse>
+        <verse osisID='1Sam.30.19'>Böyükləri, kiçikləri, bütün oğul və qızları, talan edərək ələ keçirdikləri bütün şeyləri Davud geri qaytardı və onlardan heç nə əskik olmadı.</verse>
+        <verse osisID='1Sam.30.20'>Davud qoyunlarla öküzləri də geri qaytardı. Onları o biri heyvanların qarşısından sürüb «bu, Davudun talan malıdır» deyirdilər. </verse>
+        <verse osisID='1Sam.30.21'>Davud yorulub ardınca gələ bilməyən və Besor vadisində qalan iki yüz nəfərin yanına gəldi. Onlar Davudu və yanındakı adamları qarşılamağa çıxdılar. Davud oraya yaxınlaşanda xalqa salam verdi.</verse>
+        <verse osisID='1Sam.30.22'>Davudla birlikdə gedən adamlar arasında olan bütün pis və yaramaz adamlar belə dedilər: «Onlar bizimlə birlikdə getmədikləri üçün biz də qurtardığımız talan malından onlara heç nə verməyəcəyik. Ancaq hər adama öz arvad-uşaqlarını verəcəyik. Qoy onları götürüb buradan getsinlər».</verse>
+        <verse osisID='1Sam.30.23'>Amma Davud onlara belə dedi: «Xeyr, qardaşlarım! Rəbbin bizə verdiyi şeylərlə belə etməyəcəksiniz. Bizi qoruyan Rəbdir və üstümüzə gələn basqınçıları O bizə təslim etdi.</verse>
+        <verse osisID='1Sam.30.24'>Sizin bu sözünüzü kim dinləyər? Çünki döyüşə gedənin payı nə qədərdirsə, yüklərin yanında qalanın da payı o qədər olacaq, bərabər bölünəcək».</verse>
+        <verse osisID='1Sam.30.25'>Davud bütün İsrail üçün o gündən bu günə qədər davam edən bir qanun və hökm yaratdı. </verse>
+        <verse osisID='1Sam.30.26'>Davud Ziqlaqa gəldi və «budur, sizin üçün Rəbbin düşmənlərindən alınan talandan bir hədiyyə» deyərək dostları olan Yəhuda ağsaqqallarına,</verse>
+        <verse osisID='1Sam.30.27'>Bet-Eldə, Negevdəki Ramotda və Yattirdə,</verse>
+        <verse osisID='1Sam.30.28'>Aroerdə, Sifmotda, Eştemoada,</verse>
+        <verse osisID='1Sam.30.29'>Rakalda, Yeraxmeellilərin və Qenlilərin şəhərlərində,</verse>
+        <verse osisID='1Sam.30.30'>Xormada, Bor-Aşanda, Atakda,</verse>
+        <verse osisID='1Sam.30.31'>Xevronda olanlara və adamları ilə gəzdiyi yerlərin hamısında yaşayanlara talan malından göndərdi.  </verse>
+      </chapter>
+      <chapter osisID='1Sam.31'>
+        <verse osisID='1Sam.31.1'>
+          Filiştlilər İsraillilərlə döyüşdü. İsraillilər Filiştlilərin önündən qaçdılar, qırılanlar Gilboa dağında qaldı.</verse>
+        <verse osisID='1Sam.31.2'>Filiştlilər Şaulla oğullarını təqib edib Şaulun oğulları Yonatanı, Avinadavı və Malki-Şuanı öldürdülər.</verse>
+        <verse osisID='1Sam.31.3'>Döyüş Şaulun ətrafında şiddətlənəndə oxatanlar onu tapdılar və ağır yaraladılar.</verse>
+        <verse osisID='1Sam.31.4'>Şaul öz silahdarına dedi: «Qılıncını çək, məni vur, yoxsa bu sünnətsizlər gəlib qılınclarını mənə batıraraq əylənəcəklər». Lakin silahdarı çox qorxduğundan bunu etmək istəmədi. Ona görə də Şaul qılıncını götürüb özünü onun üstünə yıxdı.</verse>
+        <verse osisID='1Sam.31.5'>Şaulun öldüyünü görəndə silahdarı da özünü qılıncının üstünə yıxıb Şaulla birgə öldü.</verse>
+        <verse osisID='1Sam.31.6'>O gün Şaul üç oğlu, silahdarı və bütün adamları ilə birlikdə belə həlak oldu.</verse>
+        <verse osisID='1Sam.31.7'>Dərənin o biri tərəfində və İordan çayının o biri tayında olan İsraillilər İsrail ordusunun qaçdığını və Şaulla oğullarının öldüyünü görəndə şəhərləri qoyub qaçdılar. Filiştlilər gəlib o yerlərdə yaşadılar. </verse>
+        <verse osisID='1Sam.31.8'>Ertəsi gün Filiştlilər öldürülənləri soymaq üçün gələndə Gilboa dağında Şaulla üç oğlunun meyitini tapdılar.</verse>
+        <verse osisID='1Sam.31.9'>Şaulun başını kəsib silahlarını götürdülər. Bütlərinin məbədinə və xalqa xoş xəbər vermək üçün Filiştlilərin ölkəsinin hər tərəfinə qasid göndərdilər.</verse>
+        <verse osisID='1Sam.31.10'>Şaulun silahlarını ilahə Aştoretin məbədinə qoydular və cəsədini Bet-Şean şəhərinin divarına mıxladılar. </verse>
+        <verse osisID='1Sam.31.11'>Yaveş-Gilead əhalisi Filiştlilərin Şaula etdiklərini eşidəndə</verse>
+        <verse osisID='1Sam.31.12'>bütün igidləri qalxıb gecə boyu yol gedərək Şaulun və oğullarının cəsədini Bet-Şeanın divarından götürdülər. Yaveşə gəlib orada cəsədləri yandırdılar.</verse>
+        <verse osisID='1Sam.31.13'>Sonra cəsədlərin sümüklərini götürüb Yaveşdə, yulğun ağacının altında basdırdılar və yeddi gün oruc tutdular.  </verse>
+      </chapter>
+    </div></osisText>
+</osis>

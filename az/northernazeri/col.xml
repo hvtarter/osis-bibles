@@ -1,0 +1,200 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace'>
+  <osisText osisIDWork='NorthernAzeri' osisRefWork='Bible' xml:lang='az'>
+    <header>
+      <revisionDesc>
+        <date>2012-01-07</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='NorthernAzeri'>
+        <title>Northern Azeri Translation</title>
+        <contributor/>
+        <creator>Mod2Zef (6)</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject/>
+        <date>2012-01-07</date>
+        <description>Northern Azeri Translation</description>
+        <publisher/>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>NorthernAzeri</identifier>
+        <source>no entry TextSource in sword.conf found</source>
+        <language type='IETF'>az</language>
+        <relation/>
+        <coverage>provide the bible to the nations of the world</coverage>
+        <rights>Copyrighted Kutsul Kitab; Permission to distribute granted to CrossWire</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='Col'>
+      <chapter osisID='Col.1'>
+        <verse osisID='Col.1.1'>Allahın iradəsi ilə Məsih İsanın həvarisi mən Pauldan və Timotey qardaşdan</verse>
+        <verse osisID='Col.1.2'>Kolossedəki Məsihdə olan müqəddəs və sadiq bacı-qardaşlara salam! Atamız Allahdan sizə lütf və sülh olsun! </verse>
+        <verse osisID='Col.1.3'>Sizin üçün həmişə dua edərkən Allaha – Rəbbimiz İsa Məsihin Atasına şükür edirik.</verse>
+        <verse osisID='Col.1.4'>Çünki sizin Məsih İsaya imanınızdan və bütün müqəddəslərə göstərdiyiniz məhəbbətdən xəbərdar olduq.</verse>
+        <verse osisID='Col.1.5'>İmanınız və məhəbbətiniz göylərdə sizin üçün saxlanan şeylərə bağladığınız ümiddən qaynaqlanır. Bu barədə sizə çatan, Müjdə olan həqiqət kəlamından əvvəlcədən eşitmisiniz.</verse>
+        <verse osisID='Col.1.6'>Bu Müjdə onu eşitdiyiniz, həqiqətdə Allahın lütfünü dərk etdiyiniz gündən bəri sizdə olduğu kimi bütün dünyada da bəhrə verməkdə və yayılmaqdadır.</verse>
+        <verse osisID='Col.1.7'>Bunu bizimlə birgə Məsihin qulu və sizin üçün çalışan Onun sadiq xidmətçisi sevimli Epafradan öyrəndiniz.</verse>
+        <verse osisID='Col.1.8'>O, Ruhdan qaynaqlanan məhəbbətinizin xəbərini də bizə çatdırdı. </verse>
+        <verse osisID='Col.1.9'>Ona görə bunu eşitdiyimiz gündən bəri sizin tam hikmət və ruhani idrakla Allahın iradəsini bütünlüklə qavramanız üçün biz də dualarımızı və yalvarışlarımızı kəsmədik.</verse>
+        <verse osisID='Col.1.10'>Belə ki Rəbbə layiq şəkildə həyat sürərək Onu hər cəhətdən razı salasınız və hər cür xeyirli əməldə bəhrə verib Allahı tanımaqda böyüyəsiniz,</verse>
+        <verse osisID='Col.1.11'>hər şeyə dözərək səbir edə bilməniz üçün Onun izzətli qüvvəsinə güvənərək hər cür qüdrətlə möhkəmlənəsiniz,</verse>
+        <verse osisID='Col.1.12'>müqəddəslərin nurda olan irsinə şərik olmanız üçün sizə səlahiyyət verən Ataya sevinclə şükür edəsiniz.</verse>
+        <verse osisID='Col.1.13'>O bizi zülmət hakimiyyətindən xilas edib Öz sevimli Oğlunun Padşahlığına köçürtdü.</verse>
+        <verse osisID='Col.1.14'>Oğlunda satınalınmaya – günahlarımızın bağışlanmasına malikik. </verse>
+        <verse osisID='Col.1.15'>Görünməz Allahın surəti və bütün yaradılış üzərində ilk doğulan Odur.</verse>
+        <verse osisID='Col.1.16'>Çünki göylərdə və yerdə olan, görünən və görünməyən hər şey – taxtlar, ağalar, başçılar, hakimlər Onda yarandı. Nə varsa, Onun vasitəsilə və Onun üçün yarandı.</verse>
+        <verse osisID='Col.1.17'>Hər şeydən əvvəl var olan Odur və hər şey Onda bərqərar olur.</verse>
+        <verse osisID='Col.1.18'>Bədənin, yəni imanlılar cəmiyyətinin Başı da Odur. Hər şeydə birinci olsun deyə başlanğıc olan, ölülər arasından dirilərək ilk doğulan Odur.</verse>
+        <verse osisID='Col.1.19'>Çünki Allah Onda tam bütövlüyü ilə yaşamağa</verse>
+        <verse osisID='Col.1.20'>və Onun vasitəsilə, çarmıxda axıdılan qanı ilə barışıq yaradaraq həm yerdə, həm də göylərdə olan hər şeyi Özü ilə barışdırmağa razı oldu. </verse>
+        <verse osisID='Col.1.21'>Etdiyiniz pis əməllərə görə bir zamanlar düşüncələrinizdə Allaha yad və düşmən idiniz.</verse>
+        <verse osisID='Col.1.22'>İndi isə Məsih cismən ölməklə Öz bədəni vasitəsilə sizi Allahla barışdırdı ki, sizi Onun qarşısında müqəddəs, ləkəsiz və nöqsansız təqdim etsin.</verse>
+        <verse osisID='Col.1.23'>Bir şərtlə ki eşitdiyiniz Müjdənin verdiyi ümiddən sarsılmadan, iman əsasında möhkəm və sabit durasınız. Bu Müjdə səma altında olan bütün yaradılışa vəz olundu və mən Paul Müjdənin xidmətçisi oldum. </verse>
+        <verse osisID='Col.1.24'>İndi sizin üçün əzab çəkdiyimə sevinirəm və Məsihin Öz bədəni olan imanlılar cəmiyyəti uğrunda çəkdiyi əziyyətlərin qalanını canıma cəfa verərək tamamlayıram.</verse>
+        <verse osisID='Col.1.25'>Allahın sizin üçün mənə verdiyi vəzifəyə görə mən bu cəmiyyətin xidmətçisi oldum ki, Allahın kəlamını,</verse>
+        <verse osisID='Col.1.26'>yəni əsrlərdən və nəsillərdən gizlədilən, indi isə Onun müqəddəslərinə açılan sirrini tam bəyan edim.</verse>
+        <verse osisID='Col.1.27'>Allah millətlər arasında bu sirrin izzətinin necə zəngin olduğunu müqəddəslərə bildirmək istədi. Bu sirr sizdə olan Məsihdir. O sizə izzətə qovuşmaq ümidini verir.</verse>
+        <verse osisID='Col.1.28'>Hər bir insanı Məsihdə kamilləşmiş olaraq Allaha təqdim etmək üçün hamıya tam müdrikliklə nəsihət və təlim verərək Məsihi bəyan edirik.</verse>
+        <verse osisID='Col.1.29'>Bu məqsədlə də zəhmət çəkirəm və Onun məndə qüdrətlə fəaliyyət göstərən qüvvəsi ilə mübarizə aparıram.  </verse>
+      </chapter>
+      <chapter osisID='Col.2'>
+        <verse osisID='Col.2.1'>İstəyirəm ki, həm siz, həm Laodikeyada olanlar, həm də mənim üzümü görməyənlərin hamısı üçün nə qədər böyük mübarizə apardığımı biləsiniz.</verse>
+        <verse osisID='Col.2.2'>Ürəklərinin cəsarət tapıb məhəbbətdə birləşməsini istəyirəm; belə ki idrakın verdiyi kamil etimadın bütün zənginliyinə nail olsunlar, Allahın sirri olan Məsihi dərk etsinlər.</verse>
+        <verse osisID='Col.2.3'>Çünki hikmət və biliyin bütün xəzinələri Məsihdə gizlədilmişdir.</verse>
+        <verse osisID='Col.2.4'>Bunu mən ona görə deyirəm ki, kimsə sizi dilə tutub aldatmasın.</verse>
+        <verse osisID='Col.2.5'>Çünki cismən uzaqda olsam da, ruhən sizinləyəm. İntizamınızı və Məsihə olan imanınızın möhkəmliyini görüb sevinirəm. </verse>
+        <verse osisID='Col.2.6'>Buna görə Rəbb Məsih İsanı qəbul etdiyiniz kimi Onda həyat sürün.</verse>
+        <verse osisID='Col.2.7'>Şükürlərlə dolub-daşaraq Onda kök salıb inkişaf edin və öyrəndiyiniz kimi imanda möhkəmlənin. </verse>
+        <verse osisID='Col.2.8'>Baxın, Məsihə deyil, insan adət-ənənəsinə, dünyanın ibtidai təlimlərinə istinad edərək fəlsəfə və boş aldadıcı sözlərlə kimsə sizi əsir etməsin.</verse>
+        <verse osisID='Col.2.9'>Çünki Allahın tam bütövlüyü bədəncə Məsihdə yaşayır.</verse>
+        <verse osisID='Col.2.10'>Siz də Onda tamamlanmısınız. O hər başçının və hakimin Başıdır.</verse>
+        <verse osisID='Col.2.11'>Həmçinin siz Məsihdə insan əli ilə deyil, Onun təmin etdiyi sünnətlə cismani təbiətdən ayrılaraq sünnət olundunuz.</verse>
+        <verse osisID='Col.2.12'>Vəftizdə Onunla birlikdə dəfn edildiniz və Onu ölülər arasından dirildən Allahın gücünə olan iman vasitəsilə Onunla birlikdə dirildiniz.</verse>
+        <verse osisID='Col.2.13'>Siz təqsirləriniz və cismani sünnətsizliyiniz üzündən ölü ikən Allah sizə Məsihlə birgə həyat verdi və bütün təqsirlərimizi bağışlayıb</verse>
+        <verse osisID='Col.2.14'>tələbləri ilə əleyhimizə və zərərimizə olan borc sənədini ləğv etdi, onu çarmıxa mıxlayaraq qarşımızdan götürdü.</verse>
+        <verse osisID='Col.2.15'>Allah başçıları və hakimləri tərk-silah edib, onlara çarmıxda qələbə çalaraq aləmdə rüsvay etdi. </verse>
+        <verse osisID='Col.2.16'>Buna görə qoy heç kim yemək-içmək üzündən yaxud bayram, Təzə Ay mərasimi ya Şənbə gününə görə sizi mühakimə etməsin.</verse>
+        <verse osisID='Col.2.17'>Çünki bunlar gələcək şeylərin kölgəsidir, əsli isə Məsihdədir.</verse>
+        <verse osisID='Col.2.18'>Qoy heç kim sizdən mütilik və mələklərə səcdə tələb edərək sizi mükafatınızdan məhrum etməsin. Belə bir şəxs gördüyü görüntülərə güvənir və boş yerə öz cismani ağlı ilə lovğalanır.</verse>
+        <verse osisID='Col.2.19'>O, bədənin Başı olan Məsih ilə əlaqəni itirdi. Bütün bədən buğumlar və bağlarla üzvi surətdə Məsihə bağlanaraq təmin olunur, qurulur və Allah bəslədiyinə görə böyüyür. </verse>
+        <verse osisID='Col.2.20'>Məsihlə birgə ölüb dünyanın ibtidai təlimlərindən qurtulduğunuz halda nə üçün dünyadakılar kimi yaşayaraq</verse>
+        <verse osisID='Col.2.21'>«buna əl vurma, bunu yemə, buna toxunma» kimi əmrlərə əməl edirsiniz?</verse>
+        <verse osisID='Col.2.22'>Bunların hamısı istifadə olunduqca məhv olub gedən şeylərlə əlaqədar olur, çünki insanların verdiyi əmrlərə və təlimlərə əsaslanır.</verse>
+        <verse osisID='Col.2.23'>Şübhəsiz, bu qaydalar uydurma dindarlıq, mütilik və bədənə xətər yetirməkdə zahirən müdrik görünür, amma cismani təbiətin həvəsinin qarşısını almaq üçün onların heç bir dəyəri yoxdur.  </verse>
+      </chapter>
+      <chapter osisID='Col.3'>
+        <verse osisID='Col.3.1'>Beləliklə, Məsihlə birlikdə dirildiyinizə görə ucalardakı şeyləri axtarın. Orada Məsih Allahın sağında oturub.</verse>
+        <verse osisID='Col.3.2'>Dünyəvi şeyləri deyil, ucalardakı şeyləri düşünün.</verse>
+        <verse osisID='Col.3.3'>Çünki siz ölmüsünüz və həyatınız Məsihlə birlikdə Allahda saxlanılıb.</verse>
+        <verse osisID='Col.3.4'>Həyatınız olan Məsih zühur edəndə siz də Onunla birgə izzətlə zühur edəcəksiniz. </verse>
+        <verse osisID='Col.3.5'>Buna görə cisminizin dünyəvi meylləri olan cinsi əxlaqsızlığı, murdarlığı, şəhvəti, pis ehtirası və bütpərəstliyə tay olan tamahkarlığı öldürün.</verse>
+        <verse osisID='Col.3.6'>Bunlara görə Allahın qəzəbi itaətsizlərin üzərinə gəlir.</verse>
+        <verse osisID='Col.3.7'>Əvvəllər siz bunların içində yaşayanda belə həyat sürdünüz.</verse>
+        <verse osisID='Col.3.8'>İndi isə siz də qəzəbi, hiddəti, kini, böhtanı, ağzınızdan çıxan ədəbsiz sözlər kimi şeylərin hamısını kənara atın.</verse>
+        <verse osisID='Col.3.9'>Bir-birinizə yalan deməyin, çünki köhnə mənliyinizi və onun əməllərini üzərinizdən çıxarıb</verse>
+        <verse osisID='Col.3.10'>yeni mənliyə büründünüz. Yeni mənliyiniz onu Yaradanın surətinə bənzər şəkildə təzələnir ki, biliyiniz tam olsun.</verse>
+        <verse osisID='Col.3.11'>Bu təzələnmədə Yunanla Yəhudi, sünnətli ilə sünnətsiz, barbar, Skif, qulla azad arasında fərq yoxdur: Məsih hər şeydir və hamımızdadır. </verse>
+        <verse osisID='Col.3.12'>Beləliklə, Allahın seçilmişləri, müqəddəsləri və sevimliləri kimi ürək mərhəməti, xeyirxahlıq, itaətkarlıq, həlimlik və səbirə bürünün.</verse>
+        <verse osisID='Col.3.13'>Bir-birinizə dözün və birinizin digərindən şikayəti varsa, bağışlayın. Rəbb sizi bağışladığı kimi siz də bağışlayın.</verse>
+        <verse osisID='Col.3.14'>Bütün bunlardan əlavə, kamil birliyin bağı olan məhəbbətə bürünün.</verse>
+        <verse osisID='Col.3.15'>Məsihin sülhü qoy ürəklərinizdə münsiflik etsin, çünki bir bədənin üzvləri kimi bu sülhə dəvət olundunuz. Həmçinin şükür edənlər olun!</verse>
+        <verse osisID='Col.3.16'>Qoy aranızda Məsihin kəlamı bütün zənginliyi ilə yaşasın. Bir-birinizə tam müdrikliklə təlim və nəsihət verin, məzmurlar, ilahilər və ruhani nəğmələr söyləyib ürəklərinizdə Allaha minnətdar ola-ola nəğmə oxuyun.</verse>
+        <verse osisID='Col.3.17'>Dediyiniz və etdiyiniz hər şeyi Rəbb İsanın adı ilə edin, Onun vasitəsilə Ata Allaha şükür edin. </verse>
+        <verse osisID='Col.3.18'>Ey qadınlar, Rəbdə olanlara layiq olduğu kimi ərlərinizə tabe olun. </verse>
+        <verse osisID='Col.3.19'>Ey ərlər, öz arvadlarınızı sevin və onlarla sərt davranmayın. </verse>
+        <verse osisID='Col.3.20'>Ey övladlar, hər işdə ata-ananıza itaət edin, çünki bu, Rəbbi razı salır. </verse>
+        <verse osisID='Col.3.21'>Ey atalar, övladlarınızı incitməyin, yoxsa cəsarətləri qırılar. </verse>
+        <verse osisID='Col.3.22'>Ey qullar, hər işdə dünyəvi ağalarınıza itaət edin. Bunu insanları razı salmaq üçün gözə xoş görünən xidmətlə deyil, səmimi qəlbdən, Allahdan qorxaraq edin.</verse>
+        <verse osisID='Col.3.23'>Gördüyünüz hər işi insanlar üçün deyil, Rəbb üçün edən kimi can-dildən edin.</verse>
+        <verse osisID='Col.3.24'>Bilin ki, Rəbdən bunun əvəzinə irs alacaqsınız, çünki siz Rəbb Məsihə qulluq edirsiniz.</verse>
+        <verse osisID='Col.3.25'>Kim haqsızlıq edərsə, işlətdiyi haqsızlığın əvəzini alacaq, çünki Rəbb tərəfkeşlik etməz.  </verse>
+      </chapter>
+      <chapter osisID='Col.4'>
+        <verse osisID='Col.4.1'>Ey ağalar, bilin ki, göydə sizin də Ağanız var. Ona görə qullarınızla ədalətli və insaflı olun. </verse>
+        <verse osisID='Col.4.2'>Özünüzü duaya həsr edin və duada şükür edərək oyaq durun.</verse>
+        <verse osisID='Col.4.3'>Eyni zamanda bizim üçün də dua edin ki, kəlamı yaymaq üçün Allah bizə bir qapı açsın və uğrunda həbs olunduğum Məsihin sirrini elan edim.</verse>
+        <verse osisID='Col.4.4'>Dua edin ki, mən bu sirri lazımınca açıq-aşkar bildirim. </verse>
+        <verse osisID='Col.4.5'>Kənar insanlarla müdrikliklə rəftar edin və hər fürsətdən istifadə edin.</verse>
+        <verse osisID='Col.4.6'>Sözünüz duzlu və hər zaman lütflə dolu olsun. Beləcə hər adama necə cavab vermək lazım olduğunu biləsiniz. </verse>
+        <verse osisID='Col.4.7'>Rəbdə sevimli qardaş, sadiq xidmətçi və əməkdaş olan Tixik mənim barəmdə hər şeyi sizə bildirəcək.</verse>
+        <verse osisID='Col.4.8'>Onu bu məqsədlə yanınıza göndərdim ki, bizim vəziyyətimizdən xəbərdar olasınız və o sizin qəlbinizi ovutsun.</verse>
+        <verse osisID='Col.4.9'>Onunla birlikdə sizlərdən biri olan sadiq və sevimli Onisim qardaşı da göndərirəm. Onlar sizə buradakı bütün işlər barədə məlumat verəcək. </verse>
+        <verse osisID='Col.4.10'>Mənimlə birlikdə məhbus olan Aristarx və Barnabanın əmisi oğlu Mark da sizə salam göndərir. Mark haqqında əmrləri almısınız. Yanınıza gəlsə, onu qəbul edin.</verse>
+        <verse osisID='Col.4.11'>Yust çağırılan Yeşua da sizə salam göndərir. Sünnətlilərdən yalnız bunlar Allahın Padşahlığı üçün mənim əməkdaşlarımdır və onlar mənə təsəlli verdilər. </verse>
+        <verse osisID='Col.4.12'>Məsih İsanın qulu və sizlərdən olan Epafra sizə salam göndərir. Allahın hər iradəsini yerinə yetirərək kamil və tam əminliklə möhkəm dayanasız deyə o sizin üçün hər zaman dualar edərək mübarizə aparır.</verse>
+        <verse osisID='Col.4.13'>Onun haqqında şəhadət edirəm ki, sizin üçün, Laodikeyada və Hierapolisdə olanlar üçün çox zəhmət çəkir. </verse>
+        <verse osisID='Col.4.14'>Sevimli həkim Luka və Dima da sizə salam göndərir. </verse>
+        <verse osisID='Col.4.15'>Laodikeyada olan bacı-qardaşlara, Nimfaya və onun evindəki cəmiyyətə salam söyləyin. </verse>
+        <verse osisID='Col.4.16'>Bu məktub aranızda oxunduqdan sonra onu Laodikeyalılar cəmiyyətində də oxudun, Laodikeyadan gələn məktubu isə siz də oxuyun.</verse>
+        <verse osisID='Col.4.17'>Arxipə bunu deyin: «Rəbdə sənə tapşırılan xidməti diqqətlə başa çatdır». </verse>
+        <verse osisID='Col.4.18'>Mən Paul bu salamı öz əlimlə yazıram. Unutmayın ki, mən həbsdəyəm. Sizə lütf olsun!  </verse>
+      </chapter>
+    </div></osisText>
+</osis>

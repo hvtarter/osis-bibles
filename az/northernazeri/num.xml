@@ -1,0 +1,1490 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace'>
+  <osisText osisIDWork='NorthernAzeri' osisRefWork='Bible' xml:lang='az'>
+    <header>
+      <revisionDesc>
+        <date>2012-01-07</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='NorthernAzeri'>
+        <title>Northern Azeri Translation</title>
+        <contributor/>
+        <creator>Mod2Zef (6)</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject/>
+        <date>2012-01-07</date>
+        <description>Northern Azeri Translation</description>
+        <publisher/>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>NorthernAzeri</identifier>
+        <source>no entry TextSource in sword.conf found</source>
+        <language type='IETF'>az</language>
+        <relation/>
+        <coverage>provide the bible to the nations of the world</coverage>
+        <rights>Copyrighted Kutsul Kitab; Permission to distribute granted to CrossWire</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='Num'>
+      <chapter osisID='Num.1'>
+        <verse osisID='Num.1.1'>
+            İsrail övladlarının Misirdən çıxmasının ikinci ilində, ikinci ayın birinci günü Sina səhrasında, Hüzur çadırında Rəbb Musaya belə dedi:</verse>
+        <verse osisID='Num.1.2'>«Bütün İsrail övladlarının icmasını, nəsilləri və ailələri ilə birlikdə siyahıya alın. Bütün kişiləri ayrı-ayrı sayıb adlarını yazın.</verse>
+        <verse osisID='Num.1.3'>İsraildə iyirmi və ondan yuxarı yaşda döyüşə qabil olan hər kişini sən və Harun siyahıya alıb dəstələrə ayıracaqsınız.</verse>
+        <verse osisID='Num.1.4'>Sizinlə bərabər hər qəbilədən bir kişi olsun; bu adamlar ailə başçısı olmalıdır.</verse>
+        <verse osisID='Num.1.5'>Sizə kömək edəcək adamlar bunlardır: </verse>
+        <verse osisID='Num.1.6'>Şimeondan: Surişadday oğlu Şelumiel; </verse>
+        <verse osisID='Num.1.7'>Yəhudadan: Amminadav oğlu Naxşon; </verse>
+        <verse osisID='Num.1.8'>İssakardan: Suar oğlu Netanel; </verse>
+        <verse osisID='Num.1.9'>Zevulundan: Xelon oğlu Eliav; </verse>
+        <verse osisID='Num.1.10'>Yusif övladlarından: </verse>
+        <verse osisID='Num.1.11'>Binyamindən: Gidoni oğlu Avidan; </verse>
+        <verse osisID='Num.1.12'>Dandan: Ammişadday oğlu Axiezer; </verse>
+        <verse osisID='Num.1.13'>Aşerdən: Okran oğlu Pagiel; </verse>
+        <verse osisID='Num.1.14'>Qaddan: Deuel oğlu Elyasaf; </verse>
+        <verse osisID='Num.1.15'>Naftalidən: Enan oğlu Axira». </verse>
+        <verse osisID='Num.1.16'>Bunlar icmadan təyin edilmiş adamlar, öz ata-babalarının qəbilə rəhbərləri və İsrailin tayfa başçıları idilər.</verse>
+        <verse osisID='Num.1.17'>Musa ilə Harun adları göstərilən bu adamları apardılar.</verse>
+        <verse osisID='Num.1.18'>İkinci ayın birinci günündə bütün icmanı topladılar; nəsillərinə və ailələrinə görə adlarının siyahısı ilə iyirmi və ondan yuxarı yaşda olanlar ayrı-ayrı yazıldılar.</verse>
+        <verse osisID='Num.1.19'>Rəbbin Musaya əmr etdiyi kimi onlar Sina səhrasında xalqı elə də siyahıya aldılar. </verse>
+        <verse osisID='Num.1.20'>İsrailin ilk oğlu Ruvenin övladlarından iyirmi və ondan yuxarı yaşda döyüşə qabil olan hər kişi mənsub olduğu nəsil və ailəyə görə adlar siyahısına ayrı-ayrı qeyd edildi.</verse>
+        <verse osisID='Num.1.21'>Ruven qəbiləsindən 46 500 nəfər siyahıya alındı. </verse>
+        <verse osisID='Num.1.22'>Şimeon övladlarından iyirmi və ondan yuxarı yaşda döyüşə qabil olan hər kişi mənsub olduğu nəsil və ailəyə görə adlar siyahısına ayrı-ayrı qeyd edildi.</verse>
+        <verse osisID='Num.1.23'>Şimeon qəbiləsindən 59 300 nəfər siyahıya alındı. </verse>
+        <verse osisID='Num.1.24'>Qad övladlarından iyirmi və ondan yuxarı yaşda döyüşə qabil olan hər kişi mənsub olduğu nəsil və ailəyə görə adlar siyahısına qeyd edildi.</verse>
+        <verse osisID='Num.1.25'>Qad qəbiləsindən 45 650 nəfər siyahıya alındı. </verse>
+        <verse osisID='Num.1.26'>Yəhuda övladlarından iyirmi və ondan yuxarı yaşda döyüşə qabil olan hər kişi mənsub olduğu nəsil və ailəyə görə adlar siyahısına qeyd edildi.</verse>
+        <verse osisID='Num.1.27'>Yəhuda qəbiləsindən 74 600 nəfər siyahıya alındı. </verse>
+        <verse osisID='Num.1.28'>İssakar övladlarından iyirmi və ondan yuxarı yaşda döyüşə qabil olan hər kişi mənsub olduğu nəsil və ailəyə görə adlar siyahısına qeyd edildi.</verse>
+        <verse osisID='Num.1.29'>İssakar qəbiləsindən 54 400 nəfər siyahıya alındı. </verse>
+        <verse osisID='Num.1.30'>Zevulun övladlarından iyirmi və ondan yuxarı yaşda döyüşə qabil olan hər kişi mənsub olduğu nəsil və ailəyə görə adlar siyahısına qeyd edildi.</verse>
+        <verse osisID='Num.1.31'>Zevulun qəbiləsindən 57 400 nəfər siyahıya alındı. </verse>
+        <verse osisID='Num.1.32'>Yusif nəslindən – Efrayim övladlarından iyirmi və ondan yuxarı yaşda döyüşə qabil olan hər kişi mənsub olduğu nəsil və ailəyə görə adlar siyahısına qeyd edildi.</verse>
+        <verse osisID='Num.1.33'>Efrayim qəbiləsindən 40 500 nəfər siyahıya alındı. </verse>
+        <verse osisID='Num.1.34'>Menaşşe övladlarından iyirmi və ondan yuxarı yaşda döyüşə qabil olan hər kişi mənsub olduğu nəsil və ailəyə görə adlar siyahısına qeyd edildi.</verse>
+        <verse osisID='Num.1.35'>Menaşşe qəbiləsindən 32 200 nəfər siyahıya alındı. </verse>
+        <verse osisID='Num.1.36'>Binyamin övladlarından iyirmi və ondan yuxarı yaşda döyüşə qabil olan hər kişi mənsub olduğu nəsil və ailəyə görə adlar siyahısına qeyd edildi.</verse>
+        <verse osisID='Num.1.37'>Binyamin qəbiləsindən 35 400 nəfər siyahıya alındı. </verse>
+        <verse osisID='Num.1.38'>Dan övladlarından iyirmi və ondan yuxarı yaşda döyüşə qabil olan hər kişi mənsub olduğu nəsil və ailəyə görə adlar siyahısına qeyd edildi.</verse>
+        <verse osisID='Num.1.39'>Dan qəbiləsindən 62 700 nəfər siyahıya alındı. </verse>
+        <verse osisID='Num.1.40'>Aşer övladlarından iyirmi və ondan yuxarı yaşda döyüşə qabil olan hər kişi mənsub olduğu nəsil və ailəyə görə adlar siyahısına qeyd edildi.</verse>
+        <verse osisID='Num.1.41'>Aşer qəbiləsindən 41 500 nəfər siyahıya alındı. </verse>
+        <verse osisID='Num.1.42'>Naftali övladlarından iyirmi və ondan yuxarı yaşda döyüşə qabil olan hər kişi mənsub olduğu nəsil və ailəyə görə adlar siyahısına qeyd edildi.</verse>
+        <verse osisID='Num.1.43'>Naftali qəbiləsindən 53 400 nəfər siyahıya alındı. </verse>
+        <verse osisID='Num.1.44'>Musa, Harun və İsrailin on iki rəhbəri tərəfindən bunlar siyahıya alındı; hər biri mənsub olduqları ailəni təmsil edirdi.</verse>
+        <verse osisID='Num.1.45'>İsraildə iyirmi və ondan yuxarı yaşda döyüşə qabil olan kişilərin hamısı mənsub olduqları ailəyə görə siyahıya alındı.</verse>
+        <verse osisID='Num.1.46'>Siyahıya alınanlar cəmi 603 550 nəfər idi. </verse>
+        <verse osisID='Num.1.47'>Lakin onların arasında Levililər ailələrinə görə siyahıya alınmadı.</verse>
+        <verse osisID='Num.1.48'>Çünki Rəbb Musaya demişdi:</verse>
+        <verse osisID='Num.1.49'>«Ancaq Levi qəbiləsini siyahıya alma və digər İsrail övladlarını aldığın siyahıya daxil etmə.</verse>
+        <verse osisID='Num.1.50'>Şəhadət məskəni ilə onun bütün avadanlığı və məskənə aid olan hər şey üçün məsuliyyəti Levililərin üzərinə qoy. Məskəni və onun bütün avadanlığını onlar daşısınlar, məskənə baxsınlar və onun ətrafında düşərgə salsınlar.</verse>
+        <verse osisID='Num.1.51'>Məskən daşınacağı zaman Levililər onu toplasınlar. Məskən bir yerə qoyulacağı zaman yenə Levililər onu qursunlar. Onlardan savayı məskənə yaxınlaşan öldürülsün.</verse>
+        <verse osisID='Num.1.52'>İsrail övladları öz çadırlarını bölüklərinə görə qursunlar. Hər kəs öz düşərgəsində bayrağının altında olsun.</verse>
+        <verse osisID='Num.1.53'>Levililər isə Şəhadət məskəni ətrafında düşərgə salsınlar ki, İsrail icması Rəbbin qəzəbinə düçar olmasın. Levililər Şəhadət məskəninə cavabdeh olsunlar». </verse>
+        <verse osisID='Num.1.54'>İsrail övladları bütün bunları Rəbbin Musaya əmr etdiyi kimi etdilər.  </verse>
+      </chapter>
+      <chapter osisID='Num.2'>
+        <verse osisID='Num.2.1'>
+          Rəbb Musaya və Haruna dedi:</verse>
+        <verse osisID='Num.2.2'>«İsrail övladları Hüzur çadırını əhatə edərək bir az kənarda, hər biri öz bayrağının altında ailələrinin nişanı ilə düşərgə salsınlar. </verse>
+        <verse osisID='Num.2.3'>Şərq tərəfində, gündoğana tərəf Yəhuda ordugahına aid bölüklər öz bayraqlarının altında düşərgə salsınlar. Yəhudalıların rəhbəri Amminadav oğlu Naxşon olsun.</verse>
+        <verse osisID='Num.2.4'>Yəhuda ordusunda 74 600 nəfər siyahıya alındı.</verse>
+        <verse osisID='Num.2.5'>Onun yanında düşərgə salanlar İssakar qəbiləsi olacaq. İssakarlıların rəhbəri Suar oğlu Netanel olsun.</verse>
+        <verse osisID='Num.2.6'>Onun ordusundan 54 400 nəfər siyahıya alındı.</verse>
+        <verse osisID='Num.2.7'>Sonra Zevulun qəbiləsi düşərgə salacaq. Zevulun övladlarının rəhbəri Xelon oğlu Eliav olsun.</verse>
+        <verse osisID='Num.2.8'>Onun ordusundan 57 400 nəfər siyahıya alındı.</verse>
+        <verse osisID='Num.2.9'>Yəhuda ordugahından bölüklərinə görə bütün sayılanlar 186 400 nəfər idi. Onlar birinci köçəcəklər. </verse>
+        <verse osisID='Num.2.10'>Cənub tərəfində Ruven ordugahına aid bölüklər öz bayraqlarının altında düşərgə salacaqlar. Ruvenlilərin rəhbəri Şedeur oğlu Elisur olsun.</verse>
+        <verse osisID='Num.2.11'>Ruven ordusundan 46 500 nəfər siyahıya alındı.</verse>
+        <verse osisID='Num.2.12'>Onun yanında düşərgə salanlar Şimeon qəbiləsi olacaq. Şimeonluların rəhbəri Surişadday oğlu Şelumiel olsun.</verse>
+        <verse osisID='Num.2.13'>Onun ordusundan 59 300 nəfər siyahıya alındı.</verse>
+        <verse osisID='Num.2.14'>Sonra Qad qəbiləsi düşərgə salacaq. Qadlıların rəhbəri Deuel oğlu Elyasaf olsun.</verse>
+        <verse osisID='Num.2.15'>Onun ordusundan 45 650 nəfər siyahıya alındı.</verse>
+        <verse osisID='Num.2.16'>Ruven ordugahından bölüklərinə görə sayılanların cəmi 151 450 nəfər idi. İkinci onlar gedəcəklər. </verse>
+        <verse osisID='Num.2.17'>Hüzur çadırı yola düşəndə Levililərin düşərgəsi düşərgələrin ortasında dursun. Hərə necə düşərgə salıbsa, həmin nizamla, öz bayrağı altında yola düşsün. </verse>
+        <verse osisID='Num.2.18'>Qərb tərəfində Efrayim ordugahına aid bölüklər öz bayraqlarının altında düşərgə salacaqlar. Efrayimlilərin rəhbəri Ammihud oğlu Elişama olsun.</verse>
+        <verse osisID='Num.2.19'>Efrayim ordusundan 40 500 nəfər siyahıya alındı.</verse>
+        <verse osisID='Num.2.20'>Onun yanında düşərgə salanlar Menaşşe qəbiləsi olacaq. Menaşşelilərin rəhbəri Pedahsur oğlu Qamliel olsun.</verse>
+        <verse osisID='Num.2.21'>Onun ordusundan 32 200 nəfər siyahıya alındı.</verse>
+        <verse osisID='Num.2.22'>Sonra Binyamin qəbiləsi düşərgə salacaq. Binyaminlilərin rəhbəri Gidoni oğlu Avidan olsun.</verse>
+        <verse osisID='Num.2.23'>Onun ordusundan 35 400 nəfər siyahıya alındı.</verse>
+        <verse osisID='Num.2.24'>Efrayim ordugahından bölüklərinə görə sayılanların cəmi 108 100 nəfər idi. Üçüncü onlar gedəcəklər. </verse>
+        <verse osisID='Num.2.25'>Şimal tərəfində Dan ordugahına aid bölüklər öz bayraqlarının altında düşərgə salacaqlar. Danlıların rəhbəri Ammişadday oğlu Axiezer olsun.</verse>
+        <verse osisID='Num.2.26'>Dan ordusundan 62 700 nəfər siyahıya alındı.</verse>
+        <verse osisID='Num.2.27'>Onun yanında düşərgə salanlar Aşer qəbiləsi olacaq. Aşerlilərin rəhbəri Okran oğlu Pagiel olsun.</verse>
+        <verse osisID='Num.2.28'>Onun ordusundan 41 500 nəfər siyahıya alındı.</verse>
+        <verse osisID='Num.2.29'>Sonra Naftali qəbiləsi düşərgə salacaq. Naftalililərin rəhbəri Enan oğlu Axira olsun.</verse>
+        <verse osisID='Num.2.30'>Onun ordusundan 53 400 nəfər siyahıya alındı.</verse>
+        <verse osisID='Num.2.31'>Dan ordugahından cəmi 157 600 nəfər siyahıya alındı. Öz bayraqlarının altında ən sonuncu onlar gedəcəklər». </verse>
+        <verse osisID='Num.2.32'>İsrail övladlarından ailələrinə görə siyahıya alınanlar bunlardır. Ordugahlardan bölüklərinə görə cəmi 603 550 nəfər siyahıya alındı.</verse>
+        <verse osisID='Num.2.33'>Ancaq Rəbbin Musaya əmr etdiyi kimi Levililər digər İsrail övladları ilə birgə siyahıya alınmadı.</verse>
+        <verse osisID='Num.2.34'>İsrail övladları Rəbbin Musaya əmr etdiyi hər şeyi yerinə yetirdilər. Bayraqlarının altında belə düşərgə saldılar və hər kəs nəsil və ailəsi ilə birgə belə yola düşdü.  </verse>
+      </chapter>
+      <chapter osisID='Num.3'>
+        <verse osisID='Num.3.1'>
+          Rəbb Sina dağında Musa ilə danışdığı zaman Harunla Musanın nəsil tarixçəsi belədir.</verse>
+        <verse osisID='Num.3.2'>Harun oğullarının adları belədir: ilk doğulan Nadav, Avihu, Eleazar və İtamar.</verse>
+        <verse osisID='Num.3.3'>Harun oğullarının kahinlik vəzifəsinə keçirdiyi məsh olunmuş kahinlər bunlardır.</verse>
+        <verse osisID='Num.3.4'>Nadav ilə Avihu Sina səhrasında Rəbbin önündə haram od təqdim edərkən oradaca öldülər. Onların övladları yox idi. Eleazarla İtamar ataları Harunun yanında kahinlik etdilər. </verse>
+        <verse osisID='Num.3.5'>Rəbb Musaya dedi:</verse>
+        <verse osisID='Num.3.6'>«Levi qəbiləsini gətir və kahin Harunun önündə dayandır ki, ona kömək etsinlər.</verse>
+        <verse osisID='Num.3.7'>Qoy Hüzur çadırında Harun və bütün icma üçün öz vəzifələrini yerinə yetirərək müqəddəs məskənə xidmət etsinlər.</verse>
+        <verse osisID='Num.3.8'>Hüzur çadırının bütün avadanlığına baxsınlar və məskənə xidmət edərək İsrail övladları üçün vəzifələrini yerinə yetirsinlər.</verse>
+        <verse osisID='Num.3.9'>Levililəri Harunla oğullarının ixtiyarına ver; onlar İsrail övladları arasından tamamilə Onun xidmətinə verilmişdir.</verse>
+        <verse osisID='Num.3.10'>Harunla oğullarına tapşır ki, öz kahinlik vəzifələrini yerinə yetirsinlər; müqəddəs yerə yaxınlaşan kənar adam isə öldürülsün». </verse>
+        <verse osisID='Num.3.11'>Rəbb Musaya dedi:</verse>
+        <verse osisID='Num.3.12'>«Budur, hər İsrail qadınının doğduğu ilk oğlan uşağının əvəzinə İsraillilər arasından Levililəri seçmişəm. Levililər Mənimdir.</verse>
+        <verse osisID='Num.3.13'>Çünki bütün ilk oğlanlar Mənimdir. Misir torpağında bütün ilk doğulanları məhv etdiyim gün İsraildə istər insan, istərsə heyvan – erkək olan bütün ilk doğulanları Özüm üçün ayırdım. Onlar Mənim olacaq. Rəbb Mənəm». </verse>
+        <verse osisID='Num.3.14'>Rəbb Sina səhrasında Musaya belə dedi:</verse>
+        <verse osisID='Num.3.15'>«Levililəri ailələrinə, nəsillərinə görə siyahıya al. Bir aylıq və ondan yuxarı yaşda olan bütün kişi cinsindən olanları siyahıya al».</verse>
+        <verse osisID='Num.3.16'>Musa da Rəbbin sözünə görə əmr edildiyi kimi onları siyahıya aldı.</verse>
+        <verse osisID='Num.3.17'>Adbaad Levi oğulları bunlardır: Gerşon, Qohat və Merari.</verse>
+        <verse osisID='Num.3.18'>Nəsillərinə görə Gerşonun nəsil başçısı olan oğullarının adları belədir: Livni və Şimey.</verse>
+        <verse osisID='Num.3.19'>Qohatın nəsil başçısı olan oğulları: Amram, İshar, Xevron və Uzziel.</verse>
+        <verse osisID='Num.3.20'>Merarinin nəsil başçısı olan oğulları: Maxli və Muşi. </verse>
+        <verse osisID='Num.3.21'>Livni və Şimey nəsilləri Gerşon nəslindəndir. Gerşon tayfaları bunlardır.</verse>
+        <verse osisID='Num.3.22'>Bir aylıq və ondan yuxarı yaşda olan bütün kişi cinsindən 7500 nəfər siyahıya alındı.</verse>
+        <verse osisID='Num.3.23'>Gerşon nəsilləri qərb tərəfində məskənin arxasında düşərgə salmalıdırlar.</verse>
+        <verse osisID='Num.3.24'>Gerşon nəslinə mənsub olan ailələrin rəhbəri Lael oğlu Elyasafdır.</verse>
+        <verse osisID='Num.3.25'>Hüzur çadırında Gerşon övladları Müqəddəs məskənə, çadır örtüklərinə, Hüzur çadırının girişində olan arakəsməyə,</verse>
+        <verse osisID='Num.3.26'>həyətin pərdələrinə, məskənlə qurbangahın ətrafındakı həyətin darvazasının arakəsməsi ilə iplərinə və bunlarla əlaqədar olan bütün xidmətə cavabdehdirlər. </verse>
+        <verse osisID='Num.3.27'>Amram, İshar, Xevron və Uzziel nəsilləri Qohat nəslindəndir. Qohat nəsilləri bunlardır.</verse>
+        <verse osisID='Num.3.28'>Bir aylıq və ondan yuxarı yaşda olan bütün kişi cinsindən 8600 nəfər siyahıya alındı. Onlar müqəddəs əşyalara cavabdehdirlər.</verse>
+        <verse osisID='Num.3.29'>Qohat nəsilləri çadırın cənub tərəfində düşərgə salmalıdırlar.</verse>
+        <verse osisID='Num.3.30'>Qohat nəsillərinə mənsub ailələrin rəhbəri Uzziel oğlu Elisafandır.</verse>
+        <verse osisID='Num.3.31'>Onlar sandığa, masaya, çıraqdana, qurbangahlara, müqəddəs yerdə ibadət üçün işlənən bütün əşyalara, arakəsmə pərdəsinə və bunlarla əlaqədar olan bütün xidmətə cavabdehdirlər.</verse>
+        <verse osisID='Num.3.32'>Levili rəhbərlərinin rəhbəri kahin Harun oğlu Eleazardır. O, Müqəddəs yerə cavabdeh olanlara nəzarətçi təyin edilmişdir. </verse>
+        <verse osisID='Num.3.33'>Maxli və Muşi nəsilləri Merari nəslindəndir. Merari nəsilləri bunlardır.</verse>
+        <verse osisID='Num.3.34'>Bir aylıq və ondan yuxarı yaşda olan bütün kişi cinsindən 6200 nəfər siyahıya alındı.</verse>
+        <verse osisID='Num.3.35'>Merari nəsillərinə mənsub ailələrin rəhbəri Avixayil oğlu Surieldir. Onlar məskənin şimal tərəfində düşərgə salmalıdırlar.</verse>
+        <verse osisID='Num.3.36'>Merarililərə məskənin çərçivələri, şüvülləri, dirəkləri, altlıqları, bütün avadanlığı və bunlarla əlaqədar bütün xidmət,</verse>
+        <verse osisID='Num.3.37'>məskənin ətrafındakı həyətin dirəkləri ilə altlıqları, payaları və ipləri həvalə olundu. </verse>
+        <verse osisID='Num.3.38'>Musa və Harun ilə oğulları məskənin şərq tərəfində, gündoğana doğru Hüzur çadırının önündə düşərgə salmalıdırlar. Onlar İsrail övladları üçün öz vəzifələrini yerinə yetirərək Müqəddəs məkana cavabdehdirlər. Oraya yaxınlaşan kənar adam öldürülməlidir. </verse>
+        <verse osisID='Num.3.39'>Rəbbin əmri ilə Musa və Harunun Levi nəsillərindən saydıqları bir aylıq və ondan yuxarı yaşda kişi cinsindən olanlar cəmi 22 000 nəfər idi. </verse>
+        <verse osisID='Num.3.40'>Rəbb Musaya dedi: «Bir aylıq və ondan yuxarı yaşda kişi cinsindən olan, ilk doğulan bütün İsrail övladlarını adları ilə siyahıya al.</verse>
+        <verse osisID='Num.3.41'>İsrail övladlarının bütün ilk oğlanlarının əvəzinə Levililəri və İsraillilərin ilk doğulan heyvanlarının əvəzinə Levililərin heyvanlarını Mənim üçün ayır. Rəbb Mənəm».</verse>
+        <verse osisID='Num.3.42'>Musa Rəbbin ona əmr etdiyi kimi etdi. İsrail övladları arasında bütün ilk doğulanları siyahıya aldı.</verse>
+        <verse osisID='Num.3.43'>Adları qeyd edilən, bir aylıq və ondan yuxarı yaşda ilk doğulan kişi cinsindən olanlar cəmi 22 273 nəfər idi. </verse>
+        <verse osisID='Num.3.44'>Rəbb Musaya dedi:</verse>
+        <verse osisID='Num.3.45'>«Levililəri İsrail övladlarının ilk doğulanlarının əvəzinə və Levililərin heyvanlarını onların heyvanları əvəzinə ayır. Levililər Mənim olacaq; Rəbb Mənəm».</verse>
+        <verse osisID='Num.3.46'>İsraillilərin ilk oğlanlarından olub Levililərin sayını aşan 273 nəfəri satın almaq məqsədi ilə,</verse>
+        <verse osisID='Num.3.47'>hər adam üçün hər şekeldə iyirmi gera olan Müqəddəs yerdəki şekelə görə beş şekel götür.</verse>
+        <verse osisID='Num.3.48'>Onları Levililərin sayını aşanları satınalma ödənişi olaraq Haruna və oğullarına ver.</verse>
+        <verse osisID='Num.3.49'>Musa Levililərlə əvəz olanların sayını aşan İsrail övladlarından satınalma ödənişini götürdü.</verse>
+        <verse osisID='Num.3.50'>İsrail övladlarının ilk oğlanlarından Müqəddəs yerdəki şekelə görə 1365 şekel aldı.</verse>
+        <verse osisID='Num.3.51'>Musa Rəbbin sözünə görə, Rəbbin ona əmr etdiyi kimi satınalma ödənişini Harunla oğullarına verdi.  </verse>
+      </chapter>
+      <chapter osisID='Num.4'>
+        <verse osisID='Num.4.1'>
+          Rəbb Musaya və Haruna dedi:</verse>
+        <verse osisID='Num.4.2'>«Levililər arasından Qohat övladlarına mənsub nəsillərlə ailələri siyahıya alın.</verse>
+        <verse osisID='Num.4.3'>Hüzur çadırında xidmət etməyə gələn otuz yaşından əlli yaşına qədər kişilərin hamısını hesablayın.</verse>
+        <verse osisID='Num.4.4'>Qohatlıların Hüzur çadırında xidməti budur: ən müqəddəs əşyalara baxmaq.</verse>
+        <verse osisID='Num.4.5'>Düşərgə yola düşəndə Harunla oğulları içəri girsinlər, arakəsmə pərdəsini endirərək onunla Şəhadət sandığını örtsünlər.</verse>
+        <verse osisID='Num.4.6'>Onun üzərinə suiti dərisindən örtük çəkərək üstünə büsbütün bənövşəyi kətan sərsinlər və onun şüvüllərini yerinə qoysunlar. </verse>
+        <verse osisID='Num.4.7'>Təqdis masası üzərinə bənövşəyi kətan sərərək kətanın üstündə sinilər, nimçələr, dolçalar və içmə təqdimi tökmək üçün piyalələr olmalıdır. Daimi çörək onun üzərində qalsın.</verse>
+        <verse osisID='Num.4.8'>Onların üzərinə al rəngli bir kətan sərərək suiti dərisindən bir örtük çəksinlər və onun şüvüllərini yerinə qoysunlar. </verse>
+        <verse osisID='Num.4.9'>Bənövşəyi kətan götürüb, işıq verəcək çıraqdanı, çıraqlarını, maşalarını, xəkəndazlarını və çıraqdan xidmətində işlədilən bütün zeytun yağı qablarını örtsünlər.</verse>
+        <verse osisID='Num.4.10'>Çıraqdanı və onun bütün avadanlığını suiti dərisindən bir örtüklə sarıyıb xərəyə qoysunlar. </verse>
+        <verse osisID='Num.4.11'>Qızıl qurbangahın üzərinə bənövşəyi kətan sərərək onu suiti dərisindən bir örtüklə örtsünlər və şüvüllərini taxsınlar.</verse>
+        <verse osisID='Num.4.12'>Müqəddəs yerdə ibadət zamanı işlədilən bütün əşyaları götürərək bənövşəyi kətanla sarısınlar və suiti dərisindən bir örtüklə örtüb xərəyə qoysunlar.</verse>
+        <verse osisID='Num.4.13'>Qurbangahdan külü təmizləyib, üzərinə tünd qırmızı kətan çəksinlər.</verse>
+        <verse osisID='Num.4.14'>İbadət zamanı işlədilən bütün əşyaları: xəkəndazı, çəngəlləri, kürəkləri, ləyənləri, qurbangahın bütün avadanlığını onun üzərinə qoysunlar. Sonra bunların üstünü suiti dərisindən bir örtüklə örtüb şüvüllərini taxsınlar. </verse>
+        <verse osisID='Num.4.15'>Düşərgə yola düşəndə Harunla oğulları müqəddəs əşyaları və bütün avadanlığı örtməyi qurtarandan sonra Qohatlılar onu daşımağa gəlsinlər. Amma müqəddəs şeylərə toxunmamalıdırlar ki, ölməsinlər. Hüzur çadırında olan bu şeyləri daşımaq məsuliyyəti Qohatlılara aiddir. </verse>
+        <verse osisID='Num.4.16'>Kahin Harun oğlu Eleazarın işi çıraq üçün zeytun yağına, ətirli buxura, daimi taxıl təqdimi və məsh yağına nəzarət etməkdir. O bütün məskənə və içində olan hər şeyə, müqəddəs yerlə avadanlığına nəzarət edəcəkdir». </verse>
+        <verse osisID='Num.4.17'>Rəbb Musaya və Haruna dedi:</verse>
+        <verse osisID='Num.4.18'>«Qoymayın ki Levililər arasından Qohatlıların nəsilləri yox olsun.</verse>
+        <verse osisID='Num.4.19'>Ancaq ən müqəddəs şeylərə yaxınlaşdıqları zaman ölməyib sağ qalsınlar deyə Harunla oğulları içəri girib onların hərəsini öz işinin üstünə və öz yükünün başında qoysun.</verse>
+        <verse osisID='Num.4.20'>Lakin Qohatlılar bir an belə, içəri girib müqəddəs əşyalara baxmasınlar, yoxsa ölərlər». </verse>
+        <verse osisID='Num.4.21'>Rəbb Musaya belə dedi:</verse>
+        <verse osisID='Num.4.22'>«Gerşonluları da mənsub olduqları ailələrə və nəsillərə görə siyahıya al.</verse>
+        <verse osisID='Num.4.23'>Onlardan otuz yaşından əlli yaşına qədər olanların hamısını siyahıya al. Qoy xidmət edib Hüzur çadırında iş görmək üçün gəlsinlər.</verse>
+        <verse osisID='Num.4.24'>İş görmək və yük daşımaq xüsusunda Gerşon nəsillərinin vəzifəsi budur:</verse>
+        <verse osisID='Num.4.25'>Müqəddəs məskənin pərdələrini, Hüzur çadırı ilə onun örtüyünü, üzərindəki suiti dərisindən xarici örtüyü, Hüzur çadırının girişində olan arakəsməni,</verse>
+        <verse osisID='Num.4.26'>həyətin pərdələrini və qurbangahın ətrafındakı həyətin darvazasının arakəsməsi ilə iplərini və onların ibadət üçün işlənən bütün əşyalarını daşısınlar; bu şeylərlə görüləcək bütün işləri Gerşonlular görsünlər.</verse>
+        <verse osisID='Num.4.27'>İstər yük daşımaq, istərsə başqa iş görmək, edəcəkləri bütün xidmətlər Harunla oğullarının rəhbərliyi ilə görülsün. Gerşonlular daşıyacaqları hər yükə cavabdeh olsunlar.</verse>
+        <verse osisID='Num.4.28'>Hüzur çadırında Gerşon nəsillərinin xidməti budur. Onların vəzifələri kahin Harun oğlu İtamarın nəzarəti altında olsun. </verse>
+        <verse osisID='Num.4.29'>Merarililəri mənsub olduqları nəsillərə və ailələrə görə siyahıya al.</verse>
+        <verse osisID='Num.4.30'>Otuz yaşından əlli yaşına qədər Hüzur çadırının işini görmək üçün gələnlərin hamısını siyahıya al.</verse>
+        <verse osisID='Num.4.31'>Hüzur çadırında xidmət edərkən onların vəzifəsi budur: məskənin çərçivələrini, şüvüllərini, dirəklərini, altlıqlarını,</verse>
+        <verse osisID='Num.4.32'>çadırın ətrafındakı həyətin dirəkləri ilə altlıqlarını, payalarını, iplərini, bütün avadanlığını və işlətdikləri hər şeyi daşımaq. Hər kəsi adbaad təyin et ki, müəyyən əşyaları daşısın.</verse>
+        <verse osisID='Num.4.33'>Hüzur çadırında Merari nəsillərinin vəzifəsi budur. Onlar kahin Harun oğlu İtamarın nəzarəti altında xidmət edəcəklər». </verse>
+        <verse osisID='Num.4.34'>Musa ilə Harun və icma başçıları, Qohatlılardan nəsillərə və ailələrə görə</verse>
+        <verse osisID='Num.4.35'>otuz yaşından əlli yaşına qədər Hüzur çadırına xidmət edib iş görmək üçün gələn kişilərin hamısını siyahıya aldılar.</verse>
+        <verse osisID='Num.4.36'>Nəsillərinə görə 2 750 nəfər siyahıya alındı.</verse>
+        <verse osisID='Num.4.37'>Hüzur çadırında xidmət edən Qohat nəsillərinə mənsub kişilərin cəmi bu idi. Rəbbin Musa vasitəsilə verdiyi əmrə görə Musa ilə Harun onları siyahıya aldılar. </verse>
+        <verse osisID='Num.4.38'>Gerşonlulardan nəsillərinə və ailələrinə görə</verse>
+        <verse osisID='Num.4.39'>otuz yaşından əlli yaşına qədər Hüzur çadırına xidmət edib iş görmək üçün gələn kişilərin hamısı siyahıya alındı.</verse>
+        <verse osisID='Num.4.40'>Nəsillərinə və ailələrinə görə 2630 nəfər siyahıya alındı.</verse>
+        <verse osisID='Num.4.41'>Gerşon nəslindən siyahıya alınan, Hüzur çadırında xidmət edən kişilərin cəmi bu idi. Rəbbin əmrinə görə Musa ilə Harun onları siyahıya aldılar. </verse>
+        <verse osisID='Num.4.42'>Merari övladlarından nəsillərinə və ailələrinə görə</verse>
+        <verse osisID='Num.4.43'>otuz yaşından əlli yaşına qədər Hüzur çadırına xidmət edib iş görmək üçün gələn kişilərin hamısı siyahıya alındı.</verse>
+        <verse osisID='Num.4.44'>Nəsillərinə görə 3200 nəfər siyahıya alındı.</verse>
+        <verse osisID='Num.4.45'>Hüzur çadırında xidmət edən Merari nəsillərinə mənsub kişilərin cəmi bu idi. Rəbbin Musa vasitəsi ilə verdiyi əmrə görə Musa ilə Harun onları siyahıya aldılar. </verse>
+        <verse osisID='Num.4.46'>Musa ilə Harun və İsrail rəhbərləri, nəsillərinə və ailələrinə görə bütün Levililəri,</verse>
+        <verse osisID='Num.4.47'>otuz yaşından əlli yaşına qədər, Hüzur çadırında xidmət etmək və yük daşımaq üçün gələn kişilərin hamısını siyahıya aldılar.</verse>
+        <verse osisID='Num.4.48'>8580 nəfər siyahıya alındı.</verse>
+        <verse osisID='Num.4.49'>Rəbbin əmrinə görə hər biri edəcəyi xidmətə və daşıyacağı yükə görə Musanın nəzarəti ilə siyahıya alındılar; onlar Rəbbin Musaya əmr etdiyi kimi siyahıya alındılar.  </verse>
+      </chapter>
+      <chapter osisID='Num.5'>
+        <verse osisID='Num.5.1'>
+          Rəbb Musaya dedi:</verse>
+        <verse osisID='Num.5.2'>«İsrail övladlarına əmr et ki, bütün iyrənc dəri xəstəliyi və xəstəliyə görə bədən axıntısı olan yaxud da meyitdən murdarlanan hər kəsi düşərgədən çıxarsınlar.</verse>
+        <verse osisID='Num.5.3'>Onlar istər kişi olsun, istər qadın, arasında olduğum düşərgələrini murdar etməsinlər, onları düşərgədən çıxarın».</verse>
+        <verse osisID='Num.5.4'>İsrail övladları beləcə etdilər: onları düşərgədən çıxardılar. Rəbb Musaya necə söylədisə, İsrail övladları elə də etdilər. </verse>
+        <verse osisID='Num.5.5'>Rəbb Musaya dedi:</verse>
+        <verse osisID='Num.5.6'>«İsrail övladlarına söylə: “İnsanların işlətdiyi günahlardan birini edərək Rəbbə xəyanət edən kişi yaxud qadın təqsirkardır”.</verse>
+        <verse osisID='Num.5.7'>Qoy o işlətdiyi günahı etiraf edib təqsirinin əvəzinin beşdə birini əlavə edərək qarşısında təqsirkar olan adama ödəsin.</verse>
+        <verse osisID='Num.5.8'>Əgər o adamın təqsirinin əvəzini ala biləcək qohumu yoxdursa, ödənəcək əvəz Rəbb üçün verilsin; qoy bu təqsirkar üçün verdiyi kəffarə təkəsi ilə birlikdə kahininki olsun.</verse>
+        <verse osisID='Num.5.9'>İsrail övladlarının kahinə təqdim etdikləri bütün müqəddəs ianələr kahinə məxsusdur.</verse>
+        <verse osisID='Num.5.10'>Hər kəsin özü üçün təqdis etdiyi əşyalar özünə məxsusdur, amma kahinə nə verərlərsə, kahinə aiddir». </verse>
+        <verse osisID='Num.5.11'>Rəbb Musaya belə dedi:</verse>
+        <verse osisID='Num.5.12'>«İsrail övladlarına belə söylə: “Bir kişinin arvadı əyri yola düşüb ona xəyanət etsə və</verse>
+        <verse osisID='Num.5.13'>başqa kişi ilə yaxınlıq edib cinsi əlaqədə olduğu ərindən gizlədilirsə və beləcə qadının murdar işi ortaya çıxmamışsa, heç bir şahid olmadığı üçün günah üstündə tutulmamışsa,</verse>
+        <verse osisID='Num.5.14'>əri qısqanclığa qapılıb murdar iş görən arvadından şübhələnməyə başlayarsa yaxud arvadı murdar iş görmədiyi halda yenə qısqanclığa qapılıb ondan şübhələnərsə,</verse>
+        <verse osisID='Num.5.15'>kişi arvadını kahinin yanına aparsın və arvadı üçün təqdim olaraq istənilən efanın onda biri qədər arpa unu gətirsin. Onun üzərinə nə zeytun yağı töksün, nə də kündür qoysun, çünki bu qısqanclıq üçün taxıl təqdimidir. Təqsirkarlığı xatırladan xatirə təqdimidir. </verse>
+        <verse osisID='Num.5.16'>Kahin qadını Rəbbin hüzuruna gətirsin;</verse>
+        <verse osisID='Num.5.17'>gil qaba müqəddəs su alaraq müqəddəs məskənin döşəməsindən toz götürüb suya salsın.</verse>
+        <verse osisID='Num.5.18'>Kahin qadını Rəbbin önündə dayandıraraq onun saçını dağıtsın. Sonra xatirə təqdimini onun ovuclarına qoysun. Bu, qısqanclıq üçün taxıl təqdimidir. Kahinin əlində isə lənət gətirən acı su olacaq.</verse>
+        <verse osisID='Num.5.19'>Kahin qadına and içdirib desin: ‹Əgər sən başqa kişi ilə yaxınlıq etməmisənsə, ərinin nikahı altında olaraq əyri yola düşüb murdarlıq etməmisənsə, lənət gətirən bu acı su sənə zərər vurmayacaq.</verse>
+        <verse osisID='Num.5.20'>Lakin əri ilə nikahda olaraq əyri yola düşərək ərindən başqa bir kişi ilə yaxınlıq edib murdar olmusansa›</verse>
+        <verse osisID='Num.5.21'>onda kahin qadına lənət andını içdirib belə desin: ‹Rəbb sənin bətnini sonsuz edib qarnını şişirtdiyi zaman səni xalqının içində lənət və töhmətə düçar etsin.</verse>
+        <verse osisID='Num.5.22'>Lənət gətirən bu su sənin qarnını şişirtmək və bətnini sonsuz etmək üçün bağırsaqlarına daxil olsun›. Qadın ‹Amin, amin!› desin. </verse>
+        <verse osisID='Num.5.23'>Kahin bu lənətləri bir tumara yazsın və acı suda islatsın,</verse>
+        <verse osisID='Num.5.24'>sonra lənət gətirən acı suyu qadına içirtsin. Lənət gətirən su onun bətninə girəcək və acı olacaq.</verse>
+        <verse osisID='Num.5.25'>Kahin qısqanclıq üçün taxıl təqdimini qadının əlindən alsın və Rəbbin hüzurunda yellədikdən sonra qurbangaha gətirsin.</verse>
+        <verse osisID='Num.5.26'>Xatirə təqdimi olaraq taxıl təqdimindən ovuc dolusu götürsün və qurbangahda tüstülədib yandırsın, sonra qadına suyu içirtsin.</verse>
+        <verse osisID='Num.5.27'>Qadına suyu içirdikdən sonra əgər qadın murdar olub ərinə xəyanət etmişsə, lənət gətirən su onun bətninə girəcək və acılıq verəcək; onun qarnı şişəcək, bətni sonsuz olacaq və özü xalqının arasında lənətlənəcəkdir.</verse>
+        <verse osisID='Num.5.28'>Əgər qadın murdarlıq etməmişsə və pakdırsa, su zərər vurmayacaq və uşaq doğa biləcəkdir. </verse>
+        <verse osisID='Num.5.29'>Qısqanclığa aid olan qanun belədir: bir qadın əri ilə nikahda olarkən əyri yola düşüb murdar olanda</verse>
+        <verse osisID='Num.5.30'>yaxud bir kişi qısqanclığa qapılıb arvadından şübhələnəndə kahin qadını Rəbbin hüzurunda qoysun və ona bütün bu qanunu icra etsin.</verse>
+        <verse osisID='Num.5.31'>Kişi bu işdə cəzasız qalsın, o qadın isə öz günahının cəzasını çəksin”».  </verse>
+      </chapter>
+      <chapter osisID='Num.6'>
+        <verse osisID='Num.6.1'>
+          Rəbb Musaya belə dedi:</verse>
+        <verse osisID='Num.6.2'>«İsrail övladlarına söylə və onlara əmr et: “Bir kişi və yaxud bir qadın nəzirilik əhdi edib özünü Rəbbə həsr edərsə,</verse>
+        <verse osisID='Num.6.3'>şərabdan və başqa kefləndirici içkidən çəkinsin. Hətta şərab sirkəsi də, başqa kefləndirici içkidən hazırlanmış sirkə də, üzüm suyu da içməsin; nə üzüm, nə də kişmiş yesin.</verse>
+        <verse osisID='Num.6.4'>Nəziri olduğu müddətdə çəyirdəkdən qabığa qədər meynədən istehsal edilmiş heç bir şey yeməsin. </verse>
+        <verse osisID='Num.6.5'>Nəziri olduğu bütün müddətdə başına ülgüc dəyməsin, saçını uzatsın; özünü Rəbbə həsr etdiyi müddət qurtarana qədər müqəddəs olsun. </verse>
+        <verse osisID='Num.6.6'>Özünü Rəbbə həsr etdiyi günlərdə meyitə yaxınlaşmasın.</verse>
+        <verse osisID='Num.6.7'>Atası və anası, qardaşı və bacısı ölsə, onlara görə özünü murdar etməsin; çünki özünü Allahına həsretmə rəmzi onun başı üzərindədir.</verse>
+        <verse osisID='Num.6.8'>Nəziri olduğu bütün müddətdə o, Rəbbə həsr edilmişdir. </verse>
+        <verse osisID='Num.6.9'>Yanında bir adam birdən-birə qəflətən ölərsə və nəzirinin saçını murdar eləyərsə, o təmiz olduğu gün – yeddinci gün başını qırxdırsın.</verse>
+        <verse osisID='Num.6.10'>Səkkizinci gün Hüzur çadırının girişində kahinə iki qumru quşu yaxud iki göyərçin gətirsin.</verse>
+        <verse osisID='Num.6.11'>Kahin birini günah qurbanı və o birini yandırma qurbanı kimi təqdim etsin ki, nəzirinin günahı üçün kəffarə olsun, çünki meyitlə bir yerdə olmaqla o günah işlətdi. Həmin gün yenidən başını təqdis etsin.</verse>
+        <verse osisID='Num.6.12'>Nəziri olduğu müddətdə özünü Rəbbə yenidən həsr etsin və təqsir qurbanı olaraq birillik erkək toğlu gətirsin. Əvvəlki günlər isə boşa getsin, çünki nəziriliyi murdarlanmışdır. </verse>
+        <verse osisID='Num.6.13'>Nəziriyə aid olan qanun budur: özünü həsr etdiyi müddət qurtaranda nəziri Hüzur çadırının girişinə gətirilsin.</verse>
+        <verse osisID='Num.6.14'>Orada Rəbbə bu təqdimləri gətirsin: yandırma qurbanı olaraq birillik qüsursuz bir erkək toğlu, günah qurbanı olan birillik qüsursuz bir dişi toğlu, ünsiyyət qurbanı olan qüsursuz bir qoç,</verse>
+        <verse osisID='Num.6.15'>bir səbət mayasız çörək, narın undan zeytun yağı ilə yoğrulmuş mayasız kökələrdən və üstünə zeytun yağı sürtülmüş mayasız qoğallardan ibarət olan taxıl təqdimləri və içmə təqdimləri.</verse>
+        <verse osisID='Num.6.16'>Kahin Rəbbin önündə onları təqdim etsin; günah qurbanını və yandırma qurbanını gətirsin.</verse>
+        <verse osisID='Num.6.17'>Mayasız çörək səbəti ilə birgə qoçu Rəbbə ünsiyyət qurbanı kimi gətirsin; kahin onun taxıl təqdimi ilə içmə təqdimini də gətirsin.</verse>
+        <verse osisID='Num.6.18'>Nəziri Hüzur çadırının girişində öz həsr etdiyi saçını qırxsın, sonra saçını götürüb ünsiyyət qurbanının altındakı oda qoysun.</verse>
+        <verse osisID='Num.6.19'>Nəziri həsr etdiyi saçını qırxdıqdan sonra kahin qoçun bişmiş bir qolunu, səbətdən götürdüyü mayasız bir kökə və mayasız bir qoğal ilə birgə nəzirinin ovuclarına qoysun.</verse>
+        <verse osisID='Num.6.20'>Sonra yellətmə təqdimi kimi onları Rəbbin hüzurunda yellətsin. Onlar yellədilən döş əti və qaldırılan budla birgə müqəddəsdir, kahinə məxsusdur. Ondan sonra nəziri şərab içə bilər. </verse>
+        <verse osisID='Num.6.21'>Özünü həsr etdiyinə görə Rəbbə təqdimini və buna əlavə olaraq verə biləcəyi başqa şeyləri əhd edən nəziri ilə əlaqədar qanun budur. Nəzirilik qanuna görə nəziri nə əhd etmişsə, onu icra etməlidir”». </verse>
+        <verse osisID='Num.6.22'>Rəbb Musaya dedi:</verse>
+        <verse osisID='Num.6.23'>«Harun və oğullarına belə de: İsrail övladlarına belə xeyir-dua verin:</verse>
+        <verse osisID='Num.6.24'>“Qoy Rəbb sənə xeyir-dua verib səni qorusun;</verse>
+        <verse osisID='Num.6.25'>Rəbb Öz nurlu üzünü sənə göstərərək lütf versin.</verse>
+        <verse osisID='Num.6.26'>Rəbb üzünü sənə tərəf çevirsin, sənə sülh versin”. </verse>
+        <verse osisID='Num.6.27'>Beləcə kahinlər Mənim adımla İsrail övladlarına xeyir-dua verəndə Mən də onlara xeyir-dua verəcəyəm».  </verse>
+      </chapter>
+      <chapter osisID='Num.7'>
+        <verse osisID='Num.7.1'>
+          Musa məskəni qurub qurtaranda onu və bütün avadanlığını məsh və təqdis etdi. Qurbangah və bütün avadanlığını da məsh və təqdis etdi.</verse>
+        <verse osisID='Num.7.2'>Sonra İsrail rəhbərləri təqdimləri gətirdilər. Onlar nəsil başçıları, siyahıya alınan xalqa nəzarət edən qəbilə rəhbərləri idi.</verse>
+        <verse osisID='Num.7.3'>Rəbbə təqdim olaraq üstü örtülü altı araba və on iki öküz gətirdilər; hər iki rəhbər üçün bir araba və hər rəhbər üçün bir öküz. Bu təqdimləri məskənin önünə gətirdilər.</verse>
+        <verse osisID='Num.7.4'>Rəbb Musaya belə dedi:</verse>
+        <verse osisID='Num.7.5'>«Onları bu adamlardan götür ki, Hüzur çadırındakı xidmətlərdə işlənilsin. Onları Levililərə, hər birinin vəzifəsinə görə ver». </verse>
+        <verse osisID='Num.7.6'>Musa arabaları və öküzləri götürüb Levililərə verdi.</verse>
+        <verse osisID='Num.7.7'>Gerşonlulara vəzifələrinə görə iki araba və dörd öküz verdi;</verse>
+        <verse osisID='Num.7.8'>Merarililərə isə vəzifələrinə görə dörd araba və səkkiz öküz verdi. Onların hamısı kahin Harun oğlu İtamarın nəzarəti altında idi.</verse>
+        <verse osisID='Num.7.9'>Lakin Qohatlılara bir şey vermədi, çünki onların vəzifəsi müqəddəs əşyaları çiyinlərində daşımaqdır. </verse>
+        <verse osisID='Num.7.10'>Qurbangah məsh edilən gün rəhbərlər onun təqdisi üçün təqdimlər gətirdilər; onlar təqdimlərini qurbangahın qabağına gətirdilər.</verse>
+        <verse osisID='Num.7.11'>Çünki Rəbb Musaya demişdi: «Qurbangahın təqdisi üçün hər gün bir rəhbər öz təqdimini gətirsin». </verse>
+        <verse osisID='Num.7.12'>Birinci gün təqdimi gətirən Yəhuda qəbiləsindən Amminadav oğlu Naxşon oldu.</verse>
+        <verse osisID='Num.7.13'>Onun təqdimləri bunlar idi: Müqəddəs yerdəki şekelə görə yüz otuz şekel ağırlığında bir gümüş sini, yetmiş şekellik bir gümüş ləyən – bunların ikisi də taxıl təqdimi olaraq zeytun yağı ilə yoğrulmuş narın unla dolu idi;</verse>
+        <verse osisID='Num.7.14'>buxur dolu on şekel ağırlığında bir qızıl nimçə;</verse>
+        <verse osisID='Num.7.15'>yandırma qurbanı olaraq bir buğa, bir qoç, bir erkək toğlu;</verse>
+        <verse osisID='Num.7.16'>günah qurbanı olaraq bir təkə;</verse>
+        <verse osisID='Num.7.17'>ünsiyyət qurbanı olaraq iki öküz, beş qoç, beş təkə, beş erkək toğlu. Amminadav oğlu Naxşonun gətirdiyi təqdimlər bunlar idi. </verse>
+        <verse osisID='Num.7.18'>İkinci gün İssakarlıların rəhbəri Suar oğlu Netanel təqdimlərini gətirdi.</verse>
+        <verse osisID='Num.7.19'>Onun təqdimləri bunlar idi: Müqəddəs yerdəki şekelə görə yüz otuz şekel ağırlığında bir gümüş sini; yetmiş şekellik bir gümüş ləyən – bunların ikisi də taxıl təqdimi olaraq zeytun yağı ilə yoğrulmuş narın unla dolu idi;</verse>
+        <verse osisID='Num.7.20'>buxur dolu on şekel ağırlığında bir qızıl nimçə;</verse>
+        <verse osisID='Num.7.21'>yandırma qurbanı olaraq bir buğa, bir qoç, bir erkək toğlu;</verse>
+        <verse osisID='Num.7.22'>günah qurbanı olaraq bir təkə;</verse>
+        <verse osisID='Num.7.23'>qurban ediləcək ünsiyyət qurbanı olaraq iki öküz, beş qoç, beş təkə, beş erkək toğlu. Suar oğlu Netanelin gətirdiyi təqdimlər bunlar idi. </verse>
+        <verse osisID='Num.7.24'>Üçüncü gün Zevulunluların rəhbəri Xelon oğlu Eliav təqdimlərini gətirdi.</verse>
+        <verse osisID='Num.7.25'>Onun təqdimləri bunlar idi: Müqəddəs yerdəki şekelə görə yüz otuz şekel ağırlığında bir gümüş sini, yetmiş şekellik bir gümüş ləyən – bunların ikisi də taxıl təqdimi olaraq zeytun yağı ilə yoğrulmuş narın unla dolu idi;</verse>
+        <verse osisID='Num.7.26'>buxur dolu on şekel ağırlığında bir qızıl nimçə;</verse>
+        <verse osisID='Num.7.27'>yandırma qurbanı olaraq bir buğa, bir qoç, bir erkək toğlu;</verse>
+        <verse osisID='Num.7.28'>günah qurbanı olaraq bir təkə;</verse>
+        <verse osisID='Num.7.29'>qurban ediləcək ünsiyyət qurbanı olaraq iki öküz, beş qoç, beş təkə, beş erkək toğlu. Xelon oğlu Eliavın gətirdiyi təqdimlər bunlar idi. </verse>
+        <verse osisID='Num.7.30'>Dördüncü gün Ruvenlilərin rəhbəri Şedeur oğlu Elisur təqdimlərini gətirdi.</verse>
+        <verse osisID='Num.7.31'>Onun təqdimləri bunlar idi: Müqəddəs yerdəki şekelə görə yüz otuz şekel ağırlığında bir gümüş sini, yetmiş şekellik bir gümüş ləyən – bunların ikisi də taxıl təqdimi olaraq zeytun yağı ilə yoğrulmuş narın unla dolu idi;</verse>
+        <verse osisID='Num.7.32'>buxur dolu on şekel ağırlığında bir qızıl nimçə;</verse>
+        <verse osisID='Num.7.33'>yandırma qurbanı olaraq bir buğa, bir qoç, bir erkək toğlu;</verse>
+        <verse osisID='Num.7.34'>günah qurbanı olaraq bir təkə;</verse>
+        <verse osisID='Num.7.35'>qurban ediləcək ünsiyyət qurbanı olaraq iki öküz, beş qoç, beş təkə, beş erkək toğlu. Şedeur oğlu Elisurun gətirdiyi təqdimlər bunlar idi. </verse>
+        <verse osisID='Num.7.36'>Beşinci gün Şimeonluların rəhbəri Surişadday oğlu Şelumiel təqdimlərini gətirdi.</verse>
+        <verse osisID='Num.7.37'>Onun təqdimləri bunlar idi: Müqəddəs yerdəki şekelə görə yüz otuz şekel ağırlığında bir gümüş sini, yetmiş şekellik bir gümüş ləyən – bunların ikisi də taxıl təqdimi olaraq zeytun yağı ilə yoğrulmuş narın un ilə dolu idi;</verse>
+        <verse osisID='Num.7.38'>buxur dolu on şekel ağırlığında bir qızıl nimçə;</verse>
+        <verse osisID='Num.7.39'>yandırma qurbanı olaraq bir buğa, bir qoç, bir erkək toğlu;</verse>
+        <verse osisID='Num.7.40'>günah qurbanı olaraq bir təkə;</verse>
+        <verse osisID='Num.7.41'>ünsiyyət qurbanı olaraq iki öküz, beş qoç, beş təkə, beş erkək toğlu. Surişadday oğlu Şelumielin gətirdiyi təqdimlər bunlar idi. </verse>
+        <verse osisID='Num.7.42'>Altıncı gün Qadlıların rəhbəri Deuel oğlu Elyasaf təqdimlərini gətirdi.</verse>
+        <verse osisID='Num.7.43'>Onun təqdimləri bunlar idi: Müqəddəs yerdəki şekelə görə yüz otuz şekel ağırlığında bir gümüş sini, yetmiş şekellik bir gümüş ləyən – bunların ikisi də taxıl təqdimi olaraq zeytun yağı ilə yoğrulmuş narın unla dolu idi;</verse>
+        <verse osisID='Num.7.44'>buxur dolu on şekel ağırlığında bir qızıl nimçə;</verse>
+        <verse osisID='Num.7.45'>yandırma qurbanı olaraq bir buğa, bir qoç, bir erkək toğlu;</verse>
+        <verse osisID='Num.7.46'>günah qurbanı olaraq bir təkə;</verse>
+        <verse osisID='Num.7.47'>ünsiyyət qurbanı olaraq iki öküz, beş qoç, beş təkə, beş erkək toğlu. Deuel oğlu Elyasafın gətirdiyi təqdimlər bunlar idi. </verse>
+        <verse osisID='Num.7.48'>Yeddinci gün Efrayimlilərin rəhbəri Ammihud oğlu Elişama təqdimlərini gətirdi.</verse>
+        <verse osisID='Num.7.49'>Onun təqdimləri bunlar idi: Müqəddəs yerdəki şekelə görə yüz otuz şekel ağırlığında bir gümüş sini, yetmiş şekellik bir gümüş ləyən – bunların ikisi də taxıl təqdimi olaraq zeytun yağı ilə yoğrulmuş narın unla dolu idi;</verse>
+        <verse osisID='Num.7.50'>buxur dolu on şekel ağırlığında bir qızıl nimçə;</verse>
+        <verse osisID='Num.7.51'>yandırma qurbanı olaraq bir buğa, bir qoç, bir erkək toğlu;</verse>
+        <verse osisID='Num.7.52'>günah qurbanı olaraq bir təkə;</verse>
+        <verse osisID='Num.7.53'>ünsiyyət qurbanı olaraq iki öküz, beş qoç, beş təkə, beş erkək toğlu. Ammihud oğlu Elişamanın gətirdiyi təqdimlər bunlar idi. </verse>
+        <verse osisID='Num.7.54'>Səkkizinci gün Menaşşelilərin rəhbəri Pedahsur oğlu Qamliel təqdimlərini gətirdi.</verse>
+        <verse osisID='Num.7.55'>Onun təqdimləri bunlar idi: Müqəddəs yerdəki şekelə görə yüz otuz şekel ağırlığında bir gümüş sini, yetmiş şekellik bir gümüş ləyən – bunların ikisi də taxıl təqdimi olaraq zeytun yağı ilə yoğrulmuş narın unla dolu idi;</verse>
+        <verse osisID='Num.7.56'>buxur dolu on şekel ağırlığında bir qızıl nimçə;</verse>
+        <verse osisID='Num.7.57'>yandırma qurbanı olaraq bir buğa, bir qoç, bir erkək toğlu;</verse>
+        <verse osisID='Num.7.58'>günah qurbanı olaraq bir təkə;</verse>
+        <verse osisID='Num.7.59'>ünsiyyət qurbanı olaraq iki öküz, beş qoç, beş təkə, beş erkək toğlu. Pedahsur oğlu Qamlielin gətirdiyi təqdimlər bunlar idi. </verse>
+        <verse osisID='Num.7.60'>Doqquzuncu gün Binyaminlilərin rəhbəri Gidoni oğlu Avidan təqdimlərini gətirdi.</verse>
+        <verse osisID='Num.7.61'>Onun təqdimləri bunlar idi: Müqəddəs yerdəki şekelə görə yüz otuz şekel ağırlığında bir gümüş sini, yetmiş şekellik bir gümüş ləyən – bunların ikisi də taxıl təqdimi olaraq zeytun yağı ilə yoğrulmuş narın unla dolu idi;</verse>
+        <verse osisID='Num.7.62'>buxur dolu on şekel ağırlığında bir qızıl nimçə;</verse>
+        <verse osisID='Num.7.63'>yandırma qurbanı olaraq bir buğa, bir qoç, bir erkək toğlu;</verse>
+        <verse osisID='Num.7.64'>günah qurbanı olaraq bir təkə;</verse>
+        <verse osisID='Num.7.65'>ünsiyyət qurbanı olaraq iki öküz, beş qoç, beş təkə, beş erkək toğlu. Gidoni oğlu Avidanın gətirdiyi təqdimlər bunlar idi. </verse>
+        <verse osisID='Num.7.66'>Onuncu gün Danlıların rəhbəri Ammişadday oğlu Axiezer təqdimlərini gətirdi.</verse>
+        <verse osisID='Num.7.67'>Onun təqdimləri bunlar idi: Müqəddəs yerdəki şekelə görə yüz otuz şekel ağırlığında bir gümüş sini, yetmiş şekellik bir gümüş ləyən – bunların ikisi də taxıl təqdimi olaraq zeytun yağı ilə yoğrulmuş narın unla dolu idi;</verse>
+        <verse osisID='Num.7.68'>buxur dolu on şekel ağırlığında bir qızıl nimçə;</verse>
+        <verse osisID='Num.7.69'>yandırma qurbanı olaraq bir dana, bir qoç, bir erkək toğlu;</verse>
+        <verse osisID='Num.7.70'>günah qurbanı olaraq bir təkə;</verse>
+        <verse osisID='Num.7.71'>ünsiyyət qurbanı olaraq iki öküz, beş qoç, beş təkə, beş erkək toğlu. Ammişadday oğlu Axiezerin gətirdiyi təqdimlər bunlar idi. </verse>
+        <verse osisID='Num.7.72'>On birinci gün Aşerlilərin rəhbəri Okran oğlu Pagiel təqdimlərini gətirdi.</verse>
+        <verse osisID='Num.7.73'>Onun təqdimləri bunlar idi: Müqəddəs yerdəki şekelə görə yüz otuz şekel ağırlığında bir gümüş sini, yetmiş şekellik bir gümüş ləyən – bunların ikisi də taxıl təqdimi olaraq zeytun yağı ilə yoğrulmuş narın unla dolu idi;</verse>
+        <verse osisID='Num.7.74'>buxur dolu on şekel ağırlığında bir qızıl nimçə;</verse>
+        <verse osisID='Num.7.75'>yandırma qurbanı olaraq bir dana, bir qoç, bir erkək toğlu;</verse>
+        <verse osisID='Num.7.76'>günah qurbanı olaraq bir təkə;</verse>
+        <verse osisID='Num.7.77'>ünsiyyət qurbanı olaraq iki öküz, beş qoç, beş təkə, birillik beş erkək toğlu. Okran oğlu Pagielin gətirdiyi təqdimlər bunlar idi. </verse>
+        <verse osisID='Num.7.78'>On ikinci gün Naftalililərin rəhbəri Enan oğlu Axira təqdimlərini gətirdi.</verse>
+        <verse osisID='Num.7.79'>Onun təqdimləri bunlar idi: Müqəddəs yerdəki şekelə görə yüz otuz şekel ağırlığında bir gümüş sini, yetmiş şekellik bir gümüş ləyən – bunların ikisi də taxıl təqdimi olaraq zeytun yağı ilə yoğrulmuş unla dolu idi;</verse>
+        <verse osisID='Num.7.80'>buxur dolu on şekel ağırlığında bir qızıl nimçə;</verse>
+        <verse osisID='Num.7.81'>yandırma qurbanı olaraq bir buğa, bir qoç, bir erkək toğlu;</verse>
+        <verse osisID='Num.7.82'>günah qurbanı olaraq bir təkə;</verse>
+        <verse osisID='Num.7.83'>ünsiyyət qurbanı olaraq iki öküz, beş qoç, beş təkə, beş erkək toğlu. Enan oğlu Axiranın gətirdiyi təqdimlər bunlar idi. </verse>
+        <verse osisID='Num.7.84'>Qurbangah məsh ediləndə İsrail rəhbərlərinin onun təqdisi üçün gətirdiyi təqdimlər bunlardır: on iki gümüş sini, on iki gümüş ləyən, on iki qızıl nimçə;</verse>
+        <verse osisID='Num.7.85'>hər gümüş nimçənin ağırlığı yüz otuz şekel və hər ləyənin ağırlığı isə yetmiş şekel idi; bütün gümüş qabların ağırlığı Müqəddəs yerdəki şekelə görə iki min dörd yüz şekel idi;</verse>
+        <verse osisID='Num.7.86'>buxurla dolu on iki qızıl nimçədən hər birinin ağırlığı Müqəddəs yerdəki şekelə görə on şekel olub. Beləliklə, nimçələrdəki bütün qızılın ağırlığı yüz iyirmi şekel idi;</verse>
+        <verse osisID='Num.7.87'>yandırma qurbanı olaraq, taxıl təqdimləri ilə birlikdə heyvanların cəmi on iki buğa, on iki qoç, on iki erkək toğlu və günah qurbanı olaraq on iki təkə;</verse>
+        <verse osisID='Num.7.88'>ünsiyyət qurbanı üçün heyvanların cəmi iyirmi dörd buğa, altmış qoç, altmış təkə, altmış erkək toğlu. Qurbangah məsh ediləndən sonra onun təqdisi üçün verilən təqdimlər bunlar idi. </verse>
+        <verse osisID='Num.7.89'>Musa Rəbb ilə danışmaq üçün Hüzur çadırına girdiyi zaman Şəhadət sandığında olan kəffarə qapağının üzərindəki iki keruvun arasından ona xitab edən Rəbbin səsini eşidərdi. Rəbb Musa ilə danışardı.  </verse>
+      </chapter>
+      <chapter osisID='Num.8'>
+        <verse osisID='Num.8.1'>
+            Rəbb Musaya belə dedi:</verse>
+        <verse osisID='Num.8.2'>«Haruna de: “Yeddi çırağı elə qoy ki, çıraqdanın önünü işıqlandırsın”». </verse>
+        <verse osisID='Num.8.3'>Harun belə etdi; Rəbbin Musaya əmr etdiyi kimi çıraqları çıraqdanın önündə yerləşdirdi.</verse>
+        <verse osisID='Num.8.4'>Çıraqdanın quruluşu belə idi: altlığından gül təsvirlərinə qədər yastılanmış qızıldan hazırlanmışdı. Çıraqdan Rəbbin Musaya göstərdiyi nümunəyə görə düzəldilmişdi. </verse>
+        <verse osisID='Num.8.5'>Rəbb Musaya dedi:</verse>
+        <verse osisID='Num.8.6'>«İsrail övladlarının arasından Levililəri götür və onları pak et.</verse>
+        <verse osisID='Num.8.7'>Onları pak etmək üçün belə et: paklama suyunu üzərlərinə çilə, sonra bədənlərindəki bütün tükləri qırxıb geyimlərini yusunlar. Beləliklə, pak olarlar.</verse>
+        <verse osisID='Num.8.8'>O zaman bir buğa və onun taxıl təqdimi olan zeytun yağı ilə yoğrulmuş narın un götürsünlər. Günah qurbanı olaraq yenə bir buğa götür.</verse>
+        <verse osisID='Num.8.9'>Levililəri Hüzur çadırının önünə gətir. İsrail övladlarının bütün icmasını da topla.</verse>
+        <verse osisID='Num.8.10'>Levililəri Rəbbin önünə gətirdikdə qoy İsrail övladları əllərini onların üzərinə qoysunlar.</verse>
+        <verse osisID='Num.8.11'>Harun yellətmə təqdimi olaraq İsrail övladlarının arasından Levililəri Rəbbin önünə gətirəcək ki, Rəbbə xidmət etsinlər.</verse>
+        <verse osisID='Num.8.12'>Levililər əllərini buğaların başlarına qoysunlar; birini günah qurbanı və o birini yandırma qurbanı olaraq Rəbbə gətir ki, Levililər üçün kəffarə olunsun.</verse>
+        <verse osisID='Num.8.13'>Levililəri Harunla oğullarının önündə dayandır. Sonra da onları Rəbbə gətirib yellətmə təqdimi olaraq həsr edəcəksən. </verse>
+        <verse osisID='Num.8.14'>Levililəri İsrail övladları arasından beləcə ayır ki, Levililər Mənim olsun.</verse>
+        <verse osisID='Num.8.15'>Levililəri pak edib yellətmə təqdimi olaraq həsr et; bundan sonra onlar Hüzur çadırında xidmət etmək üçün içəri girə bilər.</verse>
+        <verse osisID='Num.8.16'>Çünki İsrail övladları arasından onlar tamamilə Mənə verilmişdir; İsrailli qadınların doğduğu bütün ilk oğlanların əvəzinə onları Özümə götürdüm.</verse>
+        <verse osisID='Num.8.17'>İsrail övladları arasında ilk doğulan bütün oğlanlar və bütün heyvan balaları Mənimdir; Misir diyarında bütün ilk oğlanları məhv etdiyim gün onları Özümə təqdis etdim.</verse>
+        <verse osisID='Num.8.18'>Ona görə də İsrail övladları arasında bütün ilk oğlanların yerinə Levililəri götürdüm.</verse>
+        <verse osisID='Num.8.19'>İsrail övladları arasından Levililəri Haruna və oğullarına hədiyyə olaraq verdim ki, Hüzur çadırında İsrail övladları üçün xidməti yerinə yetirib kəffarə etsinlər və beləcə Müqəddəs yerə yaxınlaşan İsrailliləri bəlaya düçar olmaqdan qorusunlar». </verse>
+        <verse osisID='Num.8.20'>Musa ilə Harun və bütün İsrail övladlarının icması Levililər üçün deyilənləri etdilər. İsrail övladları Rəbbin Levililər haqqında Musaya əmr etdiyi hər şeyi yerinə yetirdilər.</verse>
+        <verse osisID='Num.8.21'>Levililər özlərini pak edib geyimlərini yudular. Harun onları Rəbbin önünə gətirib yellədilən təqdim olaraq həsr etdi və onlar üçün kəffarə etdi ki, pak olsunlar.</verse>
+        <verse osisID='Num.8.22'>Ondan sonra Levililər Harunla oğullarının nəzarəti altında Hüzur çadırında xidmətlərini icra etmək üçün Rəbbin Musaya əmr etdiyini yerinə yetirdilər. </verse>
+        <verse osisID='Num.8.23'>Rəbb Musaya belə dedi:</verse>
+        <verse osisID='Num.8.24'>«Bu qanun Levililərə aiddir. İyirmi beş yaş və ondan yuxarı olanlar Hüzur çadırının işini görmək üçün içəri girsinlər.</verse>
+        <verse osisID='Num.8.25'>Əlli yaşa çatanda isə gördükləri xidmətlərini dayandırıb daha işləməməlidirlər.</verse>
+        <verse osisID='Num.8.26'>Hüzur çadırında öz vəzifələrini yerinə yetirən qardaşlarına yardım edə bilərlər, lakin özləri xidmət etməsinlər. Levililərin vəzifələrini belə qaydaya sal».  </verse>
+      </chapter>
+      <chapter osisID='Num.9'>
+        <verse osisID='Num.9.1'>
+            İsrail övladları Misir torpağından çıxdıqdan sonra ikinci ilin birinci ayında Rəbb Sina səhrasında Musaya dedi:</verse>
+        <verse osisID='Num.9.2'>«İsrail övladları Pasxa bayramını təyin olunmuş vaxtda qeyd etsinlər.</verse>
+        <verse osisID='Num.9.3'>Onu ayın on dördüncü günündə, axşamçağı, təyin olunmuş vaxtda keçirin; onu bütün qaydalarına və hökmlərinə görə qeyd edin».</verse>
+        <verse osisID='Num.9.4'>Beləcə Musa İsrail övladlarına əmr etdi ki, Pasxa bayramını keçirsinlər.</verse>
+        <verse osisID='Num.9.5'>Sina səhrasında, birinci ayın on dördüncü günündə, axşamçağı Pasxa bayramını keçirtdilər. İsrail övladları Rəbbin Musaya əmr etdiyi hər şeyi yerinə yetirdilər. </verse>
+        <verse osisID='Num.9.6'>Ölüyə toxunub murdar olan adamlar vardı ki, o gün onlar Pasxa bayramını keçirə bilmədilər. Həmin gün bu adamlar Musa və Harunun yanına gəlib</verse>
+        <verse osisID='Num.9.7'>belə dedilər: «Ölüyə görə biz murdarıq, nə üçün biz başqa İsrail övladları kimi Rəbbə qurban təqdim etməkdən məhrum olaq?»</verse>
+        <verse osisID='Num.9.8'>Musa onlara dedi: «Dayanın, görüm Rəbb sizin barədə nə əmr edəcək». </verse>
+        <verse osisID='Num.9.9'>Rəbb Musaya dedi:</verse>
+        <verse osisID='Num.9.10'>«İsrail övladlarına belə de: “Əgər sizdən yaxud nəslinizdən bir nəfər ölüyə toxunub murdar olarsa yaxud uzaq yolda olarsa, yenə də Rəbbin Pasxa bayramını keçirtsin.</verse>
+        <verse osisID='Num.9.11'>İkinci ayın on dördüncü günü axşamçağı Pasxa bayramını qeyd etsinlər. Pasxa qurbanını mayasız çörək və acı göyərti ilə yesinlər.</verse>
+        <verse osisID='Num.9.12'>Ondan sabaha qədər heç nə qalmasın və bir sümük belə qırılmasın. Pasxaya aid olan bütün qanunları icra etsinlər.</verse>
+        <verse osisID='Num.9.13'>Amma kim ki pakdır, uzaq yolda deyil və Pasxanı keçirmirsə, öz xalqı arasından qovulsun; çünki təyin olunan vaxtda Rəbbin təqdimini gətirməmişdir, o adam günahının cəzasını çəksin. </verse>
+        <verse osisID='Num.9.14'>Əgər sizinlə yaşayan bir yadelli Rəbbin Pasxa bayramını keçirmək istəyirsə, Pasxanı qaydalarına və hökmlərinə görə keçirsin; həm yadelli üçün, həm də yerli əhali üçün qayda bir olsun”». </verse>
+        <verse osisID='Num.9.15'>Məskənin qurulduğu gün məskəni, Şəhadət çadırını bulud bürüyərdi; axşamdan səhərə qədər məskənin üzərindəki bulud alova oxşayırdı.</verse>
+        <verse osisID='Num.9.16'>Daima belə oldu. Məskəni bürüyən bulud gecələr oda oxşayırdı.</verse>
+        <verse osisID='Num.9.17'>Bulud çadırın üzərindən qalxan zaman İsrail övladları köç edərdilər; əgər bulud harada dayanardısa, İsrail övladları da orada düşərgə salardılar.</verse>
+        <verse osisID='Num.9.18'>Onlar Rəbbin əmrinə görə yola düşər və Rəbbin əmrinə görə də məskən salardılar. Nə vaxt bulud məskənin üzərində dayanardısa, onlar düşərgə saldıqları yerdə qalardılar. </verse>
+        <verse osisID='Num.9.19'>Bulud uzun müddət çadırın üzərində dayananda İsrail övladları Rəbbin buyruğuna riayət edərdilər.</verse>
+        <verse osisID='Num.9.20'>Bəzən bulud məskənin üzərində bir neçə gün görünərdi; onlar Rəbbin əmrinə görə düşərgə saldıqları yerdə qalar, yenə Rəbbin əmrinə görə yola düşərdilər.</verse>
+        <verse osisID='Num.9.21'>Bəzən də bulud axşamdan səhərə kimi dayanırdı; səhər erkən bulud qalxdıqda yola düşərdilər. İstər gecə, istər gündüz olsun bulud qalxanda yola düşərdilər.</verse>
+        <verse osisID='Num.9.22'>İstər iki gün olsun, istər bir ay və yaxud bir il, bulud məskən üzərində dayanıb qalanda İsrail övladları düşərgə saldıqları yerdə qalar, köç etməzdilər. Lakin qalxan zaman yola düşərdilər.</verse>
+        <verse osisID='Num.9.23'>Rəbbin əmrinə görə düşərgə salardılar və Rəbbin əmrinə görə də yola düşərdilər. Musa vasitəsilə verdiyi əmrə görə Rəbbin buyruğuna riayət edərdilər.  </verse>
+      </chapter>
+      <chapter osisID='Num.10'>
+        <verse osisID='Num.10.1'>
+          Rəbb Musaya belə dedi:</verse>
+        <verse osisID='Num.10.2'>«Özünə yastılanmış gümüşdən iki kərənay düzəlt. Bunları icmanı çağırmaq və düşərgədəkilərin köçməsi üçün işlət.</verse>
+        <verse osisID='Num.10.3'>İki kərənay birdən çalınarsa, bütün icma sənin yanına, Hüzur çadırının girişinə toplansın.</verse>
+        <verse osisID='Num.10.4'>Əgər tək biri çalınarsa, rəhbərlər, İsrailin tayfa başçıları sənin yanına toplansınlar.</verse>
+        <verse osisID='Num.10.5'>Yüksək səslə çalınanda şərqi düşərgədəkilər yola düşsünlər.</verse>
+        <verse osisID='Num.10.6'>Yenə də yüksək səslə çalınanda cənubi düşərgədəkilər yola düşsünlər. Onları yola salmaq üçün yüksək səslə çalınsın.</verse>
+        <verse osisID='Num.10.7'>Camaatı toplamaq lazım olanda çalın, amma yüksək səslə çalmayın. </verse>
+        <verse osisID='Num.10.8'>Kərənayları Harun oğulları olan kahinlər çalsınlar. Bu, nəsildən-nəslə sizin üçün əbədi qayda olsun.</verse>
+        <verse osisID='Num.10.9'>Sizi torpağınızda sıxışdıran düşmənə qarşı döyüşə çıxanda kərənayları yüksək səslə çalın ki, Allahınız Rəbbin yadına düşüb düşmənlərinizdən xilas olasınız.</verse>
+        <verse osisID='Num.10.10'>Şad gününüzdə, bayramlarınızda və Təzə Ay mərasimində yandırma qurbanlarınızı və ünsiyyət qurbanınızı verərkən kərənay çalın; Allahınızın qarşısında bu sizin üçün bir xatirə olsun. Allahınız Rəbb Mənəm». </verse>
+        <verse osisID='Num.10.11'>İkinci ilin ikinci ayında, ayın iyirminci günündə Şəhadət məskəninin üzərindən bulud çəkildi.</verse>
+        <verse osisID='Num.10.12'>İsrail övladları köçlərinə görə Sina səhrasından yola düşdülər. Bulud Paran səhrasında dayandı. </verse>
+        <verse osisID='Num.10.13'>İlk dəfə olaraq Musa vasitəsilə Rəbbin əmrinə görə yola düşdülər.</verse>
+        <verse osisID='Num.10.14'>Öncə Yəhuda ordu dəstələri öz bayraqları altında yola düşdülər. Bu orduya Amminadav oğlu Naxşon rəhbərlik edirdi.</verse>
+        <verse osisID='Num.10.15'>İssakar qəbiləsinin ordusuna Suar oğlu Netanel rəhbərlik edirdi.</verse>
+        <verse osisID='Num.10.16'>Zevulun qəbiləsinin ordusuna isə Xelon oğlu Eliav rəhbərlik edirdi. </verse>
+        <verse osisID='Num.10.17'>Məskən söküləndə məskəni daşıyan Gerşon övladları və Merari övladları yola düşdülər. </verse>
+        <verse osisID='Num.10.18'>Ruven ordu dəstələri öz bayraqları altında yola düşdülər. Onlara Şedeur oğlu Elisur rəhbərlik edirdi.</verse>
+        <verse osisID='Num.10.19'>Şimeon qəbiləsinin ordusuna Surişadday oğlu Şelumiel rəhbərlik edirdi.</verse>
+        <verse osisID='Num.10.20'>Qad qəbiləsinin ordusuna Deuel oğlu Elyasaf rəhbərlik edirdi. </verse>
+        <verse osisID='Num.10.21'>Müqəddəs əşyaları daşıyan Qohatlılar yola düşdülər; onlar gələnədək o birilər məskəni qurardılar. </verse>
+        <verse osisID='Num.10.22'>Efrayim ordu dəstələri öz bayraqları altında yola düşdülər. Onlara Ammihud oğlu Elişama rəhbərlik edirdi.</verse>
+        <verse osisID='Num.10.23'>Menaşşe qəbiləsinin ordusuna Pedahsur oğlu Qamliel rəhbərlik edirdi.</verse>
+        <verse osisID='Num.10.24'>Binyamin qəbiləsinin ordusuna isə Gidoni oğlu Avidan rəhbərlik edirdi. </verse>
+        <verse osisID='Num.10.25'>Ən axırda isə Dan ordu dəstələri öz bayraqları altında yola düşdülər. Bu orduya Ammişadday oğlu Axiezer rəhbərlik edirdi.</verse>
+        <verse osisID='Num.10.26'>Aşer qəbiləsinin ordusuna Okran oğlu Pagiel,</verse>
+        <verse osisID='Num.10.27'>Naftali qəbiləsinin ordusuna Enan oğlu Axira rəhbərlik edirdi. </verse>
+        <verse osisID='Num.10.28'>İsrail ordu dəstələri bu nizamla yola düşərdilər. </verse>
+        <verse osisID='Num.10.29'>Musa qayınatası Midyanlı Reuel oğlu Xovava dedi: «Rəbbin “sizə verəcəyəm” dediyi yerə yola düşürük, bizimlə gəl, biz sənə yaxşılıq edərik. Çünki Rəbb İsrailə yaxşılıq edəcəyinə söz verib».</verse>
+        <verse osisID='Num.10.30'>Xovav ona dedi: «Gedə bilmərəm. Mən öz torpağıma və qohum-əqrəbamın yanına gedəcəyəm».</verse>
+        <verse osisID='Num.10.31'>Musa dedi: «Xahiş edirəm, bizi tərk etmə, çünki səhrada düşərgə salacağımız yerləri sən bilirsən. Bizə bələdçilik et.</verse>
+        <verse osisID='Num.10.32'>Bizimlə getsən, Rəbbin bizə edəcəyi yaxşılığı biz də sənə edərik». </verse>
+        <verse osisID='Num.10.33'>İsrail övladları Rəbbin dağından ayrılıb üç gün yol getdilər. Rəbbin Əhd sandığı da üç gün onların önündə getdi ki, dincələcəkləri yeri onlara göstərsin.</verse>
+        <verse osisID='Num.10.34'>Düşərgə saldıqları yerdən yola düşdükləri vaxt Rəbbin buludu gündüz onların üzərində idi. </verse>
+        <verse osisID='Num.10.35'>Sandıq yola düşəndə Musa deyirdi:  «Ya Rəbb qalx!Qoy düşmənlərin dağılsın,Sənə nifrət edənlər Sənin hüzurundan qaçsın». </verse>
+        <verse osisID='Num.10.36'>Sandıq dayananda belə deyirdi:  «Ya Rəbb, İsrail tayfalarının on minlərinin yanına qayıt». </verse>
+      </chapter>
+      <chapter osisID='Num.11'>
+        <verse osisID='Num.11.1'>
+          Camaat çəkdiyi sıxıntıdan Rəbbə şikayət etdi. Rəbb bunu eşidəndə qəzəbi alovlandı. Rəbbin odu onların arasında yandı və düşərgə ətrafındakıların bəzilərini məhv etdi.</verse>
+        <verse osisID='Num.11.2'>Camaat Musaya fəryad etdi. Musa Rəbbə yalvardı və od söndü.</verse>
+        <verse osisID='Num.11.3'>O yerin adı Tavera  qoyuldu, çünki onların arasında Rəbbin odu yanırdı. </verse>
+        <verse osisID='Num.11.4'>Xalqın arasında olan alçaq yadellilərin iştahası ifrat dərəcədə artdı. İsrail övladları da yenə ağlayıb dedilər: «Kaş ki yeməyə ətimiz olaydı!</verse>
+        <verse osisID='Num.11.5'>Misirdə müftə yediyimiz balıqları, xiyarları, qarpızları, kəvərləri, soğanları və sarımsaqları yadımıza salırıq.</verse>
+        <verse osisID='Num.11.6'>Ancaq indi iştahamız küsüb, yeməyə mannadan başqa bir şey görmürük». </verse>
+        <verse osisID='Num.11.7'>Manna görünüşcə keşniş toxumu kimi idi, rəngi də mirvari rəngində idi.</verse>
+        <verse osisID='Num.11.8'>Camaat dolaşar və onu yığıb dəyirmanda üyüdər yaxud da həvəngdə döyərdilər. Qazanda qaynadaraq kökə düzəldərdilər. Onun dadı zeytun yağı ilə bişirilmiş yeməklərə oxşayırdı.</verse>
+        <verse osisID='Num.11.9'>Manna gecə düşərgə üzərinə düşən şehlə bərabər düşərdi. </verse>
+        <verse osisID='Num.11.10'>Musa xalqın, hər ailənin çadırının qarşısında ağlamaqlarını eşitdi və Rəbbin qəzəbi çox alovlandı. Musa da narazı idi.</verse>
+        <verse osisID='Num.11.11'>Ona görə Rəbbə dedi: «Sən nə üçün quluna əzab verdin? Sənin gözündə lütf tapmadığım üçün bu xalqın bütün yükünü mənim üzəriməmi qoyursan?</verse>
+        <verse osisID='Num.11.12'>Bütün bu xalqa mənmi hamilə olmuşam? Bunları mənmi doğmuşam? Məgər Sən istəyirsən ki, südəmər uşağı gəzdirən dayə kimi atalarına and içib söz verdiyin torpağa onları qucağımda mən aparım?</verse>
+        <verse osisID='Num.11.13'>Bütün bu xalqa yedirtmək üçün əti mən haradan tapım? Çünki onlar mənim qarşımda ağlayaraq “bizə ət ver, yeyək” deyirlər.</verse>
+        <verse osisID='Num.11.14'>Bu xalqı mən təkbaşına daşıya bilmərəm, çünki bu mənim üçün çox ağırdır.</verse>
+        <verse osisID='Num.11.15'>Əgər mənimlə bu cür davranacaqsansa, gözündə lütf tapdımsa, onda nə olar, məni öldür ki, belə əzabı görməyim». </verse>
+        <verse osisID='Num.11.16'>Rəbb Musaya dedi: «Mənə xalq arasında rəhbər və mötəbər saydığın İsrail ağsaqqallarından yetmiş nəfər topla. Onları Hüzur çadırına gətir və qoy səninlə dursunlar.</verse>
+        <verse osisID='Num.11.17'>Mən enərək orada səninlə danışacağam. Səndə olan Ruhdan götürüb onlara verəcəyəm ki, xalqın yükünü səninlə bərabər çəksinlər. Bununla da bu yükü təkbaşına daşımayacaqsan.</verse>
+        <verse osisID='Num.11.18'>Xalqa de ki, sabah üçün özlərini pak etsinlər, çünki ət yeyəcəklər. “Kaş ki ətimiz olaydı! Misirdə halımız yaxşı idi” deyərək bərkdən ağladınız. Bunu Rəbb eşitdi. Ona görə Rəbb sizə ət verəcək, yeyəcəksiniz.</verse>
+        <verse osisID='Num.11.19'>Nə bir gün, nə iki gün, nə beş gün, nə on gün, nə də iyirmi gün yeyəcəksiniz.</verse>
+        <verse osisID='Num.11.20'>Düz bir ay, burnunuzdan gələnə qədər, iyrənənə qədər yeyəcəksiniz; çünki aranızda olan Rəbbi rədd etdiniz və Onun qarşısında “nə üçün Misirdən çıxdıq?” deyərək ağladınız».</verse>
+        <verse osisID='Num.11.21'>Musa dedi: «Arasında olduğum bu xalqda altı yüz min piyada vardır və Sən deyirsən: “Mən onlara bir aylıq yemək üçün ət verəcəyəm”.</verse>
+        <verse osisID='Num.11.22'>Bütün qoyun-keçi və mal-qara kəsilərsə, onlar doyarmı? Dənizin bütün balıqları tutularsa, onlar doyarmı?»</verse>
+        <verse osisID='Num.11.23'>Rəbb Musaya dedi: «Məgər Rəbbin əli qısaldımı? İndi görəcəksən sənə dediklərim yerinə yetir ya yox». </verse>
+        <verse osisID='Num.11.24'>Musa çıxdı və Rəbbin sözünü xalqa çatdırdı. Xalqın ağsaqqallarından yetmiş nəfəri topladı və çadırın ətrafında dayandırdı.</verse>
+        <verse osisID='Num.11.25'>Rəbb buludda endi və Musa ilə danışdı. Ondakı Ruhdan götürüb yetmiş nəfər ağsaqqallara verdi; onların üzərinə Ruh çökən zaman peyğəmbərlik etdilər, amma sonra etmədilər. </verse>
+        <verse osisID='Num.11.26'>Düşərgədə iki adam qalmışdı, birinin adı Eldad və o birinin adı Medad idi. Onlar yazılan yetmiş nəfər arasında idilər, lakin çadıra getməmişdilər. Ruh onların da üzərinə çökdü və onlar düşərgədə peyğəmbərlik edirdilər.</verse>
+        <verse osisID='Num.11.27'>Bir gənc qaçaraq Musaya xəbər verib dedi: «Eldad və Medad düşərgədə peyğəmbərlik edirlər».</verse>
+        <verse osisID='Num.11.28'>Gəncliyindən bəri Musanın köməkçisi olan Nun oğlu Yeşua «ağam Musa, onlara qadağan et» deyib fikrini bildirdi.</verse>
+        <verse osisID='Num.11.29'>Musa ona cavab verdi: «Sən mənə görəmi qısqanırsan? Kaş Rəbbin bütün xalqı peyğəmbər olaydı və Rəbb onlara Ruhunu verəydi!»</verse>
+        <verse osisID='Num.11.30'>Sonra Musa və İsrail ağsaqqalları düşərgəyə qayıtdılar. </verse>
+        <verse osisID='Num.11.31'>Rəbb dənizdən bildirçin gətirən bir külək əsdirdi. Külək bildirçinləri düşərgənin hər istiqamətindən bir günlük yol qədər uzaqlığa, yerin üzərindən iki qulac qədər hündürlüyə saldı.</verse>
+        <verse osisID='Num.11.32'>Bütün o gün, o gecə və ertəsi gün camaat çıxıb bildirçinləri yığdı. Ən az yığan on xomer yığdı. Bildirçinləri özləri üçün düşərgənin ətrafına sərirdilər.</verse>
+        <verse osisID='Num.11.33'>Amma əti hələ dişləri arasında çeynəməmişdən əvvəl xalqa qarşı Rəbbin qəzəbi alovlandı, Rəbb onları şiddətli vəba ilə cəzalandırdı.</verse>
+        <verse osisID='Num.11.34'>O yerin adı Qivrot-Hattaava qoyuldu, çünki iştahası başqa yemək çəkənlər orada basdırıldı.</verse>
+        <verse osisID='Num.11.35'>Camaat Qivrot-Hattaavadan Xaserota köçüb orada qaldı.  </verse>
+      </chapter>
+      <chapter osisID='Num.12'>
+        <verse osisID='Num.12.1'>
+          Məryəm ilə Harun Kuşlu qadından ötrü Musadan giley edirdilər. Çünki Musa özünə arvad olaraq həmin Kuşlu qadını almışdı.</verse>
+        <verse osisID='Num.12.2'>Onlar dedilər: «Rəbb yalnız Musa vasitəsiləmi danışdı? Bizim vasitəmizlə də danışmadımı?» Rəbb bunu eşitdi.</verse>
+        <verse osisID='Num.12.3'>Musa yer üzündə yaşayan bütün adamlardan daha itaətkar bir insan idi. </verse>
+        <verse osisID='Num.12.4'>Rəbb bir anlıq Musaya, Haruna və Məryəmə dedi: «Üçünüz də Hüzur çadırına gəlin». Üçü də oraya getdilər.</verse>
+        <verse osisID='Num.12.5'>O zaman Rəbb bulud dirəyində endi və çadırın girişində durub Harunla Məryəmi çağırdı; hər ikisi önə çıxanda</verse>
+        <verse osisID='Num.12.6'>Rəbb onlara dedi:  «İndi sözlərimi dinləyin;Əgər aranızda bir peyğəmbər varsa,Mən Rəbb görüntüdə ona Özümü bildirərəm,Yuxuda onunla danışaram.</verse>
+        <verse osisID='Num.12.7'>Qulum Musa isə elə deyil,  O bütün evimdə sadiqdir.</verse>
+        <verse osisID='Num.12.8'>Mən onunla müəmmalarla deyil,Üzbəüz açıq danışaram vəO, Rəbbin surətini görür.Nə üçün qorxmayaraq qulum Musadan gileyləndiniz?» </verse>
+        <verse osisID='Num.12.9'>Rəbb onlara bərk qəzəbləndi və oradan getdi.</verse>
+        <verse osisID='Num.12.10'>Bulud çadırın üzərindən çəkiləndə Məryəm cüzama tutulmuş, qar kimi ağarmışdı. Harun Məryəmə baxdıqda gördü ki, o cüzama tutulub.</verse>
+        <verse osisID='Num.12.11'>Harun Musaya dedi: «Ey ağam, rica edirəm ki, axmaqlıq və günah işlədiyimizə görə bizi bu cəzanı çəkməyə qoyma.</verse>
+        <verse osisID='Num.12.12'>Rica edirəm, qoyma ki onun bədəni ananın bətnindən çıxan ölü doğulmuş uşağın yarı çürümüş bədəninə bənzəsin».</verse>
+        <verse osisID='Num.12.13'>Musa Rəbbə fəryad edib dedi: «Yalvarıram, ay Allah, ona şəfa ver!»</verse>
+        <verse osisID='Num.12.14'>Rəbb Musaya dedi: «Əgər atası onun üzünə tüpürmüş olsaydı, yeddi gün gözdən düşməyəcəkdimi?»</verse>
+        <verse osisID='Num.12.15'>Məryəm yeddi gün düşərgədən kənar yerdə saxlandı. O geri gətirilənə qədər camaat köçmədi. </verse>
+        <verse osisID='Num.12.16'>Ondan sonra camaat Xaserotdan yola düşdü və Paran səhrasında düşərgə saldılar.  </verse>
+      </chapter>
+      <chapter osisID='Num.13'>
+        <verse osisID='Num.13.1'>
+          Rəbb Musaya dedi:</verse>
+        <verse osisID='Num.13.2'>«İsrail övladlarına verəcəyim Kənan torpağına nəzər salmağa adamlar göndər; atalarının hər qəbiləsindən bir rəhbər göndər». </verse>
+        <verse osisID='Num.13.3'>Musa Rəbbin əmrinə görə Paran səhrasından onları göndərdi; hamısı İsrail övladlarının başçılarındandır.</verse>
+        <verse osisID='Num.13.4'>Adları bunlardır: </verse>
+        <verse osisID='Num.13.5'>Şimeon qəbiləsindən Xori oğlu Şafat; </verse>
+        <verse osisID='Num.13.6'>Yəhuda qəbiləsindən Yefunne oğlu Kalev; </verse>
+        <verse osisID='Num.13.7'>İssakar qəbiləsindən Yusif oğlu İqal; </verse>
+        <verse osisID='Num.13.8'>Efrayim qəbiləsindən Nun oğlu Huşə; </verse>
+        <verse osisID='Num.13.9'>Binyamin qəbiləsindən Rafu oğlu Palti; </verse>
+        <verse osisID='Num.13.10'>Zevulun qəbiləsindən Sodi oğlu Qaddiel; </verse>
+        <verse osisID='Num.13.11'>Yusif qəbiləsindən, yəni Menaşşe qəbiləsindən Susi oğlu Qaddi; </verse>
+        <verse osisID='Num.13.12'>Dan qəbiləsindən Gemalli oğlu Ammiel; </verse>
+        <verse osisID='Num.13.13'>Aşer qəbiləsindən Mikael oğlu Setur; </verse>
+        <verse osisID='Num.13.14'>Naftali qəbiləsindən Vofsi oğlu Naxbi; </verse>
+        <verse osisID='Num.13.15'>Qad qəbiləsindən Maki oğlu Geuel. </verse>
+        <verse osisID='Num.13.16'>Ölkəni nəzərdən keçirmək üçün Musanın göndərdiyi adamların adları belədir: Musa Nun oğlu Huşəyə Yeşua adını verdi. </verse>
+        <verse osisID='Num.13.17'>Musa onları Kənan torpağını nəzərdən keçirmək üçün göndərərkən dedi: «Bu yoldan Negevə gedin və dağlığa çıxın.</verse>
+        <verse osisID='Num.13.18'>Ölkənin necə olduğunu görün. Orada yaşayan xalq güclümü, zəifmi, azmı, çoxmu?</verse>
+        <verse osisID='Num.13.19'>Yaşadıqları ölkə necə, yaxşımı, pismi? Şəhərləri necə, hasarlımı, istehkamsızmı?</verse>
+        <verse osisID='Num.13.20'>Torpaq necə, münbitmi, məhsulsuzmu? Orada ağac varmı, yoxsa yox? Əlinizdən gələni edib ölkənin meyvəsindən gətirin». O zaman üzüm yetişən mövsüm idi. </verse>
+        <verse osisID='Num.13.21'>Onlar yola düşdülər və Zin səhrasından Xamat keçidindəki Rexova qədər ölkəni nəzərdən keçirdilər.</verse>
+        <verse osisID='Num.13.22'>Negevə çıxdılar və Xevrona çatdılar; orada Anaqlı Aximan, Şeşay və Talmay yaşayırdı. Xevron Misirdəki Soan şəhərindən yeddi il əvvəl tikilmişdi.</verse>
+        <verse osisID='Num.13.23'>Eşkol vadisinə çatanda bir salxım üzümü olan bir tənək budağı kəsdilər və adamların ikisi bir neçə nar və əncirlə birlikdə tənək budağını aralarında bir şüvüldə aparırdılar.</verse>
+        <verse osisID='Num.13.24'>İsrail oğullarının oradan kəsdikləri salxıma görə o yerə Eşkol  vadisi deyildi. </verse>
+        <verse osisID='Num.13.25'>Qırx gündən sonra ölkəni nəzərdən keçirib qayıtdılar.</verse>
+        <verse osisID='Num.13.26'>Paran səhrasındakı Qadeşə, Musa ilə Harunun və bütün İsrail övladlarının icmasının yanına gəldilər. Onlara və bütün icmaya xəbər gətirdilər, sonra ölkənin meyvələrini onlara göstərdilər.</verse>
+        <verse osisID='Num.13.27'>Musaya belə izah edərək dedilər: «Bizi göndərdiyin ölkəyə çatdıq. Həqiqətən də, orada süd və bal axır. Budur o torpağın meyvələri!</verse>
+        <verse osisID='Num.13.28'>Lakin orada yaşayan xalq çox güclüdür. Şəhərlər istehkamlı və çox böyükdür. Hətta orada Anaqlıları gördük.</verse>
+        <verse osisID='Num.13.29'>Negev məntəqəsində Amaleqlilər, dağlıqda Xetlilər, Yevuslular və Emorlular, dəniz kənarında və İordan çayı sahilində isə Kənanlılar yaşayırlar». </verse>
+        <verse osisID='Num.13.30'>Kalev Musanın önündə camaatı sakitləşdirib dedi: «Gedib oranı ələ keçirək. Çünki biz mütləq onların öhdəsindən gələrik».</verse>
+        <verse osisID='Num.13.31'>Onunla gedən adamlar isə dedilər: «O xalqa hücum edə bilmərik, çünki onlar bizdən güclüdürlər».</verse>
+        <verse osisID='Num.13.32'>Nəzərdən keçirdikləri torpaq haqqında İsrail övladlarına pis xəbər gətirib dedilər: «Gözdən keçirmək üçün içindən keçdiyimiz torpaq öz əhalisinin başını yeyən torpaqdır və orada gördüyümüz hər kəs uca boyludur.</verse>
+        <verse osisID='Num.13.33'>Orada nəhəng adamların nəslindən olan Anaqlıları gördük. Onların yanında özümüzü çəyirtkə boyda hiss etdik, onlara da elə göründük».  </verse>
+      </chapter>
+      <chapter osisID='Num.14'>
+        <verse osisID='Num.14.1'>
+          Bütün icma uca səslə fəryad qoparıb gecə boyu ağladı.</verse>
+        <verse osisID='Num.14.2'>İsrail övladları Musaya və Haruna qarşı deyindilər; bütün icma onlara dedi: «Kaş Misir torpağında ya da bu səhrada öləydik!</verse>
+        <verse osisID='Num.14.3'>Nə üçün Rəbb bizi bu torpağa aparır? Yəni biz qılıncla qırılaq? Arvadlarımız və uşaqlarımız əsir olacaqlar. Misirə qayıtmaq bizim üçün daha yaxşı olmazdımı?»</verse>
+        <verse osisID='Num.14.4'>Sonra bir-birlərinə dedilər: «Özümüzə başçı seçək və Misirə qayıdaq». </verse>
+        <verse osisID='Num.14.5'>O zaman Musa ilə Harun orada toplanmış bütün İsrail icmasının camaatının önündə üzüstə yerə sərildi.</verse>
+        <verse osisID='Num.14.6'>Ölkəyə nəzər salanlardan Nun oğlu Yeşua və Yefunne oğlu Kalev paltarlarını cırdılar;</verse>
+        <verse osisID='Num.14.7'>bütün İsrail övladlarının icmasına belə dedilər: «Nəzərdən keçirmək üçün içərisindən keçdiyimiz ölkə çox yaxşı bir ölkədir.</verse>
+        <verse osisID='Num.14.8'>Əgər Rəbb bizdən razı qalarsa, bizi o ölkəyə aparacaq, süd və bal axan torpağı bizə verəcək.</verse>
+        <verse osisID='Num.14.9'>Ancaq Rəbbə qarşı üsyankarlıq etməyin. Ölkənin xalqından qorxmayın, onları məğlub edə bilərik. Müdafiəçiləri onları atıb getmişdir, amma Rəbb bizimlədir. Onlardan qorxmayın!»</verse>
+        <verse osisID='Num.14.10'>Lakin bütün icma «Onları daşqalaq edin!» deyəndə Rəbbin izzəti Hüzur çadırında bütün İsrail övladlarına göründü. </verse>
+        <verse osisID='Num.14.11'>Rəbb Musaya belə dedi: «Nə vaxtadək bu xalq Mənə hörmətsizlik edəcək? Aralarında etdiyim əlamətləri görə-görə nə vaxta qədər Mənə iman gətirməyəcəklər?</verse>
+        <verse osisID='Num.14.12'>Onları vəba ilə cəzalandıracağam. İrsdən məhrum edəcəyəm. Onlardan çox böyük və güclü bir milləti səndən törədəcəyəm». </verse>
+        <verse osisID='Num.14.13'>Musa Rəbbə dedi: «O zaman Misirlilər eşidəcək, çünki bu xalqı onların arasından qüdrətinlə Sən çıxartdın.</verse>
+        <verse osisID='Num.14.14'>Bunu ölkənin əhalisinə anladacaqlar. Eşitdilər ki, Sən Rəbb bu xalqın arasındasan. Çünki, ya Rəbb, Sən onlarla üzbəüz görüşürsən, Sənin buludun onların üzərində durur. Sən gündüz bulud sütunu və gecə alov sütunu ilə onlara yol göstərirsən.</verse>
+        <verse osisID='Num.14.15'>Əgər bu xalqın hamısını bir nəfər kimi öldürsən, Sənin şöhrətini eşidən millətlər belə deyəcəklər:</verse>
+        <verse osisID='Num.14.16'>“Rəbb and içərək vəd etdiyi ölkəyə bu xalqı apara bilmədiyi üçün onları səhrada öldürdü”. </verse>
+        <verse osisID='Num.14.17'>İstəyirəm ki, qoy indi Xudavəndin böyük qüdrəti göstərilsin, necə ki Sən dedin:</verse>
+        <verse osisID='Num.14.18'>“Rəbb hədsiz səbirli, bol məhəbbətli, cəzanı və qanunsuzluğu bağışlayandır, lakin cəzasız da qoymaz, ataların cəzasını üçüncü-dördüncü nəslə çəkdirər”.</verse>
+        <verse osisID='Num.14.19'>İstəyirəm ki, Misirdən çıxdıqları gündən bu günə kimi bu xalqı necə bağışlamısansa, onların günahını böyük məhəbbətinə görə bağışlayasan». </verse>
+        <verse osisID='Num.14.20'>Rəbb dedi: «Sənin ricana görə bağışladım,</verse>
+        <verse osisID='Num.14.21'>amma Varlığıma və Rəbbin bütün dünyanı dolduran izzətinə and olsun ki,</verse>
+        <verse osisID='Num.14.22'>izzətimi və Misirdə, eləcə də səhrada etdiyim əlamətləri görüb Məni on dəfə sınayan, Mənim sözümü dinləməyən bu adamların heç biri</verse>
+        <verse osisID='Num.14.23'>atalarına and içərək vəd etdiyim torpağı görməyəcək və Mənə hörmətsizlik edənlərin heç biri oranı görməyəcək.</verse>
+        <verse osisID='Num.14.24'>Ancaq qulum Kalevdə başqa ruh var. O bütün qəlbi ilə ardımca getdi. Onu gəzdiyi torpağa aparacağam və onun nəsli oranı irs olaraq alacaq.</verse>
+        <verse osisID='Num.14.25'>Amaleqlilər və Kənanlılar dərədə yaşayırlar. Ona görə sabah qayıdın və Qırmızı dənizin yolu ilə səhraya gedin». </verse>
+        <verse osisID='Num.14.26'>Rəbb Musaya və Haruna dedi:</verse>
+        <verse osisID='Num.14.27'>«Nə vaxta qədər bu pis icma Mənə qarşı deyinəcək? İsrail oğullarının Mənə deyinmələrini eşitdim.</verse>
+        <verse osisID='Num.14.28'>Onlara de ki, Rəbb deyir: “Varlığıma and olsun ki, Mənə qarşı dediklərinizin eynisini sizə edəcəyəm.</verse>
+        <verse osisID='Num.14.29'>Meyitləriniz bu səhraya səriləcək. Mənə deyinən iyirmi və ondan yuxarı yaşda olub siyahıya alınanların hamısı səhrada öləcək,</verse>
+        <verse osisID='Num.14.30'>sizi sakin edəcəyimə əlimi qaldırıb and içdiyim torpağa girməyəcəksiniz. Oraya yalnız Yefunne oğlu Kalev və Nun oğlu Yeşua girəcək.</verse>
+        <verse osisID='Num.14.31'>Lakin ‹əsir olacaqlar› dediyiniz uşaqlarınızı oraya aparacağam və sizin rədd etdiyiniz ölkəni onlar tanıyacaqlar.</verse>
+        <verse osisID='Num.14.32'>Sizə gəldikdə isə meyitləriniz bu səhraya səriləcək.</verse>
+        <verse osisID='Num.14.33'>Övladlarınız qırx il səhrada çobanlıq edəcəklər. Nə vaxta qədər ki siz səhrada məhv olmamısınız, sizin xəyanətinizin acısını çəkəcəklər.</verse>
+        <verse osisID='Num.14.34'>Ölkəni nəzərdən keçirdiyiniz günlərin sayına görə qırx gün, hər gün üçün bir il olmaqla, qırx il günahlarınızın cəzasını çəkəcəksiniz və sizdən üz döndərdiyimi biləcəksiniz”.</verse>
+        <verse osisID='Num.14.35'>Mən Rəbb söylədim: “Həqiqətən, Mənə qarşı birləşən bu pis icmaya belə də edəcəyəm. Bu səhrada ölüb tələf olacaqlar”». </verse>
+        <verse osisID='Num.14.36'>Musanın ölkəni nəzərdən keçirmək üçün göndərdiyi adamlar qayıdıb ölkə haqqında pis xəbər gətirərək bütün icmanın Rəbbə qarşı deyinməsinə səbəb oldular.</verse>
+        <verse osisID='Num.14.37'>Ölkə haqqında pis xəbər gətirənlər Rəbbin önündə vəbadan öldü.</verse>
+        <verse osisID='Num.14.38'>Ölkəni nəzərdən keçirmək üçün gedənlərdən yalnız Nun oğlu Yeşua və Yefunne oğlu Kalev sağ qaldılar. </verse>
+        <verse osisID='Num.14.39'>Musa bu sözləri bütün İsrail övladlarına danışdı və xalq çox kədərləndi.</verse>
+        <verse osisID='Num.14.40'>Onlar səhər tezdən qalxıb dağın təpəsinə çıxaraq dedilər: «Günah etmişik, indi Rəbbin vəd verdiyi yerə çıxırıq».</verse>
+        <verse osisID='Num.14.41'>Musa dedi: «Nə üçün Rəbbin əmrinə qarşı çıxırsınız? Bunu bacara bilməzsiniz.</verse>
+        <verse osisID='Num.14.42'>Döyüşə çıxmayın, çünki Rəbb aranızda deyil. Düşmənlərinizə məğlub olacaqsınız.</verse>
+        <verse osisID='Num.14.43'>Çünki Amaleqlilər və Kənanlılar orada önünüzdədir və qılıncla öləcəksiniz; madam ki Rəbbin ardınca getməkdən vaz keçdiniz, Rəbb sizinlə bərabər olmayacaq».</verse>
+        <verse osisID='Num.14.44'>Ancaq onlar özlərinə güvənərək dağlığın ən yüksək təpəsinə çıxdılar. Lakin nə Rəbbin Əhd sandığı, nə də Musa düşərgədən ayrılmadı.</verse>
+        <verse osisID='Num.14.45'>O zaman həmin dağlıqda yaşayan Amaleqlilər və Kənanlılar enib onlara hücum etdilər və Xorma şəhərinədək qovub məğlubiyyətə uğratdılar.  </verse>
+      </chapter>
+      <chapter osisID='Num.15'>
+        <verse osisID='Num.15.1'>
+          Rəbb Musaya dedi:</verse>
+        <verse osisID='Num.15.2'>«İsrail övladlarına belə söylə: “Sakin olmaq üçün sizə verəcəyim torpağa girib yaşadığınız vaxt</verse>
+        <verse osisID='Num.15.3'>əgər kimsə Rəbbin xoşuna gələn ətri təqdim etmək üçün yandırma qurbanı, əhd qurbanı, könüllü qurban yaxud bayram qurbanı olaraq mal-qaradan yaxud qoyun-keçidən Rəbb üçün yandırma təqdimi versə,</verse>
+        <verse osisID='Num.15.4'>Rəbbə qurban gətirən adam taxıl təqdimi kimi dörddə bir hin zeytun yağı ilə yoğrulmuş efanın onda biri qədər narın un gətirsin.</verse>
+        <verse osisID='Num.15.5'>Yandırma qurbanı yaxud digər növlü qurban üçün hər bir quzuya tökülən içmə təqdimi olaraq dörddə bir hin şərab hazırlayın. </verse>
+        <verse osisID='Num.15.6'>Qoç üçün taxıl təqdimi kimi hinin üçdə biri qədər zeytun yağı ilə yoğrulmuş efanın onda iki hissəsi qədər narın un və</verse>
+        <verse osisID='Num.15.7'>içmə təqdimi kimi hinin üçdə biri qədər şərab hazırlayın. Bunları Rəbbin xoşuna gələn ətir olaraq təqdim edin. </verse>
+        <verse osisID='Num.15.8'>Rəbbə yandırma qurbanı, əhd qurbanı və yaxud ünsiyyət qurbanı kimi bir buğa kəsərkən</verse>
+        <verse osisID='Num.15.9'>buğa ilə birlikdə taxıl təqdimi kimi yarım hin zeytun yağı ilə yoğrulmuş efanın onda üçü qədər narın un gətirin.</verse>
+        <verse osisID='Num.15.10'>İçmə təqdimi kimi yarım hin şərab təqdim edin. Bu, Rəbbin xoşuna gələn ətir – yandırma təqdimidir. </verse>
+        <verse osisID='Num.15.11'>Hər buğa, qoç, quzu və yaxud keçi belə hazırlansın.</verse>
+        <verse osisID='Num.15.12'>Nə qədər heyvan kəssəniz, hər biri ilə birlikdə eyni təqdimi gətirin.</verse>
+        <verse osisID='Num.15.13'>Hər bir yerli İsrail övladı Rəbbin xoşuna gələn ətri – yandırma təqdimini gətirərkən bu şeyləri belə etsin. </verse>
+        <verse osisID='Num.15.14'>Müvəqqəti yaxud nəsildən-nəslə aranızda yaşayan yadelli Rəbbin xoşuna gələn ətri – yandırma təqdimini gətirərkən eynilə sizin etdiyiniz kimi etsin.</verse>
+        <verse osisID='Num.15.15'>Ey camaat, sizin üçün də, sizinlə yaşayan yadelli üçün də qayda birdir, nəsillər boyu daimi qaydadır, çünki Rəbb sizə də, yadellilərə də bir gözlə baxır.</verse>
+        <verse osisID='Num.15.16'>Sizin üçün də, sizinlə yaşayan yadellilər üçün də eyni qanun və eyni hökm olmalıdır”». </verse>
+        <verse osisID='Num.15.17'>Rəbb Musaya belə dedi:</verse>
+        <verse osisID='Num.15.18'>«İsrail övladlarına belə söylə: “Mən sizi aparacağım torpağa girib yaşadığınız vaxt</verse>
+        <verse osisID='Num.15.19'>torpağın çörəyindən yeyəndə onun müəyyən hissəsini Rəbbə qaldırma təqdimi kimi verin.</verse>
+        <verse osisID='Num.15.20'>İlk xəmirinizdən bir yastı kökə gətirin, bunu xırmanınızın qaldırma təqdimi kimi verin.</verse>
+        <verse osisID='Num.15.21'>İlk xəmirinizdən edilən bu qaldırma təqdimini nəsildən-nəslə qədər Rəbbə verin. </verse>
+        <verse osisID='Num.15.22'>Əgər səhv edib Rəbbin Musaya buyurduğu əmrlərin birinə –</verse>
+        <verse osisID='Num.15.23'>Rəbbin əmr etdiyi gündən başlayaraq nəsildən-nəslə Musa vasitəsilə sizə buyurduğu hər hansı bir şeyə əməl etmirsinizsə</verse>
+        <verse osisID='Num.15.24'>bu iş səhvən İsrail icması tərəfindən bilmədən edilirsə, onda bütün icma Rəbbin xoşuna gələn ətir olaraq qaydaya görə taxıl və içmə təqdimləri ilə birlikdə yandırma qurbanı olaraq bir buğa və günah qurbanı olaraq bir təkə gətirsin.</verse>
+        <verse osisID='Num.15.25'>Kahin bütün İsrail övladlarının icması üçün kəffarə etsin. Beləcə onlar bağışlanacaqlar, çünki səhv olmuşdur və bu səhv üçün də Rəbb üçün yandırma təqdimi olan qurbanlarını və Onun hüzurunda günah qurbanlarını gətirmişlər.</verse>
+        <verse osisID='Num.15.26'>Bütün İsrail icması və aralarında yaşayan yadellilər bağışlanacaq, çünki bütün xalq bilmədən səhv etmişdir. </verse>
+        <verse osisID='Num.15.27'>Əgər bir nəfər bilmədən günah edərsə, qoy günah qurbanı olaraq birillik dişi keçi gətirsin.</verse>
+        <verse osisID='Num.15.28'>Kahin bilmədən günah işlədən adam üçün Rəbbin önündə kəffarə etsin ki, o bağışlansın. Kəffarə edilən adam bağışlanacaq.</verse>
+        <verse osisID='Num.15.29'>İsrail övladları arasında yerli olsun ya da yadelli olsun, bilmədən günah edənlər üçün qoy qanun bir olsun. </verse>
+        <verse osisID='Num.15.30'>Lakin əgər yerli ya yadelli qəsdən günah işlətsə, Rəbbə küfr etmişdir və xalqı arasından qovulsun.</verse>
+        <verse osisID='Num.15.31'>Çünki o, Rəbbin sözünə xor baxıb və Onun əmrini pozub. Belə adam mütləq qovulsun və öz cəzasını çəksin”». </verse>
+        <verse osisID='Num.15.32'>İsrail övladları səhrada olarkən Şənbə günündə odun yığan bir adama rast gəldilər.</verse>
+        <verse osisID='Num.15.33'>Odun toplayan adamla rastlaşanlar onu Musanın, Harunun və bütün icmanın qarşısına gətirdilər.</verse>
+        <verse osisID='Num.15.34'>O adamı həbs etdilər, çünki onunla nə edəcəkləri hələ qərara alınmamışdı.</verse>
+        <verse osisID='Num.15.35'>Rəbb Musaya dedi: «Bu adam öldürülməlidir; qoy bütün icma onu düşərgədən kənara aparsın və daşqalaq edərək öldürsün».</verse>
+        <verse osisID='Num.15.36'>İcma o adamı düşərgədən kənara çıxarıb Rəbbin Musaya əmr etdiyi kimi daşqalaq edərək öldürdü. </verse>
+        <verse osisID='Num.15.37'>Rəbb Musaya belə dedi:</verse>
+        <verse osisID='Num.15.38'>«İsrail övladlarına de ki, nəsildən-nəslə geyimlərinin ətəklərinə dörd tərəfdən qotaz tiksinlər. Hər qotazın üzərinə bənövşəyi qaytan salsınlar.</verse>
+        <verse osisID='Num.15.39'>Bu qotazlara baxanda Rəbbin bütün əmrlərini xatırlayın və onlara əməl edin; öz ürəyinizin və gözlərinizin istəklərinə qapılıb Mənə xəyanət etməyin.</verse>
+        <verse osisID='Num.15.40'>O zaman bütün əmrlərimi yadda saxlayıb yerinə yetirəcəksiniz və Allahınızın hüzurunda müqəddəs olacaqsınız.</verse>
+        <verse osisID='Num.15.41'>Allahınız olmaq üçün sizi Misir torpağından çıxaran Allahınız Rəbb Mənəm. Bəli, Allahınız Rəbb Mənəm!»  </verse>
+      </chapter>
+      <chapter osisID='Num.16'>
+        <verse osisID='Num.16.1'>
+            Levi oğlu Qohat oğlu İshar oğlu Qorah qürurlanıb Ruven nəslindən Eliav oğulları Datan ilə Aviram və Pelet oğlu On ilə birlikdə</verse>
+        <verse osisID='Num.16.2'>Musaya qarşı üsyan qaldırdılar. İsrail övladlarından icmada seçilmiş və ad qazanmış iki yüz əlli nəfər icma rəhbəri onlara qoşuldu.</verse>
+        <verse osisID='Num.16.3'>Birlikdə toplanaraq Musa ilə Haruna qarşı çıxdılar və onlara dedilər: «Artıq bəsdir! Çünki bütün icmanın hamısı müqəddəsdir və Rəbb onların arasındadır. Nə üçün siz özünüzü Rəbbin camaatından üstün tutursunuz?» </verse>
+        <verse osisID='Num.16.4'>Musa bunu eşidib üzüstə yerə sərildi.</verse>
+        <verse osisID='Num.16.5'>Sonra Qorah ilə bütün yoldaşlarına dedi: «Səhər Rəbb kimin Ona məxsus, kimin müqəddəs olduğunu göstərəcək və həmin adamın Öz hüzuruna girməsinə izin verəcək. Rəbbin seçdiyi adam hüzuruna girməsinə izin verdiyi adamdır.</verse>
+        <verse osisID='Num.16.6'>Ey Qorah və bütün yoldaşları, özünüz üçün buxurdanlar alın;</verse>
+        <verse osisID='Num.16.7'>səhəri gün Rəbbin hüzurunda onların içinə közərmiş kömür və buxur qoyun. Beləliklə, Rəbb kimi seçibsə, müqəddəs olan o olacaqdır. Ey Levililər, artıq bəsdir!» </verse>
+        <verse osisID='Num.16.8'>Musa Qoraha bunu da söylədi: «Ey Levililər, mənə qulaq asın!</verse>
+        <verse osisID='Num.16.9'>İsrailin Allahı sizi İsrail icmasından seçib Öz hüzuruna gəlməniz üçün imkan yaratdı ki, Rəbbin məskənində iş görəsiniz və icmanın önündə duraraq onlara xidmət edəsiniz.</verse>
+        <verse osisID='Num.16.10'>Sizə və bütün Levili qardaşlarınıza Öz hüzuruna girmə səlahiyyətini verdi. Bu sizə azmı gəlir? İndi kahinliyi də istəyirsiniz?</verse>
+        <verse osisID='Num.16.11'>Deməli, ey Qorah, sən və bütün yoldaşların belə toplanaraq Rəbbə qarşı çıxırsınız. Harun kimdir ki, ona qarşı deyinirsiniz?» </verse>
+        <verse osisID='Num.16.12'>Musa Eliav oğulları Datanı və Aviramı çağırtdırdı və onlar dedi: «Gəlməyəcəyik!</verse>
+        <verse osisID='Num.16.13'>Bizi səhrada öldürmək üçün süd və bal axan ölkədən çıxardığın bəs deyil, hələ özünü üzərimizdə başçı etmək istəyirsən?</verse>
+        <verse osisID='Num.16.14'>Bundan başqa, bizi süd və bal axan bir ölkəyə gətirmədin, irs olaraq bizə tarlalar və bağlar vermədin. Bu adamların gözündən pərdə asmaq istəyirsən? Gəlməyəcəyik!» </verse>
+        <verse osisID='Num.16.15'>Musa çox qəzəblənib Rəbbə dedi: «Onların təqdimlərinə əhəmiyyət vermə; onlardan bir eşşək belə, almadım və onların heç birinə pislik etmədim». </verse>
+        <verse osisID='Num.16.16'>Musa Qoraha dedi: «Sən və bütün yoldaşların, sabah Rəbbin hüzurunda olun – sən, onlar və Harun.</verse>
+        <verse osisID='Num.16.17'>Hər biriniz öz buxurdanınızı götürüb üzərinə buxur qoyun. Sonra iki yüz əlli nəfərin hər biri buxurdan götürüb Rəbbin hüzuruna gətirsin. Sən və Harun da buxurdanınızı gətirin».</verse>
+        <verse osisID='Num.16.18'>Hər kəs öz buxurdanını götürüb içinə közərmiş kömür və buxur qoydu. Sonra Musa və Harunla birgə Hüzur çadırının girişində durdular.</verse>
+        <verse osisID='Num.16.19'>Qorah Musa ilə Haruna qarşı çıxmaq üçün bütün yoldaşlarını Hüzur çadırının girişinə toplayanda Rəbbin izzəti bütün icmaya göründü. </verse>
+        <verse osisID='Num.16.20'>Rəbb Musaya və Haruna dedi:</verse>
+        <verse osisID='Num.16.21'>«Bu icmadan ayrılın ki, onları bir an içində məhv edim».</verse>
+        <verse osisID='Num.16.22'>Onlar üzüstə yerə sərildilər: «Ey Allah, bütün bəşərə ruh verən Allah! Bir adamın günahına görə bütün icmayamı qəzəblənirsən?»</verse>
+        <verse osisID='Num.16.23'>Rəbb Musaya dedi:</verse>
+        <verse osisID='Num.16.24'>«İcmaya de: “Qorah, Datan və Aviramın məskənlərinin ətrafından çəkilin!”» </verse>
+        <verse osisID='Num.16.25'>Musa qalxıb Datanla Aviramın yanına getdi. İsrailin ağsaqqalları da onun ardınca getdilər.</verse>
+        <verse osisID='Num.16.26'>Musa icmaya xəbərdarlıq edib dedi: «Nə olar, bu pis adamların məskənlərindən uzaqlaşın və onlara aid olan heç bir şeyə toxunmayın. Yoxsa onların bütün günahlarına görə siz məhv olarsınız».</verse>
+        <verse osisID='Num.16.27'>Hamı Qorah, Datan və Aviramın məskənlərindən uzaqlaşdı. Datanla Aviram, arvadları, oğulları və körpə uşaqları ilə çıxıb çadırlarının girişində durdular.</verse>
+        <verse osisID='Num.16.28'>Musa dedi: «Bütün bu işləri etmək üçün məni Rəbbin göndərdiyini, özbaşıma hərəkət etmədiyimi bununla biləcəksiniz.</verse>
+        <verse osisID='Num.16.29'>Əgər bu adamlar hər kəsin öldüyü kimi ölsələr və yaxud hər kəsin başına gələn təcrübələrdən keçsələr, o halda Rəbb məni göndərməmişdir.</verse>
+        <verse osisID='Num.16.30'>Lakin Rəbb yeni bir şey etsə, yer ağzını açaraq onları və onlara aid olan hər şeyi udsa, onlar ölülər diyarına diri-diri ensələr, bu adamların Rəbbi təhqir etdiklərini anlayacaqsınız». </verse>
+        <verse osisID='Num.16.31'>Musa bütün bu şeyləri danışıb qurtaran kimi onların altındakı yer yarıldı.</verse>
+        <verse osisID='Num.16.32'>Yer ağzını açdı, onları, ailələrini, Qoraha aid olan bütün adamları və bütün mallarını uddu.</verse>
+        <verse osisID='Num.16.33'>Onlar və onlara aid olanların hamısı diri-diri ölülər diyarına endilər. Yer üzərlərinə qapandı və camaat arasından yox oldular.</verse>
+        <verse osisID='Num.16.34'>Onların ətrafında olan bütün İsrail övladları onların fəryadını eşidib «Yer bizi də udmasın!» deyərək qaçışdılar.</verse>
+        <verse osisID='Num.16.35'>Rəbbin hüzurundan od çıxdı və buxur təqdim edən iki yüz əlli nəfəri məhv etdi. </verse>
+        <verse osisID='Num.16.36'>Rəbb Musaya dedi:</verse>
+        <verse osisID='Num.16.37'>«Kahin Harun oğlu Eleazara de, buxurdanları yanmış adamların üstündən götürsün, sən isə közləri kənara dağıt, çünki buxurdanlar müqəddəsdir.</verse>
+        <verse osisID='Num.16.38'>Öz həyatı bahasına günah edən bu adamların buxurdanlarından qurbangah üçün örtük olaraq lövhələr düzəltsinlər. Çünki buxurdanlar Rəbbə təqdim edildiyi üçün müqəddəsdir. Qoy bu, İsrail övladlarına əlamət olsun».</verse>
+        <verse osisID='Num.16.39'>Yandırılan adamların təqdim etmiş olduqları mis buxurdanları, kahin Eleazar Rəbbin Musa vasitəsilə ona dediyi kimi götürüb döydü və onlardan qurbangahı örtmək üçün lövhələr düzəltdi.</verse>
+        <verse osisID='Num.16.40'>Bu, İsrail övladlarına bir xatirədir ki, Harunun nəslindən olmayan bir kənar şəxs Rəbbin hüzuruna gəlib buxur yandırmasın, yoxsa Qorah və yoldaşları kimi məhv olar. </verse>
+        <verse osisID='Num.16.41'>Ancaq ertəsi gün bütün İsrail övladlarının icması Musaya və Haruna qarşı deyinərək dedilər: «Rəbbin xalqını siz öldürdünüz».</verse>
+        <verse osisID='Num.16.42'>İcma Musaya və Haruna qarşı çıxmaq üçün toplanıb Hüzur çadırına yönələndə qəflətən bulud çadırı bürüdü və Rəbbin izzəti göründü.</verse>
+        <verse osisID='Num.16.43'>Musa ilə Harun Hüzur çadırının önünə gəldilər.</verse>
+        <verse osisID='Num.16.44'>Rəbb Musaya dedi:</verse>
+        <verse osisID='Num.16.45'>«Bu icmanın arasından çıxın ki, onları bir anda məhv edim». Musa ilə Harun üzüstə yerə sərildilər.</verse>
+        <verse osisID='Num.16.46'>Sonra Musa Haruna dedi: «Öz buxurdanını götür, içinə qurbangahdan közərmiş kömür və buxur qoy. Tez icmaya apar, onlar üçün kəffarə et, çünki Rəbb qəzəbini tökdü. Vəba başladı».</verse>
+        <verse osisID='Num.16.47'>Musanın dediyi kimi Harun buxurdanı götürdü və camaatın arasına qaçdı. Gördü ki, xalq arasında vəba başlamışdır. Buna görə buxuru təqdim edərək xalq üçün kəffarə etdi.</verse>
+        <verse osisID='Num.16.48'>Harun ölülərlə dirilər arasında duranda vəba dayandı.</verse>
+        <verse osisID='Num.16.49'>Qorah əhvalatında ölənlərdən başqa vəbadan ölənlər on dörd min yeddi yüz nəfər idi.</verse>
+        <verse osisID='Num.16.50'>Vəba dayandığına görə Harun Musanın yanına Hüzur çadırının girişinə qayıtdı.  </verse>
+      </chapter>
+      <chapter osisID='Num.17'>
+        <verse osisID='Num.17.1'>
+          Rəbb Musaya belə dedi:</verse>
+        <verse osisID='Num.17.2'>«İsrail övladlarına de və hər qəbilə üçün bir əsa götür. Qəbilə rəhbərlərinin hər birindən alınan on iki əsa olacaq. Hər birinin adını öz əsasının üzərinə yaz.</verse>
+        <verse osisID='Num.17.3'>Harunun adını Levi əsasının üzərinə yaz ki, hər qəbilə başçısı üçün bir əsa olsun.</verse>
+        <verse osisID='Num.17.4'>Əsaları sizinlə görüşdüyüm yerə, Hüzur çadırındakı Şəhadət sandığının qarşısına qoy.</verse>
+        <verse osisID='Num.17.5'>O zaman seçəcəyim adamın əsası tumurcuqlayacaq və İsrail övladlarının sizə qarşı sürəkli deyinmələrinə son qoyacağam».</verse>
+        <verse osisID='Num.17.6'>Musa İsrail övladları ilə danışdı. Onların bütün rəhbərləri ona bir əsa verdilər. Hər qəbilə rəhbəri üçün biri olmaqla on iki əsa var idi. Harunun əsası da onların əsaları arasında idi.</verse>
+        <verse osisID='Num.17.7'>Musa əsaları Şəhadət çadırında Rəbbin önünə qoydu. </verse>
+        <verse osisID='Num.17.8'>Ertəsi gün Musa Şəhadət çadırına girdi və gördü ki, Levi nəslini təmsil edən Harunun əsası tumurcuqlayıb. Budur, tumurcuq qönçələnmiş, çiçək açmış və badam yetişdirmişdi.</verse>
+        <verse osisID='Num.17.9'>Musa əsaların hamısını Rəbbin hüzurundan bütün İsrail övladlarının qarşısına çıxardı. Əsalara baxdılar və hər kəs öz əsasını götürdü. </verse>
+        <verse osisID='Num.17.10'>Rəbb Musaya dedi: «Üsyan edənlərə qarşı əlamət olaraq saxlamaq üçün Harunun əsasını Şəhadət sandığının önünə qoy. Bu onların Mənim üçün deyinmələrinə son qoyacaq ki, ölməsinlər».</verse>
+        <verse osisID='Num.17.11'>Musa Rəbbin əmr etdiyinə əməl etdi. </verse>
+        <verse osisID='Num.17.12'>İsrail övladları Musaya dedilər: «Yox olacağımız bəllidir! Məhv olacağıq! Hamımız həlak olacağıq!</verse>
+        <verse osisID='Num.17.13'>Rəbbin məskəninə yaxınlaşan hər kəs ölür. Doğrudanmı hamımız öləcəyik?»  </verse>
+      </chapter>
+      <chapter osisID='Num.18'>
+        <verse osisID='Num.18.1'>
+          Rəbb Haruna dedi: «Sən, övladların və atanın nəsli Müqəddəs məkanla əlaqədar hər hansı bir günah üçün məsuliyyət daşıyacaqsınız. Kahinliklə əlaqədar günahlar üçün məsuliyyəti yalnız sən və oğulların daşıyacaqsınız.</verse>
+        <verse osisID='Num.18.2'>Atanın qəbiləsi olan Levi qəbiləsinə mənsub olan soydaşlarınızı da özünlə götür ki, sən və övladların Şəhadət çadırının önündə ikən sənə qoşulub kömək etsinlər.</verse>
+        <verse osisID='Num.18.3'>Sənin qarşında cavabdehlik daşıyaraq çadırın bütün işlərinə baxsınlar. Ancaq müqəddəs yerin əşyalarına və qurbangaha yaxınlaşmasınlar ki, həm onlar, həm də siz ölməyəsiniz.</verse>
+        <verse osisID='Num.18.4'>Sənə qoşulsunlar və Hüzur çadırının işlərinə, çadırdakı bütün xidmətlərə cavabdeh olsunlar. Başqa heç kimsə sizə yaxınlaşmamalıdır.</verse>
+        <verse osisID='Num.18.5'>Müqəddəs yerə və qurbangaha cavabdeh olun ki, İsrail övladları bir də qəzəbimə düçar olmasınlar.</verse>
+        <verse osisID='Num.18.6'>Budur, Mən İsrail övladları arasından Levili soydaşlarınızı sizə hədiyyə olaraq seçdim. Onlar Rəbbə Hüzur çadırında xidmət etmək üçün həsr olunmuşlar.</verse>
+        <verse osisID='Num.18.7'>Lakin qurbangaha və pərdənin iç tərəfinə aid olan hər şeyə yalnız sən və oğulların kahin kimi xidmət edin. Kahinlik xidmətinizi sizə hədiyyə olaraq verirəm. Sizdən başqa müqəddəs yerə kim yaxınlaşarsa, öldürülsün». </verse>
+        <verse osisID='Num.18.8'>Rəbb Haruna dedi: «Budur, Mənə gətirilən təqdimlərə nəzarət etməyi sənə tapşırdım. İsrail övladlarının bütün müqəddəs təqdimlərini əbədi pay olaraq sənə və övladlarına verirəm.</verse>
+        <verse osisID='Num.18.9'>Qurbangahda yandırılmayan ən müqəddəs təqdimlərdən bunlar sənin olsun: taxıl təqdimləri, günah qurbanları və təqsir qurbanları – Mənə gətirilən ən müqəddəs təqdimlərin hamısı sənin və övladlarının olsun.</verse>
+        <verse osisID='Num.18.10'>Bu ən müqəddəs şeyləri ye. Kişi cinsindən hər kəs onlardan yeyə bilər. Onları müqəddəs say.</verse>
+        <verse osisID='Num.18.11'>Bunlar, İsrail övladlarının xüsusi hədiyyə olaraq gətirdikləri yellətmə təqdimlərinin hamısı sənindir. Onları sənə və oğullarınla qızlarına əbədi pay olaraq verdim. Sənin ailəndə pak olan hər kəs onu yeyə bilər.</verse>
+        <verse osisID='Num.18.12'>Rəbbə verdikləri ilk məhsulları, zeytun yağının ən yaxşısının hamısını, təzə şərabın və buğdanın ən yaxşısının hamısını sənə verdim.</verse>
+        <verse osisID='Num.18.13'>Torpaqlarında bitən nübardan Rəbbə gətirdiklərinin hamısı sənin olsun. Sənin ailəndə pak olan hər kəs onu yeyə bilər.</verse>
+        <verse osisID='Num.18.14'>İsraildə Rəbbə həmişəlik həsr olunan hər şey sənin olsun.</verse>
+        <verse osisID='Num.18.15'>Hər bətndən ilk doğulan, Rəbbə həsr olunan bütün oğlanlar və bütün heyvan balaları sənin olsun. Ancaq hər ilk oğlanın əvəzini mütləq ödə, hər murdar heyvanın ilk balasının da əvəzini ödə.</verse>
+        <verse osisID='Num.18.16'>Onlar bir aylıq olanda sənin qoyduğun qiymətə görə iyirmi gera ağırlığında olan Müqəddəs yerdəki şekelə görə beş şekel gümüşlə əvəzlərini ödə.</verse>
+        <verse osisID='Num.18.17'>Ancaq inəyin, qoyunun və yaxud da keçinin ilk balasının əvəzini ödəmə. Onlar müqəddəsdir. Qanlarını qurbangah üzərinə səp və piylərini tüstülədib yandır ki, Rəbbin xoşuna gələn ətir – yandırma təqdimi olsun.</verse>
+        <verse osisID='Num.18.18'>Yellədilən döş əti və sağ budu kimi onların əti də sənin olsun.</verse>
+        <verse osisID='Num.18.19'>İsrail övladlarının Mənə qaldırma təqdimi kimi gətirdikləri müqəddəs təqdimlərin hamısını Mən Rəbb sənə və oğullarınla qızlarına əbədi pay olaraq verdim. Bu, Rəbbin səninlə və nəslinlə kəsdiyi əbədi və pozulmaz əhddir».  </verse>
+        <verse osisID='Num.18.20'>Rəbb Haruna dedi: «Onların torpağında sənin irsin olmayacaq və onlar arasında heç bir payın olmayacaq. İsrail övladları arasında sənin payın və irsin Mənəm.</verse>
+        <verse osisID='Num.18.21'>Levililərə isə İsraildə olan bütün varidatın onda birini irs olaraq verdim. Bu, xidmətlərinin, Hüzur çadırında etdikləri xidmətin əvəzidir.</verse>
+        <verse osisID='Num.18.22'>Artıq İsrail övladları Hüzur çadırına yaxınlaşmasınlar ki, günahlarının cəzasını çəkib ölməsinlər.</verse>
+        <verse osisID='Num.18.23'>Lakin Hüzur çadırının xidmətini Levililər etsinlər və çadırla əlaqədar günahlarının cəzasını çəksinlər. Bu, nəsildən-nəslə qədər sizin üçün əbədi qaydadır. İsrail övladları arasında onların irsi olmayacaq.</verse>
+        <verse osisID='Num.18.24'>Bunun yerinə Levililərə irs olaraq İsrail övladlarının Rəbbə qaldırma təqdimi kimi verdikləri onda birini verdim. Buna görə Levililər üçün dedim ki, İsrail övladları arasında onların irsi olmayacaq». </verse>
+        <verse osisID='Num.18.25'>Rəbb Musaya dedi:</verse>
+        <verse osisID='Num.18.26'>«Levililərə belə söylə: “İsrail övladlarının məhsullarından irsiniz olaraq sizə verdiyim onda bir hissəni aldığınız vaxt bu hissənin onda birini qaldırma təqdimi kimi verin.</verse>
+        <verse osisID='Num.18.27'>Təqdiminiz xırmanda döyülən taxıl yaxud üzümsıxandan çıxan məhsul kimi sayılacaq.</verse>
+        <verse osisID='Num.18.28'>Beləliklə, İsrail övladlarından alacağınız onda birlərinizin hamısından Rəbbə qaldırma təqdimini gətirib kahin Haruna verin.</verse>
+        <verse osisID='Num.18.29'>Bütün hədiyyələrinizdən Rəbbə qaldırma təqdimi verin. Hər təqdim onun təqdis olunmuş ən yaxşı hissəsindən olsun”.</verse>
+        <verse osisID='Num.18.30'>Bunun üçün onlara deyin: “Ondan ən yaxşısını təqdim etdiyiniz zaman bu, Levililər üçün xırman məhsulu yaxud üzümsıxan məhsulu kimi sayılacaq.</verse>
+        <verse osisID='Num.18.31'>Siz və ev xalqınız hər yerdə onu yeyəcəksiniz, çünki o, haqqınız, Hüzur çadırında olan xidmətinizin əvəzidir.</verse>
+        <verse osisID='Num.18.32'>Ondan ən yaxşısını təqdim edəndə ondan savayı günahın cəzasını çəkməmək üçün İsrail övladlarının müqəddəs təqdimlərini pozmayın ki, ölməyəsiniz”».  </verse>
+      </chapter>
+      <chapter osisID='Num.19'>
+        <verse osisID='Num.19.1'>
+          Rəbb Musaya və Haruna dedi:</verse>
+        <verse osisID='Num.19.2'>«Bu, Rəbbin əmr etdiyi qanunun qaydasıdır: İsrail övladlarına deyin ki, qüsursuz, eyibsiz, heç vaxt boynuna bir boyunduruq taxılmayan bir qırmızı düyə gətirsinlər.</verse>
+        <verse osisID='Num.19.3'>Onu kahin Eleazara verin. Düyə düşərgənin kənarına çıxarılsın və onun önündə kəsilsin.</verse>
+        <verse osisID='Num.19.4'>Kahin Eleazar barmağı ilə onun qanından götürərək Hüzur çadırının önünə doğru yeddi dəfə çiləsin.</verse>
+        <verse osisID='Num.19.5'>Onun gözləri önündə düyə yandırılsın. Dərisi, əti və qanı, bağırsağı ilə birgə yansın.</verse>
+        <verse osisID='Num.19.6'>Kahin sidr ağacının budağını, züfa otunu və al rəngli ipi götürüb yandırılan düyənin üstünə atsın.</verse>
+        <verse osisID='Num.19.7'>Kahin geyimlərini yusun, bədənini su ilə yusun, sonra düşərgəyə girsin. O, axşama qədər murdar sayılsın.</verse>
+        <verse osisID='Num.19.8'>Qoy düyəni yandıran adam da geyimlərini yusun, bədənini də su ilə yusun və axşama qədər murdar sayılsın.</verse>
+        <verse osisID='Num.19.9'>Düyənin külünü pak adam toplayıb düşərgənin kənarında pak bir yerə qoysun və İsrail övladlarının icması naminə paklama suyu düzəltmək üçün saxlanılsın. Bu, günah qurbanıdır.</verse>
+        <verse osisID='Num.19.10'>Düyənin külünü toplayan adam geyimlərini yusun və axşama qədər murdar sayılsın. Bu, İsrail övladları üçün və aralarında yaşayan yadellilər üçün də əbədi bir qaydadır. </verse>
+        <verse osisID='Num.19.11'>Hər hansı bir insan meyitinə toxunan yeddi gün murdar olacaq.</verse>
+        <verse osisID='Num.19.12'>Üçüncü və yeddinci gün özünü paklama suyu ilə paklasın ki, pak olsun. Əgər üçüncü və yeddinci gün özünü paklamasa, pak olmayacaq.</verse>
+        <verse osisID='Num.19.13'>Bir ölüyə, hər hansı bir insan meyitinə toxunan və özünü pak etməyən adam Rəbbin məskənini murdar edər, o şəxs İsraildən qovulsun. Paklama suyu onun üzərinə səpilmədiyi üçün murdar sayılsın. Onun murdarlığı hələ üzərində qalır. </verse>
+        <verse osisID='Num.19.14'>Çadırda ölən adam üçün təlimat belədir: çadıra girən və çadırda olan hər kəs yeddi gün murdar sayılsın.</verse>
+        <verse osisID='Num.19.15'>İplə bağlanmış qapağı olmayan hər açıq qab murdar sayılsın.</verse>
+        <verse osisID='Num.19.16'>Çöldə qılıncla öldürülmüş olana, bir ölüyə yaxud bir insan sümüyünə yaxud da qəbirə toxunan şəxs yeddi gün murdar sayılsın.</verse>
+        <verse osisID='Num.19.17'>Murdar adam üçün yanmış günah qurbanı külündən götürüb onun üzərinə axar su tökün.</verse>
+        <verse osisID='Num.19.18'>Pak bir adam züfa otunu götürüb, o suya batırsın və çadırın, bütün qabların və orada olanların üzərinə çiləsin. Sümüyə, öldürülən adama, meyitə yaxud da qəbirə toxunan adamın üzərinə də çiləsin.</verse>
+        <verse osisID='Num.19.19'>Pak adam murdar adamın üzərinə üçüncü gün və yeddinci gün çiləsin və yeddinci gün bu pak olacaq. O, geyimlərini yusun, su ilə yuyunsun və axşam pak sayılsın. </verse>
+        <verse osisID='Num.19.20'>Ancaq murdar olub özünü pak etməyən adam camaat arasından qovulsun, çünki Rəbbin Müqəddəs məkanını murdarlayıb. Onun üzərinə paklama suyu çilənmədiyi üçün o murdar sayılsın.</verse>
+        <verse osisID='Num.19.21'>Bu onlara əbədi qayda olsun: paklama suyu çiləyən adam geyimlərini yusun və paklama suyuna toxunan adam axşama qədər murdar sayılsın.</verse>
+        <verse osisID='Num.19.22'>Murdar adamın toxunduğu hər şey murdar sayılsın. O şeyə toxunan adam axşama qədər murdar sayılsın».  </verse>
+      </chapter>
+      <chapter osisID='Num.20'>
+        <verse osisID='Num.20.1'/>
+        <verse osisID='Num.20.2'>İcma üçün su yox idi, ona görə Musa və Haruna etiraz etmək üçün toplandılar.</verse>
+        <verse osisID='Num.20.3'>Xalq Musaya narazılıq edib dedi: «Kaş ki biz də soydaşlarımızla birgə Rəbbin önündə öləydik!</verse>
+        <verse osisID='Num.20.4'>Rəbbin camaatını bu səhraya nə üçün gətirdiniz? Bizim və heyvanlarımızın burada ölməsi üçünmü?</verse>
+        <verse osisID='Num.20.5'>Nə üçün bizi Misirdən çıxarıb belə pis yerə gətirdiniz? Bura nə əkin, nə əncir, nə bağ, nə də nar yeridir. İçməyə belə, su yoxdur». </verse>
+        <verse osisID='Num.20.6'>Musa ilə Harun camaatın önündən Hüzur çadırının girişinə getdilər və üzüstə yerə sərildilər. Rəbbin izzəti onlara göründü.</verse>
+        <verse osisID='Num.20.7'>Rəbb Musaya dedi:</verse>
+        <verse osisID='Num.20.8'>«Əsanı götür, sən və qardaşın Harun icmanı toplayın və onların gözü önündə qayaya su versin deyə söyləyin. Qayadan onlara su çıxart, icmaya və heyvanlarına içirt».</verse>
+        <verse osisID='Num.20.9'>Musa əmr olunduğu kimi əsanı Rəbbin önündən götürdü. </verse>
+        <verse osisID='Num.20.10'>Musa ilə Harun camaatı qayanın önünə topladılar və onlara dedilər: «Ey dönük olanlar, indi dinləyin; bu qayadan sizə su çıxaraqmı?»</verse>
+        <verse osisID='Num.20.11'>Musa əlini qaldırdı və əsası ilə iki dəfə qayaya vurdu, qayadan bol su çıxdı. Bütün icma və onların heyvanları su içdilər. </verse>
+        <verse osisID='Num.20.12'>Lakin Rəbb Musaya və Haruna dedi: «Madam ki İsrail övladlarının gözü önündə Mənim müqəddəsliyimi göstərərək Mənə iman etmədiniz, bu camaatı onlara verdiyim ölkəyə aparmayacaqsınız».</verse>
+        <verse osisID='Num.20.13'>Bu sulara Meriva suları deyilir, çünki bu yerdə İsrail övladları Rəbb ilə mübahisə etdilər və Rəbb onlara Öz müqəddəsliyini göstərdi. </verse>
+        <verse osisID='Num.20.14'>Musa Qadeşdən Edom padşahına bu xəbərlə qasidlər göndərdi: «Qardaşın İsrail belə deyir: “Çəkdiyimiz zəhmətin hamısını bilirsən.</verse>
+        <verse osisID='Num.20.15'>Atalarımız Misirə köçdülər və biz bir xeyli vaxt Misirdə yaşadıq. Misirlilər bizimlə və atalarımızla pis rəftar etdilər.</verse>
+        <verse osisID='Num.20.16'>Rəbbə fəryad etdik, O da səsimizi eşitdi və bir mələk göndərdi, bizi Misirdən çıxardı. İndi biz sənin sərhədinə yaxın bir şəhər olan Qadeşdəyik.</verse>
+        <verse osisID='Num.20.17'>Sənə rica edib torpağından keçmək üçün izin istəyirəm. Biz tarladan və bağdan keçməyəcəyik, heç bir quyudan su içməyəcəyik. Padşah yolu ilə sənin torpaqlarından keçənədək sağa və sola dönməyəcəyik”».</verse>
+        <verse osisID='Num.20.18'>Lakin Edomlular ona dedilər: «Torpağımızdan keçməyin, yoxsa qarşınıza qılıncla çıxarıq».</verse>
+        <verse osisID='Num.20.19'>İsrail övladları onlara dedilər: «Biz əsas yolla getmək istəyirik. Əgər biz və sürülərimiz sularından içəriksə, dəyərini ödəyərik; yalnız piyada getməkdən başqa heç nə istəmirik».</verse>
+        <verse osisID='Num.20.20'>Edomlular dedilər: «Keçmək olmaz». Sonra Edomlular böyük və güclü bir ordu ilə onların qarşısına çıxdılar.</verse>
+        <verse osisID='Num.20.21'>Edomlular ölkəsindən İsrail övladlarının keçməsinə izin verməyəndə İsraillilər onların torpaqlarından çəkildilər. </verse>
+        <verse osisID='Num.20.22'>Bütün İsrail icması Qadeşdən yola düşüb Hor dağına gəldi.</verse>
+        <verse osisID='Num.20.23'>Rəbb Edom torpağı sərhədində Hor dağında Musa ilə Haruna belə dedi:</verse>
+        <verse osisID='Num.20.24'>«Harun ölüb öz xalqına qovuşacaq, çünki Meriva sularında sözümə qarşı çıxdığınız üçün İsrail övladlarına vəd etdiyim ölkəyə girməyəcək.</verse>
+        <verse osisID='Num.20.25'>Harunu və oğlu Eleazarı götür, onları Hor dağına apar.</verse>
+        <verse osisID='Num.20.26'>Harunun paltarlarını çıxar və onları oğlu Eleazara geyindir, Harun isə oradaca ölüb xalqına qovuşacaq». </verse>
+        <verse osisID='Num.20.27'>Musa Rəbbin əmr etdiyi kimi etdi və bütün icmanın gözü önündə Hor dağına çıxdılar.</verse>
+        <verse osisID='Num.20.28'>Musa Harunun kahinlik geyimlərini çıxarıb oğlu Eleazara geyindirdi. Harun orada dağın təpəsində öldü. Musa ilə Eleazar dağdan endilər.</verse>
+        <verse osisID='Num.20.29'>Bütün icma Harunun öldüyünü bildi. Bütün İsrail xalqı onun üçün otuz gün yas tutdu.  </verse>
+      </chapter>
+      <chapter osisID='Num.21'>
+        <verse osisID='Num.21.1'>
+            Negevdə yaşayan Kənanlı Arad padşahı İsrail övladlarının Atarim yolundan keçdiyini eşitdi. O, İsrail övladları ilə vuruşaraq bir neçə nəfəri əsir tutdu.</verse>
+        <verse osisID='Num.21.2'>İsrail övladları Rəbbə əhd edib dedilər: «Əgər, həqiqətən, bu xalqı bizə təslim etsən, o zaman onların şəhərlərini tamamilə yox edəcəyik».</verse>
+        <verse osisID='Num.21.3'>Rəbb İsraillilərin səsini eşitdi. Kənanlıları onlara təslim etdi. İsraillilər də onları və şəhərlərini tamamilə yox etdilər və beləliklə, o yerin adı Xorma  qoyuldu. </verse>
+        <verse osisID='Num.21.4'>Xalq Hor dağını tərk edib Edom torpağının ətrafından keçmək üçün Qırmızı dəniz yolundan keçdi. Yolda onların səbri tükəndi.</verse>
+        <verse osisID='Num.21.5'>Onlar Allaha və Musaya qarşı deyinirdilər: «Nə üçün siz bizi Misirdən çıxardınız? Səhrada ölmək üçünmü? Axı burada nə çörək, nə də su var. Bu dadsız yeməkdən də iyrənirik». </verse>
+        <verse osisID='Num.21.6'>O zaman Rəbb xalqın arasına zəhərli ilanlar göndərdi. İlanlar xalqı sancdı və İsrail övladlarından çox adam öldü.</verse>
+        <verse osisID='Num.21.7'>Xalq gəlib Musaya dedi: «Biz günah etdik, çünki Rəbbə və sənə qarşı deyindik. İndi isə ilanları bizdən uzaqlaşdırmaq üçün Rəbbə yalvar». Musa xalqı xilas etmək üçün Rəbbə yalvardı.</verse>
+        <verse osisID='Num.21.8'>Rəbb Musaya dedi: «Özünə bir ilan düzəlt və onu uzun dəyənəyin üzərinə qoy. İlan vuran adam ona baxdıqda sağalsın».</verse>
+        <verse osisID='Num.21.9'>Musa tuncdan bir ilan düzəltdi və dəyənəyin üzərinə qoydu, ilan vuran hər adam tunc ilana baxan kimi sağalırdı. </verse>
+        <verse osisID='Num.21.10'>İsrail övladları yola düşüb Ovotda düşərgə saldılar.</verse>
+        <verse osisID='Num.21.11'>Ovotdan köç edib Moavın şərqindəki səhrada İye-Avarimdə dayandılar.</verse>
+        <verse osisID='Num.21.12'>Oradan da yola düşdülər və Zered vadisində dayandılar.</verse>
+        <verse osisID='Num.21.13'>Oradan da yola düşüb Emorluların sərhədindən başlanan səhradakı Arnon dərəsinin o tayında dayandılar, çünki Arnon dərəsi Moavlılarla Emorlular arasındakı sərhəddir.</verse>
+        <verse osisID='Num.21.14'>Bu barədə «Rəbbin Döyüşləri» kitabında yazılmışdır:  «Sufada olan Vahev və vadilər, Arnon,</verse>
+        <verse osisID='Num.21.15'>Arın məskəninə uzanıbMoav sərhədinə çatan vadilərin yamacları…» </verse>
+        <verse osisID='Num.21.16'>Oradan Beerə  yola düşdülər; Rəbbin Musaya «xalqı topla, onlara su verəcəyəm» dediyi quyu budur.</verse>
+        <verse osisID='Num.21.17'>O zaman İsrail övladları bu nəğməni oxudular:  «Ey quyu, suların fışqırsın,Ona nəğmə oxuyun,</verse>
+        <verse osisID='Num.21.18'>O quyu ki onu başçıların açdı,Xalqın əsilzadələriƏsa ilə, dəyənəklə qazdı».  Sonra səhradan Mattanaya yollandılar.</verse>
+        <verse osisID='Num.21.19'>Mattanadan Naxalielə, Naxalieldən Bamota,</verse>
+        <verse osisID='Num.21.20'>Bamotdan isə Moav torpağında olan dərəyə, çölə baxan Pisqa dağının yamaclarına getdilər. </verse>
+        <verse osisID='Num.21.21'>İsrail Emorluların padşahı Sixona qasidlər göndərib dedi:</verse>
+        <verse osisID='Num.21.22'>«Rica edirəm, sənin torpağından keçmək üçün bizə izin verəsən. Nə tarlaya, nə də bağa girəcəyik. Quyularının suyundan belə, içməyəcəyik. Sənin sərhədindən keçənədək yalnız padşah yolu ilə gedəcəyik». </verse>
+        <verse osisID='Num.21.23'>Lakin Sixon İsraili öz sərhədlərindən buraxmayaraq bütün ordusunu topladı və İsrail övladları ilə vuruşmaq üçün səhraya çıxdı. Yahsaya çatanda İsraillilərə hücum etdi.</verse>
+        <verse osisID='Num.21.24'>İsrail övladları onu qılıncdan keçirdilər, Arnondan Yabboqa və Ammonluların sərhədinə qədər uzanan torpaqlarını aldılar. Çünki Ammon sərhədinin möhkəm istehkamı var.</verse>
+        <verse osisID='Num.21.25'>İsrail övladları bu şəhərlərin hamısını ələ keçirdilər. Xeşbon və ətrafındakı qəsəbələr daxil olmaqla Emorluların bütün şəhərlərinə yerləşdilər.</verse>
+        <verse osisID='Num.21.26'>Çünki Xeşbon Emorluların padşahı Sixonun şəhəri idi. Sixon Moavın əvvəlki padşahı ilə döyüşmüş və Arnona qədər uzanan bütün torpaqlarını ələ keçirmişdi. </verse>
+        <verse osisID='Num.21.27'>Bunun üçün şairlər belə deyirlər:  «Xeşbona gəlin;Qoy yenidən qurulsun,Sixonun şəhəri bərpa edilsin.</verse>
+        <verse osisID='Num.21.28'>Çünki Xeşbondan atəş,Sixonun şəhərindən alov çıxdı;Moavın Ar şəhərini,Arnonun təpələrinin başçılarınıYandırıb məhv etdi.</verse>
+        <verse osisID='Num.21.29'>Vay halına, ey Moav!Ey Kemoşun xalqı, yox oldun!Kemoş övladları Emorluların padşahı Sixonun qarşısından qaçdı,Qızları əsir aparıldı.</verse>
+        <verse osisID='Num.21.30'>Lakin biz onları məğlub etdik,Xeşbondan Divona qədər məhv oldular,Medvaya uzanan NofahadəkHər tərəfi viran etdik». </verse>
+        <verse osisID='Num.21.31'>İsraillilər Emorluların torpağında məskunlaşdı.</verse>
+        <verse osisID='Num.21.32'>Musa Yazeri nəzərdən keçirmək üçün adamlar göndərdi. İsrail övladları ətraf qəsəbələri ələ keçirərək orada yaşayan Emorluları qovdular. </verse>
+        <verse osisID='Num.21.33'>Sonra istiqaməti dəyişib Başana yollandılar. Başan padşahı Oq bütün ordusu ilə birlikdə Edreidə onlarla döyüşə çıxdı.</verse>
+        <verse osisID='Num.21.34'>Rəbb Musaya dedi: «Ondan qorxma, çünki Mən onu, bütün xalqını və torpağını sənə təslim edirəm. Xeşbonda yaşayan Emorluların padşahı Sixonun başına gətirdiyini onun da başına gətir».</verse>
+        <verse osisID='Num.21.35'>İsraillilər onu, övladlarını və bütün xalqını bir nəfər qalmayana qədər qırdılar və torpağını ələ keçirdilər.  </verse>
+      </chapter>
+      <chapter osisID='Num.22'>
+        <verse osisID='Num.22.1'/>
+        <verse osisID='Num.22.2'>İsrailin Emorluların başına gətirdiyi hər şeyi Sippor oğlu Balaq görmüşdü.</verse>
+        <verse osisID='Num.22.3'>Camaatı gördükdə Moavlılar bərk qorxdular, çünki İsrail xalqı çox idi. Moav sakinləri İsrail övladlarından vahiməyə düşdü.</verse>
+        <verse osisID='Num.22.4'>Moavlılar Midyan ağsaqqallarına dedilər: «Öküz çöl otunu yediyi kimi bu camaat da indi bütün ətrafımızı yeyib qurtaracaq». O vaxtlar Sippor oğlu Balaq Moav padşahı idi.</verse>
+        <verse osisID='Num.22.5'>Beor oğlu Bilamı çağırmaq üçün Fərat çayının kənarındakı Petora, onun vətəninə qasidlər göndərib dedi: «Budur, Misirdən bir xalq çıxıb, yer üzünü bürüyərək yaxınlığımda yerləşmişdir.</verse>
+        <verse osisID='Num.22.6'>Xahiş edirəm, indi gəl, mənim xeyrimə bu xalqa lənət oxu, çünki onlar məndən güclüdür. Bəlkə onda mən onları məğlub edib ölkədən qova bildim. Sənin xeyir-dua verdiyin şəxsin xeyir-dualı, lənətlədiyin şəxsin lənətli olduğunu bilirəm». </verse>
+        <verse osisID='Num.22.7'>Moav ağsaqqalları ilə Midyan ağsaqqalları fala baxmaq haqqını əllərinə götürüb Bilamın yanına getdilər və Balaqın sözlərini ona söylədilər.</verse>
+        <verse osisID='Num.22.8'>Bilam onlara dedi: «Bu gecəni burada keçirin ki, Rəbb mənə söyləyəcəyini sizə deyim». Beləliklə, Moav başçıları Bilamın yanında qaldılar. </verse>
+        <verse osisID='Num.22.9'>Allah Bilamın yanına gəlib dedi: «Evindəki bu adamlar kimdir?»</verse>
+        <verse osisID='Num.22.10'>Bilam Allaha dedi: «Moav padşahı Sippor oğlu Balaq mənim yanıma adam göndərib dedi:</verse>
+        <verse osisID='Num.22.11'>“Budur, Misirdən çıxan xalq yer üzünü bürüyür. İndi gəl, mənim xeyrimə görə ona lənət oxu, bəlkə döyüşüb onları qova bildim”».</verse>
+        <verse osisID='Num.22.12'>Allah Bilama dedi: «O adamlarla getmə, o xalqa lənət etmə, çünki xeyir-dualı xalqdır».</verse>
+        <verse osisID='Num.22.13'>Bilam səhər tezdən durdu və Balaqın başçılarına dedi: «Torpağınıza qayıdın, çünki Rəbb sizinlə birgə getməyə mənə izin vermir».</verse>
+        <verse osisID='Num.22.14'>Moav başçıları qalxdılar və Balaqın yanına gəlib dedilər: «Bilam bizimlə birgə gəlmək istəmədi». </verse>
+        <verse osisID='Num.22.15'>Yenə Balaq əvvəlkilərdən daha çox və daha etibarlı başçılar göndərdi.</verse>
+        <verse osisID='Num.22.16'>Bilamın yanına gəlib ona dedilər: «Sippor oğlu Balaq belə deyir: “Xahiş edirəm, yanıma gəlməkdən imtina etmə.</verse>
+        <verse osisID='Num.22.17'>Çünki sənə çox mükafat verəcəyəm və nə desən, hamısını edəcəyəm. İndi xahiş edirəm, gəl, mənim xeyrimə görə bu xalqa lənət oxu”».</verse>
+        <verse osisID='Num.22.18'>Bilam cavab verib Balaqın adamlarına dedi: «Balaq evini qızıl və gümüşlə dolu mənə versə belə, Allahım Rəbbin sözündən yan keçib, nə kiçik, nə də böyük iş görə bilərəm.</verse>
+        <verse osisID='Num.22.19'>İndi xahiş edirəm, siz də bu gecə burada qalın və görüm Rəbb mənə başqa nə deyəcək».</verse>
+        <verse osisID='Num.22.20'>O gecə Allah Bilama görünüb ona dedi: «Əgər bu adamlar səni çağırmaq üçün gəliblərsə, qalx onlarla get, ancaq Mənim sənə söyləyəcəyim şeyləri et». </verse>
+        <verse osisID='Num.22.21'>Bilam səhər tezdən qalxaraq eşşəyinə palan vurub Moav başçıları ilə birgə getdi.</verse>
+        <verse osisID='Num.22.22'>O getdiyi üçün Allahın qəzəbi alovlandı və Rəbbin mələyi ona qarşı çıxmaq üçün yolda durdu. Bilam eşşəyinə minmişdi və onunla bərabər iki nökəri də vardı.</verse>
+        <verse osisID='Num.22.23'>Eşşək siyrilmiş qılıncı əlində, yolda duran Rəbbin mələyini gördü və yoldan dönərək tarlaya girdi. Bilam yoluna döndərmək üçün eşşəyi vurdu.</verse>
+        <verse osisID='Num.22.24'>Rəbbin mələyi bağların arasında dar bir yolda durdu. Hər iki tərəf divar idi.</verse>
+        <verse osisID='Num.22.25'>Eşşək Rəbbin mələyini görüb divara sıxıldı və Bilamın ayağını divara sıxışdırdı. O yenə eşşəyi vurmağa başladı.</verse>
+        <verse osisID='Num.22.26'>Rəbbin mələyi irəli çıxdı və sağa-sola dönmək üçün yol olmayan dar bir yerdə durdu.</verse>
+        <verse osisID='Num.22.27'>Eşşək Rəbbin mələyini gördü və Bilamın altında çökdü. Bilamın qəzəbi alovlandı, dəyənəklə eşşəyi vurdu.</verse>
+        <verse osisID='Num.22.28'>Rəbb eşşəyin dilini açdı və o, Bilama dedi: «Sənə nə etdim ki, məni üç dəfə vurdun?»</verse>
+        <verse osisID='Num.22.29'>Bilam eşşəyə dedi: «Çünki mənimlə əyləndin. Kaş ki əlimdə bir qılınc olaydı, indi səni öldürərdim».</verse>
+        <verse osisID='Num.22.30'>Eşşək Bilama dedi: «Ömrünün əvvəlindən bu günə qədər belinə mindiyin eşşəyin mən deyiləmmi? Mən sənə heç belə edərdimmi?» Bilam dedi: «Xeyr». </verse>
+        <verse osisID='Num.22.31'>Sonra Rəbb Bilamın gözlərini açdı. Bilam əlində siyrilmiş qılınc olan Rəbbin mələyinin yolda durduğunu gördü və başını əyib üzüstə yerə sərildi.</verse>
+        <verse osisID='Num.22.32'>Rəbbin mələyi ona dedi: «Nə üçün eşşəyini üç dəfə vurdun? Budur, mən sənə qarşı durmaq üçün çıxdım. Məncə tezliklə yolun məhvə doğru gedir.</verse>
+        <verse osisID='Num.22.33'>Eşşək məni gördü, bu üç dəfədir ki, önümdən yana döndü. Əgər yoldan dönməsəydi, həqiqətən, indi səni öldürərdim və onu sağ buraxardım».</verse>
+        <verse osisID='Num.22.34'>Bilam Rəbbin mələyinə dedi: «Günah etdim, çünki sənin mənə qarşı yolda durduğunu bilmədim. İndi əgər bu sənin gözündə pis görünürsə, qoy evimə qayıdım».</verse>
+        <verse osisID='Num.22.35'>Rəbbin mələyi Bilama dedi: «Bu adamlarla get, ancaq yalnız sənə deyəcəyim sözü de». Bilam Balaqın başçıları ilə bərabər getdi. </verse>
+        <verse osisID='Num.22.36'>Balaq Bilamın gəldiyini eşitdikdə onu qarşılamaq üçün Arnon çayının kənarında, torpağının ən uzaq sərhədində olan İr-Moav şəhərinə getdi.</verse>
+        <verse osisID='Num.22.37'>Balaq Bilama dedi: «Səni çağırtdırmaq üçün adam göndərmədimmi? Nə üçün mənim yanıma gəlmədin? Məgər mən sənə mükafat verə bilmirəmmi?»</verse>
+        <verse osisID='Num.22.38'>Bilam Balaqa dedi: «Budur, indi sənin yanına gəldim! Amma nə deyə bilərəm ki? Ancaq Allahın dilimə qoyacaq sözü söyləyəcəyəm».</verse>
+        <verse osisID='Num.22.39'>Bilam Balaqla birgə getdi və Qiryat-Xusota gəldilər.</verse>
+        <verse osisID='Num.22.40'>Balaq mal-qaranı və qoyun-keçini qurban kəsdi. Bilama və onunla birgə olan başçılara ət göndərdi. </verse>
+        <verse osisID='Num.22.41'>Bundan sonra səhəri gün Balaq Bilamı götürdü və onu Bamot-Baala çıxartdı. Bilam oradan İsrail xalqının bir hissəsini gördü.  </verse>
+      </chapter>
+      <chapter osisID='Num.23'>
+        <verse osisID='Num.23.1'>
+          Bilam Balaqa dedi: «Burada mənə yeddi qurbangah düzəlt və mənim üçün burada yeddi buğa və yeddi qoç hazırla».</verse>
+        <verse osisID='Num.23.2'>Balaq Bilamın dediyi kimi etdi. Balaq ilə Bilam hər qurbangahda bir buğa və bir qoç təqdim etdilər.</verse>
+        <verse osisID='Num.23.3'>Bilam Balaqa dedi: «Sən yandırma qurbanının yanında dur, mən gedim. Bəlkə Rəbb məni qarşılamağa gələcək və mənə nə göstərsə, sənə bildirərəm». Sonra çılpaq bir təpəyə çıxdı. </verse>
+        <verse osisID='Num.23.4'>Allah Bilamla qarşılaşdı və Bilam Ona dedi: «Yeddi qurbangah hazırladım və hər qurbangahda bir buğa ilə bir qoç təqdim etdim».</verse>
+        <verse osisID='Num.23.5'>Rəbb Bilamın vasitəsilə bir kəlam dedi: «Balaqın yanına qayıdıb belə de».</verse>
+        <verse osisID='Num.23.6'>Bilam Balaqın yanına qayıtdı. Gördü ki, Balaq və Moavın bütün başçıları yandırma qurbanlarının yanında durublar.</verse>
+        <verse osisID='Num.23.7'>Bilam gələcəkdən xəbər verib dedi:  «Balaq məni Aramdan,Moav padşahı məni şərq dağlarından gətirdi,“Gəl, mənim xeyrimə görə Yaquba lənət oxu,Gəl İsrailə qarğış et” dedi.</verse>
+        <verse osisID='Num.23.8'>Allahın lənət etmədiyinə mən necə lənət edim?Rəbbin qarğış etmədiyinə mən necə qarğış edim?</verse>
+        <verse osisID='Num.23.9'>Qayaların zirvəsindən onları görürəm mən,Təpələrdən onlara baxıram.Müstəqil yaşayan,Ellərdən özünü ayıranBir xalq görürəm.</verse>
+        <verse osisID='Num.23.10'>Kim Yaqubun tozunu saya bilər?İsrailin dörddə biriniAxı kim hesablar?Qoy saleh adamların ölümü ilə ölüm!Onlar necə olubsa, sonum elə olsun!» </verse>
+        <verse osisID='Num.23.11'>Balaq Bilama dedi: «Mənə nə etdin? Düşmənlərimə lənət etmək üçün səni gətirdim, budur, sən onlara xeyir-dua verdin!»</verse>
+        <verse osisID='Num.23.12'>Bilam cavab verdi: «Rəbbin dilimə qoyduğunu söyləməyə diqqət etməli deyiləmmi?» </verse>
+        <verse osisID='Num.23.13'>Balaq ona dedi: «Xahiş edirəm, mənimlə gəl, başqa bir yerə gedək, oradan onları görəcəksən. Onların hamısını yox, bir qismini görəcəksən. Oradan mənim xeyrimə onlara lənət oxu».</verse>
+        <verse osisID='Num.23.14'>Onu Pisqa təpəsindəki Sofim yaylağına apardı, yeddi qurbangah düzəltdi və hər qurbangahda bir buğa, bir qoç təqdim etdi.</verse>
+        <verse osisID='Num.23.15'>Bilam Balaqa dedi: «Bir az irəlidə Rəblə görüşə gedirəm. Sən burada yandırma qurbanının yanında dur».</verse>
+        <verse osisID='Num.23.16'>Rəbb Bilama görünüb nə deyəcəyini ona bildirərək dedi: «Balaqın yanına qayıt və belə de».</verse>
+        <verse osisID='Num.23.17'>Beləliklə, Bilam Balaqın yanına gəldi. Gördü ki, Balaq yandırma qurbanının yanında durub. Moav başçıları da onunla bərabər idi. Balaq ondan soruşdu: «Rəbb nə dedi?»</verse>
+        <verse osisID='Num.23.18'>Bilam gələcəkdən xəbər verib dedi:  «Ey Balaq, oyan və dinlə;Ey Sippor oğlu, mənə qulaq as.</verse>
+        <verse osisID='Num.23.19'>Allah insan deyil ki,Yalan söyləsin,Bəşər oğlu deyil ki,Fikrini dəyişdirsin.Dediyini həyata keçirməzmi?Verdiyi sözü yerinə yetirməzmi?</verse>
+        <verse osisID='Num.23.20'>Budur, xeyir-dua üçün əmr aldım;O, xeyir-dua vermişdir,Mən onu dəyişə bilmərəm.</verse>
+        <verse osisID='Num.23.21'>Yaqubda bədbəxtlik üz verməyəcək.İsraildə bəla olmayacaq.Özlərinin Allahı Rəbb onlarladır,Onları padşah kimi alqışlayırlar.</verse>
+        <verse osisID='Num.23.22'>Allah onları Misirdən çıxardı;Onların çöl öküzü kimi qüvvəti vardır.</verse>
+        <verse osisID='Num.23.23'>Yaqub üçün edilən baxıcılıq baş tutmaz,İsrail üçün edilən falçılıq alınmaz.Bax indi deyiləcək:“Yaqub və İsrail üçünAllah nələr etdi!”</verse>
+        <verse osisID='Num.23.24'>Budur, xalq dişi aslan tək oyanır,Şir kimi qalxır,Şikarını yeməyincə,Ölənlərin qanını içməyincə yatmayacaq». </verse>
+        <verse osisID='Num.23.25'>Balaq Bilama dedi: «Onlara nə lənət oxu, nə də xeyir-dua ver».</verse>
+        <verse osisID='Num.23.26'>Ancaq Bilam Balaqa cavab verib dedi: «Məgər sənə demədim ki, Rəbb nə desə, hamısını etməliyəm?» </verse>
+        <verse osisID='Num.23.27'>Balaq Bilama dedi: «Xahiş edirəm gəl, səni başqa bir yerə aparım; bəlkə Allahın gözünə xoş gələr ki, oradan onlara mənim xeyrimə görə lənət oxuyasan».</verse>
+        <verse osisID='Num.23.28'>Balaq Bilamı çölə baxan Peor təpəsinə apardı.</verse>
+        <verse osisID='Num.23.29'>Bilam Balaqa dedi: «Burada mənə yeddi qurbangah düzəlt və burada mənim üçün yeddi buğa və yeddi qoç hazırla».</verse>
+        <verse osisID='Num.23.30'>Balaq Bilamın dediyi kimi etdi. Hər qurbangahda bir buğa və bir qoç təqdim etdi.  </verse>
+      </chapter>
+      <chapter osisID='Num.24'>
+        <verse osisID='Num.24.1'>Bilam Rəbbin gözündə İsrailə xeyir-dua verməyin yaxşı olduğunu gördükdə əvvəlki kimi baxıcılıq etmədi, amma üzünü səhraya doğru çevirdi.</verse>
+        <verse osisID='Num.24.2'>Bilam gözlərini qaldırdı və İsraili qəbilələrinə görə yerləşmiş görəndə onun üzərinə Allahın Ruhu endi.</verse>
+        <verse osisID='Num.24.3'>O, gələcəkdən xəbər verib dedi:  «Budur, Beor oğlu Bilamın kəlamı,Uzaq görən adamın kəlamı,</verse>
+        <verse osisID='Num.24.4'>Allahın sözlərini eşidən,Külli-İxtiyarın görüntüsünü görən,Gözləri açıq, yerə sərilən adamın kəlamı:</verse>
+        <verse osisID='Num.24.5'>“Ey Yaqub, sənin çadırların,Ey İsrail, məskənlərin nə gözəldir!</verse>
+        <verse osisID='Num.24.6'>Yayılırlar vadilər tək,Çay kənarındakı bağ-bağçalar tək,Rəbbin bitirdiyi əzvay ağacları tək,Çay kənarındakı sidr ağacları tək.</verse>
+        <verse osisID='Num.24.7'>Satıllarından sular axacaq,Toxumları bol su ilə sulanacaq,Padşahları Aqaqdan böyük olacaq,Padşahlıqları ucalacaq.</verse>
+        <verse osisID='Num.24.8'>Allah onları Misirdən çıxartdı;Onların çöl öküzü kimi qüvvəti var.Onlar düşmən millətləri yeyib qurtaracaq.Sümüklərini qıracaq,Oxları ilə onları dələcək.</verse>
+        <verse osisID='Num.24.9'>Onlar pusub şir kimi yatar,  Dişi aslana oxşar.Onları oyandırmağa kim cürət edər?Sizə xeyir-dua verən xeyir-dualı olsun,Sizə lənət oxuyan qoy lənətli olsun!”» </verse>
+        <verse osisID='Num.24.10'>Bilama qarşı Balaqın qəzəbi alovlandı. Balaq əllərini bir-birinə vurdu və Bilama dedi: «Səni düşmənlərimə lənət etmək üçün çağırdım və budur, üçüncü dəfədir ki, onlara ancaq xeyir-dua verirsən.</verse>
+        <verse osisID='Num.24.11'>İndi tez get, yerinə qayıt. Demişdim ki, səni çox mükafatlandıracağam, amma Rəbb səni mükafatdan məhrum etdi».</verse>
+        <verse osisID='Num.24.12'>Bilam Balaqa dedi: «Yanıma göndərdiyin qasidlərə demədimmi,</verse>
+        <verse osisID='Num.24.13'>Balaq mənə qızıl və gümüşlə dolu evini versə belə, Rəbbin sözündən bilə-bilə yan keçib yaxşılıq yaxud pislik edə bilmərəm. Rəbb nə desə, onu deyəcəyəm.</verse>
+        <verse osisID='Num.24.14'>İndi mən xalqımın yanına qayıdıram. Qoy mən bu xalqın gələcəkdə sənin xalqının başına nə gətirəcəyini bildirim». </verse>
+        <verse osisID='Num.24.15'>Sonra Bilam gələcəkdən xəbər verib dedi:  «Budur, Beor oğlu Bilamın kəlamı,Uzaq görən adamın kəlamı,</verse>
+        <verse osisID='Num.24.16'>Allahın sözlərini eşidən,Haqq-Taalanın biliyinə qovuşan,Külli-İxtiyarın görüntüsünü görən,Gözləri açıq, yerə sərilən adamın kəlamı:</verse>
+        <verse osisID='Num.24.17'>“Onu mən görürəm, amma indi deyil,Mən ona baxıram, amma yaxından deyil.Yaqubdan bir ulduz çıxacaq,İsraildən bir Əsa   ucalacaq,  Moavlıların alınlarını,Şet övladlarının başlarını əzəcək.</verse>
+        <verse osisID='Num.24.18'>Onun düşməni Edomla Seir təslim olacaq,İsrail isə get-gedə güclənəcək.</verse>
+        <verse osisID='Num.24.19'>Yaqubun nəslindən olan o adamSəltənət sürəcək,Şəhərdə sağ qalanları məhv edəcək”». </verse>
+        <verse osisID='Num.24.20'>Bilam Amaleqliləri görəndə gələcəkdən xəbər verib belə dedi:  «Amaleq millətlərin birincisi idi,Ancaq axırda məhv olacaq». </verse>
+        <verse osisID='Num.24.21'>Qenliləri görəndə gələcəkdən xəbər verib belə dedi:  «Məskəniniz möhkəm,Yuvanız qayada qurulub.</verse>
+        <verse osisID='Num.24.22'>Amma, ey Qenlilər, Aşşurlular sizi əsir alandaYanıb yox olacaqsınız». </verse>
+        <verse osisID='Num.24.23'>Bilam gələcəkdən xəbər verməyə belə davam etdi:  «Vay, Allah bunu etdiyi zaman kim yaşaya biləcək?</verse>
+        <verse osisID='Num.24.24'>Kittim sahillərindən gəmilər gələcək,Aşşur ilə Everi ram edəcək,Amma onlar da məhv olacaq». </verse>
+        <verse osisID='Num.24.25'>Bundan sonra Bilam yola çıxıb evinə qayıtdı. Balaq da öz yoluna davam etdi.  </verse>
+      </chapter>
+      <chapter osisID='Num.25'>
+        <verse osisID='Num.25.1'>
+            İsrail xalqı Şittimdə yaşayarkən kişiləri Moav qızları ilə zina etməyə başladı.</verse>
+        <verse osisID='Num.25.2'>Bu qadınlar allahlarına qurban kəsəndə İsrail xalqını da dəvət edirdilər. İsrail xalqı qurban ətindən yedi və onların allahlarına səcdə etdi.</verse>
+        <verse osisID='Num.25.3'>İsrail övladları Peordakı Baal bütünə səcdə edənlərə qoşuldular və Rəbbin qəzəbi İsraillilərə qarşı alovlandı. </verse>
+        <verse osisID='Num.25.4'>Rəbb Musaya dedi: «Xalqın bütün başçılarını götürüb gündüz Rəbbin önündə dar ağacından asdır. Beləliklə, qoy Rəbbin qızğın qəzəbi İsraildən dönsün».</verse>
+        <verse osisID='Num.25.5'>Buna görə Musa İsrailin hakimlərinə dedi: «Hər biriniz öz adamlarınız arasında Peordakı Baala səcdə edənlərə qoşulanları öldürün». </verse>
+        <verse osisID='Num.25.6'>Bu an İsrail övladlarından olan bir nəfər gəldi, Musanın və Hüzur çadırının girişində ağlaşan bütün İsrail övladlarının icmasının gözü önündə qohumlarına Midyanlı bir qadın gətirdi.</verse>
+        <verse osisID='Num.25.7'>Kahin Harun oğlu Eleazar oğlu Pinxas bunu görən kimi icmanın arasından qalxdı və əlinə bir nizə götürdü.</verse>
+        <verse osisID='Num.25.8'>İsrailli adamın ardınca çadırın içinə girdi, nizəni İsrailli kişinin və qadının qarnına soxdu. Beləliklə, İsrail övladlarını qıran vəba dayandı.</verse>
+        <verse osisID='Num.25.9'>Vəbadan ölənlərin sayı iyirmi dörd min nəfər idi. </verse>
+        <verse osisID='Num.25.10'>Rəbb Musaya dedi:</verse>
+        <verse osisID='Num.25.11'>«Kahin Harun oğlu Eleazar oğlu Pinxas Mənim qəzəbimi İsrail övladlarından döndərdi, çünki aralarında yalnız o Mənim qeyrətimi çəkdi. Beləliklə, Mən qeyrətimə görə İsrail övladlarını məhv etmədim.</verse>
+        <verse osisID='Num.25.12'>Buna görə söylə: “Budur, Mən onunla sülh əhdi bağlayıram.</verse>
+        <verse osisID='Num.25.13'>Bu onun üçün və ondan sonra gələn nəsli üçün əbədi kahinlik əhdi olacaq. Çünki Allahının qeyrətini çəkib İsrail övladları üçün kəffarə etdi”». </verse>
+        <verse osisID='Num.25.14'>Midyanlı qadınla birgə öldürülən İsrailli kişinin adı Salu oğlu Zimri idi. O, Şimeonlular arasında bir nəsil rəhbəri idi.</verse>
+        <verse osisID='Num.25.15'>Öldürülən Midyanlı qadının adı Sur qızı Kozbi idi. Sur Midyanda bir nəsil başçısı idi. </verse>
+        <verse osisID='Num.25.16'>Rəbb Musaya dedi:</verse>
+        <verse osisID='Num.25.17'>«Midyanlıları düşmən hesab edin və onları qırın.</verse>
+        <verse osisID='Num.25.18'>Çünki onlar hiylə ilə sizə düşmənçilik etdilər. Peor hadisəsində və Peorda baş verən vəba günündə öldürülən bacıları, Midyanlı bəyin qızı Kozbi məsələsində sizi aldatdılar».  </verse>
+      </chapter>
+      <chapter osisID='Num.26'>
+        <verse osisID='Num.26.1'>
+            Vəbadan sonra Rəbb Musaya və kahin Harun oğlu Eleazara dedi:</verse>
+        <verse osisID='Num.26.2'>«Bütün İsrail övladlarının icmasını, ailələrinə görə iyirmi və ondan yuxarı yaşda döyüşə qabil olan İsrail övladlarını sayın».</verse>
+        <verse osisID='Num.26.3'>Musa ilə kahin Eleazar İordan çayı yanında, Yerixo qarşısında Moav düzənliyində onlarla danışıb dedi:</verse>
+        <verse osisID='Num.26.4'>«Rəbbin Musaya əmr etdiyi kimi iyirmi və ondan yuxarı yaşda olanları siyahıya alın!» </verse>
+        <verse osisID='Num.26.5'>İsrailin ilk oğlu Ruven, Ruvenlilər bunlardır: </verse>
+        <verse osisID='Num.26.6'>Xesron soyundan Xesron nəsli; </verse>
+        <verse osisID='Num.26.7'>Ruvenlilərin nəsilləri bunlardır, sayları 43 730 nəfər idi. </verse>
+        <verse osisID='Num.26.8'>Palunun oğlu Eliav,</verse>
+        <verse osisID='Num.26.9'>Eliavın oğulları Nemuel, Datan və Aviram idi. Bunlar o Datanla Aviramdır ki, icma tərəfindən seçildi və Rəbbə üsyan edən Qorahın tərəfdarlarına qoşulub Musa ilə Haruna zidd getdilər.</verse>
+        <verse osisID='Num.26.10'>Qorahla 250 yoldaşını od yandırıb yox edəndə yer yarıqları onları uddu. Qorahla birlikdə ölənlər başqalarına da bir ibrət oldu.</verse>
+        <verse osisID='Num.26.11'>Qorahın nəsli isə ölmədi. </verse>
+        <verse osisID='Num.26.12'>Nəsillərinə görə Şimeonlular bunlardır: </verse>
+        <verse osisID='Num.26.13'>Zerah soyundan Zerah nəsli;  Şaul soyundan Şaul nəsli;</verse>
+        <verse osisID='Num.26.14'>Şimeon nəsilləri bunlardır, sayları 22 200 nəfərdir. </verse>
+        <verse osisID='Num.26.15'>Nəsillərinə görə Qadlılar bunlardır: </verse>
+        <verse osisID='Num.26.16'>Ozni soyundan Ozni nəsli; </verse>
+        <verse osisID='Num.26.17'>Arod soyundan Arod nəsli;  Areli soyundan Areli nəsli.</verse>
+        <verse osisID='Num.26.18'>Qad nəsilləri bunlardır, sayları 40 500 nəfərdir. </verse>
+        <verse osisID='Num.26.19'>Yəhudanın iki oğlu var idi: Er və Onan. Onlar Kənan torpağında öldülər. </verse>
+        <verse osisID='Num.26.20'>Nəsillərinə görə Yəhudalılar bunlardır: </verse>
+        <verse osisID='Num.26.21'>Peres övladları bunlardır:  Xamul soyundan Xamul nəsli.</verse>
+        <verse osisID='Num.26.22'>Yəhuda nəsilləri bunlardır, sayları 76 500 nəfərdir. </verse>
+        <verse osisID='Num.26.23'>Nəsillərinə görə İssakar övladları bunlardır: </verse>
+        <verse osisID='Num.26.24'>Yaşuv soyundan Yaşuv nəsli;  Şimron soyundan Şimron nəsli.</verse>
+        <verse osisID='Num.26.25'>İssakar nəsilləri bunlardır, sayları 64 300 nəfərdir. </verse>
+        <verse osisID='Num.26.26'>Nəsillərinə görə Zevulunlular bunlardır:  Yaxleel soyundan Yaxleel nəsli.</verse>
+        <verse osisID='Num.26.27'>Zevulun nəsilləri bunlardır, sayları 60 500 nəfərdir. </verse>
+        <verse osisID='Num.26.28'>Nəsillərinə görə Yusifin oğulları: Menaşşe və Efrayim. </verse>
+        <verse osisID='Num.26.29'>Menaşşe övladları bunlardır: </verse>
+        <verse osisID='Num.26.30'>Gilead övladları bunlardır: </verse>
+        <verse osisID='Num.26.31'>Asriel soyundan Asriel nəsli; </verse>
+        <verse osisID='Num.26.32'>Şemida soyundan Şemida nəsli;  Xefer soyundan Xefer nəsli.</verse>
+        <verse osisID='Num.26.33'>Xefer oğlu Selofxadın oğlu olmadı, amma Maxla, Noa, Xoqla, Milka və Tirsa adında qızları var idi.</verse>
+        <verse osisID='Num.26.34'>Menaşşe nəsilləri bunlardır, sayları 52 700 nəfərdir. </verse>
+        <verse osisID='Num.26.35'>Nəsillərinə görə Efrayim övladları bunlardır:  Taxan soyundan Taxan nəsli;</verse>
+        <verse osisID='Num.26.36'>Şutelah övladları bunlardır:  Eran soyundan Eran nəsli.</verse>
+        <verse osisID='Num.26.37'>Efrayim övladlarının nəsilləri bunlardır, sayları 32 500 nəfərdir. Nəsillərinə görə Yusif övladları bunlardır. </verse>
+        <verse osisID='Num.26.38'>Nəsillərinə görə Binyaminlilər bunlardır: </verse>
+        <verse osisID='Num.26.39'>Şufam soyundan Şufam nəsli; </verse>
+        <verse osisID='Num.26.40'>Belanın oğulları Ardla Naaman nəslindən törənənlər bunlardır:  Naaman soyundan Naaman nəsli.</verse>
+        <verse osisID='Num.26.41'>Nəsillərinə görə Binyamin övladları bunlardır, sayları 45 600 nəfərdir. </verse>
+        <verse osisID='Num.26.42'>Nəsillərinə görə Dan övladları bunlardır:  Bunlar Dan nəslindən törənən nəsillərdir.</verse>
+        <verse osisID='Num.26.43'>Hamısı Şuxam nəslindəndir, sayları 64 400 nəfərdir. </verse>
+        <verse osisID='Num.26.44'>Nəsillərinə görə Aşerlilər bunlardır: </verse>
+        <verse osisID='Num.26.45'>Beria övladları bunlardır: </verse>
+        <verse osisID='Num.26.46'>Aşerin Serah adında bir qızı var idi. </verse>
+        <verse osisID='Num.26.47'>Aşer övladları bunlardır, sayı 53 400 nəfərdir. </verse>
+        <verse osisID='Num.26.48'>Nəsillərinə görə Naftali övladları bunlardır: </verse>
+        <verse osisID='Num.26.49'>Yeser soyundan Yeser nəsli;  Şillem soyundan Şillem nəsli.</verse>
+        <verse osisID='Num.26.50'>Naftali nəsilləri bunlardır, sayları 45 400 nəfərdir.</verse>
+        <verse osisID='Num.26.51'>Sayılan İsrail övladlarının cəmi 601 730 kişi idi. </verse>
+        <verse osisID='Num.26.52'>Rəbb Musaya belə dedi:</verse>
+        <verse osisID='Num.26.53'>«Adamların sayına görə ölkə bunlara irs olaraq bölünsün.</verse>
+        <verse osisID='Num.26.54'>Sayı çox olana böyük, sayı az olana az pay verəcəksən. Siyahıya yazılanların sayına görə hər birinə düşən pay verilsin.</verse>
+        <verse osisID='Num.26.55'>Ancaq torpaq püşklə bölünsün. Hər kəsin payı atalarının aid olduğu qəbilələrin adına görə olacaq.</verse>
+        <verse osisID='Num.26.56'>Kiçik ya böyük – hər qəbilənin payı püşklə bölünsün». </verse>
+        <verse osisID='Num.26.57'>Nəsillərinə görə sayılan Levililər bunlardır: </verse>
+        <verse osisID='Num.26.58'>Bunlar da Levi nəsilləridir:  Qohat Amramın atası idi.</verse>
+        <verse osisID='Num.26.59'>Amramın arvadının adı Yokeved idi. O, Misirdə Levi nəslindən doğulmuşdu. Amramdan Harun, Musa və bacıları Məryəm doğuldu.</verse>
+        <verse osisID='Num.26.60'>Harunun Nadav, Avihu, Eleazar, İtamar adlı uşaqları oldu.</verse>
+        <verse osisID='Num.26.61'>Nadavla Avihu Rəbbin önündə haram od təqdim edərkən öldülər.</verse>
+        <verse osisID='Num.26.62'>Levililərdən sayılan bir aylıq və ondan yuxarı yaşda bütün kişi cinsindən olanlar 23 000 nəfər idi. Bunlar o biri İsrail övladları ilə birlikdə siyahıya alınmışdı. Çünki İsrail övladları arasında onlara miras verilməmişdi. </verse>
+        <verse osisID='Num.26.63'>İsrail övladlarının siyahısı İordan çayının yanında, Yerixo qarşısındakı Moav düzənliyində Musa və kahin Eleazar tərəfindən tutuldu.</verse>
+        <verse osisID='Num.26.64'>Amma Musa ilə kahin Harunun Sina səhrasında saydığı İsrail övladlarından heç kim bu siyahıda olmadı.</verse>
+        <verse osisID='Num.26.65'>Ona görə ki Rəbb o vaxt siyahıya alınan İsrail övladlarının səhrada öləcəyini qətiyyətlə söyləmişdi. Onlardan Yefunne oğlu Kalevlə Nun oğlu Yeşuadan başqa kimsə sağ qalmamışdı.  </verse>
+      </chapter>
+      <chapter osisID='Num.27'>
+        <verse osisID='Num.27.1'>
+          Menaşşe oğlu Makir oğlu Gilead oğlu Xefer oğlu Selofxadın qızları Yusif oğlu Menaşşenin nəsillərinə mənsub idi. Qızların adları belədir: Maxla, Noa, Xoqla, Milka və Tirsa.</verse>
+        <verse osisID='Num.27.2'>Onlar Musanın, kahin Eleazarın və rəhbərlərlə bütün icmanın önündə, Hüzur çadırının girişində durub dedilər:</verse>
+        <verse osisID='Num.27.3'>«Atamız səhrada öldü, lakin Qorahın tərəfini tutub Rəbbə qarşı üsyan edənlərin arasında deyildi. O öz günahına görə öldü və oğulları olmadı.</verse>
+        <verse osisID='Num.27.4'>Oğlu olmadığına görə onun adı öz nəsli arasından nə üçün silinməlidir? Atamızın qardaşları arasında bizə bir mülk verin». </verse>
+        <verse osisID='Num.27.5'>Musa onların işini Rəbbin önünə qoydu.</verse>
+        <verse osisID='Num.27.6'>Rəbb Musaya dedi:</verse>
+        <verse osisID='Num.27.7'>«Selofxadın qızları doğru deyirlər: mütləq onlara atalarının qardaşları arasında mülk ver və atalarının mirasını onlara keçir.</verse>
+        <verse osisID='Num.27.8'>İsrail övladlarına de ki, əgər bir adam ölərsə və onun oğlu yoxdursa, o zaman mirası onun qızına keçir.</verse>
+        <verse osisID='Num.27.9'>Əgər onun qızı yoxdursa, onda mirasını onun qardaşlarına ver.</verse>
+        <verse osisID='Num.27.10'>Əgər qardaşları yoxdursa, onda mirasını atasının qardaşlarına ver.</verse>
+        <verse osisID='Num.27.11'>Əgər atasının qardaşları yoxdursa, o zaman mirasını nəslindən ona ən yaxın olan qohumuna ver ki, mülk onun olsun. Bu, Rəbbin Musaya əmr etdiyi kimi İsrail övladlarına qanun və hökm olsun». </verse>
+        <verse osisID='Num.27.12'>Rəbb Musaya dedi: «Bu Avarim dağına çıx və İsrail oğullarına verdiyim ölkəni gör.</verse>
+        <verse osisID='Num.27.13'>Onu gördükdən sonra qardaşın Harun nə cür xalqına qovuşdusa, sən də elə ölüb, xalqına qovuşacaqsan.</verse>
+        <verse osisID='Num.27.14'>Çünki Zin səhrasında əmrimə qarşı çıxdınız. İcma Mənə üsyan edəndə sulara görə onların gözləri önündə Mənim müqəddəsliyimi etiraf etmədiniz». Bunlar Zin səhrasındakı Qadeşdə olan Meriva sularıdır. </verse>
+        <verse osisID='Num.27.15'>Musa Rəbbə dedi:</verse>
+        <verse osisID='Num.27.16'>«Rəbb – bütün bəşər ruhlarının Allahı, icma üzərinə bir adam nəsib etsin,</verse>
+        <verse osisID='Num.27.17'>o da onların önündə girib-çıxsın, onların önündə döyüşə gedib-gəlsin. Qoy Rəbbin icması çobansız sürü kimi olmasın». </verse>
+        <verse osisID='Num.27.18'>Rəbb Musaya dedi: «İçində Ruh olan bir adamı – Nun oğlu Yeşuanı yanına gətirərək əlini onun üzərinə qoyacaqsan.</verse>
+        <verse osisID='Num.27.19'>Onu kahin Eleazar və bütün icma qarşısında dayandırıb onların gözləri önündə ona vəzifə tapşır.</verse>
+        <verse osisID='Num.27.20'>Ona öz səlahiyyətindən ver ki, bütün İsrail icması ona itaət etsin.</verse>
+        <verse osisID='Num.27.21'>O, hökm almaq üçün kahin Eleazarın qarşısında duracaq. Eleazar isə Urim  vasitəsilə Rəbdən soruşmalıdır. Yeşua ilə bütün İsraillilər icması Eleazarın əmri ilə döyüşə gedib-gəlsinlər». </verse>
+        <verse osisID='Num.27.22'>Musa Rəbbin ona əmr etdiyi kimi etdi: Yeşuanı götürüb kahin Eleazarın və bütün icmasının önündə dayandırdı.</verse>
+        <verse osisID='Num.27.23'>Rəbbin Musa vasitəsilə əmr etdiyi kimi əllərini onun üzərinə qoyaraq ona vəzifə tapşırdı.  </verse>
+      </chapter>
+      <chapter osisID='Num.28'>
+        <verse osisID='Num.28.1'>
+          Rəbb Musaya dedi:</verse>
+        <verse osisID='Num.28.2'>«İsrail övladlarına əmr edib de: “Diqqət edin ki, Mənə təqdim olunan payı – yandırma təqdimini, Mənim xoşuma gələn ətri öz vaxtında verəsiniz”.</verse>
+        <verse osisID='Num.28.3'>Onlara de: “Rəbbə verəcəyiniz yandırma təqdimi budur: daimi yandırma qurbanı olaraq hər gün iki birillik qüsursuz erkək toğlu.</verse>
+        <verse osisID='Num.28.4'>Toğlulardan birini səhər, o birini isə axşamçağı təqdim edin.</verse>
+        <verse osisID='Num.28.5'>Toğlu ilə birlikdə taxıl təqdimi olaraq dörddə bir hin çəkilmiş zeytun yağı ilə yoğrulmuş efanın onda biri narın un təqdim edin.</verse>
+        <verse osisID='Num.28.6'>Bu, daimi yandırma qurbanı, Sina dağında buyurulan, Rəbbin xoşuna gələn ətir – Onun üçün yandırma təqdimidir.</verse>
+        <verse osisID='Num.28.7'>Hər toğlu ilə birlikdə içmə təqdimi olaraq dörddə bir hin kefləndirici içkini Rəbbin adına müqəddəs yerdə tökün.</verse>
+        <verse osisID='Num.28.8'>O biri toğlunu axşamçağı təqdim edin. Səhərki kimi taxıl təqdimi və içmə təqdimi ilə birlikdə onu təqdim edin. Bu, Rəbbin xoşuna gələn ətir – yandırma təqdimidir. </verse>
+        <verse osisID='Num.28.9'>Şənbə günündə iki birillik qüsursuz erkək toğlu və taxıl təqdimi olaraq zeytun yağı ilə yoğrulmuş onda iki efa narın un və onun içmə təqdimini təqdim edin.</verse>
+        <verse osisID='Num.28.10'>Daimi yandırma qurbanı və onun içmə təqdimindən başqa hər Şənbənin yandırma qurbanı olan təqdim budur. </verse>
+        <verse osisID='Num.28.11'>Hər ayın başında Rəbbə yandırma qurbanı olaraq qüsursuz iki buğa və bir qoç, birillik yeddi erkək toğlu təqdim edin.</verse>
+        <verse osisID='Num.28.12'>Hər buğa üçün taxıl təqdimi olaraq zeytun yağı ilə yoğrulmuş onda üç efa narın un və tək qoç üçün taxıl təqdimi olaraq zeytun yağı ilə yoğrulmuş onda iki efa narın un,</verse>
+        <verse osisID='Num.28.13'>hər toğlu üçün taxıl təqdimi olaraq zeytun yağı ilə yoğrulmuş onda bir efa narın un təqdim edin. Bu, yandırma qurbanı Rəbbin xoşuna gələn ətir – Onun üçün yandırma təqdimidir.</verse>
+        <verse osisID='Num.28.14'>Onların içmə təqdimləri bir buğa üçün yarım hin, qoç üçün üçdə bir hin və bir toğlu üçün dörddə bir hin şərab olacaq. İl boyu hər yeni ayda veriləcək yandırma qurbanı budur.</verse>
+        <verse osisID='Num.28.15'>Daimi yandırma qurbanı və onun içmə təqdimlərindən başqa Rəbbə günah təqdimi olaraq bir təkə də təqdim edin. </verse>
+        <verse osisID='Num.28.16'>Birinci ayın on dördüncü günü Rəbbin Pasxa bayramıdır.</verse>
+        <verse osisID='Num.28.17'>Bu ayın on beşinci günü bayram olsun, yeddi gün mayasız çörək yeyilsin.</verse>
+        <verse osisID='Num.28.18'>Birinci gün müqəddəs toplantı keçirin, gündəlik işlərinizi görməyin.</verse>
+        <verse osisID='Num.28.19'>Rəbbə yandırma qurbanı, yandırma təqdimi olaraq iki buğa, bir qoç və birillik yeddi erkək toğlu təqdim edin; hamısı qüsursuz olsun.</verse>
+        <verse osisID='Num.28.20'>Hər buğa üçün taxıl təqdimi olaraq zeytun yağı ilə yoğrulmuş onda üç efa, qoç üçün onda iki,</verse>
+        <verse osisID='Num.28.21'>yeddi toğludan hər toğlu üçün onda bir efa narın un təqdim edin.</verse>
+        <verse osisID='Num.28.22'>Özünüzü kəffarə etmək üçün günah qurbanı olaraq bir təkə təqdim edin.</verse>
+        <verse osisID='Num.28.23'>Hər səhər təqdim edəcəyiniz daimi yandırma qurbanına əlavə olaraq bunları da təqdim edin.</verse>
+        <verse osisID='Num.28.24'>Beləliklə, yeddi gün ərzində hər gün Rəbbin payını, Onun xoşuna gələn ətri – yandırma təqdimini verin. Bunu daimi yandırma qurbanı ilə içmə təqdiminə əlavə olaraq verin.</verse>
+        <verse osisID='Num.28.25'>Yeddinci gün müqəddəs toplantı keçirin, gündəlik işlərinizi görməyin. </verse>
+        <verse osisID='Num.28.26'>Nübarın təqdim edilməsi günü Həftələr bayramında Rəbbə təzə taxıl təqdimi gətirəndə müqəddəs toplantı keçirin, gündəlik işlərinizi görməyin.</verse>
+        <verse osisID='Num.28.27'>Yandırma qurbanını Rəbbin xoşuna gələn ətir kimi iki buğa, bir qoç və birillik yeddi erkək toğlu olmaqla təqdim edin.</verse>
+        <verse osisID='Num.28.28'>Hər buğa üçün taxıl təqdimi olaraq zeytun yağı ilə yoğrulmuş onda üç efa, tək qoç üçün onda iki efa,</verse>
+        <verse osisID='Num.28.29'>yeddi toğludan hər toğlu üçün isə onda bir efa narın un təqdim edin.</verse>
+        <verse osisID='Num.28.30'>Özünüzü kəffarə etmək üçün bir təkə də təqdim edin.</verse>
+        <verse osisID='Num.28.31'>Daimi yandırma qurbanı taxıl və içmə təqdimlərinə əlavə olaraq bunları gətirin. Qurban etdiyiniz heyvanlar qüsursuz olmalıdır.  </verse>
+      </chapter>
+      <chapter osisID='Num.29'>
+        <verse osisID='Num.29.1'>
+          Yeddinci ayda, ayın birində müqəddəs toplantı keçirin, heç bir gündəlik işlərinizi görməyin. O gün sizin üçün şeypur çalma günü olacaq.</verse>
+        <verse osisID='Num.29.2'>Yandırma qurbanını Rəbbin xoşuna gələn ətir kimi qüsursuz bir buğa, bir qoç və birillik yeddi erkək toğlu olmaqla verin.</verse>
+        <verse osisID='Num.29.3'>Buğa üçün taxıl təqdimi olaraq zeytun yağı ilə yoğrulmuş onda üç efa, qoç üçün onda iki efa,</verse>
+        <verse osisID='Num.29.4'>yeddi toğludan hər toğlu üçün onda bir efa narın un təqdim edin.</verse>
+        <verse osisID='Num.29.5'>Özünüzü kəffarə etmək üçün günah qurbanı olaraq bir təkə də təqdim edin.</verse>
+        <verse osisID='Num.29.6'>Aylıq və gündəlik yandırma qurbanları ilə lazımi taxıl və içmə təqdimlərinə əlavə olaraq bunları gətirin. Bu, Rəbbin xoşuna gələn ətir – Onun üçün yandırma təqdimidir. </verse>
+        <verse osisID='Num.29.7'>Həmin yeddinci ayın onunda müqəddəs toplantı keçirin; özünüzü hər şeydən məhrum edin və heç bir iş görməyin.</verse>
+        <verse osisID='Num.29.8'>Rəbbə xoş ətir kimi yandırma qurbanı olaraq bir buğa, bir qoç, birillik yeddi erkək toğlu təqdim edin. Onlar qüsursuz olmalıdır.</verse>
+        <verse osisID='Num.29.9'>Buğa üçün taxıl təqdimi olaraq zeytun yağı ilə yoğrulmuş onda üç efa, qoç üçün onda iki efa,</verse>
+        <verse osisID='Num.29.10'>yeddi toğludan hər toğlu üçün onda bir efa narın un təqdim edin.</verse>
+        <verse osisID='Num.29.11'>Günah qurbanı olaraq bir təkə də təqdim edin. Kəffarələr üçün günah qurbanına, daimi yandırma qurbanına, onun taxıl təqdiminə və onların içmə təqdimlərinə əlavə olaraq bunları gətirin. </verse>
+        <verse osisID='Num.29.12'>Yeddinci ayın on beşinci günündə müqəddəs toplantı keçirin; heç bir gündəlik işlərinizi görməyin. Rəbbin şərəfinə yeddi gün bayram keçirin.</verse>
+        <verse osisID='Num.29.13'>Rəbbin xoşuna gələn ətir – yandırma təqdimi olaraq qüsursuz on üç buğa, iki qoç və birillik on dörd erkək toğlu verin. Onlar qüsursuz olmalıdır.</verse>
+        <verse osisID='Num.29.14'>Hər buğa üçün taxıl təqdimi olaraq zeytun yağı ilə yoğrulmuş onda üç efa, hər qoç üçün onda iki efa,</verse>
+        <verse osisID='Num.29.15'>on dörd toğludan hər toğlu üçün onda bir efa narın un təqdim edin.</verse>
+        <verse osisID='Num.29.16'>Günah qurbanı olaraq bir təkə də təqdim edin. Daimi yandırma qurbanı ilə taxıl və içmə təqdimlərinə əlavə olaraq bunları gətirin. </verse>
+        <verse osisID='Num.29.17'>İkinci gün qüsursuz on iki buğa, iki qoç, birillik on dörd erkək toğlu təqdim edin.</verse>
+        <verse osisID='Num.29.18'>Buğa, qoç və toğluların sayına görə onların lazımi taxıl və içmə təqdimlərini gətirin.</verse>
+        <verse osisID='Num.29.19'>Günah qurbanı olaraq bir təkə də təqdim edin. Daimi yandırma qurbanı ilə taxıl və içmə təqdimlərinə əlavə olaraq bunları gətirin. </verse>
+        <verse osisID='Num.29.20'>Üçüncü gün qüsursuz on bir buğa, iki qoç, birillik on dörd erkək toğlu təqdim edin.</verse>
+        <verse osisID='Num.29.21'>Buğa, qoç və toğluların sayına görə onların lazımi taxıl və içmə təqdimlərini gətirin.</verse>
+        <verse osisID='Num.29.22'>Günah qurbanı olaraq bir təkə də təqdim edin. Daimi yandırma qurbanı ilə taxıl və içmə təqdimlərinə əlavə olaraq bunları gətirin. </verse>
+        <verse osisID='Num.29.23'>Dördüncü gün qüsursuz on buğa, iki qoç, birillik on dörd erkək toğlu təqdim edin.</verse>
+        <verse osisID='Num.29.24'>Buğa, qoç və toğluların sayına görə onların lazımi taxıl və içmə təqdimlərini gətirin.</verse>
+        <verse osisID='Num.29.25'>Günah qurbanı olaraq bir təkə də təqdim edin. Daimi yandırma qurbanı ilə taxıl və içmə təqdimlərinə əlavə olaraq bunları gətirin. </verse>
+        <verse osisID='Num.29.26'>Beşinci gün qüsursuz doqquz buğa, iki qoç, birillik on dörd erkək toğlu təqdim edin.</verse>
+        <verse osisID='Num.29.27'>Buğa, qoç və toğluların sayına görə lazımi taxıl və içmə təqdimlərini gətirin.</verse>
+        <verse osisID='Num.29.28'>Günah qurbanı olaraq bir təkə də təqdim edin. Daimi yandırma qurbanı ilə taxıl və içmə təqdimlərinə əlavə olaraq bunları gətirin. </verse>
+        <verse osisID='Num.29.29'>Altıncı gün qüsursuz səkkiz buğa, iki qoç, birillik on dörd erkək toğlu təqdim edin.</verse>
+        <verse osisID='Num.29.30'>Buğa, qoç və toğluların sayına görə onların lazımi taxıl və içmə təqdimlərini gətirin.</verse>
+        <verse osisID='Num.29.31'>Günah qurbanı olaraq bir təkə də təqdim edin. Daimi yandırma qurbanı ilə taxıl və içmə təqdimlərinə əlavə olaraq bunları gətirin. </verse>
+        <verse osisID='Num.29.32'>Yeddinci gün qüsursuz yeddi buğa, iki qoç, birillik on dörd erkək toğlu təqdim edin.</verse>
+        <verse osisID='Num.29.33'>Buğa, qoç və toğluların sayına görə onların lazımi taxıl və içmə təqdimlərini gətirin.</verse>
+        <verse osisID='Num.29.34'>Günah qurbanı olaraq bir təkə də təqdim edin. Daimi yandırma qurbanı ilə taxıl və içmə təqdimlərinə əlavə olaraq bunları gətirin. </verse>
+        <verse osisID='Num.29.35'>Səkkizinci gün özünüz üçün təntənəli toplantı keçirin, heç bir gündəlik işlərinizi görməyin.</verse>
+        <verse osisID='Num.29.36'>Yandırma qurbanı, Rəbbin xoşuna gələn ətir – yandırma təqdimi olaraq qüsursuz bir buğa, bir qoç və birillik yeddi erkək toğlu təqdim edin.</verse>
+        <verse osisID='Num.29.37'>Buğa, qoç və toğluların sayına görə onların lazımi taxıl və içmə təqdimlərini gətirin.</verse>
+        <verse osisID='Num.29.38'>Günah qurbanı olaraq bir təkə də təqdim edin. Daimi yandırma qurbanı ilə taxıl və içmə təqdimlərinə əlavə olaraq bunları gətirin. </verse>
+        <verse osisID='Num.29.39'>Əhdə görə və könüllü təqdimlərinizdən əlavə təyin olunan bayramlarınızda Rəbbə bu yandırma qurbanlarınızı, taxıl təqdimlərinizi, içmə təqdimlərinizi və ünsiyyət qurbanlarınızı təqdim edin”». </verse>
+        <verse osisID='Num.29.40'>Musa Rəbbin ona əmr etdiyi hər şeyi İsrail övladlarına bildirdi.  </verse>
+      </chapter>
+      <chapter osisID='Num.30'>
+        <verse osisID='Num.30.1'>
+          Musa İsrail övladlarının qəbilə başçılarına dedi: «Rəbb belə əmr etmişdir:</verse>
+        <verse osisID='Num.30.2'>bir kişi Rəbbə əhd edərək yaxud and içərək öhdəsinə nə isə götürərsə, verdiyi sözü pozmasın, ağzından çıxan hər şeyi yerinə yetirsin. </verse>
+        <verse osisID='Num.30.3'>Əgər atasının evində yaşayan gənc qız Rəbbə əhd edib öhdəsinə nə isə götürərsə,</verse>
+        <verse osisID='Num.30.4'>lakin atası onun əhdini və öhdəsinə götürdüyü şeyi eşidəndə ona qarşı çıxmazsa, qızın etdiyi əhdlər və öhdəsinə götürdüyü şeylərin hamısı qüvvədə qalar.</verse>
+        <verse osisID='Num.30.5'>Amma atası bunları eşidən gün mane olarsa, qızın etdiyi əhdlər və öhdəsinə götürdüyü şeylər qüvvədən düşər. Rəbb onu bağışlayar, çünki atası mane olmuşdur. </verse>
+        <verse osisID='Num.30.6'>Əgər qız əhd yaxud düşünmədən öhdəsinə bir şey götürdükdən sonra ərə gedərsə,</verse>
+        <verse osisID='Num.30.7'>bunu eşidən əri həmin gün ona qarşı çıxmazsa, onun etdiyi əhdlər və düşünmədən öhdəsinə götürdüyü şeylər qüvvədə qalar.</verse>
+        <verse osisID='Num.30.8'>Amma əri bunu eşidən gün mane olarsa, gəlinin etdiyi əhdlər və öhdəsinə götürdüyü şeylər qüvvədən düşər. Rəbb onu bağışlayar. </verse>
+        <verse osisID='Num.30.9'>Dul yaxud boşanan qadının əhdi və öhdəsinə götürdüyü hər şey qüvvədə qalar. </verse>
+        <verse osisID='Num.30.10'>Əgər ərli bir qadın əhd edər yaxud öhdəsinə nə isə götürərsə,</verse>
+        <verse osisID='Num.30.11'>əri bunu eşidəndə ona qarşı çıxmayıb mane olmazsa, qadının bütün əhdləri yaxud öhdəsinə götürdüyü şeylər qüvvədə qalar.</verse>
+        <verse osisID='Num.30.12'>Amma əri bunları eşidən gün ona mane olarsa, qadının bütün əhdləri və öhdəsinə götürdüyü şeylər qüvvədən düşər. Əri mane olduğu üçün Rəbb qadını bağışlayar.</verse>
+        <verse osisID='Num.30.13'>Əri qadının özünü məhrum etmək üçün etdiyi əhdləri yaxud and içərək öhdəsinə götürdüyü şeyləri təsdiq edə bilər ya da mane ola bilər.</verse>
+        <verse osisID='Num.30.14'>Əgər əri bir gün içində bu barədə ona qarşı çıxmazsa, bütün əhdləri yaxud öhdəliklərini təsdiqləmiş olur. Onları eşidən gün qadına qarşı çıxmamaqla təsdiqləmiş sayılar.</verse>
+        <verse osisID='Num.30.15'>Əgər onları eşitdikdən bir müddət sonra mane olursa, qadının cəzasını əri çəkər». </verse>
+        <verse osisID='Num.30.16'>Kişi ilə arvadı, atası ilə onun evində yaşayan gənc qızı arasında münasibət barədə Rəbbin Musaya əmr etdiyi qaydalar bunlardır.  </verse>
+      </chapter>
+      <chapter osisID='Num.31'>
+        <verse osisID='Num.31.1'>
+          Rəbb Musaya belə dedi:</verse>
+        <verse osisID='Num.31.2'>«İsrail övladlarının qisasını Midyanlılardan al. Sonra isə ölüb öz xalqına qovuşacaqsan». </verse>
+        <verse osisID='Num.31.3'>Buna görə Musa xalqa belə dedi: «Aranızdan bəzi adamları silahlandırın ki, Midyanlılarla döyüşə çıxıb Rəbbin qisasını onlardan alsınlar.</verse>
+        <verse osisID='Num.31.4'>İsrail qəbilələrinin hər birindən döyüşə min nəfər göndərin». </verse>
+        <verse osisID='Num.31.5'>Beləliklə, İsrailin tayfalarından, hər qəbilədən min nəfər olmaqla döyüşə hazır on iki min nəfər seçildi.</verse>
+        <verse osisID='Num.31.6'>Musa hər qəbilədən min nəfəri kahin Eleazarın oğlu Pinxasla birlikdə döyüşə göndərdi. Pinxas özü ilə müqəddəs yerə aid bəzi əşyaları və işarə vermək üçün kərənayları götürdü.</verse>
+        <verse osisID='Num.31.7'>Onlar Rəbbin Musaya əmr etdiyi kimi Midyanlılarla döyüşüb bütün kişiləri qırdılar.</verse>
+        <verse osisID='Num.31.8'>Qırılanlar arasında Midyanın beş padşahı vardı: Evi, Reqem, Sur, Xur və Reva. Beor oğlu Bilamı da qılıncla öldürdülər. </verse>
+        <verse osisID='Num.31.9'>Sonra İsraillilər bütün Midyan qadınları ilə uşaqlarını əsir götürüb onların bütün naxır və sürülərini, bütün əşyalarını talan etdilər.</verse>
+        <verse osisID='Num.31.10'>Midyanlıların yaşadıqları bütün şəhərlərə, obalara od vurdular.</verse>
+        <verse osisID='Num.31.11'>İnsanları, heyvanları, bütün qəniməti, talan mallarını götürdülər.</verse>
+        <verse osisID='Num.31.12'>Əsirləri, qəniməti, talan mallarını İordan çayının şərqində, Yerixonun qarşısında, Moav düzənliyindəki düşərgədə olan Musa ilə kahin Eleazarın və İsrail övladlarının icmasının yanına gətirdilər. </verse>
+        <verse osisID='Num.31.13'>Musa, kahin Eleazar və icma rəhbərləri onları qarşılamaq üçün düşərgənin kənarına çıxdılar.</verse>
+        <verse osisID='Num.31.14'>Musa döyüşdən qayıdan sərkərdələrə – minbaşılara və yüzbaşılara qəzəblənib</verse>
+        <verse osisID='Num.31.15'>«Bütün qadınları nə üçün sağ saxladınız?» dedi.</verse>
+        <verse osisID='Num.31.16'>«Bunlar həmin qadınlardır ki, Bilamın verdiyi nəsihətə uyub Peor hadisəsində İsrail övladlarının Rəbdən dönməsinə səbəb oldular. Ona görə Rəbbin icması arasında vəba törəndi.</verse>
+        <verse osisID='Num.31.17'>İndi bütün oğlan uşaqlarını və kişi ilə yaxınlıq etmiş qadınları öldürün.</verse>
+        <verse osisID='Num.31.18'>Yalnız kişi ilə yaxınlıq etməmiş cavan qızları özünüz üçün sağ saxlayın. </verse>
+        <verse osisID='Num.31.19'>Aranızda kimisə öldürən yaxud meyitə toxunan hər kəs yeddi gün düşərgənin kənarında qalsın. Üçüncü və yeddinci gün özünüzü, həm də əsirlərinizi pak edin.</verse>
+        <verse osisID='Num.31.20'>Hər paltarı, dəridən, keçi tükündən və ağacdan düzələn nə varsa, hamısını pak edin». </verse>
+        <verse osisID='Num.31.21'>Bundan sonra kahin Eleazar döyüşdən qayıdan əsgərlərə dedi: «Rəbbin Musaya əmr etdiyi qanunun qaydası belədir.</verse>
+        <verse osisID='Num.31.22'>Qızılı, gümüşü, tuncu, dəmiri, qalayı, qurğuşunu,</verse>
+        <verse osisID='Num.31.23'>oda davamlı hər şeyi alovdan keçirin ki, pak sayılsın. Lakin paklama suyu ilə də paklansın. Oda davamsız şeyləri isə sudan keçirin.</verse>
+        <verse osisID='Num.31.24'>Yeddinci gün geyimlərinizi yuyun, onda pak olacaqsınız, sonra düşərgəyə girin». </verse>
+        <verse osisID='Num.31.25'>Rəbb Musaya dedi:</verse>
+        <verse osisID='Num.31.26'>«Sən, kahin Eleazar və icmanın nəsil başçıları ələ keçirilən insanları, heyvanları, talan mallarını sayın.</verse>
+        <verse osisID='Num.31.27'>Talan mallarını döyüşə çıxan igidlərlə icmanın qalan qismi arasında yarı bölün.</verse>
+        <verse osisID='Num.31.28'>Döyüşə gedən igidlərə düşən insan, mal-qara, eşşək, qoyun-keçi payından vergi olaraq beş yüzdə birini Rəbbə ayırın.</verse>
+        <verse osisID='Num.31.29'>Bu vergini igidlərə bölünən paydan götürüb Rəbbə ianə olaraq təqdim etmək üçün kahin Eleazara verin.</verse>
+        <verse osisID='Num.31.30'>O biri İsrail övladlarına düşən paydan insan, mal-qara, eşşək, qoyun-keçi və başqa heyvanlardan əllidə birini götürüb Rəbbin məskəninə cavabdeh olan Levililərə verin».</verse>
+        <verse osisID='Num.31.31'>Musa ilə kahin Eleazar Rəbbin Musaya əmr etdiyinə əməl etdilər. </verse>
+        <verse osisID='Num.31.32'>Döyüşə gedən igidlərin götürdüyü talan malından bu qənimətlər qalmışdı: 675 000 qoyun-keçi,</verse>
+        <verse osisID='Num.31.33'>72 000 mal-qara,</verse>
+        <verse osisID='Num.31.34'>61 000 eşşək,</verse>
+        <verse osisID='Num.31.35'>kişi ilə yaxınlıq etməmiş 32 000 qız. </verse>
+        <verse osisID='Num.31.36'>Bunların yarısı döyüşə gedən igidlərə pay düşdü: 337 500 qoyun-keçi,</verse>
+        <verse osisID='Num.31.37'>bunlardan Rəbbə vergi olaraq 675 qoyun-keçi verildi;</verse>
+        <verse osisID='Num.31.38'>36 000 mal-qara, bunlardan 72 mal-qara Rəbbə vergi olaraq ayrıldı;</verse>
+        <verse osisID='Num.31.39'>30 500 eşşək, bunlardan 61 eşşək Rəbbə vergi olaraq ayrıldı;</verse>
+        <verse osisID='Num.31.40'>16 000 nəfər, bunlardan 32 nəfər Rəbbə vergi olaraq ayrıldı.</verse>
+        <verse osisID='Num.31.41'>Musa Rəbbin ona əmr etdiyi kimi Rəbbə vergi olaraq ayrılanları kahin Eleazara verdi. </verse>
+        <verse osisID='Num.31.42'>Musanın döyüşə gedən igidlərdən ayırdığından İsrail övladlarına düşən payın yarısı bunlardır:</verse>
+        <verse osisID='Num.31.43'>İcmaya düşən yarı pay 337 500 qoyun-keçi,</verse>
+        <verse osisID='Num.31.44'>36 000 mal-qara,</verse>
+        <verse osisID='Num.31.45'>30 500 eşşək,</verse>
+        <verse osisID='Num.31.46'>16 000 insan.</verse>
+        <verse osisID='Num.31.47'>Rəbbin ona əmr etdiyi kimi Musa İsrail övladlarının payından hər əlli nəfərdən və heyvandan birini seçib Rəbbin məskəninə cavabdeh olan Levililərə verdi. </verse>
+        <verse osisID='Num.31.48'>Ordu bölmələrində hökm verən sərkərdələr – minbaşılar və yüzbaşılar Musanın yanına gedib dedilər:</verse>
+        <verse osisID='Num.31.49'>«Biz qulların hökm etdiyimiz döyüşçülərin sayını öyrəndik. Onlardan heç kim əskik deyildir.</verse>
+        <verse osisID='Num.31.50'>Ona görə də hər birimiz əldə etdiyimiz qızıl əşyaları – xalxalları, bilərzikləri, üzükləri, sırğaları, boyunbağıları təqdim olaraq Rəbbə gətirdik ki, Rəbbin önündə özümüz üçün kəffarə edək». </verse>
+        <verse osisID='Num.31.51'>Musa ilə kahin Eleazar qızılı və hər cür bəzək əşyalarını onlardan aldı;</verse>
+        <verse osisID='Num.31.52'>minbaşılardan və yüzbaşılardan Rəbbə ianə olaraq gətirdikləri qızıl cəmi 16 750 şekel  ağırlığında idi.</verse>
+        <verse osisID='Num.31.53'>Döyüşə gedən igidlərin hər biri özləri üçün talan edilmiş maldan götürmüşdü.</verse>
+        <verse osisID='Num.31.54'>Musa ilə kahin Eleazar minbaşılardan və yüzbaşılardan qızılı alıb İsrail övladları üçün Rəbbin önündə bir xatirə olaraq Hüzur çadırına gətirdilər.  </verse>
+      </chapter>
+      <chapter osisID='Num.32'>
+        <verse osisID='Num.32.1'>
+          Ruvenlilərlə Qadlıların çoxlu heyvanları var idi. Onlar Yazer ilə Gilead torpaqlarını görəndə heyvan otarmaq üçün bu yerlərin münasib olduğunu başa düşdülər.</verse>
+        <verse osisID='Num.32.2'>Qadlılarla Ruvenlilər gəlib Musaya, kahin Eleazara və icmanın rəhbərlərinə dedilər:</verse>
+        <verse osisID='Num.32.3'>«Atarot, Divon, Yazer, Nimra, Xeşbon, Elale, Sevam, Nevo və Beon</verse>
+        <verse osisID='Num.32.4'>Rəbbin İsrail icmasına təslim etdiyi bu ölkə heyvan otarmaq üçün münasib yerdir; qullarının da heyvanları var».</verse>
+        <verse osisID='Num.32.5'>Sonra əlavə etdilər: «Əgər biz sənin gözündə lütf tapmışıqsa, qoy bu torpaq mülk olaraq biz qullarına verilsin. Bizi İordandan o taya keçirməyin». </verse>
+        <verse osisID='Num.32.6'>Musa cavab verdi: «İsrailli qardaşlarınız döyüşməyə gedərkən siz buradamı qalmaq niyyətindəsiniz?</verse>
+        <verse osisID='Num.32.7'>Nə üçün çayı keçib Rəbbin onlara verdiyi torpağa getmək üçün İsrail övladlarını ruhdan salırsınız?</verse>
+        <verse osisID='Num.32.8'>Qadeş-Barneadan o torpağı gözdən keçirməyə göndərdiyim atalarınız da belə hərəkət etdilər.</verse>
+        <verse osisID='Num.32.9'>Onlar Eşkol vadisinə çatıb torpağı gördülər, lakin İsrail övladlarını ruhdan saldılar ki, Rəbbin verdiyi torpağa girməsinlər.</verse>
+        <verse osisID='Num.32.10'>O gün Rəbbin qəzəbi alovlandı və and içib dedi:</verse>
+        <verse osisID='Num.32.11'>“Misirdən çıxan iyirmi və ondan yuxarı yaşda olan adamların heç biri İbrahimə, İshaqa və Yaquba and içib vəd etdiyim torpağı heç vaxt görməyəcək, çünki onlar Mənim yolumda sədaqətlə getmədilər.</verse>
+        <verse osisID='Num.32.12'>Ancaq Qenizli Yefunne oğlu Kalev və Nun oğlu Yeşua bu torpağı görəcək, çünki onlar yolumda sədaqətlə getdilər”.</verse>
+        <verse osisID='Num.32.13'>Rəbbin qəzəbi İsrailə qarşı alovlandı və Rəbb gözündə pislik etmiş nəsil ölənə qədər onları qırx il səhrada gəzdirdi.</verse>
+        <verse osisID='Num.32.14'>Budur, atalarınızın yerinə siz – günahlılar nəsli qalxaraq Rəbbin qızğın qəzəbini İsrailə qarşı daha da alovlandırırsınız.</verse>
+        <verse osisID='Num.32.15'>Əgər siz indi Rəbbin ardınca getməkdən dönsəniz, O bütün bu xalqı yenə də səhrada atacaq, siz də onların ölümünə səbəb olacaqsınız». </verse>
+        <verse osisID='Num.32.16'>Ruvenlilərlə Qadlılar Musaya yaxınlaşıb dedilər: «Burada sürülərimiz üçün ağıllar, övladlarımız üçün şəhərlər tikəcəyik.</verse>
+        <verse osisID='Num.32.17'>Biz isə silahlanıb İsrail övladlarının qabağında getməyə hazırıq. Onlar vəd olunmuş torpağa daxil olana qədər onları tərk etmərik. Uşaqlarımız isə qoy möhkəmlənmiş şəhərlərdə qalsınlar ki, bu torpağın sakinlərindən qorunsunlar.</verse>
+        <verse osisID='Num.32.18'>İsrail övladlarından hər biri öz irsini alana qədər evlərimizə qayıtmayacağıq.</verse>
+        <verse osisID='Num.32.19'>Biz onlarla birlikdə İordanın o biri tayındakı torpaqdan irs istəməyəcəyik, çünki bizim payımız İordanın şərq tərəfinə düşdü». </verse>
+        <verse osisID='Num.32.20'>Musa onlara belə cavab verdi: «Əgər siz belə hərəkət edib silahlanaraq Rəbbin hüzurunda döyüşə getsəniz</verse>
+        <verse osisID='Num.32.21'>və Rəbb düşmənlərini hüzurundan qovana qədər hamınız Onun hüzurunda İordanın o biri tayına silahlı olaraq keçsəniz,</verse>
+        <verse osisID='Num.32.22'>bu torpaq Rəbbin önündə sizə tabe olarsa, onda qayıda bilərsiniz. Rəbbin və İsrailin qarşısında borclarınızı yerinə yetirmiş olarsınız. Onda bu torpaq Rəbbin təsdiqi ilə sizin mülkünüz olacaq.</verse>
+        <verse osisID='Num.32.23'>Lakin əgər belə etməsəniz, budur, Rəbbə qarşı günah etmiş olursunuz və bilin ki, günahınıza görə cəza alacaqsınız.</verse>
+        <verse osisID='Num.32.24'>Uşaqlarınız üçün şəhərlər, sürüləriniz üçün ağıllar düzəldin. Lakin vədinizi yerinə yetirin». </verse>
+        <verse osisID='Num.32.25'>Qadlılarla Ruvenlilər Musaya dedilər: «Ağamız necə buyurursa, biz qulların elə də edərik.</verse>
+        <verse osisID='Num.32.26'>Arvadlarımız, uşaqlarımız, qoyun-keçi və mal-qaramız, burada – Gilead şəhərlərində qalacaq.</verse>
+        <verse osisID='Num.32.27'>Sənin qulların – hamımız silahlanaraq, ağamız buyurduğu kimi çayı keçib Rəbbin əmri ilə döyüşə çıxacağıq». </verse>
+        <verse osisID='Num.32.28'>Musa onların haqqında kahin Eleazara, Nun oğlu Yeşuaya və İsrail övladlarının qəbilə başçılarına əmr etdi.</verse>
+        <verse osisID='Num.32.29'>Musa onlara dedi: «Əgər Qadlılarla Ruvenlilər silahlanaraq Rəbbin əmri ilə sizinlə İordan çayının o biri tayına keçərlərsə, torpaq zəbt olunarsa, onda Gilead torpağını onlara mülk olaraq verin.</verse>
+        <verse osisID='Num.32.30'>Lakin əgər onlar silahlanıb sizinlə çayın o biri tayına keçməsələr, onlar sizin aranızda – Kənan torpağında miras alacaqlar». </verse>
+        <verse osisID='Num.32.31'>Qadlılar və Ruvenlilər belə cavab verdilər: «Rəbb sənin qullarına necə deyibsə, biz də elə edərik.</verse>
+        <verse osisID='Num.32.32'>Biz Rəbbin hüzurunda silahlanıb çaydan Kənan torpağına keçəcəyik, lakin bizim miras aldığımız torpaq İordanın bu tayında olsun». </verse>
+        <verse osisID='Num.32.33'>Musa Emorlular padşahı Sixonun ölkəsini, Başan padşahı Oqun ölkəsini bütün ətraf şəhərləri və torpaqları ilə birlikdə Ruvenlilərlə Qadlılara və Menaşşe qəbiləsinin yarısına verdi.</verse>
+        <verse osisID='Num.32.34'>Qadlılar möhkəmlənmiş şəhərlər olaraq Divonu, Atrotu, Aroeri,</verse>
+        <verse osisID='Num.32.35'>Atrot-Şofanı, Yazeri, Yoqbohanı,</verse>
+        <verse osisID='Num.32.36'>Bet-Nimranı və Bet-Haranı bərpa etdilər və sürülər üçün ağıllar düzəltdilər.</verse>
+        <verse osisID='Num.32.37'>Ruvenlilər isə Xeşbonu, Elaleni, Qiryatayimi,</verse>
+        <verse osisID='Num.32.38'>Nevonu, Baal-Meonu – onların adları sonra dəyişdirildi – və Sivmanı bərpa etdilər. Yenidən tikdikləri şəhərlərə başqa adlar qoydular.</verse>
+        <verse osisID='Num.32.39'>Menaşşe oğlu Makirin övladları Gileada girib oradakı Emorluları qovdular və oranı ələ keçirdilər.</verse>
+        <verse osisID='Num.32.40'>Musa Gileadı Menaşşe oğlu Makirin nəslinə verdi. Onlar orada məskən saldılar.</verse>
+        <verse osisID='Num.32.41'>Menaşşe nəslindən olan Yair gedib Emorluların kəndlərini alaraq adlarını Xavvot-Yair qoydu.</verse>
+        <verse osisID='Num.32.42'>Novah isə gedib Qenatı və ətrafdakı qəsəbələri aldı. Oranı da öz adı ilə Novah adlandırdı.  </verse>
+      </chapter>
+      <chapter osisID='Num.33'>
+        <verse osisID='Num.33.1'>
+          Musa və Harunun başçılığı ilə ordular halında Misir torpağından çıxan İsrail övladlarının köçləri bunlardır.</verse>
+        <verse osisID='Num.33.2'>Musa Rəbbin əmrinə görə onların köçlərini və dayanacaqlarını qeyd etdi. Onların köçləri və qaldıqları yerlər bunlardır: </verse>
+        <verse osisID='Num.33.3'>İsrail övladları Pasxa bayramının səhəri, birinci ayın on beşində Misirlilərin gözü qarşısında vüqarla Ramsesdən yola düşdü.</verse>
+        <verse osisID='Num.33.4'>O vaxt Misirlilər Rəbbin qırdığı bütün ilk oğlanları basdırırdılar. Rəbb onların allahlarını da Öz hökmünə məruz qoymuşdu. </verse>
+        <verse osisID='Num.33.5'>İsrail övladları Ramsesdən yola çıxıb Sukkotda düşərgə saldılar. </verse>
+        <verse osisID='Num.33.6'>Sukkotu tərk edib səhra kənarındakı Etamda düşərgə saldılar. </verse>
+        <verse osisID='Num.33.7'>Etamı tərk edib Baal-Sefonun şərqində Pi-Haxirota qayıtdılar və Miqdol yaxınlığında düşərgə saldılar. </verse>
+        <verse osisID='Num.33.8'>Pi-Haxirotu tərk edib dənizin ortasından keçərək səhraya çıxdılar. Etam səhrasında üç gün gəzib dolanandan sonra Marada düşərgə saldılar. </verse>
+        <verse osisID='Num.33.9'>Maranı tərk edib on iki su çeşməsi və yetmiş xurma ağacı olan Elimə gedərək orada düşərgə saldılar. </verse>
+        <verse osisID='Num.33.10'>Elimi tərk edib Qırmızı dəniz kənarında düşərgə saldılar. </verse>
+        <verse osisID='Num.33.11'>Qırmızı dənizin kənarından ayrılıb Sin səhrasında düşərgə saldılar. </verse>
+        <verse osisID='Num.33.12'>Sin səhrasını tərk edib Dofqada düşərgə saldılar. </verse>
+        <verse osisID='Num.33.13'>Dofqanı tərk edib Aluşda düşərgə saldılar. </verse>
+        <verse osisID='Num.33.14'>Aluşu tərk edib Refidimdə düşərgə saldılar. Orada xalq üçün içməyə su yox idi. </verse>
+        <verse osisID='Num.33.15'>Refidimi tərk edib Sina səhrasında düşərgə saldılar. </verse>
+        <verse osisID='Num.33.16'>Sina səhrasını tərk edib Qivrot-Hattaavada düşərgə saldılar. </verse>
+        <verse osisID='Num.33.17'>Qivrot-Hattaavanı tərk edib Xaserotda düşərgə saldılar. </verse>
+        <verse osisID='Num.33.18'>Xaserotu tərk edib Ritmada düşərgə saldılar. </verse>
+        <verse osisID='Num.33.19'>Ritmanı tərk edib Rimmon-Peresdə düşərgə saldılar. </verse>
+        <verse osisID='Num.33.20'>Rimmon-Peresi tərk edib Livnada düşərgə saldılar. </verse>
+        <verse osisID='Num.33.21'>Livnanı tərk edib Rissada düşərgə saldılar. </verse>
+        <verse osisID='Num.33.22'>Rissanı tərk edib Qehelatda düşərgə saldılar. </verse>
+        <verse osisID='Num.33.23'>Qehelatı tərk edib Şefer dağında düşərgə saldılar. </verse>
+        <verse osisID='Num.33.24'>Şefer dağını tərk edib Xaradada düşərgə saldılar. </verse>
+        <verse osisID='Num.33.25'>Xaradadan ayrılıb Maqhelotda düşərgə saldılar. </verse>
+        <verse osisID='Num.33.26'>Maqhelotu tərk edib Taxatda düşərgə saldılar. </verse>
+        <verse osisID='Num.33.27'>Taxatdan ayrılıb Terahda düşərgə saldılar. </verse>
+        <verse osisID='Num.33.28'>Terahı tərk edib Mitqada düşərgə saldılar. </verse>
+        <verse osisID='Num.33.29'>Mitqanı tərk edib Xaşmonada düşərgə saldılar. </verse>
+        <verse osisID='Num.33.30'>Xaşmonadan ayrılıb Moserotda düşərgə saldılar. </verse>
+        <verse osisID='Num.33.31'>Moserotu tərk edib Bene-Yaaqanda düşərgə saldılar. </verse>
+        <verse osisID='Num.33.32'>Bene-Yaaqandan ayrılıb Xor-Haqqidqadda düşərgə saldılar. </verse>
+        <verse osisID='Num.33.33'>Xor-Haqqidqadı tərk edib Yotvatada düşərgə saldılar. </verse>
+        <verse osisID='Num.33.34'>Yotvatanı tərk edib Avronada düşərgə saldılar. </verse>
+        <verse osisID='Num.33.35'>Avronanı tərk edib Esyon-Geverdə düşərgə saldılar. </verse>
+        <verse osisID='Num.33.36'>Esyon-Geveri tərk edib Zin səhrasında, yəni Qadeşdə düşərgə saldılar. </verse>
+        <verse osisID='Num.33.37'>Qadeşdən ayrılıb Edom torpağının sərhədindəki Hor dağında düşərgə saldılar.</verse>
+        <verse osisID='Num.33.38'>Kahin Harun Rəbbin əmrinə görə Hor dağına çıxdı. İsraillilərin Misirdən çıxmasının qırxıncı ilində, beşinci ayın birinci günündə orada öldü.</verse>
+        <verse osisID='Num.33.39'>Harun Hor dağında öləndə yüz iyirmi üç yaşında idi. </verse>
+        <verse osisID='Num.33.40'>Kənan ölkəsinin Negev bölgəsində yaşayan Kənanlı Arad padşahı eşitdi ki, İsrail övladları gəlib. </verse>
+        <verse osisID='Num.33.41'>İsrail övladları Hor dağından ayrılıb Salmonada düşərgə saldılar. </verse>
+        <verse osisID='Num.33.42'>Salmonanı tərk edib Punonda düşərgə saldılar. </verse>
+        <verse osisID='Num.33.43'>Punonu tərk edib Ovotda düşərgə saldılar. </verse>
+        <verse osisID='Num.33.44'>Ovotu tərk edib Moav sərhədindəki İye-Avarimdə düşərgə saldılar. </verse>
+        <verse osisID='Num.33.45'>İye-Avarimi tərk edib Divon-Qadda düşərgə saldılar. </verse>
+        <verse osisID='Num.33.46'>Divon-Qaddan ayrılıb Almon-Divlataymada düşərgə saldılar. </verse>
+        <verse osisID='Num.33.47'>Almon-Divlataymanı tərk edib Nevo yaxınlığında olan Avarim dağlıq bölgəsində düşərgə saldılar. </verse>
+        <verse osisID='Num.33.48'>Avarim dağlıq bölgəsindən ayrılıb İordan çayı yanında, Yerixo qarşısında olan Moav düzənliyində düşərgə saldılar.</verse>
+        <verse osisID='Num.33.49'>İordan çayı boyunca Bet-Yeşimotdan Avel-Şittimə qədər Moav düzənliyində düşərgə saldılar. </verse>
+        <verse osisID='Num.33.50'>Orada, İordan çayı yanında, Yerixo qarşısındakı Moav düzənliyində Rəbb Musaya belə dedi:</verse>
+        <verse osisID='Num.33.51'>«İsrail övladlarına de: “İordan çayından Kənan ölkəsinə keçəndə</verse>
+        <verse osisID='Num.33.52'>ölkədə yaşayan bütün əhalini qovun. Oyma daşlarının, tökmə bütlərinin hamısını yox edin. Onların bütün səcdəgah yerlərini dağıdın.</verse>
+        <verse osisID='Num.33.53'>Ölkəni ələ keçirib orada məskunlaşacaqsınız, çünki mülk almaq üçün oranı sizə verdim.</verse>
+        <verse osisID='Num.33.54'>Püşklə ölkəni nəsilləriniz arasında bölün. Böyük nəslə böyük torpaq payı, kiçik nəslə kiçik torpaq payı verin. Kimin püşkünə nə çıxsa, qoy ora onun olsun. Paylarınızı atalarınızın qəbilələrinə görə irs alın. </verse>
+        <verse osisID='Num.33.55'>Amma yerli əhalini qovmasanız, qalanlar böyrünüzü kol kimi dolayıb tikan kimi gözünüzə girəcək. Yaşadığınız ölkədə sizə əziyyət verəcək.</verse>
+        <verse osisID='Num.33.56'>Mən də onlara nə etməyi düşünsəm, onu sizə edəcəyəm”».  </verse>
+      </chapter>
+      <chapter osisID='Num.34'>
+        <verse osisID='Num.34.1'>
+          Rəbb Musaya dedi:</verse>
+        <verse osisID='Num.34.2'>«İsrail övladlarına əmr et və onlara de: “Kənan ölkəsinə girdiyiniz zaman irs olaraq sizə düşən torpağın – Kənan torpağının sərhədləri belə olacaq: </verse>
+        <verse osisID='Num.34.3'>Cənub tərəfiniz Zin səhrasından Edom sərhədi boyunca uzanacaq. Cənub sərhədiniz şərqdə Duz dənizinin ucundan başlayacaq.</verse>
+        <verse osisID='Num.34.4'>Sərhədiniz Aqrabbim keçidinin cənubundan dolaşaraq Zin səhrasına keçəcək və oradan Qadeş-Barneanın cənubuna qədər uzanacaq. Oradan Xasar-Addara uzanıb Asmona keçəcək.</verse>
+        <verse osisID='Num.34.5'>Sərhəd Asmondan Misir vadisinə qədər dolaşacaq və onun ucu dənizin yanında olacaq. </verse>
+        <verse osisID='Num.34.6'>Qərb sərhədiniz Böyük dənizi və onun kənarı olacaq, qərb sərhədiniz belə olacaq. </verse>
+        <verse osisID='Num.34.7'>Şimal sərhədiniz bu olacaq: Böyük dənizdən Hor dağına qədər nişan qoyacaqsınız.</verse>
+        <verse osisID='Num.34.8'>Hor dağından da Xamat keçidinə qədər nişan qoyacaqsınız. Sərhədin ucu Sedadda olacaq.</verse>
+        <verse osisID='Num.34.9'>Sərhəd Zifrona uzanacaq və onun ucu Xasar-Enanda olacaq. Bu, şimal sərhədiniz olacaq. </verse>
+        <verse osisID='Num.34.10'>Şərq sərhədinizə Xasar-Enandan Şefama qədər nişan qoyacaqsınız.</verse>
+        <verse osisID='Num.34.11'>Sərhəd Şefamdan Ayinin şərq tərəfində olan Rivlaya enəcək və oradan Kinneret gölünün şərq kənarındakı yamaclara çatacaq.</verse>
+        <verse osisID='Num.34.12'>Sonra sərhəd İordan çayı boyunca enəcək və onun ucu Duz dənizinin yanında olacaq. </verse>
+        <verse osisID='Num.34.13'>Musa İsrail övladlarına əmr edib dedi: «Bu o torpaqdır ki, siz onu püşk vasitəsilə bölməlisiniz. Rəbbin əmri ilə onu doqquz yarım qəbilə arasında bölməlisiniz.</verse>
+        <verse osisID='Num.34.14'>Çünki Ruven qəbiləsinin nəsilləri, Qad qəbiləsinin nəsilləri və Menaşşe qəbiləsinin o biri yarısı öz irsini aldılar.</verse>
+        <verse osisID='Num.34.15'>Bu iki yarım qəbilə Yerixonun qarşısında İordan çayının şərq tərəfində irsini aldı». </verse>
+        <verse osisID='Num.34.16'>Rəbb Musaya dedi:</verse>
+        <verse osisID='Num.34.17'>«Torpaqları sizə irs olaraq böləcək adamların adları belədir: kahin Eleazar və Nun oğlu Yeşua.</verse>
+        <verse osisID='Num.34.18'>Torpaqları bölmək üçün hər qəbilədən bir nəfər rəhbər götürün.</verse>
+        <verse osisID='Num.34.19'>Bu adamlar bunlardır: Yəhuda qəbiləsi üçün Yefunne oğlu Kalev;</verse>
+        <verse osisID='Num.34.20'>Şimeon qəbiləsi üçün Ammihud oğlu Şamuel;</verse>
+        <verse osisID='Num.34.21'>Binyamin qəbiləsi üçün Kislon oğlu Elidad;</verse>
+        <verse osisID='Num.34.22'>Dan qəbiləsi üçün rəhbər olan Yoqli oğlu Buqqi;</verse>
+        <verse osisID='Num.34.23'>Yusif oğullarından Menaşşe qəbiləsi üçün rəhbər olan Efod oğlu Xanniel;</verse>
+        <verse osisID='Num.34.24'>Efrayim qəbiləsi üçün rəhbər olan Şiftan oğlu Qemuel;</verse>
+        <verse osisID='Num.34.25'>Zevulun qəbiləsi üçün rəhbər olan Parnak oğlu Elisafan;</verse>
+        <verse osisID='Num.34.26'>İssakar qəbiləsi üçün rəhbər olan Azzan oğlu Paltiel;</verse>
+        <verse osisID='Num.34.27'>Aşer qəbiləsi üçün rəhbər olan Şelomi oğlu Axihud;</verse>
+        <verse osisID='Num.34.28'>Naftali qəbiləsi üçün rəhbər olan Ammihud oğlu Pedahel». </verse>
+        <verse osisID='Num.34.29'>Kənan torpağında İsrail övladlarına irs torpaqları bölmək üçün Rəbbin əmr etdiyi adamlar bunlardır.  </verse>
+      </chapter>
+      <chapter osisID='Num.35'>
+        <verse osisID='Num.35.1'>
+            İordan çayının yanında, Yerixo qarşısında olan Moav düzənliyində Rəbb Musaya dedi:</verse>
+        <verse osisID='Num.35.2'>«İsrail övladlarına əmr et ki, mülk etdikləri torpaqda yaşamaq üçün Levililərə şəhərlər versinlər. Sən şəhərlərin ətrafında Levililərə otlaqlar da ver.</verse>
+        <verse osisID='Num.35.3'>Beləliklə, Levililərin yaşamaq üçün şəhərləri və onların mal-qaraları, sürüləri və digər heyvanları üçün otlaqları olsun.</verse>
+        <verse osisID='Num.35.4'>Levililərə verəcəyiniz şəhərlərin ətrafındakı otlaqlar şəhər divarından min qulac uzanacaq.</verse>
+        <verse osisID='Num.35.5'>Şəhər ortada olaraq şəhərin bayırından şərq tərəfini iki min qulac, cənub tərəfini iki min qulac, qərb tərəfini iki min qulac və şimal tərəfini iki min qulac ölçün. Bu onlar üçün şəhər otlaqları olsun. </verse>
+        <verse osisID='Num.35.6'>Levililərə verəcəyiniz şəhərlərdən altı sığınacaq şəhər olsun ki, kimisə öldürən oraya qaça bilsin. Bunlardan başqa qırx iki şəhər də verin.</verse>
+        <verse osisID='Num.35.7'>Levililərə verəcəyiniz şəhərlərin cəmi qırx səkkiz şəhər olsun. Onları otlaqları ilə birgə verin.</verse>
+        <verse osisID='Num.35.8'>Levililərə verəcəyiniz şəhərlər hər qəbiləyə düşən payın nisbətində alınsın, çox şəhəri olan qəbilədən çox şəhər, az şəhəri olan qəbilədən az şəhər alın». </verse>
+        <verse osisID='Num.35.9'>Sonra Rəbb Musaya dedi:</verse>
+        <verse osisID='Num.35.10'>«İsrail övladlarına de: “Siz İordan çayını keçib Kənan torpağına girəndə</verse>
+        <verse osisID='Num.35.11'>sığınacaq şəhərlər olaraq bəzi şəhərlər seçin ki, bilmədən adam öldürən oraya qaçsın.</verse>
+        <verse osisID='Num.35.12'>Qisas alandan sığınacaq şəhərləriniz bunlar olsun ki, adam öldürən şəxs icmanın önündə hökm alana qədər öldürülməsin.</verse>
+        <verse osisID='Num.35.13'>Verəcəyiniz bu altı şəhər sizin üçün sığınacaq şəhərlər olsun.</verse>
+        <verse osisID='Num.35.14'>İordan çayının o biri tayında üç şəhər və Kənan torpağında üç şəhər verin. Bunlar sığınacaq şəhərlər olsun.</verse>
+        <verse osisID='Num.35.15'>Bu altı şəhər İsrail övladlarına, aralarında yaşayan yadellilərə və qəriblərə sığınacaq şəhərləri olacaq. Belə ki bilmədən birini öldürən hər kəs oraya qaça bilsin. </verse>
+        <verse osisID='Num.35.16'>Əgər biri dəmir bir alətlə başqa birini vurub öldürmüşsə, o adam qatildir. Qatil öldürülməlidir.</verse>
+        <verse osisID='Num.35.17'>Əgər kimsə əlində insanın ölə biləcəyi bir daşla kimisə vurmuşsa və o adam ölmüşsə, onda o adam qatildir. Qatil öldürülməlidir.</verse>
+        <verse osisID='Num.35.18'>Yaxud əlində adam öldürə bilən ağac bir alətlə birini vurub öldürmüşsə, o adam qatildir. Qatil öldürülməlidir.</verse>
+        <verse osisID='Num.35.19'>Tökülən qanın qisasını alan özü qatili öldürsün, onunla rastlaşdığı zaman öldürsün.</verse>
+        <verse osisID='Num.35.20'>Əgər onu kinlə itələyib yaxud pusquda duraraq ona tərəf bir şey atıb öldürmüşsə</verse>
+        <verse osisID='Num.35.21'>ya da ədavətə görə onu əli ilə vurub öldürmüşsə, vuran mütləq öldürülməlidir. O qatildir, tökülən qanın qisasını alan adam qatilə rast gəldiyi zaman onu öldürsün. </verse>
+        <verse osisID='Num.35.22'>Ancaq ədavəti olmayaraq birini qəflətən itələmişsə yaxud pusquda durmadan ona bir şey atmışsa</verse>
+        <verse osisID='Num.35.23'>və yaxud da onu görmədən üstünə adam öldürə bilən bir daş düşürüb öldürmüşsə, onda ölən şəxsi-qərəzlik olmadığından və ona ziyan vurmaq istəmədiyindən</verse>
+        <verse osisID='Num.35.24'>adam öldürənlə tökülən qanın qisasını alan arasında bu hökmlərə görə icma hökm çıxaracaq.</verse>
+        <verse osisID='Num.35.25'>İcma tökülən qanın qisasını alanın əlindən adam öldürəni qurtaracaq, qaçdığı sığınacaq şəhərə geri göndərəcək və o, müqəddəs yağla məsh olunmuş baş kahinin ölümünə qədər orada qalacaq.</verse>
+        <verse osisID='Num.35.26'>Əgər adam öldürən qaçdığı sığınacaq şəhərin sərhədini keçərsə,</verse>
+        <verse osisID='Num.35.27'>tökülən qanın qisasını alan adam öldürəni sığınacaq şəhərin sərhəd kənarında taparsa və onu öldürərsə, o qatil sayılmayacaq.</verse>
+        <verse osisID='Num.35.28'>Çünki adam öldürən baş kahinin ölümünə qədər sığındığı şəhərdə qalmalı idi. Ancaq baş kahinin ölümündən sonra öz mülkü olan torpağına qayıda bilər. </verse>
+        <verse osisID='Num.35.29'>Bunlar nəsildən-nəslə bütün yaşadığınız yerlərdə qanun və hökm olacaq. </verse>
+        <verse osisID='Num.35.30'>Bir adam bir adamı öldürsə, şahidlərin ifadəsi ilə öldürülsün. Lakin heç bir qatil tək şahidin ifadəsi ilə öldürülməsin.</verse>
+        <verse osisID='Num.35.31'>Ölüm cəzasına layiq qatilin canı üçün fidyə almayın, çünki o öldürülməlidir.</verse>
+        <verse osisID='Num.35.32'>Sığınacaq şəhərinə qaçan üçün fidyə almayın ki, kahinin ölümündən əvvəl torpağında yaşamağa qayıtsın.</verse>
+        <verse osisID='Num.35.33'>Beləcə olduğunuz ölkəni murdarlamayın. Çünki qan tökmək ölkəni murdar edər və ölkədə tökülən qanın əvəzi ancaq onu tökənin qanı ilə kəffarə oluna bilər.</verse>
+        <verse osisID='Num.35.34'>Yaşadığınız, Mənim də olduğum ölkəni ləkələməyin. Çünki İsrail övladları arasında yaşayan Rəbb Mənəm”».  </verse>
+      </chapter>
+      <chapter osisID='Num.36'>
+        <verse osisID='Num.36.1'>
+          Yusif övladlarının nəsillərindən Menaşşe oğlu Makir oğlu Gilead nəslinin ailə başçıları yaxınlaşıb Musanın önündə və İsrail nəsil başçıları olan rəhbərlərin önündə belə danışdılar:</verse>
+        <verse osisID='Num.36.2'>«Rəbb ölkəni irs olaraq püşk ilə İsrail övladları arasında bölüşdürməyi ağamıza əmr etdi. Soydaşımız Selofxadın irsini onun qızlarına vermək ağamıza Rəbb tərəfindən əmr olundu.</verse>
+        <verse osisID='Num.36.3'>Əgər Selofxadın qızları başqa bir İsrail qəbiləsinə mənsub kişilərə ərə getsələr, onların irsi bizim irsimizdən götürülüb mənsub olacaqları qəbilənin irsinə qatılar. Beləliklə, püşklə bizə düşən pay azalar.</verse>
+        <verse osisID='Num.36.4'>İsrail övladlarının Azadlıq ili gələndə qızların irsi ərlərinin mənsub olduqları qəbilənin irsinə əlavə olunar. Beləliklə, qızların irsi atalarımızın qəbiləsinə düşən irsdən alınar». </verse>
+        <verse osisID='Num.36.5'>Musa Rəbbin əmrinə görə İsrail övladlarına əmr edib dedi: «Yusif nəslinin qəbiləsi doğru söyləyir.</verse>
+        <verse osisID='Num.36.6'>Selofxadın qızları haqqında Rəbbin əmr edib dediyi söz budur: onlar öz istədikləri kişiyə ərə gedə bilər, ancaq atalarının mənsub olduğu qəbilədən olan nəsil içində ərə getməlidirlər ki,</verse>
+        <verse osisID='Num.36.7'>İsrail övladlarının irsi qəbilədən qəbiləyə keçməsin. İsrail övladlarının hər biri atalarının qəbiləsinin irsinə bağlı qalsın.</verse>
+        <verse osisID='Num.36.8'>İsrail qəbilələrindən hər hansı birində irsə malik olan hər qız atasının mənsub olduğu qəbilədən və nəsildən bir nəfərə ərə getməlidir ki, hər bir İsrail övladı atalarının irsinə malik olsun.</verse>
+        <verse osisID='Num.36.9'>İrs bir qəbilədən başqa qəbiləyə keçməsin. Hər bir İsrail qəbiləsi öz irsinə bağlı qalsın». </verse>
+        <verse osisID='Num.36.10'>Rəbbin Musaya əmr etdiyinə əməl edərək Selofxadın qızları</verse>
+        <verse osisID='Num.36.11'>Maxla, Tirsa, Xoqla, Milka və Noa əmisi oğlanlarına ərə getdilər.</verse>
+        <verse osisID='Num.36.12'>Onlar Yusif oğlu Menaşşe nəsillərinə mənsub kişilərə ərə getdilər. Ona görə də irsi atalarının mənsub olduğu qəbilə və nəsil içində qaldı. </verse>
+        <verse osisID='Num.36.13'>Rəbbin Musa vasitəsilə İordan çayının yanında Yerixo qarşısındakı Moav düzənliyində İsrail övladlarına verdiyi əmr və hökmlər bunlardır.  </verse>
+      </chapter>
+    </div></osisText>
+</osis>

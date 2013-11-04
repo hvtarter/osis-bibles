@@ -1,0 +1,1273 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace'>
+  <osisText osisIDWork='NorthernAzeri' osisRefWork='Bible' xml:lang='az'>
+    <header>
+      <revisionDesc>
+        <date>2012-01-07</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='NorthernAzeri'>
+        <title>Northern Azeri Translation</title>
+        <contributor/>
+        <creator>Mod2Zef (6)</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject/>
+        <date>2012-01-07</date>
+        <description>Northern Azeri Translation</description>
+        <publisher/>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>NorthernAzeri</identifier>
+        <source>no entry TextSource in sword.conf found</source>
+        <language type='IETF'>az</language>
+        <relation/>
+        <coverage>provide the bible to the nations of the world</coverage>
+        <rights>Copyrighted Kutsul Kitab; Permission to distribute granted to CrossWire</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='Job'>
+      <chapter osisID='Job.1'>
+        <verse osisID='Job.1.1'>
+          Uz ölkəsində Əyyub adlı bir şəxs var idi. O, kamil, əməlisaleh, Allahdan qorxan və özünü şərdən uzaq saxlayan bir adam idi.</verse>
+        <verse osisID='Job.1.2'>Onun yeddi oğlu, üç qızı var idi.</verse>
+        <verse osisID='Job.1.3'>O, yeddi min baş qoyuna, üç min baş dəvəyə, beş yüz cüt öküzə, beş yüz baş eşşəyə və çoxlu nökərlərə sahib olub şərqdə yaşayanlar arasında ən varlı adam sayılırdı. </verse>
+        <verse osisID='Job.1.4'>Oğlanları növbə ilə evlərində ziyafət qurar və üç bacılarını da çağırardılar ki, birgə yeyib-içsinlər.</verse>
+        <verse osisID='Job.1.5'>Ziyafət müddəti bitəndən sonra Əyyub övladlarını çağırtdırıb təqdis edər və erkən qalxıb bütün övladlarının sayına görə yandırma qurbanı təqdim edərdi. Əyyub «bəlkə övladlarım günaha bataraq ürəklərində Allaha lənət ediblər» deyə düşündüyündən həmişə belə edərdi. </verse>
+        <verse osisID='Job.1.6'>Bir gün ilahi varlıqlar Rəbbin hüzuruna qalxmaq üçün gələndə Şeytan da onlara qoşulub gəldi.</verse>
+        <verse osisID='Job.1.7'>Rəbb Şeytana dedi: «Haradan gəlirsən?» Şeytan cavabında «dünyanı gəzib-dolaşmaqdan» dedi.</verse>
+        <verse osisID='Job.1.8'>Rəbb ona dedi: «Qulum Əyyuba yaxşı-yaxşı nəzər sala bildinmi? Axı yer üzərində onun kimisi yoxdur. O, kamil, əməlisaleh, Allahdan qorxan və özünü şərdən uzaq saxlayan bir adamdır».</verse>
+        <verse osisID='Job.1.9'>Şeytan Rəbbə belə cavab verdi: «Əyyub Allahdan boş yerəmi qorxur?</verse>
+        <verse osisID='Job.1.10'>Canına, evinə, var-dövlətinə sipər olub onu qoruyan Sən deyilsənmi? Əlinin bütün əməyinə bərəkət vermisən, sürüləri bütün ölkəni bürüyüb.</verse>
+        <verse osisID='Job.1.11'>İndi bir əl uzadıb onun var-yoxunu əlindən al, o, gözünün qabağında mütləq Sənə lənət edəcək». </verse>
+        <verse osisID='Job.1.12'>Rəbb Şeytana dedi: «Yaxşı, sahib olduğu hər şeyi sənə təslim edirəm, amma canına toxunma». Beləliklə, Şeytan Rəbbin hüzurundan getdi. </verse>
+        <verse osisID='Job.1.13'>Bir gün Əyyubun oğulları ilə qızları böyük qardaşlarının evində yemək yeyib şərab içərkən</verse>
+        <verse osisID='Job.1.14'>bir nökər gəlib Əyyuba belə dedi: «Öküzlər cüt sürür, eşşəklər də onların yanında otlayırdı.</verse>
+        <verse osisID='Job.1.15'>Bu zaman Səbalılar hücum edib onları apardılar və nökərləri qılıncdan keçirtdilər. Təkcə mən sağ qalmışam ki, sənə xəbər gətirim».</verse>
+        <verse osisID='Job.1.16'>O hələ sözünü qurtarmamış başqa nökər gəlib dedi: «Göydən Allahın odu töküldü. Həm qoyunları, həm də nökərləri yandırıb külə çevirdi. Təkcə mən sağ qalmışam ki, sənə xəbər gətirim».</verse>
+        <verse osisID='Job.1.17'>O, sözünü qurtarmamış başqa nökər gəlib dedi: «Xaldeylilərdən üç qoşun hücum edərək dəvələrini apardı və nökərləri qılıncdan keçirtdi. Təkcə mən sağ qalmışam ki, sənə xəbər gətirim».</verse>
+        <verse osisID='Job.1.18'>O hələ sözünü qurtarmamış başqa bir nökər gəlib belə dedi: «Oğullarınla qızların böyük qardaşlarının evində yemək yeyib şərab içərkən</verse>
+        <verse osisID='Job.1.19'>qəflətən çöldə güclü tufan qopdu və evin dörd tərəfini bürüdü. Ev uçub bu cavanların üstünə töküldü, hamısı öldü. Təkcə mən sağ qalmışam ki, sənə xəbər gətirim». </verse>
+        <verse osisID='Job.1.20'>Buna görə Əyyub durub cübbəsini yırtdı, saç-saqqalını kəsdi, yerə sərilib səcdə etdi.</verse>
+        <verse osisID='Job.1.21'>O belə dedi:  «Bu dünyaya çılpaq gəlmişəm,Çılpaq da gedəcəyəm.Verən də Rəbdir, alan da Rəbdir.Rəbbin isminə alqış olsun!» </verse>
+        <verse osisID='Job.1.22'>Bütün bu hadisələr baş verərkən Əyyub özünə günah qazanmadı və Allahı təqsirləndirmədi.  </verse>
+      </chapter>
+      <chapter osisID='Job.2'>
+        <verse osisID='Job.2.1'>
+          Başqa bir gün ilahi varlıqlar Rəbbin hüzuruna qalxmaq üçün gələndə Şeytan da onlara qoşulub Rəbbin hüzuruna qalxmaq üçün gəldi.</verse>
+        <verse osisID='Job.2.2'>Rəbb Şeytana dedi: «Haradan gəlirsən?» Şeytan «dünyanı gəzib-dolaşmaqdan» deyə cavab verdi.</verse>
+        <verse osisID='Job.2.3'>Rəbb dedi: «Qulum Əyyuba yaxşı-yaxşı nəzər sala bildinmi? Axı yer üzərində onun kimisi yoxdur. O, kamil, əməlisaleh, Allahdan qorxan və özünü şərdən uzaq saxlayan bir adamdır. Məni vadar etdin ki, boş yerə onu məhv edim, amma o hələ kamil olaraq qalıb».</verse>
+        <verse osisID='Job.2.4'>Şeytan Rəbbə belə cavab verdi: «Dəri əvəzinə dəri! İnsan canına görə hər şeyini verər.</verse>
+        <verse osisID='Job.2.5'>Əlini uzadıb onun ətinə və sümüyünə toxun, o, gözünün qabağında mütləq Sənə lənət edəcək».</verse>
+        <verse osisID='Job.2.6'>Rəbb Şeytana dedi: «Yaxşı, onu sənə təslim edirəm. Yalnız canını alma». </verse>
+        <verse osisID='Job.2.7'>Beləliklə, Şeytan Rəbbin hüzurundan getdi və sonra Əyyubun bədəninə başdan ayağadək ağrılı çibanlar çıxartdı.</verse>
+        <verse osisID='Job.2.8'>Əyyub çibanlarını qaşımaq üçün bir saxsı parçası götürdü və kül içində oturdu.</verse>
+        <verse osisID='Job.2.9'>Arvadı ona dedi: «Yenə də kamil olaraq qalacaqsan? Lənət et Allaha, öl qurtar!»</verse>
+        <verse osisID='Job.2.10'>Əyyub cavab verdi: «Lap nadan arvadlar kimi danışırsan. Nə oldu, Allahdan yaxşılığı qəbul edək, pisliyi qəbul etməyək?» Bütün bu hadisələr baş verərkən Əyyub özünə günah qazandıran bir kəlmə də demədi. </verse>
+        <verse osisID='Job.2.11'>Əyyubun üç dostu – Temanlı Elifaz, Şuahlı Bildad və Naamatlı Sofar onun başına gələn bütün bəlaları eşidərkən üçü də yaşadıqları yerdən çıxıb bir yerdə görüşdü. Onun dərdinə şərik olmaq və onu ovutmaq üçün yanına gəldilər.</verse>
+        <verse osisID='Job.2.12'>Əyyubu uzaqdan görərkən tanıya bilmədilər, hönkürüb ağlayaraq öz cübbələrini cırıb-dağıtdılar və yerdəki torpağı götürüb başlarına tökdülər.</verse>
+        <verse osisID='Job.2.13'>Yeddi gün-yeddi gecə onunla birlikdə quru yerdə oturdular. Kimsə ağzını açmadı, çünki Əyyubun dərdinin nə qədər böyük olduğunu gördülər.  </verse>
+      </chapter>
+      <chapter osisID='Job.3'>
+        <verse osisID='Job.3.1'>
+            Bundan sonra Əyyub ağzını açıb öz doğulduğu günə lənət etdi.</verse>
+        <verse osisID='Job.3.2'>Dilə gəlib belə dedi:</verse>
+        <verse osisID='Job.3.3'>«Kaş ki mən doğulan gün yox olaydı,“Oğlun oldu!” deyilən gecə yox olaydı.</verse>
+        <verse osisID='Job.3.4'>O gün qara gələydi,Allah göydən o günün qayğısına qalmayaydı,O gün üçün sabah açılmayaydı.</verse>
+        <verse osisID='Job.3.5'>O günü zülmət, qatı qaranlıq bürüyəydi,Üzünü bulud tutaydı,Nurunu qaranlıq batıraydı.</verse>
+        <verse osisID='Job.3.6'>O gecəni zil qaranlıq udub yeyəydi,İlin günləri arasında fərəh tapmayaydı,Ayın günləri sırasına girməyəydi.</verse>
+        <verse osisID='Job.3.7'>Kaş o gecə qısır olaydı,Sevincsiz, səssiz qalaydı!</verse>
+        <verse osisID='Job.3.8'>Günlərə lənət oxuyanlar,Livyatanı   oyatmağa mahir olanlar  Qoy o günə lənət yağdırsın.</verse>
+        <verse osisID='Job.3.9'>Dan ulduzları sönəydi,İşığa olan ümidləri boşa çıxaydı,Sübhün nuru görünməyəydi.</verse>
+        <verse osisID='Job.3.10'>Əfsus ki O, anamın bətninin qapılarını bağlamadı,Gözlərimi əzabsız saxlamadı.</verse>
+        <verse osisID='Job.3.11'>Niyə doğulanda mən ölmədim,Bətndən çıxarkən nəfəsim kəsilmədi?</verse>
+        <verse osisID='Job.3.12'>Niyə məni dizlərin arasından aldılar,Əmizdirmək üçün ağzıma döş saldılar?</verse>
+        <verse osisID='Job.3.13'>Belə olmasaydı, indi rahat uzanardım,Yatıb dincələrdim</verse>
+        <verse osisID='Job.3.14'>Özləri üçün viranə şəhərləri tikənDünya padşahları və müşavirlərlə,</verse>
+        <verse osisID='Job.3.15'>Evlərini gümüşə qərq edənQızıl xəzinəsi olan rəhbərlərlə.</verse>
+        <verse osisID='Job.3.16'>Niyə bətndən yarımçıq uşaq tək düşmədim?Niyə işıq üzü görməyən körpə kimi basdırılmadım?</verse>
+        <verse osisID='Job.3.17'>Orada pis adamlar belə, kini atır,Yorğunlar rahatlıq tapır,</verse>
+        <verse osisID='Job.3.18'>Məhbuslar dinc yaşayır,Nəzarətçinin səsi çıxmır.</verse>
+        <verse osisID='Job.3.19'>Orada kiçik də, böyük də vardır,Qul ağasından da azaddır.</verse>
+        <verse osisID='Job.3.20'>Niyə əzab çəkənlər işıq üzü görür,Əziyyət içində olanlar həyata gəlir?</verse>
+        <verse osisID='Job.3.21'>Ölüm arzulayırlar amma tapmırlar,  Dəfinə axtarmaqdan da çox onu axtarırlar,</verse>
+        <verse osisID='Job.3.22'>Onlar məzar tapanda fərəhlənər,Şadlanaraq sevinər.</verse>
+        <verse osisID='Job.3.23'>Hara getdiyi bilinməyən insana,Ətrafına Allah sədd çəkdiyi adama niyə ömür verilir?</verse>
+        <verse osisID='Job.3.24'>Çörəkdən əvvəl ah-zar gəlir,Nalələrim sular kimi tökülür.</verse>
+        <verse osisID='Job.3.25'>Çəkindiyim şeylər üzərimə tökülür,Qorxduğum şeylər başıma gəlir.</verse>
+        <verse osisID='Job.3.26'>Rahatlığım, sakitliyim, dincliyim yoxdur,Ancaq sıxıntım vardır». </verse>
+      </chapter>
+      <chapter osisID='Job.4'>
+        <verse osisID='Job.4.1'>
+          Temanlı Elifaz belə cavab verdi:</verse>
+        <verse osisID='Job.4.2'>«Kimsə sənə bir söz desə, inciyərsənmi?Danışmasın deyə kim özünü saxlaya bilər?</verse>
+        <verse osisID='Job.4.3'>Bəli, çoxlarına dərs verdin,Onları əlləri taqətdən düşərkən gücləndirdin.</verse>
+        <verse osisID='Job.4.4'>Yıxılanları sözlərinlə qaldırdın,Dizləri əsənlərə güc verdin.</verse>
+        <verse osisID='Job.4.5'>İndi bu iş başına gələrkənÖzün taqətdən düşdün,Bəla sənə dəyəndə özünü itirdin.</verse>
+        <verse osisID='Job.4.6'>Sən Allah xofuna etibar etmirdinmi?Kamil həyatına ümid edən sən deyildinmi?</verse>
+        <verse osisID='Job.4.7'>Kimdir günahsız məhv olan? İndi yada sal.Əməlisalehlərin həlak olduğunu harada görmüsən?</verse>
+        <verse osisID='Job.4.8'>Mənim gördüyümə görə şər sahəsini belləyən,Əzab toxumu səpən insanlar əkdiyini biçər.</verse>
+        <verse osisID='Job.4.9'>Onlar Allahın nəfəsi ilə yox olar,Qəzəbinin küləyi onları udar.</verse>
+        <verse osisID='Job.4.10'>Aslanların nəfəsi, qızmış şirlərin səsi kəsildi,Gənc aslanların dişləri qırıldı.</verse>
+        <verse osisID='Job.4.11'>Şikarı olmadığı üçün güclü aslan həlak olar,Dişi aslanların balaları pərən-pərən qalar.</verse>
+        <verse osisID='Job.4.12'>Mənə gizli bir söz çatdı,Qulağım bir pıçıltı eşitdi,</verse>
+        <verse osisID='Job.4.13'>Gecə röyalardan doğan düşüncələr içində olanda,İnsanların dərin yuxuya getdiyi zamanda</verse>
+        <verse osisID='Job.4.14'>Üstümə bir qorxu, bir titrətmə gəldi,Bütün sümüklərimi lərzəyə saldı.</verse>
+        <verse osisID='Job.4.15'>Qarşımdan bir ruh keçdi,Bütün tüklərimi ürpətdi.</verse>
+        <verse osisID='Job.4.16'>Ruh dayandı, bunun nə olduğunu bilmədim.Gözlərimin önündə bir surət dururdu,Sükunətin içindən bir səs eşitdim:</verse>
+        <verse osisID='Job.4.17'>“İnsan Allah qarşısında saleh olarmı?Yaradanın qarşısında təmiz adam varmı?</verse>
+        <verse osisID='Job.4.18'>Allah bəndələrinə güvənmir,Mələklərində belə, səhv görür.</verse>
+        <verse osisID='Job.4.19'>Palçıq evlərdə yaşayanlara,Mayası torpaqdan olanlara,Güvədən də tez əzilənlərə O güvənərmi?</verse>
+        <verse osisID='Job.4.20'>Ömürləri səhərdən axşama çatmır,Fərqi yoxdur, hamı əbədi yox olur.</verse>
+        <verse osisID='Job.4.21'>Yaşadıqları çadırın ipləri çəkiləndəHeç nə anlamazlar, ölüb gedərlər”. </verse>
+      </chapter>
+      <chapter osisID='Job.5'>
+        <verse osisID='Job.5.1'>Çağır görək sənə cavab verən varmı?Müqəddəslərin hansı birinə üz tutacaqsan?</verse>
+        <verse osisID='Job.5.2'>Səfehi qəzəb öldürər,Nadanı həsəd məhv edər.</verse>
+        <verse osisID='Job.5.3'>Səfehin kök saldığını görərkənDərhal yurduna lənət etmişəm.</verse>
+        <verse osisID='Job.5.4'>Övladları əmin-amanlıqdan uzaqdır,Məhkəmə qapılarında tapdalanır,Onlara havadar yoxdur.</verse>
+        <verse osisID='Job.5.5'>Məhsullarını aclar yeyir,Tikanlar arasında olanlarını belə, yığırlar,Susayanlar sərvətini udmaq istəyir.</verse>
+        <verse osisID='Job.5.6'>Axı torpaqdan bəla gəlməz,Əzab yerdən bitməz.</verse>
+        <verse osisID='Job.5.7'>Sanki havaya atılan qığılcımdır,İnsan əzab çəkmək üçün doğulur.</verse>
+        <verse osisID='Job.5.8'>Mən olsaydım, Allaha üz tutardım,Müşkül işlərimi Ona tapşırardım.</verse>
+        <verse osisID='Job.5.9'>Çünki O, dərk etmədiyimiz böyük işləri görür,Saysız xariqələr göstərir.</verse>
+        <verse osisID='Job.5.10'>Yer üzərinə yağış yağdırır,Çöllərə sular axıdır.</verse>
+        <verse osisID='Job.5.11'>Alçaldılanları ucaldır,Yaslıları əmin-amanlığa çıxarır.</verse>
+        <verse osisID='Job.5.12'>Əlləri qurğu qurmağı öyrənməsin deyəHiyləgərlərin fəndini pozur.</verse>
+        <verse osisID='Job.5.13'>Müdrikləri hiylə qurarkən yaxalayır,  Fəndgirlərin oyununa son qoyur.</verse>
+        <verse osisID='Job.5.14'>Gündüzləri qaranlığa dönür,Günorta onlara gecə kimi görünür,Onlar kor kimi əl sürtə-sürtə gəzir.</verse>
+        <verse osisID='Job.5.15'>Yoxsulları isə onların ağızlarındakı qılıncdan qurtarır,Zorakının əlindən alır.</verse>
+        <verse osisID='Job.5.16'>Kasıblar ümid tapır,Haqsızlıq ağzını yumur.</verse>
+        <verse osisID='Job.5.17'>Allahın tərbiyə etdiyi insan nə bəxtiyardır!  Sən Külli-İxtiyarın tərbiyəsinə xor baxma.</verse>
+        <verse osisID='Job.5.18'>Çünki O yaralayar, sonra isə sarıyar,Ağrı verər, əlləri ilə sağaldar.</verse>
+        <verse osisID='Job.5.19'>O, altı dəfə dara düşsən belə, qurtarar,Yeddinci dəfə sənə ziyan dəyməz.</verse>
+        <verse osisID='Job.5.20'>O səni aclıqda məhv olmaqdan,Döyüşdəki qılıncdan qurtarar.</verse>
+        <verse osisID='Job.5.21'>Kəskin dillərdən uzaq olarsan,Qırğın gələrkən qorxmazsan.</verse>
+        <verse osisID='Job.5.22'>Qırğına, aclığa gülərsən,Vəhşi heyvanlardan qorxmazsan.</verse>
+        <verse osisID='Job.5.23'>Çünki çöldəki daşlarla belə, əhd kəsərsən,Vəhşi heyvanlarla belə, barışarsan.</verse>
+        <verse osisID='Job.5.24'>Çadırının salamat qalacağını bilərsən,Mülkünə baxanda heç bir əskiklik tapmazsan.</verse>
+        <verse osisID='Job.5.25'>Övladlarının necə artdığını görərsən,Nəslin ot kimi bitib qalxar.</verse>
+        <verse osisID='Job.5.26'>Vaxtında yığılan taxıl dərzləri kimiKama çatıb məzarına gedərsən.</verse>
+        <verse osisID='Job.5.27'>Bax bunu araşdırmışıq, bu həqiqətdir,Onun üçün bunu dinlə və anla».</verse>
+      </chapter>
+      <chapter osisID='Job.6'>
+        <verse osisID='Job.6.1'>
+          Əyyub belə cavab verdi:</verse>
+        <verse osisID='Job.6.2'>«Kaş bu dərdim çəkiləydi,Bütün ağrılarım tərəziyə qoyulaydı.</verse>
+        <verse osisID='Job.6.3'>Onda dənizlərin qumundan ağır gələrdi,Ona görə tez bu sözləri dedim.</verse>
+        <verse osisID='Job.6.4'>Həqiqətən, Külli-İxtiyarın oxları köksümdədir,Ruhum onların zəhərlərini içir.Allahın dəhşətləri mənə hücum çəkir.</verse>
+        <verse osisID='Job.6.5'>Ot olanda vəhşi eşşək anqırarmı?Yem tapanda öküz heç böyürərmi?</verse>
+        <verse osisID='Job.6.6'>Duzsuz, şit yeməyi yemək olarmı?Yumurta ağının dadı varmı?</verse>
+        <verse osisID='Job.6.7'>Belə yeməklərə əl vurmaq istəmirəm,Onlardan iyrənirəm.</verse>
+        <verse osisID='Job.6.8'>Kaş arzuma çataydım,Allah mənə həsrətində olduğumu verəydi,</verse>
+        <verse osisID='Job.6.9'>Lütf edib məni əzsə belə,Əldən cəld olub həyatımın bağını kəssə belə,</verse>
+        <verse osisID='Job.6.10'>Mən yenə ovunardım,Bu amansız dərdimə baxmayaraqMüqəddəs Olanın sözlərini inkar etmədiyimə görə sevinərdim.</verse>
+        <verse osisID='Job.6.11'>Nə gücüm var ki, gözləyim?Sonum nə qədərdir ki, səbir edim?</verse>
+        <verse osisID='Job.6.12'>Daş qədər güclüyəmmi?Ətim tuncdandırmı?</verse>
+        <verse osisID='Job.6.13'>Əlacsız qalandaÖzümə kömək etməyə gücüm çatarmı?</verse>
+        <verse osisID='Job.6.14'>İnsan Külli-İxtiyarın qorxusundan vaz keçsə belə,Çarəsiz qalanda ona dostun sədaqəti gərəkdir.</verse>
+        <verse osisID='Job.6.15'>Qardaşlarım mənə bir vadi kimi xəyanət etdi,Çaylar kimi axıb getdi.</verse>
+        <verse osisID='Job.6.16'>Bu vadilər buzlar əriyəndə daşar,Qar suları ilə dolar.</verse>
+        <verse osisID='Job.6.17'>Bu vadilər quraq vaxtı quruyar,İstidə yataqlarından yox olar.</verse>
+        <verse osisID='Job.6.18'>Bu vadilərə görə karvanlar yolunu azar,Səhraya çıxanda həlak olar.</verse>
+        <verse osisID='Job.6.19'>Temanın karvanları su axtarar,Səbadan gələn səyyahlar ora ümid bağlar.</verse>
+        <verse osisID='Job.6.20'>Amma ora çatanda ümid bağladıqlarına peşman olar,Mat-məəttəl qalar.</verse>
+        <verse osisID='Job.6.21'>İndi siz də mənim üçün bir heç olmusunuz,Bu dəhşətə baxıb qorxursunuz.</verse>
+        <verse osisID='Job.6.22'>Mən demişəmmi “Mənə nəyisə verin,Var-dövlətinizdən mənə rüşvət göndərin?</verse>
+        <verse osisID='Job.6.23'>Yaxud da məni düşmən əlindən qurtarın,Zalımların əlindən azad edin?”</verse>
+        <verse osisID='Job.6.24'>Mən susum, siz mənə öyrədin,Nə səhv etmişəmsə, mənə göstərin.</verse>
+        <verse osisID='Job.6.25'>Doğru söz kəsərli olar,Sizin bu iradınız bəs nəyi sübut edir?</verse>
+        <verse osisID='Job.6.26'>Niyə sözlərimi qınamaq istəyirsiniz?Niyə mən biçarənin dediyini boşboğazlıq sanırsınız?</verse>
+        <verse osisID='Job.6.27'>Yetim üçün belə, püşk atırsınız,Dostunuzu satırsınız.</verse>
+        <verse osisID='Job.6.28'>İndi lütf edib mənə baxın,Bax mən üzünüzə ağ yalan demərəm.</verse>
+        <verse osisID='Job.6.29'>Atın haqsızlığı, haqsızlıq etməyin,Düşünün ki, bu davada mən haqlıyam.</verse>
+        <verse osisID='Job.6.30'>Dilimdən haqsız söz çıxırmı?Pis şeyləri ağzıma alırammı? </verse>
+      </chapter>
+      <chapter osisID='Job.7'>
+        <verse osisID='Job.7.1'>İnsanın yer üzündəki həyatı ağır xidmət deyilmi?Keçirdiyi günlərin muzdur ömründən fərqi nədir?</verse>
+        <verse osisID='Job.7.2'>Kölgəyə həsrət qalan kölə kimidir,Muzdunu gözləyən fəhlə kimidir,</verse>
+        <verse osisID='Job.7.3'>Bəli, irs olaraq mənə boş aylar verildi,Qismətimə sıxıntılı gecələr düşdü.</verse>
+        <verse osisID='Job.7.4'>Yatanda düşünürəm: “Görəsən nə vaxt qalxacağam?”Gecə isə hey uzanır,Mən gün doğana qədər yerimdə qurcalanıram.</verse>
+        <verse osisID='Job.7.5'>Bədənimə qurd düşüb, qabıqlanır,Çatlayan dərimdən irin axır.</verse>
+        <verse osisID='Job.7.6'>Günlərim toxucunun məkikindən də sürətli gedir,Ümidsiz sona çatır.</verse>
+        <verse osisID='Job.7.7'>Ey Allah, yada sal, həyatım bir nəfəsdir,Gözüm yenidən yaxşılıq görməyəcək.</verse>
+        <verse osisID='Job.7.8'>Bu anda mənə baxan gözlər məni təzədən görməyəcək,Sənin gözlərin üzərimdə olacaq, amma mən olmayacağam.</verse>
+        <verse osisID='Job.7.9'>Bulud dağılıb getdiyi kimiÖlülər diyarına enən bir daha çıxmaz.</verse>
+        <verse osisID='Job.7.10'>Bir daha evinə qayıtmaz,Olduğu yer artıq onu tanımaz.</verse>
+        <verse osisID='Job.7.11'>Ona görə sakitləşməyəcəyəm,Ruhumun sıxıntısını dilə gətirəcəyəm,Canımın ağrısından şikayət edəcəyəm.</verse>
+        <verse osisID='Job.7.12'>Dənizəmmi, dəniz əjdahasıyammı?Niyə üzərimdə nəzarətçi qoyursan?</verse>
+        <verse osisID='Job.7.13'>Düşündüm ki, bəlkə yatağım məni rahatlar,Döşəyim şikayətimi azaldar.</verse>
+        <verse osisID='Job.7.14'>Məni yuxularla qorxudursan,Röyalarla canıma vəlvələ salırsan.</verse>
+        <verse osisID='Job.7.15'>Canım boğulub-ölməyi yaşamaqdan üstün tutur,Quru cəsəddə qalmaqdansa ölüm mənə xoşdur.</verse>
+        <verse osisID='Job.7.16'>Həyatımdan bezmişəm,Uzun ömür istəmirəm.Məndən əlini çək,Ömrümün mənası getdi.</verse>
+        <verse osisID='Job.7.17'>İnsan nədir ki, onu bu qədər böyüdürsən,  Qayğısını çəkirsən.</verse>
+        <verse osisID='Job.7.18'>Ona hər səhər baş çəkirsən,Hər an onu sınayırsan.</verse>
+        <verse osisID='Job.7.19'>Nə vaxtadək nəzərini üzərimdən çəkməyəcəksən?Mənə udqunmağa imkan verməyəcəksən?</verse>
+        <verse osisID='Job.7.20'>Ey insan nəzarətçisi, nədir günahım?Mən Sənə nə etmişəm?Məni niyə Özünə hədəf etdin?İndi öz yükümü çəkə bilmirəm.</verse>
+        <verse osisID='Job.7.21'>Niyə üsyankarlığımı əfv etmirsən,Təqsirimi bağışlamırsan?Bir azdan torpaq altda yatacağam,Axtarsan da, məni tapmayacaqsan».</verse>
+      </chapter>
+      <chapter osisID='Job.8'>
+        <verse osisID='Job.8.1'>
+          Şuahlı Bildad belə cavab verdi:</verse>
+        <verse osisID='Job.8.2'>«Bunları nə vaxta qədər deyəcəksən?Sözlərin sərt küləyə bənzər.</verse>
+        <verse osisID='Job.8.3'>Allah ədaləti azdırarmı?Külli-İxtiyar salehi əyri edərmi?</verse>
+        <verse osisID='Job.8.4'>Bəlkə oğulların Ona qarşı günah edib,O da üsyankarlıqlarının cəzasını verib.</verse>
+        <verse osisID='Job.8.5'>Əgər cəhd göstərib Allahı axtarsaydın,Külli-İxtiyara yalvarsaydın,</verse>
+        <verse osisID='Job.8.6'>Əgər təmiz, doğru olsaydın,O sənin üçün, həqiqətən, qalxardı,Sənə layiqincə bir məskən verərdi.</verse>
+        <verse osisID='Job.8.7'>Başlanğıcın kiçik olsa da,Sonun böyük olacaq.</verse>
+        <verse osisID='Job.8.8'>Gəl indi əvvəlki nəsillərdən soruş,Ata-babaların sınağından keçənlərə yaxşı nəzər sal.</verse>
+        <verse osisID='Job.8.9'>Dünənki övladlarıq, heç nə bilmirik.Bu dünyada ömrümüz sadəcə bir kölgədir.</verse>
+        <verse osisID='Job.8.10'>Onlar izah edib sənə öyrətməzlərmi?Köksündəki sözləri dilə gətirməzlərmi?</verse>
+        <verse osisID='Job.8.11'>Bataqlıq olmayan yerdə qarğı bitərmi?Su olmayan yerdə qamış çıxarmı?</verse>
+        <verse osisID='Job.8.12'>Hələ yaşıl ikən qırılmadan,Hər otdan əvvəl onlar quruyar.</verse>
+        <verse osisID='Job.8.13'>Allahı unudan hər kəs axırda belə qalar,Allahsız insanın ümidi beləcə yox olar.</verse>
+        <verse osisID='Job.8.14'>Onun etibar etdiyi şeylər qırılar,Bel bağladığı sanki hörümçək toru olar.</verse>
+        <verse osisID='Job.8.15'>Evinə söykənərkən evi uçar,Evindən tutarkən dağılar.</verse>
+        <verse osisID='Job.8.16'>Sanki bu allahsızlar günəşə baxar, yaşıllaşar,Pöhrələri bağçanın hər tərəfinə yayılar.</verse>
+        <verse osisID='Job.8.17'>Rişələri daş qalağına dolaşar,Çınqılların arasında yer axtarar.</verse>
+        <verse osisID='Job.8.18'>Amma yerindən qoparılarkənYer inkar edərək deyər: “Səni görməmişəm”.</verse>
+        <verse osisID='Job.8.19'>Bax belə sevincinə son qoyular,Onun yerində başqa bitkilər bitər.</verse>
+        <verse osisID='Job.8.20'>Allah kamil insanı Özündən kənar etməz,Pislik edənlərinsə əlindən tutmaz.</verse>
+        <verse osisID='Job.8.21'>O sənin ağzını yenə gülüşlə,Dodaqlarını sevinc nidaları ilə doldurar.</verse>
+        <verse osisID='Job.8.22'>Düşmənlərini rüsvayçılıq bürüyəcək,Pislərin çadırı məhv ediləcək». </verse>
+      </chapter>
+      <chapter osisID='Job.9'>
+        <verse osisID='Job.9.1'>
+          Əyyub belə cavab verdi:</verse>
+        <verse osisID='Job.9.2'>«Belə olduğunu, həqiqətən, bilirəm.Amma Allah qarşısında insan necə haqlı çıxa bilər?</verse>
+        <verse osisID='Job.9.3'>Əgər Onunla kimsə mübahisə etmək istəsə,Onun min sualına bir cavab tapa bilməz.</verse>
+        <verse osisID='Job.9.4'>Hikməti dərin, gücü tükənməyən Odur.Ona qarşı duranlardan kim sağ qalıb?</verse>
+        <verse osisID='Job.9.5'>Allah dağları yerindən oynadar,Dağlar heç bilməz.Qəzəbi ilə onları alt-üst edər.</verse>
+        <verse osisID='Job.9.6'>Dünyanı yerindən oynadar,Dirəklərini lərzəyə salar.</verse>
+        <verse osisID='Job.9.7'>Əmr etsə, günəş doğmaz,Ulduzların işığını örtüb möhürlər.</verse>
+        <verse osisID='Job.9.8'>Odur təkbaşına göyləri sərən,Dəniz dalğalarının üstündə gəzən.</verse>
+        <verse osisID='Job.9.9'>Odur Böyük Ayı, Orion, Ülkər bürclərini,  Cənub bürclərini yaradan.</verse>
+        <verse osisID='Job.9.10'>Odur dərk etmədiyimizdən də böyük işlər görən,Saysız xariqələr göstərən.</verse>
+        <verse osisID='Job.9.11'>Bax yanımdan elə keçər ki, Onu görə bilmərəm,Elə keçib gedər ki, heç hiss etmərəm.</verse>
+        <verse osisID='Job.9.12'>Nə isə tutub apararsa, kim Ona mane ola bilər?Kim Ona “Nə edirsən?” deyə bilər?</verse>
+        <verse osisID='Job.9.13'>Allah qəzəbini geri döndərməz,Rahavın   köməkçiləri belə, ayağı altda qalar.</verse>
+        <verse osisID='Job.9.14'>Belə isə Ona necə cavab verə bilərəm?Hüzurunda necə söz tapa bilərəm?</verse>
+        <verse osisID='Job.9.15'>Günahsız olsam belə, Ona cavab verə bilmərəm,Rəhm etsin deyə Hökmdarıma yalvarmalıyam.</verse>
+        <verse osisID='Job.9.16'>Onu çağıranda O mənə cavab versə belə,Yenə inanmıram ki, O, səsimi eşidir.</verse>
+        <verse osisID='Job.9.17'>Çünki tufanla məni əzir,Nahaq yerə yaralarımı çoxaldır,</verse>
+        <verse osisID='Job.9.18'>Məni nəfəs almağa qoymur,Məni acılarla cana doydurur,</verse>
+        <verse osisID='Job.9.19'>İş qüvvədədirsə, O qüvvəlidir,İş ədalətdədirsə, kim Onu hakimin qarşısına apara bilər?</verse>
+        <verse osisID='Job.9.20'>Mən günahsız olsam belə, dilim məni ittiham edər,Kamil olsam belə, məni təqsirkar çıxarar.</verse>
+        <verse osisID='Job.9.21'>Kamil olsam da, bir şey deyiləm,Öz həyatıma xor baxıram.</verse>
+        <verse osisID='Job.9.22'>Hamısı birdir, ona görə deyirəm:“O həm kamili, həm də günahkarı yox edir”.</verse>
+        <verse osisID='Job.9.23'>Əgər qəfil ölüm gəlsə,Günahsızların əzabına gülür.</verse>
+        <verse osisID='Job.9.24'>Dünya pislərə təslim edilib,Dünya hakimlərinin gözünü bağlayan Odur.O deyilsə, bəs kimdir?</verse>
+        <verse osisID='Job.9.25'>Günlərim sürətlə qaçır, çapardan sürətlidir,Bir xeyir tapmadan qaçırlar.</verse>
+        <verse osisID='Job.9.26'>Qamış qayıq kimi keçib gedirlərOvunun üstünə şığıyan qartal kimidirlər.</verse>
+        <verse osisID='Job.9.27'>Bu şikayətimi unutmaq istəsəm,Sifətimin ifadəsini dəyişib ürəyimin açılmasını istəsəm,</verse>
+        <verse osisID='Job.9.28'>Bu əziyyətdən yenə vahimələnərəm,Məni günahsız saymayacağını bilərəm.</verse>
+        <verse osisID='Job.9.29'>Madam ki yenə günahkar çıxacağam,Boş yerə niyə belə zəhmət çəkim?</verse>
+        <verse osisID='Job.9.30'>Əgər qar suyu ilə yuyunsam,Əllərimi gilabı ilə yusam,</verse>
+        <verse osisID='Job.9.31'>Yenə də məni çirkaba batırarsan,Paltarlarım belə, məndən iyrənir.</verse>
+        <verse osisID='Job.9.32'>O mənim kimi insan olmadığına görəOna cavab verə bilmirəm, məhkəməyə birgə gedə bilmirəm.</verse>
+        <verse osisID='Job.9.33'>Kaş aramızda bir hakim olaydı,Əlini ikimizin də üzərinə qoyaydı.</verse>
+        <verse osisID='Job.9.34'>Allah Öz dəyənəyini üstümdən götürəydi,Dəhşəti ilə məni vahimələndirməyəydi.</verse>
+        <verse osisID='Job.9.35'>O zaman Ondan qorxmadan danışardım,Amma bu vəziyyətdə heç nə edə bilmirəm. </verse>
+      </chapter>
+      <chapter osisID='Job.10'>
+        <verse osisID='Job.10.1'>Canım həyatımdan bezib.Şikayətimə məhdudiyyət qoymayacağam,Acı həyatımdan danışacağam.</verse>
+        <verse osisID='Job.10.2'>Qoy Allaha deyim: “Məni günahlandırma,Bir mənə söylə, niyə mənimlə çəkişirsən?</verse>
+        <verse osisID='Job.10.3'>Məni incitmək,Əllərinin işini xor görmək,Pislərin niyyətlərinə işıq vermək Sənə xoşdurmu?</verse>
+        <verse osisID='Job.10.4'>Səndə insan gözümü var?İnsan necə görürsə, Sən də elə görürsənmi?</verse>
+        <verse osisID='Job.10.5'>Günlərin insan ömrü kimidirmi?İllərin insanın yaşadığı illər kimidirmi?</verse>
+        <verse osisID='Job.10.6'>Çünki məndə təqsir axtarırsan,Günahlarımı araşdırırsan.</verse>
+        <verse osisID='Job.10.7'>Özün də bilirsən mən şər adam deyiləm,Məni Sənin əlindən qurtaran yoxdur.</verse>
+        <verse osisID='Job.10.8'>Əllərin mənə quruluş verdi, məni yaratdı.İndi dönüb məni yox edəcəksənmi?</verse>
+        <verse osisID='Job.10.9'>Məni palçıqdan düzəltdin, bunu xatırla.Yenidən məni torpağa çevirəcəksənmi?</verse>
+        <verse osisID='Job.10.10'>Məni süd kimi tökmədinmi,Pendir kimi bərkitmədinmi?</verse>
+        <verse osisID='Job.10.11'>Ət və dərini əynimə geyindirdin,Məni sümük və vətərlərlə hördün,</verse>
+        <verse osisID='Job.10.12'>Mənə həyat verdin, sevgi göstərdin,Qayğıma qalmağınla ruhumu hifz etdin.</verse>
+        <verse osisID='Job.10.13'>Amma bunları qəlbində gizlətdin.Mən isə bilirəm, fikrində bu şeylər var:</verse>
+        <verse osisID='Job.10.14'>Günah işlətsəydim, mənə nəzarət edərdin,Təqsirlərimi cəzasız qoymazdın.</verse>
+        <verse osisID='Job.10.15'>Əgər günahkar olsaydım, vay halıma!Günahsız olsam belə, yenə başımı qaldıra bilmərəm,Çünki xəcalət içindəyəm, necə də biçarəyəm.</verse>
+        <verse osisID='Job.10.16'>Əgər başımı qaldırsam, məni aslan kimi ovlarsan,Yenə heyrətamiz qüvvəni mənə göstərərsən.</verse>
+        <verse osisID='Job.10.17'>Əleyhimə yeni şahidlər çıxararsan,Mənə qarşı qəzəbini artırarsan,Orduların üstümə dayanmadan hücum çəkər.</verse>
+        <verse osisID='Job.10.18'>Niyə məni doğulmağa qoydun?Kimsənin gözü məni görmədən kaş öləydim.</verse>
+        <verse osisID='Job.10.19'>Kaş ki heç yaranmayaydım,Bətndən məzara düşəydim.</verse>
+        <verse osisID='Job.10.20'>Məgər ömrümə bir neçə gün qalmayıbmı?Mənə bir qədər sərbəstlik ver ki, bir az ürəyim açılsın</verse>
+        <verse osisID='Job.10.21'>Gedər-gəlməz yerə,Zülmət və ölüm kölgəsi diyarına,</verse>
+        <verse osisID='Job.10.22'>Qatı qaranlıq diyarına,Ölüm kölgəsi, qarışıqlıq diyarına,İşığı qaranlıq olan diyara getməzdən əvvəl”».</verse>
+      </chapter>
+      <chapter osisID='Job.11'>
+        <verse osisID='Job.11.1'>
+          Naamatlı Sofar belə cavab verdi:</verse>
+        <verse osisID='Job.11.2'>«Bu qədər söz cavabsız qalsınmı?Çox danışan haqlı sayılsınmı?</verse>
+        <verse osisID='Job.11.3'>İnsanlar boşboğazlıqlarının qarşısında sussunmu?Sən rişxənd edəndə səni saxlamasınlar?</verse>
+        <verse osisID='Job.11.4'>Allaha deyirsən: “İmanda safam,Gözün görür ki, pakam”.</verse>
+        <verse osisID='Job.11.5'>Kaş ki Allah danışaydı,Sənə qarşı ağzını açaydı.</verse>
+        <verse osisID='Job.11.6'>Səni hikmətin sirlərindən agah etsəydi,Hikmətin çox şaxələri üzə çıxardı.Bil ki, Allah günahlarının neçəsindən keçib.</verse>
+        <verse osisID='Job.11.7'>Allahın dərin sirlərini dərk edə bilərsənmi?Külli-İxtiyarın sərhədlərinə çata bilərsənmi?</verse>
+        <verse osisID='Job.11.8'>Onlar göylər qədər ucadır, axı nə edə bilərsən?Ölülər diyarından dərindir, nəyi dərk edə bilərsən?</verse>
+        <verse osisID='Job.11.9'>Meyarı aləmdən uzundur,Dənizlərdən genişdir.</verse>
+        <verse osisID='Job.11.10'>Əgər gəlib səni zindana salarsa, məhkum edərsə,Kim Onun qarşısını ala bilər?</verse>
+        <verse osisID='Job.11.11'>O, yalançıları tanıyır,Pisliyi görəndə onu dərk edir.</verse>
+        <verse osisID='Job.11.12'>Vəhşi eşşək insan olaraq doğulandaAxmaq da ağla gələr.</verse>
+        <verse osisID='Job.11.13'>Əgər ürəyini təqdis etsən,Əllərini Ona tərəf uzatsan,</verse>
+        <verse osisID='Job.11.14'>Günahın varsa, ondan əl çək,Qoyma pislik çadırında sakin olsun.</verse>
+        <verse osisID='Job.11.15'>Onda başını utanmadan dik tutarsan,Sağ-salamat, qorxusuz yaşayarsan.</verse>
+        <verse osisID='Job.11.16'>Sən dar gününü unudubOnu axıb-qurtaran bir su kimi yad edərsən.</verse>
+        <verse osisID='Job.11.17'>Həyatın gündüzün günəşindən də parlaq olar,Qaranlığın səhər kimi işıqlanar.</verse>
+        <verse osisID='Job.11.18'>Çünki ümidin var, sən arxayınsan,Mühafizə olunaraq rahat yatarsan.</verse>
+        <verse osisID='Job.11.19'>Yatanda belə, səni qorxudan olmaz,Sənin lütfünü çoxları arzular.</verse>
+        <verse osisID='Job.11.20'>Amma pis adamların gözlərinin nuru sönəcək,Onların pənah yeri olmayacaq,Yeganə ümidləri son nəfəslərini vermək olacaq». </verse>
+      </chapter>
+      <chapter osisID='Job.12'>
+        <verse osisID='Job.12.1'>
+          Əyyub belə cavab verdi:</verse>
+        <verse osisID='Job.12.2'>«Yəqin ki siz özünüzü xalq içində müdrik sanırsınız,Siz öləndə hikmət də öləcək.</verse>
+        <verse osisID='Job.12.3'>Sizin qədər mənim də ağlım var,Sizdən geri qalmıram.Bu cür şeyləri kim bilmir?</verse>
+        <verse osisID='Job.12.4'>Mən dostlarımın gülüş hədəfi olmuşam,Vaxtı ilə Allaha yalvaranda mən də cavab almışam,Amma indi bir saleh, bir kamil insan gülünc olub.</verse>
+        <verse osisID='Job.12.5'>Dərdsizlər bəlanı boş bir şey sanır,Büdrəyənlər üçün bəla hazır dayanır.</verse>
+        <verse osisID='Job.12.6'>Soyğunçuların çadırlarında rahatlıq var,Allahı qəzəbləndirənlər əmin-amanlıqdadır,Axı onlar Allaha yox, öz qollarına arxalanır.</verse>
+        <verse osisID='Job.12.7'>Gəl heyvanlardan soruş, qoy sənə bildirsin,Qoy göydəki quşlar sənə desin,</verse>
+        <verse osisID='Job.12.8'>Torpağa de, qoy o sənə bildirsin,Dənizdəki balıqlardan soruş, sənə məlumat versin.</verse>
+        <verse osisID='Job.12.9'>Bunlardan hansı biri bilmir ki,Bunu Rəbbin əli edib?</verse>
+        <verse osisID='Job.12.10'>Hər yaratdığının canı Onun əlindədir,Bütün insanların nəfəsi Onun əlindədir.</verse>
+        <verse osisID='Job.12.11'>Yeməyin dadını damaq hiss etdiyi kimiQulaq da sözləri sınaqdan keçirməzmi?</verse>
+        <verse osisID='Job.12.12'>Ağsaqqalların hikməti var,Uzunömürlülər dünyagörmüş olar.</verse>
+        <verse osisID='Job.12.13'>Hikmət və qüdrət Allahdandır,O, nəsihət və dərrakə verir.</verse>
+        <verse osisID='Job.12.14'>Onun yıxdığı bərpa olunmaz,Onun həbs etdiyi insan azad olmaz.</verse>
+        <verse osisID='Job.12.15'>Suları kəsərsə, quraqlıq olar,Suları buraxsa, dünyanı sel aparar.</verse>
+        <verse osisID='Job.12.16'>Qüdrət və hikmət Onundur,Aldadan da, aldanan da Onundur</verse>
+        <verse osisID='Job.12.17'>Məsləhətçiləri talana məruz qoyar,Hakimləri axmaqlaşdırar.</verse>
+        <verse osisID='Job.12.18'>Padşahların bağladığı bağı açar,Bellərinə qurşaq salar.</verse>
+        <verse osisID='Job.12.19'>Kahinləri talana məruz qoyar,Mətinləri də devirər.</verse>
+        <verse osisID='Job.12.20'>Etibarlı məsləhətçiləri susdurar,Ağsaqqalların ağlını alar.</verse>
+        <verse osisID='Job.12.21'>Əsilzadələrin üstünə rüsvayçılıq yağdırar,  Güclülərin qurşaqlarını çıxarar.</verse>
+        <verse osisID='Job.12.22'>Qaranlığın dərin sirlərini açar,Ölüm kölgəsini aydınlığa çıxarar.</verse>
+        <verse osisID='Job.12.23'>Millətləri çoxaldar, millətləri yox edər,Millətləri artırar, millətləri sürgün edər.</verse>
+        <verse osisID='Job.12.24'>Dünyanın başçılarının ağlını başından alar,Yolu-izi məlum olmayan çöllərdə dolandırar.</verse>
+        <verse osisID='Job.12.25'>Qaranlıqda əl sürtə-sürtə yeriyərlər,Onları sərxoş kimi aşa-aşa gəzdirər. </verse>
+      </chapter>
+      <chapter osisID='Job.13'>
+        <verse osisID='Job.13.1'>Bax gözlərim hər şeyi gördü,Qulaqlarım bunu eşidib dərk etdi.</verse>
+        <verse osisID='Job.13.2'>Sizin bildiyinizi mən də anlayıram,Sizdən geri qalmıram.</verse>
+        <verse osisID='Job.13.3'>Amma istəyirəm Külli-İxtiyarla danışım,Allahla mübarizə aparım.</verse>
+        <verse osisID='Job.13.4'>Sizlərsə yalandan mala çəkirsiniz,Hamınız dəyərsiz həkimlərsiniz.</verse>
+        <verse osisID='Job.13.5'>Kaş hamınız səsinizi kəsəydiniz,Onda hikmətli görünərdiniz.</verse>
+        <verse osisID='Job.13.6'>İndi necə bəhsə girdiyimi eşidin,Dilimin iddiasını yaxşı dinləyin.</verse>
+        <verse osisID='Job.13.7'>Məgər Allah üçün haqsız sözlər söyləyəcəksiniz?Onun adına yalanmı söyləyəcəksiniz?</verse>
+        <verse osisID='Job.13.8'>Sizmi Onun tərəfini tutacaqsınız?Sizmi Onun müdafiəsinə qalxacaqsınız?</verse>
+        <verse osisID='Job.13.9'>O sizi istintaq edərsə, yaxşı olarmı?İnsanları aldatdığınız kimi Onu da aldadacaqsınızmı?</verse>
+        <verse osisID='Job.13.10'>Əgər Onun tərəfini gizli tutsanız,Şübhəsiz ki, sizi də məzəmmət edər.</verse>
+        <verse osisID='Job.13.11'>Onun əzəməti sizi vahimələndirməzmi?Xofu üstünüzə düşməzmi?</verse>
+        <verse osisID='Job.13.12'>Fikrinizdəki sözlər, məsəllər külə dəyməz,Müdafiəniz lilə dəyməz.</verse>
+        <verse osisID='Job.13.13'>Susun, qoyun danışım,Qoy başıma gələn gəlsin.</verse>
+        <verse osisID='Job.13.14'>Həyatım təhlükəyə düşürsə-düşsün.Canım bəlaya düşürsə-düşsün.</verse>
+        <verse osisID='Job.13.15'>Məni öldürsə də, Ona etibar edəcəyəm,Amma yolumun müdafiəsi üçün hüzuruna çıxacağam.</verse>
+        <verse osisID='Job.13.16'>Əslində bu məni qurtaracaq,Çünki Allaha inanmayan Onun hüzuruna gələ bilməz.</verse>
+        <verse osisID='Job.13.17'>Diqqətlə sözlərimə qulaq asın,Qoy elan etdiklərim qulaqlarınızda qalsın.</verse>
+        <verse osisID='Job.13.18'>Baxın mühakiməyə hazırlaşmışam,Haqlı çıxacağımı bilirəm.</verse>
+        <verse osisID='Job.13.19'>Kim məni ittiham edəcək?Eləsi varsa, son nəfəsimi verib susaram.</verse>
+        <verse osisID='Job.13.20'>Ey Allah, mənim üçün bu iki şeyi et ki,Səndən gizlənməyim:</verse>
+        <verse osisID='Job.13.21'>Əlini üzərimdən götür,Məni dəhşətinlə qorxutma.</verse>
+        <verse osisID='Job.13.22'>Sonra da məni səslə, qoy Sənə cavab verim,Yaxud da qoy mən danışım, Sən cavab söylə.</verse>
+        <verse osisID='Job.13.23'>Təqsirlərim, günahlarım nə qədərdir?Mənə üsyankarlığımı və günahlarımı bildir.</verse>
+        <verse osisID='Job.13.24'>Niyə üzünü gizlədirsən,Məni düşmən hesab edirsən?</verse>
+        <verse osisID='Job.13.25'>Məgər yelin qopardığı yarpağı qorxudacaqsan?Məgər quru saman çöpünü qovacaqsan?</verse>
+        <verse osisID='Job.13.26'>Çünki əleyhimə acı şeylər yazırsan,Gənclikdə etdiyim günahları mənə irs olaraq verirsən.</verse>
+        <verse osisID='Job.13.27'>Ayaqlarımı buxovlayırsan,Bütün yollarıma göz qoyursan,Hər addımımı yoxlayırsan.</verse>
+        <verse osisID='Job.13.28'>Ona görə çürük şey tək məhv oluram.Güvə yemiş paltar kimiyəm.</verse>
+      </chapter>
+      <chapter osisID='Job.14'>
+        <verse osisID='Job.14.1'>Qadından doğulan insanın ömrü azdır,Həyatı sıxıntı ilə doludur.</verse>
+        <verse osisID='Job.14.2'>Çiçək kimi açar, solar,Kölgə kimi keçib-gedər.</verse>
+        <verse osisID='Job.14.3'>Gözlərini beləsinəmi dikirsən?Mühakimə etmək üçünmü məni hüzuruna gətirirsən?</verse>
+        <verse osisID='Job.14.4'>Kim çirkab içindən təmiz bir şey tapar?Heç kim!</verse>
+        <verse osisID='Job.14.5'>İnsana ömür günləri müəyyən edilib,Aylarının sayını Sən bilirsən,Ömrü üçün müəyyən hədd qoymusan,Bu həddi keçən yoxdur.</verse>
+        <verse osisID='Job.14.6'>Sən ondan gücünü çək,İş gününü bitirən zəhmətkeş kimiBir az dincəlsin.</verse>
+        <verse osisID='Job.14.7'>Bir ağac üçün ümid var,Kəsilsə belə, yenə pöhrəsini verər,Şaxələri əskilməz.</verse>
+        <verse osisID='Job.14.8'>Kökü yerdə qocalsa da,Kötüyü torpaqda məhv olsa da,</verse>
+        <verse osisID='Job.14.9'>Suyun iyini duyanda çiçəklənər,Cavan ağac kimi şaxələnər.</verse>
+        <verse osisID='Job.14.10'>Amma insan ölər, dəfn olunar,Son nəfəsini verər, yox olar.</verse>
+        <verse osisID='Job.14.11'>Dəniz suları çəkilib getdiyi kimi,Çaylar azalıb quruduğu kimi</verse>
+        <verse osisID='Job.14.12'>İnsan da yatar, bir daha qalxmaz,Göylər yox olanadək oyadılmaz,Yuxularından ayılmaz.</verse>
+        <verse osisID='Job.14.13'>Kaş ki məni ölülər diyarında gizlədəydin,Qəzəbin keçənədək saxlayaydın,Mənə möhlət verəydin,Sonra məni yada salaydın.</verse>
+        <verse osisID='Job.14.14'>İnsan ölsə, dirilərmi?Növbəm çatanacanBu əzabdan qurtulmaq üçün hər gün gözləyəcəyəm.</verse>
+        <verse osisID='Job.14.15'>Sən çağıranda cavab verəcəyəm,Əllərinin bu işinin həsrətini çəkəcəksən.</verse>
+        <verse osisID='Job.14.16'>O zaman addımlarımı sayacaqsan,Günahımı nəzərə almayacaqsan.</verse>
+        <verse osisID='Job.14.17'>Üsyankarlığım torbada möhürlənəcək,Günahımın üstünü örtəcəksən.</verse>
+        <verse osisID='Job.14.18'>Amma dağın uçub dağılması kimi,Qayanın yerindən qopması kimi,</verse>
+        <verse osisID='Job.14.19'>Su daşları yuvarladığı kimi,Sellər torpağı yuyub apardığı kimiSən də insanın ümidini yox edirsən.</verse>
+        <verse osisID='Job.14.20'>Onu əbədi məğlub edirsən, o köçüb gedir.Görkəmini dəyişdirib yola salırsan.</verse>
+        <verse osisID='Job.14.21'>Övladları şərəflənəndə də onun xəbəri olmaz,Düşkün hala düşəndə də heç nəyi başa düşməz.</verse>
+        <verse osisID='Job.14.22'>Hamı öz canının ağrısını duyur,Yalnız özü üçün yas tutur».</verse>
+      </chapter>
+      <chapter osisID='Job.15'>
+        <verse osisID='Job.15.1'>
+          Temanlı Elifaz belə cavab verdi:</verse>
+        <verse osisID='Job.15.2'>«Müdrik insan boş sözlərlə cavab verərmi?Köksünü şərq küləyi ilə doldurarmı?</verse>
+        <verse osisID='Job.15.3'>Faydasız sözlərlə, dəyərsiz nitqlərləMübahisə etmək olarmı?</verse>
+        <verse osisID='Job.15.4'>Amma sən Allah qorxusunu bir kənara qoyursan,Allah hüzurunda düşünməyə mane olursan.</verse>
+        <verse osisID='Job.15.5'>Çünki sənin ağzın günahdan dərs alıb,Hiyləgərlərin dili ilə danışırsan.</verse>
+        <verse osisID='Job.15.6'>Səni məhkum edən mən deyiləm, öz dilindir.Dodaqların öz əleyhinə şəhadət edir.</verse>
+        <verse osisID='Job.15.7'>İlk doğulan insan sənsənmi?Yoxsa dağlardan da əvvəl sən var olmusan?</verse>
+        <verse osisID='Job.15.8'>Allahın sirrinəmi qulaq asmısan?Təkcə özünümü müdrik sayırsan?</verse>
+        <verse osisID='Job.15.9'>Sən nəyi bilirsən ki, biz onu bilmirik?Sənin dərk etdiyin nədir ki, biz onu dərk etmirik?</verse>
+        <verse osisID='Job.15.10'>Bizdə ağsaçlı da, yaşlı da var,Onlar atandan da yaşlı olar.</verse>
+        <verse osisID='Job.15.11'>Sənə Allahın təsəllisi,Söylədiyi xoş sözlər kifayət deyilmi?</verse>
+        <verse osisID='Job.15.12'>Niyə qəlbin səni belə çaşdırır,Gözlərindən od çıxır?</verse>
+        <verse osisID='Job.15.13'>Niyə Allaha qəzəbini göstərirsən,Dilindən belə sözlər çıxır?</verse>
+        <verse osisID='Job.15.14'>İnsan, həqiqətən, təmiz ola bilərmi?Qadından doğulan insan saleh ola bilərmi?</verse>
+        <verse osisID='Job.15.15'>Allah müqəddəslərinə belə, etibar etmirsə,Göylər belə, Onun gözündə təmiz deyilsə,</verse>
+        <verse osisID='Job.15.16'>Haqsızlığı su kimi içən,İyrənc, korlanmış insanaO etibar edərmi?</verse>
+        <verse osisID='Job.15.17'>Dinlə məni, sənə deyim,Gördüyümü bəyan edim –</verse>
+        <verse osisID='Job.15.18'>Hikmətli adamların dediklərini,Atalarından alıb gizlətmədiyi şeyləri.</verse>
+        <verse osisID='Job.15.19'>O atalar ki ölkə yalnız onlara verilmişdi,Aralarına yadelli girməmişdi.</verse>
+        <verse osisID='Job.15.20'>Pis insan həyatı boyu əzab çəkir,Zorakı adama ayrılan illərin sayı bilinir.</verse>
+        <verse osisID='Job.15.21'>Qulağından dəhşətli səslər əskilmir,Dinc oturanda soyğunçular ona hücum edir.</verse>
+        <verse osisID='Job.15.22'>İnana bilməz ki, qaranlıqdan qurtara bilər,Onu qılınc gözlər.</verse>
+        <verse osisID='Job.15.23'>“Haradadır?” deyib çörək üçün avara gəzər,Qara günlərinin yanında olduğunu bilər.</verse>
+        <verse osisID='Job.15.24'>Ağrı və sıxıntı onu qorxudar,Zəfər çalan padşah kimi onu məğlubiyyətə uğradar.</verse>
+        <verse osisID='Job.15.25'>Çünki Allaha belə, əl uzadıb,Külli-İxtiyara meydan oxuyub.</verse>
+        <verse osisID='Job.15.26'>Dikbaşlıq edib, dəyirmi sipərini tutub,Allahın üstünə hücum çəkir.</verse>
+        <verse osisID='Job.15.27'>Onun üzü tosqunluqdan şişər,Qarnı nə qədər piyləşər,</verse>
+        <verse osisID='Job.15.28'>O, dağılmış şəhərlərdə,Kimsəsiz, yerlə yeksan olan viranələrdə,Aqibəti dağılmaq olan evlərdə yaşayacaq.</verse>
+        <verse osisID='Job.15.29'>Varlı olmayacaq, sərvətləri tükənəcək,Malları ölkəni bürüməyəcək.</verse>
+        <verse osisID='Job.15.30'>Qaranlıqdan qurtulmayacaq,Pöhrələrini alov tutacaq,Allahın ağzının nəfəsi ilə yox olacaq.</verse>
+        <verse osisID='Job.15.31'>Qoy boş şeyə güvənərək özünü aldatmasın,Çünki əvəzində nəsibi boşluq olacaq.</verse>
+        <verse osisID='Job.15.32'>İşi vaxtsız bitəcək,Budağı göyərməyəcək.</verse>
+        <verse osisID='Job.15.33'>Qorası tökülən üzüm ağacı kimi,Çiçəyi tökülən zeytun ağacı kimi olacaq.</verse>
+        <verse osisID='Job.15.34'>Çünki allahsız icma qısır olar,Rüşvətxorların çadırı od tutub yanar.</verse>
+        <verse osisID='Job.15.35'>Onlar bəlaya hamilə olub şər doğar,  Bətnləri hiylə ilə dolar». </verse>
+      </chapter>
+      <chapter osisID='Job.16'>
+        <verse osisID='Job.16.1'>
+          Əyyub belə cavab verdi:</verse>
+        <verse osisID='Job.16.2'>«Bu cür sözləri çox eşitmişəm,Hamınız adamincidən təsəlliçilərsiniz.</verse>
+        <verse osisID='Job.16.3'>Bu boş söhbətləriniz qurtaracaqmı?Sizi nə vadar edir, belə danışırsınız?</verse>
+        <verse osisID='Job.16.4'>Siz mənim yerimdə olsaydınız, mən də belə deyərdim.Əleyhinizə yaxşı-yaxşı sözlər düzüb başımı yelləyərdim.</verse>
+        <verse osisID='Job.16.5'>Ağzım ürəkləndirici sözlər deyərdi,Dilimdən təsəlliverici sözlər çıxarardım,Mən sizi ovudardım.</verse>
+        <verse osisID='Job.16.6'>Danışmağımla dərdim azalmır,Susuram, nə dəyişir?</verse>
+        <verse osisID='Job.16.7'>Ay Allah, məni taqətdən saldın,Bütün külfətimi darmadağın etdin.</verse>
+        <verse osisID='Job.16.8'>Sıxılıb əzilməyim buna şahiddir,Taqətsizliyim əleyhimə çıxıb şahidlik edir.</verse>
+        <verse osisID='Job.16.9'>Allah məni qəzəbi ilə parçalayır,Mənə nifrət edir, dişlərini qıcıdır,Düşmənim gözlərini mənə dikir.</verse>
+        <verse osisID='Job.16.10'>Mənə qarşı insanlar dodaq büzür,Həqarətlə üzümə şillə vurur,Mənə qarşı əlbir olur.</verse>
+        <verse osisID='Job.16.11'>Allah məni haqsızlara təslim etdi,Pislərin əlinə verdi.</verse>
+        <verse osisID='Job.16.12'>Rahat yaşayırdım, Allah məni pərən-pərən saldı,Boynumdan tutub yerə vurdu, məni Özünə hədəf etdi.</verse>
+        <verse osisID='Job.16.13'>Onun oxçuları ətrafımı aldı,Aman vermədən böyrəklərimi deşdilər,Ödümü yerə tökdülər.</verse>
+        <verse osisID='Job.16.14'>Bədənimə yara üstündən yara vurulur,Cəngavər tək üzərimə yüyürürlər.</verse>
+        <verse osisID='Job.16.15'>Əynimə çul tikmişəm,Qürurumu yerə atmışam.</verse>
+        <verse osisID='Job.16.16'>Ağlamaqdan üzüm qızardı,Kirpiklərimin altı-üstü kölgə saldı.</verse>
+        <verse osisID='Job.16.17'>Yenə də zalımlıq əlimdən gəlmir,Sənə səmimiyyətlə dua edirəm.</verse>
+        <verse osisID='Job.16.18'>Ey torpaq, qanımın üstünü örtmə,Qoy heç nə mənim naləmi saxlamasın.</verse>
+        <verse osisID='Job.16.19'>Lap indidən şahidim göylərdədir,Himayədarım yüksəklərdədir.</verse>
+        <verse osisID='Job.16.20'>Dostlarım məni ələ salır,Gözlərim Allaha baxıb ağlayır.</verse>
+        <verse osisID='Job.16.21'>Bəşər oğlu qonşusu üçün yalvardığı kimiBiri də mən insandan ötrü qoy Allaha yalvarsın.</verse>
+        <verse osisID='Job.16.22'>Çünki bir neçə il keçəndən sonraGedər-gəlməz yola gedəcəyəm. </verse>
+      </chapter>
+      <chapter osisID='Job.17'>
+        <verse osisID='Job.17.1'>Taqətim kəsilir, günlərim batır,Məni məzar gözləyir.</verse>
+        <verse osisID='Job.17.2'>Həqiqətən, ətrafıma rişxəndçilər yığılır,Gözüm onların düşmənçiliyini görür.</verse>
+        <verse osisID='Job.17.3'>Ey Allah, Öz hüzurunda mənə zəmanət ver.Başqa kim var ki, mənə zamin dursun?</verse>
+        <verse osisID='Job.17.4'>Çünki onların qəlbini anlayış üçün bağladın,Ona görə onlara zəfər qazandırmayacaqsan.</verse>
+        <verse osisID='Job.17.5'>Pul üçün dostlarını satanınÖvladlarının işığı sönəcək.</verse>
+        <verse osisID='Job.17.6'>Allah məni insanların dilinə saldı,Üzümə tüpürdülər.</verse>
+        <verse osisID='Job.17.7'>Gözümün nuru kədərdən qaraldı,Bütün əzalarım kölgə kimi qaldı.</verse>
+        <verse osisID='Job.17.8'>Buna əməlisaleh insanlar mat qalıb,Günahsızlar allahsızlara qarşı çıxır.</verse>
+        <verse osisID='Job.17.9'>Saleh insanlar öz yolunu tutur,Əlitəmiz olanlar getdikcə güclənir.</verse>
+        <verse osisID='Job.17.10'>Amma hamınız qayıdıb gəlsəniz,Aranızdan bir hikmətli insan tapmaram.</verse>
+        <verse osisID='Job.17.11'>Günlərim ötüşdü,Fikirlərim, arzularım pərən-pərən düşdü.</verse>
+        <verse osisID='Job.17.12'>Onlar gecəni gündüzə çevirir,“Zülmətə işıq yaxındır” deyir.</verse>
+        <verse osisID='Job.17.13'>Əgər ölülər diyarını evimdir deyə gözləsəm,Yatağımı qaranlıqda sərsəm,</verse>
+        <verse osisID='Job.17.14'>Qəbirə “atam sənsən”,Qurda “anam-bacım sənsən” desəm,</verse>
+        <verse osisID='Job.17.15'>Ümidim hara gedər?Mənim ümidimi kim görər?</verse>
+        <verse osisID='Job.17.16'>Ümid mənimlə ölülər diyarınamı düşər?Mənimlə birgə torpaq altınamı girər?»</verse>
+      </chapter>
+      <chapter osisID='Job.18'>
+        <verse osisID='Job.18.1'>
+          Şuahlı Bildad belə cavab verdi:</verse>
+        <verse osisID='Job.18.2'>«Bu sözlər nə vaxt qurtaracaq?Əgər dərrakəli olsanız, danışarıq.</verse>
+        <verse osisID='Job.18.3'>Niyə heyvana bənzəyək?Gözlərinizə axmaq kimi görünək?</verse>
+        <verse osisID='Job.18.4'>Özünü hirsindən didib-dağıdırsan.Sənə görə bu aləmdən vaz keçəkmi?Yoxsa sal qayalar yerindən çıxsın?</verse>
+        <verse osisID='Job.18.5'>Bəli, şər insanın işığı sönəcək,Odu-alovu parlamayacaq.</verse>
+        <verse osisID='Job.18.6'>Çadırında nur qaranlığa dönəcək,Yanındakı çıraq sönəcək.</verse>
+        <verse osisID='Job.18.7'>Addımları gücdən düşəcək,Öz işlətdiyi fənddən yıxılacaq.</verse>
+        <verse osisID='Job.18.8'>Ayaqları onu tələyə aparacaq,Öz ayağı ilə tora düşəcək.</verse>
+        <verse osisID='Job.18.9'>Kəmənd topuğundan tutacaq,Tələ açılıb onu qapacaq.</verse>
+        <verse osisID='Job.18.10'>Torpaq üstə onun üçün gizli kəmənd səriləcək,Yolu üstə onu tələ gözləyəcək.</verse>
+        <verse osisID='Job.18.11'>Dəhşət onu hər tərəfdən bürüyəcək,Hər addımda onu təqib edəcək.</verse>
+        <verse osisID='Job.18.12'>Aclıq taqətini yeyib-qurtaracaq,Yanında fəlakət hazır dayanacaq.</verse>
+        <verse osisID='Job.18.13'>Dərisini azar yeyəcək,Ölümün ilk övladı əzalarını yeyib işini bitirəcək.</verse>
+        <verse osisID='Job.18.14'>Əmin-amanlıq çadırından atılacaq,Dəhşətlər padşahının yanına aparılacaq.</verse>
+        <verse osisID='Job.18.15'>Çadırında ona aid heç nə olmayacaq,Yurduna kükürd yağacaq.</verse>
+        <verse osisID='Job.18.16'>Aşağıda rişələri quruyacaq,Yuxarıda budaqları solacaq.</verse>
+        <verse osisID='Job.18.17'>Onun adı yer üzündə unudulacaq,Məhəllə-küçələrdə adı yaddan çıxacaq.</verse>
+        <verse osisID='Job.18.18'>İşıqdan zülmətə aparılacaq,Dünyadan qovulacaq.</verse>
+        <verse osisID='Job.18.19'>Nə övladı, nə nəvəsi xalqı arasında olmayacaq,Məskənində bir kimsəsi qalmayacaq.</verse>
+        <verse osisID='Job.18.20'>Qərbdəkilər halına heyrətlənəcək,Şərqdəkilər onu görüb dəhşətə gələcək.</verse>
+        <verse osisID='Job.18.21'>Bəli, pislərin həyatının aqibəti budur,Allahı tanımayanların məskəni budur». </verse>
+      </chapter>
+      <chapter osisID='Job.19'>
+        <verse osisID='Job.19.1'>
+          Əyyub belə cavab verdi:</verse>
+        <verse osisID='Job.19.2'>«Nə vaxtadək məni üzəcəksiniz,Məni sözlə əzəcəksiniz,</verse>
+        <verse osisID='Job.19.3'>On dəfədir ki, məni təhqir edirsiniz,Utanmadan mənə kəskin sözlər söyləyirsiniz.</verse>
+        <verse osisID='Job.19.4'>Həqiqətən, azıb yanlış yola düşmüşəmsə,Səhvim öz üstümdə qalır.</verse>
+        <verse osisID='Job.19.5'>Özünüzü, həqiqətən, məndən üstün tutursunuz,Eybimi üzümə vurursunuz.</verse>
+        <verse osisID='Job.19.6'>Amma bilin ki, Allah mənə haqsızlıq etdi,Hər tərəfdən məni toruna saldı.</verse>
+        <verse osisID='Job.19.7'>Budur, “Zorakılıqdır!” deyə bağırıram,Bir cavab verən yoxdur,Kömək üçün nalə çəkirəm, ədalət yoxdur.</verse>
+        <verse osisID='Job.19.8'>Keçə bilmirəm, yollarıma sədd çəkilib,Yollarımı qaranlığa salıb.</verse>
+        <verse osisID='Job.19.9'>Şərəfimi əynimdən soyundurub,Başımdan tacı götürüb.</verse>
+        <verse osisID='Job.19.10'>O məni hər tərəfdən yıxdı, əldən gedirəm,Ümidimi ağac kimi kökündən qopartdı.</verse>
+        <verse osisID='Job.19.11'>Mənə qarşı qəzəbi od tutub yandı,Məni Özünə düşmən saydı.</verse>
+        <verse osisID='Job.19.12'>Orduları üstümə gəlir,Mənə qarşı torpaq qalağı düzəldir,Çadırımın ətrafında ordugah qurur.</verse>
+        <verse osisID='Job.19.13'>Qardaşlarımı məndən uzaqlaşdırdı,Tanışlarım mənə yad oldu.</verse>
+        <verse osisID='Job.19.14'>Qohumlarım məni tərk eləyib,Yaxın dostlarım məni unudub.</verse>
+        <verse osisID='Job.19.15'>Evimin sakinləri və kənizlərMəni özgə sayır,Onların gözündə yad olmuşam.</verse>
+        <verse osisID='Job.19.16'>Qulumu çağırıram,Ağız açıb yalvarsam belə, cavab almıram.</verse>
+        <verse osisID='Job.19.17'>Nəfəsimdən arvadımın da zəhləsi gedir,Qardaşlarım məndən iyrənir.</verse>
+        <verse osisID='Job.19.18'>Mənə hətta kiçik uşaqlar xor baxır,Ayağa duranda məni ələ salırlar.</verse>
+        <verse osisID='Job.19.19'>Bütün səmimi dostlarım belə, məndən ikrah edir,Əzizlərim belə, əleyhimə çıxır.</verse>
+        <verse osisID='Job.19.20'>Bir dəri, bir sümük qalmışam,Ölüm kandarına çatmışam.</verse>
+        <verse osisID='Job.19.21'>Aman, ey dostlarım, aman,Allahın əli məni vurdu!</verse>
+        <verse osisID='Job.19.22'>Niyə məni Allah kimi qovursunuz?Niyə mənim ətimdən doymursunuz?</verse>
+        <verse osisID='Job.19.23'>Kaş ki sözlərim yazılaydı,Kitaba köçürüləydi,</verse>
+        <verse osisID='Job.19.24'>Dəmir qələmlə, qurğuşunlaƏbədi qalmaq üçün bir qayaya həkk olaydı.</verse>
+        <verse osisID='Job.19.25'>Amma mən bilirəm ki, Satınalanım yaşayır,Axırda O, yer üzərində dayanacaq.</verse>
+        <verse osisID='Job.19.26'>Dərim yox olandan sonraBədən alıb Allahı görəcəyəm.</verse>
+        <verse osisID='Job.19.27'>Mən Ona baxacağam,Başqası yox, mən öz gözlərimlə görəcəyəm.Budur, ürəyim həsrətdən üzülür!</verse>
+        <verse osisID='Job.19.28'>Mənim üçün “Bəs onu necə qovaq?Bədbəxtliyin kökü ondadır” desəniz,</verse>
+        <verse osisID='Job.19.29'>Qılıncdan qorxmalısınız,Çünki qılınc cəzası qəzəblə gəlir.Onda ədalətin var olduğunu görəcəksiniz». </verse>
+      </chapter>
+      <chapter osisID='Job.20'>
+        <verse osisID='Job.20.1'>
+          Naamatlı Sofar belə cavab verdi:</verse>
+        <verse osisID='Job.20.2'>«Düşüncələrimə görə cavab verməyə məcburam,Çünki daxilən narahatam.</verse>
+        <verse osisID='Job.20.3'>Məni utandıran bir giley eşidirəm,Ruhum dərrakəsi ilə məni cavab verməyə sövq edir.</verse>
+        <verse osisID='Job.20.4'>Bilirsən ki, əzəldən bəri,İnsanın dünyaya gəlişindən bəri</verse>
+        <verse osisID='Job.20.5'>Pislərin qələbə çalması qısa çəkər,Allahsızın sevinci bir an sürər.</verse>
+        <verse osisID='Job.20.6'>Boyu göylərə çatsa da,Başı buludlara dəysə də,</verse>
+        <verse osisID='Job.20.7'>Öz nəcisi kimi əbədilik yox ediləcək,Onu görənlər “O haradadır?” deyəcək.</verse>
+        <verse osisID='Job.20.8'>Yuxu kimi uçacaq, bir daha tapılmayacaq,Bəli, gecə röyası kimi yox olacaq.</verse>
+        <verse osisID='Job.20.9'>Onu görən gözlər bir daha görməyəcək,Yaşadığı yerdə görünməyəcək.</verse>
+        <verse osisID='Job.20.10'>Övladları fəqirlərdən mərhəmət diləyəcək,Sərvətləri əllərindən gedəcək.</verse>
+        <verse osisID='Job.20.11'>İnsanın sümükləri gənclik alovu ilə dolar,Amma insanla birlikdə torpaq altında yatacaq.</verse>
+        <verse osisID='Job.20.12'>Pislik ağzına şirin gəlsə də,Dilinin altında gizlənsə də,</verse>
+        <verse osisID='Job.20.13'>İnsan pisliyi tutub buraxmasa da,Damağının altında saxlasa da,</verse>
+        <verse osisID='Job.20.14'>Yediyi yemək mədəsində qıcqıracaq,Daxilində ilan zəhərinə dönəcək.</verse>
+        <verse osisID='Job.20.15'>Yediyi sərvətləri qusacaq,Qarnındakıları Allah bayıra çıxaracaq.</verse>
+        <verse osisID='Job.20.16'>Başqa yerdə əfi ilan zəhərini əməcək,Gürzənin dişindən öləcək.</verse>
+        <verse osisID='Job.20.17'>Axar suların, bal və qaymaq axan dərələrinSəfasını görməyəcək.</verse>
+        <verse osisID='Job.20.18'>Zəhmətlə qazandığını yeməyib geri qaytaracaq,Ticarətdən qazandığı sərvətdən ləzzət almayacaq.</verse>
+        <verse osisID='Job.20.19'>Çünki fəqirləri əzib üzüqoylu qoymuşdu,Özü tikmədiyi evi zorla almışdı.</verse>
+        <verse osisID='Job.20.20'>Könlü rahatlıq nədir bilməz,Zövq aldığı şeylər onu xilas etməz.</verse>
+        <verse osisID='Job.20.21'>Yeməyindən artıq qalmayacaq,Ona görə firavanlığı uzun sürməyəcək.</verse>
+        <verse osisID='Job.20.22'>Bolluq içində əzaba düşəcək,Fəlakət ona qarşı əl qaldıracaq.</verse>
+        <verse osisID='Job.20.23'>Qarnını doldurandaAllah şiddətli qəzəbini onun üzərinə göndərəcək,Onun üstünə tökəcək.</verse>
+        <verse osisID='Job.20.24'>Dəmir silahdan qaça bilsə də,Tunc ox onu dəlib-deşəcək,</verse>
+        <verse osisID='Job.20.25'>Ox onu dəlib-keçəcək,Onun kürəyindən çıxacaq,Parlaq ucu ödünü dağıdıb tökəcək.Üstünə dəhşət gələcək.</verse>
+        <verse osisID='Job.20.26'>Xəzinələrinin aqibəti qaranlıq olacaq,Üfürülməmiş od onu yeyib-qurtaracaq,Çadırında qalanları da yandırıb-yaxacaq.</verse>
+        <verse osisID='Job.20.27'>Göylər şər işlərinin üstünü açacaq,Dünya onun əleyhinə qalxacaq.</verse>
+        <verse osisID='Job.20.28'>Allahın qəzəb günündəAzğın sellər sərvətini aparacaq.</verse>
+        <verse osisID='Job.20.29'>Pis insan Allahdan belə pay alacaq,Allahın ona verdiyi irs budur». </verse>
+      </chapter>
+      <chapter osisID='Job.21'>
+        <verse osisID='Job.21.1'>
+          Əyyub belə cavab verdi:</verse>
+        <verse osisID='Job.21.2'>«Sözlərimi diqqətlə dinləyin,Siz bununla mənə təsəlli verin.</verse>
+        <verse osisID='Job.21.3'>Qoyun mən də bir şey deyim,Mən danışandan sonra lağ edin.</verse>
+        <verse osisID='Job.21.4'>Şikayətim insana qarşıdırmı?Mən necə səbir edim?</verse>
+        <verse osisID='Job.21.5'>Mənə baxıb mat qalın,Əlinizi ağzınızın üstünə qoyun.</verse>
+        <verse osisID='Job.21.6'>Bunu düşünəndə köksümü dəhşət bürüyür,Bədənimə titrətmə düşür.</verse>
+        <verse osisID='Job.21.7'>Pislər nə üçün yaşayır?Yaşlandıqca niyə gücləri artır?</verse>
+        <verse osisID='Job.21.8'>Övladları ətrafında,Nəsilləri gözlərinin qarşısında sapsağlamdır.</verse>
+        <verse osisID='Job.21.9'>Evlərində əmin-amanlıqdır, qorxudan uzaqdır,Allahın dəyənəyi onlara dəymir.</verse>
+        <verse osisID='Job.21.10'>Öküzləri cütləşir, qarınları boş qalmır,Doğar inəkləri var, bala salmaz.</verse>
+        <verse osisID='Job.21.11'>Övladlarını sürü tək yola salır,Uşaqları oynaşır.</verse>
+        <verse osisID='Job.21.12'>Dəf və lira çalaraq nəğmə deyirlər,Tütək səsi ilə şənlənirlər.</verse>
+        <verse osisID='Job.21.13'>Ömürlərini firavan keçirirlər,Ölülər diyarına rahat gedirlər.</verse>
+        <verse osisID='Job.21.14'>Allaha belə deyirlər: “Bizdən uzaq ol,Yolunu tanımaq istəmirik.</verse>
+        <verse osisID='Job.21.15'>Kimdir Külli-İxtiyar, biz Ona qulluq edək?Əgər Ona dua etsək, bizə nə fayda verər?”</verse>
+        <verse osisID='Job.21.16'>Görürsən ki, xoşbəxtlikləri öz əllərində deyil,Pislərin nəsihəti qoy məndən uzaq olsun!</verse>
+        <verse osisID='Job.21.17'>Neçə dəfə pislərin çırağı söndü,Başlarına bəla gəldi.Allah qəzəblənəndə onlara kədəri pay verdimi?</verse>
+        <verse osisID='Job.21.18'>Neçə dəfə yel sovuran saman kimi,Tufanın uçurduğu saman çöpü kimi oldular?</verse>
+        <verse osisID='Job.21.19'>Deyirsiniz ki, AllahAtanın cəzasını övladına çəkdirir.Bunun nə olduğunu bilsin deyə özünə çəkdirsin.</verse>
+        <verse osisID='Job.21.20'>Qoy öz həlakını gözləri görsün,Külli-İxtiyarın qəzəbini su kimi içsin.</verse>
+        <verse osisID='Job.21.21'>Çünki ili, ayı qurtaranda,Arxada qalan külfətindən nə zövq ala bilər?</verse>
+        <verse osisID='Job.21.22'>Yüksək mənsəb sahiblərinə hökm edən AllahaKim bilik verə bilər?</verse>
+        <verse osisID='Job.21.23'>Biri tamam güclü,Tamam rahat və qayğısız,</verse>
+        <verse osisID='Job.21.24'>Bədəni ətli-canlı,Sümükləri ilikli ölür.</verse>
+        <verse osisID='Job.21.25'>O biri isə dərd içində,Həyatdan kam almamış ölür.</verse>
+        <verse osisID='Job.21.26'>İkisi də torpaqda yatır,İkisinin də bədənini qurd basır.</verse>
+        <verse osisID='Job.21.27'>Bilirəm nə fikirdəsiniz,Qəsdiniz mənə qarşı olmaqdır.</verse>
+        <verse osisID='Job.21.28'>Deyirsiniz: “Əsilzadələrin evi haradadır?Pislərin yaşadığı çadır haradadır?”</verse>
+        <verse osisID='Job.21.29'>Yoldan keçənlərdən soruşmadınızmı?Söhbətlərinə qulaq asmadınızmı?</verse>
+        <verse osisID='Job.21.30'>Pis insan fəlakət günündə sağ qalır,Qəzəb günü yol göstərilərək qurtulur.</verse>
+        <verse osisID='Job.21.31'>Kim davranışını onun üzünə vurur?Kim etdiklərinə görə onu cəzalandırır?</verse>
+        <verse osisID='Job.21.32'>Qəbiristana aparılarkənMəzarı üstə qarovul çəkilir.</verse>
+        <verse osisID='Job.21.33'>Vadinin torpağı ona şirin gəlir,Hamı onun ardınca düşür.Qarşısında gedənlərsə saysızdır.</verse>
+        <verse osisID='Job.21.34'>Məni necə boş sözlərlə ovuda bilərsiniz?Cavablarınız axıradək yalandır». </verse>
+      </chapter>
+      <chapter osisID='Job.22'>
+        <verse osisID='Job.22.1'>
+          Temanlı Elifaz belə cavab verdi:</verse>
+        <verse osisID='Job.22.2'>«İnsan Allaha fayda verə bilərmi?  Müdrik adam Ona fayda verərmi?</verse>
+        <verse osisID='Job.22.3'>Sənin salehliyindən Külli-İxtiyar nə ləzzət alır?Sənin düz həyat tərzinin Ona nə faydası var?</verse>
+        <verse osisID='Job.22.4'>Səni tənbeh etməsi, mübarizə aparmasıOndan qorxduğun üçündürmü?</verse>
+        <verse osisID='Job.22.5'>Pisliyin böyük deyilmi,Təqsirin hədsiz deyilmi?</verse>
+        <verse osisID='Job.22.6'>Çünki qardaşlarından səbəbsiz girov aldın,Onları lüt qoydun.</verse>
+        <verse osisID='Job.22.7'>Yorğuna bir içim su vermədin,Ac olandan çörəyini əsirgədin.</verse>
+        <verse osisID='Job.22.8'>Qol gücünlə ölkəyə sahib oldun,Hörmətli insan kimi orada yaşadın.</verse>
+        <verse osisID='Job.22.9'>Dul qadınları əliboş qaytardın,Yetimlərin qol-qanadını qırdın.</verse>
+        <verse osisID='Job.22.10'>Ona görə hər yanını tələlər bürüyüb,Qəfil qorxu səni dəhşətləndirib.</verse>
+        <verse osisID='Job.22.11'>Hər şeyə qara vurub görmürsən,Sellərdə boğulursan.</verse>
+        <verse osisID='Job.22.12'>Allah göylərdə – ucalarda deyilmi?Ən uzaq ulduzlara bir nəzər sal,Gör nə qədər ucalarda yerləşib!</verse>
+        <verse osisID='Job.22.13'>Amma deyirsən “Allah nə bilir?Qatı qaranlıq içindən hökm verə bilərmi?</verse>
+        <verse osisID='Job.22.14'>Görə bilmir, qara buludlar Ona mane olur,Göy qübbəsinin üzərində dolaşır”.</verse>
+        <verse osisID='Job.22.15'>Pis adamların gəzdiyiKöhnə yolumu tutacaqsan?</verse>
+        <verse osisID='Job.22.16'>Onlar vaxtı çatmamış çəkilib getdilər,Təməllərini sellər basdı.</verse>
+        <verse osisID='Job.22.17'>Allaha dedilər: “Bizdən uzaq ol!Bizə Külli-İxtiyar nə edə bilər?”</verse>
+        <verse osisID='Job.22.18'>Amma evlərini bərəkətlə dolduran Allah idi,Ona görə pislərin nəsihəti qoy məndən uzaq olsun.</verse>
+        <verse osisID='Job.22.19'>Salehlər pislərin həlak olduğunu görüb sevinir,Günahsızlar onlara belə istehza edir:</verse>
+        <verse osisID='Job.22.20'>“Düşmənlərimiz yox oldu,Onlardan nə qaldısa, yanıb kül oldu”.</verse>
+        <verse osisID='Job.22.21'>Allahla barışıb dost olsan,Xeyir taparsan.</verse>
+        <verse osisID='Job.22.22'>Onun ağzından çıxan təlimi qəbul et,Onun sözlərini qəlbində saxla.</verse>
+        <verse osisID='Job.22.23'>Külli-İxtiyara tərəf dönsən,Əvvəlki halına düşərsən.Çadırın şərdən uzaq olsa,</verse>
+        <verse osisID='Job.22.24'>Qızılını torpağa,Ofir qızılını dərədəki çınqıllığa atsan,</verse>
+        <verse osisID='Job.22.25'>Külli-İxtiyar sənin qızılın olar,Qiymətli gümüşün olar.</verse>
+        <verse osisID='Job.22.26'>Onda Külli-İxtiyardan zövq alarsan,Allaha üz tutarsan.</verse>
+        <verse osisID='Job.22.27'>Ona yalvarsan, səni eşidər,Etdiyin nəzirləri yerinə yetirərsən.</verse>
+        <verse osisID='Job.22.28'>O da dediyin sözü yerinə yetirər,Yollarına nur səpilər.</verse>
+        <verse osisID='Job.22.29'>İnsanlar səni alçaldanda“Baş ucalığına görədir” deyərsən,Çünki Allah itaətkarları xilas edər.</verse>
+        <verse osisID='Job.22.30'>O, günahsız olmayanı belə qurtarar,Sənin əllərinin təmizliyinə görə günahkar xilas olar». </verse>
+      </chapter>
+      <chapter osisID='Job.23'>
+        <verse osisID='Job.23.1'>
+          Əyyub belə cavab verdi:</verse>
+        <verse osisID='Job.23.2'>«Bu gün də acı-acı şikayət edəcəyəm,Naləmə baxmayaraq üstümdə Allahın əli ağırdır.</verse>
+        <verse osisID='Job.23.3'>Kaş biləydim Onu harada tapmaq olar,Məskəninə çatmaq olar.</verse>
+        <verse osisID='Job.23.4'>O zaman davamı Onun hüzurunda dilə gətirərdim,Dəlillərimi dalbadal düzərdim.</verse>
+        <verse osisID='Job.23.5'>Mənə verəcəyi cavabı öyrənərdim,Dediyini dərk edərdim.</verse>
+        <verse osisID='Job.23.6'>Əzəməti, qüdrəti ilə əleyhimə çıxardımı?Xeyr, yəqin sözümə qulaq asardı.</verse>
+        <verse osisID='Job.23.7'>Hüzurunda bir haqlı insan mübahisə etsəydi,Mən hakimimin yanında haqq qazanardım.</verse>
+        <verse osisID='Job.23.8'>Şərqə getsəm, Allah orada deyil,Qərbə getsəm, Onu tapa bilmirəm.</verse>
+        <verse osisID='Job.23.9'>O, şimalda işləsə, gözüm seçməz,Cənuba dönsə, Onu görə bilmərəm.</verse>
+        <verse osisID='Job.23.10'>Amma tutduğum yolu O tanıyır,Məni sınayan zaman qızıl kimi çıxaram.</verse>
+        <verse osisID='Job.23.11'>Hər addımını yaxından izlədim,Azmadan yoluna bağlı qaldım.</verse>
+        <verse osisID='Job.23.12'>Ağzından çıxan əmrlərdən ayrılmadım,Gündəlik çörəkdən çox ağzından çıxan sözləri qiymətləndirdim.</verse>
+        <verse osisID='Job.23.13'>O təkbaşına dayanıb, kim Onu döndərə bilər?Könlü nə istəsə, onu edər.</verse>
+        <verse osisID='Job.23.14'>Mənimlə bağlı qərarını yerinə yetirəcək,Belə fikirləri çoxdur.</verse>
+        <verse osisID='Job.23.15'>Ona görə hüzurunda dəhşətə gəlirəm,Bunları düşünəndə Ondan vahimələnirəm.</verse>
+        <verse osisID='Job.23.16'>Allah qəlbimin cəsarətini qırdı,Külli-İxtiyar məni qorxuya saldı.</verse>
+        <verse osisID='Job.23.17'>Sifətimi qatı qaranlıq bürüsə belə,Məni zülmət susdura bilməz. </verse>
+      </chapter>
+      <chapter osisID='Job.24'>
+        <verse osisID='Job.24.1'>Niyə Külli-İxtiyar hökm üçün zaman təyin etmir?Niyə Onu tanıyanlar hökm günlərini görmür?</verse>
+        <verse osisID='Job.24.2'>İnsanlar sərhəd daşlarını qaldırır,Sürüləri oğurlayıb otarır.</verse>
+        <verse osisID='Job.24.3'>Yetimlərin eşşəyini əlindən alır,Dul qadının öküzünü girov götürür.</verse>
+        <verse osisID='Job.24.4'>Yoxsulları yoldan çıxarır,Ölkədəki fəqirlərin hamısı gizlənməyə məcbur olur.</verse>
+        <verse osisID='Job.24.5'>Baxın kasıblar vəhşi eşşəklər kimiYemək tapmaq üçün ertədən işə çıxır,Övladları üçün çöldə çörək axtarır.</verse>
+        <verse osisID='Job.24.6'>Zəmilərdən yem yığırlar,Pislərin üzüm bağından üzüm qalıqlarını toplayırlar.</verse>
+        <verse osisID='Job.24.7'>Gecə paltarsız, çılpaq qalırlar,Soyuqda üstlərini örtməyə bir şey tapmırlar.</verse>
+        <verse osisID='Job.24.8'>Dağlara yağan yağışdan islanırlar,Daldalanacaqları olmadığı üçün qayalara qısılırlar,</verse>
+        <verse osisID='Job.24.9'>Yetim uşağı döşdən ayırırlar,Fəqirin körpəsini girov alırlar.</verse>
+        <verse osisID='Job.24.10'>Bu yazıqlar paltarsız, çılpaq dolanır,Qarınları acdır, amma taxıl dərzləri daşıyır.</verse>
+        <verse osisID='Job.24.11'>Pislərin çəpərləri arasında yağ üçün zeytun sıxırlar,Şərab üçün üzüm sıxırlar,Amma özləri susuzluqdan yanırlar.</verse>
+        <verse osisID='Job.24.12'>Şəhərlərdən insan nalələri ucalır,Canı yaralı olanlar fəryad qoparır,Amma Allah dualarını nəzərə almır.</verse>
+        <verse osisID='Job.24.13'>Elə insanlar var ki, işığa üsyan edir,Nurlu yolu tanımır,Onun dalınca getmir.</verse>
+        <verse osisID='Job.24.14'>Qatil gün batanda qalxır,Fəqiri, yoxsulu öldürür,Gecə oğrusuna bənzəyir.</verse>
+        <verse osisID='Job.24.15'>Zinakarın gözü alaqaranlıqdadır,“Kimsə məni görməz” deyə düşünür,Üz-gözünü gizlədir.</verse>
+        <verse osisID='Job.24.16'>Oğrular evləri qaranlıqda yarır,Gündüz gizlənir, işıq nədir, bilmir.</verse>
+        <verse osisID='Job.24.17'>Çünki onların sabahı qatı qaranlıqdır,Zülmətin dəhşəti onların aşnasıdır.</verse>
+        <verse osisID='Job.24.18'>Amma onlar su üzərində köpüyə bənzər,Torpaqdan lənət payı alar,Üzüm bağlarına qayıtmazlar.</verse>
+        <verse osisID='Job.24.19'>Necə ki quraqlıq və istilik qarı əridib udar,Ölülər diyarı da günahkarları elə götürüb aparar.</verse>
+        <verse osisID='Job.24.20'>Onları ana bətni unudar,Qurdlar üçün ləziz yem olar,Bir də onları heç kim yada salmaz,Haqsızlıq bir ağac kimi sınar.</verse>
+        <verse osisID='Job.24.21'>Çünki sonsuz qadınlara yamanlıq edərlər,Dul qadınlara yaxşılıq etməzlər.</verse>
+        <verse osisID='Job.24.22'>Allah isə qüdrəti ilə bu güclüləri dartıb yerə vurar,Onlar qalxsa belə, həyatlarından əmin olmazlar.</verse>
+        <verse osisID='Job.24.23'>Allah onlara izin verir ki, əmin-amanlıqda yaşasınlar,Amma onlar gedən yollara göz qoyur.</verse>
+        <verse osisID='Job.24.24'>Qısa müddətə ucalır, sonra da yox olurlar.Yıxılırlar, lap əvvəlkilər kimi götürülüb aparılırlar,Sünbül kimi dərilib yığılırlar.</verse>
+        <verse osisID='Job.24.25'>Əgər belə deyilsə,Yalançı olduğumu kim sübut edə bilər?Sözlərimin dəyərsiz olduğunu kim deyə bilər?»</verse>
+      </chapter>
+      <chapter osisID='Job.25'>
+        <verse osisID='Job.25.1'>
+          Şuahlı Bildad belə cavab verdi:</verse>
+        <verse osisID='Job.25.2'>«Səltənət və zəhm Allaha məxsusdur,Uca göylərdə nizam quran Odur.</verse>
+        <verse osisID='Job.25.3'>Orduları saya gələrmi?İşığı kimin üzünə doğmaz?</verse>
+        <verse osisID='Job.25.4'>Fani insan Allah qarşısında necə saleh ola bilər?Qadından doğulan necə təmiz ola bilər?</verse>
+        <verse osisID='Job.25.5'>Bax Onun gözündə ay belə, parlaq deyilsə,Ulduzlar belə, pak deyilsə,</verse>
+        <verse osisID='Job.25.6'>Torpaq qurduna bənzər fani insan necə ola bilər?Axı bəşər oğlu bir cücüyə bənzər». </verse>
+      </chapter>
+      <chapter osisID='Job.26'>
+        <verse osisID='Job.26.1'>
+          Əyyub belə cavab verdi:</verse>
+        <verse osisID='Job.26.2'>«Biçarəyə necə də kömək etdin!Taqətdən düşən qolu necə xilas etdin!</verse>
+        <verse osisID='Job.26.3'>Hikmətsiz adama necə məsləhət verdin!Ona bol-bol müdriklik öyrətdin!</verse>
+        <verse osisID='Job.26.4'>Axı bu sözləri kimə söyləyirsən?Sənin ağzınla kimin ruhu danışır?</verse>
+        <verse osisID='Job.26.5'>Ölülər titrəyir,Su altında məskən salanlar lərzəyə gəlir.</verse>
+        <verse osisID='Job.26.6'>Allahın hüzurunda ölülər diyarı çılpaqdır,Həlak yerinin örtüyü yoxdur.</verse>
+        <verse osisID='Job.26.7'>Şimalı boş fəzanın üstünə yayır,Dünyanı heçliyin üstündən asır.</verse>
+        <verse osisID='Job.26.8'>Buludların içinə sularını büküb yığır,Onların ağırlığından buludlar yırtılmır.</verse>
+        <verse osisID='Job.26.9'>Bədirlənmiş ayın üzünü örtür,Buludları üstünə çəkir.</verse>
+        <verse osisID='Job.26.10'>Suların üstünə bir sərhəd çəkir,İşıqla qaranlığı bölür.</verse>
+        <verse osisID='Job.26.11'>O qəzəblənəndə göyün dirəkləri sarsılır,Çaşıb qalır.</verse>
+        <verse osisID='Job.26.12'>Dənizi gücü ilə çalxalayır,Müdrikliyi ilə Rahavı   vurur.</verse>
+        <verse osisID='Job.26.13'>Göyləri nəfəsi ilə açır,Qaçan ilanı əli ilə parçalayır.</verse>
+        <verse osisID='Job.26.14'>Bunlar yalnız Onun etdiklərinin bir zərrəsidir,Ondan eşitdiyimiz çox zəif bir pıçıltıdır.Axı qüdrətli gurultusunu kim dərk edə bilər?» </verse>
+      </chapter>
+      <chapter osisID='Job.27'>
+        <verse osisID='Job.27.1'>Əyyub misal çəkərək dedi:</verse>
+        <verse osisID='Job.27.2'>«Haqqımı əlimdən alan var olan Allaha and olsun,Canımı dərdə salan Külli-İxtiyara and olsun,</verse>
+        <verse osisID='Job.27.3'>Nə qədər canımda can,Burnumda Allahın nəfəsi varsa,</verse>
+        <verse osisID='Job.27.4'>Ağzımdan pis söz çıxmayacaq,Dilim yalan danışmayacaq!</verse>
+        <verse osisID='Job.27.5'>Sizin sözlərinizi əsla təsdiq etməyəcəyəm,Son nəfəsimə qədər kamilliyimdən əl çəkməyəcəyəm.</verse>
+        <verse osisID='Job.27.6'>Salehliyimdən bərk yapışmışam,Onu buraxmaram,Elə gün keçirməmişəm ki, ürəyim tərəfindən ittiham olunum.</verse>
+        <verse osisID='Job.27.7'>Qoy düşmən pis adamların gününə düşsün,Haqsız adamlara nə edilirsə, əleyhdarlarıma da elə edilsin.</verse>
+        <verse osisID='Job.27.8'>Allahsız insanı Allah kəsib atanda,Canını alanda ümidi olarmı?</verse>
+        <verse osisID='Job.27.9'>Dara düşəndə fəryadınıAllah eşidəcəkmi?</verse>
+        <verse osisID='Job.27.10'>O, Külli-İxtiyardan zövq alırmı?O hər zaman Allaha yalvarırmı?</verse>
+        <verse osisID='Job.27.11'>Allahın qolu haqqında sizə bilik verəcəyəm,Külli-İxtiyarın niyyətini sizdən gizlətməyəcəyəm.</verse>
+        <verse osisID='Job.27.12'>Əslində hamınız bunu görmüsünüz,Bəs niyə boş sözlər söyləyirsiniz?</verse>
+        <verse osisID='Job.27.13'>Pis adam Allahdan belə pay alar,Külli-İxtiyardan zorakı adamlara bu nəsib olar:</verse>
+        <verse osisID='Job.27.14'>Nə olsun, övladları çoxalır,Hamısı qılıncdan keçiriləcək,Nəslində doyunca çörək tapan olmayacaq.</verse>
+        <verse osisID='Job.27.15'>Nəslindən sağ qalanlar xəstəlikdən ölərək dəfn ediləcək,Dul arvadları ağlaya bilməyəcək.</verse>
+        <verse osisID='Job.27.16'>Pis insan qum qədər gümüş yığsa da,Torpaq zərrələri qədər paltar yığsa da,</verse>
+        <verse osisID='Job.27.17'>Onun yığdığını saleh geyəcək,Gümüşünü günahsızlar böləcək.</verse>
+        <verse osisID='Job.27.18'>Güvə çanağı kimi,Qarovulçu çardağı kimi ev tikir,</verse>
+        <verse osisID='Job.27.19'>Varlı olaraq yatır, amma sona qədər belə qalmaz,Gözlərini açanda hamısı yox olub gedəcək.</verse>
+        <verse osisID='Job.27.20'>Dəhşət onu sel tək basacaq,Tufan gecə onu qapıb aparacaq.</verse>
+        <verse osisID='Job.27.21'>Şərq küləyi onu qaldırıb sovuracaq,Onu öz yerindən süpürüb aparacaq.</verse>
+        <verse osisID='Job.27.22'>Ona qarşı amansız küləklər əsəcək,O isə yelin əlindən qaçmağa cəhd edəcək.</verse>
+        <verse osisID='Job.27.23'>Külək onu ələ salaraq əl çalacaq,Öz yerindən onun üçün vıyıldayacaq. </verse>
+      </chapter>
+      <chapter osisID='Job.28'>
+        <verse osisID='Job.28.1'>Gümüşün mədəni,Qızılın təmizlənmə yeri var.</verse>
+        <verse osisID='Job.28.2'>Dəmir torpaqdan çıxarılır,Mis daşlardan əridilərək alınır.</verse>
+        <verse osisID='Job.28.3'>İnsan qaranlığa son qoyur,Sonacan qatı qaranlıqda, zülmətdə filiz axtarır.</verse>
+        <verse osisID='Job.28.4'>İnsan məskənlərindən uzaq bir çuxur açır,İnsan ayağı dəyməyən yerlərdə,İnsanlardan uzaqlarda ilişib yellənə-yellənə qalır.</verse>
+        <verse osisID='Job.28.5'>Torpaqdan çörək çıxır,Torpağın altı isə fırlanır, elə bil odlar yanır.</verse>
+        <verse osisID='Job.28.6'>Qayalarından göy yaqut çıxır,Orada qızıl tozu da var.</verse>
+        <verse osisID='Job.28.7'>Oranın yolunu yırtıcı quşlar bilmir,Şahinin gözü oranı görməyib.</verse>
+        <verse osisID='Job.28.8'>Ora məğrur heyvanların ayağı dəyməyib,Yırtıcı aslanlar oradan keçməyib.</verse>
+        <verse osisID='Job.28.9'>Mədənçi əlini çaxmaq daşına uzadır,Dağları dibindən oynadır.</verse>
+        <verse osisID='Job.28.10'>Qayalardan yeraltı keçidlər açır,Gözləri müxtəlif qiymətli şeylərə baxır.</verse>
+        <verse osisID='Job.28.11'>Çayların mənbələrini bağlayır,Gizlini aşkara çıxarır.</verse>
+        <verse osisID='Job.28.12'>Amma hikməti haradan tapmaq olar?Müdrikliyin yeri hanı?</verse>
+        <verse osisID='Job.28.13'>İnsan onun qiymətini bilməz,Dirilər arasında ona rast gəlməz.</verse>
+        <verse osisID='Job.28.14'>Dərinliklər deyər: “Məndə yoxdur”,Dəniz deyər: “Yanımda yoxdur”.</verse>
+        <verse osisID='Job.28.15'>Saf qızıl onu əvəz edə bilməz,Qiyməti gümüşlə ölçülməz.</verse>
+        <verse osisID='Job.28.16'>Onu Ofir qızılı ilə qiymətləndirmək olmaz,Onu qiymətli damarlı əqiqlə, göy yaqutla dəyərləndirmək olmaz.</verse>
+        <verse osisID='Job.28.17'>Nə qızıl, nə də gözəl cam ona tay deyil,Hikmət saf qızıl qablarla əvəz edilmir.</verse>
+        <verse osisID='Job.28.18'>Yanında mərcanın, büllurun adı çəkilməz,Hikmətin qiyməti yaqutdan artıqdır.</verse>
+        <verse osisID='Job.28.19'>Kuş topazı onun tayı deyil,Onun dəyəri saf qızılla ölçülməz.</verse>
+        <verse osisID='Job.28.20'>Bəs hikmət haradan gəlir?Müdrikliyin yeri hanı?</verse>
+        <verse osisID='Job.28.21'>O bütün canlıların gözündən uzaqdır,Göydə uçan quşlardan belə, gizli qalır.</verse>
+        <verse osisID='Job.28.22'>Həlak yeri ilə ölüm belə deyir:“Qulaqlarımız yalnız sorağını eşidir”.</verse>
+        <verse osisID='Job.28.23'>Onun yolunu Allah dərk edir,Yerini yalnız O bilir.</verse>
+        <verse osisID='Job.28.24'>Çünki yer üzünün ucqarlarına qədər baxır,Göylərin altındakı hər şeyi görür.</verse>
+        <verse osisID='Job.28.25'>Küləyin gücünü təyin edəndə,Suları ölçəndə,</verse>
+        <verse osisID='Job.28.26'>Yağışa qanun qoyanda,Şimşəyə yol açanda</verse>
+        <verse osisID='Job.28.27'>Hikmətə baxıb qiymət qoydu,Onu bərqərar edib araşdırdı.</verse>
+        <verse osisID='Job.28.28'>İnsana dedi: “Rəbb qorxusu hikmətdir,  Pislikdən çəkinmək müdriklikdir”».</verse>
+      </chapter>
+      <chapter osisID='Job.29'>
+        <verse osisID='Job.29.1'>
+          Əyyub yenə misal çəkərək dedi:</verse>
+        <verse osisID='Job.29.2'>«Kaş ki ötən aylar geri dönəydi –Allahın məni qoruduğu,</verse>
+        <verse osisID='Job.29.3'>Çırağının başım üstə işıq saçdığı,Nuru ilə qaranlıqda gəzdiyim günlər.</verse>
+        <verse osisID='Job.29.4'>Kaş ki həyatımın çiçəkli günləri geri dönəydi –Mənə yar olan Allahın çadırımı qoruduğu,</verse>
+        <verse osisID='Job.29.5'>Külli-İxtiyarın hər vaxt mənimlə olduğu,Övladlarımın ətrafımda dolandığı,</verse>
+        <verse osisID='Job.29.6'>Yollarımın südlə yuyulduğu,Yanımdakı qayadan zeytun yağı axdığı günlər.</verse>
+        <verse osisID='Job.29.7'>Şəhər darvazasına gedərkən,Kürsümü meydanın başına qoyarkən</verse>
+        <verse osisID='Job.29.8'>Gənclər məni görüb gizlənərdi,Yaşlılar ayağa qalxıb hörmət göstərərdi.</verse>
+        <verse osisID='Job.29.9'>Başçılar söhbətini dayandırardı,Əlləri ilə ağızlarını tutardı.</verse>
+        <verse osisID='Job.29.10'>Əsilzadələrin səsi çıxmazdı,Dilləri damaqlarına yapışardı.</verse>
+        <verse osisID='Job.29.11'>Qulaq məni eşidəndə alqışlayardı,Göz məni görəndə tərifləyərdi.</verse>
+        <verse osisID='Job.29.12'>Çünki imdad diləyən fəqiri,Köməksiz yetimi qurtarardım.</verse>
+        <verse osisID='Job.29.13'>Son anlarını yaşayanlar mənə xeyir-dua verərdi,Dul qadının qəlbinə şən nəğmələr verərdim.</verse>
+        <verse osisID='Job.29.14'>Libas kimi salehliyi geyinmişdim,Sanki ədalətim mənə cübbə və tac idi.</verse>
+        <verse osisID='Job.29.15'>Korlara göz idim,Topallara ayaq idim,</verse>
+        <verse osisID='Job.29.16'>Yoxsulların atası idim,Qəriblərin müşküllərinin qayğısına qalırdım,</verse>
+        <verse osisID='Job.29.17'>Haqsızın çənəsini qırırdım,Ovunu dişlərindən qoparırdım.</verse>
+        <verse osisID='Job.29.18'>Düşünürdüm: “Son nəfəsimi yuvamdaca verəcəyəm,Ömrümün günlərini qum qədər çoxaldacağam.</verse>
+        <verse osisID='Job.29.19'>Köküm sulara tərəf rişələnəcək,Budaqlarıma şeh düşəcək.</verse>
+        <verse osisID='Job.29.20'>Qazandığım şərəf təzələnəcək,Əlimə yeni ox-kaman gələcək”.</verse>
+        <verse osisID='Job.29.21'>İnsanlar ehtiramla məni dinlərdi,Səssizcə məsləhətimi gözlərdi.</verse>
+        <verse osisID='Job.29.22'>Heç kim sözümün üstündən söz deməzdi,Sözlərim üzərlərinə tökülərdi.</verse>
+        <verse osisID='Job.29.23'>Məni yağış kimi gözləyirdilər,Yaz yağışı tək sözlərimi içirdilər,</verse>
+        <verse osisID='Job.29.24'>Üzlərinə gülümsəyəndə gözlərinə inanmazdılar,Gülər üzümdən ruhlanardılar.</verse>
+        <verse osisID='Job.29.25'>Onlara yol göstərərdim, başçı kimi əyləşərdim,Əsgərlərin arasında padşah kimi ömür sürərdim,Yaslılara təsəlli verənə bənzəyərdim. </verse>
+      </chapter>
+      <chapter osisID='Job.30'>
+        <verse osisID='Job.30.1'>Amma indi yaşca məndən kiçiklərMənə lağ edirlər.Vaxtı ilə atalarını heç bir işə layiq görməzdim,Sürümün itlərinin yanına belə, qoymazdım.</verse>
+        <verse osisID='Job.30.2'>Çünki taqətdən düşmüşdülər,Biləklərinin gücü getmişdi,Heç biri işimə yaramırdı.</verse>
+        <verse osisID='Job.30.3'>Onlar yoxsulluqdan, aclıqdan zəifləmişdi,Gecələr çöl-biyabanda bitki kökü gəmirirdi.</verse>
+        <verse osisID='Job.30.4'>Kollardan duzlu bitkilər toplayırdılar,Süpürgə kollarının köklərini yeyirdilər.</verse>
+        <verse osisID='Job.30.5'>Xalq arasından qovulurdular,Üstlərinə elə çığırırdılar ki,Elə bil ki oğrudurlar.</verse>
+        <verse osisID='Job.30.6'>Vadi yataqlarında, yerin dəliklərində,Qaya ovuqlarında yaşayırdılar.</verse>
+        <verse osisID='Job.30.7'>Kollar arasında bağırırdılar,Qara tikan kolu altında daldalanırdılar.</verse>
+        <verse osisID='Job.30.8'>Axmaqların, adsız-sansız insanların övladlarıdır,Ölkədən qovulmuşdular.</verse>
+        <verse osisID='Job.30.9'>İndisə dillərində dastan olmuşam,Ağızlarında məsəl olmuşam.</verse>
+        <verse osisID='Job.30.10'>İkrah edərək məndən gen dayanırlar,Hətta üzümə tüpürməkdən çəkinmirlər.</verse>
+        <verse osisID='Job.30.11'>Çünki Allah kamanımın ipini boşaltdı,Məni zəlil elədi.Ona görə onlar gözümün qabağındacaCilovlarını çıxarıb atdılar.</verse>
+        <verse osisID='Job.30.12'>Bu avara gənclər sağ tərəfimdən çıxır,Ayaqlarımı büdrədir,Mənə qarşı torpaq qalağı düzəldir.</verse>
+        <verse osisID='Job.30.13'>Yolumu bərbad etdilər,Onlara dəstək verən olmasa da,Məni yox etməyə çalışırlar.</verse>
+        <verse osisID='Job.30.14'>Sanki geniş dəliklərdən keçibViranəlikdən üstümə yuvarlanırlar.</verse>
+        <verse osisID='Job.30.15'>Dəhşətlər üstümə doldu,Şərəfimi yel tək sovurdu,Xoşbəxtliyim bulud kimi keçib getdi.</verse>
+        <verse osisID='Job.30.16'>İndi canım taqətdən düşdü,Dar günlər məndən bərk yapışdı.</verse>
+        <verse osisID='Job.30.17'>Gecələr sümüklərim sızıldayır,Canımı gəmirən ağrılar dayanmır.</verse>
+        <verse osisID='Job.30.18'>Allah paltarı zorla əynimdən çıxarır,Məndən cübbəmin yaxası kimi yapışır.</verse>
+        <verse osisID='Job.30.19'>Məni lilə batırır,Toza, külə dönmüşəm.</verse>
+        <verse osisID='Job.30.20'>Sənə yalvarıram, cavab vermirsən,Ayağa qalxmağıma göz qoyursan.</verse>
+        <verse osisID='Job.30.21'>Mənə qarşı rəhmsizsən,Güclü əllərinlə məni əzirsən.</verse>
+        <verse osisID='Job.30.22'>Məni qaldırıb yel üstünə mindirirsən,Fırtına içinə salıb məni darmadağın edirsən.</verse>
+        <verse osisID='Job.30.23'>Bilirəm, məni ölümə,Bütün ömür sürənlər üçün təyin olunan son mənzilə aparacaqsan.</verse>
+        <verse osisID='Job.30.24'>Yıxılana əl qaldırmaq olmaz,Bəlaya düşənin harayına çatan yoxdur.</verse>
+        <verse osisID='Job.30.25'>Məgər dara düşənlər üçün ağlamırdımmı?Yoxsulların halına yanmırdımmı?</verse>
+        <verse osisID='Job.30.26'>Mən yaxşılıq gözlədim, yamanlıq gəldi,Mən işıq umarkən qaranlıq gəldi.</verse>
+        <verse osisID='Job.30.27'>Ürəyim çırpınır, rahatlığı yoxdur,Ağır günlər qarşımı kəsdi.</verse>
+        <verse osisID='Job.30.28'>Yoxdur bir işıq ucu, qarala-qarala gəzirəm,Camaat arasında durub fəryad edirəm.</verse>
+        <verse osisID='Job.30.29'>Çaqqallara qardaş oldum,Bayquşlara yoldaş oldum.</verse>
+        <verse osisID='Job.30.30'>Qaralan dərim soyulur,Qızdırmadan sümüklərim yanır.</verse>
+        <verse osisID='Job.30.31'>Liram yas tutub nalə çəkir,Tütəyim zar-zar inləyir.</verse>
+      </chapter>
+      <chapter osisID='Job.31'>
+        <verse osisID='Job.31.1'>Gözlərim üçün əhd etmişəm,Gözüm bir qıza baxarmı?</verse>
+        <verse osisID='Job.31.2'>İnsan yuxarıdan – Allahdan nə pay alır?İnsana ucalardan – Külli-İxtiyardan nə irs qalır?</verse>
+        <verse osisID='Job.31.3'>Məgər haqsızların başına fəlakət gəlmir?Məgər fitnəkarların başına bəla gəlmir?</verse>
+        <verse osisID='Job.31.4'>Məgər O, yollarıma baxmır?Məgər O hər addımımı saymır?</verse>
+        <verse osisID='Job.31.5'>Əgər yalançı olaraq gəzmişəmsə,Ayağım fırıldaq üçün qaçıbsa,</verse>
+        <verse osisID='Job.31.6'>Qoy Allah məni haqq tərəzisində çəksin,Kamil olduğumu görsün.</verse>
+        <verse osisID='Job.31.7'>Yolumda əyri addım atmışamsa,Gözlərimin ardınca qəlbimi sürükləmişəmsə,Əllərimi ləkələmişəmsə,</verse>
+        <verse osisID='Job.31.8'>Əkdiyimi yadlar yesin,Qoy əkinim kökündən çıxarılsın.</verse>
+        <verse osisID='Job.31.9'>Əgər qəlbim başqa bir qadına meyl edibsə,Qonşumun qapısını pusmuşamsa,</verse>
+        <verse osisID='Job.31.10'>Qoy arvadım başqasının taxılını üyütsün,Qoy onunla başqa kişilər yatsın.</verse>
+        <verse osisID='Job.31.11'>Axı bu bir xəcalət olardı,Məhkəməyə veriləsi bir günah sayılardı.</verse>
+        <verse osisID='Job.31.12'>Çünki bu Həlak yerinədək yandırıb-yaxan bir alovdur.Bu bütün barımı kökündən çıxarardı.</verse>
+        <verse osisID='Job.31.13'>Əgər mənimlə çəkişəndəNökərlərimin və kənizləriminHaqqını yemişəmsə,</verse>
+        <verse osisID='Job.31.14'>Allah ayağa qalxandaMən nə edə bilərəm?Məni yoxlayanda nə cavab verərəm?</verse>
+        <verse osisID='Job.31.15'>Anamın bətnində məni yaradanOnu yaratmayıbmı?Bətndən bizə quruluş verən O olmayıbmı?</verse>
+        <verse osisID='Job.31.16'>Əgər yoxsulların istədiklərini bir kənara qoymuşamsa,Dul qadının ümidini qırmışamsa,</verse>
+        <verse osisID='Job.31.17'>Bir tikəmi özüm yeyibYetimə verməmişəmsə,</verse>
+        <verse osisID='Job.31.18'>Gəncliyimdən bəri yetimlərə atalıq etməmişəmsə,Doğulandan bəri dul qadına yol göstərməmişəmsə,</verse>
+        <verse osisID='Job.31.19'>Paltarı olmadığı üçün canı ağrıyan,Ya örtüyə möhtac qalan yoxsulları görəndə</verse>
+        <verse osisID='Job.31.20'>Qoyunlarımın yunu ilə onları isitməmişəmsə,Onlar da mənə ürəkdən alqış etməyiblərsə,</verse>
+        <verse osisID='Job.31.21'>Məhkəmədə sözü keçən olduğum üçünYetimə əl qaldırmışamsa,</verse>
+        <verse osisID='Job.31.22'>Qollarım qırılıb çiyinlərimdən düşsün,Qoy qolum lüləsindən sınsın.</verse>
+        <verse osisID='Job.31.23'>Çünki Allahın bəlasından qorxuram,Əzəməti qarşısında dayana bilmərəm.</verse>
+        <verse osisID='Job.31.24'>Əgər qızıla ümid bağlamışamsa,Saf qızıla “ümidim sənsən” demişəmsə,</verse>
+        <verse osisID='Job.31.25'>Əgər bol sərvətimə görə,Əlimin gəlirinin çoxluğuna görə sevinmişəmsə,</verse>
+        <verse osisID='Job.31.26'>Əgər parlayan günəşə,İşıq saçaraq dövran edən aya baxıb,</verse>
+        <verse osisID='Job.31.27'>Könlümün meylini gizlicə azdırıb,Sitayiş etmək üçün əlimlə onlaraÖpüş yollamışamsa,</verse>
+        <verse osisID='Job.31.28'>Bu da məni ittiham edən günah sayılardı,Çünki ucalarda olan Allahı danmış olardım.</verse>
+        <verse osisID='Job.31.29'>Əgər düşmənlərimin bədbəxtliyinə sevinmişəmsə,Başına bəla gəldi deyə fərəhlənmişəmsə,</verse>
+        <verse osisID='Job.31.30'>Kiminsə canına qarğış yağdıraraqDilimə günah işlətməyə yol vermişəmsə,</verse>
+        <verse osisID='Job.31.31'>Evimdəki insanlar “Əyyubun verdiyi ətləQarnını doyurmayan varmı?” deyə soruşmayıblarsa,</verse>
+        <verse osisID='Job.31.32'>– Heç bir yadelli gecəni küçədə keçirməzdi,Qapım həmişə yoldan keçənlərin üzünə açıq idi –</verse>
+        <verse osisID='Job.31.33'>Əgər təqsirimi gizlətmişəmsə,Adəm kimi üsyankarlığımı ört-basdır etmişəmsə,</verse>
+        <verse osisID='Job.31.34'>Camaatdan qorxduğum üçün,El qınağından dəhşətə gəldiyim üçünDinməzcə bayıra çıxmamışamsa…</verse>
+        <verse osisID='Job.31.35'>Kaş məni bir eşidən olaydı!Bu sözümü təsdiq edirəm,Qoy Külli-İxtiyar mənə bir cavab versin!Əleyhdarım bunu tumara yazıb əlimə versin.</verse>
+        <verse osisID='Job.31.36'>Şübhəsiz, bu tumarı çiynimdə gəzdirərdim,Başıma tac edərdim.</verse>
+        <verse osisID='Job.31.37'>Onda atdığım hər addımı Allaha bildirərdim,Mən bir şahzadə kimi Onun yanına gedərdim.</verse>
+        <verse osisID='Job.31.38'>Torpağım da məndən fəryad edirsə,Kotanın açdığı yarıqlar əlimdən bir ağızdan ağlayırsa,</verse>
+        <verse osisID='Job.31.39'>Pulunu vermədən məhsulu yemişəmsə,Buranın sakinlərinin ürəyini qırmışamsa,</verse>
+        <verse osisID='Job.31.40'>Qoy sahəmdə buğda yerinə tikan,Arpa yerinə alaq bitsin».  Əyyubun söhbəti sona yetdi.</verse>
+      </chapter>
+      <chapter osisID='Job.32'>
+        <verse osisID='Job.32.1'>
+          Beləliklə, bu üç kişi artıq Əyyuba cavab verməyi dayandırdı, çünki Əyyub öz gözündə saleh idi.</verse>
+        <verse osisID='Job.32.2'>Amma Əyyub özünü Allahdan da saleh saydığı üçün Ram nəslindən Buzlu Barakelin oğlu Elihu ona qarşı qəzəbdən alovlandı.</verse>
+        <verse osisID='Job.32.3'>Elihu Əyyubun üç dostuna görə də hirsindən alışıb-yandı, çünki düzgün cavab tapmayıb Əyyubu günahkar çıxartdılar.</verse>
+        <verse osisID='Job.32.4'>Elihu Əyyubla danışmaq üçün növbəsini gözləyirdi, çünki əvvəlkilər yaşca ondan böyük idi.</verse>
+        <verse osisID='Job.32.5'>Bu üç nəfərin daha sözü qalmadığını görəndə o, hirsindən alışıb-yandı. </verse>
+        <verse osisID='Job.32.6'>Buzlu Barakelin oğlu Elihu belə dedi:  «Mən yaşca kiçiyəm, sizsə yaşlısınız.Ona görə çəkindim,Bildiyimi sizə söyləməyə qorxdum.</verse>
+        <verse osisID='Job.32.7'>Dedim “qoy danışsın çox uzun ömür sürənlər,Qoy hikmət öyrətsin çox illərin şahidləri”.</verse>
+        <verse osisID='Job.32.8'>Həqiqətən, insanda olan ruh,Külli-İxtiyarın nəfəsi insana ağıl verir.</verse>
+        <verse osisID='Job.32.9'>Hikmət yaşda olmaz,Ədaləti dərk etmək yaşa baxmaz.</verse>
+        <verse osisID='Job.32.10'>Ona görə deyirəm ki, məni dinləyin,Qoy mən də bildiyimi söyləyim.</verse>
+        <verse osisID='Job.32.11'>Siz danışarkən mən gözlədim,Siz sözləri araşdırarkən fikirlərinizi dinlədim.</verse>
+        <verse osisID='Job.32.12'>Bütün diqqətimi sizə tərəf çevirdim,Amma heç biriniz Əyyuba haqsızlığını sübut etmədiniz,Onun dediklərinə cavab vermədiniz.</verse>
+        <verse osisID='Job.32.13'>Əsla deməyin ki, hikmət tapmışıq,Haqsızlığını insan yox, Allah ona sübut etsin.</verse>
+        <verse osisID='Job.32.14'>Amma Əyyubun sözlərinin hədəfi mən deyiləm,Sizin sözlərinizlə ona cavab verməyəcəyəm.</verse>
+        <verse osisID='Job.32.15'>Onlar məəttəl qaldılar.Artıq cavab tapmadılar.Deməyə sözləri qalmadı.</verse>
+        <verse osisID='Job.32.16'>Onlar danışmırlar, dayanıblar,Cavab vermirlər deyəMən gözləməliyəmmi?</verse>
+        <verse osisID='Job.32.17'>Amma deməyə sözüm var,Mən də bildiyimi söyləyim.</verse>
+        <verse osisID='Job.32.18'>Çünki sinəm sözlə doludur,Köksümdəki ruh məni sıxır,</verse>
+        <verse osisID='Job.32.19'>Az qalır açılmamış şərab kimi,Təzə tuluqlar kimi bağrım çatlasın.</verse>
+        <verse osisID='Job.32.20'>Qoy danışım, rahatca nəfəs alaram,Dil açıb cavab verim.</verse>
+        <verse osisID='Job.32.21'>Heç kimin tərəfini saxlamayacağam,Heç kimə yaltaqlıq etməyəcəyəm.</verse>
+        <verse osisID='Job.32.22'>Çünki yaltaqlıq nədir bilmərəm,Yoxsa Yaradanım məni yox edər. </verse>
+      </chapter>
+      <chapter osisID='Job.33'>
+        <verse osisID='Job.33.1'>Əyyub, indisə mənim sözümü dinlə,Hər kəlməmə qulaq as.</verse>
+        <verse osisID='Job.33.2'>Bax ağzımı açıram,Dilim bu sözləri deyir.</verse>
+        <verse osisID='Job.33.3'>Sözlərim səmimi ürəkdən gəlir,Dodaqlarım biliyi doğru söyləyir.</verse>
+        <verse osisID='Job.33.4'>Məni Allahın Ruhu yaratdı,Külli-İxtiyarın nəfəsi mənə həyat verdi.</verse>
+        <verse osisID='Job.33.5'>Əgər əlindən gəlirsə, mənə cavab ver,Sıraya düz sözlərini, qarşımda dayan.</verse>
+        <verse osisID='Job.33.6'>Mən də Allahın nəzərində sənin kimiyəm,Mən də palçıqdan düzəldilmişəm.</verse>
+        <verse osisID='Job.33.7'>Dəhşətimdən vahiməyə düşmə,Bu hücumum sənə ağır gəlməsin.</verse>
+        <verse osisID='Job.33.8'>Həqiqətən, səsin hələ qulaqlarımdadır,Belə demişdin:</verse>
+        <verse osisID='Job.33.9'>“Pakam, günahsızam,Təmizəm, təqsirsizəm.</verse>
+        <verse osisID='Job.33.10'>Yenə də Allah mənə qarşı bəhanə axtarır,Məni Özünə düşmən sayır.</verse>
+        <verse osisID='Job.33.11'>Ayaqlarımı buxovlayır,Bütün yollarıma göz qoyur”.</verse>
+        <verse osisID='Job.33.12'>Amma qoy bunu sənə söyləyim ki,Sən bu barədə haqsızsan,Çünki Allah insandan böyükdür.</verse>
+        <verse osisID='Job.33.13'>İnsanın heç bir sözünə cavab vermir deyəNiyə Onunla çəkişirsən?</verse>
+        <verse osisID='Job.33.14'>Çünki insan anlamasa da,Allah bu və ya digər yolla danışır.</verse>
+        <verse osisID='Job.33.15'>Yuxuda, gecə röyalarında,İnsanlar dərin yuxuya qərq olanda,Yataqda yatanda</verse>
+        <verse osisID='Job.33.16'>İnsanın qulağını açır,Xəbərdarlıq edərək onu qorxudur ki,</verse>
+        <verse osisID='Job.33.17'>İnsan şər iş görməkdən dönsün,Təkəbbürdən uzaq olsun.</verse>
+        <verse osisID='Job.33.18'>İnsanın canını quyudan,Həyatını qılıncla həlak olmaqdan qurtarır,</verse>
+        <verse osisID='Job.33.19'>İnsanı yatağında ağrılarla,Sümüklərini kəsilməyən sızıltılarla yola gətirir.</verse>
+        <verse osisID='Job.33.20'>Belə ki könlündən yemək keçmir,Ən ləziz yeməkdən iyrənir.</verse>
+        <verse osisID='Job.33.21'>Əti tökülür, görünməz hala düşür.Görünməyən sümükləri üzə çıxır.</verse>
+        <verse osisID='Job.33.22'>Canı quyuya,Həyatı ölüm mələklərinə yaxınlaşır.</verse>
+        <verse osisID='Job.33.23'>İnsana əməlisalehliyini bəyan etmək üçünMin mələyin içindən bir mələk, bir vasitəçi olsa,</verse>
+        <verse osisID='Job.33.24'>O zaman Allah ona rəhm edib deyər:“Onu quyuya düşməkdən qurtar,Onun üçün kəffarə tapmışam”.</verse>
+        <verse osisID='Job.33.25'>Onda bədəni uşaq bədəni kimi təzə olar,Yeniyetməlik dövrünə qayıdar.</verse>
+        <verse osisID='Job.33.26'>Dua edəndə Allah ondan razı qalar,Sevinərək Allahın üzünü görər,Allah onun vəziyyətini düzəldər.</verse>
+        <verse osisID='Job.33.27'>Sonra insanların önündə nəğmə söyləyər:“Günah işlədib doğru yoldan azmışdım,Allah mənə layiq olduğum cəzanı vermədi.</verse>
+        <verse osisID='Job.33.28'>Canımı quyuya düşməkdən qurtardı,Həyatım nur görəcək”.</verse>
+        <verse osisID='Job.33.29'>Bax Allah bütün bunları insanlaraYa iki dəfə ya da üç dəfə edər ki,</verse>
+        <verse osisID='Job.33.30'>Onların canını quyudan xilas etsin,Onlar həyatın nurunu görsün.</verse>
+        <verse osisID='Job.33.31'>Yaxşı dinlə, Əyyub, bir qulaq as,Sakit ol, qoy danışım.</verse>
+        <verse osisID='Job.33.32'>Əgər deməyə sözün varsa, mənə cavab ver,Danış, çünki səni haqlı çıxarmaq istəyirəm.</verse>
+        <verse osisID='Job.33.33'>Sözün yoxsa, mənə qulaq as,Sakit ol, qoy sənə hikmət öyrədim».</verse>
+      </chapter>
+      <chapter osisID='Job.34'>
+        <verse osisID='Job.34.1'>Elihu söhbətini belə davam etdirdi:</verse>
+        <verse osisID='Job.34.2'>«Ey hikmətlilər, sözlərimi dinləyin,Ey çoxbilənlər, məni eşidin.</verse>
+        <verse osisID='Job.34.3'>Çünki damaq yeməyin dadını bildiyi kimiQulaq da sözləri müəyyən edir.</verse>
+        <verse osisID='Job.34.4'>Gəlin doğrunu seçək,Birlikdə yaxşını öyrənək.</verse>
+        <verse osisID='Job.34.5'>Çünki Əyyub deyir: “Mən günahsızam,Allah isə əlimdən haqqımı aldı.</verse>
+        <verse osisID='Job.34.6'>Haqlı olduğum halda yalançı sayılıram,Bir təqsirim yox ikən oxundan sağalmaz yara aldım”.</verse>
+        <verse osisID='Job.34.7'>Əyyub kimi şəxsiyyət varmı?O, kinayəni su kimi içir.</verse>
+        <verse osisID='Job.34.8'>Pislik edənlərlə yoldaşlıq edib gəzir,Pis adamlarla yol gedir.</verse>
+        <verse osisID='Job.34.9'>Çünki “çalışıb Allahı razı salmaqİnsana xeyir gətirməz” deyir.</verse>
+        <verse osisID='Job.34.10'>Buna görə, ey dərrakəli insanlar, məni dinləyin!Məgər Allah pislik edərmi?Məgər Külli-İxtiyar haqsızlıq edərmi?</verse>
+        <verse osisID='Job.34.11'>Çünki O hər kəsə əməlinin əvəzini verir,  Qazandığını başına gətirir.</verse>
+        <verse osisID='Job.34.12'>Məgər Allah pislik edir?Məgər Külli-İxtiyar haqsızlıq edir?</verse>
+        <verse osisID='Job.34.13'>Ona bütün dünyanı kim təslim etdi?Kim Onu yer üzərində təyin etdi?</verse>
+        <verse osisID='Job.34.14'>Əgər qəsdinə durubRuhunu, nəfəsini geri çəkərsə,</verse>
+        <verse osisID='Job.34.15'>Bir anda bütün bəşər yox olar,İnsan torpağa qayıdar.</verse>
+        <verse osisID='Job.34.16'>Əgər düşüncən varsa, bunları dinlə,Sözlərimi eşit.</verse>
+        <verse osisID='Job.34.17'>Ədalətə nifrət edən səltənət sürə bilərmi?Adil və qüdrəti Olanımı məhkum edəcəksən?</verse>
+        <verse osisID='Job.34.18'>Padşahlara “yaramazsınız”,Əsilzadələrə “şərsiniz” deyən,</verse>
+        <verse osisID='Job.34.19'>Başçılar arasında tərəfkeşlik etməyən,Varlını yoxsuldan üstün saymayanO deyilmi?Çünki hamını Onun əlləri yaratdı,</verse>
+        <verse osisID='Job.34.20'>Hamı bir an içində, bir gecə yarısı ölüb gedir,Xalq lərzəyə gəlib ölür.Güclülər belə, əl dəyməmiş aradan götürülür.</verse>
+        <verse osisID='Job.34.21'>Allah gözlərini insanların yolundan çəkmir,Atdıqları hər addımı görür.</verse>
+        <verse osisID='Job.34.22'>Şər iş görənlərin gizlənəcəyiNə qaranlıq, nə də zülmət yeri var.</verse>
+        <verse osisID='Job.34.23'>Hökm üçün hüzuruna gəlsinlər deyəAllah insana nəzarət etmək üçün ehtiyac duymur.</verse>
+        <verse osisID='Job.34.24'>İstintaq etmədən güclü insanları qırır,Onların yerinə başqalarını qoyur.</verse>
+        <verse osisID='Job.34.25'>Çünki onların işlərini bilir,Bir gecə onları alt-üst edir, onlar əzilir.</verse>
+        <verse osisID='Job.34.26'>Hamının gözü önündəPislikləri üzündən onlara cəza verir.</verse>
+        <verse osisID='Job.34.27'>Çünki Onun ardınca getmədilər,Yollarının heç birinə fikir vermədilər.</verse>
+        <verse osisID='Job.34.28'>Ona görə yoxsulların fəryadı Onun hüzuruna yetdi,O, fəqirlərin fəryadını eşitdi.</verse>
+        <verse osisID='Job.34.29'>Amma Allah səssiz dursa, kim Onu ittiham edə bilər?Üzünü gizlədərsə, kim Onu görə bilər?Hər millət, hər insan üçün O eynidir ki,</verse>
+        <verse osisID='Job.34.30'>Allahsız insan hökmranlıq etməsin,Xalqa tələ qurmasın.</verse>
+        <verse osisID='Job.34.31'>Allaha deyən olubmu:“Günahkaram, bir də pis iş görməyəcəyəm?</verse>
+        <verse osisID='Job.34.32'>Görmədiyimi mənə göstər,Haqsızlıq etmişəmsə, bir də etmərəm”.</verse>
+        <verse osisID='Job.34.33'>Onu atdığın halda sənəKefin istəyən əvəz verməlidirmi?Qərar verən sənsən, mən deyiləm,İndi bildiyini mənə söylə.</verse>
+        <verse osisID='Job.34.34'>Dərrakəli insanlar,Məni dinləyən müdrik adamlar deyəcək:</verse>
+        <verse osisID='Job.34.35'>“Əyyub avam-avam danışır,Sözlərinin mənası yoxdur”.</verse>
+        <verse osisID='Job.34.36'>Bir şər adam kimi cavab verdiyi üçünQoy Əyyub axıradək sınaqda olsun!</verse>
+        <verse osisID='Job.34.37'>Çünki günahına üsyankarlıq da artırır,Qarşımızda elə bil rişxənd edərək əl çalır,Allaha qarşı danışdıqca danışır». </verse>
+      </chapter>
+      <chapter osisID='Job.35'>
+        <verse osisID='Job.35.1'>Elihu sözünü belə davam etdirdi:</verse>
+        <verse osisID='Job.35.2'>«Allah önündə haqlı olduğunu deyirsən.Bunun doğru olduğunumu düşünürsən?</verse>
+        <verse osisID='Job.35.3'>Bəs niyə soruşursan ki, “əgər günah işlətməsəm,Bundan xeyrim, qazancım nə ola bilər?”</verse>
+        <verse osisID='Job.35.4'>Həm sənə, həm də dostlarınaBelə cavab verəcəyəm.</verse>
+        <verse osisID='Job.35.5'>Bir bax səmaya,Nəzər sal başının üstündəki buludlara.</verse>
+        <verse osisID='Job.35.6'>Günah işlətsən, bunun Allaha nə ziyanı dəyər?  Nə qədər üsyankar olsan da, Ona bir şey olarmı?</verse>
+        <verse osisID='Job.35.7'>Sənin salehliyin Ona nə verir?Yaxud da O, əlindən nəyi alıb götürür?</verse>
+        <verse osisID='Job.35.8'>Pisliyin özün kimisinə ziyan vurur,Salehliyin isə bəşər oğlu üçündür.</verse>
+        <verse osisID='Job.35.9'>İnsanlar ağır təzyiq altında fəryad edir,Güclülərə qarşı yardım istəyir.</verse>
+        <verse osisID='Job.35.10'>Amma deyən yoxdur: “Hanı məni yaradan Allah?Hanı bizə gecələr ilahilər oxutduran Allah?</verse>
+        <verse osisID='Job.35.11'>O bizi yer üzünün heyvanlarından çox öyrədib,Bizə göydəki quşlardan daha çox hikmət verib”.</verse>
+        <verse osisID='Job.35.12'>Orada pislərin qüruru üzündənİnsanlar fəryad edir,Amma Allah cavab vermir.</verse>
+        <verse osisID='Job.35.13'>Əslində Allah boş fəryadı dinləmir,Külli-İxtiyar buna əhəmiyyət vermir.</verse>
+        <verse osisID='Job.35.14'>Sən onu görmədiyini söylədiyin anda belə,Mübahisən önündədir, Onu gözlə.</verse>
+        <verse osisID='Job.35.15'>İndi qəzəblənib cəzalandırmırsa,Təqsirin çoxluğuna baxmır.</verse>
+        <verse osisID='Job.35.16'>Ona görə Əyyub boş yerə ağzını yorur,Avam-avam danışdıqca danışır». </verse>
+      </chapter>
+      <chapter osisID='Job.36'>
+        <verse osisID='Job.36.1'>Elihu sözünü belə davam etdirdi:</verse>
+        <verse osisID='Job.36.2'>«Bir az səbir elə, sənə izah edəcəyəm,Çünki Allah barədə deyiləcək çox sözüm var.</verse>
+        <verse osisID='Job.36.3'>Geniş məlumat toplayacağam,Yaradanıma haqq verəcəyəm.</verse>
+        <verse osisID='Job.36.4'>Dediyimin heç biri, şübhəsiz, yalan deyil,Qarşında dayanan kamil bilicidir.</verse>
+        <verse osisID='Job.36.5'>Allah güclüdür, kimsəyə xor baxmaz,Güclüdür, dərin şüura malikdir.</verse>
+        <verse osisID='Job.36.6'>Pis adamları yaşatmaz,Fəqirlərin haqqını verər.</verse>
+        <verse osisID='Job.36.7'>Salehdən gözünü çəkməz,Onu padşahlarla birgə taxtda oturdar,Əbədilik ucaldar.</verse>
+        <verse osisID='Job.36.8'>Amma əgər insanlar zəncirlənibTəzyiq altında saxlanarsa,</verse>
+        <verse osisID='Job.36.9'>Onlara əməllərini, günahlarını göstərər,Təkəbbürlü rəftar etdiklərini bildirər.</verse>
+        <verse osisID='Job.36.10'>Öyüdlərini eşitdirər,Pislikdən dönmələrini əmr edər.</verse>
+        <verse osisID='Job.36.11'>Əgər Ona qulaq asıb qulluq edərlərsə,Qalan günlərini bolluq içində yaşarlar,Qalan illərini əmin-amanlıqda yaşarlar.</verse>
+        <verse osisID='Job.36.12'>Qulaq asmazlarsa, qılıncdan keçirilərlər,Cəhalət içində canları çıxar.</verse>
+        <verse osisID='Job.36.13'>Allahsızlar ürəklərində kin saxlayırlar,Allah onları qandallayanda belə, Onu çağırmırlar.</verse>
+        <verse osisID='Job.36.14'>Vaxtsız ölüb gedərlər,Şərəfsiz ömür sürərlər.</verse>
+        <verse osisID='Job.36.15'>Amma Allah əzabkeşləri əzablarından xilas edər,Dara düşəndə onlara səsini eşitdirər.</verse>
+        <verse osisID='Job.36.16'>Bəli, O səni çətinlikdənDarısqal olmayan geniş yerə,Yağlı yeməklərlə bəzənmiş süfrəyə çıxarar.</verse>
+        <verse osisID='Job.36.17'>Amma şərin hökmü vücuduna dolar,Haqq-ədalət isə yaxandan tutar.</verse>
+        <verse osisID='Job.36.18'>Ehtiyatlı ol, qoy pul səni başdan çıxarmasın,Rüşvətin böyüklüyünü görüb azmayasan.</verse>
+        <verse osisID='Job.36.19'>Səni dardan qurtarmağa,Varının, yoxsa qüdrətinin gücü çatarmı?</verse>
+        <verse osisID='Job.36.20'>Xalqların öz yerlərindənYox edildiyi gecənin həsrətini çəkmə.</verse>
+        <verse osisID='Job.36.21'>Ehtiyatlı ol ki, şərə tərəf dönməyəsən,Çünki zəlil olmaqdan çox bunu seçmisən.</verse>
+        <verse osisID='Job.36.22'>Budur, Allah əzəməti ilə ucalır,Onun kimi müəllim haradadır?</verse>
+        <verse osisID='Job.36.23'>Kim Ona nə etməsinin lazım olduğunu söyləyə bilər?Kim Ona “haqsızsan” deyə bilər?</verse>
+        <verse osisID='Job.36.24'>Onun işlərini yada sal,İnsanların ilahilərlə tərənnüm etdiyi işləri mədh etməlisən.</verse>
+        <verse osisID='Job.36.25'>Bütün insanlar bunu görür,Hamı bu işləri uzaqdan seyr edir.</verse>
+        <verse osisID='Job.36.26'>Bəli, Allah çox böyükdür, Onu tanıya bilmirik,İllərinin sayını araşdıran yoxdur.</verse>
+        <verse osisID='Job.36.27'>Su damcılarını yuxarı qaldırır,Buxarlandırır, yağış yağdırır.</verse>
+        <verse osisID='Job.36.28'>Bu yağışlar buludlardan tökülür,İnsanların üstünə bol yağışlar səpilir.</verse>
+        <verse osisID='Job.36.29'>Buludların necə yayılmasını,Göylərin çadırında guruldamasınıKim dərk edə bilər?</verse>
+        <verse osisID='Job.36.30'>Baxın, ətrafında şimşəkləri çaxdırır,Dənizin dərinliklərini doldurur.</verse>
+        <verse osisID='Job.36.31'>Allah xalqlara rəhbərlik edir,Onları bol ərzaqla təmin edir.</verse>
+        <verse osisID='Job.36.32'>Şimşəyi əlləri ilə tutur,Hədəfə vurmasını buyurur.</verse>
+        <verse osisID='Job.36.33'>Gurultusu qasırğadan xəbər verir,Qasırğanın qopacağını öküzlərə belə, bildirir. </verse>
+      </chapter>
+      <chapter osisID='Job.37'>
+        <verse osisID='Job.37.1'>Bundan qəlbim çırpınıb yerindən oynayır,</verse>
+        <verse osisID='Job.37.2'>Dinləyin! Gurlayan səsini dinləyin,Ağzından çıxan harayını eşidin!</verse>
+        <verse osisID='Job.37.3'>Göy altında, hər yanda səs salır,Yer üzünün dörd bucağında şimşəyini çaxdırır.</verse>
+        <verse osisID='Job.37.4'>Ardınca nərə vurur,Əzəmətli səsi ilə gurlayır,Həniri eşidilir, dayanmadan şimşək çaxır.</verse>
+        <verse osisID='Job.37.5'>Allahın səsi heyrətamiz şəkildə gurlayır,O bizə məlum olmayan böyük işlər görür.</verse>
+        <verse osisID='Job.37.6'>Çünki “yerə yağ” deyə qara əmr edir,Leysana “şiddətlə tökül” deyir.</verse>
+        <verse osisID='Job.37.7'>Yaratdığı bütün insanlar Onun işlərini bilsinlər deyəHər kəsin əlini işdən saxlayır.</verse>
+        <verse osisID='Job.37.8'>Heyvanlar yuvalarına çəkilir,Öz yerlərində qalır.</verse>
+        <verse osisID='Job.37.9'>Tufan otağından çıxır,Soyuq şimal yellərindən gəlir.</verse>
+        <verse osisID='Job.37.10'>Allahın nəfəsi suları dondurur,Ümman sular buz bağlayır.</verse>
+        <verse osisID='Job.37.11'>Buludlara nəm çəkdirərək yükləyir,Buludlar içindən şimşək səpələyir.</verse>
+        <verse osisID='Job.37.12'>Buludlar yer üzündə əmrini yerinə yetirmək üçünOnun istəyi istiqamətində dönüb fırlanır.</verse>
+        <verse osisID='Job.37.13'>Bəzən insanları cəzalandırmaq üçün,Bəzən torpağı suvarmaq üçün,Bəzən də sevgisini göstərmək üçün yağış göndərir.</verse>
+        <verse osisID='Job.37.14'>Əyyub, bunu dinlə,Bir dayan, Allahın heyrətamiz işlərindən düşün.</verse>
+        <verse osisID='Job.37.15'>Allahın buludlar üçün necə nizam qurduğunu bilirsənmi?Buludlarındakı şimşəkdən necə od çıxır?</verse>
+        <verse osisID='Job.37.16'>Buludların tarazlığını,Kamil biliyə malik olanın heyrətamiz işlərini bilirsənmi?</verse>
+        <verse osisID='Job.37.17'>Səmum küləyi dünyanın nəfəsini kəsərkənPaltarın içərisində istidən huşunu itirirsən.</verse>
+        <verse osisID='Job.37.18'>Tökmə bürünc ayna kimi möhkəm olan göy qübbəsiniAllahla birlikdə sərə bilirsənmi?</verse>
+        <verse osisID='Job.37.19'>Ona nə deyəcəyimizi bizə öyrət,Çünki cəhalətimiz üzündən sözlərimiz nizamsızdır.</verse>
+        <verse osisID='Job.37.20'>Onunla danışmaq istərəm, bu Ona xəbər verilərmi?Kimsə udulmasını istərmi?</verse>
+        <verse osisID='Job.37.21'>Külək qurtaranda, göyü təmizləyəndəGöydə parlayan işığa kimsə baxmaz.</verse>
+        <verse osisID='Job.37.22'>Şimaldan qızılı parıltı görünür,Allah qüdrətli əzəmətində gəlir.</verse>
+        <verse osisID='Job.37.23'>Biz Külli-İxtiyarı tapa bilmərik,Qüvvəti möhtəşəmdir.Salehliyi misilsizdir, ədalətlidir,Heç haqsızlıq etmir.</verse>
+        <verse osisID='Job.37.24'>Buna görə insanlar Ondan qorxar,O özünü hikmətli sayanlara baxmaz».</verse>
+      </chapter>
+      <chapter osisID='Job.38'>
+        <verse osisID='Job.38.1'>
+          O zaman Rəbb qasırğanın içindən Əyyuba belə cavab verdi:</verse>
+        <verse osisID='Job.38.2'>«Məsləhəti savadsız sözlərlə qaranlığa salan bu kimdir?</verse>
+        <verse osisID='Job.38.3'>İndi kişi kimi belinə qurşaq bağla,Sual verəcəyəm, Mənə cavab ver.</verse>
+        <verse osisID='Job.38.4'>Mən yerin təməlini qoyarkən haradaydın?Anlayışın varsa, söylə.</verse>
+        <verse osisID='Job.38.5'>İndi ki bilirsən,De görüm, yerin ölçüsünü kim qoydu,Yaxud yer üstündə ölçü xəttini kim çəkdi?</verse>
+        <verse osisID='Job.38.6'>Nəyin üstündə onun təməlləri quruldu?Kim onun guşədaşını qoydu?</verse>
+        <verse osisID='Job.38.7'>Onda dan ulduzları birgə nəğmə oxuyurdu,Bütün ilahi varlıqlar sevincdən haray salırdı.</verse>
+        <verse osisID='Job.38.8'>Dəniz bətndən çıxıb fışqırarkən  Onu qapılar arasında kim bağladı?</verse>
+        <verse osisID='Job.38.9'>Ona buludları libas,Qatı qaranlıqları qundaq etdim.</verse>
+        <verse osisID='Job.38.10'>Onun sərhədini çəkdim,Qapı və cəftələrini qoydum.</verse>
+        <verse osisID='Job.38.11'>O vaxt dedim: “Buraya qədər gəlib o tərəfə çıxmayacaqsan,Qürurlu dalğaların burada dursun”.</verse>
+        <verse osisID='Job.38.12'>Sən ömründə səhərə buyruq verdinmi?Şəfəqə yerini göstərdinmi?</verse>
+        <verse osisID='Job.38.13'>Belə ki yer üzünün ucqarlarını tutsun,Üstündən pisləri çırpıb atsın.</verse>
+        <verse osisID='Job.38.14'>Torpağın quruluşu dəyişir,Möhür vurulanda palçıqda əksi qalan kimi,Libasdakı qırışlar kimi gözə görünür.</verse>
+        <verse osisID='Job.38.15'>Pislərin nuru batırılar,Qaldırdıqları qolları qırılar.</verse>
+        <verse osisID='Job.38.16'>Dənizin mənbələrinə getmisənmi?Dərinliyin dibində gəzmisənmi?</verse>
+        <verse osisID='Job.38.17'>Ölüm dərgahı sənə göstərilibmi?Ölüm kölgəsinin qapılarını görmüsənmi?</verse>
+        <verse osisID='Job.38.18'>Dünyanın həcmini dərk edə bilirsənmi?De görüm, bunların hamısını bilirsənmi?</verse>
+        <verse osisID='Job.38.19'>İşıq məskəninə gedən yol haradadır?Qaranlığın yeri haradadır?</verse>
+        <verse osisID='Job.38.20'>Onları yerlərinə apara bilərsənmi?Evlərinin yolunu bilirsənmi?</verse>
+        <verse osisID='Job.38.21'>Əlbəttə, heç nə anlamırsan,Çünki onlarla eyni vaxtda doğulmusan!Yaşın bu qədərdir.</verse>
+        <verse osisID='Job.38.22'>Qar anbarlarına girmisənmi?Dolu anbarlarını görmüsənmi?</verse>
+        <verse osisID='Job.38.23'>Mən onları dar gün üçün,Döyüş və müharibə günləri üçün saxlayıram.</verse>
+        <verse osisID='Job.38.24'>Hansı yolla işıq yayılar,Yer üzündə şərq küləyi qopar?</verse>
+        <verse osisID='Job.38.25'>Kim sellər üçün arx,İldırım üçün yol açdı ki,</verse>
+        <verse osisID='Job.38.26'>Kimsəsiz yerləri,İnsan yaşamayan çölləri sulasın,</verse>
+        <verse osisID='Job.38.27'>Səhralar – biyabanlar doyunca su içsin,Yaşıl ot bitsin?</verse>
+        <verse osisID='Job.38.28'>Yağışın atası varmı?Şeh damlalarını kim yaratdı?</verse>
+        <verse osisID='Job.38.29'>Buz kimin bətnindən çıxdı?Göylərdən düşən şaxtanı kim doğdu?</verse>
+        <verse osisID='Job.38.30'>Sular nə zaman daş kimi bərkiyir,Dərinliklərin səthi donur?</verse>
+        <verse osisID='Job.38.31'>Ülkər ulduzlarını bağlaya bilərsənmi?  Orionun bağlarını aça bilərsənmi?</verse>
+        <verse osisID='Job.38.32'>Hər bürcü öz vaxtında çıxara bilərsənmi?Böyük, Kiçik Ayı bürcünə yol göstərə bilərsənmi?</verse>
+        <verse osisID='Job.38.33'>Göylərin qanunlarını bilirsənmi?Allahın hakimiyyətini yer üzərində qura bilərsənmi?</verse>
+        <verse osisID='Job.38.34'>Başına bol yağış yağsın deyəBuludları səsləyə bilərsənmi?</verse>
+        <verse osisID='Job.38.35'>Şimşəkləri göndərə bilərsənmi getsinlər,Sənə də “bax buradayıq” desinlər?</verse>
+        <verse osisID='Job.38.36'>Kim ürəyə hikmət qoydu,Dərk etmək üçün şüur verdi?</verse>
+        <verse osisID='Job.38.37'>Kim buludları ağılla saya bilər?Göyün tuluqlarını kim boşalda bilər?</verse>
+        <verse osisID='Job.38.38'>Onda toz yatıb yer bərkiyər,Kəsəklər bir-birinə yapışar.</verse>
+        <verse osisID='Job.38.39'>Dişi aslanlar üçün ov ovlaya bilərsənmi,Gənc aslanların qarnını doyura bilərsənmi</verse>
+        <verse osisID='Job.38.40'>Yuvalarına girəndə,Kolluqda pusqu quranda?</verse>
+        <verse osisID='Job.38.41'>Kim qarğaya yem verə bilərBalaları Allaha fəryad edəndə,Acından vurnuxanda? </verse>
+      </chapter>
+      <chapter osisID='Job.39'>
+        <verse osisID='Job.39.1'>Dağ keçilərinin nə vaxt doğduğunu bilirsənmi?Maralların balalamasının vaxtını sən gözləyirsənmi?</verse>
+        <verse osisID='Job.39.2'>Onlar boğaz olanda ayını-gününü sən sayırsanmı?Nə vaxt doğacaqlarını bilirsənmi?</verse>
+        <verse osisID='Job.39.3'>Diz çöküb balalarını doğar,Ağrılardan qurtarar.</verse>
+        <verse osisID='Job.39.4'>Balaları çöldə böyüyüb güc alar,Gedər, geri qayıtmaz.</verse>
+        <verse osisID='Job.39.5'>Kim vəhşi eşşəyi azad buraxdı?Kim onun iplərini açdı?</verse>
+        <verse osisID='Job.39.6'>Ona çölləri məskən verdim,Şoran düzləri ona yurd etdim.</verse>
+        <verse osisID='Job.39.7'>O, şəhərdəki izdihama gülər,Sahibinin hay-küyünü eşitməz.</verse>
+        <verse osisID='Job.39.8'>Təpələri dolaşıb otlar,Yaşıllığı axtarar.</verse>
+        <verse osisID='Job.39.9'>Çöl öküzü sənə xidmət etmək istəyərmi?Gecəni sənin axurunda keçirərmi?</verse>
+        <verse osisID='Job.39.10'>Kotan sürsün deyə onu boyunduruğa sala bilərsənmi?Ardınca dərələrdə şırım aça bilərmi?</verse>
+        <verse osisID='Job.39.11'>Onun hədsiz gücünə bel bağlaya bilərsənmi?Ona ağır iş gördürə bilərsənmi?</verse>
+        <verse osisID='Job.39.12'>Çöl öküzünə etibar edə bilərsən ki,Əkininin məhsulunu daşısın,Onu xırmanına yığsın?</verse>
+        <verse osisID='Job.39.13'>Dəvəquşu qanadını sevinclə çırpar,Amma onun qanadı nə leyləyin qanadları ilə,Nə də ki pərləri ilə müqayisə olunur.</verse>
+        <verse osisID='Job.39.14'>Yerdə yumurtalayır,Onları toz-torpaq üstündə qızdırır.</verse>
+        <verse osisID='Job.39.15'>Yadından çıxarır ki, yumurtalar ayaq altında sınır,Çöl heyvanlarının ayağı altında qalır.</verse>
+        <verse osisID='Job.39.16'>Balaları ilə elə sərt rəftar edir ki,Elə bil özününkü deyil,Çəkdiyi zəhmətin boşa getməsindən narahat olmaz.</verse>
+        <verse osisID='Job.39.17'>Çünki Allah ona müdriklik verməyib,Ona dərrakə bəxş etməyib.</verse>
+        <verse osisID='Job.39.18'>Qaçmaq üçün yenə qanad açandaAta və atlıya gülər.</verse>
+        <verse osisID='Job.39.19'>Ata güc verən sənsənmi?Boynuna yalı qoyan sənsənmi?</verse>
+        <verse osisID='Job.39.20'>Onu çəyirtkə kimi tullandıran sənsənmi?Onun təmtəraqlı kişnəməsi xof salır.</verse>
+        <verse osisID='Job.39.21'>Dərələrə ayağını bərk vurur,Öz qüvvəsi ilə sevinib-coşur,Silahlıların qabağına çıxır.</verse>
+        <verse osisID='Job.39.22'>Qorxuya gülər, heç bir şeydən çəkinməz,Qılınc qarşısında ayağını geri çəkməz.</verse>
+        <verse osisID='Job.39.23'>Onun üstündə oxdan cingildəyir,Parlaq nizə və mizraq şimşək tək keçir.</verse>
+        <verse osisID='Job.39.24'>Coşanda qəzəblənib yeri-yurdu qapır,Şeypur çalınan kimi yerindən dik atılır.</verse>
+        <verse osisID='Job.39.25'>Şeypur çalınanda “hiaaa!” deyib kişnəyir,Döyüş qoxusunu, sərkərdələrin gurlayan səsini,Döyüşün nərəsini uzaqdan hiss edir.</verse>
+        <verse osisID='Job.39.26'>Məgər qırğı sənin dərrakənləmi uçur,Cənuba tərəf qanad açır?</verse>
+        <verse osisID='Job.39.27'>Məgər qartal sənin əmrinləmi göyə qalxır,Uca yerlərdə özünə yuva qurur?</verse>
+        <verse osisID='Job.39.28'>Sıldırım qayalarda yaşayır,Şiş uclu qayalarda məskən salır.</verse>
+        <verse osisID='Job.39.29'>Oradan şikarını axtarır,Gözləri onları uzaqdan görür.</verse>
+        <verse osisID='Job.39.30'>Onun balaları qanla qidalanır,  Harada leş olsa, o da oradadır».</verse>
+      </chapter>
+      <chapter osisID='Job.40'>
+        <verse osisID='Job.40.1'>Rəbb Əyyuba belə dedi:</verse>
+        <verse osisID='Job.40.2'>«Kim ki tənbehə layiq görülür,O, Külli-İxtiyarla mübahisə edə bilərmi?Qoy buna Allahı ittiham edən cavab versin». </verse>
+        <verse osisID='Job.40.3'>Onda Əyyub Rəbbə belə cavab verdi:</verse>
+        <verse osisID='Job.40.4'>«Mənim gərəksizliyimə bax,Sənə necə cavab verim,Ağzımı əlimlə tutmuşam.</verse>
+        <verse osisID='Job.40.5'>Bir dəfə danışdım, daha cavabım yoxdur,Artıq ikinci dəfə nə danışım». </verse>
+        <verse osisID='Job.40.6'>Rəbb qasırğanın içindən Əyyuba cavab verdi:</verse>
+        <verse osisID='Job.40.7'>«İndi kişi kimi belinə qurşaq bağla,Sual verəcəyəm, Mənə cavab ver.</verse>
+        <verse osisID='Job.40.8'>Sənmi ədalətimi boşa çıxaracaqsan?Özünə haqq qazandırmaq üçün sənmi Məni günahlandıracaqsan?</verse>
+        <verse osisID='Job.40.9'>Allahın qolu kimi qolun varmı?Səsin Onunku kimi gurlayarmı?</verse>
+        <verse osisID='Job.40.10'>Əgər belədirsə, şərəfə, şana bürün,Ehtişamı, əzəməti geyin.</verse>
+        <verse osisID='Job.40.11'>Qoy qəzəbinin alovu saçsın,Hər qürurluya baxıb onları alçalt.</verse>
+        <verse osisID='Job.40.12'>Qürurluların hamısına baxıb aşağı endir,Pisləri yerindəcə təpiyinin altına sal.</verse>
+        <verse osisID='Job.40.13'>Hamısını birlikdə torpaq altında basdır,Məzarda üzləri kəfənə bürünsün.</verse>
+        <verse osisID='Job.40.14'>O zaman Mən də bunu qəbul edərəm,Belə ki sağ qolun səni qurtarır.</verse>
+        <verse osisID='Job.40.15'>Behemota   bax, öküz kimi ot yeyir,  Səni yaratdığım kimi onu da Mən yaratmışam,</verse>
+        <verse osisID='Job.40.16'>Gör belində nə qədər güc var,Qarın əzələləri necə möhkəmdir.</verse>
+        <verse osisID='Job.40.17'>Sallanan quyruğu sidr ağacına bənzəyir,Budlarındakı vətərlər bir-birinə hörülüb.</verse>
+        <verse osisID='Job.40.18'>Sümükləri sanki tunc borudur,Qabırğaları elə bil dəmir çubuqdur.</verse>
+        <verse osisID='Job.40.19'>Allahın işləri arasında şah əsərdir,Yalnız Yaradan ona qılıncla yaxınlaşa bilir.</verse>
+        <verse osisID='Job.40.20'>Təpələr məhsullarını ona verir,Bütün çöl heyvanları yanında oynaşır.</verse>
+        <verse osisID='Job.40.21'>Nilufərlərin altında,Qamışla örtülü bataqlıqlarda yatır.</verse>
+        <verse osisID='Job.40.22'>Nilufərlər üstünə kölgə salır,Dərənin söyüdləri onu əhatəyə alır.</verse>
+        <verse osisID='Job.40.23'>Coşğun çaylardan qorxmur,Sellər boğazına çatsa da, arxayındır.</verse>
+        <verse osisID='Job.40.24'>Gözləri açıq ikən kim onu tuta bilər?Kim qıra ilə onun burnunu deşər? </verse>
+      </chapter>
+      <chapter osisID='Job.41'>
+        <verse osisID='Job.41.1'>Məgər sən Livyatanı   qarmaqla çəkə bilərsənmi?  Dilinə qaytan vura bilərsənmi?</verse>
+        <verse osisID='Job.41.2'>Burnuna ip taxa bilərsənmi?Qıra ilə çənəsini deşə bilərsənmi?</verse>
+        <verse osisID='Job.41.3'>Sənə yalvarıb-yaxararmı,Səninlə şirin-şirin danışarmı?</verse>
+        <verse osisID='Job.41.4'>Əbədi qulun olmaq üçünSəninlə əhd kəsərmi?</verse>
+        <verse osisID='Job.41.5'>Quşla oynadığın kimi onunla oynaya bilərsənmi?Boynuna ip bağlayıb onu qızların üçün apara bilərsənmi?</verse>
+        <verse osisID='Job.41.6'>Məgər tacirlər onu alıb-satarlarmı?Aralarında bölə bilərlərmi?</verse>
+        <verse osisID='Job.41.7'>Yabalarla dərisini,Balıqçı neştərləri ilə başını doldura bilərsənmi?</verse>
+        <verse osisID='Job.41.8'>Əlini onun üstünə qoy, nə cəncələ düşəcəyini təsəvvür et,Onda bu işi bir daha görməzsən.</verse>
+        <verse osisID='Job.41.9'>Onu tutmaq ümidin boş istəkdir.Onun görkəmi adamı yıxmırmı?</verse>
+        <verse osisID='Job.41.10'>Onu oyatmaq üçün heç kimdə cəsarət yoxdur.Bəs Mənim qarşımda kim dayana bilər?</verse>
+        <verse osisID='Job.41.11'>Kim Mənə bir şey verib ki, ona geri qaytarım?  Bax göylər altında hər şey Mənimdir.</verse>
+        <verse osisID='Job.41.12'>Sözümü kəsməyib onun əzalarından,Möhkəm gücündən və gözəl görünüşündən deyəcəyəm.</verse>
+        <verse osisID='Job.41.13'>Üstündəki paltarı kim çıxara bilər?Qoşa cilovla kim ona yaxınlaşa bilər?</verse>
+        <verse osisID='Job.41.14'>Ağzının qapılarını kim aça bilər?Çünki damağındakı dişlər dəhşətlidir.</verse>
+        <verse osisID='Job.41.15'>Kürəyi nizamla düzülmüş qalxanlara oxşayır,Onlar bir-birinə möhkəm bağlanıb,</verse>
+        <verse osisID='Job.41.16'>Bir-birlərinə elə bağlanıb ki,Arasından hava keçməz.</verse>
+        <verse osisID='Job.41.17'>Bir-birlərinə elə yapışıb ki,Birdir, ayrılmaz.</verse>
+        <verse osisID='Job.41.18'>Asqıranda od sıçrayır,Gözləri səhər işığı tək par-par yanır.</verse>
+        <verse osisID='Job.41.19'>Ağzından alovlu məşəllər çıxır,Qığılcımlar saçılır.</verse>
+        <verse osisID='Job.41.20'>Burnunun deşiklərindən tüstü çıxır,Elə bil qazan qaynayır, qamış yanır.</verse>
+        <verse osisID='Job.41.21'>Nəfəsindən kömürlər közərir,Ağzından alov çıxır.</verse>
+        <verse osisID='Job.41.22'>Boynunda qüvvət yaşayır,Qabağında dəhşət oynayır.</verse>
+        <verse osisID='Job.41.23'>Ətinin qatları bir-birinə bitişib,Oradan tərpənə bilməz, üstünə bərk yapışıb.</verse>
+        <verse osisID='Job.41.24'>Ürəyi daş kimi möhkəmdir,Dəyirmanın alt daşı kimi bərkdir.</verse>
+        <verse osisID='Job.41.25'>Qalxanda güclülər lərzəyə gəlir,Qorxub ürəkləri gedir.</verse>
+        <verse osisID='Job.41.26'>Üstünə qılınc çəkməyin faydasızdır,Nizə, tir, mizraqdan kar aşmır.</verse>
+        <verse osisID='Job.41.27'>Dəmiri saman çöpü,Tuncu çürük odun sayır.</verse>
+        <verse osisID='Job.41.28'>O, oxlardan qaçmır,Sapanddan daş atsan, elə bilər ki, çöpdür.</verse>
+        <verse osisID='Job.41.29'>Dəyənəkləri küləş qırıntısı sanır,Mizraqın vıyıltısına gülür.</verse>
+        <verse osisID='Job.41.30'>Qarnının altı sərt saxsıya oxşayır,Palçıq üstə vəl kimi iz qoyur.</verse>
+        <verse osisID='Job.41.31'>Dərin suları bir qazan kimi qaynadır,Dənizi ətir küpünə döndərir,</verse>
+        <verse osisID='Job.41.32'>Arxasınca parlaq bir iz buraxır,İnsan bu dərinliyi ağaran saça oxşadır.</verse>
+        <verse osisID='Job.41.33'>Yer üzündə misli-bərabəri yoxdur,Qorxu bilməyən məxluqdur.</verse>
+        <verse osisID='Job.41.34'>Hər lovğalanana xor baxır,Bütün məğrur heyvanların hakimidir».</verse>
+      </chapter>
+      <chapter osisID='Job.42'>
+        <verse osisID='Job.42.1'>O vaxt Əyyub Rəbbə belə cavab verdi:</verse>
+        <verse osisID='Job.42.2'>«Bilirəm, Sən hər şeyə qadirsən,Sənin istəyinin qarşısı alınmaz.</verse>
+        <verse osisID='Job.42.3'>Soruşdun: “Məsləhəti savadsızcasına ört-basdır edən bu kimdir?”  Doğrudan da, bilmədiyim şeylərdən,Əlim çatmadığı heyrətamiz işlərdən danışdım.</verse>
+        <verse osisID='Job.42.4'>Dedin: “İndi qulaq as, Mən danışacağam,  Sual verəcəyəm, Mənə cavab ver”.</verse>
+        <verse osisID='Job.42.5'>Qulaqlarıma sorağın çatmışdı,İndisə Səni gözlərimlə görürəm.</verse>
+        <verse osisID='Job.42.6'>Ona görə özümdən zəhləm gedir,Torpağın, külün içində tövbə edirəm». </verse>
+        <verse osisID='Job.42.7'>Rəbb Əyyuba bu sözləri deyəndən sonra Temanlı Elifaza dedi: «Sənə və iki dostuna qarşı qəzəbdən alışıb-yandım. Çünki siz qulum Əyyub kimi Mənim haqqımda doğru olanı demədiniz.</verse>
+        <verse osisID='Job.42.8'>İndi özünüz üçün yeddi buğa və yeddi qoç alıb qulum Əyyubun yanına gedin və özünüz üçün yandırma qurbanı təqdim edin. Qulum Əyyub sizin üçün dua etsin. Mən də onun duasını qəbul edib sizinlə axmaqlığınıza görə rəftar etməyəcəyəm, çünki siz qulum Əyyub kimi Mənim haqqımda doğru olanı demədiniz».</verse>
+        <verse osisID='Job.42.9'>Beləcə Temanlı Elifaz, Şuahlı Bildad və Naamatlı Sofar gedib Rəbbin onlara dediklərinə əməl etdi. Rəbb də Əyyubun duasını qəbul etdi. </verse>
+        <verse osisID='Job.42.10'>Əyyub dostları üçün dua edəndən sonra Rəbb ondan alınanları geri qaytardı. O, Əyyuba bütün qabaqkı malından da ikiqat artıq var-dövlət verdi.</verse>
+        <verse osisID='Job.42.11'>Əyyubun bütün qardaşları, bacıları və bütün əvvəlki dost-tanışları yanına gəlib evində onunla çörək yedi və dərdinə şərik oldular. Rəbbin onun başına gətirdiyi bütün bəlalara görə ona təsəlli verdilər. Hər biri ona bir parça gümüş və bir qızıl halqa verdi. </verse>
+        <verse osisID='Job.42.12'>Rəbb Əyyubun axır günlərini əvvəlki günlərindən daha çox bərəkətli etdi. Onun on dörd min qoyunu, altı min dəvəsi, min cüt öküzü və min eşşəyi var idi.</verse>
+        <verse osisID='Job.42.13'>Əyyubun yeddi oğlu, üç qızı oldu.</verse>
+        <verse osisID='Job.42.14'>İlk qızının adını Yemima, ikincisinin adını Qesia, üçüncüsünün adını Qeren-Happuk qoydu.</verse>
+        <verse osisID='Job.42.15'>Ölkənin heç bir yerində Əyyubun qızları kimi gözəl qızlar yox idi. Əyyub onlara da qardaşları ilə yanaşı miras verdi. </verse>
+        <verse osisID='Job.42.16'>Bundan sonra Əyyub yüz qırx il yaşadı və dörd nəsil övladlarını gördü.</verse>
+        <verse osisID='Job.42.17'>O qocalıb yaşa dolaraq öldü.  </verse>
+      </chapter>
+    </div></osisText>
+</osis>

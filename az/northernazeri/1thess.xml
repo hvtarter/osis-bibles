@@ -1,0 +1,198 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace'>
+  <osisText osisIDWork='NorthernAzeri' osisRefWork='Bible' xml:lang='az'>
+    <header>
+      <revisionDesc>
+        <date>2012-01-07</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='NorthernAzeri'>
+        <title>Northern Azeri Translation</title>
+        <contributor/>
+        <creator>Mod2Zef (6)</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject/>
+        <date>2012-01-07</date>
+        <description>Northern Azeri Translation</description>
+        <publisher/>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>NorthernAzeri</identifier>
+        <source>no entry TextSource in sword.conf found</source>
+        <language type='IETF'>az</language>
+        <relation/>
+        <coverage>provide the bible to the nations of the world</coverage>
+        <rights>Copyrighted Kutsul Kitab; Permission to distribute granted to CrossWire</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='1Thess'>
+      <chapter osisID='1Thess.1'>
+        <verse osisID='1Thess.1.1'>Paul, Sila və Timoteydən Ata Allah və Rəbb İsa Məsihdə olan Saloniklilər cəmiyyətinə salam! Sizə lütf və sülh olsun! </verse>
+        <verse osisID='1Thess.1.2'>Dualarımızda sizi yada salıb həmişə hər birinizə görə Allaha şükür edirik.</verse>
+        <verse osisID='1Thess.1.3'>Çünki imandan yaranan əməllərinizi, məhəbbətdən doğan zəhmətinizi və Rəbbimiz İsa Məsihə bağladığınız ümidin verdiyi dözümü Atamız Allah qarşısında daim yada salırıq.</verse>
+        <verse osisID='1Thess.1.4'>Ey Allahın sevimlisi olan qardaşlar, bilirik ki, O sizi seçib.</verse>
+        <verse osisID='1Thess.1.5'>Ona görə ki yaydığımız Müjdə yalnız sözlə deyil, qüvvə ilə, Müqəddəs Ruhla və çox inandırıcılıqla sizə çatıb. Aranızda ikən sizin üçün necə bir adam olduğumuzu bildiniz.</verse>
+        <verse osisID='1Thess.1.6'>Siz də böyük əziyyət içində Müqəddəs Ruhun verdiyi sevinclə kəlamı qəbul edib bizdən və Rəbdən nümunə götürdünüz.</verse>
+        <verse osisID='1Thess.1.7'>Beləliklə, siz Makedoniya və Axayyadakı bütün imanlılar üçün nümunə oldunuz.</verse>
+        <verse osisID='1Thess.1.8'>Çünki Rəbbin kəlamının sədası sizdən yayıldı. Allaha imanınızın sorağı yalnız Makedoniya və Axayyaya deyil, hər yerə çatıb. Daha bizə söz deməyə ehtiyac qalmadı.</verse>
+        <verse osisID='1Thess.1.9'>Çünki özləri xəbər yaydılar ki, bizi nə qədər yaxşı qarşıladınız və var olan həqiqi Allaha qulluq etmək üçün, həmçinin Onun ölülər arasından diriltdiyi Oğlunun, yəni bizi gələcək qəzəbdən qurtaran İsanın göylərdən zühurunu gözləmək üçün bütlərdən Allaha tərəf necə döndünüz.  </verse>
+        <verse osisID='1Thess.1.10'>Çünki özləri xəbər yaydılar ki, bizi nə qədər yaxşı qarşıladınız və var olan həqiqi Allaha qulluq etmək üçün, həmçinin Onun ölülər arasından diriltdiyi Oğlunun, yəni bizi gələcək qəzəbdən qurtaran İsanın göylərdən zühurunu gözləmək üçün bütlərdən Allaha tərəf necə döndünüz.  </verse>
+      </chapter>
+      <chapter osisID='1Thess.2'>
+        <verse osisID='1Thess.2.1'>
+          Qardaşlar, özünüz də bilirsiniz ki, yanınıza gəlməyimiz əbəs olmadı.</verse>
+        <verse osisID='1Thess.2.2'>Bildiyiniz kimi, əvvəlcə Filipidə əziyyət çəkmiş, təhqir olunmuşduq. Amma böyük ziddiyyətlərə baxmayaraq, Allahın Müjdəsini sizə bəyan etmək üçün Allahımızdan cəsarət aldıq.</verse>
+        <verse osisID='1Thess.2.3'>Çünki bizim çağırışımız aldatmağa, murdarlığa əsaslanmır və bunun hiyləgərliyə də dəxli yoxdur.</verse>
+        <verse osisID='1Thess.2.4'>Əksinə, Allah tərəfindən Müjdəni yaymaq tapşırığını almağa layiq görüldüyümüzə görə insanları deyil, ürəklərimizi sınaqdan keçirən Allahı razı salmaqdan ötrü danışırıq.</verse>
+        <verse osisID='1Thess.2.5'>Siz bilirsiniz ki, heç vaxt yanınıza yaltaq sözlərlə yaxud tamahkarlığı gizlədən riyakarlıqla gəlmədik. Allah da buna şahiddir.</verse>
+        <verse osisID='1Thess.2.6'>İzzəti heç bir insanda – nə sizdə, nə də başqalarında axtardıq.</verse>
+        <verse osisID='1Thess.2.7'>Məsihin həvariləri kimi bunu sizdən tələb edə bilərdik, amma biz sizinlə övladlarını isti qucağına alıb yedirdən ana kimi mülayim rəftar etdik.</verse>
+        <verse osisID='1Thess.2.8'>Sizlərə elə könül bağlamışdıq ki, yalnız Allahın Müjdəsini deyil, öz canlarımızı belə, sizə verməyə razı idik. Çünki bizim sevimlilərimiz idiniz. </verse>
+        <verse osisID='1Thess.2.9'>Bəli, qardaşlar, bizim əmək və zəhmətimizi xatırlayırsınız: heç birinizə yük olmamaq üçün gecə-gündüz çalışaraq sizə Allahın Müjdəsini vəz etdik.</verse>
+        <verse osisID='1Thess.2.10'>Siz imanlılarla necə müqəddəs, saleh və nöqsansız davrandığımıza həm özünüz, həm də Allah şahiddir.</verse>
+        <verse osisID='1Thess.2.11'>Bildiyiniz kimi, ata övladları ilə necə rəftar edirsə, biz də hər birinizlə elə rəftar etdik.</verse>
+        <verse osisID='1Thess.2.12'>Sizə öyüd verdik, ruhlandırdıq və yalvardıq ki, Öz Padşahlığına və izzətinə çağıran Allaha layiq şəkildə həyat sürəsiniz. </verse>
+        <verse osisID='1Thess.2.13'>Biz də dayanmadan Allaha şükür edirik ki, siz bizdən eşitdiyiniz Allah kəlamını qəbul edəndə onu bəşəri söz kimi deyil, həqiqətən, Allahın kəlamı olaraq qəbul etdiniz. Siz imanlılarda fəaliyyət göstərən də bu kəlamdır.</verse>
+        <verse osisID='1Thess.2.14'>Çünki qardaşlar, siz Allahın Yəhudeyadakı Məsih İsada olan cəmiyyətlərindən nümunə götürdünüz. Onların Yəhudilərdən çəkdiyi əzabları eynilə siz də öz soydaşlarınızdan çəkdiniz.</verse>
+        <verse osisID='1Thess.2.15'>Yəhudilər Rəbb İsanı və peyğəmbərləri öldürdülər, bizi də təqib etdilər. Onlar Allahı narazı salır və bütün insanlara qarşı çıxırlar.</verse>
+        <verse osisID='1Thess.2.16'>Çünki başqa millətlər xilas olsunlar deyə biz onlarla danışanda bu Yəhudilər bizə mane olur. Beləcə hər zaman günahlarının üzərinə günah gətirirlər. Axırda Allahın qəzəbinə düçar oldular. </verse>
+        <verse osisID='1Thess.2.17'>Bizsə, qardaşlar, qısa bir müddət üçün qəlbən deyil, şəxsən sizdən məhrum olduq, ona görə böyük arzu ilə üzünüzü görməyə daha çox səy göstərdik.</verse>
+        <verse osisID='1Thess.2.18'>Biz yanınıza gəlməyi arzu etdik, dəfələrlə mən Paul bunu istədim, amma Şeytan bizə mane oldu.</verse>
+        <verse osisID='1Thess.2.19'>Rəbbimiz İsa zühur edəndə ümidimiz, sevincimiz yaxud Onun önündə fəxr tacımız nədir? Siz deyilsinizmi?</verse>
+        <verse osisID='1Thess.2.20'>Çünki siz bizim izzətimiz və sevincimizsiniz.  </verse>
+      </chapter>
+      <chapter osisID='1Thess.3'>
+        <verse osisID='1Thess.3.1'>Buna görə də artıq dözməyib Afinada tək qalmağa razı olduq</verse>
+        <verse osisID='1Thess.3.2'>və qardaşımız, Məsihin Müjdəsini yaymaqda Allahın əməkdaşı olan Timoteyi sizi imanda möhkəmləndirmək və ruhlandırmaq üçün göndərdik.</verse>
+        <verse osisID='1Thess.3.3'>Belə ki qoy bu əziyyətlərdən heç kim sarsılmasın. Özünüz bilirsiniz ki, biz bunun üçün təyin olunmuşuq.</verse>
+        <verse osisID='1Thess.3.4'>Çünki yanınızda olarkən əziyyət çəkəcəyimizi sizə əvvəlcədən demişdik və bildiyiniz kimi, belə də oldu.</verse>
+        <verse osisID='1Thess.3.5'>Buna görə mən artıq dözməyib Timoteyi yanınıza göndərdim ki, imanınızdan xəbərdar olum. Qorxdum ki, sınağaçəkən bəlkə sınaqları ilə sizi yoldan çıxarmış olar və əməyimiz hədər gedər. </verse>
+        <verse osisID='1Thess.3.6'>Amma yanınızdan indicə qayıdan Timotey imanınız və məhəbbətiniz haqqında bizə şad xəbər gətirdi. O dedi ki, siz bizi daim xoş təəssüratla yada salırsınız və biz həsrətinizi çəkdiyimiz kimi siz də həsrətimizi çəkirsiniz.</verse>
+        <verse osisID='1Thess.3.7'>Ona görə də, qardaşlar, bütün sıxıntı və əziyyətimizə baxmayaraq, imanınıza görə sizdən təsəlli aldıq.</verse>
+        <verse osisID='1Thess.3.8'>Çünki sizin Rəbdə qalmağınız indi bizə həyat verir.</verse>
+        <verse osisID='1Thess.3.9'>Allahımız qarşısında sizə görə tam sevincimiz var. Belə olmasaydı, sizə görə Allaha necə şükür edə bilərdik?</verse>
+        <verse osisID='1Thess.3.10'>Sizin üzünüzü görmək və imanınızda çatışmayanları tamamlamaq üçün gecə-gündüz səylə dua edirik. </verse>
+        <verse osisID='1Thess.3.11'>Qoy Atamız Allah Özü və Rəbbimiz İsa bizim üçün sizin tərəflərə yol açsın.</verse>
+        <verse osisID='1Thess.3.12'>Rəbb bir-birinizə və bütün insanlara olan məhəbbətinizi sizə olan məhəbbətimiz tək artırıb-çoxaltsın.</verse>
+        <verse osisID='1Thess.3.13'>Belə ki Rəbbimiz İsa bütün müqəddəsləri ilə birgə zühur edəcəyi vaxt Atamız Allahın önündə müqəddəslikdə nöqsansız olmağınız üçün ürəklərinizə qüvvə versin. Amin.  </verse>
+      </chapter>
+      <chapter osisID='1Thess.4'>
+        <verse osisID='1Thess.4.1'>
+          Qardaşlar, necə həyat sürmək və Allahı razı salmaq barədə bizdən təlimat aldınız. Nəhayət, Rəbb İsa naminə sizdən xahiş edir və yalvarırıq ki, belə həyat sürməkdə daha çox inkişaf edin.</verse>
+        <verse osisID='1Thess.4.2'>Rəbb İsanın səlahiyyəti ilə sizə hansı əmrləri verdiyimizi bilirsiniz. </verse>
+        <verse osisID='1Thess.4.3'>Çünki Allahın iradəsinə görə müqəddəslik yolunuz belədir: cinsi əxlaqsızlıqdan qaçın,</verse>
+        <verse osisID='1Thess.4.4'>hər biriniz Allahı tanımayan bütpərəstlər kimi şəhvət və ehtirasla deyil, müqəddəslik və hörmətlə arvad almağı öyrənin,</verse>
+        <verse osisID='1Thess.4.5'>hər biriniz Allahı tanımayan bütpərəstlər kimi şəhvət və ehtirasla deyil, müqəddəslik və hörmətlə arvad almağı öyrənin,</verse>
+        <verse osisID='1Thess.4.6'>heç kim haqsızlıq edib bacı-qardaşını istismar etməsin. Çünki əvvəlcə sizə dediyimiz və xəbərdarlıq etdiyimiz kimi, Rəbb bütün bunlara görə qisas alacaq.</verse>
+        <verse osisID='1Thess.4.7'>Çünki Allah bizi murdarlığa deyil, müqəddəsliyə çağırmışdır.</verse>
+        <verse osisID='1Thess.4.8'>Ona görə bu təlimatı rədd edən kəs insanı deyil, sizə Öz Müqəddəs Ruhunu bəxş edən Allahı rədd edir. </verse>
+        <verse osisID='1Thess.4.9'>Qardaşlıq sevgisinə gəlincə, sizə yazmağa ehtiyac yoxdur, çünki Allah bir-birinizi sevməyi öyrədib.</verse>
+        <verse osisID='1Thess.4.10'>Əslində, siz bütün Makedoniyadakı bacı-qardaşların hamısı ilə belə davranırsınız. Lakin ey qardaşlar, rica edirik ki, belə işlərin sayını artırın.</verse>
+        <verse osisID='1Thess.4.11'>Sizə əmr etdiyimiz kimi çalışın ki, dinc yaşayasınız, öz işinizlə məşğul olasınız və əliniz işdə-gücdə olsun;</verse>
+        <verse osisID='1Thess.4.12'>belə ki kənar şəxslərin qarşısında hörmətəlayiq şəkildə həyat sürəsiniz və heç kimdən təminat almağa ehtiyac duymayasınız. </verse>
+        <verse osisID='1Thess.4.13'>Qardaşlar, vəfat edənlər haqqında bixəbər qalmağınızı istəmirik ki, ümidsiz olan digər adamlar kimi kədərlənməyəsiniz.</verse>
+        <verse osisID='1Thess.4.14'>Axı İsanın ölüb-dirilməsinə inanırıqsa, demək İsaya bağlanaraq vəfat edənləri də Allah Onunla birgə qaytaracaq.</verse>
+        <verse osisID='1Thess.4.15'>Çünki Rəbbin kəlamına əsaslanaraq sizə deyirik ki, Rəbbin zühurunadək sağ qalan bizlər vəfat edənlərdən əsla qabağa keçməyəcəyik.</verse>
+        <verse osisID='1Thess.4.16'>Rəbb Özü əmrini səsləndirməklə, baş mələyin sədası və Allahın şeypuru ilə göydən enəcək. Əvvəlcə Məsihdə olaraq ölənlər diriləcək.</verse>
+        <verse osisID='1Thess.4.17'>Ondan sonra sağ qalan bizlər Rəbbi havada qarşılamaq üçün onlarla birgə buludlar içində götürülüb-aparılacaq və beləcə daim Rəblə olacağıq.</verse>
+        <verse osisID='1Thess.4.18'>Buna görə bir-birinizə bu sözlərlə təsəlli verin.  </verse>
+      </chapter>
+      <chapter osisID='1Thess.5'>
+        <verse osisID='1Thess.5.1'>Qardaşlar, zaman və məqamlar barədə sizə yazmağa ehtiyac yoxdur.</verse>
+        <verse osisID='1Thess.5.2'>Çünki özünüz də çox yaxşı bilirsiniz ki, Rəbbin günü oğru gecə gəldiyi kimi gələcək.</verse>
+        <verse osisID='1Thess.5.3'>İnsanlar «sülh və təhlükəsizlik» deyəndə hamilə qadının ağrıları necə qəfildən tutursa, onlar da elə qəfil məhvə düçar olacaq və bundan əsla qaça bilməyəcəklər.</verse>
+        <verse osisID='1Thess.5.4'>Amma, qardaşlar, siz qaranlıqda deyilsiniz ki, o gün sizi oğru kimi yaxalasın.</verse>
+        <verse osisID='1Thess.5.5'>Axı hamınız nur və gündüz övladlarısınız. Biz nə gecənin, nə də qaranlığın övladlarıyıq.</verse>
+        <verse osisID='1Thess.5.6'>Ona görə gəlin başqaları kimi yatmayaq, əksinə, oyanıb ayıq-sayıq dayanaq.</verse>
+        <verse osisID='1Thess.5.7'>Çünki yatanlar gecə yatır, əyyaşlar da gecə vaxtı əyyaşlıq edir.</verse>
+        <verse osisID='1Thess.5.8'>Gündüzə aid olan bizlərsə iman və məhəbbətlə döşümüzə zireh taxaraq xilas ümidini dəbilqə kimi başımıza qoyub ayıq-sayıq olaq.</verse>
+        <verse osisID='1Thess.5.9'>Çünki Allah bizi qəzəbə düçar olmaq üçün deyil, Rəbbimiz İsa Məsih vasitəsilə xilasa nail olmaq üçün təyin edib.</verse>
+        <verse osisID='1Thess.5.10'>Məsih bizim uğrumuzda öldü ki, oyaq olsaq da, yatmış olsaq da, Onunla birlikdə yaşayaq.</verse>
+        <verse osisID='1Thess.5.11'>Buna görə indiki kimi bir-birinizi ürəkləndirin və ruhən inkişaf etdirin. </verse>
+        <verse osisID='1Thess.5.12'>Ey qardaşlar, xahiş edirik ki, aranızda zəhmət çəkənlərin, Rəbdə sizə başçılıq edib nəsihət verənlərin qədrini bilin.</verse>
+        <verse osisID='1Thess.5.13'>Etdikləri əmələ görə onlara hədsiz məhəbbətlə hörmət göstərin. Bir-birinizlə sülh içində yaşayın.</verse>
+        <verse osisID='1Thess.5.14'>Qardaşlar, sizə yalvarırıq, avaralara nəsihət verin, cəsarətsizləri ruhlandırın, zəiflərə yardım edin, hamıya qarşı səbirli olun.</verse>
+        <verse osisID='1Thess.5.15'>Diqqətli olun ki, heç kim pisliyə pisliklə cavab verməsin, əksinə, bir-birinizə və bütün insanlara həmişə yaxşılıq etməyə çalışın. </verse>
+        <verse osisID='1Thess.5.16'>Daima sevinin,</verse>
+        <verse osisID='1Thess.5.17'>durmadan dua edin,</verse>
+        <verse osisID='1Thess.5.18'>hər vəziyyətdə şükür edin. Çünki bunlar Məsih İsada olan sizlər üçün Allahın iradəsidir.</verse>
+        <verse osisID='1Thess.5.19'>Ruhu söndürməyin.</verse>
+        <verse osisID='1Thess.5.20'>Peyğəmbərlik sözlərinə xor baxmayın.</verse>
+        <verse osisID='1Thess.5.21'>Hər şeyi sınaqdan keçirin və yaxşı olandan möhkəm tutun.</verse>
+        <verse osisID='1Thess.5.22'>Hər cür şərdən uzaq durun. </verse>
+        <verse osisID='1Thess.5.23'>Qoy sülh qaynağı olan Allahın Özü sizi tamamilə təqdis etsin və Rəbbimiz İsa Məsihin zühurunda ruhunuz, canınız və bədəniniz nöqsansız olaraq qorunsun.</verse>
+        <verse osisID='1Thess.5.24'>Sizi çağıran Allah sadiqdir və bunu edəcək. </verse>
+        <verse osisID='1Thess.5.25'>Qardaşlar, bizim üçün dua edin.</verse>
+        <verse osisID='1Thess.5.26'>Bütün bacı-qardaşları müqəddəs öpüşlə salamlayın.</verse>
+        <verse osisID='1Thess.5.27'>Rəbb naminə sizə and verirəm ki, bu məktubu bütün bacı-qardaşlara oxuyun. </verse>
+        <verse osisID='1Thess.5.28'>Rəbbimiz İsa Məsihin lütfü sizə yar olsun!  </verse>
+      </chapter>
+    </div></osisText>
+</osis>

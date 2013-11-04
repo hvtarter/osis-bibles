@@ -1,0 +1,579 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace'>
+  <osisText osisIDWork='NorthernAzeri' osisRefWork='Bible' xml:lang='az'>
+    <header>
+      <revisionDesc>
+        <date>2012-01-07</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='NorthernAzeri'>
+        <title>Northern Azeri Translation</title>
+        <contributor/>
+        <creator>Mod2Zef (6)</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject/>
+        <date>2012-01-07</date>
+        <description>Northern Azeri Translation</description>
+        <publisher/>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>NorthernAzeri</identifier>
+        <source>no entry TextSource in sword.conf found</source>
+        <language type='IETF'>az</language>
+        <relation/>
+        <coverage>provide the bible to the nations of the world</coverage>
+        <rights>Copyrighted Kutsul Kitab; Permission to distribute granted to CrossWire</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='1Cor'>
+      <chapter osisID='1Cor.1'>
+        <verse osisID='1Cor.1.1'>Allahın iradəsi ilə Məsih İsanın həvarisi olmağa çağırılmış mən Pauldan və qardaşımız Sostendən</verse>
+        <verse osisID='1Cor.1.2'>Allahın Korinfdə olan imanlılar cəmiyyətinə salam! Siz Məsih İsada təqdis olunmusunuz. Rəbbimiz İsa Məsihin adını hər yerdə çağıran hamı ilə birlikdə müqəddəs olmağa çağırılmısınız. O həm onların, həm də bizim Rəbbimizdir.</verse>
+        <verse osisID='1Cor.1.3'>Atamız Allahdan və Rəbb İsa Məsihdən sizə lütf və sülh olsun! </verse>
+        <verse osisID='1Cor.1.4'>Allahın Məsih İsada sizə bəxş etdiyi lütfə görə sizin üçün həmişə Allahıma şükür edirəm.</verse>
+        <verse osisID='1Cor.1.5'>Çünki siz Məsihdə hər cəhətdən – hər cür sözdə və bilikdə zənginləşmisiniz.</verse>
+        <verse osisID='1Cor.1.6'>Buna görə Məsih haqqındakı şəhadətimiz sizdə təsdiqləndi.</verse>
+        <verse osisID='1Cor.1.7'>Bu səbəbdən siz Rəbbimiz İsa Məsihin zühurunu gözləyərək ruhani ənamdan heç bir korluq çəkmirsiniz.</verse>
+        <verse osisID='1Cor.1.8'>Rəbbimiz İsa Məsih Öz günündə nöqsansız olmanız üçün sizi sonadək qüvvətləndirəcək.</verse>
+        <verse osisID='1Cor.1.9'>Sizi Oğlu Rəbbimiz İsa Məsihlə şərik olmağa çağıran Allah sadiqdir. </verse>
+        <verse osisID='1Cor.1.10'>Ey qardaşlar, Rəbbimiz İsa Məsih naminə sizə yalvarıram: hamınız həmfikir olun. Qoy aranızda dəstəbazlıq olmasın, eyni düşüncədə və eyni ağılda birləşin.</verse>
+        <verse osisID='1Cor.1.11'>Qardaşlarım, Xloinin evindəkilərdən aranızda münaqişələr olduğunu öyrəndim.</verse>
+        <verse osisID='1Cor.1.12'>Demək istədiyim budur ki, hər biriniz «mən Paulun ardıcılıyam», «mən Apollonun ardıcılıyam», «mən Kefanın ardıcılıyam» və yaxud «mən Məsihin ardıcılıyam» deyir.</verse>
+        <verse osisID='1Cor.1.13'>Məgər Məsih bölünmüşdü? Məgər sizə görə çarmıxa çəkilən Paul idi? Məgər siz Paulun adı ilə vəftiz edildiniz?</verse>
+        <verse osisID='1Cor.1.14'>Mən Krisp və Qaydan başqa sizlərdən heç kimi vəftiz etmədiyimə görə Allaha şükür edirəm.</verse>
+        <verse osisID='1Cor.1.15'>Belə etdim ki, heç kim mənim adımla vəftiz edildiyini deməsin.</verse>
+        <verse osisID='1Cor.1.16'>Yeri gəlmişkən, mən bir də Stefananın evindəkiləri vəftiz etdim. Bundan başqa kimisə vəftiz etdiyimi xatırlamıram. </verse>
+        <verse osisID='1Cor.1.17'>Axı Məsih məni vəftiz etməyə deyil, Müjdəni yaymağa göndərdi. Məsihin çarmıxı boşa çıxmasın deyə Müjdəni müdrik sözlərlə yaymıram.</verse>
+        <verse osisID='1Cor.1.18'>Çünki çarmıx barəsindəki kəlam məhv yolunda olanlar üçün ağılsızlıq, xilas yolunda olan bizlər üçünsə Allahın qüdrətidir.</verse>
+        <verse osisID='1Cor.1.19'>Necə ki yazılıb:  «Müdriklərin müdrikliyini məhv edəcəyəm,Aqillərin ağlını yox edəcəyəm».</verse>
+        <verse osisID='1Cor.1.20'>Hanı müdrik? Hanı alim? Hanı bu dövrün mahir mübahisəçisi? Məgər Allah dünyanın müdrikliyinin ağılsızlıq olduğunu nümayiş etdirmədi?</verse>
+        <verse osisID='1Cor.1.21'>Allahın müdrikliyində dünya öz müdrikliyi ilə Allahı tanımadığı üçün Allah iman edənləri ağılsız sayılan vəz vasitəsilə xilas etməyə razı oldu.</verse>
+        <verse osisID='1Cor.1.22'>Çünki Yəhudilər möcüzəli əlamətlər istəyir, Yunanlar müdriklik axtarırlar.</verse>
+        <verse osisID='1Cor.1.23'>Bizsə çarmıxa çəkilmiş Məsihi vəz edirik. Bu, Yəhudilər üçün büdrəmə daşı, başqa millətlər üçün isə ağılsızlıq sayılır.</verse>
+        <verse osisID='1Cor.1.24'>Amma çağırılan həm Yəhudilər, həm də Yunanlar üçün Məsih Allahın qüdrəti və Allahın müdrikliyidir.</verse>
+        <verse osisID='1Cor.1.25'>Çünki Allahın «ağılsızlığı» insan müdrikliyindən daha üstündür, Allahın «zəifliyi» insan gücündən daha güclüdür. </verse>
+        <verse osisID='1Cor.1.26'>Qardaşlar, aldığınız çağırış barəsində düşünün. Bir çoxunuz bəşəri nöqteyi-nəzərdən müdrik, nüfuzlu və yaxud əsilzadə deyildiniz.</verse>
+        <verse osisID='1Cor.1.27'>Allah isə müdrikləri utandırmaq üçün dünyanın ağılsız saydığı, güclüləri utandırmaq üçün dünyanın zəif saydığı,</verse>
+        <verse osisID='1Cor.1.28'>dünyanın dəyərli sayılanlarını heç etmək üçün dünyanın xor baxdığı, əsilsiz və dəyərsiz sayılan kəsləri də seçdi ki,</verse>
+        <verse osisID='1Cor.1.29'>Allahın qarşısında heç bir insan öyünməsin.</verse>
+        <verse osisID='1Cor.1.30'>Amma siz Allahın sayəsində Məsih İsadasınız. O bizim üçün ilahi müdriklik, salehlik, müqəddəslik və satınalınma oldu.</verse>
+        <verse osisID='1Cor.1.31'>Buna görə yazıldığı kimi «öyünən Rəbdə öyünsün».  </verse>
+      </chapter>
+      <chapter osisID='1Cor.2'>
+        <verse osisID='1Cor.2.1'>Ey qardaşlar, mən Allah barəsində sirli həqiqəti elan etmək üçün sizə gələndə yüksək natiqlik və müdrikliklə gəlmədim.</verse>
+        <verse osisID='1Cor.2.2'>Çünki mən aranızda olanda İsa Məsihdən, yəni çarmıxa çəkilmiş Şəxsdən başqa heç bir şey bilməməyi qərara aldım.</verse>
+        <verse osisID='1Cor.2.3'>Yanınıza zəiflik, qorxu və böyük lərzə içində gəldim.</verse>
+        <verse osisID='1Cor.2.4'>Mənim sözüm də, vəzim də müdrikliyin inandırıcı sözlərindən deyil, Ruhun qüdrətini göstərməsindən asılı idi.</verse>
+        <verse osisID='1Cor.2.5'>Belə ki imanınız insan müdrikliyinə yox, Allahın qüdrətinə əsaslansın. </verse>
+        <verse osisID='1Cor.2.6'>Yetkin insanlar arasında isə biz müdrikliyi öyrədirik. Amma bu müdriklik nə indiki dövrün, nə də bu dövrün fani hökmdarlarının müdrikliyi deyil.</verse>
+        <verse osisID='1Cor.2.7'>Biz Allahdan gələn sirli müdrikliyi öyrədirik. Allah bu müdrikliyi bizim izzətimiz üçün zaman başlamazdan əvvəl müəyyən etdi və gizli saxladı.</verse>
+        <verse osisID='1Cor.2.8'>Bu dövrün hökmdarlarından heç biri onu anlamadı. Çünki anlasaydılar, izzətli Rəbbi çarmıxa çəkməzdilər.</verse>
+        <verse osisID='1Cor.2.9'>Amma necə ki yazılmışdı:  «Allahın Onu sevənlər üçün hazırladıqlarınıNə göz görüb, nə qulaq eşidib,Nə də insan ürəyi dərk edib».</verse>
+        <verse osisID='1Cor.2.10'>Bizə isə Allah bunları Öz Ruhu ilə açdı. Çünki Ruh hər bir şeyi, Allahın dərin düşüncələrini belə, araşdırır.</verse>
+        <verse osisID='1Cor.2.11'>Axı insanın düşüncələrini insanın daxilində olan ruhdan savayı kim bilər? Eləcə də Allahın düşüncələrini Onun Ruhundan savayı heç kim bilməz.</verse>
+        <verse osisID='1Cor.2.12'>Allahın bizə verdiyi ənamları dərk edə bilməyimiz üçün biz bu dünyanın ruhunu yox, Allahdan olan Ruhu qəbul etdik.</verse>
+        <verse osisID='1Cor.2.13'>Bunları insani müdrikliyin öyrətdiyi deyil, Ruhun öyrətdiyi sözlərlə bildiririk. Ruhani anlayışları ruhani sözlərlə ifadə edirik.</verse>
+        <verse osisID='1Cor.2.14'>Təbiətcə yaşayan adam Allahın Ruhuna aid olan şeyləri qəbul etmir, çünki bunları ağılsızlıq sayır. Bunları başa düşə bilmir, çünki bunlar ruhani nöqteyi-nəzərdən araşdırılır.</verse>
+        <verse osisID='1Cor.2.15'>Ruhani adam isə hər şeyi araşdıra bilər. Fəqət onun daxilini heç kim araşdıra bilməz.</verse>
+        <verse osisID='1Cor.2.16'>Axı «Rəbbin ağlını kim dərk etdi? Ona kim məsləhətçi oldu?» Amma biz Məsihin ağlına malikik.  </verse>
+      </chapter>
+      <chapter osisID='1Cor.3'>
+        <verse osisID='1Cor.3.1'>
+          Ey qardaşlar, mən sizinlə ruhani insanlar kimi deyil, cismani təbiətə görə yaşayan, Məsihdə körpə olan insanlar kimi danışa bildim.</verse>
+        <verse osisID='1Cor.3.2'>Mən sizi bərk yeməklərlə deyil, südlə qidalandırdım. Çünki bərk yeməklərə hazır deyildiniz, indi də hazır deyilsiniz.</verse>
+        <verse osisID='1Cor.3.3'>Çünki siz hələ də cismanisiniz. Əgər aranızda qısqanclıq və münaqişə varsa, onda siz cismani deyilsinizmi? Adi insanlar kimi həyat sürmürsünüzmü?</verse>
+        <verse osisID='1Cor.3.4'>Əgər biriniz «mən Paulun ardıcılıyam», başqası isə «mən Apollonun ardıcılıyam» deyirsə, siz adi insanlar deyilsinizmi? </verse>
+        <verse osisID='1Cor.3.5'>Apollo kimdir, Paul kimdir? Rəbb hər birimizə təyin etdiyi kimi yalnız iman etməyinizə vasitəçi olan xidmətçiyik.</verse>
+        <verse osisID='1Cor.3.6'>Mən əkdim, Apollo suladı, amma Allah böyütdü.</verse>
+        <verse osisID='1Cor.3.7'>Buna görə də mühüm olan əkən ya da sulayan deyil, əkiləni böyüdən Allahdır.</verse>
+        <verse osisID='1Cor.3.8'>Əkənlə sulayanın isə dəyəri eynidir. Hər biri öz zəhmətinə görə mükafat alacaq.</verse>
+        <verse osisID='1Cor.3.9'>Çünki biz Allahın əməkdaşlarıyıq. Sizsə Allahın zəmisi, Allahın tikilisisiniz. </verse>
+        <verse osisID='1Cor.3.10'>Allahın mənə verdiyi lütfə görə bir mahir bənna kimi bünövrəni qoydum, başqası isə onun üzərində inşa edir. Amma hər kəs necə inşa etdiyinə diqqət yetirsin.</verse>
+        <verse osisID='1Cor.3.11'>Çünki heç kim qoyulan bünövrədən, yəni İsa Məsihdən başqa bir təməl qoya bilməz.</verse>
+        <verse osisID='1Cor.3.12'>Bu bünövrənin üstündə qızıldan, gümüşdən, qiymətli daşlardan, taxtadan, samandan, küləşdən kim nə isə inşa edərsə,</verse>
+        <verse osisID='1Cor.3.13'>onun əməli bəlli olacaq və qiyamət günü onu ortaya çıxaracaq, çünki odla aşkar olunacaq. Od da hər birinin əməlinin keyfiyyətini sınaqdan keçirəcək.</verse>
+        <verse osisID='1Cor.3.14'>Kimin inşa etdiyi əməl tab gətirsə, mükafat alacaq.</verse>
+        <verse osisID='1Cor.3.15'>Kimin əməli yanıb yox olsa, o zərər çəkəcək. Özü isə xilas olacaq, amma sanki od içindən keçəcək.</verse>
+        <verse osisID='1Cor.3.16'>Məgər bilmirsiniz ki, siz Allahın məbədisiniz və Allahın Ruhu sizdə yaşayır?</verse>
+        <verse osisID='1Cor.3.17'>Kim Allahın məbədinə ziyan vursa, Allah da ona ziyan vuracaq. Çünki Allahın məbədi müqəddəsdir və bu məbəd sizsiniz. </verse>
+        <verse osisID='1Cor.3.18'>Qoy heç kim özünü aldatmasın. Sizlərdən biri bu dövrdə özünü müdrik sayırsa, müdrik olmaq üçün ağılsız olsun.</verse>
+        <verse osisID='1Cor.3.19'>Çünki bu dünyanın müdrikliyi Allah qarşısında ağılsızlıqdır. Necə ki yazılıb: «O, müdrikləri hiylə qurarkən yaxalayır».</verse>
+        <verse osisID='1Cor.3.20'>Yenə də yazılıb: «Rəbb müdriklərin düşüncələrini, bunların boş olduğunu bilər».</verse>
+        <verse osisID='1Cor.3.21'>Eləcə qoy heç kim insanlarla öyünməsin, çünki hər şey sizindir.</verse>
+        <verse osisID='1Cor.3.22'>İstər Paul, istər Apollo, istər Kefa olsun, dünya, həyat, ölüm, indiki və gələcək zaman – hər şey sizindir.</verse>
+        <verse osisID='1Cor.3.23'>Sizsə Məsihinsiniz, Məsih də Allahındır.  </verse>
+      </chapter>
+      <chapter osisID='1Cor.4'>
+        <verse osisID='1Cor.4.1'>
+          Beləcə insanlar bizi Məsihin xidmətçiləri və Allahın sirli niyyətini yerinə yetirən idarəçiləri saysın.</verse>
+        <verse osisID='1Cor.4.2'>İdarəçilərdənsə tələb olunur ki, etibara layiq olsunlar.</verse>
+        <verse osisID='1Cor.4.3'>Siz yaxud insan məhkəməsi mənim işlərimi təhlil edirsə, bu mənim üçün çox az əhəmiyyət kəsb edir; hətta mən öz işlərimi təhlil etmirəm.</verse>
+        <verse osisID='1Cor.4.4'>Heç bir şeyə görə vicdan əzabı çəkməsəm də, beləcə özümə haqq qazandırmıram. Çünki mənim işlərimi təhlil edən Rəbdir.</verse>
+        <verse osisID='1Cor.4.5'>Buna görə də münasib vaxtdan əvvəl, yəni Rəbb gəlməyənədək heç bir işi mühakimə etməyin. O gəlib qaranlıqda gizlənən şeylərə işıq salacaq və insan ürəklərinin niyyətlərini aşkara çıxaracaq. Onda hər kəs Allahdan ona düşən tərifi alacaq. </verse>
+        <verse osisID='1Cor.4.6'>Ey qardaşlar, bizdən nümunə alaraq «yazılanlardan kənara çıxmayın» məsəlinin mənasını öyrənəsiniz deyə bunları özümə və Apolloya tətbiq etdim ki, heç kim başqasının qarşısında lovğalanıb o birisinə xor baxmasın.</verse>
+        <verse osisID='1Cor.4.7'>Axı səni kim başqalarından fərqləndirir? Nəyin var ki onu əldə etməmisən? Əgər əldə etmisənsə, nə üçün əldə etməmiş kimi öyünürsən?</verse>
+        <verse osisID='1Cor.4.8'>Siz daha doymusunuz! Siz artıq varlanmısınız! Siz bizsiz padşah olmusunuz! Kaş ki siz, doğrudan, padşah olaydınız ki, biz də sizinlə bərabər padşahlıq edəydik!</verse>
+        <verse osisID='1Cor.4.9'>Çünki mənə elə gəlir ki, Allah biz həvariləri ölümə məhkum olunanlar kimi ən sonda nümayiş etdirdi. Biz də həm dünya, həm mələklər, həm də insanlar üçün bir tamaşa olduq.</verse>
+        <verse osisID='1Cor.4.10'>Biz Məsih naminə ağılsızıq, sizsə Məsihdə ağıllısınız! Biz zəifik, siz güclüsünüz! Siz şərəfli adamsınız, bizsə hörmətsiz!</verse>
+        <verse osisID='1Cor.4.11'>Bu vaxtadək biz ac-susuz və cındır içindəyik. Biz döyülürük, qalmağa yerimiz də yoxdur.</verse>
+        <verse osisID='1Cor.4.12'>Öz əllərimizlə işləyib zəhmət çəkirik. Bizə böhtan atanda xeyir-dua veririk, təqib olunanda dözürük,</verse>
+        <verse osisID='1Cor.4.13'>təhqir olunanda mülayim cavab veririk. Biz bu anadək dünyanın zibili, hamının tullantısı kimi olmuşuq. </verse>
+        <verse osisID='1Cor.4.14'>Bunları sizi utandırmaq üçün yox, sevimli övladlarım kimi sizə öyüd-nəsihət vermək üçün yazıram.</verse>
+        <verse osisID='1Cor.4.15'>Çünki sizin Məsih yolunda minlərlə mürəbbiniz olsa belə, atalarınız azdır; mən Müjdə vasitəsilə Məsih İsada olan atanız oldum.</verse>
+        <verse osisID='1Cor.4.16'>Buna görə sizə yalvarıram, məndən nümunə götürün.</verse>
+        <verse osisID='1Cor.4.17'>Bu səbəbə görə Rəbdə mənə sadiq və sevimli olan oğlum Timoteyi sizin yanınıza göndərdim. O sizə hər yerdə, hər bir imanlılar cəmiyyətində öyrətdiyim kimi Məsih İsada getdiyim yolları xatırladacaq.</verse>
+        <verse osisID='1Cor.4.18'>Sizdən bəziləri elə bilir ki, mən yanınıza gəlməyəcəyəm və buna görə də lovğa-lovğa danışırlar.</verse>
+        <verse osisID='1Cor.4.19'>Amma Rəbb istəsə, mən bu yaxında yanınıza gələcəyəm. O vaxt bu lovğaların sözlərini yox, gücünü yoxlayacağam.</verse>
+        <verse osisID='1Cor.4.20'>Çünki Allahın Padşahlığı sözdən deyil, gücdən ibarətdir.</verse>
+        <verse osisID='1Cor.4.21'>Siz nə istəyirsiniz? Yanınıza dəyənəklə, yoxsa məhəbbət və həlimlik ruhu ilə gəlim?  </verse>
+      </chapter>
+      <chapter osisID='1Cor.5'>
+        <verse osisID='1Cor.5.1'>
+           Danışırlar ki, aranızda cinsi əxlaqsızlıq baş verir: sizdən bir nəfər ögey anası ilə yaşayır. Belə cinsi əxlaqsızlığa hətta bütpərəstlər arasında da rast gəlmək mümkün deyil!</verse>
+        <verse osisID='1Cor.5.2'>Siz hələ lovğa-lovğa danışırsınız! Bunun əvəzinə yas tutmalı idiniz. Belə əməlin sahibi aranızdan qovulmalıdır.</verse>
+        <verse osisID='1Cor.5.3'>Mənsə cismən uzaqda olub ruhən aranızdayam və bu adam barəsində sanki aranızda olduğum üçün artıq hökm çıxarmışam:</verse>
+        <verse osisID='1Cor.5.4'>siz Rəbbimiz İsanın adı ilə toplaşanda, mən də ruhən və Rəbbimiz İsanın qüdrəti ilə aranızda olanda,</verse>
+        <verse osisID='1Cor.5.5'>həmin adamı Şeytana təslim edin ki, cismani təbiəti yox olsun, ruhu isə Rəbbin günündə xilas olsun.</verse>
+        <verse osisID='1Cor.5.6'>Sizin öyünməyiniz yaxşı deyil. Məgər bilmirsiniz ki, azacıq maya bütün xəmiri acıdır?</verse>
+        <verse osisID='1Cor.5.7'>Əslində mayasız olduğunuz kimi köhnə mayadan təmizlənin ki, təzə xəmir olasınız. Çünki bizim Pasxa quzumuz olan Məsih qurban verildi.</verse>
+        <verse osisID='1Cor.5.8'>Buna görə köhnə maya ilə, kin və pislik mayası ilə yox, amma səmimiyyətin və həqiqətin mayasız çörəyi ilə bayram edək. </verse>
+        <verse osisID='1Cor.5.9'>Mən əvvəlki məktubumda sizə əxlaqsızlıq edənlərlə ünsiyyətdə olmamağı yazmışdım.</verse>
+        <verse osisID='1Cor.5.10'>Amma mən demək istəmədim ki, bu dünyanın əxlaqsızları, tamahkarları, soyğunçu və yaxud bütpərəstləri ilə ünsiyyətdə olmayın. Belə olsaydı, siz bu dünyanı tərk etməyə məcbur olardınız!</verse>
+        <verse osisID='1Cor.5.11'>Əslində mən sizə yazmışdım ki, siz özünü bacı-qardaş adlandırıb, lakin əxlaqsızlıq, tamahkarlıq, bütpərəstlik, böhtançılıq, əyyaşlıq və yaxud soyğunçuluq edənlə ünsiyyətdə olmayın. Belələri ilə bir yerdə çörək belə, yeməyin.</verse>
+        <verse osisID='1Cor.5.12'>Çünki cəmiyyətdən kənardakıları mühakimə etməyə mənim nə ixtiyarım var? Məgər sizin mühakimə etməli olduqlarınız cəmiyyətdəkilər deyilmi?</verse>
+        <verse osisID='1Cor.5.13'>Cəmiyyətdən kənardakıları Allah mühakimə edəcək. Siz isə öz aranızdan pis adamı atın.  </verse>
+      </chapter>
+      <chapter osisID='1Cor.6'>
+        <verse osisID='1Cor.6.1'>
+          Sizlərdən birinin başqası ilə iddiası varsa, müqəddəslərin qarşısında yox, haqsızların qarşısında mühakimə olunmağa cəsarəti çatarmı?</verse>
+        <verse osisID='1Cor.6.2'>Dünyanı müqəddəslərin mühakimə edəcəyini bilmirsinizmi? Madam ki dünyanı mühakimə edəcəksiniz, belə xırda işləri mühakimə etməyə ixtiyarınız çatmırmı?</verse>
+        <verse osisID='1Cor.6.3'>Mələkləri bizim mühakimə edəcəyimizi bilmirsinizmi? Bəs gündəlik həyata aid işlər harada qaldı?</verse>
+        <verse osisID='1Cor.6.4'>Əgər elədirsə, gündəlik həyatda məhkəməyə veriləcək işləriniz varsa, imanlılar cəmiyyətində saymadığınız adamlarımı hakim seçirsiniz?</verse>
+        <verse osisID='1Cor.6.5'>Mən bunu sizi utandırmaq üçün deyirəm. Yəni öz bacı-qardaşlarınız arasında hakim olmaq üçün sizlərdən bir nəfər müdrik adam tapılmadı?</verse>
+        <verse osisID='1Cor.6.6'>Amma qardaş qardaşla məhkəməyə gedir, üstəlik imansızlar qarşısında!</verse>
+        <verse osisID='1Cor.6.7'>Əslində bir-birinizi məhkəməyə çəkməyiniz sizin üçün artıq tam məğlubiyyətdir. Əvəzində haqsızlığa qatlaşmaq daha yaxşı deyilmi? Aldanıb, dözmək daha yaxşı deyilmi?</verse>
+        <verse osisID='1Cor.6.8'>Amma siz özünüz haqsızlıq edib başqalarını aldadırsınız. Üstəlik bunu bacı-qardaşlarınıza edirsiniz. </verse>
+        <verse osisID='1Cor.6.9'>Məgər bilmirsiniz ki, haqsızlıq edənlər Allahın Padşahlığını irs olaraq almayacaq? Aldanmayın, çünki əxlaqsızlar, bütpərəstlər, zinakarlar, fahişə kişilər, kişibaz kişilər,</verse>
+        <verse osisID='1Cor.6.10'>oğrular, tamahkarlar, əyyaşlar, böhtançılar, soyğunçular Allahın Padşahlığını irs olaraq almayacaq.</verse>
+        <verse osisID='1Cor.6.11'>Sizlərdən bəzisi belə idi. Amma Rəbb İsa Məsihin adı ilə və Allahımızın Ruhu ilə yuyulub təmizləndiniz, təqdis olundunuz və saleh sayıldınız. </verse>
+        <verse osisID='1Cor.6.12'>«Mənim üçün hər şeyə icazə var» deyirsiniz, lakin hər şey xeyir vermir. Mən də «hər şeyə icazə var» deyə bilərəm, amma özümü heç bir şeyə tabe etməyəcəyəm.</verse>
+        <verse osisID='1Cor.6.13'>«Yemək qarın üçün, qarın da yemək üçündür» deyirsiniz, amma Allah həm qarını, həm də yeməyi yox edəcək. İnsan bədəni də əxlaqsızlıq üçün deyil, Rəbb üçündür. Rəbb də bədən üçündür.</verse>
+        <verse osisID='1Cor.6.14'>Rəbbi dirildən Allah Öz qüdrəti ilə bizi də dirildəcək.</verse>
+        <verse osisID='1Cor.6.15'>Bilmirsiniz ki, bədənləriniz Məsihin üzvləridir? İndi Məsihin üzvlərini götürüb bir fahişənin üzvləri edimmi? Əsla!</verse>
+        <verse osisID='1Cor.6.16'>Bilmirsiniz ki, fahişə ilə birləşən onunla bir bədən olur? Çünki deyilmişdir: «İkisi bir bədən olacaq».</verse>
+        <verse osisID='1Cor.6.17'>Rəblə birləşənsə Rəblə ruhən bir olur.</verse>
+        <verse osisID='1Cor.6.18'>Cinsi əxlaqsızlıqdan uzaqlaşın. İnsanın etdiyi bütün digər günahlar bədəndən kənardadır, amma əxlaqsızlıq edən öz bədəninə qarşı günah edir.</verse>
+        <verse osisID='1Cor.6.19'>Məgər bilmirsiniz ki, bədəniniz Allahdan aldığınız, sizdə yaşayan Müqəddəs Ruhun məbədidir? Siz özünüzə məxsus deyilsiniz,</verse>
+        <verse osisID='1Cor.6.20'>çox baha qiymətə satın alınmısınız. Beləliklə, bədəninizlə Allaha izzət gətirin.  </verse>
+      </chapter>
+      <chapter osisID='1Cor.7'>
+        <verse osisID='1Cor.7.1'>
+          İndi isə «kişi qadına toxunmasa yaxşıdır» yazdığınıza gəlincə,</verse>
+        <verse osisID='1Cor.7.2'>əxlaqsızlığın qabağını almaq üçün hər kişinin öz arvadı, hər qadının da öz əri olsun.</verse>
+        <verse osisID='1Cor.7.3'>Ər arvadına aid, arvad da ərinə aid olan nikah borcunu yerinə yetirsin.</verse>
+        <verse osisID='1Cor.7.4'>Arvadın bədəni özünün yox, ərinin ixtiyarındadır. Eləcə də kişinin bədəni özünün yox, arvadının ixtiyarındadır.</verse>
+        <verse osisID='1Cor.7.5'>Müvəqqəti olaraq razılıqla, dua üçün vaxt ayırmaqdan savayı bir-birinizi ər-arvadlıq təminatından məhrum etməyin. Bundan sonra yenə də bir yerdə olun ki, nəfsinizə hakim olmadığınıza görə Şeytan sizi sınağa çəkməsin.</verse>
+        <verse osisID='1Cor.7.6'>Bunları əmr kimi yox, güzəşt kimi deyirəm.</verse>
+        <verse osisID='1Cor.7.7'>Çünki bütün insanların mənim kimi olmasını istərdim. Amma hər bir insanın Allahdan aldığı öz ənamı var – birininki belədir, digərininki başqa cürdür. </verse>
+        <verse osisID='1Cor.7.8'>Evli olmayanlara və dul qadınlara isə bunu deyirəm: mənim kimi qalsalar, onlar üçün yaxşı olar.</verse>
+        <verse osisID='1Cor.7.9'>Əgər özlərini saxlaya bilmirlərsə, qoy ailə qursunlar. Çünki ehtirasdan yanmaqdansa ailə qurmaq daha yaxşıdır. </verse>
+        <verse osisID='1Cor.7.10'>Evli olanlara isə mən əmr edirəm, daha düzgün desəm, Rəbb əmr edir: qadın ərindən ayrılmasın.</verse>
+        <verse osisID='1Cor.7.11'>Ayrılırsa, ərsiz qalmalıdır yaxud əri ilə barışmalıdır. Ər də arvadını boşamasın. </verse>
+        <verse osisID='1Cor.7.12'>Başqalarına isə Rəbb yox, mən deyirəm ki, əgər bir qardaşın iman etməyən arvadı var və arvad onunla yaşamağa razıdırsa, əri onu boşamasın.</verse>
+        <verse osisID='1Cor.7.13'>Bir arvadın iman etməyən əri varsa və əri onunla yaşamağa razıdırsa, qoy arvadı ondan boşanmasın.</verse>
+        <verse osisID='1Cor.7.14'>Çünki iman etməmiş ər arvadı vasitəsilə təqdis olunur və iman etməmiş arvad imanlı əri vasitəsilə təqdis olunur. Əks halda uşaqlarınız natəmiz olardı, indi isə onlar müqəddəsdir.</verse>
+        <verse osisID='1Cor.7.15'>İman etməyən ayrılırsa, qoy ayrılsın. Qardaş ya da bacı belə hallarda məcburiyyət qarşısında deyil. Allah sizi sülhdə yaşamağa çağırıb.</verse>
+        <verse osisID='1Cor.7.16'>Ey qadın, ərini xilas edib-etməyəcəyini haradan bilirsən? Yaxud sən, ey ər, arvadını xilas edib-etməyəcəyini haradan bilirsən? </verse>
+        <verse osisID='1Cor.7.17'>Amma hər kəs Allahın ona təyin etdiyi kimi Rəbbin çağırışına uyğun həyat sürsün. Bunu bütün cəmiyyətlərə əmr edirəm.</verse>
+        <verse osisID='1Cor.7.18'>Əgər bir nəfər sünnətli olaraq çağırış aldısa, sünnət olunmanı aradan qaldırmasın. Digəri isə sünnətsiz olaraq çağırış aldısa, qoy sünnət olunmasın.</verse>
+        <verse osisID='1Cor.7.19'>Sünnətlilik də, sünnətsizlik də əhəmiyyət kəsb etmir, əhəmiyyət kəsb edən isə Allahın əmrlərini yerinə yetirməkdir.</verse>
+        <verse osisID='1Cor.7.20'>Qoy hər kəs çağırış aldığı vaxt nə vəziyyətdə idisə, elə də qalsın.</verse>
+        <verse osisID='1Cor.7.21'>Çağırış alanda qul idinsə, fikir eləmə. Amma əgər azad olmağa imkanın varsa, bu fürsəti əldən vermə.</verse>
+        <verse osisID='1Cor.7.22'>Çünki Rəbdə çağırış alan vaxt qul artıq Rəbbin azad insanıdır. Eləcə də çağırış alan vaxt azad insan Məsihin quludur.</verse>
+        <verse osisID='1Cor.7.23'>Siz çox baha qiymətə satın alınmısınız, insanlara qul olmayın!</verse>
+        <verse osisID='1Cor.7.24'>Ey qardaşlar, hər kəs çağırış alanda nə vəziyyətdə idisə, eləcə Allahla birlikdə qalsın. </verse>
+        <verse osisID='1Cor.7.25'>İndi isə qızlara gəlincə, bu barədə Rəbdən əmr almamışam. Amma etibara layiq olmaq üçün Rəbbin mərhəmətinə nail olmuş bir insan kimi öz fikirlərimi deyirəm.</verse>
+        <verse osisID='1Cor.7.26'>Məncə, indi yaranmış çətin vəziyyətə görə insanın olduğu kimi qalması yaxşıdır.</verse>
+        <verse osisID='1Cor.7.27'>Arvadınla nikahla bağlısansa, ondan azad olmağını arzu etmə. Arvadın yoxdursa, özünə arvad axtarma.</verse>
+        <verse osisID='1Cor.7.28'>Amma evlənməyin günah deyil. Qızın da ərə getməsi günah deyil. Amma belə adamlar bu həyatda əziyyət çəkəcəklər. Mən sizi bundan qorumaq istəyirəm.</verse>
+        <verse osisID='1Cor.7.29'>Qardaşlar, bunu demək istəyirəm: vaxta az qalıb. Bundan sonra arvadı olanlar olmayanlar kimi,</verse>
+        <verse osisID='1Cor.7.30'>yas tutanlar tutmayanlar kimi, sevinənlər sevinməyənlər kimi, mal alanlar malı olmayanlar kimi,</verse>
+        <verse osisID='1Cor.7.31'>bu dünyanın işlərindən faydalananlar bu işlərdən uzaq olanlar kimi olsunlar. Çünki bu dünyanın indiki vəziyyəti keçib-gedir. </verse>
+        <verse osisID='1Cor.7.32'>Sizin qayğısız olmanızı istəyirəm. Subay kişi Rəbbi necə razı salmaq barəsində düşünüb Rəbbin işlərinin qayğısına qalır.</verse>
+        <verse osisID='1Cor.7.33'>Evli isə arvadını razı salmaqdan ötrü dünyəvi işlərin qayğısına qalır</verse>
+        <verse osisID='1Cor.7.34'>və diqqəti yayınır. Ərsiz qadın yaxud qız da Rəbbin işlərinin qayğısına qalır ki, həm bədəndə, həm də ruhən müqəddəs olsun. Ərli qadın isə ərini razı salmaqdan ötrü dünyəvi işlərin qayğısına qalır.</verse>
+        <verse osisID='1Cor.7.35'>Bunu azadlığınızı məhdudlaşdırmaq üçün yox, yalnız sizin xeyrinizə deyirəm ki, ədəblə davranıb fikirlərinizi dağıtmadan özünüzü Rəbbə həsr edəsiniz. </verse>
+        <verse osisID='1Cor.7.36'>Əgər bir nəfər nişanlandığı qızla düzgün davranmadığını düşünürsə, yaşı çatıb və evlənmək lazım gəlirsə, qoy o adam istədiyini etsin. O, günah etmir. Qoy onlar evlənsin.</verse>
+        <verse osisID='1Cor.7.37'>Amma kim ürəyində qəti niyyət tutub, könüllü surətdə, öz nəfsinə hakim olaraq nişanlandığı qızla evlənməmək qərarına gəlirsə, o adam da yaxşı edir.</verse>
+        <verse osisID='1Cor.7.38'>Buna görə də nişanlısı ilə evlənən yaxşı edir, evlənməyənsə daha yaxşı edir. </verse>
+        <verse osisID='1Cor.7.39'>Arvad əri sağ ikən ona bağlı qalır. Əgər əri vəfat etsə, arvad azaddır və kimə istəsə, ərə gedə bilər. Lakin o kişi Rəbdə olmalıdır.</verse>
+        <verse osisID='1Cor.7.40'>Amma fikrimcə, dul qadın olduğu kimi qalsa, daha xoşbəxt olar. Zənnimcə, məndə də Allahın Ruhu var.  </verse>
+      </chapter>
+      <chapter osisID='1Cor.8'>
+        <verse osisID='1Cor.8.1'>
+          Bütlərə təqdim olunan qurbanlara gəlincə, bizə məlumdur ki, bu barədə «hamımızın biliyi var». Bilik insanın lovğalanmağına səbəb olur, məhəbbət isə onu ruhən inkişaf etdirir.</verse>
+        <verse osisID='1Cor.8.2'>Kim fikirləşir ki, bir şey bilir, o hələ lazım olduğu kimi heç nə bilmir.</verse>
+        <verse osisID='1Cor.8.3'>Amma kim Allahı sevirsə, Allah onun haqqında hər şeyi bilir. </verse>
+        <verse osisID='1Cor.8.4'>Beləliklə, bütlərə təqdim olunan qurban ətinin yeyilməsi barəsində bilirik ki, «büt dünyada heç nədir» və «bir olan Allahdan başqası yoxdur».</verse>
+        <verse osisID='1Cor.8.5'>Yerdə və yaxud göydə «allahlar» adlandırılanlar varsa, hətta çoxlu «allahlar» və «sahiblər» varsa,</verse>
+        <verse osisID='1Cor.8.6'>bizim üçünsə bir Allah – Ata var. Hər şey Ondan gəlir, biz də Onun üçün yaşayırıq. Həmçinin bizim bir Sahibimiz var, O da Rəbb İsa Məsihdir. Hər şey Onun vasitəsilə yaranır, biz də Onun vasitəsilə yaşayırıq. </verse>
+        <verse osisID='1Cor.8.7'>Amma bunu hamı bilmir. Hələ bütpərəst adətlərinə uymuş bəziləri yedikləri ətin bütlərə təqdim olunan qurban əti olduğunu düşünür və onlar zəif olduqlarından vicdanları ləkələnir.</verse>
+        <verse osisID='1Cor.8.8'>Yemək bizi Allahın hüzuruna gətirmir. Biz yeməyəndə heç nə itirmirik, yeyəndə də heç nə əldə etmirik.</verse>
+        <verse osisID='1Cor.8.9'>Amma diqqətli olun ki, sizin seçim ixtiyarınız zəif olanların büdrəməsinə səbəb olmasın.</verse>
+        <verse osisID='1Cor.8.10'>Əgər vicdan məsuliyyəti zəif olan şəxs görsə ki, bilik sahibi olan sən büt evində süfrəyə oturmusan, bütlərə təqdim olunan qurbanın ətini yeməyə cürət etməzmi?</verse>
+        <verse osisID='1Cor.8.11'>Bunun nəticəsində bu zəif adam – uğrunda Məsihin öldüyü bu bacı ya qardaş sənin biliyinin ucbatından həlak olacaq.</verse>
+        <verse osisID='1Cor.8.12'>Beləliklə, zəif olan bacı-qardaşlarınıza qarşı günah edib vicdanlarını yaralayanda siz Məsihə qarşı günah edirsiniz.</verse>
+        <verse osisID='1Cor.8.13'>Odur ki, əgər yemək qardaşımı büdrədirsə, mən heç vaxt ət yeməyəcəyəm ki, qardaşım büdrəməsin.  </verse>
+      </chapter>
+      <chapter osisID='1Cor.9'>
+        <verse osisID='1Cor.9.1'>
+          Mən azad deyiləmmi? Həvari deyiləmmi? Rəbbimiz İsanı görməmişəmmi? Siz Rəbdə etdiyim əməlin səmərəsi deyilsinizmi?</verse>
+        <verse osisID='1Cor.9.2'>Əgər başqaları üçün həvari deyiləmsə, heç olmasa sizin üçün həvariyəm. Çünki Rəbdə siz mənim həvariliyimin möhürüsünüz. </verse>
+        <verse osisID='1Cor.9.3'>Mən işlərimi təhlil edənlərə qarşı belə müdafiə olunuram:</verse>
+        <verse osisID='1Cor.9.4'>məgər bizim yeyib-içməyə ixtiyarımız yoxdur?</verse>
+        <verse osisID='1Cor.9.5'>Məgər digər həvarilər, Rəbbin qardaşları və Kefa kimi yanımızda imanlı arvadımızı gəzdirməyə ixtiyarımız yoxdur?</verse>
+        <verse osisID='1Cor.9.6'>İşləməyib dolanmaq üçün yalnız mənim və Barnabanın ixtiyarı yoxdur?</verse>
+        <verse osisID='1Cor.9.7'>Kim öz hesabı ilə əsgərlik çəkər? Kim üzüm bağı salıb barından yeməz? Kim sürünü otarıb südündən içməz?</verse>
+        <verse osisID='1Cor.9.8'>Məgər mən ancaq insanların düşündüyü kimi danışıram? Qanun eyni şeylər demirmi?</verse>
+        <verse osisID='1Cor.9.9'>Çünki Musanın Qanununda yazılıb: «Xırman çəkən öküzün ağzını bağlama». Allah öküzlərinmi qayğısına qalır,</verse>
+        <verse osisID='1Cor.9.10'>yoxsa bu sözlər tamamilə bizə aid deyil? Əlbəttə, bu bizim üçün yazılmışdır, çünki cütçü ümidlə şumlamalı, xırmançı da məhsula ortaq olmaq ümidi ilə taxılı döyməlidir.</verse>
+        <verse osisID='1Cor.9.11'>Əgər biz aranızda ruhani toxumlar əkdiksə, sizdən maddi bir məhsul yığsaq, çoxdurmu?</verse>
+        <verse osisID='1Cor.9.12'>Əgər başqalarının sizdən bunu istəməyə ixtiyarı varsa, bizim buna daha çox ixtiyarımız yoxdurmu?  Bizsə bu ixtiyardan istifadə etməmişik. Bunun əvəzinə Məsihin Müjdəsinin yayılmasına mane olmamaq üçün hər şeyə dözürük.</verse>
+        <verse osisID='1Cor.9.13'>Məgər bilmirsiniz ki, məbəddə iş görənlər məbədə gətirilən təqdimlərdən qidalanır və qurbangahın xidmətçiləri qurbangahdan öz paylarını götürürlər?</verse>
+        <verse osisID='1Cor.9.14'>Beləcə də Rəbb Müjdəni elan edənlərə Müjdədən dolanmağı əmr etmişdir.</verse>
+        <verse osisID='1Cor.9.15'>Amma mən bu hüquqların heç birindən istifadə etməmişəm. Bunları yazmıram ki, mənə də belə edəsiniz. Fəxr etməyim üçün bu əsası heç kim boşa çıxarmaz! Belə olmaqdansa, ölməyim daha yaxşıdır.</verse>
+        <verse osisID='1Cor.9.16'>Müjdəni yaymaqsa fəxr etməyim üçün əsas deyil. Çünki bu mənim mühüm borcumdur, əgər Müjdəni yaymıramsa, vay halıma!</verse>
+        <verse osisID='1Cor.9.17'>Əgər bunu könüllü olaraq edirəmsə, mükafatım var. Yox, əgər bunu könüllü etmirəmsə, mənə tapşırılan vəzifəmi yerinə yetirirəm.</verse>
+        <verse osisID='1Cor.9.18'>Bəs onda mükafatım nədir? Mükafatım budur ki, Müjdəni yayaraq müftə vəz edirəm və Müjdəni yaymaqdan gələn ixtiyarımdan tam istifadə etmirəm. </verse>
+        <verse osisID='1Cor.9.19'>Mən azadam və heç kəsə məxsus deyiləm, amma mümkün qədər çox insan əldə etmək üçün özümü hamıya qul etdim.</verse>
+        <verse osisID='1Cor.9.20'>Yəhudiləri əldə etmək üçün Yəhudilərlə Yəhudi kimi davrandım. Mən Qanun altında olmasam da, Qanun altında olanları əldə etmək üçün Qanun altında olanlarla Qanun altında olan kimi davrandım.</verse>
+        <verse osisID='1Cor.9.21'>Özüm Allahın qanunundan kənar deyil, Məsihin qanununa tabeyəmsə də, Qanundan kənar olanları əldə etmək üçün onlarla Qanundan kənar olan kimi davrandım.</verse>
+        <verse osisID='1Cor.9.22'>Zəifləri əldə etmək üçün onlarla zəif kimi davrandım. Hər hansı bir yolla bəzilərini xilas etmək naminə hər kəs üçün hər şey oldum.</verse>
+        <verse osisID='1Cor.9.23'>Bunun hamısını Müjdə uğrunda, onun bərəkətinə şərik olum deyə edirəm. </verse>
+        <verse osisID='1Cor.9.24'>Qaçışda yarışanların hamısının qaçdığını, amma təkcə bir nəfərin mükafat aldığını bilmirsinizmi? Elə qaçın ki, mükafatı qazanasınız.</verse>
+        <verse osisID='1Cor.9.25'>Yarışda iştirak edən hər kəs hər cəhətdən öz nəfsinə hakimdir. Onlar bunu solub gedən dəfnə çələngi almaq üçün edər, biz isə solmaz tac almaq üçün çalışırıq.</verse>
+        <verse osisID='1Cor.9.26'>Beləliklə, mən də məqsədsiz qaçmıram. Havanı vuran adam kimi yumruq atmıram.</verse>
+        <verse osisID='1Cor.9.27'>Lakin bədənimi məcburən özümə qul edirəm ki, başqalarına vəz edəndən sonra mükafatımdan məhrum olmayım.  </verse>
+      </chapter>
+      <chapter osisID='1Cor.10'>
+        <verse osisID='1Cor.10.1'>
+           Qardaşlar, bixəbər olmağınızı istəmirəm ki, ata-babalarımızın hamısı bulud altında qorundu, hamısı da dənizdən keçdi.</verse>
+        <verse osisID='1Cor.10.2'>Hamısı Musanın ardınca getmək üçün buludda və dənizdə vəftiz edildi.</verse>
+        <verse osisID='1Cor.10.3'>Hamısı eyni ruhani qida yedi</verse>
+        <verse osisID='1Cor.10.4'>və eyni ruhani içki içdi. Çünki onlar ardlarınca gələn ruhani Qayadan içirdi. O Qaya da Məsih idi.</verse>
+        <verse osisID='1Cor.10.5'>Amma Allah onların çoxundan razı qalmadı və cəsədləri çölə sərildi. </verse>
+        <verse osisID='1Cor.10.6'>Bu hadisələr bizim üçün ibrət olsun deyə baş verdi ki, biz onlar kimi pisliyə meyl göstərməyək.</verse>
+        <verse osisID='1Cor.10.7'>Onlardan bəzisi kimi bütpərəst olmayın. Onlar barədə belə yazılıb: «Xalq oturub yeyib-içdi, sonra isə qalxıb oynaşdı».</verse>
+        <verse osisID='1Cor.10.8'>Onlardan bəzisi kimi cinsi əxlaqsızlıq etməyək. Bir gündə onlardan iyirmi üç min nəfər öldü.</verse>
+        <verse osisID='1Cor.10.9'>Məsihi sınamayaq: onlardan bəziləri belə etdi və ilanlar onları öldürdü.</verse>
+        <verse osisID='1Cor.10.10'>Deyinməyin, çünki onlardan da bəziləri deyindi və məhvedici mələk onları öldürdü.</verse>
+        <verse osisID='1Cor.10.11'>Bu hadisələr ibrət dərsi olub onların başına gəldi və bu dövrün sonuna çatan bizim üçün öyüd-nəsihət kimi yazılıb.</verse>
+        <verse osisID='1Cor.10.12'>Buna görə də kim ayaq üstə durduğunu düşünürsə, ehtiyatlı olsun ki, yıxılmasın.</verse>
+        <verse osisID='1Cor.10.13'>Siz insanın qarşılaşdığı sınaqdan başqa bir sınaqla qarşılaşmadınız. Allah sadiqdir və O sizi gücünüzdən artıq sınağa çəkilməyə qoymaz. Sınaqla yanaşı bu vəziyyətdən çıxış yolu ilə də təmin edəcək ki, tab gətirə biləsiniz. </verse>
+        <verse osisID='1Cor.10.14'>Beləliklə, ey sevimlilərim, bütpərəstlikdən uzaqlaşın.</verse>
+        <verse osisID='1Cor.10.15'>Mən ağıllı insanlara xitab edirəm. Dediklərimi siz özünüz araşdırın.</verse>
+        <verse osisID='1Cor.10.16'>Xeyir-dua verdiyimiz xeyir-dua kasası Məsihin qanına şəriklik deyilmi? Böldüyümüz çörək Məsihin bədəninə şəriklik deyilmi?</verse>
+        <verse osisID='1Cor.10.17'>Çörək bir olduğu kimi biz də çox olduğumuz halda bir bədənik. Çünki hamımız bir çörəyi bölüb yeyirik.</verse>
+        <verse osisID='1Cor.10.18'>Soy-kökünə görə İsrail xalqına nəzər salın: qurbanları yeyənlər qurbangaha şərik deyilmi?</verse>
+        <verse osisID='1Cor.10.19'>Belədirsə, mən nə demək istəyirəm? Bütlərə təqdim olunan qurban ətinin bir əhəmiyyəti varmı? Yaxud bütlərin əhəmiyyəti varmı?</verse>
+        <verse osisID='1Cor.10.20'>Xeyr, amma deyirəm ki, bütpərəstlər qurbanlarını Allaha yox, cinlərə gətirirlər. Cinlərlə şərik olmanızı istəmirəm.</verse>
+        <verse osisID='1Cor.10.21'>Siz həm Rəbbin kasasından, həm də cinlərin kasasından içə bilməzsiniz; həm Rəbbin, həm də cinlərin süfrəsindən yeyə bilməzsiniz.</verse>
+        <verse osisID='1Cor.10.22'>Yoxsa Rəbbi qısqanclığa vadar edirik? Məgər biz Ondan güclüyük? </verse>
+        <verse osisID='1Cor.10.23'>«Hər şeyə icazə var» deyirsiniz, amma hər şey xeyir vermir. «Hər şeyə icazə var», lakin hər şey ruhən inkişaf etdirmir.</verse>
+        <verse osisID='1Cor.10.24'>Hər kəs öz xeyrini yox, başqalarının xeyrini güdsün.</verse>
+        <verse osisID='1Cor.10.25'>Ət bazarında nə satılırsa, vicdan məsələsini qaldırmadan yeyin.</verse>
+        <verse osisID='1Cor.10.26'>Çünki «Rəbbindir yer üzü və orada mövcud olanlar».</verse>
+        <verse osisID='1Cor.10.27'>Əgər imanlı olmayanlardan biri sizi yeməyə dəvət edir və siz getmək istəyirsinizsə, qabağınıza nə qoysalar, vicdan məsələsini qaldırmadan yeyin.</verse>
+        <verse osisID='1Cor.10.28'>Amma biri sizə desə ki, «bu, qurban ətidir», onda həm sizə bunu deyənin xatirinə, həm də vicdan xatirinə yeməyin.</verse>
+        <verse osisID='1Cor.10.29'>Mən sizin vicdanınızı yox, başqasının vicdanını nəzərdə tuturam. Axı nə üçün mənim azadlığım başqasının vicdanı ilə müəyyənləşdirilsin?</verse>
+        <verse osisID='1Cor.10.30'>Əgər şükür edərək yeməkdə iştirak edirəmsə, şükür etdiyim yeməyə görə nə üçün mənə şər atırlar?</verse>
+        <verse osisID='1Cor.10.31'>Beləliklə, nə yeyirsinizsə, nə içirsinizsə, nə edirsinizsə, hər şeyi Allahın izzəti üçün edin.</verse>
+        <verse osisID='1Cor.10.32'>Yəhudilərin, Yunanların yaxud Allahın cəmiyyətinin büdrəməsinə səbəb olmayın,</verse>
+        <verse osisID='1Cor.10.33'>necə ki mən də hər şeydə hər kəsi razı salmağa çalışıram. Bunu öz xeyrim üçün yox, çoxlarının xeyri üçün edirəm ki, onlar da xilas olsunlar.  </verse>
+      </chapter>
+      <chapter osisID='1Cor.11'>
+        <verse osisID='1Cor.11.1'>Mən Məsihdən nümunə götürdüyüm kimi siz də məndən nümunə götürün. </verse>
+        <verse osisID='1Cor.11.2'>Hər işdə məni xatırladığınız və sizə tapşırdığım təlimlərə sadiq qaldığınız üçün sizi tərifləyirəm.</verse>
+        <verse osisID='1Cor.11.3'>Bunu da bilmənizi istəyirəm ki, hər kişinin başı Məsih, arvadın başı ər, Məsihin başı isə Allahdır.</verse>
+        <verse osisID='1Cor.11.4'>Başına nə isə qoyub dua yaxud peyğəmbərlik edən hər kişi öz başını şərəfsiz edir.</verse>
+        <verse osisID='1Cor.11.5'>Başıaçıq dua yaxud peyğəmbərlik edən hər qadın da öz başını şərəfsiz edir. Belə qadınla saçları qırxılmış qadın arasında fərq yoxdur.</verse>
+        <verse osisID='1Cor.11.6'>Əgər qadın başını örtmürsə, qoy saçlarını qısa kəssin. Amma əgər qadın üçün saçını qısa kəsməsi yaxud qırxması ayıbdırsa, qoy başını örtsün.</verse>
+        <verse osisID='1Cor.11.7'>Beləliklə, kişiyə Allahın surəti və izzəti olduğuna görə başını örtmək olmaz. Qadınsa kişinin izzətidir.</verse>
+        <verse osisID='1Cor.11.8'>Çünki kişi qadından yox, qadın kişidən yarandı.</verse>
+        <verse osisID='1Cor.11.9'>Kişi qadın üçün yox, qadın kişi üçün yaradıldı.</verse>
+        <verse osisID='1Cor.11.10'>Bu səbəbdən mələklərə görə qadının başı üzərində ixtiyar olmalıdır.</verse>
+        <verse osisID='1Cor.11.11'>Hər halda Rəbdə nə qadın kişidən, nə də kişi qadından müstəqildir.</verse>
+        <verse osisID='1Cor.11.12'>Çünki qadın kişidən yarandığı kimi kişi də qadın vasitəsilə yaranır və hər şey Allahdan yaranır.</verse>
+        <verse osisID='1Cor.11.13'>Özünüz qərara gəlin, Allaha başıaçıq dua etmək qadına yaraşarmı?</verse>
+        <verse osisID='1Cor.11.14'>Məgər təbiətin özü sizə kişinin saçı uzun olmasının özü üçün hörmətsizlik,</verse>
+        <verse osisID='1Cor.11.15'>qadının saçlarının uzun olması isə onun üçün şərəf olduğunu öyrətmir? Çünki qadına saç örtük kimi verilib.</verse>
+        <verse osisID='1Cor.11.16'>Bu barədə kim mübahisə etmək istəyirsə, bilsin ki, nə bizim, nə də Allahın cəmiyyətlərinin belə bir adəti var. </verse>
+        <verse osisID='1Cor.11.17'>Sizin toplantılarınız xeyirdən çox zərər gətirdiyinə görə aşağıda yazılan əmrlərdən çıxış edərək sizi tərifləmirəm.</verse>
+        <verse osisID='1Cor.11.18'>Çünki əvvəl eşitmişəm ki, cəmiyyətdə yığılanda aranızda dəstəbazlıq olur. Buna mən bir az da olsa, inanıram.</verse>
+        <verse osisID='1Cor.11.19'>Çünki Allahın sınaqdan keçmiş adamları bəlli olsun deyə aranızda firqələrə bölünmə olmalıdır!</verse>
+        <verse osisID='1Cor.11.20'>Xüsusən bir yerə toplaşanda yediyiniz Rəbbin süfrəsi deyil.</verse>
+        <verse osisID='1Cor.11.21'>Çünki biriniz o birisini gözləmədən süfrənizi açırsınız və biri ac qalır, o birisi isə sərxoş olur.</verse>
+        <verse osisID='1Cor.11.22'>Yeyib-içmək üçün evləriniz yoxdurmu? Bəlkə siz Allahın cəmiyyətinə xor baxırsınız və yoxsulları utandırmaq istəyirsiniz? Sizə nə deyim? Sizi tərifləyimmi? Əsla! Bu işdə sizi tərifləməyəcəyəm. </verse>
+        <verse osisID='1Cor.11.23'>Çünki sizə çatdırdığım bu xəbəri Rəbbin Özündən qəbul etmişəm: Rəbb İsa Ona xəyanət edildiyi gecə əlinə çörək götürdü,</verse>
+        <verse osisID='1Cor.11.24'>şükür edib onu böldü və dedi: «Bu Mənim sizin üçün verilən bədənimdir. Bunu Məni xatırlamaq üçün edin».</verse>
+        <verse osisID='1Cor.11.25'>Eləcə də axşam yeməyindən sonra kasanı götürüb dedi: «Bu kasa Mənim qanımla bağladığım Yeni Əhddir. Bunu hər dəfə içəndə Məni xatırlamaq üçün edin».</verse>
+        <verse osisID='1Cor.11.26'>Çünki hər dəfə bu çörəyi yeyəndə və bu kasadan içəndə siz Rəbbin gəlişinədək Onun ölümünü bəyan edirsiniz. </verse>
+        <verse osisID='1Cor.11.27'>Buna görə də kim layiq olmayan tərzdə Rəbbin bu çörəyini yeyib yaxud Onun kasasından içsə, Rəbbin bədəninə və qanına qarşı təqsirkardır.</verse>
+        <verse osisID='1Cor.11.28'>Bunun əvəzinə qoy insan özünü yoxlasın və sonra bu çörəkdən yeyib bu kasadan içsin.</verse>
+        <verse osisID='1Cor.11.29'>Çünki kim Rəbbin bədənini dərk etməmiş yeyib-içsə, yeyib-içərək öz üzərinə mühakimə gətirir.</verse>
+        <verse osisID='1Cor.11.30'>Bu səbəbdən də bir çoxunuz zəif və xəstədir, bəziləri isə vəfat etmişdir.</verse>
+        <verse osisID='1Cor.11.31'>Əgər biz özümüzü düzgün dərk etsəydik, mühakiməyə düşməzdik.</verse>
+        <verse osisID='1Cor.11.32'>Rəbb bizi mühakimə edəndə dünya ilə birlikdə məhkum olunmayaq deyə bizi tərbiyə edir. </verse>
+        <verse osisID='1Cor.11.33'>Beləliklə, qardaşlarım, yeməyə toplaşanda bir-birinizi gözləyin.</verse>
+        <verse osisID='1Cor.11.34'>Ac olan varsa, qoy evində yesin ki, toplantınız mühakiməyə çevrilməsin. Qalan məsələləri isə özüm gələndə nizama salacağam.  </verse>
+      </chapter>
+      <chapter osisID='1Cor.12'>
+        <verse osisID='1Cor.12.1'>
+          Qardaşlar, indi isə ruhani ənamlara gəlincə, bixəbər olmağınızı istəmirəm.</verse>
+        <verse osisID='1Cor.12.2'>Bilirsiniz ki, siz bütpərəst olarkən necə tovlana-tovlana dilsiz-ağızsız bütlərə tərəf yönəldiniz.</verse>
+        <verse osisID='1Cor.12.3'>Buna görə sizi xəbərdar edirəm ki, Allahın Ruhu vasitəsilə danışan heç kim «İsaya lənət olsun» deməz və heç kim Müqəddəs Ruh vasitəsi olmadan «İsa Rəbdir!» deyə bilməz. </verse>
+        <verse osisID='1Cor.12.4'>Müxtəlif ənamlar var, amma Ruh eynidir.</verse>
+        <verse osisID='1Cor.12.5'>Müxtəlif növlü xidmətlər var, amma Rəbb eynidir.</verse>
+        <verse osisID='1Cor.12.6'>Müxtəlif fəaliyyətlər də var, amma hamısını hər adamda göstərən Allah eynidir.</verse>
+        <verse osisID='1Cor.12.7'>Lakin Ruh hər kəsə xeyri üçün aşkar olunur.</verse>
+        <verse osisID='1Cor.12.8'>Birinə Ruh vasitəsilə hikmət sözü, başqasına isə eyni Ruhla bilik sözü verilir.</verse>
+        <verse osisID='1Cor.12.9'>Digərinə isə eyni Ruh imanı, o birisinə həmin Ruh şəfa ənamlarını verir.</verse>
+        <verse osisID='1Cor.12.10'>Birinə möcüzə yaratmaq, başqasına peyğəmbərlik, digərinə ruhları ayırd etmək qabiliyyəti, bir başqasına müxtəlif dillərdə danışmaq, o birisinə bu dilləri izah etmək ənamı verilir.</verse>
+        <verse osisID='1Cor.12.11'>Bunların hamısı tək və eyni Ruhun fəaliyyətidir. Ruh bu ənamları hər kəsə Öz istədiyi tərzdə paylayır. </verse>
+        <verse osisID='1Cor.12.12'>Bədən birdir və üzvləri çoxdur. Bədən üzvləri çox olduğu halda bir bədən təşkil edir. Məsih də belədir;</verse>
+        <verse osisID='1Cor.12.13'>çünki istər Yəhudi, istər Yunan, istər qul yaxud azad, hamımız bir bədən olmaq üçün bir Ruhla vəftiz olunmuşuq və hamımız eyni Ruhdan içirilmişik.</verse>
+        <verse osisID='1Cor.12.14'>Bədən tək üzvdən deyil, çox üzvdən ibarətdir.</verse>
+        <verse osisID='1Cor.12.15'>Ayaq «mən əl olmadığıma görə bədənə aid deyiləm» desə, bu səbəbdən bədəndən kənar deyil.</verse>
+        <verse osisID='1Cor.12.16'>Qulaq «mən göz olmadığıma görə bədənə aid deyiləm» desə, bu səbəbdən bədəndən kənar deyil.</verse>
+        <verse osisID='1Cor.12.17'>Bütün bədən gözdən ibarət olsaydı, necə eşidərdik? Bütün bədən qulaq olsaydı, necə iy bilərdik?</verse>
+        <verse osisID='1Cor.12.18'>Amma Allah istədiyi tərzdə bədən üzvlərinin hər birini bədəndə yerləşdirdi.</verse>
+        <verse osisID='1Cor.12.19'>Əgər hamısı bir üzv olsaydı, bədən nə vəziyyətdə qalardı?</verse>
+        <verse osisID='1Cor.12.20'>Doğrudan da, üzv çox, bədən isə birdir.</verse>
+        <verse osisID='1Cor.12.21'>Göz ələ «sən mənə lazım deyilsən» və yaxud baş da ayaqlara «siz mənə lazım deyilsiniz» deyə bilməz.</verse>
+        <verse osisID='1Cor.12.22'>Əksinə, bədənin daha zəif görünən üzvləri daha çox lazımlıdır,</verse>
+        <verse osisID='1Cor.12.23'>dəyəri az saydığımız bədən üzvlərini daha çox dəyərləndiririk, görünməyən üzvlərimizə də xüsusi qayğı göstəririk.</verse>
+        <verse osisID='1Cor.12.24'>Görünən üzvlərimizin isə buna ehtiyacı yoxdur. Lakin Allah aşağı tutulan üzvü daha çox dəyərləndirərək bədəni elə düzəltdi ki,</verse>
+        <verse osisID='1Cor.12.25'>bədəndə ayrı-seçkilik olmasın, əksinə, bütün üzvlər bir-birinə eyni qayğı göstərsin.</verse>
+        <verse osisID='1Cor.12.26'>Buna görə əgər bir üzv əzab çəkirsə, başqaları da onunla birgə əzab çəkir. Üzvlərdən biri şərəfə çatırsa, başqaları da onunla birgə sevinir. </verse>
+        <verse osisID='1Cor.12.27'>Siz də Məsihin bədənisiniz, ayrı-ayrılıqda isə bu bədənin üzvlərisiniz.</verse>
+        <verse osisID='1Cor.12.28'>Allah imanlılar cəmiyyətində birinci yerdə həvarilər, ikinci yerdə peyğəmbərlər, üçüncü yerdə də müəllimlər təyin etdi. Sonra bəzilərinə möcüzə yaratmağı, habelə şəfa ənamlarını, yardımçılığı, idarəçiliyi, müxtəlif dillərdə danışmağı verdi.</verse>
+        <verse osisID='1Cor.12.29'>Hamı həvaridirmi? Hamı peyğəmbərdirmi? Hamı müəllimdirmi? Hamı möcüzə yarada bilirmi?</verse>
+        <verse osisID='1Cor.12.30'>Hamının şəfa ənamları varmı? Hamı naməlum dillərdə danışırmı? Hamı belə dilləri izah edə bilirmi?</verse>
+        <verse osisID='1Cor.12.31'>Amma daha böyük ənamları səylə istəyin. İndi isə sizə bundan da əla yol göstərəcəyəm.  </verse>
+      </chapter>
+      <chapter osisID='1Cor.13'>
+        <verse osisID='1Cor.13.1'>
+          Əgər mən insan və mələk dilləri ilə danışıramsa, lakin məhəbbətim yoxdursa, cingildəyən mis və ya danqıldayan sincəm.</verse>
+        <verse osisID='1Cor.13.2'>Əgər peyğəmbərlik ənamım varsa, bütün sirləri və hər cür biliyi dərk edirəmsə, dağları yerindən tərpədəcək dərəcədə tam imanım varsa, amma məhəbbətim yoxdursa, mən bir heçəm.</verse>
+        <verse osisID='1Cor.13.3'>Əgər bütün var-dövlətimi paylayıb yoxsulları doyduraramsa və bədənimi oda təslim edərəmsə, lakin məhəbbətim yoxdursa, bunun mənə heç bir xeyri yoxdur. </verse>
+        <verse osisID='1Cor.13.4'>Məhəbbət səbirli, xeyirxahdır. Məhəbbət paxıllıq etməz, öyünməz, lovğalanmaz,</verse>
+        <verse osisID='1Cor.13.5'>kobudluq etməz, öz xeyrini güdməz, hirslənməz, ona edilən pislikləri sayıb-hesablamaz.</verse>
+        <verse osisID='1Cor.13.6'>Məhəbbət haqsızlığa sevinməz, həqiqətə isə şadlanar.</verse>
+        <verse osisID='1Cor.13.7'>O hər şeyə qatlaşar, hər şeyə inanar, hər şeyə ümid bəsləyər, hər şeyə dözər. </verse>
+        <verse osisID='1Cor.13.8'>Məhəbbət əsla tükənməz. Amma peyğəmbərliklər sona çatacaq, dillər ənamı da qurtaracaq, bilik də aradan qalxacaq.</verse>
+        <verse osisID='1Cor.13.9'>Çünki biliyimiz məhdud, peyğəmbərliyimiz də məhduddur.</verse>
+        <verse osisID='1Cor.13.10'>Kamillik gələndə məhdud olan aradan qalxacaq.</verse>
+        <verse osisID='1Cor.13.11'>Mən körpə olanda körpə kimi danışır, körpə kimi dərk edir, körpə kimi düşünürdüm. Boya-başa çatdıqda isə körpə fikirlərimi tərk etdim.</verse>
+        <verse osisID='1Cor.13.12'>İndi biz güzgüdəki kimi tutqun görürük, o zaman isə üzbəüz görəcəyik. İndi biliyim məhduddur, o zaman isə haqqımda hər şey bilindiyi kimi mən də hər şeyi biləcəyəm.</verse>
+        <verse osisID='1Cor.13.13'>İndi isə üç şey qalır: iman, ümid, məhəbbət. Amma bunların arasında məhəbbət üstündür.  </verse>
+      </chapter>
+      <chapter osisID='1Cor.14'>
+        <verse osisID='1Cor.14.1'>
+          Məhəbbətin ardınca gedin və ruhani ənamları, xüsusilə, peyğəmbərlik ənamını səylə istəyin.</verse>
+        <verse osisID='1Cor.14.2'>Çünki naməlum dildə danışan, adamlarla yox, Allahla danışır. Onu heç kim başa düşmür. O, Ruh vasitəsilə sirlər söyləyir.</verse>
+        <verse osisID='1Cor.14.3'>Peyğəmbərlik edənsə adamlarla onları ruhən inkişaf etdirmək, həvəsləndirmək və təsəlli vermək üçün danışar.</verse>
+        <verse osisID='1Cor.14.4'>Naməlum dildə danışan özünü inkişaf etdirir, peyğəmbərlik edənsə cəmiyyəti inkişaf etdirir.</verse>
+        <verse osisID='1Cor.14.5'>İstərdim ki, hamınız dillərdə danışasınız, daha yaxşı olar ki, peyğəmbərlik edəsiniz. Çünki cəmiyyətin inkişafı üçün peyğəmbərlik edən insan dillərdə danışan və izah etməyən insandan üstündür. </verse>
+        <verse osisID='1Cor.14.6'>İndi isə, qardaşlar, yanınıza gəlib dillərdə danışsam, amma nazil olan sözü, bilik, peyğəmbərlik yaxud təlim sözünü sizə deməsəm, sizə nə xeyrim dəyər?</verse>
+        <verse osisID='1Cor.14.7'>Tütək ya da çəng kimi cansız alətlər fərqli səslər çıxarmazsa, eşidən nə çalındığını necə bilər?</verse>
+        <verse osisID='1Cor.14.8'>Əgər şeypur aydın olmayan səs çıxararsa, döyüşə kim hazırlaşar?</verse>
+        <verse osisID='1Cor.14.9'>Eyni tərzdə də əgər siz dilinizlə anlaşılan sözlər söyləməsəniz, dediyinizi necə başa düşərlər? Siz havaya danışmış olursunuz!</verse>
+        <verse osisID='1Cor.14.10'>Şübhəsiz, dünyada bir çox cürbəcür danışıqlar var və onlardan heç biri mənasız deyil.</verse>
+        <verse osisID='1Cor.14.11'>Amma söylənilən danışığın mənasını bilmirəmsə, mən danışan üçün yadelli oluram, danışan da mənə yadelli olur.</verse>
+        <verse osisID='1Cor.14.12'>Eləcə siz də ruhani ənamları səylə istədiyiniz üçün cəmiyyəti inkişaf etdirən ənamlarda üstün olmağa çalışın. </verse>
+        <verse osisID='1Cor.14.13'>Bu səbəbdən də naməlum dildə danışan öz dediklərini izah edə bilməsi üçün dua etsin.</verse>
+        <verse osisID='1Cor.14.14'>Çünki əgər mən naməlum dildə dua edirəmsə, ruhum dua edir, amma şüurum bəhrəsiz qalır.</verse>
+        <verse osisID='1Cor.14.15'>Bəs mən nə edim? Ruhən də, şüurlu surətdə də dua edəcəyəm, ruhən də, şüurlu surətdə də ilahi oxuyacağam.</verse>
+        <verse osisID='1Cor.14.16'>Təlim öyrənməmiş adamın vəziyyətini nəzərə al. Sən yalnız ruhən şükür duası edirsənsə, o sənin şükranına necə «Amin!» desin? Axı sənin nə dediyini başa düşmür.</verse>
+        <verse osisID='1Cor.14.17'>Əlbəttə, sən yaxşı şükür edirsən, amma bu adam inkişaf edə bilməz.</verse>
+        <verse osisID='1Cor.14.18'>Mən dillərdə hamınızdan çox danışdığım üçün Allaha şükür edirəm.</verse>
+        <verse osisID='1Cor.14.19'>İmanlılar cəmiyyətində isə naməlum dildə minlərlə söz deməkdənsə başqalarını öyrətmək üçün şüurlu surətdə beş kəlmə deməyi üstün tuturam. </verse>
+        <verse osisID='1Cor.14.20'>Qardaşlar, əqlən uşaq olmayın. Pisliyə münasibətdə körpə olun, amma əqlən yetkin olun.</verse>
+        <verse osisID='1Cor.14.21'>Qanunda yazılıb:  «Rəbb deyir:“Bu xalqla yadellilərin ağzı ilə,Başqalarının dilləri ilə danışacağam.Amma onlar hətta o vaxt məni eşitmək istəməyəcəklər”».</verse>
+        <verse osisID='1Cor.14.22'>Beləliklə, naməlum dillər iman edənlər üçün deyil, imansızlar üçün bir əlamətdir. Peyğəmbərlik isə iman etməyənlər üçün deyil, imanlılar üçündür.</verse>
+        <verse osisID='1Cor.14.23'>Əgər bütün cəmiyyət bir yerdə toplaşıb, hamı naməlum dillərdə danışmağa başlayarsa və təlim öyrənməmiş adamlar yaxud iman etməyənlər oraya girərlərsə, deməzlər ki, siz ağlınızı itirmisiniz?</verse>
+        <verse osisID='1Cor.14.24'>Amma hamı peyğəmbərlik edirsə və oraya iman etməyən yaxud təlim öyrənməmiş adam girirsə, o hamı tərəfindən inandırılacaq, hər sözlə özünü araşdıracaq.</verse>
+        <verse osisID='1Cor.14.25'>Ürəyindəki gizli fikirlər aşkara çıxacaq və o üzüstə yerə döşənib Allaha səcdə edəcək və «Allah, həqiqətən, aranızdadır!» deyib nida edəcək. </verse>
+        <verse osisID='1Cor.14.26'>Bəs onda nə deyək, ey qardaşlar? Toplaşanda hər birinizin bir ilahisi, bir dərsi, bir nazil olan sözü, bir naməlum dildə sözü, bir izahı var. Qoy bunlar hamısı bir-birinizin inkişafı üçün olsun.</verse>
+        <verse osisID='1Cor.14.27'>Əgər kimsə naməlum dildə danışırsa, iki yaxud ən çox üç adam növbə ilə danışsın, bir nəfər də izah etsin.</verse>
+        <verse osisID='1Cor.14.28'>Əgər izah edən yoxdursa, naməlum dildə danışan cəmiyyətdə sussun, yalnız özü ilə və Allahla danışsın.</verse>
+        <verse osisID='1Cor.14.29'>İki ya üç peyğəmbər danışsın, başqaları isə onların dediklərini ayırd etsin.</verse>
+        <verse osisID='1Cor.14.30'>Əgər oturanlardan birinə nazil olan söz gələrsə, ilk danışan sussun.</verse>
+        <verse osisID='1Cor.14.31'>Çünki hamınız bir-birinizin ardınca peyğəmbərlik edə bilərsiniz ki, hamınız təlim öyrənib ruhlanasınız.</verse>
+        <verse osisID='1Cor.14.32'>Peyğəmbərlərin ruhları da peyğəmbərlərə tabe olur.</verse>
+        <verse osisID='1Cor.14.33'>Çünki Allah qarışıqlıq deyil, sülh qaynağıdır. Müqəddəslərin bütün cəmiyyətlərində belədir. </verse>
+        <verse osisID='1Cor.14.34'>Qadınlar cəmiyyət toplantılarında sussun, çünki onlara danışmağa icazə verilmir; onlar Qanunun da buyurduğu kimi tabe olsunlar.</verse>
+        <verse osisID='1Cor.14.35'>Öyrənmək istədikləri bir şey varsa, evdə ərlərindən soruşsunlar. Çünki qadına cəmiyyətdə danışmaq ayıbdır. </verse>
+        <verse osisID='1Cor.14.36'>Məgər Allahın kəlamı siz Korinflilərdən qaynaqlandı, yoxsa yalnız sizə çatdı?</verse>
+        <verse osisID='1Cor.14.37'>Kim özünü peyğəmbər və ya ruhani hesab etsə, qoy bilsin ki, sizə yazdıqlarım Rəbbin əmridir.</verse>
+        <verse osisID='1Cor.14.38'>Kim buna əhəmiyyət verməsə, ona da əhəmiyyət verilməyəcək.</verse>
+        <verse osisID='1Cor.14.39'>Beləliklə, qardaşlarım, peyğəmbərlik etməyi səylə istəyin və naməlum dillərdə danışmağa da mane olmayın.</verse>
+        <verse osisID='1Cor.14.40'>Amma qoy hər şey ədəblə və intizamla edilsin.  </verse>
+      </chapter>
+      <chapter osisID='1Cor.15'>
+        <verse osisID='1Cor.15.1'>
+          İndi, qardaşlar, sizə bəyan etdiyim və qəbul edib əsaslandığınız Müjdəni yadınıza salmaq istəyirəm.</verse>
+        <verse osisID='1Cor.15.2'>Əgər sizə bəyan etdiyim sözə bağlanmısınızsa, o Müjdə ilə də xilas olmaqdasınız, yoxsa əbəs yerə iman etmisiniz.</verse>
+        <verse osisID='1Cor.15.3'>Özümün də qəbul etdiyim bu ən əhəmiyyətli təlimi sizə çatdırdım: Müqəddəs Yazılara uyğun olaraq, Məsih günahlarımız üçün öldü,</verse>
+        <verse osisID='1Cor.15.4'>dəfn olundu və Müqəddəs Yazılara uyğun olaraq, üçüncü gün dirildi.</verse>
+        <verse osisID='1Cor.15.5'>O əvvəl Kefaya, sonra On İki şagirdə göründü.</verse>
+        <verse osisID='1Cor.15.6'>Bundan sonra beş yüzdən çox bacı-qardaşa eyni anda göründü. Bu bacı-qardaşlardan çoxu indi də yaşayır, bəziləri isə vəfat etmişdir.</verse>
+        <verse osisID='1Cor.15.7'>Məsih daha sonra Yaquba, sonra bütün həvarilərə göründü.</verse>
+        <verse osisID='1Cor.15.8'>Hamıdan sonra isə vaxtından əvvəl doğulmuş bir uşağa bənzəyən mənə də göründü.</verse>
+        <verse osisID='1Cor.15.9'>Çünki mən həvarilərin ən kiçiyiyəm və Allahın cəmiyyətini təqib etdiyim üçün həvari adlanmağa layiq deyiləm.</verse>
+        <verse osisID='1Cor.15.10'>Amma indi hər nəyəmsə, Allahın lütfü ilə eləyəm. Onun mənə göstərdiyi lütf əbəs deyildi, çünki mən hamıdan çox zəhmət çəkdim. Əslində mən yox, Allahın mənimlə birgə fəaliyyətdə olan lütfü bu zəhməti çəkdi.</verse>
+        <verse osisID='1Cor.15.11'>Beləcə istər mən, istərsə də onlar bu cür vəz edirik; siz də belə iman etmisiniz. </verse>
+        <verse osisID='1Cor.15.12'>Əgər Məsih haqqında vəz olunursa ki, O, ölülər arasından dirildi, sizlərdən bəzisi ölülərin dirilməsinin olmadığını necə söyləyə bilər?</verse>
+        <verse osisID='1Cor.15.13'>Əgər ölülərin dirilməsi yoxdursa, Məsih də dirilməyib.</verse>
+        <verse osisID='1Cor.15.14'>Əgər Məsih dirilməyibsə, onda həm bizim vəzimiz puç, həm də sizin imanınız puçdur.</verse>
+        <verse osisID='1Cor.15.15'>Belə halda Allah barədə yalançı şahid olduğumuz da aşkara çıxacaq. Çünki biz Allah barədə şəhadət etdik ki, O, Məsihi diriltdi. Amma ölülər dirilməzsə, Allah Məsihi də diriltmədi.</verse>
+        <verse osisID='1Cor.15.16'>Çünki əgər ölülər dirilməzsə, Məsih də dirilməyib.</verse>
+        <verse osisID='1Cor.15.17'>Əgər Məsih dirilməyibsə, imanınız da əbəsdir, siz hələ günahlarınızın içindəsiniz.</verse>
+        <verse osisID='1Cor.15.18'>Onda Məsihdə vəfat edənlər əbədilik öldülər.</verse>
+        <verse osisID='1Cor.15.19'>Əgər yalnız bu həyat üçün Məsihə ümid bağlamışıqsa, biz hamıdan yazığıq. </verse>
+        <verse osisID='1Cor.15.20'>Əslində Məsih ölülər arasından, vəfat edənlərin ilki olaraq dirildi.</verse>
+        <verse osisID='1Cor.15.21'>Ölüm bir insan vasitəsilə gəldiyinə görə ölülərin dirilməsi də bir İnsan vasitəsilə gəlir.</verse>
+        <verse osisID='1Cor.15.22'>Adəmdə hamı öldüyü kimi Məsihdə də hamı həyata qovuşacaq.</verse>
+        <verse osisID='1Cor.15.23'>Hər biri öz növbəsi ilə – ilk növbədə Məsih, sonra Məsihin zühurunda Məsihə məxsus olanlar həyata qovuşar.</verse>
+        <verse osisID='1Cor.15.24'>Bundan sonra O hər başçını, hər hakimi və hər qüvvəni aradan götürüb Padşahlığı Ata Allaha təslim edəcəyi zaman hər şey tamamlanacaq.</verse>
+        <verse osisID='1Cor.15.25'>Çünki Allah Onun bütün düşmənlərini ayaqlarının altına salanadək O, padşahlıq etməlidir.</verse>
+        <verse osisID='1Cor.15.26'>Aradan götürüləcək son düşmən isə ölümdür.</verse>
+        <verse osisID='1Cor.15.27'>Çünki Allah «hər şeyi Onun ayağının altına qoydu». Amma Məsihə hər şey tabe oldu deyiləndə aydın olur ki, hər şeyi Ona tabe etdirən Allah buraya daxil deyil.</verse>
+        <verse osisID='1Cor.15.28'>Hər şey Oğula tabe olandan sonra Oğul Özü də Ona hər şeyi tabe etdirən Ataya tabe olacaq ki, Allah hər şeydə hər şey olsun. </verse>
+        <verse osisID='1Cor.15.29'>Yoxsa ölülər uğrunda vəftiz olunanlar nə edəcək? Əgər ölülər heç vaxt dirilməsə, insanlar ölülər uğrunda niyə vəftiz olunur?</verse>
+        <verse osisID='1Cor.15.30'>Biz də nə üçün hər an təhlükələrə uğrayırıq?</verse>
+        <verse osisID='1Cor.15.31'>Ey qardaşlar, Rəbbimiz Məsih İsada sizinlə etdiyim fəxrin haqqı üçün mən hər gün ölümlə qarşılaşıram.</verse>
+        <verse osisID='1Cor.15.32'>Adi insanların bəslədiyi ümidlərlə Efesdə vəhşi heyvanlarla mübarizə aparmağımın mənə xeyri nə idi? Əgər ölülər dirilməzsə, «qoy yeyib-içək, çünki sabah öləcəyik!»</verse>
+        <verse osisID='1Cor.15.33'>Aldanmayın:  «Pis adamlarla ünsiyyət yaxşı əxlaqı pozur».</verse>
+        <verse osisID='1Cor.15.34'>Ayılın, saleh olun, daha günaha batmayın. Axı bəziləriniz Allah barəsində heç nə bilmir. Utanasınız deyə bunu yazıram. </verse>
+        <verse osisID='1Cor.15.35'>Lakin bir nəfər belə deyə bilər: «Ölülər necə diriləcək? Onlar nə cür bədənlə gələcəklər?»</verse>
+        <verse osisID='1Cor.15.36'>Ey ağılsız insan! Sənin əkdiyin toxum ölməsə, həyata qovuşmaz!</verse>
+        <verse osisID='1Cor.15.37'>Əkərkən hasil olacaq bədəni deyil, yalnız toxumu – bəlkə buğdanın ya digər bitkinin toxumunu əkirsən.</verse>
+        <verse osisID='1Cor.15.38'>Amma Allah o toxuma istədiyi quruluşu verir. O hər bir bitən toxuma özünə məxsus quruluş verir.</verse>
+        <verse osisID='1Cor.15.39'>Hər canlı məxluqun əti eyni deyil. İnsan əti başqa, heyvan əti başqa, quş əti başqa, balıq əti başqadır.</verse>
+        <verse osisID='1Cor.15.40'>Səma cisimləri var, dünya cisimləri də var. Amma səmavi olanların ehtişamı başqa, dünyəvi olanların da başqadır.</verse>
+        <verse osisID='1Cor.15.41'>Günəşin ehtişamı başqa, ayın ehtişamı başqa, ulduzların ehtişamı başqadır. Ulduz da digər ulduzdan ehtişamına görə fərqlənir. </verse>
+        <verse osisID='1Cor.15.42'>Ölülərin dirilməsi də belədir. Əkilən toxum çürüyər, ondan əmələ gəlib dirilən bədən çürüməz;</verse>
+        <verse osisID='1Cor.15.43'>əkilən toxum hörmətsiz, dirilən bədən izzətlidir; əkilən toxum zəif, dirilən bədən qüvvətlidir;</verse>
+        <verse osisID='1Cor.15.44'>əkilən toxum təbii, dirilən bədən ruhanidir. Təbii bədən varsa, ruhani bədən də var.</verse>
+        <verse osisID='1Cor.15.45'>Necə ki yazılıb: ilk insan Adəm «canlı bir varlıq oldu». Sonuncu Adəm isə həyat verən ruh oldu.</verse>
+        <verse osisID='1Cor.15.46'>Amma ilkin ruhani deyil, təbii bədəndir. Ruhani isə sonra gəlir.</verse>
+        <verse osisID='1Cor.15.47'>İlk insan yerin torpağından, ikinci İnsan göydən yarandı.</verse>
+        <verse osisID='1Cor.15.48'>Torpaqdan yaranan adam necədirsə, torpaqdan yarananlar da elədir; səmavi Adam necədirsə, səmavilər də elədir.</verse>
+        <verse osisID='1Cor.15.49'>Biz torpaqdan yarananın surətini necə gəzdiririksə, səmavi Olanın surətini də elə gəzdirəcəyik. </verse>
+        <verse osisID='1Cor.15.50'>Ey qardaşlar, bunu demək istəyirəm ki, ət və qan Allahın Padşahlığını irs olaraq ala bilməz, eləcə də çürüyən bədən çürüməzliyi irs olaraq almaz.</verse>
+        <verse osisID='1Cor.15.51'>Baxın sizə bir sirr açmaq istəyirəm: hamımız vəfat etməyəcəyik,</verse>
+        <verse osisID='1Cor.15.52'>amma son şeypur çalınanda bir andaca, bir göz qırpımındaca hamımız dəyişiləcəyik. Çünki şeypur çalınacaq, ölülər çürüməzliklə diriləcək, bizsə dəyişiləcəyik.</verse>
+        <verse osisID='1Cor.15.53'>Çünki bu çürüyən bədən çürüməzliyə, bu ölümə düçar olan bədən ölməzliyə bürünməlidir.</verse>
+        <verse osisID='1Cor.15.54'>Çürüyən bədən çürüməzliyə və ölümə düçar olan bədən ölməzliyə büründükdə  «Ölüm yox edildi,Onun üzərində qələbə çalındı!»  deyə yazılmış söz yerinə yetəcək.</verse>
+        <verse osisID='1Cor.15.55'>«Ey ölüm, qələbən hanı?Ey ölüm, neştərin hanı?»</verse>
+        <verse osisID='1Cor.15.56'>Ölümün neştəri günahdır, günah isə gücünü Qanundan alır.</verse>
+        <verse osisID='1Cor.15.57'>Rəbbimiz İsa Məsih vasitəsilə bizə qələbə bəxş edən Allaha şükür olsun! </verse>
+        <verse osisID='1Cor.15.58'>Beləliklə, ey sevimli qardaşlarım, Rəbdə çəkdiyiniz zəhmətin boşa çıxmayacağını bilərək möhkəm durun, sarsılmayın, hər zaman Rəbbin işində səylə çalışın.  </verse>
+      </chapter>
+      <chapter osisID='1Cor.16'>
+        <verse osisID='1Cor.16.1'>
+           İndi isə müqəddəslər üçün ianələr yığmağa gəlincə, Qalatiya cəmiyyətlərinə necə buyurmuşamsa, siz də elə edin.</verse>
+        <verse osisID='1Cor.16.2'>Hər həftənin birinci günü hamınız qazancınıza görə müəyyən miqdarda pul ayırıb saxlayın ki, mən yanınıza gələndə ianə yığmağa ehtiyac qalmasın.</verse>
+        <verse osisID='1Cor.16.3'>Oraya çatanda ianələrinizi Yerusəlimə çatdırmaq üçün seçdiyiniz adamları məktublarla göndərəcəyəm.</verse>
+        <verse osisID='1Cor.16.4'>Əgər mənə də getmək məsləhət olsa, onlar mənimlə gedər. </verse>
+        <verse osisID='1Cor.16.5'>Mən Makedoniyadan keçəndən sonra yanınıza gələcəyəm, çünki Makedoniyadan keçmək niyyətindəyəm.</verse>
+        <verse osisID='1Cor.16.6'>Bəlkə də yanınızda bir az qalacağam, hətta qışı da keçirəcəyəm ki, siz məni gedəcəyim yerlərə yola salasınız.</verse>
+        <verse osisID='1Cor.16.7'>Çünki mən sizinlə ötəri görüşmək istəmirəm. Rəbbin izni ilə yanınızda bir müddət qalmağa ümid edirəm.</verse>
+        <verse osisID='1Cor.16.8'>Efesdə isə Əllinci Gün bayramınadək qalacağam.</verse>
+        <verse osisID='1Cor.16.9'>Çünki mənə fəal iş üçün geniş qapı açılıb. Mənə qarşı çıxanlar da çoxdur. </verse>
+        <verse osisID='1Cor.16.10'>Timotey nə vaxt yanınıza gəlsə, aranızda olanda onun heç bir şeydən qorxmamasına diqqət yetirin, çünki o da mənim kimi Rəbbin işini görür.</verse>
+        <verse osisID='1Cor.16.11'>Bu səbəbə görə də qoy heç kim ona xor baxmasın. Fəqət onu əmin-arxayın yola salın ki, o yanıma gələ bilsin. Çünki mən qardaşlarla birgə onu gözləyirəm. </verse>
+        <verse osisID='1Cor.16.12'>Apollo qardaşa gəlincə, mən ondan çox xahiş etdim ki, qardaşlarla birgə yanınıza getsin, amma o indi heç bir vasitə ilə getmək istəmir. Ona münasib olan vaxt gedəcək. </verse>
+        <verse osisID='1Cor.16.13'>Ayıq olun, imanda sabit durun, mərd və möhkəm olun.</verse>
+        <verse osisID='1Cor.16.14'>Qoy etdiyiniz hər bir əməl məhəbbətlə olsun. </verse>
+        <verse osisID='1Cor.16.15'>Qardaşlar, sizdən bir xahişim var. Siz Stefananın ailəsini tanıyırsınız və bilirsiniz ki, onlar Axayyanın ilk imanlılarıdır. Onlar özlərini müqəddəslərin xidmətinə həsr etmişlər.</verse>
+        <verse osisID='1Cor.16.16'>Siz də belə adamlara və onlarla birlikdə çalışan və zəhmət çəkən hər kəsə tabe olun.</verse>
+        <verse osisID='1Cor.16.17'>Stefana, Fortunat və Axaikin gəlməsinə sevinirəm, çünki onlar gələndə sizin üçün darıxmağımı unutdum.</verse>
+        <verse osisID='1Cor.16.18'>Onlar sizin kimi mənim də ruhumu təzələdilər. Belələrinin qədrini bilin. </verse>
+        <verse osisID='1Cor.16.19'>Sizi Asiya vilayətinin cəmiyyətləri salamlayır. </verse>
+        <verse osisID='1Cor.16.20'>Bütün bacı-qardaşlar sizə salam göndərir. Bir-birinizi müqəddəs öpüşlə salamlayın. </verse>
+        <verse osisID='1Cor.16.21'>Mən Paul bu salamı öz əlimlə yazıram.</verse>
+        <verse osisID='1Cor.16.22'>Rəbbi sevməyənə lənət olsun. Marana ta!</verse>
+        <verse osisID='1Cor.16.23'>Rəbbimiz İsanın lütfü sizə yar olsun!</verse>
+        <verse osisID='1Cor.16.24'>Mənim məhəbbətim Məsih İsada olan hamınızla olsun!  </verse>
+      </chapter>
+    </div></osisText>
+</osis>

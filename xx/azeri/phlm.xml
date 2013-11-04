@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace'>
+  <osisText osisRefWork='Bible' osisIDWork='Azeri' xml:lang='XX'>
+    <header>
+      <revisionDesc>
+        <date>2012-01-07</date>
+        <p>initial OSIS 2.1.1 version</p>
+      </revisionDesc>
+      <work osisWork='Azeri'>
+        <title>Description_en=Southern Azeri Translation</title>
+        <contributor/>
+        <creator>Mod2Zef (6)</creator>
+        <creator role='encoder'>ZefToOsis 1.0.0</creator>
+        <subject/>
+        <date>2012-01-07</date>
+        <description>About_en=Southern Azeri Translation</description>
+        <publisher/>
+        <type type='OSIS'>Bible</type>
+        <identifier type='OSIS'>Azeri</identifier>
+        <source>no entry TextSource in sword.conf found</source>
+        <language type='IETF'>XX</language>
+        <relation/>
+        <coverage>provide the bible to the nations of the world</coverage>
+        <rights>Copyrighted; Permission to distribute granted to CrossWire</rights>
+        <scope/>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <div type='book' osisID='Phlm'>
+      <chapter osisID='Phlm.1'>
+        <verse osisID='Phlm.1.1'>مسئح عئسانين بئر زئندانئسي پولوس و قارداش تئموتاعوسدان، سوگئلي و همکاريميز فئلئمونا.</verse>
+        <verse osisID='Phlm.1.2'>آپفئيا باجييا و بئزئم کئمي عسگر اولان آرخئپوسا و سنئن اوئنده اولان کئلئسايا:</verse>
+        <verse osisID='Phlm.1.3'>آتاميز تاريدان و رب عئسا مسئحدن سئزه فيض و باريش اولسون.</verse>
+        <verse osisID='Phlm.1.4'>
+          تاريما همئشه شوکور ادئب دوعالاريمدا سني ذئکر ادئرم،</verse>
+        <verse osisID='Phlm.1.5'>چونکي سنئن رب عئسايا و بوتون موقدّسلره اولان محبّت و ائمانيني اِشئدئرم.</verse>
+        <verse osisID='Phlm.1.6'>مسئحئن خاطئرئنه سنده اولان هر ياخشي شيئن معرئفتي ائمانينين رفاقتئنده ثمره​لي اولسون.</verse>
+        <verse osisID='Phlm.1.7'>چونکي گلمئشم کي، سنئن محبّتئنده چوخ شادليق و تسلّي آليم. اونا گؤره کي، قارداش، سنئن ساينده بوتون موقدّسلرئن اوره‌يي تزه​لنئب.</verse>
+        <verse osisID='Phlm.1.8'>بونا گؤره، گرچي مسئحده کئفايتجه جسارتئم وار کي، سنه صحئح اولاني اتمه‌يئنه امر ادئم،</verse>
+        <verse osisID='Phlm.1.9'>لاکئن بونو ترجئح ورئرم کي، محبّتئن خاطئرئنه، من پولوس کئمي بئر آدام، ياشلي و ائندي ده مسئح عئسانين بئر زئندانئسي، سندن خاهئش ادئم.  </verse>
+        <verse osisID='Phlm.1.10'>
+          اؤولاديم اونسئموس اوچون سندن خاهئش ادئرم کي، اونا زنجئرئمده آتا اولدوم.</verse>
+        <verse osisID='Phlm.1.11'>او، بئر زامان سنه فايداسيز ائدي، آمّا ائندي هم سنه، هم ده منه فايدالي‌دير.</verse>
+        <verse osisID='Phlm.1.12'>من اونون اؤزونو سنئن يانينا گؤنده‌رمئشم کي، منئم اوره‌يئمدئر.</verse>
+        <verse osisID='Phlm.1.13'>اونو يانيمدا ساخلاماغي ائسته‌ردئم کي، ائنجئله گؤره زنجئرلره دوشدويوم حالدا سنئن عوضئنه او منه خئدمت اتسئن.</verse>
+        <verse osisID='Phlm.1.14'>آمّا سنئن راضيليغين اولمادان ائسته‌مه‌دئم هچ بئر ائش گؤروم کي، سنئن ياخشيليغين مجبوري يوخ، اؤز ائسته‌يئندن اولسون.</verse>
+        <verse osisID='Phlm.1.15'>بلکه ده بئر مودّت سندن آيريلماسي بونون اوچون اولدو کي، اونو همئشه​لئک گري آلاسان،</verse>
+        <verse osisID='Phlm.1.16'>بئر قول کئمي يوخ، بئر قولدان داها دا آرتيق، بئر عزئز قارداش کئمي، خوصوصن منه، لاکئن نه‌قدر چوخ سنه، هم جئسمده هم ده ربده.</verse>
+        <verse osisID='Phlm.1.17'>ائندي اگر مني اؤزونه بئر شرئک ساييرسان، اونو منئم کئمي قبول ات.</verse>
+        <verse osisID='Phlm.1.18'>آمّا اگر سنه بئر نحوله يامانليق اتمئش اولسا، يا دا سنه بورجلو اولسا، اونو منئم حسابيما قوي.</verse>
+        <verse osisID='Phlm.1.19'>من پولوس، اؤز اَلئمله يازيرام کي، بو بورجو سنه وره​رم. (بونو دمک ده ائسته‌مئرم کي، اؤز جانيني بله منه بورجلوسان).</verse>
+        <verse osisID='Phlm.1.20'>بلي، قارداش، قوي ربده سندن بئر فايدا گؤروم، اوره‌يئمي مسئحده تزه‌له.</verse>
+        <verse osisID='Phlm.1.21'>سنئن ائطاعتئندن يقئنئم اولان حالدا بونلاري سنه يازيرام و بئلئرم کي، حتّا ددئيئمدن آرتيغيني دا اِده​جکسن.  </verse>
+        <verse osisID='Phlm.1.22'/>
+        <verse osisID='Phlm.1.23'>
+          منئمله برابر مسئح عئسادا زئنداني اولان اِپافراس،</verse>
+        <verse osisID='Phlm.1.24'>همکارلاريم مرقوس، اَرئسترخوس، دئماس و لوقا دا سنه سالام گؤنده‌رئرلر.  </verse>
+        <verse osisID='Phlm.1.25'/>
+      </chapter>
+    </div></osisText>
+</osis>
